@@ -20,8 +20,8 @@ Ilardi points earliest-reference discussion to Rosen.
 
 - Quotation (via Pandolfini / Laurentian MS Ashburnham): *“It is not yet twenty years since there was found the art of making eyeglasses…”*
 - Continuations: new art never existed; *lettore* claimed to have seen and talked to the inventor.
-- Delivery: Santa Maria Novella, Florence, Wednesday morning **29 Feb 1305** Florentine style = **23 Feb 1306** common style.
-- Rosen’s inference: invention **shortly after 1286**.
+- Delivery: Santa Maria Novella, Florence, Wednesday morning **23 Feb 1305** Florentine style (Annunciation New Year) = **23 Feb 1306** modern reckoning (Julian era; **not** Gregorian “公历”).
+- Rosen’s inference: invention **shortly after 1286** (traditional terminus ~1285–1286).
 
 Spina / Redi–Dati historiography is background only (not needed for A/B/C).
 

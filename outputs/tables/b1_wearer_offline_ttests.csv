@@ -1,0 +1,3 @@
+test,metric,value,p_value,n_persons,n_works_before,n_works_after,note
+b1_offline_share_notable_works_after_evidence,mean_share_after,0.0,,2,2,0,Offline expand from P800 cache; still curated notables not complete works. Direction only; B1 career-years still need wear×span panel.; status=insufficient_hunt_more_names_or_sparql
+b1_offline_mean_work_age_minus_evidence_age,mean_age_delta,-34.0,,2,2,0,Offline expand from P800 cache; still curated notables not complete works. Direction only; B1 career-years still need wear×span panel.

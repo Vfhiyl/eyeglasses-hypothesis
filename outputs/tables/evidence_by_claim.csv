@@ -1,6 +1,8 @@
-claim,n_tests,n_consistent,n_inconsistent,n_null,share_insufficient_data,max_identification,judgment
-career_extension_45plus,19,0,6,13,0.368,associational,rejected_experience_premium_unlock
-glass_center_advantage,7,0,2,5,0.0,associational,rejected_glass_center_knowledge_advantage
-mechanism_near_work_cost,3,3,0,0,0.0,experimental,accepted_near_work_continuation
-spectacle_adoption_evidence,2,2,0,0,0.0,descriptive,accepted_mass_near_work_tool_scale
-timing_1300,46,11,14,21,0.152,associational,timing_compatible_rejects_glasses_over_print
+claim,evidence_family,n_tests,n_consistent,n_inconsistent,n_null,share_insufficient_data,max_identification,judgment
+career_extension_45plus,F3_studium_age_structure_b2,11,0,2,9,0.364,associational,B2_macro_share45_unsupported_on_available_panels
+exploratory_wikidata_notable_age,F4_wikidata_p800_exploratory_b3,6,0,4,2,0.167,associational,B3_exploratory_only_not_primary_reject
+glass_center_advantage,F5_city_geography_b4,7,0,2,5,0.0,associational,B4_manufacturing_center_advantage_unsupported
+mechanism_near_work_cost,F1_modern_vision_mechanism,3,3,0,0,0.0,experimental,A1_supported_report_outcomes_separately
+spectacle_adoption_evidence,F7_trade_adoption_history,2,2,0,0,0.0,descriptive,A2_historical_adoption_supported_effect_years_unestimated
+timing_1300,F6_macro_timeseries,46,11,14,21,0.152,associational,timing_compatible_glasses_not_shown_stronger_than_print
+wearer_micro_b1,F2_named_wearer_micro,4,0,0,4,1.0,descriptive,B1_unidentified_hunt_named_wearer_panel

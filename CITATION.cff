@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "Eyeglasses Hypothesis Reproducible Audit"
+message: "If you use this repository, please cite it as below."
+type: software
+authors:
+  - family-names: admin
+    email: admin@gmail.com
+repository-code: "https://github.com/Vfhiyl/eyeglasses-hypothesis"
+url: "https://github.com/Vfhiyl/eyeglasses-hypothesis"
+abstract: >
+  Reproducible audit of claims linking late-medieval convex spectacles
+  to scholar career extension and knowledge growth. Four-layer verdict
+  (v4): modern mechanism supported; medieval near-work use credible;
+  macro unlock unsupported; wearer-year effect unidentified (hunt panel).
+keywords:
+  - history of spectacles
+  - presbyopia
+  - reproducible research
+  - medieval intellectual history
+license: MIT
+version: "4.0.0"
+date-released: "2026-07-23"

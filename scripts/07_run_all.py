@@ -58,6 +58,9 @@ SCRIPTS = [
     "10_studium_sample_audit.py",
     "11_city_leaveoneout_permute.py",
     "12_data_provenance.py",
+    "13_wikidata_p800_audit.py",
+    "14_equivalence_ci.py",
+    "15_b1_wearer_offline_expand.py",
     "07_synthesis.py",
 ]
 

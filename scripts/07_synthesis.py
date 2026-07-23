@@ -19,7 +19,7 @@ OUT_BACKGROUND = OUTPUT_TABLES / "evidence_background.csv"
 OUT_CLAIMS = OUTPUT_TABLES / "evidence_by_claim.csv"
 MIN_N_PRE = 30
 
-# Core descriptive / associational tests for the narrow claim
+# Core tests for B2/B4/timing — Wikidata P800 ages are exploratory (not core reject)
 CORE_TESTS = {
     "active_share_45plus_ttest",
     "wiag_bishop_share45_pre_vs_post_1300",
@@ -27,17 +27,22 @@ CORE_TESTS = {
     "rag_share45_pre_vs_post_1300",
     "studium_share45_pre_vs_post_1300",
     "studium_paris_career_span_pre_vs_post_1300",
-    "age_at_first_notable_work_birth_pre_vs_post_1280",
-    "age_at_last_notable_work_birth_pre_vs_post_1280",
-    "age_at_first_notable_work_local_window_1200_1360",
-    "age_at_first_work_glass_vs_control_birth_ge1280",
-    "age_at_first_work_glass_birth_pre_vs_post_1280",
-    "age_at_first_work_birth_1150_1550_split_1280",
     "glass_center_effect",
     "glass_center_on_hc",
     "bp1290_vs_bp1450",
     "robust_within_italy_coefs",
     "istc_glass_vs_control",
+}
+
+# Evidence families (weight ≠ n_tests)
+EVIDENCE_FAMILIES = {
+    "mechanism_near_work_cost": "F1_modern_vision_mechanism",
+    "wearer_micro_b1": "F2_named_wearer_micro",
+    "career_extension_45plus": "F3_studium_age_structure_b2",
+    "exploratory_wikidata_notable_age": "F4_wikidata_p800_exploratory_b3",
+    "glass_center_advantage": "F5_city_geography_b4",
+    "timing_1300": "F6_macro_timeseries",
+    "spectacle_adoption_evidence": "F7_trade_adoption_history",
 }
 
 
@@ -119,7 +124,7 @@ def classify_evidence(row: dict) -> dict:
         data_adequacy = "na"
         row["claim"] = "sensitivity_only"
     elif "share45" in test or test == "active_share_45plus_ttest":
-        row["claim"] = "career_extension_45plus"
+        row["claim"] = "career_extension_45plus"  # B2
         data_adequacy = "adequate" if (n_pre is not None and n_pre >= MIN_N_PRE) else "insufficient"
         identification = "associational"
         if data_adequacy == "adequate" and _significant(p_value) and pd.notna(value):
@@ -132,10 +137,13 @@ def classify_evidence(row: dict) -> dict:
         elif data_adequacy == "insufficient":
             direction = "null"
     elif test.startswith("age_at_first_") or test.startswith("age_at_last_"):
-        # Experience-premium unlock predicts age-at-major-work rises after spectacles.
-        row["claim"] = "career_extension_45plus"
+        # B3 exploratory: curated P800 + P577 — NOT primary reject for B1
+        row["claim"] = "exploratory_wikidata_notable_age"
+        row["tier"] = "background"
         data_adequacy = "adequate" if (n_pre is not None and n_pre >= MIN_N_PRE) else "insufficient"
         identification = "associational"
+        note = note + "; exploratory_P800_P577_not_complete_works"
+        row["note"] = note
         if data_adequacy == "insufficient":
             direction = "null"
         elif _significant(p_value) and pd.notna(value):
@@ -146,16 +154,16 @@ def classify_evidence(row: dict) -> dict:
                 inconsistent_with_prediction = True
         else:
             direction = "null"
-    elif test.startswith("ilardi_wearer_"):
-        # Named wearers × P800: B predicts works after wear onset; A predicts mostly before.
-        row["claim"] = "career_extension_45plus"
+    elif test.startswith("ilardi_wearer_") or test.startswith("b1_offline_"):
+        # B1 micro hunt — direction informative but n small → hunt more names
+        row["claim"] = "wearer_micro_b1"
         identification = "descriptive"
-        # n_pre here = n_persons with dated works (micro); need ≥5 for adequate
         data_adequacy = "adequate" if (n_pre is not None and n_pre >= 5) else "insufficient"
         if data_adequacy == "insufficient":
             direction = "null"
+            note = note + "; B1_hunt_expand_named_wearers"
+            row["note"] = note
         elif "share" in test and pd.notna(value):
-            # high share after = consistent with B; low = inconsistent
             if float(value) >= 0.5:
                 direction = "consistent"
             elif float(value) <= 0.35:
@@ -163,12 +171,15 @@ def classify_evidence(row: dict) -> dict:
                 inconsistent_with_prediction = True
             else:
                 direction = "null"
-        elif "mean_age_delta" in str(row.get("metric") or "") and pd.notna(value):
-            if float(value) > 2:
-                direction = "consistent"
-            elif float(value) < -2:
-                direction = "inconsistent"
-                inconsistent_with_prediction = True
+        elif "mean_age_delta" in str(row.get("metric") or "") or "mean_work_age_minus" in test:
+            if pd.notna(value):
+                if float(value) > 2:
+                    direction = "consistent"
+                elif float(value) < -2:
+                    direction = "inconsistent"
+                    inconsistent_with_prediction = True
+                else:
+                    direction = "null"
             else:
                 direction = "null"
         else:
@@ -599,10 +610,10 @@ def main() -> None:
                     "mean_age_diff_post_minus_pre",
                     d.get("mean_diff_post_minus_pre"),
                     d.get("p_value"),
-                    str(d.get("note", "")),
-                    tier="core",
+                    str(d.get("note", "")) + "; exploratory_P800_P577",
+                    tier="background",
                     n_pre=int(d["n_pre"]) if "n_pre" in d and pd.notna(d["n_pre"]) else None,
-                    claim="career_extension_45plus",
+                    claim="exploratory_wikidata_notable_age",
                 )
             )
 
@@ -619,10 +630,29 @@ def main() -> None:
                     (
                         f"n_persons={d.get('n_persons')}; works before/after="
                         f"{d.get('n_works_before')}/{d.get('n_works_after')}; {d.get('note', '')}"
+                        "; B1_hunt"
                     ),
                     tier="background",
                     n_pre=int(d["n_persons"]) if pd.notna(d.get("n_persons")) else None,
-                    claim="career_extension_45plus",
+                    claim="wearer_micro_b1",
+                )
+            )
+
+    # Offline B1 expand (more names from local P800 cache)
+    b1_off = OUTPUT_TABLES / "b1_wearer_offline_ttests.csv"
+    if b1_off.exists():
+        for _, d in pd.read_csv(b1_off).iterrows():
+            rows.append(
+                _base_row(
+                    2,
+                    str(d["test"]),
+                    str(d.get("metric", "value")),
+                    d.get("value"),
+                    d.get("p_value"),
+                    str(d.get("note", "")),
+                    tier="background",
+                    n_pre=int(d["n_persons"]) if pd.notna(d.get("n_persons")) else None,
+                    claim="wearer_micro_b1",
                 )
             )
 
@@ -819,123 +849,149 @@ def main() -> None:
     core.to_csv(OUT_CORE, index=False)
     background.to_csv(OUT_BACKGROUND, index=False)
 
-    # Claim-level rollup (no 0/N headline)
+    # Claim-level rollup — judgments by claim_map; NOT majority vote of n_tests
     claim_rows = []
     for claim, g in summary.groupby("claim"):
         if claim in ("", "background", "sensitivity_only"):
             continue
         dirs = g["direction"].value_counts().to_dict()
-        ids = g["identification_strength"].value_counts().to_dict()
         inadequ = (g["data_adequacy"] == "insufficient").mean() if len(g) else 0
+        family = EVIDENCE_FAMILIES.get(claim, "other")
+        if claim == "mechanism_near_work_cost":
+            judgment = "A1_supported_report_outcomes_separately"
+        elif claim == "spectacle_adoption_evidence":
+            judgment = "A2_historical_adoption_supported_effect_years_unestimated"
+        elif claim == "wearer_micro_b1":
+            judgment = "B1_unidentified_hunt_named_wearer_panel"
+        elif claim == "exploratory_wikidata_notable_age":
+            judgment = "B3_exploratory_only_not_primary_reject"
+        elif claim == "career_extension_45plus":
+            # B2: adequate panels with no rise / opposite → unsupported, not fuzzy
+            if inadequ >= 0.5:
+                judgment = "B2_hunt_better_age_panels"
+            elif dirs.get("consistent", 0) > dirs.get("inconsistent", 0):
+                judgment = "B2_macro_share45_supported"
+            elif dirs.get("inconsistent", 0) > 0 or dirs.get("null", 0) > 0:
+                judgment = "B2_macro_share45_unsupported_on_available_panels"
+            else:
+                judgment = "B2_hunt_better_age_panels"
+        elif claim == "glass_center_advantage":
+            judgment = "B4_manufacturing_center_advantage_unsupported"
+        elif claim == "timing_1300":
+            judgment = "timing_compatible_glasses_not_shown_stronger_than_print"
+        else:
+            judgment = "see_family_notes"
         claim_rows.append(
             {
                 "claim": claim,
+                "evidence_family": family,
                 "n_tests": len(g),
                 "n_consistent": int((g["direction"] == "consistent").sum()),
                 "n_inconsistent": int((g["direction"] == "inconsistent").sum()),
                 "n_null": int((g["direction"] == "null").sum()),
                 "share_insufficient_data": round(float(inadequ), 3),
-                "max_identification": max(g["identification_strength"], key=lambda x: ["descriptive", "associational", "quasi_experimental", "experimental", "sensitivity"].index(x) if x in ["descriptive", "associational", "quasi_experimental", "experimental", "sensitivity"] else 0),
-                "judgment": (
-                    "accepted_near_work_continuation"
-                    if claim == "mechanism_near_work_cost"
-                    else "accepted_mass_near_work_tool_scale"
-                    if claim == "spectacle_adoption_evidence"
-                    else "timing_compatible_rejects_glasses_over_print"
-                    if claim == "timing_1300"
-                    and dirs.get("inconsistent", 0) > 0
-                    else "timing_compatible_not_causal_support"
-                    if claim == "timing_1300" and dirs.get("consistent", 0) > 0
-                    else (
-                        "hunt_data_required_before_verdict"
-                        if inadequ >= 0.5
-                        else "rejected_experience_premium_unlock"
-                        if dirs.get("inconsistent", 0) > dirs.get("consistent", 0)
-                        else "accepted_experience_premium_unlock"
-                        if dirs.get("consistent", 0) > dirs.get("inconsistent", 0)
-                        else "null_on_adequate_panels_continue_hunt"
-                    )
-                    if claim == "career_extension_45plus"
-                    else "rejected_glass_center_knowledge_advantage"
-                    if claim == "glass_center_advantage"
-                    else "rejected_no_decisive_support"
+                "max_identification": max(
+                    g["identification_strength"],
+                    key=lambda x: [
+                        "descriptive",
+                        "associational",
+                        "quasi_experimental",
+                        "experimental",
+                        "sensitivity",
+                    ].index(x)
+                    if x
+                    in [
+                        "descriptive",
+                        "associational",
+                        "quasi_experimental",
+                        "experimental",
+                        "sensitivity",
+                    ]
+                    else 0,
                 ),
+                "judgment": judgment,
             }
         )
     claims = pd.DataFrame(claim_rows)
     claims.to_csv(OUT_CLAIMS, index=False)
 
+    # Family-level summary (one row per family; weight ≠ n_tests)
+    fam_path = OUTPUT_TABLES / "evidence_by_family.csv"
+    if len(claims):
+        fam = (
+            claims.groupby("evidence_family", as_index=False)
+            .agg(
+                n_claims=("claim", "count"),
+                n_tests_sum=("n_tests", "sum"),
+                judgments=("judgment", lambda s: "; ".join(sorted(set(s)))),
+            )
+        )
+        fam.to_csv(fam_path, index=False)
+
     n_mech = int(summary[summary["test"].str.startswith("RCT_")]["supports_mechanism"].sum())
     n_inconsist = int(summary["inconsistent_with_prediction"].sum())
 
+    # Slope delta note if present
+    delta_note = ""
+    delta_path = OUTPUT_TABLES / "breakpoint_slope_delta_1290_1450.csv"
+    if delta_path.exists():
+        dd = pd.read_csv(delta_path)
+        if len(dd):
+            r0 = dd.iloc[0]
+            delta_note = (
+                f"Δslope(1450-1290) {r0.get('series')}: "
+                f"{r0.get('delta_b_minus_a')} CI[{r0.get('delta_ci95_lo')},{r0.get('delta_ci95_hi')}] "
+                f"→ {r0.get('judgment')}\n"
+            )
+
     verdict = OUTPUT_TABLES / "verdict.txt"
     with open(verdict, "w", encoding="utf-8") as f:
-        f.write("EYEGLASSES HYPOTHESIS — EVIDENCE SUMMARY (v3.5 tiered verdict)\n")
+        f.write("EYEGLASSES HYPOTHESIS — EVIDENCE SUMMARY (v4.0 four-layer)\n")
         f.write("=" * 60 + "\n\n")
-        f.write("CORE COLLISION (user-facing):\n")
-        f.write("  Experience-premium unlock: older scholars peak with experience; presbyopia blocked\n")
-        f.write("    that window; spectacles unlocked late-career revolutionary output.\n")
-        f.write("  Near-work continuation: real achievements come young; glasses only add near-work\n")
-        f.write("    hours after cognitive peak — ordinary tool, not late-career revolution.\n")
-        f.write("  VERDICT TILT: near-work continuation (A) over experience-premium unlock (B).\n\n")
-        f.write("SCOPE: narrow claim (presbyopia spectacles → scholar careers → glass-center advantage).\n")
-        f.write("NOT tested: full Macfarlane/Martin Glass book (vessels, telescopes, later science).\n\n")
-        f.write("THREE-TIER VERDICT (reader-facing; see docs/VERDICT_zh.md):\n")
-        f.write("  [A] NEAR-WORK CONTINUATION — ACCEPT: lowers near-work marginal cost; RCT 3/3 +\n")
-        f.write("      invention history + p.190 + mass cheap trade (haberdashery-scale imports) +\n")
-        f.write("      age-graded court orders (1466) + Florence occhialai density (Appendix I).\n")
-        f.write("  [B] EXPERIENCE-PREMIUM UNLOCK — REJECT on adequate panels after data hunt:\n")
-        f.write("      Studium/alt share45 + Wikidata P800 age-at-notable-work (n_pre≥100).\n")
-        f.write("      Age-at-first/last notable work falls ~6–8y after ~1280 (opposite of B);\n")
-        f.write("      trimmed 1150–1550 still ~−4.7y; glass-center vs control null (no late premium).\n")
-        f.write("      Rule: insufficient → find data; adequate+wrong/null → reject. No fuzzy halt.\n")
-        f.write(f"      {n_inconsist} rows inconsistent with experience-premium predictions where testable.\n")
-        f.write("  [C] VIRAL / SECOND-HAND CLAIMS — DEBUNK: 'civilization started with spectacles',\n")
-        f.write("      '+15 years intellectual life' — no verbatim +15y in book body; Miller review.\n\n")
-        f.write("A true + B false + C false is coherent: more near-work hours for aging readers does\n")
-        f.write("not imply late-career experience premia were systematically unlocked.\n\n")
+        f.write("ANTI-FUZZY: insufficient data → HUNT DATA. Do not end at neither-confirm-nor-deny.\n")
+        f.write("Fix for 'verdict > evidence' is MORE EVIDENCE, not mushy language.\n\n")
+        f.write("FOUR-LAYER VERDICT (see docs/CLAIM_MAP.md, docs/VERDICT_zh.md):\n")
+        f.write("  [A1] MODERN MECHANISM — SUPPORTED: PROSPER tea productivity ~+21.7%;\n")
+        f.write("       PROSPER II garment productivity ~+5.7% (CI 1–10%); THRIVE = income,\n")
+        f.write("       NOT productivity — report separately (never merge 6–33%).\n")
+        f.write("  [A2] MEDIEVAL NEAR-WORK USE — HISTORICALLY CREDIBLE; years gained UNKNOWN.\n")
+        f.write("       Invention ~1285–86 terminus; trade/prices = mass near-work tool.\n")
+        f.write("  [B]  MACRO STRONG VERSION — UNSUPPORTED on B2/B4 proxies; ≠ reject B1.\n")
+        f.write("       B1 (wearers work more years): UNIDENTIFIED → priority hunt\n")
+        f.write("       (expand named wearers; EMLO; inventories×output). Micro n=3 so far.\n")
+        f.write("       B3 Wikidata P800/P577: EXPLORATORY ONLY — not primary reject.\n")
+        f.write("  [C]  CIVILIZATION-ORIGIN SLOGANS — DEBUNK. '+15 years' attribution:\n")
+        f.write("       PENDING multi-edition page check (NOT 'Miller only').\n\n")
+        f.write("HARD CONCLUSIONS STILL AVAILABLE:\n")
+        f.write("  - A1 yes; A2 direction yes; B2/B4 macro unlock unsupported; C origin debunk.\n")
+        f.write("  - B1 not rejected and not permanently unknowable — hunt panel.\n\n")
+        f.write(delta_note)
         f.write(
-            "OPEN BUT NON-BLOCKING GAPS: larger named-wearer×output sample (micro n=3 so far); "
-            "EMLO; optional SDBM bulk dump.\n\n"
+            "SDBM: recorded manuscript-related events (not raw output); multi-city pattern "
+            "not glass-center-specific.\n\n"
         )
-        f.write(
-            "SDBM MULTI-CITY (timing_1300): Venice Place/Provenance local post/pre≈2.7/3.2 "
-            "(consistent) but Bologna Place≈3.1 also rises; Paris/Oxford fall — "
-            "not glass-center-specific; peaks still 1450.\n\n"
-        )
-        f.write(
-            "ILARDI NAMED-WEARER MICRO: Petrarch/Filelfo/Lotto (high/medium + P800 dates) — "
-            "~19% of notable works at/after wear evidence (81% before); mean work age "
-            "~12y earlier than evidence age. Direction favors A over B; n=3 insufficient "
-            "for standalone reject.\n\n"
-        )
-        f.write(f"Modern RCT mechanism rows: {n_mech}/3 (experimental; task mismatch to medieval scholarship).\n\n")
-        f.write("CLAIM ROLLUP (see evidence_by_claim.csv):\n")
+        f.write(f"Modern RCT mechanism rows: {n_mech}/3 (outcomes not pooled).\n\n")
+        f.write("EVIDENCE BY FAMILY (weight ≠ n_tests; see evidence_by_family.csv):\n")
+        if fam_path.exists():
+            f.write(pd.read_csv(fam_path).to_string(index=False))
+        f.write("\n\nCLAIM ROLLUP:\n")
         if len(claims):
             f.write(claims.to_string(index=False))
         f.write("\n\nHEADLINE:\n")
         f.write(
-            "[A ACCEPT] Spectacles as ordinary near-work continuation tool (vision cost ↓).\n"
-            "[B REJECT] Experience-premium unlock rejected: age-at-notable-work falls post-1280;\n"
-            "           45+ share panels do not rise with diffusion.\n"
-            "[C DEBUNK] Civilization-origin and '+15 years' claims are exaggerated; see CLAIM_GENEALOGY.md.\n\n"
+            "[A1 SUPPORT] Near-work productivity gains in modern RCTs (split endpoints).\n"
+            "[A2 CREDIBLE] Medieval spectacles as near-work tool; effect-years unestimated.\n"
+            "[B MACRO UNSUPPORTED] B2/B4 fail strong unlock; B1 HUNT; B3 exploratory.\n"
+            "[C PARTIAL] Debunk civilization-origin; +15y pending book-page verification.\n\n"
         )
-        f.write("PRIMARY: evidence_by_claim.csv + evidence_core.csv\n")
-        f.write("METHOD NOTES: trend Chow (±80y); Model1 omits post_1300×C(century);\n")
-        f.write("ISTC cross-section is not DiD; Studium uses observed_activity_span + local windows.\n\n")
-        f.write("PREPRINT APPENDIX (also docs/):\n")
-        f.write("- CLAIM_GENEALOGY.md / claim_genealogy_checklist.csv\n")
-        f.write("- LITERATURE_AND_DAG.md (Ilardi + causal chain gaps)\n")
-        f.write("- power_mde_summary.csv, sensitivity_age_thresholds.csv\n")
-        f.write("- studium_sample_audit.csv (n=300) + studium_audit_summary.csv\n")
-        f.write("- robust_leave_one_out_glass.csv, robust_glass_permutation.csv\n")
-        f.write("- data_provenance.csv (SHA-256)\n\n")
+        f.write("PRIMARY: evidence_by_family.csv + evidence_by_claim.csv + evidence_core.csv\n")
+        f.write("HUNT LIST: named-wearer×output (B1); Macfarlane +15 pages; EMLO.\n\n")
         f.write("CORE TESTS:\n")
         f.write(core.to_string(index=False))
         f.write("\n\nALL TESTS:\n")
         f.write(summary.to_string(index=False))
 
-    log(f"Evidence v3: claims={len(claims)}, inconsist={n_inconsist} -> {verdict}", OUTPUT_LOGS / "analysis.log")
+    log(f"Evidence v4: claims={len(claims)}, inconsist={n_inconsist} -> {verdict}", OUTPUT_LOGS / "analysis.log")
 
 
 if __name__ == "__main__":

@@ -1,44 +1,53 @@
-# Modern RCT effect sizes for presbyopia correction -> productivity/income
-# Used for counterfactual simulation (external validity caveat applies)
+# Prefer env vars or config/rete_api.local.yaml for live sessions.
+# Modern RCT effect sizes — OUTCOMES ARE NOT COMMENSURABLE; never merge into one %-range.
 
 studies:
   - name: PROSPER
     location: Assam, India
     population: tea pickers
+    outcome: daily_tea_plucked_weight
+    outcome_label: relative productivity (tea weight)
     effect_pct: 21.7
-    ci_lower: 15.0
-    ci_upper: 28.0
-    reference: "PubMed 30049615"
+    ci_lower: 17.0
+    ci_upper: 26.4
+    reference: "Lancet Glob Health 2018; PubMed 30049615; doi:10.1016/S2214-109X(18)30329-2"
     year: 2018
-    scenario: optimistic
+    scenario: moderate_productivity
+    commensurable_with_productivity: true
 
   - name: PROSPER_II
     location: Karnataka, India
-    population: garment workers
+    population: garment factory workers
+    outcome: workplace_productivity
+    outcome_label: relative productivity (garment work)
     effect_pct: 5.7
     ci_lower: 1.04
     ci_upper: 10.4
-    reference: "BJO 2025, doi:10.1136/bjo-2025-328563"
+    reference: "Br J Ophthalmol 2025; doi:10.1136/bjo-2025-328563; PubMed 42045075"
     year: 2025
-    scenario: conservative
+    scenario: conservative_productivity
+    commensurable_with_productivity: true
 
   - name: THRIVE
     location: Bangladesh
-    population: rural tradespeople
-    effect_pct: 33.0
-    ci_lower: 20.0
-    ci_upper: 45.0
-    reference: "PLOS ONE 2024, doi:10.1371/journal.pone.0296115"
+    population: rural near-work occupations
+    outcome: self_reported_monthly_income
+    outcome_label: self-reported monthly income (NOT direct productivity)
+    effect_pct: 33.4
+    ci_lower: null
+    ci_upper: null
+    reference: "PLOS ONE 2024; doi:10.1371/journal.pone.0296115"
     year: 2024
-    scenario: upper_bound
+    scenario: income_not_productivity
+    commensurable_with_productivity: false
+    note: "Endpoint is median income difference between arms; do not cite as productivity %"
 
-# Presbyopia onset assumptions for historical scholars
+# Historical simulation still uses productivity deltas only (exclude THRIVE income)
 presbyopia:
   onset_age: 40
   peak_impact_age: 50
   full_impact_age: 55
 
-# Simulation scenarios (delta values as fractions)
 scenarios:
   conservative:
     delta: 0.057
@@ -46,6 +55,7 @@ scenarios:
   moderate:
     delta: 0.217
     source: PROSPER
+  # optimistic uses PROSPER upper CI side, NOT THRIVE income
   optimistic:
-    delta: 0.330
-    source: THRIVE
+    delta: 0.264
+    source: PROSPER_upper_ci_proxy

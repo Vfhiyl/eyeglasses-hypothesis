@@ -86,11 +86,15 @@ def chow_trend_test(
     slope_change = float(u_res.params.get("t:post", np.nan))
     intercept_change = float(u_res.params.get("post", np.nan))
 
+    # SE of slope-change interaction for later Δ comparisons
+    slope_se = float(u_res.bse.get("t:post", np.nan)) if hasattr(u_res, "bse") else np.nan
+
     return {
         "breakpoint": bp,
         "f_stat": round(float(f_stat), 4) if np.isfinite(f_stat) else np.nan,
         "p_value": round(float(p_value), 6) if np.isfinite(p_value) else np.nan,
         "slope_change": round(slope_change, 6) if np.isfinite(slope_change) else np.nan,
+        "slope_change_se": round(slope_se, 6) if np.isfinite(slope_se) else np.nan,
         "intercept_change": round(intercept_change, 6) if np.isfinite(intercept_change) else np.nan,
         "mean_pre": round(float(values[pre].mean()), 4),
         "mean_post": round(float(values[post].mean()), 4),
@@ -102,6 +106,69 @@ def chow_trend_test(
         "n_post": int(post.sum()),
         "window_half": window_half,
         "method": "trend_chow_log_local_window",
+    }
+
+
+def compare_slope_changes(
+    years: np.ndarray,
+    values: np.ndarray,
+    bp_a: int = 1290,
+    bp_b: int = 1450,
+    *,
+    window_half: int = WINDOW_HALF,
+    n_boot: int = 500,
+    seed: int = 0,
+) -> dict:
+    """Estimate Δ = slope_change(bp_b) - slope_change(bp_a) with bootstrap CI.
+
+    Point estimate larger at 1450 is NOT 'significantly stronger' unless CI excludes 0.
+    """
+    ra = chow_trend_test(years, values, bp_a, window_half=window_half)
+    rb = chow_trend_test(years, values, bp_b, window_half=window_half)
+    delta = (
+        float(rb["slope_change"]) - float(ra["slope_change"])
+        if np.isfinite(ra.get("slope_change", np.nan)) and np.isfinite(rb.get("slope_change", np.nan))
+        else np.nan
+    )
+    years = np.asarray(years, dtype=float)
+    values = np.asarray(values, dtype=float)
+    mask = np.isfinite(years) & np.isfinite(values) & (values > 0)
+    years, values = years[mask], values[mask]
+    rng = np.random.default_rng(seed)
+    boots = []
+    n = len(years)
+    if n >= 20 and np.isfinite(delta):
+        for _ in range(n_boot):
+            idx = rng.integers(0, n, size=n)
+            ya, va = years[idx], values[idx]
+            a = chow_trend_test(ya, va, bp_a, window_half=window_half)
+            b = chow_trend_test(ya, va, bp_b, window_half=window_half)
+            if np.isfinite(a.get("slope_change", np.nan)) and np.isfinite(b.get("slope_change", np.nan)):
+                boots.append(float(b["slope_change"]) - float(a["slope_change"]))
+    if boots:
+        lo, hi = np.percentile(boots, [2.5, 97.5])
+        judgment = (
+            "1450_stronger_ci_excludes_0"
+            if lo > 0
+            else "1290_stronger_ci_excludes_0"
+            if hi < 0
+            else "imprecise_delta_ci_includes_0"
+        )
+    else:
+        lo = hi = np.nan
+        judgment = "insufficient_bootstrap"
+    return {
+        "series": "",
+        "bp_a": bp_a,
+        "bp_b": bp_b,
+        "slope_change_a": ra.get("slope_change"),
+        "slope_change_b": rb.get("slope_change"),
+        "delta_b_minus_a": round(delta, 6) if np.isfinite(delta) else np.nan,
+        "delta_ci95_lo": round(float(lo), 6) if np.isfinite(lo) else np.nan,
+        "delta_ci95_hi": round(float(hi), 6) if np.isfinite(hi) else np.nan,
+        "n_boot_ok": len(boots),
+        "judgment": judgment,
+        "note": "Do not claim 1450>1290 from point estimates alone",
     }
 
 
@@ -262,6 +329,23 @@ def main() -> None:
             bp_results.append(r)
     bp_df = pd.DataFrame(bp_results)
     bp_df.to_csv(OUTPUT_TABLES / "breakpoint_tests.csv", index=False)
+
+    # Formal Δslope(1450)−Δslope(1290) with bootstrap CI (human_capital series)
+    delta_rows = []
+    for series_name, df, col, year_col in [
+        ("human_capital", europe_hc, "human_capital", "year"),
+        ("book_count", books_yr, "book_count", "year"),
+    ]:
+        d = compare_slope_changes(
+            df[year_col].values.astype(float),
+            df[col].values.astype(float),
+            1290,
+            1450,
+            window_half=WINDOW_HALF,
+        )
+        d["series"] = series_name
+        delta_rows.append(d)
+    pd.DataFrame(delta_rows).to_csv(OUTPUT_TABLES / "breakpoint_slope_delta_1290_1450.csv", index=False)
 
     _manuscript_breakpoints()
     _ha_science_breakpoints()

@@ -1,0 +1,13 @@
+person_id,name,qid,evidence_year,evidence_age,confidence,n_dated_works,n_before,n_after,share_after,mean_work_age,mean_age_delta,status
+petrarch,Francesco Petrarca,Q1401,1364,60,high,1,1,0,0.0,21.0,-39.0,linked_offline
+filelfo,Francesco Filelfo,Q4622,1456,58,high,1,1,0,0.0,29.0,-29.0,linked_offline
+ammannati,Iacopo Ammannati Piccolomini,Q1677987,1473,51,high,0,0,0,,,,no_p800_p577_in_cache_hunt_sparql
+bernardino,Bernardino of Siena,Q194449,1444,64,high,0,0,0,,,,no_p800_p577_in_cache_hunt_sparql
+leo_x,Pope Leo X (Giovanni de Medici),Q5703,1513,38,high,0,0,0,,,,no_p800_p577_in_cache_hunt_sparql
+lotto,Lorenzo Lotto,Q310973,1540,60,medium,0,0,0,,,,no_p800_p577_in_cache_hunt_sparql
+gonzaga_francesco,Cardinal Francesco Gonzaga,Q1441206,1483,39,medium,0,0,0,,,,no_p800_p577_in_cache_hunt_sparql
+stapeldon,Walter de Stapeldon,Q4476147,1326,65,high,0,0,0,,,,no_p800_p577_in_cache_hunt_sparql
+orsi,Antonio degli Orsi,Q3619497,1322,62,medium,0,0,0,,,,no_p800_p577_in_cache_hunt_sparql
+strozzi_filippo,Filippo Strozzi the Elder,Q1384100,1480,52,medium,0,0,0,,,,no_p800_p577_in_cache_hunt_sparql
+sacchetti,Franco Sacchetti,Q739981,1392,60,low,0,0,0,,,,no_p800_p577_in_cache_hunt_sparql
+leonardovinci,Leonardo da Vinci,Q762,1500,48,low,0,0,0,,,,no_p800_p577_in_cache_hunt_sparql

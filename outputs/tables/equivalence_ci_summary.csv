@@ -1,0 +1,3 @@
+test,claim_map,estimate,ci95_lo,ci95_hi,sesoi,equivalence_label,n_pre,n_post,note
+studium_share45_pre_vs_post_1300,B2,0.0454,-0.0434,0.1343,0.05,imprecise_ci_spans_sesoi,81.0,185.0,Wald CI on share45 post-pre; null≠reject
+glass_center_effect_model1,B4,0.0216,-0.2425,0.2857,0.05,imprecise_ci_spans_sesoi,,,Model1 active share; weakens B4 only; not B1
