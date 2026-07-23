@@ -1,0 +1,1922 @@
+                The Invention of Eyeglasses
+                              EDWARD ROSEN*
+
+            It is of importance to the sciences that the history of memorable
+        inventions should be handed down correctly.
+                                                    Gottfried Wilhelm Leibnizl
+             Much has been written, ranging from the valuable to the worthless,
+        about the invention of eyeglasses; but when it is all summed up, the
+        fact remains that the world has found lenses on its nose without knowing
+        whom to thank.
+                                                                   Vasco Ronchi2
+                                        PART I
+
+
+
+
+                                                                                               Downloaded from http://jhmas.oxfordjournals.org/ at Georgetown University on May 27, 2015
+                        The Pisan Chronicle
+      HIS subject was first discussed3 by Carlo Roberto Dati (i6ig-
+T     76) in a Veglia or essay entitled The invention of eyeglasses,
+is it ancient or not; and when, where and by whom were they in-
+vented? Dati belonged to the Accademia della Crusca,4 a scholarly
+society of Florence, where he read this Veglia. Giving it the form
+of an imaginary conversation, he put into the mouth of an inter-
+locutor the following speech:5
+    When I was quite young, I. went to Pisa to study law, more by order of
+others than by my personal inclination, which turned toward the recovery of
+our own past records rather than toward Roman jurisprudence. I always
+used to examine the manuscript collections, where ordinarily one finds
+something erudite, not a matter of common knowledge; and particularly the
+collection at the Dominican Fathers' St. Catherine, provided with very good
+MSS. I well remember, as if it were now, having attentively read and dili-
+gently excerpted a Latin Chronicle of this monastery written on parch-
+ment. . . . Among the entries in this Chronicle, under the year 1313, it is
+recorded that in this monastery of St. Catherine there lived and died Friar
+       • City College, New York. The main results of this study were summarized in lec-
+tures delivered on 9 February 1954 to the Research Seminar of the National Institute of
+Optics at Arcetri, Italy; on 17 October 1955 to the Metropolitan New York Section of
+the History of Science Society; on 1 November 1955 to the University Seminar on the
+Renaissance at Columbia University; and on 30 December 1955 to the History of Science
+Society meeting jointly with the American Historical Association at Washington, D. C.
+     1 Miscellanea berolinensia ad incrementum scientarum, 1710, /, 91.
+     2 Rivista di ojtalmologia, 1946, /, 140.
+     3 An earlier effort to find out about the invention had been made by Manzini, Carlo
+Antonio. L'occhiale all' occhio. Bologna, 1660, p. 1. But he candidly confessed that despite
+a diligent search he could obtain no information.
+     * Not "Crucea," as in Z. ophthal. Opt., 1914-15, 2, g2. Dati became a member on 29
+November 1640. Andreini, Guido. La vita e I'opera di Carlo Roberto Dati. Florence, 1913;
+reprinted Milan, 1936, p. 26. Cited hereafter as "Andreini."
+     5 Targioni Tozzetti, Giovanni. Notizie degli aggrandimenti delle scienze fisiche ac-
+caduti in Toscana nel corso di anni LX del secolo XVII. Florence, 1780, vol. 2 (cited here-
+after as "Targioni"), p. 60. Republished under the title, Atti e memorie inedite dell' Ac-
+cademia del Cimento. That these were essentially two issues of the same work, differing
+only in title, escaped Petella, Giovanni. Sull' invenzione degli occhiali. Ann. Med. nav.
+colon., 1901, 7:1, 825. Petella also misdated the publication in 1760. Chi l'inventore degli
+occhiali? Ann. Med. nav. Colon., 1922, 2#:2, 62. Andreini (p. 12) misquoted the key word
+of the earlier title as "apprendimenti."
+14       Journal of the History of Medicine: JANUARY, 1956
+Alessandro6 Spina,7 a monk of most excellent character and most acute
+mind, who understood everything that he heard said or saw done; 8and when
+it happened that somebody else was the first to invent eyeglasses and was
+unwilling to communicate the invention to others, all by himself he made
+them and goodnaturedly shared them with everybody.
+    This is the substance of what is said by the Chronicle, in my opinion a
+most authoritative and trustworthy source.
+Dati's Veglia utilized what is still our most important piece of in-
+formation about the invention of eyeglasses, the passage concern-
+ing Spina in the Ancient chronicle of the Dominican monastery of
+St. Catherine in Pisa. But his description of Spina's intelligence
+contains a highly significant expression; for according to Dati,
+
+
+
+
+                                                                                                  Downloaded from http://jhmas.oxfordjournals.org/ at Georgetown University on May 27, 2015
+Spina "understood everything that he heard said or saw done"
+ (apprendendo tutto quello che udiva dire, o vedeva fare). Now the
+Chronicle still survives,9 and what it actually says about Spina is in
+one respect strikingly different from Dati's version. For the Chroni-
+cle relates that "whatever had been made, when he [Spina] saw
+it with his own eyes, he too knew how to make it" (quae vidit
+oculis facta, scivit et facere) .10 Whereas Dati spoke of Spina's
+     6 Not "Guglielmo," as in Riv. Stor. crit. Set. med. nat., 1921, 12, 32.
+     7 The material from this point to the end of the paragraph was enclosed within
+quotation marks by R. Greeff, who translated the Veglia into German. Die Veglia des Carlo
+Dati uber die Erfindung der Brillen. Z. ophthal. Opt., 1917, 5, 75. Yet Greeff knew that
+the Veglia here differed from the Chronicle (Z. ophthal. Opt., 5, 66; 6, 8; Die Erfindung
+der Augengldser, Berlin, 1921, p. 78). Failing to realize that Dati was only paraphrasing,
+not quoting, the Chronicle, Greeff accounted for the differences by a false explanation,
+which we shall examine soon. His translation of the present passage is marred by several
+serious misunderstandings, repeated in Erfindung, p. 77. Many other passages of the Veglia
+fare no better at his hands.
+     8 The speaker does not cite the Chronicle as saying that Spina "either was the in-
+ventor or did what someone else had done," despite Andreini's inaccurate summary (p.
+      9 Vitelli, Camillo. Index codicum latinorum qui Pisis in bibliothecis conventus S.
+Catherinae et universitatis adservantur. Studi italiani di filologia classica, 1900, 8, p. 372,
+no. 78: Chronica conventus antiqua S. Catherinae Pis.
+Mazzatinti, Giuseppe and Sorbelli, Albano. Inventari del manoscritti delle biblioteche
+d'ltalia. Florence, 1917, vol. 24, p. 79, no. 72 (78), ed. Gino Tamburini.
+Singer, Charles. Steps leading to the invention of the first optical apparatus (Studies in the
+history and method of science. Oxford, 1917-21, vol. 2, p. 399) and Watson, Earnest Charles:
+The invention of spectacles (Amer. J. Phys., 1953, 21, 556) mistakenly described the
+Chronicle as "lost." For an opportunity to examine it as well as other documents at the
+Biblioteca Cateriniana of the Archiepiscopal Seminary of Pisa, I wish most cordially to
+thank Father Pierluigi Toniolo, director of that library. Dr. Toniolo went far out of his
+way to assist me at other Pisan institutions, and also put books in his personal library at
+my disposal.
+      10 The Chronicle was published by Bonaini, Francesco. Archivio storico italiano,
+1845, 6:2> 397-593- T n e quoted passage occurs at p. 476, with a facsimile at pp. 396-397, no.
+III. Hereafter the Chronicle will be cited by reference to Bonaini's edition, which appeared
+in 1845, not 1848 (as in Arch. stor. Hal., 1920, 78:1, 5; Arte e sloria, 1920, ^9, 120; II
+giornale d'ltalia, 8 September 1920, p. 3; Riv. Stor. crit. Sci. med. nat., 1921, 12, 29; En-
+ciclopedia italiana, vol. 25, p. 115). Pio Tommaso Masetti, Monumenta et antiquitates
+veteris disciplinae ordinis praedicatorum ab anno 1216 ad 1348, Rome, 1864, vol. 1, p. 340,
+dated the publication of the Chronicle in 1848, but in 1850 at vol. 1, p. 22. Stefano Or-
+landi, "Necrologio" di S. Maria Novella, Florence, 1955, vol. 2, p. 78, at first deprived the
+Chronicle of any date of publication and then assigned it to 1848 at vol. 2, p. 618, where he
+also misnumbered the volume as 4 instead of 6.
+                    ROSEN: The        Invention of Eyeglasses                            15
+
+understanding everything that he heard, the Chronicle stresses
+Spina's knowing how to make what he saw. The difference be-
+tween these two statements is of utmost importance to us. For as
+Dati told the story, Spina need not have seen any eyeglasses made
+by the anonymous inventor. All that Spina would require, accord-
+ing to Dati, was to hear about eyeglasses (since he understood
+everything that he heard) before proceeding to make them by him-
+self (egli da per se stesso gli fabbrico). But the Chronicle, by say-
+ing "whatever had been made, when he saw it with his own eyes,
+he too knew how to make it," plainly implies that Spina did see
+
+
+
+
+                                                                                                 Downloaded from http://jhmas.oxfordjournals.org/ at Georgetown University on May 27, 2015
+eyeglasses made by the inventor before constructing his own.
+    Why did Dati's Veglia misrepresent the Chronicle! Dati was a
+professor at the University of Florence, and although he visited
+Pisa at least once,11 there is nothing to indicate that he ever per-
+sonally examined the Chronicle.12 He was supplied with excerpts
+from Pisan MSS by his friend Francesco Redi (1626-97), chief
+physician to the Grand Duke of Tuscany.13 From Pisa on 26 Feb-
+ruary 1674 Redi sent to Dati at Florence a letter containing the
+passage about Spina in the Chronicle.1* But instead of the actual
+text (quae vidit oculis facta, scivit et facere; whatever had been
+made, when he saw it with his own eyes, he too knew how to make
+it) Redi transmitted the following reading: quaecumque vidit aut
+audivit facta scivit et facere15 (whatever he saw or heard had been
+made, he too knew how to make it). That Redi wrote "quaecum-
+      11 Toward the end of January 1655. Lettere inedite di alcuni illustri accademici della
+Crusca. Pesaro, 1835, p. 46; 2d ed., Florence, 1837, p. 63. These two editions were made
+available to me by the Chancellor of the Accademia della Crusca, Dr. Francesco Pagliai,
+whom I wish to thank most heartily for his friendly co-operation.
+      12 The Chronicle was (and still is) in Pisa, not Florence, despite Gordon, Benjamin
+L. A short history of spectacles. J. med. Soc. N. J. 1951, 48, 5.
+      13 Redi attended the University of Pisa, where he never was a "professor of medicine,"
+a post to which he was erroneously assigned by Hirschberg, Julius. Geschichte der Augen-
+heilkunde (vol. 12-15 of the Handbuch der gcsamten Augenheilkunde, 2d ed.). Leipzig,
+Berlin, 1899-1918, vol. 13, p. 270. Hirschberg's blunder was repeated by Lundsgaard,
+K. K. K. Brillernes historic Med.-hist. Smaaskr. 1913, 6, 15; by Greeff. Die Briefe des
+Francesco Redi iiber die Erfindung der Brillen. Z. ophthal. Opt., 1918, 6, 1. Erfindung, p.
+66; and by Sorsby, Arnold. A short history of ophthalmology. London, 1933; 2d ed., 1948;
+p. 70. For a list of the professors of medicine at Pisa between 1622 and 1737, see Fabroni,
+Angelo. Historia academiae pisanae. Pisa, 1791-95, vol. 3, pp. 688-689; see vol. 2, p. 64, and
+vol. 3, p. 225, for Redi as a student at Pisa. Hirschberg dated Redi's death in 1694, a mis-
+take found also in Singer, Studies in the history . . . of science, vol. 2, p. 399, and in En-
+ciclopedia italiana) vol. 10, p. 250. Redi's death was put in 1670 by Golesceano, Constantin.
+Contribution a l'histoire des lunettes. Clin. prat, mid.-chir., 1914, 10, 28, and in 1688 by
+De Waard, Cornelis. Die uitvinding der verrekijkers, The Hague, 1906, p. 63.
+     14 Since we must deal with two earlier letters written by Redi to Dati about eye-
+glasses, this letter of 26 February 1674 will hereafter be designated "Redi-Dati No. 3."
+Despite Targioni, vol. 1, p. 70, Redi did not write a letter about eyeglasses in 1678 to Dati,
+who died in 1676.
+     V>Opere di Francesco Redi (Classici italiani, vol. 169-177). Milan, 1809-11, vol. 7,
+p. 254.
+ 16        Journal of the History of Medicine: JANUARY, 1956
+
+que" instead of "quae" need not detain us now. But his substitu-
+tion of "aut audivit" for "oculis" is another matter. Although the
+Chronicle is admittedly difficult to decipher, Redi could not have
+honestly but mistakenly read "aut audivit" in place of "oculis."
+There can be absolutely no doubt that he deliberately suppressed
+"oculis" and with malice aforethought introduced "aut audivit."
+Although rightly honored as the founder of experimental ento-
+mology, as a poet of considerable talent, and as a scholar of pro-
+digious erudition, he seems also to have taken a perverse pleasure
+in perpetrating literary frauds.16 His intention in this instance was
+
+
+
+
+                                                                                                                Downloaded from http://jhmas.oxfordjournals.org/ at Georgetown University on May 27, 2015
+to deceive not Dati alone but, through Dati, the world at large.
+            pi, Guglielmo. Sandro di Pipozzo. Rivista delle biblioteche e degli archivi,
+1909, 20, 65-72. Francesco Redi e un antico trattatello della cura delle malattie. Arch. stor.
+ital., 1915, 7}:i, 101-110. Le falsificazioni di Francesco Redi nel Vocabolario della Crusca.
+Atti della r. Accademia della Crusca, 1915-16, pp. 33-136.
+Volpi's baptismal name was not "Alessandro," as he was christened by Albertotti, Giuseppe.
+Note sugli occhiali. Atti Accad. Padova, 1913-14, }o, 311. Note critiche e bibliografiche
+riguardanti la storia degli occhiali. Ann. Ottalm., 1914, 4), 336 (cited hereafter as "Al-
+bertotti, 1914") . "Alessandro" was repeated by the editor of Riv. Stor. crit. Sci. med. nat.,
+1914,5, 321, while the full name of the distinguished lexicographer and historian of litera-
+ture was altered to "Alessandro Vulpi" by Greeff, Z. ophthal. Opt., 1914-15, 2, 93.
+The first of these three articles by Volpi has as its title the name coined by Redi for an
+author who never existed save in his own mind. He professed to own a MS composed by
+this figment and containing the earliest reference to eyeglasses. He took good care, however,
+never to submit this MS to the scrutiny of scholars by publishing it, despite the assertion
+to the contrary by Barcfc, Carl. The history of spectacles. St. Louis med. Rev., 1904, 49, 306.
+O p e n court., 1907, 2 1 , 214; followed b y Singer, S t u d i e s i n t h e history . . . 0 / science, vol.
+2, p. 399; by Andrew, Llewelyn. Some notes on the history of spectacles. Transactions of
+the Lancashire and Cheshire antiquarian society, 1925, 42, 4; and by Watson, Amer. J.
+Phys., 1953, 21, 555-556. Barck assigned the supposed publication of the MS to 1648, when
+Redi was twenty-two. Actually his first publication came from the press sixteen years
+later, in 1664; and he cited (not published) the imaginary MS in 1678 (not 1648, despite
+Bock, Emil. Die Brille und ihre Geschichte. Vienna, 1903, p. 12). Redi pretended that it
+had been written in i2gg, not 1292, as in Rouyer, Joseph. Coup d'oeil retrospectif sur la
+lunetterie. 2d ed., Paris, 1901, p. 19, who was followed by Mme. Alfred Heymann in her
+sumptuously illustrated but somewhat unreliable Lunettes et lorgnettes de jadis. Paris, 1911,
+p. 4; nor 1289, as in Barck, who was followed by Singer, Studies in the history . . . 0/
+science, vol. 2, p. 399; by Garrison, Fielding H. An introduction to the history of medicine,
+3d ed., Philadelphia, London, 1921, p. 178; by Cole, Rufus. Francesco Redi. Ann. med. Hist.,
+1926, 8, 349; by Utstein, Gertrude. Spectacles in the making. Sight Sav. Rev., 1931, 1:2,
+42; and by Sarton, George. Introduction to the history of science. Baltimore: Williams &
+Wilkins, 1927-48, vol. 2, p. 1025; nor 1285, as in Andrew, op. cit., p. 4, and Gordon, /. med.
+Soc. N. J., 1951, 48, 6. The date (1299), feigned by Redi for his non-existent MS, was
+transferred to the Chronicle, which was still being written as late as 1411 {Chronicle, p.
+582), by Rouyer, p. 19; Mme. Heymann, Lunettes, p. 5; Reis, Wiktor. Ein literarisches
+Brillendokument aus dem Anfang des XIV jahrhunderts. Folia ophthal. orient., 1932-34, /,
+399; and Greeff (Z. ophthal. Opt., 1914-15, 2, 93), according to whom the Chronicle was
+composed by the author dreamed up by Redi. He called his "MS" a treatise on the manage-
+ment of vothe lfamily; not a letter, despite Heller, August. Geschichte der Physik. Stuttgart,
+1882-84, '- > P- 201, and Landolt, Marc. Qui fut l'inventeur des lunettes? Hygiene, Paris,
+1912, 3, August, p. 12; nor a chronicle, despite Hirschberg, Mitt. Gesch. Med. Naturw.,
+1907, 6, 221, and the editor of Riv. Stor. crit. Sci. med. nat., 1914, 5, 321; nor a governmental
+treaty, despite Greeff, Z. ophthal. Opt., 1918, 6, 10, and Erfindung, p. 83; nor a contract,
+despite Rohr, Moritz von. Naturwissenschaften, 1919, 7, 210. As an outstanding scientist of
+the 17th century, Redi did not write the MS in 1299, despite Heller, loc. cit. Nor was it
+published by Robert Smith in 1755, despite Hoppe, Edmund. Geschichte der Physik.
+Braunschweig, 1926, p. 250. Nor was it a chronicle of the monastery in which Pisa was a
+monk, despite Greeff, Z. ophthal. Opt., 1914-15, 2, 93.
+                     ROSEN: The Invention             of Eyeglasses                       17
+
+     I submit, then, that Dati's divergence from the Chronicle was
+due to his acceptance of Redi's falsification. This explanation con-
+flicts with an idea put forward by Giuseppe Albertotti (1851-
+1936), professor of ophthalmology at the University of Padua and
+director of the eye clinic in that city, who maintained that Dati
+quoted the Chronicle from memory before hearing from Redi.17
+Albertotti's thesis was repeated with an embellishment by Richard
+Greeff (1862-1938), professor of ophthalmology at the University
+of Berlin and director of the Charite eye clinic. Greeff held that
+"Dati cited, obviously from memory, the interesting passage about
+
+
+
+
+                                                                                                 Downloaded from http://jhmas.oxfordjournals.org/ at Georgetown University on May 27, 2015
+the invention of eyeglasses which he had found in a Chronicle of
+the monastery of St. Catherine in Pisa"; and that "Dati, however,
+had already cited this passage incorrectly from memory. Had Redi's
+letter been before him, hence the precise text, he would surely
+have quoted this and not from memory."18 Greeff here referred to
+the letter sent by Redi to Dati on 8 November 167319 (which we
+shall call "Redi-Dati No. 2"). In this letter Redi copied out for
+Dati "the precise text" of a passage, not in the Chronicle, but in an-
+other Pisan MS, as Albertotti pointed out. The Chronicle passage
+was transmitted, not in Redi-Dati No. 2, but in No. 3. It was the
+falsification contained in No. 3 that led Dati astray, not his faulty
+memory.
+     Albertotti and Greeff, who gratuitously assumed that Dati saw
+ (and even found) the Chronicle passage before receiving No. 2,
+adduced no evidence to show that he saw it at any time. But even
+if he had examined it before hearing from Redi, he was no falsifier
+of texts,20 like his mischievously ingenious friend. And even if he
+were, how likely is it that he would have chosen to distort exactly
+the same passage in exactly the same way? Is it not much more
+probable that Dati never laid eyes on the Chronicle and trustingly
+adopted the version sent to him by Redi, whose scholarly dis-
+honesties were so cleverly concealed that they were first suspected
+some two centuries after his death? In dedicating the Veglia to
+Redi, Dati said it became valuable when Redi communicated to
+
+     17 Albertotti, 1914, p. 330. His idea was accepted by Cirinrione, Giuseppe. L'invenzione
+degli occhiali e gloria italiana. Ann. Ottalm., 1927, 55, 932.
+     18 Z. ophthal. Opt., 5, 66; 6, 2; Erfindung, pp. 78, 80. The Albertotti-Greeff thesis was
+accepted by Von Rohr, Naturuiissenschaflen, 1919, 7, 209.
+     19 Not "8 November 1663," as in Albertotti, 1914, pp. 330, 335, 354, and in Greeff,
+Erfindung, p. 82.
+     20 Yet see n. 36, below.
+ 18       Journal of the History of Medicine: JANUARY, 1956
+
+him the "recondite notice that closes it" (Targioni, p. 50). Was he
+not referring to the Spina passage in the Chronicle?21
+     Redi was thoroughly familiar with the working habits of his
+friend Dati. The latter would today be called a perfectionist;
+never satisfied with what he wrote, he was constantly revising, can-
+celling, adding. In fact, when he died on 11 January 1676, he left
+the Veglia unpublished and even unfinished. Hence, although he
+read it at a meeting of Crusca late in May, 1673, Redi knew per-
+fectly well that the Chronicle excerpt, which he sent in falsified
+form to Dati on 26 February 1674 (Redi-Dati No. 3), could still
+
+
+
+
+                                                                                                   Downloaded from http://jhmas.oxfordjournals.org/ at Georgetown University on May 27, 2015
+be depended on to affect the Veglia's account of Spina's acquaint-
+tance or nonacquaintance with the work of the anonymous
+inventor.
+
+                       The Pisan Annals
+   The date of the Crusca meeting at which Dati read the Veglia
+may be inferred from the following letter that he received from
+Redi:22
+     Last night Lorenzo Panciatichi23 told me that at our24 Accademia della
+Crusca you read one of your learned Veglie, in which you virtually demon-
+strated that the invention of eyeglasses is not ancient but modern, and a
+little before 1300. I congratulate you, and regret not having had the good
+fortune to be present. I hope however that I can make up this loss by going
+to your house some morning to beg you to let me hear it.
+When the above letter was printed, it bore the date 31 May 1663,
+which has been shown to be ten years too early and should be
+changed to 31 May 1673.25
+       21 Disregarding everything but the word "closes," Petella (Ann. Med. nav. colon.,
+ 1901, 7:1, 826) identified Redi's communication with the Veglia's final paragraph. But this,
+ far from being a "recondite notice," is instead a conclusion which Dati found in a printed
+ book (cf. n. 261, below), probably long before Redi contributed anything to the Veglia.
+       22 Fontani, Francesco. Elogio di Carlo Roberto Dati. Florence, 1794, p. 187; reprinted
+•by Albertotti, 1914, pp. 330-331.
+      23 Lorenzo Panciatichi (1635-76) was admitted to membership in the Accademia della
+ Crusca on 12 August 1654 (Lettere di Francesco Redi, ed. Domenico Moreni, Florence,
+ 1825, p. 179). Albertotti's misspelling (1914, p. 330) of his surname was sedulously fol-
+ lowed by Greeff, Z. ophthal. Opt., 1917, 5, 66, although the family was included in Litta,
+ Pompeo. Famiglie celebri italiane. Milan, Turin, Naples, 1819-1923. For a brief account of
+ Lorenzo's life, see Passerini, Luigi. Genealogia e storia della famiglia Panciatichi. Florence,
+ 1858, pp. 223-230; or Litta, vol. 9, Panciatichi of Pistoia, table 14, with a bust of Lorenzo
+ on the last page of the volume. His writings were collected and published by Cesare Guasti
+  (Florence, 1856).
+       24 Redi joined the Accademia della Crusca in 1655; on 23 December, according to his
+ own recollection (Opere, vol. 8, pp. 112-113); but on 13 November, according to the or-
+ ganization's list (Lettere di Redi, ed. Moreni, p. 183; on p. 184, "1665" is a misprint).
+       25 Rosen, Edward. Carlo Dati on the invention of eyeglasses. Isis, 1953, 44, 4-5.
+                      ROSEN: The         Invention of Eyeglasses                                19
+
+     From this letter (hereafter designated "Redi-Dati No. 1") it
+seems clear that Redi's interest in the invention of eyeglasses was
+first aroused by the Veglia in May, 1673,26 when Dati still knew
+nothing about the Spina passage in the Pisan MSS. Nearly half a
+year later, on 8 November 1673, in Redi-Dati No. 2, Redi said:
+    With reference to the inventor of eyeglasses, I shall set down here below
+the exact words of the manuscript chronicle of the monastery of St. Catherine
+at Pisa:
+    Friar Alessandro Spina of Pisa made with his own hands whatever he
+wished, and shared it with others, since he was dominated by kindliness.
+
+
+
+
+                                                                                                        Downloaded from http://jhmas.oxfordjournals.org/ at Georgetown University on May 27, 2015
+At that time, through a beautiful, useful and novel invention, somebody
+invented the glass lenses which are commonly called "eyeglasses" and did not
+want to communicate to anybody the art of making them.27 Having seen
+them, this good man, a craftsman, mastered them immediately without
+anybody teaching him, and he taught others who wanted to know. He sang
+melodiously, wrote elegantly and decorated the handwritten books which
+are called "illuminated manuscripts." In short, there was none of the manual
+arts that he did not know.28
+
+Redi went on to say: "This chronicle is written in a book of small
+folio size and of thick ordinary paper." The last detail shows that
+Redi was not yet well acquainted with the Pisan MSS. For the
+Chronicle was not written on ordinary paper. The excerpt about
+Spina in Redi-Dati No. 2, although labeled "the exact words of the
+manuscript chronicle," occurs not in the Chronicle but in a com-
+panion MS, the Annals of the Dominican monastery of St. Cath-
+
+      26 Even so painstaking a student as Andreini accepted (p. 151) the erroneous date of
+30 May 1663 for the Veglia.
+      27 "Nobody wanted to communicate the art of making them to him [Spina]" was
+how this clause was mistranslated by Gerland, Ernst. Geschichte der Physik. Munich, Berlin,
+ 1913, p. 203.
+      28Opere, vol. 5, pp. 82-83; cf - Chronicle, p. 477, n. 134 (in line 5, read "ipsam").
+Domenico Maria Manni, Degli occhiali da naso inventati da Salvino Armati            gentiluomo
+fiorentino trattato istorico (cited hereafter as "Manni"), pp. 53-54, printed Redi-Dati No.
+2, and from it concluded that Redi was the first to discuss eyeglasses. But the priority be-
+longs to Dati, as is clear from Redi-Dati No. 1 (the beginning of which was quoted just
+above). It was first published, however, six years after Manni's death in 1788 (cf. n. 22,
+above) . He lived to be almost a hundred years old, having been born in 1C90, not 1670,
+the date given by Masson, Albert. Notes sur l'histoire des lunettes. France med., igo8, 55,
+202. There were two editions of Manni, both issued at Florence, the first in 1738, and the
+second in 1741. There was no edition in 1638, despite Andreini, p. 152; nor in 1758, despite
+Targioni, vol. 1, p. 70, followed by Rocchi, Vinccnzo. Appunti di storia critica del micro-
+scopic Riv. Stor. crit. Sci. med. nat., 1913, 4, 4; nor in 1789, despite Barduzzi, Domenico.
+Salvino degli Armati non fu l'inventore degli occhiali. Riv. Stor. crit. Sci. med. nat., 1921,
+12, 31. Prior to the editions of 1738 and 1741, Manni had published an earlier version of
+the work in the form of two Dell' invenzione degli occhiali da naso ragionamenti accademici
+in Angelo Calogera's Raccolta d'opuscoli scientifici, e filologici, vol. 4 (Venice, 1730), pp.
+37-131. These Ragionamenti       (as we shall designate them hereafter) were reprinted in
+Scelta di dissertazioni cavate da' piii celebri autori, Venice, 1750-51, torn. 2, pt. 1, pp. 113-218,
+and, together with the edition of 1738, were condensed and translated into German. All-
+gemeines Magazin der Natur, Kunst und Wissenschaften, 1756, 7, 1-25.
+20        Journal of the History of Medicine: JANUARY, 1956
+
+erine in Pisa.29 These Annals were written on paper30 21 x 27 cm.
+ ( 8 x 1 1 in.) and might be classified as a small folio. They were
+compiled in the mid-sixteenth century31 by an anonymous friar
+who amplified what he found in the Chronicle, which had been
+written in the fourteenth and early fifteenth centuries by a series
+of four friars whose identities are known.32
+
+                Why did Redi falsify the Chronicle?
+    Redi candidly admitted that "one cannot notice everything
+even by exercising the utmost care."33 Some four months after he
+
+
+
+
+                                                                                                      Downloaded from http://jhmas.oxfordjournals.org/ at Georgetown University on May 27, 2015
+had confused the Annals with the Chronicle, he knew these MSS
+better.34 In fact, he knew them well enough to transmit a falsified
+excerpt from the Chronicle, as we saw above, in Redi-Dati No. 3,
+which began as follows {Opere, vol. 7, pp. 252-253) :
+      29 Vitelli, Studi italiani di filologia classica, igoo, 8, p. 348, no. 42: Annales conventus
+sanctae Catharinae de Pisis ordinis praedicatorum. Mazzatinti and Sorbelli, Inventari, vol.
+24, p. 75, no. 40 (42) . Redi's blunder (attributing to the Chronicle the passage about
+Spina in the Annals) unfortunately was repeated by the foremost student of the Italian
+middle ages, Lodovico Antonio Muratori (1672-1750), in a work published originally in
+Latin, then in Italian, and reissued over half a dozen times in both languages. Antiquitates
+italicae medii aevi. Milan, 1738-42, vol. 2, col. 396. Dissertazioni sopra le antichita italiane.
+Milan, 1751, vol. 1, p. 369. Muratori's example was followed by scholars too numerous to
+list. He discussed the invention of eyeglasses in Dissertation 24 (The arts in Italy after the
+fall of the Roman Empire), not Dissertation 30 (Markets and trade in the Dark Ages),
+despite Cancellieri, Francesco. Letlera . . . al ch. sig. dottore Koreff . . . sopra il tarantismo.
+Rome, 1817, p. 292; nor Dissertation 51 (The origin and development of the Guelf and
+Ghibelline factions in Italy) , despite Del Lungo, Isidore Le vicende d' un' impostura
+erudita. Archivio storico italiano, 1920, 78:1, 35-36 (cited hereafter as "Del Lungo").
+      30 Not parchment, as in Vitelli's inaccurate description, repeated by Tamburini (in
+Mazzatinti and Sorbelli) ; cf. Albertotti, 1914, p. 354, no. 4.
+      31 Not "toward the end of the sixteenth century," as was said by Canovai, Stanislao.
+Alessandro della Spina Domenicano. Memorie istoriche di ph'i uomini illustri pisani
+ (cited hereafter as "Memorie"), Pisa, 1790-92, vol. 2, p. 246, followed by Del Guerra,
+Giorgio. Alessandro della Spina inventore o primo preparatore di occhiali. Ann. Ottalm.
+1933, 61, 383. Riv. Stor. crit. Sci. med. nat., 1933, 24, Atti o£ the 4th National Congress,
+p . 17. Cf. Chronicle, pp. 604, 627.
+      32 The Chronicle was begun by Bartolomeo da San Concordio (fi347) and was con-
+tinued by Ugolino di ser Novi dei Cavallosari (11364), by Domenico da Peccioli (fi4o8),
+and by Simone da Cascina in 1411; cf. Chronicle, pp. 400-401, 524, 582, 589. Simone da
+Cascina's handwriting begins at fol. 39r in the MS, the preceding sheets (fol. ir-38 v)
+being all in the handwriting of Domenico da Peccioli, who must have recopied what had
+been composed by both his predecessors. For the date of Ugolino's death, see Orlandi,
+Necrologio, vol. 2, p. 535.
+      33 Opere, vol. 5, p. 84; letter to Dati, from Pisa, 5 March 1674.
+      34 The same cannot be said for Manni, p. 54. He accepted the (erroneous) ascription
+to the Chronicle of the Spina passage quoted in Redi-Dati No. 2. Unaware that it was
+taken from the Annals, he sought to explain its divergences from the Chronicle passage
+about Spina by gratuitously supposing that there were two different treatments of Spina
+in the Chronicle. The only one in it was "somewhat altered" and extended by Redi,
+thought Ranieri Tempesti (Discorso accademico sull' istoria letteraria pisana, published
+anonymously at Pisa in 1787, p. 59), who also failed to realize that Redi was quoting from
+the Annals, not from the Chronicle. With reference to this topic, Greeff confessed:
+"Formerly I myself was always puzzled and sought in vain for an explanation." But his
+whole treatment of the subject (Z. ophthal. Opt., 1918, 6, 8-9; Erfindung, pp. 80-82) shows
+that finally as well as formerly he was inextricably entangled in a mass of confusions.
+                     ROSEN:     The Invention         of Eyeglasses                       21
+
+    Here is a long letter to you in which I shall write you what I recently
+discovered concerning what I told you by word of mouth about the in-
+ventor of eyeglasses. . . . I shall be pleased if the whole thing can serve to
+enrich your learned Veglia. . . . I tell you then that in the library of the
+Dominican monastery of St. Catherine in Pisa there is an old book in parch-
+ment, large quarto, which starts as follows: "Here commences the Ancient
+chronicle of the Dominican monastery of St. Catherine in Pisa."
+By contrast with Redi-Dati No. 2, in No. 3 Redi was aware that
+the Chronicle was written on parchment, not paper, and he put it
+in the category of large quarto, not small folio.35 It was in No. 3,
+while professing to transcribe the Spina passage from the Chronicle,
+
+
+
+
+                                                                                                 Downloaded from http://jhmas.oxfordjournals.org/ at Georgetown University on May 27, 2015
+that he substituted "aut audivit" for "oculis."
+    What was the motive behind this falsification of the Chronicle?
+Why.was it desirable from Redi's standpoint that Spina should be
+depicted as capable of making eyeglasses without having previously
+seen the work of the original inventor? Was the purpose simply to
+exaggerate Spina's abilities?
+
+                        Redi's Accomplices
+    Before attempting to answer these questions, we should note
+that Dati was a party to the conspiracy. True, he did not go as far
+as Redi and alter the reading of a text. But he excluded from the
+Veglia a crucial statement in the Annals.36 For the excerpt from
+that MS (mislabeled the Chronicle) which he received in Redi-
+Dati No. 2 contained the following passage, which was quoted
+above, but which we shall now find it useful to look at again
+ (Opere, vol. 5, p. 83; Manni, p. 53) :
+    At that time, through a beautiful, useful and novel invention, some-
+body invented the glass lenses which are commonly called "eyeglasses" and
+did not want to communicate to anybody the art of making them. Having
+seen them, this good man [Spina], a craftsman, mastered them immediately
+without anybody teaching him . . .
+By saying "Having seen them" (illis visis) ,37 the annalist made
+explicit what is implied in the Chronicle, namely, that Spina saw
+      35 The Chronicle measures 15 x 22 cm., a good deal smaller than the Annals' 21 x 27
+cm.
+      38 While publishing some letters by Galileo's foremost disciple, Evangelista Torri-
+celli, Dati similarly suppressed an inconvenient sentence (Andreini, p. 142) . If Andreini
+was right in describing (p. 182) Dati's prose as "always . . . accurate," he displayed due
+caution in saying (p. 12) that Dati "in his writings shows himself to be sincere most of
+the time."
+      37 These words were stigmatized as "most uncertain" by Del Guerra. Ann. Ottalm.
+1933, 61, 384. Riv. Star. crit. Sci. med. nat. 1933, 24, Atti, p. 18. But he failed to explain
+why they are less certain than any other portion of the Annals.
+22             Journal of the History of Medicine: JANUARY, 1956
+
+spectacles made by the original inventor before constructing any
+of his own.38
+     The relation between these two documents was seen in an en-
+tirely different light by Stanislao Canovai. An ardent admirer of
+Alessandro Spina, Canovai said (Memorie, vol. 2, p. 246) :
+     It seems that he [the annalist] could not imagine how Alessandro could
+make eyeglasses without first seeing those already made, and therefore he
+added "illis visis" on his own account against the clear statement of the
+Chronicle, which assures us that the inventor of eyeglasses was unwilling to
+communicate not merely the art of making them but even the very eye-
+glasses he had already made.
+
+
+
+
+                                                                                                  Downloaded from http://jhmas.oxfordjournals.org/ at Georgetown University on May 27, 2015
+It is not the Chronicle but the Annals which assures us that the in-
+ventor of eyeglasses "did not want to communicate to anybody the
+art of making them." Why did Canovai attribute this statement to
+the wrong MS? Was he perhaps misled by Redi-Dati No. 2?
+     Canovai corrected (Memorie, vol. 2, p. 245, n. 10) Redi's con-
+fusion of the Chronicle with the Annals. From the Chronicle pas-
+sage about Spina, Canovai quoted (op. cit., p. 243, nn. 3, 5) a whole
+sentence omitted by Redi (Opere, vol. 2, p. 260; vol. 7, p. 254).
+He also put the true reading "quae" in place of Redi's faulty
+"quaecumque"; and altered another of Redi's readings which we
+shall have occasion to discuss later on. There can be no question,
+then, that Canovai personally examined the Chronicle.
+     He must have known, therefore, that it does not contain the
+statement (which he deliberately attributed to it) that the inventor
+of eyeglasses "did not want to communicate to anybody the art of
+making them." Furthermore, he must have recognized Redi's
+fraudulent substitution of "aut audivit" for "oculis." Instead of
+challenging this flagrant falsification, Canovai repeated it. In fact,
+he went far beyond Redi by imputing to Spina the ability "to
+understand the secret structure of machines and the unknown in-
+tentions of the inventor at a single glance, even by a single report"
+ (Memorie, vol. 2, p. 237). But whereas Dati and Redi discreetly
+chose to keep the Annals' "illis visis" out of sight, Canovai brought
+that highly embarrassing expression out into the open. At the
+same time he vigorously impugned the reliability of the annalist,
+to whom, he charged (op. cit., p. 246), "it frequently happened,
+because of poor judgment or poor sense, to alter the truth" of the
+Chronicle.
+       38 Neither MS attributed the invention to Spina, despite Barduzzi (Riv. Stor. crit. Sci.
+med.   nat.,   1 9 2 1 , 12,   31).
+                     ROSEN: The Invention             of Eyeglasses                       23
+
+     This low evaluation of the annalist's intelligence will hardly
+commend itself to persons free from Canovai's strong bias in favor
+of Spina. For is not "illis visis" simply the annalist's application
+of the Chronicle's general observation about Spina ("whatever
+had been made, when he saw it with his own eyes, he too knew
+how to make it") to the specific case of eyeglasses?39 The Annals'
+"illis visis" stands in the way of Redi's "aut audivit." The former
+had to be undermined if the latter was to triumph. Here, I sub-
+mit, is the concealed motive behind Canovai's unjustified con-
+demnation of the annalist. His onslaught, together with his trans-
+
+
+
+
+                                                                                                 Downloaded from http://jhmas.oxfordjournals.org/ at Georgetown University on May 27, 2015
+fer to the Chronicle of the Annals' statement about the inventor's
+unwillingness to communicate the art, must be viewed as part of a
+conscious plan to help propagate Redi's fraud, "aut audivit."
+     Another Pisan writer, Tempesti, a few years before Canovai,
+had likewise aided in spreading Redi's "aut audivit." Unlike
+Canovai, Tempesti failed to recognize that the excerpt attributed
+by Redi to the Chronicle was actually the Annals passage concern-
+ing Spina (see n. 34, above). Nevertheless, like Canovai, he knew
+the Chronicle at first hand. For he too quoted (p. 59) the sentence
+ ("Cantare . . . valent") omitted by Redi, and wrote "quae," not
+"quaecumque." He also replaced Redi's false reading "aliquo" by
+the correct reading "alio." Moreover, he inserted a word ("omni-
+bus") inadvertently40 dropped by Redi, and deleted a word ("et"
+between "facta" and "communicare") introduced by Redi without
+MS authority. Thus the evidence is conclusive that Tempesti was
+personally acquainted with the Chronicle. Yet he repeated Redi's
+substitution of "aut audivit" for "oculis."41 Not only Canovai,
+therefore, but Tempesti also must be designated a co-conspirator
+with Redi. The latter had misread the Chronicle's opening word
+      39 Hence I cannot agree with Bonaini's judgment: "As Canovai very wisely noted, the
+author of the Annals added on his own account that Friar Alessandro saw the eyeglasses
+of the first inventor" (Chronicle, p. 478).
+      40 "Inadvertently," because it is represented by "tutti" in Redi's Italian paraphrase
+ (Opere, vol. 2, p. 261), while "omnibus" appears in Redi-Dati No. 3 (Opere, vol. 7, p.
+254) and is therefore reflected in Dati's Veglia (Targioni, p. 60) . Moreover, "omnibus"
+occurs in the original version of Redi's Lettera (see n. 47, below). This earlier draft is
+still preserved in manuscript form at the National Central Library of Florence (hereafter
+designated "BNC") as Palatino 1208, Striscio 1370, p. 7.
+      41 Redi's mutilated version of the Chronicle passage about Spina was accepted by
+Del Guerra (Ann. Otlalm., 1933, 61, 383; Riv. Stor. crit. Sci. med. nat., 1933, 24, Atti, p.
+17). He failed to notice the discrepancies between Redi's readings and the Chronicle pas-
+sage, although he published a photocopy of the latter (fig. 2; Ann. Ottalm., p. 382; Atti,
+p. 15) . Coupling it with a facsimile of the Annals passage about Spina (fig. 3; Ann. Ottalm.,
+p. 383; Atti, p. 17), he claimed that both were "reproduced photographically for the first
+time." Yet (as was pointed out by Scalinci, Noe. A proposito di Alessandro della Spina e
+di storia della invenzione degli occhiali. Riv. Stor. crit. Sci. med. nat., 1933, 24, 140) Del
+Guerra cited Albertotti, 1914, who had published photocopies of both passages (p. 334,
+fig. 1: Chronicle; p. 335, fig. 2: Annals).
+24        Journal of the History of Medicine: JANUARY, 1956
+
+"Interroga" as "In toga."42 When Tempesti (p. 37) corrected this
+error, he blamed it on a French translator of Redi (cf. n. 105, be-
+low) , instead of on Redi himself.
+                           Spina and Galileo
+    Having ascertained the alignments of these two Pisan authors,
+Tempesti and Canovai, let us now look more closely at the Veglia.
+From childhood on, Dati had known Galileo intimately and ad-
+mired the great scientist immensely. Like many a contemporary
+Italian intellectual, the younger man courageously resolved to
+honor Galileo's memory, despite his condemnation by the Roman
+
+
+
+
+                                                                                                   Downloaded from http://jhmas.oxfordjournals.org/ at Georgetown University on May 27, 2015
+Catholic church.43 Dati's Veglia in fact belongs to the literature
+about Galileo. It opens with the arrival in Florence of a foreigner
+who has come from abroad for the express purpose of visiting the
+renowned astronomer. Because of his blindness the old man can
+entertain his guest in person but briefly and therefore asks certain
+of his disciples to look after the stranger. This is the setting created
+by Dati for the conversation which constitutes the core of the
+Veglia.
+    He has one of his characters say about Galileo (Targioni, p.
+5i):
+    As he himself relates most sincerely, first in the Sidereal message,4* then
+in the Saggiatore, news arrived in Venice that to Count Maurice in Holland
+there had been presented a telescope with which distant objects were seen
+as perfectly as if they were quite near, and nothing more. On this very simple
+report Galileo reflected, and in a short time he figured the instrument out.
+The expressions translated in italics (e niente piu. Sopra questa
+semplicissima relazione) emphasize that although Galileo heard
+about the telescope, he did not see it, as was alleged by his
+detractors.45
+    Is this not a remarkable analogy to the story of Spina and the
+eyeglasses? Only a single circumstance prevents the parallel from
+being perfect: the Chronicle implies and the Annals explicitly as-
+sert that Spina saw the spectacles made by the original inventor.46
+      42 Opere, vol. 2, p. 258; vol. 7, p . 253. T h e Chronicle begins (p. 399) by justifying
+itself with the following quotation from the Old Testament: "Interroga generationem
+pristinam, et diligenter investiga patrum memoriam" (Job 8:8; "Ask the previous genera-
+tion, and diligently seek the record of your predecessors," as the chronicler understood this
+verse).
+      43 T h a t Dati's stand required courage was emphasized by the Dominican Father Vin-
+cenzo Marchese, Scritti vari, 2d and 3d ed., Florence, i860, 1892, vol. 2 (Opere, vol. 4 ) , p .
+274.
+      44 Rosen, Edward. T h e title of Galileo's Sidereus nuncius. Isis, 1950, 41, 287-289.
+      45 Le opere di Galileo Galilei, national edition. Florence, 1890-1909; reprinted, 1929-
+39; vol. 10, p. 255, no. 233.
+      46 This point was heavily emphasized by Manni in his eagerness to claim the inven-
+tion for a fellow-Florentine, he fiorentinis inventis. Ferrara, 1731, p . 54.
+                     ROSEN: The Invention              of Eyeglasses                        25
+
+Is this not the reason why Dati carefully omitted from the Veglia
+the annalist's words "illis visis" (Having seen them), thereby
+falsely attributing to Spina a Galileo-like capacity to make what
+he had merely heard about without actually seeing it?
+    This dishonest attitude may have been imparted to Dati in the
+course of the conversations mentioned at the beginning of Redi-
+Dati No. 3. When Dati died two years later leaving the Veglia still
+in MS, Redi published his own Letter concerning the invention of
+eyeglasses." Inserting in this Lettera his fraudulent version of the
+Chronicle passage (wherein he replaced "oculis" by "aut audivit"),
+
+
+
+
+                                                                                                    Downloaded from http://jhmas.oxfordjournals.org/ at Georgetown University on May 27, 2015
+he inferred from it (Opere, vol. s, p. 260):
+that if Friar Alessandro Spina was not the first inventor of eyeglasses, at
+least it was he who by himself without any instruction rediscovered the
+method of making them; and that at the very time when he lived, this most
+useful invention first came to light. Exactly the same thing happened, by a
+certain coincidence of fate, to our most famous Galileo Galilei. Having
+heard the report that a certain Fleming had invented       the long spyglass,
+which is called by the Greek name "telescope,"48 he worked out a similar
+one solely with the aid of the theory of refractions, without ever having
+seen [what the Fleming invented].
+
+                        Giordano's Sermon
+   If we now feel confident that we have uncovered the true reason
+why Redi deleted "oculis" from the Chronicle and Dati disre-
+       47 Lettera intorno all' invenzione degli occhiali (Florence, 1678); not 1648, as in
+Pansier, Pierre. Histoire des lunettes. Paris, 1901, p. 1, and in Bourgeois, Alexandre.
+Recherches historiques sur l'origine des lunettes. Trav. Acad. nat. Reims, 1903, 113, 153.
+Les besides de nos ancetres. Paris, 1923, p. 73, and in Ovio, Giuseppe. Storia dell' oculistica.
+Cuneo, 1950, pp. 227, 1267 (cf. n. 16, above); nor 1668, as in Rocchi, Riv. Stor. crit. Set. med.
+nat., 1913, 4, 4, and in Albertotti, 1914, p . 330; nor 1676, as in Oliver, George H. T h e
+history of the invention and discovery of spectacles. Brit. med. J., 1913, 2, 1050, in Smith,
+E. Temple. T h e history of spectacles. Med. J. Aust., 1928, 15:2, 579, in Sorsby, Short history
+of ophthalmology, p. 70, in Thompson, Charles J. S. T h e origin and development of
+spectacles. The Connoisseur, 1934, 94, 233, and in Gordon, / . med. Soc. N. J., 1951, 48, 6.
+Redi addressed this Lettera in 1678 to Paolo Falconieri, who did not die in 1676, despite
+Bock, Die Brille und ihre Geschichte, p . 12. Perhaps Bock confused Paolo with his better
+known brother Ottavio, the classical archaeologist, who is often said to have died in 1676,
+although the correct date is 21 November 1675. Burman, Pieter. Sylloge epistolarum a viris
+illustribus scriptarum. Leiden, 1724-27, vol. 5, p. 577. Paolo, outliving his brother by al-
+most thirty years, died on 13 March 1704. Notizie istoriche degli Arcadi morti, ed. G. M.
+Crescimbeni. Rome, 1720-21, vol. 2, p. 9. He had become a member of the Accademia della
+Crusca on 3 August 1663 (Lettere di Redi, ed. Moreni, p. 152).
+Guglielmo Libri (Histoire des sciences mathematiques en Halie, Paris, 1838-41, vol. 2, p .
+75) complained that the Milan edition of Redi's Opere (see n. 15, above), although an-
+nouncing (vol. 7, p. 257) its intention of including the Lettera, failed to do so. Yet the
+Lettera was in the Opere, vol. 2, pp. 255-265. Libri's groundless complaint was echoed by
+Rognetta, Francesco. Recherches sur les lunettes. L'experience, 1842, 9, 145, and Ann.
+Oculist., Paris, 1842, supplementary volume 2, 106; by Narducci (see n. 69, below) ; and by
+Petella (Ann. Med. nav. colon., 1901, J:I, 824).
+       48 Rosen, Edward. The naming of the telescope. New York: Schuman, 1947. T h e
+similarity of Galileo's accomplishment to Spina's must have been an afterthought, since it
+is missing from the earlier draft of Redi's Lettera, mentioned in n. 40, above.
+26          Journal of the History of Medicine: JANUARY, 1956
+
+garded "illis visis" in the Annals,40 let us next take another look
+at the beginning of Redi-Dati No. 1:50
+     Last night Lorenzo Panciatichi told me that at our Accademia della
+Crusca you read one of your learned Veglie, in which you virtually demon-
+strated that the invention of eyeglasses is not ancient but modern, and a
+little before 1300.
+When Dati read the Veglia to Crusca in May, 1673, let us recall, he
+still knew nothing about the Spina passages in the Pisan Chronicle
+and Annals. On what, then, did he base his conclusion that eye-
+glasses were invented "a little before 1300"?
+
+
+
+
+                                                                                                                       Downloaded from http://jhmas.oxfordjournals.org/ at Georgetown University on May 27, 2015
+     In the Veglia he assigned to the interlocutor, whose long speech
+about Spina was quoted at the beginning of this article, the follow-
+ing answer to the question "When were eyeglasses invented?"
+ (Targioni, p. 59) :
+Not many years
+           52
+               before 1300, according to the assertion of Friar Giordano51
+da Rivalto, a most eloquent preacher of the order of St. Dominic, who
+
+     49 Despite Del Lungo, p. 13, Redi's Lettera made no mention of the Annals. He
+ignored it, according to Albertotti, 1914, p. 335, because "illis visis" lessened Spina's origi-
+nality. But Albertotti proposed no reason why Redi should have cared one way or the
+other about Spina's originality.
+     SOFontani, Elogio di C. R. Dati, p. 187; Albertotti, 1914, p. 330.
+     51 Not "Giacomo," as he was christened by Albertotti, Atti Accad. Padova, 1913-14,
+30, 312; on the previous page Albertotti had used the right name. Both "Giordano" and
+"Giacomo" appear on the same page (Riv. Stor. crit. Sci. med. nat., 1914, 5, 321) ; in the
+same journal (1921, 12, 30) the preacher's baptismal name was altered to "Girolamo" by
+Barduzzi.
+         52 O u r earliest sources call h i m "Friar Giordano (of Pisa) ." H e h a d already been dead
+a couple of centuries w h e n t h e appellation " G i o r d a n o d a R i v a l t o " first emerged, a new
+coinage evidently based o n a n inference from Chronicle entries ( p p . 482, 543) concerning
+two of h i s relatives. T h e Chronicle says t h a t o n e of them was his n e p h e w (nepos), a re-
+lationship later mistakenly altered by t h e Annals to " b r o t h e r " (germanus; cf. Chronicle,
+p . 5 4 5 ) . T h e Annals' " g e r m a n u s " was m i s a t t r i b u t e d t o t h e Chronicle by Pietro Cardosi
+on p . 376 of his Memorie sacre delle glorie di Pisa, written in 1675 a n d now preserved at
+B N C as MS I I I I I 170 (formerly Magliabechi MS, class xxxviii, codex 20) . Both of Gior-
+dano's relatives w h o a r e m e n t i o n e d in t h e Chronicle came from a locality near Pisa called
+" R i v a l t o . " M a k i n g h i m a brother (rather t h a n uncle) of o n e of t h e m strengthened t h e
+supposition t h a t h e too was b o r n at Rivalto, a n d t h e n a m e " G i o r d a n o d a R i v a l t o " became
+established in the literature. This supposititious name was subsequently reinterpreted
+when it was pointed out (Memorie, vol. 3, p. 90; vol. 4, p. 153) that a Pisan family of his
+day bore the surname "Da Rivalto." But no evidence links Giordano with this family and
+the inference from his relatives, although attractive, is less than conclusive. Like the An-
+nals and Cardosi, the Notizie intorno alia vita del b. Giordano da Rivalto (published
+anonymously at Pisa, 1834), p. 7, transformed Giordano's nephew into a brother; and
+Lodovico Orlandini, a priest whose ancestors once lived in Rivalto, advanced the utterly
+gratuitous claim that Giordano belonged to the Orlandini family. Gencalogia del b.
+Giordano da Rivalto. Pisa, igoo, p. 22. The most recent student of Giordano, abandoning
+the nomenclature so long in vogue, has reverted to the name "Giordano of Pisa," as the
+preacher was known to his contemporaries (cf. n. 94, below). Galletti, Alfredo. L'eloquenza
+ (dalle origini al XVI secolo) . Storia dei generi letterari italiani. Milan, 1938, p. 147.
+Rivalto was near Pisa, not Piacenza, as was mistakenly asserted by Miiller, Curt. Die Brille,
+ihre Geschichte und ihre Entwicklung. Berlin, 1911, p. 7, and Feldhaus, Franz Maria. Die
+Technik der Vorzeit, der geschichtlichen Zeit und der Naturvolker. Leipzig, Berlin, 1914,
+col. 138.
+                       ROSEN: The           Invention of Eyeglasses                                   27
+flourished and preached in Santa Maria Novella a little after that time. In 53
+one of his sermons,54 cited in our Vocabolario [degli accademici della
+Crusca, the famous Italian dictionary] from a MS belonging to me, he says:
+"It is not yet twenty years since there was found the art of making eye-
+glasses which make for good vision, one of the best arts and most necessary
+that the world has."
+When this speaker, Filippo Pandolfini,55 quoted from one of his
+own MSS, did he act in good faith or was he another Redi? Did he
+actually own a MS of Giordano's sermons, and did he reproduce
+the passage from it without any alterations?
+
+
+
+
+                                                                                                              Downloaded from http://jhmas.oxfordjournals.org/ at Georgetown University on May 27, 2015
+    At the Mediceo-Laurentian Library in Florence a MS of Gior-
+dano's sermons contains, in the last five lines of the second column
+on the recto of folio 57,56 the passage quoted in the Veglia by
+Pandolfini. He formerly owned this MS, which still carries his name
+in two places: on a little piece of paper firmly glued to the first
+folio, recto, bottom margin; and on the last folio, recto. His MS5T
+later passed into the possession of the Pucci family.58 After the
+death of Giuseppe Pucci (1782-1838)59 the heirs sold the family
+MSS in 184060 to the historian of mathematics, Guglielmo Libri, 61
+
+      53 Not "after," as was said by Oliver (Brit. med. ']., 1913, 2, 1050), followed by Smith
+ (Med. J. Aust. 1928, 15:2, 579).
+      54 N o t "treatises," as was said by Amati, Giacinto. Ricerche           storico-critico-scientifiche
+suite origini, scoperte, invenzioni e perfezionamenti.      Milan, 1828-30, vol. 4, p . 144.
+      55 Pandolfini (1575-1655) was a disciple of Galileo, who proposed him for member-
+ship in the Accademia dei Lincei, to which h e was admitted in 1614. Opere di Galileo,
+vol. 12, p . 18.9-11, a n d vol. 19, p . 267. Mem. Accad. Lincei, dasse di scienze morali, storiche
+e filologiche, series 6, 1938-39, 7, 484. Pandolfini belonged also to the Accademia della
+Crusca, which he joined in 1601. Lettere di Redi, ed. Moreni, p. 137 (12 December), p .
+179 (28 N o v e m b e r ) .
+      50 N o t "54," as in Albertotti, 1914, p . 356. T h e folio n u m b e r refers to the modern,
+not t h e original, numeration.
+      57 T h e library of t h e Pandolfini family, when catalogued in the early 1500's (see
+Catalogo della libreria Pandolfini, Florence, 1884, p . 6 ) , did not contain Giordano's ser-
+mons, which evidently were acquired later in the sixteenth century or early in the seven-
+teenth. For the name of an owner earlier than Filippo Pandolfini, see Levasti, Arrigo.
+Mistici del duecento e del trecento. Milan, R o m e , 1935, p . 1000. I n 1691, a generation after
+Filippo Pandolfini's death, his MS belonged to Senator R u b e r t o Pandolfini, according to
+the 3d ed. of the Vocabolario degli accademici della Crusca, vol. 1, p . 43.
+      58 T h e unpublished Catalogo dei manoscritti della libreria Pucci listed, besides Pan-
+dolfini's, a second MS of Giordano's sermons, which it described as lacking the last of 258
+leaves. Narducci, Enrico. Prediche inedite del b. Giordano da Rivalto (Collezione di opere
+inedite o rare, vol. 16). Bologna, 1867, p . xliii. T h i s work will be cited hereafter as "Nar-
+ducci, Prediche       inedite."
+      59 Migliarini, Arcangelo M. Alcuni port alia memoria del marchese cavaliere                Giuseppe
+Pucci. Florence, 1839.
+      60 Not 1843, despite Leopold Delisle, Notices et extraits des manuscrits de la Biblio-
+theque nationale, 1886, 5 2 : / , 18. Perhaps h e confused the year of their purchase in Florence
+ (1840) with the year of their arrival in France (1843); see Re'ponse de M. Libri au rap-
+port de M. Boucly (Paris, 1848), p . 87; (London, 1848) , p . 62.
+      61 Libri, Leltre a M. de Falloux. Paris, 1849, PP- 7*>> 3 1 2 -
+28           Journal of the History of Medicine: JANUARY, 1956
+
+who kept them only a few years. His collection62 was bought secretly
+in 184763 by Bertram, 4th earl of Ashburnham (1797-1878) ,64 the
+catalogues of whose MSS listed two volumes of Giordano's sermons
+as "Libri 532, 533-"65 The Libri portion of the Ashburnham MSS
+was acquired in 1884 by the Italian government, which assigned
+numbers 464 and 465 to Giordano's sermons (some of the Libri
+MSS having been restored to France) .66 The Mediceo-Laurentian
+Library was chosen as the most appropriate repository, and thus
+after an absence of four decades Pandolfini's MS of Giordano's
+sermons returned to Florence, where it is now called "Ashburnham
+533, formerly 46s." 67
+
+
+
+
+                                                                                                                               Downloaded from http://jhmas.oxfordjournals.org/ at Georgetown University on May 27, 2015
+     This brief glance at its history and contents is enough to show
+that Pandolfini played no Redi-like tricks in his quotation from
+Giordano. May we not even presume that it was he who first
+called Dati's attention to the passage in Giordano's sermon which
+is still our most important source for dating the invention of eye-
+glasses?68 The statement that "It is not yet twenty years since there
+was found the art of making eyeglasses" forms part of a Lenten
+      62 p . L. Jacob, bibliophile (one of the pseudonyms of Paul Lacroix). Catalogue des
+manuscrits acquis par G. Libri. Le bibliophile beige, series 3, 1872, 7, gi-103; the two
+volumes of Giordano's sermons which were bought by Libri from Pucci are listed on p.
+113. Libri's handwritten catalogue of his MSS is now in the Mediceo-Laurentian Library,
+MS Ashburnham Appendix 1854.
+      63 Not "1846," as in the Catalogo delta libreria Pandolfini, pp. 12, 17.
+      04 Delisle. Les manuscrits du comte d'Ashburnham. Bibliotheque de I'&cole des chartes,
+1883, 44, 204-206. Catalogue des manuscrits des fonds Libri et Barrois. Paris, 1888, pp.
+xxiii-xxvi. The earl's name was not "Askbaretam," as Greeff jumbled it (Z. ophthal. Opt.,
+igi8, 6, 10) .
+         83 Catalogue of the manuscripts at Ashburnham               Place. L o n d o n , n.d., p a r t 1. Eighth
+report of the royal commission on historical manuscripts,                 a p p e n d i x , p a r t 3. L o n d o n , 1881,
+p . 50. Since N o . 533 was described as h a v i n g 258 n u m b e r e d leaves, Pandolfini's MS, which
+h a s only 161 leaves, must h a v e been N o . 532.
+         80 Raccolta degli atti stampati per ordine della camera. Camera dei deputati,                                legis-
+latura XV, sessione 18S2-S6, R o m e , 1886, 17, n o . 225, p . 30; o r Ministero della                           pubblica
+istruiione, Bollettino ufficiale, 1884,10, 559. Since N o . 465 was t h e 258-leaf MS, Pandolfini's
+MS must have been N o . 464.
+         67 I n t h e process of transfer from E n g l a n d to Italy, t h e A s h b u r n h a m n u m b e r s for t h e
+two Giordano MSS were interchanged. T h e English catalogues called Pandolfini's MS N o .
+532, a n d t h e 258-leaf MS N o . 533 (see n . 65, a b o v e ) . T h e Italian official lists assigned N o .
+464 to Pandolfini's MS, a n d N o . 465 to t h e 258-leaf MS (see n . 66, a b o v e ) . Hence arose t h e
+designations "532, formerly 464" (for t h e Pandolfini M S ) , a n d "533, formerly 465" (for
+t h e 258-leaf M S ) . B u t i n t h e Mediceo-Laurentian Library t h e shelf m a r k " A s h b u r n h a m
+532, formerly 464" denotes t h e 258-leaf MS, a n d " A s h b u r n h a m 533, formerly 4 6 5 " P a n -
+dolfini's MS. / codici Ashburnhamiani            della Biblioteca Medicea Laurenziana                        di Firenze
+ (Ministero della p u b b l i c a istruzione, Indici e cataloghi, vol. 8, e d d . Cesare Paoli, Enrico
+Rostagno a n d Teresa Lodi, R o m e , 1888-1948) has n o t yet reached Pandolfini's MS.
+        68 Redi-Dati N o . 1 shows t h a t while reading t h e Veglia to Crusca, Dati d a t e d t h e in-
+vention a little before 1300. Hence i n May, 1673, h e h a d already h e a r d from Pandolfini
+a b o u t t h e passage i n Giordano's sermon. W r i t i n g from Pisa o n 5 March 1674, R e d i sent to
+D a t i t h e entry in t h e Chronicle about Giordano, with an apology for having previously
+overlooked it, presumably i n Redi-Dati N o . 2 a n d N o . 3 (Opere, vol. 5, p p . 84-86). I n
+short, Dati learned about Giordano's sermon from Pandolfini, before the latter died in
+1655; and from Redi about the Pisan Chronicle and Annals not until November, 1673—
+March, 1674.
+                     ROSEN: The Invention             of Eyeglasses                        29
+
+sermon69 delivered by Giordano70 at Florence71 in the church of
+Santa Maria Novella on Wednesday morning, sg72 February73
+130574 (Florentine style, or 23 February 1306, common style).
+This is the principal reason for dating the invention shortly after
+1286.75
+                          Who was the Lettore?
+    At the point where Pandolfini's quotation from the sermon
+stopped, the text continues as follows:76
+So short a time is it since there was invented a new art that never existed.
+And the lettore said, "I have seen the man whofirstinvented and created it
+
+
+
+
+                                                                                                   Downloaded from http://jhmas.oxfordjournals.org/ at Georgetown University on May 27, 2015
+and I have talked to him."
+The second of these two sentences "has no place in this sermon,"
+wrote Manni, on the supposition that it was originally a marginal
+note and was later incorporated in the text by a foolish copyist
+ (Ragionamenti, pp. 116-117). Manni's notion was uncritically ac-
+cepted by Albertotti, who declared that the sentence "can be con-
+sidered a gloss."77 Insofar as the words "And the lettore said" inter-
+rupt the flow of the sermon, they resemble a gloss. But the purpose
+      69 Narducci, Enrico. Tre prediche inedite del b. Giordano da Rivalto (cited hereafter
+as "Narducci, Tre prediche"). Rome, 1857, p. 55. Offprinted from Giornale arcadico di
+scienze, lettere ed arti, 1857, J4&> 1 2 1 - Narducci repeated Libri's mistaken complaint about
+the Milan edition of Redi's Opere (see n. 47, above), and also followed Muratori's er-
+roneous ascription to the Chronicle of the Spina passage in the Annals (see n. 29, above;
+Tre prediche, pp. 21, 23; Giornale arcadico, pp. 87, 89).
+      70 T h e statement was not made in 1305 by Pandolfini (1575-1655), despite Masson,
+France me'd., 1908, 55, 201. More than three centuries after the statement was made in
+1306 by Giordano, it was quoted by Pandolfini.
+      71 Not Piacenza, as in Conn, Hermann. Zur Geschichte der Brillen. Gartenlaube, 1895,
+p. 367. This error by the professor of ophthalmology at the University of Breslau was
+promptly echoed by Beckman, L. T h e invention of spectacles. Opt. J., 1895-96, / , 126. T h e
+Cohn-Beckman confusion of the city where Giordano preached with the city where he died
+ (see n. 139, below) was repeated by Feldhaus, Die Technik der Antike und des Mittelallers.
+Potsdam, 1931, p. 309, and also by Sarton, Introduction, vol. 2, p. 1025. Piacenza, where
+Giordano died, was transformed into his birthplace by Homer, Johann F. H. Ueber Bril-
+len, aus alter und neuer Zeit. Neujahrsblatt zum Besten des Waisenhauses in Zurich
+ (Neujahrsbldtter der Chorherrenstv.be, no. 107). 1885, 4&> 10 - Homer's blunder was copied
+by Bock, Die Brille und ihre Geschichte, p. 10; Golesceano, Clin. prat, mid.-chir., 1914, 10,
+29; Singer, Studies in the history . . . of science, vol. 2, p. 399; and Reis, Folia ophthal.
+orient., 1932"34. *, 399-
+      72 Not "28," as in Thompson, Connoisseur, 1934, 94, 232.
+      73 This Lenten sermon was preached neither in January (despite Rouyer, Coup d'oeil,
+p. 20) nor in November (despite Davidsohn, Robert. Geschichte von Florenz. Berlin, 1896-
+1927, vol. 4, part 2, p. 12). Davidsohn's error was repeated by Von Lippmann, Edmund O.
+Mitt. Gesch. Med. Naturw., 1927, 26, 278. Lippmann also termed the Dominican monastery
+of St. Catherine a nunnery (because its patron saint was a woman?), located it in Florence
+instead of Pisa, made it the repository of Giordano's sermon instead of the Chronicle, and
+called the preacher "Rivolta."
+      74 Not 1300, as in Golesceano, Clin. prat, mid.-chir., 1914, 10, 29, and Greeff, Dtsch.
+opt. Wschr., 1922, 8, 602. Although Albertotti gave the date of the sermon correctly in
+1914 (p. 347, no. 2) , in later years (Atti Accad. Padova, 1922-23, 59, 233; Ann. Ottalm., 1923,
+51, 684; 1924, 52, 276) he assigned it to 1317, by confusion with another (supposed) event
+connected with the invention of eyeglasses (cf. n. 161, below). By another confusion the
+year 1305 was assigned to the Chronicle by Greeff (Erfindung, p. 113), followed by Garri-
+son (Introduction to the history of medicine, 4th ed., 1929, p. 185).
+30          Journal of the History of Medicine: JANUARY, 1956
+
+of a gloss is to explain some difficulty or obscurity in a text. "And
+the lettore said" should rather be regarded as a narrative formula.
+    How does it happen that such narrative formulas sometimes
+occur in Giordano's sermons as these have come down to us? It was
+not his habit to elaborate a discourse in all its details and commit
+it to writing before delivering it, as Manni once mistakenly
+thought.78 Instead Giordano spoke extemporaneously on a theme
+about which he had meditated. His usual procedure is reflected in
+what he told the audience on two occasions about his own
+performance:
+
+
+
+
+                                                                                                  Downloaded from http://jhmas.oxfordjournals.org/ at Georgetown University on May 27, 2015
+I thought of preaching to you not about that, but about something else; but
+when it pleased Him79 that I should be so fluent80 in this, thank God this
+has really been a good sermon. But anyway I want to tell you a little about
+what I had planned to say.81
+      75 The order of events was reversed (the invention being dated in 1305, and Giordano's
+sermon in 1285) by Gordon, /. med. Soc. N. ]., 1951, 48, 5. Davidsohn remarks (vol. 4,
+part 2, p. 12) that ground or polished (geschlilfenenj crystal was used before 1286 to read
+the epitaph on a spurious relic. But the Latin chronicle from which he professes to be
+quoting contains nothing corresponding to "geschliffenen." What the chronicler actually
+said was that "the epitaph could hardly be read with a crystal on account of the age of the
+writing." He undoubtedly referred to a magnifying glass made of crystal, not to a pair of
+eyeglasses. Davidsohn dated the episode about 1285, whereas his source put it in 1283, itself
+an error for MCCLXXX, because the "III" properly designated the day of the month; see
+Monumenta Germaniae historica, scriptores, vol. 32 (Hanover and Leipzig, 1905-13), pp.
+520, 685. The chronicler does not say or imply that he personally used the crystal, despite
+Albertotti, Altri dati riguardanti la storia degli occhiali. Atti Soc. Med.-chir. Padova, 1923-
+24, 2, 174 (with a facsimile of the MS passage in table 1) and Von Lippmann, Mitt. Gesch.
+Med. Naturw., 1927, 26, 278-279. Eyeglasses may have developed from such aids to vision,
+as was suggested by Hallauer, Otto. Die Brille 100 Jahre vor und 100 Jahre nach der
+Erfindung der Buchdruckerkunst. Universitdtsaugenklinik und Augenheilanstalt Basel 1864-
+1914. Basel, 1915, pp. 126-127, rather than from the ornaments and small window panes
+proposed by Ronchi. Galileo e il cannocchiale. Udine, 1942, p. 39. Perche non si ritrova
+l'inventore degli occhiali? Riv. ojtal., 1946, /, 142-143. Storia delle lenti. Atti d. fond. G.
+Ronchi. 1947, 2, 4. Occhi e occhiali. Bologna, 1948; 2d ed., 1951, pp. 1-2. Ronchi was
+confident the inventor found eyeglasses by chance while looking for something else
+ (as John Stuart Mill said happiness is found). But if so, why were eyeglasses found about
+1286, not long after Ibn al-Haitham's Optics, the greatest Muslim treatise on the subject,
+had been made available in Latin translation, evoking discussions by Grosseteste, Roger
+Bacon, Witelo and Peckham? Two of these writers had emphasized the possibility of im-
+proving human vision by utilizing the refractive properties of transparent media. To be
+sure, they did not correctly understand the process of vision in the normal human eye, let
+alone the farsighted eye of the aged, nor did they know the true law of refraction. There-
+fore we can readily agree with Ronchi that the invention did not result from the applica-
+tion of sound theoretical principles. But this conclusion is by no means tantamount with
+invoking the operation of pure chance. May we not envisage an experienced glass-worker
+whose imagination was stirred by theoretical writings which, although not successful in
+solving the problem, at least pointed out the direction where the solution lay?
+     76Narducri, Tre prediche, p. 60; Giornale arcadico, 1857, 146, 126.
+     77 1914, p. 354, no. 6. Lettera intorno alia invenzione degli occhiali, Ann. Ottalm.,
+1922, $o, 85-86 (cited hereafter as "Albertotti, 1922"). Manni, on the other hand, was care-
+ful to say that the "marginal note" came from Giordano's own lips (Ragionatnenti, pp.
+116-117).
+     7S Ragionamenti, p. 117. In later years, when he became better acquainted with
+Giordano's sermons, he abandoned this erroneous conception (Manni, p. 73). Yet it was
+repeated by Pansa, Giovanni. L'invenzione degli occhiali. // Bibliofilo, 1886, 7, 17. Pansa
+also attributed the Annals passage about Spina to the Chronicle (cf. n. 29, above).
+     79 Reading "lui" (with Galletti, L'eloquenza, p. 161) instead of "lei."
+                     ROSEN: The Invention              of Eyeglasses                       31
+I am so full, and I have so much in me, and I am so rich that I do not know
+what to say to you. I have said nothing of what I prepared, not a thing.82
+Giordano's utterances were preserved (and thereby became the
+oldest extant specimens of preaching in the Italian language) be-
+cause they were taken down by one or more devoted hearers.83
+Thus the MSS84 of Giordano's sermons contain statements like
+these:85
+At this sermon I was not present, except toward the end; I shall write down
+what I heard.
+I arrived when he had already half finished.
+
+
+
+
+                                                                                                   Downloaded from http://jhmas.oxfordjournals.org/ at Georgetown University on May 27, 2015
+I was not present at the beginning. . . . Up to this point I was not present,
+but I heard some few words of it repeated, and I have given them above.
+From here on I heard it.
+This sermon was better organized and longer; this is just a summary; I was
+not there, but I got it by word of mouth from several who were present.
+In this sermon Friar Giordano told many stories, both old and new, which
+I have omitted for the sake of brevity.
+This was a long sermon, but it is written here in abbreviated form.
+Of this sermon I write only a summary.
+At these learned sermons a very great crowd was present.
+It was these self-appointed scribes80 (as we may call them) who in-
+troduced narrative formulas in their versions of the sermons, most
+frequently in the form "Friar Giordano said . . ." The concluding
+sentence of our sermon, for example, is preceded by the formula
+"And therefore Friar Giordano said . . Z'87
+    But who is the lettore? Unfortunately this reference was mis-
+understood by Girolamo Tiraboschi, the first historian of Italian
+      80 Reading "scorso" (not "scarso," as in Galletti, p . 161, and in Mioni, Ugo. II b.
+Giordano detto da Rivalto. Pisa, 1927, p . 28).
+      81 Prediche del b. F. Giordano da Rivalto, edited by Anton Maria Biscioni (see p .
+xxxxv) with an introduction by Domenico Maria Manni (cited hereafter as "Manni-
+Biscioni"). Florence, 1739, p . 121. Manni's introduction was reprinted in vol. 1, p p . xix-
+xlviii, of Giordano's sermons when they were included in the Biblioteca scelta di opere
+italiane antiche e moderne (vol. 384-386, Milan, 1839).
+      82 Biblioteca scelta, vol. 386, p. 60.
+      83 Galletti, pp. 150-151. Earlier sermons delivered before laymen in the language of the
+people have survived, if at all, only in abridged Latin translations. Galletti, pp. 59-60, 68-
+70, 9!-95-
+      84 These are more numerous than the MSS of any other Italian preacher, including
+Savonarola. Galletti, p. 150.
+      85 Manni-Biscioni, p. 106; Prediche del b. Fra Giordano da Rivalto, ed. Domenico
+Moreni, Florence, 1831 (cited hereafter as "Moreni"), vol. 1, p. 44; vol. 2, pp. 77-78;
+Manni-Biscioni, pp. 193, 192, 297, 303; Moreni, vol. 2, p. 238; Biblioteca scelta, vol. 384,
+p. 169; vol. 386, p. 155; vol. 385, pp. 282-283; vol. 384, pp. 358, 355; vol. 385, pp. 116, 127,
+359. Cf. Maggini, Francesco. Saggi di prediche inedite di Giordano da Rivalto. Studi di
+fdologia italiana. 1938, 5, 30.
+      881 say "scribe" in deliberate opposition to the use of "copyist" by Manni, who for a
+time mistakenly supposed that Giordano was the first to write down the texts of his sermons
+ (cf. n. 78, above).
+      87 Narducci, Tre prediche, p. 67; Giornale arcadico, 1857, 146, 133.
+32       Journal of the History of Medicine: JANUARY, 1956
+
+literature, who remarked: "Whoever took down the sermon from
+Giordano's mouth, and wrote it out, could easily have known the
+inventor and talked to him."88 Yet there is no lexicographical war-
+rant whatever for equating lettore with "scribe." On the other
+hand, a MS containing our sermon bears the following title: "Ser-
+mons of Friar Giordano of the Dominican Friars when he was in
+Florence as lettore [teacher] of the Friars."80 From this MS,
+Biscioni, the earliest editor of the sermons, took the first of his two
+groups of Giordano's discourses, and printed the title of the MS
+in two places, while Manni specifically identified Giordano as the
+
+
+
+
+                                                                                                 Downloaded from http://jhmas.oxfordjournals.org/ at Georgetown University on May 27, 2015
+lettore.90 All this was overlooked by Tiraboschi, perhaps a pardon-
+able oversight on the part of a pioneer who undertook to discuss a
+vast number of authors and subjects. But when the Chronicle was
+published in 1845, lt made known (p. 451) to everyone interested
+in Giordano that he lectured on theology "in the general seminary
+ [conducted by the Dominican order in the monastery of Santa
+Maria Novella] in Florence; then for three years he was principal
+lector in the same place."01 Despite the evident equivalence of
+Latin lector with Italian lettore, the Giordano specialist who
+edited our sermon repeated Tiraboschi's error.92 Then the minutes
+were published of a meeting in 1305 of Giordano's provincial
+chapter.93 At that meeting a certain friar was assigned to teach at
+the seminary in Florence with the proviso that if he could not
+      88 Storia delta letteratura italiana, tome 4, part 1, book 2, chapter 2, no. 26. Ed.
+Modena, 1787-94, vol. 4, p. 199. Tiraboschi's remark was quoted with approval by Ram-
+belli, Gianfrancesco. Intorno invenzioni e scoperte italiane. Modena, 1844, p. 137.
+      89 / manoscritti delta r. Biblioteca Riccardiana di Firenze (Ministero della pubblica
+istruzione, Indici e cataloghi, vol. 15, ed. Salomone Morpurgo, Rome, 1893-1900), no. 1268,
+pp. 329-330. Cf. Moreni, vol. 2, p. 326; Narducci, Prediche inedite, p. xlii; and Davidsohn,
+vol. 4, part 3, Anmerkungen, p. 16. Narducci's edition of our sermon (Tre prediche, pp.
+18, 55-67; Giornale arcadico, 1857, 146, 84, 121-133) w a s based on this MS Riccardiano
+1268, fol. i35r-i3gr; the passage about eyeglasses begins on fol. 1361/, column 2, and runs
+over to fol. i37r, column 1 (facsimile in Albertotti, 1914, p. 338, fig. 3).
+      90 Manni-Biscioni, pp. xxx, xxxiv, 1. Ragionamenti, pp. 115, 116, 119. Manni, pp. 72-
+73. Biblioteca scelta, vol. 384, pp. xxv, xxxvi.
+      91 Cf. Chronicle, p. 401. In an unpublished sermon of 4 March 1305 (Florentine
+style; 1306, common style; "1365" is a misprint) Giordano reminded his listeners: "I have
+preached to you three years already" (Giornale storico della letteratura italiana, 1898, 31,
+18; 1899, 33, 195). His sermons range in date from January 1303 to September 1306 (with
+two more in 1309, when he returned to Florence for a meeting of his provincial chapter).
+He did not "find himself occasionally in Florence for the purpose of preaching," as Al-
+bertotti mistakenly thought (1914, p. 339) . Biblioteca scelta, vol. 384-386, reprinted the
+sermons in chronological order. Those preached in 1306 were overlooked by Orlandi,
+Necrologio, vol. 1, p. 495.
+      92 Narducci (Tre prediche, p. 25; Giomale arcadico, 1857, 146, 91), followed by Mar-
+tin, Thomas-Henri. Sur des instruments d'optique faussement attribues aux anciens. Bui-
+lettino di bibliografia e di storia delle scienze matematiche e fisiche, 1871, 4, 237.
+      93 Masetti, Monumenta . . . ordinis praedicatorum, vol. 1, p. 304, mistakenly called the
+meeting a general chapter, although he included the meeting at Rieti on 13 September
+1305 in his list of provincial chapters (vol. 1, p. 41). Hence for Davidsohn (vol. 4, part 3)
+it was both a general chapter (p. 69) and a provincial chapter (Anmerkungen, p. 16) .
+                     ROSEN: The       Invention of Eyeglasses                           33
+
+carry out the assignment, "we appoint Friar Giordano of Pisa
+lector in the same seminary."94 An ex-Jew who had accepted con-
+version to Christianity (the only alternative being death) was
+called by Giordano
+"my associate friar, and I have traveled with him many times, and he was a
+learned man and he was lettore in Naples" [Moreni, vol. 2, p. 231].
+Yet Albertotti (1922, pp. 85-86), an historian of eyeglasses, persisted
+in accepting the Tiraboschi-Narducci error, thereby ignoring the
+decisive evidence that had accumulated in support of the sound
+interpretation originally put forward (Manni, p. 74) and subse-
+
+
+
+
+                                                                                              Downloaded from http://jhmas.oxfordjournals.org/ at Georgetown University on May 27, 2015
+quently reiterated (Tempesti, pp. 60-61). Therefore when we read
+in our sermon that
+the lettore said "I have seen the man who first invented and created it [the
+new art of eyeglasses] and I have talked to him"
+we may with complete confidence reject the.Tiraboschi-Narducci-
+Albertotti error and hold that the quoted statement was made by
+Giordano himself, not by any scribe, as an integral part of his dis-
+course and not as a gloss (still less, part of a gloss).
+     The preacher was designated by name instead of by his office
+in another sermon (Narducci, Prediche inedite, p. 183), in which
+he talked about a noteworthy object at Milan and three at Cologne:
+And Friar Giordano said "I have seen it" . . . and Friar Giordano said "I
+have seen them."
+Of a form strikingly similar to our whole passage is the account in
+still another sermon (Moreni, vol. 2, pp. 227-228) of the killing
+of over 24,000 Jews in one phase of the Rindfleisch pogroms:
+It is not yet four years since this took place in Germany. And Friar Giordano
+said: "I was in that region when it happened . . ."
+     The purport of our whole passage was misinterpreted by Tem-
+pesti, who thought (p. 61) that it "announced from the pulpit, as
+important news (pubblicare dal pulpito, come notizia di rimarco),
+the new art of making eyeglasses." True, Giordano did use the ex-
+pression "new art that never existed" (arte novella che mai non
+fu) . But he said it had been invented nearly twenty years before.
+In other words, the new art had long ceased to be news, in any
+     94 Masetti, vol. 1, p. 131; improved reading at vol. 1, p. 304. Note the contemporary
+designation "Giordano of Pisa" (cf. n. 52, above, and Narducci, Prediche inedite, p.
+xxxviii) ; he was known by no other name to a historian of the Dominican order as late as
+1517. Alberti, Leandro. De viris illustribus ordinis praedicatorum. Bologna, 1517, p. 226r.
+At this same meeting of 1305 the initiator of the Chronicle, Bartolomeo da San Concordio,
+was assigned to the Dominican monastery at Arezzo (Nfasetti, vol. 1, p. 131). Cf. Thomas
+Kaeppeli, "Acta capitulorum provincialium provinciae romanae," Monumenta ordinis
+fratrum praedicatorum historica, 1941, 20, 154.21-25.
+34        Journal of the History of Medicine: JANUARY, 1956
+
+proper sense of that term. Giordano's purpose in referring to the
+invention was not, as Tempesti mistakenly thought, to announce
+important news. He cited it rather as an example of the unfailing
+ingenuity of mankind:95
+All the arts are found by man. Man doesn't make them, but he finds them;
+and yet they haven't all been found. The finding of arts will never come to
+an end. Any day one of the arts could be 96found. Does the jester mention90
+them all in the song? He doesn't mention them all, because in the world
+there are plenty of them that he doesn't know. From that song are missing
+many arts that are carried on beyond the mountains. Up there in Paris is a
+great art of carving and cutting precious stones, which is a great art there.
+And thus throughout the world there are many       of them that you don't
+
+
+
+
+                                                                                                  Downloaded from http://jhmas.oxfordjournals.org/ at Georgetown University on May 27, 2015
+know, 08and yet they haven't all been found.97 Many of them have been
+found, but 99any day a new one could be found, and new ones are always
+being found. It is not yet twenty years since there was found the art of
+making eyeglasses. . . .
+Anyone still inclined to regard our fourteenth-century ancestors as
+indifferent to innovation would do well to ponder the following
+pronouncement by Giordano (Manni-Biscioni, p. 26) :
+Familiar things which man knows, he ordinarily cares little about and has
+little desire for them; but should there be something new and unfamiliar,
+people usually want very much to know it.
+This avid public interest in novel things will later be seen to have
+an important bearing on the question where eyeglasses were
+invented.
+                              Redi's "Lettera"
+     But now we should examine how Redi's Lettera treated Gior-
+dano's sermon about eyeglasses. Like Pandolfini in Dati's Veglia,
+Redi quoted only this portion (Opere, vol. 2, p. 261) :
+It is not yet twenty years since there was found the art of making eyeglasses
+which make for good vision, one of the best arts and most necessary that the
+world has.
+He did not quote what immediately follows:
+     95Narducci, Tre prediche, pp. 59-60; Giornale arcadico, 1857, 146, 125-126. Feldhaus
+was utterly mistaken when he said (Technik der Antike, p. 309) that Giordano praised
+the invention of eyeglasses as a "divine gift."
+     86 Reading "mentova" (not "trova," as in Manni, p. 73). The jester's song has been
+preserved, despite Davidsohn, vol. 4, part 2, p. 12; see Pio Rajna, Zeitschrift fiir romanische
+Philologie, 1881, 5, 30-40, and De Bartholomaeis, Vincenzo. Rime giullaresche e popolari
+d'Halia. Bologna, 1926, pp. 17-20.
+     97-98 The material between these two numbers is lacking in Manni, p. 73.
+     09 Yet Pansa could say that this text discusses art and not invention (Biblioplo, 1886,
+7, 17). Consistency is a virtue hardly to be expected in a popular preacher like Giordano.
+In a sermon delivered on 14 February 1304 (Florentine style; 1305, common style), about a
+year before ours, he said: "Today every common man is enlightened. There are so many
+books and wise things written down as to be without number. Our ignorance is due only
+to negligence in not reading. Everything has been worked out for us. Nothing remains to
+be said. Hence today a new book couldn't be made, nor a new art" (Manni-Biscioni, p.
+•58)-
+                     ROSEN: The Invention              of Eyeglasses                       35
+So short a time is it since there was invented a new art that never existed.
+And the teacher said, I have seen the man who first invented and created
+it and I have talked to him.
+Why did he omit this continuation?
+     Before attempting to discover the true reason, we must dis-
+pose of a specious explanation. The continuation was first pub-
+lished,100 half a century after Redi's Lettera, by Manni, who in-
+sisted that Redi never saw these words.101 Some sixty years later the
+passage was said to have been taken by Manni "from a more ob-
+scure MS" (Tempesti, p. 60), and to have been "dug out of an-
+other MS" (Canovai, Memorie, vol. 2, p. 244). Both these writers
+
+
+
+
+                                                                                                   Downloaded from http://jhmas.oxfordjournals.org/ at Georgetown University on May 27, 2015
+implied that the continuation was lacking in the Giordano MS
+knowri to Redi. In their time such a misconception may have been
+excusable. But Albertotti102 also said of Manni that "he takes ad-
+vantage of a passage in other MSS" than the one used by Redi.103
+Yet in the Lettera (Opere, vol. 2, p. 261) Redi quoted from the
+"sermons of Friar Giordano da Rivalto in Filippo Pandolfini's
+MS." And Albertotti personally examined Pandolfini's MS (now
+Ashburnham 533) at the Mediceo-Laurentian Library in Flor-
+ence and copied the continuation from it.104 Redi's reason, there-
+fore, for omitting the continuation from his Lettera was not its un-
+availability to him as Manni, Tempesti, Canovai, and Albertotti
+mistakenly supposed. He had the passage before his eyes in Pan-
+dolfini's MS and deliberately excluded it from the Lettera.
+     He also pretended in the Lettera not to know the exact date of
+our sermon. After quoting Giordano's statement that the inven-
+tion of eyeglasses was less than twenty years old, and pointing out
+that the preacher died in 1311, Redi concluded {Opere, vol. 2,
+p. 262) :
+Therefore, it seems to me, I can honestly (ingenuamente!) declare that the
+art of making eyeglasses is a modern invention and was discovered in Tus-
+cany105 in the years which ran, to state it broadly, from 1280 to 1311.106 And
+this period could be narrowed down even more if it were known or could be
+guessed in what year Friar Giordano delivered the sermon. In some MSS
+I have found it written among those which he preached in Florence about
+1305-
+     100 Ragionamenti, p. 116; Manni, p. 73.
+     101 Ragionamenti, p. 118.
+     I" 2 1914, p. 338; followed by the editor of Riv. Stor. crit. Sci. med. nat., 1914, 5, 321;
+by Greeff, Z. ophthal. Opt., 1919, 7, 7; Erfindung, p. 75; and by Del Guerra. Ann. Ottalm.
+1933, 61, 384. Riv. Stor. crit. Sci. med. nat. 1933, 24, Atti, p. 18.
+     103 Albertotti (1914, p. 337) applied the term "variant" to Manni's quotation as com-
+pared with Redi's. But this is no matter of mere variants. Redi ended his quotation where
+it suited his purpose to do so. Manni continued from that point for a reason of his own,
+as we shall see in the text below, at n. 214.
+     lo-t 1914, p. 356. Yet he could say (Atti Accad. Padova, 1913, 14, 50, 312) that Manni's
+MS differed from Dati's (which was Pandolfini's).
+36        Journal of the History of Medicine: JANUARY, 1956
+Hence Redi consulted some Giordano MSS in addition to Pan-
+dolfini's. And it was the uniform practice of the scribes to prefix to
+each sermon the time and place of its delivery, specifying year,
+month, day (and sometimes part of the day, as in the case of our
+sermon). For this is headed, in Pandolfini's MS (fol. 55V), "23
+February 1305, Wednesday morning."107 Redi's indefinite refer-
+ence to the sermons preached by Giordano "about (intorno al)
+ 1
+   3°5" w a s nothing but sheer obfuscation. When he wrote ". . . if it
+were known or could be guessed in what year Friar Giordano de-
+livered the sermon" about eyeglasses, he knew precisely not only
+the year but the month and the day, and very nearly the hour.
+
+
+
+
+                                                                                                Downloaded from http://jhmas.oxfordjournals.org/ at Georgetown University on May 27, 2015
+     Casting a veil of uncertainty over the chronology of the sermon
+tended to diminish its importance. So did the omission of Gior-
+dano's declaration that he was personally acquainted with the in-
+ventor. By deleting this declaration, Redi left out of his Letter
+concerning the invention of eyeglasses what amounts to half of our
+source material about the inventor of eyeglasses. His motive for so
+drastic a suppression may be discerned, I believe, by examining
+how he treated the other half of our sources about the inventor,
+namely, the Spina passage in the Pisan Chronicle (pp. 476-477) :
+     Friar Alessandro della Spina was a modest and good man. Whatever he
+saw or heard had been made [the Chronicle 108  actually says: "Whatever had
+been made, when he saw it with his own eyes"] he too knew how to make
+      105 Instead of "Tuscany," "Florence" appears in the French translation of Redi's
+Lettera by Spon, Jacob. Recherches curieuses d'antiquile. Lyon, 1683, p. 217. T h e substi-
+tution may involve nothing more than an inadvertent slip, however, for the claim that eye-
+glasses were invented in Florence was first put forward in 1G84 (see n. 153, below) . Spon's
+Recherches were not published in 1684, as in the Catalogue general des livres imprimes de
+la Bibliotheque nationale. Auteurs. Vol. 176 (Paris, 1949), col. 863-861; nor 1693, as in
+Pansier (Hist, des lunettes, p. 1) ; nor 1681, as in Greeff (Z. ophlhal. Opt., 1918, 6, 3;
+Erfindung, p. 67). It was a letter by Redi, not by Dati (as in Martin, p. 235; see n. 92,
+above) that was inserted in the Recherches by Spon. His name was corrupted to "Spoon"
+by Smith, Robert. A compleat system of opticks. Cambridge, 1738, Remarks, p. 12. Smith's
+"Spoon" was used also by Fox, L. Webster. A history of spectacles. Medical and surgical
+reporter (Philadelphia), 1890, 62, 514.
+      106 T h e same statement was made by Redi (Opere, vol. 8, p. 111) in a letter whose
+date is missing. It was supplied as 1670 by Rocchi, Riv. Stor. crit. Sci. med. nat., 1913, 4,
+4. But he overlooked the editor's comment, which serves to fix the time of composition as
+the second half of 1678. For in the letter Redi remarked: "this year it has pleased these
+gentlemen to make me Archconsul of the Accademia" della Crusca, an office to which he
+was elected on 27 June 1678 (Opere, vol. 8, p. 113). He also disparaged the examples of
+his own prose and poetry which his correspondent, Gilles Menage, had included in the
+Mescolanze, published in 1678. Moreover Redi announced that "here in Florence within
+two or three months they will finish printing the sermons of Father Paolo Segneri," whose
+Quaresimale (or Lenten sermons) was published in 1679. the dedication being signed 15
+April. Finally Redi said: "On my return to Florence, which will be perchance within a few
+days, I shall publish a letter about the inventor of eyeglasses and the period in which
+they were invented." Redi's Lettera was indeed issued (as we saw in n. 47, above) in 1678.
+Hence, for these four reasons, we may confidently discard the date (1670) assigned to the
+Redi-M^nage letter by Rocchi who, incidentally, misquoted Redi's delimitation of the
+period of invention as 1280-1331 instead of 1280-1311.
+     107 Same heading in MS Ashburnham 532, fol. 127 r; MS Riccardiano 1268, fol. 135»V
+and BNC MS Palatino 113, fol. 171/.
+                     ROSEN: The        Invention of Eyeglasses                            37
+it. Eyeglasses were first made
+                           110
+                               by someone else,109 who was unwilling to share
+them. Spina made them, and shared them with a cheerful and willing
+heart.111
+Immediately after this quotation (and misquotation) of the
+Chronicle, Redi said (as we have already seen in connection with
+the analogy he drew between Spina and Galileo) :
+From this it follows that if Friar Alessandro Spina was not the first inventor
+of eyeglasses, at least it was he who by himself without any instruction re-
+discovered (rinvenne) the method of making them; and that at the very
+time when he lived, this most useful invention first came to light.
+From the Chronicle's categorical statement that "eyeglasses were
+
+
+
+
+                                                                                                 Downloaded from http://jhmas.oxfordjournals.org/ at Georgetown University on May 27, 2015
+first made by someone else" ("aliquo" is Redi's reading; "alio" is
+the correct reading,112 the difference being of slight importance for
+our present discussion) Redi deduced the astonishing protasis: "if
+Friar Alessandro Spina was not the first inventor (primo inventore)
+of eyeglasses." Before long, this protasis ceased to be negative and
+ceased to be a protasis, for Redi soon spoke of "Friar Alessandro
+Spina, inventor (trovatore) of eyeglasses."113 Thus by three easy
+stages he passed from quoting the Chronicle to contradicting it.
+     108 Despite Davidsohn's statement (vol. 4, pt. 2, p. 13) that he was translating from
+the Chronicle, in fact he followed Redi's falsified version. For, according to Davidsohn,
+the Chronicle said Spina could reproduce the things "of which he heard or which he saw."
+     109 T h e Chronicle does not say when. It does not date the invention in 1305, despite
+Gordon (/. med. Soc. N. ]., 1951, 48, 5 ) .
+     HO Davidsohn translated: "die Brille, die ein anderer erdacht, der ihm das Geheimnis
+ihrer Herstellung aber nicht verraten wollte, habe er nacherfunden." But the Chronicle
+contains nothing corresponding to "ihm." By introducing this word, Davidsohn made the
+Chronicle say that the inventor refused to tell Spina about eyeglasses (cf. vol. 4, pt. 2,
+Anmerkungen, p. 25). Actually the Chronicle implies that the inventor would not talk
+about them to anybody, including Spina. T h e statement that "Spina . . . had a pair of
+spectacles made for himself by an optician who had the secret of their invention" (L. W.
+Fox, Medical and surgical reporter, 1890, 62, 514) is not based on the Chronicle or on any
+other source.
+      111 Redi, Opere, vol. 2, pp. 259-260. It was not Spina who "kept the process a secret,"
+despite Trestelle (pseudonym of Giulio Martinez). Sulla storia degli occhiali. Boll. Ass.
+ottica ilal., 1941, 15, 8.
+      112 Nevertheless "aliquo" appears in the Enciclopedia italiana, vol. 25, p. 115.
+      113 Opere, vol. 2, p. 261. Hirschberg (Geschichte der Augenheilkunde, vol. 13, p. 272)
+erred in saying that Redi does not speak of the inventor. Redi's characterization ("Spina,
+inventor of eyeglasses") was misleadingly reported by Albertotti (1914, p. 338), according
+to whom Redi said "Spina was an inventor of eyeglasses." On the other hand, Redi was
+faithfully followed by a historian of the Archiepiscopal Seminary of Pisa who listed "Ales-
+sandro della Spina, inventor of eyeglasses" among the illustrious men of the monastery
+of St. Catherine. Zucchelli, Niccola. Appunti e documenti per la storia del seminario
+arcivescovile di Pisa. Pisa, 1906, p. 188. This utterly indefensible position was adopted
+also by Giovanni Battista Picotti in the Enciclopedia cattolica, Vatican City, 1949-54, vol.
+9, col. 1565. Vincenzo Marchese changed his mind. In the first edition (Florence, 1845-46)
+of his Memorie dei piii insigni pittori, scultori e architetti domenicani, although he quoted
+the Chronicle passage about Spina in an unadulterated form, he nevertheless repeated
+Redi's "Spina, inventor of eyeglasses" (vol. 1, p. 177; cf. C. P. Meehan's translation, Lives
+of the most eminent painters, sculptors and architects of the order of S. Dominic, Dublin,
+1852, vol. 1, p. 121). But in his later editions (Florence, 1854, vol. 1, p. 153; Genoa, 1869,
+vol. 1, p. 228; Bologna, 1878-79, vol. 1, p. 205) Marchese, evidently realizing the con-
+tradiction between the Chronicle and Redi, abandoned the latter's unsound claim for
+Spina. The attribution of the invention to Spina in Marchese's first edition was overlooked
+by Del Lungo in his 2d ed., Chi I'inventore degli occhiali? Bologna, 1921, p. 13.
+38       Journal of the History of Medicine: JANUARY, 1956
+
+For according to the Chronicle somebody other than Spina in-
+vented eyeglasses; according to Redi's Lettera, Spina.114
+     In this conflict between Redi and his source, which version did
+his readers accept? According to a contemporary art historian,
+Redi "proves conclusively" (prova ad evidenza) that Spina in-
+vented eyeglasses;115 "proves" was echoed by an encyclopedist who
+prepared the way for the first history of Italian literature.116 Was
+the Chronicle similarly disregarded by other readers?117 These two,
+whom Manni quoted (pp. 62-63) directly after his reprint of the
+Lettera (pp. 55-61), did not, he felt, "clearly express Redi's senti-
+
+
+
+
+                                                                                                  Downloaded from http://jhmas.oxfordjournals.org/ at Georgetown University on May 27, 2015
+ment." But both were influential authors who repeated Redi's
+conclusion, itself distasteful to Manni, whose book was intended
+to glorify as the inventor of eyeglasses somebody other than Spina.
+     Redi's commitment to Spina was, I believe, the reason for the
+omission from the Lettera of Giordano's statement that he had
+talked to the inventor. For it would have been extremely difficult,
+even for a writer as artful as Redi, to convince readers that when
+Giordano referred to the inventor, he had Spina in mind. Before
+examining the precise character of the difficulty, however, let us
+first look at another aspect of Redi's treatment of Spina, namely,
+the date of his death.
+
+                      When did Spina die?
+    In the Lettera Redi correctly assigned Spina's death to 1313.118
+But previously, in Redi-Dati No. 3 (Opere, vol. 7, p. 255), he had
+said that "Spina died either in 1312 or in 1313," a formulation
+that did no great harm. In Redi-Dati No. 2, however, he injected
+an element of confusion into the subject by asserting that "Spina
+died in the year 1313 Pisan style, and 1312 Roman style."119
+      i n According to Greeff (Erfindung, pp. 84, 94), followed by Weve, H. J. M. (Korte
+mededeeling betreffende een verdichte brillengeschiedenis. Ned. Tijdsc.hr. Geneesk., 1927,
+Ji:i, 3142), Spina, a Pisan, was made the inventor by Redi, because the latter wished to
+secure the invention for "Pisa, his native city." Redi was born at Arezzo.
+      115 Baldinucci, Filippo. Vocabolario toscano dell' arte del disegno. Florence, 1681, p.
+109; reprinted in Classici italiani, vol. 191, Milan, 1809, p. 8.
+      118 Gimma, Giacinto. Idea della storia dell' Italia letterata. Naples, 1723, pp. 610-611.
+      117 Giving full weight to the Chronicle, Cancellieri said that Redi put Spina "among
+the first inventors" of eyeglasses. Lettera . . . al . . . Korejf, pp. 291-292.
+      118 Spina did not die in 1338, despite Brit. med. ]., 1907, /, 162.
+      n o Opere, vol. 5, p. 83. The whole letter was reprinted by Manni, pp. 53-54. The
+quoted statement was repeated by Tiraboschi, vol. 4, pt. 1, bk. 2, chap. 2, no. 25; Ram-
+belli, Intorno invenzioni e scoperte italiane, p. 136; Narducci, Tre prediche, p. 23 (Gior-
+nale arcadico, 1857, 146, 89) ; and Greeff, Erfindung, p. 78. Dating by two calendars being
+cumbersome, the less familiar Pisan style was dropped by certain writers, who accordingly
+put Spina's death (incorrectly) in 1312; see, e.g., Ad nova acla eruditorum . . . supple-
+menta, 1749, 6, 311; Tempesti, p. 59; Pansa, Bibliofilo, 1886, j , 18; Zucchelli, Appunti, p.
+188; Homer,   Neujahrsblatt . . . des Waisenhauses in Zurich, 1885, 48, 10; Cohn, Gartenlaubej
+1895, P- 367; Beckman, Opt. J., 1895-96, /, 126.
+                    ROSEN: The Invention            of Eyeglasses                      39
+
+    It is in Redi-Dati No. 2 that he mistook the Annals for the
+Chronicle. Now in the Annals, which were written in 1550, almost
+a century and a half after the Chronicle came to an end, some
+events are dated in the Pisan style {Chronicle, pp. 606, 621, 622,
+630) but others in the Roman (pp. 627, 628, 629), with the former
+apparently predominant in the mind of the annalist. He relates,
+for instance, that a certain friar, who became prior in 1522, after
+a few months in office died in the autumn. His successor "became
+our prior, in the same year, in the month of January" (Chronicle,
+pp. 625-626). This statement obviously presupposes the Pisan
+
+
+
+
+                                                                                              Downloaded from http://jhmas.oxfordjournals.org/ at Georgetown University on May 27, 2015
+calendar, in which January followed autumn of the same year, be-
+cause the Pisan New Year began on 25 March. Of course, in the
+Roman calendar, with 25 December marking the start of the New
+Year, January followed the autumn of the preceding year, and pre-
+ceded the autumn of the same year. The Annals, then, were writ-
+ten basically in the Pisan style, with some intrusions of the Roman
+style.
+    No such alternation, however, exists in the Chronicle, which
+employs only a single chronological style, the Roman. It records,
+for example, "the year of the great plague, 1348, which wiped out
+almost the whole world. In that year there died in Pisa more than
+forty of the friars; and of the laity, a throng which nobody could
+count."120 Two of the friars whose deaths the Chronicle lists in
+1348 are mentioned also in a fourteenth-century register of prop-
+erty and revenue belonging to the monastery of St. Catherine.
+This register reports (Chronicle, pp. xx, 547) that one of the two
+died in "1349, Pisan style (secondo lo corso di Pisa), on the 10th or
+1 ith day of June," and the other in "1349, on the 24th or 25th day
+of July at the time of the great plague epidemic." The year 1349,
+Pisan style, began 25 March 1348, Roman style, and ended 24
+March 1349, Roman style. The deaths assigned by the register to
+the summer of 1349, Pisan style, are dated 1348 in the Chronicle,121
+which used the Roman style throughout.
+    Neither the Chronicle nor the Annals mentions the date of
+Spina's death.122 How then could Redi, after blundering twice in
+his letters to Dati, infer correctly in the Lettera that Spina died in
+     120 p . 530. In the Introduction to the First day of the Decameron, in his graphic ac-
+count of the 1348 plague, Giovanni Boccaccio says that between March and July "more
+than one hundred thousand human beings are believed for certain to have died within
+the walls of the city of Florence," while the friars were "reduced almost to nothing."
+     121 Hence we must reject as unsound the assumption that because the Chronicle was
+written in Pisa, it used the Pisan style. Mioni, // b. Giordano detto da Rivalto, p. 61.
+     122 Despite Bock (Die Brille und ihre Geschichte, p. 10) and Barck (St Louis med.
+Rev., 1904, 4$, 306; Open court, 1907, 21, 213) .
+40          Journal of the History of Medicine: JANUARY, 1956
+
+1313? Giordano is the first friar whose year of death is recorded in
+the Chronicle (p. 452). For the 106 friars preceding him this in-
+formation is not given, nor for 89 following him (including
+Spina) . It is given for the remaining 80, whose notices are gen-
+erally arranged according to the year of their death,123 starting with
+Giordano in 1311.124 The chronological order, however, is not ob-
+served strictly. Thus no. 125 (fi328) comes between 1318 and
+1320, no. 139 (f May, 1324) comes after July, 1324 and 1327,
+while the displacement of no. 140 and 141 is attributed by a chroni-
+cler to an oversight on the part of his predecessors. Constituting a
+
+
+
+
+                                                                                                                        Downloaded from http://jhmas.oxfordjournals.org/ at Georgetown University on May 27, 2015
+second disordered group, nos. 248, 250, 252, 255 are dated 1383,
+1381, 1385, 1382. Thirdly, nos. 272, 273, 274 (1408-1409) belong
+between no. 269 (1407) and no. 270 (1409). This last departure
+from strict chronological order may be connected with the death
+of the third and principal chronicler, Domenico da Peccioli, in
+1408,125 and the resumption of the Chronicle by Simone da Cascina
+         123 T h e Chronicle (p. 437) explicitly confirms that it proceeds in an orderly way.
+         124 Because Mioni (cf. n. 121, above) mistook the Chronicle's style, h e misdated
+Giordano's death i n 1310, a n error repeated in Enciclopedia                     italiana, vol. 13, p . 112.
+Giordano did n o t compose his sermons between 1330 a n d 1336, despite Amati                              (Ricerche
+storico-critico-scientifiche,        vol. 4, p . 144) , nor between 1300 a n d 1306, despite Pansa (Biblio-
+filo, 1886, 7, 17) . For the correct dates, see n. g i , above.
+         125 Cf. n. 32, above. H e died in December, 1408, according to t h e Chronicle (p. 5 8 9 ) .
+W a s it because of t h e error mentioned i n n. 121, above, that Bonaini gave t h e year as 1407
+ (Archivio storico italiano, 1844, 6:1, xxvii) ? Galletti (Giornale storico delta                         letteratura
+italiana, 1898, 31, 2) followed Bonaini instead of t h e Chronicle, a n d in L'eloquenza                          (p.
+243) Galletti gave t h e year as 1420.
+         126 Chronicle, p . 582; hence h e could not have died in 1407, t h e date given by Petella
+ (Ann. Med. nav. colon., 1901, J:I, 8 3 0 ) . I n 1414 he preached in Florence (Orlandi,
+Necrologio, vol. 2, p . 387) a n d h e died about 1420 (Archivum                     fratrum          praedicatorum
+historicum,        1942, 12, 201 2 0 2 ) . Galletti (Giornale storico delta letteratura italiana, 1898,
+31, 2; L'eloquenza,           p . 148) asserted t h a t he continued t h e Chronicle u p to the year 1409;
+b u t it records t h e death of n o . 271 in 1410 (p. 5 8 6 ) .
+R e d i confused o u r chronicler Simone da Cascina with a better known writer of similar
+name, t h e theologian Simone Fidati d a Cascia ( + 1 3 4 8 ) . McNeil, Mary G. Simone                         Fidati
+and his De gestis domini salvatoris. Catholic University of America dissertation. Studies
+in medieval a n d renaissance Latin language and literature, vol. 21. Washington, D . C ,
+1950, p p . 35, 229. Despite Bonaini's w a r n i n g (Chronicle, p . 5 9 9 ) , Redi's "Simone da
+Cascia" was incorrectly identified by Petella (toe. cit.) with t h e relatively obscure a u t h o r
+of a letter written in 1240 a b o u t a n injury caused by looking directly at t h e sun d u r i n g an
+eclipse. Puccinotti, Francesco. Sloria delta medicina. Livorno, Prato, 1850-66, vol. 2, p t . 1, p .
+xxix. Redi-Dati N o . 3 transmitted the wrong n a m e (Opere, vol. 7, p . 254) to Dati, who
+trustfully p u t t h e misnomer in the Veglia (Targioni, p . 6 0 ) , while R e d i p u t it in t h e
+Lettera (Opere, vol. 2, p . 2 5 9 ) . His error was corrected in the Notizie                    (p. 25) which
+Manni wrote as a n introduction to his edition (Florence, 1734) of Bartolomeo's Am-
+maestramenti         degli antichi (reprinted in Classici italiani, vol. 21, Milan, 1808, p . xx, a n d
+in Biblioteca scelta di opere italiane antiche e moderne, vol. 231, Milan, 1829, p . x v i i i ) .
+Although Manni's correction was repeated by Bonaini (Arch. star. Hal., 6:1, xxix; Chronicle,
+p . 599), Redi's error recurs in Caverni, Raffaello. Storia del metodo sperimentale                      in Italia.
+Florence, 1891-1900, vol. 1, p . 501; Vitelli a n d T a m b u r i n i (cf. n. g, a b o v e ) ; Greeff, Z.
+ophthal. Opt., 1917, j , 75; 1918, 6, 4; Erfindung, p p . 77, 79; a n d Del L u n g o , p . 21.
+T h e Chronicle includes six members of the D a Cascina family besides Simone: Guglielmo,
+M a r i n o , T o m m a s o , Francesco, Niccol6 a n d Pietro, with t h e Annals c o n t r i b u t i n g Giovanni
+ ( p p . 443, 485, 542, 552, 565-6, 597) . Ranieri Segalorzo (p. 516) does n o t belong here, despite
+Zucchelli, p . 188, for t h e Annals (p. 45) say: " F . Rainerius Segalorzus Cascina o r i u n d u s
+fuit"; cf. Alberti, De viris illustribus ordinis praedicatorum,            p . 227H.
+                      ROSEN: The Invention              of Eyeglasses                        41
+
+in 1411.126 The irregularities of the period 1381-1385 may have
+been caused by the absence of Domenico da Peccioli, who was
+preaching in Florence in 1382 and serving as provincial prior or
+vicar in 1385.1261 The only other group of deviations falls within
+the decade 1318-1328; was it then perhaps that the initiator of the
+Chronicle, Bartolomeo da San Concordio, abandoned it and turned
+to other occupations?
+    In the Lettera {Opere, vol. 2, p. 259) Redi said: "Friar Bar-
+tolomeo da San Concordio having died in 13471"7 . . . the Chroni-
+cle was continued by Friar Ugolino di ser Novi."128 Redi was
+
+
+
+
+                                                                                                   Downloaded from http://jhmas.oxfordjournals.org/ at Georgetown University on May 27, 2015
+blamed by Manni129 for imagining that Bartolomeo kept working
+at the Chronicle until his death in 1347. For his part Manni main-
+tained that Bartolomeo "wrote this [Chronicle] up to the year
+1314, when he lifted his hand from the work." But instead of evi-
+dence to support his statement Manni offered the mere conjecture
+that Bartolomeo "put the writing aside in the year 1314, perhaps
+on account of one of his journeys."130 Is there any more reason to
+trust Manni in this matter than in the question of Bartolomeo's
+family? For when Manni professed to be quoting from the Chroni-
+cle passage about Bartolomeo, actually he was misquoting from the
+Annals. For where the Annals read "Bartholomeus a S. Concordio,"
+Manni wrote "Bartholomeus Granchi a S. Concordio."131 He mis-
+
+       126.1 Orlandi, Necrologio, vol. 2, pp. 58, 538. Monumenta ordinis fratrum praedica-
+ torum historica, 1937, 19, p. 62, no. 11; in 1386 he was no longer an official of the province
+  (p. 63, no. 21).
+       127 Earlier, in Redi-Dati No. 3, he had incorrectly reported the year of Bartolomeo's
+death as 1341 {Opere, vol. 7, p. 255; cf. Chronicle, p. 524).
+       128 He was called "Servoni" by Rouyer, Coup d'oeil, p. 19, followed by Mine. Hey-
+mann, Lunettes, p. 5, and Reis, Folia ophthal. orient., 1932-34, / , 399.
+       129 Notizie, p. 26, in his edition of Bartolomeo's Ammaestramenti; Classici italiani,
+vol. 21, p. xx; Biblioteca scelta, vol. 231, p. xix.
+       130 Manni asserted that two historians of the Dominican order had put Bartolomeo's
+death in 1314, and that "this error was noticed also by Francesco Redi." But Redi did not
+notice this (alleged) error; and what the historians actually said was correct, that Bar-
+tolomeo "flourished about 1314." Alberti, De viris illustribus ordinis praedicatorum, p.
+151T (misnumbered p. 150). Razzi, Serafino. Istoria de gli huomini illustri . . . de gli
+Predicatori. Lucca, 1596, p. 267. Acceptance of 1314 as the date of Bartolomeo's death was
+attributed by Manni to Giovanni Cinelli too. But Cinelli, although leaning toward 1314,
+regarded 1347 as a possible alternative. Storia degli scrittori fwrentini e toscani. BNC,
+Magliabechi MS, cl. ix, cod. 68, pp. 102, 227. For good measure Manni added that Bar-
+tolomeo's death was dated in 1314 also by "Oudino," presumably Casimir Oudin (1638-
+1717) , author of the Supplemenlum de scriptoribus vel scriplis ecclesiasticis a Bellarmino
+omissis (Paris, 1686) and of the Commentarius de scriptoribus ecclesiae antiquis (Leipzig,
+1722) . Neither of these works refers to Bartolomeo. Was Manni guilty of a little padding
+as well as of some plain old-fashioned lying?
+     131 Chronicle, p. 524. Ammaestramenti, ed. 1734, p. 31; ed. 1808, p. xxvii; ed. 1829, p.
+xxiv. Manni followed the Memorie sacre of Pietro Cardosi, who was responsible (p. 393)
+for the falsification of Bartolomeo's family affiliation; for similar activity on Cardosi's part
+in connection with Giordano, cf. n. 52, above.
+42        Journal of the History of Medicine: JANUARY, I 956
+
+led gullible Tiraboschi, who proceeded to enroll Bartolomeo in
+the "noble family of the Granchi."132 Another widely consulted au-
+thor fooled by Manni was a leading bibliographer.133 A recent
+manual of Italian literature remarked about Bartolomeo: "Some-
+body erroneously said that he belonged to the Granchi family."134
+That somebody was Manni. Since he propagated a Redi-like falsi-
+fication with regard to Bartolomeo's family, in the absence of proof
+shall we accept his assertion that Bartolomeo stopped writing the
+Chronicle in 1314?135 The first group of disturbances in the chrono-
+logical order of its entries would seem to associate the change of
+
+
+
+
+                                                                                                   Downloaded from http://jhmas.oxfordjournals.org/ at Georgetown University on May 27, 2015
+authors rather with the decade 1318-1328.
+    Apart from the three clusters of deviations, all four of these
+writers, it seems clear, intended to record the friars according to
+the year of their death.136 But this information, as we saw above, is
+not given for Spina; and it is also lacking for the friar immediately
+before him, as well as for the one immediately after him. But the
+friar just preceding these three undated entries died in 1313 (the
+one before him died in December, 1312), while the friar who fol-
+lows the three undated entries died in March, 1313. Hence we may
+with some assurance conclude that Spina died in the first quarter
+of the year 1313 (Roman style, since the entire Chronicle is based
+on that calendar) .137
+
+                  Did Giordano refer to Spina?
+    Giordano died in August, 1311 (Chronicle., p. 452). He had
+been summoned by the general of the Dominican order, Americo138
+of Piacenza, who was sending him to Paris to teach there. But death
+
+      132 Vol. 5, bk. 2, chap, z, no. 37. So did Vincenzio Fineschi (Memorie, vol. 3, p. 110) ;
+D. L. del Zante, who wrote the account of Bartolomeo in Biografia dei Pisani illuslri
+ (Pisa, 1838); and Vincenzio Nannucci, who edited Bartolomeo's Ammaeslramenti             (Flor-
+ence, 1840), p. 19.
+      l33Gamba, Bartolommeo. Serie dei testi di lingua. 4th ed., Venice, 1839, p. 11.
+      134 D'Ancona, Alessandro and Bacci, Orazio. Manuals della letteralura italiana. New
+ed., Florence, 1925-29, vol. 1, p. 264.
+      135 Manni's assertion was repeated by Fineschi (Mcmorie, vol. 3, p. 124); by Nan-
+nucci, in Bartolomeo's Ammaestramenti        (Florence, 1840), p. 21; and by Galletti, p. 148.
+      136 Hence their joint product is a necrology, although called a chronicle (Masetti,
+vol. i, p. 340; cf. n. 200, below). It does not "concern various instruments of antiquity,"
+despite Rouyer, Coup d'oeil, p. 19. Those who wrote the necrology of S. Maria Novella
+referred to it as a chronicle (Orlandi, Nearologio, vol. 1, pp. 36.32, 74.8, 125.7, 262).
+      137 T h e error in Redi-Dati No. 2 ("Spina died in the year 1313 Pisan style, and 1312
+Roman style") was falsely ascribed to the Chronicle by Del Guerra. Ann. Ottalm. 1933,
+61, 383. Riv. Star. crit. Sci. med. nat. 1933. 24, Atti, p. 17.
+      138 Misread as "Amico" by Redi (Opere, vol. 2, p. 261; vol. 5, p. 85), whose error
+was corrected by Manni (Manni-Biscioni, p. xxiv; Biblioteca scelta, vol. 384, p. xxix).
+                     ROSEN: The        Invention of Eyeglasses                             43
+
+overtook Giordano at Piacenza,139 about a hundred miles north-
+west of Pisa. His body was brought back to Pisa for burial in the
+church of St. Catherine. In the Lettera (Opere, vol. 2, pp. 261-262)
+Redi pointed out that Spina and Giordano both lived
+in the same monastery of St. Catherine of Pisa. Hence [Giordano] could
+with unquestionable certainty affirm what he said about eyeglasses in his
+aforementioned sermons. Likewise Friar Bartolomeo da San Concordio
+could truthfully write that Spina with his own mind discovered (ritrov6)
+the method of making eyeglasses and shared it with all those who wished to
+learn it, because this Friar Bartolomeo was a contemporary of Spina and
+lived with him in the same monastery of St. Catherine of Pisa.
+
+
+
+
+                                                                                                  Downloaded from http://jhmas.oxfordjournals.org/ at Georgetown University on May 27, 2015
+Here Redi slyly summarized the Chronicle in such a way as to make
+it say: "Spina with his own mind discovered the method of making
+eyeglasses." If it is true that the Chronicle says (or implies) all this,
+it still is not the whole truth. For Redi craftily omitted from his
+summary of the Chronicle its statement that "eyeglasses were first
+made by someone else." In the eyes of the unwary reader, this
+omission left Spina alone in the field. Hence Redi could subtly
+imply that Giordano obtained his information exclusively from
+Spina: because the two friars lived in the same monastery,140 Gior-
+dano "could with unquestionable certainty affirm what he said
+about eyeglasses."
+     We have finally uncovered the reason why Redi excluded from
+the Lettera this statement by Giordano:
+I have seen the man (colui) who first invented and created it [the art of
+making eyeglasses] and I have talked to him.
+Of the two alternatives facing Redi, he chose suppression as the
+easier course to pursue at a time when Giordano's sermons were
+still all unpublished. For him the only other possibility was an at-
+tempt to show that by "colui" the preacher meant Spina.
+     Would Giordano have called Spina simply "colui"? In repeat-
+ing the remarks of a dying prelate whose name he did not divulge,
+Giordano referred to him as "the cardinal of Ostia, who was a
+Dominican friar" (Narducci, Prediche inedite, pp. 356-357). On
+      139 Not at Pisa, despite the Journal des scavans, 13 Feb. 1679; Tronci, Paolo. Memorie
+istoriche delta citta di Pisa. Livorno, 1682, p. 286; Molyneux, William. Dioptrica nova.
+London, 1692, p. 255; Smith, Compleat system of opticks, Remarks, p. 13; Kastner, Abraham
+Gotthelf. Vollstandiger Lehrbegriff der Optik. Altenburg, 1755, p. 377; Caesemaeker, F. E.
+de. Aenmerkingen over de brillen en derzelver gebruyk. Ghent, 1841, p. 13; Hirsch, August.
+Geschichte der Augenheilkunde.       Leipzig, 1877 (reprinted from Graefe-Saemisch, Hand-
+buch der gesammten Augenheilkunde,        vol. 7) , p. 307; Fox, Medical and surgical reporter,
+1890, 62, 514; Bock, Die Brille und ihre Geschichte, p. 10; De Waard, Uitvinding der
+verrekijkers, p. 63; and Reis, Folia ophthal. orient., 1932-34, / , 399; nor at Parma, despite
+Davidsohn, vol. 4, pt. 3, p. 70.
+      140 Despite Greeff (Erfvndung, p. 74), the period of their co-residence does not in-
+clude the year 1305, since Giordano was then in Florence.
+44        Journal of the History of Medicine:                JANUARY, I 956
+
+another occasion (Manni-Biscioni, pp. 191-192) he spoke of the
+numerous sinners who came to him, and he asked, "Now how many
+are there who go to the other friars?" Once he permitted his
+listeners a precious glimpse at the psychology of monastic life
+ (Moreni, vol. 2, p. 132):
+A friar of this order, who was forty years old when he told it to me, said
+that whenever he heard [the bell] toll for a meeting of the chapter, he was
+always very frightened, and went there with great fear, saying "I do not feel
+at fault, and yet each time I am so afraid that I hate to hear [the bell] toll
+for a chapter meeting."
+
+
+
+
+                                                                                                Downloaded from http://jhmas.oxfordjournals.org/ at Georgetown University on May 27, 2015
+When he was talking about fellow-members of his order, he called
+them "friars." But laymen of course received no such designation.
+A famous armorer was simply "a master [craftsman] of Naples"
+ (Manni-Biscioni, p. 4 7 ) . An auditor who opposed Giordano's
+preachment that "virginity is better than marriage" (Moreni, vol.
+1, p. 214) by asking what would happen to the world if every man
+were a virgin, was nothing more than "someone" (uno) .141 Those
+who asked whether refraining from marriage was sinful were
+merely "some others" (alcuni altri; Narducci, Prediche     inedite,
+pp. 118-119). Giordano's usage points to this conclusion: the in-
+ventor of eyeglasses was "colui," a nondescript, not a friar, and
+therefore not Spina, "whose habit and monkish status Giordano
+would not have refrained from mentioning" (Manni, p. 74). As
+Albertotti put it (1922, p. 8 6 ) :
+For evident reasons it is difficult to understand why he [Giordano] . . .
+would have suppressed Friar Alessandro's name had the latter really been
+the inventor, or why he would not at least have mentioned the invention
+as an achievement of the Dominican order, had it been such.
+    Was Giordano perhaps disinclined to promote the prestige of
+his associates? On the contrary, he likened their activity to the
+apostles':
+Our moving about is for you, we circle through the city and go about
+preaching for you, to give you peace and let you share in it. Much more
+gladly would we stay in our cells and not go out, and we would have more
+quiet there, much more. And Friar Giordano said, I would gladly now stay
+in my cell for several years and not go out, and that would be very agreeable
+and very useful to me (Narducci, Prediche inedite, p. 250).
+If there were no preachers, said Friar Giordano, what would the world be?
+Worse than Saracens, or Tartars, or pagans, far worse. In the old days there
+used to be philosophers of great wisdom, and they repressed heresies and
+     141 Narducci, Prediche inedite, p. 117. An instructive contrast occurs in Giordano's
+reference to "one (uno) of the wisest friars who belonged to our order at that time."
+Prediche sulla Genesi, ed. Domenico Moreni. Florence, 1830, p. 95. Reprinted in Biblioteca
+scelta di opere italiane antiche e moderne, vol. 383. Milan, 1839, p. 107. Cited hereafter as
+"Genesi."
+                    ROSEN: The Invention            of Eyeglasses                       45
+
+drove them out; but today it is not so. Who gives himself over today to
+wisdom, to learn, and to know wisdom? Scarcely do men know how to read,
+just scarcely; so that if there were no preachers, you wouldn't be able to
+describe the darknesses and the heresies that would exist.142
+He extolled the members of his order as "holy friars who preserve
+their chastity and virginity" (Narducci, Prediche inedite, p. 194) .
+But "everybody can't be so perfect. Well do we know that every-
+body can't be a monk or a hermit. We know that well" (Manni-
+Biscioni, p. 10).
+There are many laymen who, having grown up amid vice, don't believe that
+others can get along without those vices. They marvel at the friars who can
+
+
+
+
+                                                                                               Downloaded from http://jhmas.oxfordjournals.org/ at Georgetown University on May 27, 2015
+preserve their chastity, and they so marvel because to them it seems an im-
+possibility. But it isn't. For from childhood on [the friars] are accustomed
+to the good and have practiced the virtues (op. cit., p. 15).
+But Giordano, after all, has heard that not all his colleagues are
+perfect (op. cit., p. 9 ) :
+You ought to excuse the friars a little when they sometimes besmirch them-
+selves, since being among the people143and seeing the things of the world they
+can't help besmirching themselves. They are men of flesh and blood like
+you, and of a vigorous age. It is rather a great marvel that they can stay so
+clean while remaining in the city and seeing the things of the world all day.
+For this city is no place for monks; rather the desert and solitude suit them.
+But we stay here among you, for our need, yes, but much more for yours.
+By ourselves we would get along much better, but how would you fare? You
+couldn't exist without us.
+Such being his attitude toward laymen and monks, would Gior-
+dano have failed to proclaim the inventor of eyeglasses a friar had
+he been able to do so? In the words of Giovanni Batista Clemente
+de' Nelli (1725-93), biographer of Galileo and editor of his
+correspondence,144
+When there are found enrolled in the various orders individuals outstanding
+in some profession or science, the monks do not overlook opportunities of
+publicly praising their superiority and of specially broadcasting their names
+for the greater glory of their persons; to omit this would be regarded by the
+entire group as a lack of respect for their noteworthy fellow-monk. Con-
+trary examples can be adduced that when monks have occasion to mention
+some invention made by a layman, frequently they do not declare the in-
+ventor's name precisely, but indicate him in a general way. . . . [Had
+Giordano been thinking of Spina] he would have announced publicly that
+Spina, his fellow-Dominican and perhaps friend, was the one who first made
+eyeglasses, and all the more would he have praised that invention as the
+brain-child of an associate of his, whose name he certainly, in honor of the
+Dominican order, would not have omitted.
+     i42Moreni, vol. 1, p. 45; Biblioteca scelta, vol. 386, p. 155.
+     1-43 Since Giordano made so candid an admission in a sermon preached to the people
+of Florence, perhaps Boccaccio's picture of lechery among the clergy should not be con-
+demned as overdrawn.
+     144 Nelli. Vita e commercio letterario di Galileo Galilei. Lausanne, 1793, pp. 161-162.
+46        Journal of the History of Medicine: JANUARY, 1956
+
+    On Thursday, 4 November 1333, the river Arno, which flows
+between the two halves of the city of Florence, swept over its banks
+and inundated the town. The Necrology of S. Maria Novella, in
+its obituary of a certain friar, reports that 1441
+The Commune appointed him principal and sole superintendent of the
+entire task of rebuilding the Ponte alia Carraia, which had been destroyed
+by the flood. To his own honor and to the honor of the order, he completed
+this work in so praiseworthy a manner that thereafter he was continually and
+eagerly sought for other community projects.
+Over and over again the Necrology praises friars for having added
+to the glory of their order.144-2
+
+
+
+
+                                                                                                Downloaded from http://jhmas.oxfordjournals.org/ at Georgetown University on May 27, 2015
+    The author of the Spina entry in the Chronicle was also a mem-
+ber of the Dominican order. Would he have written that "eye-
+glasses were first made by someone else," had he had a fellow-friar
+in mind? The word translated as "someone else" is "alio"; in its
+place, as we saw above, Redi incorrectly read "aliquo," which Dati
+rendered in the Veglia by "un tale" (Targioni, p. 60). For the
+Chronicle's "alio," the Annals substituted "quidam" (a certain
+person). But "quidam" is not permitted to stand by itself when
+the Chronicle refers (p. 523) to a friar: "audivi a quodam fide
+digno Fratre antiquo" (I have heard from a certain trustworthy
+old friar). The Chronicle's usage matches Giordano's. Friars are
+specifically so designated. The inventor, not being so designated,
+was therefore a layman. Otherwise, as Albertotti asks (1922, p. 86),
+"Why also here all that reticent modesty in concealing the truth
+about a fact which would have redounded to the glory of the
+Order?" Giordano's "colui,"145 the Chronicle's "alio," the Annals'
+"quidam," Dad's "un tale,"146 was not a friar, and certainly not
+Spina, despite Redi, Tempesti (p. 61), Bonaini (Chronicle, p.
+478), Del Lungo (pp. 7-8), and Lucio Spera.147
+                                (To be concluded)
+
+
+
+
+     144.1 Orlandi, Necrologio, vol. i, p . 52.22-29; cf. vol. 2, p . 426, no. XIII.
+     144.2 op. cit., vol. 1, pp. 103.22-24, 114.20-22, 154.3, 169.4-5, 195.1.
+     145 Bourgeois (Trav. Acad. nat. Reims, 1903, 11j , 159; Besides, p. 11; Aesculape, 1923,
+13, 146) would have us believe that Giordano saw the inventor and talked to him without
+knowing his name.
+     146 Merged with Spina by Greeff, who failed to understand the Italian text he under-
+took to translate (Z. ophthal. Opt., 1917, 5, 75; Erfindung, p. 77).
+     147 Chi ha inventato gli occhiali? // giornale d'ltalia, 8 Sept. 1920, p . 3.
+

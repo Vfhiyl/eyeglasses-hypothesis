@@ -1,0 +1,12 @@
+test,search_field,n_pre_1300,n_post_1300,local_pre_1200_1285,local_post_1300_1385,local_post_over_pre,note
+sdbm_bologna_place_entries_pre_vs_post_1300,place,137,522,87,273,3.1379,SDBM Place+ManuscriptDate; mid=(start+end)/2
+sdbm_cologne_place_entries_pre_vs_post_1300,place,38,385,27,50,1.8519,SDBM Place+ManuscriptDate; mid=(start+end)/2
+sdbm_florence_place_entries_pre_vs_post_1300,place,9,2030,7,117,16.7143,SDBM Place+ManuscriptDate; mid=(start+end)/2
+sdbm_florence_provenance_entries_pre_vs_post_1300,provenance,40,626,29,88,3.0345,SDBM Provenance+ManuscriptDate; mid=(start+end)/2
+sdbm_milan_place_entries_pre_vs_post_1300,place,46,463,15,23,1.5333,SDBM Place+ManuscriptDate; mid=(start+end)/2
+sdbm_nuremberg_place_entries_pre_vs_post_1300,place,3,148,3,10,3.3333,SDBM Place+ManuscriptDate; mid=(start+end)/2
+sdbm_oxford_place_entries_pre_vs_post_1300,place,103,94,91,26,0.2857,SDBM Place+ManuscriptDate; mid=(start+end)/2
+sdbm_paris_place_entries_pre_vs_post_1300,place,793,2552,672,373,0.5551,SDBM Place+ManuscriptDate; mid=(start+end)/2
+sdbm_paris_provenance_entries_pre_vs_post_1300,provenance,731,1327,459,419,0.9129,SDBM Provenance+ManuscriptDate; mid=(start+end)/2
+sdbm_venice_place_entries_pre_vs_post_1300,place,31,1614,30,81,2.7,SDBM Place+ManuscriptDate; mid=(start+end)/2
+sdbm_venice_provenance_entries_pre_vs_post_1300,provenance,81,998,43,139,3.2326,SDBM Provenance+ManuscriptDate; mid=(start+end)/2

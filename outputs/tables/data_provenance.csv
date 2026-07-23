@@ -1,0 +1,11 @@
+path,exists,bytes,sha256,license_or_terms,source,hashed_at_utc
+data/raw/istc_core_imprints_1.0.csv,True,9894158,abf8d8e59c557e611de6b337d0268d9e661b8e3195008f10fe765a96ffcad90d,BL ISTC / dataset terms,https://doi.org/10.23636/k903-md30,2026-07-23T09:47:20Z
+data/raw/manuscript-production-century.csv,True,2474,f0655283c9a3f2734c38eb0367a743d5e5c2f2830f37cc4619b186a538100c79,OWID / underlying Buringh,https://ourworldindata.org/grapher/manuscript-production-century,2026-07-23T09:47:20Z
+data/raw/Data.xlsx,True,1892166,04a19441eb64db7d00bfe76cb160592810d2f2f1f29f23dd2a259612740b24c8,Stelter et al. OSF,https://osf.io/va93h/,2026-07-23T09:47:20Z
+data/raw/cdmv-macrodata.zip,True,4783669,ce927e32d445bb53e7fcef6a06771de24d8a35fb8c662fde926e7771869b1464,RETE/CDMV authors,https://perso.uclouvain.be/david.delacroix/,2026-07-23T09:47:20Z
+data/processed/studium_paris_scholars.csv,True,2723510,e78d95d510fa68e857471a251cace41ccbc61b984444fb9179dd6b6e8622fdcc,Studium Parisiense API derived,https://lamop.pantheonsorbonne.fr/,2026-07-23T09:47:20Z
+data/processed/panel_city_century.csv,True,239863,e0f6ec3e0891ca5906a085ef0cb3da8615aba01061469b536eb71da9b1a8a910,project-derived,local,2026-07-23T09:47:20Z
+data/processed/rete_city_year.csv,True,7743147,83de80bfc719bfd7da6794c38a7bed5e08d7bfd97ec21e6f998deb49be10e08a,RETE macro derived,local,2026-07-23T09:47:20Z
+data/processed/istc_city_year.csv,True,91727,cd19d03bd64a2e4043f36effd4e705330c162b6736e27d8cfb9959e59796e547,ISTC derived,local,2026-07-23T09:47:20Z
+config/cities.yaml,True,3185,1c58c8dead89c3192830e600630b92938f1e4e38f1681ffc8ad1167a24939eca,project coding (Ilardi-informed),local,2026-07-23T09:47:20Z
+config/rct_effects.yaml,True,1191,6383401646ef65c633f879a329ab0f3da3836679566aad15dcbe290a18ef1a40,project coding from RCT papers,local,2026-07-23T09:47:20Z

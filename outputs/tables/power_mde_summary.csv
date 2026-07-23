@@ -1,0 +1,7 @@
+design,n_pre,n_post,baseline_share45,mde_share45_pp,window,span_diff,span_p,span_t,n_glass_cells,n_control_cells,sd_log_hc,mde_mean_diff_log_hc,note
+studium_share45_local_85y,81.0,185.0,0.8519,0.1326,1200-1285 vs 1300-1385,,,,,,,,
+studium_share45_local_50y,61.0,84.0,0.8525,0.1671,1250-1299 vs 1300-1349,,,,,,,,
+studium_share45_long_asymmetric,147.0,551.0,0.898,0.0787,1100-1299 vs 1300-1700,,,,,,,,
+studium_span_local_85y,2397.0,8201.0,,0.9591,1200-1285 vs 1300-1385,-4.6693,0.0,-12.6657,,,,,
+studium_span_local_50y,2131.0,4533.0,,1.0619,1250-1299 vs 1300-1349,-4.7491,0.0,-11.8804,,,,,
+panel_log_hc_glass_vs_control,,,,,,,,,25.0,1094.0,5.5708,3.1569,crude two-group MDE ignoring FE/clustering; illustrative only

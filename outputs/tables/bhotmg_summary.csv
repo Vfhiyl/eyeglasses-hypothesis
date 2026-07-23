@@ -1,0 +1,2 @@
+test,glass_hc_pre_1300,glass_hc_post_1300,control_hc_pre_1300,control_hc_post_1300,glass_post_pre_ratio,control_post_pre_ratio,glass_over_control_growth,ratio_glass_to_control_pre,ratio_glass_to_control_post,n_years_pre,n_years_post
+bhotmg_university_hc_glass_vs_control_1300,2.9531,24285.0137,15551.4304,229928.5223,8223.6851,14.785,556.2166,0.0002,0.1056,100,494

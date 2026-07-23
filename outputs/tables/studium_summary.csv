@@ -1,0 +1,5 @@
+test,n_pre_1300,n_post_1300,post_pre_ratio,note,share45_pre,share45_post,n_with_birth_pre,n_with_birth_post,p_value,mean_span_pre,mean_span_post,n_span_pre,n_span_post
+studium_paris_volume_pre_vs_post_1300,3440.0,25132.0,7.3058,long_period_descriptive_not_mechanism,,,,,,,,,
+studium_paris_share45_local_window,,,,1200-1285 vs 1300-1385; proportion_test; life_quality filtered,0.8519,0.8973,81.0,185.0,0.287769,,,,
+studium_paris_observed_span_local_window,,,,observed_activity_span_not_career_duration; 1200-1285 vs 1300-1385,,,,,0.0,13.8352,9.166,2397.0,8201.0
+studium_paris_career_span_pre_vs_post_1300,,,,ALIAS of observed_activity_span; measurement-error proxy,,,,,0.0,13.8352,9.166,2397.0,8201.0

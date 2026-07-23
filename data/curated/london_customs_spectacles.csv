@@ -1,0 +1,32 @@
+obs_id,year,year_end,volume,archive_ref,pairs_est,unit_raw,unit_qty,value_raw,confidence,notes
+london_1384_8gross,1384,1384,jenks_lca_i_4,E122/71/8,1152,gross,8,,high,Sampson Bakster: 8 gros spectacles; 1 gross=144
+london_1390_4doz,1390,1390,jenks_lca_i_5,E122/71/3,48,dozen,4,2s 2d,high,4 dozen spectacles
+london_1390_9doz,1390,1390,jenks_lca_i_5,E122/71/3,108,dozen,9,24s 6d,high,9 dozen spectacles
+london_1390_500,1390,1390,jenks_lca_i_5,E122/71/3,500,pairs_or_pieces,500,21s,medium,500 spectacules @ 21s; unit ambiguous
+london_1391_26gross,1391,1391,jenks_lca_i_6,E122/71/16,3744,gross,26,£4 6s 8d,high,26 grossis spectacules — Hans Knygth May 1391
+london_1391_cases,1391,1391,jenks_lca_i_6,E122/71/16,,cases,6,4d,high,6 casis pro spectacles
+london_1480_81_cobb_intro,1480,1481,cobb_lrs_vol27,E122/194/25,,gross,30,,high,Cobb intro round figure some 30 gross; prefer line_sum row for pairs
+london_1480_81_cobb_cases,1480,1481,cobb_lrs_vol27,E122/194/25,,gross,26.5,,high,Cobb intro: 26.5 gross spectacle cases same year
+london_1480_81_cobb_line_sum,1480,1481,cobb_lrs_vol27,E122/194/25,5472,mixed_gross_dozen,,high,BHO line-item scrape sum excl intro: ~38 gross equiv,
+london_1446_12gross,1446,1446,jenks_lca_ii_9_24h6,E122/73/20A,1728,gross,12,,high,Petro Petirsson: 12 gros spectacles (Jan 1446); Jenks pilot vol
+london_1446_1gross,1446,1446,jenks_lca_ii_9_24h6,E122/73/20A,144,gross,1,,high,Henrico van Openhayn: 1 gros spectacles
+london_1464_2gross,1464,1464,jenks_lca_iii_1,E122/194/15,288,gross,2,,high,Cornelio Joosson: 2 gros spectacles (7 Jan 1464)
+london_1463_1gross_fryse,1463,1463,jenks_lca_iii_1,E122,144,gross,1,,high,Johanne Fryse: 1 gros spectacles (17 Sept 1463)
+london_1463_1gross_dorn,1463,1463,jenks_lca_iii_1,E122,144,gross,1,,high,Hugone van Dorn: 1 gros spectacles (Sept 1463)
+london_1509_9gross,1509,1509,gras_1918,London_subsidy_21Apr_23Jun_1509,1296,gross,9,,high,Gras Early English Customs: ix grossa spectakils (Rumbold Stry)
+london_1509_1p5gross,1509,1509,gras_1918,London_subsidy_21Apr_23Jun_1509,216,gross,1.5,,high,Gras: i grosso et di. spectakilles (Henrico Weye)
+london_1509_3doz_a,1509,1509,gras_1918,London_subsidy_21Apr_23Jun_1509,36,dozen,3,,medium,Gras: iii dossenis spectakilles in case
+london_1509_3doz_b,1509,1509,gras_1918,London_subsidy_21Apr_23Jun_1509,36,dozen,3,,medium,Gras: iii dossene spectakilles (Johanne de Pago)
+london_1410_20doz,1410,1410,jenks_lca_ii_1,E122/76/32,240,dozen,20,20s,high,Johanne van Flier: 20 dossenis spectacles (7 May 1410); Jenks ii_1 verified
+london_1428_5gross,1428,1428,jenks_lca_ii_3,E122/74/11,720,gross,5,,high,Hugone Scarle: 5 grossis spectacules (1428/29 account); matches Ilardi
+london_1428_6coffynes,1428,1428,jenks_lca_ii_3,E122/74/11,,coffynes,6,,high,Johanne Arnoldson: 6 coffynes spectacules (cases/boxes; pair count unknown)
+london_1429_11gros,1429,1429,jenks_lca_ii_3,E122/74/11,1584,gross,11,26s 8d,high,Jacobo Tidmanson: 11 gros spectacules (8 Aug 1429); matches Ilardi
+london_1478_12gros,1478,1478,jenks_lca_iii_4,E122/194/22,1728,gross,12,,high,Andrea van Hulse: 12 gros spectacles (10 Jan 1478); Jenks iii_4 verified
+london_1477_4gros,1477,1478,jenks_lca_iii_4,E122/194/22,576,gross,4,46s 8d,high,Johanne Barbour: 4 gros spectacles (ship Nicholai Thorne; L2 reading); Jenks iii_4
+london_1487_24gros,1487,1488,jenks_lca_iv_1,E122/78/7,3456,gross,24,£12 11s 8d,high,Nicholao Mazeracheo: 24 gros spectaculles + 9 doz cases (1487/88 account); largest single Tudor line so far
+london_1487_2gros_cases,1487,1487,jenks_lca_iv_1,E122/78/7,,gross_cases,2,,high,Harmano Harysbek: 2 gros spectaculle cases (6 Oct 1487)
+london_1494_4gros_hill_a,1494,1495,jenks_lca_iv_3,E122/79/5,576,gross,4,£16,high,Henrico Hille via Roger Triser: 4 groce spectacules (1494/95 account)
+london_1495_12gros_mowger,1495,1495,jenks_lca_iv_3,E122/79/5,1728,gross,12,£32,high,Bartholomeo Mowger: 12 groce spectacles (3 Feb 1495); verifies MacGregor/Ilardi 1494 cite
+london_1495_4gros_hill_b,1495,1495,jenks_lca_iv_3,E122/79/5,576,gross,4,£40,high,Henrico Hille: 4 groce spectacules same day 3 Feb 1495; Ilardi only cited one Hill shipment
+london_1502_12gros,1502,1502,jenks_lca_iv_5,E122,1728,gross,12,£22,high,Nicholao Haryson: 12 gros spectacules (21 Nov 1502)
+london_1503_5boxes,1503,1503,jenks_lca_iv_5,E122,,boxes,5,£5,medium,Radulpho Sent Stephan: 5 boxes spectaculys (8 July 1503); pair count unknown

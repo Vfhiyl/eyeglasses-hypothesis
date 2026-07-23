@@ -1,0 +1,19 @@
+# Paste session_id + nonce from browser DevTools (any dataobj curl on scholars1)
+# Session expires after idle timeout — re-copy when fetch returns 404 / 0 records
+#
+# Prefer env vars (do not commit real values):
+#   export RETE_SESSION_ID=...
+#   export RETE_NONCE=...
+# Or copy this file to rete_api.local.yaml (gitignored) and point scripts at it.
+
+base_url: https://shiny-lidam.sipr.ucl.ac.be/scholars1
+session_id: ""   # REQUIRED locally — from browser Network tab
+nonce: ""        # optional depending on Shiny version
+page_size: 100
+sleep_seconds: 0.3
+
+# Shiny dataobj names (match Network tab URL path)
+dataobj:
+  scholars: foundPersons      # 83,000 — done
+  institutions: foundInstitutions  # 376
+  activities: foundActivities    # scholar×institution×years — KEY TABLE

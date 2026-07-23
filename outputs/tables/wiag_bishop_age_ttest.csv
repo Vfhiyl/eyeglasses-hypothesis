@@ -1,0 +1,2 @@
+test,mean_pre_1300,mean_post_1300,share45_pre,share45_post,t_stat,p_value,n_pre,n_post
+wiag_bishop_age45plus_pre_vs_post_1300,36.2857,39.083,0.1429,0.3286,0.4847,0.644914,7,916

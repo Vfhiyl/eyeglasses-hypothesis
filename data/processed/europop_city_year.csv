@@ -1,0 +1,2654 @@
+city,region,year,population,glass_center
+BERGEN,Scandinavia,1500,0.0,False
+COPENHAGEN,Scandinavia,1500,,False
+GOTEBORG,Scandinavia,1500,0.0,False
+KARLSKRONA,Scandinavia,1500,0.0,False
+OSLO,Scandinavia,1500,0.0,False
+STOCKHOLM,Scandinavia,1500,0.0,False
+BATH,England and Wales,1500,0.0,False
+BIRMINGHAM,England and Wales,1500,0.0,False
+BLACKBURN,England and Wales,1500,0.0,False
+BOLTON,England and Wales,1500,0.0,False
+BRISTOL,England and Wales,1500,10.0,False
+CAMBRIDGE,England and Wales,1500,0.0,False
+CARLISLE,England and Wales,1500,0.0,False
+CHATHAM,England and Wales,1500,0.0,False
+CHESTER,England and Wales,1500,0.0,False
+COLCHESTER,England and Wales,1500,5.0,False
+COVENTRY,England and Wales,1500,7.0,False
+DERBY,England and Wales,1500,0.0,False
+EXETER,England and Wales,1500,10.0,False
+GREENWICH,England and Wales,1500,0.0,False
+HUDDERSFIELD,England and Wales,1500,0.0,False
+HULL,England and Wales,1500,0.0,False
+IPSWICH,England and Wales,1500,0.0,False
+KING'S LYNN,England and Wales,1500,5.0,False
+LEEDS,England and Wales,1500,0.0,False
+LEICESTER,England and Wales,1500,4.0,False
+LIVERPOOL,England and Wales,1500,0.0,False
+LONDON,England and Wales,1500,40.0,False
+MANCHESTER,England and Wales,1500,0.0,False
+NEWCASTLE,England and Wales,1500,10.0,False
+NORWICH,England and Wales,1500,10.0,False
+NOTTINGHAM,England and Wales,1500,0.0,False
+OLDHAM,England and Wales,1500,0.0,False
+OXFORD,England and Wales,1500,5.0,False
+PLYMOUTH,England and Wales,1500,2.0,False
+PORTSMOUTH,England and Wales,1500,0.0,False
+PRESTON,England and Wales,1500,0.0,False
+READING,England and Wales,1500,0.0,False
+SALFORD,England and Wales,1500,0.0,False
+SHEFFIELD,England and Wales,1500,0.0,False
+SHREWSBURY,England and Wales,1500,5.0,False
+STOCKPORT,England and Wales,1500,0.0,False
+SUNDERLAND,England and Wales,1500,0.0,False
+WARRINGTON,England and Wales,1500,0.0,False
+WENLOCK,England and Wales,1500,0.0,False
+WIGAN,England and Wales,1500,0.0,False
+WOLVERHAMPTON,England and Wales,1500,0.0,False
+WORCESTER,England and Wales,1500,0.0,False
+YARMOUTH,England and Wales,1500,5.0,False
+YORK,England and Wales,1500,8.0,False
+ABERDEEN,Scotland,1500,0.0,False
+DUNDEE,Scotland,1500,0.0,False
+EDINBURGH,Scotland,1500,,False
+GLASGOW,Scotland,1500,0.0,False
+GREENOCK,Scotland,1500,0.0,False
+INVERNESS,Scotland,1500,0.0,False
+PAISLEY,Scotland,1500,0.0,False
+PERTH,Scotland,1500,0.0,False
+BELFAST,Ireland,1500,0.0,False
+CORK,Ireland,1500,0.0,False
+DUBLIN,Ireland,1500,0.0,False
+GALWAY,Ireland,1500,0.0,False
+KILKENNY,Ireland,1500,0.0,False
+LIMERICK,Ireland,1500,0.0,False
+NEWRY,Ireland,1500,0.0,False
+WATERFORD,Ireland,1500,0.0,False
+ALKMAAR,The Netherlands,1500,5.0,False
+AMSTERDAM,The Netherlands,1500,14.0,False
+ARNHEM,The Netherlands,1500,6.0,False
+DELFT,The Netherlands,1500,14.0,False
+DORDRECHT,The Netherlands,1500,11.0,False
+ENKHUIZEN,The Netherlands,1500,4.0,False
+GOUDA,The Netherlands,1500,11.0,False
+GRONINGEN,The Netherlands,1500,14.0,False
+HAARLEM,The Netherlands,1500,14.0,False
+DEN HAAG,The Netherlands,1500,7.0,False
+'S HERTOGENBOSCH,The Netherlands,1500,16.0,False
+HOORN,The Netherlands,1500,6.0,False
+LEEUWARDEN,The Netherlands,1500,4.0,False
+LEIDEN,The Netherlands,1500,14.0,False
+MAASTRICHT,The Netherlands,1500,10.0,False
+MIDDELBURG,The Netherlands,1500,0.0,False
+NIJMEGEN,The Netherlands,1500,12.0,False
+ROTTERDAM,The Netherlands,1500,5.0,False
+UTRECHT,The Netherlands,1500,20.0,False
+ZAANDAM,The Netherlands,1500,7.0,False
+ZWOLLE,The Netherlands,1500,0.0,False
+AALST,Belgium,1500,0.0,False
+ANTWERPEN,Belgium,1500,40.0,False
+BRUGGE,Belgium,1500,30.0,False
+BRUSSELS,Belgium,1500,35.0,False
+DUNKERQUE,Belgium,1500,0.0,False
+GENT,Belgium,1500,40.0,False
+IEPER,Belgium,1500,10.0,False
+KORTRIJK,Belgium,1500,5.0,False
+LEUVEN,Belgium,1500,17.0,False
+LIEGE,Belgium,1500,20.0,False
+LIER,Belgium,1500,0.0,False
+LILLE,Belgium,1500,25.0,False
+LOKEREN,Belgium,1500,0.0,False
+MECHELEN,Belgium,1500,25.0,False
+MONS,Belgium,1500,15.0,False
+NAMUR,Belgium,1500,0.0,False
+OOSTENDE,Belgium,1500,0.0,False
+SINT NIKLAAS,Belgium,1500,0.0,False
+TOURNAI,Belgium,1500,25.0,False
+VALENCIENNES,Belgium,1500,,False
+AACHEN,Germany,1500,15.0,False
+ALTONA,Germany,1500,0.0,False
+ANSBACH,Germany,1500,0.0,False
+AUGSBURG,Germany,1500,20.0,False
+BAMBERG,Germany,1500,0.0,False
+BARMEN,Germany,1500,0.0,False
+BAUTZEN,Germany,1500,0.0,False
+BERLIN,Germany,1500,12.0,False
+BONN,Germany,1500,0.0,False
+BRANDENBURG,Germany,1500,0.0,False
+BRAUNSCHWEIG,Germany,1500,18.0,False
+BREMEN,Germany,1500,18.0,False
+BRESLAU (WROCLAW),Germany,1500,25.0,False
+CHEMNITZ (K-MARX-ST),Germany,1500,0.0,False
+DANZIG (GDANSK),Germany,1500,20.0,False
+DRESDEN,Germany,1500,5.0,False
+DUSSELDORF,Germany,1500,2.0,False
+ELBERFELD,Germany,1500,0.0,False
+ELBING (ELBLAG),Germany,1500,10.0,False
+EMDEN,Germany,1500,0.0,False
+ERFURT,Germany,1500,15.0,False
+FLENSBURG,Germany,1500,0.0,False
+FRANKFURT AM,Germany,1500,12.0,False
+FRANKFURT AO,Germany,1500,11.0,False
+FREIBURG,Germany,1500,5.0,False
+FURTH,Germany,1500,0.0,False
+GOTHA,Germany,1500,0.0,False
+HALBERSTADT,Germany,1500,0.0,False
+HALLE,Germany,1500,,False
+HAMBURG,Germany,1500,14.0,False
+HANAU,Germany,1500,0.0,False
+HANNOVER,Germany,1500,0.0,False
+HEIDELBERG,Germany,1500,0.0,False
+HILDESHEIM,Germany,1500,11.0,False
+KASSEL,Germany,1500,0.0,False
+KOLN,Germany,1500,30.0,False
+KONIGSBERG,Germany,1500,8.0,False
+LEIPZIG,Germany,1500,10.0,False
+LUBECK,Germany,1500,24.0,False
+LUNEBURG,Germany,1500,0.0,False
+MAGDEBURG,Germany,1500,18.0,False
+MAINZ,Germany,1500,6.0,False
+MANNHEIM,Germany,1500,0.0,False
+MUNCHEN,Germany,1500,13.0,False
+MUNSTER,Germany,1500,0.0,False
+NURNBERG,Germany,1500,36.0,False
+POTSDAM,Germany,1500,0.0,False
+QUEDLINBURG,Germany,1500,0.0,False
+REGENSBURG,Germany,1500,,False
+ROSTOCK,Germany,1500,0.0,False
+SOEST,Germany,1500,12.0,False
+STETTIN (SZCZECIN),Germany,1500,9.0,False
+STRALSUND,Germany,1500,0.0,False
+STUTTGART,Germany,1500,0.0,False
+ULM,Germany,1500,17.0,False
+WURZBURG,Germany,1500,10.0,False
+ABBEVILLE,France,1500,,False
+AGEN,France,1500,0.0,False
+AIX EN PROVENCE,France,1500,,False
+ALBI,France,1500,0.0,False
+ALENCON,France,1500,,False
+AMIENS,France,1500,,False
+ANGERS,France,1500,,False
+ANGOULEME,France,1500,0.0,False
+ARLES,France,1500,,False
+ARRAS,France,1500,11.0,False
+AUXERRE,France,1500,0.0,False
+AVIGNON,France,1500,,False
+BAYEUX,France,1500,0.0,False
+BAYONNE,France,1500,0.0,False
+BEAUVAIS,France,1500,,False
+BESANCON,France,1500,8.0,False
+BEZIERS,France,1500,,False
+BLOIS,France,1500,,False
+BORDEAUX,France,1500,20.0,False
+BOULOGNE,France,1500,2.0,False
+BOURGES,France,1500,,False
+BREST,France,1500,0.0,False
+CAEN,France,1500,,False
+CAHORS,France,1500,0.0,False
+CAMBRA!,France,1500,,False
+CARCASSONNE,France,1500,0.0,False
+CASTRES,France,1500,0.0,False
+CHALONS-SUR-MARNE,France,1500,,False
+CHALONS-SUR-SAONE,France,1500,0.0,False
+CHARTRES,France,1500,0.0,False
+CHERBOURG,France,1500,0.0,False
+CLERMONT-FERRAND,France,1500,0.0,False
+COLMAR,France,1500,5.0,False
+DIEPPE,France,1500,0.0,False
+DIJON,France,1500,13.0,False
+DOUAI,France,1500,,False
+FALAISE,France,1500,0.0,False
+GRENOBLE,France,1500,0.0,False
+LA ROCHELLE,France,1500,,False
+LAVAL,France,1500,,False
+LE HAVRE,France,1500,0.0,False
+LE MANS,France,1500,,False
+LE PUY,France,1500,0.0,False
+LIMOGES,France,1500,,False
+LISIEUX,France,1500,0.0,False
+LORIENT,France,1500,0.0,False
+LYON,France,1500,50.0,False
+MACON,France,1500,0.0,False
+MARSEILLE,France,1500,,False
+METZ,France,1500,15.0,False
+MONTAUBAN,France,1500,,False
+MONTPELLIER,France,1500,6.0,False
+MOULINS,France,1500,0.0,False
+NANCY,France,1500,0.0,False
+NANTES,France,1500,14.0,False
+NEVERS,France,1500,0.0,False
+NIMES,France,1500,0.0,False
+NIORT,France,1500,0.0,False
+ORLEANS,France,1500,,False
+PARIS,France,1500,100.0,False
+PERPIGNAN,France,1500,0.0,False
+POITIERS,France,1500,,False
+REIMS,France,1500,,False
+RENNES,France,1500,12.0,False
+RIOM,France,1500,0.0,False
+ROCHEFORT,France,1500,0.0,False
+ROUEN,France,1500,40.0,False
+SAINT-ETIENNE,France,1500,0.0,False
+SAINT-MALO,France,1500,4.0,False
+SAINT-OMER,France,1500,11.0,False
+SAINT-QUENTIN,France,1500,0.0,False
+STRASBOURG,France,1500,20.0,False
+TOULON,France,1500,0.0,False
+TOULOUSE,France,1500,35.0,False
+TOURS,France,1500,,False
+TROYES,France,1500,,False
+VERSAILLES,France,1500,0.0,False
+VIENNE,France,1500,0.0,False
+BASEL,Switzerland,1500,9.0,False
+BERN,Switzerland,1500,3.0,False
+GENEVE,Switzerland,1500,10.0,False
+ZURICH,Switzerland,1500,5.0,False
+ALESSANDRIA,Northern Italy,1500,0.0,False
+ASTI,Northern Italy,1500,0.0,False
+BERGAMO,Northern Italy,1500,,False
+BRESCIA,Northern Italy,1500,49.0,False
+CHIOGGIA,Northern Italy,1500,0.0,False
+COMO,Northern Italy,1500,10.0,False
+CREMA,Northern Italy,1500,,False
+CREMONA,Northern Italy,1500,40.0,False
+CUNEO,Northern Italy,1500,0.0,False
+FOSSANO,Northern Italy,1500,0.0,False
+GENOA,Northern Italy,1500,60.0,False
+LODI,Northern Italy,1500,0.0,False
+MANTUA,Northern Italy,1500,28.0,False
+MILANO,Northern Italy,1500,100.0,False
+MODENA,Northern Italy,1500,18.0,False
+MONDOVI,Northern Italy,1500,0.0,False
+MONZA,Northern Italy,1500,,False
+NICE,Northern Italy,1500,,False
+NOVARA,Northern Italy,1500,0.0,False
+PADOVA,Northern Italy,1500,27.0,False
+PARMA,Northern Italy,1500,19.0,False
+PAVIA,Northern Italy,1500,16.0,False
+PIACENZA,Northern Italy,1500,,False
+REGGIO,Northern Italy,1500,,False
+SAVIGLIANO,Northern Italy,1500,0.0,False
+TREVISO,Northern Italy,1500,,False
+TRIESTE,Northern Italy,1500,,False
+TORINO,Northern Italy,1500,0.0,False
+UDINE,Northern Italy,1500,,False
+VENEZIA,Northern Italy,1500,100.0,False
+VERCELLI,Northern Italy,1500,0.0,False
+VERONA,Northern Italy,1500,38.0,False
+VICENZA,Northern Italy,1500,,False
+VIGEVANO,Northern Italy,1500,0.0,False
+ANCONA,Central Italy,1500,0.0,False
+BOLOGNA,Central Italy,1500,55.0,False
+FERRARA,Central Italy,1500,,False
+FIRENZE,Central Italy,1500,70.0,False
+LIVORNO,Central Italy,1500,0.0,False
+LUCCA,Central Italy,1500,,False
+PERUGIA,Central Italy,1500,13.0,False
+PISA,Central Italy,1500,,False
+ROMA,Central Italy,1500,55.0,False
+SIENA,Central Italy,1500,15.0,False
+VITERBO,Central Italy,1500,12.0,False
+ACIREALE,Southern Italy,1500,0.0,False
+ALTA MURA,Southern Italy,1500,0.0,False
+BARI,Southern Italy,1500,8.0,False
+CAGLIARI,Southern Italy,1500,0.0,False
+CALTAGIRONE,Southern Italy,1500,0.0,False
+CALTANISSETA,Southern Italy,1500,0.0,False
+CASTEL VETRANO,Southern Italy,1500,0.0,False
+CASTROGIOVANNI,Southern Italy,1500,,False
+CATANIA,Southern Italy,1500,14.0,False
+FOGGIA,Southern Italy,1500,0.0,False
+GIRGENTI,Southern Italy,1500,,False
+LECCE,Southern Italy,1500,15.0,False
+MARSALA,Southern Italy,1500,0.0,False
+MASCALI,Southern Italy,1500,0.0,False
+MAZZARINO,Southern Italy,1500,0.0,False
+MESSINA,Southern Italy,1500,25.0,False
+MODICA/POZZALLO,Southern Italy,1500,,False
+MONOPOLI,Southern Italy,1500,,False
+NAPOLI,Southern Italy,1500,150.0,False
+NICOSIA,Southern Italy,1500,,False
+NOTO,Southern Italy,1500,0.0,False
+PALERMO,Southern Italy,1500,55.0,False
+PIAZZA (ENNA),Southern Italy,1500,,False
+RAGUSA,Southern Italy,1500,0.0,False
+REGGIO DI CALABRIA,Southern Italy,1500,,False
+SASSARI,Southern Italy,1500,13.0,False
+SIRACUSA,Southern Italy,1500,,False
+TARANTO,Southern Italy,1500,12.0,False
+TERMINI,Southern Italy,1500,,False
+TRAPANI,Southern Italy,1500,,False
+ALCALA LA REAL,Spain,1500,,False
+ALCAZAR DE SAN JUAN,Spain,1500,,False
+ALICANTE,Spain,1500,0.0,False
+ANDUJAR,Spain,1500,,False
+ANTEQUERA,Spain,1500,,False
+ARACENA,Spain,1500,,False
+AVILA,Spain,1500,,False
+BADAJOZ,Spain,1500,,False
+BAEZA,Spain,1500,,False
+BARCELONA,Spain,1500,29.0,False
+BILBAO,Spain,1500,0.0,False
+BURGOS,Spain,1500,0.0,False
+CADIZ,Spain,1500,2.0,False
+CARTAGENA,Spain,1500,4.0,False
+CORDOBA,Spain,1500,27.0,False
+CUENCA,Spain,1500,,False
+ECIJA,Spain,1500,,False
+GRANADA,Spain,1500,70.0,False
+JAEN,Spain,1500,,False
+JEREZ DA LA FRONTERA,Spain,1500,,False
+LUCENA,Spain,1500,,False
+MADRID,Spain,1500,0.0,False
+MALAGA,Spain,1500,,False
+MEDINA DEL CAMPO,Spain,1500,,False
+MEDINA DE RIOSECO,Spain,1500,,False
+MORON DE LA FRONTERA,Spain,1500,,False
+MURCIA,Spain,1500,10.0,False
+OCANA,Spain,1500,,False
+ORIHUELA,Spain,1500,0.0,False
+OSUNA,Spain,1500,,False
+PALENCIA,Spain,1500,,False
+PALMA,Spain,1500,,False
+RONDA,Spain,1500,,False
+SALAMANCA,Spain,1500,,False
+SANTIAGO,Spain,1500,4.0,False
+SEGOVIA,Spain,1500,,False
+SEVILLA,Spain,1500,25.0,False
+TOLEDO,Spain,1500,,False
+UBEDA,Spain,1500,,False
+UTRERA,Spain,1500,0.0,False
+VALENCIA,Spain,1500,40.0,False
+VALLADOLID,Spain,1500,,False
+ZARAGOZA,Spain,1500,,False
+COIMBRA,Portugal,1500,0.0,False
+ELVAS,Portugal,1500,,False
+EVORA,Portugal,1500,,False
+LISBOA,Portugal,1500,30.0,False
+PORTO,Portugal,1500,,False
+BRNO (BRUNN),Austria and Czechoslovakia,1500,0.0,False
+GRAZ,Austria and Czechoslovakia,1500,5.0,False
+INNSBRUCK,Austria and Czechoslovakia,1500,4.0,False
+KLAGENFURT,Austria and Czechoslovakia,1500,0.0,False
+LINZ,Austria and Czechoslovakia,1500,0.0,False
+PRAHA,Austria and Czechoslovakia,1500,,False
+SALZBURG,Austria and Czechoslovakia,1500,,False
+WIEN,Austria and Czechoslovakia,1500,20.0,False
+KRAKOW,Poland,1500,0.0,False
+POZNAN,Poland,1500,0.0,False
+WARSZAWA,Poland,1500,0.0,False
+BERGEN,Scandinavia,1550,0.0,False
+COPENHAGEN,Scandinavia,1550,,False
+GOTEBORG,Scandinavia,1550,0.0,False
+KARLSKRONA,Scandinavia,1550,0.0,False
+OSLO,Scandinavia,1550,0.0,False
+STOCKHOLM,Scandinavia,1550,0.0,False
+BATH,England and Wales,1550,0.0,False
+BIRMINGHAM,England and Wales,1550,1.0,False
+BLACKBURN,England and Wales,1550,0.0,False
+BOLTON,England and Wales,1550,0.0,False
+BRISTOL,England and Wales,1550,10.0,False
+CAMBRIDGE,England and Wales,1550,0.0,False
+CARLISLE,England and Wales,1550,0.0,False
+CHATHAM,England and Wales,1550,0.0,False
+CHESTER,England and Wales,1550,0.0,False
+COLCHESTER,England and Wales,1550,0.0,False
+COVENTRY,England and Wales,1550,7.0,False
+DERBY,England and Wales,1550,0.0,False
+EXETER,England and Wales,1550,8.0,False
+GREENWICH,England and Wales,1550,0.0,False
+HUDDERSFIELD,England and Wales,1550,0.0,False
+HULL,England and Wales,1550,0.0,False
+IPSWICH,England and Wales,1550,0.0,False
+KING'S LYNN,England and Wales,1550,0.0,False
+LEEDS,England and Wales,1550,0.0,False
+LEICESTER,England and Wales,1550,3.0,False
+LIVERPOOL,England and Wales,1550,0.0,False
+LONDON,England and Wales,1550,80.0,False
+MANCHESTER,England and Wales,1550,0.0,False
+NEWCASTLE,England and Wales,1550,10.0,False
+NORWICH,England and Wales,1550,12.0,False
+NOTTINGHAM,England and Wales,1550,3.0,False
+OLDHAM,England and Wales,1550,0.0,False
+OXFORD,England and Wales,1550,0.0,False
+PLYMOUTH,England and Wales,1550,4.0,False
+PORTSMOUTH,England and Wales,1550,0.0,False
+PRESTON,England and Wales,1550,0.0,False
+READING,England and Wales,1550,0.0,False
+SALFORD,England and Wales,1550,0.0,False
+SHEFFIELD,England and Wales,1550,0.0,False
+SHREWSBURY,England and Wales,1550,0.0,False
+STOCKPORT,England and Wales,1550,0.0,False
+SUNDERLAND,England and Wales,1550,0.0,False
+WARRINGTON,England and Wales,1550,0.0,False
+WENLOCK,England and Wales,1550,0.0,False
+WIGAN,England and Wales,1550,0.0,False
+WOLVERHAMPTON,England and Wales,1550,2.0,False
+WORCESTER,England and Wales,1550,3.0,False
+YARMOUTH,England and Wales,1550,0.0,False
+YORK,England and Wales,1550,8.0,False
+ABERDEEN,Scotland,1550,0.0,False
+DUNDEE,Scotland,1550,0.0,False
+EDINBURGH,Scotland,1550,,False
+GLASGOW,Scotland,1550,0.0,False
+GREENOCK,Scotland,1550,0.0,False
+INVERNESS,Scotland,1550,0.0,False
+PAISLEY,Scotland,1550,0.0,False
+PERTH,Scotland,1550,0.0,False
+BELFAST,Ireland,1550,0.0,False
+CORK,Ireland,1550,0.0,False
+DUBLIN,Ireland,1550,5.0,False
+GALWAY,Ireland,1550,0.0,False
+KILKENNY,Ireland,1550,0.0,False
+LIMERICK,Ireland,1550,0.0,False
+NEWRY,Ireland,1550,0.0,False
+WATERFORD,Ireland,1550,0.0,False
+ALKMAAR,The Netherlands,1550,8.0,False
+AMSTERDAM,The Netherlands,1550,30.0,False
+ARNHEM,The Netherlands,1550,6.0,False
+DELFT,The Netherlands,1550,14.0,False
+DORDRECHT,The Netherlands,1550,11.0,False
+ENKHUIZEN,The Netherlands,1550,8.0,False
+GOUDA,The Netherlands,1550,11.0,False
+GRONINGEN,The Netherlands,1550,19.0,False
+HAARLEM,The Netherlands,1550,14.0,False
+DEN HAAG,The Netherlands,1550,6.0,False
+'S HERTOGENBOSCH,The Netherlands,1550,23.0,False
+HOORN,The Netherlands,1550,8.0,False
+LEEUWARDEN,The Netherlands,1550,7.0,False
+LEIDEN,The Netherlands,1550,12.0,False
+MAASTRICHT,The Netherlands,1550,10.0,False
+MIDDELBURG,The Netherlands,1550,7.0,False
+NIJMEGEN,The Netherlands,1550,12.0,False
+ROTTERDAM,The Netherlands,1550,7.0,False
+UTRECHT,The Netherlands,1550,25.0,False
+ZAANDAM,The Netherlands,1550,10.0,False
+ZWOLLE,The Netherlands,1550,0.0,False
+AALST,Belgium,1550,7.0,False
+ANTWERPEN,Belgium,1550,90.0,False
+BRUGGE,Belgium,1550,35.0,False
+BRUSSELS,Belgium,1550,40.0,False
+DUNKERQUE,Belgium,1550,0.0,False
+GENT,Belgium,1550,50.0,False
+IEPER,Belgium,1550,10.0,False
+KORTRIJK,Belgium,1550,0.0,False
+LEUVEN,Belgium,1550,15.0,False
+LIEGE,Belgium,1550,,False
+LIER,Belgium,1550,0.0,False
+LILLE,Belgium,1550,28.0,False
+LOKEREN,Belgium,1550,0.0,False
+MECHELEN,Belgium,1550,25.0,False
+MONS,Belgium,1550,15.0,False
+NAMUR,Belgium,1550,0.0,False
+OOSTENDE,Belgium,1550,0.0,False
+SINT NIKLAAS,Belgium,1550,0.0,False
+TOURNAI,Belgium,1550,25.0,False
+VALENCIENNES,Belgium,1550,15.0,False
+AACHEN,Germany,1550,,False
+ALTONA,Germany,1550,0.0,False
+ANSBACH,Germany,1550,0.0,False
+AUGSBURG,Germany,1550,45.0,False
+BAMBERG,Germany,1550,10.0,False
+BARMEN,Germany,1550,0.0,False
+BAUTZEN,Germany,1550,5.0,False
+BERLIN,Germany,1550,,False
+BONN,Germany,1550,0.0,False
+BRANDENBURG,Germany,1550,0.0,False
+BRAUNSCHWEIG,Germany,1550,16.0,False
+BREMEN,Germany,1550,,False
+BRESLAU (WROCLAW),Germany,1550,35.0,False
+CHEMNITZ (K-MARX-ST),Germany,1550,4.0,False
+DANZIG (GDANSK),Germany,1550,26.0,False
+DRESDEN,Germany,1550,8.0,False
+DUSSELDORF,Germany,1550,0.0,False
+ELBERFELD,Germany,1550,0.0,False
+ELBING (ELBLAG),Germany,1550,15.0,False
+EMDEN,Germany,1550,,False
+ERFURT,Germany,1550,18.0,False
+FLENSBURG,Germany,1550,0.0,False
+FRANKFURT AM,Germany,1550,12.0,False
+FRANKFURT AO,Germany,1550,11.0,False
+FREIBURG,Germany,1550,0.0,False
+FURTH,Germany,1550,0.0,False
+GOTHA,Germany,1550,0.0,False
+HALBERSTADT,Germany,1550,0.0,False
+HALLE,Germany,1550,,False
+HAMBURG,Germany,1550,29.0,False
+HANAU,Germany,1550,0.0,False
+HANNOVER,Germany,1550,6.0,False
+HEIDELBERG,Germany,1550,0.0,False
+HILDESHEIM,Germany,1550,0.0,False
+KASSEL,Germany,1550,0.0,False
+KOLN,Germany,1550,35.0,False
+KONIGSBERG,Germany,1550,14.0,False
+LEIPZIG,Germany,1550,10.0,False
+LUBECK,Germany,1550,25.0,False
+LUNEBURG,Germany,1550,0.0,False
+MAGDEBURG,Germany,1550,40.0,False
+MAINZ,Germany,1550,,False
+MANNHEIM,Germany,1550,0.0,False
+MUNCHEN,Germany,1550,16.0,False
+MUNSTER,Germany,1550,0.0,False
+NURNBERG,Germany,1550,40.0,False
+POTSDAM,Germany,1550,0.0,False
+QUEDLINBURG,Germany,1550,0.0,False
+REGENSBURG,Germany,1550,,False
+ROSTOCK,Germany,1550,0.0,False
+SOEST,Germany,1550,15.0,False
+STETTIN (SZCZECIN),Germany,1550,13.0,False
+STRALSUND,Germany,1550,0.0,False
+STUTTGART,Germany,1550,10.0,False
+ULM,Germany,1550,19.0,False
+WURZBURG,Germany,1550,9.0,False
+ABBEVILLE,France,1550,,False
+AGEN,France,1550,0.0,False
+AIX EN PROVENCE,France,1550,,False
+ALBI,France,1550,0.0,False
+ALENCON,France,1550,,False
+AMIENS,France,1550,,False
+ANGERS,France,1550,,False
+ANGOULEME,France,1550,0.0,False
+ARLES,France,1550,11.0,False
+ARRAS,France,1550,,False
+AUXERRE,France,1550,0.0,False
+AVIGNON,France,1550,,False
+BAYEUX,France,1550,0.0,False
+BAYONNE,France,1550,0.0,False
+BEAUVAIS,France,1550,,False
+BESANCON,France,1550,10.0,False
+BEZIERS,France,1550,,False
+BLOIS,France,1550,,False
+BORDEAUX,France,1550,20.0,False
+BOULOGNE,France,1550,0.0,False
+BOURGES,France,1550,0.0,False
+BREST,France,1550,0.0,False
+CAEN,France,1550,,False
+CAHORS,France,1550,0.0,False
+CAMBRA!,France,1550,,False
+CARCASSONNE,France,1550,0.0,False
+CASTRES,France,1550,0.0,False
+CHALONS-SUR-MARNE,France,1550,,False
+CHALONS-SUR-SAONE,France,1550,0.0,False
+CHARTRES,France,1550,0.0,False
+CHERBOURG,France,1550,0.0,False
+CLERMONT-FERRAND,France,1550,0.0,False
+COLMAR,France,1550,0.0,False
+DIEPPE,France,1550,0.0,False
+DIJON,France,1550,,False
+DOUAI,France,1550,,False
+FALAISE,France,1550,0.0,False
+GRENOBLE,France,1550,,False
+LA ROCHELLE,France,1550,,False
+LAVAL,France,1550,,False
+LE HAVRE,France,1550,0.0,False
+LE MANS,France,1550,,False
+LE PUY,France,1550,0.0,False
+LIMOGES,France,1550,,False
+LISIEUX,France,1550,0.0,False
+LORIENT,France,1550,0.0,False
+LYON,France,1550,70.0,False
+MACON,France,1550,0.0,False
+MARSEILLE,France,1550,30.0,False
+METZ,France,1550,,False
+MONTAUBAN,France,1550,,False
+MONTPELLIER,France,1550,,False
+MOULINS,France,1550,,False
+NANCY,France,1550,4.0,False
+NANTES,France,1550,19.0,False
+NEVERS,France,1550,0.0,False
+NIMES,France,1550,,False
+NIORT,France,1550,0.0,False
+ORLEANS,France,1550,,False
+PARIS,France,1550,130.0,False
+PERPIGNAN,France,1550,0.0,False
+POITIERS,France,1550,,False
+REIMS,France,1550,,False
+RENNES,France,1550,,False
+RIOM,France,1550,0.0,False
+ROCHEFORT,France,1550,0.0,False
+ROUEN,France,1550,65.0,False
+SAINT-ETIENNE,France,1550,0.0,False
+SAINT-MALO,France,1550,0.0,False
+SAINT-OMER,France,1550,0.0,False
+SAINT-QUENTIN,France,1550,0.0,False
+STRASBOURG,France,1550,24.0,False
+TOULON,France,1550,0.0,False
+TOULOUSE,France,1550,40.0,False
+TOURS,France,1550,,False
+TROYES,France,1550,,False
+VERSAILLES,France,1550,0.0,False
+VIENNE,France,1550,0.0,False
+BASEL,Switzerland,1550,9.0,False
+BERN,Switzerland,1550,5.0,False
+GENEVE,Switzerland,1550,12.0,False
+ZURICH,Switzerland,1550,5.0,False
+ALESSANDRIA,Northern Italy,1550,8.0,False
+ASTI,Northern Italy,1550,8.0,False
+BERGAMO,Northern Italy,1550,18.0,False
+BRESCIA,Northern Italy,1550,41.0,False
+CHIOGGIA,Northern Italy,1550,0.0,False
+COMO,Northern Italy,1550,10.0,False
+CREMA,Northern Italy,1550,11.0,False
+CREMONA,Northern Italy,1550,34.0,False
+CUNEO,Northern Italy,1550,6.0,False
+FOSSANO,Northern Italy,1550,9.0,False
+GENOA,Northern Italy,1550,65.0,False
+LODI,Northern Italy,1550,9.0,False
+MANTUA,Northern Italy,1550,38.0,False
+MILANO,Northern Italy,1550,69.0,False
+MODENA,Northern Italy,1550,16.0,False
+MONDOVI,Northern Italy,1550,0.0,False
+MONZA,Northern Italy,1550,,False
+NICE,Northern Italy,1550,,False
+NOVARA,Northern Italy,1550,7.0,False
+PADOVA,Northern Italy,1550,32.0,False
+PARMA,Northern Italy,1550,25.0,False
+PAVIA,Northern Italy,1550,13.0,False
+PIACENZA,Northern Italy,1550,27.0,False
+REGGIO,Northern Italy,1550,13.0,False
+SAVIGLIANO,Northern Italy,1550,0.0,False
+TREVISO,Northern Italy,1550,12.0,False
+TRIESTE,Northern Italy,1550,,False
+TORINO,Northern Italy,1550,14.0,False
+UDINE,Northern Italy,1550,15.0,False
+VENEZIA,Northern Italy,1550,158.0,False
+VERCELLI,Northern Italy,1550,9.0,False
+VERONA,Northern Italy,1550,52.0,False
+VICENZA,Northern Italy,1550,21.0,False
+VIGEVANO,Northern Italy,1550,7.0,False
+ANCONA,Central Italy,1550,0.0,False
+BOLOGNA,Central Italy,1550,62.0,False
+FERRARA,Central Italy,1550,42.0,False
+FIRENZE,Central Italy,1550,60.0,False
+LIVORNO,Central Italy,1550,0.0,False
+LUCCA,Central Italy,1550,24.0,False
+PERUGIA,Central Italy,1550,20.0,False
+PISA,Central Italy,1550,10.0,False
+ROMA,Central Italy,1550,45.0,False
+SIENA,Central Italy,1550,10.0,False
+VITERBO,Central Italy,1550,,False
+ACIREALE,Southern Italy,1550,0.0,False
+ALTA MURA,Southern Italy,1550,0.0,False
+BARI,Southern Italy,1550,8.0,False
+CAGLIARI,Southern Italy,1550,0.0,False
+CALTAGIRONE,Southern Italy,1550,10.0,False
+CALTANISSETA,Southern Italy,1550,7.0,False
+CASTEL VETRANO,Southern Italy,1550,7.0,False
+CASTROGIOVANNI,Southern Italy,1550,15.0,False
+CATANIA,Southern Italy,1550,22.0,False
+FOGGIA,Southern Italy,1550,0.0,False
+GIRGENTI,Southern Italy,1550,13.0,False
+LECCE,Southern Italy,1550,26.0,False
+MARSALA,Southern Italy,1550,0.0,False
+MASCALI,Southern Italy,1550,0.0,False
+MAZZARINO,Southern Italy,1550,0.0,False
+MESSINA,Southern Italy,1550,,False
+MODICA/POZZALLO,Southern Italy,1550,15.0,False
+MONOPOLI,Southern Italy,1550,,False
+NAPOLI,Southern Italy,1550,212.0,False
+NICOSIA,Southern Italy,1550,17.0,False
+NOTO,Southern Italy,1550,0.0,False
+PALERMO,Southern Italy,1550,70.0,False
+PIAZZA (ENNA),Southern Italy,1550,12.0,False
+RAGUSA,Southern Italy,1550,0.0,False
+REGGIO DI CALABRIA,Southern Italy,1550,,False
+SASSARI,Southern Italy,1550,,False
+SIRACUSA,Southern Italy,1550,12.0,False
+TARANTO,Southern Italy,1550,21.0,False
+TERMINI,Southern Italy,1550,,False
+TRAPANI,Southern Italy,1550,16.0,False
+ALCALA LA REAL,Spain,1550,,False
+ALCAZAR DE SAN JUAN,Spain,1550,20.0,False
+ALICANTE,Spain,1550,0.0,False
+ANDUJAR,Spain,1550,,False
+ANTEQUERA,Spain,1550,10.0,False
+ARACENA,Spain,1550,6.0,False
+AVILA,Spain,1550,16.0,False
+BADAJOZ,Spain,1550,,False
+BAEZA,Spain,1550,18.0,False
+BARCELONA,Spain,1550,35.0,False
+BILBAO,Spain,1550,0.0,False
+BURGOS,Spain,1550,22.0,False
+CADIZ,Spain,1550,0.0,False
+CARTAGENA,Spain,1550,0.0,False
+CORDOBA,Spain,1550,33.0,False
+CUENCA,Spain,1550,14.0,False
+ECIJA,Spain,1550,17.0,False
+GRANADA,Spain,1550,,False
+JAEN,Spain,1550,22.0,False
+JEREZ DA LA FRONTERA,Spain,1550,18.0,False
+LUCENA,Spain,1550,,False
+MADRID,Spain,1550,30.0,False
+MALAGA,Spain,1550,13.0,False
+MEDINA DEL CAMPO,Spain,1550,16.0,False
+MEDINA DE RIOSECO,Spain,1550,11.0,False
+MORON DE LA FRONTERA,Spain,1550,,False
+MURCIA,Spain,1550,13.0,False
+OCANA,Spain,1550,,False
+ORIHUELA,Spain,1550,,False
+OSUNA,Spain,1550,,False
+PALENCIA,Spain,1550,8.0,False
+PALMA,Spain,1550,,False
+RONDA,Spain,1550,8.0,False
+SALAMANCA,Spain,1550,20.0,False
+SANTIAGO,Spain,1550,1.0,False
+SEGOVIA,Spain,1550,22.0,False
+SEVILLA,Spain,1550,65.0,False
+TOLEDO,Spain,1550,30.0,False
+UBEDA,Spain,1550,13.0,False
+UTRERA,Spain,1550,,False
+VALENCIA,Spain,1550,37.0,False
+VALLADOLID,Spain,1550,45.0,False
+ZARAGOZA,Spain,1550,18.0,False
+COIMBRA,Portugal,1550,0.0,False
+ELVAS,Portugal,1550,,False
+EVORA,Portugal,1550,,False
+LISBOA,Portugal,1550,98.0,False
+PORTO,Portugal,1550,13.0,False
+BRNO (BRUNN),Austria and Czechoslovakia,1550,0.0,False
+GRAZ,Austria and Czechoslovakia,1550,0.0,False
+INNSBRUCK,Austria and Czechoslovakia,1550,5.0,False
+KLAGENFURT,Austria and Czechoslovakia,1550,0.0,False
+LINZ,Austria and Czechoslovakia,1550,0.0,False
+PRAHA,Austria and Czechoslovakia,1550,,False
+SALZBURG,Austria and Czechoslovakia,1550,,False
+WIEN,Austria and Czechoslovakia,1550,,False
+KRAKOW,Poland,1550,0.0,False
+POZNAN,Poland,1550,0.0,False
+WARSZAWA,Poland,1550,10.0,False
+BERGEN,Scandinavia,1600,0.0,False
+COPENHAGEN,Scandinavia,1600,,False
+GOTEBORG,Scandinavia,1600,0.0,False
+KARLSKRONA,Scandinavia,1600,0.0,False
+OSLO,Scandinavia,1600,0.0,False
+STOCKHOLM,Scandinavia,1600,,False
+BATH,England and Wales,1600,0.0,False
+BIRMINGHAM,England and Wales,1600,2.0,False
+BLACKBURN,England and Wales,1600,0.0,False
+BOLTON,England and Wales,1600,0.0,False
+BRISTOL,England and Wales,1600,11.0,False
+CAMBRIDGE,England and Wales,1600,0.0,False
+CARLISLE,England and Wales,1600,0.0,False
+CHATHAM,England and Wales,1600,1.0,False
+CHESTER,England and Wales,1600,0.0,False
+COLCHESTER,England and Wales,1600,0.0,False
+COVENTRY,England and Wales,1600,7.0,False
+DERBY,England and Wales,1600,0.0,False
+EXETER,England and Wales,1600,10.0,False
+GREENWICH,England and Wales,1600,0.0,False
+HUDDERSFIELD,England and Wales,1600,0.0,False
+HULL,England and Wales,1600,0.0,False
+IPSWICH,England and Wales,1600,0.0,False
+KING'S LYNN,England and Wales,1600,0.0,False
+LEEDS,England and Wales,1600,0.0,False
+LEICESTER,England and Wales,1600,5.0,False
+LIVERPOOL,England and Wales,1600,0.0,False
+LONDON,England and Wales,1600,200.0,False
+MANCHESTER,England and Wales,1600,0.0,False
+NEWCASTLE,England and Wales,1600,10.0,False
+NORWICH,England and Wales,1600,12.0,False
+NOTTINGHAM,England and Wales,1600,5.0,False
+OLDHAM,England and Wales,1600,0.0,False
+OXFORD,England and Wales,1600,0.0,False
+PLYMOUTH,England and Wales,1600,7.0,False
+PORTSMOUTH,England and Wales,1600,0.0,False
+PRESTON,England and Wales,1600,0.0,False
+READING,England and Wales,1600,0.0,False
+SALFORD,England and Wales,1600,0.0,False
+SHEFFIELD,England and Wales,1600,2.0,False
+SHREWSBURY,England and Wales,1600,0.0,False
+STOCKPORT,England and Wales,1600,0.0,False
+SUNDERLAND,England and Wales,1600,0.0,False
+WARRINGTON,England and Wales,1600,0.0,False
+WENLOCK,England and Wales,1600,0.0,False
+WIGAN,England and Wales,1600,0.0,False
+WOLVERHAMPTON,England and Wales,1600,0.0,False
+WORCESTER,England and Wales,1600,6.0,False
+YARMOUTH,England and Wales,1600,0.0,False
+YORK,England and Wales,1600,12.0,False
+ABERDEEN,Scotland,1600,7.0,False
+DUNDEE,Scotland,1600,7.0,False
+EDINBURGH,Scotland,1600,30.0,False
+GLASGOW,Scotland,1600,2.0,False
+GREENOCK,Scotland,1600,0.0,False
+INVERNESS,Scotland,1600,0.0,False
+PAISLEY,Scotland,1600,0.0,False
+PERTH,Scotland,1600,5.0,False
+BELFAST,Ireland,1600,0.0,False
+CORK,Ireland,1600,2.0,False
+DUBLIN,Ireland,1600,5.0,False
+GALWAY,Ireland,1600,4.0,False
+KILKENNY,Ireland,1600,0.0,False
+LIMERICK,Ireland,1600,3.0,False
+NEWRY,Ireland,1600,0.0,False
+WATERFORD,Ireland,1600,2.0,False
+ALKMAAR,The Netherlands,1600,11.0,False
+AMSTERDAM,The Netherlands,1600,65.0,False
+ARNHEM,The Netherlands,1600,7.0,False
+DELFT,The Netherlands,1600,20.0,False
+DORDRECHT,The Netherlands,1600,15.0,False
+ENKHUIZEN,The Netherlands,1600,17.0,False
+GOUDA,The Netherlands,1600,13.0,False
+GRONINGEN,The Netherlands,1600,19.0,False
+HAARLEM,The Netherlands,1600,30.0,False
+DEN HAAG,The Netherlands,1600,10.0,False
+'S HERTOGENBOSCH,The Netherlands,1600,18.0,False
+HOORN,The Netherlands,1600,12.0,False
+LEEUWARDEN,The Netherlands,1600,11.0,False
+LEIDEN,The Netherlands,1600,25.0,False
+MAASTRICHT,The Netherlands,1600,12.0,False
+MIDDELBURG,The Netherlands,1600,20.0,False
+NIJMEGEN,The Netherlands,1600,12.0,False
+ROTTERDAM,The Netherlands,1600,13.0,False
+UTRECHT,The Netherlands,1600,25.0,False
+ZAANDAM,The Netherlands,1600,16.0,False
+ZWOLLE,The Netherlands,1600,0.0,False
+AALST,Belgium,1600,7.0,False
+ANTWERPEN,Belgium,1600,47.0,False
+BRUGGE,Belgium,1600,27.0,False
+BRUSSELS,Belgium,1600,50.0,False
+DUNKERQUE,Belgium,1600,,False
+GENT,Belgium,1600,31.0,False
+IEPER,Belgium,1600,,False
+KORTRIJK,Belgium,1600,0.0,False
+LEUVEN,Belgium,1600,9.0,False
+LIEGE,Belgium,1600,,False
+LIER,Belgium,1600,0.0,False
+LILLE,Belgium,1600,33.0,False
+LOKEREN,Belgium,1600,0.0,False
+MECHELEN,Belgium,1600,11.0,False
+MONS,Belgium,1600,,False
+NAMUR,Belgium,1600,,False
+OOSTENDE,Belgium,1600,0.0,False
+SINT NIKLAAS,Belgium,1600,2.0,False
+TOURNAI,Belgium,1600,20.0,False
+VALENCIENNES,Belgium,1600,15.0,False
+AACHEN,Germany,1600,,False
+ALTONA,Germany,1600,2.0,False
+ANSBACH,Germany,1600,0.0,False
+AUGSBURG,Germany,1600,48.0,False
+BAMBERG,Germany,1600,12.0,False
+BARMEN,Germany,1600,0.0,False
+BAUTZEN,Germany,1600,0.0,False
+BERLIN,Germany,1600,25.0,False
+BONN,Germany,1600,0.0,False
+BRANDENBURG,Germany,1600,0.0,False
+BRAUNSCHWEIG,Germany,1600,16.0,False
+BREMEN,Germany,1600,,False
+BRESLAU (WROCLAW),Germany,1600,30.0,False
+CHEMNITZ (K-MARX-ST),Germany,1600,5.0,False
+DANZIG (GDANSK),Germany,1600,50.0,False
+DRESDEN,Germany,1600,12.0,False
+DUSSELDORF,Germany,1600,6.0,False
+ELBERFELD,Germany,1600,0.0,False
+ELBING (ELBLAG),Germany,1600,15.0,False
+EMDEN,Germany,1600,,False
+ERFURT,Germany,1600,19.0,False
+FLENSBURG,Germany,1600,0.0,False
+FRANKFURT AM,Germany,1600,18.0,False
+FRANKFURT AO,Germany,1600,13.0,False
+FREIBURG,Germany,1600,10.0,False
+FURTH,Germany,1600,0.0,False
+GOTHA,Germany,1600,0.0,False
+HALBERSTADT,Germany,1600,0.0,False
+HALLE,Germany,1600,,False
+HAMBURG,Germany,1600,40.0,False
+HANAU,Germany,1600,0.0,False
+HANNOVER,Germany,1600,7.0,False
+HEIDELBERG,Germany,1600,0.0,False
+HILDESHEIM,Germany,1600,0.0,False
+KASSEL,Germany,1600,6.0,False
+KOLN,Germany,1600,40.0,False
+KONIGSBERG,Germany,1600,,False
+LEIPZIG,Germany,1600,14.0,False
+LUBECK,Germany,1600,23.0,False
+LUNEBURG,Germany,1600,0.0,False
+MAGDEBURG,Germany,1600,40.0,False
+MAINZ,Germany,1600,20.0,False
+MANNHEIM,Germany,1600,0.0,False
+MUNCHEN,Germany,1600,20.0,False
+MUNSTER,Germany,1600,11.0,False
+NURNBERG,Germany,1600,40.0,False
+POTSDAM,Germany,1600,0.0,False
+QUEDLINBURG,Germany,1600,0.0,False
+REGENSBURG,Germany,1600,,False
+ROSTOCK,Germany,1600,0.0,False
+SOEST,Germany,1600,10.0,False
+STETTIN (SZCZECIN),Germany,1600,12.0,False
+STRALSUND,Germany,1600,0.0,False
+STUTTGART,Germany,1600,9.0,False
+ULM,Germany,1600,21.0,False
+WURZBURG,Germany,1600,10.0,False
+ABBEVILLE,France,1600,,False
+AGEN,France,1600,,False
+AIX EN PROVENCE,France,1600,,False
+ALBI,France,1600,0.0,False
+ALENCON,France,1600,,False
+AMIENS,France,1600,,False
+ANGERS,France,1600,25.0,False
+ANGOULEME,France,1600,0.0,False
+ARLES,France,1600,15.0,False
+ARRAS,France,1600,,False
+AUXERRE,France,1600,0.0,False
+AVIGNON,France,1600,,False
+BAYEUX,France,1600,6.0,False
+BAYONNE,France,1600,0.0,False
+BEAUVAIS,France,1600,,False
+BESANCON,France,1600,11.0,False
+BEZIERS,France,1600,,False
+BLOIS,France,1600,,False
+BORDEAUX,France,1600,40.0,False
+BOULOGNE,France,1600,0.0,False
+BOURGES,France,1600,,False
+BREST,France,1600,0.0,False
+CAEN,France,1600,,False
+CAHORS,France,1600,0.0,False
+CAMBRA!,France,1600,12.0,False
+CARCASSONNE,France,1600,,False
+CASTRES,France,1600,0.0,False
+CHALONS-SUR-MARNE,France,1600,,False
+CHALONS-SUR-SAONE,France,1600,0.0,False
+CHARTRES,France,1600,,False
+CHERBOURG,France,1600,0.0,False
+CLERMONT-FERRAND,France,1600,0.0,False
+COLMAR,France,1600,0.0,False
+DIEPPE,France,1600,,False
+DIJON,France,1600,,False
+DOUAI,France,1600,,False
+FALAISE,France,1600,0.0,False
+GRENOBLE,France,1600,,False
+LA ROCHELLE,France,1600,23.0,False
+LAVAL,France,1600,,False
+LE HAVRE,France,1600,0.0,False
+LE MANS,France,1600,,False
+LE PUY,France,1600,0.0,False
+LIMOGES,France,1600,,False
+LISIEUX,France,1600,0.0,False
+LORIENT,France,1600,0.0,False
+LYON,France,1600,40.0,False
+MACON,France,1600,0.0,False
+MARSEILLE,France,1600,40.0,False
+METZ,France,1600,19.0,False
+MONTAUBAN,France,1600,,False
+MONTPELLIER,France,1600,,False
+MOULINS,France,1600,,False
+NANCY,France,1600,8.0,False
+NANTES,France,1600,25.0,False
+NEVERS,France,1600,0.0,False
+NIMES,France,1600,10.0,False
+NIORT,France,1600,0.0,False
+ORLEANS,France,1600,,False
+PARIS,France,1600,220.0,False
+PERPIGNAN,France,1600,0.0,False
+POITIERS,France,1600,,False
+REIMS,France,1600,,False
+RENNES,France,1600,22.0,False
+RIOM,France,1600,0.0,False
+ROCHEFORT,France,1600,0.0,False
+ROUEN,France,1600,60.0,False
+SAINT-ETIENNE,France,1600,0.0,False
+SAINT-MALO,France,1600,10.0,False
+SAINT-OMER,France,1600,0.0,False
+SAINT-QUENTIN,France,1600,0.0,False
+STRASBOURG,France,1600,28.0,False
+TOULON,France,1600,10.0,False
+TOULOUSE,France,1600,,False
+TOURS,France,1600,,False
+TROYES,France,1600,,False
+VERSAILLES,France,1600,0.0,False
+VIENNE,France,1600,0.0,False
+BASEL,Switzerland,1600,10.0,False
+BERN,Switzerland,1600,0.0,False
+GENEVE,Switzerland,1600,15.0,False
+ZURICH,Switzerland,1600,7.0,False
+ALESSANDRIA,Northern Italy,1600,14.0,False
+ASTI,Northern Italy,1600,10.0,False
+BERGAMO,Northern Italy,1600,23.0,False
+BRESCIA,Northern Italy,1600,42.0,False
+CHIOGGIA,Northern Italy,1600,9.0,False
+COMO,Northern Italy,1600,12.0,False
+CREMA,Northern Italy,1600,14.0,False
+CREMONA,Northern Italy,1600,37.0,False
+CUNEO,Northern Italy,1600,11.0,False
+FOSSANO,Northern Italy,1600,10.0,False
+GENOA,Northern Italy,1600,71.0,False
+LODI,Northern Italy,1600,14.0,False
+MANTUA,Northern Italy,1600,31.0,False
+MILANO,Northern Italy,1600,120.0,False
+MODENA,Northern Italy,1600,21.0,False
+MONDOVI,Northern Italy,1600,11.0,False
+MONZA,Northern Italy,1600,12.0,False
+NICE,Northern Italy,1600,16.0,False
+NOVARA,Northern Italy,1600,0.0,False
+PADOVA,Northern Italy,1600,36.0,False
+PARMA,Northern Italy,1600,33.0,False
+PAVIA,Northern Italy,1600,18.0,False
+PIACENZA,Northern Italy,1600,33.0,False
+REGGIO,Northern Italy,1600,11.0,False
+SAVIGLIANO,Northern Italy,1600,10.0,False
+TREVISO,Northern Italy,1600,14.0,False
+TRIESTE,Northern Italy,1600,,False
+TORINO,Northern Italy,1600,24.0,False
+UDINE,Northern Italy,1600,14.0,False
+VENEZIA,Northern Italy,1600,139.0,False
+VERCELLI,Northern Italy,1600,10.0,False
+VERONA,Northern Italy,1600,49.0,False
+VICENZA,Northern Italy,1600,37.0,False
+VIGEVANO,Northern Italy,1600,8.0,False
+ANCONA,Central Italy,1600,0.0,False
+BOLOGNA,Central Italy,1600,63.0,False
+FERRARA,Central Italy,1600,33.0,False
+FIRENZE,Central Italy,1600,70.0,False
+LIVORNO,Central Italy,1600,4.0,False
+LUCCA,Central Italy,1600,24.0,False
+PERUGIA,Central Italy,1600,20.0,False
+PISA,Central Italy,1600,15.0,False
+ROMA,Central Italy,1600,105.0,False
+SIENA,Central Italy,1600,19.0,False
+VITERBO,Central Italy,1600,,False
+ACIREALE,Southern Italy,1600,14.0,False
+ALTA MURA,Southern Italy,1600,,False
+BARI,Southern Italy,1600,15.0,False
+CAGLIARI,Southern Italy,1600,0.0,False
+CALTAGIRONE,Southern Italy,1600,13.0,False
+CALTANISSETA,Southern Italy,1600,10.0,False
+CASTEL VETRANO,Southern Italy,1600,13.0,False
+CASTROGIOVANNI,Southern Italy,1600,14.0,False
+CATANIA,Southern Italy,1600,28.0,False
+FOGGIA,Southern Italy,1600,0.0,False
+GIRGENTI,Southern Italy,1600,10.0,False
+LECCE,Southern Italy,1600,32.0,False
+MARSALA,Southern Italy,1600,9.0,False
+MASCALI,Southern Italy,1600,0.0,False
+MAZZARINO,Southern Italy,1600,0.0,False
+MESSINA,Southern Italy,1600,50.0,False
+MODICA/POZZALLO,Southern Italy,1600,18.0,False
+MONOPOLI,Southern Italy,1600,,False
+NAPOLI,Southern Italy,1600,281.0,False
+NICOSIA,Southern Italy,1600,21.0,False
+NOTO,Southern Italy,1600,8.0,False
+PALERMO,Southern Italy,1600,105.0,False
+PIAZZA (ENNA),Southern Italy,1600,20.0,False
+RAGUSA,Southern Italy,1600,9.0,False
+REGGIO DI CALABRIA,Southern Italy,1600,,False
+SASSARI,Southern Italy,1600,14.0,False
+SIRACUSA,Southern Italy,1600,12.0,False
+TARANTO,Southern Italy,1600,17.0,False
+TERMINI,Southern Italy,1600,10.0,False
+TRAPANI,Southern Italy,1600,17.0,False
+ALCALA LA REAL,Spain,1600,10.0,False
+ALCAZAR DE SAN JUAN,Spain,1600,10.0,False
+ALICANTE,Spain,1600,11.0,False
+ANDUJAR,Spain,1600,12.0,False
+ANTEQUERA,Spain,1600,16.0,False
+ARACENA,Spain,1600,10.0,False
+AVILA,Spain,1600,14.0,False
+BADAJOZ,Spain,1600,11.0,False
+BAEZA,Spain,1600,21.0,False
+BARCELONA,Spain,1600,43.0,False
+BILBAO,Spain,1600,0.0,False
+BURGOS,Spain,1600,13.0,False
+CADIZ,Spain,1600,5.0,False
+CARTAGENA,Spain,1600,8.0,False
+CORDOBA,Spain,1600,45.0,False
+CUENCA,Spain,1600,25.0,False
+ECIJA,Spain,1600,22.0,False
+GRANADA,Spain,1600,69.0,False
+JAEN,Spain,1600,22.0,False
+JEREZ DA LA FRONTERA,Spain,1600,27.0,False
+LUCENA,Spain,1600,18.0,False
+MADRID,Spain,1600,49.0,False
+MALAGA,Spain,1600,13.0,False
+MEDINA DEL CAMPO,Spain,1600,14.0,False
+MEDINA DE RIOSECO,Spain,1600,10.0,False
+MORON DE LA FRONTERA,Spain,1600,8.0,False
+MURCIA,Spain,1600,17.0,False
+OCANA,Spain,1600,13.0,False
+ORIHUELA,Spain,1600,10.0,False
+OSUNA,Spain,1600,10.0,False
+PALENCIA,Spain,1600,12.0,False
+PALMA,Spain,1600,23.0,False
+RONDA,Spain,1600,8.0,False
+SALAMANCA,Spain,1600,25.0,False
+SANTIAGO,Spain,1600,1.0,False
+SEGOVIA,Spain,1600,28.0,False
+SEVILLA,Spain,1600,90.0,False
+TOLEDO,Spain,1600,50.0,False
+UBEDA,Spain,1600,19.0,False
+UTRERA,Spain,1600,11.0,False
+VALENCIA,Spain,1600,65.0,False
+VALLADOLID,Spain,1600,40.0,False
+ZARAGOZA,Spain,1600,25.0,False
+COIMBRA,Portugal,1600,,False
+ELVAS,Portugal,1600,,False
+EVORA,Portugal,1600,,False
+LISBOA,Portugal,1600,100.0,False
+PORTO,Portugal,1600,15.0,False
+BRNO (BRUNN),Austria and Czechoslovakia,1600,0.0,False
+GRAZ,Austria and Czechoslovakia,1600,8.0,False
+INNSBRUCK,Austria and Czechoslovakia,1600,5.0,False
+KLAGENFURT,Austria and Czechoslovakia,1600,4.0,False
+LINZ,Austria and Czechoslovakia,1600,3.0,False
+PRAHA,Austria and Czechoslovakia,1600,,False
+SALZBURG,Austria and Czechoslovakia,1600,10.0,False
+WIEN,Austria and Czechoslovakia,1600,50.0,False
+KRAKOW,Poland,1600,0.0,False
+POZNAN,Poland,1600,0.0,False
+WARSZAWA,Poland,1600,15.0,False
+BERGEN,Scandinavia,1650,,False
+COPENHAGEN,Scandinavia,1650,23.0,False
+GOTEBORG,Scandinavia,1650,4.0,False
+KARLSKRONA,Scandinavia,1650,0.0,False
+OSLO,Scandinavia,1650,0.0,False
+STOCKHOLM,Scandinavia,1650,40.0,False
+BATH,England and Wales,1650,1.0,False
+BIRMINGHAM,England and Wales,1650,4.0,False
+BLACKBURN,England and Wales,1650,0.0,False
+BOLTON,England and Wales,1650,0.0,False
+BRISTOL,England and Wales,1650,20.0,False
+CAMBRIDGE,England and Wales,1650,9.0,False
+CARLISLE,England and Wales,1650,0.0,False
+CHATHAM,England and Wales,1650,0.0,False
+CHESTER,England and Wales,1650,8.0,False
+COLCHESTER,England and Wales,1650,10.0,False
+COVENTRY,England and Wales,1650,7.0,False
+DERBY,England and Wales,1650,0.0,False
+EXETER,England and Wales,1650,10.0,False
+GREENWICH,England and Wales,1650,0.0,False
+HUDDERSFIELD,England and Wales,1650,0.0,False
+HULL,England and Wales,1650,0.0,False
+IPSWICH,England and Wales,1650,,False
+KING'S LYNN,England and Wales,1650,5.0,False
+LEEDS,England and Wales,1650,5.0,False
+LEICESTER,England and Wales,1650,5.0,False
+LIVERPOOL,England and Wales,1650,0.0,False
+LONDON,England and Wales,1650,400.0,False
+MANCHESTER,England and Wales,1650,5.0,False
+NEWCASTLE,England and Wales,1650,13.0,False
+NORWICH,England and Wales,1650,20.0,False
+NOTTINGHAM,England and Wales,1650,6.0,False
+OLDHAM,England and Wales,1650,0.0,False
+OXFORD,England and Wales,1650,9.0,False
+PLYMOUTH,England and Wales,1650,7.0,False
+PORTSMOUTH,England and Wales,1650,4.0,False
+PRESTON,England and Wales,1650,0.0,False
+READING,England and Wales,1650,0.0,False
+SALFORD,England and Wales,1650,0.0,False
+SHEFFIELD,England and Wales,1650,0.0,False
+SHREWSBURY,England and Wales,1650,0.0,False
+STOCKPORT,England and Wales,1650,0.0,False
+SUNDERLAND,England and Wales,1650,0.0,False
+WARRINGTON,England and Wales,1650,0.0,False
+WENLOCK,England and Wales,1650,0.0,False
+WIGAN,England and Wales,1650,0.0,False
+WOLVERHAMPTON,England and Wales,1650,4.0,False
+WORCESTER,England and Wales,1650,8.0,False
+YARMOUTH,England and Wales,1650,10.0,False
+YORK,England and Wales,1650,12.0,False
+ABERDEEN,Scotland,1650,0.0,False
+DUNDEE,Scotland,1650,,False
+EDINBURGH,Scotland,1650,35.0,False
+GLASGOW,Scotland,1650,,False
+GREENOCK,Scotland,1650,0.0,False
+INVERNESS,Scotland,1650,0.0,False
+PAISLEY,Scotland,1650,0.0,False
+PERTH,Scotland,1650,0.0,False
+BELFAST,Ireland,1650,0.0,False
+CORK,Ireland,1650,2.0,False
+DUBLIN,Ireland,1650,17.0,False
+GALWAY,Ireland,1650,0.0,False
+KILKENNY,Ireland,1650,0.0,False
+LIMERICK,Ireland,1650,0.0,False
+NEWRY,Ireland,1650,0.0,False
+WATERFORD,Ireland,1650,0.0,False
+ALKMAAR,The Netherlands,1650,15.0,False
+AMSTERDAM,The Netherlands,1650,175.0,False
+ARNHEM,The Netherlands,1650,7.0,False
+DELFT,The Netherlands,1650,24.0,False
+DORDRECHT,The Netherlands,1650,20.0,False
+ENKHUIZEN,The Netherlands,1650,22.0,False
+GOUDA,The Netherlands,1650,15.0,False
+GRONINGEN,The Netherlands,1650,20.0,False
+HAARLEM,The Netherlands,1650,38.0,False
+DEN HAAG,The Netherlands,1650,18.0,False
+'S HERTOGENBOSCH,The Netherlands,1650,15.0,False
+HOORN,The Netherlands,1650,16.0,False
+LEEUWARDEN,The Netherlands,1650,15.0,False
+LEIDEN,The Netherlands,1650,67.0,False
+MAASTRICHT,The Netherlands,1650,18.0,False
+MIDDELBURG,The Netherlands,1650,30.0,False
+NIJMEGEN,The Netherlands,1650,11.0,False
+ROTTERDAM,The Netherlands,1650,30.0,False
+UTRECHT,The Netherlands,1650,30.0,False
+ZAANDAM,The Netherlands,1650,24.0,False
+ZWOLLE,The Netherlands,1650,0.0,False
+AALST,Belgium,1650,7.0,False
+ANTWERPEN,Belgium,1650,70.0,False
+BRUGGE,Belgium,1650,34.0,False
+BRUSSELS,Belgium,1650,69.0,False
+DUNKERQUE,Belgium,1650,,False
+GENT,Belgium,1650,46.0,False
+IEPER,Belgium,1650,13.0,False
+KORTRIJK,Belgium,1650,,False
+LEUVEN,Belgium,1650,13.0,False
+LIEGE,Belgium,1650,35.0,False
+LIER,Belgium,1650,0.0,False
+LILLE,Belgium,1650,40.0,False
+LOKEREN,Belgium,1650,0.0,False
+MECHELEN,Belgium,1650,20.0,False
+MONS,Belgium,1650,13.0,False
+NAMUR,Belgium,1650,11.0,False
+OOSTENDE,Belgium,1650,0.0,False
+SINT NIKLAAS,Belgium,1650,4.0,False
+TOURNAI,Belgium,1650,20.0,False
+VALENCIENNES,Belgium,1650,18.0,False
+AACHEN,Germany,1650,12.0,False
+ALTONA,Germany,1650,3.0,False
+ANSBACH,Germany,1650,0.0,False
+AUGSBURG,Germany,1650,21.0,False
+BAMBERG,Germany,1650,7.0,False
+BARMEN,Germany,1650,2.0,False
+BAUTZEN,Germany,1650,0.0,False
+BERLIN,Germany,1650,12.0,False
+BONN,Germany,1650,0.0,False
+BRANDENBURG,Germany,1650,0.0,False
+BRAUNSCHWEIG,Germany,1650,16.0,False
+BREMEN,Germany,1650,,False
+BRESLAU (WROCLAW),Germany,1650,,False
+CHEMNITZ (K-MARX-ST),Germany,1650,0.0,False
+DANZIG (GDANSK),Germany,1650,70.0,False
+DRESDEN,Germany,1650,15.0,False
+DUSSELDORF,Germany,1650,5.0,False
+ELBERFELD,Germany,1650,2.0,False
+ELBING (ELBLAG),Germany,1650,10.0,False
+EMDEN,Germany,1650,14.0,False
+ERFURT,Germany,1650,15.0,False
+FLENSBURG,Germany,1650,0.0,False
+FRANKFURT AM,Germany,1650,17.0,False
+FRANKFURT AO,Germany,1650,2.0,False
+FREIBURG,Germany,1650,6.0,False
+FURTH,Germany,1650,0.0,False
+GOTHA,Germany,1650,0.0,False
+HALBERSTADT,Germany,1650,0.0,False
+HALLE,Germany,1650,,False
+HAMBURG,Germany,1650,75.0,False
+HANAU,Germany,1650,0.0,False
+HANNOVER,Germany,1650,9.0,False
+HEIDELBERG,Germany,1650,4.0,False
+HILDESHEIM,Germany,1650,0.0,False
+KASSEL,Germany,1650,0.0,False
+KOLN,Germany,1650,45.0,False
+KONIGSBERG,Germany,1650,,False
+LEIPZIG,Germany,1650,11.0,False
+LUBECK,Germany,1650,31.0,False
+LUNEBURG,Germany,1650,0.0,False
+MAGDEBURG,Germany,1650,5.0,False
+MAINZ,Germany,1650,10.0,False
+MANNHEIM,Germany,1650,,False
+MUNCHEN,Germany,1650,10.0,False
+MUNSTER,Germany,1650,0.0,False
+NURNBERG,Germany,1650,25.0,False
+POTSDAM,Germany,1650,0.0,False
+QUEDLINBURG,Germany,1650,0.0,False
+REGENSBURG,Germany,1650,,False
+ROSTOCK,Germany,1650,0.0,False
+SOEST,Germany,1650,5.0,False
+STETTIN (SZCZECIN),Germany,1650,6.0,False
+STRALSUND,Germany,1650,0.0,False
+STUTTGART,Germany,1650,5.0,False
+ULM,Germany,1650,14.0,False
+WURZBURG,Germany,1650,11.0,False
+ABBEVILLE,France,1650,,False
+AGEN,France,1650,,False
+AIX EN PROVENCE,France,1650,,False
+ALBI,France,1650,,False
+ALENCON,France,1650,,False
+AMIENS,France,1650,27.0,False
+ANGERS,France,1650,32.0,False
+ANGOULEME,France,1650,0.0,False
+ARLES,France,1650,25.0,False
+ARRAS,France,1650,,False
+AUXERRE,France,1650,0.0,False
+AVIGNON,France,1650,,False
+BAYEUX,France,1650,8.0,False
+BAYONNE,France,1650,0.0,False
+BEAUVAIS,France,1650,,False
+BESANCON,France,1650,13.0,False
+BEZIERS,France,1650,,False
+BLOIS,France,1650,,False
+BORDEAUX,France,1650,40.0,False
+BOULOGNE,France,1650,0.0,False
+BOURGES,France,1650,,False
+BREST,France,1650,0.0,False
+CAEN,France,1650,,False
+CAHORS,France,1650,0.0,False
+CAMBRA!,France,1650,12.0,False
+CARCASSONNE,France,1650,,False
+CASTRES,France,1650,0.0,False
+CHALONS-SUR-MARNE,France,1650,,False
+CHALONS-SUR-SAONE,France,1650,0.0,False
+CHARTRES,France,1650,,False
+CHERBOURG,France,1650,0.0,False
+CLERMONT-FERRAND,France,1650,,False
+COLMAR,France,1650,8.0,False
+DIEPPE,France,1650,,False
+DIJON,France,1650,20.0,False
+DOUAI,France,1650,,False
+FALAISE,France,1650,0.0,False
+GRENOBLE,France,1650,,False
+LA ROCHELLE,France,1650,17.0,False
+LAVAL,France,1650,,False
+LE HAVRE,France,1650,0.0,False
+LE MANS,France,1650,,False
+LE PUY,France,1650,,False
+LIMOGES,France,1650,,False
+LISIEUX,France,1650,0.0,False
+LORIENT,France,1650,0.0,False
+LYON,France,1650,75.0,False
+MACON,France,1650,0.0,False
+MARSEILLE,France,1650,66.0,False
+METZ,France,1650,15.0,False
+MONTAUBAN,France,1650,,False
+MONTPELLIER,France,1650,,False
+MOULINS,France,1650,,False
+NANCY,France,1650,5.0,False
+NANTES,France,1650,40.0,False
+NEVERS,France,1650,0.0,False
+NIMES,France,1650,15.0,False
+NIORT,France,1650,0.0,False
+ORLEANS,France,1650,,False
+PARIS,France,1650,430.0,False
+PERPIGNAN,France,1650,0.0,False
+POITIERS,France,1650,,False
+REIMS,France,1650,,False
+RENNES,France,1650,,False
+RIOM,France,1650,0.0,False
+ROCHEFORT,France,1650,0.0,False
+ROUEN,France,1650,82.0,False
+SAINT-ETIENNE,France,1650,0.0,False
+SAINT-MALO,France,1650,15.0,False
+SAINT-OMER,France,1650,,False
+SAINT-QUENTIN,France,1650,0.0,False
+STRASBOURG,France,1650,23.0,False
+TOULON,France,1650,20.0,False
+TOULOUSE,France,1650,42.0,False
+TOURS,France,1650,,False
+TROYES,France,1650,,False
+VERSAILLES,France,1650,5.0,False
+VIENNE,France,1650,0.0,False
+BASEL,Switzerland,1650,10.0,False
+BERN,Switzerland,1650,0.0,False
+GENEVE,Switzerland,1650,12.0,False
+ZURICH,Switzerland,1650,8.0,False
+ALESSANDRIA,Northern Italy,1650,0.0,False
+ASTI,Northern Italy,1650,,False
+BERGAMO,Northern Italy,1650,,False
+BRESCIA,Northern Italy,1650,25.0,False
+CHIOGGIA,Northern Italy,1650,0.0,False
+COMO,Northern Italy,1650,9.0,False
+CREMA,Northern Italy,1650,7.0,False
+CREMONA,Northern Italy,1650,15.0,False
+CUNEO,Northern Italy,1650,,False
+FOSSANO,Northern Italy,1650,,False
+GENOA,Northern Italy,1650,90.0,False
+LODI,Northern Italy,1650,,False
+MANTUA,Northern Italy,1650,14.0,False
+MILANO,Northern Italy,1650,100.0,False
+MODENA,Northern Italy,1650,15.0,False
+MONDOVI,Northern Italy,1650,0.0,False
+MONZA,Northern Italy,1650,,False
+NICE,Northern Italy,1650,,False
+NOVARA,Northern Italy,1650,0.0,False
+PADOVA,Northern Italy,1650,25.0,False
+PARMA,Northern Italy,1650,19.0,False
+PAVIA,Northern Italy,1650,19.0,False
+PIACENZA,Northern Italy,1650,17.0,False
+REGGIO,Northern Italy,1650,10.0,False
+SAVIGLIANO,Northern Italy,1650,,False
+TREVISO,Northern Italy,1650,9.0,False
+TRIESTE,Northern Italy,1650,,False
+TORINO,Northern Italy,1650,37.0,False
+UDINE,Northern Italy,1650,,False
+VENEZIA,Northern Italy,1650,120.0,False
+VERCELLI,Northern Italy,1650,0.0,False
+VERONA,Northern Italy,1650,30.0,False
+VICENZA,Northern Italy,1650,25.0,False
+VIGEVANO,Northern Italy,1650,0.0,False
+ANCONA,Central Italy,1650,10.0,False
+BOLOGNA,Central Italy,1650,59.0,False
+FERRARA,Central Italy,1650,25.0,False
+FIRENZE,Central Italy,1650,70.0,False
+LIVORNO,Central Italy,1650,12.0,False
+LUCCA,Central Italy,1650,25.0,False
+PERUGIA,Central Italy,1650,16.0,False
+PISA,Central Italy,1650,13.0,False
+ROMA,Central Italy,1650,124.0,False
+SIENA,Central Italy,1650,19.0,False
+VITERBO,Central Italy,1650,11.0,False
+ACIREALE,Southern Italy,1650,9.0,False
+ALTA MURA,Southern Italy,1650,0.0,False
+BARI,Southern Italy,1650,15.0,False
+CAGLIARI,Southern Italy,1650,12.0,False
+CALTAGIRONE,Southern Italy,1650,11.0,False
+CALTANISSETA,Southern Italy,1650,10.0,False
+CASTEL VETRANO,Southern Italy,1650,15.0,False
+CASTROGIOVANNI,Southern Italy,1650,11.0,False
+CATANIA,Southern Italy,1650,11.0,False
+FOGGIA,Southern Italy,1650,0.0,False
+GIRGENTI,Southern Italy,1650,9.0,False
+LECCE,Southern Italy,1650,16.0,False
+MARSALA,Southern Italy,1650,11.0,False
+MASCALI,Southern Italy,1650,0.0,False
+MAZZARINO,Southern Italy,1650,0.0,False
+MESSINA,Southern Italy,1650,50.0,False
+MODICA/POZZALLO,Southern Italy,1650,16.0,False
+MONOPOLI,Southern Italy,1650,,False
+NAPOLI,Southern Italy,1650,176.0,False
+NICOSIA,Southern Italy,1650,12.0,False
+NOTO,Southern Italy,1650,10.0,False
+PALERMO,Southern Italy,1650,129.0,False
+PIAZZA (ENNA),Southern Italy,1650,14.0,False
+RAGUSA,Southern Italy,1650,9.0,False
+REGGIO DI CALABRIA,Southern Italy,1650,,False
+SASSARI,Southern Italy,1650,,False
+SIRACUSA,Southern Italy,1650,14.0,False
+TARANTO,Southern Italy,1650,,False
+TERMINI,Southern Italy,1650,9.0,False
+TRAPANI,Southern Italy,1650,19.0,False
+ALCALA LA REAL,Spain,1650,,False
+ALCAZAR DE SAN JUAN,Spain,1650,,False
+ALICANTE,Spain,1650,11.0,False
+ANDUJAR,Spain,1650,,False
+ANTEQUERA,Spain,1650,19.0,False
+ARACENA,Spain,1650,7.0,False
+AVILA,Spain,1650,6.0,False
+BADAJOZ,Spain,1650,,False
+BAEZA,Spain,1650,12.0,False
+BARCELONA,Spain,1650,44.0,False
+BILBAO,Spain,1650,6.0,False
+BURGOS,Spain,1650,3.0,False
+CADIZ,Spain,1650,7.0,False
+CARTAGENA,Spain,1650,,False
+CORDOBA,Spain,1650,32.0,False
+CUENCA,Spain,1650,0.0,False
+ECIJA,Spain,1650,20.0,False
+GRANADA,Spain,1650,,False
+JAEN,Spain,1650,18.0,False
+JEREZ DA LA FRONTERA,Spain,1650,17.0,False
+LUCENA,Spain,1650,,False
+MADRID,Spain,1650,130.0,False
+MALAGA,Spain,1650,,False
+MEDINA DEL CAMPO,Spain,1650,3.0,False
+MEDINA DE RIOSECO,Spain,1650,6.0,False
+MORON DE LA FRONTERA,Spain,1650,0.0,False
+MURCIA,Spain,1650,20.0,False
+OCANA,Spain,1650,,False
+ORIHUELA,Spain,1650,,False
+OSUNA,Spain,1650,,False
+PALENCIA,Spain,1650,4.0,False
+PALMA,Spain,1650,,False
+RONDA,Spain,1650,,False
+SALAMANCA,Spain,1650,15.0,False
+SANTIAGO,Spain,1650,10.0,False
+SEGOVIA,Spain,1650,16.0,False
+SEVILLA,Spain,1650,60.0,False
+TOLEDO,Spain,1650,20.0,False
+UBEDA,Spain,1650,12.0,False
+UTRERA,Spain,1650,11.0,False
+VALENCIA,Spain,1650,52.0,False
+VALLADOLID,Spain,1650,15.0,False
+ZARAGOZA,Spain,1650,30.0,False
+COIMBRA,Portugal,1650,15.0,False
+ELVAS,Portugal,1650,17.0,False
+EVORA,Portugal,1650,17.0,False
+LISBOA,Portugal,1650,130.0,False
+PORTO,Portugal,1650,20.0,False
+BRNO (BRUNN),Austria and Czechoslovakia,1650,9.0,False
+GRAZ,Austria and Czechoslovakia,1650,,False
+INNSBRUCK,Austria and Czechoslovakia,1650,6.0,False
+KLAGENFURT,Austria and Czechoslovakia,1650,0.0,False
+LINZ,Austria and Czechoslovakia,1650,0.0,False
+PRAHA,Austria and Czechoslovakia,1650,,False
+SALZBURG,Austria and Czechoslovakia,1650,10.0,False
+WIEN,Austria and Czechoslovakia,1650,60.0,False
+KRAKOW,Poland,1650,0.0,False
+POZNAN,Poland,1650,0.0,False
+WARSZAWA,Poland,1650,20.0,False
+BERGEN,Scandinavia,1700,,False
+COPENHAGEN,Scandinavia,1700,70.0,False
+GOTEBORG,Scandinavia,1700,6.0,False
+KARLSKRONA,Scandinavia,1700,0.0,False
+OSLO,Scandinavia,1700,0.0,False
+STOCKHOLM,Scandinavia,1700,45.0,False
+BATH,England and Wales,1700,3.0,False
+BIRMINGHAM,England and Wales,1700,7.0,False
+BLACKBURN,England and Wales,1700,0.0,False
+BOLTON,England and Wales,1700,0.0,False
+BRISTOL,England and Wales,1700,25.0,False
+CAMBRIDGE,England and Wales,1700,9.0,False
+CARLISLE,England and Wales,1700,4.0,False
+CHATHAM,England and Wales,1700,5.0,False
+CHESTER,England and Wales,1700,10.0,False
+COLCHESTER,England and Wales,1700,10.0,False
+COVENTRY,England and Wales,1700,7.0,False
+DERBY,England and Wales,1700,0.0,False
+EXETER,England and Wales,1700,14.0,False
+GREENWICH,England and Wales,1700,0.0,False
+HUDDERSFIELD,England and Wales,1700,0.0,False
+HULL,England and Wales,1700,6.0,False
+IPSWICH,England and Wales,1700,8.0,False
+KING'S LYNN,England and Wales,1700,5.0,False
+LEEDS,England and Wales,1700,6.0,False
+LEICESTER,England and Wales,1700,6.0,False
+LIVERPOOL,England and Wales,1700,6.0,False
+LONDON,England and Wales,1700,575.0,False
+MANCHESTER,England and Wales,1700,9.0,False
+NEWCASTLE,England and Wales,1700,14.0,False
+NORWICH,England and Wales,1700,29.0,False
+NOTTINGHAM,England and Wales,1700,7.0,False
+OLDHAM,England and Wales,1700,0.0,False
+OXFORD,England and Wales,1700,8.0,False
+PLYMOUTH,England and Wales,1700,9.0,False
+PORTSMOUTH,England and Wales,1700,5.0,False
+PRESTON,England and Wales,1700,0.0,False
+READING,England and Wales,1700,0.0,False
+SALFORD,England and Wales,1700,0.0,False
+SHEFFIELD,England and Wales,1700,10.0,False
+SHREWSBURY,England and Wales,1700,10.0,False
+STOCKPORT,England and Wales,1700,0.0,False
+SUNDERLAND,England and Wales,1700,5.0,False
+WARRINGTON,England and Wales,1700,0.0,False
+WENLOCK,England and Wales,1700,0.0,False
+WIGAN,England and Wales,1700,0.0,False
+WOLVERHAMPTON,England and Wales,1700,0.0,False
+WORCESTER,England and Wales,1700,9.0,False
+YARMOUTH,England and Wales,1700,10.0,False
+YORK,England and Wales,1700,11.0,False
+ABERDEEN,Scotland,1700,6.0,False
+DUNDEE,Scotland,1700,,False
+EDINBURGH,Scotland,1700,40.0,False
+GLASGOW,Scotland,1700,13.0,False
+GREENOCK,Scotland,1700,0.0,False
+INVERNESS,Scotland,1700,0.0,False
+PAISLEY,Scotland,1700,0.0,False
+PERTH,Scotland,1700,0.0,False
+BELFAST,Ireland,1700,2.0,False
+CORK,Ireland,1700,25.0,False
+DUBLIN,Ireland,1700,60.0,False
+GALWAY,Ireland,1700,5.0,False
+KILKENNY,Ireland,1700,7.0,False
+LIMERICK,Ireland,1700,11.0,False
+NEWRY,Ireland,1700,0.0,False
+WATERFORD,Ireland,1700,5.0,False
+ALKMAAR,The Netherlands,1700,12.0,False
+AMSTERDAM,The Netherlands,1700,200.0,False
+ARNHEM,The Netherlands,1700,6.0,False
+DELFT,The Netherlands,1700,18.0,False
+DORDRECHT,The Netherlands,1700,22.0,False
+ENKHUIZEN,The Netherlands,1700,14.0,False
+GOUDA,The Netherlands,1700,15.0,False
+GRONINGEN,The Netherlands,1700,20.0,False
+HAARLEM,The Netherlands,1700,33.0,False
+DEN HAAG,The Netherlands,1700,33.0,False
+'S HERTOGENBOSCH,The Netherlands,1700,13.0,False
+HOORN,The Netherlands,1700,13.0,False
+LEEUWARDEN,The Netherlands,1700,15.0,False
+LEIDEN,The Netherlands,1700,55.0,False
+MAASTRICHT,The Netherlands,1700,26.0,False
+MIDDELBURG,The Netherlands,1700,25.0,False
+NIJMEGEN,The Netherlands,1700,11.0,False
+ROTTERDAM,The Netherlands,1700,48.0,False
+UTRECHT,The Netherlands,1700,30.0,False
+ZAANDAM,The Netherlands,1700,26.0,False
+ZWOLLE,The Netherlands,1700,10.0,False
+AALST,Belgium,1700,8.0,False
+ANTWERPEN,Belgium,1700,70.0,False
+BRUGGE,Belgium,1700,38.0,False
+BRUSSELS,Belgium,1700,80.0,False
+DUNKERQUE,Belgium,1700,11.0,False
+GENT,Belgium,1700,51.0,False
+IEPER,Belgium,1700,11.0,False
+KORTRIJK,Belgium,1700,,False
+LEUVEN,Belgium,1700,14.0,False
+LIEGE,Belgium,1700,45.0,False
+LIER,Belgium,1700,5.0,False
+LILLE,Belgium,1700,55.0,False
+LOKEREN,Belgium,1700,0.0,False
+MECHELEN,Belgium,1700,22.0,False
+MONS,Belgium,1700,14.0,False
+NAMUR,Belgium,1700,,False
+OOSTENDE,Belgium,1700,0.0,False
+SINT NIKLAAS,Belgium,1700,6.0,False
+TOURNAI,Belgium,1700,29.0,False
+VALENCIENNES,Belgium,1700,19.0,False
+AACHEN,Germany,1700,15.0,False
+ALTONA,Germany,1700,12.0,False
+ANSBACH,Germany,1700,4.0,False
+AUGSBURG,Germany,1700,21.0,False
+BAMBERG,Germany,1700,10.0,False
+BARMEN,Germany,1700,2.0,False
+BAUTZEN,Germany,1700,0.0,False
+BERLIN,Germany,1700,55.0,False
+BONN,Germany,1700,0.0,False
+BRANDENBURG,Germany,1700,0.0,False
+BRAUNSCHWEIG,Germany,1700,,False
+BREMEN,Germany,1700,27.0,False
+BRESLAU (WROCLAW),Germany,1700,,False
+CHEMNITZ (K-MARX-ST),Germany,1700,4.0,False
+DANZIG (GDANSK),Germany,1700,50.0,False
+DRESDEN,Germany,1700,40.0,False
+DUSSELDORF,Germany,1700,5.0,False
+ELBERFELD,Germany,1700,3.0,False
+ELBING (ELBLAG),Germany,1700,16.0,False
+EMDEN,Germany,1700,10.0,False
+ERFURT,Germany,1700,17.0,False
+FLENSBURG,Germany,1700,0.0,False
+FRANKFURT AM,Germany,1700,28.0,False
+FRANKFURT AO,Germany,1700,9.0,False
+FREIBURG,Germany,1700,0.0,False
+FURTH,Germany,1700,5.0,False
+GOTHA,Germany,1700,0.0,False
+HALBERSTADT,Germany,1700,0.0,False
+HALLE,Germany,1700,,False
+HAMBURG,Germany,1700,70.0,False
+HANAU,Germany,1700,0.0,False
+HANNOVER,Germany,1700,11.0,False
+HEIDELBERG,Germany,1700,0.0,False
+HILDESHEIM,Germany,1700,0.0,False
+KASSEL,Germany,1700,10.0,False
+KOLN,Germany,1700,42.0,False
+KONIGSBERG,Germany,1700,35.0,False
+LEIPZIG,Germany,1700,20.0,False
+LUBECK,Germany,1700,,False
+LUNEBURG,Germany,1700,0.0,False
+MAGDEBURG,Germany,1700,10.0,False
+MAINZ,Germany,1700,20.0,False
+MANNHEIM,Germany,1700,13.0,False
+MUNCHEN,Germany,1700,21.0,False
+MUNSTER,Germany,1700,7.0,False
+NURNBERG,Germany,1700,40.0,False
+POTSDAM,Germany,1700,2.0,False
+QUEDLINBURG,Germany,1700,0.0,False
+REGENSBURG,Germany,1700,,False
+ROSTOCK,Germany,1700,0.0,False
+SOEST,Germany,1700,5.0,False
+STETTIN (SZCZECIN),Germany,1700,6.0,False
+STRALSUND,Germany,1700,0.0,False
+STUTTGART,Germany,1700,13.0,False
+ULM,Germany,1700,,False
+WURZBURG,Germany,1700,14.0,False
+ABBEVILLE,France,1700,15.0,False
+AGEN,France,1700,10.0,False
+AIX EN PROVENCE,France,1700,28.0,False
+ALBI,France,1700,10.0,False
+ALENCON,France,1700,12.0,False
+AMIENS,France,1700,30.0,False
+ANGERS,France,1700,27.0,False
+ANGOULEME,France,1700,0.0,False
+ARLES,France,1700,20.0,False
+ARRAS,France,1700,15.0,False
+AUXERRE,France,1700,0.0,False
+AVIGNON,France,1700,23.0,False
+BAYEUX,France,1700,7.0,False
+BAYONNE,France,1700,0.0,False
+BEAUVAIS,France,1700,12.0,False
+BESANCON,France,1700,17.0,False
+BEZIERS,France,1700,12.0,False
+BLOIS,France,1700,11.0,False
+BORDEAUX,France,1700,50.0,False
+BOULOGNE,France,1700,0.0,False
+BOURGES,France,1700,15.0,False
+BREST,France,1700,7.0,False
+CAEN,France,1700,27.0,False
+CAHORS,France,1700,0.0,False
+CAMBRA!,France,1700,12.0,False
+CARCASSONNE,France,1700,11.0,False
+CASTRES,France,1700,9.0,False
+CHALONS-SUR-MARNE,France,1700,11.0,False
+CHALONS-SUR-SAONE,France,1700,0.0,False
+CHARTRES,France,1700,12.0,False
+CHERBOURG,France,1700,4.0,False
+CLERMONT-FERRAND,France,1700,12.0,False
+COLMAR,France,1700,7.0,False
+DIEPPE,France,1700,15.0,False
+DIJON,France,1700,22.0,False
+DOUAI,France,1700,13.0,False
+FALAISE,France,1700,9.0,False
+GRENOBLE,France,1700,20.0,False
+LA ROCHELLE,France,1700,14.0,False
+LAVAL,France,1700,10.0,False
+LE HAVRE,France,1700,9.0,False
+LE MANS,France,1700,17.0,False
+LE PUY,France,1700,10.0,False
+LIMOGES,France,1700,12.0,False
+LISIEUX,France,1700,0.0,False
+LORIENT,France,1700,0.0,False
+LYON,France,1700,97.0,False
+MACON,France,1700,0.0,False
+MARSEILLE,France,1700,75.0,False
+METZ,France,1700,22.0,False
+MONTAUBAN,France,1700,18.0,False
+MONTPELLIER,France,1700,25.0,False
+MOULINS,France,1700,11.0,False
+NANCY,France,1700,15.0,False
+NANTES,France,1700,42.0,False
+NEVERS,France,1700,0.0,False
+NIMES,France,1700,19.0,False
+NIORT,France,1700,0.0,False
+ORLEANS,France,1700,30.0,False
+PARIS,France,1700,510.0,False
+PERPIGNAN,France,1700,0.0,False
+POITIERS,France,1700,18.0,False
+REIMS,France,1700,25.0,False
+RENNES,France,1700,30.0,False
+RIOM,France,1700,0.0,False
+ROCHEFORT,France,1700,10.0,False
+ROUEN,France,1700,64.0,False
+SAINT-ETIENNE,France,1700,0.0,False
+SAINT-MALO,France,1700,25.0,False
+SAINT-OMER,France,1700,15.0,False
+SAINT-QUENTIN,France,1700,0.0,False
+STRASBOURG,France,1700,30.0,False
+TOULON,France,1700,25.0,False
+TOULOUSE,France,1700,38.0,False
+TOURS,France,1700,30.0,False
+TROYES,France,1700,21.0,False
+VERSAILLES,France,1700,25.0,False
+VIENNE,France,1700,7.0,False
+BASEL,Switzerland,1700,11.0,False
+BERN,Switzerland,1700,0.0,False
+GENEVE,Switzerland,1700,17.0,False
+ZURICH,Switzerland,1700,11.0,False
+ALESSANDRIA,Northern Italy,1700,0.0,False
+ASTI,Northern Italy,1700,10.0,False
+BERGAMO,Northern Italy,1700,25.0,False
+BRESCIA,Northern Italy,1700,35.0,False
+CHIOGGIA,Northern Italy,1700,,False
+COMO,Northern Italy,1700,,False
+CREMA,Northern Italy,1700,0.0,False
+CREMONA,Northern Italy,1700,22.0,False
+CUNEO,Northern Italy,1700,,False
+FOSSANO,Northern Italy,1700,,False
+GENOA,Northern Italy,1700,80.0,False
+LODI,Northern Italy,1700,,False
+MANTUA,Northern Italy,1700,21.0,False
+MILANO,Northern Italy,1700,124.0,False
+MODENA,Northern Italy,1700,19.0,False
+MONDOVI,Northern Italy,1700,0.0,False
+MONZA,Northern Italy,1700,,False
+NICE,Northern Italy,1700,15.0,False
+NOVARA,Northern Italy,1700,0.0,False
+PADOVA,Northern Italy,1700,30.0,False
+PARMA,Northern Italy,1700,35.0,False
+PAVIA,Northern Italy,1700,20.0,False
+PIACENZA,Northern Italy,1700,,False
+REGGIO,Northern Italy,1700,15.0,False
+SAVIGLIANO,Northern Italy,1700,,False
+TREVISO,Northern Italy,1700,,False
+TRIESTE,Northern Italy,1700,,False
+TORINO,Northern Italy,1700,42.0,False
+UDINE,Northern Italy,1700,,False
+VENEZIA,Northern Italy,1700,138.0,False
+VERCELLI,Northern Italy,1700,0.0,False
+VERONA,Northern Italy,1700,41.0,False
+VICENZA,Northern Italy,1700,26.0,False
+VIGEVANO,Northern Italy,1700,0.0,False
+ANCONA,Central Italy,1700,9.0,False
+BOLOGNA,Central Italy,1700,63.0,False
+FERRARA,Central Italy,1700,27.0,False
+FIRENZE,Central Italy,1700,72.0,False
+LIVORNO,Central Italy,1700,16.0,False
+LUCCA,Central Italy,1700,23.0,False
+PERUGIA,Central Italy,1700,16.0,False
+PISA,Central Italy,1700,13.0,False
+ROMA,Central Italy,1700,138.0,False
+SIENA,Central Italy,1700,19.0,False
+VITERBO,Central Italy,1700,12.0,False
+ACIREALE,Southern Italy,1700,12.0,False
+ALTA MURA,Southern Italy,1700,,False
+BARI,Southern Italy,1700,13.0,False
+CAGLIARI,Southern Italy,1700,17.0,False
+CALTAGIRONE,Southern Italy,1700,12.0,False
+CALTANISSETA,Southern Italy,1700,15.0,False
+CASTEL VETRANO,Southern Italy,1700,12.0,False
+CASTROGIOVANNI,Southern Italy,1700,9.0,False
+CATANIA,Southern Italy,1700,16.0,False
+FOGGIA,Southern Italy,1700,,False
+GIRGENTI,Southern Italy,1700,11.0,False
+LECCE,Southern Italy,1700,,False
+MARSALA,Southern Italy,1700,14.0,False
+MASCALI,Southern Italy,1700,0.0,False
+MAZZARINO,Southern Italy,1700,8.0,False
+MESSINA,Southern Italy,1700,40.0,False
+MODICA/POZZALLO,Southern Italy,1700,19.0,False
+MONOPOLI,Southern Italy,1700,,False
+NAPOLI,Southern Italy,1700,216.0,False
+NICOSIA,Southern Italy,1700,12.0,False
+NOTO,Southern Italy,1700,7.0,False
+PALERMO,Southern Italy,1700,100.0,False
+PIAZZA (ENNA),Southern Italy,1700,9.0,False
+RAGUSA,Southern Italy,1700,9.0,False
+REGGIO DI CALABRIA,Southern Italy,1700,,False
+SASSARI,Southern Italy,1700,14.0,False
+SIRACUSA,Southern Italy,1700,17.0,False
+TARANTO,Southern Italy,1700,,False
+TERMINI,Southern Italy,1700,7.0,False
+TRAPANI,Southern Italy,1700,17.0,False
+ALCALA LA REAL,Spain,1700,,False
+ALCAZAR DE SAN JUAN,Spain,1700,,False
+ALICANTE,Spain,1700,0.0,False
+ANDUJAR,Spain,1700,,False
+ANTEQUERA,Spain,1700,,False
+ARACENA,Spain,1700,0.0,False
+AVILA,Spain,1700,5.0,False
+BADAJOZ,Spain,1700,,False
+BAEZA,Spain,1700,7.0,False
+BARCELONA,Spain,1700,43.0,False
+BILBAO,Spain,1700,6.0,False
+BURGOS,Spain,1700,9.0,False
+CADIZ,Spain,1700,23.0,False
+CARTAGENA,Spain,1700,12.0,False
+CORDOBA,Spain,1700,28.0,False
+CUENCA,Spain,1700,0.0,False
+ECIJA,Spain,1700,10.0,False
+GRANADA,Spain,1700,,False
+JAEN,Spain,1700,20.0,False
+JEREZ DA LA FRONTERA,Spain,1700,13.0,False
+LUCENA,Spain,1700,,False
+MADRID,Spain,1700,110.0,False
+MALAGA,Spain,1700,30.0,False
+MEDINA DEL CAMPO,Spain,1700,5.0,False
+MEDINA DE RIOSECO,Spain,1700,7.0,False
+MORON DE LA FRONTERA,Spain,1700,0.0,False
+MURCIA,Spain,1700,25.0,False
+OCANA,Spain,1700,0.0,False
+ORIHUELA,Spain,1700,,False
+OSUNA,Spain,1700,,False
+PALENCIA,Spain,1700,4.0,False
+PALMA,Spain,1700,,False
+RONDA,Spain,1700,,False
+SALAMANCA,Spain,1700,12.0,False
+SANTIAGO,Spain,1700,,False
+SEGOVIA,Spain,1700,8.0,False
+SEVILLA,Spain,1700,96.0,False
+TOLEDO,Spain,1700,20.0,False
+UBEDA,Spain,1700,10.0,False
+UTRERA,Spain,1700,8.0,False
+VALENCIA,Spain,1700,50.0,False
+VALLADOLID,Spain,1700,18.0,False
+ZARAGOZA,Spain,1700,30.0,False
+COIMBRA,Portugal,1700,,False
+ELVAS,Portugal,1700,,False
+EVORA,Portugal,1700,,False
+LISBOA,Portugal,1700,165.0,False
+PORTO,Portugal,1700,25.0,False
+BRNO (BRUNN),Austria and Czechoslovakia,1700,,False
+GRAZ,Austria and Czechoslovakia,1700,,False
+INNSBRUCK,Austria and Czechoslovakia,1700,7.0,False
+KLAGENFURT,Austria and Czechoslovakia,1700,0.0,False
+LINZ,Austria and Czechoslovakia,1700,0.0,False
+PRAHA,Austria and Czechoslovakia,1700,39.0,False
+SALZBURG,Austria and Czechoslovakia,1700,13.0,False
+WIEN,Austria and Czechoslovakia,1700,114.0,False
+KRAKOW,Poland,1700,,False
+POZNAN,Poland,1700,0.0,False
+WARSZAWA,Poland,1700,15.0,False
+BERGEN,Scandinavia,1750,14.0,False
+COPENHAGEN,Scandinavia,1750,93.0,False
+GOTEBORG,Scandinavia,1750,8.0,False
+KARLSKRONA,Scandinavia,1750,5.0,False
+OSLO,Scandinavia,1750,7.0,False
+STOCKHOLM,Scandinavia,1750,60.0,False
+BATH,England and Wales,1750,9.0,False
+BIRMINGHAM,England and Wales,1750,24.0,False
+BLACKBURN,England and Wales,1750,4.0,False
+BOLTON,England and Wales,1750,4.0,False
+BRISTOL,England and Wales,1750,45.0,False
+CAMBRIDGE,England and Wales,1750,6.0,False
+CARLISLE,England and Wales,1750,4.0,False
+CHATHAM,England and Wales,1750,5.0,False
+CHESTER,England and Wales,1750,13.0,False
+COLCHESTER,England and Wales,1750,9.0,False
+COVENTRY,England and Wales,1750,12.0,False
+DERBY,England and Wales,1750,6.0,False
+EXETER,England and Wales,1750,16.0,False
+GREENWICH,England and Wales,1750,,False
+HUDDERSFIELD,England and Wales,1750,0.0,False
+HULL,England and Wales,1750,6.0,False
+IPSWICH,England and Wales,1750,12.0,False
+KING'S LYNN,England and Wales,1750,9.0,False
+LEEDS,England and Wales,1750,16.0,False
+LEICESTER,England and Wales,1750,8.0,False
+LIVERPOOL,England and Wales,1750,22.0,False
+LONDON,England and Wales,1750,675.0,False
+MANCHESTER,England and Wales,1750,18.0,False
+NEWCASTLE,England and Wales,1750,29.0,False
+NORWICH,England and Wales,1750,36.0,False
+NOTTINGHAM,England and Wales,1750,12.0,False
+OLDHAM,England and Wales,1750,0.0,False
+OXFORD,England and Wales,1750,8.0,False
+PLYMOUTH,England and Wales,1750,15.0,False
+PORTSMOUTH,England and Wales,1750,10.0,False
+PRESTON,England and Wales,1750,6.0,False
+READING,England and Wales,1750,7.0,False
+SALFORD,England and Wales,1750,0.0,False
+SHEFFIELD,England and Wales,1750,12.0,False
+SHREWSBURY,England and Wales,1750,13.0,False
+STOCKPORT,England and Wales,1750,3.0,False
+SUNDERLAND,England and Wales,1750,10.0,False
+WARRINGTON,England and Wales,1750,4.0,False
+WENLOCK,England and Wales,1750,,False
+WIGAN,England and Wales,1750,4.0,False
+WOLVERHAMPTON,England and Wales,1750,7.0,False
+WORCESTER,England and Wales,1750,10.0,False
+YARMOUTH,England and Wales,1750,10.0,False
+YORK,England and Wales,1750,11.0,False
+ABERDEEN,Scotland,1750,16.0,False
+DUNDEE,Scotland,1750,12.0,False
+EDINBURGH,Scotland,1750,57.0,False
+GLASGOW,Scotland,1750,24.0,False
+GREENOCK,Scotland,1750,4.0,False
+INVERNESS,Scotland,1750,10.0,False
+PAISLEY,Scotland,1750,7.0,False
+PERTH,Scotland,1750,9.0,False
+BELFAST,Ireland,1750,9.0,False
+CORK,Ireland,1750,58.0,False
+DUBLIN,Ireland,1750,90.0,False
+GALWAY,Ireland,1750,0.0,False
+KILKENNY,Ireland,1750,0.0,False
+LIMERICK,Ireland,1750,,False
+NEWRY,Ireland,1750,0.0,False
+WATERFORD,Ireland,1750,,False
+ALKMAAR,The Netherlands,1750,8.0,False
+AMSTERDAM,The Netherlands,1750,210.0,False
+ARNHEM,The Netherlands,1750,6.0,False
+DELFT,The Netherlands,1750,15.0,False
+DORDRECHT,The Netherlands,1750,16.0,False
+ENKHUIZEN,The Netherlands,1750,7.0,False
+GOUDA,The Netherlands,1750,15.0,False
+GRONINGEN,The Netherlands,1750,21.0,False
+HAARLEM,The Netherlands,1750,27.0,False
+DEN HAAG,The Netherlands,1750,38.0,False
+'S HERTOGENBOSCH,The Netherlands,1750,14.0,False
+HOORN,The Netherlands,1750,10.0,False
+LEEUWARDEN,The Netherlands,1750,14.0,False
+LEIDEN,The Netherlands,1750,38.0,False
+MAASTRICHT,The Netherlands,1750,18.0,False
+MIDDELBURG,The Netherlands,1750,24.0,False
+NIJMEGEN,The Netherlands,1750,11.0,False
+ROTTERDAM,The Netherlands,1750,44.0,False
+UTRECHT,The Netherlands,1750,25.0,False
+ZAANDAM,The Netherlands,1750,28.0,False
+ZWOLLE,The Netherlands,1750,12.0,False
+AALST,Belgium,1750,8.0,False
+ANTWERPEN,Belgium,1750,46.0,False
+BRUGGE,Belgium,1750,28.0,False
+BRUSSELS,Belgium,1750,60.0,False
+DUNKERQUE,Belgium,1750,15.0,False
+GENT,Belgium,1750,40.0,False
+IEPER,Belgium,1750,11.0,False
+KORTRIJK,Belgium,1750,12.0,False
+LEUVEN,Belgium,1750,15.0,False
+LIEGE,Belgium,1750,57.0,False
+LIER,Belgium,1750,6.0,False
+LILLE,Belgium,1750,63.0,False
+LOKEREN,Belgium,1750,0.0,False
+MECHELEN,Belgium,1750,18.0,False
+MONS,Belgium,1750,17.0,False
+NAMUR,Belgium,1750,,False
+OOSTENDE,Belgium,1750,0.0,False
+SINT NIKLAAS,Belgium,1750,8.0,False
+TOURNAI,Belgium,1750,21.0,False
+VALENCIENNES,Belgium,1750,16.0,False
+AACHEN,Germany,1750,,False
+ALTONA,Germany,1750,15.0,False
+ANSBACH,Germany,1750,6.0,False
+AUGSBURG,Germany,1750,,False
+BAMBERG,Germany,1750,12.0,False
+BARMEN,Germany,1750,4.0,False
+BAUTZEN,Germany,1750,8.0,False
+BERLIN,Germany,1750,90.0,False
+BONN,Germany,1750,0.0,False
+BRANDENBURG,Germany,1750,0.0,False
+BRAUNSCHWEIG,Germany,1750,21.0,False
+BREMEN,Germany,1750,28.0,False
+BRESLAU (WROCLAW),Germany,1750,55.0,False
+CHEMNITZ (K-MARX-ST),Germany,1750,11.0,False
+DANZIG (GDANSK),Germany,1750,46.0,False
+DRESDEN,Germany,1750,52.0,False
+DUSSELDORF,Germany,1750,,False
+ELBERFELD,Germany,1750,0.0,False
+ELBING (ELBLAG),Germany,1750,16.0,False
+EMDEN,Germany,1750,8.0,False
+ERFURT,Germany,1750,17.0,False
+FLENSBURG,Germany,1750,,False
+FRANKFURT AM,Germany,1750,32.0,False
+FRANKFURT AO,Germany,1750,9.0,False
+FREIBURG,Germany,1750,0.0,False
+FURTH,Germany,1750,0.0,False
+GOTHA,Germany,1750,,False
+HALBERSTADT,Germany,1750,,False
+HALLE,Germany,1750,,False
+HAMBURG,Germany,1750,75.0,False
+HANAU,Germany,1750,11.0,False
+HANNOVER,Germany,1750,17.0,False
+HEIDELBERG,Germany,1750,10.0,False
+HILDESHEIM,Germany,1750,0.0,False
+KASSEL,Germany,1750,19.0,False
+KOLN,Germany,1750,43.0,False
+KONIGSBERG,Germany,1750,60.0,False
+LEIPZIG,Germany,1750,35.0,False
+LUBECK,Germany,1750,,False
+LUNEBURG,Germany,1750,0.0,False
+MAGDEBURG,Germany,1750,18.0,False
+MAINZ,Germany,1750,24.0,False
+MANNHEIM,Germany,1750,20.0,False
+MUNCHEN,Germany,1750,32.0,False
+MUNSTER,Germany,1750,9.0,False
+NURNBERG,Germany,1750,30.0,False
+POTSDAM,Germany,1750,15.0,False
+QUEDLINBURG,Germany,1750,0.0,False
+REGENSBURG,Germany,1750,,False
+ROSTOCK,Germany,1750,0.0,False
+SOEST,Germany,1750,5.0,False
+STETTIN (SZCZECIN),Germany,1750,12.0,False
+STRALSUND,Germany,1750,,False
+STUTTGART,Germany,1750,17.0,False
+ULM,Germany,1750,15.0,False
+WURZBURG,Germany,1750,15.0,False
+ABBEVILLE,France,1750,15.0,False
+AGEN,France,1750,10.0,False
+AIX EN PROVENCE,France,1750,25.0,False
+ALBI,France,1750,8.0,False
+ALENCON,France,1750,12.0,False
+AMIENS,France,1750,33.0,False
+ANGERS,France,1750,23.0,False
+ANGOULEME,France,1750,0.0,False
+ARLES,France,1750,23.0,False
+ARRAS,France,1750,17.0,False
+AUXERRE,France,1750,0.0,False
+AVIGNON,France,1750,22.0,False
+BAYEUX,France,1750,8.0,False
+BAYONNE,France,1750,0.0,False
+BEAUVAIS,France,1750,12.0,False
+BESANCON,France,1750,21.0,False
+BEZIERS,France,1750,13.0,False
+BLOIS,France,1750,11.0,False
+BORDEAUX,France,1750,67.0,False
+BOULOGNE,France,1750,,False
+BOURGES,France,1750,25.0,False
+BREST,France,1750,20.0,False
+CAEN,France,1750,35.0,False
+CAHORS,France,1750,0.0,False
+CAMBRA!,France,1750,12.0,False
+CARCASSONNE,France,1750,12.0,False
+CASTRES,France,1750,9.0,False
+CHALONS-SUR-MARNE,France,1750,15.0,False
+CHALONS-SUR-SAONE,France,1750,0.0,False
+CHARTRES,France,1750,10.0,False
+CHERBOURG,France,1750,5.0,False
+CLERMONT-FERRAND,France,1750,24.0,False
+COLMAR,France,1750,0.0,False
+DIEPPE,France,1750,18.0,False
+DIJON,France,1750,22.0,False
+DOUAI,France,1750,21.0,False
+FALAISE,France,1750,0.0,False
+GRENOBLE,France,1750,24.0,False
+LA ROCHELLE,France,1750,16.0,False
+LAVAL,France,1750,10.0,False
+LE HAVRE,France,1750,14.0,False
+LE MANS,France,1750,16.0,False
+LE PUY,France,1750,10.0,False
+LIMOGES,France,1750,18.0,False
+LISIEUX,France,1750,0.0,False
+LORIENT,France,1750,0.0,False
+LYON,France,1750,114.0,False
+MACON,France,1750,0.0,False
+MARSEILLE,France,1750,68.0,False
+METZ,France,1750,29.0,False
+MONTAUBAN,France,1750,16.0,False
+MONTPELLIER,France,1750,35.0,False
+MOULINS,France,1750,11.0,False
+NANCY,France,1750,22.0,False
+NANTES,France,1750,57.0,False
+NEVERS,France,1750,0.0,False
+NIMES,France,1750,30.0,False
+NIORT,France,1750,0.0,False
+ORLEANS,France,1750,37.0,False
+PARIS,France,1750,576.0,False
+PERPIGNAN,France,1750,0.0,False
+POITIERS,France,1750,18.0,False
+REIMS,France,1750,30.0,False
+RENNES,France,1750,30.0,False
+RIOM,France,1750,0.0,False
+ROCHEFORT,France,1750,0.0,False
+ROUEN,France,1750,67.0,False
+SAINT-ETIENNE,France,1750,,False
+SAINT-MALO,France,1750,15.0,False
+SAINT-OMER,France,1750,,False
+SAINT-QUENTIN,France,1750,0.0,False
+STRASBOURG,France,1750,40.0,False
+TOULON,France,1750,26.0,False
+TOULOUSE,France,1750,45.0,False
+TOURS,France,1750,22.0,False
+TROYES,France,1750,18.0,False
+VERSAILLES,France,1750,30.0,False
+VIENNE,France,1750,0.0,False
+BASEL,Switzerland,1750,14.0,False
+BERN,Switzerland,1750,11.0,False
+GENEVE,Switzerland,1750,23.0,False
+ZURICH,Switzerland,1750,12.0,False
+ALESSANDRIA,Northern Italy,1750,12.0,False
+ASTI,Northern Italy,1750,13.0,False
+BERGAMO,Northern Italy,1750,29.0,False
+BRESCIA,Northern Italy,1750,29.0,False
+CHIOGGIA,Northern Italy,1750,19.0,False
+COMO,Northern Italy,1750,14.0,False
+CREMA,Northern Italy,1750,9.0,False
+CREMONA,Northern Italy,1750,24.0,False
+CUNEO,Northern Italy,1750,13.0,False
+FOSSANO,Northern Italy,1750,12.0,False
+GENOA,Northern Italy,1750,87.0,False
+LODI,Northern Italy,1750,14.0,False
+MANTUA,Northern Italy,1750,24.0,False
+MILANO,Northern Italy,1750,124.0,False
+MODENA,Northern Italy,1750,18.0,False
+MONDOVI,Northern Italy,1750,7.0,False
+MONZA,Northern Italy,1750,,False
+NICE,Northern Italy,1750,16.0,False
+NOVARA,Northern Italy,1750,9.0,False
+PADOVA,Northern Italy,1750,31.0,False
+PARMA,Northern Italy,1750,35.0,False
+PAVIA,Northern Italy,1750,24.0,False
+PIACENZA,Northern Italy,1750,31.0,False
+REGGIO,Northern Italy,1750,16.0,False
+SAVIGLIANO,Northern Italy,1750,11.0,False
+TREVISO,Northern Italy,1750,10.0,False
+TRIESTE,Northern Italy,1750,,False
+TORINO,Northern Italy,1750,57.0,False
+UDINE,Northern Italy,1750,14.0,False
+VENEZIA,Northern Italy,1750,149.0,False
+VERCELLI,Northern Italy,1750,8.0,False
+VERONA,Northern Italy,1750,43.0,False
+VICENZA,Northern Italy,1750,28.0,False
+VIGEVANO,Northern Italy,1750,9.0,False
+ANCONA,Central Italy,1750,10.0,False
+BOLOGNA,Central Italy,1750,69.0,False
+FERRARA,Central Italy,1750,30.0,False
+FIRENZE,Central Italy,1750,74.0,False
+LIVORNO,Central Italy,1750,32.0,False
+LUCCA,Central Italy,1750,21.0,False
+PERUGIA,Central Italy,1750,14.0,False
+PISA,Central Italy,1750,14.0,False
+ROMA,Central Italy,1750,156.0,False
+SIENA,Central Italy,1750,15.0,False
+VITERBO,Central Italy,1750,13.0,False
+ACIREALE,Southern Italy,1750,13.0,False
+ALTA MURA,Southern Italy,1750,,False
+BARI,Southern Italy,1750,18.0,False
+CAGLIARI,Southern Italy,1750,19.0,False
+CALTAGIRONE,Southern Italy,1750,17.0,False
+CALTANISSETA,Southern Italy,1750,15.0,False
+CASTEL VETRANO,Southern Italy,1750,8.0,False
+CASTROGIOVANNI,Southern Italy,1750,10.0,False
+CATANIA,Southern Italy,1750,26.0,False
+FOGGIA,Southern Italy,1750,,False
+GIRGENTI,Southern Italy,1750,18.0,False
+LECCE,Southern Italy,1750,,False
+MARSALA,Southern Italy,1750,15.0,False
+MASCALI,Southern Italy,1750,11.0,False
+MAZZARINO,Southern Italy,1750,11.0,False
+MESSINA,Southern Italy,1750,37.0,False
+MODICA/POZZALLO,Southern Italy,1750,20.0,False
+MONOPOLI,Southern Italy,1750,,False
+NAPOLI,Southern Italy,1750,305.0,False
+NICOSIA,Southern Italy,1750,12.0,False
+NOTO,Southern Italy,1750,11.0,False
+PALERMO,Southern Italy,1750,118.0,False
+PIAZZA (ENNA),Southern Italy,1750,12.0,False
+RAGUSA,Southern Italy,1750,12.0,False
+REGGIO DI CALABRIA,Southern Italy,1750,,False
+SASSARI,Southern Italy,1750,15.0,False
+SIRACUSA,Southern Italy,1750,18.0,False
+TARANTO,Southern Italy,1750,,False
+TERMINI,Southern Italy,1750,10.0,False
+TRAPANI,Southern Italy,1750,17.0,False
+ALCALA LA REAL,Spain,1750,,False
+ALCAZAR DE SAN JUAN,Spain,1750,,False
+ALICANTE,Spain,1750,0.0,False
+ANDUJAR,Spain,1750,,False
+ANTEQUERA,Spain,1750,,False
+ARACENA,Spain,1750,,False
+AVILA,Spain,1750,0.0,False
+BADAJOZ,Spain,1750,,False
+BAEZA,Spain,1750,,False
+BARCELONA,Spain,1750,50.0,False
+BILBAO,Spain,1750,7.0,False
+BURGOS,Spain,1750,0.0,False
+CADIZ,Spain,1750,60.0,False
+CARTAGENA,Spain,1750,,False
+CORDOBA,Spain,1750,,False
+CUENCA,Spain,1750,0.0,False
+ECIJA,Spain,1750,,False
+GRANADA,Spain,1750,,False
+JAEN,Spain,1750,22.0,False
+JEREZ DA LA FRONTERA,Spain,1750,,False
+LUCENA,Spain,1750,,False
+MADRID,Spain,1750,109.0,False
+MALAGA,Spain,1750,32.0,False
+MEDINA DEL CAMPO,Spain,1750,0.0,False
+MEDINA DE RIOSECO,Spain,1750,0.0,False
+MORON DE LA FRONTERA,Spain,1750,0.0,False
+MURCIA,Spain,1750,32.0,False
+OCANA,Spain,1750,0.0,False
+ORIHUELA,Spain,1750,,False
+OSUNA,Spain,1750,,False
+PALENCIA,Spain,1750,0.0,False
+PALMA,Spain,1750,,False
+RONDA,Spain,1750,,False
+SALAMANCA,Spain,1750,,False
+SANTIAGO,Spain,1750,,False
+SEGOVIA,Spain,1750,0.0,False
+SEVILLA,Spain,1750,66.0,False
+TOLEDO,Spain,1750,,False
+UBEDA,Spain,1750,,False
+UTRERA,Spain,1750,,False
+VALENCIA,Spain,1750,,False
+VALLADOLID,Spain,1750,19.0,False
+ZARAGOZA,Spain,1750,,False
+COIMBRA,Portugal,1750,12.0,False
+ELVAS,Portugal,1750,,False
+EVORA,Portugal,1750,15.0,False
+LISBOA,Portugal,1750,148.0,False
+PORTO,Portugal,1750,21.0,False
+BRNO (BRUNN),Austria and Czechoslovakia,1750,15.0,False
+GRAZ,Austria and Czechoslovakia,1750,20.0,False
+INNSBRUCK,Austria and Czechoslovakia,1750,8.0,False
+KLAGENFURT,Austria and Czechoslovakia,1750,7.0,False
+LINZ,Austria and Czechoslovakia,1750,10.0,False
+PRAHA,Austria and Czechoslovakia,1750,59.0,False
+SALZBURG,Austria and Czechoslovakia,1750,15.0,False
+WIEN,Austria and Czechoslovakia,1750,175.0,False
+KRAKOW,Poland,1750,,False
+POZNAN,Poland,1750,0.0,False
+WARSZAWA,Poland,1750,23.0,False
+BERGEN,Scandinavia,1800,17.0,False
+COPENHAGEN,Scandinavia,1800,101.0,False
+GOTEBORG,Scandinavia,1800,13.0,False
+KARLSKRONA,Scandinavia,1800,10.0,False
+OSLO,Scandinavia,1800,12.0,False
+STOCKHOLM,Scandinavia,1800,75.0,False
+BATH,England and Wales,1800,32.0,False
+BIRMINGHAM,England and Wales,1800,69.0,False
+BLACKBURN,England and Wales,1800,12.0,False
+BOLTON,England and Wales,1800,13.0,False
+BRISTOL,England and Wales,1800,64.0,False
+CAMBRIDGE,England and Wales,1800,10.0,False
+CARLISLE,England and Wales,1800,10.0,False
+CHATHAM,England and Wales,1800,11.0,False
+CHESTER,England and Wales,1800,15.0,False
+COLCHESTER,England and Wales,1800,12.0,False
+COVENTRY,England and Wales,1800,16.0,False
+DERBY,England and Wales,1800,11.0,False
+EXETER,England and Wales,1800,17.0,False
+GREENWICH,England and Wales,1800,14.0,False
+HUDDERSFIELD,England and Wales,1800,11.0,False
+HULL,England and Wales,1800,28.0,False
+IPSWICH,England and Wales,1800,11.0,False
+KING'S LYNN,England and Wales,1800,10.0,False
+LEEDS,England and Wales,1800,53.0,False
+LEICESTER,England and Wales,1800,17.0,False
+LIVERPOOL,England and Wales,1800,78.0,False
+LONDON,England and Wales,1800,865.0,False
+MANCHESTER,England and Wales,1800,70.0,False
+NEWCASTLE,England and Wales,1800,28.0,False
+NORWICH,England and Wales,1800,37.0,False
+NOTTINGHAM,England and Wales,1800,29.0,False
+OLDHAM,England and Wales,1800,12.0,False
+OXFORD,England and Wales,1800,12.0,False
+PLYMOUTH,England and Wales,1800,43.0,False
+PORTSMOUTH,England and Wales,1800,32.0,False
+PRESTON,England and Wales,1800,12.0,False
+READING,England and Wales,1800,10.0,False
+SALFORD,England and Wales,1800,14.0,False
+SHEFFIELD,England and Wales,1800,46.0,False
+SHREWSBURY,England and Wales,1800,15.0,False
+STOCKPORT,England and Wales,1800,15.0,False
+SUNDERLAND,England and Wales,1800,24.0,False
+WARRINGTON,England and Wales,1800,11.0,False
+WENLOCK,England and Wales,1800,15.0,False
+WIGAN,England and Wales,1800,11.0,False
+WOLVERHAMPTON,England and Wales,1800,13.0,False
+WORCESTER,England and Wales,1800,11.0,False
+YARMOUTH,England and Wales,1800,15.0,False
+YORK,England and Wales,1800,16.0,False
+ABERDEEN,Scotland,1800,27.0,False
+DUNDEE,Scotland,1800,26.0,False
+EDINBURGH,Scotland,1800,82.0,False
+GLASGOW,Scotland,1800,77.0,False
+GREENOCK,Scotland,1800,17.0,False
+INVERNESS,Scotland,1800,15.0,False
+PAISLEY,Scotland,1800,17.0,False
+PERTH,Scotland,1800,15.0,False
+BELFAST,Ireland,1800,24.0,False
+CORK,Ireland,1800,75.0,False
+DUBLIN,Ireland,1800,168.0,False
+GALWAY,Ireland,1800,12.0,False
+KILKENNY,Ireland,1800,16.0,False
+LIMERICK,Ireland,1800,39.0,False
+NEWRY,Ireland,1800,15.0,False
+WATERFORD,Ireland,1800,20.0,False
+ALKMAAR,The Netherlands,1800,8.0,False
+AMSTERDAM,The Netherlands,1800,217.0,False
+ARNHEM,The Netherlands,1800,10.0,False
+DELFT,The Netherlands,1800,17.0,False
+DORDRECHT,The Netherlands,1800,18.0,False
+ENKHUIZEN,The Netherlands,1800,7.0,False
+GOUDA,The Netherlands,1800,12.0,False
+GRONINGEN,The Netherlands,1800,24.0,False
+HAARLEM,The Netherlands,1800,21.0,False
+DEN HAAG,The Netherlands,1800,38.0,False
+'S HERTOGENBOSCH,The Netherlands,1800,13.0,False
+HOORN,The Netherlands,1800,10.0,False
+LEEUWARDEN,The Netherlands,1800,16.0,False
+LEIDEN,The Netherlands,1800,31.0,False
+MAASTRICHT,The Netherlands,1800,18.0,False
+MIDDELBURG,The Netherlands,1800,20.0,False
+NIJMEGEN,The Netherlands,1800,13.0,False
+ROTTERDAM,The Netherlands,1800,57.0,False
+UTRECHT,The Netherlands,1800,32.0,False
+ZAANDAM,The Netherlands,1800,25.0,False
+ZWOLLE,The Netherlands,1800,12.0,False
+AALST,Belgium,1800,11.0,False
+ANTWERPEN,Belgium,1800,60.0,False
+BRUGGE,Belgium,1800,32.0,False
+BRUSSELS,Belgium,1800,74.0,False
+DUNKERQUE,Belgium,1800,21.0,False
+GENT,Belgium,1800,51.0,False
+IEPER,Belgium,1800,12.0,False
+KORTRIJK,Belgium,1800,14.0,False
+LEUVEN,Belgium,1800,21.0,False
+LIEGE,Belgium,1800,55.0,False
+LIER,Belgium,1800,11.0,False
+LILLE,Belgium,1800,59.0,False
+LOKEREN,Belgium,1800,11.0,False
+MECHELEN,Belgium,1800,20.0,False
+MONS,Belgium,1800,18.0,False
+NAMUR,Belgium,1800,16.0,False
+OOSTENDE,Belgium,1800,11.0,False
+SINT NIKLAAS,Belgium,1800,11.0,False
+TOURNAI,Belgium,1800,23.0,False
+VALENCIENNES,Belgium,1800,17.0,False
+AACHEN,Germany,1800,24.0,False
+ALTONA,Germany,1800,23.0,False
+ANSBACH,Germany,1800,12.0,False
+AUGSBURG,Germany,1800,28.0,False
+BAMBERG,Germany,1800,17.0,False
+BARMEN,Germany,1800,13.0,False
+BAUTZEN,Germany,1800,11.0,False
+BERLIN,Germany,1800,150.0,False
+BONN,Germany,1800,11.0,False
+BRANDENBURG,Germany,1800,12.0,False
+BRAUNSCHWEIG,Germany,1800,27.0,False
+BREMEN,Germany,1800,36.0,False
+BRESLAU (WROCLAW),Germany,1800,54.0,False
+CHEMNITZ (K-MARX-ST),Germany,1800,11.0,False
+DANZIG (GDANSK),Germany,1800,40.0,False
+DRESDEN,Germany,1800,55.0,False
+DUSSELDORF,Germany,1800,20.0,False
+ELBERFELD,Germany,1800,10.0,False
+ELBING (ELBLAG),Germany,1800,17.0,False
+EMDEN,Germany,1800,12.0,False
+ERFURT,Germany,1800,17.0,False
+FLENSBURG,Germany,1800,13.0,False
+FRANKFURT AM,Germany,1800,35.0,False
+FRANKFURT AO,Germany,1800,12.0,False
+FREIBURG,Germany,1800,9.0,False
+FURTH,Germany,1800,12.0,False
+GOTHA,Germany,1800,11.0,False
+HALBERSTADT,Germany,1800,12.0,False
+HALLE,Germany,1800,19.0,False
+HAMBURG,Germany,1800,100.0,False
+HANAU,Germany,1800,12.0,False
+HANNOVER,Germany,1800,17.0,False
+HEIDELBERG,Germany,1800,9.0,False
+HILDESHEIM,Germany,1800,12.0,False
+KASSEL,Germany,1800,18.0,False
+KOLN,Germany,1800,42.0,False
+KONIGSBERG,Germany,1800,59.0,False
+LEIPZIG,Germany,1800,32.0,False
+LUBECK,Germany,1800,23.0,False
+LUNEBURG,Germany,1800,10.0,False
+MAGDEBURG,Germany,1800,37.0,False
+MAINZ,Germany,1800,22.0,False
+MANNHEIM,Germany,1800,22.0,False
+MUNCHEN,Germany,1800,34.0,False
+MUNSTER,Germany,1800,14.0,False
+NURNBERG,Germany,1800,27.0,False
+POTSDAM,Germany,1800,27.0,False
+QUEDLINBURG,Germany,1800,11.0,False
+REGENSBURG,Germany,1800,23.0,False
+ROSTOCK,Germany,1800,14.0,False
+SOEST,Germany,1800,5.0,False
+STETTIN (SZCZECIN),Germany,1800,23.0,False
+STRALSUND,Germany,1800,11.0,False
+STUTTGART,Germany,1800,20.0,False
+ULM,Germany,1800,13.0,False
+WURZBURG,Germany,1800,16.0,False
+ABBEVILLE,France,1800,18.0,False
+AGEN,France,1800,10.0,False
+AIX EN PROVENCE,France,1800,19.0,False
+ALBI,France,1800,10.0,False
+ALENCON,France,1800,13.0,False
+AMIENS,France,1800,36.0,False
+ANGERS,France,1800,25.0,False
+ANGOULEME,France,1800,14.0,False
+ARLES,France,1800,20.0,False
+ARRAS,France,1800,19.0,False
+AUXERRE,France,1800,12.0,False
+AVIGNON,France,1800,21.0,False
+BAYEUX,France,1800,10.0,False
+BAYONNE,France,1800,12.0,False
+BEAUVAIS,France,1800,13.0,False
+BESANCON,France,1800,24.0,False
+BEZIERS,France,1800,14.0,False
+BLOIS,France,1800,11.0,False
+BORDEAUX,France,1800,88.0,False
+BOULOGNE,France,1800,12.0,False
+BOURGES,France,1800,18.0,False
+BREST,France,1800,22.0,False
+CAEN,France,1800,34.0,False
+CAHORS,France,1800,10.0,False
+CAMBRA!,France,1800,14.0,False
+CARCASSONNE,France,1800,14.0,False
+CASTRES,France,1800,13.0,False
+CHALONS-SUR-MARNE,France,1800,11.0,False
+CHALONS-SUR-SAONE,France,1800,11.0,False
+CHARTRES,France,1800,12.0,False
+CHERBOURG,France,1800,14.0,False
+CLERMONT-FERRAND,France,1800,30.0,False
+COLMAR,France,1800,13.0,False
+DIEPPE,France,1800,17.0,False
+DIJON,France,1800,22.0,False
+DOUAI,France,1800,18.0,False
+FALAISE,France,1800,10.0,False
+GRENOBLE,France,1800,23.0,False
+LA ROCHELLE,France,1800,18.0,False
+LAVAL,France,1800,12.0,False
+LE HAVRE,France,1800,19.0,False
+LE MANS,France,1800,18.0,False
+LE PUY,France,1800,12.0,False
+LIMOGES,France,1800,16.0,False
+LISIEUX,France,1800,11.0,False
+LORIENT,France,1800,15.0,False
+LYON,France,1800,100.0,False
+MACON,France,1800,10.0,False
+MARSEILLE,France,1800,78.0,False
+METZ,France,1800,39.0,False
+MONTAUBAN,France,1800,19.0,False
+MONTPELLIER,France,1800,31.0,False
+MOULINS,France,1800,13.0,False
+NANCY,France,1800,29.0,False
+NANTES,France,1800,74.0,False
+NEVERS,France,1800,11.0,False
+NIMES,France,1800,40.0,False
+NIORT,France,1800,14.0,False
+ORLEANS,France,1800,43.0,False
+PARIS,France,1800,581.0,False
+PERPIGNAN,France,1800,13.0,False
+POITIERS,France,1800,20.0,False
+REIMS,France,1800,31.0,False
+RENNES,France,1800,28.0,False
+RIOM,France,1800,13.0,False
+ROCHEFORT,France,1800,15.0,False
+ROUEN,France,1800,81.0,False
+SAINT-ETIENNE,France,1800,18.0,False
+SAINT-MALO,France,1800,17.0,False
+SAINT-OMER,France,1800,20.0,False
+SAINT-QUENTIN,France,1800,10.0,False
+STRASBOURG,France,1800,48.0,False
+TOULON,France,1800,32.0,False
+TOULOUSE,France,1800,45.0,False
+TOURS,France,1800,23.0,False
+TROYES,France,1800,21.0,False
+VERSAILLES,France,1800,27.0,False
+VIENNE,France,1800,10.0,False
+BASEL,Switzerland,1800,16.0,False
+BERN,Switzerland,1800,11.0,False
+GENEVE,Switzerland,1800,26.0,False
+ZURICH,Switzerland,1800,10.0,False
+ALESSANDRIA,Northern Italy,1800,19.0,False
+ASTI,Northern Italy,1800,11.0,False
+BERGAMO,Northern Italy,1800,24.0,False
+BRESCIA,Northern Italy,1800,28.0,False
+CHIOGGIA,Northern Italy,1800,19.0,False
+COMO,Northern Italy,1800,14.0,False
+CREMA,Northern Italy,1800,9.0,False
+CREMONA,Northern Italy,1800,25.0,False
+CUNEO,Northern Italy,1800,18.0,False
+FOSSANO,Northern Italy,1800,14.0,False
+GENOA,Northern Italy,1800,91.0,False
+LODI,Northern Italy,1800,16.0,False
+MANTUA,Northern Italy,1800,26.0,False
+MILANO,Northern Italy,1800,135.0,False
+MODENA,Northern Italy,1800,22.0,False
+MONDOVI,Northern Italy,1800,18.0,False
+MONZA,Northern Italy,1800,12.0,False
+NICE,Northern Italy,1800,13.0,False
+NOVARA,Northern Italy,1800,12.0,False
+PADOVA,Northern Italy,1800,32.0,False
+PARMA,Northern Italy,1800,34.0,False
+PAVIA,Northern Italy,1800,24.0,False
+PIACENZA,Northern Italy,1800,28.0,False
+REGGIO,Northern Italy,1800,18.0,False
+SAVIGLIANO,Northern Italy,1800,13.0,False
+TREVISO,Northern Italy,1800,11.0,False
+TRIESTE,Northern Italy,1800,24.0,False
+TORINO,Northern Italy,1800,82.0,False
+UDINE,Northern Italy,1800,16.0,False
+VENEZIA,Northern Italy,1800,138.0,False
+VERCELLI,Northern Italy,1800,13.0,False
+VERONA,Northern Italy,1800,41.0,False
+VICENZA,Northern Italy,1800,29.0,False
+VIGEVANO,Northern Italy,1800,12.0,False
+ANCONA,Central Italy,1800,15.0,False
+BOLOGNA,Central Italy,1800,71.0,False
+FERRARA,Central Italy,1800,30.0,False
+FIRENZE,Central Italy,1800,81.0,False
+LIVORNO,Central Italy,1800,53.0,False
+LUCCA,Central Italy,1800,17.0,False
+PERUGIA,Central Italy,1800,15.0,False
+PISA,Central Italy,1800,15.0,False
+ROMA,Central Italy,1800,163.0,False
+SIENA,Central Italy,1800,16.0,False
+VITERBO,Central Italy,1800,13.0,False
+ACIREALE,Southern Italy,1800,15.0,False
+ALTA MURA,Southern Italy,1800,18.0,False
+BARI,Southern Italy,1800,18.0,False
+CAGLIARI,Southern Italy,1800,18.0,False
+CALTAGIRONE,Southern Italy,1800,20.0,False
+CALTANISSETA,Southern Italy,1800,16.0,False
+CASTEL VETRANO,Southern Italy,1800,15.0,False
+CASTROGIOVANNI,Southern Italy,1800,11.0,False
+CATANIA,Southern Italy,1800,45.0,False
+FOGGIA,Southern Italy,1800,13.0,False
+GIRGENTI,Southern Italy,1800,18.0,False
+LECCE,Southern Italy,1800,20.0,False
+MARSALA,Southern Italy,1800,21.0,False
+MASCALI,Southern Italy,1800,14.0,False
+MAZZARINO,Southern Italy,1800,11.0,False
+MESSINA,Southern Italy,1800,44.0,False
+MODICA/POZZALLO,Southern Italy,1800,20.0,False
+MONOPOLI,Southern Italy,1800,17.0,False
+NAPOLI,Southern Italy,1800,427.0,False
+NICOSIA,Southern Italy,1800,12.0,False
+NOTO,Southern Italy,1800,11.0,False
+PALERMO,Southern Italy,1800,139.0,False
+PIAZZA (ENNA),Southern Italy,1800,12.0,False
+RAGUSA,Southern Italy,1800,17.0,False
+REGGIO DI CALABRIA,Southern Italy,1800,,False
+SASSARI,Southern Italy,1800,17.0,False
+SIRACUSA,Southern Italy,1800,16.0,False
+TARANTO,Southern Italy,1800,17.0,False
+TERMINI,Southern Italy,1800,14.0,False
+TRAPANI,Southern Italy,1800,25.0,False
+ALCALA LA REAL,Spain,1800,12.0,False
+ALCAZAR DE SAN JUAN,Spain,1800,10.0,False
+ALICANTE,Spain,1800,13.0,False
+ANDUJAR,Spain,1800,10.0,False
+ANTEQUERA,Spain,1800,15.0,False
+ARACENA,Spain,1800,10.0,False
+AVILA,Spain,1800,0.0,False
+BADAJOZ,Spain,1800,10.0,False
+BAEZA,Spain,1800,10.0,False
+BARCELONA,Spain,1800,115.0,False
+BILBAO,Spain,1800,11.0,False
+BURGOS,Spain,1800,9.0,False
+CADIZ,Spain,1800,70.0,False
+CARTAGENA,Spain,1800,33.0,False
+CORDOBA,Spain,1800,40.0,False
+CUENCA,Spain,1800,0.0,False
+ECIJA,Spain,1800,28.0,False
+GRANADA,Spain,1800,55.0,False
+JAEN,Spain,1800,28.0,False
+JEREZ DA LA FRONTERA,Spain,1800,35.0,False
+LUCENA,Spain,1800,18.0,False
+MADRID,Spain,1800,167.0,False
+MALAGA,Spain,1800,36.0,False
+MEDINA DEL CAMPO,Spain,1800,0.0,False
+MEDINA DE RIOSECO,Spain,1800,0.0,False
+MORON DE LA FRONTERA,Spain,1800,11.0,False
+MURCIA,Spain,1800,40.0,False
+OCANA,Spain,1800,6.0,False
+ORIHUELA,Spain,1800,19.0,False
+OSUNA,Spain,1800,14.0,False
+PALENCIA,Spain,1800,10.0,False
+PALMA,Spain,1800,29.0,False
+RONDA,Spain,1800,15.0,False
+SALAMANCA,Spain,1800,9.0,False
+SANTIAGO,Spain,1800,25.0,False
+SEGOVIA,Spain,1800,0.0,False
+SEVILLA,Spain,1800,96.0,False
+TOLEDO,Spain,1800,25.0,False
+UBEDA,Spain,1800,14.0,False
+UTRERA,Spain,1800,0.0,False
+VALENCIA,Spain,1800,80.0,False
+VALLADOLID,Spain,1800,21.0,False
+ZARAGOZA,Spain,1800,40.0,False
+COIMBRA,Portugal,1800,15.0,False
+ELVAS,Portugal,1800,,False
+EVORA,Portugal,1800,,False
+LISBOA,Portugal,1800,180.0,False
+PORTO,Portugal,1800,30.0,False
+BRNO (BRUNN),Austria and Czechoslovakia,1800,23.0,False
+GRAZ,Austria and Czechoslovakia,1800,31.0,False
+INNSBRUCK,Austria and Czechoslovakia,1800,10.0,False
+KLAGENFURT,Austria and Czechoslovakia,1800,10.0,False
+LINZ,Austria and Czechoslovakia,1800,17.0,False
+PRAHA,Austria and Czechoslovakia,1800,77.0,False
+SALZBURG,Austria and Czechoslovakia,1800,11.0,False
+WIEN,Austria and Czechoslovakia,1800,231.0,False
+KRAKOW,Poland,1800,24.0,False
+POZNAN,Poland,1800,16.0,False
+WARSZAWA,Poland,1800,63.0,False

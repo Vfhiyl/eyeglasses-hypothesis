@@ -1,0 +1,4 @@
+scenario,delta,n_scholars,total_active_years,affected_years_40plus,affected_share_pct,lost_output_units,pct_output_loss,rct_source,note
+conservative,0.057,3169,101216,55175,54.51,3144.97,3.11,PROSPER_II,"illustrative_sensitivity_only; assumes uniform presbyopia onset, identical RCT delta for medieval text work, full compliance"
+moderate,0.217,3169,101216,55175,54.51,11972.98,11.83,PROSPER,"illustrative_sensitivity_only; assumes uniform presbyopia onset, identical RCT delta for medieval text work, full compliance"
+optimistic,0.33,3169,101216,55175,54.51,18207.75,17.99,THRIVE,"illustrative_sensitivity_only; assumes uniform presbyopia onset, identical RCT delta for medieval text work, full compliance"

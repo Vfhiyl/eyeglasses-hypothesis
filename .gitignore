@@ -1,0 +1,61 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.Python
+*.egg-info/
+.pytest_cache/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Logs
+outputs/logs/
+
+# Local Shiny session credentials (use env RETE_SESSION_ID / RETE_NONCE or fill locally)
+config/rete_api.local.yaml
+
+# Scraped / local proxy lists & hunt logs (operational; not research outputs)
+outputs/tables/proxy_pool*.txt
+outputs/tables/working_https_proxies*.txt
+outputs/tables/proxy_hunt*.log
+outputs/tables/proxy_hunt*.txt
+
+# Third-party bulk dumps & copyrighted scans (fetch via data/external/DOWNLOAD_MANIFEST.txt)
+# Keep curated extracts, READMEs, and small public CSVs under allow-list below.
+data/raw/**
+!data/raw/**/
+!data/raw/**/README.md
+!data/raw/sdbm_*.csv
+!data/raw/ilardi/**
+!data/raw/rosen1956/*.txt
+!data/raw/rosen1956/*.md
+!data/raw/davidsohn/*.txt
+!data/raw/davidsohn/*.md
+!data/raw/city_coords.csv
+!data/raw/cross-country-literacy-rates.csv
+!data/raw/europop.csv
+!data/raw/istc_city_year_seed.csv
+
+# Explicitly never commit PDFs / huge dumps even if path matches
+data/raw/**/*.pdf
+data/raw/**/*.zip
+data/raw/**/*.bz2
+data/raw/studium_persons.jsonl
+data/raw/istc_clean_1.0.yaml
+data/raw/istc_core_holdings_1.0.csv
+data/raw/istc_core_imprints_1.0.csv
+data/raw/istc_imprints_raw.csv
+data/raw/wiag_*.csv
+data/raw/cities1000.txt
+data/raw/rete_scholars_individual.csv
+data/raw/leuven_matrikels*.tab
+data/raw/person_2025_update.csv.bz2
+data/raw/rag/
+data/raw/london_customs/
+data/raw/cdmv-macrodata/
+data/raw/bhotmg/
+data/raw/mmm_data*

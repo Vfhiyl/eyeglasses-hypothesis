@@ -1,0 +1,6 @@
+claim,n_tests,n_consistent,n_inconsistent,n_null,share_insufficient_data,max_identification,judgment
+career_extension_45plus,19,0,6,13,0.368,associational,rejected_experience_premium_unlock
+glass_center_advantage,7,0,2,5,0.0,associational,rejected_glass_center_knowledge_advantage
+mechanism_near_work_cost,3,3,0,0,0.0,experimental,accepted_near_work_continuation
+spectacle_adoption_evidence,2,2,0,0,0.0,descriptive,accepted_mass_near_work_tool_scale
+timing_1300,46,11,14,21,0.152,associational,timing_compatible_rejects_glasses_over_print

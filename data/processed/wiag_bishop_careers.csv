@@ -1,0 +1,924 @@
+wiag_id,name,birth_year,death_year,office_year,office_title,diocese,italy_glass_diocese,source,age_at_office
+WIAG-Pers-EPISCGatz-02575-001,Johann Chalon-Arlay,1300.0,1335.0,1325.0,Bischof,Bistum Basel,False,wiag_bishops,25.0
+WIAG-Pers-EPISCGatz-02611-001,Nikolaus Burgsdorff,1375.0,,1415.0,Elekt,Bistum Brandenburg,False,wiag_bishops,40.0
+WIAG-Pers-EPISCGatz-02617-001,Gerhard Lippe,1180.0,1258.0,1207.0,Domherr,Bistum Paderborn,False,wiag_bishops,27.0
+WIAG-Pers-EPISCGatz-02646-001,Preczlaus Pogarell,1299.0,1376.0,1341.0,Elekt,Bistum Breslau,False,wiag_bishops,42.0
+WIAG-Pers-EPISCGatz-02649-001,Wenzel Liegnitz,1348.0,1419.0,1375.0,Bischof,Bistum Lebus,False,wiag_bishops,27.0
+WIAG-Pers-EPISCGatz-02650-001,Konrad Oels,1388.0,1447.0,1417.0,Bischof,Bistum Breslau,False,wiag_bishops,29.0
+WIAG-Pers-EPISCGatz-02742-001,Berthold Zollern,1320.0,1365.0,1345.0,Landkomtur,Bistum Eichstätt,False,wiag_bishops,25.0
+WIAG-Pers-EPISCGatz-02856-001,Johann Hoya,1355.0,1424.0,1374.0,Domherr,Erzbistum Köln,False,wiag_bishops,19.0
+WIAG-Pers-EPISCGatz-02889-001,Heinrich Virneburg,1244.0,1332.0,1288.0,Kanoniker,Erzbistum Köln,False,wiag_bishops,44.0
+WIAG-Pers-EPISCGatz-02894-001,Friedrich Saarwerden,1348.0,1414.0,1370.0,Erzbischof,Erzbistum Köln,False,wiag_bishops,22.0
+WIAG-Pers-EPISCGatz-02909-001,Heinrich Dießenhofen,1299.0,1376.0,1324.0,Domherr,Bistum Konstanz,False,wiag_bishops,25.0
+WIAG-Pers-EPISCGatz-02934-001,Wikbold Dobilstein,1312.0,,1363.0,Bischof,Bistum Kulm,False,wiag_bishops,51.0
+WIAG-Pers-EPISCGatz-02959-001,Peter Savoyen,1203.0,1268.0,1229.0,Administrator,Bistum Lausanne,False,wiag_bishops,26.0
+WIAG-Pers-EPISCGatz-03030-001,Johannes Mul,1291.0,1350.0,1315.0,Domscholaster,Bistum Lübeck,False,wiag_bishops,24.0
+WIAG-Pers-EPISCGatz-03058-001,Theodor Hoorn,1385.0,1408.0,1406.0,Bischof,Bistum Lüttich,False,wiag_bishops,21.0
+WIAG-Pers-EPISCGatz-03240-001,Johannes Sobieslaus,1352.0,1394.0,1380.0,Bischof,Bistum Leitomischl,False,wiag_bishops,28.0
+WIAG-Pers-EPISCGatz-03277-001,Bernhard Lippe,1277.0,1341.0,1305.0,Dompropst,Bistum Minden,False,wiag_bishops,28.0
+WIAG-Pers-EPISCGatz-03279-001,Heinrich Spiegel zum Desenberg,1316.0,1380.0,1359.0,Abt,Bistum Paderborn,False,wiag_bishops,43.0
+WIAG-Pers-EPISCGatz-03294-001,Bernhard Prambach,1221.0,1313.0,1285.0,Bischof,Bistum Passau,False,wiag_bishops,64.0
+WIAG-Pers-EPISCGatz-03295-001,Wichard Polheim,1237.0,1282.0,1280.0,Bischof,Bistum Passau,False,wiag_bishops,43.0
+WIAG-Pers-EPISCGatz-03338-001,Zbyněk Zajíc von Hasenburg,1376.0,1411.0,1402.0,Erzbischof,Erzbistum Prag,False,wiag_bishops,26.0
+WIAG-Pers-EPISCGatz-03429-001,Konrad Fohnsdorf,1254.0,1312.0,1285.0,Bischof,Bistum Lavant,False,wiag_bishops,31.0
+WIAG-Pers-EPISCGatz-03430-001,Stephan Niederbayern,1271.0,1309.0,1290.0,Herzog,Erzbistum Salzburg,False,wiag_bishops,19.0
+WIAG-Pers-EPISCGatz-03507-001,Heinrich Burghausen,1304.0,1337.0,1334.0,Bischof,Bistum Seckau,False,wiag_bishops,30.0
+WIAG-Pers-EPISCGatz-03542-001,Wilhelm Raron,1381.0,1428.0,1407.0,Bischof,Bistum Sitten,False,wiag_bishops,26.0
+WIAG-Pers-EPISCGatz-03624-001,Balduin Luxemburg,1285.0,1354.0,1307.0,Erzbischof,Erzbistum Trier,False,wiag_bishops,22.0
+WIAG-Pers-EPISCGatz-03673-001,Friedrich Blankenheim,1356.0,1423.0,1375.0,Bischof,Bistum Straßburg,False,wiag_bishops,19.0
+WIAG-Pers-EPISCGatz-03759-001,Gerhard Schwarzburg,1313.0,1400.0,1337.0,Domherr,Bistum Naumburg,False,wiag_bishops,24.0
+WIAG-Pers-EPISCGatz-03762-001,Sigmund Sachsen,1416.0,1471.0,1437.0,Domherr,Erzbistum Köln,False,wiag_bishops,21.0
+WIAG-Pers-EPISCGatz-05280-001,Heinrich Absberg,1409.0,1492.0,1431.0,Domherr,Bistum Regensburg,False,wiag_bishops,22.0
+WIAG-Pers-EPISCGatz-05300-001,Thomas Basin,1412.0,1490.0,1447.0,Bischof,Lisieux,False,wiag_bishops,35.0
+WIAG-Pers-EPISCGatz-05316-001,Stephan Bodeker,1384.0,1459.0,1415.0,Generalvikar des Bischofs,Bistum Brandenburg,False,wiag_bishops,31.0
+WIAG-Pers-EPISCGatz-05320-001,Pietro Bonomo,1458.0,1546.0,1490.0,Domherr,Bistum Triest,False,wiag_bishops,32.0
+WIAG-Pers-EPISCGatz-05324-001,Louis Bourbon,1438.0,1482.0,1456.0,Bischof,Bistum Lüttich,False,wiag_bishops,18.0
+WIAG-Pers-EPISCGatz-05326-001,Ortlieb Brandis,1430.0,1491.0,1449.0,Domherr,Bistum Chur,False,wiag_bishops,19.0
+WIAG-Pers-EPISCGatz-05355-001,Nikolaus Diesbach,1478.0,1550.0,1501.0,Prior,Bistum Basel,False,wiag_bishops,23.0
+WIAG-Pers-EPISCGatz-05364-001,Wilhelm Enckenvoirt,1464.0,1534.0,1493.0,Kanoniker,Bistum Lüttich,False,wiag_bishops,29.0
+WIAG-Pers-EPISCGatz-05376-001,Jan Filipec,1431.0,1509.0,1477.0,Bischof,Bistum Großwardein,False,wiag_bishops,46.0
+WIAG-Pers-EPISCGatz-05381-001,Ludwig Freiberg,1442.0,1480.0,1474.0,Providierter Bischof,Bistum Konstanz,False,wiag_bishops,32.0
+WIAG-Pers-EPISCGatz-05384-001,Friedrich Baden,1458.0,1517.0,1477.0,Domherr,Erzbistum Trier,False,wiag_bishops,19.0
+WIAG-Pers-EPISCGatz-05386-001,Wiguläus Fröschl von Marzoll,1445.0,1517.0,1480.0,Offizial,Bistum Passau,False,wiag_bishops,35.0
+WIAG-Pers-EPISCGatz-05394-001,Georg Baden,1433.0,1484.0,1455.0,Propst,Erzbistum Köln,False,wiag_bishops,22.0
+WIAG-Pers-EPISCGatz-05395-001,Angelo Geraldini,1422.0,1486.0,1462.0,Bischof,Bistum Sessa Aurunca,False,wiag_bishops,40.0
+WIAG-Pers-EPISCGatz-05432-001,Johannes Hinderbach,1418.0,1486.0,1453.0,Domherr,Bistum Trient,False,wiag_bishops,35.0
+WIAG-Pers-EPISCGatz-05439-001,Gerhard Hoya,1412.0,1463.0,1432.0,Propst,Hamburg-Bremen,False,wiag_bishops,20.0
+WIAG-Pers-EPISCGatz-05448-001,Johann Rhein,1429.0,1475.0,1453.0,"Domherr, Anwärter",Bistum Speyer,False,wiag_bishops,24.0
+WIAG-Pers-EPISCGatz-05466-001,Nikolaus Kues,1401.0,1464.0,1426.0,Kanoniker,Erzbistum Trier,False,wiag_bishops,25.0
+WIAG-Pers-EPISCGatz-05468-001,Leonhard Laiming,1381.0,1451.0,1420.0,Offizial des Bischofs,Bistum Passau,False,wiag_bishops,39.0
+WIAG-Pers-EPISCGatz-05477-001,Heinrich Lichtenau,1444.0,1517.0,1485.0,Generalvikar des Bischofs,Bistum Augsburg,False,wiag_bishops,41.0
+WIAG-Pers-EPISCGatz-05483-001,Konrad Loste,1416.0,1503.0,1447.0,Domherr,Bistum Schwerin,False,wiag_bishops,31.0
+WIAG-Pers-EPISCGatz-05486-001,Magnus Sachsen-Lauenburg,1390.0,1452.0,1410.0,Bischof,Bistum Kammin,False,wiag_bishops,20.0
+WIAG-Pers-EPISCGatz-05495-001,Bernhard Meurl von Leombach,1452.0,1526.0,1496.0,Weihbischof,Bistum Passau,False,wiag_bishops,44.0
+WIAG-Pers-EPISCGatz-05509-001,Johannes Nix von Hoheneck,1411.0,1467.0,1434.0,Kanoniker,Erzbistum Mainz,False,wiag_bishops,23.0
+WIAG-Pers-EPISCGatz-05515-001,Friedrich Öttingen,1459.0,1490.0,1486.0,Bischof,Bistum Passau,False,wiag_bishops,27.0
+WIAG-Pers-EPISCGatz-05523-001,Raimund Peraudi,1435.0,1505.0,1491.0,Bischof,Bistum Gurk,False,wiag_bishops,56.0
+WIAG-Pers-EPISCGatz-05526-001,Enea Silvio Piccolomini,1405.0,1464.0,1439.0,Dompropst,Bistum Triest,False,wiag_bishops,34.0
+WIAG-Pers-EPISCGatz-05529-001,Sigfried Piscator,1410.0,1473.0,1446.0,Weihbischof,Erzbistum Mainz,False,wiag_bishops,36.0
+WIAG-Pers-EPISCGatz-05533-001,Bernhard Pollheim,1456.0,1504.0,1500.0,Administrator,Bistum Wien,False,wiag_bishops,44.0
+WIAG-Pers-EPISCGatz-05555-001,Bernhard Rohr,1418.0,1487.0,1452.0,Ernannter Administrator,Bistum Hildesheim,False,wiag_bishops,34.0
+WIAG-Pers-EPISCGatz-05557-001,Jodokus Rosenberg,1430.0,1467.0,1456.0,Bischof,Bistum Breslau,False,wiag_bishops,26.0
+WIAG-Pers-EPISCGatz-05563-001,Johannes Roth,1426.0,1506.0,1468.0,Bischof,Bistum Lavant,False,wiag_bishops,42.0
+WIAG-Pers-EPISCGatz-05564-001,Giuliano Rovere,1443.0,1513.0,1471.0,Kardinal,Bistum Lausanne,False,wiag_bishops,28.0
+WIAG-Pers-EPISCGatz-05567-001,Rudolf Rüdesheim,1402.0,1482.0,1446.0,Domdekan,Bistum Worms,False,wiag_bishops,44.0
+WIAG-Pers-EPISCGatz-05575-001,Johann Salhausen,1444.0,1518.0,1487.0,Bischof,Bistum Meißen,False,wiag_bishops,43.0
+WIAG-Pers-EPISCGatz-05579-001,Christoph Schachner,1447.0,1500.0,1490.0,Bischof,Bistum Passau,False,wiag_bishops,43.0
+WIAG-Pers-EPISCGatz-05580-001,Johannes Schallermann,1373.0,1465.0,1426.0,Domherr,Bistum Gurk,False,wiag_bishops,53.0
+WIAG-Pers-EPISCGatz-05582-001,Peter Schaumberg,1388.0,1469.0,1417.0,Kanonikatsbewerber,Bistum Würzburg,False,wiag_bishops,29.0
+WIAG-Pers-EPISCGatz-05583-001,Friedrich Schaunberg,1439.0,1494.0,1490.0,Erzbischof,Erzbistum Salzburg,False,wiag_bishops,51.0
+WIAG-Pers-EPISCGatz-05600-001,Dietrich Schönberg,1410.0,1492.0,1435.0,Domherr,Bistum Naumburg,False,wiag_bishops,25.0
+WIAG-Pers-EPISCGatz-05639-001,Johannes Turzó,1466.0,1520.0,1503.0,Koadjutor des Bischofs,Bistum Breslau,False,wiag_bishops,37.0
+WIAG-Pers-EPISCGatz-05657-001,Lukas Watzenrode,1447.0,1512.0,1489.0,Bischof,Bistum Ermland,False,wiag_bishops,42.0
+WIAG-Pers-EPISCGatz-05680-001,Kaspar Rhein,1433.0,1502.0,1479.0,Bischof,Bistum Basel,False,wiag_bishops,46.0
+WIAG-Pers-EPISCGatz-10000-001,Joseph Ach,1620.0,1691.0,1652.0,Kanoniker,Bistum Konstanz,False,wiag_bishops,32.0
+WIAG-Pers-EPISCGatz-10001-001,Euchar Adam,1748.0,1830.0,1790.0,Leiter des Generalvikariates,Bistum Eichstätt,False,wiag_bishops,42.0
+WIAG-Pers-EPISCGatz-10002-001,Adam Adami,1610.0,1663.0,1652.0,Titularbischof,Hieropolis,False,wiag_bishops,42.0
+WIAG-Pers-EPISCGatz-10003-001,Franz Xaver Adelmann von Adelmannsfelden,1721.0,1787.0,1739.0,Domherr,Bistum Augsburg,False,wiag_bishops,18.0
+WIAG-Pers-EPISCGatz-10004-001,Johann Joachim Ignaz Aham,1655.0,1702.0,1692.0,Offizial,Bistum Passau,False,wiag_bishops,37.0
+WIAG-Pers-EPISCGatz-10005-001,Laurenz Aidinger,1615.0,1669.0,1665.0,Generalvikar,Bistum Wien,False,wiag_bishops,50.0
+WIAG-Pers-EPISCGatz-10006-001,Francesco Felice Alberti d'Enno,1701.0,1762.0,1756.0,Koadjutor des Fürstbischofs,Bistum Trient,False,wiag_bishops,55.0
+WIAG-Pers-EPISCGatz-10007-001,Giuseppe Vittorio Alberti d'Enno,1623.0,1695.0,1658.0,Generalvikar,Bistum Trient,False,wiag_bishops,35.0
+WIAG-Pers-EPISCGatz-10008-001,Francesco Alberti di Poja,1610.0,1689.0,1644.0,Generalvikar,Bistum Trient,False,wiag_bishops,34.0
+WIAG-Pers-EPISCGatz-10010-001,Johannes Markus Aldringen,1592.0,1664.0,1633.0,Bischof,Bistum Seckau,False,wiag_bishops,41.0
+WIAG-Pers-EPISCGatz-10012-001,Wilhelm Alhaus,1716.0,1794.0,1756.0,Prior,Bistum Münster,False,wiag_bishops,40.0
+WIAG-Pers-EPISCGatz-10013-001,Franz Dominikus Almesloe gen. Tappe,1704.0,1760.0,1743.0,Weihbischof,Bistum Breslau,False,wiag_bishops,39.0
+WIAG-Pers-EPISCGatz-10014-001,Johann Alpen,1632.0,1698.0,1658.0,Dechant (Prag),Bistum Münster,False,wiag_bishops,26.0
+WIAG-Pers-EPISCGatz-10015-001,Antoine Alt,1662.0,1736.0,1707.0,Generalvikar,Bistum Lausanne,False,wiag_bishops,45.0
+WIAG-Pers-EPISCGatz-10016-001,Dominikus Anton Altspaur von Freyenhofen,1659.0,1718.0,1693.0,Generalvikar,Bistum Trient,False,wiag_bishops,34.0
+WIAG-Pers-EPISCGatz-10017-001,Franz Joseph Friedrich Ambuel,1704.0,1780.0,1761.0,Fürstbischof,Bistum Sitten,False,wiag_bishops,57.0
+WIAG-Pers-EPISCGatz-10018-001,Béat-Nicolas-Ignace Amman,1701.0,1770.0,1746.0,Generalvikar,Bistum Lausanne,False,wiag_bishops,45.0
+WIAG-Pers-EPISCGatz-10020-001,Johann Heinrich Anethan,1628.0,1693.0,1650.0,Kanoniker,Erzbistum Trier,False,wiag_bishops,22.0
+WIAG-Pers-EPISCGatz-10021-001,Charles Alexandre Arberg et de Valengin,1734.0,1809.0,1767.0,Weihbischof,Bistum Lüttich,False,wiag_bishops,33.0
+WIAG-Pers-EPISCGatz-10023-001,Joseph Franz Valerian Felix Arco,1686.0,1746.0,1721.0,Domherr,Bistum Chiemsee,False,wiag_bishops,35.0
+WIAG-Pers-EPISCGatz-10024-001,Johann Konrad Arnbergh,1656.0,1700.0,1676.0,Kanoniker,Bistum Speyer,False,wiag_bishops,20.0
+WIAG-Pers-EPISCGatz-10026-001,Wilhelm Anton Asseburg,1707.0,1782.0,1726.0,Domherr,Bistum Paderborn,False,wiag_bishops,19.0
+WIAG-Pers-EPISCGatz-10027-001,Leopold Michael Aster,1709.0,1775.0,1749.0,Fürsterzbischöflicher Vikar,Erzbistum Prag,False,wiag_bishops,40.0
+WIAG-Pers-EPISCGatz-10031-001,Joseph Oswald Attems,1679.0,1744.0,1708.0,Domherr,Erzbistum Salzburg,False,wiag_bishops,29.0
+WIAG-Pers-EPISCGatz-10032-001,Karl Michael Attems,1711.0,1774.0,1752.0,Erzbischof,Erzbistum Görz,False,wiag_bishops,41.0
+WIAG-Pers-EPISCGatz-10033-001,Johann Baptista Franz Xaver von Paula Auersperg,1745.0,1816.0,1789.0,Offizial,Bistum Passau,False,wiag_bishops,44.0
+WIAG-Pers-EPISCGatz-10034-001,Joseph Franz Anton Auersperg,1734.0,1795.0,1752.0,Domherr,Erzbistum Salzburg,False,wiag_bishops,18.0
+WIAG-Pers-EPISCGatz-10035-001,Louis Philippe Auneau de Visé,1666.0,1729.0,1716.0,Generalvikar,Bistum Straßburg,False,wiag_bishops,50.0
+WIAG-Pers-EPISCGatz-10038-001,Andrzej Ignacy Baier,1712.0,1785.0,1759.0,Bischof,Bistum Kulm,False,wiag_bishops,47.0
+WIAG-Pers-EPISCGatz-10039-001,Stephan Bassus,1643.0,1707.0,1692.0,Generalvikar,Bistum Chur,False,wiag_bishops,49.0
+WIAG-Pers-EPISCGatz-10042-001,Franz Engelbert Gutteneck Barbo,1664.0,1706.0,1703.0,Weihbischof,Bistum Breslau,False,wiag_bishops,39.0
+WIAG-Pers-EPISCGatz-10044-001,Franz Heinrich Beck,1740.0,1828.0,1777.0,Kanoniker,Erzbistum Trier,False,wiag_bishops,37.0
+WIAG-Pers-EPISCGatz-10045-001,Tobias Johannes Becker,1649.0,1710.0,1702.0,Bischof,Bistum Königgrätz,False,wiag_bishops,53.0
+WIAG-Pers-EPISCGatz-10047-001,Ludwig Philipp Behlen,1714.0,1777.0,1769.0,Weihbischof,Erzbistum Mainz,False,wiag_bishops,55.0
+WIAG-Pers-EPISCGatz-10050-001,Ludwig Wilhelm Benz,1611.0,1683.0,1656.0,Weihbischof,Bistum Eichstätt,False,wiag_bishops,45.0
+WIAG-Pers-EPISCGatz-10051-001,Georges Louis Berghes,1662.0,1743.0,1682.0,Domherr,Bistum Lüttich,False,wiag_bishops,20.0
+WIAG-Pers-EPISCGatz-10052-001,Adam Ernst Bernclau von Schönreith,1712.0,1779.0,1756.0,Domherr,Bistum Regensburg,False,wiag_bishops,44.0
+WIAG-Pers-EPISCGatz-10053-001,Peter Cornelius Beyweg,1670.0,1744.0,1699.0,Dekan,Bistum Speyer,False,wiag_bishops,29.0
+WIAG-Pers-EPISCGatz-10054-001,Heinrich Bibra,1711.0,1788.0,1760.0,Fürstbischof,Bistum Fulda,False,wiag_bishops,49.0
+WIAG-Pers-EPISCGatz-10055-001,Friedrich Wilhelm Bicken,1661.0,1732.0,1680.0,Domherr,Erzbistum Mainz,False,wiag_bishops,19.0
+WIAG-Pers-EPISCGatz-10056-001,Joseph Ignaz Bildstein,1655.0,1727.0,1690.0,Propst,Bistum Konstanz,False,wiag_bishops,35.0
+WIAG-Pers-EPISCGatz-10058-001,Johann Bischopinck,1613.0,1667.0,1657.0,Generalvikar,Bistum Osnabrück,False,wiag_bishops,44.0
+WIAG-Pers-EPISCGatz-10059-001,Ernst Maria Ferdinand Bissingen,1750.0,1820.0,1778.0,Generalvikar,Bistum Konstanz,False,wiag_bishops,28.0
+WIAG-Pers-EPISCGatz-10060-001,Johann Joseph Arnold Blatter,1684.0,1752.0,1734.0,Fürstbischof,Bistum Sitten,False,wiag_bishops,50.0
+WIAG-Pers-EPISCGatz-10061-001,Johannes Blau,1636.0,1694.0,1663.0,Kanoniker,Bistum Konstanz,False,wiag_bishops,27.0
+WIAG-Pers-EPISCGatz-10062-001,Jean Antoine Blavier,1620.0,1699.0,1654.0,Weihbischof,Bistum Lüttich,False,wiag_bishops,34.0
+WIAG-Pers-EPISCGatz-10063-001,François Blouet de Camilly,1664.0,1723.0,1694.0,Generalvikar,Bistum Straßburg,False,wiag_bishops,30.0
+WIAG-Pers-EPISCGatz-10064-001,Hermann Hannibal Blümegen,1716.0,1774.0,1764.0,Bischof,Bistum Königgrätz,False,wiag_bishops,48.0
+WIAG-Pers-EPISCGatz-10065-001,Joseph-Hubert Boccard,1697.0,1758.0,1730.0,Generalvikar,Bistum Lausanne,False,wiag_bishops,33.0
+WIAG-Pers-EPISCGatz-10067-001,Johann Ferdinand Reinhard Joseph Boedigkeim,1685.0,1756.0,1706.0,Domherr,Bistum Freising,False,wiag_bishops,21.0
+WIAG-Pers-EPISCGatz-10068-001,Jan Kazimierz Alten Bokum,1660.0,1721.0,1701.0,Bischof,Bistum Przemyśl,False,wiag_bishops,41.0
+WIAG-Pers-EPISCGatz-10070-001,Johann Kaspar Bordewick,1652.0,1721.0,1693.0,Generalvikar,Bistum Münster,False,wiag_bishops,41.0
+WIAG-Pers-EPISCGatz-10071-001,Pantaleone Lorenzo Antonio Borzi,1697.0,1748.0,1738.0,Generalvikar,Bistum Trient,False,wiag_bishops,41.0
+WIAG-Pers-EPISCGatz-10073-001,Jobst Edmund Brabeck,1619.0,1702.0,1655.0,Domdechant,Bistum Münster,False,wiag_bishops,36.0
+WIAG-Pers-EPISCGatz-10074-001,Theodor Brabeck,1738.0,1794.0,1776.0,Abt,Bistum Paderborn,False,wiag_bishops,38.0
+WIAG-Pers-EPISCGatz-10076-001,Franz Julian Braida,1654.0,1727.0,1703.0,Generalvikar,Bistum Olmütz,False,wiag_bishops,49.0
+WIAG-Pers-EPISCGatz-10077-001,Joseph Heinrich Braitenbücher,1676.0,1749.0,1708.0,Generalvikar,Bistum Wien,False,wiag_bishops,32.0
+WIAG-Pers-EPISCGatz-10079-001,Philipp Braun,1654.0,1735.0,1705.0,Generalvikar,Bistum Würzburg,False,wiag_bishops,51.0
+WIAG-Pers-EPISCGatz-10082-001,Lothar Breidbach zu Bürresheim,1724.0,1794.0,1778.0,Weihbischof,Bistum Fulda,False,wiag_bishops,54.0
+WIAG-Pers-EPISCGatz-10083-001,Jodok Brendt,1606.0,1686.0,1658.0,Offizial,Bistum Passau,False,wiag_bishops,52.0
+WIAG-Pers-EPISCGatz-10084-001,Anton Ernst Franz Breuner,1724.0,1789.0,1742.0,Domherr,Bistum Passau,False,wiag_bishops,18.0
+WIAG-Pers-EPISCGatz-10086-001,Johann Josef Breuner,1641.0,1710.0,1670.0,Weihbischof,Bistum Olmütz,False,wiag_bishops,29.0
+WIAG-Pers-EPISCGatz-10087-001,Philipp Friedrich Breuner,1597.0,1669.0,1630.0,Weihbischof,Bistum Olmütz,False,wiag_bishops,33.0
+WIAG-Pers-EPISCGatz-10088-001,Michael Leopold Brigido von Marenfels und Bresoviz,1742.0,1816.0,1788.0,Fürsterzbischof,Bistum Laibach,False,wiag_bishops,46.0
+WIAG-Pers-EPISCGatz-10089-001,Girolamo Brochetti,1727.0,1770.0,1763.0,Generalvikar,Bistum Trient,False,wiag_bishops,36.0
+WIAG-Pers-EPISCGatz-10090-001,Otto Wilhelm Bronckhorst zu Gronsfeld,1640.0,1713.0,1679.0,Kanoniker,Bistum Osnabrück,False,wiag_bishops,39.0
+WIAG-Pers-EPISCGatz-10091-001,Martin Ferdinand Brückner von Brückenstein,1632.0,1700.0,1676.0,Apostolischer Administrator,Bistum Meißen,False,wiag_bishops,44.0
+WIAG-Pers-EPISCGatz-10092-001,Bernhard Jodocus Brüll,1655.0,1733.0,1714.0,Generalvikar,Bistum Paderborn,False,wiag_bishops,59.0
+WIAG-Pers-EPISCGatz-10093-001,Johann Brunetti,1646.0,1703.0,1694.0,Weihbischof,Bistum Breslau,False,wiag_bishops,48.0
+WIAG-Pers-EPISCGatz-10094-001,Johann Jakob Brunetti,1628.0,1692.0,1668.0,Generalvikar,Bistum Breslau,False,wiag_bishops,40.0
+WIAG-Pers-EPISCGatz-10095-001,Johann Jakob Brunetti,1703.0,1763.0,1751.0,Generalvikar,Bistum Breslau,False,wiag_bishops,48.0
+WIAG-Pers-EPISCGatz-10097-001,Pantaleon Bruns,1670.0,1727.0,1709.0,Abt,Bistum Paderborn,False,wiag_bishops,39.0
+WIAG-Pers-EPISCGatz-10098-001,Johann Adam Buckel,1706.0,1771.0,1745.0,Weihbischof,Bistum Speyer,False,wiag_bishops,39.0
+WIAG-Pers-EPISCGatz-10099-001,Georg Lorenz Budaeus,1610.0,1653.0,1647.0,Generalvikar,Bistum Breslau,False,wiag_bishops,37.0
+WIAG-Pers-EPISCGatz-10100-001,Paul Budimir,1618.0,1670.0,1668.0,Bischof,Bistum Pedena,False,wiag_bishops,50.0
+WIAG-Pers-EPISCGatz-10103-001,Johann Philipp Burkard,1633.0,1698.0,1672.0,Benefiziat,Bistum Speyer,False,wiag_bishops,39.0
+WIAG-Pers-EPISCGatz-10104-001,Johann Peter Burmann,1642.0,1696.0,1694.0,Weihbischof,Erzbistum Köln,False,wiag_bishops,52.0
+WIAG-Pers-EPISCGatz-10105-001,Maximilian Heinrich Burmann,1648.0,1685.0,1674.0,Dekan,Erzbistum Köln,False,wiag_bishops,26.0
+WIAG-Pers-EPISCGatz-10106-001,Amand Buseck,1685.0,1756.0,1728.0,Weihbischof,Bistum Fulda,False,wiag_bishops,43.0
+WIAG-Pers-EPISCGatz-10108-001,Ignatius Cajetanus Buset zu Faistenberg,1745.0,1803.0,1791.0,Generalvikar,Bistum Triest,False,wiag_bishops,46.0
+WIAG-Pers-EPISCGatz-10109-001,Johann Mathias Butz von Rolsberg,1712.0,1803.0,1776.0,Generalvikar,Bistum Olmütz,False,wiag_bishops,64.0
+WIAG-Pers-EPISCGatz-10114-001,Juan Caramuel y Lobkowitz,1606.0,1682.0,1650.0,Generalvikar,Erzbistum Prag,False,wiag_bishops,44.0
+WIAG-Pers-EPISCGatz-10115-001,Carl Laurenz Cardona,1711.0,1773.0,1772.0,Apostolischer Administrator,Bistum Meißen,False,wiag_bishops,61.0
+WIAG-Pers-EPISCGatz-10118-001,Bonifatius Cecotti,1697.0,1765.0,1741.0,Bischof,Bistum Pedena,False,wiag_bishops,44.0
+WIAG-Pers-EPISCGatz-10119-001,Johann Josef Chastonay,1678.0,1774.0,1746.0,Generalvikar,Bistum Sitten,False,wiag_bishops,68.0
+WIAG-Pers-EPISCGatz-10120-001,Wenzel Leopold Ritter Chlumčansky,1749.0,1830.0,1795.0,Weihbischof,Erzbistum Prag,False,wiag_bishops,46.0
+WIAG-Pers-EPISCGatz-10121-001,Jean Chokier,1571.0,1656.0,1622.0,Generalvikar,Bistum Lüttich,False,wiag_bishops,51.0
+WIAG-Pers-EPISCGatz-10122-001,Jean Ernest Chokier de Surlet,1619.0,1701.0,1656.0,Generalvikar,Bistum Lüttich,False,wiag_bishops,37.0
+WIAG-Pers-EPISCGatz-10123-001,Matthias Franz Chorinsky,1720.0,1786.0,1769.0,Weihbischof,Bistum Königgrätz,False,wiag_bishops,49.0
+WIAG-Pers-EPISCGatz-10124-001,Zdenko Georg Chrzepíczky von Modliskovic,1678.0,1755.0,1743.0,Weihbischof,Erzbistum Prag,False,wiag_bishops,65.0
+WIAG-Pers-EPISCGatz-10125-001,Michael Chumer,1598.0,1653.0,1639.0,Weihbischof,Bistum Laibach,False,wiag_bishops,41.0
+WIAG-Pers-EPISCGatz-10126-001,Anton Felix Ciurletti,1696.0,1755.0,1744.0,Weihbischof,Erzbistum Salzburg,False,wiag_bishops,48.0
+WIAG-Pers-EPISCGatz-10128-001,Stephan Cloth,1674.0,1727.0,1726.0,Generalvikar,Bistum Fulda,False,wiag_bishops,52.0
+WIAG-Pers-EPISCGatz-10129-001,Anton Theodor Colloredo-Waldsee-Mels,1729.0,1811.0,1778.0,Fürsterzbischof,Bistum Olmütz,False,wiag_bishops,49.0
+WIAG-Pers-EPISCGatz-10131-001,Adrian Josef Moritz Courten,1750.0,1820.0,1781.0,Generalvikar,Bistum Sitten,False,wiag_bishops,31.0
+WIAG-Pers-EPISCGatz-10132-001,Johann Courten,1624.0,1694.0,1680.0,Generalvikar,Bistum Sitten,False,wiag_bishops,56.0
+WIAG-Pers-EPISCGatz-10133-001,Johann Christoph Crass,1686.0,1751.0,1746.0,Weihbischof,Bistum Paderborn,False,wiag_bishops,60.0
+WIAG-Pers-EPISCGatz-10135-001,Peter Creagh,1640.0,1705.0,1676.0,Bischof,Cork und Cloyne,False,wiag_bishops,36.0
+WIAG-Pers-EPISCGatz-10136-001,Anton Crosini von Bonporto,1581.0,1663.0,1619.0,Generalvikar,Bistum Brixen,False,wiag_bishops,38.0
+WIAG-Pers-EPISCGatz-10138-001,Jean-Marie Cuchot d'Herbain,1727.0,1801.0,1778.0,Weihbischof,Erzbistum Trier,False,wiag_bishops,51.0
+WIAG-Pers-EPISCGatz-10140-001,Tomasz Franciszek Czapski,1688.0,1733.0,1726.0,Koadjutor des Bischofs,Bistum Kulm,False,wiag_bishops,38.0
+WIAG-Pers-EPISCGatz-10143-001,Philipp Wirich Lorenz Daun zu Sassenheim und Callenborn,1720.0,1763.0,1738.0,Domherr,Bistum Passau,False,wiag_bishops,18.0
+WIAG-Pers-EPISCGatz-10144-001,Johann Dausch,1615.0,1684.0,1655.0,Generalvikar,Bistum Regensburg,False,wiag_bishops,40.0
+WIAG-Pers-EPISCGatz-10145-001,André Denis De Lée,1760.0,1805.0,1788.0,Generalvikar,Bistum Orléans,False,wiag_bishops,28.0
+WIAG-Pers-EPISCGatz-10146-001,Jean Bernard De Saive,1744.0,1815.0,1798.0,Generalvikar,Bistum Lüttich,False,wiag_bishops,54.0
+WIAG-Pers-EPISCGatz-10147-001,Josephus Antonius Delmestri von Schönberg,1672.0,1721.0,1718.0,Koadjutor des Bischofs,Bistum Triest,False,wiag_bishops,46.0
+WIAG-Pers-EPISCGatz-10148-001,Lucas Sartorius Delmestri von Schönberg,1679.0,1739.0,1724.0,Bischof,Bistum Triest,False,wiag_bishops,45.0
+WIAG-Pers-EPISCGatz-10149-001,Sebastian Denich,1596.0,1671.0,1622.0,Domherr,Bistum Konstanz,False,wiag_bishops,26.0
+WIAG-Pers-EPISCGatz-10151-001,Franz Joseph Dominik Deuring,1711.0,1777.0,1743.0,Generalvikar,Bistum Konstanz,False,wiag_bishops,32.0
+WIAG-Pers-EPISCGatz-10152-001,Joseph Didner,1739.0,1809.0,1792.0,Generalprovikar,Bistum Basel,False,wiag_bishops,53.0
+WIAG-Pers-EPISCGatz-10153-001,Johann Adolf Dierna,1719.0,1799.0,1759.0,Generalvikar,Bistum Paderborn,False,wiag_bishops,40.0
+WIAG-Pers-EPISCGatz-10155-001,Andreas Dirre,1610.0,1669.0,1660.0,Generalvikar,Bistum Olmütz,False,wiag_bishops,50.0
+WIAG-Pers-EPISCGatz-10156-001,Johann Ignaz Dlouhoveský' von Langendorf,1638.0,1701.0,1679.0,Weihbischof,Erzbistum Prag,False,wiag_bishops,41.0
+WIAG-Pers-EPISCGatz-10157-001,Gerhard Wilhelm Dolberg,1693.0,1767.0,1733.0,Generalvikar,Bistum Augsburg,False,wiag_bishops,40.0
+WIAG-Pers-EPISCGatz-10160-001,Heidenreich Matthias Droste zu Vischering,1691.0,1739.0,1721.0,Domherr,Bistum Osnabrück,False,wiag_bishops,30.0
+WIAG-Pers-EPISCGatz-10162-001,Claude-Antoine Duding,1681.0,1745.0,1716.0,Bischof,Bistum Lausanne,False,wiag_bishops,35.0
+WIAG-Pers-EPISCGatz-10163-001,Jacques Duding,1641.0,1716.0,1707.0,Bischof,Bistum Lausanne,False,wiag_bishops,66.0
+WIAG-Pers-EPISCGatz-10164-001,Josse-Pierre Dumont,1616.0,1655.0,1644.0,Generalvikar,Bistum Lausanne,False,wiag_bishops,28.0
+WIAG-Pers-EPISCGatz-10166-001,Toussaint Duvernin,1713.0,1785.0,1756.0,Generalvikar,Bistum Straßburg,False,wiag_bishops,43.0
+WIAG-Pers-EPISCGatz-10167-001,Adam Dwerditsch,1715.0,1778.0,1775.0,Generalvikar,Bistum Wien,False,wiag_bishops,60.0
+WIAG-Pers-EPISCGatz-10168-001,Johann Georg Joseph Eckart,1723.0,1791.0,1769.0,Weihbischof,Erzbistum Mainz,False,wiag_bishops,46.0
+WIAG-Pers-EPISCGatz-10169-001,Johann Franz Eckher von Kapfing und Liechteneck,1649.0,1727.0,1673.0,Domherr,Bistum Freising,False,wiag_bishops,24.0
+WIAG-Pers-EPISCGatz-10170-001,Rudolf Joseph Edling,1723.0,1803.0,1769.0,Weihbischof,Erzbistum Görz,False,wiag_bishops,46.0
+WIAG-Pers-EPISCGatz-10171-001,Augustin Eggs,1711.0,,1763.0,Apostolischer Vikar,,False,wiag_bishops,52.0
+WIAG-Pers-EPISCGatz-10172-001,Otto Honorius Egkh und Hungersbach,1675.0,1748.0,1729.0,Weihbischof,Bistum Olmütz,False,wiag_bishops,54.0
+WIAG-Pers-EPISCGatz-10173-001,Leopold Friedrich Egkh und Hungersbach,1696.0,1760.0,1722.0,Domherr,Bistum Olmütz,False,wiag_bishops,26.0
+WIAG-Pers-EPISCGatz-10174-001,Jean Louis Elderen,1620.0,1694.0,1688.0,Fürstbischof,Bistum Lüttich,False,wiag_bishops,68.0
+WIAG-Pers-EPISCGatz-10178-001,Alexander Franz Joseph Engl von und zu Wagrain,1722.0,1800.0,1786.0,Bischof,Bistum Loeben,False,wiag_bishops,64.0
+WIAG-Pers-EPISCGatz-10182-001,Christoph Joseph Exner,1703.0,1766.0,1763.0,Dechant und Fürsterzbischöflicher Vikar,Erzbistum Prag,False,wiag_bishops,60.0
+WIAG-Pers-EPISCGatz-10184-001,Johann Matthias Eyss,1669.0,1729.0,1692.0,Kanoniker,Erzbistum Trier,False,wiag_bishops,23.0
+WIAG-Pers-EPISCGatz-10185-001,Corneille Faes,1634.0,1694.0,1689.0,Generalvikar,Bistum Lüttich,False,wiag_bishops,55.0
+WIAG-Pers-EPISCGatz-10186-001,Andreas Joseph Fahrmann,1742.0,1802.0,1790.0,Weihbischof,Bistum Würzburg,False,wiag_bishops,48.0
+WIAG-Pers-EPISCGatz-10187-001,Georg Adam Fechenbach zu Laudenbach,1707.0,1772.0,1738.0,Domizellar,Erzbistum Mainz,False,wiag_bishops,31.0
+WIAG-Pers-EPISCGatz-10190-001,Johann Anton Federspiel,1708.0,1777.0,1755.0,Fürstbischof,Bistum Chur,False,wiag_bishops,47.0
+WIAG-Pers-EPISCGatz-10191-001,Ulrich Federspiel,1657.0,1728.0,1692.0,Fürstbischof,Bistum Chur,False,wiag_bishops,35.0
+WIAG-Pers-EPISCGatz-10192-001,Ulrich Federspiel,1712.0,1776.0,1763.0,Generalvikar,Bistum Chur,False,wiag_bishops,51.0
+WIAG-Pers-EPISCGatz-10193-001,Heinrich Sigismund Fercher,1702.0,1769.0,1763.0,Generalvikar,Bistum Augsburg,False,wiag_bishops,61.0
+WIAG-Pers-EPISCGatz-10195-001,Johann Fiernhammer,1586.0,1663.0,1614.0,Dekan,Bistum Freising,False,wiag_bishops,28.0
+WIAG-Pers-EPISCGatz-10201-001,Franz Fischer,1740.0,1806.0,1795.0,Generalvikar,Erzbistum Köln,False,wiag_bishops,55.0
+WIAG-Pers-EPISCGatz-10202-001,Karl Fleßl,1686.0,1760.0,1751.0,Fürstbischöflicher Kommissar,Bistum Olmütz,False,wiag_bishops,65.0
+WIAG-Pers-EPISCGatz-10203-001,Christian Jakob Fliri,1728.0,1801.0,1773.0,Generalvikar,Bistum Chur,False,wiag_bishops,45.0
+WIAG-Pers-EPISCGatz-10204-001,Johann Flugi,1595.0,1661.0,1636.0,Fürstbischof,Bistum Chur,False,wiag_bishops,41.0
+WIAG-Pers-EPISCGatz-10205-001,Jean-Philippe Forel,1660.0,1719.0,1695.0,Generalvikar,Bistum Lausanne,False,wiag_bishops,35.0
+WIAG-Pers-EPISCGatz-10207-001,Johannes Karl Franckenstein,1610.0,1691.0,1654.0,Domherr,Bistum Worms,False,wiag_bishops,44.0
+WIAG-Pers-EPISCGatz-10209-001,Franz Kaspar Franken-Siersdorf,1683.0,1770.0,1713.0,Domherr,Erzbistum Köln,False,wiag_bishops,30.0
+WIAG-Pers-EPISCGatz-10210-001,Johann Andreas Franken-Siersdorf,1696.0,1754.0,1723.0,Domherr,Erzbistum Köln,False,wiag_bishops,27.0
+WIAG-Pers-EPISCGatz-10211-001,Johann Theodor Franken-Siersdorf,1720.0,1779.0,1771.0,Weihbischof,Bistum Hildesheim,False,wiag_bishops,51.0
+WIAG-Pers-EPISCGatz-10212-001,Peter Gerwin Franken-Siersdorf,1702.0,1763.0,1751.0,Generalvikar,Erzbistum Köln,False,wiag_bishops,49.0
+WIAG-Pers-EPISCGatz-10213-001,Karl Moritz Frankenberg,1703.0,1763.0,1757.0,Generalvikar,Bistum Breslau,False,wiag_bishops,54.0
+WIAG-Pers-EPISCGatz-10214-001,Leopold Sigismund Frankenberg-Ludwigsdorf,1664.0,1731.0,1707.0,Generalvikar,Bistum Breslau,False,wiag_bishops,43.0
+WIAG-Pers-EPISCGatz-10217-001,Johann Wenzel Xaver Frey von Freyenfels,1705.0,1776.0,1771.0,Weihbischof,Bistum Olmütz,False,wiag_bishops,66.0
+WIAG-Pers-EPISCGatz-10219-001,Johann Anton Freyberg-Hopferau,1674.0,1757.0,1711.0,Domherr,Bistum Eichstätt,False,wiag_bishops,37.0
+WIAG-Pers-EPISCGatz-10220-001,Johann Joseph Ignaz Freyschlag von Schmidenthal,1669.0,1743.0,1721.0,Apostolischer Administrator,Bistum Meißen,False,wiag_bishops,52.0
+WIAG-Pers-EPISCGatz-10223-001,Friedrich Hessen-Darmstadt,1616.0,1682.0,1652.0,Kardinal,Bistum Breslau,False,wiag_bishops,36.0
+WIAG-Pers-EPISCGatz-10225-001,Andreas Fromm,1621.0,1683.0,1671.0,Generalvikar,Bistum Leitmeritz,False,wiag_bishops,50.0
+WIAG-Pers-EPISCGatz-10226-001,Henri Fuchs gen. Vulpius,1624.0,1689.0,1658.0,Apostolischer Administrator,Bistum Lausanne,False,wiag_bishops,34.0
+WIAG-Pers-EPISCGatz-10228-001,Franz Karl Joseph Fugger-Glött von Kirchberg und Weißenhorn,1708.0,1769.0,1731.0,Domherr,Bistum Konstanz,False,wiag_bishops,23.0
+WIAG-Pers-EPISCGatz-10232-001,Franz Egon Fürstenberg,1702.0,1761.0,1720.0,Domherr,Bistum Paderborn,False,wiag_bishops,18.0
+WIAG-Pers-EPISCGatz-10237-001,Johann Hugo Gärtz,1648.0,1716.0,1715.0,Kapitularvikar,Bistum Osnabrück,False,wiag_bishops,67.0
+WIAG-Pers-EPISCGatz-10240-001,Johann Reichard Gallenberg,1667.0,1753.0,1690.0,Domherr,Bistum Passau,False,wiag_bishops,23.0
+WIAG-Pers-EPISCGatz-10242-001,Johann Jakob Gaßner,1607.0,1677.0,1634.0,Domherr,Bistum Freising,False,wiag_bishops,27.0
+WIAG-Pers-EPISCGatz-10243-001,Peter Anton Gaus von Homberg,1646.0,1716.0,1693.0,Bischof,Bistum Pedena,False,wiag_bishops,47.0
+WIAG-Pers-EPISCGatz-10244-001,Daniel Johann Anton Gebsattel,1718.0,1788.0,1748.0,Weihbischof,Bistum Würzburg,False,wiag_bishops,30.0
+WIAG-Pers-EPISCGatz-10245-001,Johann Edmund Gedult von Jungenfeld,1652.0,1727.0,1703.0,Weihbischof,Erzbistum Mainz,False,wiag_bishops,51.0
+WIAG-Pers-EPISCGatz-10246-001,Johann Baptist Gegg,1664.0,1730.0,1716.0,Weihbischof,Bistum Worms,False,wiag_bishops,52.0
+WIAG-Pers-EPISCGatz-10247-001,Martin Geiger,1621.0,1669.0,1646.0,Generalvikar,Bistum Passau,False,wiag_bishops,25.0
+WIAG-Pers-EPISCGatz-10248-001,Konrad Ferdinand Geist von Wildegg,1662.0,1722.0,1693.0,Weihbischof,Bistum Konstanz,False,wiag_bishops,31.0
+WIAG-Pers-EPISCGatz-10249-001,Ägidius Gelenius,1595.0,1656.0,1621.0,Kanoniker,Erzbistum Köln,False,wiag_bishops,26.0
+WIAG-Pers-EPISCGatz-10251-001,Johann Benedikt Gentilotti,1672.0,1725.0,1725.0,Erwählter Fürstbischof,Bistum Trient,False,wiag_bishops,53.0
+WIAG-Pers-EPISCGatz-10253-001,Gilles Etienne Ghéquier,1696.0,1753.0,1733.0,Domherr,Bistum Lüttich,False,wiag_bishops,37.0
+WIAG-Pers-EPISCGatz-10254-001,Jean Baptiste Gillis,1679.0,1736.0,1729.0,Weihbischof,Bistum Lüttich,False,wiag_bishops,50.0
+WIAG-Pers-EPISCGatz-10255-001,Kaspar Florentius Glandorf,1693.0,1751.0,1741.0,Generalvikar,Bistum Olmütz,False,wiag_bishops,48.0
+WIAG-Pers-EPISCGatz-10256-001,Urs Franz Josef Glutz von Boltzheim,1733.0,1809.0,1760.0,Generalvikar,Bistum Lausanne,False,wiag_bishops,27.0
+WIAG-Pers-EPISCGatz-10257-001,Johann Karl Glutz-Ruchti,1664.0,1735.0,1730.0,Generalvikar,Bistum Lausanne,False,wiag_bishops,66.0
+WIAG-Pers-EPISCGatz-10259-001,Johann Baptist Joseph Gobel,1727.0,1794.0,1762.0,Generalvikar,Bistum Basel,False,wiag_bishops,35.0
+WIAG-Pers-EPISCGatz-10260-001,Johann Goess,1611.0,1696.0,1676.0,Bischof,Bistum Gurk,False,wiag_bishops,65.0
+WIAG-Pers-EPISCGatz-10261-001,Johann Götzfried,1634.0,1699.0,1679.0,Generalvikar,Bistum Regensburg,False,wiag_bishops,45.0
+WIAG-Pers-EPISCGatz-10262-001,Georg Gollmayer,1755.0,1822.0,1795.0,Generalvikar,Bistum Laibach,False,wiag_bishops,40.0
+WIAG-Pers-EPISCGatz-10263-001,Franz Josef Gondola,1711.0,1774.0,1752.0,Titularbischof,Tempe,False,wiag_bishops,41.0
+WIAG-Pers-EPISCGatz-10265-001,François-Pierre-Augustin Gottrau,1682.0,1739.0,1730.0,Generalvikar,Bistum Lausanne,False,wiag_bishops,48.0
+WIAG-Pers-EPISCGatz-10267-001,Adam Stanisław Grabowski,1698.0,1766.0,1733.0,Weihbischof,Bistum Posen,False,wiag_bishops,35.0
+WIAG-Pers-EPISCGatz-10268-001,Charles Antoine Grady,1712.0,1767.0,1762.0,Weihbischof,Bistum Lüttich,False,wiag_bishops,50.0
+WIAG-Pers-EPISCGatz-10273-001,Johann Gottfried Groß von Trockau,1687.0,1750.0,1713.0,Domherr,Bistum Eichstätt,False,wiag_bishops,26.0
+WIAG-Pers-EPISCGatz-10276-001,Christoph Ignaz Gudenus,1674.0,1747.0,1726.0,Weihbischof,Erzbistum Mainz,False,wiag_bishops,52.0
+WIAG-Pers-EPISCGatz-10278-001,Johann Leopold Gudenus,1676.0,1713.0,1711.0,Weihbischof,Bistum Worms,False,wiag_bishops,35.0
+WIAG-Pers-EPISCGatz-10281-001,Kasimir Johann Baptist Haeffelin,1737.0,1827.0,1787.0,Titularbischof,Chersones,False,wiag_bishops,50.0
+WIAG-Pers-EPISCGatz-10282-001,Johann Christian Hagen,1683.0,1746.0,1744.0,Generalvikar,Bistum Sitten,False,wiag_bishops,61.0
+WIAG-Pers-EPISCGatz-10283-001,Franz Joseph Anton Hahn,1699.0,1748.0,1734.0,Weihbischof,Bistum Bamberg,False,wiag_bishops,35.0
+WIAG-Pers-EPISCGatz-10284-001,Johann Joachim Hahn,1667.0,1725.0,1718.0,Weihbischof,Erzbistum Mainz,False,wiag_bishops,51.0
+WIAG-Pers-EPISCGatz-10285-001,Thomas Joseph Haiden,1739.0,1813.0,1782.0,Provikar,Bistum Augsburg,False,wiag_bishops,43.0
+WIAG-Pers-EPISCGatz-10286-001,Ferdinand Michael Cyriakus Hallweil,1706.0,1773.0,1741.0,Bischof,Bistum Wiener Neustadt,False,wiag_bishops,35.0
+WIAG-Pers-EPISCGatz-10287-001,Maximilian Hamilton,1714.0,1776.0,1758.0,Generalvikar,Bistum Olmütz,False,wiag_bishops,44.0
+WIAG-Pers-EPISCGatz-10288-001,Franz Christoph Hanxleden,1702.0,1770.0,1734.0,Domherr,Bistum Minden,False,wiag_bishops,32.0
+WIAG-Pers-EPISCGatz-10289-001,Ernst Adalbert Harrach zu Rohrau,1598.0,1667.0,1618.0,Domherr,Erzbistum Prag,False,wiag_bishops,20.0
+WIAG-Pers-EPISCGatz-10290-001,Franz Anton Harrach,1665.0,1727.0,1685.0,Domherr,Bistum Passau,False,wiag_bishops,20.0
+WIAG-Pers-EPISCGatz-10293-001,Johann Hasius von Lichtenfeld,1584.0,1650.0,1644.0,Apostolischer Administrator,Bistum Meißen,False,wiag_bishops,60.0
+WIAG-Pers-EPISCGatz-10294-001,Ludwig Hatteisen,1696.0,1771.0,1758.0,Weihbischof,Bistum Hildesheim,False,wiag_bishops,62.0
+WIAG-Pers-EPISCGatz-10297-001,Gabriel Haug,1602.0,1691.0,1643.0,Generalvikar,Bistum Straßburg,False,wiag_bishops,41.0
+WIAG-Pers-EPISCGatz-10298-001,Johann Maximilian Haunold,1735.0,1807.0,1792.0,Weihbischof,Erzbistum Mainz,False,wiag_bishops,57.0
+WIAG-Pers-EPISCGatz-10299-001,Johann Baptist Haus,1672.0,1745.0,1716.0,Generalvikar,Bistum Basel,False,wiag_bishops,44.0
+WIAG-Pers-EPISCGatz-10300-001,Johann Christoph Haus,1652.0,1725.0,1703.0,Generalvikar,Bistum Basel,False,wiag_bishops,51.0
+WIAG-Pers-EPISCGatz-10301-001,Johann Theoderich Hauser von Gleichensdorf,1643.0,1705.0,1691.0,Generalvikar,Bistum Augsburg,False,wiag_bishops,48.0
+WIAG-Pers-EPISCGatz-10302-001,Franz Caspar Philipp Haxthausen,1669.0,1733.0,1694.0,Domherr,Bistum Paderborn,False,wiag_bishops,25.0
+WIAG-Pers-EPISCGatz-10303-001,Johann Leopold Hay,1735.0,1794.0,1780.0,Bischof,Bistum Königgrätz,False,wiag_bishops,45.0
+WIAG-Pers-EPISCGatz-10304-001,Leopold Haymmerle,1721.0,1797.0,1752.0,Generalvikar,Bistum Wiener Neustadt,False,wiag_bishops,31.0
+WIAG-Pers-EPISCGatz-10305-001,Johannes Heerde,1631.0,1725.0,1676.0,Generalvikar,Bistum Hildesheim,False,wiag_bishops,45.0
+WIAG-Pers-EPISCGatz-10309-001,Thomas Henrici,1597.0,1660.0,1634.0,Generalvikar,Bistum Basel,False,wiag_bishops,37.0
+WIAG-Pers-EPISCGatz-10310-001,Antonius Herberstein,1725.0,1774.0,1761.0,Bischof,Bistum Triest,False,wiag_bishops,36.0
+WIAG-Pers-EPISCGatz-10312-001,Johann Georg Herberstein,1591.0,1663.0,1615.0,Domherr,Bistum Regensburg,False,wiag_bishops,24.0
+WIAG-Pers-EPISCGatz-10313-001,Karl Johann Herberstein,1719.0,1787.0,1769.0,Koadjutor des Fürstbischofs,Bistum Laibach,False,wiag_bishops,50.0
+WIAG-Pers-EPISCGatz-10314-001,Sigmund Christoph Herberstein,1644.0,1711.0,1683.0,Fürstbischof,Bistum Laibach,False,wiag_bishops,39.0
+WIAG-Pers-EPISCGatz-10315-001,Franz Herz,1724.0,1800.0,1764.0,Apostolischer Vikar,,False,wiag_bishops,40.0
+WIAG-Pers-EPISCGatz-10316-001,Johann Evangelist Herz,1695.0,1785.0,1769.0,Provikar,Bistum Augsburg,False,wiag_bishops,74.0
+WIAG-Pers-EPISCGatz-10317-001,Johann Raphael Heugel,1677.0,1754.0,1732.0,Generalvikar,Bistum Eichstätt,False,wiag_bishops,55.0
+WIAG-Pers-EPISCGatz-10318-001,Raphael Heugel,1634.0,1700.0,1675.0,Generalvikar,Bistum Eichstätt,False,wiag_bishops,41.0
+WIAG-Pers-EPISCGatz-10319-001,Johann Hiemayr,1646.0,1706.0,1699.0,Generalvikar,Bistum Eichstätt,False,wiag_bishops,53.0
+WIAG-Pers-EPISCGatz-10322-001,César Constantin François Hoensbroeck,1724.0,1792.0,1751.0,Domherr,Bistum Lüttich,False,wiag_bishops,27.0
+WIAG-Pers-EPISCGatz-10324-001,Johann Friedrich Adolf Hörde zu Schönholthausen,1688.0,1761.0,1711.0,Domherr,Bistum Hildesheim,False,wiag_bishops,23.0
+WIAG-Pers-EPISCGatz-10325-001,Wenzel Wilhelm Hofkirchen,1611.0,1679.0,1635.0,Domherr,Bistum Seckau,False,wiag_bishops,24.0
+WIAG-Pers-EPISCGatz-10330-001,Sigismund Hohenwart,1745.0,1825.0,1787.0,Generalvikar,Bistum Gurk,False,wiag_bishops,42.0
+WIAG-Pers-EPISCGatz-10332-001,Johann Carl Hohenzollern-Hechingen,1732.0,1803.0,1778.0,Koadjutor des Bischofs,Bistum Kulm,False,wiag_bishops,46.0
+WIAG-Pers-EPISCGatz-10333-001,Johannes Holler,1614.0,1671.0,1652.0,Dekan,Erzbistum Trier,False,wiag_bishops,38.0
+WIAG-Pers-EPISCGatz-10334-001,Johann Nikolaus Hontheim,1701.0,1790.0,1738.0,Generalvikar,Erzbistum Trier,False,wiag_bishops,37.0
+WIAG-Pers-EPISCGatz-10335-001,Johann Philipp Horn,1724.0,1796.0,1763.0,Generalvikar,Erzbistum Köln,False,wiag_bishops,39.0
+WIAG-Pers-EPISCGatz-10340-001,Josef Franz Hurdalek,1747.0,1833.0,1795.0,Generalvikar,Bistum Leitmeritz,False,wiag_bishops,48.0
+WIAG-Pers-EPISCGatz-10341-001,Johann Joseph Hurth,1720.0,1782.0,1757.0,Kanoniker,Erzbistum Trier,False,wiag_bishops,37.0
+WIAG-Pers-EPISCGatz-10345-001,Peter Josef Imseng,1725.0,1798.0,1780.0,Generalvikar,Bistum Sitten,False,wiag_bishops,55.0
+WIAG-Pers-EPISCGatz-10346-001,Anselm Franz Friedrich Ingelheim,1634.0,1695.0,1656.0,Domherr,Erzbistum Mainz,False,wiag_bishops,22.0
+WIAG-Pers-EPISCGatz-10348-001,Franz Philipp Inzaghi,1731.0,1816.0,1775.0,Bischof,Bistum Triest,False,wiag_bishops,44.0
+WIAG-Pers-EPISCGatz-10349-001,Pierre Louis Jacquet,1688.0,1763.0,1737.0,Weihbischof,Bistum Lüttich,False,wiag_bishops,49.0
+WIAG-Pers-EPISCGatz-10351-001,Joseph Hessen-Darmstadt,1699.0,1768.0,1729.0,Domherr,Bistum Augsburg,False,wiag_bishops,30.0
+WIAG-Pers-EPISCGatz-10353-001,Johann Georg Jost,1687.0,1763.0,1729.0,Generalvikar,Bistum Chur,False,wiag_bishops,42.0
+WIAG-Pers-EPISCGatz-10354-001,Martin Bernhard Just von Friedenfeld,1642.0,1721.0,1714.0,Apostolischer Administrator,Bistum Meißen,False,wiag_bishops,72.0
+WIAG-Pers-EPISCGatz-10356-001,Andreas Franz Kaintz,1682.0,1740.0,1725.0,Administrator des Fürsterzbischöflichen Vikariates,Erzbistum Prag,False,wiag_bishops,43.0
+WIAG-Pers-EPISCGatz-10357-001,Johann Andreas Kaiser,1716.0,1776.0,1757.0,Generalvikar,Erzbistum Prag,False,wiag_bishops,41.0
+WIAG-Pers-EPISCGatz-10358-001,Gottfried Kapaun von Swoykow,1636.0,1701.0,1699.0,Bischof,Bistum Königgrätz,False,wiag_bishops,63.0
+WIAG-Pers-EPISCGatz-10362-001,Meinwerk Kaup,1691.0,1745.0,1733.0,Titularbischof,Callinicum,False,wiag_bishops,42.0
+WIAG-Pers-EPISCGatz-10365-001,Heinrich Keller,1607.0,1674.0,1670.0,Generalvikar,Bistum Paderborn,False,wiag_bishops,63.0
+WIAG-Pers-EPISCGatz-10368-001,Nikolaus Hermann Ketteler,1678.0,1737.0,1699.0,Domherr,Bistum Münster,False,wiag_bishops,21.0
+WIAG-Pers-EPISCGatz-10369-001,Johann Martin Kettler,1679.0,1749.0,1735.0,Generalvikar,Bistum Würzburg,False,wiag_bishops,56.0
+WIAG-Pers-EPISCGatz-10371-001,"Johann Franz Khuen zu Liechtenberg, Aur und Belasy",1649.0,1702.0,1674.0,Domherr,Bistum Brixen,False,wiag_bishops,25.0
+WIAG-Pers-EPISCGatz-10372-001,Ferdinand Kindermann,1740.0,1801.0,1790.0,Bischof,Bistum Leitmeritz,False,wiag_bishops,50.0
+WIAG-Pers-EPISCGatz-10373-001,Johann Stephan Kittner,1673.0,1742.0,1708.0,Generalvikar,Bistum Wiener Neustadt,False,wiag_bishops,35.0
+WIAG-Pers-EPISCGatz-10374-001,Karl Kleiner,1705.0,1786.0,1761.0,Dechant (Prag),Erzbistum Prag,False,wiag_bishops,56.0
+WIAG-Pers-EPISCGatz-10377-001,Jost Knab,1593.0,1658.0,1652.0,Bischof,Bistum Lausanne,False,wiag_bishops,59.0
+WIAG-Pers-EPISCGatz-10379-001,Lothar Franz Josef Knebel von Katzenellenbogen,1700.0,1749.0,1718.0,Domherr,Bistum Worms,False,wiag_bishops,18.0
+WIAG-Pers-EPISCGatz-10380-001,Winimar Knippschild,1679.0,1732.0,1729.0,Weihbischof,Bistum Paderborn,False,wiag_bishops,50.0
+WIAG-Pers-EPISCGatz-10381-001,Wenzel Kobaltz,1732.0,1796.0,1795.0,Apostolischer Administrator,Bistum Meißen,False,wiag_bishops,63.0
+WIAG-Pers-EPISCGatz-10387-001,Leopold Karl Kollonitsch,1631.0,1707.0,1668.0,Bischof,Bistum Neutra,False,wiag_bishops,37.0
+WIAG-Pers-EPISCGatz-10388-001,Sigismund Kollonitsch,1677.0,1751.0,1709.0,Bischof,Bistum Waitzen,False,wiag_bishops,32.0
+WIAG-Pers-EPISCGatz-10389-001,Johann Wilhelm Kolowrat-Liebsteinsky,1627.0,1668.0,1667.0,Ernannter Erzbischof,Erzbistum Prag,False,wiag_bishops,40.0
+WIAG-Pers-EPISCGatz-10391-001,Wenzel Franz Karl Koschinsky von Koschín,1673.0,1731.0,1721.0,Bischof,Bistum Königgrätz,False,wiag_bishops,48.0
+WIAG-Pers-EPISCGatz-10392-001,Friedrich Kotschau,1695.0,1761.0,1734.0,Generalvikar,Bistum Fulda,False,wiag_bishops,39.0
+WIAG-Pers-EPISCGatz-10394-001,Ignacy Błażej Franciszek Krasicki,1735.0,1801.0,1766.0,Bischof,Bistum Ermland,False,wiag_bishops,31.0
+WIAG-Pers-EPISCGatz-10396-001,Feliks Ignacy Kretkowski,1657.0,1730.0,1723.0,Bischof,Bistum Kulm,False,wiag_bishops,66.0
+WIAG-Pers-EPISCGatz-10397-001,Erasmus Dionys Krieger,1738.0,1792.0,1781.0,Weihbischof,Erzbistum Prag,False,wiag_bishops,43.0
+WIAG-Pers-EPISCGatz-10399-001,Franz Ferdinand Kuenburg,1651.0,1731.0,1670.0,Domherr,Bistum Laibach,False,wiag_bishops,19.0
+WIAG-Pers-EPISCGatz-10400-001,Johannes Christoph Ludwig Kuenburg,1697.0,1756.0,1747.0,Weihbischof,Bistum Passau,False,wiag_bishops,50.0
+WIAG-Pers-EPISCGatz-10403-001,Karl Joseph Kuenburg,1686.0,1729.0,1706.0,Domherr,Erzbistum Salzburg,False,wiag_bishops,20.0
+WIAG-Pers-EPISCGatz-10404-001,Maximilian Gandolf Kuenburg,1622.0,1687.0,1644.0,Domherr,Erzbistum Salzburg,False,wiag_bishops,22.0
+WIAG-Pers-EPISCGatz-10405-001,Polykarp Wilhelm Kuenburg,1633.0,1675.0,1669.0,Domherr,Bistum Gurk,False,wiag_bishops,36.0
+WIAG-Pers-EPISCGatz-10407-001,Johann Georg Kunigk,1648.0,1711.0,1693.0,Generalvikar,Bistum Ermland,False,wiag_bishops,45.0
+WIAG-Pers-EPISCGatz-10408-001,Georg Joseph Augustin Kuntsche,1644.0,1697.0,1691.0,Fürsterzbischöflicher Vikar,Erzbistum Prag,False,wiag_bishops,47.0
+WIAG-Pers-EPISCGatz-10409-001,Jan Franciszek Kurdwanowski,1645.0,1729.0,1713.0,Weihbischof,Bistum Ermland,False,wiag_bishops,68.0
+WIAG-Pers-EPISCGatz-10410-001,Johann Evangelist Labhardt,1717.0,1783.0,1755.0,Pfarrer,Bistum Konstanz,False,wiag_bishops,38.0
+WIAG-Pers-EPISCGatz-10411-001,Johann Baptist Lachenbauer,1741.0,1799.0,1787.0,Bischof,Bistum Brünn,False,wiag_bishops,46.0
+WIAG-Pers-EPISCGatz-10413-001,Johann Josef Lagger,1690.0,1767.0,1758.0,Generalvikar,Bistum Sitten,False,wiag_bishops,68.0
+WIAG-Pers-EPISCGatz-10414-001,Anton Joseph Lamberg,1687.0,1755.0,1709.0,Domherr,Bistum Passau,False,wiag_bishops,22.0
+WIAG-Pers-EPISCGatz-10417-001,Johann Raymund Guidobald Lamberg,1662.0,1725.0,1701.0,Weihbischof,Bistum Passau,False,wiag_bishops,39.0
+WIAG-Pers-EPISCGatz-10418-001,Joseph Dominikus Franz Kilian Lamberg,1680.0,1761.0,1698.0,Propst,Bistum Passau,False,wiag_bishops,18.0
+WIAG-Pers-EPISCGatz-10421-001,Gottfried Langwerth von Simmern,1669.0,1741.0,1692.0,Domherr,Bistum Regensburg,False,wiag_bishops,23.0
+WIAG-Pers-EPISCGatz-10422-001,Raimund Ferdinand Lanthieri Freiherr von Schönhaus und Reffenberg,1667.0,1714.0,1703.0,Generalvikar,Bistum Olmütz,False,wiag_bishops,36.0
+WIAG-Pers-EPISCGatz-10423-001,Jean Jacques Lantz,1720.0,1799.0,1785.0,Generalvikar,Bistum Straßburg,False,wiag_bishops,65.0
+WIAG-Pers-EPISCGatz-10424-001,Ignaz Leopold Lassal von Kliman,1626.0,1676.0,1671.0,Generalvikar,Bistum Breslau,False,wiag_bishops,45.0
+WIAG-Pers-EPISCGatz-10425-001,Johann Friedrich Lasser,1708.0,1769.0,1748.0,Weihbischof,Erzbistum Mainz,False,wiag_bishops,40.0
+WIAG-Pers-EPISCGatz-10426-001,Michał Remigiusz Łaszewski,1682.0,1746.0,1730.0,Weihbischof,Bistum Ermland,False,wiag_bishops,48.0
+WIAG-Pers-EPISCGatz-10427-001,Pierre Lambert Ledrou,1640.0,1721.0,1704.0,Domherr,Bistum Lüttich,False,wiag_bishops,64.0
+WIAG-Pers-EPISCGatz-10428-001,Johann Martin Lehenbauer,1724.0,1790.0,1775.0,Generalvikar,Bistum Eichstätt,False,wiag_bishops,51.0
+WIAG-Pers-EPISCGatz-10430-001,Albert Lejeune,1755.0,1819.0,1798.0,Generalvikar,Bistum Lüttich,False,wiag_bishops,43.0
+WIAG-Pers-EPISCGatz-10431-001,Bernard-Emmanuel Lenzbourg,1723.0,1795.0,1782.0,Bischof,Bistum Lausanne,False,wiag_bishops,59.0
+WIAG-Pers-EPISCGatz-10434-001,Wojciech Stanisław Leski,1702.0,1758.0,1747.0,Bischof,Bistum Kulm,False,wiag_bishops,45.0
+WIAG-Pers-EPISCGatz-10437-001,Wacław Leszczyński,1605.0,1666.0,1644.0,Bischof,Bistum Ermland,False,wiag_bishops,39.0
+WIAG-Pers-EPISCGatz-10442-001,Jakob Ernst Liechtenstein-Kastelkorn,1690.0,1747.0,1709.0,Domherr,Bistum Seckau,False,wiag_bishops,19.0
+WIAG-Pers-EPISCGatz-10444-001,Johann Balthasar Liesch von Hornau,1592.0,1661.0,1625.0,Weihbischof,Bistum Breslau,False,wiag_bishops,33.0
+WIAG-Pers-EPISCGatz-10445-001,Louis Ligeriz,1700.0,1761.0,1743.0,Apostolischer Vikar,,False,wiag_bishops,43.0
+WIAG-Pers-EPISCGatz-10447-001,Carlo Ferdinando Lodron,1662.0,1730.0,1702.0,Generalvikar,Bistum Trient,False,wiag_bishops,40.0
+WIAG-Pers-EPISCGatz-10451-001,Paris Lodron,1586.0,1653.0,1606.0,Domherr,Erzbistum Salzburg,False,wiag_bishops,20.0
+WIAG-Pers-EPISCGatz-10452-001,Heinrich Friedrich Philipp Gottfried Loe,1691.0,1748.0,1713.0,Domherr,Bistum Hildesheim,False,wiag_bishops,22.0
+WIAG-Pers-EPISCGatz-10453-001,Anton Aloisius Löhn,1734.0,1806.0,1796.0,Generalvikar,Bistum Breslau,False,wiag_bishops,62.0
+WIAG-Pers-EPISCGatz-10454-001,Peter Franz Longinus von Kieferberg,1613.0,1675.0,1665.0,Apostolischer Administrator,Bistum Meißen,False,wiag_bishops,52.0
+WIAG-Pers-EPISCGatz-10455-001,Franz Anton Losenstein,1642.0,1692.0,1673.0,Offizial,Bistum Passau,False,wiag_bishops,31.0
+WIAG-Pers-EPISCGatz-10456-001,Ignaz Lovina,1660.0,1720.0,1719.0,Bischof,Bistum Wiener Neustadt,False,wiag_bishops,59.0
+WIAG-Pers-EPISCGatz-10457-001,Albert Lucenius,1576.0,1654.0,1623.0,Generalvikar,Bistum Osnabrück,False,wiag_bishops,47.0
+WIAG-Pers-EPISCGatz-10459-001,Valerio Maccioni,1622.0,1676.0,1667.0,Apostolischer Vikar,,False,wiag_bishops,45.0
+WIAG-Pers-EPISCGatz-10460-001,Carlo Emanuele Madruzzo,1599.0,1658.0,1622.0,Koadjutor des Fürstbischofs,Bistum Trient,False,wiag_bishops,23.0
+WIAG-Pers-EPISCGatz-10461-001,Johann Baptist Mair,1632.0,1699.0,1676.0,Generalvikar,Bistum Wien,False,wiag_bishops,44.0
+WIAG-Pers-EPISCGatz-10463-001,Jan Małachowski,1623.0,1699.0,1676.0,Bischof,Bistum Kulm,False,wiag_bishops,53.0
+WIAG-Pers-EPISCGatz-10464-001,Franz Xaver Joseph Anton German Randoald Maler,1746.0,1816.0,1794.0,Generalvikar,Bistum Basel,False,wiag_bishops,48.0
+WIAG-Pers-EPISCGatz-10465-001,Otto Matthias Mallinckrodt,1723.0,1761.0,1746.0,Domherr,Bistum Hildesheim,False,wiag_bishops,23.0
+WIAG-Pers-EPISCGatz-10468-001,Antonio Marenzi,1596.0,1662.0,1637.0,Bischof,Bistum Pedena,False,wiag_bishops,41.0
+WIAG-Pers-EPISCGatz-10469-001,Georg Xaver Marotti,1683.0,1740.0,1713.0,Koadjutor des Bischofs,Bistum Pedena,False,wiag_bishops,30.0
+WIAG-Pers-EPISCGatz-10470-001,Godefroid-Udalric Margelle,1635.0,1703.0,1696.0,Weihbischof,Erzbistum Köln,False,wiag_bishops,61.0
+WIAG-Pers-EPISCGatz-10471-001,Francesco Martini,1673.0,1742.0,1724.0,Generalvikar,Bistum Trient,False,wiag_bishops,51.0
+WIAG-Pers-EPISCGatz-10472-001,Werner Marx,1746.0,1806.0,1794.0,Generalvikar,Erzbistum Köln,False,wiag_bishops,48.0
+WIAG-Pers-EPISCGatz-10473-001,Franz Xaver Anton Marxer,1704.0,1775.0,1748.0,Weihbischof,Bistum Wien,False,wiag_bishops,44.0
+WIAG-Pers-EPISCGatz-10475-001,Maximilian Franz Österreich,1756.0,1801.0,1780.0,Domherr,Bistum Münster,False,wiag_bishops,24.0
+WIAG-Pers-EPISCGatz-10477-001,Daniel Joseph Mayer,1656.0,1733.0,1702.0,Generalvikar,Erzbistum Prag,False,wiag_bishops,46.0
+WIAG-Pers-EPISCGatz-10478-001,Johann Bernhard Mayer,1669.0,1747.0,1704.0,Weihbischof,Bistum Würzburg,False,wiag_bishops,35.0
+WIAG-Pers-EPISCGatz-10479-001,Georges Alban Mayer von Mayersheim,1608.0,1684.0,1650.0,Generalvikar,Bistum Straßburg,False,wiag_bishops,42.0
+WIAG-Pers-EPISCGatz-10480-001,Johann Jakob Mayr,1677.0,1749.0,1715.0,Generalvikar,Bistum Augsburg,False,wiag_bishops,38.0
+WIAG-Pers-EPISCGatz-10481-001,Paulinus Mayr,1628.0,1685.0,1678.0,Fürstbischof,Bistum Brixen,False,wiag_bishops,50.0
+WIAG-Pers-EPISCGatz-10482-001,François Antoine Marie Constantin Méan et de Beaurieux,1756.0,1831.0,1785.0,Weihbischof,Bistum Lüttich,False,wiag_bishops,29.0
+WIAG-Pers-EPISCGatz-10483-001,Christian Albert Anton Merle,1693.0,1765.0,1734.0,Weihbischof,Bistum Worms,False,wiag_bishops,41.0
+WIAG-Pers-EPISCGatz-10487-001,Franciscus Josephus Mikolitsch,1738.0,1793.0,1789.0,Generalvikar,Bistum Laibach,False,wiag_bishops,51.0
+WIAG-Pers-EPISCGatz-10488-001,Giovanni Francesco Miller,1638.0,1720.0,1692.0,Bischof,Bistum Triest,False,wiag_bishops,54.0
+WIAG-Pers-EPISCGatz-10490-001,Otto Anton Minckwitz von Minckwitzburg,1734.0,,1783.0,Generalvikar,Bistum Olmütz,False,wiag_bishops,49.0
+WIAG-Pers-EPISCGatz-10491-001,Jakob Missel,1603.0,1653.0,1644.0,Generalvikar,Bistum Regensburg,False,wiag_bishops,41.0
+WIAG-Pers-EPISCGatz-10492-001,Sigismund Miutini von Spilenberg,1601.0,,1647.0,Generalvikar,Bistum Olmütz,False,wiag_bishops,46.0
+WIAG-Pers-EPISCGatz-10495-001,Ulrich Mont,1624.0,1692.0,1661.0,Fürstbischof,Bistum Chur,False,wiag_bishops,37.0
+WIAG-Pers-EPISCGatz-10496-001,Joseph-Nicolas Montenach,1709.0,1782.0,1758.0,Bischof,Bistum Lausanne,False,wiag_bishops,49.0
+WIAG-Pers-EPISCGatz-10497-001,Pierre Montenach,1633.0,1707.0,1688.0,Bischof,Bistum Lausanne,False,wiag_bishops,55.0
+WIAG-Pers-EPISCGatz-10499-001,Simon Nikolaus Euseb Montjoye-Hirsingen,1693.0,1776.0,1763.0,Fürstbischof,Bistum Basel,False,wiag_bishops,70.0
+WIAG-Pers-EPISCGatz-10502-001,Georg Motzel,1606.0,1660.0,1634.0,Generalvikar,Bistum Eichstätt,False,wiag_bishops,28.0
+WIAG-Pers-EPISCGatz-10503-001,Georg Sigismund Müller,1615.0,1686.0,1641.0,Kanoniker,Bistum Konstanz,False,wiag_bishops,26.0
+WIAG-Pers-EPISCGatz-10504-001,Volradus Christian Müller,1697.0,1759.0,1757.0,Provikar,,False,wiag_bishops,60.0
+WIAG-Pers-EPISCGatz-10506-001,Anton Ignaz Müntzer,1659.0,1714.0,1708.0,Weihbischof,Bistum Breslau,False,wiag_bishops,49.0
+WIAG-Pers-EPISCGatz-10507-001,Johann Murrmann,1573.0,1656.0,1630.0,Generalvikar,Bistum Bamberg,False,wiag_bishops,57.0
+WIAG-Pers-EPISCGatz-10509-001,Lothar Friedrich Nalbach,1691.0,1748.0,1719.0,Bischöflicher Offizial,Erzbistum Trier,False,wiag_bishops,28.0
+WIAG-Pers-EPISCGatz-10511-001,Karl Franz Neander von Petersheide,1626.0,1693.0,1654.0,Generalvikar,Bistum Breslau,False,wiag_bishops,28.0
+WIAG-Pers-EPISCGatz-10512-001,Christoph Nebel,1690.0,1769.0,1733.0,Weihbischof,Erzbistum Mainz,False,wiag_bishops,43.0
+WIAG-Pers-EPISCGatz-10516-001,Johann Adam Nieberlein,1662.0,1748.0,1706.0,Generalvikar,Bistum Eichstätt,False,wiag_bishops,44.0
+WIAG-Pers-EPISCGatz-10517-001,Berthold Nihus,1590.0,1657.0,1655.0,Weihbischof,Erzbistum Mainz,False,wiag_bishops,65.0
+WIAG-Pers-EPISCGatz-10518-001,Heinrich Joseph Nitschke,1708.0,1778.0,1748.0,Provikar,Bistum Bamberg,False,wiag_bishops,40.0
+WIAG-Pers-EPISCGatz-10519-001,Martin Nugk von Lichtenhoff,1720.0,1780.0,1774.0,Apostolischer Administrator,Bistum Meißen,False,wiag_bishops,54.0
+WIAG-Pers-EPISCGatz-10520-001,Franz Ferdinand Oedt,1665.0,1741.0,1730.0,Generalvikar,Bistum Olmütz,False,wiag_bishops,65.0
+WIAG-Pers-EPISCGatz-10521-001,Ferdinand Oesterhoff,1672.0,1748.0,1717.0,Kommendatarabt,Bistum Halberstadt,False,wiag_bishops,45.0
+WIAG-Pers-EPISCGatz-10523-001,Andrzej Olszowski,1621.0,1677.0,1661.0,Bischof,Bistum Kulm,False,wiag_bishops,40.0
+WIAG-Pers-EPISCGatz-10524-001,Jan Kazimierz Opaliński,1639.0,1693.0,1680.0,Koadjutor des Bischofs,Bistum Posen,False,wiag_bishops,41.0
+WIAG-Pers-EPISCGatz-10526-001,Karl Julius Orlik Freiherr von Laziska,1651.0,1716.0,1695.0,Administrator,Bistum Olmütz,False,wiag_bishops,44.0
+WIAG-Pers-EPISCGatz-10527-001,Johann Hugo Orsbeck,1634.0,1711.0,1652.0,Domherr,Erzbistum Trier,False,wiag_bishops,18.0
+WIAG-Pers-EPISCGatz-10529-001,Charles Nicolas Alexandre Oultremont,1716.0,1771.0,1763.0,Bischof,Bistum Lüttich,False,wiag_bishops,47.0
+WIAG-Pers-EPISCGatz-10532-001,Bartolomeo Antonio Passi,1693.0,1774.0,1744.0,Weihbischof,Bistum Trient,False,wiag_bishops,51.0
+WIAG-Pers-EPISCGatz-10533-001,Georg Strauwen,1593.0,1661.0,1633.0,Domherr,Erzbistum Köln,False,wiag_bishops,40.0
+WIAG-Pers-EPISCGatz-10535-001,Ernst Karl Joseph Payersberg von Boymundt,1683.0,1760.0,1713.0,Offizial,Bistum Passau,False,wiag_bishops,30.0
+WIAG-Pers-EPISCGatz-10539-001,Jesse Perkhofer,1604.0,1681.0,1639.0,Konsistorialpräsident,Bistum Brixen,False,wiag_bishops,35.0
+WIAG-Pers-EPISCGatz-10540-001,Thomas Pešina,1629.0,1680.0,1670.0,Generalvikar,Erzbistum Prag,False,wiag_bishops,41.0
+WIAG-Pers-EPISCGatz-10541-001,Leopold Joseph Hannibal Petazzi von Castel Nuovo,1703.0,1772.0,1740.0,Bischof,Bistum Triest,False,wiag_bishops,37.0
+WIAG-Pers-EPISCGatz-10542-001,Hyacinth Petit,1680.0,1719.0,1718.0,Metropolitanvikar,Bistum Osnabrück,False,wiag_bishops,38.0
+WIAG-Pers-EPISCGatz-10544-001,Christian Augustin Pfalz von Ostritz,1628.0,1702.0,1674.0,Generalvikar,Erzbistum Prag,False,wiag_bishops,46.0
+WIAG-Pers-EPISCGatz-10545-001,Philipp Moritz Bayern,1698.0,1719.0,1719.0,Elekt,Bistum Münster,False,wiag_bishops,21.0
+WIAG-Pers-EPISCGatz-10546-001,Aldrago Antonio Piccardi,1708.0,1789.0,1766.0,Bischof,Bistum Pedena,False,wiag_bishops,58.0
+WIAG-Pers-EPISCGatz-10548-001,Johann Michael Josef Pidoll,1734.0,1819.0,1770.0,Dekan,Erzbistum Trier,False,wiag_bishops,36.0
+WIAG-Pers-EPISCGatz-10549-001,Johann Max Emmanuel Pienzenau,1675.0,1727.0,1706.0,Generalvikar,Bistum Passau,False,wiag_bishops,31.0
+WIAG-Pers-EPISCGatz-10550-001,Ermenold Piesport,1724.0,1778.0,1776.0,Weihbischof,Bistum Fulda,False,wiag_bishops,52.0
+WIAG-Pers-EPISCGatz-10551-001,Wojciech Pilchowicz,1600.0,1665.0,1648.0,Weihbischof,Bistum Ermland,False,wiag_bishops,48.0
+WIAG-Pers-EPISCGatz-10552-001,Konstanty Józef Piwnicki,1703.0,1779.0,1750.0,Generalvikar,Bistum Kulm,False,wiag_bishops,47.0
+WIAG-Pers-EPISCGatz-10553-001,Fabian Franciszek Pląskowski,1705.0,1784.0,1750.0,Weihbischof,Bistum Kulm,False,wiag_bishops,45.0
+WIAG-Pers-EPISCGatz-10554-001,Ignaz Wilhelm Plebst,1623.0,1695.0,1652.0,Domherr,Bistum Regensburg,False,wiag_bishops,29.0
+WIAG-Pers-EPISCGatz-10556-001,Friedrich Christian Plettenberg-Lenhausen,1644.0,1706.0,1663.0,Domherr,Bistum Speyer,False,wiag_bishops,19.0
+WIAG-Pers-EPISCGatz-10560-001,Sebastian Pötting-Persing,1628.0,1689.0,1665.0,Generalvikar,Erzbistum Salzburg,False,wiag_bishops,37.0
+WIAG-Pers-EPISCGatz-10561-001,Johann Leopold Post,1735.0,1779.0,1778.0,Generalvikar,Bistum Brünn,False,wiag_bishops,43.0
+WIAG-Pers-EPISCGatz-10562-001,Teodor Andrzej Potocki,1664.0,1738.0,1699.0,Bischof,Bistum Kulm,False,wiag_bishops,35.0
+WIAG-Pers-EPISCGatz-10564-001,Justus Wilhelm Praschma,1727.0,1795.0,1770.0,Generalvikar,Bistum Breslau,False,wiag_bishops,43.0
+WIAG-Pers-EPISCGatz-10570-001,Anton Peter Przichowsky von Przichowitz,1707.0,1793.0,1752.0,Koadjutor des Fürsterzbischofs,Erzbistum Prag,False,wiag_bishops,45.0
+WIAG-Pers-EPISCGatz-10571-001,Franz Anton Puchheim,1664.0,1718.0,1695.0,Bischof,Bistum Wiener Neustadt,False,wiag_bishops,31.0
+WIAG-Pers-EPISCGatz-10573-001,Johann Peter Quentell,1650.0,1710.0,1670.0,Kanoniker,Erzbistum Köln,False,wiag_bishops,20.0
+WIAG-Pers-EPISCGatz-10575-001,Raymund Ferdinand Rabatta,1669.0,1722.0,1713.0,Fürstbischof,Bistum Passau,False,wiag_bishops,44.0
+WIAG-Pers-EPISCGatz-10577-001,Michał Stefan Radziejowski,1645.0,1705.0,1680.0,Bischof,Bistum Ermland,False,wiag_bishops,35.0
+WIAG-Pers-EPISCGatz-10578-001,Franz Borgia Raigesfeld,1736.0,1800.0,1793.0,Generalvikar,Bistum Laibach,False,wiag_bishops,57.0
+WIAG-Pers-EPISCGatz-10581-001,Beat Albrecht Ramstein,1594.0,1651.0,1620.0,Domherr,Bistum Basel,False,wiag_bishops,26.0
+WIAG-Pers-EPISCGatz-10584-001,Martin Ratabon,1654.0,1728.0,1684.0,Generalvikar,Bistum Straßburg,False,wiag_bishops,30.0
+WIAG-Pers-EPISCGatz-10585-001,Anton Rathsmann,1717.0,1767.0,1766.0,Dechant und Fürsterzbischöflicher Vikar,Erzbistum Prag,False,wiag_bishops,49.0
+WIAG-Pers-EPISCGatz-10586-001,Leo Rauch,1696.0,1775.0,1749.0,Apostolischer Vikar,,False,wiag_bishops,53.0
+WIAG-Pers-EPISCGatz-10590-001,Franz Heinrich Wilhelm Karl Redwitz,1739.0,1804.0,1762.0,Domherr,Bistum Bamberg,False,wiag_bishops,23.0
+WIAG-Pers-EPISCGatz-10591-001,Joseph Kasimir Karl Redwitz,1752.0,,1786.0,Domherr,Erzbistum Mainz,False,wiag_bishops,34.0
+WIAG-Pers-EPISCGatz-10592-001,Franz Alexis Sebastian Heinrich Reich von Reichenstein,1720.0,1755.0,1746.0,Provikar,Bistum Basel,False,wiag_bishops,26.0
+WIAG-Pers-EPISCGatz-10593-001,Johann Baptist Reinach,1669.0,1734.0,1694.0,Domherr,Bistum Basel,False,wiag_bishops,25.0
+WIAG-Pers-EPISCGatz-10594-001,Johann Konrad Reinach-Hirzbach,1657.0,1737.0,1676.0,Domherr,Bistum Basel,False,wiag_bishops,19.0
+WIAG-Pers-EPISCGatz-10595-001,Jakob Sigismund Reinach-Steinbrunn,1683.0,1743.0,1737.0,Fürstbischof,Bistum Basel,False,wiag_bishops,54.0
+WIAG-Pers-EPISCGatz-10596-001,Christophorus Johannes Reinheld von Reichenau,1585.0,1665.0,1660.0,Apostolischer Administrator,Bistum Meißen,False,wiag_bishops,75.0
+WIAG-Pers-EPISCGatz-10599-001,Kajetan Maria Reisach,1735.0,1805.0,1791.0,Koadjutor,Bistum Hofbistum München,False,wiag_bishops,56.0
+WIAG-Pers-EPISCGatz-10600-001,Antonius Erasmus Reitlinger,1645.0,1707.0,1700.0,Generalvikar,Bistum Breslau,False,wiag_bishops,55.0
+WIAG-Pers-EPISCGatz-10601-001,Franz Reittenharth,1717.0,1784.0,1756.0,Fürsterzbischöflicher Kommissar,Bistum Olmütz,False,wiag_bishops,39.0
+WIAG-Pers-EPISCGatz-10602-001,Peter Johann Requensens,1598.0,1657.0,1655.0,Generalvikar,Bistum Olmütz,False,wiag_bishops,57.0
+WIAG-Pers-EPISCGatz-10603-001,Johann Arnold Reux,1665.0,1746.0,1684.0,Kanoniker,Erzbistum Köln,False,wiag_bishops,19.0
+WIAG-Pers-EPISCGatz-10604-001,Josse-Pierre Reynold,1646.0,1706.0,1684.0,Apostolischer Administrator,Bistum Lausanne,False,wiag_bishops,38.0
+WIAG-Pers-EPISCGatz-10606-001,Johann Franz Riccius,1666.0,1756.0,1739.0,Weihbischof,Bistum Straßburg,False,wiag_bishops,73.0
+WIAG-Pers-EPISCGatz-10607-001,Ignaz Ferdinand Richter,1628.0,1667.0,1661.0,Generalvikar,Bistum Breslau,False,wiag_bishops,33.0
+WIAG-Pers-EPISCGatz-10608-001,Florian Rieden,1610.0,1686.0,1653.0,Generalvikar,Bistum Basel,False,wiag_bishops,43.0
+WIAG-Pers-EPISCGatz-10609-001,Adrian Riedmatten,1613.0,1672.0,1650.0,Fürstbischof,Bistum Sitten,False,wiag_bishops,37.0
+WIAG-Pers-EPISCGatz-10610-001,Adrian Riedmatten,1641.0,1701.0,1673.0,Fürstbischof,Bistum Sitten,False,wiag_bishops,32.0
+WIAG-Pers-EPISCGatz-10612-001,Joseph Wilhelm Rinck von Baldenstein,1704.0,1762.0,1744.0,Bischof,Bistum Basel,False,wiag_bishops,40.0
+WIAG-Pers-EPISCGatz-10613-001,Wilhelm Jakob Rinck von Baldenstein,1624.0,1705.0,1690.0,Koadjutor des Fürstbischofs,Bistum Basel,False,wiag_bishops,66.0
+WIAG-Pers-EPISCGatz-10614-001,Damian Ritter von Grünstein,1715.0,1786.0,1761.0,Generalvikar,Bistum Fulda,False,wiag_bishops,46.0
+WIAG-Pers-EPISCGatz-10615-001,Georg Anton Rodenstein,1579.0,1652.0,1609.0,Domizellar,Bistum Worms,False,wiag_bishops,30.0
+WIAG-Pers-EPISCGatz-10619-001,Johann Kasimir Röls,1646.0,1715.0,1698.0,Generalvikar,Bistum Augsburg,False,wiag_bishops,52.0
+WIAG-Pers-EPISCGatz-10620-001,Franz Joseph Sigismund Johann Baptist Roggenbach,1726.0,1794.0,1782.0,Bischof,Bistum Basel,False,wiag_bishops,56.0
+WIAG-Pers-EPISCGatz-10621-001,Johann Konrad Roggenbach,1618.0,1693.0,1656.0,Bischof,Bistum Basel,False,wiag_bishops,38.0
+WIAG-Pers-EPISCGatz-10622-001,Iwo Onufry Rogowski,1737.0,1806.0,1769.0,Generalvikar,Bistum Kulm,False,wiag_bishops,32.0
+WIAG-Pers-EPISCGatz-10623-001,Louis César Constantin Rohan Prince de Guéméné,1697.0,1779.0,1757.0,Fürstbischof,Bistum Straßburg,False,wiag_bishops,60.0
+WIAG-Pers-EPISCGatz-10624-001,Louis René Edouard Rohan Prince de Guéméné,1734.0,1803.0,1760.0,Koadjutor des Fürstbischofs,Bistum Straßburg,False,wiag_bishops,26.0
+WIAG-Pers-EPISCGatz-10625-001,Armand Gaston Maximilien Rohan Prince de Soubise,1674.0,1749.0,1701.0,Koadjutor des Fürstbischofs,Bistum Straßburg,False,wiag_bishops,27.0
+WIAG-Pers-EPISCGatz-10626-001,François Armand Auguste Rohan Prince de Soubise,1717.0,1756.0,1742.0,Koadjutor des Fürstbischofs,Bistum Straßburg,False,wiag_bishops,25.0
+WIAG-Pers-EPISCGatz-10629-001,Michel Romanin,1635.0,,1669.0,Interimistischer Generalvikar,Bistum Lausanne,False,wiag_bishops,34.0
+WIAG-Pers-EPISCGatz-10631-001,Karl Godefried Ritter Rosenthal,1738.0,1800.0,1779.0,Weihbischof,Bistum Olmütz,False,wiag_bishops,41.0
+WIAG-Pers-EPISCGatz-10632-001,Johann Markus Rosetti,1626.0,1691.0,1683.0,Generalvikar,Bistum Laibach,False,wiag_bishops,57.0
+WIAG-Pers-EPISCGatz-10633-001,Angelo Antonio Rosmini,1708.0,1777.0,1760.0,Generalvikar,Bistum Trient,False,wiag_bishops,52.0
+WIAG-Pers-EPISCGatz-10634-001,Louis François Rossius de Liboy,1662.0,1728.0,1696.0,Weihbischof,Bistum Lüttich,False,wiag_bishops,34.0
+WIAG-Pers-EPISCGatz-10635-001,Dionys Rost,1716.0,1793.0,1777.0,Fürstbischof,Bistum Chur,False,wiag_bishops,61.0
+WIAG-Pers-EPISCGatz-10636-001,Joseph Benedikt Rost,1696.0,1754.0,1725.0,Generalvikar,Bistum Chur,False,wiag_bishops,29.0
+WIAG-Pers-EPISCGatz-10637-001,Sebastian Ignaz Rostock,1607.0,1671.0,1653.0,Generalvikar,Bistum Breslau,False,wiag_bishops,46.0
+WIAG-Pers-EPISCGatz-10638-001,Johann Hildebrand Roten,1722.0,1760.0,1752.0,Fürstbischof,Bistum Sitten,False,wiag_bishops,30.0
+WIAG-Pers-EPISCGatz-10640-001,Marie Philippe Alexandre Charles Hyacinte Rougrave,1718.0,1804.0,1768.0,Generalvikar,Bistum Lüttich,False,wiag_bishops,50.0
+WIAG-Pers-EPISCGatz-10641-001,Philippe Alexandre Theodore Eugène Rougrave de Salm,1680.0,1747.0,1724.0,Generalvikar,Bistum Lüttich,False,wiag_bishops,44.0
+WIAG-Pers-EPISCGatz-10643-001,Franz Ferdinand Rummel,1644.0,1716.0,1706.0,Fürstbischof,Bistum Wien,False,wiag_bishops,62.0
+WIAG-Pers-EPISCGatz-10644-001,Maximilian Anton Rupprecht,1706.0,1774.0,1742.0,Generalvikar,Bistum Wiener Neustadt,False,wiag_bishops,36.0
+WIAG-Pers-EPISCGatz-10645-001,Constantin Ernest Růžička,1761.0,1845.0,1797.0,Generalvikar,Bistum Budweis,False,wiag_bishops,36.0
+WIAG-Pers-EPISCGatz-10648-001,Georg Friedrich Salburg,1640.0,1692.0,1684.0,Offizial,Bistum Passau,False,wiag_bishops,44.0
+WIAG-Pers-EPISCGatz-10649-001,Franz Rudolph Salis-Zizers,1654.0,1739.0,1680.0,Generalvikar,Bistum Chur,False,wiag_bishops,26.0
+WIAG-Pers-EPISCGatz-10652-001,Richard Sapp,1640.0,1698.0,1670.0,Generalvikar,Bistum Chiemsee,False,wiag_bishops,30.0
+WIAG-Pers-EPISCGatz-10653-001,Ferdinand Joseph Gabriel Sarnthein,1697.0,1772.0,1724.0,Konsistorialpräsident,Bistum Brixen,False,wiag_bishops,27.0
+WIAG-Pers-EPISCGatz-10654-001,Maria Romedius Sarnthein,1730.0,1774.0,1767.0,Weihbischof,Bistum Brixen,False,wiag_bishops,37.0
+WIAG-Pers-EPISCGatz-10655-001,Johann Sartorius,1673.0,1738.0,1723.0,Kanoniker,Bistum Bamberg,False,wiag_bishops,50.0
+WIAG-Pers-EPISCGatz-10656-001,Johann Anton Sattelberger,1597.0,1657.0,1653.0,Generalvikar,Bistum Gurk,False,wiag_bishops,56.0
+WIAG-Pers-EPISCGatz-10657-001,Martin Saudrius von Sternfeld,1600.0,1660.0,1650.0,Apostolischer Administrator,Bistum Meißen,False,wiag_bishops,50.0
+WIAG-Pers-EPISCGatz-10659-001,Ceslaus Gotthard Schaffgotsch,1726.0,1781.0,1756.0,Generalvikar,Bistum Breslau,False,wiag_bishops,30.0
+WIAG-Pers-EPISCGatz-10660-001,Johann Prokop Schaffgotsch,1748.0,1813.0,1779.0,Generalvikar,Bistum Königgrätz,False,wiag_bishops,31.0
+WIAG-Pers-EPISCGatz-10661-001,Philipp Gotthard Schaffgotsch,1716.0,1795.0,1744.0,Koadjutor des Fürstbischofs,Bistum Breslau,False,wiag_bishops,28.0
+WIAG-Pers-EPISCGatz-10662-001,Pierre-Joseph-Gautier Schaller,1730.0,1819.0,1788.0,Generalvikar,Bistum Lausanne,False,wiag_bishops,58.0
+WIAG-Pers-EPISCGatz-10663-001,Franz Anton Xaver Scheben,1711.0,1779.0,1765.0,Weihbischof,Bistum Worms,False,wiag_bishops,54.0
+WIAG-Pers-EPISCGatz-10664-001,Franz Ludwig Schenk von Castell,1671.0,1736.0,1694.0,Domherr,Bistum Eichstätt,False,wiag_bishops,23.0
+WIAG-Pers-EPISCGatz-10667-001,Johann Franz Schenk von Stauffenberg,1658.0,1740.0,1677.0,Domherr,Bistum Würzburg,False,wiag_bishops,19.0
+WIAG-Pers-EPISCGatz-10670-001,Johann Karl Leopold Scherffenberg,1698.0,1771.0,1749.0,Weihbischof,Bistum Olmütz,False,wiag_bishops,51.0
+WIAG-Pers-EPISCGatz-10672-001,Johann Jakob Schilling,1664.0,1754.0,1714.0,Generalvikar,Bistum Laibach,False,wiag_bishops,50.0
+WIAG-Pers-EPISCGatz-10674-001,Maximilian Rudolf Schleinitz,1606.0,1675.0,1655.0,Bischof,Bistum Leitmeritz,False,wiag_bishops,49.0
+WIAG-Pers-EPISCGatz-10676-001,Franz Joachim Schmid von Altenstadt,1690.0,1753.0,1730.0,Generalvikar,Bistum Regensburg,False,wiag_bishops,40.0
+WIAG-Pers-EPISCGatz-10677-001,Simon Judas Thaddäus Schmidt,1653.0,1691.0,1685.0,Dekan,Bistum Freising,False,wiag_bishops,32.0
+WIAG-Pers-EPISCGatz-10679-001,Johannes Schmitzberger,1630.0,1683.0,1673.0,Weihbischof,Bistum Wien,False,wiag_bishops,43.0
+WIAG-Pers-EPISCGatz-10680-001,Johann Werner Schnatz,1660.0,1723.0,1705.0,Weihbischof,Bistum Bamberg,False,wiag_bishops,45.0
+WIAG-Pers-EPISCGatz-10681-001,Valentin Anton Schneid,1734.0,1802.0,1779.0,Weihbischof,Bistum Regensburg,False,wiag_bishops,45.0
+WIAG-Pers-EPISCGatz-10682-001,Caspar Adolph Schnernauer,1668.0,1733.0,1728.0,Weihbischof,Erzbistum Mainz,False,wiag_bishops,60.0
+WIAG-Pers-EPISCGatz-10683-001,Johann Kaspar Schnorf,1625.0,1704.0,1661.0,Weihbischof,Bistum Basel,False,wiag_bishops,36.0
+WIAG-Pers-EPISCGatz-10684-001,Sebastian Heinrich Schnorf,1654.0,1703.0,1689.0,Generalvikar,Bistum Basel,False,wiag_bishops,35.0
+WIAG-Pers-EPISCGatz-10685-001,Ferdinand Georg Schnur,1732.0,1803.0,1799.0,Generalvikar,Bistum Paderborn,False,wiag_bishops,67.0
+WIAG-Pers-EPISCGatz-10686-001,Johann Franz Schönau,1619.0,1656.0,1639.0,Domherr,Bistum Basel,False,wiag_bishops,20.0
+WIAG-Pers-EPISCGatz-10687-001,Damian Hugo Philipp Schönborn,1676.0,1743.0,1715.0,Kardinal,Bistum Speyer,False,wiag_bishops,39.0
+WIAG-Pers-EPISCGatz-10695-001,Leopold Heinrich Wilhelm Schorror,1701.0,1753.0,1728.0,Titularbischof,Helenopolis,False,wiag_bishops,27.0
+WIAG-Pers-EPISCGatz-10697-001,Siegmund Christoph Schrattenbach,1698.0,1771.0,1716.0,Domherr,Erzbistum Salzburg,False,wiag_bishops,18.0
+WIAG-Pers-EPISCGatz-10700-001,Wolfgang Hannibal Schrattenbach,1660.0,1738.0,1682.0,Domherr,Erzbistum Salzburg,False,wiag_bishops,22.0
+WIAG-Pers-EPISCGatz-10702-001,Ferdinand Schröffel von Schröffenheim,1639.0,1702.0,1696.0,Weihbischof,Bistum Olmütz,False,wiag_bishops,57.0
+WIAG-Pers-EPISCGatz-10704-001,Johann Ernst Schuberth,1654.0,1706.0,1684.0,Generalvikar,Bistum Bamberg,False,wiag_bishops,30.0
+WIAG-Pers-EPISCGatz-10705-001,Johann Joseph Schüller,1738.0,1794.0,1780.0,Apostolischer Administrator,Bistum Meißen,False,wiag_bishops,42.0
+WIAG-Pers-EPISCGatz-10706-001,Konstantin Schütz von Holzhausen,1709.0,1775.0,1757.0,Weihbischof,Bistum Fulda,False,wiag_bishops,48.0
+WIAG-Pers-EPISCGatz-10708-001,Jacques Schuler,1588.0,1658.0,1634.0,Generalvikar,Bistum Lausanne,False,wiag_bishops,46.0
+WIAG-Pers-EPISCGatz-10709-001,Nikolaus Anton Schulz,1695.0,1761.0,1742.0,Generalvikar,Bistum Ermland,False,wiag_bishops,47.0
+WIAG-Pers-EPISCGatz-10710-001,Johann Conrad Schwang,1676.0,1737.0,1719.0,Generalvikar,Erzbistum Trier,False,wiag_bishops,43.0
+WIAG-Pers-EPISCGatz-10711-001,Engelbert Schwarz,1746.0,1813.0,1784.0,Direktor des Konsistoriums,Bistum Gurk,False,wiag_bishops,38.0
+WIAG-Pers-EPISCGatz-10712-001,Johann Mathäus Schweiberer,1700.0,1781.0,1779.0,Weihbischof,Erzbistum Prag,False,wiag_bishops,79.0
+WIAG-Pers-EPISCGatz-10713-001,Johann Heinrich Schwertz,1658.0,1702.0,1693.0,Generalvikar,Bistum Breslau,False,wiag_bishops,35.0
+WIAG-Pers-EPISCGatz-10714-001,Joseph Paul Sedeler,1735.0,1776.0,1775.0,Weihbischof,Erzbistum Prag,False,wiag_bishops,40.0
+WIAG-Pers-EPISCGatz-10715-001,Johann Andreas Seelmann,1732.0,1789.0,1762.0,Kanoniker,Bistum Speyer,False,wiag_bishops,30.0
+WIAG-Pers-EPISCGatz-10717-001,Vitus Seipel,1650.0,1711.0,1701.0,Weihbischof,Erzbistum Prag,False,wiag_bishops,51.0
+WIAG-Pers-EPISCGatz-10718-001,Anton Nikolaus Seitz,1700.0,1757.0,1743.0,Domherr,Bistum Augsburg,False,wiag_bishops,43.0
+WIAG-Pers-EPISCGatz-10719-001,Johann Jakob Senfft,1645.0,1721.0,1695.0,Weihbischof,Erzbistum Mainz,False,wiag_bishops,50.0
+WIAG-Pers-EPISCGatz-10720-001,Otto Senheim,1601.0,1662.0,1633.0,Titularbischof,Azot,False,wiag_bishops,32.0
+WIAG-Pers-EPISCGatz-10721-001,Josef Sepibus,1616.0,1669.0,1659.0,Generalvikar,Bistum Sitten,False,wiag_bishops,43.0
+WIAG-Pers-EPISCGatz-10724-001,Emerich Sinelli,1622.0,1685.0,1681.0,Fürstbischof,Bistum Wien,False,wiag_bishops,59.0
+WIAG-Pers-EPISCGatz-10725-001,Georg Sigismund Sinnersberg,1649.0,1721.0,1693.0,Weihbischof,Bistum Trient,False,wiag_bishops,44.0
+WIAG-Pers-EPISCGatz-10727-001,Johann Franz Anton Sirgenstein,1683.0,1739.0,1721.0,Generalvikar,Bistum Konstanz,False,wiag_bishops,38.0
+WIAG-Pers-EPISCGatz-10728-001,Cristoforo Sizzo de Noris,1706.0,1776.0,1763.0,Fürstbischof,Bistum Trient,False,wiag_bishops,57.0
+WIAG-Pers-EPISCGatz-10730-001,Matthäus Ferdinand Sobek von Bilenberg,1618.0,1675.0,1664.0,Bischof,Bistum Königgrätz,False,wiag_bishops,46.0
+WIAG-Pers-EPISCGatz-10731-001,Johann Melchior Söllner,1601.0,1666.0,1636.0,Generalvikar,Bistum Würzburg,False,wiag_bishops,35.0
+WIAG-Pers-EPISCGatz-10734-001,Maciej Aleksander Sołtyk,1679.0,1749.0,1729.0,Weihbischof,Bistum Kulm,False,wiag_bishops,50.0
+WIAG-Pers-EPISCGatz-10735-001,Elias Daniel Sommerfeld,1681.0,1742.0,1714.0,Weihbischof,Bistum Breslau,False,wiag_bishops,33.0
+WIAG-Pers-EPISCGatz-10736-001,Claudius Sorina,1580.0,1657.0,1652.0,Generalvikar,Bistum Olmütz,False,wiag_bishops,72.0
+WIAG-Pers-EPISCGatz-10738-001,Ignaz Franz Stanislaus Spaur,1729.0,1779.0,1755.0,Domherr,Bistum Brixen,False,wiag_bishops,26.0
+WIAG-Pers-EPISCGatz-10739-001,Johann Michael Wenzel Spaur,1677.0,1743.0,1709.0,Generalvikar,Bistum Trient,False,wiag_bishops,32.0
+WIAG-Pers-EPISCGatz-10740-001,Joseph Philipp Franz Spaur,1718.0,1791.0,1736.0,Domherr,Erzbistum Salzburg,False,wiag_bishops,18.0
+WIAG-Pers-EPISCGatz-10741-001,Leopold Maria Joseph Spaur,1696.0,1778.0,1748.0,Fürstbischof,Bistum Brixen,False,wiag_bishops,52.0
+WIAG-Pers-EPISCGatz-10742-001,Franz Vigil Spaur und Valör,1609.0,1670.0,1632.0,Domherr,Bistum Chiemsee,False,wiag_bishops,23.0
+WIAG-Pers-EPISCGatz-10743-001,Johann Michael Spaur und Valör,1638.0,1725.0,1696.0,Fürstbischof,Bistum Trient,False,wiag_bishops,58.0
+WIAG-Pers-EPISCGatz-10744-001,Joseph Ferdinand Guidobald Spaur und Valör,1705.0,1793.0,1780.0,Titularbischof,Abila,False,wiag_bishops,75.0
+WIAG-Pers-EPISCGatz-10746-001,Karl Philipp Johann Spieß,1700.0,1774.0,1734.0,Domherr,Bistum Osnabrück,False,wiag_bishops,34.0
+WIAG-Pers-EPISCGatz-10747-001,Johann Rudolf Sporck,1696.0,1759.0,1733.0,Weihbischof,Erzbistum Prag,False,wiag_bishops,37.0
+WIAG-Pers-EPISCGatz-10748-001,Christoph Rudolph Stadion,1638.0,1700.0,1657.0,Domizellar,Erzbistum Mainz,False,wiag_bishops,19.0
+WIAG-Pers-EPISCGatz-10752-001,Johannes Maximus Stainer von Pleinfelden,1610.0,1692.0,1682.0,Weihbischof,Bistum Passau,False,wiag_bishops,72.0
+WIAG-Pers-EPISCGatz-10754-001,Matthias Starck,1628.0,1708.0,1670.0,Dekan,Erzbistum Mainz,False,wiag_bishops,42.0
+WIAG-Pers-EPISCGatz-10755-001,Ferdinand Ottokar Starhemberg,1696.0,1729.0,1717.0,Domherr,Bistum Passau,False,wiag_bishops,21.0
+WIAG-Pers-EPISCGatz-10756-001,Leopold Ansgar Starhemberg,1695.0,1752.0,1717.0,Domherr,Bistum Passau,False,wiag_bishops,22.0
+WIAG-Pers-EPISCGatz-10757-001,Johann Reichard Wenzeslaus Starzhausen auf Ottmaring,1682.0,1765.0,1755.0,Generalvikar,Bistum Passau,False,wiag_bishops,73.0
+WIAG-Pers-EPISCGatz-10758-001,Agostino Steffani,1654.0,1728.0,1706.0,Titularbischof,Spiga,False,wiag_bishops,52.0
+WIAG-Pers-EPISCGatz-10759-001,Anton Martin Stegner,1710.0,1778.0,1778.0,Weihbischof,Bistum Wien,False,wiag_bishops,68.0
+WIAG-Pers-EPISCGatz-10760-001,Niels Stensen,1638.0,1686.0,1677.0,Titularbischof,Titiopolis,False,wiag_bishops,39.0
+WIAG-Pers-EPISCGatz-10761-001,Mathias Johannes Stephetius,1616.0,1668.0,1664.0,Generalvikar,Bistum Breslau,False,wiag_bishops,48.0
+WIAG-Pers-EPISCGatz-10762-001,Jaroslaw Ignaz Sternberg,1641.0,1709.0,1676.0,Bischof,Bistum Leitmeritz,False,wiag_bishops,35.0
+WIAG-Pers-EPISCGatz-10763-001,Johann Sternenberg,1589.0,1662.0,1615.0,Dekan,Erzbistum Köln,False,wiag_bishops,26.0
+WIAG-Pers-EPISCGatz-10765-001,Johann Georg Stinglheim,1702.0,1759.0,1741.0,Domdekan,Bistum Regensburg,False,wiag_bishops,39.0
+WIAG-Pers-EPISCGatz-10766-001,Simon Ambros Stock,1710.0,1772.0,1770.0,Titularbischof,Bistum Rosone,False,wiag_bishops,60.0
+WIAG-Pers-EPISCGatz-10767-001,Antoine Casimir Libère Stockem,1767.0,1811.0,1788.0,Domherr,Bistum Lüttich,False,wiag_bishops,21.0
+WIAG-Pers-EPISCGatz-10768-001,François Lambert Stockem,1714.0,1789.0,1764.0,Generalvikar,Bistum Lüttich,False,wiag_bishops,50.0
+WIAG-Pers-EPISCGatz-10770-001,Edmond Sébastien Joseph Stoupy,1713.0,1785.0,1747.0,Generalvikar,Bistum Lüttich,False,wiag_bishops,34.0
+WIAG-Pers-EPISCGatz-10771-001,Johann Moritz Strachwitz,1721.0,1781.0,1761.0,Weihbischof,Bistum Breslau,False,wiag_bishops,40.0
+WIAG-Pers-EPISCGatz-10772-001,Jean-Baptiste Strambino,1621.0,1684.0,1662.0,Bischof,Bistum Lausanne,False,wiag_bishops,41.0
+WIAG-Pers-EPISCGatz-10774-001,August Franz Strauß,1737.0,1782.0,1778.0,Weihbischof,Erzbistum Mainz,False,wiag_bishops,41.0
+WIAG-Pers-EPISCGatz-10775-001,Wolther Heinrich Strevesdorff,1588.0,1674.0,1634.0,Weihbischof,Erzbistum Mainz,False,wiag_bishops,46.0
+WIAG-Pers-EPISCGatz-10776-001,Felix Stubenberg,1748.0,1828.0,1773.0,Domherr,Bistum Eichstätt,False,wiag_bishops,25.0
+WIAG-Pers-EPISCGatz-10778-001,Georg Summermatter,1591.0,1672.0,1633.0,Generalvikar,Bistum Sitten,False,wiag_bishops,42.0
+WIAG-Pers-EPISCGatz-10779-001,Franz Joseph Supersaxo,1665.0,1734.0,1698.0,Generalvikar,Bistum Sitten,False,wiag_bishops,33.0
+WIAG-Pers-EPISCGatz-10780-001,Franz Georg Sury,1681.0,1765.0,1746.0,Generalvikar,Bistum Lausanne,False,wiag_bishops,65.0
+WIAG-Pers-EPISCGatz-10781-001,Hieronymus Leonz Sury von Bussy,1708.0,1776.0,1768.0,Generalvikar,Bistum Lausanne,False,wiag_bishops,60.0
+WIAG-Pers-EPISCGatz-10782-001,Peter Josef Felix Sury,1719.0,1786.0,1776.0,Generalvikar,Bistum Lausanne,False,wiag_bishops,57.0
+WIAG-Pers-EPISCGatz-10785-001,Seweryn Szczuka,1651.0,1727.0,1703.0,Weihbischof,Bistum Kulm,False,wiag_bishops,52.0
+WIAG-Pers-EPISCGatz-10786-001,Krzysztof Andrzej Jan Szembek,1680.0,1740.0,1713.0,Bischof,Bistum Chełm,False,wiag_bishops,33.0
+WIAG-Pers-EPISCGatz-10787-001,Krzysztof Hilary Szembek,1722.0,1797.0,1767.0,Koadjutor des Bischofs,Bistum Kulm,False,wiag_bishops,45.0
+WIAG-Pers-EPISCGatz-10788-001,Johann Franz Christoph Talmberg,1644.0,1698.0,1676.0,Bischof,Bistum Königgrätz,False,wiag_bishops,32.0
+WIAG-Pers-EPISCGatz-10789-001,Karl Josef Tauber von Taubenfurth,1741.0,1814.0,1779.0,Generalvikar,Bistum Brünn,False,wiag_bishops,38.0
+WIAG-Pers-EPISCGatz-10791-001,Jean-Louis Techtermann,1728.0,1788.0,1759.0,Generalvikar,Bistum Lausanne,False,wiag_bishops,31.0
+WIAG-Pers-EPISCGatz-10792-001,Philip Terpin,1603.0,1683.0,1655.0,Generalvikar,Bistum Laibach,False,wiag_bishops,52.0
+WIAG-Pers-EPISCGatz-10793-001,Oktavius Terzen,1619.0,1687.0,1671.0,Offizial,Bistum Passau,False,wiag_bishops,52.0
+WIAG-Pers-EPISCGatz-10794-001,Johann Anton Thalnitscher,1662.0,1714.0,1689.0,Generalvikar,Bistum Laibach,False,wiag_bishops,27.0
+WIAG-Pers-EPISCGatz-10795-001,Johannes Thuanus,1599.0,1666.0,1639.0,Bischof,Bistum Wiener Neustadt,False,wiag_bishops,40.0
+WIAG-Pers-EPISCGatz-10796-001,Franz Joseph Thürheim,1694.0,1757.0,1753.0,Generalvikar,Bistum Passau,False,wiag_bishops,59.0
+WIAG-Pers-EPISCGatz-10797-001,Dominikus Anton Thun,1686.0,1758.0,1730.0,Fürstbischof,Bistum Trient,False,wiag_bishops,44.0
+WIAG-Pers-EPISCGatz-10800-001,Johann Baptist Leopold Thun,1703.0,1760.0,1756.0,Generalvikar,Bistum Trient,False,wiag_bishops,53.0
+WIAG-Pers-EPISCGatz-10801-001,Johann Ernst Thun,1643.0,1709.0,1662.0,Domherr,Erzbistum Salzburg,False,wiag_bishops,19.0
+WIAG-Pers-EPISCGatz-10803-001,Rudolf Joseph Thun,1652.0,1702.0,1671.0,Domherr,Bistum Seckau,False,wiag_bishops,19.0
+WIAG-Pers-EPISCGatz-10804-001,Sigmund Alphons Thun,1621.0,1677.0,1663.0,Fürstbischof,Bistum Brixen,False,wiag_bishops,42.0
+WIAG-Pers-EPISCGatz-10809-001,Thomas Johann Kaspar Thun und Hohenstein,1737.0,1796.0,1776.0,Weihbischof,Bistum Passau,False,wiag_bishops,39.0
+WIAG-Pers-EPISCGatz-10810-001,Johann Baptist Thurn und Taxis,1706.0,1762.0,1729.0,Domherr,Erzbistum Salzburg,False,wiag_bishops,23.0
+WIAG-Pers-EPISCGatz-10811-001,Franz Anton Hannibal Thurn und Valsassina,1699.0,1768.0,1751.0,Offizial,Bistum Passau,False,wiag_bishops,52.0
+WIAG-Pers-EPISCGatz-10812-001,Germanicus Thurn und Valsassina,1626.0,1679.0,1674.0,Generalvikar,Bistum Passau,False,wiag_bishops,48.0
+WIAG-Pers-EPISCGatz-10813-001,Friedrich Tietzen,1626.0,1696.0,1677.0,Weihbischof,Bistum Hildesheim,False,wiag_bishops,51.0
+WIAG-Pers-EPISCGatz-10819-001,Maria Thaddäus Trautmannsdorff,1761.0,1819.0,1795.0,Bischof,Bistum Königgrätz,False,wiag_bishops,34.0
+WIAG-Pers-EPISCGatz-10822-001,Ferdinand Julius Troyer,1698.0,1758.0,1746.0,Fürstbischof,Bistum Olmütz,False,wiag_bishops,48.0
+WIAG-Pers-EPISCGatz-10823-001,Guillaume Tual,1656.0,1716.0,1705.0,Generalvikar,Bistum Straßburg,False,wiag_bishops,49.0
+WIAG-Pers-EPISCGatz-10826-001,Franz Xaver Twrdy,1715.0,1779.0,1775.0,Generalvikar,Erzbistum Prag,False,wiag_bishops,60.0
+WIAG-Pers-EPISCGatz-10827-001,Eusebius Uhlich,1750.0,1810.0,1790.0,Konsistorialkanzler,St. Pölten,False,wiag_bishops,40.0
+WIAG-Pers-EPISCGatz-10828-001,Tomasz Ujejski,1612.0,1689.0,1656.0,Bischof,Bistum Kiew,False,wiag_bishops,44.0
+WIAG-Pers-EPISCGatz-10829-001,Johann Nepomuk August Ungelter von Deisenhausen,1731.0,1804.0,1760.0,Domdekan,Bistum Augsburg,False,wiag_bishops,29.0
+WIAG-Pers-EPISCGatz-10830-001,Franz Maximilian Vaccano,1609.0,1672.0,1641.0,Generalvikar,Bistum Laibach,False,wiag_bishops,32.0
+WIAG-Pers-EPISCGatz-10834-001,Franz Bernardin Verbeck,1686.0,1756.0,1713.0,Guardian,Erzbistum Köln,False,wiag_bishops,27.0
+WIAG-Pers-EPISCGatz-10835-001,Johannes Petrus Verhorst,1657.0,1708.0,1687.0,Weihbischof,Erzbistum Trier,False,wiag_bishops,30.0
+WIAG-Pers-EPISCGatz-10836-001,Johannes Werner Veyder,1657.0,,1694.0,Domherr,Erzbistum Köln,False,wiag_bishops,37.0
+WIAG-Pers-EPISCGatz-10837-001,Ulrich Vincenz,1681.0,1743.0,1709.0,Generalvikar,Bistum Chur,False,wiag_bishops,28.0
+WIAG-Pers-EPISCGatz-10838-001,Wilhelm Vintler von Runkelstein,1631.0,1697.0,1664.0,Konsistorialpräsident,Bistum Brixen,False,wiag_bishops,33.0
+WIAG-Pers-EPISCGatz-10839-001,Matthäus Joseph Ignaz Vitzki,1660.0,1713.0,1700.0,Apostolischer Administrator,Bistum Meißen,False,wiag_bishops,40.0
+WIAG-Pers-EPISCGatz-10840-001,Jean Vivant,1660.0,1739.0,1729.0,Generalvikar,Bistum Straßburg,False,wiag_bishops,69.0
+WIAG-Pers-EPISCGatz-10842-001,Johann Gotthart Vöhlin von Frickenhausen,1684.0,1732.0,1721.0,Generalvikar,Bistum Augsburg,False,wiag_bishops,37.0
+WIAG-Pers-EPISCGatz-10843-001,Johann Ferdinand Ignaz Vogelius,1707.0,1759.0,1755.0,Generalvikar,Bistum Paderborn,False,wiag_bishops,48.0
+WIAG-Pers-EPISCGatz-10844-001,Karl Heinrich Vogelius,1719.0,1795.0,1764.0,Metropolitanvikar,Bistum Osnabrück,False,wiag_bishops,45.0
+WIAG-Pers-EPISCGatz-10849-001,Carlo Emanuele Voltolini,1628.0,1716.0,1688.0,Generalvikar,Bistum Trient,False,wiag_bishops,60.0
+WIAG-Pers-EPISCGatz-10850-001,Adolph Gottfried Volusius,1617.0,1679.0,1676.0,Weihbischof,Erzbistum Mainz,False,wiag_bishops,59.0
+WIAG-Pers-EPISCGatz-10851-001,Carlo Maurizio Vota,1629.0,1715.0,1708.0,Apostolischer Präfekt,,False,wiag_bishops,79.0
+WIAG-Pers-EPISCGatz-10852-001,Franz Peter Wämpl,1652.0,1729.0,1682.0,Domherr,Bistum Regensburg,False,wiag_bishops,30.0
+WIAG-Pers-EPISCGatz-10855-001,Franz Emmerich Kaspar Waldbott von Bassenheim,1626.0,1683.0,1651.0,Domherr,Bistum Worms,False,wiag_bishops,25.0
+WIAG-Pers-EPISCGatz-10856-001,Franz Karl Eusebius Waldburg-Friedberg und Trauchburg,1701.0,1772.0,1719.0,Domherr,Bistum Chiemsee,False,wiag_bishops,18.0
+WIAG-Pers-EPISCGatz-10857-001,Ferdinand Christoph Waldburg-Zeil,1719.0,1786.0,1745.0,Domherr,Bistum Chiemsee,False,wiag_bishops,26.0
+WIAG-Pers-EPISCGatz-10859-001,Adalbert Walderdorff,1697.0,1759.0,1729.0,Generalvikar,Bistum Fulda,False,wiag_bishops,32.0
+WIAG-Pers-EPISCGatz-10863-001,Emmanuel Ernst Waldstein,1716.0,1789.0,1756.0,Weihbischof,Erzbistum Prag,False,wiag_bishops,40.0
+WIAG-Pers-EPISCGatz-10864-001,Johann Friedrich Waldstein,1642.0,1694.0,1673.0,Bischof,Bistum Königgrätz,False,wiag_bishops,31.0
+WIAG-Pers-EPISCGatz-10866-001,Adrian Walenburch,1609.0,1669.0,1647.0,Domherr,Erzbistum Köln,False,wiag_bishops,38.0
+WIAG-Pers-EPISCGatz-10867-001,Peter Walenburch seit 1667 von Walenburch,1610.0,1675.0,1658.0,Weihbischof,Erzbistum Mainz,False,wiag_bishops,48.0
+WIAG-Pers-EPISCGatz-10869-001,Johann Anton Wallreuther,1673.0,1734.0,1731.0,Weihbischof,Bistum Worms,False,wiag_bishops,58.0
+WIAG-Pers-EPISCGatz-10871-001,Friedrich Ludwig Franz Wangen zu Geroldseck,1727.0,1782.0,1775.0,Fürstbischof,Bistum Basel,False,wiag_bishops,48.0
+WIAG-Pers-EPISCGatz-10873-001,Heinrich Warnsdorf,1745.0,1817.0,1786.0,Generalvikar,Bistum Fulda,False,wiag_bishops,41.0
+WIAG-Pers-EPISCGatz-10878-001,Jobst Edmund Weichs,1700.0,1755.0,1723.0,Domherr,Bistum Hildesheim,False,wiag_bishops,23.0
+WIAG-Pers-EPISCGatz-10879-001,Maximilian Heinrich Weichs-Roesberg,1651.0,1723.0,1670.0,Domherr,Bistum Hildesheim,False,wiag_bishops,19.0
+WIAG-Pers-EPISCGatz-10880-001,Stephan Weinberger,1624.0,1703.0,1667.0,Generalvikar,Bistum Würzburg,False,wiag_bishops,43.0
+WIAG-Pers-EPISCGatz-10881-001,Franz Weinhart,1618.0,1686.0,1661.0,Generalvikar,Bistum Regensburg,False,wiag_bishops,43.0
+WIAG-Pers-EPISCGatz-10882-001,Franz Xaver Weinzierle,1636.0,1681.0,1676.0,Generalvikar,Bistum Breslau,False,wiag_bishops,40.0
+WIAG-Pers-EPISCGatz-10887-001,Levin Stephan Wenge,1702.0,1776.0,1723.0,Domherr,Bistum Hildesheim,False,wiag_bishops,21.0
+WIAG-Pers-EPISCGatz-10889-001,Franz Ignaz Albert Wertenstein,1697.0,1766.0,1719.0,Domherr,Bistum Freising,False,wiag_bishops,22.0
+WIAG-Pers-EPISCGatz-10890-001,Alexis Werra,1667.0,1744.0,1722.0,Generalvikar,Bistum Sitten,False,wiag_bishops,55.0
+WIAG-Pers-EPISCGatz-10892-001,Johann Eustach Egolf Westernach,1649.0,1707.0,1681.0,Weihbischof,Bistum Augsburg,False,wiag_bishops,32.0
+WIAG-Pers-EPISCGatz-10896-001,Matthias Will,1613.0,1698.0,1670.0,Generalvikar,Bistum Sitten,False,wiag_bishops,57.0
+WIAG-Pers-EPISCGatz-10897-001,Karl Winter,1733.0,1810.0,1767.0,Dechant (Prag),Erzbistum Prag,False,wiag_bishops,34.0
+WIAG-Pers-EPISCGatz-10899-001,Anton Johann Wenzel Wokaun,1691.0,1757.0,1746.0,Generalvikar,Erzbistum Prag,False,wiag_bishops,55.0
+WIAG-Pers-EPISCGatz-10900-001,Johann Georg Wolf,1694.0,1749.0,1744.0,Fürsterzbischöflicher Vikariats-Administrator,Erzbistum Prag,False,wiag_bishops,50.0
+WIAG-Pers-EPISCGatz-10902-001,Joseph Anton Wilhelm Wolf,1702.0,1758.0,1744.0,Stellvertretender Generalvikar,Bistum Eichstätt,False,wiag_bishops,42.0
+WIAG-Pers-EPISCGatz-10903-001,Franz Arnold Wolff zur Gracht,1658.0,1718.0,1678.0,Domherr,Bistum Paderborn,False,wiag_bishops,20.0
+WIAG-Pers-EPISCGatz-10906-001,Johann Anton Wolframsdorf,1713.0,1766.0,1760.0,Weihbischof,Bistum Regensburg,False,wiag_bishops,47.0
+WIAG-Pers-EPISCGatz-10907-001,Johann Kaspar Wolkenstein-Rodeneck,1705.0,1744.0,1743.0,Weihbischof,Bistum Trient,False,wiag_bishops,38.0
+WIAG-Pers-EPISCGatz-10908-001,Anton Dominikus Wolkenstein-Trostburg,1662.0,1730.0,1726.0,Fürstbischof,Bistum Trient,False,wiag_bishops,64.0
+WIAG-Pers-EPISCGatz-10911-001,Jakob Johann Joseph Wosky von Bärenstamm,1692.0,1771.0,1743.0,Apostolischer Administrator,Bistum Meißen,False,wiag_bishops,51.0
+WIAG-Pers-EPISCGatz-10912-001,Johann Adam Wratislaw von Mitrowitz,1677.0,1733.0,1711.0,Bischof,Bistum Königgrätz,False,wiag_bishops,34.0
+WIAG-Pers-EPISCGatz-10913-001,Johann Joseph Wratislaw von Mitrowitz,1694.0,1753.0,1733.0,Bischof,Bistum Königgrätz,False,wiag_bishops,39.0
+WIAG-Pers-EPISCGatz-10914-001,Stephan Alexander Würdtwein,1722.0,1796.0,1783.0,Weihbischof,Bistum Worms,False,wiag_bishops,61.0
+WIAG-Pers-EPISCGatz-10916-001,Bernhard Ignaz Wydenbrück,1682.0,1755.0,1733.0,Generalvikar,Bistum Paderborn,False,wiag_bishops,51.0
+WIAG-Pers-EPISCGatz-10918-001,Franciszek Ignacy Wysocki,1678.0,1728.0,1728.0,Weihbischof,Bistum Kulm,False,wiag_bishops,50.0
+WIAG-Pers-EPISCGatz-10919-001,Johann Felix Wyss,1752.0,1811.0,1781.0,Generalvikar,Bistum Sitten,False,wiag_bishops,29.0
+WIAG-Pers-EPISCGatz-10920-001,Franz Jakob Ignaz Zadler,1637.0,1695.0,1672.0,Generalvikar,Bistum Freising,False,wiag_bishops,35.0
+WIAG-Pers-EPISCGatz-10922-001,Andrzej Chryzostom Załuski,1648.0,1711.0,1683.0,Bischof,Bistum Kiew,False,wiag_bishops,35.0
+WIAG-Pers-EPISCGatz-10923-001,Andrzej Stanisław Załuski,1695.0,1758.0,1723.0,Bischof,Bistum Płock,False,wiag_bishops,28.0
+WIAG-Pers-EPISCGatz-10924-001,Simone Albano Zambaiti de Vezzanburg,1744.0,1811.0,1775.0,Generalvikar,Bistum Trient,False,wiag_bishops,31.0
+WIAG-Pers-EPISCGatz-10925-001,Jan Stanisław Zbạski,1625.0,1697.0,1677.0,Bischof,Bistum Przemyśl,False,wiag_bishops,52.0
+WIAG-Pers-EPISCGatz-10927-001,Johann Anton Zehmen,1715.0,1790.0,1737.0,Domherr,Bistum Eichstätt,False,wiag_bishops,22.0
+WIAG-Pers-EPISCGatz-10928-001,Karl Friedrich Zehmen,1720.0,1798.0,1765.0,Weihbischof,Bistum Ermland,False,wiag_bishops,45.0
+WIAG-Pers-EPISCGatz-10929-001,Kaspar Zeiler,1594.0,1681.0,1630.0,Generalvikar,Bistum Augsburg,False,wiag_bishops,36.0
+WIAG-Pers-EPISCGatz-10930-001,Johann Sigmund Zeller von und zu Leibersdorf,1653.0,1729.0,1673.0,Domherr,Bistum Freising,False,wiag_bishops,20.0
+WIAG-Pers-EPISCGatz-10931-001,Franz Melchior Joseph Zen-Ruffinen,1729.0,1790.0,1764.0,Generalvikar,Bistum Sitten,False,wiag_bishops,35.0
+WIAG-Pers-EPISCGatz-10933-001,Franz Ziegler,1633.0,1700.0,1674.0,Kommissarischer Generalvikar,Bistum Augsburg,False,wiag_bishops,41.0
+WIAG-Pers-EPISCGatz-10934-001,Joseph Sebastian Ziegler,1684.0,1755.0,1725.0,Generalvikar,Bistum Eichstätt,False,wiag_bishops,41.0
+WIAG-Pers-EPISCGatz-10935-001,Jacques-Ignace Zilliet,1622.0,1685.0,1663.0,Generalvikar,Bistum Lausanne,False,wiag_bishops,41.0
+WIAG-Pers-EPISCGatz-10938-001,Wilhelm Jakob Amarin Rhein,1699.0,1769.0,1723.0,Domkantor,Bistum Worms,False,wiag_bishops,24.0
+WIAG-Pers-EPISCGatz-12602-001,Klemens Wenzeslaus Sachsen,1739.0,1812.0,1762.0,Bischofskandidat,Erzbistum Köln,False,wiag_bishops,23.0
+WIAG-Pers-EPISCGatz-12606-001,Johann Adam Behr,1724.0,1805.0,1778.0,Weihbischof,Bistum Bamberg,False,wiag_bishops,54.0
+WIAG-Pers-EPISCGatz-12607-001,Franz Xaver Neveu,1749.0,1828.0,1794.0,Fürstbischof,Bistum Basel,False,wiag_bishops,45.0
+WIAG-Pers-EPISCGatz-12610-001,Anton Ferdinand Rothkirch und Panthen,1739.0,1805.0,1781.0,Weihbischof,Bistum Breslau,False,wiag_bishops,42.0
+WIAG-Pers-EPISCGatz-12611-001,Emanuel Schimonsky-Schimoni,1752.0,1832.0,1795.0,Generalvikar,Bistum Breslau,False,wiag_bishops,43.0
+WIAG-Pers-EPISCGatz-12612-001,Karl Franz Lodron,1748.0,1828.0,1792.0,Fürstbischof,Bistum Brixen,False,wiag_bishops,44.0
+WIAG-Pers-EPISCGatz-12613-001,Karl Rudolf Buol-Schauenstein,1760.0,1833.0,1794.0,Fürstbischof,Bistum Chur,False,wiag_bishops,34.0
+WIAG-Pers-EPISCGatz-12614-001,Joseph Stubenberg,1740.0,1824.0,1762.0,Domherr,Bistum Eichstätt,False,wiag_bishops,22.0
+WIAG-Pers-EPISCGatz-12615-001,Ignatius Vincentius Matthy,1765.0,1832.0,1796.0,Generalvikar,Bistum Ermland,False,wiag_bishops,31.0
+WIAG-Pers-EPISCGatz-12617-001,Adalbert Harstall,1737.0,1814.0,1789.0,Fürstbischof,Bistum Fulda,False,wiag_bishops,52.0
+WIAG-Pers-EPISCGatz-12618-001,Franz Xaver Salm-Reifferscheidt-Krautheim,1749.0,1822.0,1767.0,Domherr,Bistum Gurk,False,wiag_bishops,18.0
+WIAG-Pers-EPISCGatz-12620-001,Karl Friedrich Wendt,1748.0,1825.0,1768.0,Domherr,Bistum Hildesheim,False,wiag_bishops,20.0
+WIAG-Pers-EPISCGatz-12621-001,Johann Stanjek,1746.0,1812.0,1796.0,Fürsterzbischöflicher Kommissar,Bistum Olmütz,False,wiag_bishops,50.0
+WIAG-Pers-EPISCGatz-12622-001,Johann Hermann Joseph Caspars zu Weiss,1744.0,1822.0,1796.0,Domherr,Erzbistum Köln,False,wiag_bishops,52.0
+WIAG-Pers-EPISCGatz-12623-001,Ferdinand Lüninck,1755.0,1825.0,1795.0,Fürstbischof,Bistum Corvey,False,wiag_bishops,40.0
+WIAG-Pers-EPISCGatz-12624-001,Franciszek Ksawery Rydzyński,1734.0,1814.0,1780.0,Weihbischof,Bistum Posen,False,wiag_bishops,46.0
+WIAG-Pers-EPISCGatz-12625-001,Jean-Baptiste Odet,1752.0,1803.0,1796.0,Bischof,Bistum Lausanne,False,wiag_bishops,44.0
+WIAG-Pers-EPISCGatz-12626-001,Vinzenz Joseph Franz Sales Schrattenbach,1744.0,1816.0,1762.0,Domherr,Bistum Lavant,False,wiag_bishops,18.0
+WIAG-Pers-EPISCGatz-12627-001,Gandolf Ernst Kuenburg,1737.0,1793.0,1759.0,Kanoniker,Bistum Lavant,False,wiag_bishops,22.0
+WIAG-Pers-EPISCGatz-12630-001,Joseph Anton Gall,1748.0,1807.0,1788.0,Bischof,Bistum Linz,False,wiag_bishops,40.0
+WIAG-Pers-EPISCGatz-12633-001,Johann Valentin Heimes,1741.0,1806.0,1780.0,Weihbischof,Bistum Worms,False,wiag_bishops,39.0
+WIAG-Pers-EPISCGatz-12635-001,Georg Lock,1751.0,1831.0,1796.0,Apostolischer Administrator,Bistum Meißen,False,wiag_bishops,45.0
+WIAG-Pers-EPISCGatz-12638-001,Franz Friedrich Wilhelm Fürstenberg,1729.0,1810.0,1748.0,Domherr,Bistum Paderborn,False,wiag_bishops,19.0
+WIAG-Pers-EPISCGatz-12640-001,Karl Klemens Gruben,1764.0,1827.0,1794.0,Provikar,Bistum Osnabrück,False,wiag_bishops,30.0
+WIAG-Pers-EPISCGatz-12641-001,Leopold Leonhard Thun,1748.0,1826.0,1796.0,Generalvikar,Bistum Passau,False,wiag_bishops,48.0
+WIAG-Pers-EPISCGatz-12643-001,Joseph Konrad Schroffenberg,1743.0,1803.0,1780.0,Fürstpropst,Erzbistum Salzburg,False,wiag_bishops,37.0
+WIAG-Pers-EPISCGatz-12644-001,Johann Nepomuk Wolf,1743.0,1829.0,1764.0,Domherr,Bistum Freising,False,wiag_bishops,21.0
+WIAG-Pers-EPISCGatz-12647-001,Joseph Adam Johann Nepomuk Arco,1733.0,1802.0,1757.0,Domherr,Bistum Passau,False,wiag_bishops,24.0
+WIAG-Pers-EPISCGatz-12651-001,Heinrich Johann Kerens,1725.0,1792.0,1769.0,Bischof,Bistum Roermond,False,wiag_bishops,44.0
+WIAG-Pers-EPISCGatz-12652-001,Sigismund Anton Hohenwart,1730.0,1820.0,1791.0,Bischof,Bistum Triest,False,wiag_bishops,61.0
+WIAG-Pers-EPISCGatz-12653-001,Gottfried Joseph Crütz van Creits,1757.0,1815.0,1789.0,Generalvikar,St. Pölten,False,wiag_bishops,32.0
+WIAG-Pers-EPISCGatz-12654-001,Joseph Anton Blatter,1745.0,1807.0,1790.0,Fürstbischof,Bistum Sitten,False,wiag_bishops,45.0
+WIAG-Pers-EPISCGatz-12656-001,Philipp Anton Schmidt,1734.0,1805.0,1789.0,Weihbischof,Bistum Speyer,False,wiag_bishops,55.0
+WIAG-Pers-EPISCGatz-12657-001,Emanuel Maria Thun,1763.0,1818.0,1790.0,Domherr,Bistum Trient,False,wiag_bishops,27.0
+WIAG-Pers-EPISCGatz-12659-001,Christoph Bartholomäus Anton Migazzi,1714.0,1803.0,1751.0,Koadjutor des Erzbischofs,Erzbistum Mecheln,False,wiag_bishops,37.0
+WIAG-Pers-EPISCGatz-12660-001,Edmund Maria Josef Artz von und zu Vasegg,1739.0,1805.0,1777.0,Generalvikar,Bistum Wien,False,wiag_bishops,38.0
+WIAG-Pers-EPISCGatz-12661-001,Anton Kautschitz,1743.0,1814.0,1785.0,Konsistorialkanzler,St. Pölten,False,wiag_bishops,42.0
+WIAG-Pers-EPISCGatz-12664-001,Gregor Zirkel,1762.0,1817.0,1792.0,Kanoniker,Bistum Würzburg,False,wiag_bishops,30.0
+WIAG-Pers-EPISCGatz-20003-001,Adolf Anhalt-Zerbst,1458.0,1526.0,1488.0,Dompropst,Erzbistum Magdeburg,False,wiag_bishops,30.0
+WIAG-Pers-EPISCGatz-20005-001,Adolf Schaumburg,1511.0,1556.0,1531.0,Graf,Erzbistum Köln,False,wiag_bishops,20.0
+WIAG-Pers-EPISCGatz-20007-001,Hieronymus Otto Agricola,1571.0,1627.0,1600.0,Domherr,Bistum Brixen,False,wiag_bishops,29.0
+WIAG-Pers-EPISCGatz-20008-001,Gottschalk Ahlefeldt,1475.0,1541.0,1496.0,Domherr,Bistum Schleswig,False,wiag_bishops,21.0
+WIAG-Pers-EPISCGatz-20009-001,Claude-Louis Alardet,1506.0,1561.0,1529.0,Domherr,Bistum Lausanne,False,wiag_bishops,23.0
+WIAG-Pers-EPISCGatz-20010-001,Paul Albert,1557.0,1600.0,1580.0,Domherr,Bistum Breslau,False,wiag_bishops,23.0
+WIAG-Pers-EPISCGatz-20016-001,Paul Aldringen,1592.0,1644.0,1627.0,Weihbischof,Bistum Straßburg,False,wiag_bishops,35.0
+WIAG-Pers-EPISCGatz-20022-001,Busso Alvensleben,1468.0,1548.0,1508.0,Domherr,Erzbistum Magdeburg,False,wiag_bishops,40.0
+WIAG-Pers-EPISCGatz-20026-001,Andreas Österreich,1558.0,1600.0,1576.0,Kardinal,Bistum Brixen,False,wiag_bishops,18.0
+WIAG-Pers-EPISCGatz-20027-001,Johann Bernhard Angeloch,1586.0,1646.0,1610.0,Kanoniker,Bistum Basel,False,wiag_bishops,24.0
+WIAG-Pers-EPISCGatz-20028-001,Gregor Angerer,1476.0,1548.0,1510.0,Domherr,Bistum Wien,False,wiag_bishops,34.0
+WIAG-Pers-EPISCGatz-20037-001,Johann Gottfried Aschhausen,1575.0,1622.0,1593.0,Domherr,Bistum Bamberg,False,wiag_bishops,18.0
+WIAG-Pers-EPISCGatz-20042-001,Franz Bär,1550.0,1611.0,1569.0,Kanoniker,Bistum Basel,False,wiag_bishops,19.0
+WIAG-Pers-EPISCGatz-20048-001,Andreas Barby,1508.0,1559.0,1550.0,Domherr,Bistum Lübeck,False,wiag_bishops,42.0
+WIAG-Pers-EPISCGatz-20050-001,Andreas Bathory,1563.0,1599.0,1581.0,Domherr,Bistum Ermland,False,wiag_bishops,18.0
+WIAG-Pers-EPISCGatz-20052-001,François Beaucaire de Péguillon,1514.0,1591.0,1555.0,Bischof,Bistum Metz,False,wiag_bishops,41.0
+WIAG-Pers-EPISCGatz-20064-001,Zbynko Berka von Duba und Leipa,1551.0,1606.0,1574.0,Propst,Bistum Regensburg,False,wiag_bishops,23.0
+WIAG-Pers-EPISCGatz-20067-001,Bernhard Waldeck,1551.0,1591.0,1583.0,Domherr,Bistum Osnabrück,False,wiag_bishops,32.0
+WIAG-Pers-EPISCGatz-20070-001,Ursino Bertis,1559.0,1620.0,1592.0,Propst,Bistum Triest,False,wiag_bishops,33.0
+WIAG-Pers-EPISCGatz-20080-001,Jakob Christoph Blarer von Wartensee,1542.0,1608.0,1560.0,Domherr,Bistum Basel,False,wiag_bishops,18.0
+WIAG-Pers-EPISCGatz-20086-001,Dietrich Bocksdorf,1410.0,1466.0,1445.0,Domherr,Bistum Naumburg,False,wiag_bishops,35.0
+WIAG-Pers-EPISCGatz-20090-001,Giovanni Bogarin,1538.0,1597.0,1592.0,Bischof,Bistum Triest,False,wiag_bishops,54.0
+WIAG-Pers-EPISCGatz-20099-001,Nicolas Boucher,1528.0,1593.0,1588.0,Bischof,Bistum Verdun,False,wiag_bishops,60.0
+WIAG-Pers-EPISCGatz-20103-001,Nicolas Bousmard,1512.0,1584.0,1576.0,Archidiakon,Bistum Verdun,False,wiag_bishops,64.0
+WIAG-Pers-EPISCGatz-20108-001,Johannes Brenner,1578.0,1629.0,1608.0,Weihbischof,Bistum Passau,False,wiag_bishops,30.0
+WIAG-Pers-EPISCGatz-20109-001,Martin Brenner,1548.0,1616.0,1584.0,Bischof,Bistum Seckau,False,wiag_bishops,36.0
+WIAG-Pers-EPISCGatz-20111-001,Sebastian Breuning,1552.0,1618.0,1578.0,Kanoniker,Bistum Augsburg,False,wiag_bishops,26.0
+WIAG-Pers-EPISCGatz-20115-001,Anton Brus von Müglitz,1518.0,1580.0,1540.0,Konventuale,Bistum Wien,False,wiag_bishops,22.0
+WIAG-Pers-EPISCGatz-20123-001,Petrus Canisius,1521.0,1597.0,1554.0,Administrator,Bistum Wien,False,wiag_bishops,33.0
+WIAG-Pers-EPISCGatz-20127-001,Nikolaus Carlowitz,1502.0,1555.0,1529.0,Domherr,Bistum Meißen,False,wiag_bishops,27.0
+WIAG-Pers-EPISCGatz-20138-001,Christian Braunschweig-Lüneburg-Wolfenbüttel,1566.0,1633.0,1597.0,Domherr,Bistum Minden,False,wiag_bishops,31.0
+WIAG-Pers-EPISCGatz-20141-001,Thomas Chrön,1560.0,1630.0,1596.0,Domdekan,Bistum Laibach,False,wiag_bishops,36.0
+WIAG-Pers-EPISCGatz-20143-001,Johann Paul Ciurletti,1580.0,1640.0,1617.0,Weihbischof,Erzbistum Salzburg,False,wiag_bishops,37.0
+WIAG-Pers-EPISCGatz-20146-001,Bernhard Cles,1485.0,1539.0,1511.0,Archidiakon,Bistum Trient,False,wiag_bishops,26.0
+WIAG-Pers-EPISCGatz-20147-001,Wolfgang Closen,1503.0,1561.0,1528.0,Domherr,Bistum Passau,False,wiag_bishops,25.0
+WIAG-Pers-EPISCGatz-20148-001,Nicolas Coeffeteau,1574.0,1623.0,1617.0,Weihbischof,Bistum Metz,False,wiag_bishops,43.0
+WIAG-Pers-EPISCGatz-20149-001,Niccolò Coret,1532.0,1591.0,1575.0,Domherr,Bistum Triest,False,wiag_bishops,43.0
+WIAG-Pers-EPISCGatz-20158-001,Johannes Dantiscus,1485.0,1548.0,1529.0,Domherr,Bistum Pomesanien,False,wiag_bishops,44.0
+WIAG-Pers-EPISCGatz-20162-001,Johannes Delphius,1524.0,1582.0,1556.0,Weihbischof,Bistum Straßburg,False,wiag_bishops,32.0
+WIAG-Pers-EPISCGatz-20170-001,Franz Seraph Dietrichstein,1570.0,1636.0,1591.0,Domherr,Bistum Olmütz,False,wiag_bishops,21.0
+WIAG-Pers-EPISCGatz-20175-001,Michael Dornvogel,1518.0,1589.0,1554.0,Weihbischof,Bistum Augsburg,False,wiag_bishops,36.0
+WIAG-Pers-EPISCGatz-20176-001,Jean Doroz,1535.0,1607.0,1585.0,Weihbischof,Erzbistum Besançon,False,wiag_bishops,50.0
+WIAG-Pers-EPISCGatz-20180-001,Antoine Dupasquier,1570.0,1614.0,1598.0,Kanoniker,Bistum Lausanne,False,wiag_bishops,28.0
+WIAG-Pers-EPISCGatz-20182-001,Claude Duvillard,1525.0,1577.0,1555.0,Kantor,Bistum Lausanne,False,wiag_bishops,30.0
+WIAG-Pers-EPISCGatz-20185-001,Jakob Eberlein,1575.0,1633.0,1615.0,Generalvikar des Erzbischofs,Erzbistum Salzburg,False,wiag_bishops,40.0
+WIAG-Pers-EPISCGatz-20193-001,Lorenz Eiszepf,1560.0,1601.0,1590.0,Weihbischof,Bistum Eichstätt,False,wiag_bishops,30.0
+WIAG-Pers-EPISCGatz-20218-001,Johann Fabri,1478.0,1541.0,1513.0,Offizial,Bistum Basel,False,wiag_bishops,35.0
+WIAG-Pers-EPISCGatz-20225-001,Mauritius Ferber,1471.0,1537.0,1507.0,Domherr,Bistum Ermland,False,wiag_bishops,36.0
+WIAG-Pers-EPISCGatz-20226-001,Jakob Feucht,1540.0,1580.0,1571.0,Weihbischof,Bistum Bamberg,False,wiag_bishops,31.0
+WIAG-Pers-EPISCGatz-20227-001,Simon Feurstein,1553.0,1623.0,1588.0,Domherr,Bistum Brixen,False,wiag_bishops,35.0
+WIAG-Pers-EPISCGatz-20232-001,Georg Flach,1505.0,1564.0,1544.0,Weihbischof,Bistum Würzburg,False,wiag_bishops,39.0
+WIAG-Pers-EPISCGatz-20235-001,Johann Flugi,1550.0,1627.0,1586.0,Domherr,Bistum Chur,False,wiag_bishops,36.0
+WIAG-Pers-EPISCGatz-20236-001,Friedrich Förner,1570.0,1630.0,1609.0,Generalvikar,Bistum Bamberg,False,wiag_bishops,39.0
+WIAG-Pers-EPISCGatz-20237-001,Antoine Fournier,1532.0,1610.0,1574.0,Weihbischof,Bistum Metz,False,wiag_bishops,42.0
+WIAG-Pers-EPISCGatz-20240-001,Franz Waldeck,1491.0,1553.0,1510.0,Domherr,Erzbistum Köln,False,wiag_bishops,19.0
+WIAG-Pers-EPISCGatz-20250-001,Friedrich Schleswig-Holstein,1529.0,1556.0,1549.0,Koadjutor,Bistum Schleswig,False,wiag_bishops,20.0
+WIAG-Pers-EPISCGatz-20261-001,Jakob Fugger,1567.0,1626.0,1587.0,Domherr,Bistum Konstanz,False,wiag_bishops,20.0
+WIAG-Pers-EPISCGatz-20269-001,Wawrzyniec Gembicki,1559.0,1624.0,1594.0,Domherr,Bistum Kulm,False,wiag_bishops,35.0
+WIAG-Pers-EPISCGatz-20275-001,Georg Österreich,1504.0,1557.0,1526.0,Administrator,Bistum Brixen,False,wiag_bishops,22.0
+WIAG-Pers-EPISCGatz-20276-001,Georg Braunschweig-Wolfenbüttel,1494.0,1566.0,1515.0,Domherr,Erzbistum Köln,False,wiag_bishops,21.0
+WIAG-Pers-EPISCGatz-20280-001,Martin Gerstmann,1527.0,1585.0,1561.0,Domkustos,Bistum Breslau,False,wiag_bishops,34.0
+WIAG-Pers-EPISCGatz-20281-001,Georg Gienger,1500.0,1577.0,1562.0,Nominierter Bischof,Bistum Wien,False,wiag_bishops,62.0
+WIAG-Pers-EPISCGatz-20282-001,Tiedemann Bartholomäus Giese,1480.0,1550.0,1507.0,Domherr,Bistum Ermland,False,wiag_bishops,27.0
+WIAG-Pers-EPISCGatz-20284-001,Anne de Perusse d'Escars Givry,1546.0,1612.0,1584.0,Bischof,Bistum Lisieux,False,wiag_bishops,38.0
+WIAG-Pers-EPISCGatz-20286-001,Cornelius Gobelius,1570.0,1611.0,1606.0,Propst,Erzbistum Mainz,False,wiag_bishops,36.0
+WIAG-Pers-EPISCGatz-20295-001,Charles-Chrétien Gournay,1585.0,1637.0,1626.0,Weihbischof,Bistum Toul,False,wiag_bishops,41.0
+WIAG-Pers-EPISCGatz-20303-001,Jan Grodecký von Brod,1525.0,1574.0,1560.0,Domherr,Bistum Olmütz,False,wiag_bishops,35.0
+WIAG-Pers-EPISCGatz-20304-001,Gerhard Groesbeek,1517.0,1580.0,1536.0,Domherr,Bistum Lüttich,False,wiag_bishops,19.0
+WIAG-Pers-EPISCGatz-20312-001,Louis Guise,1527.0,1578.0,1545.0,Bischof,Bistum Troyes,False,wiag_bishops,18.0
+WIAG-Pers-EPISCGatz-20313-001,Philipp Gundelsheim,1487.0,1553.0,1510.0,Domherr,Bistum Basel,False,wiag_bishops,23.0
+WIAG-Pers-EPISCGatz-20317-001,Johann Ludwig Hagen,1492.0,1547.0,1510.0,Domizellar,Erzbistum Trier,False,wiag_bishops,18.0
+WIAG-Pers-EPISCGatz-20318-001,Sebastian Haidlauf,1539.0,1580.0,1569.0,Weihbischof,Bistum Freising,False,wiag_bishops,30.0
+WIAG-Pers-EPISCGatz-20322-001,Georg Hammer,1582.0,1639.0,1618.0,Archidiakon,Erzbistum Salzburg,False,wiag_bishops,36.0
+WIAG-Pers-EPISCGatz-20330-001,Johann Haugwitz,1524.0,1595.0,1550.0,Domherr,Bistum Naumburg,False,wiag_bishops,26.0
+WIAG-Pers-EPISCGatz-20333-001,Hugues Hazards,1454.0,1517.0,1505.0,Propst,Bistum Toul,False,wiag_bishops,51.0
+WIAG-Pers-EPISCGatz-20342-001,Michael Helding,1506.0,1561.0,1538.0,Weihbischof,Erzbistum Mainz,False,wiag_bishops,32.0
+WIAG-Pers-EPISCGatz-20356-001,Sebastian Heusenstamm,1508.0,1555.0,1531.0,Kanoniker,Erzbistum Mainz,False,wiag_bishops,23.0
+WIAG-Pers-EPISCGatz-20364-001,Jodocus Hoetfilter,1500.0,1551.0,1535.0,Domherr,Erzbistum Köln,False,wiag_bishops,35.0
+WIAG-Pers-EPISCGatz-20366-001,Andreas Hofmann,1547.0,1604.0,1597.0,Weihbischof,Bistum Passau,False,wiag_bishops,50.0
+WIAG-Pers-EPISCGatz-20367-001,Mark Sittich Hohenems,1533.0,1595.0,1560.0,Domherr,Bistum Cassano all'Jonio,False,wiag_bishops,27.0
+WIAG-Pers-EPISCGatz-20378-001,Stanislaus Hosius,1504.0,1579.0,1529.0,Kanoniker,Bistum Kulm,False,wiag_bishops,25.0
+WIAG-Pers-EPISCGatz-20381-001,Johann Hoya zu Stolzenau,1529.0,1574.0,1553.0,Bischof,Bistum Osnabrück,False,wiag_bishops,24.0
+WIAG-Pers-EPISCGatz-20396-001,Jakob Baden,1471.0,1511.0,1490.0,Propst,Erzbistum Trier,False,wiag_bishops,19.0
+WIAG-Pers-EPISCGatz-20397-001,Andreas Jerin,1541.0,1596.0,1574.0,Domherr,Bistum Breslau,False,wiag_bishops,33.0
+WIAG-Pers-EPISCGatz-20404-001,Johann Rhein,1488.0,1538.0,1506.0,Domherr,Bistum Regensburg,False,wiag_bishops,18.0
+WIAG-Pers-EPISCGatz-20411-001,Hildebrand Jost,1585.0,1638.0,1604.0,Domherr,Bistum Sitten,False,wiag_bishops,19.0
+WIAG-Pers-EPISCGatz-20416-001,Kaspar Karas von Rhomstein,1591.0,1646.0,1621.0,Domherr,Bistum Olmütz,False,wiag_bishops,30.0
+WIAG-Pers-EPISCGatz-20419-001,Karl Lothringen-Chaligny,1592.0,1631.0,1610.0,Bischof,Bistum Verdun,False,wiag_bishops,18.0
+WIAG-Pers-EPISCGatz-20421-001,Karl Lothringen-Vaudémont,1559.0,1587.0,1578.0,Kardinal,Bistum Toul,False,wiag_bishops,19.0
+WIAG-Pers-EPISCGatz-20423-001,Gregor Kathmann von Maurugk,1589.0,1644.0,1620.0,Apostolischer Administrator,Bistum Meißen,False,wiag_bishops,31.0
+WIAG-Pers-EPISCGatz-20427-001,Rembert Kerssenbrock,1474.0,1568.0,1493.0,Domherr,Bistum Münster,False,wiag_bishops,19.0
+WIAG-Pers-EPISCGatz-20432-001,Melchior Klesl,1552.0,1630.0,1579.0,Dompropst,Bistum Passau,False,wiag_bishops,27.0
+WIAG-Pers-EPISCGatz-20438-001,Johannes Bartholomäus Kobolt von Tambach,1592.0,1645.0,1624.0,Generalvikar,Bistum Regensburg,False,wiag_bishops,32.0
+WIAG-Pers-EPISCGatz-20445-001,Jan Karol Konopacki,1581.0,1643.0,1643.0,Gewählter Bischof,Bistum Ermland,False,wiag_bishops,62.0
+WIAG-Pers-EPISCGatz-20455-001,Martin Kromer,1512.0,1589.0,1570.0,Koadjutor des Bischofs,Bistum Ermland,False,wiag_bishops,58.0
+WIAG-Pers-EPISCGatz-20463-001,Michael Kuenburg,1514.0,1560.0,1536.0,Kanoniker,Erzbistum Salzburg,False,wiag_bishops,22.0
+WIAG-Pers-EPISCGatz-20467-001,Christophe La Vallée,1554.0,1607.0,1588.0,Bischof,Bistum Toul,False,wiag_bishops,34.0
+WIAG-Pers-EPISCGatz-20469-001,Christoph Lamberg,1505.0,1579.0,1526.0,Domherr,Bistum Seckau,False,wiag_bishops,21.0
+WIAG-Pers-EPISCGatz-20471-001,Karl Lamberg,1570.0,1612.0,1607.0,Erzbischof,Erzbistum Prag,False,wiag_bishops,37.0
+WIAG-Pers-EPISCGatz-20477-001,Johann Laymann,1474.0,1550.0,1521.0,Weihbischof,Bistum Augsburg,False,wiag_bishops,47.0
+WIAG-Pers-EPISCGatz-20482-001,Johann Leisentrit,1527.0,1586.0,1559.0,Dekan,Bistum Meißen,False,wiag_bishops,32.0
+WIAG-Pers-EPISCGatz-20494-001,Johann Christoph Lichtenstein-Castelkorn,1591.0,1643.0,1609.0,Domherr,Bistum Chiemsee,False,wiag_bishops,18.0
+WIAG-Pers-EPISCGatz-20501-001,Jan Lipski,1589.0,1641.0,1635.0,Bischof,Bistum Kulm,False,wiag_bishops,46.0
+WIAG-Pers-EPISCGatz-20502-001,Sebastian Bartholomäus Lodron,1601.0,1643.0,1623.0,Domherr,Bistum Gurk,False,wiag_bishops,22.0
+WIAG-Pers-EPISCGatz-20504-001,Kaspar Logau,1524.0,1574.0,1559.0,Bischof,Bistum Wiener Neustadt,False,wiag_bishops,35.0
+WIAG-Pers-EPISCGatz-20505-001,Johannes Lohel,1549.0,1622.0,1586.0,Abt,Erzbistum Prag,False,wiag_bishops,37.0
+WIAG-Pers-EPISCGatz-20514-001,Carlo Gaudenzio Madruzzo,1562.0,1629.0,1595.0,Koadjutor des Bischofs,Bistum Trient,False,wiag_bishops,33.0
+WIAG-Pers-EPISCGatz-20516-001,Giovanni Ludovico Madruzzo,1532.0,1600.0,1550.0,Koadjutor des Bischofs,Bistum Trient,False,wiag_bishops,18.0
+WIAG-Pers-EPISCGatz-20519-001,Augustin Mair,1485.0,1543.0,1523.0,Weihbischof,Bistum Freising,False,wiag_bishops,38.0
+WIAG-Pers-EPISCGatz-20521-001,Johann Maltitz,1491.0,1549.0,1534.0,Koadjutor des Bischofs,Bistum Meißen,False,wiag_bishops,43.0
+WIAG-Pers-EPISCGatz-20526-001,Theobald Mansharter,1572.0,1610.0,1605.0,Dekan,Bistum Speyer,False,wiag_bishops,33.0
+WIAG-Pers-EPISCGatz-20530-001,Erhard Mark,1472.0,1538.0,1506.0,Bischof,Bistum Lüttich,False,wiag_bishops,34.0
+WIAG-Pers-EPISCGatz-20534-001,Martin Medek,1538.0,1590.0,1581.0,Erzbischof,Erzbistum Prag,False,wiag_bishops,43.0
+WIAG-Pers-EPISCGatz-20543-001,Lothar Metternich,1551.0,1623.0,1570.0,Domherr,Erzbistum Trier,False,wiag_bishops,19.0
+WIAG-Pers-EPISCGatz-20546-001,Martin Meurisse,1584.0,1644.0,1628.0,Weihbischof,Bistum Metz,False,wiag_bishops,44.0
+WIAG-Pers-EPISCGatz-20552-001,Godfried Mierlo,1518.0,1587.0,1570.0,Bischof,Bistum Haarlem,False,wiag_bishops,52.0
+WIAG-Pers-EPISCGatz-20554-001,Johann Jakob Mirgel,1559.0,1629.0,1594.0,Generalvikar des Bischofs,Bistum Konstanz,False,wiag_bishops,35.0
+WIAG-Pers-EPISCGatz-20558-001,Joseph Mohr,1577.0,1635.0,1627.0,Bischof,Bistum Chur,False,wiag_bishops,50.0
+WIAG-Pers-EPISCGatz-20559-001,Valentin Mohr,1560.0,1608.0,1607.0,Weihbischof,Erzbistum Mainz,False,wiag_bishops,47.0
+WIAG-Pers-EPISCGatz-20564-001,Sébastien Montfalcon,1489.0,1560.0,1513.0,Koadjutor des Bischofs,Bistum Lausanne,False,wiag_bishops,24.0
+WIAG-Pers-EPISCGatz-20567-001,Sebastian Müller,1584.0,1644.0,1631.0,Weihbischof,Bistum Augsburg,False,wiag_bishops,47.0
+WIAG-Pers-EPISCGatz-20571-001,Caesar Nardus von Montopol,1572.0,,1629.0,Weihbischof,Bistum Olmütz,False,wiag_bishops,57.0
+WIAG-Pers-EPISCGatz-20572-001,Johannes Nas,1534.0,1590.0,1580.0,Weihbischof,Bistum Brixen,False,wiag_bishops,46.0
+WIAG-Pers-EPISCGatz-20583-001,Nicolaus Nieuwland,1510.0,1580.0,1541.0,Weihbischof,Bistum Utrecht,False,wiag_bishops,31.0
+WIAG-Pers-EPISCGatz-20586-001,Nikolaus Lothringen,1525.0,1577.0,1543.0,Bischof,Bistum Metz,False,wiag_bishops,18.0
+WIAG-Pers-EPISCGatz-20589-001,Johann Nopel d. J.,1548.0,1605.0,1601.0,Weihbischof,Erzbistum Köln,False,wiag_bishops,53.0
+WIAG-Pers-EPISCGatz-20601-001,Johann Heinrich Ostein,1579.0,1646.0,1611.0,Generalvikar des Bischofs,Bistum Basel,False,wiag_bishops,32.0
+WIAG-Pers-EPISCGatz-20605-001,Christoph Marschalk zu Pappenheim,1492.0,1539.0,1511.0,Domherr,Bistum Eichstätt,False,wiag_bishops,19.0
+WIAG-Pers-EPISCGatz-20613-001,Johannes Pelcking,1573.0,1642.0,1619.0,Weihbischof,Bistum Verden,False,wiag_bishops,46.0
+WIAG-Pers-EPISCGatz-20627-001,Julius Pflug,1499.0,1564.0,1519.0,Domherr,Bistum Meißen,False,wiag_bishops,20.0
+WIAG-Pers-EPISCGatz-20628-001,Philipp Sigismund Braunschweig-Lüneburg-Wolfenbüttel,1568.0,1623.0,1586.0,Administrator,Bistum Verden,False,wiag_bishops,18.0
+WIAG-Pers-EPISCGatz-20629-001,Philipp Burgund,1465.0,1524.0,1516.0,Bischof,Bistum Utrecht,False,wiag_bishops,51.0
+WIAG-Pers-EPISCGatz-20636-001,Melchior Pirn,1526.0,1607.0,1603.0,Weihbischof,Bistum Olmütz,False,wiag_bishops,77.0
+WIAG-Pers-EPISCGatz-20642-001,Thomas Planta,1520.0,1565.0,1550.0,Bischof,Bistum Chur,False,wiag_bishops,30.0
+WIAG-Pers-EPISCGatz-20644-001,Johann Ernst Plateis von Plattenstein,1586.0,1637.0,1622.0,Generalvikar des Bischofs,Bistum Olmütz,False,wiag_bishops,36.0
+WIAG-Pers-EPISCGatz-20648-001,Georg Polentz,1478.0,1550.0,1519.0,Bischof,Bistum Samland,False,wiag_bishops,41.0
+WIAG-Pers-EPISCGatz-20650-001,Jean des Porcelets de Maillane,1582.0,1624.0,1607.0,Bischof,Bistum Toul,False,wiag_bishops,25.0
+WIAG-Pers-EPISCGatz-20651-001,Beat Porta,1530.0,1590.0,1565.0,Bischof,Bistum Chur,False,wiag_bishops,35.0
+WIAG-Pers-EPISCGatz-20657-001,Balthasar Promnitz,1488.0,1562.0,1540.0,Bischof,Bistum Breslau,False,wiag_bishops,52.0
+WIAG-Pers-EPISCGatz-20658-001,Wilhelm Prusinovský von Víckov,1534.0,1572.0,1565.0,Bischof,Bistum Olmütz,False,wiag_bishops,31.0
+WIAG-Pers-EPISCGatz-20672-001,Bartholomäus Salis,1501.0,1570.0,1541.0,Bischofskandidat,Bistum Chur,False,wiag_bishops,40.0
+WIAG-Pers-EPISCGatz-20675-001,Jakob Salza,1481.0,1539.0,1520.0,Bischof,Bistum Breslau,False,wiag_bishops,39.0
+WIAG-Pers-EPISCGatz-20676-001,Moritz Graf von Sandizell,1514.0,1567.0,1532.0,Domherr,Bistum Freising,False,wiag_bishops,18.0
+WIAG-Pers-EPISCGatz-20677-001,Eucharius Sang,1555.0,1620.0,1597.0,Weihbischof,Bistum Würzburg,False,wiag_bishops,42.0
+WIAG-Pers-EPISCGatz-20689-001,Friedrich Schenck von Tautenburg,1503.0,1580.0,1561.0,Erzbischof,Bistum Utrecht,False,wiag_bishops,58.0
+WIAG-Pers-EPISCGatz-20705-001,Johann Schleinitz,1470.0,1537.0,1490.0,Domherr,Bistum Meißen,False,wiag_bishops,20.0
+WIAG-Pers-EPISCGatz-20710-001,Peter Schneuwly,1540.0,1597.0,1577.0,Generalvikar des Bischofs,Bistum Lausanne,False,wiag_bishops,37.0
+WIAG-Pers-EPISCGatz-20720-001,Johann Schönenberg,1525.0,1599.0,1561.0,Domherr,Bistum Münster,False,wiag_bishops,36.0
+WIAG-Pers-EPISCGatz-20721-001,Johann Schöner,1569.0,1651.0,1602.0,Generalvikar,Bistum Bamberg,False,wiag_bishops,33.0
+WIAG-Pers-EPISCGatz-20723-001,Bartholomäus Scholl,1550.0,1629.0,1581.0,Weihbischof,Bistum Freising,False,wiag_bishops,31.0
+WIAG-Pers-EPISCGatz-20751-001,Johann Sitsch,1552.0,1608.0,1600.0,Bischof,Bistum Breslau,False,wiag_bishops,48.0
+WIAG-Pers-EPISCGatz-20752-001,Georg Slatkonia,1456.0,1522.0,1506.0,Bischof,Bistum Pedena,False,wiag_bishops,50.0
+WIAG-Pers-EPISCGatz-20756-001,Christoph Andreas Spaur,1543.0,1613.0,1574.0,Bischof,Bistum Gurk,False,wiag_bishops,31.0
+WIAG-Pers-EPISCGatz-20757-001,Johann Thomas Spaur,1528.0,1591.0,1565.0,Koadjutor des Bischofs,Bistum Brixen,False,wiag_bishops,37.0
+WIAG-Pers-EPISCGatz-20763-001,Christoph Stadion,1478.0,1543.0,1517.0,Bischof,Bistum Augsburg,False,wiag_bishops,39.0
+WIAG-Pers-EPISCGatz-20768-001,Georg Stobaeus von Palmburg,1532.0,1618.0,1584.0,Bischof,Bistum Lavant,False,wiag_bishops,52.0
+WIAG-Pers-EPISCGatz-20771-001,Etienne Strecheus,1580.0,1628.0,1615.0,Weihbischof,Bistum Lüttich,False,wiag_bishops,35.0
+WIAG-Pers-EPISCGatz-20772-001,Johannes Kaspar Stredele von Montani und Wisberg,1582.0,1642.0,1611.0,Generalvikar,Bistum Passau,False,wiag_bishops,29.0
+WIAG-Pers-EPISCGatz-20774-001,Zacharias Stumpf,1594.0,1641.0,1635.0,Generalvikar,Bistum Würzburg,False,wiag_bishops,41.0
+WIAG-Pers-EPISCGatz-20775-001,Bartholomäus Suawe,1494.0,1566.0,1545.0,Bischof,Bistum Kammin,False,wiag_bishops,51.0
+WIAG-Pers-EPISCGatz-20776-001,Bartholomäus Supersaxo,1602.0,1640.0,1638.0,Gewählter Bischof,Bistum Sitten,False,wiag_bishops,36.0
+WIAG-Pers-EPISCGatz-20779-001,Henri Sylvius,1590.0,,1638.0,Weihbischof,Bistum Lüttich,False,wiag_bishops,48.0
+WIAG-Pers-EPISCGatz-20786-001,Marcus Tettinger,1540.0,1600.0,1567.0,Weihbischof,Bistum Basel,False,wiag_bishops,27.0
+WIAG-Pers-EPISCGatz-20789-001,Johannes Thiel,1485.0,1545.0,1539.0,Weihbischof,Bistum Breslau,False,wiag_bishops,54.0
+WIAG-Pers-EPISCGatz-20794-001,Georg Thurn,1486.0,1530.0,1517.0,Domherr,Bistum Seckau,False,wiag_bishops,31.0
+WIAG-Pers-EPISCGatz-20801-001,Johann Anton Tritt von Wilderen,1586.0,1639.0,1619.0,Weihbischof,Bistum Konstanz,False,wiag_bishops,33.0
+WIAG-Pers-EPISCGatz-20802-001,Nicolas Psaume,1518.0,1575.0,1548.0,Bischof,Bistum Verdun,False,wiag_bishops,30.0
+WIAG-Pers-EPISCGatz-20808-001,Balthasar Radlic,1533.0,1579.0,1573.0,Generalvikar des Bischofs,Bistum Laibach,False,wiag_bishops,40.0
+WIAG-Pers-EPISCGatz-20810-001,Bernhard Raesfeld,1508.0,1574.0,1535.0,Propst,Bistum Münster,False,wiag_bishops,27.0
+WIAG-Pers-EPISCGatz-20815-001,Andrea Rapicio,1533.0,1573.0,1567.0,Bischof,Bistum Triest,False,wiag_bishops,34.0
+WIAG-Pers-EPISCGatz-20818-001,Peter Raschèr,1549.0,1601.0,1581.0,Bischof,Bistum Chur,False,wiag_bishops,32.0
+WIAG-Pers-EPISCGatz-20821-001,Dietrich Reden,1492.0,1556.0,1540.0,Domherr,Bistum Lübeck,False,wiag_bishops,48.0
+WIAG-Pers-EPISCGatz-20838-001,Detlev Reventlow,1485.0,1536.0,1513.0,Domherr,Bistum Lübeck,False,wiag_bishops,28.0
+WIAG-Pers-EPISCGatz-20843-001,Adrian Riedmatten,1610.0,1646.0,1642.0,Bischof,Bistum Sitten,False,wiag_bishops,32.0
+WIAG-Pers-EPISCGatz-20847-001,Wilhelm Rinck von Baldenstein,1566.0,1628.0,1609.0,Bischof,Bistum Basel,False,wiag_bishops,43.0
+WIAG-Pers-EPISCGatz-20848-001,Theodor Riphaen,1577.0,1616.0,1606.0,Weihbischof,Erzbistum Köln,False,wiag_bishops,29.0
+WIAG-Pers-EPISCGatz-20851-001,Philipp Rodenstein,1564.0,1604.0,1593.0,Kantor,Bistum Worms,False,wiag_bishops,29.0
+WIAG-Pers-EPISCGatz-20852-001,Georg Christoph Rösch,1577.0,1634.0,1612.0,Weihbischof,Bistum Eichstätt,False,wiag_bishops,35.0
+WIAG-Pers-EPISCGatz-20859-001,François Rosières,1539.0,1607.0,1565.0,Generalvikar des Bischofs,Bistum Toul,False,wiag_bishops,26.0
+WIAG-Pers-EPISCGatz-20865-001,Philipp Rovenius,1573.0,1651.0,1606.0,Generalvikar des Bischofs,Bistum Deventer,False,wiag_bishops,33.0
+WIAG-Pers-EPISCGatz-20867-001,Szymon Rudnicki,1552.0,1621.0,1605.0,Bischof,Bistum Ermland,False,wiag_bishops,53.0
+WIAG-Pers-EPISCGatz-20874-001,Gebhard Truchseß von Waldburg,1547.0,1601.0,1569.0,Domizellar,Erzbistum Köln,False,wiag_bishops,22.0
+WIAG-Pers-EPISCGatz-20883-001,Piotr Tylicki,1543.0,1616.0,1595.0,Bischof,Bistum Kulm,False,wiag_bishops,52.0
+WIAG-Pers-EPISCGatz-20887-001,Franz Ursinus,1569.0,1615.0,1614.0,Weihbischof,Bistum Breslau,False,wiag_bishops,45.0
+WIAG-Pers-EPISCGatz-20891-001,Gedeon Van der Gracht,1491.0,1554.0,1536.0,Weihbischof,Bistum Lüttich,False,wiag_bishops,45.0
+WIAG-Pers-EPISCGatz-20907-001,Sasbout Vosmeer,1548.0,1614.0,1583.0,Generalvikar,Bistum Utrecht,False,wiag_bishops,35.0
+WIAG-Pers-EPISCGatz-20913-001,Peter Wall,1582.0,1630.0,1617.0,Generalvikar des Bischofs,Bistum Augsburg,False,wiag_bishops,35.0
+WIAG-Pers-EPISCGatz-20920-001,Christoph Weber,1560.0,1633.0,1603.0,Dekan,Erzbistum Mainz,False,wiag_bishops,43.0
+WIAG-Pers-EPISCGatz-20921-001,Stephan Weber,1539.0,1622.0,1570.0,Weihbischof,Erzbistum Mainz,False,wiag_bishops,31.0
+WIAG-Pers-EPISCGatz-20925-001,Martin Weiher,1512.0,1556.0,1551.0,Bischof,Bistum Kammin,False,wiag_bishops,39.0
+WIAG-Pers-EPISCGatz-20926-001,Christoph Weilhamer,1547.0,1597.0,1589.0,Weihbischof,Bistum Passau,False,wiag_bishops,42.0
+WIAG-Pers-EPISCGatz-20927-001,Karl Weinberger,1582.0,1625.0,1620.0,Weihbischof,Bistum Breslau,False,wiag_bishops,38.0
+WIAG-Pers-EPISCGatz-20930-001,Adam Weisskopf,1533.0,1605.0,1577.0,Weihbischof,Bistum Breslau,False,wiag_bishops,44.0
+WIAG-Pers-EPISCGatz-20937-001,Sébastien Werro,1555.0,1614.0,1598.0,Apostolischer Administrator,Bistum Lausanne,False,wiag_bishops,43.0
+WIAG-Pers-EPISCGatz-20938-001,Christoph Wertwein,1512.0,1553.0,1550.0,Bischof,Bistum Wiener Neustadt,False,wiag_bishops,38.0
+WIAG-Pers-EPISCGatz-20950-001,August Wiederin von Ottersbach,1575.0,1620.0,1609.0,Apostolischer Administrator,Bistum Meißen,False,wiag_bishops,34.0
+WIAG-Pers-EPISCGatz-20957-001,Franz Anton Wolfradt,1581.0,1639.0,1631.0,Bischof,Bistum Wien,False,wiag_bishops,50.0
+WIAG-Pers-EPISCGatz-20962-001,Balthasar Wurer,1513.0,1606.0,1574.0,Weihbischof,Bistum Konstanz,False,wiag_bishops,61.0
+WIAG-Pers-EPISCGatz-20967-001,Jakub Zadzik,1582.0,1642.0,1624.0,Bischof,Bistum Kulm,False,wiag_bishops,42.0
+WIAG-Pers-EPISCGatz-20971-001,Daniel Zen,1584.0,1628.0,1627.0,Bischof,Bistum Brixen,False,wiag_bishops,43.0
+WIAG-Pers-EPISCGatz-20972-001,Paul Ziegler,1471.0,1541.0,1505.0,Administrator,Bistum Chur,False,wiag_bishops,34.0
+WIAG-Pers-EPISCGatz-21688-001,Peter Schumacher,1736.0,1789.0,1784.0,Generalvikar,St. Pölten,False,wiag_bishops,48.0
+WIAG-Pers-EPISCGatz-21725-001,Daniel Brendel von Homburg,1522.0,1582.0,1543.0,Domherr,Erzbistum Mainz,False,wiag_bishops,21.0
+WIAG-Pers-EPISCGatz-21751-001,Wolfgang Friedrich Laimingen,1629.0,1675.0,1654.0,Domherr,Erzbistum Salzburg,False,wiag_bishops,25.0
+WIAG-Pers-EPISCGatz-21752-001,Joachim Albrecht Leiblfing zu Rain,1640.0,1692.0,1664.0,Domherr,Erzbistum Salzburg,False,wiag_bishops,24.0
+WIAG-Pers-EPISCGatz-21754-001,Hannibal Felix Thurn und Valsassina,1699.0,1733.0,1718.0,Domherr,Erzbistum Salzburg,False,wiag_bishops,19.0
+WIAG-Pers-EPISCGatz-21755-001,Johann Leopold Peter Khevenhueller,1710.0,1775.0,1731.0,Domherr,Erzbistum Salzburg,False,wiag_bishops,21.0
+WIAG-Pers-EPISCGatz-21762-001,Anton Coelestin Nigg,1734.0,1809.0,1760.0,Kanoniker,Bistum Augsburg,False,wiag_bishops,26.0
+WIAG-Pers-EPISCGatz-21777-001,Christian August Sachsen-Zeitz,1666.0,1725.0,1691.0,Domherr,Bistum Lüttich,False,wiag_bishops,25.0

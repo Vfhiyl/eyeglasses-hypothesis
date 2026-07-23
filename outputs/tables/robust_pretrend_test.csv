@@ -1,0 +1,2 @@
+test,mean_glass_slope,mean_control_slope,t_stat,p_value,parallel_pretrends,note
+pre1300_hc_growth_glass_vs_control,0.00019373462303514186,-0.0015783418205553383,0.3125612114179091,0.754889437391178,True,non_rejection_is_not_support

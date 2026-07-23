@@ -1,0 +1,4 @@
+breakpoint,f_stat,p_value,n_pre,n_post,window_half,note,series
+1290,,,2,6,,insufficient_local_sample,ha_science_persons
+1450,,,4,4,,insufficient_local_sample,ha_science_persons
+1608,,,6,2,,insufficient_local_sample,ha_science_persons

@@ -1,0 +1,41 @@
+maker_id,list_number,first_attested_year,date_fragment,name_raw,is_friar,mentions_shop,source,confidence,notes
+florence_occhialaio_01,1,1413,28 Oct,"Piero di Iacopo, ochiali",0,0,Ilardi 2007 Appendix I pp.253-56 (OCR),medium,Parsed from Renaissance_Vision_djvu_ocr.txt; OCR name spelling noisy
+florence_occhialaio_02,2,1445,21 Feb,"Giovanni di Iacopo da Brucanese, che",0,1,Ilardi 2007 Appendix I pp.253-56 (OCR),medium,Parsed from Renaissance_Vision_djvu_ocr.txt; OCR name spelling noisy
+florence_occhialaio_03,3,1447,,LionardodiTommaso./dgl'odiifl/i,0,0,Ilardi 2007 Appendix I pp.253-56 (OCR),medium,Parsed from Renaissance_Vision_djvu_ocr.txt; OCR name spelling noisy
+florence_occhialaio_04,4,1454,20 May,Maestro della Dona,0,0,Ilardi 2007 Appendix I pp.253-56 (OCR),medium,Parsed from Renaissance_Vision_djvu_ocr.txt; OCR name spelling noisy
+florence_occhialaio_05,5,1456,lOjan,"Bonaiuto di Giovanni, qui facit",0,1,Ilardi 2007 Appendix I pp.253-56 (OCR),medium,Parsed from Renaissance_Vision_djvu_ocr.txt; OCR name spelling noisy
+florence_occhialaio_06,6,1465,,"Piero di Chralione [?],fagl'ochiali",0,0,Ilardi 2007 Appendix I pp.253-56 (OCR),medium,Parsed from Renaissance_Vision_djvu_ocr.txt; OCR name spelling noisy
+florence_occhialaio_07,7,1465,,"Antonio di Iacopo, merciaio, fa gli ochiali",0,0,Ilardi 2007 Appendix I pp.253-56 (OCR),medium,Parsed from Renaissance_Vision_djvu_ocr.txt; OCR name spelling noisy
+florence_occhialaio_08,8,1465,4 Dec,"Lorenzo di Francesco, fa gli ochiali",0,0,Ilardi 2007 Appendix I pp.253-56 (OCR),medium,Parsed from Renaissance_Vision_djvu_ocr.txt; OCR name spelling noisy
+florence_occhialaio_09,9,1465,9 Dec,"Matteo di Giovanni, fa gli ochiali",0,0,Ilardi 2007 Appendix I pp.253-56 (OCR),medium,Parsed from Renaissance_Vision_djvu_ocr.txt; OCR name spelling noisy
+florence_occhialaio_10,10,1466,Jan,11. Laurentius olim Francisci Iacobi,0,0,Ilardi 2007 Appendix I pp.253-56 (OCR),medium,Parsed from Renaissance_Vision_djvu_ocr.txt; OCR name spelling noisy
+florence_occhialaio_12,12,1474,,"Leonardus Iacobi, ochialarius, pp. S",0,0,Ilardi 2007 Appendix I pp.253-56 (OCR),medium,Parsed from Renaissance_Vision_djvu_ocr.txt; OCR name spelling noisy
+florence_occhialaio_13,13,1478,,"Bertus Luce Berti, merciarius sive oclearius",0,0,Ilardi 2007 Appendix I pp.253-56 (OCR),medium,Parsed from Renaissance_Vision_djvu_ocr.txt; OCR name spelling noisy
+florence_occhialaio_14,14,1478,,"Guglielmus Antonii Guglielmi, ochialarius",0,0,Ilardi 2007 Appendix I pp.253-56 (OCR),medium,Parsed from Renaissance_Vision_djvu_ocr.txt; OCR name spelling noisy
+florence_occhialaio_15,15,1478,30 Oct,"Giovanni di Piero, fagli ochiali",0,0,Ilardi 2007 Appendix I pp.253-56 (OCR),medium,Parsed from Renaissance_Vision_djvu_ocr.txt; OCR name spelling noisy
+florence_occhialaio_16,16,1478,,"Iacobus olim Iohannis Pierozi, fagli ochiali",0,1,Ilardi 2007 Appendix I pp.253-56 (OCR),medium,Parsed from Renaissance_Vision_djvu_ocr.txt; OCR name spelling noisy
+florence_occhialaio_22,22,1480,,Stagio di Piero di Martino Martini,0,0,Ilardi 2007 Appendix I pp.253-56 (OCR),medium,Parsed from Renaissance_Vision_djvu_ocr.txt; OCR name spelling noisy
+florence_occhialaio_23,23,1480,,Giovanni d'Antonio,0,0,Ilardi 2007 Appendix I pp.253-56 (OCR),medium,Parsed from Renaissance_Vision_djvu_ocr.txt; OCR name spelling noisy
+florence_occhialaio_24,24,1480,,Carlo di Bartolo di Buongiovanni,0,0,Ilardi 2007 Appendix I pp.253-56 (OCR),medium,Parsed from Renaissance_Vision_djvu_ocr.txt; OCR name spelling noisy
+florence_occhialaio_25,25,1480,,Lionardo di Tommaso di Lionardo,0,0,Ilardi 2007 Appendix I pp.253-56 (OCR),medium,Parsed from Renaissance_Vision_djvu_ocr.txt; OCR name spelling noisy
+florence_occhialaio_26,26,1483,20 Aug,Magistro Smeraldo di Biagio,0,1,Ilardi 2007 Appendix I pp.253-56 (OCR),medium,Parsed from Renaissance_Vision_djvu_ocr.txt; OCR name spelling noisy
+florence_occhialaio_27,27,1488,,"Iohannes Bartolomei Chirichi, alias el Palla",0,0,Ilardi 2007 Appendix I pp.253-56 (OCR),medium,Parsed from Renaissance_Vision_djvu_ocr.txt; OCR name spelling noisy
+florence_occhialaio_28,28,1488,,"Angelus Bartolomei Chirici, ochiaio, pp. S",0,0,Ilardi 2007 Appendix I pp.253-56 (OCR),medium,Parsed from Renaissance_Vision_djvu_ocr.txt; OCR name spelling noisy
+florence_occhialaio_29,29,1489,17 Dec,Santi di . . . ossaio chefa gl'ochiali nel,0,0,Ilardi 2007 Appendix I pp.253-56 (OCR),medium,Parsed from Renaissance_Vision_djvu_ocr.txt; OCR name spelling noisy
+florence_occhialaio_30,30,1490,16 Oct,"Franciscus Smeraldi Blasii, ochialar-",0,0,Ilardi 2007 Appendix I pp.253-56 (OCR),medium,Parsed from Renaissance_Vision_djvu_ocr.txt; OCR name spelling noisy
+florence_occhialaio_31,31,1491,,"Iohannes olim Bonaiuti, ochialarius, pp. S",0,0,Ilardi 2007 Appendix I pp.253-56 (OCR),medium,Parsed from Renaissance_Vision_djvu_ocr.txt; OCR name spelling noisy
+florence_occhialaio_32,32,1491,,Iohannes Bartholomew jaglt ochiali,0,0,Ilardi 2007 Appendix I pp.253-56 (OCR),medium,Parsed from Renaissance_Vision_djvu_ocr.txt; OCR name spelling noisy
+florence_occhialaio_33,33,1492,,"Lorenzo di Smeraldo, ochialaio, nella via de'",0,0,Ilardi 2007 Appendix I pp.253-56 (OCR),medium,Parsed from Renaissance_Vision_djvu_ocr.txt; OCR name spelling noisy
+florence_occhialaio_34,34,1492,,"Pasquino di Michele Buontempi, ochialaio",0,0,Ilardi 2007 Appendix I pp.253-56 (OCR),medium,Parsed from Renaissance_Vision_djvu_ocr.txt; OCR name spelling noisy
+florence_occhialaio_35,35,1492,,"Benedetto d'Antonio, ochialaio, nella via",0,0,Ilardi 2007 Appendix I pp.253-56 (OCR),medium,Parsed from Renaissance_Vision_djvu_ocr.txt; OCR name spelling noisy
+florence_occhialaio_36,36,1500,12 March,Romulus Cipriani Bartolomei,0,0,Ilardi 2007 Appendix I pp.253-56 (OCR),medium,Parsed from Renaissance_Vision_djvu_ocr.txt; OCR name spelling noisy
+florence_occhialaio_37,37,1501,,"Iacobus Antonius Iohannes, ochialarius",0,0,Ilardi 2007 Appendix I pp.253-56 (OCR),medium,Parsed from Renaissance_Vision_djvu_ocr.txt; OCR name spelling noisy
+florence_occhialaio_38,38,1503,2jan,Petrus Lodovici Papi di Solongo [?],0,0,Ilardi 2007 Appendix I pp.253-56 (OCR),medium,Parsed from Renaissance_Vision_djvu_ocr.txt; OCR name spelling noisy
+florence_occhialaio_39,39,1505,27 July,Matteo di Bartolomeo di Niccolo,0,0,Ilardi 2007 Appendix I pp.253-56 (OCR),medium,Parsed from Renaissance_Vision_djvu_ocr.txt; OCR name spelling noisy
+florence_occhialaio_40,40,1521,,"Piero di Matteo, ochiolaio",0,0,Ilardi 2007 Appendix I pp.253-56 (OCR),medium,Parsed from Renaissance_Vision_djvu_ocr.txt; OCR name spelling noisy
+florence_occhialaio_42,42,1525,,"Bartholomeo./d gli ochiali, ha dua figliuoli e",0,0,Ilardi 2007 Appendix I pp.253-56 (OCR),medium,Parsed from Renaissance_Vision_djvu_ocr.txt; OCR name spelling noisy
+florence_occhialaio_43,43,1525,,"Pasquino di Philippo, occhialaio, ha tre fi-",0,0,Ilardi 2007 Appendix I pp.253-56 (OCR),medium,Parsed from Renaissance_Vision_djvu_ocr.txt; OCR name spelling noisy
+florence_occhialaio_45,45,1525,,"Sanno, fa gli ochiali, al canto le Laude, S",0,0,Ilardi 2007 Appendix I pp.253-56 (OCR),medium,Parsed from Renaissance_Vision_djvu_ocr.txt; OCR name spelling noisy
+florence_occhialaio_46,46,1525,,"Francesco, /a gli ochiali, ha un figliuolo e un",0,0,Ilardi 2007 Appendix I pp.253-56 (OCR),medium,Parsed from Renaissance_Vision_djvu_ocr.txt; OCR name spelling noisy
+florence_occhialaio_47,47,1562,,Antonio di Benedetto detto il Boncio,0,0,Ilardi 2007 Appendix I pp.253-56 (OCR),medium,Parsed from Renaissance_Vision_djvu_ocr.txt; OCR name spelling noisy
+florence_occhialaio_48,48,1562,,"Marco di Domenico di Marco, ochialaio",0,1,Ilardi 2007 Appendix I pp.253-56 (OCR),medium,Parsed from Renaissance_Vision_djvu_ocr.txt; OCR name spelling noisy

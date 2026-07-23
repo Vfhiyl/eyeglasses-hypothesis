@@ -1,0 +1,2 @@
+test,glass_pre_1300,glass_post_1300,control_pre_1300,control_post_1300,glass_total,control_total,glass_share_of_timed_events,glass_post_pre_ratio,control_post_pre_ratio,glass_growth_over_control,n_places_mapped,n_events_with_place,n_timed_events
+mmm_production_events_glass_vs_control,22,6101,581,30487,7188,56382,0.0332,277.3182,52.4733,5.2849,5023,289032,216394

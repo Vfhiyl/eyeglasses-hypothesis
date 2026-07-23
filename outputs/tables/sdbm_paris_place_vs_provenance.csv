@@ -1,0 +1,3 @@
+city,search_field,source_file,n_entries,n_date_parsed,n_mid_pre_1300,n_mid_post_1300,n_spans_1300_breakpoint,n_entirely_pre_1300,folios_sum,peak_halfcentury,peak_entries,post_pre_ratio_mid,local_pre_1200_1285,local_post_1300_1385,local_post_over_pre,local_folios_pre,local_folios_post,note
+Paris,place,sdbm_paris_1200_1500.csv,3349,3345,793,2552,265,581,659011.0,1450,1130,3.22,672,373,0.5551,200304.0,85339.0,SDBM Place+ManuscriptDate; mid=(start+end)/2
+Paris,provenance,sdbm_paris_1200_1500_provenance.csv,2059,2058,731,1327,405,349,234517.0,1450,590,1.82,459,419,0.9129,47194.0,53972.0,SDBM Provenance+ManuscriptDate; mid=(start+end)/2

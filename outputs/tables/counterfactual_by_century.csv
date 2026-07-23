@@ -1,0 +1,6 @@
+scenario,delta,n_scholars,total_active_years,affected_years_40plus,affected_share_pct,lost_output_units,pct_output_loss,century
+century_1300,0.217,19,655,392,59.85,85.06,12.99,1300
+century_1400,0.217,34,1171,672,57.39,145.82,12.45,1400
+century_1500,0.217,188,6604,3800,57.54,824.6,12.49,1500
+century_1600,0.217,323,10539,5813,55.16,1261.42,11.97,1600
+century_1700,0.217,340,11038,6015,54.49,1305.26,11.83,1700

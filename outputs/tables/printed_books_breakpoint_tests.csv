@@ -1,0 +1,4 @@
+breakpoint,f_stat,p_value,n_pre,n_post,window_half,note,series
+1290,,,0,7,,insufficient_local_sample,printed_books_europe
+1450,,,0,7,,insufficient_local_sample,printed_books_europe
+1608,,,3,4,,insufficient_local_sample,printed_books_europe

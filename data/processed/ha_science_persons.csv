@@ -1,0 +1,1443 @@
+serial,name,fl_year,birth_year,death_year,inventory,science_field,index_score,Duplicate,birth_country,work_country,ethnicity,woman,No. of Inventories,century,source
+11,"Abel, Frederic",1867,1827.0,1902.0,Science,Chem,4.063269096341555,0,Britain,Britain,English,0,,1800,murray_ha_osf
+12,"Abel, John ",1897,1857.0,1938.0,Science,Biol,25.04514267314914,0,USA,USA,Germanic,0,,1800,murray_ha_osf
+13,"Abel, Niels",1829,1802.0,1829.0,Science,Math,24.080776013847778,0,Norway,Norway,Norwegian,0,,1800,murray_ha_osf
+41,Abül Wafa (Qafa),980,940.0,998.0,Science,Math,6.932395251355919,0,Arab World,Arab World,Arabic,0,,900,murray_ha_osf
+54,"Adams, Ansel",1942,1902.0,1984.0,Science,Tech,6.2250792472092105,0,USA,USA,USA,0,,1900,murray_ha_osf
+58,"Adams, John ",1859,1819.0,1892.0,Science,Astr,16.07793647108406,0,Britain,Britain,English,0,,1800,murray_ha_osf
+64,"Adams, Walter ",1916,1876.0,1956.0,Science,Astr,26.67124550897086,0,USA,USA,USA,0,,1900,murray_ha_osf
+66,"Addison, Thomas",1833,1793.0,1860.0,Science,Medi,21.827540033857034,0,Britain,Britain,English,0,,1800,murray_ha_osf
+68,Adelhard of Bath ,1125,,,Science,Math,9.1968688606432,0,Britain,Britain,English,0,,1100,murray_ha_osf
+83,"Agassiz, Louis",1847,1807.0,1873.0,Science,Eart,37.092885049877786,0,Switzerland,USA,French,0,,1800,murray_ha_osf
+87,Agricola (Georg Bauer),1534,1494.0,1555.0,Science,Eart,50.95167110319273,0,Germany,Germany,Germanic,0,,1500,murray_ha_osf
+97,"Aiken, Howard",1940,1900.0,1973.0,Science,Tech,12.505541345241516,0,USA,USA,USA,0,,1900,murray_ha_osf
+99,"Airy, George",1841,1801.0,1892.0,Science,Astr,4.869546632001161,0,Britain,Britain,English,0,,1800,murray_ha_osf
+4424,"al-Khwarizmi, Abu Ja’far ",840,800.0,850.0,Science,Math,23.921784836647582,0,Arab World,Arab World,Arabic,0,,800,murray_ha_osf
+9077,al-Zarqali (Arzachel),1070,,,Science,Astr,7.210432170970823,0,Spain,Spain,Spanish,0,,1000,murray_ha_osf
+110,Albategnius (al-Battani),898,858.0,929.0,Science,Math,4.2613701522639,0,Arab World,Arab World,Arabic,0,,800,murray_ha_osf
+114,"Alberti, Friedrich von",1835,1795.0,1878.0,Science,Eart,8.395479606028212,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+115,"Alberti, Leon Battista",1444,1404.0,1472.0,Science,Tech,20.24643512385133,0,Italy,Italy,Italian,0,,1400,murray_ha_osf
+117,"Albertus Magnus, St.",1240,1200.0,1280.0,Science,Chem,17.279450937632834,1,Germany,Germany,Germanic,0,2.0,1200,murray_ha_osf
+126,Alcmaeon,520,,,Science,Medi,5.1971932744143166,0,Anc Greece,Anc Greece,Ancient Greek,0,,500,murray_ha_osf
+131,"Alder, Kurt",1942,1902.0,1958.0,Science,Chem,5.503468123929394,0,Germany,Germany,Germanic,0,,1900,murray_ha_osf
+145,"Alfvén, Hannes Olof",1948,1908.0,1995.0,Science,Phys,5.4474928697962905,0,Sweden,Sweden,Swedish,0,,1900,murray_ha_osf
+3658,Alhazen (ibn al-Haytham),1005,965.0,1040.0,Science,Phys,26.612047604299477,0,Arab World,Arab World,Arabic,0,,1000,murray_ha_osf
+150,"Allbutt, Thomas",1876,1836.0,1925.0,Science,Medi,10.076636609965623,0,Britain,Britain,English,0,,1800,murray_ha_osf
+162,"Alpini, Prospero",1593,1553.0,1616.0,Science,Biol,6.7779199541008435,0,Italy,Italy,Italian,0,,1500,murray_ha_osf
+175,"Ambartsumian, Viktor",1948,1908.0,,Science,Astr,5.341921025168946,0,Russia,Russia,Slavic,0,,1900,murray_ha_osf
+182,"Amici, Giovanni Battista",1826,1786.0,1863.0,Science,Biol,2.868026850860479,1,Italy,Italy,Italian,0,2.0,1800,murray_ha_osf
+182,"Amici, Giovanni Battista",1826,1786.0,1863.0,Science,Tech,16.16714769417419,1,Italy,Italy,Italian,0,2.0,1800,murray_ha_osf
+186,"Amontons, Guillaume",1703,1663.0,1705.0,Science,Phys,15.113721054372867,0,France,France,French,0,,1700,murray_ha_osf
+187,"Ampère, André",1815,1775.0,1836.0,Science,Phys,26.35675059813601,0,France,France,French,0,,1800,murray_ha_osf
+194,Anaxagoras of Clazomenae,-460,-500.0,-428.0,Science,Science,,1,Anc Greece,Anc Greece,Ancient Greek,0,2.0,-500,murray_ha_osf
+196,Anaximander the Elder,-571,-611.0,-547.0,Science,Astr,9.204302697300124,0,Anc Greece,Anc Greece,Ancient Greek,0,,-600,murray_ha_osf
+201,"Anderson, Carl ",1945,1905.0,1991.0,Science,Phys,22.70776793987343,0,USA,USA,USA,0,,1900,murray_ha_osf
+220,"Andrews, Thomas",1853,1813.0,1885.0,Science,Chem,7.306925565659387,0,Britain,Britain,Irish,0,,1800,murray_ha_osf
+230,"Angström, Anders",1854,1814.0,1874.0,Science,Phys,4.643224636420946,0,Sweden,Sweden,Swedish,0,,1800,murray_ha_osf
+234,"Anschutz-Kämpfer, Hermann",1912,1872.0,1931.0,Science,Tech,7.63332296800106,0,Germany,Germany,Germanic,0,,1900,murray_ha_osf
+247,"Apian, Peter (Bennewitz)",1535,1495.0,1552.0,Science,Astr,8.904273989786672,0,Germany,Germany,Germanic,0,,1500,murray_ha_osf
+248,Apollonius of Perga,-240,,,Science,Math,30.621132364347858,0,Anc Greece,Anc Greece,Ancient Greek,0,,-300,murray_ha_osf
+252,"Appert, Nicolas",1790,1750.0,1841.0,Science,Tech,23.58715962137003,0,France,France,French,0,,1700,murray_ha_osf
+254,"Appleton, Edward",1932,1892.0,1965.0,Science,Phys,7.708654531066489,0,Britain,Britain,English,0,,1900,murray_ha_osf
+257,"Arago, Dominique",1826,1786.0,1853.0,Science,Phys,35.760991879412416,0,France,France,French,0,,1800,murray_ha_osf
+270,Archimedes,-247,-287.0,-212.0,Science,Math,33.12415899935054,1,Anc Greece,Anc Greece,Ancient Greek,0,3.0,-300,murray_ha_osf
+270,Archimedes,-247,-287.0,-212.0,Science,Phys,20.436583870493504,1,Anc Greece,Anc Greece,Ancient Greek,0,3.0,-300,murray_ha_osf
+270,Archimedes,-247,-287.0,-212.0,Science,Tech,51.1375036133067,1,Anc Greece,Anc Greece,Ancient Greek,0,3.0,-300,murray_ha_osf
+271,Archytas of Tarentum,-390,-430.0,-348.0,Science,Math,7.679837442021899,0,Anc Greece,Anc Greece,Ancient Greek,0,,-400,murray_ha_osf
+278,"Arfvedson, Johann",1832,1792.0,1841.0,Science,Chem,4.7234833919978065,0,Sweden,Sweden,Swedish,0,,1800,murray_ha_osf
+281,"Argand, Jean",1808,1768.0,1822.0,Science,Math,7.137438939181433,0,Switzerland,France,French,0,,1800,murray_ha_osf
+282,"Argelander, Friedrich",1839,1799.0,1875.0,Science,Astr,7.5985474429916415,0,Germany,Germany,Finnish,0,,1800,murray_ha_osf
+289,Aristarchus of Samos,-270,,,Science,Astr,27.614449411451037,0,Anc Greece,Anc Greece,Ancient Greek,0,,-300,murray_ha_osf
+290,Aristotle,-344,-384.0,-322.0,Science,Biol,93.77642892091983,1,Anc Greece,Anc Greece,Ancient Greek,0,2.0,-400,murray_ha_osf
+295,"Arkwright, Richard",1772,1732.0,1792.0,Science,Tech,26.94240284050768,0,Britain,Britain,English,0,,1700,murray_ha_osf
+297,"Armstrong, Edwin ",1930,1890.0,1954.0,Science,Tech,25.368321132366795,0,USA,USA,USA,0,,1900,murray_ha_osf
+301,"Armstrong, William ",1850,1810.0,1900.0,Science,Tech,9.529366352342118,0,Britain,Britain,English,0,,1800,murray_ha_osf
+313,"Arrhenius, Svante ",1899,1859.0,1927.0,Science,Chem,13.990543701532173,0,Sweden,Sweden,Swedish,0,,1800,murray_ha_osf
+319,"Artin, Emil",1938,1898.0,1962.0,Science,Math,1.8879823682245351,0,Czech,USA,Czech,0,,1900,murray_ha_osf
+321,Aryabhata I,500,,,Science,Math,16.030295159526503,0,India,India,Indian,0,,500,murray_ha_osf
+325,"Aselli, Gasparo",1621,1581.0,1625.0,Science,Medi,9.768940399109693,0,Italy,Italy,Italian,0,,1600,murray_ha_osf
+338,"Aspdin, Joseph",1839,1799.0,1855.0,Science,Tech,11.008426264856602,0,Britain,Britain,English,0,,1800,murray_ha_osf
+341,"Astbury, William",1939,1899.0,1961.0,Science,Phys,4.967552226739742,0,Britain,Britain,English,0,,1900,murray_ha_osf
+342,"Aston, Francis ",1917,1877.0,1945.0,Science,Chem,19.484780172246065,0,Britain,Britain,English,0,,1900,murray_ha_osf
+344,"Atanasoff, John",1943,1903.0,,Science,Phys,4.902912957820248,0,USA,USA,Bulgarian,0,,1900,murray_ha_osf
+354,"Audubon, James",1825,1785.0,1851.0,Science,Biol,7.6395980399581145,0,USA,USA,French,0,,1800,murray_ha_osf
+355,"Auenbrugger, Leopold",1762,1722.0,1809.0,Science,Medi,19.7562344304581,0,Austria,Austria,Germanic,0,,1700,murray_ha_osf
+356,"Auer, Karl",1898,1858.0,1929.0,Science,Chem,7.813195224399235,1,Austria,Austria,Germanic,0,2.0,1800,murray_ha_osf
+356,"Auer, Karl",1898,1858.0,1929.0,Science,Tech,8.570893477247111,1,Austria,Austria,Germanic,0,2.0,1800,murray_ha_osf
+366,Averroës (ibn Rushd),1166,1126.0,1198.0,Science,Science,,1,Spain,Spain,Spanish,0,2.0,1100,murray_ha_osf
+367,"Avery, Oswald",1917,1877.0,1955.0,Science,Biol,22.009682056291062,0,Canada,USA,Canadian,0,,1900,murray_ha_osf
+7620,Avicenna (ibn Sina),1020,980.0,1037.0,Science,Science,,1,Arab World,Arab World,Arabic,0,2.0,1000,murray_ha_osf
+368,"Avogadro, Amedeo",1816,1776.0,1856.0,Science,Phys,22.98047342970447,0,Italy,Italy,Italian,0,,1800,murray_ha_osf
+375,"Baade, Walter",1933,1893.0,1960.0,Science,Astr,46.5033363035703,0,Germany,USA,Germanic,0,,1900,murray_ha_osf
+377,"Babbage, Charles",1832,1792.0,1871.0,Science,Tech,32.589714641107975,0,Britain,Britain,English,0,,1800,murray_ha_osf
+401,"Bacon, Francis",1601,1561.0,1626.0,Science,Science,,1,Britain,Britain,English,0,3.0,1600,murray_ha_osf
+402,"Bacon, Roger",1254,1214.0,1292.0,Science,Science,,1,Britain,Britain,English,0,2.0,1200,murray_ha_osf
+405,"Baekeland, Leo",1903,1863.0,1944.0,Science,Chem,7.870538050953417,1,Belgium,USA,Flemish,0,2.0,1900,murray_ha_osf
+405,"Baekeland, Leo",1903,1863.0,1944.0,Science,Tech,16.082357554524112,1,Belgium,USA,Flemish,0,2.0,1900,murray_ha_osf
+406,"Baer, Karl von",1832,1792.0,1876.0,Science,Biol,43.11553289830778,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+407,"Baeyer, Johann von",1875,1835.0,1917.0,Science,Chem,7.524843466604189,0,Germany,Germany,Jewish,0,,1800,murray_ha_osf
+425,"Baily, Francis",1814,1774.0,1844.0,Science,Astr,6.259570181131668,0,Britain,Britain,English,0,,1800,murray_ha_osf
+429,"Baird, John",1928,1888.0,1946.0,Science,Tech,12.669448457585927,0,Britain,Britain,Scots,0,,1900,murray_ha_osf
+446,"Balard, Antoine",1842,1802.0,1876.0,Science,Chem,6.191521483701565,0,France,France,French,0,,1800,murray_ha_osf
+465,"Balmer, Johann",1865,1825.0,1898.0,Science,Phys,8.280249275523458,0,Switzerland,Switzerland,Germanic,0,,1800,murray_ha_osf
+468,"Banach, Stefan",1932,1892.0,1945.0,Science,Math,7.453452029253915,0,Poland,Poland,Polish,0,,1900,murray_ha_osf
+476,"Banting, Frederick",1931,1891.0,1941.0,Science,Medi,26.71923605989982,0,Canada,Canada,Canadian,0,,1900,murray_ha_osf
+489,"Bardeen, John",1948,1908.0,1991.0,Science,Phys,17.066304459176695,0,USA,USA,USA,0,,1900,murray_ha_osf
+496,"Barkla, Charles",1917,1877.0,1944.0,Science,Phys,10.838746883022656,0,Britain,Britain,English,0,,1900,murray_ha_osf
+503,"Barnard, Edward",1897,1857.0,1923.0,Science,Astr,26.275839561481263,0,USA,USA,USA,0,,1800,murray_ha_osf
+516,"Barrow, Isaac",1670,1630.0,1677.0,Science,Math,16.611535230497154,0,Britain,Britain,English,0,,1600,murray_ha_osf
+523,"Bartholin, Erasmus",1665,1625.0,1698.0,Science,Phys,11.668750006875284,0,Denmark,Denmark,Danish,0,,1600,murray_ha_osf
+555,"Bateson, William",1901,1861.0,1926.0,Science,Biol,23.77103980029944,0,Britain,Britain,English,0,,1900,murray_ha_osf
+566,"Bauhin, Gaspard",1600,1560.0,1624.0,Science,Biol,5.3034108984579404,0,Switzerland,Switzerland,French,0,,1600,murray_ha_osf
+573,"Bawden, Frederick",1948,1908.0,1972.0,Science,Biol,8.559280145392549,0,Britain,Britain,English,0,,1900,murray_ha_osf
+576,"Bayer, Johann",1612,1572.0,1625.0,Science,Astr,6.081663007721183,0,Germany,Germany,Germanic,0,,1600,murray_ha_osf
+582,"Bayliss, William",1900,1860.0,1924.0,Science,Biol,15.823298965154855,0,Britain,Britain,English,0,,1900,murray_ha_osf
+585,"Beadle, George",1943,1903.0,1989.0,Science,Biol,14.475161933634839,0,USA,USA,Jewish,0,,1900,murray_ha_osf
+590,"Beaufort, Francis",1814,1774.0,1857.0,Science,Eart,4.524536979397576,0,Britain,Britain,Irish,0,,1800,murray_ha_osf
+592,"Beaumont, William",1825,1785.0,1853.0,Science,Biol,10.449133723969805,0,USA,USA,USA,0,,1800,murray_ha_osf
+597,"Becher, Johann",1675,1635.0,1682.0,Science,Chem,11.35003225342371,0,Germany,Germany,Germanic,0,,1600,murray_ha_osf
+608,"Becquerel, Alexandre",1860,1820.0,1891.0,Science,Phys,7.811648757960625,0,France,France,French,0,,1800,murray_ha_osf
+610,"Becquerel, Antoine",1892,1852.0,1908.0,Science,Phys,27.64482426936013,0,France,France,French,0,,1800,murray_ha_osf
+614,"Beddoes, Thomas",1800,1760.0,1808.0,Science,Medi,16.916503548510562,0,Britain,Britain,English,0,,1800,murray_ha_osf
+617,"Beebe, Charles",1917,1877.0,1962.0,Science,Tech,8.189191133260122,0,USA,USA,USA,0,,1900,murray_ha_osf
+622,"Beguin, Jean",1590,1550.0,1620.0,Science,Chem,2.6134444062890547,0,France,France,French,0,,1500,murray_ha_osf
+628,"Behring, Emil von",1894,1854.0,1917.0,Science,Medi,43.77790832047091,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+631,"Beijerinck, Martinus",1891,1851.0,1931.0,Science,Biol,16.086464171767915,0,Netherlands,Netherlands,Dutch,0,,1800,murray_ha_osf
+636,"Békésy, Georg von",1939,1899.0,1972.0,Science,Biol,3.4263565884936904,0,Hungary,USA,Hungarian,0,,1900,murray_ha_osf
+643,"Bell, Alexander",1887,1847.0,1922.0,Science,Tech,24.739933748193728,0,Britain,USA,Scots,0,,1800,murray_ha_osf
+644,"Bell, Charles",1814,1774.0,1842.0,Science,Medi,15.977124302377485,0,Britain,Britain,Scots,0,,1800,murray_ha_osf
+650,"Bell, Patrick",1839,1799.0,1869.0,Science,Tech,11.008426264856602,0,Britain,Britain,Scots,0,,1800,murray_ha_osf
+663,"Belon, Pierre",1557,1517.0,1564.0,Science,Biol,15.664221208294657,0,France,France,French,0,,1500,murray_ha_osf
+667,"Beltrami, Eugenio",1875,1835.0,1899.0,Science,Math,5.814348817232438,0,Italy,Italy,Italian,0,,1800,murray_ha_osf
+672,"Beneden, Edouard",1886,1846.0,1910.0,Science,Biol,19.6145118008518,0,Belgium,Belgium,Flemish,0,,1800,murray_ha_osf
+699,"Benz, Carl",1884,1844.0,1929.0,Science,Tech,18.151978881449978,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+706,"Berg, Otto",1925,,,Science,Phys,7.2687995463121675,0,Germany,Germany,Germanic,0,,1900,murray_ha_osf
+709,"Berger, Johannes",1913,1873.0,1941.0,Science,Science,,0,Germany,Germany,Germanic,0,,1900,murray_ha_osf
+714,"Bergius, Friedrich",1924,1884.0,1949.0,Science,Chem,5.216622025387723,0,Germany,Germany,Germanic,0,,1900,murray_ha_osf
+718,"Bergmann, Torbern ",1775,1735.0,1784.0,Science,Chem,14.376943589465771,0,Sweden,Sweden,Swedish,0,,1700,murray_ha_osf
+730,"Bernal, John",1941,1901.0,1971.0,Science,Chem,5.503517929260859,0,Britain,Britain,Irish,0,,1900,murray_ha_osf
+731,"Bernard, Claude",1853,1813.0,1878.0,Science,Biol,44.62529252536948,1,France,France,French,0,2.0,1800,murray_ha_osf
+731,"Bernard, Claude",1853,1813.0,1878.0,Science,Medi,24.02197324506657,1,France,France,French,0,2.0,1800,murray_ha_osf
+743,"Bernoulli, Daniel",1740,1700.0,1782.0,Science,Math,6.243833778419887,0,Switzerland,Switzerland,French,0,,1700,murray_ha_osf
+744,"Bernoulli, Jakob I",1694,1654.0,1705.0,Science,Math,40.14972431940606,0,Switzerland,Switzerland,French,0,,1600,murray_ha_osf
+746,"Bernoulli, Johann I",1707,1667.0,1748.0,Science,Math,20.45476918375113,0,Switzerland,Switzerland,French,0,,1700,murray_ha_osf
+749,"Bernoulli, Nikolaus I",1727,1687.0,1759.0,Science,Math,5.315501812664256,0,Switzerland,Switzerland,French,0,,1700,murray_ha_osf
+764,"Berthelot, Pierre",1867,1827.0,1907.0,Science,Chem,12.032190435491822,0,France,France,French,0,,1800,murray_ha_osf
+767,"Berthollet, Claude",1788,1748.0,1822.0,Science,Chem,28.906935586002614,0,France,France,French,0,,1700,murray_ha_osf
+779,"Berzelius, Jöns",1819,1779.0,1848.0,Science,Chem,66.70658116942396,0,Sweden,Sweden,Swedish,0,,1800,murray_ha_osf
+781,"Bessel, Friedrich",1824,1784.0,1846.0,Science,Astr,39.351633975692465,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+782,"Bessemer, Henry",1853,1813.0,1898.0,Science,Tech,33.75644282384167,0,Britain,Britain,English,0,,1800,murray_ha_osf
+784,"Best, Charles ",1939,1899.0,1978.0,Science,Medi,19.00129051853926,0,USA,Canada,USA,0,,1900,murray_ha_osf
+786,"Bethe, Hans ",1946,1906.0,,Science,Phys,11.831352595580725,0,Germany,USA,Jewish,0,,1900,murray_ha_osf
+798,"Bhabha, Homi ",1949,1909.0,1966.0,Science,Phys,2.0902532114380428,0,India,India,Indian,0,,1900,murray_ha_osf
+800,Bhaskara II,1154,1114.0,1185.0,Science,Math,12.630024072350857,0,India,India,Indian,0,,1100,murray_ha_osf
+807,"Bichat, Marie ",1802,1771.0,1802.0,Science,Biol,14.86937065704236,0,France,France,French,0,,1800,murray_ha_osf
+814,"Biermann, Ludwig",1947,1907.0,1986.0,Science,Astr,5.700433350413002,0,Germany,Germany,Germanic,0,,1900,murray_ha_osf
+823,"Billroth, Christian ",1869,1829.0,1894.0,Science,Medi,13.454614390008446,0,Germany,Austria,Germanic,0,,1800,murray_ha_osf
+825,"Binet, Alfred",1897,1857.0,1911.0,Science,Science,,0,France,France,French,0,,1800,murray_ha_osf
+830,"Biot, Jean",1814,1774.0,1862.0,Science,Phys,13.517030463361134,0,France,France,French,0,,1800,murray_ha_osf
+836,"Birdseye, Clarence",1926,1886.0,1956.0,Science,Tech,7.695537343717914,0,USA,USA,USA,0,,1900,murray_ha_osf
+839,"Biringuccio, Vanuccio",1520,1480.0,1539.0,Science,Chem,10.06690320157494,0,Italy,Italy,Italian,0,,1500,murray_ha_osf
+841,"Birkhoff, George",1924,1884.0,1944.0,Science,Math,5.727909972873522,0,USA,USA,USA,0,,1900,murray_ha_osf
+843,Biro Brothers,1938,,,Science,Tech,9.738242679754636,0,Hungary,Latin Am,Jewish,0,,1900,murray_ha_osf
+859,"Bjerknes, Jakob ",1937,1897.0,1975.0,Science,Eart,17.579326281702333,0,Norway,USA,Norwegian,0,,1900,murray_ha_osf
+860,"Bjerknes, Vilhelm",1902,1862.0,1951.0,Science,Eart,29.257379840488092,0,Norway,Norway,Norwegian,0,,1900,murray_ha_osf
+870,"Black, Joseph",1768,1728.0,1799.0,Science,Chem,32.45986477975089,0,Britain,Britain,Scots,0,,1700,murray_ha_osf
+883,"Blalock, Alfred",1939,1899.0,1964.0,Science,Medi,9.92409626722345,0,USA,USA,USA,0,,1900,murray_ha_osf
+886,"Blanchard, Jean",1793,1753.0,1809.0,Science,Tech,14.969298093639601,0,France,France,French,0,,1700,murray_ha_osf
+897,"Blériot, Louis",1912,1872.0,1936.0,Science,Tech,11.574767202125098,0,France,France,French,0,,1900,murray_ha_osf
+904,"Bloch, Felix",1945,1905.0,1983.0,Science,Phys,14.295116716991702,0,Switzerland,USA,Jewish,0,,1900,murray_ha_osf
+916,"Blumenbach, Johann",1792,1752.0,1840.0,Science,Eart,19.06133010647966,0,Germany,Germany,Germanic,0,,1700,murray_ha_osf
+927,"Bode, Johann",1787,1747.0,1826.0,Science,Astr,12.287052305786387,0,Germany,Germany,Germanic,0,,1700,murray_ha_osf
+933,"Böerhaave, Hermann",1708,1668.0,1738.0,Science,Medi,29.19773123986118,0,Netherlands,Netherlands,Dutch,0,,1700,murray_ha_osf
+952,"Bohr, Niels",1925,1885.0,1962.0,Science,Phys,51.661581328743345,0,Denmark,Denmark,Jewish,0,,1900,murray_ha_osf
+953,"Boisbaudran, Paul de",1878,1838.0,1912.0,Science,Chem,12.062448943582604,0,France,France,French,0,,1800,murray_ha_osf
+965,"Boltwood, Bertram ",1910,1870.0,1927.0,Science,Chem,5.722573222454376,0,USA,USA,USA,0,,1900,murray_ha_osf
+966,"Boltzmann, Ludwig ",1884,1844.0,1906.0,Science,Phys,29.13929626968667,0,Austria,Austria,Germanic,0,,1800,murray_ha_osf
+968,"Bolyai, János ",1842,1802.0,1860.0,Science,Math,15.439339893862336,0,Slovakia,Hungary,Slavic,0,,1800,murray_ha_osf
+970,"Bolzano, Bernardus ",1821,1781.0,1848.0,Science,Math,14.28716088696862,0,Czech,Czech,Italian,0,,1800,murray_ha_osf
+971,"Bombelli, Rafael",1566,1526.0,1572.0,Science,Math,11.848802923100896,0,Italy,Italy,Italian,0,,1500,murray_ha_osf
+976,"Bond, George ",1865,1825.0,1865.0,Science,Astr,11.73992325926436,0,USA,USA,USA,0,,1800,murray_ha_osf
+977,"Bond, William ",1829,1789.0,1859.0,Science,Astr,9.492204257845748,0,USA,USA,English,0,,1800,murray_ha_osf
+982,"Bonnet, Charles",1760,1720.0,1793.0,Science,Biol,18.750829707969682,0,Switzerland,Switzerland,French,0,,1700,murray_ha_osf
+991,"Boole, George",1855,1815.0,1864.0,Science,Math,19.408593600283584,0,Britain,Britain,English,0,,1800,murray_ha_osf
+995,"Booth, Herbert ",1911,1871.0,1955.0,Science,Tech,6.802818866153529,0,Britain,Britain,English,0,,1900,murray_ha_osf
+1000,"Bordet, Jules ",1910,1870.0,1961.0,Science,Biol,1.6593156747082585,0,Belgium,Belgium,Flemish,0,,1900,murray_ha_osf
+1002,"Borel, Felix ",1911,1871.0,1956.0,Science,Math,8.428773597203659,0,France,France,French,0,,1900,murray_ha_osf
+1005,"Borelli, Giovanni ",1648,1608.0,1679.0,Science,Biol,18.42373898034534,0,Italy,Italy,Italian,0,,1600,murray_ha_osf
+1009,"Born, Max",1922,1882.0,1970.0,Science,Phys,20.183787565935766,0,Germany,Germany,Jewish,0,,1900,murray_ha_osf
+1021,"Bosch, Carl",1914,1874.0,1940.0,Science,Tech,14.31246695315324,0,Germany,Germany,Germanic,0,,1900,murray_ha_osf
+1025,"Bose, Satyendranath",1934,1894.0,1974.0,Science,Phys,5.241010851335011,0,India,India,Indian,0,,1900,murray_ha_osf
+1032,"Bothe, Walther ",1931,1891.0,1957.0,Science,Phys,8.042093852799033,0,Germany,Germany,Germanic,0,,1900,murray_ha_osf
+1036,"Böttger, Johann ",1719,1682.0,1719.0,Science,Tech,9.625525255832244,0,Germany,Germany,Germanic,0,,1700,murray_ha_osf
+1053,"Boulton, Matthew",1768,1728.0,1809.0,Science,Tech,17.758826593489648,0,Britain,Britain,English,0,,1700,murray_ha_osf
+1056,"Bourbaki, Nicolas (pseud.)",1949,,,Science,Math,6.252671836264967,0,France,France,French,0,,1900,murray_ha_osf
+1066,"Boussingault, Jean ",1842,1802.0,1887.0,Science,Chem,3.893937947450168,0,France,France,French,0,,1800,murray_ha_osf
+1070,"Boveri, Theodor",1902,1862.0,1915.0,Science,Biol,16.15333850988328,0,Germany,Germany,Germanic,0,,1900,murray_ha_osf
+1071,"Bovet, Daniel",1947,1907.0,1992.0,Science,Medi,20.330571177933415,0,Switzerland,Italy,French,0,,1900,murray_ha_osf
+1076,"Bowen, Norman ",1927,1887.0,1956.0,Science,Eart,4.362813634721902,0,Canada,Canada,English,0,,1900,murray_ha_osf
+1088,"Boyle, Robert",1667,1627.0,1691.0,Science,Chem,41.45658350551166,1,Germany,Britain,Germanic,0,2.0,1600,murray_ha_osf
+1088,"Boyle, Robert",1667,1627.0,1691.0,Science,Tech,4.322204901972439,1,Germany,Britain,Germanic,0,2.0,1600,murray_ha_osf
+1097,"Bradley, James",1733,1693.0,1762.0,Science,Astr,14.441177631699626,0,Britain,Britain,English,0,,1700,murray_ha_osf
+1100,"Bradwardine, Thomas",1330,1290.0,1349.0,Science,Math,3.517879651169157,0,Britain,Britain,English,0,,1300,murray_ha_osf
+1102,"Bragg, W. Henry",1902,1862.0,1942.0,Science,Phys,15.371079938265927,0,Britain,Britain,English,0,,1900,murray_ha_osf
+1103,"Bragg, W. Lawrence",1930,1890.0,1971.0,Science,Phys,16.362556107982407,0,Australia,Britain,Australian,0,,1900,murray_ha_osf
+1104,"Brahe, Tycho",1586,1546.0,1601.0,Science,Astr,68.42731511898663,0,Denmark,Denmark,Danish,0,,1500,murray_ha_osf
+1107,Brahmagupta,638,598.0,665.0,Science,Math,13.671918664759417,0,India,India,Indian,0,,600,murray_ha_osf
+1111,"Bramah, Joseph",1788,1748.0,1814.0,Science,Tech,15.342058222275575,0,Britain,Britain,English,0,,1700,murray_ha_osf
+1115,"Brand, Hennig",1650,,,Science,Chem,4.882423242007417,0,Germany,Germany,Germanic,0,,1600,murray_ha_osf
+1119,"Brandt, Georg",1734,1694.0,1768.0,Science,Eart,17.16030500617917,0,Sweden,Sweden,Swedish,0,,1700,murray_ha_osf
+1121,"Branly, Édouard",1884,1844.0,1940.0,Science,Tech,11.16071781366655,0,France,France,French,0,,1800,murray_ha_osf
+1125,"Brattain, Walter ",1942,1902.0,1987.0,Science,Phys,10.118928568662463,0,USA,USA,USA,0,,1900,murray_ha_osf
+1128,"Braun, Karl ",1890,1850.0,1918.0,Science,Phys,9.089722553620541,1,Germany,Germany,Germanic,0,2.0,1800,murray_ha_osf
+1128,"Braun, Karl ",1890,1850.0,1918.0,Science,Tech,8.039544188373036,1,Germany,Germany,Germanic,0,2.0,1800,murray_ha_osf
+1153,"Bretonneau, Pierre",1818,1778.0,1862.0,Science,Medi,10.026081709348142,0,France,France,French,0,,1800,murray_ha_osf
+1155,"Breuer, Josef",1882,1842.0,1925.0,Science,Medi,24.760498698929034,0,Austria,Austria,Jewish,0,,1800,murray_ha_osf
+1158,"Brewster, David",1821,1781.0,1868.0,Science,Phys,8.008114770082654,0,Britain,Britain,Scots,0,,1800,murray_ha_osf
+1161,"Bridges, Calvin",1929,1889.0,1938.0,Science,Biol,22.11477359906906,0,USA,USA,USA,0,,1900,murray_ha_osf
+1162,"Bridgman, Percy",1922,1882.0,1961.0,Science,Phys,5.1764739881175625,0,USA,USA,USA,0,,1900,murray_ha_osf
+1163,"Briggs, Henry",1601,1561.0,1630.0,Science,Math,14.771315044781872,0,Britain,Britain,English,0,,1600,murray_ha_osf
+1167,"Bright, Richard",1829,1789.0,1858.0,Science,Medi,20.33493395415092,0,Britain,Britain,English,0,,1800,murray_ha_osf
+1185,"Broca, Pierre",1864,1824.0,1880.0,Science,Medi,22.473644297861902,0,France,France,French,0,,1800,murray_ha_osf
+1197,"Broglie, Louis de",1932,1892.0,1987.0,Science,Phys,20.126206282405665,0,France,France,French,0,,1900,murray_ha_osf
+1202,"Brongniart, Alexandre",1810,1770.0,1847.0,Science,Eart,31.19491171368755,0,France,France,French,0,,1800,murray_ha_osf
+1205,"Brønsted, Johannes ",1919,1879.0,1947.0,Science,Chem,4.585216169186067,0,Denmark,Denmark,Danish,0,,1900,murray_ha_osf
+1213,"Brouncker, William",1660,1620.0,1684.0,Science,Math,3.2295904060496454,0,Britain,Britain,English,0,,1600,murray_ha_osf
+1218,"Brouwer, Luitzen ",1921,1881.0,1966.0,Science,Math,17.23431183268683,0,Netherlands,Netherlands,Dutch,0,,1900,murray_ha_osf
+1229,"Brown, Robert",1813,1773.0,1858.0,Science,Biol,22.6188388034065,0,Britain,Britain,Scots,0,,1800,murray_ha_osf
+1254,"Brunel, Isambard ",1846,1806.0,1859.0,Science,Tech,23.172478981505783,0,Britain,Britain,English,0,,1800,murray_ha_osf
+1255,"Brunel, Marc ",1809,1769.0,1849.0,Science,Tech,11.736278361375511,0,France,Britain,French,0,,1800,murray_ha_osf
+1256,"Brunelleschi, Filippo",1417,1377.0,1446.0,Science,Tech,4.725546862756665,0,Italy,Italy,Italian,0,,1400,murray_ha_osf
+1257,"Brunfels, Otto",1529,1489.0,1534.0,Science,Biol,9.192833223353293,0,Germany,Germany,Germanic,0,,1500,murray_ha_osf
+1264,"Brunschwig, Hieronymus",1490,1450.0,1512.0,Science,Medi,10.712347335599048,0,Germany,France,Germanic,0,,1400,murray_ha_osf
+1271,"Buch, Leopold von",1814,1774.0,1853.0,Science,Eart,25.25574504794166,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+1276,"Büchner, Eduard",1900,1860.0,1917.0,Science,Chem,9.67081960367779,0,Germany,Germany,Germanic,0,,1900,murray_ha_osf
+1283,"Buckland, William",1824,1784.0,1856.0,Science,Biol,10.784188011640715,0,Britain,Britain,English,0,,1800,murray_ha_osf
+1291,Buffon,1747,1707.0,1788.0,Science,Biol,19.935176440960408,0,France,France,French,0,,1700,murray_ha_osf
+1294,"Bullard, Edward ",1947,1907.0,1980.0,Science,Eart,3.7264821173488514,0,Britain,Britain,English,0,,1900,murray_ha_osf
+1295,"Bullen, Keith ",1946,1906.0,1976.0,Science,Eart,8.66905394965415,0,New Zealand,Australia,New Zealand,0,,1900,murray_ha_osf
+1303,"Bunn, C.W.",1944,,,Science,Chem,3.0919642720153546,0,Britain,Britain,English,0,,1900,murray_ha_osf
+1304,"Bunsen, Robert",1851,1811.0,1899.0,Science,Chem,22.238357590548375,1,Germany,Germany,Germanic,0,2.0,1800,murray_ha_osf
+1304,"Bunsen, Robert",1851,1811.0,1899.0,Science,Tech,13.10293730014013,1,Germany,Germany,Germanic,0,2.0,1800,murray_ha_osf
+1317,"Burdach, Karl ",1816,1776.0,1847.0,Science,Biol,11.490464434188166,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+1325,"Bürgi, Justus",1592,1552.0,1632.0,Science,Math,12.824146596750092,0,Austria,Germany,Germanic,0,,1500,murray_ha_osf
+1326,"Buridan, Jean",1335,1295.0,1358.0,Science,Phys,13.669072433336712,1,France,France,French,0,2.0,1300,murray_ha_osf
+1331,"Burnet, Frank ",1939,1899.0,1985.0,Science,Medi,15.057930362933122,0,Australia,Australia,Australian,0,,1900,murray_ha_osf
+1348,"Bush, Vannevar",1930,1890.0,1974.0,Science,Tech,16.141739764173003,0,USA,USA,USA,0,,1900,murray_ha_osf
+1356,"Butenandt, Adolf ",1943,1903.0,1995.0,Science,Biol,35.4775979978083,0,Germany,Germany,Germanic,0,,1900,murray_ha_osf
+1362,"Butlerov, Aleksandr",1868,1828.0,1886.0,Science,Chem,3.0707602217371828,0,Russia,Russia,Slavic,0,,1800,murray_ha_osf
+1365,"Buys-Ballot, C.H.D.",1857,1817.0,1890.0,Science,Eart,1.0,0,Netherlands,Netherlands,Dutch,0,,1800,murray_ha_osf
+1371,"Cabeo, Niccolo",1626,1586.0,1650.0,Science,Eart,7.299347530263181,0,Italy,Italy,Italian,0,,1600,murray_ha_osf
+1388,"Cagniard de la Tour, Charles",1817,1777.0,1859.0,Science,Phys,7.479078810946667,0,France,France,French,0,,1800,murray_ha_osf
+8325,Cai Lun,100,,,Science,Tech,8.339435651414872,0,China,China,Chinese,0,,100,murray_ha_osf
+1392,"Cailletet, Louis",1872,1832.0,1913.0,Science,Phys,9.1500034318661,0,France,France,French,0,,1800,murray_ha_osf
+1407,"Calmette, Albert",1903,1863.0,1933.0,Science,Biol,6.744918176772351,0,France,France,French,0,,1900,murray_ha_osf
+1412,"Camerarius, Rudolph",1705,1665.0,1721.0,Science,Biol,12.615778279520098,0,Germany,Germany,Germanic,0,,1700,murray_ha_osf
+1427,"Campbell, William ",1902,1862.0,1938.0,Science,Astr,8.37034647654761,0,USA,USA,USA,0,,1900,murray_ha_osf
+1434,"Candolle, Augustin de",1818,1778.0,1841.0,Science,Biol,10.119032260664415,0,Switzerland,Switzerland,French,0,,1800,murray_ha_osf
+1436,"Cannizzaro, Stanislao",1866,1826.0,1910.0,Science,Chem,14.912457163747698,0,Italy,Italy,Italian,0,,1800,murray_ha_osf
+1437,"Cannon, Annie ",1903,1863.0,1941.0,Science,Astr,6.000701538587018,0,USA,USA,USA,1,,1900,murray_ha_osf
+1438,"Cannon, Walter",1911,1871.0,1945.0,Science,Biol,4.156302648982885,1,USA,USA,USA,0,2.0,1900,murray_ha_osf
+1438,"Cannon, Walter",1911,1871.0,1945.0,Science,Medi,15.609474982927138,1,USA,USA,USA,0,2.0,1900,murray_ha_osf
+1442,"Canton, John",1758,1718.0,1772.0,Science,Phys,5.242584128913305,0,Britain,Britain,English,0,,1700,murray_ha_osf
+1444,"Cantor, Georg",1885,1845.0,1918.0,Science,Math,49.98264204879454,0,Russia,Germany,Jewish,0,,1800,murray_ha_osf
+1455,"Cardano, Girolamo",1541,1501.0,1576.0,Science,Math,37.00375423100237,1,Italy,Italy,Italian,0,2.0,1500,murray_ha_osf
+1455,"Cardano, Girolamo",1541,1501.0,1576.0,Science,Tech,1.9401260158387577,1,Italy,Italy,Italian,0,2.0,1500,murray_ha_osf
+1457,"Carlisle, Anthony",1808,1768.0,1840.0,Science,Biol,15.137473692847973,0,Britain,Britain,English,0,,1800,murray_ha_osf
+1460,"Carlson, Chester ",1946,1906.0,1968.0,Science,Tech,13.218186381690789,0,USA,USA,USA,0,,1900,murray_ha_osf
+1464,"Carnot, Lazare Nicolas",1793,1753.0,1823.0,Science,Math,18.79396421633517,0,France,France,French,0,,1700,murray_ha_osf
+1465,"Carnot, Nicolas",1832,1796.0,1832.0,Science,Phys,21.31255938949464,0,France,France,French,0,,1800,murray_ha_osf
+1467,"Carothers, Wallace",1936,1896.0,1937.0,Science,Chem,8.88925674409766,0,USA,USA,USA,0,,1900,murray_ha_osf
+1477,"Carrel, Alexis",1913,1873.0,1944.0,Science,Medi,35.655251818731735,0,France,USA,French,0,,1900,murray_ha_osf
+1479,"Carrington, Richard ",1866,1826.0,1875.0,Science,Astr,11.004609063532964,0,Britain,Britain,English,0,,1800,murray_ha_osf
+1482,"Carson, Rachel ",1947,1907.0,1964.0,Science,Biol,7.278565123923249,0,USA,USA,USA,0,,1900,murray_ha_osf
+1486,"Cartwright, Edmund",1783,1743.0,1823.0,Science,Tech,10.299158598669003,0,Britain,Britain,English,0,,1700,murray_ha_osf
+1502,"Cassini, Giovanni ",1665,1625.0,1712.0,Science,Astr,52.91512840238526,0,Italy,Italy,Italian,0,,1600,murray_ha_osf
+1517,"Cataldi, Pietro ",1592,1552.0,1626.0,Science,Math,7.6329818791566115,0,Italy,Italy,Italian,0,,1500,murray_ha_osf
+1523,"Cauchy, Augustin",1829,1789.0,1857.0,Science,Math,34.75496997292459,0,France,France,French,0,,1800,murray_ha_osf
+1526,"Cavalieri, Francesco",1638,1598.0,1647.0,Science,Math,21.743730651170345,0,Italy,Italy,Italian,0,,1600,murray_ha_osf
+1529,"Cavendish, Henry",1771,1731.0,1810.0,Science,Phys,56.70218685631272,0,Britain,Britain,English,0,,1700,murray_ha_osf
+1530,"Caventou, Joseph",1835,1795.0,1877.0,Science,Medi,18.104521309914304,0,France,France,French,0,,1800,murray_ha_osf
+1532,"Cayley, Arthur",1861,1821.0,1895.0,Science,Math,31.520602056818444,0,Britain,Britain,English,0,,1800,murray_ha_osf
+1533,"Cayley, George",1813,1773.0,1857.0,Science,Tech,23.650712870044092,0,Britain,Britain,English,0,,1800,murray_ha_osf
+1538,"Celsius, Anders",1741,1701.0,1744.0,Science,Astr,4.179981180141947,0,Sweden,Sweden,Swedish,0,,1700,murray_ha_osf
+1540,"Celsus, Aulus",20,,,Science,Medi,22.339890419284696,1,Rome,Rome,Ancient Roman,0,2.0,0,murray_ha_osf
+1544,"Cerletti, Ugo",1917,1877.0,1963.0,Science,Medi,5.093271596173103,0,Italy,Italy,Italian,0,,1900,murray_ha_osf
+1546,"Cesalpino, Andrea",1559,1519.0,1603.0,Science,Biol,13.614378617234088,0,Italy,Italy,Italian,0,,1500,murray_ha_osf
+1551,"Ceulen, Ludolf van",1580,1540.0,1610.0,Science,Math,5.829553256005103,0,Germany,Netherlands,Dutch,0,,1500,murray_ha_osf
+1562,"Chadwick, James",1931,1891.0,1974.0,Science,Phys,18.970606731640135,0,Britain,Britain,English,0,,1900,murray_ha_osf
+1564,"Chain, Ernst",1946,1906.0,1979.0,Science,Medi,26.41839680592268,0,Germany,Britain,Jewish,0,,1900,murray_ha_osf
+1575,"Chamberlin, Thomas ",1883,1843.0,1928.0,Science,Eart,29.290870443084398,0,USA,USA,USA,0,,1800,murray_ha_osf
+1586,"Chandrasekhar, Subrahmaryan",1949,1910.0,1995.0,Science,Astr,8.794848017097623,0,India,Britain,Indian,0,,1900,murray_ha_osf
+1589,Chang Heng,110,,,Science,Astr,4.274893535573356,0,China,China,Chinese,0,,100,murray_ha_osf
+1598,"Chapman, Sydney",1928,1888.0,1970.0,Science,Astr,6.594975985947895,0,Britain,Britain,English,0,,1900,murray_ha_osf
+1599,"Chappe, Claude",1803,1763.0,1805.0,Science,Tech,10.544367428536274,0,France,France,French,0,,1800,murray_ha_osf
+1603,"Charcot, Jean",1865,1825.0,1893.0,Science,Medi,24.948226246373693,0,France,France,French,0,,1800,murray_ha_osf
+1606,"Chardonnet, Louis de",1879,1839.0,1924.0,Science,Chem,5.050499655138167,0,France,France,French,0,,1800,murray_ha_osf
+1608,"Charles, Jacques",1786,1746.0,1823.0,Science,Phys,11.096752628684051,0,France,France,French,0,,1700,murray_ha_osf
+1619,"Chasles, Michel",1833,1793.0,1880.0,Science,Math,7.525575770685879,0,France,France,French,0,,1800,murray_ha_osf
+1623,"Chauliac, Guy de",1330,1290.0,1368.0,Science,Medi,15.958029010577102,0,France,France,French,0,,1300,murray_ha_osf
+1634,"Cherenkov, Pavel ",1944,1904.0,1990.0,Science,Phys,7.2687995463121675,0,Russia,Russia,Slavic,0,,1900,murray_ha_osf
+1646,"Chevreul, Michel",1826,1786.0,1889.0,Science,Chem,5.678421047703074,0,France,France,French,0,,1800,murray_ha_osf
+1660,"Chladni, Ernst  ",1796,1756.0,1827.0,Science,Phys,1.8698599176654345,0,Germany,Germany,Germanic,0,,1700,murray_ha_osf
+1680,Chu Shih-chieh,1290,,,Science,Math,5.193245950104953,0,China,China,Chinese,0,,1200,murray_ha_osf
+1691,"Chuquet, Nicolas",1485,1445.0,1500.0,Science,Math,7.9046575529842205,0,France,France,French,0,,1400,murray_ha_osf
+1698,"Cierva, Juan de la",1935,1895.0,1936.0,Science,Tech,7.457858873577251,0,Spain,Spain,Spanish,0,,1900,murray_ha_osf
+1700,"Clairaut, Alexis",1753,1713.0,1765.0,Science,Astr,10.486562142428372,0,France,France,French,0,,1700,murray_ha_osf
+1724,"Claude, Albert",1938,1898.0,1983.0,Science,Biol,8.559280145392549,0,Belgium,Belgium,Flemish,0,,1900,murray_ha_osf
+1726,"Claude, Georges",1910,1870.0,1960.0,Science,Tech,9.448426885719185,0,France,France,French,0,,1900,murray_ha_osf
+1730,"Claus, Carl",1836,1796.0,1864.0,Science,Medi,10.06212831545468,0,Russia,Russia,Germanic,0,,1800,murray_ha_osf
+1733,"Clausius, Rudolf",1862,1822.0,1888.0,Science,Phys,32.541633550895696,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+1735,"Clavius, Christoph",1577,1537.0,1612.0,Science,Math,4.77107990725595,0,Germany,Italy,Germanic,0,,1500,murray_ha_osf
+1751,"Cleve, Per",1880,1840.0,1905.0,Science,Eart,28.515449496326106,0,Sweden,Sweden,Swedish,0,,1800,murray_ha_osf
+1753,"Clifford, William",1879,1845.0,1879.0,Science,Math,1.6505610127517538,0,Britain,Britain,English,0,,1800,murray_ha_osf
+1767,"Cockroft, John ",1937,1897.0,1967.0,Science,Phys,16.271180042203532,0,Britain,Britain,English,0,,1900,murray_ha_osf
+1781,"Cohn, Ferdinand ",1868,1828.0,1898.0,Science,Biol,14.930664175276698,0,Germany,Germany,Jewish,0,,1800,murray_ha_osf
+1783,"Cohnheim, Julius ",1879,1839.0,1884.0,Science,Medi,5.454738434265153,0,Germany,Germany,Jewish,0,,1800,murray_ha_osf
+1802,"Collip, James",1932,1892.0,1965.0,Science,Medi,18.953430190541177,0,Canada,Canada,Canadian,0,,1900,murray_ha_osf
+1804,"Colombo, Realdo",1550,1510.0,1559.0,Science,Biol,13.488756635924734,0,Italy,Italy,Italian,0,,1500,murray_ha_osf
+1805,"Colt, Samuel",1854,1814.0,1862.0,Science,Tech,15.058576114434945,0,USA,USA,USA,0,,1800,murray_ha_osf
+1817,"Compton, Arthur Holly",1932,1892.0,1962.0,Science,Phys,22.313578109498483,0,USA,USA,USA,0,,1900,murray_ha_osf
+1832,Constantine of Africa,1055,1015.0,1087.0,Science,Medi,4.963917821805429,0,Arab World,Italy,Arabic,0,,1000,murray_ha_osf
+1844,"Cooke, William ",1846,1806.0,1879.0,Science,Tech,12.988635915712088,0,Britain,Britain,English,0,,1800,murray_ha_osf
+1848,"Coolidge, William ",1913,1873.0,1975.0,Science,Phys,5.8961320506321995,0,USA,USA,USA,0,,1900,murray_ha_osf
+1854,"Cope, Edward ",1880,1840.0,1897.0,Science,Biol,10.979138804737786,0,USA,USA,USA,0,,1800,murray_ha_osf
+1855,"Copernicus, Nicolaus",1513,1473.0,1543.0,Science,Astr,74.54220082530246,0,Poland,Poland,Polish,0,,1500,murray_ha_osf
+1861,"Cordus, Valerius",1544,1515.0,1544.0,Science,Medi,4.3946712311300935,0,Germany,Germany,Germanic,0,,1500,murray_ha_osf
+1864,"Cori, Gerty ",1936,1896.0,1957.0,Science,Biol,7.261796474780093,0,Czech,USA,Jewish,1,,1900,murray_ha_osf
+1865,"Coriolis, Gaspard de",1832,1792.0,1843.0,Science,Phys,4.624116119039664,0,France,France,French,0,,1800,murray_ha_osf
+1878,"Correns, Karl ",1904,1864.0,1933.0,Science,Biol,14.256241488671956,0,Germany,Germany,Germanic,0,,1900,murray_ha_osf
+1881,"Cort, Henry",1780,1740.0,1800.0,Science,Tech,13.625646611512787,0,Britain,Britain,English,0,,1700,murray_ha_osf
+1893,"Coster, Dirk",1929,1889.0,1950.0,Science,Phys,7.818249617098025,0,Netherlands,Netherlands,Dutch,0,,1900,murray_ha_osf
+1895,"Cotes, Roger",1716,1682.0,1716.0,Science,Math,7.723257859152088,0,Britain,Britain,English,0,,1700,murray_ha_osf
+1905,Coulomb,1776,1736.0,1806.0,Science,Phys,17.310565189601,0,France,Germany,French,0,,1700,murray_ha_osf
+1908,"Couper, Archibald ",1871,1831.0,1892.0,Science,Chem,5.347637132823046,0,Britain,France,Scots,0,,1800,murray_ha_osf
+1911,"Cournand, André ",1935,1895.0,1988.0,Science,Medi,10.138025190087838,0,France,USA,French,0,,1900,murray_ha_osf
+1914,"Courtois, Bernard",1817,1777.0,1838.0,Science,Chem,4.741957109840469,0,France,France,French,0,,1800,murray_ha_osf
+1931,"Cramer, Gabriel",1744,1704.0,1752.0,Science,Math,6.262162187478926,0,Switzerland,Switzerland,Germanic,0,,1700,murray_ha_osf
+1935,"Cranston, John",1917,,,Science,Chem,3.2268677198384372,0,Britain,Britain,Scots,0,,1900,murray_ha_osf
+1937,"Crawford, Adair",1788,1748.0,1795.0,Science,Chem,2.670879441086198,0,Britain,Britain,Irish,0,,1700,murray_ha_osf
+1951,"Crile, George ",1904,1864.0,1943.0,Science,Medi,3.8720027452606463,0,USA,USA,USA,0,,1900,murray_ha_osf
+1957,"Crompton, Samuel",1793,1753.0,1827.0,Science,Tech,7.253839549404143,0,Britain,Britain,English,0,,1700,murray_ha_osf
+1960,"Cronstedt, Axel ",1762,1722.0,1765.0,Science,Eart,24.103702623903423,0,Sweden,Sweden,Swedish,0,,1700,murray_ha_osf
+1961,"Crookes, William",1872,1832.0,1919.0,Science,Chem,29.98341613022427,1,Britain,Britain,English,0,2.0,1800,murray_ha_osf
+1961,"Crookes, William",1872,1832.0,1919.0,Science,Tech,1.3047996078282185,1,Britain,Britain,English,0,2.0,1800,murray_ha_osf
+1964,"Cross, Charles ",1895,1855.0,1935.0,Science,Chem,5.354495981100502,1,Britain,Britain,English,0,2.0,1800,murray_ha_osf
+1964,"Cross, Charles ",1895,1855.0,1935.0,Science,Tech,12.352742518406409,1,Britain,Britain,English,0,2.0,1800,murray_ha_osf
+1978,Ctesibius,-270,,,Science,Tech,19.939431518688597,0,Anc Greece,Anc Greece,Ancient Greek,0,,-300,murray_ha_osf
+1981,"Cugnot, Nicholas",1768,1728.0,1804.0,Science,Tech,11.894984310864976,0,France,France,French,0,,1700,murray_ha_osf
+1982,"Cullen, William",1750,1710.0,1790.0,Science,Chem,1.0,0,Britain,Britain,Scots,0,,1700,murray_ha_osf
+1991,"Curie, Marie",1907,1867.0,1934.0,Science,Phys,40.77718891917937,0,Poland,France,Jewish,1,,1900,murray_ha_osf
+1992,"Curie, Pierre",1899,1859.0,1906.0,Science,Phys,47.265152769642526,0,France,France,French,0,,1800,murray_ha_osf
+1997,"Curtis, Heber",1912,1872.0,1942.0,Science,Astr,8.08467603705181,0,USA,USA,USA,0,,1900,murray_ha_osf
+2005,"Cushing, Harvey ",1909,1869.0,1939.0,Science,Medi,19.791183492669486,0,USA,USA,USA,0,,1900,murray_ha_osf
+2011,"Cuvier, Georges",1809,1769.0,1832.0,Science,Biol,83.04575072185818,0,France,France,French,0,,1800,murray_ha_osf
+137,"d’Alembert, Jean",1757,1717.0,1783.0,Science,Math,8.713306048112967,1,France,France,French,0,3.0,1700,murray_ha_osf
+137,"d’Alembert, Jean",1757,1717.0,1783.0,Science,Phys,10.307757664364505,1,France,France,French,0,3.0,1700,murray_ha_osf
+2022,"Daguerre, Louis",1827,1787.0,1851.0,Science,Tech,15.598304409281189,1,France,France,French,0,2.0,1800,murray_ha_osf
+2026,"Daimler, Gottlieb",1874,1834.0,1900.0,Science,Tech,16.306908812263753,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+2031,"Dale, Henry",1915,1875.0,1968.0,Science,Medi,19.26509127035108,0,Britain,Britain,English,0,,1900,murray_ha_osf
+2040,"Dalton, John",1806,1766.0,1844.0,Science,Chem,38.072400166702565,0,Britain,Britain,English,0,,1800,murray_ha_osf
+2043,"Dam, Peter ",1935,1895.0,1976.0,Science,Biol,11.272982829589285,0,Denmark,Denmark,Danish,0,,1900,murray_ha_osf
+2049,"Dana, James ",1853,1813.0,1895.0,Science,Eart,22.312419107652115,0,USA,USA,USA,0,,1800,murray_ha_osf
+2057,"Daniell, John ",1830,1790.0,1845.0,Science,Chem,9.148602482134367,0,Britain,Britain,English,0,,1800,murray_ha_osf
+2065,"Darby, Abraham",1717,1677.0,1717.0,Science,Tech,18.169804748981967,0,Britain,Britain,English,0,,1700,murray_ha_osf
+2066,"Darby, Abraham III",1790,1750.0,1791.0,Science,Tech,10.541499190414942,0,Britain,Britain,English,0,,1700,murray_ha_osf
+2072,"Dart, Raymond ",1933,1893.0,1988.0,Science,Biol,6.995565130560564,0,Australia,SS Africa,Australian,0,,1900,murray_ha_osf
+2074,"Darwin, Charles",1849,1809.0,1882.0,Science,Biol,100.0,0,Britain,Britain,English,0,,1800,murray_ha_osf
+2075,"Darwin, Erasmus",1771,1731.0,1802.0,Science,Medi,8.691403304574642,0,Britain,Britain,English,0,,1700,murray_ha_osf
+2082,"Daubrée, Gabriel",1854,1814.0,1896.0,Science,Eart,11.409926634169016,0,France,France,French,0,,1800,murray_ha_osf
+2100,"Davis, Marguerite",1914,,,Science,Medi,15.17099989191423,0,USA,USA,USA,1,,1900,murray_ha_osf
+2105,"Davis, W.",1890,1850.0,1934.0,Science,Eart,11.67105198841862,0,USA,USA,USA,0,,1800,murray_ha_osf
+2107,"Davisson, Clinton ",1921,1881.0,1958.0,Science,Phys,11.052449807455195,0,USA,USA,USA,0,,1900,murray_ha_osf
+2109,"Davy, Edmund",1825,1785.0,1851.0,Science,Chem,1.3666935359812469,0,Britain,Britain,English,0,,1800,murray_ha_osf
+2110,"Davy, Humphrey",1818,1778.0,1829.0,Science,Chem,46.045739983922815,1,Britain,Britain,English,0,2.0,1800,murray_ha_osf
+2110,"Davy, Humphrey",1818,1778.0,1829.0,Science,Tech,18.715185900711173,1,Britain,Britain,English,0,2.0,1800,murray_ha_osf
+2123,"De Forest, Lee",1913,1873.0,1961.0,Science,Tech,22.445935927822536,0,USA,USA,USA,0,,1900,murray_ha_osf
+2131,"De La Rue, Warren",1855,1815.0,1889.0,Science,Astr,10.968825379889442,0,Britain,Britain,English,0,,1800,murray_ha_osf
+2133,"De Morgan, Augustus",1846,1806.0,1871.0,Science,Math,9.527442550105608,0,Britain,Britain,English,0,,1800,murray_ha_osf
+2143,"Debierne, André",1914,1874.0,1949.0,Science,Chem,4.7022176279938055,0,France,France,French,0,,1900,murray_ha_osf
+2145,"Debye, Peter  ",1924,1884.0,1966.0,Science,Chem,15.14977221665614,0,Netherlands,Netherlands,Dutch,0,,1900,murray_ha_osf
+2150,"Dedekind, Richard",1871,1831.0,1916.0,Science,Math,23.134215153755118,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+2167,"Delbrück, Max ",1946,1906.0,1981.0,Science,Biol,11.823867321143027,0,Germany,USA,Germanic,0,,1900,murray_ha_osf
+2180,"Demarcay, Eugène",1892,1852.0,1903.0,Science,Chem,4.478585641915518,0,France,France,French,0,,1800,murray_ha_osf
+2185,Democritus,-420,-460.0,-370.0,Science,Phys,32.302152054247635,1,Anc Greece,Anc Greece,Ancient Greek,0,2.0,-500,murray_ha_osf
+2189,"Denis, Jean ",1680,1640.0,1704.0,Science,Medi,11.11338597069577,0,France,France,French,0,,1600,murray_ha_osf
+2197,"Derosne, Charles",1820,1780.0,1846.0,Science,Chem,4.063269096341555,0,France,France,French,0,,1800,murray_ha_osf
+2203,"Desargues, Girard",1631,1591.0,1661.0,Science,Math,18.95039876981555,0,France,France,French,0,,1600,murray_ha_osf
+2204,"Descartes, René",1636,1596.0,1650.0,Science,Biol,26.385112536395848,1,France,Netherlands,French,0,4.0,1600,murray_ha_osf
+2204,"Descartes, René",1636,1596.0,1650.0,Science,Math,53.92316245502494,1,France,Netherlands,French,0,4.0,1600,murray_ha_osf
+2204,"Descartes, René",1636,1596.0,1650.0,Science,Phys,26.77955192565406,1,France,Netherlands,French,0,4.0,1600,murray_ha_osf
+2211,"Deslandres, Henri",1893,1853.0,1948.0,Science,Tech,7.841837406724513,0,France,France,French,0,,1800,murray_ha_osf
+2212,"Desmarest, Nicolas",1765,1725.0,1815.0,Science,Eart,32.93378779719383,0,France,France,French,0,,1700,murray_ha_osf
+2221,"Dewar, James",1882,1842.0,1923.0,Science,Chem,13.54014941377276,1,Britain,Britain,Scots,0,2.0,1800,murray_ha_osf
+2221,"Dewar, James",1882,1842.0,1923.0,Science,Tech,13.014515676029179,1,Britain,Britain,Scots,0,2.0,1800,murray_ha_osf
+2230,"Dick, George",1921,1881.0,1967.0,Science,Medi,6.702963142970522,0,USA,USA,USA,0,,1900,murray_ha_osf
+2231,"Dick, Gladys",1921,1881.0,1963.0,Science,Medi,6.702963142970522,0,USA,USA,USA,1,,1900,murray_ha_osf
+2237,"Dickson, Leonard",1914,1874.0,1954.0,Science,Math,1.6110114407271083,0,USA,USA,USA,0,,1900,murray_ha_osf
+2240,"Diderot, Denis",1753,1713.0,1784.0,Science,Science,,1,France,France,French,0,3.0,1700,murray_ha_osf
+2241,"Diels, Otto  ",1916,1876.0,1954.0,Science,Chem,6.416159890097319,0,Germany,Germany,Germanic,0,,1900,murray_ha_osf
+2244,"Diesel, Rudolf",1898,1858.0,1913.0,Science,Tech,28.614608398266743,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+2260,Dinostratos,-350,,,Science,Math,5.045843464980824,0,Anc Greece,Anc Greece,Ancient Greek,0,,-400,murray_ha_osf
+2268,Diophantus of Alexandria,250,,,Science,Math,38.56575958626501,0,Rome,Rome,Ancient Roman,0,,200,murray_ha_osf
+2269,"Dioskourides, Pedanius",80,40.0,90.0,Science,Medi,32.51600772038885,0,Rome,Rome,Ancient Roman,0,,0,murray_ha_osf
+2270,"Dirac, Paul",1942,1902.0,1984.0,Science,Phys,40.237234759990756,0,Britain,Britain,Swiss,0,,1900,murray_ha_osf
+2271,"Dirichlet, Gustav ",1845,1805.0,1859.0,Science,Math,13.672932850422734,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+2281,"Döbereiner, Johann ",1820,1780.0,1849.0,Science,Chem,4.714428637770758,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+2285,"Dobzhansky, Theodosius",1940,1900.0,1975.0,Science,Biol,13.993558010771709,0,Russia,USA,Slavic,0,,1900,murray_ha_osf
+2298,"Doisy, Edward ",1933,1893.0,1986.0,Science,Biol,14.441890315095618,0,USA,USA,USA,0,,1900,murray_ha_osf
+2306,"Dollond, John",1746,1706.0,1761.0,Science,Tech,3.8861893882158696,0,Britain,Britain,English,0,,1700,murray_ha_osf
+2308,"Domagk, Gerhard",1935,1895.0,1964.0,Science,Medi,36.03232249177093,0,Germany,Germany,Germanic,0,,1900,murray_ha_osf
+2321,"Donders, Franciscus ",1858,1818.0,1889.0,Science,Medi,5.424278833023208,0,Netherlands,Netherlands,Dutch,0,,1800,murray_ha_osf
+2329,"Doppler, Christian ",1843,1803.0,1853.0,Science,Phys,16.219528682629434,0,Austria,Czech,Germanic,0,,1800,murray_ha_osf
+2332,"Dorn, Friedrich ",1888,1848.0,1916.0,Science,Chem,4.063269096341555,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+2334,"Dornberger, Walter ",1935,1895.0,1980.0,Science,Tech,7.15106559109279,0,Germany,Germany,Germanic,0,,1900,murray_ha_osf
+2354,"Drake, Edwin ",1859,1819.0,1880.0,Science,Tech,10.201944000675889,0,USA,USA,USA,0,,1800,murray_ha_osf
+2358,"Draper, Henry",1877,1837.0,1882.0,Science,Astr,13.093874017909926,0,USA,USA,USA,0,,1800,murray_ha_osf
+2359,"Draper, John ",1851,1811.0,1882.0,Science,Chem,1.9921098222016136,0,Britain,USA,English,0,,1800,murray_ha_osf
+2360,"Drebbel, Cornelius ",1612,1572.0,1633.0,Science,Tech,10.200054642669995,0,Netherlands,Britain,Dutch,0,,1600,murray_ha_osf
+2366,"Dreyer, John ",1892,1852.0,1926.0,Science,Astr,6.185011518905484,0,Britain,Britain,Danish,0,,1800,murray_ha_osf
+2370,"Drinker, Philip",1934,1894.0,1972.0,Science,Medi,8.151480182107356,0,USA,USA,USA,0,,1900,murray_ha_osf
+2380,"Du Bois-Reymond, Emil ",1858,1818.0,1896.0,Science,Biol,11.670418705111839,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+2392,"Dubos, René",1941,1901.0,1982.0,Science,Biol,6.74491818,0,France,USA,French,0,,1900,murray_ha_osf
+2383,"Dufay, Charles",1738,1698.0,1739.0,Science,Phys,9.211744261799163,0,France,France,French,0,,1700,murray_ha_osf
+2405,"Duggar, Benjamin ",1912,1872.0,1956.0,Science,Biol,1.0,0,USA,USA,USA,0,,1900,murray_ha_osf
+2406,"Duhamel du Monceau, Henri ",1740,1700.0,1782.0,Science,Tech,1.0,0,France,France,French,0,,1700,murray_ha_osf
+2412,"Dulong, Pierre",1825,1785.0,1838.0,Science,Chem,12.45803924363916,0,France,France,French,0,,1800,murray_ha_osf
+2413,"Dumas, Jean ",1840,1800.0,1884.0,Science,Chem,17.484699944292597,0,France,France,French,0,,1800,murray_ha_osf
+2428,"Dunlop, John ",1880,1840.0,1921.0,Science,Tech,9.64144474720465,0,Britain,Britain,English,0,,1800,murray_ha_osf
+2440,"Dutrochet, René",1816,1776.0,1847.0,Science,Biol,9.825171526317597,0,France,France,French,0,,1800,murray_ha_osf
+2441,"Dutton, Clarence ",1881,1841.0,1912.0,Science,Eart,25.082637883535387,0,USA,USA,USA,0,,1800,murray_ha_osf
+2454,"Eastman, George",1894,1854.0,1932.0,Science,Tech,15.157987053833477,0,USA,USA,USA,0,,1800,murray_ha_osf
+2460,"Eberth, Karl ",1875,1835.0,1926.0,Science,Biol,6.801694325051633,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+2467,"Eddington, Arthur",1922,1882.0,1944.0,Science,Astr,36.90794337172651,0,Britain,Britain,English,0,,1900,murray_ha_osf
+2476,"Edison, Thomas",1887,1847.0,1931.0,Science,Tech,99.43397674444509,0,USA,USA,USA,0,,1800,murray_ha_osf
+2478,"Edlefsen, Nils",1933,1893.0,1971.0,Science,Phys,7.985865205543543,0,USA,USA,USA,0,,1900,murray_ha_osf
+2488,"Egas Moniz, Antonio  ",1914,1874.0,1955.0,Science,Biol,7.707700205930071,0,Portugal,Portugal,Portuguese,0,,1900,murray_ha_osf
+2498,"Ehrlich, Paul",1894,1854.0,1915.0,Science,Medi,59.25592217160678,0,Germany,Germany,Jewish,0,,1800,murray_ha_osf
+2502,"Eiffel, Alexandre",1872,1832.0,1923.0,Science,Tech,5.554178967068151,0,France,France,French,0,,1800,murray_ha_osf
+2505,"Eijkman, Christiaan",1898,1858.0,1930.0,Science,Medi,18.021251520697,0,Netherlands,Netherlands,Dutch,0,,1800,murray_ha_osf
+2508,"Einhorn, Alfred",1904,,,Science,Medi,11.27044105962395,0,Germany,Germany,Germanic,0,,1900,murray_ha_osf
+2509,"Einstein, Albert",1919,1879.0,1955.0,Science,Phys,98.47346129361618,0,Germany,Switzerland,Jewish,0,,1900,murray_ha_osf
+2510,"Einthoven, Willem",1900,1860.0,1927.0,Science,Biol,13.669229254439696,0,Netherlands,Netherlands,Dutch,0,,1900,murray_ha_osf
+2513,"Ekeberg, Anders ",1807,1767.0,1813.0,Science,Eart,13.550152408677743,0,Sweden,Sweden,Swedish,0,,1800,murray_ha_osf
+2515,"Ekman, Vagn ",1914,1874.0,1954.0,Science,Eart,1.1515808249947301,0,Sweden,Sweden,Swedish,0,,1900,murray_ha_osf
+2519,"Elhuyar, Fausto D'",1795,1755.0,1833.0,Science,Chem,3.4783459181357674,0,Spain,Spain,Spanish,0,,1700,murray_ha_osf
+2522,"Élie de Beaumont, Jean",1838,1798.0,1874.0,Science,Eart,16.193188464047534,0,France,France,French,0,,1800,murray_ha_osf
+2538,"Elster, Johann",1894,1854.0,1920.0,Science,Phys,4.270433538062041,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+2552,Empedocles,-452,-492.0,-432.0,Science,Biol,32.118739222002546,1,Anc Greece,Anc Greece,Ancient Greek,0,2.0,-500,murray_ha_osf
+2553,"Encke, Johann ",1831,1791.0,1865.0,Science,Astr,10.01087807826255,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+2554,"Enders, John ",1937,1897.0,1985.0,Science,Medi,11.893678442781518,0,USA,USA,USA,0,,1900,murray_ha_osf
+2568,"Eötvös, Roland",1888,1848.0,1919.0,Science,Phys,5.865906451177952,0,Hungary,Hungary,Hungarian,0,,1800,murray_ha_osf
+2574,Erasistratus,-280,,,Science,Biol,19.957539463211802,0,Anc Greece,Anc Greece,Ancient Greek,0,,-300,murray_ha_osf
+2576,Eratosthenes,-236,-276.0,-194.0,Science,Math,8.8492561551793,0,Anc Greece,Anc Greece,Ancient Greek,0,,-300,murray_ha_osf
+2582,"Ericsson, John",1843,1803.0,1889.0,Science,Tech,9.882188644509897,0,Sweden,USA,Swedish,0,,1800,murray_ha_osf
+2606,Eskola,1923,1883.0,1964.0,Science,Eart,18.710795596425054,0,Finland,Finland,Finnish,0,,1900,murray_ha_osf
+2615,Euclid of Alexandria,-230,-270.0,,Science,Math,82.7794438840132,0,Anc Greece,Rome,Ancient Greek,0,,-300,murray_ha_osf
+2618,Eudoxus,-360,-400.0,-347.0,Science,Astr,20.476192492949004,0,Anc Greece,Anc Greece,Ancient Greek,0,,-400,murray_ha_osf
+2619,"Euler, Leonhard",1747,1707.0,1783.0,Science,Math,100.0,0,Switzerland,Switzerland,Germanic,0,,1700,murray_ha_osf
+2620,"Euler, Ulf von",1945,1905.0,1983.0,Science,Medi,13.103642976435761,0,Sweden,Sweden,Swedish,0,,1900,murray_ha_osf
+2624,"Eustachio, Bartolomeo",1560,1520.0,1574.0,Science,Biol,10.52435952675346,0,Italy,Italy,Italian,0,,1500,murray_ha_osf
+2632,"Evans, Herbert ",1922,1882.0,1971.0,Science,Biol,17.46885092423008,1,USA,USA,USA,0,2.0,1900,murray_ha_osf
+2632,"Evans, Herbert ",1922,1882.0,1971.0,Science,Medi,10.285875301561575,1,USA,USA,USA,0,2.0,1900,murray_ha_osf
+2635,"Evans, Oliver",1795,1755.0,1819.0,Science,Tech,22.449023149978927,0,USA,USA,USA,0,,1700,murray_ha_osf
+2645,"Ewing, James ",1895,1855.0,1935.0,Science,Eart,8.121905262402274,0,Britain,Britain,Scots,0,,1800,murray_ha_osf
+2646,"Ewing, William ",1946,1906.0,1974.0,Science,Eart,26.488231414285867,0,USA,USA,USA,0,,1900,murray_ha_osf
+2659,"Fabrici, Girolamo",1573,1533.0,1619.0,Science,Biol,15.476152645259637,0,Italy,Italy,Italian,0,,1500,murray_ha_osf
+2660,"Fabricius, David",1604,1564.0,1617.0,Science,Astr,9.402423946582996,0,Germany,Germany,Germanic,0,,1600,murray_ha_osf
+2661,"Fabricius, Johan ",1785,1745.0,1808.0,Science,Biol,2.4940866048506987,0,Denmark,Denmark,Danish,0,,1700,murray_ha_osf
+2663,"Fabry, Marie ",1907,1867.0,1945.0,Science,Phys,7.837339720333099,0,France,France,French,0,,1900,murray_ha_osf
+2671,"Fahlberg, Constantin ",1890,1850.0,1910.0,Science,Chem,4.063269096341555,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+2672,"Fahrenheit, Daniel ",1726,1686.0,1736.0,Science,Phys,3.8425307427858297,1,Germany,Netherlands,Germanic,0,2.0,1700,murray_ha_osf
+2672,"Fahrenheit, Daniel ",1726,1686.0,1736.0,Science,Tech,27.802008721459366,1,Germany,Netherlands,Germanic,0,2.0,1700,murray_ha_osf
+2676,"Fajans, Kasimir",1927,1887.0,1975.0,Science,Chem,13.313653300371541,0,Poland,Germany,Jewish,0,,1900,murray_ha_osf
+2679,"Falloppio, Gabriele",1562,1523.0,1562.0,Science,Biol,13.829878461998266,0,Italy,Italy,Italian,0,,1500,murray_ha_osf
+2688,"Faraday, Michael",1831,1791.0,1867.0,Science,Phys,85.56968856103745,1,Britain,Britain,English,0,2.0,1800,murray_ha_osf
+2688,"Faraday, Michael",1831,1791.0,1867.0,Science,Tech,31.490727904011383,1,Britain,Britain,English,0,2.0,1800,murray_ha_osf
+2701,"Fauchard, Pierre",1718,1678.0,1761.0,Science,Medi,16.89194708987297,0,France,France,French,0,,1700,murray_ha_osf
+2711,"Fechner, Gustav ",1841,1801.0,1887.0,Science,Science,,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+2734,"Fermat, Pierre de",1641,1601.0,1665.0,Science,Math,72.46673160335216,0,France,France,French,0,,1600,murray_ha_osf
+2735,"Fermi, Enrico",1941,1901.0,1954.0,Science,Phys,41.960298299696255,0,Italy,Italy,Italian,0,,1900,murray_ha_osf
+2737,"Fernel, François",1537,1497.0,1558.0,Science,Medi,15.076592995533336,0,France,France,French,0,,1500,murray_ha_osf
+2739,"Ferrari, Ludovico",1562,1522.0,1565.0,Science,Math,4.937865426283931,0,Italy,Italy,Italian,0,,1500,murray_ha_osf
+2742,"Ferrel, William",1857,1817.0,1891.0,Science,Eart,1.0,0,Britain,USA,USA,0,,1800,murray_ha_osf
+2745,"Ferro, Scipione",1505,1465.0,1526.0,Science,Math,5.66541161956314,0,Italy,Italy,Italian,0,,1500,murray_ha_osf
+2747,"Fessenden, Reginald ",1906,1866.0,1932.0,Science,Tech,13.972464176513357,0,Canada,USA,Canadian,0,,1900,murray_ha_osf
+2752,"Fibiger, Johannes ",1907,1867.0,1928.0,Science,Medi,4.895765393266142,0,Denmark,Denmark,Danish,0,,1900,murray_ha_osf
+2753,"Fibonacci, Leonardo",1210,1170.0,1250.0,Science,Math,33.708694937318334,0,Italy,Italy,Italian,0,,1200,murray_ha_osf
+2756,"Field, Cyrus ",1859,1819.0,1892.0,Science,Tech,6.557892600957454,0,USA,USA,USA,0,,1800,murray_ha_osf
+2768,"Finlay, Carlos ",1873,1833.0,1915.0,Science,Medi,9.00530625273648,0,Latin Am,Latin Am,Scots,0,,1800,murray_ha_osf
+2770,"Finsen, Niels ",1900,1860.0,1904.0,Science,Medi,5.48089098064242,0,Denmark,Denmark,Danish,0,,1900,murray_ha_osf
+2773,"Fischer, Emil ",1892,1852.0,1919.0,Science,Chem,15.874787673361123,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+2776,"Fischer, Hans",1921,1881.0,1945.0,Science,Chem,5.363784602374001,0,Germany,Germany,Germanic,0,,1900,murray_ha_osf
+2783,"Fisher, Ronald ",1930,1890.0,1962.0,Science,Biol,8.5873969053704,0,Britain,Britain,English,0,,1900,murray_ha_osf
+2785,"Fitch, John",1783,1743.0,1798.0,Science,Tech,14.765388540159885,0,USA,USA,USA,0,,1700,murray_ha_osf
+2791,"Fitzgerald, George ",1891,1851.0,1901.0,Science,Phys,12.58305344029763,0,Britain,Britain,Irish,0,,1800,murray_ha_osf
+2794,"Fizeau, Armand",1859,1819.0,1896.0,Science,Phys,28.444320363158525,0,France,France,French,0,,1800,murray_ha_osf
+2798,"Flamsteed, John",1686,1646.0,1719.0,Science,Astr,22.608569059821264,0,Britain,Britain,English,0,,1600,murray_ha_osf
+2800,"Fleck, Alexander",1929,1889.0,1968.0,Science,Chem,3.2268677198384372,0,Britain,Britain,Scots,0,,1900,murray_ha_osf
+2802,"Fleming, Alexander",1921,1881.0,1955.0,Science,Medi,47.314991842808915,0,Britain,Britain,Scots,0,,1900,murray_ha_osf
+2804,"Fleming, John ",1889,1849.0,1945.0,Science,Tech,16.606796901325904,0,Britain,Britain,English,0,,1800,murray_ha_osf
+2806,"Flemming, Walther",1883,1843.0,1905.0,Science,Biol,27.21628630504084,0,Germany,Germany,Flemish,0,,1800,murray_ha_osf
+2813,"Flexner, Simon",1903,1863.0,1946.0,Science,Medi,3.511505833606331,0,USA,USA,Jewish,0,,1900,murray_ha_osf
+2816,"Florey, Howard ",1938,1898.0,1968.0,Science,Medi,28.139950445384816,0,Australia,Britain,Australian,0,,1900,murray_ha_osf
+2841,"Forbes, Edward Jr.",1854,1815.0,1854.0,Science,Biol,17.44925420339497,0,Britain,Britain,English,0,,1800,murray_ha_osf
+2846,"Ford, Henry",1903,1863.0,1947.0,Science,Tech,17.533400073556955,0,USA,USA,USA,0,,1900,murray_ha_osf
+2857,"Forssmann, Werner",1944,1904.0,1979.0,Science,Medi,16.60559710741139,0,Germany,Germany,Germanic,0,,1900,murray_ha_osf
+2868,"Foucault, Jean",1859,1819.0,1868.0,Science,Phys,29.714355897800466,0,France,France,French,0,,1800,murray_ha_osf
+2872,"Fourcroy, Antoine de",1795,1755.0,1809.0,Science,Chem,11.788633732281232,0,France,France,French,0,,1700,murray_ha_osf
+2873,"Fourier, Jean",1808,1768.0,1830.0,Science,Math,24.02438825479164,0,France,France,French,0,,1800,murray_ha_osf
+2876,"Fourneyron, Benoît",1842,1802.0,1867.0,Science,Tech,9.4870708518623,0,France,France,French,0,,1800,murray_ha_osf
+8069,"Fox Talbot, William ",1840,1800.0,1877.0,Science,Chem,8.506979123729261,1,Britain,Britain,English,0,2.0,1800,murray_ha_osf
+8069,"Fox Talbot, William ",1840,1800.0,1877.0,Science,Tech,15.750791864300403,1,Britain,Britain,English,0,2.0,1800,murray_ha_osf
+2887,"Fracastoro, Girolamo",1518,1478.0,1553.0,Science,Medi,33.062134688277034,0,Italy,Italy,Italian,0,,1500,murray_ha_osf
+2895,"Francis, James Bicheno",1855,1815.0,1892.0,Science,Tech,8.251035097786014,0,Britain,USA,English,0,,1800,murray_ha_osf
+2898,"Francis, Thomas Jr.",1940,1900.0,1969.0,Science,Biol,8.43269918,0,USA,USA,USA,0,,1900,murray_ha_osf
+2900,"Franck, James",1922,1882.0,1964.0,Science,Phys,4.697541456460887,0,Germany,Germany,Jewish,0,,1900,murray_ha_osf
+2906,"Frank, Ilya ",1948,1908.0,1990.0,Science,Phys,7.6044860471367395,0,Russia,Russia,Jewish,0,,1900,murray_ha_osf
+2910,"Frankland, Edward",1865,1825.0,1899.0,Science,Chem,6.959220230149239,0,Britain,Britain,English,0,,1800,murray_ha_osf
+2912,"Franklin, Benjamin",1750,1706.0,1790.0,Science,Phys,20.474924151417582,1,USA,USA,USA,0,3.0,1700,murray_ha_osf
+2912,"Franklin, Benjamin",1750,1706.0,1790.0,Science,Tech,31.689118834971048,1,USA,USA,USA,0,3.0,1700,murray_ha_osf
+2920,"Fraunhofer, Joseph von",1826,1787.0,1826.0,Science,Phys,11.671276547591416,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+2923,"Fréchet, Rene ",1918,1878.0,1973.0,Science,Math,14.65031944860477,0,France,France,French,0,,1900,murray_ha_osf
+2929,"Frege, Friedrich",1888,1848.0,1925.0,Science,Math,7.247428846208735,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+2930,"Freiberg, Dietrich von",1290,1250.0,1311.0,Science,Phys,5.15707016826175,0,Germany,Germany,Germanic,0,,1200,murray_ha_osf
+2944,"Fresnel, Augustin",1827,1788.0,1827.0,Science,Phys,15.643315832172433,1,France,France,French,0,2.0,1800,murray_ha_osf
+2944,"Fresnel, Augustin",1827,1788.0,1827.0,Science,Tech,4.446679039583785,1,France,France,French,0,2.0,1800,murray_ha_osf
+2945,"Freud, Sigmund",1896,1856.0,1939.0,Science,Medi,34.46196125688285,0,Germany,Austria,Jewish,0,,1800,murray_ha_osf
+2960,"Friedmann, Alexander",1925,1888.0,1925.0,Science,Phys,7.5392147369810285,0,Russia,Russia,Slavic,0,,1900,murray_ha_osf
+2967,"Frisch, Karl von",1926,1886.0,1982.0,Science,Biol,17.84800332657718,0,Austria,Austria,Germanic,0,,1900,murray_ha_osf
+2968,"Frisch, Otto ",1944,1904.0,1979.0,Science,Phys,3.0770968277633735,0,Austria,Britain,Jewish,0,,1900,murray_ha_osf
+2974,"Frobenius, Georg",1889,1849.0,1917.0,Science,Math,2.955853915803006,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+2991,"Fuchs, Leonhart",1541,1501.0,1566.0,Science,Biol,15.545192666934943,0,Germany,Germany,Germanic,0,,1500,murray_ha_osf
+3000,"Fulton, Robert",1805,1765.0,1815.0,Science,Tech,20.92277074011481,0,USA,USA,USA,0,,1800,murray_ha_osf
+3001,"Funk, Casimir",1924,1884.0,1967.0,Science,Medi,23.536697206325165,0,Poland,USA,Jewish,0,,1900,murray_ha_osf
+3007,"Gabor, Dennis",1940,1900.0,1979.0,Science,Phys,10.814964378676844,0,Hungary,Britain,Jewish,0,,1900,murray_ha_osf
+3009,"Gadolin, Johan",1800,1760.0,1852.0,Science,Eart,11.409315067081925,0,Finland,Sweden,Finnish,0,,1800,murray_ha_osf
+3016,"Gagnan, Émile",1943,,,Science,Tech,6.2250792472092105,0,France,France,French,0,,1900,murray_ha_osf
+3018,"Gahn, Johan ",1785,1745.0,1818.0,Science,Eart,13.936417823243644,0,Sweden,Sweden,Swedish,0,,1700,murray_ha_osf
+3027,Galen of Pergamum,170,130.0,200.0,Science,Medi,73.80097710515543,0,Anc Greece,Rome,Ancient Greek,0,,100,murray_ha_osf
+3030,Galileo Galilei,1604,1564.0,1642.0,Science,Astr,100.0,1,Italy,Italy,Italian,0,3.0,1600,murray_ha_osf
+3030,Galileo Galilei,1604,1564.0,1642.0,Science,Phys,83.0445651658769,1,Italy,Italy,Italian,0,3.0,1600,murray_ha_osf
+3030,Galileo Galilei,1604,1564.0,1642.0,Science,Tech,18.838310743898237,1,Italy,Italy,Italian,0,3.0,1600,murray_ha_osf
+3031,"Gall, Franz ",1798,1758.0,1828.0,Science,Biol,8.723550379775185,0,Germany,Austria,Germanic,0,,1700,murray_ha_osf
+3033,"Galle, Johann ",1852,1812.0,1910.0,Science,Astr,13.933342948041433,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+3037,"Galois, Évariste",1832,1811.0,1832.0,Science,Math,14.59058079664086,0,France,France,French,0,,1800,murray_ha_osf
+3038,"Galton, Francis",1862,1822.0,1911.0,Science,Biol,26.00756484864038,0,Britain,Britain,English,0,,1800,murray_ha_osf
+3039,"Galvani, Luigi",1777,1737.0,1798.0,Science,Biol,24.692075252080915,0,Italy,Italy,Italian,0,,1700,murray_ha_osf
+3044,"Gamow, George",1944,1904.0,1968.0,Science,Phys,4.964339670082442,0,Russia,USA,Slavic,0,,1900,murray_ha_osf
+3059,"Garrod, Archibald",1897,1857.0,1936.0,Science,Medi,5.770165394835787,0,Britain,Britain,English,0,,1800,murray_ha_osf
+3063,"Gascoigne, William",1644,1612.0,1644.0,Science,Tech,5.8191349492209365,0,Britain,Britain,English,0,,1600,murray_ha_osf
+3065,"Gassendi, Pierre",1632,1592.0,1655.0,Science,Astr,16.94283514488817,1,France,France,French,0,2.0,1600,murray_ha_osf
+3076,"Gauss, Carl",1817,1777.0,1855.0,Science,Math,81.24236133701159,1,Germany,Germany,Germanic,0,2.0,1800,murray_ha_osf
+3076,"Gauss, Carl",1817,1777.0,1855.0,Science,Tech,9.188317141062374,1,Germany,Germany,Germanic,0,2.0,1800,murray_ha_osf
+3084,"Gay-Lussac, Joseph",1818,1778.0,1850.0,Science,Chem,37.28070607804695,1,France,France,French,0,2.0,1800,murray_ha_osf
+3084,"Gay-Lussac, Joseph",1818,1778.0,1850.0,Science,Tech,15.275796225859906,1,France,France,French,0,2.0,1800,murray_ha_osf
+4138,Geber (Jabir ibn Hayyan),800,,,Science,Chem,14.469235891326878,0,Arab World,Arab World,Arabic,0,,800,murray_ha_osf
+3096,"Geiger, Johannes ",1922,1882.0,1945.0,Science,Phys,31.493766305832118,0,Germany,Britain,Germanic,0,,1900,murray_ha_osf
+3102,"Geissler, Johann",1855,1815.0,1879.0,Science,Phys,8.429186615911483,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+3103,"Geitel, Hans",1895,1855.0,1923.0,Science,Phys,3.8009272237367693,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+3105,"Gelfond, Aleksander ",1946,1906.0,1968.0,Science,Math,6.815831222338874,0,Russia,Russia,Jewish,0,,1900,murray_ha_osf
+3112,"Gemma Frisius, Reiner",1548,1508.0,1555.0,Science,Science,,0,Denmark,Netherlands,Dutch,0,,1500,murray_ha_osf
+3131,"Gergonne, Joseph ",1811,1771.0,1859.0,Science,Math,13.520273725662612,0,France,France,French,0,,1800,murray_ha_osf
+3136,"Germain, Sophie",1816,1776.0,1831.0,Science,Math,3.8824733941461282,0,France,France,French,1,,1800,murray_ha_osf
+3146,"Gesner, Konrad",1556,1516.0,1565.0,Science,Biol,31.509631580170446,0,Switzerland,Switzerland,Germanic,0,,1500,murray_ha_osf
+3159,"Giauque, William ",1935,1895.0,1982.0,Science,Chem,9.787599013139536,0,USA,USA,Canadian,0,,1900,murray_ha_osf
+3161,"Gibbon, John H.",1943,1903.0,1974.0,Science,Medi,13.76021647808857,0,USA,USA,USA,0,,1900,murray_ha_osf
+3164,"Gibbs, Josiah ",1879,1839.0,1903.0,Science,Phys,14.020715913220725,0,USA,USA,USA,0,,1800,murray_ha_osf
+3168,"Giffard, Henri",1865,1825.0,1888.0,Science,Tech,8.607935683836649,0,France,France,French,0,,1800,murray_ha_osf
+3173,"Gilbert, William",1584,1544.0,1603.0,Science,Phys,36.87489235034318,0,Britain,Britain,English,0,,1500,murray_ha_osf
+3191,"Girard, Albert",1632,1595.0,1632.0,Science,Math,9.238560179536174,0,France,Netherlands,French,0,,1600,murray_ha_osf
+3205,"Glauber, Johann ",1644,1604.0,1670.0,Science,Chem,10.44171646383016,0,Germany,Netherlands,Germanic,0,,1600,murray_ha_osf
+3215,"Glisson, Francis",1637,1597.0,1677.0,Science,Medi,8.041800185772132,0,Britain,Britain,English,0,,1600,murray_ha_osf
+3221,"Goddard, Robert ",1922,1882.0,1945.0,Science,Tech,25.635906040103006,0,USA,Britain,USA,0,,1900,murray_ha_osf
+3222,"Gödel, Kurt",1946,1906.0,1978.0,Science,Math,18.051683326357193,0,Czech,Austria,Czech,0,,1900,murray_ha_osf
+3233,"Goethals, George",1898,1858.0,1928.0,Science,Tech,9.738242679754636,0,USA,USA,USA,0,,1800,murray_ha_osf
+3234,"Goethe, Johann von",1789,1749.0,1832.0,Science,Biol,18.278889251652842,0,Germany,Germany,Germanic,0,,1700,murray_ha_osf
+3240,"Goldbach, Christian",1730,1690.0,1764.0,Science,Math,3.2361138974406156,0,Germany,Russia,Germanic,0,,1700,murray_ha_osf
+3242,"Goldberger, Joseph",1914,1874.0,1929.0,Science,Medi,16.0861568345969,0,Slovakia,USA,Jewish,0,,1900,murray_ha_osf
+3245,"Goldmark, Peter  ",1946,1906.0,1977.0,Science,Tech,14.683520048032895,0,Hungary,USA,Jewish,0,,1900,murray_ha_osf
+3250,"Goldschmidt, Victor ",1928,1888.0,1947.0,Science,Chem,7.684678560879532,0,Switzerland,Norway,Jewish,0,,1900,murray_ha_osf
+3253,"Goldstein, Eugen",1890,1850.0,1930.0,Science,Phys,17.85936485423305,0,Germany,Germany,Jewish,0,,1800,murray_ha_osf
+3258,"Golgi, Camillo",1883,1843.0,1926.0,Science,Biol,24.165535892868263,0,Italy,Italy,Italian,0,,1800,murray_ha_osf
+3261,"Gomberg, Moses",1906,1866.0,1947.0,Science,Chem,3.8211633924206048,0,Russia,USA,Jewish,0,,1900,murray_ha_osf
+3269,"Goodricke, John",1786,1764.0,1786.0,Science,Astr,9.824687337089225,0,Britain,Britain,Dutch,0,,1700,murray_ha_osf
+3273,"Goodyear, Charles",1840,1800.0,1860.0,Science,Tech,17.271815804059564,0,USA,USA,USA,0,,1800,murray_ha_osf
+3281,"Gorgas, William",1894,1854.0,1920.0,Science,Medi,4.5584486568203495,0,USA,USA,USA,0,,1800,murray_ha_osf
+3295,"Goudsmit, Samuel ",1942,1902.0,1978.0,Science,Phys,4.891777277392224,0,Netherlands,Netherlands,Jewish,0,,1900,murray_ha_osf
+3304,"Graaf, Regnier de",1673,1641.0,1673.0,Science,Medi,9.485908289529519,0,Netherlands,Netherlands,Dutch,0,,1600,murray_ha_osf
+3313,"Graham, Thomas",1845,1805.0,1869.0,Science,Chem,12.822419975364518,0,Britain,Britain,Scots,0,,1800,murray_ha_osf
+3316,"Gram, Hans ",1893,1853.0,1938.0,Science,Biol,10.992447686091822,0,Denmark,Denmark,Danish,0,,1800,murray_ha_osf
+3317,"Gramme, Zénobe ",1866,1826.0,1901.0,Science,Tech,12.06066075821449,0,Belgium,France,Flemish,0,,1800,murray_ha_osf
+3328,"Grassmann, Hermann",1849,1809.0,1877.0,Science,Math,19.297282697714365,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+3335,"Gray, Asa",1850,1810.0,1888.0,Science,Biol,4.708432152141012,0,USA,USA,USA,0,,1800,murray_ha_osf
+3338,"Gray, Elisha",1875,1835.0,1901.0,Science,Tech,13.513368294387337,0,USA,USA,USA,0,,1800,murray_ha_osf
+3344,"Gray, Stephen",1706,1666.0,1736.0,Science,Phys,14.309221157367737,0,Britain,Britain,English,0,,1700,murray_ha_osf
+3346,"Green, George",1833,1793.0,1841.0,Science,Math,8.3889299335931,0,Britain,Britain,English,0,,1800,murray_ha_osf
+3356,"Gregor, William",1801,1761.0,1817.0,Science,Chem,4.063269096341555,0,Britain,Britain,English,0,,1800,murray_ha_osf
+3360,"Gregory, James",1675,1638.0,1675.0,Science,Math,23.266590661169268,0,Britain,Britain,Scots,0,,1600,murray_ha_osf
+3368,"Grew, Nehemiah",1681,1641.0,1712.0,Science,Biol,28.51204117020237,0,Britain,Britain,English,0,,1600,murray_ha_osf
+3377,"Grignard, F.A. ",1911,1871.0,1935.0,Science,Chem,4.390347893797449,0,France,France,French,0,,1900,murray_ha_osf
+3380,"Grimaldi, Francesco ",1658,1618.0,1663.0,Science,Phys,14.061941768450028,0,Italy,Italy,Italian,0,,1600,murray_ha_osf
+3399,"Grove, William ",1851,1811.0,1896.0,Science,Chem,4.217185868554714,0,Britain,Britain,English,0,,1800,murray_ha_osf
+3400,"Groves, Leslie ",1936,1896.0,1970.0,Science,Tech,9.935409469903217,0,USA,USA,USA,0,,1900,murray_ha_osf
+3416,"Guericke, Otto von",1642,1602.0,1686.0,Science,Phys,23.84828263916608,0,Germany,Germany,Germanic,0,,1600,murray_ha_osf
+3419,"Guettard, Jean",1755,1715.0,1786.0,Science,Eart,36.726585475336,0,France,France,French,0,,1700,murray_ha_osf
+3429,"Guldberg, Cato",1876,1836.0,1902.0,Science,Chem,5.379811774196719,0,Norway,Norway,Norwegian,0,,1800,murray_ha_osf
+3430,"Guldin, Paul",1617,1577.0,1643.0,Science,Math,5.562628937898395,0,Switzerland,Switzerland,Jewish,0,,1600,murray_ha_osf
+3437,"Gunter, Edmund",1621,1581.0,1626.0,Science,Math,2.0435849462211055,0,Britain,Britain,English,0,,1600,murray_ha_osf
+3447,"Gutenberg, Beno",1929,1889.0,1960.0,Science,Eart,13.937247291864216,0,Germany,Germany,Jewish,0,,1900,murray_ha_osf
+3448,"Gutenberg, Johannes",1430,1390.0,1468.0,Science,Tech,22.973491599270172,0,Germany,Germany,Germanic,0,,1400,murray_ha_osf
+3452,"Guthrie, Samuel",1822,1782.0,1848.0,Science,Chem,4.063269096341555,0,USA,USA,USA,0,,1800,murray_ha_osf
+3456,"Guyton de Morveau, Louis",1777,1737.0,1816.0,Science,Chem,11.478604404717496,0,France,France,French,0,,1700,murray_ha_osf
+3465,"Haber, Fritz",1908,1868.0,1934.0,Science,Chem,11.183345892215932,0,Germany,Germany,Jewish,0,,1900,murray_ha_osf
+3468,"Hadamard, Jacques",1905,1865.0,1963.0,Science,Math,10.937442955370951,0,France,France,Jewish,0,,1900,murray_ha_osf
+3471,"Hadfield, Robert ",1898,1858.0,1940.0,Science,Tech,5.970753185560781,0,Britain,Britain,English,0,,1800,murray_ha_osf
+3473,"Hadley, John",1722,1682.0,1744.0,Science,Tech,9.70514303861766,0,Britain,Britain,English,0,,1700,murray_ha_osf
+3475,"Haeckel, Ernst ",1874,1834.0,1919.0,Science,Biol,40.57269094582605,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+3481,"Hahn, Otto",1919,1879.0,1968.0,Science,Chem,18.016778755218763,0,Germany,Germany,Germanic,0,,1900,murray_ha_osf
+3482,"Hahnemann, Christian",1795,1755.0,1843.0,Science,Medi,13.633767422276987,0,Germany,Germany,Germanic,0,,1700,murray_ha_osf
+3490,"Haldane, John ",1900,1860.0,1936.0,Science,Biol,5.818557157929369,0,Britain,Britain,Scots,0,,1900,murray_ha_osf
+3493,"Hale, George ",1908,1868.0,1938.0,Science,Astr,37.00759460726736,0,USA,USA,USA,0,,1900,murray_ha_osf
+3495,"Hales, Stephen",1717,1677.0,1761.0,Science,Biol,47.983747289736144,0,Britain,Britain,English,0,,1700,murray_ha_osf
+3496,"Hall, Asaph",1869,1829.0,1907.0,Science,Astr,12.627079545499662,0,USA,USA,USA,0,,1800,murray_ha_osf
+3498,"Hall, Charles ",1903,1863.0,1914.0,Science,Chem,5.177532999100967,0,USA,USA,USA,0,,1900,murray_ha_osf
+3500,"Hall, Edwin ",1895,1855.0,1938.0,Science,Phys,5.9160878500206495,0,USA,USA,USA,0,,1800,murray_ha_osf
+3503,"Hall, James",1801,1761.0,1832.0,Science,Eart,15.998497266299191,0,Britain,USA,Scots,0,,1800,murray_ha_osf
+3505,"Hall, John",1805,,,Science,Tech,6.6482729897180555,0,USA,USA,USA,0,,1800,murray_ha_osf
+3507,"Haller, Albrecht von",1747,1707.0,1777.0,Science,Biol,36.56695812673442,1,Switzerland,Switzerland,Germanic,0,2.0,1700,murray_ha_osf
+3508,"Halley, Edmond",1696,1656.0,1742.0,Science,Astr,57.39987208974141,0,Britain,Britain,English,0,,1600,murray_ha_osf
+3518,"Halsted, William ",1892,1852.0,1922.0,Science,Medi,21.70380343164453,0,USA,USA,USA,0,,1800,murray_ha_osf
+3525,"Hamilton, William ",1845,1805.0,1865.0,Science,Math,27.418561751268534,0,Britain,Britain,Irish,0,,1800,murray_ha_osf
+3536,"Hancock, Thomas",1826,1786.0,1865.0,Science,Tech,9.392366877031984,0,Britain,Britain,English,0,,1800,murray_ha_osf
+3538,"Hankel, Hermann",1873,1839.0,1873.0,Science,Math,2.8997913380776863,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+3556,"Harden, Arthur",1905,1865.0,1940.0,Science,Biol,11.287893579144479,0,Britain,Britain,English,0,,1900,murray_ha_osf
+3563,"Hardy, Godfrey ",1917,1877.0,1947.0,Science,Math,8.151326047162167,0,Britain,Britain,English,0,,1900,murray_ha_osf
+3565,"Hare, Robert",1821,1781.0,1858.0,Science,Chem,2.620231081869861,0,USA,USA,USA,0,,1800,murray_ha_osf
+3566,"Hargreaves, James",1760,1720.0,1778.0,Science,Tech,10.164026724359934,0,Britain,Britain,English,0,,1700,murray_ha_osf
+3583,"Harriot, Thomas",1600,1560.0,1621.0,Science,Math,2.4995055535455735,0,Britain,Britain,English,0,,1600,murray_ha_osf
+3591,"Harrison, John",1733,1693.0,1776.0,Science,Tech,18.32157166379939,0,Britain,Britain,English,0,,1700,murray_ha_osf
+3593,"Harrison, Ross ",1910,1870.0,1959.0,Science,Biol,14.358892574919183,0,USA,USA,USA,0,,1900,murray_ha_osf
+3608,"Hartmann, Georg",1529,1489.0,1564.0,Science,Math,6.391207337427551,0,Germany,Germany,Germanic,0,,1500,murray_ha_osf
+3619,"Harvey, William",1618,1578.0,1657.0,Science,Biol,51.213127050478334,0,Britain,Britain,English,0,,1600,murray_ha_osf
+3629,"Hata, Sahachiro",1912,1872.0,1938.0,Science,Medi,14.331378204753008,0,Japan,Japan,Japanese,0,,1900,murray_ha_osf
+3631,"Hatchett, Charles",1805,1765.0,1847.0,Science,Chem,4.764002079370875,0,Britain,Britain,English,0,,1800,murray_ha_osf
+3635,"Hauksbee, Francis",1706,1666.0,1713.0,Science,Phys,13.670425225284532,0,Britain,Britain,English,0,,1700,murray_ha_osf
+3638,"Hausdorff, Felix",1908,1868.0,1942.0,Science,Math,5.490180001286019,0,Germany,Germany,Jewish,0,,1900,murray_ha_osf
+3641,"Haüy, Rene",1783,1743.0,1822.0,Science,Chem,10.561670332934035,0,Britain,France,English,0,,1700,murray_ha_osf
+3649,"Haworth, Walter",1923,1883.0,1950.0,Science,Chem,7.605759403731108,0,Britain,Britain,English,0,,1900,murray_ha_osf
+3666,"Heaviside, Oliver",1890,1850.0,1925.0,Science,Phys,11.267065318383974,0,Britain,Britain,English,0,,1800,murray_ha_osf
+3669,Hecataeus of Miletus,-510,,,Science,Science,,0,Anc Greece,Anc Greece,Ancient Greek,0,,-600,murray_ha_osf
+3691,"Heine, Heinrich E.",1852,1812.0,1881.0,Science,Math,3.7028450082914874,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+3695,Heisenberg,1941,1901.0,1976.0,Science,Phys,40.925503695917264,0,Germany,Germany,Germanic,0,,1900,murray_ha_osf
+3698,"Heitler, Walter",1944,1904.0,1981.0,Science,Phys,6.5958819071157,0,Germany,Germany,Jewish,0,,1900,murray_ha_osf
+3711,"Helmholtz, Hermann",1861,1821.0,1894.0,Science,Astr,11.55151995914389,1,Germany,Germany,Germanic,0,3.0,1800,murray_ha_osf
+3711,"Helmholtz, Hermann",1861,1821.0,1894.0,Science,Biol,26.732449786353502,1,Germany,Germany,Germanic,0,3.0,1800,murray_ha_osf
+3711,"Helmholtz, Hermann",1861,1821.0,1894.0,Science,Phys,15.948486575755283,1,Germany,Germany,Germanic,0,3.0,1800,murray_ha_osf
+3712,"Helmont, Jan van",1619,1579.0,1644.0,Science,Chem,24.944944542915024,0,Belgium,Belgium,Flemish,0,,1600,murray_ha_osf
+3714,"Hench, Philip ",1936,1896.0,1965.0,Science,Medi,10.747117324929903,0,USA,USA,USA,0,,1900,murray_ha_osf
+3719,"Henderson, Thomas",1838,1798.0,1844.0,Science,Astr,12.182184263935628,0,Britain,Britain,Scots,0,,1800,murray_ha_osf
+3723,"Henle, Friedrich",1849,1809.0,1885.0,Science,Medi,16.171960922344525,0,Germany,Germany,Jewish,0,,1800,murray_ha_osf
+3724,"Henlein, Peter",1502,,,Science,Tech,11.019404909824928,0,Germany,Germany,Germanic,0,,1500,murray_ha_osf
+3736,Henry of Mondeville,1300,1260.0,1320.0,Science,Medi,7.994955984549246,0,France,France,French,0,,1300,murray_ha_osf
+3734,"Henry, Joseph",1837,1797.0,1878.0,Science,Phys,18.5580095975816,1,USA,USA,USA,0,2.0,1800,murray_ha_osf
+3734,"Henry, Joseph",1837,1797.0,1878.0,Science,Tech,21.634354949658675,1,USA,USA,USA,0,2.0,1800,murray_ha_osf
+3741,"Henry, William",1814,1774.0,1836.0,Science,Chem,5.134982472794805,0,Britain,Britain,English,0,,1800,murray_ha_osf
+3749,Heraclides Ponticus,-350,-390.0,-322.0,Science,Astr,14.470151317156885,0,Anc Greece,Anc Greece,Ancient Greek,0,,-400,murray_ha_osf
+3758,"Hérelle, Felix d’",1913,1873.0,1949.0,Science,Biol,11.490464434188166,0,Canada,Canada,Canadian,0,,1900,murray_ha_osf
+3769,"Hermite, Charles",1862,1822.0,1901.0,Science,Math,6.766156901225316,0,France,France,French,0,,1800,murray_ha_osf
+3771,Hero of Alexandria,62,,,Science,Math,17.69580950172887,1,Anc Greece,Anc Greece,Ancient Greek,0,3.0,0,murray_ha_osf
+3771,Hero of Alexandria,62,,,Science,Phys,11.977116003633922,1,Anc Greece,Anc Greece,Ancient Greek,0,3.0,0,murray_ha_osf
+3771,Hero of Alexandria,62,,,Science,Tech,28.000632748992082,1,Anc Greece,Anc Greece,Ancient Greek,0,3.0,0,murray_ha_osf
+3775,Herophilus of Alexandria,-315,-355.0,-280.0,Science,Biol,25.469653212053373,0,Anc Greece,Anc Greece,Ancient Greek,0,,-400,murray_ha_osf
+3776,"Héroult, Paul",1903,1863.0,1914.0,Science,Tech,18.513483685245042,0,France,France,French,0,,1900,murray_ha_osf
+3783,"Herschel, Caroline",1790,1750.0,1848.0,Science,Astr,6.090539903485624,0,Germany,Britain,Germanic,1,,1700,murray_ha_osf
+3784,"Herschel, John ",1832,1792.0,1871.0,Science,Astr,26.812347555234506,0,Britain,Britain,English,0,,1800,murray_ha_osf
+3785,"Herschel, William",1778,1738.0,1822.0,Science,Astr,88.30845295999629,0,Germany,Britain,Germanic,0,,1700,murray_ha_osf
+3786,"Hershey, Alfred Day",1948,1908.0,1997.0,Science,Biol,13.565552088287006,0,USA,USA,USA,0,,1900,murray_ha_osf
+3788,"Hertwig, Wilhelm",1889,1849.0,1922.0,Science,Biol,14.389344415442551,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+3790,"Hertz, Heinrich",1894,1857.0,1894.0,Science,Phys,30.136209199826876,0,Germany,Germany,Jewish,0,,1800,murray_ha_osf
+3791,"Hertzsprung, Ejnar",1913,1873.0,1967.0,Science,Astr,35.1563808206248,0,Denmark,Denmark,Danish,0,,1900,murray_ha_osf
+3795,"Hess, Germain ",1842,1802.0,1850.0,Science,Chem,2.6926961551913227,0,Switzerland,Russia,Germanic,0,,1800,murray_ha_osf
+3796,"Hess, Harry ",1946,1906.0,1969.0,Science,Eart,17.61473794937509,0,USA,USA,USA,0,,1900,murray_ha_osf
+3799,"Hess, Victor ",1923,1883.0,1964.0,Science,Phys,9.855625265459498,0,Austria,Austria,Germanic,0,,1900,murray_ha_osf
+3807,"Hevelius, Johannes",1651,1611.0,1687.0,Science,Astr,29.726466292836566,0,Germany,Germany,Polish,0,,1600,murray_ha_osf
+3808,"Hevesy, György",1925,1885.0,1966.0,Science,Chem,13.262563888750048,0,Hungary,Denmark,Jewish,0,,1900,murray_ha_osf
+3812,"Hey, James ",1949,1909.0,,Science,Phys,5.043782500020797,0,Britain,Britain,English,0,,1900,murray_ha_osf
+3819,"Heyrovsky, Jaroslav ",1930,1890.0,1967.0,Science,Chem,5.757623194723039,0,Czech,Czech,Czech,0,,1900,murray_ha_osf
+3836,"Hilbert, David",1902,1862.0,1943.0,Science,Math,40.40343309430277,0,Germany,Germany,Germanic,0,,1900,murray_ha_osf
+3860,"Hinshaw, Corwin",1942,1902.0,,Science,Medi,8.151480182107356,0,USA,USA,USA,0,,1900,murray_ha_osf
+3863,Hipparchus of Nicaea,-140,-180.0,-127.0,Science,Astr,49.229866439753,0,Anc Greece,Anc Greece,Ancient Greek,0,,-200,murray_ha_osf
+3865,Hippias of Elis,-400,,,Science,Math,7.0935137707615485,0,Anc Greece,Anc Greece,Ancient Greek,0,,-400,murray_ha_osf
+3866,Hippocrates of Chios,-430,-470.0,-400.0,Science,Math,11.823213700291765,0,Anc Greece,Anc Greece,Ancient Greek,0,,-500,murray_ha_osf
+3867,Hippocrates of Cos,-420,-460.0,-370.0,Science,Medi,92.55254797183831,0,Anc Greece,Anc Greece,Ancient Greek,0,,-500,murray_ha_osf
+3874,"Hisinger, Wilhelm",1806,1766.0,1852.0,Science,Chem,5.891146554064107,0,Sweden,Sweden,Swedish,0,,1800,murray_ha_osf
+3891,"Hodgkin, Dorothy",1949,1910.0,1994.0,Science,Chem,7.529792313364116,0,Britain,Britain,English,1,,1900,murray_ha_osf
+3892,"Hodgkin, Thomas",1838,1798.0,1866.0,Science,Medi,9.677948863770371,0,Britain,Britain,English,0,,1800,murray_ha_osf
+3905,"Hoffmann, August von",1858,1818.0,1892.0,Science,Chem,14.637233631549817,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+3909,"Hofmann, Albert",1946,1906.0,,Science,Chem,4.478585641915518,0,Switzerland,Switzerland,Germanic,0,,1900,murray_ha_osf
+3922,"Hollerith, Herman",1900,1860.0,1929.0,Science,Tech,16.052147836636298,0,USA,USA,USA,0,,1900,murray_ha_osf
+3925,"Holmes, Arthur",1930,1890.0,1965.0,Science,Eart,7.22792066607371,0,Britain,Britain,English,0,,1900,murray_ha_osf
+3927,"Holmes, Oliver",1849,1809.0,1894.0,Science,Medi,15.753936600473883,0,USA,USA,USA,0,,1800,murray_ha_osf
+3935,"Homberg, Wilhelm",1692,1652.0,1715.0,Science,Chem,2.7500971920208035,0,Germany,France,Germanic,0,,1600,murray_ha_osf
+3941,"Hooke, Robert",1675,1635.0,1701.0,Science,Astr,17.158778983651636,1,Britain,Britain,English,0,4.0,1600,murray_ha_osf
+3941,"Hooke, Robert",1675,1635.0,1701.0,Science,Eart,16.55276542818081,1,Britain,Britain,English,0,4.0,1600,murray_ha_osf
+3941,"Hooke, Robert",1675,1635.0,1701.0,Science,Phys,35.8085267304597,1,Britain,Britain,English,0,4.0,1600,murray_ha_osf
+3941,"Hooke, Robert",1675,1635.0,1701.0,Science,Tech,23.69366482261734,1,Britain,Britain,English,0,4.0,1600,murray_ha_osf
+3946,"Hopkins, Frederick ",1901,1861.0,1947.0,Science,Biol,20.273176778796472,0,Britain,Britain,English,0,,1900,murray_ha_osf
+3950,"Hoppe-Seyler, Felix",1865,1825.0,1895.0,Science,Chem,6.990360673933497,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+3956,"Hornblower, Jonathan ",1793,1753.0,1815.0,Science,Tech,11.524668117663882,0,Britain,Britain,English,0,,1700,murray_ha_osf
+3965,"Horrocks, Jeremiah",1641,1618.0,1641.0,Science,Astr,7.619140294941495,0,Britain,Britain,English,0,,1600,murray_ha_osf
+3992,"Howe, Elias",1859,1819.0,1867.0,Science,Tech,11.008426264856602,0,USA,USA,USA,0,,1800,murray_ha_osf
+4010,"Hubble, Edwin ",1929,1889.0,1953.0,Science,Astr,45.42519002464746,0,USA,USA,USA,0,,1900,murray_ha_osf
+4017,"Hückel, Erich",1936,1896.0,1980.0,Science,Phys,5.606624567897397,0,Germany,Germany,Germanic,0,,1900,murray_ha_osf
+4019,"Hudde, Jan",1668,1628.0,1704.0,Science,Math,4.889715478142174,0,Netherlands,Netherlands,Dutch,0,,1600,murray_ha_osf
+4028,"Huggins, Charles ",1941,1901.0,,Science,Medi,4.583281943121084,0,Canada,USA,Canadian,0,,1900,murray_ha_osf
+4029,"Huggins, William",1864,1824.0,1910.0,Science,Astr,37.49012198260831,0,Britain,Britain,English,0,,1800,murray_ha_osf
+4031,"Hughes, David ",1871,1831.0,1900.0,Science,Tech,13.585935917805944,0,Britain,Britain,English,0,,1800,murray_ha_osf
+4037,"Hull, Albert ",1920,1880.0,1966.0,Science,Phys,10.439624793312346,0,USA,USA,USA,0,,1900,murray_ha_osf
+4042,"Humboldt, Alexander von",1809,1769.0,1859.0,Science,Biol,23.01440286715935,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+4053,"Hunter, John",1768,1728.0,1793.0,Science,Medi,33.90351080305407,0,Britain,Britain,Scots,0,,1700,murray_ha_osf
+4057,"Huntsman, Benjamin",1744,1704.0,1776.0,Science,Tech,10.936781834945064,0,Britain,Britain,English,0,,1700,murray_ha_osf
+4064,"Hussey, Obed",1873,1833.0,,Science,Tech,10.734472011927737,0,USA,USA,USA,0,,1800,murray_ha_osf
+4070,"Hutton, James",1766,1726.0,1797.0,Science,Eart,77.46473948551143,0,Britain,Britain,Scots,0,,1700,murray_ha_osf
+4074,"Huxley, Thomas",1865,1825.0,1895.0,Science,Biol,22.962199788871843,0,Britain,Britain,English,0,,1800,murray_ha_osf
+4075,"Huygens, Christiaan",1669,1629.0,1695.0,Science,Math,21.59833212545192,1,Netherlands,Netherlands,Dutch,0,3.0,1600,murray_ha_osf
+4075,"Huygens, Christiaan",1669,1629.0,1695.0,Science,Phys,39.440426035680375,1,Netherlands,Netherlands,Dutch,0,3.0,1600,murray_ha_osf
+4075,"Huygens, Christiaan",1669,1629.0,1695.0,Science,Tech,51.180177499347735,1,Netherlands,Netherlands,Dutch,0,3.0,1600,murray_ha_osf
+4077,"Hyatt, John ",1877,1837.0,1920.0,Science,Tech,15.28522047097351,0,USA,USA,USA,0,,1800,murray_ha_osf
+4084,Hypatia of Alexandria,410,370.0,415.0,Science,Math,3.5380730276193053,0,Rome,Rome,Ancient Roman,1,,400,murray_ha_osf
+5904,ibn al Nafis (al-Qarashi),1250,,,Science,Medi,18.239967818297103,0,Arab World,Arab World,Arabic,0,,1200,murray_ha_osf
+9061,ibn Yunus,1009,,,Science,Astr,7.649218973064273,0,Arab World,Arab World,Arabic,0,,1000,murray_ha_osf
+4106,"Ingen-Housz, Jan",1770,1730.0,1799.0,Science,Biol,16.092333984613674,0,Netherlands,Netherlands,Dutch,0,,1700,murray_ha_osf
+4132,"Ivanovsky, Dmitri ",1904,1864.0,1920.0,Science,Biol,11.797871200721442,0,Russia,Russia,Slavic,0,,1900,murray_ha_osf
+4145,"Jackson, John",1875,1835.0,1911.0,Science,Medi,12.686521255239654,0,Britain,Britain,English,0,,1800,murray_ha_osf
+4148,"Jacobi, Carl ",1844,1804.0,1851.0,Science,Math,16.614192842000342,0,Germany,Germany,Jewish,0,,1800,murray_ha_osf
+4156,"Jacquard, Joseph",1792,1752.0,1834.0,Science,Tech,15.176466406893658,0,France,France,French,0,,1700,murray_ha_osf
+4180,"Jansen, Zacharias",1620,1580.0,1628.0,Science,Phys,14.878167968168848,0,Netherlands,Netherlands,Dutch,0,,1600,murray_ha_osf
+4181,"Jansky, Karl ",1945,1905.0,1950.0,Science,Tech,10.453405278233971,0,USA,USA,USA,0,,1900,murray_ha_osf
+4183,"Janssen, Pierre",1864,1824.0,1907.0,Science,Astr,5.29939773050024,0,France,France,French,0,,1800,murray_ha_osf
+4192,"Jeans, James ",1917,1877.0,1946.0,Science,Astr,12.613121487602875,0,Britain,Britain,English,0,,1900,murray_ha_osf
+4197,"Jeffreys, Harold",1931,1891.0,1989.0,Science,Eart,10.556659734449331,0,Britain,Britain,English,0,,1900,murray_ha_osf
+4206,"Jenner, Edward",1789,1749.0,1823.0,Science,Medi,31.871468282943898,0,Britain,Britain,English,0,,1700,murray_ha_osf
+4213,"Jensen, Johannes ",1947,1907.0,1973.0,Science,Phys,4.92185956915751,0,Germany,Germany,Germanic,0,,1900,murray_ha_osf
+4229,"Johannsen, Wilhelm ",1897,1857.0,1927.0,Science,Biol,22.242076731532773,0,Denmark,Denmark,Danish,0,,1800,murray_ha_osf
+4255,"Joliot-Curie, Irène",1937,1897.0,1956.0,Science,Phys,14.359999402738286,0,France,France,French,1,,1900,murray_ha_osf
+4254,"Joliot, Frédéric",1940,1900.0,1958.0,Science,Phys,16.602008762819235,0,France,France,French,0,,1900,murray_ha_osf
+4268,"Jordan, Marie",1878,1838.0,1921.0,Science,Math,10.782634845261022,0,France,France,French,0,,1800,murray_ha_osf
+4275,Jordanus de Nemore (Nemorarius),1220,,,Science,Phys,2.6397032822239,0,France,France,French,0,,1200,murray_ha_osf
+4280,"Joule, James",1858,1818.0,1889.0,Science,Phys,40.044921309564344,0,Britain,Britain,English,0,,1800,murray_ha_osf
+4293,"Jung, Carl Gustav",1915,1875.0,1961.0,Science,Science,,0,Switzerland,Switzerland,Germanic,0,,1900,murray_ha_osf
+4300,"Jussieu, Antoine de",1788,1748.0,1836.0,Science,Biol,10.572812276338395,0,France,France,French,0,,1700,murray_ha_osf
+4301,"Jussieu, Bernard de",1739,1699.0,1777.0,Science,Biol,5.364680526037542,0,France,France,French,0,,1700,murray_ha_osf
+4322,"Kamerlingh-Onnes, Heike",1893,1853.0,1926.0,Science,Phys,18.514562758176357,0,Netherlands,Netherlands,Dutch,0,,1800,murray_ha_osf
+4332,"Kant, Immanuel",1764,1724.0,1804.0,Science,Astr,20.457564506168964,1,Germany,Germany,Germanic,0,2.0,1700,murray_ha_osf
+4335,"Kapitsa, Pyotr ",1934,1894.0,1984.0,Science,Phys,4.766614167799061,0,Russia,Russia,Jewish,0,,1900,murray_ha_osf
+4338,"Kapteyn, Jacobus ",1891,1851.0,1922.0,Science,Astr,8.63769093696396,0,Netherlands,Netherlands,Dutch,0,,1800,murray_ha_osf
+4350,"Karrer, Paul",1929,1889.0,1971.0,Science,Chem,11.638100651678092,0,Switzerland,Switzerland,Germanic,0,,1900,murray_ha_osf
+4363,"Kay, John",1744,1704.0,1764.0,Science,Tech,15.136106556549167,0,Britain,Britain,English,0,,1700,murray_ha_osf
+4371,"Keilin, David",1927,1887.0,1963.0,Science,Biol,17.18362850629556,0,Poland,Britain,Polish,0,,1900,murray_ha_osf
+4376,"Kekulé, Friedrich",1869,1829.0,1896.0,Science,Chem,27.02047930830026,0,Germany,Belgium,Czech,0,,1800,murray_ha_osf
+4382,"Kelly, William",1853,1813.0,1898.0,Science,Tech,16.06019915808997,0,USA,USA,USA,0,,1800,murray_ha_osf
+4387,"Kendall, Edward Calvin",1926,1886.0,1972.0,Science,Biol,25.645108223810876,0,USA,USA,USA,0,,1900,murray_ha_osf
+4393,"Kennedy, J.W.",1941,,,Science,Chem,4.063269096341555,0,USA,USA,USA,0,,1900,murray_ha_osf
+4394,"Kennelly, Arthur ",1901,1861.0,1939.0,Science,Tech,12.28599343130984,0,Britain,USA,Irish,0,,1900,murray_ha_osf
+4396,"Kepler, Johannes",1611,1571.0,1630.0,Science,Astr,93.21228698045405,0,Germany,Czech,Germanic,0,,1600,murray_ha_osf
+4406,"Kettering, Charles ",1916,1876.0,1958.0,Science,Tech,10.218230159120457,0,USA,USA,USA,0,,1900,murray_ha_osf
+4414,"Khayyam, Omar (al-Khayyami)",1088,1048.0,1131.0,Science,Math,13.076484247375525,1,Arab World,Arab World,Arabic,0,2.0,1000,murray_ha_osf
+4437,"King, Charles ",1936,1896.0,1988.0,Science,Medi,15.091222834505857,0,USA,USA,USA,0,,1900,murray_ha_osf
+4449,"Kipfer, Paul",1931,,,Science,Eart,11.905648511486648,0,Switzerland,Switzerland,Germanic,0,,1900,murray_ha_osf
+4451,"Kipping, Frederic ",1903,1863.0,1949.0,Science,Chem,2.964605926573289,0,Britain,Britain,English,0,,1900,murray_ha_osf
+4453,"Kircher, Athanasius",1642,1602.0,1680.0,Science,Science,,0,Germany,Germany,Germanic,0,,1600,murray_ha_osf
+4454,"Kirchhoff, Gustave",1864,1824.0,1887.0,Science,Phys,43.44245032832819,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+4458,"Kirkwood, Daniel",1854,1814.0,1895.0,Science,Astr,5.224049616050255,0,USA,USA,USA,0,,1800,murray_ha_osf
+4463,"Kitasato, Shibasaburo",1892,1852.0,1931.0,Science,Medi,42.27089659584849,0,Japan,Japan,Japanese,0,,1800,murray_ha_osf
+4466,"Klaproth, Martin ",1783,1743.0,1817.0,Science,Chem,23.01360288216026,0,Germany,Germany,Germanic,0,,1700,murray_ha_osf
+4471,"Klebs, Edwin",1873,1833.0,1913.0,Science,Medi,26.30071285137823,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+4473,"Klein, Christian ",1889,1849.0,1925.0,Science,Math,22.519592488343974,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+4481,"Kleist, Ewald von",1740,1700.0,1748.0,Science,Phys,9.71395714838413,0,Germany,Germany,Germanic,0,,1700,murray_ha_osf
+4513,"Koch, Robert",1883,1843.0,1910.0,Science,Medi,89.90729685744498,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+4535,"Kolbe, Adolf",1858,1818.0,1884.0,Science,Chem,7.21274008698767,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+4538,"Koller, Carl",1897,1857.0,1944.0,Science,Medi,11.444415698395703,0,Czech,Austria,Jewish,0,,1800,murray_ha_osf
+4540,"Kölliker, Rudolf von",1857,1817.0,1905.0,Science,Biol,21.928664956783354,0,Switzerland,Switzerland,Germanic,0,,1800,murray_ha_osf
+4541,"Kolmogorov, Andrey ",1943,1903.0,1987.0,Science,Math,4.086585302676777,0,Russia,Russia,Slavic,0,,1900,murray_ha_osf
+4518,"Kölreuter, Joseph ",1773,1733.0,1806.0,Science,Biol,9.15805969368549,0,Germany,Germany,Germanic,0,,1700,murray_ha_osf
+4559,"Korolev, Sergei",1947,1907.0,1966.0,Science,Tech,10.542039290067416,0,Russia,Russia,Slavic,0,,1900,murray_ha_osf
+4562,"Kossel, Karl",1893,1853.0,1927.0,Science,Chem,3.4894408642257173,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+4565,"Koster, Lauren",1410,1370.0,1440.0,Science,Tech,11.143534489400338,0,Netherlands,Netherlands,Dutch,0,,1400,murray_ha_osf
+4572,"Kovalevskaya, Sonya ",1890,1850.0,1891.0,Science,Math,8.34304130215515,0,Russia,Sweden,Slavic,1,,1800,murray_ha_osf
+4598,"Krebs, Hans ",1940,1900.0,1981.0,Science,Biol,20.853531551735614,0,Germany,Britain,Jewish,0,,1900,murray_ha_osf
+4604,"Kronecker, Leopold",1863,1823.0,1891.0,Science,Math,9.820878608572754,0,Germany,Germany,Jewish,0,,1800,murray_ha_osf
+4625,"Kuhn, Richard",1940,1900.0,1967.0,Science,Chem,4.379663581097228,1,Austria,Germany,Germanic,0,2.0,1900,murray_ha_osf
+4625,"Kuhn, Richard",1940,1900.0,1967.0,Science,Medi,8.232482707220315,1,Austria,Germany,Germanic,0,2.0,1900,murray_ha_osf
+4627,"Kühne, Wilhelm ",1877,1837.0,1900.0,Science,Chem,4.589786693088154,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+4628,"Kuiper, Gerard Peter",1945,1905.0,1973.0,Science,Astr,31.710229770467972,0,Netherlands,USA,Dutch,0,,1900,murray_ha_osf
+4630,"Kummer, Ernst",1850,1810.0,1893.0,Science,Math,6.779983363492738,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+4660,"L’Hospital, Guillaume de ",1701,1661.0,1704.0,Science,Math,9.196607524600553,0,France,France,French,0,,1700,murray_ha_osf
+4676,"Lacaille, Nicolas de",1753,1713.0,1762.0,Science,Eart,9.108964520201415,0,France,France,French,0,,1700,murray_ha_osf
+4684,"Laënnec, René",1821,1781.0,1826.0,Science,Medi,54.02976352891299,0,France,France,French,0,,1800,murray_ha_osf
+4686,"Lagrange, Joseph",1776,1736.0,1813.0,Science,Math,30.081572313371474,0,Italy,France,Italian,0,,1700,murray_ha_osf
+4694,"Lamarck, Jean",1784,1744.0,1829.0,Science,Biol,88.18140410328992,0,France,France,French,0,,1700,murray_ha_osf
+4698,"Lambert, Johann ",1768,1728.0,1777.0,Science,Astr,10.113389766145342,1,Germany,Switzerland,Germanic,0,2.0,1700,murray_ha_osf
+4698,"Lambert, Johann ",1768,1728.0,1777.0,Science,Math,14.436592088406702,1,Germany,Switzerland,Germanic,0,2.0,1700,murray_ha_osf
+4714,"Land, Edwin ",1949,1909.0,1991.0,Science,Tech,18.287144729647995,0,USA,USA,Jewish,0,,1900,murray_ha_osf
+4726,"Landsteiner, Karl",1908,1868.0,1943.0,Science,Biol,24.34618553082136,0,Austria,Austria,Jewish,0,,1900,murray_ha_osf
+4740,"Langley, Samuel ",1874,1834.0,1906.0,Science,Tech,9.140961180656516,0,USA,USA,USA,0,,1800,murray_ha_osf
+4742,"Langmuir, Irving",1921,1881.0,1957.0,Science,Chem,10.221875623292561,0,USA,USA,USA,0,,1900,murray_ha_osf
+4754,"Laplace, Pierre",1789,1749.0,1827.0,Science,Astr,78.78090364794542,1,France,France,French,0,2.0,1700,murray_ha_osf
+4754,"Laplace, Pierre",1789,1749.0,1827.0,Science,Math,17.457368180413653,1,France,France,French,0,2.0,1700,murray_ha_osf
+4765,"Lartet, Edouard ",1841,1801.0,1871.0,Science,Biol,9.411064934244038,0,France,France,French,0,,1800,murray_ha_osf
+4771,"Lassell, William",1839,1799.0,1880.0,Science,Astr,21.422313576175704,0,Britain,Britain,English,0,,1800,murray_ha_osf
+4779,"Laue, Max von",1919,1879.0,1960.0,Science,Phys,14.013532892457153,0,Germany,Germany,Germanic,0,,1900,murray_ha_osf
+4785,"Laurent, Auguste",1847,1807.0,1853.0,Science,Chem,8.338568703390822,0,France,France,French,0,,1800,murray_ha_osf
+4790,"Laval, Carl de",1885,1845.0,1913.0,Science,Tech,8.932697601444954,0,Sweden,Sweden,Swedish,0,,1800,murray_ha_osf
+4792,"Laveran, Charles",1885,1845.0,1922.0,Science,Biol,7.636337216012247,0,France,France,French,0,,1800,murray_ha_osf
+4794,"Lavoisier, Antoine",1783,1743.0,1794.0,Science,Chem,100.0,0,France,France,French,0,,1700,murray_ha_osf
+4796,"Lawes, John ",1854,1814.0,1899.0,Science,Tech,15.754165311096683,0,Britain,Britain,English,0,,1800,murray_ha_osf
+4798,"Lawrence, Ernest ",1941,1901.0,1958.0,Science,Phys,12.978516699236554,0,USA,USA,USA,0,,1900,murray_ha_osf
+4811,"Le Bel, Joseph",1887,1847.0,1930.0,Science,Chem,8.012300757947672,0,Germany,France,Germanic,0,,1800,murray_ha_osf
+4815,"Le Châtelier, Henri",1890,1850.0,1936.0,Science,Chem,3.222553240955338,0,France,France,French,0,,1800,murray_ha_osf
+4831,"Le Verrier, Urbain",1851,1811.0,1877.0,Science,Astr,21.641248789678187,0,France,France,French,0,,1800,murray_ha_osf
+4833,"Leakey, Louis ",1943,1903.0,1972.0,Science,Eart,16.731946016462906,0,SS Africa,SS Africa,English,0,,1900,murray_ha_osf
+4837,"Leavitt, Henrietta ",1908,1868.0,1921.0,Science,Astr,12.180142063291989,0,USA,USA,USA,1,,1900,murray_ha_osf
+4839,"Lebedev, Pyotr ",1906,1866.0,1912.0,Science,Phys,6.615335193958291,0,Russia,Russia,Slavic,0,,1900,murray_ha_osf
+4842,"Lebesgue, Henri",1915,1875.0,1941.0,Science,Math,10.37599783786536,0,France,France,French,0,,1900,murray_ha_osf
+4843,"Leblanc, Nicolas",1782,1742.0,1806.0,Science,Chem,6.200046941418547,0,France,France,French,0,,1700,murray_ha_osf
+4844,"Lebon, Philippe",1804,1767.0,1804.0,Science,Tech,12.303959582162681,0,France,France,French,0,,1800,murray_ha_osf
+4845,"Leclanché, Georges ",1879,1839.0,1882.0,Science,Tech,7.646599383678207,0,France,France,French,0,,1800,murray_ha_osf
+4855,"Lee, William",1590,1550.0,1610.0,Science,Tech,7.828076186059418,0,Britain,Britain,English,0,,1500,murray_ha_osf
+4857,"Leeuwenhoek, Antoni van",1672,1632.0,1723.0,Science,Tech,14.828249609212094,0,Netherlands,Netherlands,Dutch,0,,1600,murray_ha_osf
+4860,"Legendre, Adrien ",1792,1752.0,1833.0,Science,Math,36.24028101511488,0,France,France,French,0,,1700,murray_ha_osf
+4865,"Lehmann, Johann ",1759,1719.0,1767.0,Science,Chem,5.467572763832742,0,Germany,Germany,Germanic,0,,1700,murray_ha_osf
+4868,"Leibniz, Gottfried",1686,1646.0,1716.0,Science,Math,71.68794683950499,1,Germany,Germany,Germanic,0,3.0,1600,murray_ha_osf
+4868,"Leibniz, Gottfried",1686,1646.0,1716.0,Science,Tech,26.485832032423122,1,Germany,Germany,Germanic,0,3.0,1600,murray_ha_osf
+4878,"Lemaître, Georges",1934,1894.0,1966.0,Science,Astr,17.411723084628523,0,Belgium,Belgium,Flemish,0,,1900,murray_ha_osf
+4882,"Lenard, Philipp",1902,1862.0,1947.0,Science,Phys,18.973503449898118,0,Germany,Germany,Germanic,0,,1900,murray_ha_osf
+4886,"Lenoir, Jean",1862,1822.0,1900.0,Science,Tech,23.210264166908846,0,Belgium,France,Flemish,0,,1800,murray_ha_osf
+4887,"Lenormand, L.S.",1783,,,Science,Tech,7.695537343717914,0,France,France,French,0,,1700,murray_ha_osf
+4889,"Lenz, Emil ",1844,1804.0,1865.0,Science,Eart,14.39359064658344,0,Russia,Russia,Slavic,0,,1800,murray_ha_osf
+4897,Leonardo da Vinci,1492,1452.0,1519.0,Science,Biol,33.704136365160906,1,Italy,Italy,Italian,0,4.0,1400,murray_ha_osf
+4897,Leonardo da Vinci,1492,1452.0,1519.0,Science,Phys,13.394400967201936,1,Italy,Italy,Italian,0,4.0,1400,murray_ha_osf
+4897,Leonardo da Vinci,1492,1452.0,1519.0,Science,Tech,60.36457032295062,1,Italy,Italy,Italian,0,4.0,1400,murray_ha_osf
+4914,"Lesseps, Ferdinand de",1845,1805.0,1894.0,Science,Tech,8.72572718913697,0,France,France,French,0,,1800,murray_ha_osf
+4918,Leucippus of Miletus,-440,,,Science,Science,,1,Anc Greece,Anc Greece,Ancient Greek,0,2.0,-500,murray_ha_osf
+4927,"Levene, Phoebus",1909,1869.0,1940.0,Science,Biol,16.134578534872293,0,Russia,USA,Jewish,0,,1900,murray_ha_osf
+4932,"Levi-Civita, Tullio",1913,1873.0,1941.0,Science,Math,3.980161927461836,0,Italy,Italy,Jewish,0,,1900,murray_ha_osf
+4933,"Levi-Montalcini, Rita",1949,1909.0,,Science,Biol,8.145006340925145,0,Italy,USA,Jewish,1,,1900,murray_ha_osf
+4935,"Levine, Philip",1940,1900.0,,Science,Biol,12.171827475532712,0,Russia,USA,Jewish,0,,1900,murray_ha_osf
+4946,"Lewis, Gilbert ",1915,1875.0,1946.0,Science,Chem,14.563422483351394,0,USA,USA,USA,0,,1900,murray_ha_osf
+4967,"Libavius, Andreas",1580,1540.0,1616.0,Science,Chem,6.907165121623147,0,Germany,Germany,Germanic,0,,1500,murray_ha_osf
+4968,"Libby, Willard ",1948,1908.0,1980.0,Science,Chem,6.452510243265401,0,USA,USA,USA,0,,1900,murray_ha_osf
+4972,"Lie, Marius ",1882,1842.0,1899.0,Science,Math,10.385824070205242,0,Norway,Norway,Norwegian,0,,1800,murray_ha_osf
+4977,"Liebig, Justis von",1843,1803.0,1873.0,Science,Chem,31.021397706324727,1,Germany,Germany,Germanic,0,2.0,1800,murray_ha_osf
+4977,"Liebig, Justis von",1843,1803.0,1873.0,Science,Tech,5.086931020330598,1,Germany,Germany,Germanic,0,2.0,1800,murray_ha_osf
+4983,"Lilienthal, Otto",1888,1848.0,1896.0,Science,Tech,13.87312050547422,0,Germany,Germany,Jewish,0,,1800,murray_ha_osf
+4991,"Lind, James",1756,1716.0,1794.0,Science,Medi,22.76698776987331,0,Britain,Britain,Scots,0,,1700,murray_ha_osf
+4992,"Lindbergh, Charles ",1942,1902.0,1974.0,Science,Tech,9.485351372485697,0,USA,USA,USA,0,,1900,murray_ha_osf
+4993,"Lindblad, Bertil",1935,1895.0,1965.0,Science,Astr,7.455522774197375,0,Sweden,Sweden,Swedish,0,,1900,murray_ha_osf
+4995,"Linde, Carl von",1882,1842.0,1934.0,Science,Phys,3.4588327396028706,1,Germany,Germany,Germanic,0,2.0,1800,murray_ha_osf
+4995,"Linde, Carl von",1882,1842.0,1934.0,Science,Tech,10.4915186712147,1,Germany,Germany,Germanic,0,2.0,1800,murray_ha_osf
+4998,"Lindemann, Carl von",1892,1852.0,1939.0,Science,Math,11.133837114399451,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+5012,"Linnaeus, Carle",1747,1707.0,1778.0,Science,Biol,59.046920967160574,0,Sweden,Sweden,Swedish,0,,1700,murray_ha_osf
+5016,"Liouville, Joseph",1849,1809.0,1882.0,Science,Math,13.121488192323646,0,France,France,French,0,,1800,murray_ha_osf
+5018,"Lipmann, Fritz ",1939,1899.0,1986.0,Science,Biol,13.814398039954323,0,Germany,USA,Jewish,0,,1900,murray_ha_osf
+5019,"Lippershey, Hans",1610,1570.0,1619.0,Science,Tech,20.516684876796973,0,Germany,Netherlands,Dutch,0,,1600,murray_ha_osf
+5028,"Lister, Joseph ",1867,1827.0,1912.0,Science,Medi,43.3087544725895,0,Britain,Britain,English,0,,1800,murray_ha_osf
+5027,"Lister, Joseph J.",1826,1786.0,1869.0,Science,Biol,9.282233579566308,0,Britain,Britain,English,0,,1800,murray_ha_osf
+5037,Liu Hui,250,,,Science,Math,4.9927764195243505,0,China,China,Chinese,0,,200,murray_ha_osf
+5048,"Lobachevsky, Nikolay ",1832,1792.0,1856.0,Science,Math,19.40695893069358,0,Russia,Russia,Slavic,0,,1800,murray_ha_osf
+5053,"Lockyer, Joseph ",1876,1836.0,1920.0,Science,Astr,14.626217235875364,0,Britain,Britain,English,0,,1800,murray_ha_osf
+5054,"Lodge, Oliver ",1891,1851.0,1940.0,Science,Phys,9.878942966162102,1,Britain,Britain,English,0,2.0,1800,murray_ha_osf
+5054,"Lodge, Oliver ",1891,1851.0,1940.0,Science,Tech,11.711343125574503,1,Britain,Britain,English,0,2.0,1800,murray_ha_osf
+5059,"Loewi, Otto",1913,1873.0,1961.0,Science,Medi,6.0940315091512085,0,Germany,Austria,Jewish,0,,1900,murray_ha_osf
+5057,"Löffler, Friedrich ",1892,1852.0,1915.0,Science,Medi,21.002497054107472,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+5071,"Lomonosov, Mikhail ",1751,1711.0,1765.0,Science,Astr,12.824877199867949,0,Russia,Russia,Slavic,0,,1700,murray_ha_osf
+5072,"London, Fritz ",1940,1900.0,1954.0,Science,Phys,8.66988702154861,0,Germany,Germany,Jewish,0,,1900,murray_ha_osf
+5073,"London, Heinz",1947,1907.0,1970.0,Science,Phys,5.405141126445987,0,Germany,Britain,Jewish,0,,1900,murray_ha_osf
+5086,"Lorentz, Hendrik ",1893,1853.0,1928.0,Science,Phys,26.281301609599765,0,Netherlands,Netherlands,Dutch,0,,1800,murray_ha_osf
+5089,"Lorenz, Konrad ",1943,1903.0,1989.0,Science,Biol,13.02752529528214,0,Austria,Austria,Germanic,0,,1900,murray_ha_osf
+5097,"Loschmidt, Johann ",1861,1821.0,1895.0,Science,Chem,5.304101060185334,0,Czech,Austria,Czech,0,,1800,murray_ha_osf
+5105,"Love, Augustus",1903,1863.0,1940.0,Science,Eart,4.144516970256575,0,Britain,Britain,English,0,,1900,murray_ha_osf
+5120,"Lowell, Percival",1895,1855.0,1916.0,Science,Astr,4.391774549560142,0,USA,USA,USA,0,,1800,murray_ha_osf
+5123,"Lower, Richard",1671,1631.0,1691.0,Science,Medi,21.02956182120709,0,Britain,Britain,English,0,,1600,murray_ha_osf
+5124,"Löwig, Carl",1843,1803.0,1890.0,Science,Chem,4.063269096341555,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+5137,"Ludwig, Karl",1856,1816.0,1895.0,Science,Biol,7.693688001090691,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+5144,Lumière Brothers,1902,1862.0,1954.0,Science,Tech,14.001358031209007,0,France,France,French,0,,1900,murray_ha_osf
+5158,"Lwoff, André",1942,1902.0,1994.0,Science,Biol,4.7303605019657375,0,France,France,Jewish,0,,1900,murray_ha_osf
+5160,"Lyell, Charles",1837,1797.0,1875.0,Science,Eart,100.0,0,Britain,Britain,Scots,0,,1800,murray_ha_osf
+5175,"Lyot, Bernard",1937,1897.0,1952.0,Science,Phys,1.0,0,France,France,French,0,,1900,murray_ha_osf
+5190,"Mach, Ernst",1878,1838.0,1916.0,Science,Phys,17.44023223245963,0,Czech,Czech,Czech,0,,1800,murray_ha_osf
+5193,"Macintosh, Charles",1806,1766.0,1842.0,Science,Chem,2.203094912484365,0,Britain,Britain,Scots,0,,1800,murray_ha_osf
+5198,"Maclaurin, Colin",1738,1698.0,1746.0,Science,Math,26.782667133935245,0,Britain,Britain,Scots,0,,1700,murray_ha_osf
+5201,"MacLeod, Colin ",1949,1909.0,1972.0,Science,Biol,14.557686500271263,0,Canada,USA,Canadian,0,,1900,murray_ha_osf
+5202,"MacLeod, John",1916,1876.0,1935.0,Science,Biol,12.669844223629056,0,Britain,Canada,Scots,0,,1900,murray_ha_osf
+5203,"Maclure, William",1803,1763.0,1840.0,Science,Eart,6.0638183452477925,0,Britain,USA,Scots,0,,1800,murray_ha_osf
+5205,"Macmillan, Kirkpatrick",1839,,,Science,Tech,6.589202566467531,0,Britain,Britain,Scots,0,,1800,murray_ha_osf
+5208,"Macquer, Pierre",1758,1718.0,1784.0,Science,Chem,1.3041859051049511,0,France,France,French,0,,1700,murray_ha_osf
+5220,"Magendie, François",1823,1783.0,1855.0,Science,Medi,20.403819949195288,0,France,France,French,0,,1800,murray_ha_osf
+5270,"Mallet, Robert",1850,1810.0,1881.0,Science,Eart,4.524536979397576,0,Britain,Britain,English,0,,1800,murray_ha_osf
+5274,"Malpighi, Marcello",1668,1628.0,1694.0,Science,Biol,44.871663298191386,0,Italy,Italy,Italian,0,,1600,murray_ha_osf
+5278,"Malus, Étienne",1812,1775.0,1812.0,Science,Phys,14.662622759645291,0,France,France,French,0,,1800,murray_ha_osf
+5290,"Manson, Patrick",1884,1844.0,1922.0,Science,Medi,14.495546841514532,0,Britain,Britain,Scots,0,,1800,murray_ha_osf
+5293,"Mantell, Gideon ",1830,1790.0,1852.0,Science,Eart,13.112284420157463,0,Britain,Britain,English,0,,1800,murray_ha_osf
+5310,"Marconi, Guglielmo",1914,1874.0,1937.0,Science,Tech,49.88741527109231,0,Italy,Italy,Italian,0,,1900,murray_ha_osf
+5318,"Marggraf, Andreas ",1749,1709.0,1782.0,Science,Chem,6.072344184232357,0,Germany,Germany,Germanic,0,,1700,murray_ha_osf
+5322,"Marignac, Jean de",1857,1817.0,1894.0,Science,Chem,7.228802556330173,0,Switzerland,Switzerland,French,0,,1800,murray_ha_osf
+5328,"Mariotte, Edme",1660,1620.0,1684.0,Science,Science,,0,France,France,French,0,,1600,murray_ha_osf
+5333,"Markov, Andrei ",1896,1856.0,1922.0,Science,Math,7.328789250646891,0,Russia,Russia,Slavic,0,,1800,murray_ha_osf
+5334,"Markovnikov, Vladimir",1878,1838.0,1904.0,Science,Chem,3.198173327037225,0,Russia,Russia,Slavic,0,,1800,murray_ha_osf
+5340,"Marsden, Ernst",1929,1889.0,1970.0,Science,Phys,10.350871530851656,0,Britain,New Zealand,English,0,,1900,murray_ha_osf
+5353,"Martin, Archer",1949,1910.0,,Science,Biol,13.261001365649616,0,Britain,Britain,English,0,,1900,murray_ha_osf
+5382,"Maskelyne, Nevil",1772,1732.0,1811.0,Science,Astr,2.095560504299133,1,Britain,Britain,English,0,2.0,1700,murray_ha_osf
+5382,"Maskelyne, Nevil",1772,1732.0,1811.0,Science,Tech,6.195546122972511,1,Britain,Britain,English,0,2.0,1700,murray_ha_osf
+5419,"Mauchly, John ",1947,1907.0,1980.0,Science,Tech,25.76342492612358,0,USA,USA,USA,0,,1900,murray_ha_osf
+5420,"Maudslay, Henry",1811,1771.0,1831.0,Science,Tech,15.805874967679229,0,Britain,Britain,English,0,,1800,murray_ha_osf
+5426,"Maupertuis, Pierre de",1738,1698.0,1759.0,Science,Eart,20.76879985876027,0,France,France,French,0,,1700,murray_ha_osf
+5430,"Maury, Antonia ",1906,1866.0,1952.0,Science,Astr,9.51884715714101,0,USA,USA,USA,1,,1900,murray_ha_osf
+5431,"Maury, Matthew ",1846,1806.0,1873.0,Science,Eart,39.99700075640465,0,USA,USA,USA,0,,1800,murray_ha_osf
+5437,"Maxwell, James",1871,1831.0,1879.0,Science,Phys,49.60816639614961,0,Britain,Britain,Scots,0,,1800,murray_ha_osf
+5440,"Maybach, Wilhelm",1886,1846.0,1929.0,Science,Tech,16.266345986670856,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+5445,"Mayer, Johann ",1762,1723.0,1762.0,Science,Phys,3.9368899038938316,0,Germany,Germany,Germanic,0,,1700,murray_ha_osf
+5446,"Mayer, Julius  von",1854,1814.0,1878.0,Science,Phys,20.765836171714408,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+5447,"Mayer, Maria ",1946,1906.0,1972.0,Science,Phys,7.497133622262367,0,Poland,USA,Germanic,1,,1900,murray_ha_osf
+5452,"Mayow, John",1679,1641.0,1679.0,Science,Chem,12.182640797837733,0,Britain,Britain,English,0,,1600,murray_ha_osf
+5329,"Mayr, Simon ",1610,1570.0,1624.0,Science,Astr,19.217150672186836,0,Germany,Czech,Germanic,0,,1600,murray_ha_osf
+5460,"McAdam, John ",1796,1756.0,1836.0,Science,Tech,12.232925422322422,0,Britain,Britain,Scots,0,,1700,murray_ha_osf
+5466,"McClintock, Barbara",1942,1902.0,1992.0,Science,Biol,2.973545773756927,0,USA,USA,USA,1,,1900,murray_ha_osf
+5469,"McCollum, Elmer ",1919,1879.0,1967.0,Science,Medi,48.900153113024444,0,USA,USA,USA,0,,1900,murray_ha_osf
+5471,"McCormick, Cyrus ",1849,1809.0,1884.0,Science,Tech,15.253560175891742,0,USA,USA,USA,0,,1800,murray_ha_osf
+5478,"McCune, William ",1942,1902.0,1984.0,Science,Tech,6.2250792472092105,0,USA,USA,USA,0,,1900,murray_ha_osf
+5490,"McMillan, Edwin ",1947,1907.0,1991.0,Science,Phys,16.56442062961917,0,USA,USA,USA,0,,1900,murray_ha_osf
+5493,"Méchain, Pierre",1784,1744.0,1804.0,Science,Eart,10.00988590272581,0,France,France,French,0,,1700,murray_ha_osf
+5512,"Meikle, Andrew",1783,1743.0,1823.0,Science,Tech,8.503543349197153,0,Britain,Britain,Scots,0,,1700,murray_ha_osf
+5518,"Meitner, Lise",1918,1878.0,1968.0,Science,Phys,15.832444209635716,0,Austria,Germany,Jewish,1,,1900,murray_ha_osf
+5520,"Mellanby, Edward",1924,1884.0,1955.0,Science,Medi,14.711180981300148,0,Britain,Britain,Scots,0,,1900,murray_ha_osf
+5524,"Melloni, Macedonio",1838,1798.0,1854.0,Science,Phys,4.7312085376266255,0,Italy,Italy,Italian,0,,1800,murray_ha_osf
+5529,Menaechmus,-350,,,Science,Math,11.201933083195021,0,Anc Greece,Anc Greece,Ancient Greek,0,,-400,murray_ha_osf
+5530,"Mendel, Johann",1862,1822.0,1884.0,Science,Biol,37.658914130298356,0,Czech,Czech,Czech,0,,1800,murray_ha_osf
+5532,"Mendeleyev, Dmitry ",1874,1834.0,1907.0,Science,Chem,25.029737832296835,0,Russia,Russia,Slavic,0,,1800,murray_ha_osf
+5534,Menelaus of Alexandria,98,,,Science,Math,13.716237985488124,0,Rome,Rome,Ancient Roman,0,,0,murray_ha_osf
+5544,"Meray, Hagues ",1875,1835.0,1911.0,Science,Math,2.611339613706846,0,France,France,French,0,,1800,murray_ha_osf
+5546,"Mercator, Gerardus ",1552,1512.0,1594.0,Science,Science,,0,Belgium,Belgium,Flemish,0,,1500,murray_ha_osf
+5547,"Mercator, Nicolaus",1659,1619.0,1687.0,Science,Math,5.73958216981705,0,Denmark,Belgium,Flemish,0,,1600,murray_ha_osf
+5550,"Mergenthaler, Ottmar",1894,1854.0,1899.0,Science,Tech,9.592994285810413,0,Germany,USA,Germanic,0,,1800,murray_ha_osf
+5564,"Mersenne, Marin",1628,1588.0,1648.0,Science,Math,9.906470720723071,0,France,France,French,0,,1600,murray_ha_osf
+5570,"Mesmer, Franz ",1774,1734.0,1815.0,Science,Science,,0,Germany,Germany,Germanic,0,,1700,murray_ha_osf
+5573,"Messier, Charles",1770,1730.0,1817.0,Science,Astr,11.261165564532902,0,France,France,French,0,,1700,murray_ha_osf
+5581,Meton of Athens,-440,,,Science,Astr,5.919822749739623,0,Anc Greece,Anc Greece,Ancient Greek,0,,-500,murray_ha_osf
+5593,"Meyer, Julius ",1870,1830.0,1895.0,Science,Chem,11.732401856070842,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+5595,"Meyer, Viktor ",1888,1848.0,1897.0,Science,Chem,4.516850290473517,0,Germany,Germany,Jewish,0,,1800,murray_ha_osf
+5596,"Meyerhof, Otto ",1924,1884.0,1951.0,Science,Biol,5.992037628117347,0,Germany,Germany,Jewish,0,,1900,murray_ha_osf
+5613,"Michell, John",1764,1724.0,1793.0,Science,Astr,2.200281353200971,0,Britain,Britain,English,0,,1700,murray_ha_osf
+5614,"Michelson, Albert ",1892,1852.0,1931.0,Science,Phys,24.968652067899104,0,Germany,USA,Jewish,0,,1800,murray_ha_osf
+5618,"Midgley, Thomas, Jr.",1929,1889.0,1944.0,Science,Chem,8.219296607658773,1,USA,USA,USA,0,2.0,1900,murray_ha_osf
+5618,"Midgley, Thomas, Jr.",1929,1889.0,1944.0,Science,Tech,15.326938750301336,1,USA,USA,USA,0,2.0,1900,murray_ha_osf
+5624,"Miescher, Johann ",1884,1844.0,1895.0,Science,Chem,4.999560292410227,0,Switzerland,Switzerland,Germanic,0,,1800,murray_ha_osf
+5648,"Millikan, Robert ",1908,1868.0,1953.0,Science,Phys,28.382508184251147,0,USA,USA,USA,0,,1900,murray_ha_osf
+5655,"Milne, Edward ",1936,1896.0,1950.0,Science,Astr,11.307998356823123,0,Britain,Britain,English,0,,1900,murray_ha_osf
+5656,"Milne, John",1899,1859.0,1913.0,Science,Eart,13.936417823243644,0,Britain,Britain,English,0,,1800,murray_ha_osf
+5665,"Minkowski, Hermann",1904,1864.0,1909.0,Science,Math,11.98416495545797,0,Germany,Germany,Jewish,0,,1900,murray_ha_osf
+5671,"Minot, George ",1925,1885.0,1950.0,Science,Medi,13.456821962727862,0,USA,USA,USA,0,,1900,murray_ha_osf
+5677,"Mises, Richard von",1923,1883.0,1953.0,Science,Math,1.1800689909296769,0,Austria,Austria,Jewish,0,,1900,murray_ha_osf
+5682,"Mitchell, Maria",1858,1818.0,1889.0,Science,Astr,5.954586455285124,0,USA,USA,USA,1,,1800,murray_ha_osf
+5686,"Mitscherlich, Eilhard",1834,1794.0,1863.0,Science,Eart,28.714896516427675,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+5694,"Möbius, August ",1830,1790.0,1868.0,Science,Math,9.542939468431126,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+5701,"Mohl, Hugo von",1845,1805.0,1872.0,Science,Biol,8.644604094571,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+5703,"Mohorovicic, Andrija",1897,1857.0,1936.0,Science,Eart,14.537221687244653,0,Balkans,Balkans,Croatian,0,,1800,murray_ha_osf
+5704,"Mohr, Carl ",1846,1806.0,1879.0,Science,Chem,5.6771900357819485,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+5707,"Mohs, Friedrich",1813,1773.0,1839.0,Science,Eart,5.734795252392154,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+5709,"Moissan, Ferdinand ",1892,1852.0,1907.0,Science,Chem,4.469348782994185,1,France,France,Jewish,0,2.0,1800,murray_ha_osf
+5709,"Moissan, Ferdinand ",1892,1852.0,1907.0,Science,Tech,6.6349289301444,1,France,France,Jewish,0,2.0,1800,murray_ha_osf
+5710,"Moivre, Abraham de",1707,1667.0,1754.0,Science,Math,18.071642593825082,0,France,Britain,French,0,,1700,murray_ha_osf
+5733,"Monge, Gaspard",1786,1746.0,1818.0,Science,Math,27.77087446705767,0,France,France,French,0,,1700,murray_ha_osf
+5737,"Monod, Jacques",1949,1910.0,1976.0,Science,Biol,15.047084788755505,0,France,France,French,0,,1900,murray_ha_osf
+5749,Montgolfier Brothers,1785,1745.0,1799.0,Science,Tech,18.954778569561086,0,France,France,French,0,,1700,murray_ha_osf
+5775,"Morgagni, Giovanni",1722,1682.0,1771.0,Science,Medi,23.41254572662504,0,Italy,Italy,Italian,0,,1700,murray_ha_osf
+5781,"Morgan, Thomas",1906,1866.0,1945.0,Science,Biol,75.44594457832622,0,USA,USA,USA,0,,1900,murray_ha_osf
+5783,"Morgenstern, Oskar",1944,,,Science,Math,6.941239298640181,0,USA,USA,Jewish,0,,1900,murray_ha_osf
+5790,"Morley, Edward",1878,1838.0,1923.0,Science,Chem,12.968314152399154,0,USA,USA,USA,0,,1800,murray_ha_osf
+5792,"Moro, Anton",1727,1687.0,1764.0,Science,Eart,12.09308725705775,0,Italy,Italy,Italian,0,,1700,murray_ha_osf
+5802,"Morse, Samuel",1831,1791.0,1872.0,Science,Tech,30.32156535159714,0,USA,USA,USA,0,,1800,murray_ha_osf
+5812,"Morton, William ",1859,1819.0,1868.0,Science,Medi,23.003588548745764,0,USA,USA,USA,0,,1800,murray_ha_osf
+5813,"Mosander, Carl ",1837,1797.0,1858.0,Science,Eart,36.676085640542276,0,Sweden,Sweden,Swedish,0,,1800,murray_ha_osf
+5815,"Moseley, Henry",1915,1887.0,1915.0,Science,Phys,15.814482600577632,0,Britain,Britain,English,0,,1900,murray_ha_osf
+5833,"Moulton, Forest ",1912,1872.0,1952.0,Science,Astr,9.457363194288543,0,USA,USA,USA,0,,1900,murray_ha_osf
+5851,"Muller, Franz ",1780,1740.0,1825.0,Science,Chem,4.306381220579972,0,Hungary,Austria,Romanian,0,,1700,murray_ha_osf
+5855,"Müller, Hermann ",1930,1890.0,1967.0,Science,Biol,32.94960527483439,0,USA,USA,Jewish,0,,1900,murray_ha_osf
+5858,"Müller, Johannes ",1841,1801.0,1858.0,Science,Biol,18.817622078153047,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+5860,"Müller, Otto ",1770,1730.0,1784.0,Science,Biol,7.190563237561667,0,Denmark,Denmark,Danish,0,,1700,murray_ha_osf
+5861,"Müller, Paul ",1939,1899.0,1965.0,Science,Chem,5.932213892130898,0,Switzerland,Switzerland,Germanic,0,,1900,murray_ha_osf
+5862,"Muller, Walther",1928,,,Science,Phys,4.036722997547082,0,Germany,Germany,Germanic,0,,1900,murray_ha_osf
+5875,"Murchison, Roderick ",1832,1792.0,1871.0,Science,Eart,40.16986194163805,0,Britain,Britain,Scots,0,,1800,murray_ha_osf
+5876,"Murdock, William",1794,1754.0,1839.0,Science,Tech,23.424820434485497,0,Britain,Britain,Scots,0,,1700,murray_ha_osf
+5880,"Murphy, William ",1932,1892.0,1987.0,Science,Medi,9.900691105849676,0,USA,USA,USA,0,,1900,murray_ha_osf
+5892,"Musschenbroek, Pieter van",1732,1692.0,1761.0,Science,Phys,17.722616812536927,0,Netherlands,Netherlands,Dutch,0,,1700,murray_ha_osf
+5920,"Napier, John",1590,1550.0,1617.0,Science,Math,18.80759119939965,0,Britain,Britain,Scots,0,,1500,murray_ha_osf
+5924,"Nasmyth, James",1848,1808.0,1890.0,Science,Tech,13.677445558049206,0,Britain,Britain,Scots,0,,1800,murray_ha_osf
+5928,"Natta, Giulio",1943,1903.0,1979.0,Science,Chem,4.079351523059151,0,Italy,Italy,Italian,0,,1900,murray_ha_osf
+5940,"Neckam, Alexander",1125,,,Science,Tech,6.787332797975323,0,Britain,Britain,English,0,,1100,murray_ha_osf
+5952,"Neisser, Albert",1895,1855.0,1916.0,Science,Medi,7.275287713318915,0,Germany,Germany,Jewish,0,,1800,murray_ha_osf
+5957,"Nernst, Hermann ",1904,1864.0,1941.0,Science,Chem,20.486539962651698,0,Germany,Germany,Germanic,0,,1900,murray_ha_osf
+5973,"Newcomen, Thomas",1703,1663.0,1729.0,Science,Tech,32.75371753505626,0,Britain,Britain,English,0,,1700,murray_ha_osf
+5977,"Newlands, John",1877,1837.0,1898.0,Science,Chem,6.790426644237975,0,Britain,Britain,English,0,,1800,murray_ha_osf
+5985,"Newton, Isaac",1682,1642.0,1727.0,Science,Math,88.9309665150219,1,Britain,Britain,English,0,2.0,1600,murray_ha_osf
+5985,"Newton, Isaac",1682,1642.0,1727.0,Science,Phys,100.0,1,Britain,Britain,English,0,2.0,1600,murray_ha_osf
+2003,Nicholas of Cusa,1441,1401.0,1464.0,Science,Science,,1,Germany,Italy,Germanic,0,2.0,1400,murray_ha_osf
+5996,"Nicholson, William",1793,1753.0,1815.0,Science,Tech,3.4712628442933346,0,Britain,Britain,English,0,,1700,murray_ha_osf
+5999,"Nicol, William",1808,1768.0,1851.0,Science,Eart,7.246905466920464,0,Britain,Britain,Scots,0,,1800,murray_ha_osf
+6005,"Nicolle, Charles",1906,1866.0,1936.0,Science,Medi,10.883208717012433,0,France,France,French,0,,1900,murray_ha_osf
+6006,Nicomachus of Gerasa,100,,,Science,Math,4.858619564561408,0,Rome,Rome,Ancient Roman,0,,100,murray_ha_osf
+6013,"Niépce, Joseph",1805,1765.0,1833.0,Science,Tech,21.26365112878939,0,France,France,French,0,,1800,murray_ha_osf
+6017,"Nieuwland, Julius Arthur",1918,1878.0,1936.0,Science,Chem,5.340786398308812,0,Belgium,USA,Flemish,0,,1900,murray_ha_osf
+6024,"Nilson, Lars Fredrik",1880,1840.0,1899.0,Science,Chem,4.478585641915518,0,Sweden,Sweden,Swedish,0,,1800,murray_ha_osf
+6036,"Nobel, Alfred",1873,1833.0,1896.0,Science,Chem,14.360164885566402,1,Sweden,Sweden,Swedish,0,2.0,1800,murray_ha_osf
+6036,"Nobel, Alfred",1873,1833.0,1896.0,Science,Tech,31.514588898901025,1,Sweden,Sweden,Swedish,0,2.0,1800,murray_ha_osf
+6039,"Nobili, Leopoldo",1824,1784.0,1835.0,Science,Phys,4.719041807306019,0,Italy,Italy,Italian,0,,1800,murray_ha_osf
+6043,"Noddack, Walter",1933,1893.0,1960.0,Science,Chem,4.764002079370875,0,Germany,Germany,Germanic,0,,1900,murray_ha_osf
+6045,"Noether, Emmy",1922,1882.0,1935.0,Science,Math,10.05369089539881,0,Germany,Germany,Jewish,1,,1900,murray_ha_osf
+6048,"Nollet, Jean",1740,1700.0,1770.0,Science,Phys,13.602647709147082,0,France,France,French,0,,1700,murray_ha_osf
+6054,"Norman, Robert",1590,,,Science,Tech,11.781135830659027,0,Britain,Britain,English,0,,1500,murray_ha_osf
+6061,"Northrop, John ",1931,1891.0,1987.0,Science,Biol,12.07723607790548,0,USA,USA,USA,0,,1900,murray_ha_osf
+6103,"Ochoa, Severo",1945,1905.0,1993.0,Science,Biol,7.01024841744597,0,Spain,USA,Spanish,0,,1900,murray_ha_osf
+6115,"Ohm, Georg ",1829,1789.0,1854.0,Science,Phys,16.196120818863218,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+6123,"Olbers, Heinrich",1798,1758.0,1840.0,Science,Astr,32.805672752340335,0,Germany,Germany,Germanic,0,,1700,murray_ha_osf
+6138,"Omalius d’Halloy, Jean",1823,1783.0,1875.0,Science,Eart,7.737433420316939,0,Belgium,Belgium,Flemish,0,,1800,murray_ha_osf
+6141,"Oort, Jan Hendrik",1940,1900.0,1992.0,Science,Astr,21.961821742413825,0,Netherlands,Netherlands,Dutch,0,,1900,murray_ha_osf
+6143,"Oparin, Alexander ",1934,1894.0,1980.0,Science,Biol,8.050688855510904,0,Russia,Russia,Slavic,0,,1900,murray_ha_osf
+6149,"Oppenheimer, Robert",1944,1904.0,1967.0,Science,Phys,4.984542687299517,0,USA,USA,Jewish,0,,1900,murray_ha_osf
+6156,"Oresme, Nicole",1360,1320.0,1382.0,Science,Math,25.864188018188834,0,France,France,French,0,,1300,murray_ha_osf
+6159,Oribasios of Pergamon,365,325.0,395.0,Science,Medi,4.635517479278461,0,Anc Greece,Anc Greece,Ancient Greek,0,,300,murray_ha_osf
+6112,"Ørsted, Hans",1817,1777.0,1851.0,Science,Phys,30.259968225565366,0,Denmark,Denmark,Danish,0,,1800,murray_ha_osf
+6182,"Ostwald, Wilhelm",1893,1853.0,1932.0,Science,Chem,18.30508389768608,0,Russia,Germany,Slavic,0,,1800,murray_ha_osf
+6183,"Otis, Elisha",1851,1811.0,1861.0,Science,Tech,9.832988025493322,0,USA,USA,USA,0,,1800,murray_ha_osf
+6189,"Otto, Nikolaus ",1872,1832.0,1891.0,Science,Tech,20.453791193846257,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+6192,"Oughtred, William",1615,1575.0,1660.0,Science,Math,12.487749217406002,0,Britain,Australia,English,0,,1600,murray_ha_osf
+6199,"Owen, Richard",1844,1804.0,1892.0,Science,Biol,23.05228978735348,0,Britain,Britain,English,0,,1800,murray_ha_osf
+6211,"Pacioli, Luca",1485,1445.0,1517.0,Science,Math,20.569332699525635,0,Italy,Italy,Italian,0,,1400,murray_ha_osf
+6224,"Palissy, Bernard",1554,1514.0,1590.0,Science,Eart,11.602775412873651,0,France,France,French,0,,1500,murray_ha_osf
+6238,"Paneth, Friedrich ",1927,1887.0,1958.0,Science,Chem,6.440560553583986,0,Austria,Germany,Jewish,0,,1900,murray_ha_osf
+6246,"Papanicolaou, George ",1923,1883.0,1962.0,Science,Biol,9.030261698592232,0,Balkans,USA,Greek,0,,1900,murray_ha_osf
+6247,"Papin, Denis",1687,1647.0,1712.0,Science,Tech,30.70186905694635,0,France,France,French,0,,1600,murray_ha_osf
+6249,Pappus of Alexandria,350,,,Science,Math,16.00401493514968,0,Anc Greece,Rome,Ancient Greek,0,,300,murray_ha_osf
+6250,Paracelsus,1533,1493.0,1541.0,Science,Medi,68.2602084340721,0,Switzerland,Switzerland,Germanic,0,,1500,murray_ha_osf
+6254,"Paré, Ambroise",1550,1510.0,1590.0,Science,Medi,46.33484249763178,0,France,France,French,0,,1500,murray_ha_osf
+6265,"Parkes, Alexander",1853,1813.0,1890.0,Science,Tech,16.211051931679233,0,Britain,Britain,English,0,,1800,murray_ha_osf
+6269,"Parkinson, James",1795,1755.0,1824.0,Science,Medi,9.978524649268431,0,Britain,Britain,English,0,,1700,murray_ha_osf
+6281,"Parsons, Charles ",1894,1854.0,1931.0,Science,Tech,21.253723897672913,0,Britain,Britain,Irish,0,,1800,murray_ha_osf
+6282,"Parsons, William",1840,1800.0,1867.0,Science,Astr,13.629206617306394,0,Britain,Britain,Irish,0,,1800,murray_ha_osf
+6284,"Pascal, Blaise",1662,1623.0,1662.0,Science,Math,47.35278208105688,1,France,France,French,0,2.0,1600,murray_ha_osf
+6286,"Pasch, Moritz",1883,1843.0,1930.0,Science,Math,3.20066773114397,0,Germany,Germany,Jewish,0,,1800,murray_ha_osf
+6288,"Pasteur, Louis",1862,1822.0,1895.0,Science,Medi,100.0,1,France,France,French,0,2.0,1800,murray_ha_osf
+6288,"Pasteur, Louis",1862,1822.0,1895.0,Science,Tech,24.994344622776122,1,France,France,French,0,2.0,1800,murray_ha_osf
+6299,"Paulesco, Nicolas",1921,,,Science,Chem,4.467106696433455,0,Balkans,Balkans,Romanian,0,,1900,murray_ha_osf
+6300,"Pauli, Wolfgang",1940,1900.0,1958.0,Science,Phys,31.64140049415446,0,Austria,Switzerland,Jewish,0,,1900,murray_ha_osf
+6301,"Pauling, Linus ",1941,1901.0,1994.0,Science,Chem,27.042206444560122,0,USA,USA,USA,0,,1900,murray_ha_osf
+6309,"Pavlov, Ivan ",1889,1849.0,1936.0,Science,Science,,0,Russia,Russia,Slavic,0,,1800,murray_ha_osf
+6316,"Peacock, George",1831,1791.0,1858.0,Science,Math,8.406610739426197,0,Britain,Britain,English,0,,1800,murray_ha_osf
+6322,"Peano, Giuseppe",1898,1858.0,1932.0,Science,Math,23.77677530319923,0,Italy,Italy,Italian,0,,1800,murray_ha_osf
+6324,"Pearson, Gerald ",1945,1905.0,1987.0,Science,Phys,4.223429618631414,0,USA,USA,USA,0,,1900,murray_ha_osf
+6325,"Pearson, Karl",1897,1857.0,1936.0,Science,Math,8.812255455538283,0,Britain,Britain,English,0,,1800,murray_ha_osf
+6351,"Pelletier, Pierre",1828,1788.0,1842.0,Science,Medi,22.036599027801397,0,France,France,French,0,,1800,murray_ha_osf
+6354,"Peltier, Jean",1825,1785.0,1845.0,Science,Phys,5.580401349196077,0,France,France,French,0,,1800,murray_ha_osf
+6357,"Penck, Albrecht",1898,1858.0,1945.0,Science,Eart,7.12761054436462,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+6381,"Perey, Marguerite",1949,1909.0,1975.0,Science,Phys,7.482563116273452,0,France,France,French,1,,1900,murray_ha_osf
+6387,"Perkin, William ",1878,1838.0,1907.0,Science,Chem,6.8256927357803185,0,Britain,Britain,English,0,,1800,murray_ha_osf
+6402,"Perrin, Jean",1910,1870.0,1942.0,Science,Chem,14.972364421693987,0,France,France,French,0,,1900,murray_ha_osf
+6404,"Perrine, Charles ",1907,1867.0,1951.0,Science,Astr,8.628862219212916,0,USA,USA,USA,0,,1900,murray_ha_osf
+6420,Peter Peregrinus (de Maricourt),1269,,,Science,Science,,0,France,France,French,0,,1200,murray_ha_osf
+6433,"Petit, Alexis ",1820,1791.0,1820.0,Science,Phys,12.025598800764321,0,France,France,French,0,,1800,murray_ha_osf
+6434,"Petit, Jean ",1714,1674.0,1750.0,Science,Medi,7.31019550408234,0,France,France,French,0,,1700,murray_ha_osf
+6447,"Pettenkofer, Max von",1858,1818.0,1901.0,Science,Medi,8.185945262855352,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+6453,"Peurbach, Georg",1461,1423.0,1461.0,Science,Astr,12.812693277546689,0,Austria,Austria,Germanic,0,,1400,murray_ha_osf
+6463,"Pfeffer, Wilhelm",1885,1845.0,1920.0,Science,Biol,10.804606090875396,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+6482,Philolaus of Crotona,-450,,,Science,Astr,8.302808557073574,0,Anc Greece,Anc Greece,Ancient Greek,0,,-500,murray_ha_osf
+6483,Pi Sheng,1045,,,Science,Tech,7.4967179173092315,0,China,China,Chinese,0,,1000,murray_ha_osf
+6486,"Piazzi, Guiseppe",1786,1746.0,1826.0,Science,Astr,16.063888142335415,0,Italy,Italy,Italian,0,,1700,murray_ha_osf
+6488,"Picard, Jean",1660,1620.0,1682.0,Science,Science,,0,France,France,French,0,,1600,murray_ha_osf
+6489,"Piccard, Auguste",1924,1884.0,1962.0,Science,Phys,16.951034896333727,0,Switzerland,Switzerland,French,0,,1900,murray_ha_osf
+6494,"Pickering, Edward ",1886,1846.0,1919.0,Science,Astr,17.04529059198091,0,USA,USA,USA,0,,1800,murray_ha_osf
+6497,"Pickering, William ",1898,1858.0,1938.0,Science,Astr,8.628862219212916,0,USA,USA,USA,0,,1800,murray_ha_osf
+6499,"Pictet, Raoul",1886,1846.0,1929.0,Science,Phys,8.201586887794734,0,Switzerland,Switzerland,French,0,,1800,murray_ha_osf
+6514,"Pincus, Gregory ",1943,1903.0,1967.0,Science,Biol,16.87651727836768,1,USA,USA,Jewish,0,2.0,1900,murray_ha_osf
+6514,"Pincus, Gregory ",1943,1903.0,1967.0,Science,Medi,15.491478425975547,1,USA,USA,Jewish,0,2.0,1900,murray_ha_osf
+6516,"Pinel, Philippe",1785,1745.0,1826.0,Science,Medi,22.06058166231463,0,France,France,French,0,,1700,murray_ha_osf
+9569,"Pirie, Norman",1948,1908.0,1972.0,Science,Biol,8.559280145392549,0,Britain,Britain,English,0,,1900,murray_ha_osf
+6522,"Pirquet, Clemens  von",1914,1874.0,1929.0,Science,Medi,7.067377155805627,0,Austria,Austria,Germanic,0,,1900,murray_ha_osf
+6525,"Pitiscus, Bartholomew",1601,1561.0,1613.0,Science,Math,8.1725850940033,0,Germany,Germany,Germanic,0,,1600,murray_ha_osf
+6533,"Pixii, Hippolyte",1835,1808.0,1835.0,Science,Tech,5.568755053219243,0,France,France,French,0,,1800,murray_ha_osf
+6537,"Planck, Max",1898,1858.0,1947.0,Science,Phys,33.23265633077634,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+6539,"Planté, Gaston",1874,1834.0,1889.0,Science,Tech,11.410195830312507,0,France,France,French,0,,1800,murray_ha_osf
+6542,"Plaskett, John ",1905,1865.0,1941.0,Science,Astr,4.556621040696102,0,Canada,Canada,Canadian,0,,1900,murray_ha_osf
+6547,"Platt, Hugh",1603,,,Science,Tech,7.514614027285529,0,Britain,Britain,English,0,,1600,murray_ha_osf
+6555,Pliny the Elder,63,23.0,79.0,Science,Biol,37.08449544865602,1,Rome,Rome,Ancient Roman,0,2.0,0,murray_ha_osf
+6560,"Plücker, Julius",1841,1801.0,1868.0,Science,Math,10.622310965836357,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+6572,"Poincaré, Jules",1894,1854.0,1912.0,Science,Math,28.339714743917682,0,France,France,French,0,,1800,murray_ha_osf
+6575,"Poisson, Siméon ",1821,1781.0,1840.0,Science,Math,18.285956943600272,0,France,France,French,0,,1800,murray_ha_osf
+6594,"Poncelet, Jean",1828,1788.0,1867.0,Science,Math,26.08903801799192,0,France,France,French,0,,1800,murray_ha_osf
+6596,"Pons, Jean",1801,1761.0,1831.0,Science,Astr,6.40848827573921,0,France,France,French,0,,1800,murray_ha_osf
+6604,"Popov, Aleksandr ",1899,1859.0,1906.0,Science,Phys,9.597450491270116,1,Russia,Russia,Slavic,0,2.0,1800,murray_ha_osf
+6604,"Popov, Aleksandr ",1899,1859.0,1906.0,Science,Tech,18.86267925340501,1,Russia,Russia,Slavic,0,2.0,1800,murray_ha_osf
+6610,"Porta, Giambattista della",1575,1535.0,1615.0,Science,Tech,8.522029960077797,0,Italy,Italy,Italian,0,,1500,murray_ha_osf
+9232,"Pott, Percival",1754,1714.0,1788.0,Science,Medi,7.43132448133129,0,Britain,Britain,English,0,,1700,murray_ha_osf
+6627,"Poulsen, Valdemar",1909,1869.0,1942.0,Science,Tech,12.239949408121067,0,Denmark,USA,Danish,0,,1900,murray_ha_osf
+6634,"Powell, Cecil ",1943,1903.0,1969.0,Science,Phys,6.80546439535876,0,Britain,Britain,English,0,,1900,murray_ha_osf
+6635,"Powell, John ",1874,1834.0,1902.0,Science,Eart,2.8515334714155216,0,USA,USA,USA,0,,1800,murray_ha_osf
+6642,"Prandtl, Ludwig",1915,1875.0,1953.0,Science,Phys,3.0809971869743946,0,Germany,Germany,Germanic,0,,1900,murray_ha_osf
+6646,Praxagoras of Cos,-310,,,Science,Medi,15.069406345931476,0,Anc Greece,Anc Greece,Ancient Greek,0,,-400,murray_ha_osf
+6647,"Pregl, Fritz",1909,1869.0,1930.0,Science,Chem,2.9426169830700624,0,Balkans,Austria,Slovenian,0,,1900,murray_ha_osf
+6655,"Prevost, Pierre",1791,1751.0,1839.0,Science,Phys,5.207490422159728,0,Switzerland,Switzerland,French,0,,1700,murray_ha_osf
+6660,"Priestley, Joseph",1773,1733.0,1804.0,Science,Chem,49.243926206604385,0,Britain,Britain,English,0,,1700,murray_ha_osf
+6664,"Pringle, John ",1747,1707.0,1782.0,Science,Medi,5.7372124077227005,0,Britain,Britain,Scots,0,,1700,murray_ha_osf
+6675,"Prony, Gaspard de",1795,1755.0,1839.0,Science,Tech,6.1626692686216415,0,France,France,French,0,,1700,murray_ha_osf
+6678,"Proust, Joseph",1794,1754.0,1826.0,Science,Chem,14.11969550352958,0,France,Spain,French,0,,1700,murray_ha_osf
+6679,"Prout, William",1825,1785.0,1850.0,Science,Biol,15.28940403996956,0,Britain,Britain,English,0,,1800,murray_ha_osf
+6689,Ptolemy,140,100.0,170.0,Science,Astr,72.65769955209818,1,Rome,Rome,Greek,0,2.0,100,murray_ha_osf
+6689,Ptolemy,140,100.0,170.0,Science,Math,28.527499145403347,1,Rome,Rome,Greek,0,2.0,100,murray_ha_osf
+6694,"Pullman, George",1871,1831.0,1897.0,Science,Tech,5.830611371647248,0,USA,USA,USA,0,,1800,murray_ha_osf
+6701,"Purkyne, Johannes ",1827,1787.0,1869.0,Science,Biol,15.718251745714094,0,Czech,Czech,Czech,0,,1800,murray_ha_osf
+6708,Pythagoras of Samos,-520,-560.0,-480.0,Science,Math,23.47839251289799,1,Anc Greece,Anc Greece,Ancient Greek,0,2.0,-600,murray_ha_osf
+6709,Pytheas of Massilia,-330,,,Science,Science,,0,Anc Greece,Anc Greece,Ancient Greek,0,,-400,murray_ha_osf
+6719,"Quetelet, Adolphe",1836,1796.0,1874.0,Science,Math,6.339479063862077,0,Belgium,Belgium,Flemish,0,,1800,murray_ha_osf
+6733,"Rabi, Isidor Isaac",1938,1898.0,1988.0,Science,Phys,6.756051532385044,0,Slovakia,USA,Jewish,0,,1900,murray_ha_osf
+6747,"Raman, Chandrasekhara ",1928,1888.0,1970.0,Science,Phys,9.524124041066278,0,India,India,Indian,0,,1900,murray_ha_osf
+6748,"Ramanujan, Srinivasa",1920,1887.0,1920.0,Science,Math,6.499815952720346,0,India,Britain,Indian,0,,1900,murray_ha_osf
+6749,"Ramazzini, Bernardino",1673,1633.0,1714.0,Science,Medi,9.75179618986584,0,Italy,Italy,Italian,0,,1600,murray_ha_osf
+6753,"Ramón y Cajal, Santiago",1892,1852.0,1934.0,Science,Medi,21.09094822940431,0,Spain,Spain,Spanish,0,,1800,murray_ha_osf
+6757,"Ramsay, William",1892,1852.0,1916.0,Science,Chem,31.36832738268887,0,Britain,Britain,Scots,0,,1800,murray_ha_osf
+6768,"Rankine, William ",1860,1820.0,1872.0,Science,Tech,15.026995808656446,0,Britain,Britain,Scots,0,,1800,murray_ha_osf
+6772,"Raoult, François",1870,1830.0,1901.0,Science,Chem,3.827413659094886,0,France,France,French,0,,1800,murray_ha_osf
+6784,"Ray, John",1667,1627.0,1705.0,Science,Biol,42.0765875974176,0,Britain,Britain,English,0,,1600,murray_ha_osf
+6792,"Réaumur, René de",1723,1683.0,1757.0,Science,Tech,23.94645198683573,0,France,France,French,0,,1700,murray_ha_osf
+6799,"Recorde, Robert",1550,1510.0,1558.0,Science,Math,17.76755818359998,0,Britain,Britain,English,0,,1500,murray_ha_osf
+6801,"Redi, Francesco",1666,1626.0,1697.0,Science,Biol,19.219503408994484,0,Italy,Italy,Italian,0,,1600,murray_ha_osf
+6805,"Reed, Walter",1891,1851.0,1902.0,Science,Medi,14.441853064028445,0,USA,USA,USA,0,,1800,murray_ha_osf
+6810,Regiomantus,1476,1436.0,1476.0,Science,Astr,27.405524224429417,0,Germany,Italy,Germanic,0,,1400,murray_ha_osf
+6815,"Reich, Ferdinand",1839,1799.0,1882.0,Science,Chem,5.687587842952077,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+6818,"Reichenbach, Karl",1828,1788.0,1869.0,Science,Chem,1.782010081555209,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+6820,"Reichstein, Tadeus",1937,1897.0,1996.0,Science,Chem,10.14471315998167,0,Poland,Switzerland,Jewish,0,,1900,murray_ha_osf
+6830,"Reinhold, Erasmus",1551,1511.0,1553.0,Science,Astr,8.528448242656868,0,Germany,Germany,Germanic,0,,1500,murray_ha_osf
+6834,"Remak, Robert",1855,1815.0,1865.0,Science,Biol,8.833325981313543,0,Germany,Germany,Jewish,0,,1800,murray_ha_osf
+6835,"Remsen, Ira",1886,1846.0,1927.0,Science,Chem,4.478585641915518,0,USA,USA,USA,0,,1800,murray_ha_osf
+6843,"Rennell, James",1782,1742.0,1830.0,Science,Eart,4.141288271486424,0,Britain,Britain,English,0,,1700,murray_ha_osf
+6869,"Reynolds, Osborne",1882,1842.0,1912.0,Science,Tech,5.172016541450758,0,Britain,Britain,English,0,,1800,murray_ha_osf
+6790,Rhazes (al-Razi),894,854.0,925.0,Science,Medi,26.573795094745083,0,Arab World,Arab World,Arabic,0,,800,murray_ha_osf
+6871,"Rheticus, Georg ",1554,1514.0,1576.0,Science,Astr,7.818917451952869,0,Austria,Germany,Germanic,0,,1500,murray_ha_osf
+6883,"Riccioli, Giambattista",1637,1597.0,1671.0,Science,Astr,10.505179749553166,0,Italy,Italy,Italian,0,,1600,murray_ha_osf
+6887,"Rice-Wray, Edris",1944,1904.0,,Science,Medi,8.844929594240286,0,USA,USA,USA,1,,1900,murray_ha_osf
+6893,"Richards, Dickinson ",1935,1895.0,1973.0,Science,Medi,9.406017945456844,0,USA,USA,USA,0,,1900,murray_ha_osf
+6896,"Richards, Theodore ",1908,1868.0,1928.0,Science,Chem,4.969710883427835,0,USA,USA,USA,0,,1900,murray_ha_osf
+6905,"Richet, Charles ",1890,1850.0,1935.0,Science,Biol,12.090013470012599,0,France,France,French,0,,1800,murray_ha_osf
+6909,"Richter, Charles ",1940,1900.0,1985.0,Science,Eart,19.85164545887477,0,USA,USA,USA,0,,1900,murray_ha_osf
+6910,"Richter, Heironymous ",1864,1824.0,1898.0,Science,Chem,4.856954751804151,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+6917,"Ricketts, Howard ",1910,1871.0,1910.0,Science,Medi,19.105338895921562,0,USA,USA,USA,0,,1900,murray_ha_osf
+6925,"Riemann, Bernhard",1866,1826.0,1866.0,Science,Math,46.87722406051158,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+6937,"Rio, Andres del",1804,1764.0,1849.0,Science,Eart,6.805812890979726,0,Spain,Latin Am,Spanish,0,,1800,murray_ha_osf
+6940,"Riquet de Benrepos, Pierre",1664,,,Science,Tech,5.970553646376607,0,France,France,French,0,,1600,murray_ha_osf
+6948,"Ritter, Johann ",1810,1776.0,1810.0,Science,Chem,9.505308451555035,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+6953,"Riva-Rocci, Scipione",1903,1863.0,1937.0,Science,Medi,10.141123711778448,0,Italy,Italy,Italian,0,,1900,murray_ha_osf
+6983,"Robinson, Robert",1926,1886.0,1975.0,Science,Chem,6.855612612048975,0,Britain,Britain,English,0,,1900,murray_ha_osf
+6990,"Roche, Edouard ",1860,1820.0,1883.0,Science,Astr,8.273047872391947,0,France,France,French,0,,1800,murray_ha_osf
+6992,"Rock, John",1930,1890.0,1984.0,Science,Medi,12.337888343698467,0,USA,USA,USA,0,,1900,murray_ha_osf
+6994,"Roebling, John ",1846,1806.0,1869.0,Science,Tech,8.60252366866753,0,Germany,USA,Germanic,0,,1800,murray_ha_osf
+6995,"Roebuck, John",1758,1718.0,1794.0,Science,Tech,14.299524413249163,0,Britain,Britain,English,0,,1700,murray_ha_osf
+7019,"Rolle, Michel",1692,1652.0,1719.0,Science,Math,3.359239739155483,0,France,France,French,0,,1600,murray_ha_osf
+7028,"Römer, Ole ",1684,1644.0,1710.0,Science,Astr,12.319086201075164,0,Denmark,Denmark,Danish,0,,1600,murray_ha_osf
+6999,"Röntgen, Wilhelm ",1885,1845.0,1923.0,Science,Phys,22.452084981461002,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+7044,"Roscoe, Henry ",1873,1833.0,1915.0,Science,Chem,2.460698095054123,0,Britain,Britain,English,0,,1800,murray_ha_osf
+7067,"Ross, Ronald",1897,1857.0,1932.0,Science,Medi,20.646693137105522,0,Britain,India,English,0,,1800,murray_ha_osf
+7070,"Rossby, Carl",1938,1898.0,1957.0,Science,Eart,5.187034998053186,0,Sweden,USA,Swedish,0,,1900,murray_ha_osf
+7072,"Rossi, Bruno ",1945,1905.0,,Science,Phys,5.070427810763712,0,Italy,Italy,Italian,0,,1900,murray_ha_osf
+7091,"Roux, Pierre ",1893,1853.0,1933.0,Science,Medi,24.91394370219612,0,France,France,French,0,,1800,murray_ha_osf
+7096,"Rowland, Henry ",1888,1848.0,1901.0,Science,Phys,5.194318778526887,0,USA,USA,USA,0,,1800,murray_ha_osf
+7111,"Rudbeck, Olof",1670,1630.0,1702.0,Science,Biol,9.310050340024821,0,Sweden,Sweden,Swedish,0,,1600,murray_ha_osf
+7115,"Rudolff, Christoff",1540,1500.0,1545.0,Science,Math,8.476186551640854,0,Germany,Austria,Germanic,0,,1500,murray_ha_osf
+7113,"Ruedenberg, Reinhold",1923,1883.0,1961.0,Science,Phys,7.2687995463121675,0,Germany,Germany,Germanic,0,,1900,murray_ha_osf
+7122,"Ruffini, Paolo",1805,1765.0,1822.0,Science,Math,7.244025085074147,0,Italy,Italy,Italian,0,,1800,murray_ha_osf
+7126,"Ruhmkorff, Heinrich",1843,1803.0,1877.0,Science,Tech,9.010580802259796,0,Germany,France,Germanic,0,,1800,murray_ha_osf
+7136,"Runge, Friedlieb ",1834,1794.0,1867.0,Science,Chem,3.829673447122387,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+7139,"Rush, Benjamin",1786,1746.0,1813.0,Science,Medi,15.240992655271985,0,USA,USA,USA,0,,1700,murray_ha_osf
+7140,"Ruska, Ernst ",1946,1906.0,1988.0,Science,Tech,7.695537343717914,0,Germany,Germany,Germanic,0,,1900,murray_ha_osf
+7142,"Russell, Bertrand ",1912,1872.0,1970.0,Science,Math,15.019345459022862,0,Britain,Britain,English,0,,1900,murray_ha_osf
+7146,"Russell, Henry ",1917,1877.0,1957.0,Science,Astr,25.037573918646412,0,USA,USA,USA,0,,1900,murray_ha_osf
+7155,"Rutherford, Daniel",1789,1749.0,1819.0,Science,Chem,4.845039454117014,0,Britain,Britain,Scots,0,,1700,murray_ha_osf
+7156,"Rutherford, Ernest",1911,1871.0,1937.0,Science,Phys,87.6711451051813,0,New Zealand,Britain,New Zealand,0,,1900,murray_ha_osf
+7164,"Ruzicka, Leopold ",1927,1887.0,1976.0,Science,Chem,8.017498810038065,0,Balkans,Switzerland,Croatian,0,,1900,murray_ha_osf
+7171,"Sabatier, Paul",1894,1854.0,1941.0,Science,Chem,4.570896361132391,0,France,France,French,0,,1800,murray_ha_osf
+7172,"Sabin, Albert ",1946,1906.0,1993.0,Science,Biol,4.36852678435236,0,Poland,USA,Jewish,0,,1900,murray_ha_osf
+7174,"Sabine, Edward",1828,1788.0,1883.0,Science,Eart,18.944228331376067,0,Britain,Britain,Irish,0,,1800,murray_ha_osf
+7175,"Sabine, Wallace ",1908,1868.0,1919.0,Science,Phys,7.586231244681324,0,USA,USA,USA,0,,1900,murray_ha_osf
+7178,"Saccheri, Girolamo",1707,1667.0,1733.0,Science,Math,10.81232491428404,0,Italy,Italy,Italian,0,,1700,murray_ha_osf
+7180,"Sachs, Julius von",1872,1832.0,1897.0,Science,Biol,23.278454350225157,0,Germany,Germany,Jewish,0,,1800,murray_ha_osf
+7189,"Saha, Meghnad",1934,1894.0,1956.0,Science,Phys,3.374874149161497,0,India,India,Indian,0,,1900,murray_ha_osf
+7194,"Saint Vincent, Gregorius",1624,1584.0,1667.0,Science,Math,2.448317607258193,0,Belgium,Belgium,Flemish,0,,1600,murray_ha_osf
+7198,"Sainte-Claire Deville, Henri ",1858,1818.0,1881.0,Science,Chem,1.4695816228001737,0,France,France,French,0,,1800,murray_ha_osf
+7240,"Santorio, Santorio ",1601,1561.0,1636.0,Science,Medi,16.057020103780516,0,Italy,Italy,Italian,0,,1600,murray_ha_osf
+7257,"Saussure, Horace de",1780,1740.0,1796.0,Science,Eart,34.56781366492474,0,Switzerland,Switzerland,French,0,,1700,murray_ha_osf
+7258,"Saussure, Nicholas de",1807,1767.0,1845.0,Science,Biol,5.838802657690596,0,Switzerland,Switzerland,French,0,,1800,murray_ha_osf
+7263,"Sauveur, Joseph",1693,1653.0,1716.0,Science,Phys,6.007928489118648,0,France,France,French,0,,1600,murray_ha_osf
+7270,"Savery, Thomas",1690,1650.0,1715.0,Science,Tech,27.91269949719051,0,Britain,Britain,English,0,,1600,murray_ha_osf
+7277,"Scaliger, Julius ",1524,1484.0,1558.0,Science,Science,,0,Italy,France,Italian,0,,1500,murray_ha_osf
+7282,"Schaefer, Vincent ",1946,1906.0,1993.0,Science,Phys,5.7251211946631715,0,USA,USA,USA,0,,1900,murray_ha_osf
+7292,"Scheele, Carl",1782,1742.0,1786.0,Science,Chem,53.265848567485655,0,Sweden,Sweden,Swedish,0,,1700,murray_ha_osf
+7298,"Scheiner, Christoph",1613,1573.0,1650.0,Science,Astr,17.68446045101142,0,Germany,Germany,Germanic,0,,1600,murray_ha_osf
+7306,"Schiaparelli, Giovanni ",1875,1835.0,1910.0,Science,Astr,21.07852404809442,0,Italy,Italy,Italian,0,,1800,murray_ha_osf
+7309,"Schickard, Wilhelm",1632,1592.0,1635.0,Science,Science,,0,Germany,Germany,Germanic,0,,1600,murray_ha_osf
+7321,"Schleiden, Matthias ",1844,1804.0,1881.0,Science,Biol,34.876797729432,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+7331,"Schmidt, Bernhard ",1919,1879.0,1935.0,Science,Phys,6.731076722398492,0,Russia,Germany,Slavic,0,,1900,murray_ha_osf
+7340,"Schmidt, Paul",1942,,,Science,Tech,4.84744076476584,0,Germany,Germany,Germanic,0,,1900,murray_ha_osf
+7352,"Schoenheimer, Rudolf",1938,1898.0,1941.0,Science,Biol,9.686930056161435,0,Germany,USA,Jewish,0,,1900,murray_ha_osf
+7353,"Schönbein, Christian ",1839,1799.0,1868.0,Science,Chem,4.416822359746962,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+7380,"Schrödinger, Erwin",1927,1887.0,1961.0,Science,Phys,27.10210224684805,0,Austria,Germany,Germanic,0,,1900,murray_ha_osf
+7398,"Schwabe, Samuel",1829,1789.0,1875.0,Science,Astr,11.713805790127505,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+7399,"Schwann, Theodor  ",1850,1810.0,1882.0,Science,Biol,48.270602798074556,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+7408,"Schwarzschild, Karl",1913,1873.0,1916.0,Science,Astr,19.036557265899575,0,Germany,Germany,Jewish,0,,1900,murray_ha_osf
+7409,"Schweigger, Johann  ",1819,1779.0,1857.0,Science,Phys,7.482563116273452,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+7431,"Secchi, Pietro ",1858,1818.0,1878.0,Science,Astr,18.540539127283886,0,Italy,Italy,Italian,0,,1800,murray_ha_osf
+7434,"Sedgwick, Adam",1825,1785.0,1873.0,Science,Eart,30.687501649766897,0,Britain,Britain,English,0,,1800,murray_ha_osf
+7437,"Seebeck, Thomas ",1810,1770.0,1831.0,Science,Phys,7.415256398296386,0,Russia,Germany,Estonian,0,,1800,murray_ha_osf
+7448,"Segrè, Emilio",1945,1905.0,1989.0,Science,Phys,21.563856330193445,0,Italy,USA,Jewish,0,,1900,murray_ha_osf
+7450,"Seguin, Marc",1826,1786.0,1875.0,Science,Tech,13.14950475750537,0,France,France,French,0,,1800,murray_ha_osf
+7461,"Semmelweiss, Ignaz ",1858,1818.0,1865.0,Science,Medi,33.715235369960396,0,Hungary,Austria,Hungarian,0,,1800,murray_ha_osf
+7471,"Senefelder, Aloys",1811,1771.0,1834.0,Science,Tech,9.007304812136685,0,Czech,Germany,Czech,0,,1800,murray_ha_osf
+7485,"Sertürner, Friedrich ",1823,1783.0,1841.0,Science,Medi,21.918142674262786,0,Czech,Germany,Germanic,0,,1800,murray_ha_osf
+7487,"Servetus, Michael",1551,1511.0,1553.0,Science,Biol,25.85942469342436,0,Spain,Switzerland,Spanish,0,,1500,murray_ha_osf
+7511,"Shapley, Harlow",1925,1885.0,1972.0,Science,Astr,22.449054129677208,0,USA,USA,USA,0,,1900,murray_ha_osf
+7518,"Sharpey-Schäfer, Edward ",1890,1850.0,1935.0,Science,Medi,14.21514465511508,0,Britain,Britain,Germanic,0,,1800,murray_ha_osf
+7526,"Shaw, Louis",1926,1886.0,1940.0,Science,Medi,8.151480182107356,0,USA,USA,USA,0,,1900,murray_ha_osf
+7544,"Sherrington, Charles ",1897,1857.0,1952.0,Science,Biol,17.940720025969302,0,Britain,Britain,English,0,,1800,murray_ha_osf
+7561,"Shockley, William ",1949,1910.0,1989.0,Science,Phys,9.963310041310375,1,USA,USA,USA,0,2.0,1900,murray_ha_osf
+7561,"Shockley, William ",1949,1910.0,1989.0,Science,Tech,16.351829042956854,1,USA,USA,USA,0,2.0,1900,murray_ha_osf
+7564,"Sholes, Christopher ",1859,1819.0,1890.0,Science,Tech,6.829196306150441,0,USA,USA,USA,0,,1800,murray_ha_osf
+7580,"Sidgwick, Nevil ",1913,1873.0,1952.0,Science,Chem,3.1939076522426446,0,Britain,Britain,English,0,,1900,murray_ha_osf
+7588,"Siemens, Charles ",1863,1823.0,1883.0,Science,Tech,32.00719834554854,0,Germany,Britain,Germanic,0,,1800,murray_ha_osf
+7589,"Siemens, Ernst ",1856,1816.0,1892.0,Science,Tech,25.359559053641327,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+7598,"Sikorsky, Igor ",1929,1889.0,1972.0,Science,Tech,16.888967562921273,0,Russia,USA,Slavic,0,,1900,murray_ha_osf
+7615,"Simpson, James ",1851,1811.0,1870.0,Science,Medi,19.121066898663305,0,Britain,Britain,Scots,0,,1800,murray_ha_osf
+7617,"Simpson, Thomas (math.)",1750,1710.0,1761.0,Science,Math,2.8552172954725323,0,Britain,Britain,English,0,,1700,murray_ha_osf
+7623,"Singer, Isaac ",1851,1811.0,1875.0,Science,Tech,10.456794355579245,0,USA,USA,Jewish,0,,1800,murray_ha_osf
+7626,"Sitter, Willem de",1912,1872.0,1934.0,Science,Astr,6.0138969982137604,0,Netherlands,Netherlands,Dutch,0,,1900,murray_ha_osf
+7640,"Slipher, Vesto ",1915,1875.0,1969.0,Science,Astr,,0,USA,USA,USA,0,,1900,murray_ha_osf
+7648,"Smeaton, John",1764,1724.0,1792.0,Science,Tech,37.15701459366686,0,Britain,Britain,English,0,,1700,murray_ha_osf
+7679,"Smith, William",1809,1769.0,1839.0,Science,Eart,55.359005389989704,0,Britain,Britain,English,0,,1800,murray_ha_osf
+7688,"Snel, Willebrord",1620,1580.0,1626.0,Science,Phys,12.131998648780593,0,Netherlands,Netherlands,Dutch,0,,1600,murray_ha_osf
+7694,"Snow, John",1853,1813.0,1858.0,Science,Medi,27.915683765535128,0,Britain,Britain,English,0,,1800,murray_ha_osf
+7698,"Sobrero, Ascanio",1852,1812.0,1888.0,Science,Chem,4.847906218272819,0,Italy,Italy,Italian,0,,1800,murray_ha_osf
+7700,"Soddy, Frederick",1917,1877.0,1956.0,Science,Chem,24.508038343670464,0,Britain,Britain,English,0,,1900,murray_ha_osf
+7718,"Solvay, Ernest",1878,1838.0,1922.0,Science,Chem,8.470705540847792,0,Belgium,Belgium,Flemish,0,,1800,murray_ha_osf
+7722,"Sommeiller, Germain",1855,1815.0,1871.0,Science,Tech,5.875275007854803,0,France,France,French,0,,1800,murray_ha_osf
+7723,"Sommerfeld, Arnold  ",1908,1868.0,1951.0,Science,Phys,20.36035062357642,0,Germany,Germany,Germanic,0,,1900,murray_ha_osf
+7732,Soranus of Ephesus,120,,,Science,Medi,13.41633512016884,0,Rome,Rome,Ancient Roman,0,,100,murray_ha_osf
+7733,"Sorby, Henry ",1866,1826.0,1908.0,Science,Eart,7.297543937014845,0,Britain,Britain,English,0,,1800,murray_ha_osf
+7734,"Sørensen, Soren",1908,1868.0,1939.0,Science,Chem,2.942560957042883,0,Denmark,Denmark,Danish,0,,1900,murray_ha_osf
+7737,Sosigenes,50,,,Science,Astr,8.643284702439278,0,Rome,Rome,Ancient Roman,0,,0,murray_ha_osf
+7738,Sostrastes of Cnidos,-270,,,Science,Tech,7.977878264263046,0,Anc Greece,Anc Greece,Ancient Greek,0,,-300,murray_ha_osf
+7741,"Soubeiran, Eugene",1831,,,Science,Chem,4.063269096341555,0,France,France,French,0,,1800,murray_ha_osf
+7749,Spallanzani,1769,1729.0,1799.0,Science,Biol,37.89780559356337,0,Italy,Italy,Italian,0,,1700,murray_ha_osf
+7754,"Spemann, Hans",1909,1869.0,1941.0,Science,Biol,17.83128843583181,0,Germany,Germany,Germanic,0,,1900,murray_ha_osf
+7763,"Sperry, Elmer ",1900,1860.0,1930.0,Science,Tech,11.789496540792069,0,USA,USA,USA,0,,1900,murray_ha_osf
+7785,"Sprague, Frank",1897,1857.0,1934.0,Science,Tech,10.41972567503895,0,USA,USA,USA,0,,1800,murray_ha_osf
+7787,"Sprengel, Conrad ",1790,1750.0,1816.0,Science,Biol,5.7946333151511,0,Germany,Germany,Germanic,0,,1700,murray_ha_osf
+7794,"Spurzheim, Johann",1816,1776.0,1832.0,Science,Biol,5.9724964394712226,0,Germany,Austria,Germanic,0,,1800,murray_ha_osf
+7804,"Stahl, Georg ",1700,1660.0,1734.0,Science,Medi,26.1196664975111,0,Germany,Germany,Germanic,0,,1700,murray_ha_osf
+7815,"Stanley, Wendell ",1944,1904.0,1971.0,Science,Biol,16.113913019030463,0,USA,USA,USA,0,,1900,murray_ha_osf
+7822,"Stark, Johannes",1914,1874.0,1957.0,Science,Phys,8.595787687021591,0,Germany,Germany,Germanic,0,,1900,murray_ha_osf
+7824,"Starling, Ernest",1906,1866.0,1927.0,Science,Biol,19.5215491576519,0,Britain,Britain,English,0,,1900,murray_ha_osf
+7826,"Stas, Jean Servais",1853,1813.0,1891.0,Science,Chem,3.2761570191436586,0,Belgium,Belgium,Flemish,0,,1800,murray_ha_osf
+7829,"Staudinger, Hermann",1921,1881.0,1965.0,Science,Chem,6.992643443629475,0,Germany,Germany,Germanic,0,,1900,murray_ha_osf
+7840,"Steenbock, Harry",1926,1886.0,1967.0,Science,Biol,6.58529419046215,0,USA,USA,USA,0,,1900,murray_ha_osf
+7842,"Stefan, Josef",1875,1835.0,1893.0,Science,Phys,8.75145460897042,0,Balkans,Austria,Slovenian,0,,1800,murray_ha_osf
+7850,"Steiner, Jakob",1836,1796.0,1863.0,Science,Math,8.444576456070706,0,Switzerland,Germany,Germanic,0,,1800,murray_ha_osf
+7855,"Steinmetz, Charles ",1905,1865.0,1923.0,Science,Tech,1.0,0,Germany,USA,Jewish,0,,1900,murray_ha_osf
+7860,"Stensen, Niels (Steno)",1678,1638.0,1686.0,Science,Biol,28.226753374919365,0,Denmark,Denmark,Danish,0,,1600,murray_ha_osf
+7867,"Stephenson, George",1821,1781.0,1848.0,Science,Tech,30.448805188576987,0,Britain,Britain,English,0,,1800,murray_ha_osf
+7872,"Stern, Otto",1928,1888.0,1969.0,Science,Phys,8.679809448115057,0,Germany,Germany,Jewish,0,,1900,murray_ha_osf
+7879,"Stevens, John ",1893,1853.0,1943.0,Science,Tech,9.978236419437545,0,USA,USA,USA,0,,1800,murray_ha_osf
+7880,"Stevens, Nettie ",1901,1861.0,1912.0,Science,Biol,6.3695766339616835,0,USA,USA,USA,1,,1900,murray_ha_osf
+7883,"Stevin, Simon",1588,1548.0,1620.0,Science,Math,20.66903772870067,0,Belgium,Netherlands,Flemish,0,,1500,murray_ha_osf
+7892,"Stifel, Michael",1527,1487.0,1567.0,Science,Math,10.517215608701376,0,Germany,Germany,Germanic,0,,1500,murray_ha_osf
+7899,"Stirling, James",1732,1692.0,1770.0,Science,Math,2.724086620510341,0,Britain,Britain,Scots,0,,1700,murray_ha_osf
+7906,"Stokes, George ",1859,1819.0,1903.0,Science,Phys,20.942421406307567,0,Britain,Britain,Irish,0,,1800,murray_ha_osf
+7909,"Stoll, Arthur",1927,1887.0,,Science,Chem,6.0732815205964314,0,Switzerland,Switzerland,Germanic,0,,1900,murray_ha_osf
+7916,"Stoney, George ",1866,1826.0,1911.0,Science,Phys,10.0591381322346,0,Britain,Britain,Irish,0,,1800,murray_ha_osf
+7920,Strabo of Amasia,-24,-64.0,25.0,Science,Eart,18.059894933050852,0,Anc Greece,Anc Greece,Ancient Greek,0,,-100,murray_ha_osf
+7924,"Strasburger, Eduard ",1884,1844.0,1912.0,Science,Biol,11.925043509236323,0,Germany,Germany,Jewish,0,,1800,murray_ha_osf
+7925,"Strassman, Friedrich ",1942,1902.0,1980.0,Science,Phys,8.598635752904082,0,Germany,Germany,Germanic,0,,1900,murray_ha_osf
+7927,Strato of Lampsacus,-250,,,Science,Science,,0,Anc Greece,Anc Greece,Ancient Greek,0,,-300,murray_ha_osf
+7939,"Stromeyer, Friedrich",1816,1776.0,1835.0,Science,Chem,4.460111924072854,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+7948,"Strutt, Jedediah",1764,,,Science,Tech,7.885667064255148,0,Britain,Britain,English,0,,1700,murray_ha_osf
+7949,"Strutt, John William ",1882,1842.0,1919.0,Science,Phys,26.103427428137632,0,Britain,Britain,English,0,,1800,murray_ha_osf
+7950,"Strutt, Robert John",1915,1875.0,1947.0,Science,Phys,1.4581643909974393,0,Britain,Britain,English,0,,1900,murray_ha_osf
+7951,"Struve, Wilhelm von",1833,1793.0,1864.0,Science,Astr,7.221012204899976,0,Germany,Russia,Germanic,0,,1800,murray_ha_osf
+7963,"Sturgeon, William",1823,1783.0,1850.0,Science,Phys,7.2687995463121675,0,Britain,Britain,English,0,,1800,murray_ha_osf
+7966,"Sturtevant, Alfred Henry",1931,1891.0,1970.0,Science,Biol,32.987268930821905,0,USA,USA,USA,0,,1900,murray_ha_osf
+7972,"Suess, Eduard",1871,1831.0,1914.0,Science,Eart,24.21367490194469,0,Germany,Austria,Jewish,0,,1800,murray_ha_osf
+7983,"Sumner, James ",1927,1887.0,1955.0,Science,Biol,13.308823913126774,0,USA,USA,USA,0,,1900,murray_ha_osf
+8004,"Sutton, Walter ",1916,1877.0,1916.0,Science,Biol,11.812995037594543,0,USA,USA,USA,0,,1900,murray_ha_osf
+8006,"Svedberg, The ",1924,1884.0,1971.0,Science,Chem,11.693538017550969,0,Sweden,Britain,Swedish,0,,1900,murray_ha_osf
+8015,"Swammerdam, Jan",1677,1637.0,1680.0,Science,Biol,47.47485841913946,0,Netherlands,Netherlands,Dutch,0,,1600,murray_ha_osf
+8016,"Swan, Joseph ",1868,1828.0,1914.0,Science,Tech,24.392004027932167,0,Britain,Britain,English,0,,1800,murray_ha_osf
+8024,"Swinburne, James",1898,1858.0,1958.0,Science,Chem,4.467106696433455,0,Britain,Britain,Scots,0,,1800,murray_ha_osf
+8031,"Sydenham, Thomas",1664,1624.0,1689.0,Science,Medi,39.61901958010853,0,Britain,Britain,English,0,,1600,murray_ha_osf
+8033,"Sylvester, James ",1854,1814.0,1897.0,Science,Math,9.395081477099723,0,Britain,Britain,Jewish,0,,1800,murray_ha_osf
+8042,"Szent-Györgyi, Albert",1933,1893.0,1986.0,Science,Biol,1.2236575633092375,1,Hungary,Hungary,Hungarian,0,2.0,1900,murray_ha_osf
+8042,"Szent-Györgyi, Albert",1933,1893.0,1986.0,Science,Medi,32.93480050618986,1,Hungary,Hungary,Hungarian,0,2.0,1900,murray_ha_osf
+8043,"Szilard, Leo",1938,1898.0,1964.0,Science,Phys,6.774792903318318,0,Hungary,USA,Jewish,0,,1900,murray_ha_osf
+8056,"Tacke, Ida (Noddack)",1936,1896.0,,Science,Phys,7.818249617098025,0,Germany,Germany,Germanic,1,,1900,murray_ha_osf
+8066,"Takamine, Jokichi",1894,1854.0,1922.0,Science,Chem,4.666496679313885,0,Japan,USA,Japanese,0,,1800,murray_ha_osf
+8071,"Tamm, Igor ",1935,1895.0,1971.0,Science,Phys,9.435559794036633,0,Russia,Russia,Jewish,0,,1900,murray_ha_osf
+8084,Tartaglia  (Fontana),1539,1499.0,1557.0,Science,Math,32.458360994974534,0,Italy,Italy,Italian,0,,1500,murray_ha_osf
+8088,"Tatum, Edward ",1949,1909.0,1975.0,Science,Biol,16.693102122071245,0,USA,USA,USA,0,,1900,murray_ha_osf
+8094,"Taussig, Helen ",1938,1898.0,1986.0,Science,Medi,7.461904636043203,0,USA,USA,Jewish,1,,1900,murray_ha_osf
+8097,"Taylor, Brook",1725,1685.0,1731.0,Science,Math,15.321881216623984,0,Britain,Britain,English,0,,1700,murray_ha_osf
+8099,"Taylor, Frank ",1900,1860.0,1938.0,Science,Eart,13.936417823243644,0,USA,USA,USA,0,,1900,murray_ha_osf
+1627,"Tchebycheff, Pafnuty",1861,1821.0,1894.0,Science,Math,3.9430947334374156,0,Russia,Russia,Slavic,0,,1800,murray_ha_osf
+8113,"Teisserenc de Bort, Léon",1895,1855.0,1913.0,Science,Eart,11.525628502345647,0,France,France,French,0,,1800,murray_ha_osf
+8123,"Tennant, Smithson",1801,1761.0,1815.0,Science,Chem,13.176018455449743,0,Britain,Britain,English,0,,1800,murray_ha_osf
+8130,"Tesla, Nikola",1896,1856.0,1943.0,Science,Tech,17.770988165841647,0,Balkans,USA,Croatian,0,,1800,murray_ha_osf
+8138,Thales,-585,-625.0,-547.0,Science,Phys,12.469521190996081,1,Anc Greece,Anc Greece,Ancient Greek,0,2.0,-600,murray_ha_osf
+8142,Theaetetus of Athens,-377,-417.0,-369.0,Science,Math,3.3477921540435407,0,Anc Greece,Anc Greece,Ancient Greek,0,,-400,murray_ha_osf
+8143,"Theiler, Max",1939,1899.0,1972.0,Science,Medi,12.865566607129708,0,SS Africa,USA,USA,0,,1900,murray_ha_osf
+8147,"Thénard, Louis",1817,1777.0,1857.0,Science,Chem,14.272333866780059,0,France,France,French,0,,1800,murray_ha_osf
+8150,Theodorus of Cyrene,-425,-465.0,-399.0,Science,Math,5.038287143583537,0,Anc Greece,Anc Greece,Ancient Greek,0,,-500,murray_ha_osf
+8153,Theon of Smyrna,130,,,Science,Math,5.249188686374427,0,Anc Greece,Anc Greece,Ancient Greek,0,,100,murray_ha_osf
+8157,Theophrastus,-331,-371.0,-287.0,Science,Biol,25.761836241053658,1,Anc Greece,Anc Greece,Ancient Greek,0,2.0,-400,murray_ha_osf
+8185,"Thompson, Benjamin",1793,1753.0,1814.0,Science,Phys,25.293095796781763,0,USA,USA,USA,0,,1700,murray_ha_osf
+8195,"Thomson, Charles ",1870,1830.0,1882.0,Science,Eart,5.243665752676358,0,Britain,Britain,Scots,0,,1800,murray_ha_osf
+8197,"Thomson, George ",1932,1892.0,1975.0,Science,Phys,10.750115915842109,0,Britain,Britain,English,0,,1900,murray_ha_osf
+8199,"Thomson, J.J.",1896,1856.0,1940.0,Science,Phys,49.66563235888774,0,Britain,Britain,Scots,0,,1800,murray_ha_osf
+8198,"Thomson, James (engineer)",1862,1822.0,1892.0,Science,Tech,4.325229146273737,0,Britain,Britain,Scots,0,,1800,murray_ha_osf
+8203,"Thomson, William",1864,1824.0,1907.0,Science,Phys,27.54830055067652,1,Britain,Britain,Scots,0,2.0,1800,murray_ha_osf
+8203,"Thomson, William",1864,1824.0,1907.0,Science,Tech,29.99967122247622,1,Britain,Britain,Scots,0,2.0,1800,murray_ha_osf
+8248,"Tiselius, Arne ",1942,1902.0,1971.0,Science,Biol,13.67025774308502,0,Sweden,Sweden,Swedish,0,,1900,murray_ha_osf
+8253,"Titius, Johann",1769,1729.0,1796.0,Science,Astr,9.060764657429788,0,Germany,Germany,Germanic,0,,1700,murray_ha_osf
+8264,"Tombaugh, Clyde ",1946,1906.0,1997.0,Science,Astr,11.057039470358506,0,USA,USA,USA,0,,1900,murray_ha_osf
+8265,"Tomonaga, Sin-Itiro",1946,1906.0,1979.0,Science,Phys,8.005463293169978,0,Japan,Japan,Japanese,0,,1900,murray_ha_osf
+8274,"Torricelli, Evangelista",1647,1608.0,1647.0,Science,Phys,24.29778492211013,0,Italy,Italy,Italian,0,,1600,murray_ha_osf
+8278,"Tournefort, Joseph  de",1696,1656.0,1708.0,Science,Biol,5.755701053494362,0,France,France,French,0,,1600,murray_ha_osf
+8295,"Travers, Morris  ",1912,1872.0,1961.0,Science,Chem,13.212904145194674,0,Britain,Britain,English,0,,1900,murray_ha_osf
+8297,"Trefouel, Jacques",1937,1897.0,1977.0,Science,Biol,9.66884960260958,0,France,France,French,0,,1900,murray_ha_osf
+8299,"Trembley, Abraham",1740,1700.0,1784.0,Science,Biol,20.63925890530535,0,Switzerland,Switzerland,Germanic,0,,1700,murray_ha_osf
+8303,"Treviranus, Goffried",1816,1776.0,1837.0,Science,Biol,12.271481175647189,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+8305,"Trevithick, Richard",1811,1771.0,1833.0,Science,Tech,28.988582246345114,0,Britain,Britain,English,0,,1800,murray_ha_osf
+8321,"Trumpler, Robert ",1926,1886.0,1956.0,Science,Astr,5.6712319481976765,0,Switzerland,USA,Germanic,0,,1900,murray_ha_osf
+8328,"Tschermak, Erich",1911,1871.0,1962.0,Science,Biol,12.07642461597612,0,Austria,Austria,Germanic,0,,1900,murray_ha_osf
+8331,"Tschirnhaus, Ehrenfried",1691,1651.0,1708.0,Science,Math,3.632574193946266,0,Germany,Germany,Germanic,0,,1600,murray_ha_osf
+8334,"Tsiolkovsky, Konstantin ",1897,1857.0,1935.0,Science,Tech,8.50611693731232,0,Russia,Russia,Slavic,0,,1800,murray_ha_osf
+8335,Tsu Ch’ung-chih,479,439.0,500.0,Science,Math,4.948704889972427,0,China,China,Chinese,0,,400,murray_ha_osf
+8338,"Tsvet, Mikhail ",1912,1872.0,1919.0,Science,Biol,14.267347282516132,0,Russia,Russia,Slavic,0,,1900,murray_ha_osf
+8342,"Tull, Jethro",1714,1674.0,1741.0,Science,Tech,16.683129199259934,0,Britain,Britain,English,0,,1700,murray_ha_osf
+8364,"Turner-Jones, A.",1944,,,Science,Chem,3.0919642720153546,0,Britain,Britain,English,0,,1900,murray_ha_osf
+8376,"Twort, Frederick ",1917,1877.0,1950.0,Science,Biol,12.173854082964809,0,Britain,Britain,English,0,,1900,murray_ha_osf
+8380,"Tyndall, John",1860,1820.0,1893.0,Science,Biol,21.131796353224967,0,Britain,Britain,Irish,0,,1800,murray_ha_osf
+8387,"Uhlenbeck, George ",1940,1900.0,1988.0,Science,Phys,4.891777277392224,0,Netherlands,Netherlands,Dutch,0,,1900,murray_ha_osf
+8396,Ulugh-Beg,1434,1394.0,1449.0,Science,Astr,11.339653193041471,0,Arab World,Arab World,Arabic,0,,1400,murray_ha_osf
+8404,"Unverdorben, Otto",1846,1806.0,1873.0,Science,Chem,1.782010081555209,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+8408,"Urbain, Georges",1912,1872.0,1938.0,Science,Eart,11.905648511486648,0,France,France,French,0,,1900,murray_ha_osf
+8410,"Urey, Harold ",1933,1893.0,1981.0,Science,Chem,10.486665538708467,0,USA,USA,USA,0,,1900,murray_ha_osf
+8426,"Vallée-Poussin, Charles de la",1906,1866.0,1962.0,Science,Math,5.567133714503265,0,Belgium,Belgium,Flemish,0,,1900,murray_ha_osf
+8435,"Van De Graaff, Robert ",1941,1901.0,1967.0,Science,Phys,4.295341860112681,0,USA,USA,USA,0,,1900,murray_ha_osf
+8575,"Van Der Waals, Johannes  ",1877,1837.0,1923.0,Science,Phys,14.574497602716985,0,Netherlands,Netherlands,Dutch,0,,1800,murray_ha_osf
+8444,"Van’t Hoff, Jacobus ",1892,1852.0,1911.0,Science,Chem,20.25715175619192,0,Netherlands,Netherlands,Dutch,0,,1800,murray_ha_osf
+8447,"Vandermonde, Alexandre",1775,1735.0,1796.0,Science,Math,3.302841326318448,0,France,France,French,0,,1700,murray_ha_osf
+8463,"Vaucanson, Jacques de",1749,1709.0,,Science,Tech,9.561572568293197,0,France,France,French,0,,1700,murray_ha_osf
+8467,"Vauquelin, Louis ",1803,1763.0,1829.0,Science,Chem,17.15900072235571,0,France,France,French,0,,1800,murray_ha_osf
+8476,"Veksler, Vladimir ",1947,1907.0,1966.0,Science,Phys,7.993295858728381,0,Russia,Russia,Slavic,0,,1900,murray_ha_osf
+8480,Vening Meinesz,1927,1887.0,1966.0,Science,Eart,14.890158401859019,0,Netherlands,Netherlands,Dutch,0,,1900,murray_ha_osf
+8481,"Venn, John",1874,1834.0,1923.0,Science,Math,2.4110046263644667,0,Britain,Britain,English,0,,1800,murray_ha_osf
+8500,"Vesalius, Andreas",1554,1514.0,1564.0,Science,Medi,38.3458363203484,0,Belgium,Italy,Flemish,0,,1500,murray_ha_osf
+8509,"Viète, Francois",1580,1540.0,1603.0,Science,Math,36.49045020708744,0,France,France,French,0,,1500,murray_ha_osf
+8512,"Vigneaud, Vincent du",1941,1901.0,1978.0,Science,Biol,1.0,0,USA,USA,USA,0,,1900,murray_ha_osf
+8518,"Villard, Paul",1900,1860.0,1934.0,Science,Phys,9.592470704682528,0,France,France,French,0,,1900,murray_ha_osf
+8529,"Virchow, Rudolph",1861,1821.0,1902.0,Science,Medi,27.63262510011032,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+8534,Vitruvius Pollio,-50,-90.0,-25.0,Science,Tech,42.890269505276244,0,Rome,Rome,Ancient Roman,0,,-100,murray_ha_osf
+8542,"Vogel, Hermann",1882,1842.0,1907.0,Science,Astr,12.420184055769987,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+8559,"Volta, Alessandro",1785,1745.0,1827.0,Science,Phys,18.646503733104367,0,Italy,Italy,Italian,0,,1700,murray_ha_osf
+8561,"Volterra, Vito",1900,1860.0,1940.0,Science,Math,5.31160013676641,0,Italy,Italy,Jewish,0,,1900,murray_ha_osf
+8564,"Von Neumann, John",1943,1903.0,1957.0,Science,Math,18.518913216599977,1,Hungary,USA,Jewish,0,2.0,1900,murray_ha_osf
+8564,"Von Neumann, John",1943,1903.0,1957.0,Science,Tech,26.06847271556816,1,Hungary,USA,Jewish,0,2.0,1900,murray_ha_osf
+8571,"Vries, Hugo de",1888,1848.0,1935.0,Science,Biol,43.65526088336918,0,Netherlands,Netherlands,Dutch,0,,1800,murray_ha_osf
+8574,"Waage, Peter",1873,1833.0,1900.0,Science,Eart,14.759193456916217,0,Norway,Norway,Norwegian,0,,1800,murray_ha_osf
+8580,"Waerden, B.L. van der",1943,1903.0,,Science,Math,4.6291063171157365,0,Netherlands,Netherlands,Dutch,0,,1900,murray_ha_osf
+8585,"Wagner von Jauregg, Julius",1897,1857.0,1940.0,Science,Medi,9.102301734242815,0,Austria,Austria,Germanic,0,,1800,murray_ha_osf
+8590,"Waksman, Selman ",1928,1888.0,1973.0,Science,Medi,21.676399711951667,0,Russia,USA,Jewish,0,,1900,murray_ha_osf
+8598,"Waldeyer-Hartz, Wilhelm von",1876,1836.0,1921.0,Science,Biol,14.517940019682532,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+8599,"Waldseemüller, Martin",1510,1470.0,1522.0,Science,Science,,0,Germany,France,Germanic,0,,1500,murray_ha_osf
+8607,"Wallace, Alfred",1863,1823.0,1913.0,Science,Biol,32.9818878344043,0,Britain,Britain,English,0,,1800,murray_ha_osf
+8609,"Wallach, Otto",1887,1847.0,1931.0,Science,Chem,2.2074562989724384,0,Germany,Germany,Jewish,0,,1800,murray_ha_osf
+8617,"Wallis, John",1656,1616.0,1703.0,Science,Math,35.85729689919747,0,Britain,Britain,English,0,,1600,murray_ha_osf
+8626,"Walton, Ernest ",1943,1903.0,1995.0,Science,Phys,11.534998833515786,0,Britain,Britain,Irish,0,,1900,murray_ha_osf
+8639,"Wankel, Felix",1942,1902.0,1988.0,Science,Tech,12.923516885422003,0,Germany,Germany,Germanic,0,,1900,murray_ha_osf
+8644,"Warburg, Otto ",1923,1883.0,1970.0,Science,Biol,21.628907036489508,0,Germany,Germany,Jewish,0,,1900,murray_ha_osf
+8661,"Wassermann, August von",1906,1866.0,1925.0,Science,Biol,6.9012401004803685,0,Germany,Germany,Jewish,0,,1900,murray_ha_osf
+8663,"Waterston, John ",1851,1811.0,1883.0,Science,Chem,2.460698095054123,0,Britain,Britain,Scots,0,,1800,murray_ha_osf
+8675,"Watson-Watt, Robert  ",1932,1892.0,1973.0,Science,Tech,15.515230810086708,0,Britain,Britain,Scots,0,,1900,murray_ha_osf
+8669,"Watson, John ",1918,1878.0,1958.0,Science,Science,,0,USA,USA,USA,0,,1900,murray_ha_osf
+8672,"Watson, Thomas",1832,1792.0,1882.0,Science,Medi,13.89066866853716,0,Britain,Britain,English,0,,1800,murray_ha_osf
+8674,"Watson, William",1755,1715.0,1787.0,Science,Phys,3.070105633143282,0,Britain,Britain,English,0,,1700,murray_ha_osf
+8676,"Watt, James",1776,1736.0,1819.0,Science,Tech,100.0,0,Britain,Britain,Scots,0,,1700,murray_ha_osf
+8685,"Weber, Wilhelm ",1844,1804.0,1891.0,Science,Phys,9.936744419155481,1,Germany,Germany,Germanic,0,2.0,1800,murray_ha_osf
+8685,"Weber, Wilhelm ",1844,1804.0,1891.0,Science,Tech,24.035973903759004,1,Germany,Germany,Germanic,0,2.0,1800,murray_ha_osf
+8693,"Wedderburn, Joseph",1922,1882.0,1948.0,Science,Math,1.345919439523491,0,Britain,USA,Scots,0,,1900,murray_ha_osf
+8695,"Wedgwood, Josiah",1770,1730.0,1795.0,Science,Tech,11.15421752159786,0,Britain,Britain,English,0,,1700,murray_ha_osf
+8698,"Wegener, Alfred ",1920,1880.0,1930.0,Science,Eart,32.725251381362,0,Germany,Germany,Germanic,0,,1900,murray_ha_osf
+8704,"Weierstrass, Karl",1855,1815.0,1897.0,Science,Math,19.955640330270537,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+8712,"Weiner, Alexander",1947,1907.0,1976.0,Science,Biol,12.171827475532712,0,USA,USA,USA,0,,1900,murray_ha_osf
+8717,"Weismann, August",1874,1834.0,1914.0,Science,Biol,26.16147879677813,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+8735,"Wells, Horace",1848,1815.0,1848.0,Science,Medi,10.95375421438957,0,USA,USA,USA,0,,1800,murray_ha_osf
+8746,"Werner, Abraham ",1789,1749.0,1817.0,Science,Eart,46.28277872330567,0,Germany,Germany,Germanic,0,,1700,murray_ha_osf
+8747,"Werner, Alfred",1906,1866.0,1919.0,Science,Chem,7.601619223631034,0,Germany,Switzerland,Germanic,0,,1900,murray_ha_osf
+8755,"Wessel, Caspar",1785,1745.0,1818.0,Science,Math,8.468128866600225,0,Norway,Norway,Norwegian,0,,1700,murray_ha_osf
+8757,"Westinghouse, George",1886,1846.0,1914.0,Science,Tech,23.845470882261672,0,USA,USA,USA,0,,1800,murray_ha_osf
+8764,"Weyl, Hermann",1925,1885.0,1955.0,Science,Math,9.576943680381618,0,Germany,Germany,Germanic,0,,1900,murray_ha_osf
+8768,"Wheatstone, Charles",1842,1802.0,1875.0,Science,Phys,9.244901455296903,1,Britain,Britain,English,0,2.0,1800,murray_ha_osf
+8768,"Wheatstone, Charles",1842,1802.0,1875.0,Science,Tech,31.61404275700858,1,Britain,Britain,English,0,2.0,1800,murray_ha_osf
+8776,"Whipple, Fred ",1946,1906.0,,Science,Astr,10.999669566241653,0,USA,USA,USA,0,,1900,murray_ha_osf
+8777,"Whipple, George Hoyt",1918,1878.0,1976.0,Science,Medi,9.470126300570286,0,USA,USA,USA,0,,1900,murray_ha_osf
+8788,"Whitehead, Alfred ",1901,1861.0,1947.0,Science,Math,10.886471115290933,0,Britain,Britain,English,0,,1900,murray_ha_osf
+8795,"Whitney, Eli",1805,1765.0,1825.0,Science,Tech,23.92950181157544,0,USA,USA,USA,0,,1800,murray_ha_osf
+8800,"Whittle, Frank",1947,1907.0,1996.0,Science,Tech,14.982861163129884,0,Britain,Britain,English,0,,1900,murray_ha_osf
+8802,"Whitworth, Joseph",1843,1803.0,1887.0,Science,Tech,13.887125009602496,0,Britain,Britain,English,0,,1800,murray_ha_osf
+8804,"Whytt, Robert",1754,1714.0,1766.0,Science,Medi,6.478041878144998,0,Britain,Britain,Scots,0,,1700,murray_ha_osf
+8806,"Widman, Johannes",1498,1462.0,1498.0,Science,Math,8.234381552905635,0,Czech,Germany,Czech,0,,1400,murray_ha_osf
+8816,"Wien, Wilhelm ",1904,1864.0,1928.0,Science,Phys,10.581665342275144,0,Germany,Germany,Germanic,0,,1900,murray_ha_osf
+8818,"Wiener, Norbert",1934,1894.0,1964.0,Science,Math,7.184939615915391,0,USA,USA,Jewish,0,,1900,murray_ha_osf
+8826,"Wigner, Eugene ",1942,1902.0,1995.0,Science,Chem,6.325775557285112,0,Hungary,USA,Jewish,0,,1900,murray_ha_osf
+8828,"Wilcke, Johan ",1772,1732.0,1796.0,Science,Phys,8.675716253510025,0,Germany,Sweden,Germanic,0,,1700,murray_ha_osf
+8845,"Wilkins, Robert ",1946,1906.0,,Science,Medi,9.784807786237591,0,USA,USA,USA,0,,1900,murray_ha_osf
+8848,"Wilkinson, John",1768,1728.0,1808.0,Science,Tech,31.97326152581235,0,Britain,Britain,English,0,,1700,murray_ha_osf
+8868,"Williamson, Alexander  ",1864,1824.0,1904.0,Science,Chem,3.5090433747394503,0,Britain,Britain,English,0,,1800,murray_ha_osf
+8876,"Willis, Thomas",1661,1621.0,1675.0,Science,Medi,25.33326919421959,0,Britain,Britain,English,0,,1600,murray_ha_osf
+8879,"Willstätter, Richard",1912,1872.0,1942.0,Science,Chem,14.254543627192136,0,Germany,Germany,Jewish,0,,1900,murray_ha_osf
+8888,"Wilson, Charles",1909,1869.0,1959.0,Science,Phys,14.220130768415999,0,Britain,Britain,Scots,0,,1900,murray_ha_osf
+8889,"Wilson, Edmund ",1896,1856.0,1939.0,Science,Biol,9.460512069769893,0,USA,USA,USA,0,,1800,murray_ha_osf
+8896,"Wilson, John Tuzo",1948,1908.0,1993.0,Science,Eart,3.2128964409193626,0,Canada,Canada,Canadian,0,,1900,murray_ha_osf
+8910,"Windaus, Adolf ",1916,1876.0,1959.0,Science,Chem,7.590282154060062,0,Germany,Germany,Germanic,0,,1900,murray_ha_osf
+8913,"Winkler, Clemens ",1878,1838.0,1904.0,Science,Chem,4.424051369241844,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+8919,"Winsor, Frederick ",1803,1763.0,1830.0,Science,Tech,5.119965474470583,0,Germany,Britain,Germanic,0,,1800,murray_ha_osf
+8930,"Withering, William",1781,1741.0,1799.0,Science,Medi,22.119315082123155,0,Britain,Britain,English,0,,1700,murray_ha_osf
+8942,"Wöhler, Friedrich",1840,1800.0,1882.0,Science,Chem,19.262344880171895,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+8947,"Wolf, Maximilian ",1903,1863.0,1932.0,Science,Astr,11.001570185544162,0,Germany,Germany,Germanic,0,,1900,murray_ha_osf
+8948,"Wolff, Caspar ",1774,1734.0,1794.0,Science,Biol,14.842972356383749,0,Germany,Germany,Germanic,0,,1700,murray_ha_osf
+8954,"Wollaston, William ",1806,1766.0,1828.0,Science,Chem,21.20656477891007,0,Britain,Britain,English,0,,1800,murray_ha_osf
+8969,"Woodward, John",1705,1665.0,1728.0,Science,Eart,12.292886930276461,0,Britain,Britain,English,0,,1700,murray_ha_osf
+8987,"Wren, Christopher",1672,1632.0,1723.0,Science,Tech,9.90146233028005,0,Britain,Britain,English,0,,1600,murray_ha_osf
+8992,Wright Brothers,1911,1871.0,1948.0,Science,Tech,27.273201408187177,0,USA,USA,USA,0,,1900,murray_ha_osf
+8988,"Wright, Almroth ",1901,1861.0,1947.0,Science,Medi,14.759254034097646,0,Britain,Britain,English,0,,1900,murray_ha_osf
+8994,"Wright, Thomas",1751,1711.0,1786.0,Science,Astr,4.178862752274679,0,Britain,Britain,English,0,,1700,murray_ha_osf
+9003,"Wundt, Wilhelm",1872,1832.0,1920.0,Science,Science,,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+9005,"Wurtz, Charles",1857,1817.0,1884.0,Science,Chem,4.067430004676298,0,Germany,France,French,0,,1800,murray_ha_osf
+9041,"Yersin, Alexandre",1903,1863.0,1943.0,Science,Biol,1.1323367721681472,0,Switzerland,France,French,0,,1900,murray_ha_osf
+9051,"Young, James",1862,1822.0,1883.0,Science,Chem,3.9021447411395633,1,Britain,Britain,Scots,0,2.0,1800,murray_ha_osf
+9051,"Young, James",1862,1822.0,1883.0,Science,Tech,9.759407854395208,1,Britain,Britain,Scots,0,2.0,1800,murray_ha_osf
+9057,"Young, Thomas",1813,1773.0,1829.0,Science,Phys,36.7779766645549,0,Britain,Britain,English,0,,1800,murray_ha_osf
+9059,"Yukawa, Hideki",1947,1907.0,1981.0,Science,Phys,13.668944492203735,0,Japan,Japan,Japanese,0,,1900,murray_ha_osf
+9084,"Zeeman, Pieter",1905,1865.0,1943.0,Science,Phys,12.9106279331569,0,Netherlands,Netherlands,Dutch,0,,1900,murray_ha_osf
+9095,Zeno of Elea,-450,-490.0,-430.0,Science,Math,6.571139594373819,1,Anc Greece,Anc Greece,Ancient Greek,0,2.0,-500,murray_ha_osf
+9098,"Zeppelin, Ferdinand von",1878,1838.0,1917.0,Science,Tech,16.214544723874045,0,Germany,Germany,Germanic,0,,1800,murray_ha_osf
+9100,"Zermelo, Ernst",1911,1871.0,1953.0,Science,Math,6.319168278842037,0,Germany,Germany,Germanic,0,,1900,murray_ha_osf
+9101,"Zernike, Frits",1928,1888.0,1966.0,Science,Phys,6.042552893032329,0,Netherlands,Netherlands,Dutch,0,,1900,murray_ha_osf
+9106,"Ziegler, Karl",1938,1898.0,1973.0,Science,Chem,4.818793874047446,0,Germany,Germany,Germanic,0,,1900,murray_ha_osf
+9113,"Zinn, Walter ",1946,1906.0,,Science,Phys,10.17811391249211,0,Canada,USA,Canadian,0,,1900,murray_ha_osf
+9128,"Zsigmondy, Richard ",1905,1865.0,1929.0,Science,Chem,4.445261107218664,0,Austria,Germany,Germanic,0,,1900,murray_ha_osf
+9141,"Zwicky, Fritz",1938,1898.0,1974.0,Science,Astr,24.208699859874567,0,Balkans,USA,Swiss,0,,1900,murray_ha_osf
+9142,"Zworykin, Vladimir ",1929,1889.0,1982.0,Science,Tech,21.7882976305767,0,Russia,USA,Slavic,0,,1900,murray_ha_osf

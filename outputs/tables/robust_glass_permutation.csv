@@ -1,0 +1,2 @@
+observed_coef,n_perm,null_mean,null_sd,perm_p_two_sided,note
+-2.6369670715517564,200,0.04826550747331126,1.0634997033545956,0.065,city-level label shuffle; associational placebo

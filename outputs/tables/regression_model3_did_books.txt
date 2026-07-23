@@ -1,0 +1,31 @@
+NOT DiD. Exploratory 15th-c. cross-section only; ISTC has no pre-1450 period. Filename kept for pipeline compatibility.
+
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:              log_books   R-squared:                       0.284
+Model:                            OLS   Adj. R-squared:                  0.028
+Method:                 Least Squares   F-statistic:                     10.50
+Date:                Wed, 22 Jul 2026   Prob (F-statistic):           0.000240
+Time:                        00:04:13   Log-Likelihood:                -37.125
+No. Observations:                  20   AIC:                             86.25
+Df Residuals:                      14   BIC:                             92.22
+Df Model:                           5                                         
+Covariance Type:                  HC1                                         
+========================================================================================
+                           coef    std err          z      P>|z|      [0.025      0.975]
+----------------------------------------------------------------------------------------
+Intercept                2.8904   6.21e-15   4.65e+14      0.000       2.890       2.890
+C(region)[T.France]      4.0265      0.753      5.347      0.000       2.551       5.502
+C(region)[T.Germany]     1.4010      1.099      1.274      0.203      -0.754       3.556
+C(region)[T.Iberia]      1.1796      0.654      1.803      0.071      -0.103       2.462
+C(region)[T.Italy]       1.7431      0.993      1.755      0.079      -0.204       3.690
+glass_center             1.0361      1.076      0.963      0.336      -1.074       3.146
+==============================================================================
+Omnibus:                        0.447   Durbin-Watson:                   2.182
+Prob(Omnibus):                  0.800   Jarque-Bera (JB):                0.541
+Skew:                           0.026   Prob(JB):                        0.763
+Kurtosis:                       2.196   Cond. No.                         13.1
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC1)

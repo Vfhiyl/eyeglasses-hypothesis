@@ -1,0 +1,7 @@
+test,mean_pre,mean_post,median_pre,median_post,share_age45plus_pre,share_age45plus_post,mean_diff_post_minus_pre,t_stat,p_value,n_pre,n_post,note
+age_at_first_notable_work_birth_pre_vs_post_1280,54.6282,47.7987,50.0,46.0,0.6581,0.5355,-6.8295,-5.3952,0.0,234,1197,Wikidata P800+P577; earliest notable work age; birth split 1280
+age_at_last_notable_work_birth_pre_vs_post_1280,60.6239,54.1128,59.0,54.0,0.7906,0.6884,-6.5111,-5.1747,0.0,234,1197,Wikidata; latest listed notable work age; experience-premium predicts rise
+age_at_first_notable_work_local_window_1200_1360,55.152,47.5321,50.0,50.0,0.672,0.5688,-7.6199,-3.3799,0.000852,125,109,Local birth window ± around spectacles; reduces era composition confounding
+age_at_first_work_glass_vs_control_birth_ge1280,47.7443,49.1277,46.0,50.0,0.5322,0.617,1.3833,0.6203,0.537851,1150,47,"Post-1280 births: glass-center birthplace vs others; B predicts glass older (n_glass=47, n_ctrl=1150)"
+age_at_first_work_glass_birth_pre_vs_post_1280,59.4,50.8261,59.5,51.0,0.7,0.6522,-8.5739,-1.0431,0.314562,10,23,Glass-center births only; experience-premium predicts age rise after spectacles
+age_at_first_work_birth_1150_1550_split_1280,52.4602,47.7458,50.0,46.0,0.625,0.5356,-4.7144,-3.219,0.001441,176,661,Trimmed birth window 1150–1550 to reduce deep-medieval composition bias

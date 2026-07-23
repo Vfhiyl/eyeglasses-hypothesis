@@ -1,0 +1,11 @@
+order_id,vision_class,age_band,line_qty,pairs_total,order_date,buyer,presbyopia_near_flag
+baesse_1451,distant_vision,unspecified,3,4,1451-08-25,Ardouino da Baesse,0
+baesse_1451,near_vision_requested,unspecified,1,4,1451-08-25,Ardouino da Baesse,1
+sforza_1462_prior_winter,high_quality_unspecified,unspecified,18,18,1461-12-01,Francesco Sforza,0
+sforza_1462_main,common_vision,unspecified,12,36,1462-10-21,Francesco Sforza,0
+sforza_1462_main,distant_young,young_myopia,12,36,1462-10-21,Francesco Sforza,0
+sforza_1462_main,near_elderly,elderly_presbyopia,12,36,1462-10-21,Francesco Sforza,1
+sforza_1466_age_graded,distant_young,young_under_30,10,50,1466-06-13,Galeazzo Maria Sforza,0
+sforza_1466_age_graded,medium_young,young_under_30,10,50,1466-06-13,Galeazzo Maria Sforza,0
+sforza_1466_age_graded,near_presbyopia_ages_30_50,30-50,15,50,1466-06-13,Galeazzo Maria Sforza,1
+sforza_1466_age_graded,near_presbyopia_ages_40_70,40-70,15,50,1466-06-13,Galeazzo Maria Sforza,1

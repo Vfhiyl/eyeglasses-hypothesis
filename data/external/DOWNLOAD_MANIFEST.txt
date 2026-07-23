@@ -1,0 +1,267 @@
+# 手动下载清单
+# 下载后放到仓库同级目录: ../download_data/
+# 然后运行: .venv/bin/python scripts/00_sync_downloads.py
+
+================================================================================
+A. 已完成（不必再下）
+================================================================================
+[x] istc_core_imprints_1.0.csv
+[x] istc_core_holdings_1.0.csv
+[x] istc_references_1.0.csv
+[x] istc_clean_1.0.yaml
+[x] cdmv-macrodata.zip
+[x] rete_scholars_individual.csv（82,800 条，脚本已抓）
+
+[x] Data.xlsx (Stelter et al. 2021, 33,498 学者任职) → scripts/02e_process_stelter.py
+[x] manuscript-production-century.csv (Buringh OWID) → scripts/02f_process_manuscripts.py
+[x] osfstorage-archive.zip (Murray HA.xlsx) → scripts/02g_process_human_accomplishment.py
+
+================================================================================
+B. 最高优先级 — 能直接改变结论缺口
+================================================================================
+
+[1] RETE Activities + Institutions（Shiny API，同 foundPersons 方式）
+    Activities = 学者任职记录（PKey × IKey × Beginning/End）← 假说核心
+    Institutions = 机构主表（IKey → Headquarter 城市）
+    操作:
+      1) 打开 https://shiny-lidam.sipr.ucl.ac.be/scholars1/
+      2) 点左侧 Activities，F12 → Network → dataobj → Copy as cURL
+      3) 更新 config/rete_api.yaml 的 session_id + nonce
+      4) 运行:
+         .venv/bin/python scripts/02a_fetch_rete_institutions.py   # 376 条
+         .venv/bin/python scripts/02a_fetch_rete_activities.py       # 全量任职
+         .venv/bin/python scripts/02d_process_rete_activities.py     # 合并→任教城市
+    dataobj 名称: foundActivities, foundInstitutions
+
+[2] Stelter 学者寿命复现数据（含任职进入风险集日期）
+    作用: 33,498 学者，有 appointment/exit/birth/death，比 foundPersons 更适合年龄检验
+    直接下载:
+      https://osf.io/download/p9bcw/
+    页面（可浏览其他文件）:
+      https://osf.io/va93h/
+    保存为: download_data/stelter_scholars_Data.xlsx
+    论文: https://doi.org/10.1215/00703370-8938107
+
+================================================================================
+C. 中优先级 — 一条命令能下，增强稳健性
+================================================================================
+
+[3] GeoNames 城市库（ISTC 地名归一化备用）
+    https://download.geonames.org/export/dump/cities1000.zip
+    解压得到 cities1000.txt → 放入 download_data/
+
+[4] 宏观人力资本（若本地没有）
+    https://perso.uclouvain.be/david.delacroix/appendix/cdmv-macrodata.zip
+    保存为: download_data/cdmv-macrodata.zip
+
+[5] 13–15 世纪手稿产出（印刷之前的知识生产 proxy）
+    直接 CSV:
+      https://ourworldindata.org/grapher/manuscript-production-century.csv?v=1&csvType=full&useColumnShortNames=false
+    保存为: download_data/manuscript_production_century.csv
+    说明: 欧洲总量/国别，无城市级；可检验 1300 前后手稿而非印书
+
+[6] ISTC 官方包（重新下载或补文件时用英国图书馆页面）
+    数据集主页（页面上有 Download 按钮）:
+      https://bl.iro.bl.uk/concern/datasets/30c74386-fc34-41b8-a9e5-d27ba96b0625
+    DOI 跳转:
+      https://doi.org/10.23636/k903-md30
+    Zenodo 配套工具包:
+      https://zenodo.org/records/14644510/files/harrylloyd-bl/istc_to_csv-v1.0.0.zip?download=1
+
+================================================================================
+D. 低优先级 — 有则用，无则跳过
+================================================================================
+
+[7] 意大利 16 世纪印书（EDIT16 社区 dump，MARCXML）
+    https://github.com/alexander-winkler/EDIT16/archive/refs/heads/main.zip
+    官方检索（无 bulk CSV）: https://edit16.iccu.sbn.it/
+
+[8] 中世纪手稿数据库 Schoenberg（需注册后站内下载 CSV/XLSX）
+    https://sdbm.library.upenn.edu/
+
+[9] USTC 全库 — 无公开批量 CSV，仅网页
+    https://ustc.ac.uk/
+
+[10] GW 德国 incunabula — 无 bulk export，仅检索
+    https://www.gesamtkatalogderwiegendrucke.de/GWWelcomeEN.xhtml
+
+================================================================================
+E. 下载后怎么接
+================================================================================
+cd eyeglasses-hypothesis
+.venv/bin/python scripts/00_sync_downloads.py
+# 新数据源放入 download_data/ 后告诉我 → 我写对应 process 脚本并接入 07_run_all.py
+
+
+================================================================================
+F. 替代数据源（不吊 RETE 一棵树）— 2026-07-09 增补
+================================================================================
+按「能检验什么」分组。★=推荐优先；☆=需注册/手工；✗=难批量。
+
+── F1. 知识产出 / 断点（替代「只靠 cdmv + ISTC」）────────────────────────
+
+[★F1a] Buringh–van Zanden 手稿 + 印书 + 识字率（OWID 直链）
+    手稿（6–18 世纪，国别）:
+      https://ourworldindata.org/grapher/manuscript-production-century.csv?v=1&csvType=full&useColumnShortNames=false
+    印书（半世纪）:
+      https://ourworldindata.org/grapher/production-printed-books-half-century.csv?v=1&csvType=full&useColumnShortNames=false
+    识字率 proxy:
+      https://ourworldindata.org/grapher/cross-country-literacy-rates.csv?v=1&csvType=full&useColumnShortNames=false
+    保存: download_data/manuscript_production_century.csv 等
+    用途: 1300 vs 1450 断点；印刷混淆检验；与眼镜时代时间对齐
+    局限: 国别/区域级，无城市；手稿在 1300 前后有观测值（比 Stelter 早）
+
+[★F1b] Murray Human Accomplishment — STMM 人物与事件（4,596 科学家 + 7,131 事件）
+    OSF 全包:
+      https://osf.io/z9cnk/   → Files → Download as Zip
+    AEI 扩展版（含完整 STMM Persons.xlsx）:
+      https://www.aei.org/research-products/working-paper/data-tools-4-the-full-inventory-of-science-technology-mathematics-and-medicine-persons-from-human-accomplishment/
+    保存: download_data/HumanAccomplishment_osf.zip 或 STMM_Persons.xlsx
+    用途: 科学成就「首次显著贡献」年份分布；45+ 产出占比；按国别/城市
+    局限: 精英尾部、选样偏误；但有 birth/death/city，不依赖 RETE
+
+[★F1c] Pantheon 2.0 全球名人（~2 万+，含 birthcity / occupation / birthyear）
+    下载页:
+      https://pantheon.world/data/datasets
+    选 2025 Person Dataset（bzip CSV）
+    保存: download_data/pantheon_2025.csv.bz2
+    用途: 过滤 occupation=Academic/Philosopher/Scientist；城市×世纪产出
+    局限: 「全球著名」≠ 大学教师；但地理字段比 Stelter 强
+
+[☆F1d] Schoenberg Database of Manuscripts（SDBM）
+    注册: https://sdbm.library.upenn.edu/
+    操作: 搜索 → 导出 CSV/XLSX；或邮件申请全库导出
+    用途: 手稿交易/馆藏地点 × 世纪 → 知识生产地理（13–16 世纪）
+    局限: 需账号；全库导出要联系 sdbm@pobox.upenn.edu
+
+[☆F1e] Mapping Manuscript Migrations（SDBM+Bibale+牛津 统一知识图谱）
+    Zenodo 全量 RDF:
+      https://doi.org/10.5281/zenodo.4019643  (mmm_data_v2.2.0.zip, ~67MB)
+    SPARQL: http://ldf.fi/mmm/sparql
+    用途: 手稿产地/流转城市；比 SDBM 单库更结构化
+    局限: RDF 不是 CSV，需写 SPARQL→CSV 脚本
+
+── F2. 创新者年龄 / 职业跨度（替代「RETE/Stelter 学者任职」）────────────
+
+[★F2a] 300 Years of British Patents（1617–1899，32 万专利 + 发明人地址/职业）
+    HuggingFace:
+      https://huggingface.co/datasets/matthewleechen/300YearsOfBritishPatents
+    GitHub:
+      https://github.com/matthewleechen/UKHistoricalPatents
+    保存: download_data/all_patents.jsonl.gz（或 HF datasets 拉取）
+    用途: 发明人地理；职业结构；可尝试与 VIAF/姓名库匹配估年龄
+    局限: 英国、17 世纪起；发明人年龄通常需二次链接传记库
+
+[★F2b] PatentCity（19 世纪德法英美专利，地理编码发明人/受让人）
+    Harvard Dataverse:
+      https://doi.org/10.7910/DVN/PG6THV
+    文档: https://cverluise.github.io/patentcity/
+    保存: download_data/patentcity_*.csv
+    用途: 玻璃中心城市（佛罗伦萨/威尼斯/米兰）vs 对照城市专利密度
+    局限: 最早 1877（德）/1893（英）；不能直接验 1300，但能验「光学产业城优势」
+
+[★F2c] Wikidata 批量导出（哲学家/科学家/教授，SPARQL → CSV）
+    查询器: https://query.wikidata.org
+    示例 occupations: Q169470 (physicist), Q36180 (writer), Q170790 (mathematician)
+    属性: P569 birth, P570 death, P19 birthplace, P106 occupation
+    用途: 自建「欧洲学者」样本，量级可达数万；可过滤 death>1300
+    局限: 日期精度参差；需清洗脚本（可我写 02f_fetch_wikidata.py）
+
+[☆F2d] EMLO 早期现代书信（16–18 世纪共和国文学者）
+    门户: https://emlo.bodleian.ox.ac.uk/
+    用途: 学者通信网络、地点、日期
+    局限: 禁止 bulk scrape；需发邮件申请研究用途数据
+
+── F3. 高读写职业者 / 神职（替代「大学教师」样本）────────────────────
+
+[★F3a] WIAG 神圣罗马帝国主教（~5,168 人，CSV 直出）
+    界面: https://wiag-vocab.adw-goe.de/query/epc
+    点「CSV Personendaten」「CSV Amtsdaten」
+    API: https://wiag-vocab.adw-goe.de/bischof/data?format=csv
+    用途: 任职年 (office/year) + 生卒 → 45+ 任职占比；主教驻城市
+    局限: 神职非学者，但是「读写密集型职业」的好 proxy
+
+[★F3b] WIAG 主教辖区 / 大教堂教士（Domherren）
+    教士: https://wiag-vocab.adw-goe.de/query/domherr
+    辖区: https://wiag-vocab.adw-goe.de/query/bistum
+    用途: 城市级神职人员密度；与玻璃中心（威尼斯、佛罗伦萨）对照
+
+[☆F3c] WIAG 伊比利亚主教（至 13 世纪，853 人）
+    https://wiag-vocab.adw-goe.de/query/ibe
+
+── F4. 城市规模 / 大学制度（加强地理回归与 IV）────────────────────────
+
+[★F4a] De Vries 欧洲城市人口 1500–1800（含坐标）
+    CSV: https://raw.githubusercontent.com/mdlincoln/europop/master/data-raw/europop.csv
+    坐标: https://raw.githubusercontent.com/mdlincoln/europop/master/data-raw/city_coords.csv
+    用途: 人均 ISTC/手稿/专利；玻璃中心 vs 对照城规模匹配
+    局限: 1500 年起；不能验 1300 前城市规模
+
+[★F4b] RETE 大学时间线 PDF（非 Shiny，可手工转 CSV）
+    PDF: https://ojs.uclouvain.be/index.php/RETE/article/download/68243/64093/132453
+    用途: 大学成立年 × 城市 → 回归控制、DID 处理强度
+    局限: 图不是表，需 OCR/手录（~80 所大学）
+
+[☆F4c] GeoNames cities1000（ISTC 地名归一化）
+    https://download.geonames.org/export/dump/cities1000.zip
+
+── F5. 眼镜 / 玻璃产业直接证据（目前最缺、最难批量）──────────────────
+
+[☆F5a] 佛罗伦萨眼镜框印痕测量（B2FIND 小样本）
+    https://b2find.eudat.eu/dataset/c9d90a7e-fafd-52e7-829e-2a159a4e26eb
+    用途: 直接证明 1504 前后当地眼镜使用
+    局限: 仅数条测量，不能回归
+
+[✗F5b] Ilardi 眼镜产业档案（15 世纪米兰订单等）
+    书: Renaissance Vision from Spectacles to Telescopes (2007)
+    用途: 定性 + 少量定量订单
+    局限: 无公开数据库；需人工录入订单表
+
+[☆F5c] EDIT16 意大利 16 世纪印书（GitHub MARCXML dump）
+    https://github.com/alexander-winkler/EDIT16/archive/refs/heads/main.zip
+    用途: 意大利城市印书（与佛罗伦萨/威尼斯玻璃中心对照）
+    局限: 16 世纪起；MARCXML 需解析
+
+[☆F5d] 威尼斯 18 世纪玻璃出口（Trivellato 论文附表，无 bulk）
+    论文线索: beads/conterie 出口统计
+    局限: 需从期刊 PDF 抠表或联系作者
+
+── 建议下载顺序（性价比）────────────────────────────────────────────
+  1. F1a 手稿 CSV（一条 curl，立刻可做 1300 断点）
+  2. F1b Human Accomplishment OSF zip（精英科学产出 + 城市）
+  3. F3a WIAG 主教 CSV（另一套「高龄任职」检验，有城市）
+  4. F4a europop 城市人口（加强 per-capita）
+  5. F1c Pantheon 2025（补地理）
+  6. F2a 英国历史专利（创新者维度，文件较大）
+  7. F2b PatentCity（若关心 19 世纪光学产业城）
+
+  不建议再花时间: RETE Activities（公开端仅 75 条）
+
+================================================================================
+G. 自动下载状态 — 2026-07-09
+================================================================================
+[机器已下] production-printed-books-half-century.csv
+[机器已下] cross-country-literacy-rates.csv
+[机器已下] europop.csv + city_coords.csv (jsDelivr)
+[机器已下] wiag_bishops_persons.csv (~21MB, 5168 主教)
+[机器已下] wikidata_european_scholars.csv (~7800 行，SPARQL)
+
+[机器已下] wiag_domherren_persons.csv (~17k, 1300前仅1条可算年龄 → 断点检验无效)
+[机器已下] rag/ Person+Ereignis+GeoOrt (~30k人, 51k大学事件1250-1550; pre-1300仅52条注册)
+[机器已下] leuven_matrikels.tab (143k, 1426-1797; 无1300前; 年龄仅minor/major)
+[机器已下] utrecht_priests.tab (4476 ordinations 1505-1518)
+[机器已下] bhotmg/ Curtis et al. city university HC 1200-1793 (Harvard DVN BHOTMG)
+[机器已下] deutschestudent00knod_djvu.txt + mmm_data_v2.1.0.zip
+
+[你帮下] SDBM 手稿库（注册后站内 CSV）:
+    https://sdbm.library.upenn.edu/
+
+[机器已下] studium_persons.jsonl (~28k, Studium Parisiense API 全量)
+
+项目已收尾；结论与证据权重见 README.md 与 outputs/tables/verdict.txt（审计对齐版）。
+
+[你帮下] EMLO 早期现代书信（需邮件申请 bulk）:
+    https://emlo.bodleian.ox.ac.uk/
+
+[你帮下] Friedlaender Acta Germanorum Bononiae 原始注册（无开放 bulk）:
+    Internet Archive 仅有 Knod 索引，非逐条名册

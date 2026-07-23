@@ -1,0 +1,2 @@
+n_scholars,n_audit_sample,sample_share_needs_review,n_with_trusted_life,n_single_year_not_birth,n_age_available_trusted,share_birth_filled,flag_INFO_single_year_death_or_floruit_only,flag_WARN_activity_before_birth,flag_WARN_age_from_uncertain_life,flag_WARN_implausible_age,flag_WARN_very_long_observed_span
+28572,300,0.0067,698,4132,698,0.0245,4132,4,2,3,5

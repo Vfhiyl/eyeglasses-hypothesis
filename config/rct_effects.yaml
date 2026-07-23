@@ -1,0 +1,51 @@
+# Modern RCT effect sizes for presbyopia correction -> productivity/income
+# Used for counterfactual simulation (external validity caveat applies)
+
+studies:
+  - name: PROSPER
+    location: Assam, India
+    population: tea pickers
+    effect_pct: 21.7
+    ci_lower: 15.0
+    ci_upper: 28.0
+    reference: "PubMed 30049615"
+    year: 2018
+    scenario: optimistic
+
+  - name: PROSPER_II
+    location: Karnataka, India
+    population: garment workers
+    effect_pct: 5.7
+    ci_lower: 1.04
+    ci_upper: 10.4
+    reference: "BJO 2025, doi:10.1136/bjo-2025-328563"
+    year: 2025
+    scenario: conservative
+
+  - name: THRIVE
+    location: Bangladesh
+    population: rural tradespeople
+    effect_pct: 33.0
+    ci_lower: 20.0
+    ci_upper: 45.0
+    reference: "PLOS ONE 2024, doi:10.1371/journal.pone.0296115"
+    year: 2024
+    scenario: upper_bound
+
+# Presbyopia onset assumptions for historical scholars
+presbyopia:
+  onset_age: 40
+  peak_impact_age: 50
+  full_impact_age: 55
+
+# Simulation scenarios (delta values as fractions)
+scenarios:
+  conservative:
+    delta: 0.057
+    source: PROSPER_II
+  moderate:
+    delta: 0.217
+    source: PROSPER
+  optimistic:
+    delta: 0.330
+    source: THRIVE

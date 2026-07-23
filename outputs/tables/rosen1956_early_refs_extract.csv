@@ -1,0 +1,13 @@
+page,topic,claim,rosen_stance,project_implication
+201,dating,Giordano sermon 23 Feb 1306 uses vernacular occhiali,accepted_primary,invention ~1286-1290 from <20 years claim
+201,dating,Pisan Chronicle ocularia not earlier than ~1305 (n.257),linguistic_terminus_only,NOT a 1305 Florence merchant will
+201-202,medical,Bernard Gordon Lilium ocularibus,REJECTED_as_editorial_insertion,do not cite as early medical wear
+203-204,medical,Guy de Chauliac 1363 ocularios vitri aut berillorum,accepted_earliest_medical,post-dates invention by decades
+204,literary,Petrarch Letter to Posterity ocularium auxilium after age 60,accepted,named wearer micro panel seed
+204,literary,Sacchetti Novella 83 occhiali; priors term 1358 not 1346,accepted_with_dating_correction,literary depiction
+204,documentary,1316 occulis de vitro cum capsula @ 6 Bolognese soldi,accepted,earliest price in Rosen set
+204,documentary,1322 Florentine bishop gilt-silver framed pair,accepted,Rosen cites Davidsohn only; bishop name Antonio degli Orsi is from Ilardi not Rosen body text
+204,documentary,1329 merchant theft unum par ochialium bought in Florence,accepted,trade/ownership; personal name only in Davidsohn Forschungen III p.190 no.955
+201,pseudo_historiography,1305 Florence merchant will,REJECTED_not_in_Rosen,composite suture of 1305/06 + Florence + 1329 merchant + 1322 inventory genre
+205,art,Tommaso da Modena 1352 Hugh of St Cher with spectacles,accepted_as_anachronism,shows familiarity in painter era not Hugh's
+183-200,historiography,Salvino degli Armati inventor epitaph,DEBUNKED_as_hoax,do not use Salvino as inventor

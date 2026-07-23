@@ -1,0 +1,1076 @@
+serial,name,fl_year,birth_year,death_year,inventory,era,adultbasic,region,subregion,childbasic,childregion,childsubregion,century,glass_subregion
+3799,"Hess, Victor",1923,1883.0,1964.0,Science,1800+,Austria,A.Mid,A.Graz,Austria,A.Mid,A.Mid,1900,False
+966,"Boltzmann, Ludwig",1884,1844.0,1906.0,Science,1800+,Austria,A.Mid,A.Graz,Austria,A.NE,A.Vienna,1800,False
+5059,"Loewi, Otto",1913,1873.0,1961.0,Science,1800+,Austria,A.Mid,A.Graz,Germany,G.Hesse,G.Frankfurt,1900,False
+6647,"Pregl, Fritz",1909,1869.0,1930.0,Science,1800+,Austria,A.Mid,A.Graz,Balkans,Slovenia,Slovenia,1900,False
+8328,"Tschermak, Erich",1911,1871.0,1962.0,Science,1800+,Austria,A.NE,A.NE,Austria,A.NE,A.Vienna,1900,False
+355,"Auenbrugger, Leopold",1762,1722.0,1809.0,Science,1600-1800,Austria,A.NE,A.Vienna,Austria,A.Mid,A.Graz,1700,False
+6453,"Peurbach, Georg",1461,1423.0,1461.0,Science,1400-1600,Austria,A.NE,A.Vienna,Austria,A.Mid,A.Mid,1400,False
+8585,"Wagner von Jauregg, Julius",1897,1857.0,1940.0,Science,1800+,Austria,A.NE,A.Vienna,Austria,A.Mid,A.Mid,1800,False
+5677,"Mises, Richard von",1923,1883.0,1953.0,Science,1800+,Austria,A.NE,A.Vienna,Austria,A.NE,A.NE,1900,False
+1155,"Breuer, Josef",1882,1842.0,1925.0,Science,1800+,Austria,A.NE,A.Vienna,Austria,A.NE,A.Vienna,1800,False
+2967,"Frisch, Karl von",1926,1886.0,1982.0,Science,1800+,Austria,A.NE,A.Vienna,Austria,A.NE,A.Vienna,1900,False
+4726,"Landsteiner, Karl",1908,1868.0,1943.0,Science,1800+,Austria,A.NE,A.Vienna,Austria,A.NE,A.Vienna,1900,False
+5089,"Lorenz, Konrad",1943,1903.0,1989.0,Science,1800+,Austria,A.NE,A.Vienna,Austria,A.NE,A.Vienna,1900,False
+6522,"Pirquet, Clemens  von",1914,1874.0,1929.0,Science,1800+,Austria,A.NE,A.Vienna,Austria,A.NE,A.Vienna,1900,False
+4538,"Koller, Carl",1897,1857.0,1944.0,Science,1800+,Austria,A.NE,A.Vienna,Czech,C.Bohem,C.Bohem,1800,False
+5097,"Loschmidt, Johann",1861,1821.0,1895.0,Science,1800+,Austria,A.NE,A.Vienna,Czech,C.Bohem,C.Bohem,1800,False
+3222,"Godel, Kurt",1946,1906.0,1978.0,Science,1800+,Austria,A.NE,A.Vienna,Czech,C.Morav,C.Brno,1900,False
+3031,"Gall, Franz",1798,1758.0,1828.0,Science,1600-1800,Austria,A.NE,A.Vienna,Germany,G.Baden,G.Baden,1700,False
+2945,"Freud, Sigmund",1896,1856.0,1939.0,Science,1800+,Austria,A.NE,A.Vienna,Germany,G.Baden,G.Freiberg,1800,False
+7972,"Suess, Eduard",1871,1831.0,1914.0,Science,1800+,Austria,A.NE,A.Vienna,Germany,G.Bavar,G.Bavar,1800,False
+823,"Billroth, Christian",1869,1829.0,1894.0,Science,1800+,Austria,A.NE,A.Vienna,Germany,G.Meckl,G.Meckl,1800,False
+7794,"Spurzheim, Johann",1816,1776.0,1832.0,Science,1800+,Austria,A.NE,A.Vienna,Germany,G.NRhWe,G.NRhWe,1800,False
+7115,"Rudolff, Christoff",1540,1500.0,1545.0,Science,1400-1600,Austria,A.NE,A.Vienna,Germany,G.Siles,G.Siles,1500,False
+5851,"Muller, Franz",1780,1740.0,1825.0,Science,1600-1800,Austria,A.NE,A.Vienna,Hungary,H.East,H.East,1700,False
+7461,"Semmelweiss, Ignaz",1858,1818.0,1865.0,Science,1800+,Austria,A.NE,A.Vienna,Hungary,H.NCent,H.Budapest,1800,False
+7842,"Stefan, Josef",1875,1835.0,1893.0,Science,1800+,Austria,A.NE,A.Vienna,Balkans,Slovenia,Slovenia,1800,False
+356,"Auer, Karl",1898,1858.0,1929.0,Science,1800+,Austria,A.noinfo,A.noinfo,Austria,A.NE,A.Vienna,1800,False
+356,"Auer, Karl",1898,1858.0,1929.0,Science,1800+,Austria,A.noinfo,A.noinfo,Austria,A.NE,A.Vienna,1800,False
+5703,"Mohorovicic, Andrija",1897,1857.0,1936.0,Science,1800+,Balkans,Croatia,Croatia,Balkans,Croatia,Croatia,1800,False
+6299,"Paulesco, Nicolas",1921,,,Science,1800+,Balkans,Romania,Romania,Balkans,Romania,Romania,1900,False
+3712,"Helmont, Jan van",1619,1579.0,1644.0,Science,1600-1800,Belgium,Belgium,Be.Brussels,Belgium,Belgium,Be.Brussels,1600,False
+7718,"Solvay, Ernest",1878,1838.0,1922.0,Science,1800+,Belgium,Belgium,Be.Brussels,Belgium,Belgium,Be.Brussels,1800,False
+1000,"Bordet, Jules",1910,1870.0,1961.0,Science,1800+,Belgium,Belgium,Be.Brussels,Belgium,Belgium,Be.General,1900,False
+1724,"Claude, Albert",1938,1898.0,1983.0,Science,1800+,Belgium,Belgium,Be.Brussels,Belgium,Belgium,Be.General,1900,False
+6719,"Quetelet, Adolphe",1836,1796.0,1874.0,Science,1800+,Belgium,Belgium,Be.Brussels,Belgium,Belgium,Be.Ghent,1800,False
+6138,"Omalius d'Halloy, Jean",1823,1783.0,1875.0,Science,1800+,Belgium,Belgium,Be.Brussels,Belgium,Belgium,Be.Liege,1800,False
+7826,"Stas, Jean Servais",1853,1813.0,1891.0,Science,1800+,Belgium,Belgium,Be.Brussels,Belgium,Belgium,Be.Louvain,1800,False
+7194,"Saint Vincent, Gregorius",1624,1584.0,1667.0,Science,1600-1800,Belgium,Belgium,Be.Ghent,Belgium,Belgium,Be.Bruges,1600,False
+672,"Beneden, Edouard",1886,1846.0,1910.0,Science,1800+,Belgium,Belgium,Be.Liege,Belgium,Belgium,Be.Louvain,1800,False
+4878,"Lema√Ætre, Georges",1934,1894.0,1966.0,Science,1800+,Belgium,Belgium,Be.Louvain,Belgium,Belgium,Be.General,1900,False
+8426,"Vallee-Poussin, Charles de la",1906,1866.0,1962.0,Science,1800+,Belgium,Belgium,Be.Louvain,Belgium,Belgium,Be.Louvain,1900,False
+5547,"Mercator, Nicolaus",1659,1619.0,1687.0,Science,1600-1800,Belgium,E.SE,E.London,Denmark,Denmark,De.General,1600,False
+4376,"Kekule, Friedrich",1869,1829.0,1896.0,Science,1800+,Belgium,G.NRhWe,G.Bonn,Germany,G.Hesse,G.Darmstadt,1800,False
+5546,"Mercator, Gerardus",1552,1512.0,1594.0,Science,1400-1600,Belgium,G.NRhWe,G.NRhWe,Belgium,Belgium,Be.General,1500,False
+1486,"Cartwright, Edmund",1783,1743.0,1823.0,Science,1600-1800,Britain,E.EMidl,E.EMidl,Britain,E.EMidl,E.EMidl,1700,False
+3346,"Green, George",1833,1793.0,1841.0,Science,1800+,Britain,E.EMidl,E.EMidl,Britain,E.EMidl,E.EMidl,1800,False
+3591,"Harrison, John",1733,1693.0,1776.0,Science,1600-1800,Britain,E.EMidl,E.EMidl,Britain,E.EMidl,E.EMidl,1700,False
+4451,"Kipping, Frederic",1903,1863.0,1949.0,Science,1800+,Britain,E.EMidl,E.EMidl,Britain,E.NW,E.Manchester,1900,False
+295,"Arkwright, Richard",1772,1732.0,1792.0,Science,1600-1800,Britain,E.EMidl,E.EMidl,Britain,E.NW,E.NW,1700,False
+3566,"Hargreaves, James",1760,1720.0,1778.0,Science,1600-1800,Britain,E.EMidl,E.EMidl,Britain,E.NW,E.NW,1700,False
+5353,"Martin, Archer",1949,1910.0,,Science,1800+,Britain,E.EMidl,E.EMidl,Britain,E.SE,E.London,1900,False
+8607,"Wallace, Alfred",1863,1823.0,1913.0,Science,1800+,Britain,E.gx,E.gx,Britain,E.Wales,E.Wales,1800,False
+590,"Beaufort, Francis",1814,1774.0,1857.0,Science,1800+,Britain,E.gx,E.gx,Britain,Ir.South,Ir.South,1800,False
+1103,"Bragg, W. Lawrence",1930,1890.0,1971.0,Science,1800+,Britain,E.Humbe,E.Leeds,Australia,Australia,,1900,False
+6660,"Priestley, Joseph",1773,1733.0,1804.0,Science,1600-1800,Britain,E.Humbe,E.Leeds,Britain,E.Humbe,E.Leeds,1700,False
+1102,"Bragg, W. Henry",1902,1862.0,1942.0,Science,1800+,Britain,E.Humbe,E.Leeds,Britain,E.North,E.North.w,1900,False
+150,"Allbutt, Thomas",1876,1836.0,1925.0,Science,1800+,Britain,E.Humbe,E.Leeds,Britain,E.North,E.Yorkshire,1800,False
+341,"Astbury, William",1939,1899.0,1961.0,Science,1800+,Britain,E.Humbe,E.Leeds,Britain,E.WMidl,E.WMidl,1900,False
+3471,"Hadfield, Robert",1898,1858.0,1940.0,Science,1800+,Britain,E.Humbe,E.Sheffield,Britain,E.Humbe,E.Sheffield,1800,False
+7733,"Sorby, Henry",1866,1826.0,1908.0,Science,1800+,Britain,E.Humbe,E.Sheffield,Britain,E.Humbe,E.Sheffield,1800,False
+4598,"Krebs, Hans",1940,1900.0,1981.0,Science,1800+,Britain,E.Humbe,E.Sheffield,Germany,G.LSaxo,G.LSaxo,1900,False
+5520,"Mellanby, Edward",1924,1884.0,1955.0,Science,1800+,Britain,E.Humbe,E.Sheffield,Britain,Sc.Low,Sc.Low,1900,False
+4057,"Huntsman, Benjamin",1744,1704.0,1776.0,Science,1600-1800,Britain,E.noinfo,E.noinfo,Britain,E.EMidl,E.EMidl,1700,False
+4855,"Lee, William",1590,1550.0,1610.0,Science,1400-1600,Britain,E.noinfo,E.noinfo,Britain,E.EMidl,E.EMidl,1500,False
+6054,"Norman, Robert",1590,,,Science,1400-1600,Britain,E.noinfo,E.noinfo,Britain,E.noinfo,E.noinfo,1500,False
+6547,"Platt, Hugh",1603,,,Science,1600-1800,Britain,E.noinfo,E.noinfo,Britain,E.noinfo,E.noinfo,1600,False
+9232,"Pott, Percival",1754,1714.0,1788.0,Science,1600-1800,Britain,E.noinfo,E.noinfo,Britain,E.noinfo,E.noinfo,1700,False
+7948,"Strutt, Jedediah",1764,,,Science,1600-1800,Britain,E.noinfo,E.noinfo,Britain,E.noinfo,E.noinfo,1700,False
+338,"Aspdin, Joseph",1839,1799.0,1855.0,Science,1800+,Britain,E.noinfo,E.noinfo,Britain,E.noinfox,E.noinfo,1800,False
+1303,"Bunn, C.W.",1944,,,Science,1800+,Britain,E.noinfo,E.noinfo,Britain,E.noinfox,E.noinfo,1900,False
+2109,"Davy, Edmund",1825,1785.0,1851.0,Science,1800+,Britain,E.noinfo,E.noinfo,Britain,E.noinfox,E.noinfo,1800,False
+9569,"Pirie, Norman",1948,1908.0,1972.0,Science,1800+,Britain,E.noinfo,E.noinfo,Britain,E.noinfox,E.noinfo,1900,False
+8364,"Turner-Jones, A.",1944,,,Science,1800+,Britain,E.noinfo,E.noinfo,Britain,E.noinfox,E.noinfo,1900,False
+8672,"Watson, Thomas",1832,1792.0,1882.0,Science,1800+,Britain,E.noinfo,E.noinfo,Britain,E.noinfox,E.noinfo,1800,False
+995,"Booth, Herbert",1911,1871.0,1955.0,Science,1800+,Britain,E.noinfo,E.noinfo,Britain,E.noinfox,E.SE,1900,False
+2428,"Dunlop, John",1880,1840.0,1921.0,Science,1800+,Britain,E.noinfo,E.noinfo,Britain,E.noinfox,E.SW,1800,False
+8848,"Wilkinson, John",1768,1728.0,1808.0,Science,1600-1800,Britain,E.noinfo,E.noinfo,Britain,E.North,E.North.w,1700,False
+1844,"Cooke, William",1846,1806.0,1879.0,Science,1800+,Britain,E.noinfo,E.noinfo,Britain,E.SE,E.SE,1800,False
+1964,"Cross, Charles",1895,1855.0,1935.0,Science,1800+,Britain,E.noinfo,E.noinfo,Britain,E.SE,E.SE,1800,False
+1964,"Cross, Charles",1895,1855.0,1935.0,Science,1800+,Britain,E.noinfo,E.noinfo,Britain,E.SE,E.SE,1800,False
+3892,"Hodgkin, Thomas",1838,1798.0,1866.0,Science,1800+,Britain,E.noinfo,E.noinfo,Britain,E.SE,E.SE.gl,1800,False
+2066,"Darby, Abraham III",1790,1750.0,1791.0,Science,1600-1800,Britain,E.noinfo,E.noinfo,Britain,E.SW,E.Bristol,1700,False
+3956,"Hornblower, Jonathan",1793,1753.0,1815.0,Science,1600-1800,Britain,E.noinfo,E.noinfo,Britain,E.SW,E.Cornwall,1700,False
+8069,"Fox Talbot, William",1840,1800.0,1877.0,Science,1800+,Britain,E.noinfo,E.noinfo,Britain,E.SW,E.SW,1800,False
+8069,"Fox Talbot, William",1840,1800.0,1877.0,Science,1800+,Britain,E.noinfo,E.noinfo,Britain,E.SW,E.SW,1800,False
+8800,"Whittle, Frank",1947,1907.0,1996.0,Science,1800+,Britain,E.noinfo,E.noinfo,Britain,E.WMidl,E.WMidl,1900,False
+5512,"Meikle, Andrew",1783,1743.0,1823.0,Science,1600-1800,Britain,E.noinfo,E.noinfo,Britain,Sc.Low,Sc.Low,1700,False
+1935,"Cranston, John",1917,,,Science,1800+,Britain,E.noinfo,E.noinfo,Britain,Sc.noinfox,Sc.noinfo,1900,False
+2800,"Fleck, Alexander",1929,1889.0,1968.0,Science,1800+,Britain,E.noinfo,E.noinfo,Britain,Sc.noinfox,Sc.noinfo,1900,False
+5205,"Macmillan, Kirkpatrick",1839,,,Science,1800+,Britain,E.noinfo,E.noinfo,Britain,Sc.SUpla,Sc.SUpla,1800,False
+5940,"Neckam, Alexander",1125,,,Science,,Britain,E.noinfo,E.noinfo,Britain,,,1100,False
+301,"Armstrong, William",1850,1810.0,1900.0,Science,1800+,Britain,E.North,E.Newcastle,Britain,E.North,E.Newcastle,1800,False
+7867,"Stephenson, George",1821,1781.0,1848.0,Science,1800+,Britain,E.North,E.Newcastle,Britain,E.North,E.Newcastle,1800,False
+8016,"Swan, Joseph",1868,1828.0,1914.0,Science,1800+,Britain,E.North,E.Newcastle,Britain,E.North,E.Newcastle,1800,False
+3925,"Holmes, Arthur",1930,1890.0,1965.0,Science,1800+,Britain,E.North,E.North.c,Britain,E.North,E.North,1900,False
+8994,"Wright, Thomas",1751,1711.0,1786.0,Science,1600-1800,Britain,E.North,E.North.c,Britain,E.North,E.North.c,1700,False
+3269,"Goodricke, John",1786,1764.0,1786.0,Science,1600-1800,Britain,E.North,E.Yorks,Britain,E.gx,,1700,False
+3063,"Gascoigne, William",1644,1612.0,1644.0,Science,1600-1800,Britain,E.North,E.Yorks,Britain,E.North,E.Yorks,1600,False
+4771,"Lassell, William",1839,1799.0,1880.0,Science,1800+,Britain,E.NW,E.Liverpool,Britain,E.NW,E.NW,1800,False
+7544,"Sherrington, Charles",1897,1857.0,1952.0,Science,1800+,Britain,E.NW,E.Liverpool,Britain,E.SE,E.London,1800,False
+5054,"Lodge, Oliver",1891,1851.0,1940.0,Science,1800+,Britain,E.NW,E.Liverpool,Britain,E.WMidl,E.WMidl,1800,False
+5054,"Lodge, Oliver",1891,1851.0,1940.0,Science,1800+,Britain,E.NW,E.Liverpool,Britain,E.WMidl,E.WMidl,1800,False
+6869,"Reynolds, Osborne",1882,1842.0,1912.0,Science,1800+,Britain,E.NW,E.Manchester,Britain,E.EAngl,E.EAngl,1800,False
+2040,"Dalton, John",1806,1766.0,1844.0,Science,1800+,Britain,E.NW,E.Manchester,Britain,E.North,E.North.w,1800,False
+3741,"Henry, William",1814,1774.0,1836.0,Science,1800+,Britain,E.NW,E.Manchester,Britain,E.NW,E.Manchester,1800,False
+8802,"Whitworth, Joseph",1843,1803.0,1887.0,Science,1800+,Britain,E.NW,E.Manchester,Britain,E.WMidl,E.WMidl,1800,False
+3096,"Geiger, Johannes",1922,1882.0,1945.0,Science,1800+,Britain,E.NW,E.Manchester,Germany,G.RhPal,G.RhPal,1900,False
+7156,"Rutherford, Ernest",1911,1871.0,1937.0,Science,1800+,Britain,E.NW,E.Manchester,New Zealand,New Zealand,Ne.General,1900,False
+5924,"Nasmyth, James",1848,1808.0,1890.0,Science,1800+,Britain,E.NW,E.Manchester,Britain,Sc.Low,Sc.Edinburgh,1800,False
+3965,"Horrocks, Jeremiah",1641,1618.0,1641.0,Science,1600-1800,Britain,E.NW,E.NW,Britain,E.NW,E.Liverpool,1600,False
+1957,"Crompton, Samuel",1793,1753.0,1827.0,Science,1600-1800,Britain,E.NW,E.NW,Britain,E.NW,E.NW,1700,False
+4280,"Joule, James",1858,1818.0,1889.0,Science,1800+,Britain,E.NW,E.NW,Britain,E.NW,E.NW,1800,False
+4363,"Kay, John",1744,1704.0,1764.0,Science,1600-1800,Britain,E.NW,E.NW,Britain,E.NW,E.NW,1700,False
+2968,"Frisch, Otto",1944,1904.0,1979.0,Science,1800+,Britain,E.SE,E.Cambridge,Austria,A.NE,A.Vienna,1900,False
+1294,"Bullard, Edward",1947,1907.0,1980.0,Science,1800+,Britain,E.SE,E.Cambridge,Britain,E.EAngl,E.EAngl,1900,False
+1895,"Cotes, Roger",1716,1682.0,1716.0,Science,1600-1800,Britain,E.SE,E.Cambridge,Britain,E.EMidl,E.EMidl,1700,False
+5613,"Michell, John",1764,1724.0,1793.0,Science,1600-1800,Britain,E.SE,E.Cambridge,Britain,E.EMidl,E.EMidl,1700,False
+5985,"Newton, Isaac",1682,1642.0,1727.0,Science,1600-1800,Britain,E.SE,E.Cambridge,Britain,E.EMidl,E.EMidl,1600,False
+5985,"Newton, Isaac",1682,1642.0,1727.0,Science,1600-1800,Britain,E.SE,E.Cambridge,Britain,E.EMidl,E.EMidl,1600,False
+3891,"Hodgkin, Dorothy",1949,1910.0,1994.0,Science,1800+,Britain,E.SE,E.Cambridge,Britain,E.gx,,1900,False
+5655,"Milne, Edward",1936,1896.0,1950.0,Science,1800+,Britain,E.SE,E.Cambridge,Britain,E.Humbe,E.Humbe,1900,False
+8481,"Venn, John",1874,1834.0,1923.0,Science,1800+,Britain,E.SE,E.Cambridge,Britain,E.Humbe,E.Humbe,1800,False
+4197,"Jeffreys, Harold",1931,1891.0,1989.0,Science,1800+,Britain,E.SE,E.Cambridge,Britain,E.North,E.Durham,1900,False
+99,"Airy, George",1841,1801.0,1892.0,Science,1800+,Britain,E.SE,E.Cambridge,Britain,E.North,E.North,1800,False
+2467,"Eddington, Arthur",1922,1882.0,1944.0,Science,1800+,Britain,E.SE,E.Cambridge,Britain,E.North,E.North,1900,False
+6316,"Peacock, George",1831,1791.0,1858.0,Science,1800+,Britain,E.SE,E.Cambridge,Britain,E.North,E.North.c,1800,False
+7434,"Sedgwick, Adam",1825,1785.0,1873.0,Science,1800+,Britain,E.SE,E.Cambridge,Britain,E.North,E.North.w,1800,False
+555,"Bateson, William",1901,1861.0,1926.0,Science,1800+,Britain,E.SE,E.Cambridge,Britain,E.North,E.Yorks,1900,False
+1767,"Cockroft, John",1937,1897.0,1967.0,Science,1800+,Britain,E.SE,E.Cambridge,Britain,E.North,E.Yorks,1900,False
+8199,"Thomson, J.J.",1896,1856.0,1940.0,Science,1800+,Britain,E.SE,E.Cambridge,Britain,E.NW,E.Manchester,1800,False
+496,"Barkla, Charles",1917,1877.0,1944.0,Science,1800+,Britain,E.SE,E.Cambridge,Britain,E.NW,E.NW,1900,False
+4192,"Jeans, James",1917,1877.0,1946.0,Science,1800+,Britain,E.SE,E.Cambridge,Britain,E.NW,E.NW,1900,False
+516,"Barrow, Isaac",1670,1630.0,1677.0,Science,1600-1800,Britain,E.SE,E.Cambridge,Britain,E.SE,E.London,1600,False
+1532,"Cayley, Arthur",1861,1821.0,1895.0,Science,1800+,Britain,E.SE,E.Cambridge,Britain,E.SE,E.SE,1800,False
+3495,"Hales, Stephen",1717,1677.0,1761.0,Science,1600-1800,Britain,E.SE,E.Cambridge,Britain,E.SE,E.SE,1700,False
+3563,"Hardy, Godfrey",1917,1877.0,1947.0,Science,1800+,Britain,E.SE,E.Cambridge,Britain,E.SE,E.SE,1900,False
+6784,"Ray, John",1667,1627.0,1705.0,Science,1600-1800,Britain,E.SE,E.Cambridge,Britain,E.SE,E.SE,1600,False
+7949,"Strutt, John William",1882,1842.0,1919.0,Science,1800+,Britain,E.SE,E.Cambridge,Britain,E.SE,E.SE,1800,False
+8788,"Whitehead, Alfred",1901,1861.0,1947.0,Science,1800+,Britain,E.SE,E.Cambridge,Britain,E.SE,E.SE,1900,False
+2270,"Dirac, Paul",1942,1902.0,1984.0,Science,1800+,Britain,E.SE,E.Cambridge,Britain,E.SW,E.Bristol,1900,False
+58,"Adams, John",1859,1819.0,1892.0,Science,1800+,Britain,E.SE,E.Cambridge,Britain,E.SW,E.Cornwall,1800,False
+3215,"Glisson, Francis",1637,1597.0,1677.0,Science,1600-1800,Britain,E.SE,E.Cambridge,Britain,E.SW,E.SW,1600,False
+5105,"Love, Augustus",1903,1863.0,1940.0,Science,1800+,Britain,E.SE,E.Cambridge,Britain,E.SW,E.SW,1900,False
+7142,"Russell, Bertrand",1912,1872.0,1970.0,Science,1800+,Britain,E.SE,E.Cambridge,Britain,E.Wales,E.Wales,1900,False
+342,"Aston, Francis",1917,1877.0,1945.0,Science,1800+,Britain,E.SE,E.Cambridge,Britain,E.WMidl,E.Birmingham,1900,False
+1562,"Chadwick, James",1931,1891.0,1974.0,Science,1800+,Britain,E.SE,E.Cambridge,Britain,E.WMidl,E.WMidl,1900,False
+1586,"Chandrasekhar, Subrahmaryan",1949,1910.0,1995.0,Science,1800+,Britain,E.SE,E.Cambridge,India,India,,1900,False
+6748,"Ramanujan, Srinivasa",1920,1887.0,1920.0,Science,1800+,Britain,E.SE,E.Cambridge,India,India,,1900,False
+7906,"Stokes, George",1859,1819.0,1903.0,Science,1800+,Britain,E.SE,E.Cambridge,Britain,Ir.South,Ir.South,1800,False
+4371,"Keilin, David",1927,1887.0,1963.0,Science,1800+,Britain,E.SE,E.Cambridge,Poland,Poland,Po.Warsa,1900,False
+8006,"Svedberg, The",1924,1884.0,1971.0,Science,1800+,Britain,E.SE,E.Cambridge,Sweden,S.noinfo,S.noinfo,1900,False
+8888,"Wilson, Charles",1909,1869.0,1959.0,Science,1800+,Britain,E.SE,E.Cambridge,Britain,Sc.Low,Sc.Edinburgh,1900,False
+2221,"Dewar, James",1882,1842.0,1923.0,Science,1800+,Britain,E.SE,E.Cambridge,Britain,Sc.Low,Sc.Low,1800,False
+2221,"Dewar, James",1882,1842.0,1923.0,Science,1800+,Britain,E.SE,E.Cambridge,Britain,Sc.Low,Sc.Low,1800,False
+2645,"Ewing, James",1895,1855.0,1935.0,Science,1800+,Britain,E.SE,E.Cambridge,Britain,Sc.Low,Sc.Low,1800,False
+6387,"Perkin, William",1878,1838.0,1907.0,Science,1800+,Britain,E.SE,E.London,Britain,E.EAngl,E.EAngl,1800,False
+8954,"Wollaston, William",1806,1766.0,1828.0,Science,1800+,Britain,E.SE,E.London,Britain,E.EAngl,E.EAngl,1800,False
+2798,"Flamsteed, John",1686,1646.0,1719.0,Science,1600-1800,Britain,E.SE,E.London,Britain,E.EMidl,E.EMidl,1600,False
+7617,"Simpson, Thomas (math.)",1750,1710.0,1761.0,Science,1600-1800,Britain,E.SE,E.London,Britain,E.EMidl,E.EMidl,1700,False
+254,"Appleton, Edward",1932,1892.0,1965.0,Science,1800+,Britain,E.SE,E.London,Britain,E.Humbe,E.Bradford,1900,False
+1533,"Cayley, George",1813,1773.0,1857.0,Science,1800+,Britain,E.SE,E.London,Britain,E.Humbe,E.Humbe,1800,False
+7648,"Smeaton, John",1764,1724.0,1792.0,Science,1600-1800,Britain,E.SE,E.London,Britain,E.Humbe,E.Leeds,1700,False
+66,"Addison, Thomas",1833,1793.0,1860.0,Science,1800+,Britain,E.SE,E.London,Britain,E.North,E.Newcastle,1800,False
+1111,"Bramah, Joseph",1788,1748.0,1814.0,Science,1600-1800,Britain,E.SE,E.London,Britain,E.North,E.North,1700,False
+2841,"Forbes, Edward Jr.",1854,1815.0,1854.0,Science,1800+,Britain,E.SE,E.London,Britain,E.North,E.North,1800,False
+1457,"Carlisle, Anthony",1808,1768.0,1840.0,Science,1800+,Britain,E.SE,E.London,Britain,E.North,E.North.c,1800,False
+3812,"Hey, James",1949,1909.0,,Science,1800+,Britain,E.SE,E.London,Britain,E.North,E.North.w,1900,False
+4145,"Jackson, John",1875,1835.0,1911.0,Science,1800+,Britain,E.SE,E.London,Britain,E.North,E.Yorks,1800,False
+7694,"Snow, John",1853,1813.0,1858.0,Science,1800+,Britain,E.SE,E.London,Britain,E.North,E.Yorks,1800,False
+8988,"Wright, Almroth",1901,1861.0,1947.0,Science,1800+,Britain,E.SE,E.London,Britain,E.North,E.Yorks,1900,False
+3556,"Harden, Arthur",1905,1865.0,1940.0,Science,1800+,Britain,E.SE,E.London,Britain,E.NW,E.Manchester,1900,False
+1598,"Chapman, Sydney",1928,1888.0,1970.0,Science,1800+,Britain,E.SE,E.London,Britain,E.NW,E.NW,1900,False
+1881,"Cort, Henry",1780,1740.0,1800.0,Science,1600-1800,Britain,E.SE,E.London,Britain,E.NW,E.NW,1700,False
+2804,"Fleming, John",1889,1849.0,1945.0,Science,1800+,Britain,E.SE,E.London,Britain,E.NW,E.NW,1800,False
+2910,"Frankland, Edward",1865,1825.0,1899.0,Science,1800+,Britain,E.SE,E.London,Britain,E.NW,E.NW,1800,False
+6199,"Owen, Richard",1844,1804.0,1892.0,Science,1800+,Britain,E.SE,E.London,Britain,E.NW,E.NW,1800,False
+11,"Abel, Frederic",1867,1827.0,1902.0,Science,1800+,Britain,E.SE,E.London,Britain,E.SE,E.London,1800,False
+377,"Babbage, Charles",1832,1792.0,1871.0,Science,1800+,Britain,E.SE,E.London,Britain,E.SE,E.London,1800,False
+401,"Bacon, Francis",1601,1561.0,1626.0,Science,1600-1800,Britain,E.SE,E.London,Britain,E.SE,E.London,1600,False
+1961,"Crookes, William",1872,1832.0,1919.0,Science,1800+,Britain,E.SE,E.London,Britain,E.SE,E.London,1800,False
+1961,"Crookes, William",1872,1832.0,1919.0,Science,1800+,Britain,E.SE,E.London,Britain,E.SE,E.London,1800,False
+2031,"Dale, Henry",1915,1875.0,1968.0,Science,1800+,Britain,E.SE,E.London,Britain,E.SE,E.London,1900,False
+2057,"Daniell, John",1830,1790.0,1845.0,Science,1800+,Britain,E.SE,E.London,Britain,E.SE,E.London,1800,False
+2306,"Dollond, John",1746,1706.0,1761.0,Science,1600-1800,Britain,E.SE,E.London,Britain,E.SE,E.London,1700,False
+2688,"Faraday, Michael",1831,1791.0,1867.0,Science,1800+,Britain,E.SE,E.London,Britain,E.SE,E.London,1800,False
+2688,"Faraday, Michael",1831,1791.0,1867.0,Science,1800+,Britain,E.SE,E.London,Britain,E.SE,E.London,1800,False
+3059,"Garrod, Archibald",1897,1857.0,1936.0,Science,1800+,Britain,E.SE,E.London,Britain,E.SE,E.London,1800,False
+3631,"Hatchett, Charles",1805,1765.0,1847.0,Science,1800+,Britain,E.SE,E.London,Britain,E.SE,E.London,1800,False
+4029,"Huggins, William",1864,1824.0,1910.0,Science,1800+,Britain,E.SE,E.London,Britain,E.SE,E.London,1800,False
+5027,"Lister, Joseph J.",1826,1786.0,1869.0,Science,1800+,Britain,E.SE,E.London,Britain,E.SE,E.London,1800,False
+5382,"Maskelyne, Nevil",1772,1732.0,1811.0,Science,1600-1800,Britain,E.SE,E.London,Britain,E.SE,E.London,1700,False
+5382,"Maskelyne, Nevil",1772,1732.0,1811.0,Science,1600-1800,Britain,E.SE,E.London,Britain,E.SE,E.London,1700,False
+5420,"Maudslay, Henry",1811,1771.0,1831.0,Science,1800+,Britain,E.SE,E.London,Britain,E.SE,E.London,1800,False
+5977,"Newlands, John",1877,1837.0,1898.0,Science,1800+,Britain,E.SE,E.London,Britain,E.SE,E.London,1800,False
+5996,"Nicholson, William",1793,1753.0,1815.0,Science,1600-1800,Britain,E.SE,E.London,Britain,E.SE,E.London,1700,False
+6269,"Parkinson, James",1795,1755.0,1824.0,Science,1600-1800,Britain,E.SE,E.London,Britain,E.SE,E.London,1700,False
+6325,"Pearson, Karl",1897,1857.0,1936.0,Science,1800+,Britain,E.SE,E.London,Britain,E.SE,E.London,1800,False
+7044,"Roscoe, Henry",1873,1833.0,1915.0,Science,1800+,Britain,E.SE,E.London,Britain,E.SE,E.London,1800,False
+7824,"Starling, Ernest",1906,1866.0,1927.0,Science,1800+,Britain,E.SE,E.London,Britain,E.SE,E.London,1900,False
+8295,"Travers, Morris",1912,1872.0,1961.0,Science,1800+,Britain,E.SE,E.London,Britain,E.SE,E.London,1900,False
+8674,"Watson, William",1755,1715.0,1787.0,Science,1600-1800,Britain,E.SE,E.London,Britain,E.SE,E.London,1700,False
+8868,"Williamson, Alexander",1864,1824.0,1904.0,Science,1800+,Britain,E.SE,E.London,Britain,E.SE,E.London,1800,False
+425,"Baily, Francis",1814,1774.0,1844.0,Science,1800+,Britain,E.SE,E.London,Britain,E.SE,E.SE,1800,False
+782,"Bessemer, Henry",1853,1813.0,1898.0,Science,1800+,Britain,E.SE,E.London,Britain,E.SE,E.SE,1800,False
+3173,"Gilbert, William",1584,1544.0,1603.0,Science,1400-1600,Britain,E.SE,E.London,Britain,E.SE,E.SE,1500,False
+3437,"Gunter, Edmund",1621,1581.0,1626.0,Science,1600-1800,Britain,E.SE,E.London,Britain,E.SE,E.SE,1600,False
+3473,"Hadley, John",1722,1682.0,1744.0,Science,1600-1800,Britain,E.SE,E.London,Britain,E.SE,E.SE,1700,False
+3619,"Harvey, William",1618,1578.0,1657.0,Science,1600-1800,Britain,E.SE,E.London,Britain,E.SE,E.SE,1600,False
+3635,"Hauksbee, Francis",1706,1666.0,1713.0,Science,1600-1800,Britain,E.SE,E.London,Britain,E.SE,E.SE,1700,False
+3941,"Hooke, Robert",1675,1635.0,1701.0,Science,1600-1800,Britain,E.SE,E.London,Britain,E.SE,E.SE,1600,False
+3941,"Hooke, Robert",1675,1635.0,1701.0,Science,1600-1800,Britain,E.SE,E.London,Britain,E.SE,E.SE,1600,False
+3941,"Hooke, Robert",1675,1635.0,1701.0,Science,1600-1800,Britain,E.SE,E.London,Britain,E.SE,E.SE,1600,False
+3941,"Hooke, Robert",1675,1635.0,1701.0,Science,1600-1800,Britain,E.SE,E.London,Britain,E.SE,E.SE,1600,False
+3946,"Hopkins, Frederick",1901,1861.0,1947.0,Science,1800+,Britain,E.SE,E.London,Britain,E.SE,E.SE,1900,False
+4074,"Huxley, Thomas",1865,1825.0,1895.0,Science,1800+,Britain,E.SE,E.London,Britain,E.SE,E.SE,1800,False
+7518,"Sharpey-Schafer, Edward",1890,1850.0,1935.0,Science,1800+,Britain,E.SE,E.London,Britain,E.SE,E.SE,1800,False
+7700,"Soddy, Frederick",1917,1877.0,1956.0,Science,1800+,Britain,E.SE,E.London,Britain,E.SE,E.SE,1900,False
+7950,"Strutt, Robert John",1915,1875.0,1947.0,Science,1800+,Britain,E.SE,E.London,Britain,E.SE,E.SE,1900,False
+8097,"Taylor, Brook",1725,1685.0,1731.0,Science,1600-1800,Britain,E.SE,E.London,Britain,E.SE,E.SE,1700,False
+8376,"Twort, Frederick",1917,1877.0,1950.0,Science,1800+,Britain,E.SE,E.London,Britain,E.SE,E.SE,1900,False
+1167,"Bright, Richard",1829,1789.0,1858.0,Science,1800+,Britain,E.SE,E.London,Britain,E.SW,E.Bristol,1800,False
+2110,"Davy, Humphrey",1818,1778.0,1829.0,Science,1800+,Britain,E.SE,E.London,Britain,E.SW,E.Cornwall,1800,False
+2110,"Davy, Humphrey",1818,1778.0,1829.0,Science,1800+,Britain,E.SE,E.London,Britain,E.SW,E.Cornwall,1800,False
+5123,"Lower, Richard",1671,1631.0,1691.0,Science,1600-1800,Britain,E.SE,E.London,Britain,E.SW,E.Cornwall,1600,False
+5452,"Mayow, John",1679,1641.0,1679.0,Science,1600-1800,Britain,E.SE,E.London,Britain,E.SW,E.Cornwall,1600,False
+1529,"Cavendish, Henry",1771,1731.0,1810.0,Science,1600-1800,Britain,E.SE,E.London,Britain,E.SW,E.Devon,1700,False
+5270,"Mallet, Robert",1850,1810.0,1881.0,Science,1800+,Britain,E.SE,E.London,Britain,E.SW,E.Devon,1800,False
+6843,"Rennell, James",1782,1742.0,1830.0,Science,1600-1800,Britain,E.SE,E.London,Britain,E.SW,E.Devon,1700,False
+1283,"Buckland, William",1824,1784.0,1856.0,Science,1800+,Britain,E.SE,E.London,Britain,E.SW,E.SW,1800,False
+1753,"Clifford, William",1879,1845.0,1879.0,Science,1800+,Britain,E.SE,E.London,Britain,E.SW,E.SW,1800,False
+2131,"De La Rue, Warren",1855,1815.0,1889.0,Science,1800+,Britain,E.SE,E.London,Britain,E.SW,E.SW,1800,False
+8031,"Sydenham, Thomas",1664,1624.0,1689.0,Science,1600-1800,Britain,E.SE,E.London,Britain,E.SW,E.SW,1600,False
+8876,"Willis, Thomas",1661,1621.0,1675.0,Science,1600-1800,Britain,E.SE,E.London,Britain,E.SW,E.SW,1600,False
+9057,"Young, Thomas",1813,1773.0,1829.0,Science,1800+,Britain,E.SE,E.London,Britain,E.SW,E.SW,1800,False
+1442,"Canton, John",1758,1718.0,1772.0,Science,1600-1800,Britain,E.SE,E.London,Britain,E.SW,E.SW.nc,1700,False
+6679,"Prout, William",1825,1785.0,1850.0,Science,1800+,Britain,E.SE,E.London,Britain,E.SW,E.SW.nc,1800,False
+8768,"Wheatstone, Charles",1842,1802.0,1875.0,Science,1800+,Britain,E.SE,E.London,Britain,E.SW,E.SW.nc,1800,False
+8768,"Wheatstone, Charles",1842,1802.0,1875.0,Science,1800+,Britain,E.SE,E.London,Britain,E.SW,E.SW.nc,1800,False
+8969,"Woodward, John",1705,1665.0,1728.0,Science,1600-1800,Britain,E.SE,E.London,Britain,E.SW,E.SW.nc,1700,False
+3536,"Hancock, Thomas",1826,1786.0,1865.0,Science,1800+,Britain,E.SE,E.London,Britain,E.SW,E.Wiltshire,1800,False
+3399,"Grove, William",1851,1811.0,1896.0,Science,1800+,Britain,E.SE,E.London,Britain,E.Wales,E.Wales,1800,False
+6799,"Recorde, Robert",1550,1510.0,1558.0,Science,1400-1600,Britain,E.SE,E.London,Britain,E.Wales,E.Wales,1500,False
+3038,"Galton, Francis",1862,1822.0,1911.0,Science,1800+,Britain,E.SE,E.London,Britain,E.WMidl,E.Birmingham,1800,False
+582,"Bayliss, William",1900,1860.0,1924.0,Science,1800+,Britain,E.SE,E.London,Britain,E.WMidl,E.WMidl,1900,False
+1213,"Brouncker, William",1660,1620.0,1684.0,Science,1600-1800,Britain,E.SE,E.London,Britain,E.WMidl,E.WMidl,1600,False
+2133,"De Morgan, Augustus",1846,1806.0,1871.0,Science,1800+,Britain,E.SE,E.London,Britain,E.WMidl,E.WMidl,1800,False
+3368,"Grew, Nehemiah",1681,1641.0,1712.0,Science,1600-1800,Britain,E.SE,E.London,Britain,E.WMidl,E.WMidl,1600,False
+5053,"Lockyer, Joseph",1876,1836.0,1920.0,Science,1800+,Britain,E.SE,E.London,Britain,E.WMidl,E.WMidl,1800,False
+5710,"Moivre, Abraham de",1707,1667.0,1754.0,Science,1600-1800,Britain,E.SE,E.London,France,F.Champ,F.Champ,1700,False
+1255,"Brunel, Marc",1809,1769.0,1849.0,Science,1800+,Britain,E.SE,E.London,France,F.HNorm,F.HNorm,1800,False
+7588,"Siemens, Charles",1863,1823.0,1883.0,Science,1800+,Britain,E.SE,E.London,Germany,G.LSaxo,G.Hanover,1800,False
+8919,"Winsor, Frederick",1803,1763.0,1830.0,Science,1800+,Britain,E.SE,E.London,Germany,G.LSaxo,G.LSaxo,1800,False
+3007,"Gabor, Dennis",1940,1900.0,1979.0,Science,1800+,Britain,E.SE,E.London,Hungary,H.NCent,H.Budapest,1900,False
+7174,"Sabine, Edward",1828,1788.0,1883.0,Science,1800+,Britain,E.SE,E.London,Britain,Ir.Dubli,Ir.Dublin,1800,False
+6281,"Parsons, Charles",1894,1854.0,1931.0,Science,1800+,Britain,E.SE,E.London,Britain,Ir.noinfox,Ir.noinfo,1800,False
+730,"Bernal, John",1941,1901.0,1971.0,Science,1800+,Britain,E.SE,E.London,Britain,Ir.South,Ir.South,1900,False
+8380,"Tyndall, John",1860,1820.0,1893.0,Science,1800+,Britain,E.SE,E.London,Britain,Ir.South,Ir.South,1800,False
+2360,"Drebbel, Cornelius",1612,1572.0,1633.0,Science,1600-1800,Britain,E.SE,E.London,Netherlands,Netherlands,Ne.General,1600,False
+5875,"Murchison, Roderick",1832,1792.0,1871.0,Science,1800+,Britain,E.SE,E.London,Britain,Sc.High,Sc.High,1800,False
+644,"Bell, Charles",1814,1774.0,1842.0,Science,1800+,Britain,E.SE,E.London,Britain,Sc.Low,Sc.Edinburgh,1800,False
+3313,"Graham, Thomas",1845,1805.0,1869.0,Science,1800+,Britain,E.SE,E.London,Britain,Sc.Low,Sc.Glasgow,1800,False
+6757,"Ramsay, William",1892,1852.0,1916.0,Science,1800+,Britain,E.SE,E.London,Britain,Sc.Low,Sc.Glasgow,1800,False
+1229,"Brown, Robert",1813,1773.0,1858.0,Science,1800+,Britain,E.SE,E.London,Britain,Sc.Low,Sc.Low,1800,False
+2802,"Fleming, Alexander",1921,1881.0,1955.0,Science,1800+,Britain,E.SE,E.London,Britain,Sc.Low,Sc.Low,1900,False
+4053,"Hunter, John",1768,1728.0,1793.0,Science,1600-1800,Britain,E.SE,E.London,Britain,Sc.Low,Sc.Low,1700,False
+5160,"Lyell, Charles",1837,1797.0,1875.0,Science,1800+,Britain,E.SE,E.London,Britain,Sc.Low,Sc.Low,1800,False
+5290,"Manson, Patrick",1884,1844.0,1922.0,Science,1800+,Britain,E.SE,E.London,Britain,Sc.Low,Sc.Low,1800,False
+7899,"Stirling, James",1732,1692.0,1770.0,Science,1600-1800,Britain,E.SE,E.London,Britain,Sc.Low,Sc.Low,1700,False
+2816,"Florey, Howard",1938,1898.0,1968.0,Science,1800+,Britain,E.SE,E.Oxford,Australia,Australia,,1900,False
+6983,"Robinson, Robert",1926,1886.0,1975.0,Science,1800+,Britain,E.SE,E.Oxford,Britain,E.EMidl,E.EMidl,1900,False
+1163,"Briggs, Henry",1601,1561.0,1630.0,Science,1600-1800,Britain,E.SE,E.Oxford,Britain,E.Humbe,E.Humbe,1600,False
+3508,"Halley, Edmond",1696,1656.0,1742.0,Science,1600-1800,Britain,E.SE,E.Oxford,Britain,E.SE,E.London,1600,False
+8033,"Sylvester, James",1854,1814.0,1897.0,Science,1800+,Britain,E.SE,E.Oxford,Britain,E.SE,E.London,1800,False
+3583,"Harriot, Thomas",1600,1560.0,1621.0,Science,1600-1800,Britain,E.SE,E.Oxford,Britain,E.SE,E.Oxford,1600,False
+7580,"Sidgwick, Nevil",1913,1873.0,1952.0,Science,1800+,Britain,E.SE,E.Oxford,Britain,E.SE,E.Oxford,1900,False
+1100,"Bradwardine, Thomas",1330,1290.0,1349.0,Science,1200-1400,Britain,E.SE,E.Oxford,Britain,E.SE,E.SE,1300,False
+8617,"Wallis, John",1656,1616.0,1703.0,Science,1600-1800,Britain,E.SE,E.Oxford,Britain,E.SE,E.SE,1600,False
+402,"Bacon, Roger",1254,1214.0,1292.0,Science,1200-1400,Britain,E.SE,E.Oxford,Britain,E.SW,E.SW,1200,False
+5815,"Moseley, Henry",1915,1887.0,1915.0,Science,1800+,Britain,E.SE,E.Oxford,Britain,E.SW,E.SW,1900,False
+8987,"Wren, Christopher",1672,1632.0,1723.0,Science,1600-1800,Britain,E.SE,E.Oxford,Britain,E.SW,E.SW,1600,False
+1097,"Bradley, James",1733,1693.0,1762.0,Science,1600-1800,Britain,E.SE,E.Oxford,Britain,E.SW,E.SW.nc,1700,False
+614,"Beddoes, Thomas",1800,1760.0,1808.0,Science,1800+,Britain,E.SE,E.Oxford,Britain,E.WMidl,E.WMidl,1800,False
+1564,"Chain, Ernst",1946,1906.0,1979.0,Science,1800+,Britain,E.SE,E.Oxford,Germany,G.Brand,G.Berlin,1900,False
+5073,"London, Heinz",1947,1907.0,1970.0,Science,1800+,Britain,E.SE,E.Oxford,Germany,G.NRhWe,G.Bonn,1900,False
+1088,"Boyle, Robert",1667,1627.0,1691.0,Science,1600-1800,Britain,E.SE,E.Oxford,Germany,G.NRhWe,G.NRhWe,1600,False
+1088,"Boyle, Robert",1667,1627.0,1691.0,Science,1600-1800,Britain,E.SE,E.Oxford,Germany,G.NRhWe,G.NRhWe,1600,False
+3490,"Haldane, John",1900,1860.0,1936.0,Science,1800+,Britain,E.SE,E.Oxford,Britain,Sc.Low,Sc.Edinburgh,1900,False
+7963,"Sturgeon, William",1823,1783.0,1850.0,Science,1800+,Britain,E.SE,E.SE,Britain,E.NW,E.NW,1800,False
+1479,"Carrington, Richard",1866,1826.0,1875.0,Science,1800+,Britain,E.SE,E.SE,Britain,E.SE,E.London,1800,False
+2783,"Fisher, Ronald",1930,1890.0,1962.0,Science,1800+,Britain,E.SE,E.SE,Britain,E.SE,E.London,1900,False
+3344,"Gray, Stephen",1706,1666.0,1736.0,Science,1600-1800,Britain,E.SE,E.SE,Britain,E.SE,E.SE,1700,False
+3784,"Herschel, John",1832,1792.0,1871.0,Science,1800+,Britain,E.SE,E.SE,Britain,E.SE,E.SE,1800,False
+4796,"Lawes, John",1854,1814.0,1899.0,Science,1800+,Britain,E.SE,E.SE,Britain,E.SE,E.SE,1800,False
+5293,"Mantell, Gideon",1830,1790.0,1852.0,Science,1800+,Britain,E.SE,E.SE,Britain,E.SE,E.SE,1800,False
+8342,"Tull, Jethro",1714,1674.0,1741.0,Science,1600-1800,Britain,E.SE,E.SE,Britain,E.SE,E.SE,1700,False
+573,"Bawden, Frederick",1948,1908.0,1972.0,Science,1800+,Britain,E.SE,E.SE,Britain,E.SW,E.Devon,1900,False
+2074,"Darwin, Charles",1849,1809.0,1882.0,Science,1800+,Britain,E.SE,E.SE,Britain,E.WMidl,E.WMidl,1800,False
+3783,"Herschel, Caroline",1790,1750.0,1848.0,Science,1600-1800,Britain,E.SE,E.SE,Germany,G.LSaxo,G.Hanover,1700,False
+3785,"Herschel, William",1778,1738.0,1822.0,Science,1600-1800,Britain,E.SE,E.SE,Germany,G.LSaxo,G.Hanover,1700,False
+4991,"Lind, James",1756,1716.0,1794.0,Science,1600-1800,Britain,E.SE,E.SE,Britain,Sc.Low,Sc.Edinburgh,1700,False
+429,"Baird, John",1928,1888.0,1946.0,Science,1800+,Britain,E.SE,E.SE,Britain,Sc.Low,Sc.Low,1900,False
+8675,"Watson-Watt, Robert",1932,1892.0,1973.0,Science,1800+,Britain,E.SE,E.SE,Britain,Sc.Low,Sc.Low,1900,False
+6634,"Powell, Cecil",1943,1903.0,1969.0,Science,1800+,Britain,E.SW,E.Bristol,Britain,E.SE,E.SE,1900,False
+3356,"Gregor, William",1801,1761.0,1817.0,Science,1800+,Britain,E.SW,E.Cornwall,Britain,E.SW,E.Cornwall,1800,False
+8305,"Trevithick, Richard",1811,1771.0,1833.0,Science,1800+,Britain,E.SW,E.Cornwall,Britain,E.SW,E.Cornwall,1800,False
+5876,"Murdock, William",1794,1754.0,1839.0,Science,1600-1800,Britain,E.SW,E.Cornwall,Britain,Sc.Low,Sc.Low,1700,False
+3666,"Heaviside, Oliver",1890,1850.0,1925.0,Science,1800+,Britain,E.SW,E.Devon,Britain,E.SE,E.London,1800,False
+5973,"Newcomen, Thomas",1703,1663.0,1729.0,Science,1600-1800,Britain,E.SW,E.Devon,Britain,E.SW,E.Devon,1700,False
+7270,"Savery, Thomas",1690,1650.0,1715.0,Science,1600-1800,Britain,E.SW,E.Devon,Britain,E.SW,E.Devon,1600,False
+5460,"McAdam, John",1796,1756.0,1836.0,Science,1600-1800,Britain,E.SW,E.Devon,Britain,Sc.Low,Sc.Low,1700,False
+8123,"Tennant, Smithson",1801,1761.0,1815.0,Science,1800+,Britain,E.SW,E.SW,Britain,E.North,E.Yorks,1800,False
+5656,"Milne, John",1899,1859.0,1913.0,Science,1800+,Britain,E.SW,E.SW,Britain,E.NW,E.Liverpool,1800,False
+7679,"Smith, William",1809,1769.0,1839.0,Science,1800+,Britain,E.SW,E.SW,Britain,E.SE,E.Oxford,1800,False
+1254,"Brunel, Isambard",1846,1806.0,1859.0,Science,1800+,Britain,E.SW,E.SW,Britain,E.SW,E.SW,1800,False
+68,Adelhard of Bath,1125,,,Science,,Britain,E.SW,E.SW,Britain,,,1100,False
+4206,"Jenner, Edward",1789,1749.0,1823.0,Science,1600-1800,Britain,E.SW,E.SW.nc,Britain,E.SW,E.SW.nc,1700,False
+6995,"Roebuck, John",1758,1718.0,1794.0,Science,1600-1800,Britain,E.WMidl,E.Birmingham,Britain,E.Humbe,E.Sheffield,1700,False
+3649,"Haworth, Walter",1923,1883.0,1950.0,Science,1800+,Britain,E.WMidl,E.Birmingham,Britain,E.NW,E.NW,1900,False
+1053,"Boulton, Matthew",1768,1728.0,1809.0,Science,1600-1800,Britain,E.WMidl,E.Birmingham,Britain,E.WMidl,E.Birmingham,1700,False
+6265,"Parkes, Alexander",1853,1813.0,1890.0,Science,1800+,Britain,E.WMidl,E.Birmingham,Britain,E.WMidl,E.Birmingham,1800,False
+8930,"Withering, William",1781,1741.0,1799.0,Science,1600-1800,Britain,E.WMidl,E.Birmingham,Britain,E.WMidl,E.WMidl,1700,False
+8024,"Swinburne, James",1898,1858.0,1958.0,Science,1800+,Britain,E.WMidl,E.Birmingham,Britain,Sc.High,Sc.High,1800,False
+8676,"Watt, James",1776,1736.0,1819.0,Science,1600-1800,Britain,E.WMidl,E.Birmingham,Britain,Sc.Low,Sc.Low,1700,False
+2075,"Darwin, Erasmus",1771,1731.0,1802.0,Science,1600-1800,Britain,E.WMidl,E.WMidl,Britain,E.EMidl,E.EMidl,1700,False
+2065,"Darby, Abraham",1717,1677.0,1717.0,Science,1600-1800,Britain,E.WMidl,E.WMidl,Britain,E.WMidl,E.WMidl,1700,False
+8695,"Wedgwood, Josiah",1770,1730.0,1795.0,Science,1600-1800,Britain,E.WMidl,E.WMidl,Britain,E.WMidl,E.WMidl,1700,False
+3221,"Goddard, Robert",1922,1882.0,1945.0,Science,1800+,Britain,E.WMidl,E.WMidl,USA,U.MA,U.MA,1900,False
+2366,"Dreyer, John",1892,1852.0,1926.0,Science,1800+,Britain,Ir.Dubli,Ir.Dublin,Britain,E.noinfox,E.noinfox,1800,False
+3525,"Hamilton, William",1845,1805.0,1865.0,Science,1800+,Britain,Ir.Dubli,Ir.Dublin,Britain,Ir.Dubli,Ir.Dublin,1800,False
+2791,"Fitzgerald, George",1891,1851.0,1901.0,Science,1800+,Britain,Ir.noinfo,Ir.noinfo,Britain,Ir.Dubli,Ir.Dublin,1800,False
+7916,"Stoney, George",1866,1826.0,1911.0,Science,1800+,Britain,Ir.noinfo,Ir.noinfo,Britain,Ir.South,Ir.South,1800,False
+8626,"Walton, Ernest",1943,1903.0,1995.0,Science,1800+,Britain,Ir.noinfo,Ir.noinfo,Britain,Ir.South,Ir.South,1900,False
+8198,"Thomson, James (engineer)",1862,1822.0,1892.0,Science,1800+,Britain,Ir.noinfo,Ir.noinfo,Britain,Sc.noinfox,Sc.noinfo,1800,False
+220,"Andrews, Thomas",1853,1813.0,1885.0,Science,1800+,Britain,Ir.North,Ir.Belfast,Britain,Ir.North,Ir.Belfast,1800,False
+991,"Boole, George",1855,1815.0,1864.0,Science,1800+,Britain,Ir.South,Ir.South,Britain,E.EMidl,E.EMidl,1800,False
+6282,"Parsons, William",1840,1800.0,1867.0,Science,1800+,Britain,Ir.South,Ir.South,Britain,Ir.South,Ir.South,1800,False
+5028,"Lister, Joseph",1867,1827.0,1912.0,Science,1800+,Britain,Sc.Low,Sc.Edinburgh,Britain,E.SE,E.SE,1800,False
+5198,"Maclaurin, Colin",1738,1698.0,1746.0,Science,1600-1800,Britain,Sc.Low,Sc.Edinburgh,Britain,Sc.High,Sc.High,1700,False
+4070,"Hutton, James",1766,1726.0,1797.0,Science,1600-1800,Britain,Sc.Low,Sc.Edinburgh,Britain,Sc.Low,Sc.Edinburgh,1700,False
+5437,"Maxwell, James",1871,1831.0,1879.0,Science,1800+,Britain,Sc.Low,Sc.Edinburgh,Britain,Sc.Low,Sc.Edinburgh,1800,False
+5920,"Napier, John",1590,1550.0,1617.0,Science,1400-1600,Britain,Sc.Low,Sc.Edinburgh,Britain,Sc.Low,Sc.Edinburgh,1500,False
+5999,"Nicol, William",1808,1768.0,1851.0,Science,1800+,Britain,Sc.Low,Sc.Edinburgh,Britain,Sc.Low,Sc.Edinburgh,1800,False
+7155,"Rutherford, Daniel",1789,1749.0,1819.0,Science,1600-1800,Britain,Sc.Low,Sc.Edinburgh,Britain,Sc.Low,Sc.Edinburgh,1700,False
+8663,"Waterston, John",1851,1811.0,1883.0,Science,1800+,Britain,Sc.Low,Sc.Edinburgh,Britain,Sc.Low,Sc.Edinburgh,1800,False
+8804,"Whytt, Robert",1754,1714.0,1766.0,Science,1600-1800,Britain,Sc.Low,Sc.Edinburgh,Britain,Sc.Low,Sc.Edinburgh,1700,False
+870,"Black, Joseph",1768,1728.0,1799.0,Science,1600-1800,Britain,Sc.Low,Sc.Edinburgh,Britain,Sc.Low,Sc.Low,1700,False
+1982,"Cullen, William",1750,1710.0,1790.0,Science,1600-1800,Britain,Sc.Low,Sc.Edinburgh,Britain,Sc.Low,Sc.Low,1700,False
+3719,"Henderson, Thomas",1838,1798.0,1844.0,Science,1800+,Britain,Sc.Low,Sc.Edinburgh,Britain,Sc.Low,Sc.Low,1800,False
+7615,"Simpson, James",1851,1811.0,1870.0,Science,1800+,Britain,Sc.Low,Sc.Edinburgh,Britain,Sc.Low,Sc.Low,1800,False
+8195,"Thomson, Charles",1870,1830.0,1882.0,Science,1800+,Britain,Sc.Low,Sc.Edinburgh,Britain,Sc.Low,Sc.Low,1800,False
+1158,"Brewster, David",1821,1781.0,1868.0,Science,1800+,Britain,Sc.Low,Sc.Edinburgh,Britain,Sc.SUpla,Sc.SUpla,1800,False
+6664,"Pringle, John",1747,1707.0,1782.0,Science,1600-1800,Britain,Sc.Low,Sc.Edinburgh,Britain,Sc.SUpla,Sc.SUpla,1700,False
+1937,"Crawford, Adair",1788,1748.0,1795.0,Science,1600-1800,Britain,Sc.Low,Sc.Glasgow,Britain,Ir.North,Ir.North,1700,False
+8203,"Thomson, William",1864,1824.0,1907.0,Science,1800+,Britain,Sc.Low,Sc.Glasgow,Britain,Sc.gx,,1800,False
+8203,"Thomson, William",1864,1824.0,1907.0,Science,1800+,Britain,Sc.Low,Sc.Glasgow,Britain,Sc.gx,,1800,False
+6768,"Rankine, William",1860,1820.0,1872.0,Science,1800+,Britain,Sc.Low,Sc.Glasgow,Britain,Sc.Low,Sc.Edinburgh,1800,False
+5193,"Macintosh, Charles",1806,1766.0,1842.0,Science,1800+,Britain,Sc.Low,Sc.Glasgow,Britain,Sc.Low,Sc.Glasgow,1800,False
+3360,"Gregory, James",1675,1638.0,1675.0,Science,1600-1800,Britain,Sc.Low,Sc.Glasgow,Britain,Sc.Low,Sc.Low,1600,False
+8197,"Thomson, George",1932,1892.0,1975.0,Science,1800+,Britain,Sc.Low,Sc.Low,Britain,E.SE,E.Cambridge,1900,False
+9051,"Young, James",1862,1822.0,1883.0,Science,1800+,Britain,Sc.Low,Sc.Low,Britain,Sc.Low,Sc.Glasgow,1800,False
+9051,"Young, James",1862,1822.0,1883.0,Science,1800+,Britain,Sc.Low,Sc.Low,Britain,Sc.Low,Sc.Glasgow,1800,False
+650,"Bell, Patrick",1839,1799.0,1869.0,Science,1800+,Britain,Sc.Low,Sc.Low,Britain,Sc.Low,Sc.Low,1800,False
+2329,"Doppler, Christian",1843,1803.0,1853.0,Science,1800+,Czech,C.Bohem,C.Prague,Austria,A.SW,A.Salzburg,1800,False
+6701,"Purkyne, Johannes",1827,1787.0,1869.0,Science,1800+,Czech,C.Bohem,C.Prague,Czech,C.Bohem,C.Bohem,1800,False
+970,"Bolzano, Bernardus",1821,1781.0,1848.0,Science,1800+,Czech,C.Bohem,C.Prague,Czech,C.Bohem,C.Prague,1800,False
+3819,"Heyrovsky, Jaroslav",1930,1890.0,1967.0,Science,1800+,Czech,C.Bohem,C.Prague,Czech,C.Bohem,C.Prague,1900,False
+5190,"Mach, Ernst",1878,1838.0,1916.0,Science,1800+,Czech,C.Bohem,C.Prague,Czech,C.Morav,C.Brno,1800,False
+4396,"Kepler, Johannes",1611,1571.0,1630.0,Science,1600-1800,Czech,C.Bohem,C.Prague,Germany,G.Baden,G.Baden,1600,False
+5329,"Mayr, Simon",1610,1570.0,1624.0,Science,1600-1800,Czech,C.Bohem,C.Prague,Germany,G.Bavar,G.Bavar,1600,False
+5530,"Mendel, Johann",1862,1822.0,1884.0,Science,1800+,Czech,C.Morav,C.Brno,Czech,C.Morav,C.Morav,1800,False
+952,"Bohr, Niels",1925,1885.0,1962.0,Science,1800+,Denmark,Denmark,De.Copenhagen,Denmark,Denmark,De.Copenhagen,1900,False
+2043,"Dam, Peter",1935,1895.0,1976.0,Science,1800+,Denmark,Denmark,De.Copenhagen,Denmark,Denmark,De.Copenhagen,1900,False
+3316,"Gram, Hans",1893,1853.0,1938.0,Science,1800+,Denmark,Denmark,De.Copenhagen,Denmark,Denmark,De.Copenhagen,1800,False
+4229,"Johannsen, Wilhelm",1897,1857.0,1927.0,Science,1800+,Denmark,Denmark,De.Copenhagen,Denmark,Denmark,De.Copenhagen,1800,False
+5860,"Muller, Otto",1770,1730.0,1784.0,Science,1600-1800,Denmark,Denmark,De.Copenhagen,Denmark,Denmark,De.Copenhagen,1700,False
+523,"Bartholin, Erasmus",1665,1625.0,1698.0,Science,1600-1800,Denmark,Denmark,De.Copenhagen,Denmark,Denmark,De.General,1600,False
+1205,"Bronsted, Johannes",1919,1879.0,1947.0,Science,1800+,Denmark,Denmark,De.Copenhagen,Denmark,Denmark,De.General,1900,False
+2661,"Fabricius, Johan",1785,1745.0,1808.0,Science,1600-1800,Denmark,Denmark,De.Copenhagen,Denmark,Denmark,De.General,1700,False
+2770,"Finsen, Niels",1900,1860.0,1904.0,Science,1800+,Denmark,Denmark,De.Copenhagen,Denmark,Denmark,De.General,1900,False
+6112,"Orsted, Hans",1817,1777.0,1851.0,Science,1800+,Denmark,Denmark,De.Copenhagen,Denmark,Denmark,De.General,1800,False
+7028,"Romer, Ole",1684,1644.0,1710.0,Science,1600-1800,Denmark,Denmark,De.Copenhagen,Denmark,Denmark,De.General,1600,False
+7734,"Sorensen, Soren",1908,1868.0,1939.0,Science,1800+,Denmark,Denmark,De.Copenhagen,Denmark,Denmark,De.General,1900,False
+7860,"Stensen, Niels (Steno)",1678,1638.0,1686.0,Science,1600-1800,Denmark,Denmark,De.General,Denmark,Denmark,De.Copenhagen,1600,False
+1104,"Brahe, Tycho",1586,1546.0,1601.0,Science,1400-1600,Denmark,Denmark,De.General,Denmark,Denmark,De.General,1500,False
+2752,"Fibiger, Johannes",1907,1867.0,1928.0,Science,1800+,Denmark,Denmark,De.General,Denmark,Denmark,De.General,1900,False
+3791,"Hertzsprung, Ejnar",1913,1873.0,1967.0,Science,1800+,Denmark,Denmark,De.General,Denmark,Denmark,De.General,1900,False
+3808,"Hevesy, Gyorgy",1925,1885.0,1966.0,Science,1800+,Denmark,Denmark,De.General,Hungary,H.NCent,H.Budapest,1900,False
+2606,Eskola,1923,1883.0,1964.0,Science,1800+,Finland,Fi.South,Fi.Helsinki,Finland,Fi.South,Fi.General,1900,False
+1392,"Cailletet, Louis",1872,1832.0,1913.0,Science,1800+,France,F.Bourg,F.Bourg,France,F.Bourg,F.Bourg,1800,False
+5544,"Meray, Hagues",1875,1835.0,1911.0,Science,1800+,France,F.Bourg,F.Dijon,France,F.Bourg,F.Bourg,1800,False
+3456,"Guyton de Morveau, Louis",1777,1737.0,1816.0,Science,1600-1800,France,F.Bourg,F.Dijon,France,F.Bourg,F.Dijon,1700,False
+1153,"Bretonneau, Pierre",1818,1778.0,1862.0,Science,1800+,France,F.Centr,F.Tours,France,F.Centr,F.Centr,1800,False
+2876,"Fourneyron, Beno√Æt",1842,1802.0,1867.0,Science,1800+,France,F.Franch,F.Franch,France,F.Rhone,F.Rhone,1800,False
+4275,Jordanus de Nemore (Nemorarius),1220,,,Science,1200-1400,France,F.gx,F.gx,France,F.noinfo,,1200,False
+6156,"Oresme, Nicole",1360,1320.0,1382.0,Science,1200-1400,France,F.HNorm,F.Rouen,France,F.HNorm,F.HNorm,1300,False
+4843,"Leblanc, Nicolas",1782,1742.0,1806.0,Science,1600-1800,France,F.Isle,F.Isle,France,F.Centr,F.Centr,1700,False
+5175,"Lyot, Bernard",1937,1897.0,1952.0,Science,1800+,France,F.Isle,F.Isle,France,F.Isle,F.Paris,1900,False
+3317,"Gramme, Zenobe",1866,1826.0,1901.0,Science,1800+,France,F.Isle,F.Paris,Belgium,Belgium,Be.Jehay-Bodegnee,1800,False
+3641,"Hauy, Rene",1783,1743.0,1822.0,Science,1600-1800,France,F.Isle,F.Paris,Britain,E.SW,E.SW,1700,False
+1185,"Broca, Pierre",1864,1824.0,1880.0,Science,1800+,France,F.Isle,F.Paris,France,F.Aquit,F.Aquit,1800,False
+6539,"Plante, Gaston",1874,1834.0,1889.0,Science,1800+,France,F.Isle,F.Paris,France,F.Aquit,F.Aquit.sc,1800,False
+5220,"Magendie, Fran√ßois",1823,1783.0,1855.0,Science,1800+,France,F.Isle,F.Paris,France,F.Aquit,F.Bordeaux,1800,False
+6284,"Pascal, Blaise",1662,1623.0,1662.0,Science,1600-1800,France,F.Isle,F.Paris,France,F.Auver,F.Auver,1600,False
+7019,"Rolle, Michel",1692,1652.0,1719.0,Science,1600-1800,France,F.Isle,F.Paris,France,F.Auver,F.Auver,1600,False
+2022,"Daguerre, Louis",1827,1787.0,1851.0,Science,1800+,France,F.Isle,F.Paris,France,F.BNorm,F.BNorm,1800,False
+2406,"Duhamel du Monceau, Henri",1740,1700.0,1782.0,Science,1600-1800,France,F.Isle,F.Paris,France,F.BNorm,F.BNorm,1700,False
+2522,"Elie de Beaumont, Jean",1838,1798.0,1874.0,Science,1800+,France,F.Isle,F.Paris,France,F.BNorm,F.BNorm,1800,False
+2944,"Fresnel, Augustin",1827,1788.0,1827.0,Science,1800+,France,F.Isle,F.Paris,France,F.BNorm,F.BNorm,1800,False
+2944,"Fresnel, Augustin",1827,1788.0,1827.0,Science,1800+,France,F.Isle,F.Paris,France,F.BNorm,F.BNorm,1800,False
+3736,Henry of Mondeville,1300,1260.0,1320.0,Science,1200-1400,France,F.Isle,F.Paris,France,F.BNorm,F.BNorm,1300,False
+3776,"Heroult, Paul",1903,1863.0,1914.0,Science,1800+,France,F.Isle,F.Paris,France,F.BNorm,F.BNorm,1900,False
+4831,"Le Verrier, Urbain",1851,1811.0,1877.0,Science,1800+,France,F.Isle,F.Paris,France,F.BNorm,F.BNorm,1800,False
+8467,"Vauquelin, Louis",1803,1763.0,1829.0,Science,1800+,France,F.Isle,F.Paris,France,F.BNorm,F.BNorm,1800,False
+1291,Buffon,1747,1707.0,1788.0,Science,1600-1800,France,F.Isle,F.Paris,France,F.Bourg,F.Bourg,1700,False
+1464,"Carnot, Lazare Nicolas",1793,1753.0,1823.0,Science,1600-1800,France,F.Isle,F.Paris,France,F.Bourg,F.Bourg,1700,False
+2873,"Fourier, Jean",1808,1768.0,1830.0,Science,1800+,France,F.Isle,F.Paris,France,F.Bourg,F.Bourg,1800,False
+5733,"Monge, Gaspard",1786,1746.0,1818.0,Science,1600-1800,France,F.Isle,F.Paris,France,F.Bourg,F.Bourg,1700,False
+1914,"Courtois, Bernard",1817,1777.0,1838.0,Science,1800+,France,F.Isle,F.Paris,France,F.Bourg,F.Dijon,1800,False
+2502,"Eiffel, Alexandre",1872,1832.0,1923.0,Science,1800+,France,F.Isle,F.Paris,France,F.Bourg,F.Dijon,1800,False
+5328,"Mariotte, Edme",1660,1620.0,1684.0,Science,1600-1800,France,F.Isle,F.Paris,France,F.Bourg,F.Dijon,1600,False
+4684,"Laennec, Rene",1821,1781.0,1826.0,Science,1800+,France,F.Isle,F.Paris,France,F.Breta,F.Breta,1800,False
+5426,"Maupertuis, Pierre de",1738,1698.0,1759.0,Science,1600-1800,France,F.Isle,F.Paris,France,F.Breta,F.Breta,1700,False
+1608,"Charles, Jacques",1786,1746.0,1823.0,Science,1600-1800,France,F.Isle,F.Paris,France,F.Centr,F.Centr,1700,False
+1619,"Chasles, Michel",1833,1793.0,1880.0,Science,1800+,France,F.Isle,F.Paris,France,F.Centr,F.Centr,1800,False
+5158,"Lwoff, Andre",1942,1902.0,1994.0,Science,1800+,France,F.Isle,F.Paris,France,F.Centr,F.Centr,1900,False
+6247,"Papin, Denis",1687,1647.0,1712.0,Science,1600-1800,France,F.Isle,F.Paris,France,F.Centr,F.Centr,1600,False
+6575,"Poisson, Simeon",1821,1781.0,1840.0,Science,1800+,France,F.Isle,F.Paris,France,F.Centr,F.Centr,1800,False
+2240,"Diderot, Denis",1753,1713.0,1784.0,Science,1600-1800,France,F.Isle,F.Paris,France,F.Champ,F.Champ,1700,False
+8147,"Thenard, Louis",1817,1777.0,1857.0,Science,1800+,France,F.Isle,F.Paris,France,F.Champ,F.Champ,1800,False
+1606,"Chardonnet, Louis de",1879,1839.0,1924.0,Science,1800+,France,F.Isle,F.Paris,France,F.Franch,F.Besancon,1800,False
+2011,"Cuvier, Georges",1809,1769.0,1832.0,Science,1800+,France,F.Isle,F.Paris,France,F.Franch,F.Franch,1800,False
+6288,"Pasteur, Louis",1862,1822.0,1895.0,Science,1800+,France,F.Isle,F.Paris,France,F.Franch,F.Franch,1800,False
+6288,"Pasteur, Louis",1862,1822.0,1895.0,Science,1800+,France,F.Isle,F.Paris,France,F.Franch,F.Franch,1800,False
+6433,"Petit, Alexis",1820,1791.0,1820.0,Science,1800+,France,F.Isle,F.Paris,France,F.Franch,F.Franch,1800,False
+7198,"Sainte-Claire Deville, Henri",1858,1818.0,1881.0,Science,1800+,France,F.Isle,F.Paris,France,F.gx,,1800,False
+1197,"Broglie, Louis de",1932,1892.0,1987.0,Science,1800+,France,F.Isle,F.Paris,France,F.HNorm,F.HNorm,1900,False
+4754,"Laplace, Pierre",1789,1749.0,1827.0,Science,1600-1800,France,F.Isle,F.Paris,France,F.HNorm,F.HNorm,1700,False
+4754,"Laplace, Pierre",1789,1749.0,1827.0,Science,1600-1800,France,F.Isle,F.Paris,France,F.HNorm,F.HNorm,1700,False
+2412,"Dulong, Pierre",1825,1785.0,1838.0,Science,1800+,France,F.Isle,F.Paris,France,F.HNorm,F.Rouen,1800,False
+3037,"Galois, Evariste",1832,1811.0,1832.0,Science,1800+,France,F.Isle,F.Paris,France,F.Isle,F.Isle,1800,False
+3419,"Guettard, Jean",1755,1715.0,1786.0,Science,1600-1800,France,F.Isle,F.Paris,France,F.Isle,F.Isle,1700,False
+3468,"Hadamard, Jacques",1905,1865.0,1963.0,Science,1800+,France,F.Isle,F.Paris,France,F.Isle,F.Isle,1900,False
+4785,"Laurent, Auguste",1847,1807.0,1853.0,Science,1800+,France,F.Isle,F.Paris,France,F.Isle,F.Isle,1800,False
+6381,"Perey, Marguerite",1949,1909.0,1975.0,Science,1800+,France,F.Isle,F.Paris,France,F.Isle,F.Isle,1900,False
+8297,"Trefouel, Jacques",1937,1897.0,1977.0,Science,1800+,France,F.Isle,F.Paris,France,F.Isle,F.Isle,1900,False
+186,"Amontons, Guillaume",1703,1663.0,1705.0,Science,1600-1800,France,F.Isle,F.Paris,France,F.Isle,F.Paris,1700,False
+252,"Appert, Nicolas",1790,1750.0,1841.0,Science,1600-1800,France,F.Isle,F.Paris,France,F.Isle,F.Paris,1700,False
+608,"Becquerel, Alexandre",1860,1820.0,1891.0,Science,1800+,France,F.Isle,F.Paris,France,F.Isle,F.Paris,1800,False
+610,"Becquerel, Antoine",1892,1852.0,1908.0,Science,1800+,France,F.Isle,F.Paris,France,F.Isle,F.Paris,1800,False
+764,"Berthelot, Pierre",1867,1827.0,1907.0,Science,1800+,France,F.Isle,F.Paris,France,F.Isle,F.Paris,1800,False
+830,"Biot, Jean",1814,1774.0,1862.0,Science,1800+,France,F.Isle,F.Paris,France,F.Isle,F.Paris,1800,False
+1056,"Bourbaki, Nicolas (pseud.)",1949,,,Science,1800+,France,F.Isle,F.Paris,France,F.Isle,F.Paris,1900,False
+1202,"Brongniart, Alexandre",1810,1770.0,1847.0,Science,1800+,France,F.Isle,F.Paris,France,F.Isle,F.Paris,1800,False
+1388,"Cagniard de la Tour, Charles",1817,1777.0,1859.0,Science,1800+,France,F.Isle,F.Paris,France,F.Isle,F.Paris,1800,False
+1465,"Carnot, Nicolas",1832,1796.0,1832.0,Science,1800+,France,F.Isle,F.Paris,France,F.Isle,F.Paris,1800,False
+1523,"Cauchy, Augustin",1829,1789.0,1857.0,Science,1800+,France,F.Isle,F.Paris,France,F.Isle,F.Paris,1800,False
+1691,"Chuquet, Nicolas",1485,1445.0,1500.0,Science,1400-1600,France,F.Isle,F.Paris,France,F.Isle,F.Paris,1400,False
+1700,"Clairaut, Alexis",1753,1713.0,1765.0,Science,1600-1800,France,F.Isle,F.Paris,France,F.Isle,F.Paris,1700,False
+1726,"Claude, Georges",1910,1870.0,1960.0,Science,1800+,France,F.Isle,F.Paris,France,F.Isle,F.Paris,1900,False
+1865,"Coriolis, Gaspard de",1832,1792.0,1843.0,Science,1800+,France,F.Isle,F.Paris,France,F.Isle,F.Paris,1800,False
+1992,"Curie, Pierre",1899,1859.0,1906.0,Science,1800+,France,F.Isle,F.Paris,France,F.Isle,F.Paris,1800,False
+2180,"Demarcay, Eugene",1892,1852.0,1903.0,Science,1800+,France,F.Isle,F.Paris,France,F.Isle,F.Paris,1800,False
+2189,"Denis, Jean",1680,1640.0,1704.0,Science,1600-1800,France,F.Isle,F.Paris,France,F.Isle,F.Paris,1600,False
+2197,"Derosne, Charles",1820,1780.0,1846.0,Science,1800+,France,F.Isle,F.Paris,France,F.Isle,F.Paris,1800,False
+2211,"Deslandres, Henri",1893,1853.0,1948.0,Science,1800+,France,F.Isle,F.Paris,France,F.Isle,F.Paris,1800,False
+2383,"Dufay, Charles",1738,1698.0,1739.0,Science,1600-1800,France,F.Isle,F.Paris,France,F.Isle,F.Paris,1700,False
+2440,"Dutrochet, Rene",1816,1776.0,1847.0,Science,1800+,France,F.Isle,F.Paris,France,F.Isle,F.Paris,1800,False
+2663,"Fabry, Marie",1907,1867.0,1945.0,Science,1800+,France,F.Isle,F.Paris,France,F.Isle,F.Paris,1900,False
+2794,"Fizeau, Armand",1859,1819.0,1896.0,Science,1800+,France,F.Isle,F.Paris,France,F.Isle,F.Paris,1800,False
+2868,"Foucault, Jean",1859,1819.0,1868.0,Science,1800+,France,F.Isle,F.Paris,France,F.Isle,F.Paris,1800,False
+2872,"Fourcroy, Antoine de",1795,1755.0,1809.0,Science,1600-1800,France,F.Isle,F.Paris,France,F.Isle,F.Paris,1700,False
+3136,"Germain, Sophie",1816,1776.0,1831.0,Science,1800+,France,F.Isle,F.Paris,France,F.Isle,F.Paris,1800,False
+4183,"Janssen, Pierre",1864,1824.0,1907.0,Science,1800+,France,F.Isle,F.Paris,France,F.Isle,F.Paris,1800,False
+4254,"Joliot, Frederic",1940,1900.0,1958.0,Science,1800+,France,F.Isle,F.Paris,France,F.Isle,F.Paris,1900,False
+4255,"Joliot-Curie, Irene",1937,1897.0,1956.0,Science,1800+,France,F.Isle,F.Paris,France,F.Isle,F.Paris,1900,False
+4660,"L'Hospital, Guillaume de",1701,1661.0,1704.0,Science,1600-1800,France,F.Isle,F.Paris,France,F.Isle,F.Paris,1700,False
+4794,"Lavoisier, Antoine",1783,1743.0,1794.0,Science,1600-1800,France,F.Isle,F.Paris,France,F.Isle,F.Paris,1700,False
+4815,"Le Chatelier, Henri",1890,1850.0,1936.0,Science,1800+,France,F.Isle,F.Paris,France,F.Isle,F.Paris,1800,False
+4845,"Leclanche, Georges",1879,1839.0,1882.0,Science,1800+,France,F.Isle,F.Paris,France,F.Isle,F.Paris,1800,False
+4860,"Legendre, Adrien",1792,1752.0,1833.0,Science,1600-1800,France,F.Isle,F.Paris,France,F.Isle,F.Paris,1700,False
+5208,"Macquer, Pierre",1758,1718.0,1784.0,Science,1600-1800,France,F.Isle,F.Paris,France,F.Isle,F.Paris,1700,False
+5278,"Malus, Etienne",1812,1775.0,1812.0,Science,1800+,France,F.Isle,F.Paris,France,F.Isle,F.Paris,1800,False
+5709,"Moissan, Ferdinand",1892,1852.0,1907.0,Science,1800+,France,F.Isle,F.Paris,France,F.Isle,F.Paris,1800,False
+5709,"Moissan, Ferdinand",1892,1852.0,1907.0,Science,1800+,France,F.Isle,F.Paris,France,F.Isle,F.Paris,1800,False
+5737,"Monod, Jacques",1949,1910.0,1976.0,Science,1800+,France,F.Isle,F.Paris,France,F.Isle,F.Paris,1900,False
+6351,"Pelletier, Pierre",1828,1788.0,1842.0,Science,1800+,France,F.Isle,F.Paris,France,F.Isle,F.Paris,1800,False
+6905,"Richet, Charles",1890,1850.0,1935.0,Science,1800+,France,F.Isle,F.Paris,France,F.Isle,F.Paris,1800,False
+8113,"Teisserenc de Bort, Leon",1895,1855.0,1913.0,Science,1800+,France,F.Isle,F.Paris,France,F.Isle,F.Paris,1800,False
+8408,"Urbain, Georges",1912,1872.0,1938.0,Science,1800+,France,F.Isle,F.Paris,France,F.Isle,F.Paris,1900,False
+8447,"Vandermonde, Alexandre",1775,1735.0,1796.0,Science,1600-1800,France,F.Isle,F.Paris,France,F.Isle,F.Paris,1700,False
+137,"d'Alembert, Jean",1757,1717.0,1783.0,Science,1600-1800,France,F.Isle,F.Paris,France,F.Isle,F.Paris,1700,False
+137,"d'Alembert, Jean",1757,1717.0,1783.0,Science,1600-1800,France,F.Isle,F.Paris,France,F.Isle,F.Paris,1700,False
+257,"Arago, Dominique",1826,1786.0,1853.0,Science,1800+,France,F.Isle,F.Paris,France,F.Langu,F.Langu,1800,False
+2413,"Dumas, Jean",1840,1800.0,1884.0,Science,1800+,France,F.Isle,F.Paris,France,F.Langu,F.Langu,1800,False
+3084,"Gay-Lussac, Joseph",1818,1778.0,1850.0,Science,1800+,France,F.Isle,F.Paris,France,F.Limou,F.Limou,1800,False
+3084,"Gay-Lussac, Joseph",1818,1778.0,1850.0,Science,1800+,France,F.Isle,F.Paris,France,F.Limou,F.Limou,1800,False
+622,"Beguin, Jean",1590,1550.0,1620.0,Science,1400-1600,France,F.Isle,F.Paris,France,F.Lorra,F.Lorra,1500,False
+1981,"Cugnot, Nicholas",1768,1728.0,1804.0,Science,1600-1800,France,F.Isle,F.Paris,France,F.Lorra,F.Lorra,1700,False
+3769,"Hermite, Charles",1862,1822.0,1901.0,Science,1800+,France,F.Isle,F.Paris,France,F.Lorra,F.Lorra,1800,False
+4844,"Lebon, Philippe",1804,1767.0,1804.0,Science,1800+,France,F.Isle,F.Paris,France,F.Lorra,F.Lorra,1800,False
+5573,"Messier, Charles",1770,1730.0,1817.0,Science,1600-1800,France,F.Isle,F.Paris,France,F.Lorra,F.Lorra,1700,False
+2082,"Daubree, Gabriel",1854,1814.0,1896.0,Science,1800+,France,F.Isle,F.Paris,France,F.Lorra,F.Metz,1800,False
+3131,"Gergonne, Joseph",1811,1771.0,1859.0,Science,1800+,France,F.Isle,F.Paris,France,F.Lorra,F.Nancy,1800,False
+6572,"Poincare, Jules",1894,1854.0,1912.0,Science,1800+,France,F.Isle,F.Paris,France,F.Lorra,F.Nancy,1800,False
+1002,"Borel, Felix",1911,1871.0,1956.0,Science,1800+,France,F.Isle,F.Paris,France,F.MidiP,F.MidiP,1900,False
+6516,"Pinel, Philippe",1785,1745.0,1826.0,Science,1600-1800,France,F.Isle,F.Paris,France,F.MidiP,F.MidiP,1700,False
+6434,"Petit, Jean",1714,1674.0,1750.0,Science,1600-1800,France,F.Isle,F.Paris,France,F.noinfo,F.noinfo,1700,False
+6675,"Prony, Gaspard de",1795,1755.0,1839.0,Science,1600-1800,France,F.Isle,F.Paris,France,F.noinfo,F.noinfo,1700,False
+6420,Peter Peregrinus (de Maricourt),1269,,,Science,1200-1400,France,F.Isle,F.Paris,France,F.noinfo,,1200,False
+1326,"Buridan, Jean",1335,1295.0,1358.0,Science,1200-1400,France,F.Isle,F.Paris,France,F.NordP,F.NordP,1300,False
+1530,"Caventou, Joseph",1835,1795.0,1877.0,Science,1800+,France,F.Isle,F.Paris,France,F.NordP,F.NordP,1800,False
+5016,"Liouville, Joseph",1849,1809.0,1882.0,Science,1800+,France,F.Isle,F.Paris,France,F.NordP,F.NordP,1800,False
+6402,"Perrin, Jean",1910,1870.0,1942.0,Science,1800+,France,F.Isle,F.Paris,France,F.NordP,F.NordP,1900,False
+663,"Belon, Pierre",1557,1517.0,1564.0,Science,1400-1600,France,F.Isle,F.Paris,France,F.PaysL,F.PaysL,1500,False
+1646,"Chevreul, Michel",1826,1786.0,1889.0,Science,1800+,France,F.Isle,F.Paris,France,F.PaysL,F.PaysL,1800,False
+5564,"Mersenne, Marin",1628,1588.0,1648.0,Science,1600-1800,France,F.Isle,F.Paris,France,F.PaysL,F.PaysL,1600,False
+6254,"Pare, Ambroise",1550,1510.0,1590.0,Science,1400-1600,France,F.Isle,F.Paris,France,F.PaysL,F.PaysL,1500,False
+6488,"Picard, Jean",1660,1620.0,1682.0,Science,1600-1800,France,F.Isle,F.Paris,France,F.PaysL,F.PaysL,1600,False
+7263,"Sauveur, Joseph",1693,1653.0,1716.0,Science,1600-1800,France,F.Isle,F.Paris,France,F.PaysL,F.PaysL,1600,False
+8509,"Viete, Francois",1580,1540.0,1603.0,Science,1400-1600,France,F.Isle,F.Paris,France,F.PaysL,F.PaysL,1500,False
+1121,"Branly, Edouard",1884,1844.0,1940.0,Science,1800+,France,F.Isle,F.Paris,France,F.Picar,F.Picar,1800,False
+2212,"Desmarest, Nicolas",1765,1725.0,1815.0,Science,1600-1800,France,F.Isle,F.Paris,France,F.Picar,F.Picar,1700,False
+2737,"Fernel, Fran√ßois",1537,1497.0,1558.0,Science,1400-1600,France,F.Isle,F.Paris,France,F.Picar,F.Picar,1500,False
+4676,"Lacaille, Nicolas de",1753,1713.0,1762.0,Science,1600-1800,France,F.Isle,F.Paris,France,F.Picar,F.Picar,1700,False
+4694,"Lamarck, Jean",1784,1744.0,1829.0,Science,1600-1800,France,F.Isle,F.Paris,France,F.Picar,F.Picar,1700,False
+4842,"Lebesgue, Henri",1915,1875.0,1941.0,Science,1800+,France,F.Isle,F.Paris,France,F.Picar,F.Picar,1900,False
+5493,"Mechain, Pierre",1784,1744.0,1804.0,Science,1600-1800,France,F.Isle,F.Paris,France,F.Picar,F.Picar,1700,False
+6048,"Nollet, Jean",1740,1700.0,1770.0,Science,1600-1800,France,F.Isle,F.Paris,France,F.Picar,F.Picar,1700,False
+6354,"Peltier, Jean",1825,1785.0,1845.0,Science,1800+,France,F.Isle,F.Paris,France,F.Picar,F.Picar,1800,False
+6792,"Reaumur, Rene de",1723,1683.0,1757.0,Science,1600-1800,France,F.Isle,F.Paris,France,F.Poito,F.Poito,1700,False
+825,"Binet, Alfred",1897,1857.0,1911.0,Science,1800+,France,F.Isle,F.Paris,France,F.Prove,F.Prove,1800,False
+8278,"Tournefort, Joseph  de",1696,1656.0,1708.0,Science,1600-1800,France,F.Isle,F.Paris,France,F.Prove,F.Prove,1600,False
+187,"Ampere, Andre",1815,1775.0,1836.0,Science,1800+,France,F.Isle,F.Paris,France,F.Rhone,F.Lyon,1800,False
+2203,"Desargues, Girard",1631,1591.0,1661.0,Science,1600-1800,France,F.Isle,F.Paris,France,F.Rhone,F.Lyon,1600,False
+4268,"Jordan, Marie",1878,1838.0,1921.0,Science,1800+,France,F.Isle,F.Paris,France,F.Rhone,F.Lyon,1800,False
+4300,"Jussieu, Antoine de",1788,1748.0,1836.0,Science,1600-1800,France,F.Isle,F.Paris,France,F.Rhone,F.Lyon,1700,False
+4301,"Jussieu, Bernard de",1739,1699.0,1777.0,Science,1600-1800,France,F.Isle,F.Paris,France,F.Rhone,F.Lyon,1700,False
+8518,"Villard, Paul",1900,1860.0,1934.0,Science,1800+,France,F.Isle,F.Paris,France,F.Rhone,F.Lyon,1900,False
+731,"Bernard, Claude",1853,1813.0,1878.0,Science,1800+,France,F.Isle,F.Paris,France,F.Rhone,F.Rhone,1800,False
+731,"Bernard, Claude",1853,1813.0,1878.0,Science,1800+,France,F.Isle,F.Paris,France,F.Rhone,F.Rhone,1800,False
+767,"Berthollet, Claude",1788,1748.0,1822.0,Science,1600-1800,France,F.Isle,F.Paris,France,F.Rhone,F.Rhone,1700,False
+807,"Bichat, Marie",1802,1771.0,1802.0,Science,1800+,France,F.Isle,F.Paris,France,F.Rhone,F.Rhone,1800,False
+4811,"Le Bel, Joseph",1887,1847.0,1930.0,Science,1800+,France,F.Isle,F.Paris,Germany,G.Baden,G.Baden,1800,False
+7126,"Ruhmkorff, Heinrich",1843,1803.0,1877.0,Science,1800+,France,F.Isle,F.Paris,Germany,G.LSaxo,G.Hanover,1800,False
+9005,"Wurtz, Charles",1857,1817.0,1884.0,Science,1800+,France,F.Isle,F.Paris,Germany,G.RhPal,G.Strasbourg,1800,False
+3935,"Homberg, Wilhelm",1692,1652.0,1715.0,Science,1600-1800,France,F.Isle,F.Paris,Germany,G.Saxon,G.Saxon,1600,False
+4686,"Lagrange, Joseph",1776,1736.0,1813.0,Science,1600-1800,France,F.Isle,F.Paris,Italy,I.Piedm,I.Turin,1700,False
+1991,"Curie, Marie",1907,1867.0,1934.0,Science,1800+,France,F.Isle,F.Paris,Poland,Poland,Po.Warsa,1900,False
+1908,"Couper, Archibald",1871,1831.0,1892.0,Science,1800+,France,F.Isle,F.Paris,Britain,Sc.Low,Sc.Low,1800,False
+281,"Argand, Jean",1808,1768.0,1822.0,Science,1800+,France,F.Isle,F.Paris,Switzerland,Switzerland,Sz.Geneva,1800,False
+4765,"Lartet, Edouard",1841,1801.0,1871.0,Science,1800+,France,F.Langu,F.Langu,France,F.Langu,F.Langu,1800,False
+446,"Balard, Antoine",1842,1802.0,1876.0,Science,1800+,France,F.Langu,F.Montpellier,France,F.Langu,F.Montpellier,1800,False
+6990,"Roche, Edouard",1860,1820.0,1883.0,Science,1800+,France,F.Langu,F.Montpellier,France,F.Langu,F.Montpellier,1800,False
+8599,"Waldseemuller, Martin",1510,1470.0,1522.0,Science,1400-1600,France,F.Lorra,F.Lorra,Germany,G.Baden,G.Freiberg,1500,False
+6594,"Poncelet, Jean",1828,1788.0,1867.0,Science,1800+,France,F.Lorra,F.Metz,France,F.Lorra,F.Metz,1800,False
+7171,"Sabatier, Paul",1894,1854.0,1941.0,Science,1800+,France,F.MidiP,F.MidiP,France,F.MidiP,F.MidiP,1800,False
+2734,"Fermat, Pierre de",1641,1601.0,1665.0,Science,1600-1800,France,F.MidiP,F.MidiP,France,F.Picar,F.Picar,1600,False
+7277,"Scaliger, Julius",1524,1484.0,1558.0,Science,1400-1600,France,F.MidiP,F.MidiP,Italy,I.Venet,I.Venice,1500,False
+4886,"Lenoir, Jean",1862,1822.0,1900.0,Science,1800+,France,F.noinfo,F.noinfo,Belgium,Belgium,Be.General,1800,False
+2923,"Frechet, Rene",1918,1878.0,1973.0,Science,1800+,France,F.noinfo,F.noinfo,France,F.Bourg,F.Bourg,1900,False
+886,"Blanchard, Jean",1793,1753.0,1809.0,Science,1600-1800,France,F.noinfo,F.noinfo,France,F.HNorm,F.HNorm,1700,False
+6005,"Nicolle, Charles",1906,1866.0,1936.0,Science,1800+,France,F.noinfo,F.noinfo,France,F.HNorm,F.Rouen,1900,False
+4914,"Lesseps, Ferdinand de",1845,1805.0,1894.0,Science,1800+,France,F.noinfo,F.noinfo,France,F.Isle,F.Isle,1800,False
+1066,"Boussingault, Jean",1842,1802.0,1887.0,Science,1800+,France,F.noinfo,F.noinfo,France,F.Isle,F.Paris,1800,False
+1603,"Charcot, Jean",1865,1825.0,1893.0,Science,1800+,France,F.noinfo,F.noinfo,France,F.Isle,F.Paris,1800,False
+4792,"Laveran, Charles",1885,1845.0,1922.0,Science,1800+,France,F.noinfo,F.noinfo,France,F.Isle,F.Paris,1800,False
+2701,"Fauchard, Pierre",1718,1678.0,1761.0,Science,1600-1800,France,F.noinfo,F.noinfo,France,F.noinfo,F.noinfo,1700,False
+4887,"Lenormand, L.S.",1783,,,Science,1600-1800,France,F.noinfo,F.noinfo,France,F.noinfo,F.noinfo,1700,False
+6940,"Riquet de Benrepos, Pierre",1664,,,Science,1600-1800,France,F.noinfo,F.noinfo,France,F.noinfo,F.noinfo,1600,False
+8463,"Vaucanson, Jacques de",1749,1709.0,,Science,1600-1800,France,F.noinfo,F.noinfo,France,F.noinfo,F.noinfo,1700,False
+2143,"Debierne, Andre",1914,1874.0,1949.0,Science,1800+,France,F.noinfo,F.noinfo,France,F.noinfox,F.noinfo,1900,False
+3016,"Gagnan, Emile",1943,,,Science,1800+,France,F.noinfo,F.noinfo,France,F.noinfox,F.noinfo,1900,False
+3168,"Giffard, Henri",1865,1825.0,1888.0,Science,1800+,France,F.noinfo,F.noinfo,France,F.noinfox,F.noinfo,1800,False
+6533,"Pixii, Hippolyte",1835,1808.0,1835.0,Science,1800+,France,F.noinfo,F.noinfo,France,F.noinfox,F.noinfo,1800,False
+7741,"Soubeiran, Eugene",1831,,,Science,1800+,France,F.noinfo,F.noinfo,France,F.noinfox,F.noinfo,1800,False
+897,"Bleriot, Louis",1912,1872.0,1936.0,Science,1800+,France,F.noinfo,F.noinfo,France,F.NordP,F.NordP,1900,False
+1599,"Chappe, Claude",1803,1763.0,1805.0,Science,1800+,France,F.noinfo,F.noinfo,France,F.PaysL,F.PaysL,1800,False
+7091,"Roux, Pierre",1893,1853.0,1933.0,Science,1800+,France,F.noinfo,F.noinfo,France,F.Poito,F.Poito,1800,False
+1407,"Calmette, Albert",1903,1863.0,1933.0,Science,1800+,France,F.noinfo,F.noinfo,France,F.Prove,F.Prove,1900,False
+7722,"Sommeiller, Germain",1855,1815.0,1871.0,Science,1800+,France,F.noinfo,F.noinfo,France,F.Rhone,F.Rhone,1800,False
+9041,"Yersin, Alexandre",1903,1863.0,1943.0,Science,1800+,France,F.noinfo,F.noinfo,Switzerland,Switzerland,Sz.Geneva,1900,False
+6224,"Palissy, Bernard",1554,1514.0,1590.0,Science,1400-1600,France,F.Poito,F.Poito,France,F.MidiP,F.MidiP,1500,False
+953,"Boisbaudran, Paul de",1878,1838.0,1912.0,Science,1800+,France,F.Poito,F.Poito,France,F.Poito,F.Poito,1800,False
+6596,"Pons, Jean",1801,1761.0,1831.0,Science,1800+,France,F.Prove,F.Marseilles,France,F.Rhone,F.Rhone,1800,False
+1623,"Chauliac, Guy de",1330,1290.0,1368.0,Science,1200-1400,France,F.Prove,F.Prove,France,F.Auver,F.Auver,1300,False
+6013,"Niepce, Joseph",1805,1765.0,1833.0,Science,1800+,France,F.Prove,F.Prove,France,F.Bourg,F.Bourg,1800,False
+3065,"Gassendi, Pierre",1632,1592.0,1655.0,Science,1600-1800,France,F.Prove,F.Prove,France,F.Prove,F.Prove,1600,False
+6772,"Raoult, Fran√ßois",1870,1830.0,1901.0,Science,1800+,France,F.Rhone,F.Grenoble,France,F.NordP,F.NordP,1800,False
+3377,"Grignard, F.A.",1911,1871.0,1935.0,Science,1800+,France,F.Rhone,F.Lyon,France,F.BNorm,F.BNorm,1900,False
+5144,Lumiere Brothers,1902,1862.0,1954.0,Science,1800+,France,F.Rhone,F.Lyon,France,F.Franch,F.Besancon,1900,False
+4156,"Jacquard, Joseph",1792,1752.0,1834.0,Science,1600-1800,France,F.Rhone,F.Lyon,France,F.Rhone,F.Lyon,1700,False
+5749,Montgolfier Brothers,1785,1745.0,1799.0,Science,1600-1800,France,F.Rhone,F.Lyon,France,F.Rhone,F.Lyon,1700,False
+7450,"Seguin, Marc",1826,1786.0,1875.0,Science,1800+,France,F.Rhone,F.Rhone,France,F.Rhone,F.Rhone,1800,False
+1264,"Brunschwig, Hieronymus",1490,1450.0,1512.0,Science,1400-1600,France,G.RhPal,G.Strasbourg,Germany,G.RhPal,G.Strasbourg,1400,False
+2930,"Freiberg, Dietrich von",1290,1250.0,1311.0,Science,1200-1400,Germany,G.Baden,G.Freiberg,Germany,G.Baden,G.Freiberg,1200,False
+8913,"Winkler, Clemens",1878,1838.0,1904.0,Science,1800+,Germany,G.Baden,G.Freiberg,Germany,G.Baden,G.Freiberg,1800,False
+8717,"Weismann, August",1874,1834.0,1914.0,Science,1800+,Germany,G.Baden,G.Freiberg,Germany,G.Hesse,G.Frankfurt,1800,False
+8056,"Tacke, Ida (Noddack)",1936,1896.0,,Science,1800+,Germany,G.Baden,G.Freiberg,Germany,G.noinfox,G.Posen,1900,False
+7829,"Staudinger, Hermann",1921,1881.0,1965.0,Science,1800+,Germany,G.Baden,G.Freiberg,Germany,G.RhPal,G.RhPal,1900,False
+5707,"Mohs, Friedrich",1813,1773.0,1839.0,Science,1800+,Germany,G.Baden,G.Freiberg,Germany,G.SaxAn,G.SaxAn,1800,False
+6815,"Reich, Ferdinand",1839,1799.0,1882.0,Science,1800+,Germany,G.Baden,G.Freiberg,Germany,G.SaxAn,G.SaxAn,1800,False
+6910,"Richter, Heironymous",1864,1824.0,1898.0,Science,1800+,Germany,G.Baden,G.Freiberg,Germany,G.Saxon,G.Dresden,1800,False
+4625,"Kuhn, Richard",1940,1900.0,1967.0,Science,1800+,Germany,G.Baden,G.Heidelberg,Austria,A.NE,A.Vienna,1900,False
+4625,"Kuhn, Richard",1940,1900.0,1967.0,Science,1800+,Germany,G.Baden,G.Heidelberg,Austria,A.NE,A.Vienna,1900,False
+8639,"Wankel, Felix",1942,1902.0,1988.0,Science,1800+,Germany,G.Baden,G.Heidelberg,Germany,G.Baden,G.Baden.sw,1900,False
+8947,"Wolf, Maximilian",1903,1863.0,1932.0,Science,1800+,Germany,G.Baden,G.Heidelberg,Germany,G.Baden,G.Heidelberg,1900,False
+1032,"Bothe, Walther",1931,1891.0,1957.0,Science,1800+,Germany,G.Baden,G.Heidelberg,Germany,G.Brand,G.Berlin,1900,False
+5595,"Meyer, Viktor",1888,1848.0,1897.0,Science,1800+,Germany,G.Baden,G.Heidelberg,Germany,G.Brand,G.Berlin,1800,False
+4454,"Kirchhoff, Gustave",1864,1824.0,1887.0,Science,1800+,Germany,G.Baden,G.Heidelberg,Germany,G.EPrus,G.Konigsburg,1800,False
+4882,"Lenard, Philipp",1902,1862.0,1947.0,Science,1800+,Germany,G.Baden,G.Heidelberg,Germany,G.gx,,1900,False
+1304,"Bunsen, Robert",1851,1811.0,1899.0,Science,1800+,Germany,G.Baden,G.Heidelberg,Germany,G.LSaxo,G.Gottingen,1800,False
+1304,"Bunsen, Robert",1851,1811.0,1899.0,Science,1800+,Germany,G.Baden,G.Heidelberg,Germany,G.LSaxo,G.Gottingen,1800,False
+4627,"Kuhne, Wilhelm",1877,1837.0,1900.0,Science,1800+,Germany,G.Baden,G.Heidelberg,Germany,G.LSaxo,G.Hamburg,1800,False
+1356,"Butenandt, Adolf",1943,1903.0,1995.0,Science,1800+,Germany,G.Baden,G.Heidelberg,Germany,G.LSaxo,G.LSaxo,1900,False
+6525,"Pitiscus, Bartholomew",1601,1561.0,1613.0,Science,1600-1800,Germany,G.Baden,G.Heidelberg,Germany,G.Siles,G.Siles,1600,False
+4518,"Kolreuter, Joseph",1773,1733.0,1806.0,Science,1600-1800,Germany,G.Baden,G.Karlsruhe,Germany,G.Baden,G.Baden,1700,False
+3790,"Hertz, Heinrich",1894,1857.0,1894.0,Science,1800+,Germany,G.Baden,G.Karlsruhe,Germany,G.LSaxo,G.Hamburg,1800,False
+2676,"Fajans, Kasimir",1927,1887.0,1975.0,Science,1800+,Germany,G.Baden,G.Karlsruhe,Poland,Poland,Po.Warsa,1900,False
+699,"Benz, Carl",1884,1844.0,1929.0,Science,1800+,Germany,G.Baden,G.Mannheim,Germany,G.Baden,G.Karlsruhe,1800,False
+5440,"Maybach, Wilhelm",1886,1846.0,1929.0,Science,1800+,Germany,G.Baden,G.Stuttgart,Germany,G.Baden,G.Baden,1800,False
+114,"Alberti, Friedrich von",1835,1795.0,1878.0,Science,1800+,Germany,G.Baden,G.Stuttgart,Germany,G.Baden,G.Stuttgart,1800,False
+2026,"Daimler, Gottlieb",1874,1834.0,1900.0,Science,1800+,Germany,G.Baden,G.Stuttgart,Germany,G.Baden,G.Stuttgart,1800,False
+4017,"Huckel, Erich",1936,1896.0,1980.0,Science,1800+,Germany,G.Baden,G.Stuttgart,Germany,G.Brand,G.Berlin,1900,False
+5446,"Mayer, Julius  von",1854,1814.0,1878.0,Science,1800+,Germany,G.Baden,G.Tubingen,Germany,G.Baden,G.Baden,1800,False
+7309,"Schickard, Wilhelm",1632,1592.0,1635.0,Science,1600-1800,Germany,G.Baden,G.Tubingen,Germany,G.Baden,G.Baden,1600,False
+3950,"Hoppe-Seyler, Felix",1865,1825.0,1895.0,Science,1800+,Germany,G.Baden,G.Tubingen,Germany,G.Baden,G.Freiberg,1800,False
+5701,"Mohl, Hugo von",1845,1805.0,1872.0,Science,1800+,Germany,G.Baden,G.Tubingen,Germany,G.Baden,G.Stuttgart,1800,False
+1412,"Camerarius, Rudolph",1705,1665.0,1721.0,Science,1600-1800,Germany,G.Baden,G.Tubingen,Germany,G.Baden,G.Tubingen,1700,False
+2991,"Fuchs, Leonhart",1541,1501.0,1566.0,Science,1400-1600,Germany,G.Baden,G.Tubingen,Germany,G.Bavar,G.Bavar,1500,False
+1878,"Correns, Karl",1904,1864.0,1933.0,Science,1800+,Germany,G.Baden,G.Tubingen,Germany,G.Bavar,G.Munich,1900,False
+1128,"Braun, Karl",1890,1850.0,1918.0,Science,1800+,Germany,G.Baden,G.Tubingen,Germany,G.Hesse,G.Hesse,1800,False
+1128,"Braun, Karl",1890,1850.0,1918.0,Science,1800+,Germany,G.Baden,G.Tubingen,Germany,G.Hesse,G.Hesse,1800,False
+5593,"Meyer, Julius",1870,1830.0,1895.0,Science,1800+,Germany,G.Baden,G.Tubingen,Germany,G.LSaxo,G.LSaxo,1800,False
+3538,"Hankel, Hermann",1873,1839.0,1873.0,Science,1800+,Germany,G.Baden,G.Tubingen,Germany,G.Saxon,G.Leipzig,1800,False
+576,"Bayer, Johann",1612,1572.0,1625.0,Science,1600-1800,Germany,G.Bavar,G.Augsburg,Germany,G.Bavar,G.Bavar,1600,False
+7353,"Schonbein, Christian",1839,1799.0,1868.0,Science,1800+,Germany,G.Bavar,G.Bavar,Germany,G.Baden,G.Baden,1800,False
+117,"Albertus Magnus, St.",1240,1200.0,1280.0,Science,1200-1400,Germany,G.Bavar,G.Bavar,Germany,G.Bavar,G.Bavar,1200,False
+8879,"Willstatter, Richard",1912,1872.0,1942.0,Science,1800+,Germany,G.Bavar,G.Munich,Germany,G.Baden,G.Karlsruhe,1900,False
+1070,"Boveri, Theodor",1902,1862.0,1915.0,Science,1800+,Germany,G.Bavar,G.Munich,Germany,G.Bavar,G.Bavar,1900,False
+2920,"Fraunhofer, Joseph von",1826,1787.0,1826.0,Science,1800+,Germany,G.Bavar,G.Munich,Germany,G.Bavar,G.Bavar,1800,False
+6115,"Ohm, Georg",1829,1789.0,1854.0,Science,1800+,Germany,G.Bavar,G.Munich,Germany,G.Bavar,G.Bavar,1800,False
+6447,"Pettenkofer, Max von",1858,1818.0,1901.0,Science,1800+,Germany,G.Bavar,G.Munich,Germany,G.Bavar,G.Bavar,1800,False
+7723,"Sommerfeld, Arnold",1908,1868.0,1951.0,Science,1800+,Germany,G.Bavar,G.Munich,Germany,G.EPrus,G.Konigsburg,1900,False
+2776,"Fischer, Hans",1921,1881.0,1945.0,Science,1800+,Germany,G.Bavar,G.Munich,Germany,G.Hesse,G.Frankfurt,1900,False
+4998,"Lindemann, Carl von",1892,1852.0,1939.0,Science,1800+,Germany,G.Bavar,G.Munich,Germany,G.LSaxo,G.Hanover,1800,False
+4995,"Linde, Carl von",1882,1842.0,1934.0,Science,1800+,Germany,G.Bavar,G.Munich,Germany,G.Saxon,G.Saxon,1800,False
+4995,"Linde, Carl von",1882,1842.0,1934.0,Science,1800+,Germany,G.Bavar,G.Munich,Germany,G.Saxon,G.Saxon,1800,False
+3465,"Haber, Fritz",1908,1868.0,1934.0,Science,1800+,Germany,G.Bavar,G.Munich,Germany,G.Siles,G.Breslau,1900,False
+5072,"London, Fritz",1940,1900.0,1954.0,Science,1800+,Germany,G.Bavar,G.Munich,Germany,G.Siles,G.Breslau,1900,False
+6948,"Ritter, Johann",1810,1776.0,1810.0,Science,1800+,Germany,G.Bavar,G.Munich,Germany,G.Siles,G.Siles,1800,False
+3608,"Hartmann, Georg",1529,1489.0,1564.0,Science,1400-1600,Germany,G.Bavar,G.Nuremburg,Germany,G.Bavar,G.Bavar,1500,False
+6999,"Rontgen, Wilhelm",1885,1845.0,1923.0,Science,1800+,Germany,G.Bavar,G.Wurzburg,Germany,G.NRhWe,G.NRhWe,1800,False
+7180,"Sachs, Julius von",1872,1832.0,1897.0,Science,1800+,Germany,G.Bavar,G.Wurzburg,Germany,G.Siles,G.Breslau,1800,False
+5518,"Meitner, Lise",1918,1878.0,1968.0,Science,1800+,Germany,G.Brand,G.Berlin,Austria,A.NE,A.Vienna,1900,False
+6238,"Paneth, Friedrich",1927,1887.0,1958.0,Science,1800+,Germany,G.Brand,G.Berlin,Austria,A.NE,A.Vienna,1900,False
+7380,"Schrodinger, Erwin",1927,1887.0,1961.0,Science,1800+,Germany,G.Brand,G.Berlin,Austria,A.NE,A.Vienna,1900,False
+8644,"Warburg, Otto",1923,1883.0,1970.0,Science,1800+,Germany,G.Brand,G.Berlin,Germany,G.Baden,G.Freiberg,1900,False
+7140,"Ruska, Ernst",1946,1906.0,1988.0,Science,1800+,Germany,G.Brand,G.Berlin,Germany,G.Baden,G.Heidelberg,1900,False
+7754,"Spemann, Hans",1909,1869.0,1941.0,Science,1800+,Germany,G.Brand,G.Berlin,Germany,G.Baden,G.Stuttgart,1900,False
+3723,"Henle, Friedrich",1849,1809.0,1885.0,Science,1800+,Germany,G.Brand,G.Berlin,Germany,G.Bavar,G.Bavar,1800,False
+7804,"Stahl, Georg",1700,1660.0,1734.0,Science,1600-1800,Germany,G.Brand,G.Berlin,Germany,G.Bavar,G.Bavar,1700,False
+8661,"Wassermann, August von",1906,1866.0,1925.0,Science,1800+,Germany,G.Brand,G.Berlin,Germany,G.Bavar,G.Bavar,1900,False
+407,"Baeyer, Johann von",1875,1835.0,1917.0,Science,1800+,Germany,G.Brand,G.Berlin,Germany,G.Brand,G.Berlin,1800,False
+2380,"Du Bois-Reymond, Emil",1858,1818.0,1896.0,Science,1800+,Germany,G.Brand,G.Berlin,Germany,G.Brand,G.Berlin,1800,False
+2857,"Forssmann, Werner",1944,1904.0,1979.0,Science,1800+,Germany,G.Brand,G.Berlin,Germany,G.Brand,G.Berlin,1900,False
+2974,"Frobenius, Georg",1889,1849.0,1917.0,Science,1800+,Germany,G.Brand,G.Berlin,Germany,G.Brand,G.Berlin,1800,False
+4148,"Jacobi, Carl",1844,1804.0,1851.0,Science,1800+,Germany,G.Brand,G.Berlin,Germany,G.Brand,G.Berlin,1800,False
+5318,"Marggraf, Andreas",1749,1709.0,1782.0,Science,1600-1800,Germany,G.Brand,G.Berlin,Germany,G.Brand,G.Berlin,1700,False
+6043,"Noddack, Walter",1933,1893.0,1960.0,Science,1800+,Germany,G.Brand,G.Berlin,Germany,G.Brand,G.Berlin,1900,False
+8698,"Wegener, Alfred",1920,1880.0,1930.0,Science,1800+,Germany,G.Brand,G.Berlin,Germany,G.Brand,G.Berlin,1900,False
+8948,"Wolff, Caspar",1774,1734.0,1794.0,Science,1600-1800,Germany,G.Brand,G.Berlin,Germany,G.Brand,G.Berlin,1700,False
+1271,"Buch, Leopold von",1814,1774.0,1853.0,Science,1800+,Germany,G.Brand,G.Berlin,Germany,G.Brand,G.Brand,1800,False
+7787,"Sprengel, Conrad",1790,1750.0,1816.0,Science,1600-1800,Germany,G.Brand,G.Berlin,Germany,G.Brand,G.Brand,1700,False
+2244,"Diesel, Rudolf",1898,1858.0,1913.0,Science,1800+,Germany,G.Brand,G.Berlin,Germany,G.gx,,1800,False
+3481,"Hahn, Otto",1919,1879.0,1968.0,Science,1800+,Germany,G.Brand,G.Berlin,Germany,G.Hesse,G.Frankfurt,1900,False
+5057,"Loffler, Friedrich",1892,1852.0,1915.0,Science,1800+,Germany,G.Brand,G.Berlin,Germany,G.Hesse,G.Frankfurt,1800,False
+927,"Bode, Johann",1787,1747.0,1826.0,Science,1600-1800,Germany,G.Brand,G.Berlin,Germany,G.LSaxo,G.Hamburg,1700,False
+2553,"Encke, Johann",1831,1791.0,1865.0,Science,1800+,Germany,G.Brand,G.Berlin,Germany,G.LSaxo,G.Hamburg,1800,False
+7589,"Siemens, Ernst",1856,1816.0,1892.0,Science,1800+,Germany,G.Brand,G.Berlin,Germany,G.LSaxo,G.Hanover,1800,False
+4513,"Koch, Robert",1883,1843.0,1910.0,Science,1800+,Germany,G.Brand,G.Berlin,Germany,G.LSaxo,G.LSaxo,1800,False
+5686,"Mitscherlich, Eilhard",1834,1794.0,1863.0,Science,1800+,Germany,G.Brand,G.Berlin,Germany,G.LSaxo,G.LSaxo,1800,False
+4562,"Kossel, Karl",1893,1853.0,1927.0,Science,1800+,Germany,G.Brand,G.Berlin,Germany,G.Meckl,G.Meckl,1800,False
+8529,"Virchow, Rudolph",1861,1821.0,1902.0,Science,1800+,Germany,G.Brand,G.Berlin,Germany,G.Meckl,G.Meckl,1800,False
+814,"Biermann, Ludwig",1947,1907.0,1986.0,Science,1800+,Germany,G.Brand,G.Berlin,Germany,G.NRhWe,G.NRhWe,1900,False
+2773,"Fischer, Emil",1892,1852.0,1919.0,Science,1800+,Germany,G.Brand,G.Berlin,Germany,G.NRhWe,G.NRhWe,1800,False
+4779,"Laue, Max von",1919,1879.0,1960.0,Science,1800+,Germany,G.Brand,G.Berlin,Germany,G.NRhWe,G.NRhWe,1900,False
+5858,"Muller, Johannes",1841,1801.0,1858.0,Science,1800+,Germany,G.Brand,G.Berlin,Germany,G.NRhWe,G.NRhWe,1800,False
+8704,"Weierstrass, Karl",1855,1815.0,1897.0,Science,1800+,Germany,G.Brand,G.Berlin,Germany,G.NRhWe,G.NRhWe,1800,False
+4466,"Klaproth, Martin",1783,1743.0,1817.0,Science,1600-1800,Germany,G.Brand,G.Berlin,Germany,G.SaxAn,G.SaxAn,1700,False
+3033,"Galle, Johann",1852,1812.0,1910.0,Science,1800+,Germany,G.Brand,G.Berlin,Germany,G.SaxAn,G.Wittenberg,1800,False
+6357,"Penck, Albrecht",1898,1858.0,1945.0,Science,1800+,Germany,G.Brand,G.Berlin,Germany,G.Saxon,G.Leipzig,1800,False
+8542,"Vogel, Hermann",1882,1842.0,1907.0,Science,1800+,Germany,G.Brand,G.Berlin,Germany,G.Saxon,G.Leipzig,1800,False
+4865,"Lehmann, Johann",1759,1719.0,1767.0,Science,1600-1800,Germany,G.Brand,G.Berlin,Germany,G.Saxon,G.Saxon,1700,False
+6537,"Planck, Max",1898,1858.0,1947.0,Science,1800+,Germany,G.Brand,G.Berlin,Germany,G.Schle,G.Kiel,1800,False
+7136,"Runge, Friedlieb",1834,1794.0,1867.0,Science,1800+,Germany,G.Brand,G.Berlin,Germany,G.Schle,G.Lubeck,1800,False
+6286,"Pasch, Moritz",1883,1843.0,1930.0,Science,1800+,Germany,G.Brand,G.Berlin,Germany,G.Siles,G.Breslau,1800,False
+2498,"Ehrlich, Paul",1894,1854.0,1915.0,Science,1800+,Germany,G.Brand,G.Berlin,Germany,G.Siles,G.Siles,1800,False
+3253,"Goldstein, Eugen",1890,1850.0,1930.0,Science,1800+,Germany,G.Brand,G.Berlin,Germany,G.Siles,G.Siles,1800,False
+4604,"Kronecker, Leopold",1863,1823.0,1891.0,Science,1800+,Germany,G.Brand,G.Berlin,Germany,G.Siles,G.Siles,1800,False
+6834,"Remak, Robert",1855,1815.0,1865.0,Science,1800+,Germany,G.Brand,G.Berlin,Germany,G.Siles,G.Siles,1800,False
+3905,"Hoffmann, August von",1858,1818.0,1892.0,Science,1800+,Germany,G.Brand,G.Berlin,Germany,G.Thuri,G.Thuri,1800,False
+1733,"Clausius, Rudolf",1862,1822.0,1888.0,Science,1800+,Germany,G.Brand,G.Berlin,Germany,G.WPrus,G.Posen,1800,False
+628,"Behring, Emil von",1894,1854.0,1917.0,Science,1800+,Germany,G.Brand,G.Berlin,Germany,G.WPrus,G.WPrus,1800,False
+7850,"Steiner, Jakob",1836,1796.0,1863.0,Science,1800+,Germany,G.Brand,G.Berlin,Switzerland,Switzerland,Sz.General,1800,False
+3711,"Helmholtz, Hermann",1861,1821.0,1894.0,Science,1800+,Germany,G.EPrus,G.Konigsburg,Germany,G.Brand,G.Berlin,1800,False
+3711,"Helmholtz, Hermann",1861,1821.0,1894.0,Science,1800+,Germany,G.EPrus,G.Konigsburg,Germany,G.Brand,G.Berlin,1800,False
+3711,"Helmholtz, Hermann",1861,1821.0,1894.0,Science,1800+,Germany,G.EPrus,G.Konigsburg,Germany,G.Brand,G.Berlin,1800,False
+282,"Argelander, Friedrich",1839,1799.0,1875.0,Science,1800+,Germany,G.EPrus,G.Konigsburg,Germany,G.EPrus,G.Konigsburg,1800,False
+4332,"Kant, Immanuel",1764,1724.0,1804.0,Science,1600-1800,Germany,G.EPrus,G.Konigsburg,Germany,G.EPrus,G.Konigsburg,1700,False
+406,"Baer, Karl von",1832,1792.0,1876.0,Science,1800+,Germany,G.EPrus,G.Konigsburg,Germany,G.gx,,1800,False
+781,"Bessel, Friedrich",1824,1784.0,1846.0,Science,1800+,Germany,G.EPrus,G.Konigsburg,Germany,G.NRhWe,G.NRhWe,1800,False
+1317,"Burdach, Karl",1816,1776.0,1847.0,Science,1800+,Germany,G.EPrus,G.Konigsburg,Germany,G.Saxon,G.Leipzig,1800,False
+4042,"Humboldt, Alexander von",1809,1769.0,1859.0,Science,1800+,Germany,G.gx,G.gx,Germany,G.Brand,G.Berlin,1800,False
+2332,"Dorn, Friedrich",1888,1848.0,1916.0,Science,1800+,Germany,G.Hesse,G.Darmstadt,Germany,G.EPrus,G.EPrus,1800,False
+7321,"Schleiden, Matthias",1844,1804.0,1881.0,Science,1800+,Germany,G.Hesse,G.Frankfurt,Germany,G.LSaxo,G.Hamburg,1800,False
+1325,"Burgi, Justus",1592,1552.0,1632.0,Science,1400-1600,Germany,G.Hesse,G.Hesse,Austria,A.SW,A.SW,1500,False
+7471,"Senefelder, Aloys",1811,1771.0,1834.0,Science,1800+,Germany,G.Hesse,G.Hesse,Czech,C.Bohem,C.Prague,1800,False
+9128,"Zsigmondy, Richard",1905,1865.0,1929.0,Science,1800+,Germany,G.LSaxo,G.Gottingen,Austria,A.NE,A.Vienna,1900,False
+5445,"Mayer, Johann",1762,1723.0,1762.0,Science,1600-1800,Germany,G.LSaxo,G.Gottingen,Germany,G.Baden,G.Stuttgart,1700,False
+6045,"Noether, Emmy",1922,1882.0,1935.0,Science,1800+,Germany,G.LSaxo,G.Gottingen,Germany,G.Bavar,G.Bavar,1900,False
+6642,"Prandtl, Ludwig",1915,1875.0,1953.0,Science,1800+,Germany,G.LSaxo,G.Gottingen,Germany,G.Bavar,G.Bavar,1900,False
+8910,"Windaus, Adolf",1916,1876.0,1959.0,Science,1800+,Germany,G.LSaxo,G.Gottingen,Germany,G.Brand,G.Berlin,1900,False
+9100,"Zermelo, Ernst",1911,1871.0,1953.0,Science,1800+,Germany,G.LSaxo,G.Gottingen,Germany,G.Brand,G.Berlin,1900,False
+3836,"Hilbert, David",1902,1862.0,1943.0,Science,1800+,Germany,G.LSaxo,G.Gottingen,Germany,G.EPrus,G.Konigsburg,1900,False
+8609,"Wallach, Otto",1887,1847.0,1931.0,Science,1800+,Germany,G.LSaxo,G.Gottingen,Germany,G.EPrus,G.Konigsburg,1800,False
+7408,"Schwarzschild, Karl",1913,1873.0,1916.0,Science,1800+,Germany,G.LSaxo,G.Gottingen,Germany,G.Hesse,G.Frankfurt,1900,False
+8942,"Wohler, Friedrich",1840,1800.0,1882.0,Science,1800+,Germany,G.LSaxo,G.Gottingen,Germany,G.Hesse,G.Frankfurt,1800,False
+7939,"Stromeyer, Friedrich",1816,1776.0,1835.0,Science,1800+,Germany,G.LSaxo,G.Gottingen,Germany,G.LSaxo,G.Gottingen,1800,False
+2900,"Franck, James",1922,1882.0,1964.0,Science,1800+,Germany,G.LSaxo,G.Gottingen,Germany,G.LSaxo,G.Hamburg,1900,False
+2150,"Dedekind, Richard",1871,1831.0,1916.0,Science,1800+,Germany,G.LSaxo,G.Gottingen,Germany,G.LSaxo,G.LSaxo,1800,False
+3076,"Gauss, Carl",1817,1777.0,1855.0,Science,1800+,Germany,G.LSaxo,G.Gottingen,Germany,G.LSaxo,G.LSaxo,1800,False
+3076,"Gauss, Carl",1817,1777.0,1855.0,Science,1800+,Germany,G.LSaxo,G.Gottingen,Germany,G.LSaxo,G.LSaxo,1800,False
+6925,"Riemann, Bernhard",1866,1826.0,1866.0,Science,1800+,Germany,G.LSaxo,G.Gottingen,Germany,G.LSaxo,G.LSaxo,1800,False
+4473,"Klein, Christian",1889,1849.0,1925.0,Science,1800+,Germany,G.LSaxo,G.Gottingen,Germany,G.NRhWe,G.Dusseldorf,1800,False
+2271,"Dirichlet, Gustav",1845,1805.0,1859.0,Science,1800+,Germany,G.LSaxo,G.Gottingen,Germany,G.NRhWe,G.NRhWe,1800,False
+5665,"Minkowski, Hermann",1904,1864.0,1909.0,Science,1800+,Germany,G.LSaxo,G.Gottingen,Germany,G.RhPal,G.Strasbourg,1900,False
+8685,"Weber, Wilhelm",1844,1804.0,1891.0,Science,1800+,Germany,G.LSaxo,G.Gottingen,Germany,G.SaxAn,G.Wittenberg,1800,False
+8685,"Weber, Wilhelm",1844,1804.0,1891.0,Science,1800+,Germany,G.LSaxo,G.Gottingen,Germany,G.SaxAn,G.Wittenberg,1800,False
+8764,"Weyl, Hermann",1925,1885.0,1955.0,Science,1800+,Germany,G.LSaxo,G.Gottingen,Germany,G.Schle,G.Schle,1900,False
+1009,"Born, Max",1922,1882.0,1970.0,Science,1800+,Germany,G.LSaxo,G.Gottingen,Germany,G.Siles,G.Breslau,1900,False
+916,"Blumenbach, Johann",1792,1752.0,1840.0,Science,1600-1800,Germany,G.LSaxo,G.Gottingen,Germany,G.Thuri,G.Thuri,1700,False
+5957,"Nernst, Hermann",1904,1864.0,1941.0,Science,1800+,Germany,G.LSaxo,G.Gottingen,Germany,G.WPrus,G.Posen,1900,False
+7872,"Stern, Otto",1928,1888.0,1969.0,Science,1800+,Germany,G.LSaxo,G.Hamburg,Germany,G.Brand,G.Brand,1900,False
+1115,"Brand, Hennig",1650,,,Science,1600-1800,Germany,G.LSaxo,G.Hamburg,Germany,G.LSaxo,G.Hamburg,1600,False
+4213,"Jensen, Johannes",1947,1907.0,1973.0,Science,1800+,Germany,G.LSaxo,G.Hanover,Germany,G.LSaxo,G.Hamburg,1900,False
+4868,"Leibniz, Gottfried",1686,1646.0,1716.0,Science,1600-1800,Germany,G.LSaxo,G.Hanover,Germany,G.Saxon,G.Leipzig,1600,False
+4868,"Leibniz, Gottfried",1686,1646.0,1716.0,Science,1600-1800,Germany,G.LSaxo,G.Hanover,Germany,G.Saxon,G.Leipzig,1600,False
+7485,"Serturner, Friedrich",1823,1783.0,1841.0,Science,1800+,Germany,G.LSaxo,G.LSaxo,Czech,C.Morav,C.Morav,1800,False
+2660,"Fabricius, David",1604,1564.0,1617.0,Science,1600-1800,Germany,G.LSaxo,G.LSaxo,Germany,G.LSaxo,G.LSaxo,1600,False
+3103,"Geitel, Hans",1895,1855.0,1923.0,Science,1800+,Germany,G.LSaxo,G.LSaxo,Germany,G.LSaxo,G.LSaxo,1800,False
+6123,"Olbers, Heinrich",1798,1758.0,1840.0,Science,1600-1800,Germany,G.LSaxo,G.LSaxo,Germany,G.LSaxo,G.LSaxo,1700,False
+8303,"Treviranus, Goffried",1816,1776.0,1837.0,Science,1800+,Germany,G.LSaxo,G.LSaxo,Germany,G.LSaxo,G.LSaxo,1800,False
+2538,"Elster, Johann",1894,1854.0,1920.0,Science,1800+,Germany,G.LSaxo,G.LSaxo,Germany,G.Thuri,G.Thuri,1800,False
+3328,"Grassmann, Hermann",1849,1809.0,1877.0,Science,1800+,Germany,G.Meckl,G.Meckl,Germany,G.Meckl,G.Meckl,1800,False
+4481,"Kleist, Ewald von",1740,1700.0,1748.0,Science,1600-1800,Germany,G.Meckl,G.Meckl,Germany,G.Meckl,G.Meckl,1700,False
+9098,"Zeppelin, Ferdinand von",1878,1838.0,1917.0,Science,1800+,Germany,G.noinfo,G.noinfo,Germany,G.Baden,G.Baden,1800,False
+4471,"Klebs, Edwin",1873,1833.0,1913.0,Science,1800+,Germany,G.noinfo,G.noinfo,Germany,G.EPrus,G.Konigsburg,1800,False
+4453,"Kircher, Athanasius",1642,1602.0,1680.0,Science,1600-1800,Germany,G.noinfo,G.noinfo,Germany,G.Hesse,G.Hesse,1600,False
+4983,"Lilienthal, Otto",1888,1848.0,1896.0,Science,1800+,Germany,G.noinfo,G.noinfo,Germany,G.Meckl,G.Meckl,1800,False
+1783,"Cohnheim, Julius",1879,1839.0,1884.0,Science,1800+,Germany,G.noinfo,G.noinfo,Germany,G.Meckl,G.Meckl.c,1800,False
+3724,"Henlein, Peter",1502,,,Science,1400-1600,Germany,G.noinfo,G.noinfo,Germany,G.noinfo,G.noinfo,1500,False
+5570,"Mesmer, Franz",1774,1734.0,1815.0,Science,1600-1800,Germany,G.noinfo,G.noinfo,Germany,G.noinfo,G.noinfo,1700,False
+706,"Berg, Otto",1925,,,Science,1800+,Germany,G.noinfo,G.noinfo,Germany,G.noinfox,G.noinfo,1900,False
+2671,"Fahlberg, Constantin",1890,1850.0,1910.0,Science,1800+,Germany,G.noinfo,G.noinfo,Germany,G.noinfox,G.noinfo,1800,False
+3698,"Heitler, Walter",1944,1904.0,1981.0,Science,1800+,Germany,G.noinfo,G.noinfo,Germany,G.noinfox,G.noinfo,1900,False
+5124,"Lowig, Carl",1843,1803.0,1890.0,Science,1800+,Germany,G.noinfo,G.noinfo,Germany,G.noinfox,G.noinfo,1800,False
+5862,"Muller, Walther",1928,,,Science,1800+,Germany,G.noinfo,G.noinfo,Germany,G.noinfox,G.noinfo,1900,False
+7113,"Ruedenberg, Reinhold",1923,1883.0,1961.0,Science,1800+,Germany,G.noinfo,G.noinfo,Germany,G.noinfox,G.noinfo,1900,False
+7340,"Schmidt, Paul",1942,,,Science,1800+,Germany,G.noinfo,G.noinfo,Germany,G.noinfox,G.noinfo,1900,False
+8404,"Unverdorben, Otto",1846,1806.0,1873.0,Science,1800+,Germany,G.noinfo,G.noinfo,Germany,G.noinfox,G.noinfo,1800,False
+234,"Anschutz-Kampfer, Hermann",1912,1872.0,1931.0,Science,1800+,Germany,G.noinfo,G.noinfo,Germany,G.noinfox,G.noinfox,1900,False
+2508,"Einhorn, Alfred",1904,,,Science,1800+,Germany,G.noinfo,G.noinfo,Germany,G.noinfox,G.Posen,1900,False
+7925,"Strassman, Friedrich",1942,1902.0,1980.0,Science,1800+,Germany,G.noinfo,G.noinfo,Germany,G.RhPal,G.RhPal,1900,False
+1036,"Bottger, Johann",1719,1682.0,1719.0,Science,1600-1800,Germany,G.noinfo,G.noinfo,Germany,G.Saxon,G.Saxon,1700,False
+2334,"Dornberger, Walter",1935,1895.0,1980.0,Science,1800+,Germany,G.noinfo,G.noinfo,Germany,G.Thuri,G.Thuri,1900,False
+6463,"Pfeffer, Wilhelm",1885,1845.0,1920.0,Science,1800+,Germany,G.NRhWe,G.Bonn,Germany,G.Hesse,G.Hesse,1800,False
+5704,"Mohr, Carl",1846,1806.0,1879.0,Science,1800+,Germany,G.NRhWe,G.Bonn,Germany,G.NRhWe,G.NRhWe,1800,False
+6560,"Plucker, Julius",1841,1801.0,1868.0,Science,1800+,Germany,G.NRhWe,G.Bonn,Germany,G.NRhWe,G.NRhWe,1800,False
+3638,"Hausdorff, Felix",1908,1868.0,1942.0,Science,1800+,Germany,G.NRhWe,G.Bonn,Germany,G.Siles,G.Breslau,1900,False
+3102,"Geissler, Johann",1855,1815.0,1879.0,Science,1800+,Germany,G.NRhWe,G.Bonn,Germany,G.Thuri,G.Thuri,1800,False
+6189,"Otto, Nikolaus",1872,1832.0,1891.0,Science,1800+,Germany,G.NRhWe,G.Cologne,Germany,G.Hesse,G.Hesse,1800,False
+7399,"Schwann, Theodor",1850,1810.0,1882.0,Science,1800+,Germany,G.NRhWe,G.Cologne,Germany,G.NRhWe,G.NRhWe,1800,False
+7822,"Stark, Johannes",1914,1874.0,1957.0,Science,1800+,Germany,G.NRhWe,G.NRhWe,Germany,G.Bavar,G.Bavar,1900,False
+8816,"Wien, Wilhelm",1904,1864.0,1928.0,Science,1800+,Germany,G.NRhWe,G.NRhWe,Germany,G.EPrus,G.EPrus,1900,False
+9106,"Ziegler, Karl",1938,1898.0,1973.0,Science,1800+,Germany,G.NRhWe,G.NRhWe,Germany,G.Hesse,G.Hesse,1900,False
+714,"Bergius, Friedrich",1924,1884.0,1949.0,Science,1800+,Germany,G.NRhWe,G.NRhWe,Germany,G.Siles,G.Breslau,1900,False
+2308,"Domagk, Gerhard",1935,1895.0,1964.0,Science,1800+,Germany,G.NRhWe,G.NRhWe,Germany,G.Siles,G.Siles,1900,False
+597,"Becher, Johann",1675,1635.0,1682.0,Science,1600-1800,Germany,G.RhPal,G.RhPal,Germany,G.RhPal,G.RhPal,1600,False
+3448,"Gutenberg, Johannes",1430,1390.0,1468.0,Science,1400-1600,Germany,G.RhPal,G.RhPal,Germany,G.RhPal,G.RhPal,1400,False
+3447,"Gutenberg, Beno",1929,1889.0,1960.0,Science,1800+,Germany,G.RhPal,G.Strasbourg,Germany,G.Hesse,G.Darmstadt,1900,False
+1257,"Brunfels, Otto",1529,1489.0,1534.0,Science,1400-1600,Germany,G.RhPal,G.Strasbourg,Germany,G.RhPal,G.RhPal,1500,False
+7409,"Schweigger, Johann",1819,1779.0,1857.0,Science,1800+,Germany,G.SaxAn,G.Halle,Germany,G.Bavar,G.Bavar,1800,False
+2460,"Eberth, Karl",1875,1835.0,1926.0,Science,1800+,Germany,G.SaxAn,G.Halle,Germany,G.Bavar,G.Wurzburg,1800,False
+3691,"Heine, Heinrich E.",1852,1812.0,1881.0,Science,1800+,Germany,G.SaxAn,G.Halle,Germany,G.Brand,G.Berlin,1800,False
+1444,"Cantor, Georg",1885,1845.0,1918.0,Science,1800+,Germany,G.SaxAn,G.Halle,Russia,R.SPete,,1800,False
+7398,"Schwabe, Samuel",1829,1789.0,1875.0,Science,1800+,Germany,G.SaxAn,G.SaxAn,Germany,G.SaxAn,G.SaxAn,1800,False
+6871,"Rheticus, Georg",1554,1514.0,1576.0,Science,1400-1600,Germany,G.SaxAn,G.Wittenberg,Austria,A.SW,A.SW,1500,False
+1660,"Chladni, Ernst",1796,1756.0,1827.0,Science,1600-1800,Germany,G.SaxAn,G.Wittenberg,Germany,G.SaxAn,G.Wittenberg,1700,False
+1861,"Cordus, Valerius",1544,1515.0,1544.0,Science,1400-1600,Germany,G.SaxAn,G.Wittenberg,Germany,G.Thuri,G.Thuri,1500,False
+6830,"Reinhold, Erasmus",1551,1511.0,1553.0,Science,1400-1600,Germany,G.SaxAn,G.Wittenberg,Germany,G.Thuri,G.Thuri,1500,False
+8253,"Titius, Johann",1769,1729.0,1796.0,Science,1600-1800,Germany,G.SaxAn,G.Wittenberg,Germany,G.Thuri,G.Thuri,1700,False
+8331,"Tschirnhaus, Ehrenfried",1691,1651.0,1708.0,Science,1600-1800,Germany,G.Saxon,G.Dresden,Germany,G.Saxon,G.Saxon,1600,False
+8806,"Widman, Johannes",1498,1462.0,1498.0,Science,1400-1600,Germany,G.Saxon,G.Leipzig,Czech,C.Bohem,C.Bohem,1400,False
+9003,"Wundt, Wilhelm",1872,1832.0,1920.0,Science,1800+,Germany,G.Saxon,G.Leipzig,Germany,G.Baden,G.Baden,1800,False
+6818,"Reichenbach, Karl",1828,1788.0,1869.0,Science,1800+,Germany,G.Saxon,G.Leipzig,Germany,G.Baden,G.Stuttgart,1800,False
+3695,Heisenberg,1941,1901.0,1976.0,Science,1800+,Germany,G.Saxon,G.Leipzig,Germany,G.Bavar,G.Wurzburg,1900,False
+5137,"Ludwig, Karl",1856,1816.0,1895.0,Science,1800+,Germany,G.Saxon,G.Leipzig,Germany,G.Hesse,G.Hesse,1800,False
+4535,"Kolbe, Adolf",1858,1818.0,1884.0,Science,1800+,Germany,G.Saxon,G.Leipzig,Germany,G.LSaxo,G.Gottingen,1800,False
+1021,"Bosch, Carl",1914,1874.0,1940.0,Science,1800+,Germany,G.Saxon,G.Leipzig,Germany,G.NRhWe,G.Cologne,1900,False
+2711,"Fechner, Gustav",1841,1801.0,1887.0,Science,1800+,Germany,G.Saxon,G.Leipzig,Germany,G.SaxAn,G.Halle,1800,False
+5694,"Mobius, August",1830,1790.0,1868.0,Science,1800+,Germany,G.Saxon,G.Leipzig,Germany,G.SaxAn,G.SaxAn,1800,False
+247,"Apian, Peter (Bennewitz)",1535,1495.0,1552.0,Science,1400-1600,Germany,G.Saxon,G.Leipzig,Germany,G.Saxon,G.Saxon,1500,False
+3482,"Hahnemann, Christian",1795,1755.0,1843.0,Science,1600-1800,Germany,G.Saxon,G.Leipzig,Germany,G.Saxon,G.Saxon,1700,False
+6182,"Ostwald, Wilhelm",1893,1853.0,1932.0,Science,1800+,Germany,G.Saxon,G.Leipzig,Russia,R.Latvi,R.Latvi,1800,False
+87,Agricola (Georg Bauer),1534,1494.0,1555.0,Science,1400-1600,Germany,G.Saxon,G.Saxon,Germany,G.Saxon,G.Saxon,1500,False
+3416,"Guericke, Otto von",1642,1602.0,1686.0,Science,1600-1800,Germany,G.Saxon,G.Saxon,Germany,G.Saxon,G.Saxon,1600,False
+8746,"Werner, Abraham",1789,1749.0,1817.0,Science,1600-1800,Germany,G.Saxon,G.Saxon,Germany,G.Saxon,G.Saxon,1700,False
+7331,"Schmidt, Bernhard",1919,1879.0,1935.0,Science,1800+,Germany,G.Saxon,G.Saxon,Russia,R.Eston,R.Eston,1900,False
+1276,"Buchner, Eduard",1900,1860.0,1917.0,Science,1800+,Germany,G.Schle,G.Kiel,Germany,G.Bavar,G.Munich,1900,False
+2241,"Diels, Otto",1916,1876.0,1954.0,Science,1800+,Germany,G.Schle,G.Kiel,Germany,G.LSaxo,G.Hamburg,1900,False
+5596,"Meyerhof, Otto",1924,1884.0,1951.0,Science,1800+,Germany,G.Schle,G.Kiel,Germany,G.LSaxo,G.Hanover,1900,False
+2806,"Flemming, Walther",1883,1843.0,1905.0,Science,1800+,Germany,G.Schle,G.Kiel,Germany,G.Saxon,G.Saxon,1800,False
+131,"Alder, Kurt",1942,1902.0,1958.0,Science,1800+,Germany,G.Schle,G.Kiel,Germany,G.Siles,G.Siles,1900,False
+4630,"Kummer, Ernst",1850,1810.0,1893.0,Science,1800+,Germany,G.Siles,G.Breslau,Germany,G.Brand,G.Brand,1800,False
+8598,"Waldeyer-Hartz, Wilhelm von",1876,1836.0,1921.0,Science,1800+,Germany,G.Siles,G.Breslau,Germany,G.LSaxo,G.LSaxo,1800,False
+1781,"Cohn, Ferdinand",1868,1828.0,1898.0,Science,1800+,Germany,G.Siles,G.Breslau,Germany,G.Siles,G.Breslau,1800,False
+5952,"Neisser, Albert",1895,1855.0,1916.0,Science,1800+,Germany,G.Siles,G.Breslau,Germany,G.Siles,G.Siles,1800,False
+7298,"Scheiner, Christoph",1613,1573.0,1650.0,Science,1600-1800,Germany,G.Siles,G.Siles,Germany,G.Baden,G.Baden,1600,False
+7892,"Stifel, Michael",1527,1487.0,1567.0,Science,1400-1600,Germany,G.Thuri,G.Jena,Germany,G.Baden,G.Baden,1500,False
+709,"Berger, Johannes",1913,1873.0,1941.0,Science,1800+,Germany,G.Thuri,G.Jena,Germany,G.Bavar,G.Bavar,1900,False
+2281,"Dobereiner, Johann",1820,1780.0,1849.0,Science,1800+,Germany,G.Thuri,G.Jena,Germany,G.Bavar,G.Bavar,1800,False
+3475,"Haeckel, Ernst",1874,1834.0,1919.0,Science,1800+,Germany,G.Thuri,G.Jena,Germany,G.Brand,G.Berlin,1800,False
+7924,"Strasburger, Eduard",1884,1844.0,1912.0,Science,1800+,Germany,G.Thuri,G.Jena,Germany,G.gx,,1800,False
+3788,"Hertwig, Wilhelm",1889,1849.0,1922.0,Science,1800+,Germany,G.Thuri,G.Jena,Germany,G.Hesse,G.Hesse,1800,False
+2929,"Frege, Friedrich",1888,1848.0,1925.0,Science,1800+,Germany,G.Thuri,G.Jena,Germany,G.Meckl,G.Meckl,1800,False
+4967,"Libavius, Andreas",1580,1540.0,1616.0,Science,1400-1600,Germany,G.Thuri,G.Jena,Germany,G.SaxAn,G.Halle,1500,False
+7437,"Seebeck, Thomas",1810,1770.0,1831.0,Science,1800+,Germany,G.Thuri,G.Jena,Russia,R.Eston,R.Eston,1800,False
+1905,Coulomb,1776,1736.0,1806.0,Science,1600-1800,Germany,G.Thuri,G.Thuri,France,F.Poito,F.Poito,1700,False
+4977,"Liebig, Justis von",1843,1803.0,1873.0,Science,1800+,Germany,G.Thuri,G.Thuri,Germany,G.Hesse,G.Darmstadt,1800,False
+4977,"Liebig, Justis von",1843,1803.0,1873.0,Science,1800+,Germany,G.Thuri,G.Thuri,Germany,G.Hesse,G.Darmstadt,1800,False
+3234,"Goethe, Johann von",1789,1749.0,1832.0,Science,1600-1800,Germany,G.Thuri,G.Thuri,Germany,G.Hesse,G.Frankfurt,1700,False
+3807,"Hevelius, Johannes",1651,1611.0,1687.0,Science,1600-1800,Germany,G.WPruss,G.Danzig,Germany,G.WPrus,G.Danzig,1600,False
+2568,"Eotvos, Roland",1888,1848.0,1919.0,Science,1800+,Hungary,H.NCent,H.Budapest,Hungary,H.NCent,H.Budapest,1800,False
+8042,"Szent-Gyorgyi, Albert",1933,1893.0,1986.0,Science,1800+,Hungary,H.NCent,H.Budapest,Hungary,H.NCent,H.Budapest,1900,False
+8042,"Szent-Gyorgyi, Albert",1933,1893.0,1986.0,Science,1800+,Hungary,H.NCent,H.Budapest,Hungary,H.NCent,H.Budapest,1900,False
+968,"Bolyai, J√°nos",1842,1802.0,1860.0,Science,1800+,Hungary,H.noinfo,H.noinfo,Slovakia,Slovakia,Slovakia,1800,False
+3258,"Golgi, Camillo",1883,1843.0,1926.0,Science,1800+,Italy,I.Lomba,I.Lomba,Italy,I.Lomba,I.Lomba,1800,True
+6953,"Riva-Rocci, Scipione",1903,1863.0,1937.0,Science,1800+,Italy,I.Lomba,I.Lomba,Italy,I.Piedm,I.Piedm,1900,True
+7749,Spallanzani,1769,1729.0,1799.0,Science,1600-1800,Italy,I.Lomba,I.Lomba,Italy,I.Tusca,I.Tusca,1700,True
+325,"Aselli, Gasparo",1621,1581.0,1625.0,Science,1600-1800,Italy,I.Lomba,I.Milan,Italy,I.Lomba,I.Milan,1600,True
+8559,"Volta, Alessandro",1785,1745.0,1827.0,Science,1600-1800,Italy,I.Lomba,I.Milan,Italy,I.Lomba,I.Milan,1700,True
+5928,"Natta, Giulio",1943,1903.0,1979.0,Science,1800+,Italy,I.Lomba,I.Milan,Italy,I.Piedm,I.Piedm,1900,True
+7178,"Saccheri, Girolamo",1707,1667.0,1733.0,Science,1600-1800,Italy,I.Lomba,I.Milan,Italy,I.Piedm,I.Piedm,1700,True
+7306,"Schiaparelli, Giovanni",1875,1835.0,1910.0,Science,1800+,Italy,I.Lomba,I.Milan,Italy,I.Piedm,I.Piedm,1800,True
+1832,Constantine of Africa,1055,1015.0,1087.0,Science,,Italy,I.Naple,I.Naple,Arab World,,,1000,False
+6610,"Porta, Giambattista della",1575,1535.0,1615.0,Science,1400-1600,Italy,I.Naple,I.NaplesCity,Italy,I.Naple,I.Naple,1500,False
+6486,"Piazzi, Guiseppe",1786,1746.0,1826.0,Science,1600-1800,Italy,I.Naple,I.NaplesCity,Italy,I.noinfo,I.noinfo,1700,False
+5524,"Melloni, Macedonio",1838,1798.0,1854.0,Science,1800+,Italy,I.Naple,I.NaplesCity,Italy,I.Tusca,I.Parma,1800,False
+1544,"Cerletti, Ugo",1917,1877.0,1963.0,Science,1800+,Italy,I.noinfo,I.noinfo,Italy,I.noinfo,I.noinfo,1900,False
+7698,"Sobrero, Ascanio",1852,1812.0,1888.0,Science,1800+,Italy,I.noinfo,I.noinfo,Italy,I.noinfo,I.noinfo,1800,False
+2003,Nicholas of Cusa,1441,1401.0,1464.0,Science,1400-1600,Italy,I.Papal,I.Papal,Germany,G.NRhWe,G.NRhWe,1400,False
+6211,"Pacioli, Luca",1485,1445.0,1517.0,Science,1400-1600,Italy,I.Papal,I.Papal,Italy,I.Papal,I.Papal,1400,False
+1735,"Clavius, Christoph",1577,1537.0,1612.0,Science,1400-1600,Italy,I.Papal,I.Rome,Germany,G.Bavar,G.Bavar,1500,False
+6810,Regiomantus,1476,1436.0,1476.0,Science,1400-1600,Italy,I.Papal,I.Rome,Germany,G.EPrus,G.Konigsburg,1400,False
+1804,"Colombo, Realdo",1550,1510.0,1559.0,Science,1400-1600,Italy,I.Papal,I.Rome,Italy,I.Lomba,I.Cremona,1500,False
+1455,"Cardano, Girolamo",1541,1501.0,1576.0,Science,1400-1600,Italy,I.Papal,I.Rome,Italy,I.Lomba,I.Lomba,1500,False
+1455,"Cardano, Girolamo",1541,1501.0,1576.0,Science,1400-1600,Italy,I.Papal,I.Rome,Italy,I.Lomba,I.Lomba,1500,False
+2624,"Eustachio, Bartolomeo",1560,1520.0,1574.0,Science,1400-1600,Italy,I.Papal,I.Rome,Italy,I.Papal,I.Papal,1500,False
+2735,"Fermi, Enrico",1941,1901.0,1954.0,Science,1800+,Italy,I.Papal,I.Rome,Italy,I.Papal,I.Rome,1900,False
+5274,"Malpighi, Marcello",1668,1628.0,1694.0,Science,1600-1800,Italy,I.Papal,I.Rome,Italy,I.Tusca,I.Bologna,1600,False
+839,"Biringuccio, Vanuccio",1520,1480.0,1539.0,Science,1400-1600,Italy,I.Papal,I.Rome,Italy,I.Tusca,I.Siena,1500,False
+1546,"Cesalpino, Andrea",1559,1519.0,1603.0,Science,1400-1600,Italy,I.Papal,I.Rome,Italy,I.Tusca,I.Tusca,1500,False
+7431,"Secchi, Pietro",1858,1818.0,1878.0,Science,1800+,Italy,I.Papal,I.Rome,Italy,I.Tusca,I.Tusca,1800,False
+1071,"Bovet, Daniel",1947,1907.0,1992.0,Science,1800+,Italy,I.Papal,I.Rome,Switzerland,Switzerland,Sz.Geneva,1900,False
+115,"Alberti, Leon Battista",1444,1404.0,1472.0,Science,1400-1600,Italy,I.Piedm,I.Genoa,Italy,I.Piedm,I.Genoa,1400,False
+1436,"Cannizzaro, Stanislao",1866,1826.0,1910.0,Science,1800+,Italy,I.Piedm,I.Genoa,Italy,I.Sicil,I.Palermo,1800,False
+1371,"Cabeo, Niccolo",1626,1586.0,1650.0,Science,1600-1800,Italy,I.Piedm,I.Genoa,Italy,I.Tusca,I.Ferrara,1600,False
+6322,"Peano, Giuseppe",1898,1858.0,1932.0,Science,1800+,Italy,I.Piedm,I.Turin,Italy,I.Piedm,I.Piedm,1800,False
+368,"Avogadro, Amedeo",1816,1776.0,1856.0,Science,1800+,Italy,I.Piedm,I.Turin,Italy,I.Piedm,I.Turin,1800,False
+667,"Beltrami, Eugenio",1875,1835.0,1899.0,Science,1800+,Italy,I.Tusca,I.Bologna,Italy,I.Lomba,I.Cremona,1800,False
+1526,"Cavalieri, Francesco",1638,1598.0,1647.0,Science,1600-1800,Italy,I.Tusca,I.Bologna,Italy,I.Lomba,I.Milan,1600,False
+1502,"Cassini, Giovanni",1665,1625.0,1712.0,Science,1600-1800,Italy,I.Tusca,I.Bologna,Italy,I.Piedm,I.Piedm,1600,False
+971,"Bombelli, Rafael",1566,1526.0,1572.0,Science,1400-1600,Italy,I.Tusca,I.Bologna,Italy,I.Tusca,I.Bologna,1500,False
+1517,"Cataldi, Pietro",1592,1552.0,1626.0,Science,1400-1600,Italy,I.Tusca,I.Bologna,Italy,I.Tusca,I.Bologna,1500,False
+2739,"Ferrari, Ludovico",1562,1522.0,1565.0,Science,1400-1600,Italy,I.Tusca,I.Bologna,Italy,I.Tusca,I.Bologna,1500,False
+2745,"Ferro, Scipione",1505,1465.0,1526.0,Science,1400-1600,Italy,I.Tusca,I.Bologna,Italy,I.Tusca,I.Bologna,1500,False
+3039,"Galvani, Luigi",1777,1737.0,1798.0,Science,1600-1800,Italy,I.Tusca,I.Bologna,Italy,I.Tusca,I.Bologna,1700,False
+3380,"Grimaldi, Francesco",1658,1618.0,1663.0,Science,1600-1800,Italy,I.Tusca,I.Bologna,Italy,I.Tusca,I.Bologna,1600,False
+5310,"Marconi, Guglielmo",1914,1874.0,1937.0,Science,1800+,Italy,I.Tusca,I.Bologna,Italy,I.Tusca,I.Bologna,1900,False
+6883,"Riccioli, Giambattista",1637,1597.0,1671.0,Science,1600-1800,Italy,I.Tusca,I.Bologna,Italy,I.Tusca,I.Ferrara,1600,False
+1256,"Brunelleschi, Filippo",1417,1377.0,1446.0,Science,1400-1600,Italy,I.Tusca,I.Florence,Italy,I.Tusca,I.Florence,1400,True
+6801,"Redi, Francesco",1666,1626.0,1697.0,Science,1600-1800,Italy,I.Tusca,I.Florence,Italy,I.Tusca,I.Florence,1600,True
+182,"Amici, Giovanni Battista",1826,1786.0,1863.0,Science,1800+,Italy,I.Tusca,I.Florence,Italy,I.Tusca,I.Modena,1800,True
+182,"Amici, Giovanni Battista",1826,1786.0,1863.0,Science,1800+,Italy,I.Tusca,I.Florence,Italy,I.Tusca,I.Modena,1800,True
+4897,Leonardo da Vinci,1492,1452.0,1519.0,Science,1400-1600,Italy,I.Tusca,I.Florence,Italy,I.Tusca,I.Tusca,1400,True
+4897,Leonardo da Vinci,1492,1452.0,1519.0,Science,1400-1600,Italy,I.Tusca,I.Florence,Italy,I.Tusca,I.Tusca,1400,True
+4897,Leonardo da Vinci,1492,1452.0,1519.0,Science,1400-1600,Italy,I.Tusca,I.Florence,Italy,I.Tusca,I.Tusca,1400,True
+6039,"Nobili, Leopoldo",1824,1784.0,1835.0,Science,1800+,Italy,I.Tusca,I.Florence,Italy,I.Tusca,I.Tusca,1800,True
+8274,"Torricelli, Evangelista",1647,1608.0,1647.0,Science,1600-1800,Italy,I.Tusca,I.Florence,Italy,I.Tusca,I.Tusca,1600,True
+6749,"Ramazzini, Bernardino",1673,1633.0,1714.0,Science,1600-1800,Italy,I.Tusca,I.Modena,Italy,I.noinfo,I.noinfo,1600,False
+7122,"Ruffini, Paolo",1805,1765.0,1822.0,Science,1800+,Italy,I.Tusca,I.Modena,Italy,I.Tusca,I.Tusca,1800,False
+8561,"Volterra, Vito",1900,1860.0,1940.0,Science,1800+,Italy,I.Tusca,I.Pisa,Italy,I.Papal,I.Papal,1900,True
+2753,"Fibonacci, Leonardo",1210,1170.0,1250.0,Science,1200-1400,Italy,I.Tusca,I.Pisa,Italy,I.Tusca,I.Pisa,1200,True
+1005,"Borelli, Giovanni",1648,1608.0,1679.0,Science,1600-1800,Italy,I.Tusca,I.Tusca,Italy,I.Naple,I.NaplesCity,1600,True
+8500,"Vesalius, Andreas",1554,1514.0,1564.0,Science,1400-1600,Italy,I.Venet,I.Padua,Belgium,Belgium,Be.Brussels,1500,False
+2659,"Fabrici, Girolamo",1573,1533.0,1619.0,Science,1400-1600,Italy,I.Venet,I.Padua,Italy,I.Papal,I.Papal,1500,False
+5775,"Morgagni, Giovanni",1722,1682.0,1771.0,Science,1600-1800,Italy,I.Venet,I.Padua,Italy,I.Papal,I.Umbria,1700,False
+2679,"Falloppio, Gabriele",1562,1523.0,1562.0,Science,1400-1600,Italy,I.Venet,I.Padua,Italy,I.Tusca,I.Modena,1500,False
+3030,Galileo Galilei,1604,1564.0,1642.0,Science,1600-1800,Italy,I.Venet,I.Padua,Italy,I.Tusca,I.Pisa,1600,False
+3030,Galileo Galilei,1604,1564.0,1642.0,Science,1600-1800,Italy,I.Venet,I.Padua,Italy,I.Tusca,I.Pisa,1600,False
+3030,Galileo Galilei,1604,1564.0,1642.0,Science,1600-1800,Italy,I.Venet,I.Padua,Italy,I.Tusca,I.Pisa,1600,False
+4932,"Levi-Civita, Tullio",1913,1873.0,1941.0,Science,1800+,Italy,I.Venet,I.Padua,Italy,I.Venet,I.Padua,1900,False
+162,"Alpini, Prospero",1593,1553.0,1616.0,Science,1400-1600,Italy,I.Venet,I.Padua,Italy,I.Venet,I.Venet,1500,False
+7072,"Rossi, Bruno",1945,1905.0,,Science,1800+,Italy,I.Venet,I.Padua,Italy,I.Venet,I.Venice,1900,False
+5792,"Moro, Anton",1727,1687.0,1764.0,Science,1600-1800,Italy,I.Venet,I.Venet,Italy,I.Venet,I.Venet,1700,True
+8084,Tartaglia  (Fontana),1539,1499.0,1557.0,Science,1400-1600,Italy,I.Venet,I.Venice,Italy,I.Lomba,I.Brescia,1500,True
+7240,"Santorio, Santorio",1601,1561.0,1636.0,Science,1600-1800,Italy,I.Venet,I.Venice,Italy,I.Venet,I.Venice,1600,True
+2887,"Fracastoro, Girolamo",1518,1478.0,1553.0,Science,1400-1600,Italy,I.Venet,I.Verona,Italy,I.Venet,I.Verona,1500,False
+3112,"Gemma Frisius, Reiner",1548,1508.0,1555.0,Science,1400-1600,Netherlands,Belgium,Be.Louvain,Denmark,Denmark,De.General,1500,False
+4106,"Ingen-Housz, Jan",1770,1730.0,1799.0,Science,1600-1800,Netherlands,E.SE,E.London,Netherlands,Netherlands,Ne.General,1700,False
+2145,"Debye, Peter",1924,1884.0,1966.0,Science,1800+,Netherlands,G.gx,G.gx,Netherlands,Netherlands,Ne.General,1900,False
+8580,"Waerden, B.L. van der",1943,1903.0,,Science,1800+,Netherlands,G.Saxon,G.Leipzig,Netherlands,Netherlands,Ne.Amsterdam,1900,False
+3205,"Glauber, Johann",1644,1604.0,1670.0,Science,1600-1800,Netherlands,Netherlands,Ne.Amsterdam,Germany,G.Bavar,G.Bavar,1600,False
+4019,"Hudde, Jan",1668,1628.0,1704.0,Science,1600-1800,Netherlands,Netherlands,Ne.Amsterdam,Netherlands,Netherlands,Ne.Amsterdam,1600,False
+8015,"Swammerdam, Jan",1677,1637.0,1680.0,Science,1600-1800,Netherlands,Netherlands,Ne.Amsterdam,Netherlands,Netherlands,Ne.Amsterdam,1600,False
+9101,"Zernike, Frits",1928,1888.0,1966.0,Science,1800+,Netherlands,Netherlands,Ne.Amsterdam,Netherlands,Netherlands,Ne.Amsterdam,1900,False
+1218,"Brouwer, Luitzen",1921,1881.0,1966.0,Science,1800+,Netherlands,Netherlands,Ne.Amsterdam,Netherlands,Netherlands,Ne.General,1900,False
+4338,"Kapteyn, Jacobus",1891,1851.0,1922.0,Science,1800+,Netherlands,Netherlands,Ne.Amsterdam,Netherlands,Netherlands,Ne.General,1800,False
+9084,"Zeeman, Pieter",1905,1865.0,1943.0,Science,1800+,Netherlands,Netherlands,Ne.Amsterdam,Netherlands,Netherlands,Ne.General,1900,False
+8571,"Vries, Hugo de",1888,1848.0,1935.0,Science,1800+,Netherlands,Netherlands,Ne.Amsterdam,Netherlands,Netherlands,Ne.Haarlem,1800,False
+4180,"Jansen, Zacharias",1620,1580.0,1628.0,Science,1600-1800,Netherlands,Netherlands,Ne.Amsterdam,Netherlands,Netherlands,Ne.Hague,1600,False
+8575,"Van Der Waals, Johannes",1877,1837.0,1923.0,Science,1800+,Netherlands,Netherlands,Ne.Amsterdam,Netherlands,Netherlands,Ne.Leiden,1800,False
+8444,"Van't Hoff, Jacobus",1892,1852.0,1911.0,Science,1800+,Netherlands,Netherlands,Ne.Amsterdam,Netherlands,Netherlands,Ne.Rotterdam,1800,False
+631,"Beijerinck, Martinus",1891,1851.0,1931.0,Science,1800+,Netherlands,Netherlands,Ne.Delft,Netherlands,Netherlands,Ne.Amsterdam,1800,False
+4857,"Leeuwenhoek, Antoni van",1672,1632.0,1723.0,Science,1600-1800,Netherlands,Netherlands,Ne.Delft,Netherlands,Netherlands,Ne.Delft,1600,False
+3304,"Graaf, Regnier de",1673,1641.0,1673.0,Science,1600-1800,Netherlands,Netherlands,Ne.Delft,Netherlands,Netherlands,Ne.General,1600,False
+5019,"Lippershey, Hans",1610,1570.0,1619.0,Science,1600-1800,Netherlands,Netherlands,Ne.General,Germany,G.NRhWe,G.NRhWe,1600,False
+2204,"Descartes, Rene",1636,1596.0,1650.0,Science,1600-1800,Netherlands,Netherlands,Ne.gx,France,F.Centr,F.Tours,1600,False
+2204,"Descartes, Rene",1636,1596.0,1650.0,Science,1600-1800,Netherlands,Netherlands,Ne.gx,France,F.Centr,F.Tours,1600,False
+2204,"Descartes, Rene",1636,1596.0,1650.0,Science,1600-1800,Netherlands,Netherlands,Ne.gx,France,F.Centr,F.Tours,1600,False
+5086,"Lorentz, Hendrik",1893,1853.0,1928.0,Science,1800+,Netherlands,Netherlands,Ne.Haarlem,Netherlands,Netherlands,Ne.General,1800,False
+4565,"Koster, Lauren",1410,1370.0,1440.0,Science,1400-1600,Netherlands,Netherlands,Ne.Haarlem,Netherlands,Netherlands,Ne.Haarlem,1400,False
+7883,"Stevin, Simon",1588,1548.0,1620.0,Science,1400-1600,Netherlands,Netherlands,Ne.Hague,Belgium,Belgium,Be.Bruges,1500,False
+2672,"Fahrenheit, Daniel",1726,1686.0,1736.0,Science,1600-1800,Netherlands,Netherlands,Ne.Hague,Germany,G.WPrus,G.Danzig,1700,False
+2672,"Fahrenheit, Daniel",1726,1686.0,1736.0,Science,1600-1800,Netherlands,Netherlands,Ne.Hague,Germany,G.WPrus,G.Danzig,1700,False
+4075,"Huygens, Christiaan",1669,1629.0,1695.0,Science,1600-1800,Netherlands,Netherlands,Ne.Hague,Netherlands,Netherlands,Ne.Hague,1600,False
+4075,"Huygens, Christiaan",1669,1629.0,1695.0,Science,1600-1800,Netherlands,Netherlands,Ne.Hague,Netherlands,Netherlands,Ne.Hague,1600,False
+4075,"Huygens, Christiaan",1669,1629.0,1695.0,Science,1600-1800,Netherlands,Netherlands,Ne.Hague,Netherlands,Netherlands,Ne.Hague,1600,False
+3191,"Girard, Albert",1632,1595.0,1632.0,Science,1600-1800,Netherlands,Netherlands,Ne.Leiden,France,F.Lorra,F.Lorra,1600,False
+1551,"Ceulen, Ludolf van",1580,1540.0,1610.0,Science,1400-1600,Netherlands,Netherlands,Ne.Leiden,Germany,G.LSaxo,G.LSaxo,1500,False
+933,"Boerhaave, Hermann",1708,1668.0,1738.0,Science,1600-1800,Netherlands,Netherlands,Ne.Leiden,Netherlands,Netherlands,Ne.General,1700,False
+6141,"Oort, Jan Hendrik",1940,1900.0,1992.0,Science,1800+,Netherlands,Netherlands,Ne.Leiden,Netherlands,Netherlands,Ne.General,1900,False
+7626,"Sitter, Willem de",1912,1872.0,1934.0,Science,1800+,Netherlands,Netherlands,Ne.Leiden,Netherlands,Netherlands,Ne.General,1900,False
+3295,"Goudsmit, Samuel",1942,1902.0,1978.0,Science,1800+,Netherlands,Netherlands,Ne.Leiden,Netherlands,Netherlands,Ne.Hague,1900,False
+5892,"Musschenbroek, Pieter van",1732,1692.0,1761.0,Science,1600-1800,Netherlands,Netherlands,Ne.Leiden,Netherlands,Netherlands,Ne.Leiden,1700,False
+7688,"Snel, Willebrord",1620,1580.0,1626.0,Science,1600-1800,Netherlands,Netherlands,Ne.Leiden,Netherlands,Netherlands,Ne.Leiden,1600,False
+4322,"Kamerlingh-Onnes, Heike",1893,1853.0,1926.0,Science,1800+,Netherlands,Netherlands,Ne.Leiden,Netherlands,Netherlands,Ne.NE,1800,False
+2510,"Einthoven, Willem",1900,1860.0,1927.0,Science,1800+,Netherlands,Netherlands,Ne.Leiden,Netherlands,Netherlands,,1900,False
+1893,"Coster, Dirk",1929,1889.0,1950.0,Science,1800+,Netherlands,Netherlands,Ne.NE,Netherlands,Netherlands,Ne.Amsterdam,1900,False
+8480,Vening Meinesz,1927,1887.0,1966.0,Science,1800+,Netherlands,Netherlands,Ne.noinfo,Netherlands,Netherlands,Ne.General,1900,False
+1365,"Buys-Ballot, C.H.D.",1857,1817.0,1890.0,Science,1800+,Netherlands,Netherlands,Ne.Utrecht,Netherlands,Netherlands,Ne.General,1800,False
+2321,"Donders, Franciscus",1858,1818.0,1889.0,Science,1800+,Netherlands,Netherlands,Ne.Utrecht,Netherlands,Netherlands,Ne.General,1800,False
+2505,"Eijkman, Christiaan",1898,1858.0,1930.0,Science,1800+,Netherlands,Netherlands,Ne.Utrecht,Netherlands,Netherlands,Ne.General,1800,False
+8387,"Uhlenbeck, George",1940,1900.0,1988.0,Science,1800+,Netherlands,Netherlands,Ne.Utrecht,Netherlands,Netherlands,,1900,False
+8755,"Wessel, Caspar",1785,1745.0,1818.0,Science,1600-1800,Norway,N.noinfo,N.noinfo,Norway,N.noinfo,N.noinfo,1700,False
+4972,"Lie, Marius",1882,1842.0,1899.0,Science,1800+,Norway,N.SE,N.Oslo,Norway,N.North,N.North,1800,False
+3429,"Guldberg, Cato",1876,1836.0,1902.0,Science,1800+,Norway,N.SE,N.Oslo,Norway,N.SE,N.Oslo,1800,False
+8574,"Waage, Peter",1873,1833.0,1900.0,Science,1800+,Norway,N.SE,N.Oslo,Norway,N.SE,N.SE,1800,False
+13,"Abel, Niels",1829,1802.0,1829.0,Science,1800+,Norway,N.SE,N.Oslo,Norway,N.SW,N.SW,1800,False
+3250,"Goldschmidt, Victor",1928,1888.0,1947.0,Science,1800+,Norway,N.SE,N.Oslo,Switzerland,Switzerland,Sz.Zurich,1900,False
+860,"Bjerknes, Vilhelm",1902,1862.0,1951.0,Science,1800+,Norway,N.SW,N.SW,Norway,N.SE,N.Oslo,1900,False
+468,"Banach, Stefan",1932,1892.0,1945.0,Science,1800+,Poland,Poland,Po.General,Poland,Poland,Po.Krakow,1900,False
+1855,"Copernicus, Nicolaus",1513,1473.0,1543.0,Science,1400-1600,Poland,Poland,Po.Krakow,Poland,Poland,Po.General,1500,False
+2488,"Egas Moniz, Antonio",1914,1874.0,1955.0,Science,1800+,Portugal,Portugal,Port.Lisbon,Portugal,Portugal,Port.General,1900,False
+1730,"Claus, Carl",1836,1796.0,1864.0,Science,1800+,Russia,R.Eston,R.Eston,Russia,R.Eston,R.Eston,1800,False
+8334,"Tsiolkovsky, Konstantin",1897,1857.0,1935.0,Science,1800+,Russia,R.gx,R.gx,Russia,R.Siber,R.Siber,1800,False
+1362,"Butlerov, Aleksandr",1868,1828.0,1886.0,Science,1800+,Russia,R.Kazan,R.Kazan,Russia,R.Kazan,R.Kazan,1800,False
+5048,"Lobachevsky, Nikolay",1832,1792.0,1856.0,Science,1800+,Russia,R.Kazan,R.Kazan,Russia,R.Nizhn,R.Nizhn,1800,False
+8476,"Veksler, Vladimir",1947,1907.0,1966.0,Science,1800+,Russia,R.Mosco,R.Moscow,Russia,R.Kiev,R.Kiev,1900,False
+4559,"Korolev, Sergei",1947,1907.0,1966.0,Science,1800+,Russia,R.Mosco,R.Moscow,Russia,R.Kiev,R.KievCity,1900,False
+5334,"Markovnikov, Vladimir",1878,1838.0,1904.0,Science,1800+,Russia,R.Mosco,R.Moscow,Russia,R.Kostr,R.Kostr,1800,False
+4839,"Lebedev, Pyotr",1906,1866.0,1912.0,Science,1800+,Russia,R.Mosco,R.Moscow,Russia,R.Mosco,R.Moscow,1900,False
+6143,"Oparin, Alexander",1934,1894.0,1980.0,Science,1800+,Russia,R.Mosco,R.Moscow,Russia,R.Mosco,R.Moscow,1900,False
+8071,"Tamm, Igor",1935,1895.0,1971.0,Science,1800+,Russia,R.Mosco,R.Moscow,Russia,R.Siber,R.Siber,1900,False
+2906,"Frank, Ilya",1948,1908.0,1990.0,Science,1800+,Russia,R.Mosco,R.Moscow,Russia,R.SPete,R.StPetersburg,1900,False
+3105,"Gelfond, Aleksander",1946,1906.0,1968.0,Science,1800+,Russia,R.Mosco,R.Moscow,Russia,R.SPete,R.StPetersburg,1900,False
+4335,"Kapitsa, Pyotr",1934,1894.0,1984.0,Science,1800+,Russia,R.Mosco,R.Moscow,Russia,R.SPete,R.StPetersburg,1900,False
+4541,"Kolmogorov, Andrey",1943,1903.0,1987.0,Science,1800+,Russia,R.Mosco,R.Moscow,Russia,R.Tambo,R.Tambo,1900,False
+7951,"Struve, Wilhelm von",1833,1793.0,1864.0,Science,1800+,Russia,R.noinfo,R.noinfo,Germany,G.Meckl,G.Meckl,1800,False
+2960,"Friedmann, Alexander",1925,1888.0,1925.0,Science,1800+,Russia,R.noinfo,R.noinfo,Russia,R.noinfo,R.noinfo,1900,False
+1634,"Cherenkov, Pavel",1944,1904.0,1990.0,Science,1800+,Russia,R.noinfo,R.noinfo,Russia,R.Voron,R.Voron,1900,False
+3240,"Goldbach, Christian",1730,1690.0,1764.0,Science,1600-1800,Russia,R.SPete,R.StPetersburg,Germany,G.EPrus,G.Konigsburg,1700,False
+5071,"Lomonosov, Mikhail",1751,1711.0,1765.0,Science,1600-1800,Russia,R.SPete,R.StPetersburg,Russia,R.Archa,R.Archa,1700,False
+6604,"Popov, Aleksandr",1899,1859.0,1906.0,Science,1800+,Russia,R.SPete,R.StPetersburg,Russia,R.Don,R.Don,1800,False
+6604,"Popov, Aleksandr",1899,1859.0,1906.0,Science,1800+,Russia,R.SPete,R.StPetersburg,Russia,R.Don,R.Don,1800,False
+4889,"Lenz, Emil",1844,1804.0,1865.0,Science,1800+,Russia,R.SPete,R.StPetersburg,Russia,R.Eston,R.Eston,1800,False
+175,"Ambartsumian, Viktor",1948,1908.0,,Science,1800+,Russia,R.SPete,R.StPetersburg,Russia,R.Georg,R.Georg,1900,False
+8338,"Tsvet, Mikhail",1912,1872.0,1919.0,Science,1800+,Russia,R.SPete,R.StPetersburg,Russia,R.gx,,1900,False
+1627,"Tchebycheff, Pafnuty",1861,1821.0,1894.0,Science,1800+,Russia,R.SPete,R.StPetersburg,Russia,R.noinfo,R.noinfo,1800,False
+5333,"Markov, Andrei",1896,1856.0,1922.0,Science,1800+,Russia,R.SPete,R.StPetersburg,Russia,R.Ryaza,R.Ryaza,1800,False
+6309,"Pavlov, Ivan",1889,1849.0,1936.0,Science,1800+,Russia,R.SPete,R.StPetersburg,Russia,R.Ryaza,R.Ryaza,1800,False
+5532,"Mendeleyev, Dmitry",1874,1834.0,1907.0,Science,1800+,Russia,R.SPete,R.StPetersburg,Russia,R.Siber,R.Siber,1800,False
+4132,"Ivanovsky, Dmitri",1904,1864.0,1920.0,Science,1800+,Russia,R.SPete,R.StPetersburg,Russia,R.SPete,R.StPetersburg,1900,False
+3795,"Hess, Germain",1842,1802.0,1850.0,Science,1800+,Russia,R.SPete,R.StPetersburg,Switzerland,Switzerland,Sz.Geneva,1800,False
+366,Averroes (ibn Rushd),1166,1126.0,1198.0,Science,,Spain,Sp.Andal,Sp.Seville,Spain,,,1100,False
+6753,"Ram√≥n y Cajal, Santiago",1892,1852.0,1934.0,Science,1800+,Spain,Sp.Catal,Sp.Catal,Spain,Sp.Arago,Sp.Arago,1800,False
+9077,al-Zarqali (Arzachel),1070,,,Science,,Spain,Sp.CManc,Sp.CManc,Spain,,,1000,False
+6678,"Proust, Joseph",1794,1754.0,1826.0,Science,1600-1800,Spain,Sp.Madri,Sp.Madrid,France,F.PaysL,F.PaysL,1700,False
+2519,"Elhuyar, Fausto D'",1795,1755.0,1833.0,Science,1600-1800,Spain,Sp.Madri,Sp.Madrid,Spain,Sp.CLeon,Sp.CLeon,1700,False
+1698,"Cierva, Juan de la",1935,1895.0,1936.0,Science,1800+,Spain,Sp.Madri,Sp.Madrid,Spain,Sp.Murci,Sp.Murci,1900,False
+3009,"Gadolin, Johan",1800,1760.0,1852.0,Science,1800+,Sweden,Fi.South,Fi.General,Finland,Fi.South,Fi.General,1800,False
+1960,"Cronstedt, Axel",1762,1722.0,1765.0,Science,1600-1800,Sweden,S.noinfo,S.general,Sweden,S.noinfo,S.South,1700,False
+278,"Arfvedson, Johann",1832,1792.0,1841.0,Science,1800+,Sweden,S.noinfo,S.general,Sweden,S.South,S.South,1800,False
+4790,"Laval, Carl de",1885,1845.0,1913.0,Science,1800+,Sweden,S.noinfo,S.noinfo,Sweden,S.noinfo,S.noinfo,1800,False
+6024,"Nilson, Lars Fredrik",1880,1840.0,1899.0,Science,1800+,Sweden,S.noinfo,S.noinfo,Sweden,S.noinfo,S.noinfo,1800,False
+2620,"Euler, Ulf von",1945,1905.0,1983.0,Science,1800+,Sweden,S.noinfo,S.noinfo,Sweden,S.SU,S.Stockholm,1900,False
+3018,"Gahn, Johan",1785,1745.0,1818.0,Science,1600-1800,Sweden,S.South,S.South,Sweden,S.North,S.North,1700,False
+3874,"Hisinger, Wilhelm",1806,1766.0,1852.0,Science,1800+,Sweden,S.South,S.South,Sweden,S.South,S.South,1800,False
+8828,"Wilcke, Johan",1772,1732.0,1796.0,Science,1600-1800,Sweden,S.SU,S.Stockholm,Germany,G.Meckl,G.Meckl,1700,False
+4572,"Kovalevskaya, Sonya",1890,1850.0,1891.0,Science,1800+,Sweden,S.SU,S.Stockholm,Russia,R.Mosco,R.Moscow,1800,False
+1119,"Brandt, Georg",1734,1694.0,1768.0,Science,1600-1800,Sweden,S.SU,S.Stockholm,Sweden,S.noinfo,S.South,1700,False
+145,"Alfven, Hannes Olof",1948,1908.0,1995.0,Science,1800+,Sweden,S.SU,S.Stockholm,Sweden,S.South,S.South,1900,False
+4993,"Lindblad, Bertil",1935,1895.0,1965.0,Science,1800+,Sweden,S.SU,S.Stockholm,Sweden,S.South,S.South,1900,False
+5813,"Mosander, Carl",1837,1797.0,1858.0,Science,1800+,Sweden,S.SU,S.Stockholm,Sweden,S.South,S.South,1800,False
+6036,"Nobel, Alfred",1873,1833.0,1896.0,Science,1800+,Sweden,S.SU,S.Stockholm,Sweden,S.SU,S.Stockholm,1800,False
+6036,"Nobel, Alfred",1873,1833.0,1896.0,Science,1800+,Sweden,S.SU,S.Stockholm,Sweden,S.SU,S.Stockholm,1800,False
+779,"Berzelius, Jons",1819,1779.0,1848.0,Science,1800+,Sweden,S.SU,S.Stockholm,Sweden,S.SU,S.SU,1800,False
+313,"Arrhenius, Svante",1899,1859.0,1927.0,Science,1800+,Sweden,S.SU,S.Stockholm,Sweden,S.SU,S.Uppsala,1800,False
+7292,"Scheele, Carl",1782,1742.0,1786.0,Science,1600-1800,Sweden,S.SU,S.Uppsala,Sweden,S.gx,,1700,False
+230,"Angstrom, Anders",1854,1814.0,1874.0,Science,1800+,Sweden,S.SU,S.Uppsala,Sweden,S.noinfo,S.South,1800,False
+5012,"Linnaeus, Carle",1747,1707.0,1778.0,Science,1600-1800,Sweden,S.SU,S.Uppsala,Sweden,S.noinfo,S.South,1700,False
+718,"Bergmann, Torbern",1775,1735.0,1784.0,Science,1600-1800,Sweden,S.SU,S.Uppsala,Sweden,S.South,S.South,1700,False
+7111,"Rudbeck, Olof",1670,1630.0,1702.0,Science,1600-1800,Sweden,S.SU,S.Uppsala,Sweden,S.South,S.South,1600,False
+1751,"Cleve, Per",1880,1840.0,1905.0,Science,1800+,Sweden,S.SU,S.Uppsala,Sweden,S.SU,S.Stockholm,1800,False
+2513,"Ekeberg, Anders",1807,1767.0,1813.0,Science,1800+,Sweden,S.SU,S.Uppsala,Sweden,S.SU,S.Stockholm,1800,False
+2515,"Ekman, Vagn",1914,1874.0,1954.0,Science,1800+,Sweden,S.SU,S.Uppsala,Sweden,S.SU,S.Stockholm,1900,False
+8248,"Tiselius, Arne",1942,1902.0,1971.0,Science,1800+,Sweden,S.SU,S.Uppsala,Sweden,S.SU,S.Stockholm,1900,False
+1538,"Celsius, Anders",1741,1701.0,1744.0,Science,1600-1800,Sweden,S.SU,S.Uppsala,Sweden,S.SU,S.Uppsala,1700,False
+3430,"Guldin, Paul",1617,1577.0,1643.0,Science,1600-1800,Switzerland,A.Mid,A.Graz,Switzerland,Switzerland,Sz.General,1600,False
+7487,"Servetus, Michael",1551,1511.0,1553.0,Science,1400-1600,Switzerland,F.Rhone,F.Lyon,Spain,Sp.Navar,Sp.Navar,1500,False
+6820,"Reichstein, Tadeus",1937,1897.0,1996.0,Science,1800+,Switzerland,Switzerland,Sz.Basel,Poland,Poland,Po.General,1900,False
+566,"Bauhin, Gaspard",1600,1560.0,1624.0,Science,1600-1800,Switzerland,Switzerland,Sz.Basel,Switzerland,Switzerland,Sz.Basel,1600,False
+743,"Bernoulli, Daniel",1740,1700.0,1782.0,Science,1600-1800,Switzerland,Switzerland,Sz.Basel,Switzerland,Switzerland,Sz.Basel,1700,False
+744,"Bernoulli, Jakob I",1694,1654.0,1705.0,Science,1600-1800,Switzerland,Switzerland,Sz.Basel,Switzerland,Switzerland,Sz.Basel,1600,False
+746,"Bernoulli, Johann I",1707,1667.0,1748.0,Science,1600-1800,Switzerland,Switzerland,Sz.Basel,Switzerland,Switzerland,Sz.Basel,1700,False
+749,"Bernoulli, Nikolaus I",1727,1687.0,1759.0,Science,1600-1800,Switzerland,Switzerland,Sz.Basel,Switzerland,Switzerland,Sz.Basel,1700,False
+2619,"Euler, Leonhard",1747,1707.0,1783.0,Science,1600-1800,Switzerland,Switzerland,Sz.Basel,Switzerland,Switzerland,Sz.Basel,1700,False
+5624,"Miescher, Johann",1884,1844.0,1895.0,Science,1800+,Switzerland,Switzerland,Sz.Basel,Switzerland,Switzerland,Sz.Basel,1800,False
+465,"Balmer, Johann",1865,1825.0,1898.0,Science,1800+,Switzerland,Switzerland,Sz.Basel,Switzerland,Switzerland,Sz.General,1800,False
+5861,"Muller, Paul",1939,1899.0,1965.0,Science,1800+,Switzerland,Switzerland,Sz.Basel,Switzerland,Switzerland,Sz.General,1900,False
+3507,"Haller, Albrecht von",1747,1707.0,1777.0,Science,1600-1800,Switzerland,Switzerland,Sz.General,Switzerland,Switzerland,Sz.General,1700,False
+6250,Paracelsus,1533,1493.0,1541.0,Science,1400-1600,Switzerland,Switzerland,Sz.General,Switzerland,Switzerland,Sz.General,1500,False
+2509,"Einstein, Albert",1919,1879.0,1955.0,Science,1800+,Switzerland,Switzerland,Sz.Geneva,Germany,G.Baden,G.Baden,1900,False
+4698,"Lambert, Johann",1768,1728.0,1777.0,Science,1600-1800,Switzerland,Switzerland,Sz.Geneva,Germany,G.RhPal,G.RhPal,1700,False
+4698,"Lambert, Johann",1768,1728.0,1777.0,Science,1600-1800,Switzerland,Switzerland,Sz.Geneva,Germany,G.RhPal,G.RhPal,1700,False
+982,"Bonnet, Charles",1760,1720.0,1793.0,Science,1600-1800,Switzerland,Switzerland,Sz.Geneva,Switzerland,Switzerland,Sz.Geneva,1700,False
+1434,"Candolle, Augustin de",1818,1778.0,1841.0,Science,1800+,Switzerland,Switzerland,Sz.Geneva,Switzerland,Switzerland,Sz.Geneva,1800,False
+1931,"Cramer, Gabriel",1744,1704.0,1752.0,Science,1600-1800,Switzerland,Switzerland,Sz.Geneva,Switzerland,Switzerland,Sz.Geneva,1700,False
+3909,"Hofmann, Albert",1946,1906.0,,Science,1800+,Switzerland,Switzerland,Sz.Geneva,Switzerland,Switzerland,Sz.Geneva,1900,False
+4449,"Kipfer, Paul",1931,,,Science,1800+,Switzerland,Switzerland,Sz.Geneva,Switzerland,Switzerland,Sz.Geneva,1900,False
+5322,"Marignac, Jean de",1857,1817.0,1894.0,Science,1800+,Switzerland,Switzerland,Sz.Geneva,Switzerland,Switzerland,Sz.Geneva,1800,False
+6499,"Pictet, Raoul",1886,1846.0,1929.0,Science,1800+,Switzerland,Switzerland,Sz.Geneva,Switzerland,Switzerland,Sz.Geneva,1800,False
+6655,"Prevost, Pierre",1791,1751.0,1839.0,Science,1600-1800,Switzerland,Switzerland,Sz.Geneva,Switzerland,Switzerland,Sz.Geneva,1700,False
+7257,"Saussure, Horace de",1780,1740.0,1796.0,Science,1600-1800,Switzerland,Switzerland,Sz.Geneva,Switzerland,Switzerland,Sz.Geneva,1700,False
+7258,"Saussure, Nicholas de",1807,1767.0,1845.0,Science,1800+,Switzerland,Switzerland,Sz.Geneva,Switzerland,Switzerland,Sz.Geneva,1800,False
+7909,"Stoll, Arthur",1927,1887.0,,Science,1800+,Switzerland,Switzerland,Sz.Geneva,Switzerland,Switzerland,Sz.Geneva,1900,False
+8299,"Trembley, Abraham",1740,1700.0,1784.0,Science,1600-1800,Switzerland,Switzerland,Sz.Geneva,Switzerland,Switzerland,Sz.Geneva,1700,False
+6300,"Pauli, Wolfgang",1940,1900.0,1958.0,Science,1800+,Switzerland,Switzerland,Sz.Zurich,Austria,A.NE,A.Vienna,1900,False
+7164,"Ruzicka, Leopold",1927,1887.0,1976.0,Science,1800+,Switzerland,Switzerland,Sz.Zurich,Balkans,Croatia,Croatia,1900,False
+8747,"Werner, Alfred",1906,1866.0,1919.0,Science,1800+,Switzerland,Switzerland,Sz.Zurich,Germany,G.RhPal,G.RhPal,1900,False
+4293,"Jung, Carl Gustav",1915,1875.0,1961.0,Science,1800+,Switzerland,Switzerland,Sz.Zurich,Switzerland,Switzerland,Sz.Basel,1900,False
+6489,"Piccard, Auguste",1924,1884.0,1962.0,Science,1800+,Switzerland,Switzerland,Sz.Zurich,Switzerland,Switzerland,Sz.Basel,1900,False
+4350,"Karrer, Paul",1929,1889.0,1971.0,Science,1800+,Switzerland,Switzerland,Sz.Zurich,Switzerland,Switzerland,Sz.General,1900,False
+3146,"Gesner, Konrad",1556,1516.0,1565.0,Science,1400-1600,Switzerland,Switzerland,Sz.Zurich,Switzerland,Switzerland,Sz.Zurich,1500,False
+4540,"Kolliker, Rudolf von",1857,1817.0,1905.0,Science,1800+,Switzerland,Switzerland,Sz.Zurich,Switzerland,Switzerland,Sz.Zurich,1800,False

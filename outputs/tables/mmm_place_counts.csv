@@ -1,0 +1,3504 @@
+place_uri,place_label,place_group,n_events_total,n_events_pre1300,n_events_post1300
+mmmp:tgn_7011781,London,other,65732,20,60944
+mmmp:tgn_7008038,Paris,control,33829,428,10067
+mmmp:tgn_1000080,Italy,other,17262,570,11254
+mmmp:tgn_7002445,England,other,14073,2268,8782
+mmmp:tgn_1000070,France,other,13600,1168,8562
+mmmp:tgn_7011931,Oxford,control,9038,27,8894
+mmmp:tgn_1065660,Comilla,other,8571,0,0
+mmmp:tgn_7007567,New York,other,5956,0,4788
+mmmp:tgn_7000084,Germany,other,5163,469,3141
+mmmp:tgn_7453113,Cambridge,control,4752,3,4713
+mmmp:tgn_7007868,Brussels,other,3673,1,3634
+mmmp:tgn_7008653,Great Britain,other,3367,6,2235
+mmmp:tgn_7014406,Philadelphia,other,3149,0,3094
+mmmp:tgn_7016845,Netherlands,other,3087,24,2451
+mmmp:tgn_7004333,Munich,other,2991,3,2935
+mmmp:tgn_7001168,Holy See,other,2987,1,2508
+mmmp:tgn_7018159,Venezia,glass,2861,6,2448
+mmmp:tgn_7000457,Florence,glass,2836,7,2421
+mmmp:tgn_1000095,Spain,other,2450,120,1660
+mmmp:tgn_7003085,Padua,control,2142,6,2034
+mmmp:tgn_7006809,Leyden,other,1916,0,1902
+mmmp:tgn_7024097,Flanders,other,1840,77,1223
+mmmp:tgn_7012149,United States,other,1664,0,1226
+mmmp:tgn_7003127,Bologna,control,1647,43,1487
+mmmp:tgn_7465589,Ashburnham,other,1440,0,1437
+mmmp:tgn_7008929,Rouen,other,1374,6,1228
+mmmp:tgn_7013527,Cambridge,control,1344,0,329
+mmmp:tgn_7000874,Rome,control,1309,36,980
+mmmp:tgn_7017167,Leipzig,control,1209,0,1195
+mmmp:tgn_7008772,Lyon,other,1190,52,1020
+mmmp:tgn_7006952,Amsterdam,other,1168,0,1087
+mmmp:tgn_7018934,City of Westminster,other,1069,1,1064
+mmmp:tgn_7024079,Persia,other,1057,71,744
+mmmp:tgn_7011060,Reims,other,1037,64,934
+mmmp:tgn_7007867,Bruges,other,990,12,862
+mmmp:tgn_7005903,Milan,glass,989,7,823
+mmmp:tgn_7010420,Madrid,other,969,0,941
+mmmp:tgn_7014986,Egypt (ancient),other,837,607,3
+mmmp:tgn_7005119,Assisi,other,823,0,818
+mmmp:tgn_7008323,Tours,other,723,166,469
+mmmp:tgn_7002841,Seville,other,700,3,687
+mmmp:tgn_7004325,Bamberg,other,658,4,644
+mmmp:tgn_1000063,Belgium,other,655,151,292
+mmmp:tgn_7008799,Avignon,other,654,3,618
+mmmp:tgn_7003673,Hamburg,other,650,0,640
+mmmp:tgn_7013352,Baltimore,other,625,0,595
+mmmp:tgn_4005363,Northern Italy,other,613,50,422
+mmmp:tgn_7008267,Chartres,other,610,3,593
+mmmp:tgn_7007887,Ghent,other,605,5,556
+mmmp:tgn_7008356,Besançon,other,596,4,572
+mmmp:tgn_7012044,Canterbury,other,596,40,524
+mmmp:tgn_4004036,Northern France,other,589,145,374
+mmmp:tgn_7000526,Perugia,other,555,0,522
+mmmp:tgn_8704672,Ramsen,other,551,0,548
+mmmp:tgn_7004324,Augsburg,other,542,3,494
+mmmp:tgn_7013596,Chicago,other,522,0,490
+mmmp:tgn_7008759,Grenoble,other,501,1,494
+mmmp:tgn_7010477,Manchester,other,493,0,480
+mmmp:tgn_7013962,Washington,other,461,0,435
+mmmp:tgn_7008749,Tortosa,other,451,0,447
+mmmp:tgn_7008224,Dijon,other,448,6,413
+mmmp:tgn_7012005,Norwich,other,446,3,411
+mmmp:tgn_7024407,Byzantine Empire,other,444,131,168
+mmmp:tgn_7004334,Nuremberg,glass,443,1,371
+mmmp:tgn_7007279,Geneva,other,440,6,396
+mmmp:tgn_7010588,Amiens,other,411,6,382
+mmmp:tgn_1000074,Greece,other,405,67,54
+mmmp:tgn_7003133,Ravenna,other,387,0,383
+mmmp:tgn_7014461,San Marino,other,383,0,381
+mmmp:tgn_7008801,Carpentras,other,381,0,376
+mmmp:tgn_7003321,Vienna,other,380,1,328
+mmmp:tgn_7034969,Friuli,other,380,0,376
+mmmp:tgn_7003008,Vicenza,other,379,0,368
+mmmp:tgn_7005253,Wolfenbüttel,other,374,0,374
+mmmp:tgn_7008161,Bordeaux,other,360,6,334
+mmmp:tgn_7016833,Egypt,other,359,62,180
+mmmp:tgn_7005177,Heidelberg,control,357,0,343
+mmmp:tgn_7004474,Naples,other,354,4,200
+mmmp:tgn_7008769,Valencia,other,350,2,333
+mmmp:tgn_7013445,Boston,other,349,0,320
+mmmp:tgn_7012831,Königstein,other,347,0,346
+mmmp:tgn_7008337,Orléans,other,345,6,330
+mmmp:tgn_1003506,Udine,other,342,1,336
+mmmp:tgn_7006989,Subiaco,other,341,0,339
+mmmp:tgn_7008002,Tournai,other,328,15,237
+mmmp:tgn_7004446,Cologne,control,312,21,181
+mmmp:sdbm_sdbm_1227,Abbaye de Saint-Amand,other,310,32,277
+mmmp:tgn_7002148,Shīrāz,other,307,0,217
+mmmp:tgn_7008101,Berkshire,other,303,2,294
+mmmp:tgn_7007653,El Escorial,other,301,0,299
+mmmp:tgn_1000062,Austria,other,290,28,132
+mmmp:tgn_7008329,Vendôme,other,281,4,271
+mmmp:tgn_7014210,New Haven,other,274,0,210
+mmmp:tgn_7003128,Ferrara,other,271,0,197
+mmmp:tgn_7003991,Pesaro,other,270,0,257
+mmmp:tgn_7008841,Aberystwyth,other,269,0,267
+mmmp:tgn_7006926,Utrecht,other,266,3,204
+mmmp:tgn_1000144,Turkey,other,264,5,173
+mmmp:tgn_7007568,New York,other,254,0,225
+mmmp:tgn_7001306,Dublin,other,251,0,244
+mmmp:tgn_7017415,Bourges,other,234,1,203
+mmmp:tgn_1038166,Altdorf,other,234,0,232
+mmmp:tgn_7011731,Switzerland,other,228,8,98
+mmmp:tgn_4004316,"Germany, Southern",other,226,26,156
+mmmp:tgn_7005662,Vercelli,other,224,0,219
+mmmp:tgn_7008171,Yorkshire,other,213,19,65
+mmmp:tgn_7001575,Patna,other,208,0,207
+mmmp:tgn_7008237,Autun,other,202,1,192
+mmmp:tgn_7003325,Belluno,other,199,0,196
+mmmp:tgn_4004037,Southern France,other,196,67,103
+mmmp:tgn_7002444,Scotland,other,194,4,121
+mmmp:tgn_7010597,Liverpool,other,189,0,181
+mmmp:tgn_7008350,Troyes,other,186,6,141
+mmmp:tgn_7006305,Volterra,other,185,0,177
+mmmp:tgn_7006366,Poland,other,184,3,103
+mmmp:tgn_7024412,Ottoman Empire,other,183,0,155
+mmmp:tgn_7003712,Berlin,other,179,0,144
+mmmp:tgn_7006810,"Hague, The",other,177,1,160
+mmmp:tgn_7006120,Cortona,other,176,0,175
+mmmp:tgn_7007945,Liège,other,175,9,111
+mmmp:tgn_1000078,Ireland,other,167,34,73
+mmmp:tgn_7003167,Pistoia,other,166,0,161
+mmmp:tgn_8711669,Southern Netherlands,other,165,19,144
+mmmp:tgn_7008418,Metz,other,159,10,103
+mmmp:tgn_7023900,Los Angeles,other,157,0,127
+mmmp:tgn_6003667,Mamluk Sultanate,other,157,9,150
+mmmp:sdbm_sdbm_2479,Abbaye Saint-Martin de Tournai,other,153,1,147
+mmmp:tgn_7008416,Épinal,other,152,0,150
+mmmp:tgn_7004455,Dresden,other,151,1,146
+mmmp:tgn_7010563,Soissons,other,149,5,131
+mmmp:tgn_7008568,Cognac,other,146,0,146
+mmmp:tgn_7009573,Oslo,other,142,0,139
+mmmp:tgn_7000231,Iran,other,140,2,52
+mmmp:tgn_7006651,Armenia,other,140,14,76
+mmmp:tgn_7593196,Eastern Mediterranean,other,140,41,83
+mmmp:sdbm_sdbm_2036,Livorno,other,139,0,136
+mmmp:tgn_1000097,Sweden,other,138,2,70
+mmmp:tgn_7008924,Évreux,other,136,1,128
+mmmp:tgn_7013304,Ann Arbor,other,136,0,134
+mmmp:tgn_1000090,Portugal,other,134,1,59
+mmmp:tgn_7019064,York,other,134,5,116
+mmmp:tgn_7005560,Mexico,other,132,1,92
+mmmp:tgn_7019109,Edinburgh,other,131,0,112
+mmmp:tgn_1035657,Savigny-lès-Beaune,other,131,0,130
+mmmp:tgn_1000140,Syria,other,130,42,48
+mmmp:tgn_2085071,McMinnville,other,128,0,113
+mmmp:tgn_7003271,Rovigo,other,127,0,125
+mmmp:tgn_7003474,Copenhagen,other,126,0,110
+mmmp:tgn_7008621,Alençon,other,125,0,119
+mmmp:tgn_7009760,Tuscany,other,125,10,80
+mmmp:tgn_7007703,Granada,other,125,3,79
+mmmp:tgn_7013284,Toronto,other,124,0,118
+mmmp:tgn_1100137,Monastery of Saint Catherine,other,123,2,118
+mmmp:tgn_7007269,Basel,control,122,0,87
+mmmp:tgn_7445652,South Kensington,other,122,0,122
+mmmp:tgn_7008339,Châlons-en-Champagne,other,121,1,113
+mmmp:tgn_7008248,Perrecy-les-Forges,other,121,120,0
+mmmp:tgn_7011182,Thessaloníki,other,121,0,112
+mmmp:tgn_7002848,Valladolid,other,119,0,89
+mmmp:tgn_7009782,Aberdeen,other,117,0,98
+mmmp:tgn_7669119,Northeastern France,other,117,20,69
+mmmp:tgn_7008546,Genoa,other,116,1,41
+mmmp:tgn_7002847,Toledo,other,116,6,93
+mmmp:tgn_7000208,India,other,116,1,78
+mmmp:tgn_7005693,Ivrea,other,115,0,112
+mmmp:tgn_7002443,Wales,other,112,3,81
+mmmp:tgn_4005362,Northeastern Italy,other,112,3,86
+mmmp:tgn_7003237,Lombardy,other,111,7,63
+mmmp:tgn_1003471,Macerata,other,110,0,106
+mmmp:tgn_7032136,Leeds,other,109,0,99
+mmmp:tgn_7002886,Normandy,other,107,24,64
+mmmp:tgn_7009264,La Rochelle,other,105,1,103
+mmmp:tgn_7013386,Berkeley,other,103,0,83
+mmmp:tgn_7003466,Namur,other,103,1,97
+mmmp:tgn_7029372,Burgundy,other,103,5,69
+mmmp:tgn_7019097,Glasgow,other,102,0,95
+mmmp:tgn_7003722,Erfurt,control,102,3,53
+mmmp:tgn_4005361,Central Italy,other,102,15,72
+mmmp:tgn_1000120,Japan,other,101,2,75
+mmmp:tgn_7004451,Trier,other,100,8,64
+mmmp:tgn_7008461,Lille,other,99,5,63
+mmmp:tgn_7007856,Antwerp,other,99,1,66
+mmmp:tgn_7003765,Zürich,other,97,0,86
+mmmp:tgn_7013875,Lawrence,other,97,0,95
+mmmp:tgn_4005365,Southern Italy,other,97,26,33
+mmmp:tgn_7003168,Siena,other,96,2,60
+mmmp:tgn_7029439,Low Countries,other,96,5,74
+mmmp:tgn_7011309,Barnstaple,other,95,0,94
+mmmp:tgn_7005048,Gubbio,other,94,0,86
+mmmp:tgn_7011953,Exeter,other,93,4,85
+mmmp:tgn_7011375,Winchester,other,93,14,69
+mmmp:tgn_7003669,Bavaria,other,90,7,62
+mmmp:tgn_7271686,'t Goy,other,90,0,86
+mmmp:tgn_7008441,Toulouse,other,88,17,52
+mmmp:tgn_7030216,Catalonia,other,87,6,66
+mmmp:tgn_7010027,Durham,other,86,10,62
+mmmp:tgn_7005028,Guastalla,other,86,0,82
+mmmp:tgn_7008154,Lancashire,other,86,0,81
+mmmp:tgn_7013803,Ithaca,other,86,0,85
+mmmp:tgn_7008412,Nancy,other,85,1,70
+mmmp:sdbm_sdbm_4775,"St. Hughs Charterhouse, Parkminster",other,85,0,83
+mmmp:tgn_7000261,Yemen,other,84,11,52
+mmmp:tgn_7008736,Mechelen,other,81,0,67
+mmmp:tgn_7016190,Princeton,other,80,0,69
+mmmp:sdbm_sdbm_176,Northern Netherlands,other,79,0,71
+mmmp:tgn_7003139,Viterbo,other,77,0,74
+mmmp:tgn_7017418,Poitiers,other,76,4,36
+mmmp:tgn_7002243,Herāt,other,76,0,57
+mmmp:tgn_7015827,Tuxedo Park,other,75,0,73
+mmmp:sdbm_sdbm_888,Near East,other,75,31,43
+mmmp:tgn_7009369,Montpellier,other,74,5,58
+mmmp:tgn_7008185,Suffolk,other,74,9,46
+mmmp:tgn_7008243,Cluny,other,73,15,10
+mmmp:tgn_7001792,Dunedin,other,73,0,68
+mmmp:tgn_7002435,Russia,other,73,0,31
+mmmp:tgn_6005089,Safavid Empire,other,72,0,65
+mmmp:tgn_7003007,Verona,other,71,3,35
+mmmp:tgn_7007426,Barcelona,other,70,2,46
+mmmp:tgn_7007048,Haarlem,other,69,0,59
+mmmp:tgn_7014456,San Francisco,other,69,0,55
+mmmp:tgn_7016886,North Africa,other,68,26,50
+mmmp:tgn_7006470,Bohemia,other,67,3,43
+mmmp:tgn_7008480,Angers,other,66,3,33
+mmmp:tgn_7007460,Sankt Gallen,other,66,18,38
+mmmp:sdbm_sdbm_4120,Constantinople,other,66,14,16
+mmmp:tgn_7010955,Birmingham,other,64,0,53
+mmmp:tgn_7596719,Ville-sous-la-Ferté,other,63,53,26
+mmmp:tgn_7011192,Cheltenham,other,63,0,59
+mmmp:tgn_7004929,Rimini,other,62,3,52
+mmmp:tgn_7012346,Strasbourg,other,61,4,45
+mmmp:tgn_7001117,Dar es Salaam,other,61,0,60
+mmmp:tgn_7003165,Lucca,other,61,0,49
+mmmp:tgn_7008471,Valenciennes,other,60,0,49
+mmmp:tgn_7010220,Laon,other,60,36,2
+mmmp:tgn_7004597,Modena,other,60,0,45
+mmmp:tgn_7001923,Sydney,other,59,0,37
+mmmp:tgn_7011707,Rochester,other,59,43,7
+mmmp:tgn_7014630,Williamstown,other,59,0,56
+mmmp:tgn_7009867,Uppsala,other,58,0,57
+mmmp:sdbm_sdbm_32,Eastern France,other,58,21,29
+mmmp:tgn_7003683,Rhineland,other,58,9,42
+mmmp:tgn_7006464,Prague,control,57,0,33
+mmmp:tgn_7004020,San Severino Marche,other,57,0,56
+mmmp:tgn_7003750,Luzern,other,57,0,54
+mmmp:tgn_7019018,Bristol,other,56,2,44
+mmmp:tgn_7000489,Ethiopia,other,56,5,42
+mmmp:tgn_7012056,Crete,other,55,1,32
+mmmp:sdbm_sdbm_4337,Saint-Mihiel,other,55,0,52
+mmmp:tgn_7001766,Auckland,other,54,0,51
+mmmp:sdbm_sdbm_1005,Mamluk Egypt,other,54,3,51
+mmmp:tgn_7008028,Provins,other,53,1,49
+mmmp:tgn_7007949,Louvain,other,53,2,25
+mmmp:tgn_7005852,Como,other,53,0,45
+mmmp:tgn_7012209,Provence,other,53,7,39
+mmmp:tgn_7008160,Norfolk,other,53,2,34
+mmmp:sdbm_sdbm_1013,Ottoman Turkey,other,53,0,45
+mmmp:tgn_7005293,Frankfurt am Main,other,52,1,20
+mmmp:tgn_7008209,Caen,other,52,0,45
+mmmp:tgn_7013265,Akron,other,52,0,50
+mmmp:tgn_7016820,Bukhara,other,52,1,41
+mmmp:tgn_7008410,Limoges,other,51,11,22
+mmmp:tgn_7005688,Turin,other,51,0,31
+mmmp:tgn_7008561,Salamanca,control,51,0,39
+mmmp:sdbm_sdbm_430,Shrewsbury,other,51,2,46
+mmmp:sdbm_sdbm_790,Byzantium/Constantinople,other,51,14,27
+mmmp:tgn_1000953,Jerusalem,other,51,4,26
+mmmp:tgn_7003166,Pisa,glass,51,1,33
+mmmp:tgn_2090320,Haverford,other,50,0,48
+mmmp:tgn_1000118,Iraq,other,50,10,5
+mmmp:tgn_7013608,Cleveland,other,50,0,37
+mmmp:sdbm_sdbm_1443,Ashkenaz,other,50,10,44
+mmmp:tgn_7040167,Savigno,other,49,0,48
+mmmp:sdbm_sdbm_190,Southern England,other,49,22,22
+mmmp:tgn_7004449,Mainz,other,48,6,24
+mmmp:tgn_7010948,Leicester,other,48,0,42
+mmmp:tgn_7013418,Beverly Hills,other,48,0,46
+mmmp:tgn_7003463,Brabant,other,47,3,22
+mmmp:tgn_1003757,Hainaut,other,47,3,35
+mmmp:sdbm_sdbm_1399,Timurid Persia,other,47,0,44
+mmmp:tgn_7013346,Austin,other,47,0,25
+mmmp:tgn_7008468,Arras,other,46,3,18
+mmmp:tgn_7001215,Cairo,other,46,12,24
+mmmp:tgn_7013051,Montreal,other,46,0,42
+mmmp:tgn_2067768,Allegany,other,46,0,1
+mmmp:sdbm_sdbm_53,Central France,other,46,13,28
+mmmp:tgn_7012004,Ipswich,other,45,2,42
+mmmp:tgn_1001780,Czech Republic,other,45,0,10
+mmmp:tgn_7029812,Qazvīn,other,45,0,34
+mmmp:tgn_7010590,Corbie,other,44,16,4
+mmmp:tgn_7011210,Salisbury,other,44,15,19
+mmmp:tgn_7002156,Tabrīz,other,44,2,36
+mmmp:tgn_7014604,Wellesley,other,44,0,43
+mmmp:tgn_7001519,Levant,other,43,6,36
+mmmp:tgn_7003742,Bern,other,43,0,37
+mmmp:tgn_7010914,Bury Saint Edmunds,other,43,9,20
+mmmp:tgn_7012216,Brittany,other,43,9,25
+mmmp:tgn_7001933,Melbourne,other,42,0,29
+mmmp:tgn_7004004,Fabriano,other,42,0,41
+mmmp:tgn_1000119,Israel,other,42,0,2
+mmmp:tgn_7006804,Delft,other,42,0,24
+mmmp:tgn_7005880,Mantova,other,42,2,25
+mmmp:tgn_2028563,Kenilworth,other,42,0,40
+mmmp:tgn_4004039,"France, Western",other,42,18,20
+mmmp:tgn_4002136,Cambron-Casteau,other,41,0,3
+mmmp:tgn_7006011,Lodi,other,41,0,37
+mmmp:tgn_7025691,"Plymouth, City of",other,41,0,37
+mmmp:tgn_1003638,Saint Albans,other,41,19,12
+mmmp:tgn_7002482,Baghdad,other,41,18,16
+mmmp:tgn_7457633,Northern England,other,41,12,20
+mmmp:tgn_7010570,Beauvais,other,40,10,19
+mmmp:tgn_7002261,Damascus,other,40,9,25
+mmmp:tgn_7446334,Stratton-on-the-Fosse,other,40,0,39
+mmmp:tgn_7013496,Regensburg,other,40,5,25
+mmmp:tgn_7008174,Staffordshire,other,40,1,32
+mmmp:sdbm_sdbm_34,Western Germany,other,40,14,19
+mmmp:sdbm_sdbm_2133,Wolvelay,other,40,1,39
+mmmp:tgn_7010978,Lisbon,other,39,1,23
+mmmp:tgn_7009618,Saint-Dié,other,39,0,36
+mmmp:tgn_7008127,Durham,other,39,0,38
+mmmp:tgn_7005765,Brescia,other,39,1,21
+mmmp:tgn_7008153,Kent,other,39,1,12
+mmmp:sdbm_sdbm_11,Northwestern France,other,39,18,18
+mmmp:tgn_7008423,Rodez,other,38,2,35
+mmmp:tgn_7010587,Abbeville,other,37,1,34
+mmmp:tgn_7012973,East Anglia,other,37,8,25
+mmmp:tgn_4002028,Buxheim,other,37,0,25
+mmmp:sdbm_sdbm_2731,Abbaye de Chaalis,other,37,30,3
+mmmp:tgn_7026520,Peterborough,other,37,4,27
+mmmp:tgn_7012034,Shropshire,other,36,5,17
+mmmp:tgn_7011918,Reading,other,35,16,11
+mmmp:tgn_7005174,Konstanz,other,35,1,18
+mmmp:tgn_7010723,Lincoln,other,35,1,23
+mmmp:tgn_7003256,Salzburg,other,35,6,18
+mmmp:tgn_7015155,Worcester,other,35,10,19
+mmmp:sdbm_sdbm_3438,Saint-Quentin,other,35,0,32
+mmmp:tgn_7003122,Sicily,other,35,7,18
+mmmp:tgn_7014675,Urbana,other,35,0,31
+mmmp:tgn_7013415,Bethesda,other,35,0,34
+mmmp:tgn_7004912,Forlì,other,34,0,31
+mmmp:tgn_7002784,Castile,other,34,3,12
+mmmp:tgn_7008470,Saint-Amand-les-Eaux,other,33,10,1
+mmmp:tgn_7008255,Sens,other,33,1,19
+mmmp:tgn_7008198,Moulins,other,33,0,31
+mmmp:tgn_1035600,Salins-les-Bains,other,33,1,31
+mmmp:tgn_7007710,Pennsylvania,other,33,0,25
+mmmp:tgn_1003759,Holland,other,33,0,24
+mmmp:tgn_7013604,Cincinnati,other,33,0,24
+mmmp:tgn_1000111,China,other,33,3,10
+mmmp:tgn_7024418,Mughal Empire,other,33,0,23
+mmmp:tgn_7009861,Stockholm,other,32,0,26
+mmmp:tgn_7008456,Cambrai,other,32,2,17
+mmmp:tgn_7008813,Zaragoza,other,32,0,22
+mmmp:tgn_7012290,Samarkand,other,32,2,27
+mmmp:tgn_7010692,Sheffield,other,32,0,26
+mmmp:sdbm_sdbm_3011,Włocławek,other,32,0,0
+mmmp:tgn_7007920,Washington,other,32,0,31
+mmmp:tgn_7003162,Arezzo,other,32,0,22
+mmmp:tgn_4004315,"Germany, Northern",other,32,0,19
+mmmp:tgn_7013341,Auxerre,other,31,1,14
+mmmp:tgn_7007510,Burgos,other,31,0,24
+mmmp:tgn_7008131,Essex,other,31,3,15
+mmmp:tgn_7002759,Aragon,other,31,1,9
+mmmp:tgn_7013952,Providence,other,31,0,26
+mmmp:tgn_7002997,Veneto,other,31,1,17
+mmmp:tgn_1100391,Blenheim Palace,other,31,0,30
+mmmp:tgn_7011128,Gloucester,other,30,3,27
+mmmp:tgn_7001775,Wellington,other,30,0,29
+mmmp:tgn_7002722,Mount Athos,other,30,6,5
+mmmp:tgn_7003994,Urbino,other,30,0,17
+mmmp:tgn_7008672,Auch,other,30,0,29
+mmmp:sdbm_sdbm_1145,Anatolia,other,30,8,24
+mmmp:tgn_7019073,Newcastle upon Tyne,other,29,1,22
+mmmp:tgn_7005869,Cremona,other,29,3,14
+mmmp:tgn_7008591,United Kingdom,other,29,0,2
+mmmp:tgn_1000066,Denmark,other,29,0,11
+mmmp:tgn_2040491,New Hope,other,29,0,29
+mmmp:tgn_7004799,Aachen,other,28,5,18
+mmmp:tgn_7177760,Hannöver,other,28,0,26
+mmmp:tgn_7005023,Bergamo,other,28,0,18
+mmmp:tgn_7014247,Notre Dame,other,28,0,23
+mmmp:sdbm_sdbm_428,Southeastern England,other,28,4,17
+mmmp:tgn_7594631,Khorāsān,other,28,3,23
+mmmp:tgn_1128413,Parma,other,27,0,14
+mmmp:tgn_2078985,Cleveland Heights,other,27,0,26
+mmmp:tgn_7012653,Pforzheim,other,27,0,26
+mmmp:tgn_7003870,Mecca,other,27,1,22
+mmmp:sdbm_sdbm_3457,Sephardic zone,other,27,1,25
+mmmp:tgn_7008189,Agen,other,26,3,16
+mmmp:tgn_7008008,Meaux,other,26,3,17
+mmmp:tgn_1006894,Cyprus,other,26,4,8
+mmmp:tgn_7006278,Hungary,other,26,1,5
+mmmp:tgn_7024273,Picardy,other,26,4,15
+mmmp:tgn_7078658,Würzburg,other,26,3,13
+mmmp:tgn_1001052,İstanbul,other,26,1,18
+mmmp:tgn_7003685,Saxony,other,26,1,8
+mmmp:tgn_7015500,Dubrovnik,other,26,0,0
+mmmp:tgn_7008368,Narbonne,other,25,3,10
+mmmp:tgn_7008494,Le Mans,other,25,1,14
+mmmp:tgn_7008343,Langres,other,25,2,11
+mmmp:tgn_7005759,Monte Carlo,other,25,0,23
+mmmp:tgn_7003299,Conegliano,other,25,0,23
+mmmp:tgn_7008009,Melun,other,24,0,22
+mmmp:tgn_7008166,North Yorkshire,other,24,0,21
+mmmp:tgn_7011866,Colchester,other,24,0,15
+mmmp:tgn_7024415,Holy Roman Empire,control,24,1,5
+mmmp:tgn_7014214,New Orleans,other,24,0,19
+mmmp:sdbm_sdbm_359,Strassburg,other,24,1,19
+mmmp:sdbm_sdbm_118,Southwestern France,other,24,8,9
+mmmp:sdbm_sdbm_321,Western England,other,24,14,7
+mmmp:tgn_7464654,Bradfield,other,24,0,24
+mmmp:tgn_7009706,Saint-Denis,other,23,10,5
+mmmp:tgn_7008263,Rennes,other,23,2,10
+mmmp:tgn_7008202,Clermont-Ferrand,other,23,4,6
+mmmp:tgn_7002758,Andalusia,other,23,6,5
+mmmp:tgn_7009439,Pontarlier,other,23,0,22
+mmmp:tgn_7027442,Blackburn,other,23,0,21
+mmmp:tgn_7001977,Perth,other,23,0,21
+mmmp:tgn_7003132,Piacenza,other,23,1,12
+mmmp:tgn_7032930,Abyssinia (historical),other,23,0,14
+mmmp:tgn_7001526,Middle East,other,23,3,21
+mmmp:sdbm_sdbm_308,Southern Flanders,other,23,1,16
+mmmp:sdbm_sdbm_905,Sultanate India,other,23,0,22
+mmmp:tgn_7024272,Lorraine,other,22,5,13
+mmmp:tgn_7012077,Devon,other,22,4,16
+mmmp:tgn_7004013,Serra San Quirico,other,22,0,21
+mmmp:tgn_7006359,Kraków,other,22,0,10
+mmmp:tgn_7013437,Bloomington,other,22,0,20
+mmmp:tgn_1000179,Morocco,other,22,2,11
+mmmp:tgn_2095481,Cayce,other,22,0,6
+mmmp:tgn_7011675,Bukhara,other,22,2,20
+mmmp:tgn_7008781,Marseille,other,21,2,8
+mmmp:tgn_7009506,Toul,other,21,0,9
+mmmp:tgn_7007961,Mons,other,21,3,10
+mmmp:tgn_7013695,Hartford,other,21,0,17
+mmmp:tgn_7007947,Lissewege,other,21,9,12
+mmmp:tgn_7008254,Pontigny,other,21,14,2
+mmmp:tgn_7011037,Lichfield,other,21,0,17
+mmmp:tgn_7010831,Wisbech,other,21,0,19
+mmmp:tgn_7007919,Virginia,other,21,0,16
+mmmp:sdbm_sdbm_863,Orient,other,21,4,9
+mmmp:sdbm_sdbm_233,Kloster Rebdorf,other,21,2,5
+mmmp:tgn_1001228,Eşfahān,other,21,0,16
+mmmp:tgn_6000008,Abbasid Caliphate,other,21,5,0
+mmmp:tgn_7007068,Enschede,other,21,0,19
+mmmp:tgn_7008766,Chambéry,other,20,0,18
+mmmp:tgn_7008320,Blois,other,20,0,13
+mmmp:tgn_7008458,Douai,other,20,0,9
+mmmp:tgn_7012349,Wittenberg,other,20,0,9
+mmmp:tgn_7002252,Aleppo,other,20,1,13
+mmmp:tgn_7005248,Hildesheim,other,20,4,10
+mmmp:tgn_7014273,Portland,other,20,0,15
+mmmp:tgn_7008157,Lincolnshire,other,20,6,7
+mmmp:tgn_7003151,Pavia,other,20,1,13
+mmmp:tgn_1094947,Houmt Souk,other,20,0,20
+mmmp:sdbm_sdbm_178,Southwestern Germany,other,20,4,11
+mmmp:tgn_7008482,Nantes,other,19,0,10
+mmmp:tgn_7007513,Cordova,other,19,1,9
+mmmp:tgn_7004423,Freiburg im Breisgau,other,19,0,14
+mmmp:tgn_1000003,Europe,other,19,0,9
+mmmp:tgn_7014444,Saint Louis,other,19,0,12
+mmmp:tgn_7012031,Northamptonshire,other,19,1,13
+mmmp:sdbm_sdbm_852,Western India,other,19,0,16
+mmmp:tgn_7001297,Thebes,other,19,0,0
+mmmp:tgn_7004847,Bologna,control,18,4,14
+mmmp:tgn_7008208,Bayeux,other,18,1,8
+mmmp:tgn_7010580,Noyon,other,18,4,10
+mmmp:tgn_7004540,Palestine,other,18,7,5
+mmmp:tgn_7162612,Ingolstadt,other,18,0,12
+mmmp:tgn_1040126,Lindau,other,18,0,16
+mmmp:tgn_7009562,Saint Andrews,other,18,0,15
+mmmp:tgn_1034084,Loire,other,18,2,9
+mmmp:tgn_7001319,Tibet,other,18,6,16
+mmmp:tgn_7005994,Arnstein,other,18,18,0
+mmmp:tgn_4007527,Morimondo,other,17,5,2
+mmmp:tgn_1042924,Maynooth,other,17,0,15
+mmmp:tgn_7658604,Champagne,other,17,7,10
+mmmp:tgn_7007077,Zwolle,other,17,0,12
+mmmp:sdbm_sdbm_1031,Bath,other,17,7,5
+mmmp:tgn_7009002,Calais,other,17,1,13
+mmmp:tgn_7002996,Treviso,other,17,1,6
+mmmp:tgn_7024413,Savoy,other,17,1,9
+mmmp:sdbm_sdbm_4003,Northwestern Germany,other,17,3,12
+mmmp:tgn_7008661,Segovia,other,16,1,9
+mmmp:tgn_7011062,Saint-Omer,other,16,3,9
+mmmp:tgn_7012045,Chester,other,16,2,9
+mmmp:tgn_7007994,Stavelot,other,16,3,4
+mmmp:tgn_7014348,Rochester,other,16,0,13
+mmmp:tgn_7004930,Savignano sul Rubicone,other,16,0,15
+mmmp:tgn_7003534,Luxembourg,other,16,1,3
+mmmp:tgn_7003029,Tyrol,other,16,0,7
+mmmp:tgn_1012700,Arabian Peninsula,other,16,8,0
+mmmp:tgn_7004067,L'Aquila,other,16,0,6
+mmmp:sdbm_sdbm_290,Eastern England,other,16,3,6
+mmmp:sdbm_sdbm_722,Eastern Netherlands,other,16,0,15
+mmmp:sdbm_sdbm_253,Northern Austria,other,16,1,15
+mmmp:tgn_7004425,Stuttgart,other,15,0,9
+mmmp:tgn_7008853,Koksijde,other,15,6,10
+mmmp:tgn_7008715,Tarragona,other,15,2,11
+mmmp:tgn_7005099,Minden,other,15,0,14
+mmmp:sdbm_sdbm_3748,Abbaye Saint-Corneille de Compiègne,other,15,11,5
+mmmp:tgn_7012032,Somerset,other,15,4,9
+mmmp:tgn_7001554,Mesopotamia,other,15,10,3
+mmmp:tgn_7013545,Denver,other,15,0,8
+mmmp:tgn_1000205,Tunisia,other,15,1,2
+mmmp:tgn_1000126,Lebanon,other,15,1,7
+mmmp:tgn_7001867,Canberra,other,15,0,12
+mmmp:sdbm_sdbm_3795,Safavid Persia,other,15,0,13
+mmmp:sdbm_sdbm_318,Northern Spain,other,15,4,9
+mmmp:tgn_7447921,Stanton Lacy,other,15,3,12
+mmmp:tgn_7010413,Madrid,other,14,1,6
+mmmp:tgn_7012190,Ely,other,14,1,8
+mmmp:tgn_7017069,Anjou,other,14,1,6
+mmmp:tgn_7012974,Moscow,other,14,0,8
+mmmp:tgn_8697461,Greece (historical),other,14,2,13
+mmmp:tgn_1000226,New Zealand,other,14,0,12
+mmmp:tgn_7012427,Dillingen an der Donau,other,14,0,9
+mmmp:tgn_7016612,Afghanistan,other,14,0,8
+mmmp:tgn_7008132,Gloucestershire,other,14,2,6
+mmmp:tgn_7066334,Ulm,other,14,0,8
+mmmp:tgn_7003137,Rieti,other,14,0,10
+mmmp:tgn_7008133,Sussex,other,14,2,7
+mmmp:tgn_7008178,Warwickshire,other,14,0,8
+mmmp:tgn_7001242,Africa,other,14,2,4
+mmmp:sdbm_sdbm_996,Mexico City,other,14,0,9
+mmmp:tgn_7003157,Messina,other,14,0,9
+mmmp:tgn_1003429,Ancona,other,14,0,7
+mmmp:tgn_7121033,Passau,other,14,1,9
+mmmp:tgn_7003617,Friesland,other,14,0,7
+mmmp:tgn_7010786,Aix-en-Provence,other,13,1,8
+mmmp:tgn_7005728,Pinerolo,other,13,0,8
+mmmp:tgn_7010874,Cambridge,control,13,0,3
+mmmp:tgn_7011091,Hereford,other,13,0,6
+mmmp:tgn_7629442,Longpont,other,13,0,11
+mmmp:tgn_7004445,Münster,other,13,1,7
+mmmp:tgn_7008928,Louviers,other,13,0,12
+mmmp:tgn_7006663,Croatia,other,13,0,1
+mmmp:tgn_7011483,Brighton,other,13,0,9
+mmmp:tgn_7008118,Derbyshire,other,13,0,8
+mmmp:tgn_7012194,Artois,other,13,2,6
+mmmp:tgn_7001197,Al Fayyūm,other,13,3,1
+mmmp:tgn_7017048,Swabia,other,13,1,9
+mmmp:tgn_7005289,Hamburg,other,12,0,2
+mmmp:tgn_1000088,Norway,other,12,0,2
+mmmp:tgn_7008927,Le Havre,other,12,0,10
+mmmp:tgn_1000077,Iceland,other,12,0,6
+mmmp:tgn_7014153,Evanston,other,12,0,10
+mmmp:tgn_7011241,Wells,other,12,0,11
+mmmp:tgn_7013927,Pittsburgh,other,12,0,7
+mmmp:tgn_7017994,Budapest,other,12,0,5
+mmmp:tgn_7012327,Lubeck,other,12,0,6
+mmmp:tgn_7001889,Ballarat,other,12,0,9
+mmmp:tgn_7006940,Deventer,other,12,0,5
+mmmp:tgn_7012772,Westphalia,other,12,0,7
+mmmp:tgn_4007816,New Oscott,other,12,0,11
+mmmp:sdbm_sdbm_196,Northwestern Italy,other,12,2,7
+mmmp:sdbm_sdbm_201,Southeastern France,other,12,5,6
+mmmp:tgn_7006951,North Holland,other,12,1,11
+mmmp:tgn_8060287,Westhoek,other,12,0,11
+mmmp:tgn_1000132,Nepal,other,12,1,12
+mmmp:sdbm_sdbm_2168,Midhopestones,other,12,0,12
+mmmp:tgn_7008242,Chalon-sur-Saône,other,11,1,5
+mmmp:tgn_7006876,Arnhem,other,11,0,6
+mmmp:tgn_7015451,Dalmatia,other,11,0,8
+mmmp:tgn_7007350,Einsiedeln,other,11,0,9
+mmmp:tgn_1064666,Hawarden,other,11,0,9
+mmmp:tgn_7003917,Nicosia,other,11,0,10
+mmmp:tgn_7303780,Osma,other,11,0,10
+mmmp:tgn_7011961,Dorset,other,11,0,7
+mmmp:tgn_7010052,Ripon,other,11,0,9
+mmmp:tgn_1030472,Rugby,other,11,0,10
+mmmp:tgn_7026528,Southampton,other,11,0,7
+mmmp:tgn_7024266,Auvergne,other,11,1,7
+mmmp:tgn_7003928,Palermo,other,11,1,4
+mmmp:tgn_7001188,Alexandria,other,11,4,4
+mmmp:tgn_7008168,Oxfordshire,control,11,3,5
+mmmp:tgn_7013507,Davenport,other,11,0,9
+mmmp:tgn_7008180,Wiltshire,other,11,1,9
+mmmp:tgn_7006661,Uzbekistan,other,11,0,0
+mmmp:tgn_1000056,Peru,other,11,0,9
+mmmp:tgn_7013727,Houston,other,11,0,9
+mmmp:sdbm_sdbm_642,Windesheim,other,11,0,8
+mmmp:tgn_7014304,Orlando,other,11,0,10
+mmmp:tgn_7003125,Umbria,other,11,3,8
+mmmp:tgn_7001969,Dunhuang,other,11,11,0
+mmmp:sdbm_sdbm_3234,Southern Low Countries,other,11,3,10
+mmmp:sdbm_sdbm_443,Southwestern England,other,11,6,7
+mmmp:tgn_7008163,Périgueux,other,10,1,6
+mmmp:tgn_7007299,Lausanne,other,10,0,1
+mmmp:tgn_7011869,Saffron Walden,other,10,0,8
+mmmp:tgn_7007885,Gembloux,other,10,0,7
+mmmp:tgn_7008215,Coutances,other,10,1,4
+mmmp:tgn_7024269,Île-de-France,other,10,4,5
+mmmp:tgn_7006669,Serbia,other,10,1,7
+mmmp:tgn_7011407,Chichester,other,10,0,6
+mmmp:tgn_1100372,Windsor Castle,other,10,0,9
+mmmp:tgn_7015546,Split,other,10,0,0
+mmmp:tgn_7008114,Cheshire,other,10,1,4
+mmmp:tgn_7015822,Brooklyn,other,10,0,8
+mmmp:tgn_7007157,California,other,10,0,5
+mmmp:tgn_7016786,Prussia,other,10,0,1
+mmmp:tgn_4011386,Troussures,other,10,0,8
+mmmp:tgn_7000490,Australia,other,10,0,1
+mmmp:tgn_7008103,Bedfordshire,other,10,6,5
+mmmp:tgn_7010925,Metéora,other,10,4,3
+mmmp:tgn_7012288,Middlesex,other,10,0,7
+mmmp:tgn_7008145,Hertfordshire,other,10,2,5
+mmmp:tgn_7008876,Bevagna,other,10,0,8
+mmmp:tgn_1127056,Melk,other,10,2,5
+mmmp:tgn_7010384,Wigan,other,10,0,9
+mmmp:tgn_7013578,Chapel Hill,other,10,0,9
+mmmp:tgn_7006073,Grosseto,other,10,0,9
+mmmp:tgn_7002470,Cilicia,other,10,5,5
+mmmp:tgn_1100072,Canterbury Cathedral,other,10,3,6
+mmmp:tgn_1047093,Terranuova Bracciolini,other,10,0,7
+mmmp:sdbm_sdbm_440,Abbaye Notre-Dame de Cambron,other,10,6,1
+mmmp:tgn_7603689,Touraine,other,10,3,7
+mmmp:tgn_7008478,Thérouanne,other,10,0,7
+mmmp:tgn_7003632,South Holland,other,10,0,9
+mmmp:tgn_7004456,Magdeburg,other,9,0,4
+mmmp:tgn_7012171,Carcassonne,other,9,1,2
+mmmp:tgn_7008244,Mâcon,other,9,1,5
+mmmp:tgn_7018796,Saint-Germain-en-Laye,other,9,0,8
+mmmp:tgn_7011179,Siena,other,9,0,3
+mmmp:tgn_7008740,Villers-la-Ville,other,9,6,3
+mmmp:tgn_7631179,Le Mont-Saint-Michel,other,9,6,0
+mmmp:tgn_7004335,Würzburg,other,9,1,3
+mmmp:tgn_7014343,Roanoke,other,9,0,7
+mmmp:tgn_7012986,Ljubljana,other,9,0,5
+mmmp:tgn_7011704,Maidstone,other,9,0,6
+mmmp:tgn_7009702,Perth,other,9,0,6
+mmmp:tgn_1042072,Chios,other,9,0,1
+mmmp:tgn_7008116,Cornwall,other,9,0,3
+mmmp:tgn_7008175,Surrey,other,9,0,3
+mmmp:tgn_7003987,Fano,other,9,0,6
+mmmp:tgn_7004613,Eichstätt,other,9,1,4
+mmmp:tgn_7002354,Antioch,other,9,2,1
+mmmp:tgn_7006805,Gouda,other,9,0,8
+mmmp:tgn_7014561,Syracuse,other,9,0,6
+mmmp:tgn_2035410,Ottumwa,other,9,0,8
+mmmp:tgn_7002791,Navarre,other,9,0,0
+mmmp:tgn_7002884,Languedoc,other,9,4,3
+mmmp:tgn_7012299,Lampeter,other,9,0,8
+mmmp:tgn_7000096,Brandenburg,other,9,0,1
+mmmp:tgn_7004953,Nonantola,other,9,1,0
+mmmp:tgn_7010350,Beverley,other,9,0,7
+mmmp:tgn_7001791,Christchurch,other,9,0,8
+mmmp:sdbm_sdbm_1041,Mamluk Turkey,other,9,2,6
+mmmp:sdbm_sdbm_3452,Northern Belgium,other,9,0,8
+mmmp:tgn_7002870,Alsace,other,9,0,7
+mmmp:tgn_1100045,Fountains Abbey,other,9,3,6
+mmmp:tgn_7004351,Ṣanʻā',other,9,0,6
+mmmp:tgn_7003691,Württemberg,other,9,0,6
+mmmp:sdbm_sdbm_894,Southern Spain,other,9,3,5
+mmmp:tgn_1083909,Nablus,other,9,3,7
+mmmp:tgn_7024113,Etruria,other,9,0,1
+mmmp:tgn_7008155,Leicestershire,other,9,1,9
+mmmp:tgn_7551828,Deccan,other,9,0,8
+mmmp:tgn_7004447,Trier,other,8,4,1
+mmmp:tgn_7008272,Amboise,other,8,0,7
+mmmp:tgn_1036898,Halle,other,8,0,5
+mmmp:tgn_7009194,Gap,other,8,0,6
+mmmp:tgn_7005108,Worms,other,8,1,7
+mmmp:tgn_7008212,Lisieux,other,8,0,3
+mmmp:tgn_7003331,Feltre,other,8,0,4
+mmmp:tgn_7009675,Sées,other,8,4,1
+mmmp:tgn_7009261,Lamballe,other,8,0,7
+mmmp:tgn_7009335,Mende,other,8,0,6
+mmmp:tgn_7005101,Paderborn,other,8,0,6
+mmmp:tgn_7011736,Reigate,other,8,0,7
+mmmp:tgn_7014378,Toledo,other,8,0,7
+mmmp:tgn_7008165,Northumberland,other,8,2,3
+mmmp:tgn_7013338,Freising,other,8,1,6
+mmmp:tgn_7007601,Breslau,other,8,0,2
+mmmp:tgn_8711845,Timurid Empire,other,8,0,4
+mmmp:sdbm_sdbm_2541,Lichtenthal Abbey,other,8,0,7
+mmmp:tgn_7003158,Trento,other,8,0,1
+mmmp:tgn_1000939,Tel Aviv,other,8,0,7
+mmmp:tgn_7012294,Northumbria,other,8,1,3
+mmmp:tgn_1079191,Marāgheh,other,8,5,0
+mmmp:sdbm_sdbm_909,Western Persia,other,8,3,4
+mmmp:tgn_1001604,Yazd,other,8,0,7
+mmmp:sdbm_sdbm_3530,Central England,other,8,4,4
+mmmp:tgn_7010773,Belém,other,8,0,8
+mmmp:tgn_7447928,Stanton,other,8,0,8
+mmmp:sdbm_sdbm_2202,Upper Midhope,other,8,0,8
+mmmp:bibale_element_110808,Leuven,other,7,1,6
+mmmp:tgn_7008775,Arles,other,7,1,3
+mmmp:tgn_7666034,Arcis-le-Ponsart,other,7,1,0
+mmmp:tgn_7654878,Chezal-Benoît,other,7,1,3
+mmmp:tgn_2049885,Haverhill,other,7,0,6
+mmmp:tgn_7004264,Ferrara,other,7,0,7
+mmmp:tgn_7008602,Montmorillon,other,7,0,1
+mmmp:tgn_1038728,Coesfeld,other,7,0,2
+mmmp:tgn_7007833,Warsaw,other,7,0,2
+mmmp:tgn_7004428,Darmstadt,other,7,0,1
+mmmp:tgn_7009485,Roubaix,other,7,0,4
+mmmp:tgn_7007462,Schaffhausen,other,7,0,5
+mmmp:tgn_7009438,Pont-à-Mousson,other,7,0,2
+mmmp:tgn_7008077,Haguenau,other,7,0,5
+mmmp:tgn_7002473,Istanbul,other,7,4,3
+mmmp:tgn_7006413,Bulgaria,other,7,1,2
+mmmp:tgn_7010886,Corfu,other,7,0,4
+mmmp:tgn_7013547,Detroit,other,7,0,5
+mmmp:tgn_7005433,Bressanone,other,7,0,5
+mmmp:tgn_7009554,Dunfermline,other,7,0,6
+mmmp:tgn_7011217,Malmesbury,other,7,1,3
+mmmp:tgn_7010446,Mirfield,other,7,0,6
+mmmp:tgn_7032018,Safad,other,7,0,6
+mmmp:tgn_7008233,Pamplona,other,7,2,4
+mmmp:tgn_7014389,Pasadena,other,7,0,3
+mmmp:tgn_7010742,Spalding,other,7,0,5
+mmmp:tgn_7002465,Kayseri,other,7,1,2
+mmmp:tgn_7012845,Merseburg,other,7,1,3
+mmmp:tgn_5000227,Worcestershire,other,7,0,2
+mmmp:tgn_7442135,Warwick,other,7,0,3
+mmmp:sdbm_sdbm_3026,Mār Sābā,other,7,2,2
+mmmp:tgn_7008589,Vienne,other,7,1,3
+mmmp:tgn_7006287,Buenos Aires,other,7,0,5
+mmmp:tgn_7011980,Cambridgeshire,control,7,1,3
+mmmp:tgn_4003755,Central Europe,other,7,0,5
+mmmp:tgn_7001904,Adelaide,other,7,0,4
+mmmp:tgn_7015447,Šibenik,other,7,0,4
+mmmp:tgn_4003756,Eastern Europe,other,7,0,4
+mmmp:tgn_7003687,Saxony-Anhalt,other,7,0,6
+mmmp:tgn_7007159,Connecticut,other,7,0,3
+mmmp:tgn_4010532,Silesia,other,7,0,4
+mmmp:tgn_2046381,Brooklandville,other,7,0,5
+mmmp:tgn_2049277,Woodstock,other,7,0,6
+mmmp:tgn_7010281,Carlisle,other,7,0,4
+mmmp:tgn_7260588,Groenekan,other,7,0,6
+mmmp:tgn_2050443,Princeton,other,7,0,7
+mmmp:tgn_7008351,Ajaccio,other,7,0,6
+mmmp:tgn_7004922,Cesena,other,7,0,4
+mmmp:tgn_7013463,Buffalo,other,7,0,5
+mmmp:tgn_7008273,Châteauroux,other,7,0,6
+mmmp:tgn_7008016,Tongerlo,other,7,0,3
+mmmp:sdbm_sdbm_314,Parc Abbey,other,7,0,4
+mmmp:sdbm_sdbm_2845,Western Netherlands,other,7,0,5
+mmmp:sdbm_sdbm_1159,Nineveh,other,7,2,2
+mmmp:sdbm_sdbm_173,Northeastern Spain,other,7,2,4
+mmmp:tgn_7016638,Gorgān,other,7,0,4
+mmmp:tgn_7299700,Uclés,other,7,5,6
+mmmp:sdbm_sdbm_881,Northwestern Africa,other,7,5,4
+mmmp:sdbm_sdbm_1594,Central Tibet,other,7,2,5
+mmmp:tgn_1001869,Gujarāt,other,7,0,7
+mmmp:tgn_7008516,Emilia-Romagna,control,7,1,6
+mmmp:tgn_7012605,Middle Rhine,other,7,2,5
+mmmp:sdbm_sdbm_2198,Worrall,other,7,1,6
+mmmp:tgn_7008383,Perpignan,other,6,3,4
+mmmp:tgn_7008757,Valence,other,6,2,2
+mmmp:tgn_7598786,Verdun,other,6,2,1
+mmmp:tgn_7008066,Poissy,other,6,1,4
+mmmp:tgn_7007090,Ávila,other,6,0,4
+mmmp:tgn_7009176,Fécamp,other,6,0,0
+mmmp:tgn_7024031,Erfurt,control,6,0,3
+mmmp:tgn_7003249,Innsbruck,other,6,1,1
+mmmp:tgn_7647290,Gosnay,other,6,0,5
+mmmp:tgn_7005938,Gotha,other,6,0,2
+mmmp:tgn_7007660,Gdańsk,other,6,0,5
+mmmp:tgn_7013637,Colorado Springs,other,6,0,4
+mmmp:tgn_7008565,Angoulême,other,6,0,2
+mmmp:tgn_1050675,Fort Augustus,other,6,0,5
+mmmp:tgn_7014060,Gettysburg,other,6,0,5
+mmmp:tgn_7008475,Hesdin,other,6,0,3
+mmmp:tgn_7009120,León,other,6,0,4
+mmmp:tgn_8706425,Lausanne,other,6,1,1
+mmmp:tgn_7005040,Foligno,other,6,0,3
+mmmp:tgn_7009107,Paisley,other,6,0,5
+mmmp:tgn_7006732,"Montecassino, Abbazia di",other,6,2,1
+mmmp:tgn_7012889,Wernigerode,other,6,0,4
+mmmp:tgn_7004995,Faenza,other,6,0,3
+mmmp:tgn_7446722,Redgrave,other,6,0,0
+mmmp:tgn_7016752,Algeria,other,6,0,1
+mmmp:tgn_7004443,Dusseldorf,other,6,0,2
+mmmp:tgn_1048226,Weesp,other,6,0,3
+mmmp:tgn_7003869,Medina,other,6,0,4
+mmmp:tgn_7006856,Roermond,other,6,0,3
+mmmp:tgn_7017228,Berry,other,6,0,3
+mmmp:tgn_1000091,Romania,control,6,1,1
+mmmp:tgn_7598860,Arrondissement de Verdun,other,6,1,2
+mmmp:sdbm_sdbm_3663,Le Puy-en-Velay,other,6,2,3
+mmmp:tgn_7005611,Asti,other,6,0,4
+mmmp:tgn_7008104,Buckinghamshire,other,6,0,3
+mmmp:tgn_7001518,Mumbai,other,6,0,5
+mmmp:tgn_7014638,Winter Park,other,6,0,4
+mmmp:tgn_7031481,Stanford,other,6,0,3
+mmmp:tgn_7003619,Gelderland,other,6,0,4
+mmmp:tgn_7003014,Salerno,other,6,2,2
+mmmp:tgn_4009491,Royaumont,other,6,0,0
+mmmp:tgn_7004393,Benevento,other,6,0,5
+mmmp:tgn_8711758,Seljuq Empire,other,6,4,2
+mmmp:sdbm_sdbm_449,Northeastern England,other,6,0,2
+mmmp:tgn_7002471,Al-Mawṣil,other,6,1,2
+mmmp:tgn_7013980,Macon,other,6,0,5
+mmmp:tgn_7002247,Mashhad,other,6,0,6
+mmmp:tgn_2072490,Spencerport,other,6,0,5
+mmmp:tgn_2064131,Bloomfield,other,6,0,5
+mmmp:tgn_7008143,Herefordshire,other,6,2,2
+mmmp:tgn_2093374,State College,other,6,0,1
+mmmp:tgn_7659249,Chambéry,other,6,1,5
+mmmp:tgn_4011586,Loire Valley,other,6,1,3
+mmmp:tgn_7004992,Bobbio,other,6,4,1
+mmmp:tgn_7001247,"Mūsá, Jabal",other,6,5,0
+mmmp:tgn_7006862,Maastricht,other,6,1,4
+mmmp:tgn_1002088,Kairouan,other,6,6,0
+mmmp:tgn_7000448,Fez,other,6,1,4
+mmmp:tgn_7011944,Abingdon,other,6,3,4
+mmmp:tgn_7012312,Echternach,other,6,5,0
+mmmp:tgn_7466976,Birstall,other,6,0,6
+mmmp:tgn_1028875,Cleckheaton,other,6,0,6
+mmmp:tgn_7003240,Marches,other,5,0,3
+mmmp:tgn_7008447,Albi,other,5,1,2
+mmmp:tgn_7008221,Beaune,other,5,0,3
+mmmp:tgn_7008371,Nîmes,other,5,1,0
+mmmp:tgn_7007959,Majorca,other,5,2,3
+mmmp:tgn_7139158,Leipzig,control,5,0,4
+mmmp:tgn_7009382,Moûtiers,other,5,0,4
+mmmp:tgn_7008240,Nevers,other,5,0,2
+mmmp:tgn_7010575,Compiègne,other,5,0,2
+mmmp:tgn_1034251,Marcoussis,other,5,0,3
+mmmp:tgn_7008005,Fontainebleau,other,5,0,3
+mmmp:tgn_7752889,Figueira de Lorvão,other,5,3,0
+mmmp:tgn_7017026,Dol-de-Bretagne,other,5,2,2
+mmmp:tgn_7011285,Abbotsbury,other,5,1,1
+mmmp:tgn_7012322,Annecy,other,5,0,1
+mmmp:tgn_7008119,Colmar,other,5,0,1
+mmmp:tgn_7005879,Mantova,other,5,0,2
+mmmp:tgn_7007789,Lleida,other,5,0,3
+mmmp:tgn_8711851,Hauts-de-France,other,5,2,3
+mmmp:tgn_7012584,Lorsch,other,5,4,0
+mmmp:tgn_7005294,Fulda,other,5,4,1
+mmmp:tgn_7013866,Lancaster,other,5,0,2
+mmmp:tgn_7018216,Saint Petersburg,other,5,0,2
+mmmp:tgn_7009962,Turku,other,5,0,2
+mmmp:tgn_7001801,Palmerston North,other,5,0,3
+mmmp:tgn_7003134,Reggio nell'Emilia,other,5,0,3
+mmmp:tgn_7011554,Dover,other,5,1,2
+mmmp:tgn_7011240,Taunton,other,5,0,4
+mmmp:tgn_7001393,Athens,other,5,0,2
+mmmp:tgn_7006948,Kampen,other,5,0,1
+mmmp:tgn_7017203,Moissac,other,5,4,0
+mmmp:tgn_1136986,Weingarten,other,5,1,0
+mmmp:tgn_7007850,Calabria,other,5,1,1
+mmmp:tgn_7006798,Dordrecht,other,5,0,3
+mmmp:tgn_7002294,Asia Minor,other,5,1,1
+mmmp:tgn_7011676,Royal Tunbridge Wells,other,5,0,2
+mmmp:tgn_7010879,Iráklion,other,5,1,3
+mmmp:tgn_1000002,South America,other,5,0,2
+mmmp:tgn_7014213,New London,other,5,0,3
+mmmp:tgn_7003613,Groningen,other,5,0,3
+mmmp:tgn_7003515,Liechtenstein,other,5,0,0
+mmmp:tgn_7005729,Malta,other,5,0,0
+mmmp:tgn_7005039,Città di Castello,other,5,0,2
+mmmp:tgn_7012598,Memmingen,other,5,0,3
+mmmp:tgn_7014531,Springfield,other,5,0,4
+mmmp:tgn_7004975,Mönchengladbach,other,5,2,0
+mmmp:tgn_7006542,Lithuania,other,5,0,1
+mmmp:tgn_7006646,Azerbaijan,other,5,0,1
+mmmp:tgn_7013892,Lincoln,other,5,0,4
+mmmp:sdbm_sdbm_3355,Christ Church Priory,other,5,1,3
+mmmp:tgn_7011265,Rhodes,other,5,1,4
+mmmp:tgn_7004644,Nola,other,5,0,3
+mmmp:sdbm_sdbm_4118,St. Augustines Abbey,other,5,4,1
+mmmp:tgn_1003505,Trieste,other,5,0,4
+mmmp:tgn_7069470,Thüringen,other,5,1,3
+mmmp:tgn_7008139,Hampshire,other,5,0,3
+mmmp:tgn_7013424,Binghamton,other,5,0,4
+mmmp:tgn_7008986,Béthune,other,5,0,4
+mmmp:tgn_7008446,Cahors,other,5,0,4
+mmmp:tgn_7003278,Lambach,other,5,1,2
+mmmp:sdbm_sdbm_352,Yugoslavia,other,5,1,3
+mmmp:tgn_7006922,Amersfoort,other,5,0,4
+mmmp:tgn_7007888,Geraardsbergen,other,5,2,2
+mmmp:tgn_7012341,Speyer,other,5,0,4
+mmmp:tgn_7016676,Iberian Peninsula,other,5,2,5
+mmmp:tgn_7006837,s Hertogenbosch,other,5,0,4
+mmmp:sdbm_sdbm_10,Northeastern Netherlands,other,5,0,5
+mmmp:sdbm_sdbm_1142,French Hainaut,other,5,1,4
+mmmp:tgn_1000621,Guatemala,other,5,0,5
+mmmp:tgn_1001363,Konya,other,5,1,4
+mmmp:sdbm_sdbm_3006,Valloires Abbey,other,5,0,5
+mmmp:sdbm_sdbm_1738,Northern India,other,5,0,5
+mmmp:sdbm_sdbm_2131,Cawthorne,other,5,1,4
+mmmp:sdbm_sdbm_2135,Barnsley,other,5,1,4
+mmmp:tgn_7030621,Ughill,other,5,1,4
+mmmp:tgn_7451814,Heckmondwike,other,5,0,5
+mmmp:sdbm_sdbm_2172,Gomersal,other,5,0,5
+mmmp:sdbm_sdbm_2188,Waldirschelfe,other,5,0,5
+mmmp:sdbm_sdbm_2263,Greenwich Manor,other,5,0,5
+mmmp:tgn_1034311,Massay,other,4,2,1
+mmmp:tgn_4009804,Saint-Thierry,other,4,0,0
+mmmp:tgn_7008192,Bayonne,other,4,2,1
+mmmp:tgn_1031182,Woking,other,4,2,2
+mmmp:tgn_7657666,Cahors,other,4,2,2
+mmmp:tgn_7009615,Saint-Claude,other,4,1,0
+mmmp:tgn_7008773,Nice,other,4,1,2
+mmmp:tgn_7008395,Tulle,other,4,0,3
+mmmp:tgn_7006141,Fiesole,other,4,0,3
+mmmp:tgn_7011061,Riom,other,4,0,4
+mmmp:tgn_7443397,Wherwell,other,4,2,3
+mmmp:tgn_7011919,Windsor,other,4,0,1
+mmmp:tgn_7640719,La Clayette,other,4,0,1
+mmmp:tgn_7009504,Tonnerre,other,4,0,0
+mmmp:tgn_7008070,Versailles,other,4,0,1
+mmmp:tgn_7005973,Jena,other,4,0,1
+mmmp:tgn_7012100,Ludlow,other,4,0,2
+mmmp:tgn_1034122,Loudun,other,4,0,3
+mmmp:tgn_7005552,Cividale del Friuli,other,4,0,1
+mmmp:tgn_7012758,Warburg,other,4,0,4
+mmmp:tgn_7007302,Zurich,other,4,0,1
+mmmp:tgn_7008081,Sélestat,other,4,0,2
+mmmp:tgn_7006254,Luxembourg,other,4,2,1
+mmmp:tgn_7618099,Pionnat,other,4,0,3
+mmmp:tgn_7007899,Ypres,other,4,0,2
+mmmp:tgn_7017240,Luxeuil-les-Bains,other,4,3,0
+mmmp:tgn_7009146,Dole,other,4,0,2
+mmmp:tgn_7003808,Agrigento,other,4,0,2
+mmmp:tgn_7013260,Hanover,other,4,0,0
+mmmp:tgn_7011744,Guildford,other,4,0,1
+mmmp:tgn_7008735,Saint Truiden,other,4,0,2
+mmmp:tgn_7011393,Portsmouth,other,4,0,0
+mmmp:tgn_7011789,Greenwich,other,4,0,2
+mmmp:tgn_4002699,Clairvaux,other,4,0,2
+mmmp:tgn_7007972,Oudenaarde,other,4,0,3
+mmmp:tgn_7004296,Reggio Calabria,other,4,0,2
+mmmp:tgn_7601494,Villedômer,other,4,4,4
+mmmp:tgn_7007619,Villeneuve-lès-Avignon,other,4,0,1
+mmmp:tgn_7007064,Enkhuizen,other,4,0,3
+mmmp:tgn_7019026,Coventry,other,4,0,2
+mmmp:tgn_7011112,Evesham,other,4,2,1
+mmmp:sdbm_sdbm_2236,Hornby,other,4,0,3
+mmmp:tgn_1034037,Libourne,other,4,0,3
+mmmp:tgn_7007712,South Carolina,other,4,0,1
+mmmp:tgn_7301216,Monserrat,other,4,0,3
+mmmp:tgn_7014648,Yonkers,other,4,0,2
+mmmp:tgn_7011765,Slovakia,other,4,0,2
+mmmp:tgn_7008232,Palma de Mallorca,other,4,0,2
+mmmp:tgn_7011048,Stafford,other,4,0,2
+mmmp:tgn_7013582,Charleston,other,4,0,4
+mmmp:tgn_7013887,Lexington,other,4,0,1
+mmmp:tgn_7005821,Lima,other,4,0,1
+mmmp:tgn_7004016,Camerino,other,4,0,2
+mmmp:tgn_7110071,Ravensburg,other,4,0,2
+mmmp:tgn_7011082,Ioánnina,other,4,1,2
+mmmp:sdbm_sdbm_3272,Elchingen,other,4,0,0
+mmmp:tgn_7003248,Bari,other,4,1,1
+mmmp:tgn_7003120,Piedmont,other,4,1,2
+mmmp:tgn_7008201,Brioude,other,4,0,2
+mmmp:tgn_7007057,Alkmaar,other,4,0,2
+mmmp:tgn_7004436,Lüneburg,other,4,0,1
+mmmp:tgn_7006417,Albania,other,4,0,0
+mmmp:tgn_1001053,İzmir,other,4,2,1
+mmmp:tgn_7013645,Columbus,other,4,0,3
+mmmp:tgn_7005553,Aquileia,other,4,0,1
+mmmp:tgn_7012330,Marburg,other,4,0,4
+mmmp:tgn_7004950,Carpi,other,4,0,1
+mmmp:tgn_7008167,Nottinghamshire,other,4,0,2
+mmmp:tgn_7014457,San Jose,other,4,0,3
+mmmp:tgn_7010911,Northampton,other,4,0,2
+mmmp:tgn_7011220,Chippenham,other,4,0,2
+mmmp:tgn_7013585,Charlottesville,other,4,0,4
+mmmp:tgn_7004693,Tegernsee,other,4,0,1
+mmmp:tgn_7645440,Franche-Comté,other,4,1,3
+mmmp:tgn_7002157,Tehran,other,4,0,1
+mmmp:tgn_7187694,Engelberg,other,4,2,0
+mmmp:tgn_7013351,Baldwin City,other,4,0,2
+mmmp:tgn_7005171,Kempen,other,4,0,1
+mmmp:tgn_7006660,Ukraine,other,4,0,0
+mmmp:tgn_7013647,Concord,other,4,0,3
+mmmp:tgn_7001437,Upper Egypt,other,4,3,0
+mmmp:tgn_8711667,Spanish Netherlands,other,4,0,0
+mmmp:tgn_7448767,Rothamsted,other,4,0,3
+mmmp:tgn_7017243,Bangor,other,4,0,2
+mmmp:tgn_7013872,Latrobe,other,4,0,3
+mmmp:tgn_7001349,Macedonia (ancient),other,4,1,1
+mmmp:tgn_6002725,Il-Khan Empire,other,4,2,1
+mmmp:tgn_7013916,Fort Lauderdale,other,4,0,3
+mmmp:sdbm_sdbm_2050,San Gimignano,other,4,0,2
+mmmp:tgn_7013050,Kaliningrad,other,4,0,2
+mmmp:tgn_7006521,Vilnius,other,4,0,2
+mmmp:sdbm_sdbm_1135,Boston (England),other,4,0,3
+mmmp:tgn_7003985,Cagli,other,4,0,3
+mmmp:tgn_7007854,Andenne,other,4,0,1
+mmmp:tgn_7656279,Cîteaux,other,4,3,0
+mmmp:tgn_1000110,Sri Lanka,other,4,0,0
+mmmp:tgn_7003676,Lower Saxony,other,4,0,2
+mmmp:tgn_7001745,Xinjiang Uygur Zizhiqu,other,4,3,0
+mmmp:tgn_7008488,Fontevrault-l'Abbaye,other,4,1,1
+mmmp:tgn_6002528,Hesse,other,4,0,3
+mmmp:tgn_7008015,Tongeren,other,4,0,3
+mmmp:tgn_7002134,Kermān,other,4,0,3
+mmmp:tgn_7007756,Poznań,other,4,0,2
+mmmp:tgn_1026456,Grimbergen,other,4,1,3
+mmmp:tgn_7978969,Lahore,other,4,0,4
+mmmp:sdbm_sdbm_380,Central Germany,other,4,2,2
+mmmp:tgn_7005180,Maulbronn,other,4,0,4
+mmmp:tgn_1040471,Neunkirchen am Brand,other,4,0,4
+mmmp:tgn_7001494,Ahmadābād,other,4,0,4
+mmmp:sdbm_sdbm_342,East Midlands,other,4,0,3
+mmmp:sdbm_sdbm_2423,Roode Clooster Abbey,other,4,0,4
+mmmp:tgn_7000799,Jammu and Kashmir,other,4,0,4
+mmmp:tgn_7016740,Mercia,other,4,4,0
+mmmp:tgn_7010823,Ramsey,other,4,2,3
+mmmp:sdbm_sdbm_1526,"Iraq, Abbasid",other,4,4,0
+mmmp:tgn_7001079,"Jerba, Île de",other,4,0,3
+mmmp:sdbm_sdbm_126,Central Spain,other,4,1,4
+mmmp:sdbm_sdbm_1418,Eastern Turkey,other,4,0,4
+mmmp:tgn_7030149,Onesacre,other,4,0,4
+mmmp:sdbm_sdbm_2171,Wadsley,other,4,0,4
+mmmp:sdbm_sdbm_2180,Wighill,other,4,0,4
+mmmp:tgn_7444211,Ufford,other,4,0,4
+mmmp:tgn_7445156,Trimley Heath,other,4,0,4
+mmmp:tgn_7076861,Landkreis Wolfenbüttel,other,3,0,1
+mmmp:tgn_1034081,Lodève,other,3,0,1
+mmmp:tgn_7008338,Saint-Benoît-sur-Loire,other,3,0,0
+mmmp:tgn_7009461,Rambouillet,other,3,0,3
+mmmp:tgn_7544502,La Riche,other,3,0,3
+mmmp:tgn_7008586,Saintes,other,3,1,2
+mmmp:tgn_7008342,Épernay,other,3,1,1
+mmmp:tgn_7009740,Vincennes,other,3,0,3
+mmmp:tgn_7008816,Agde,other,3,1,1
+mmmp:tgn_7636521,Landévennec,other,3,1,0
+mmmp:tgn_1026569,Lobbes,other,3,1,2
+mmmp:tgn_7008612,Aire-sur-la-Lys,other,3,1,1
+mmmp:tgn_7109867,Rebdorf,other,3,1,1
+mmmp:tgn_7008771,Valladolid,other,3,0,1
+mmmp:tgn_1033147,Fontenay-le-Comte,other,3,0,1
+mmmp:tgn_1036271,Watten,other,3,0,2
+mmmp:tgn_7008219,Saint-Lô,other,3,0,0
+mmmp:tgn_7012708,Schwäbisch Hall,other,3,0,3
+mmmp:tgn_7006713,Gaeta,other,3,0,0
+mmmp:tgn_7010573,Chantilly,other,3,0,1
+mmmp:tgn_7002345,Nicosia,other,3,0,3
+mmmp:tgn_7009435,Poligny,other,3,0,2
+mmmp:tgn_7015549,Zadar,other,3,1,2
+mmmp:tgn_7002857,Beirut,other,3,0,1
+mmmp:tgn_7008231,Palencia,other,3,1,1
+mmmp:bibale_element_118637,Bury St,other,3,2,1
+mmmp:tgn_7633744,Le Bec-Hellouin,other,3,2,0
+mmmp:tgn_7658590,Chanteau,other,3,0,3
+mmmp:tgn_1034947,Pontlevoy,other,3,2,1
+mmmp:tgn_7012857,Quedlinburg,other,3,0,0
+mmmp:tgn_1035491,Saint-Pierre-de-Chartreuse,other,3,2,1
+mmmp:tgn_7004942,Parma,other,3,0,1
+mmmp:tgn_7010586,Senlis,other,3,1,0
+mmmp:tgn_7056698,Acquafredda,other,3,1,1
+mmmp:bibale_element_134110,Gemeente Zuidhorn,other,3,0,3
+mmmp:tgn_7009546,Edinburgh,other,3,0,2
+mmmp:tgn_5000432,Aberdeenshire,other,3,0,2
+mmmp:tgn_7005723,Novalesa,other,3,1,1
+mmmp:tgn_7008207,Avranches,other,3,0,0
+mmmp:tgn_7605075,Saint-Victor-sur-Rhins,other,3,0,2
+mmmp:tgn_7010460,Halifax,other,3,0,0
+mmmp:tgn_7003292,Markt Sankt Florian,other,3,0,0
+mmmp:tgn_7003277,Mondsee,other,3,1,0
+mmmp:tgn_7077329,Stadtkreis Ulm,other,3,0,2
+mmmp:tgn_7008786,Vic,other,3,0,0
+mmmp:tgn_7003005,Campania,other,3,1,2
+mmmp:tgn_7018236,Flanders,other,3,1,2
+mmmp:tgn_7001758,Beijing,other,3,0,2
+mmmp:tgn_7005877,Soncino,other,3,0,2
+mmmp:tgn_7004864,Imola,other,3,0,2
+mmmp:tgn_7003204,Vicenza,other,3,1,2
+mmmp:tgn_1039172,Göttingen,other,3,0,3
+mmmp:bibale_element_518001,Friuli Venezia Giulia,glass,3,0,3
+mmmp:tgn_7005178,Hirsau,other,3,1,0
+mmmp:tgn_7005435,San Candido,other,3,0,0
+mmmp:tgn_7009155,Moldavia,other,3,0,2
+mmmp:tgn_7010890,Huntingdon,other,3,0,2
+mmmp:tgn_7023841,Hyères,other,3,0,2
+mmmp:tgn_4006118,Langley Marish,other,3,0,2
+mmmp:tgn_7002878,Aquitaine,other,3,2,1
+mmmp:tgn_7007942,Málaga,other,3,0,2
+mmmp:tgn_7009868,Vadstena,other,3,0,2
+mmmp:tgn_1031480,Oripää,other,3,0,0
+mmmp:sdbm_sdbm_1927,Abbaye de Morimond Fresnoy-en-Bassigny,other,3,0,0
+mmmp:sdbm_sdbm_3754,Abbaye Saint-Médard de Soissons,other,3,1,0
+mmmp:tgn_4002608,Chiaravalle della Colomba,other,3,1,0
+mmmp:sdbm_sdbm_3008,Pau,other,3,0,2
+mmmp:tgn_7011278,Wimborne Minster,other,3,0,1
+mmmp:tgn_7018929,Southwark,other,3,0,1
+mmmp:sdbm_sdbm_1858,Royal Abbey of Santa Maria de Poblet,other,3,0,2
+mmmp:tgn_7023827,Cergy-Pontoise,other,3,0,2
+mmmp:tgn_7002832,Palencia,other,3,0,1
+mmmp:tgn_7011394,Romsey,other,3,0,2
+mmmp:tgn_7008680,Sigüenza,other,3,1,1
+mmmp:tgn_7002842,Soria,other,3,0,2
+mmmp:tgn_7010704,Southwell,other,3,0,2
+mmmp:tgn_1140991,Manly,other,3,0,2
+mmmp:tgn_1035337,Saint-Geoire-en-Valdaine,other,3,0,0
+mmmp:tgn_1079129,Kāshān,other,3,0,1
+mmmp:sdbm_sdbm_4713,Sherborne Abbey,other,3,0,0
+mmmp:tgn_1016724,Sololá,other,3,0,1
+mmmp:tgn_7009739,Arbroath,other,3,0,1
+mmmp:tgn_7007874,Diest,other,3,0,1
+mmmp:tgn_7008717,Teruel,other,3,0,1
+mmmp:tgn_7000201,Delhi,other,3,0,2
+mmmp:tgn_7030119,Monk Bretton,other,3,0,2
+mmmp:tgn_7004980,Xanten,other,3,1,1
+mmmp:tgn_7011274,Bournemouth,other,3,0,2
+mmmp:tgn_7003097,Graz,other,3,0,1
+mmmp:tgn_7003198,Seitenstetten,other,3,0,2
+mmmp:tgn_7008965,Bourbourg,other,3,0,1
+mmmp:tgn_7002820,Girona,other,3,0,2
+mmmp:tgn_7007006,Leeuwarden,other,3,0,1
+mmmp:tgn_7007711,Rhode Island,other,3,0,0
+mmmp:tgn_7005042,Spoleto,other,3,0,1
+mmmp:sdbm_sdbm_3338,Morimondo Abbey,other,3,1,0
+mmmp:tgn_7003820,Coimbra,other,3,0,1
+mmmp:tgn_7016814,Sinai,other,3,1,0
+mmmp:tgn_7004320,Gerace,other,3,0,2
+mmmp:tgn_7009717,Vence,other,3,0,1
+mmmp:tgn_7010928,Monemvasía,other,3,0,0
+mmmp:tgn_7014607,West Liberty,other,3,0,1
+mmmp:tgn_4004955,Heraclea Lynkestis,other,3,1,1
+mmmp:sdbm_sdbm_4389,Appleby-in-Westmorland,other,3,0,1
+mmmp:tgn_7004459,Ansbach,other,3,0,1
+mmmp:tgn_7006947,Hasselt,other,3,0,2
+mmmp:sdbm_sdbm_2250,Doncaster,other,3,0,1
+mmmp:tgn_7005252,Osnabrück,other,3,0,0
+mmmp:tgn_7005317,Celle,other,3,0,1
+mmmp:tgn_7003026,Oberösterreich,other,3,0,1
+mmmp:tgn_4003761,Western Europe,other,3,0,2
+mmmp:tgn_1000201,Sudan,other,3,1,1
+mmmp:tgn_7011730,Chertsey,other,3,0,2
+mmmp:tgn_7002981,Département du Pas-de-Calais,other,3,0,0
+mmmp:tgn_7012495,Heilbronn,other,3,0,0
+mmmp:tgn_7011122,Kidderminster,other,3,0,1
+mmmp:tgn_7454752,Buildwas,other,3,3,0
+mmmp:tgn_7012914,Neuburg an der Donau,other,3,0,0
+mmmp:sdbm_sdbm_1425,Abdinghof Abbey,other,3,0,2
+mmmp:tgn_7011840,Brno,other,3,0,2
+mmmp:tgn_7005182,Ochsenhausen,other,3,0,0
+mmmp:tgn_7248853,Bois le Duc,other,3,0,2
+mmmp:tgn_7012928,Esslingen,other,3,0,2
+mmmp:tgn_7024701,Altorf,other,3,0,1
+mmmp:tgn_7003385,Przemyśl,other,3,0,0
+mmmp:tgn_7013915,Louisville,other,3,0,1
+mmmp:tgn_7444129,Westmorland,other,3,0,2
+mmmp:tgn_7012644,Ottobeuren,other,3,1,0
+mmmp:tgn_7010393,Lancaster,other,3,0,1
+mmmp:tgn_7003671,Brandenburg,other,3,0,2
+mmmp:tgn_1039568,Bad Herrenalb,other,3,1,2
+mmmp:tgn_7017902,Sacramento,other,3,0,0
+mmmp:tgn_7007951,Maaseik,other,3,0,1
+mmmp:tgn_7007358,Frauenfeld,other,3,0,2
+mmmp:tgn_7012553,Saint Asaph,other,3,0,1
+mmmp:tgn_2067886,Aurora,other,3,0,2
+mmmp:tgn_7014353,Rock Island,other,3,0,2
+mmmp:tgn_1000059,Venezuela,other,3,0,0
+mmmp:tgn_7001658,Eritrea,other,3,0,2
+mmmp:tgn_8711755,Ghaznavid Empire,other,3,1,0
+mmmp:tgn_7012090,Isleworth,other,3,0,1
+mmmp:tgn_7004019,Recanati,other,3,0,2
+mmmp:tgn_7463262,Levington,other,3,0,2
+mmmp:tgn_7007289,Lugano,other,3,0,3
+mmmp:tgn_7012382,Bad Windsheim,other,3,0,2
+mmmp:tgn_7023856,Shanghai,other,3,0,2
+mmmp:sdbm_sdbm_3788,Medingen Abbey,other,3,0,0
+mmmp:tgn_7027513,Appleby Magna,other,3,0,2
+mmmp:tgn_7008197,Aurillac,other,3,0,2
+mmmp:tgn_7003622,Limburg,other,3,0,2
+mmmp:sdbm_sdbm_2913,Mont-Saint-Éloi,other,3,1,1
+mmmp:tgn_7032929,Maghreb,other,3,1,0
+mmmp:tgn_7016236,Coral Gables,other,3,0,2
+mmmp:tgn_7009994,Bamburgh,other,3,0,2
+mmmp:tgn_7013135,Vancouver,other,3,0,0
+mmmp:tgn_7012966,Bridgnorth,other,3,0,2
+mmmp:tgn_7003938,Castronuovo di Sicilia,other,3,0,2
+mmmp:tgn_1028892,Coalville,other,3,0,2
+mmmp:tgn_7008340,Corbeil-Essonnes,other,3,0,2
+mmmp:sdbm_sdbm_1898,Eastern Germany,other,3,1,1
+mmmp:tgn_7002822,Guadalajara,other,3,0,2
+mmmp:tgn_4003541,Egmond aan den Hoef,other,3,0,1
+mmmp:tgn_1034454,Montbrison,other,3,0,2
+mmmp:sdbm_sdbm_4106,Fleury Abbey,other,3,1,1
+mmmp:tgn_7012456,Franken,other,3,0,2
+mmmp:tgn_7009395,Istra,other,3,0,1
+mmmp:tgn_7004434,Brunswick,other,3,0,2
+mmmp:tgn_7011850,Maldon,other,3,0,2
+mmmp:tgn_7002994,Padova,control,3,0,1
+mmmp:sdbm_sdbm_716,Syon Abbey,other,3,0,2
+mmmp:sdbm_sdbm_2642,Saint-Ghislain Abbey,other,3,0,0
+mmmp:tgn_7261111,Den Hoorn,other,3,0,0
+mmmp:tgn_7002891,Poitou,other,3,1,1
+mmmp:tgn_7666994,Aymeries,other,3,0,0
+mmmp:tgn_1000108,Myanmar,other,3,0,0
+mmmp:tgn_7007764,Dauphiné,other,3,1,1
+mmmp:sdbm_sdbm_140,Western Flanders,other,3,0,2
+mmmp:tgn_7009084,Abruzzi,other,3,0,2
+mmmp:tgn_4012115,Weissenau,other,3,0,1
+mmmp:tgn_7007889,Groenendaal,other,3,0,2
+mmmp:sdbm_sdbm_3752,Meuse (river),other,3,2,1
+mmmp:sdbm_sdbm_212,Oberhein,other,3,0,2
+mmmp:tgn_7593131,Rum Kalesi,other,3,1,0
+mmmp:tgn_7015397,Emilia,other,3,0,2
+mmmp:tgn_7004100,Taranto,other,3,0,2
+mmmp:tgn_1001167,Bursa,other,3,0,2
+mmmp:tgn_1100052,"Monte Oliveto Maggiore, Abbazia di",other,3,0,2
+mmmp:tgn_7007896,Huy,other,3,0,3
+mmmp:tgn_7003028,Steiermark,other,3,0,3
+mmmp:sdbm_sdbm_512,Bursfelde Abbey,other,3,1,2
+mmmp:tgn_4003757,Northern Europe,other,3,3,0
+mmmp:tgn_7010591,Saint-Riquier,other,3,1,2
+mmmp:tgn_7001190,Akhmīm,other,3,2,0
+mmmp:sdbm_sdbm_3036,Nivelles,other,3,2,1
+mmmp:tgn_8697475,Central Asia,other,3,0,3
+mmmp:tgn_7722795,Hizan,other,3,0,3
+mmmp:sdbm_sdbm_3911,Mamluk Syria,other,3,0,3
+mmmp:sdbm_sdbm_3139,Eastern Iran,other,3,2,1
+mmmp:sdbm_sdbm_1555,Aq Qoyunlu (Turkoman federation),other,3,0,3
+mmmp:tgn_7010791,King's Lynn,other,3,1,2
+mmmp:tgn_7011841,Olomouc,other,3,0,3
+mmmp:sdbm_sdbm_1471,Eastern Syria,other,3,3,0
+mmmp:tgn_1109172,Jura,other,3,0,2
+mmmp:tgn_7003794,Syracuse,other,3,0,3
+mmmp:tgn_4007188,Midlands,other,3,1,2
+mmmp:tgn_7007542,"Constance, Lake",other,3,0,3
+mmmp:tgn_7131536,Marienmünster,other,3,0,3
+mmmp:sdbm_sdbm_1311,Rhone Valley,other,3,0,3
+mmmp:sdbm_sdbm_2064,Oaxaca,other,3,0,3
+mmmp:tgn_7018915,Greenwich,other,3,0,2
+mmmp:tgn_1079442,Tall Kayf,other,3,0,2
+mmmp:sdbm_sdbm_1441,Southern Austria,other,3,1,2
+mmmp:tgn_7004426,Tübingen,other,3,0,3
+mmmp:sdbm_sdbm_2000,Llanthony Secunda Priory,other,3,1,2
+mmmp:tgn_7442677,Whitton,other,3,0,3
+mmmp:tgn_1030889,Thurnham,other,3,0,3
+mmmp:tgn_1032738,Condé-en-Brie,other,3,0,3
+mmmp:sdbm_sdbm_2576,Fouquessoles,other,3,0,3
+mmmp:tgn_7007946,Limbourg,other,3,0,3
+mmmp:tgn_7613028,Puimisson,other,2,2,0
+mmmp:tgn_7637864,Lasserre-de-Prouille,other,2,1,0
+mmmp:tgn_7008454,Montauban,other,2,1,1
+mmmp:tgn_7008676,Seville,other,2,1,1
+mmmp:tgn_4009756,Saint-Maximin-la-Sainte-Baume,other,2,1,1
+mmmp:tgn_7008622,Alès,other,2,1,0
+mmmp:tgn_1031884,Aubenas,other,2,1,0
+mmmp:tgn_7010562,Saint-Quentin,other,2,0,2
+mmmp:bibale_element_120525,St Petersburg,other,2,0,2
+mmmp:tgn_7017414,Béziers,other,2,1,0
+mmmp:tgn_7017416,Brive-la-Gaillarde,other,2,1,0
+mmmp:tgn_7009141,Die,other,2,1,0
+mmmp:tgn_7008767,Grasse,other,2,1,0
+mmmp:tgn_7008222,Châtillon-sur-Seine,other,2,1,0
+mmmp:tgn_7008450,Castres,other,2,1,0
+mmmp:tgn_7008795,Tarascon,other,2,1,1
+mmmp:tgn_7008794,Toulon,other,2,1,1
+mmmp:tgn_7009565,Modena,other,2,0,2
+mmmp:tgn_7664999,Bissy-sur-Fley,other,2,0,2
+mmmp:tgn_7009477,Romans-sur-Isère,control,2,1,0
+mmmp:tgn_7633390,La Vieille-Lyre,other,2,1,0
+mmmp:tgn_7006143,Scandicci,other,2,2,0
+mmmp:tgn_7066071,Landkreis Tübingen,other,2,0,2
+mmmp:tgn_7004905,Essen,other,2,1,1
+mmmp:tgn_7622938,Ménigoute,other,2,0,0
+mmmp:tgn_7003262,Verona,other,2,0,0
+mmmp:tgn_7012393,Bernkastel-Kues,other,2,0,1
+mmmp:tgn_7005062,Todi,other,2,0,2
+mmmp:tgn_7009613,Saint-Chamond,other,2,0,1
+mmmp:tgn_7014529,Springfield,other,2,0,1
+mmmp:tgn_7008983,Bar-le-Duc,other,2,0,1
+mmmp:tgn_1034809,Parthenay,other,2,1,1
+mmmp:tgn_8711852,Normandie,other,2,0,1
+mmmp:tgn_7024267,Bretagne,other,2,0,0
+mmmp:tgn_7008262,Quimper,other,2,0,2
+mmmp:tgn_7005124,Orvieto,other,2,1,1
+mmmp:tgn_7008374,Uzès,other,2,0,1
+mmmp:tgn_7011892,Waddesdon,other,2,0,1
+mmmp:tgn_7006026,Pavia,other,2,0,1
+mmmp:tgn_1035991,Valognes,other,2,0,2
+mmmp:tgn_7009402,Neuilly-sur-Seine,other,2,0,2
+mmmp:tgn_7008834,Enghien,other,2,0,1
+mmmp:tgn_7009208,Gisors,other,2,0,0
+mmmp:tgn_7009736,Villers-Cotterêts,other,2,0,0
+mmmp:tgn_7608644,Arrondissement de Saint-Jean-de-Maurienne,other,2,0,2
+mmmp:tgn_7662036,Brocourt,other,2,0,2
+mmmp:tgn_7007557,Bern,other,2,0,1
+mmmp:tgn_1050726,Hamilton,other,2,0,1
+mmmp:tgn_7004717,Rostock,other,2,0,2
+mmmp:tgn_7008947,Berck,other,2,1,1
+mmmp:tgn_5001443,Le Thoureil,other,2,1,0
+mmmp:tgn_7009660,Saint-Wandrille,other,2,1,0
+mmmp:tgn_1034056,Limay,other,2,0,2
+mmmp:tgn_1035748,Soligny-la-Trappe,other,2,0,1
+mmmp:tgn_7010442,Leeds,other,2,0,1
+mmmp:tgn_7009688,Sorgues,other,2,0,2
+mmmp:tgn_7600075,Vieux-Moulin,other,2,0,2
+mmmp:tgn_7008140,Brantôme,other,2,1,0
+mmmp:tgn_4009744,Saint-Maixent-l'École,other,2,0,0
+mmmp:tgn_4003774,Evron,other,2,1,0
+mmmp:tgn_7634802,Léhon,other,2,1,1
+mmmp:tgn_7615390,Rebais,other,2,1,0
+mmmp:tgn_7017152,La Chaise-Dieu,other,2,0,0
+mmmp:tgn_7009028,Châtellerault,other,2,0,1
+mmmp:tgn_7601120,Villeloin-Coulangé,other,2,0,0
+mmmp:tgn_7668365,Achy,other,2,1,1
+mmmp:tgn_7008370,Beaucaire,other,2,0,2
+mmmp:tgn_7011995,York,other,2,0,1
+mmmp:tgn_7008922,Dieppe,other,2,0,1
+mmmp:tgn_7008484,Ripoll,other,2,2,0
+mmmp:tgn_7077750,Kreis Paderborn,other,2,1,1
+mmmp:tgn_7007731,Camaldoli,other,2,1,0
+mmmp:tgn_7005764,Brescia,other,2,1,0
+mmmp:tgn_7008606,Abondance,other,2,1,0
+mmmp:tgn_7639151,L'Absie,other,2,1,1
+mmmp:tgn_7008223,Saint-Nicolas-lès-Cîteaux,other,2,1,0
+mmmp:tgn_7008037,Saint-Ouen-l'Aumône,other,2,2,1
+mmmp:tgn_1032569,Champagnole,other,2,1,1
+mmmp:tgn_7008227,Semur-en-Auxois,other,2,0,1
+mmmp:tgn_7007991,Spa,other,2,0,2
+mmmp:tgn_7003980,Ancona,other,2,0,2
+mmmp:tgn_7016632,Boulogne,other,2,0,0
+mmmp:tgn_7004330,Coburg,other,2,0,1
+mmmp:tgn_7012558,Bourg-en-Bresse,other,2,0,0
+mmmp:tgn_7654562,Chaumont,other,2,0,0
+mmmp:tgn_7005246,Göttingen,other,2,0,0
+mmmp:tgn_7005726,Aosta,other,2,0,0
+mmmp:tgn_7004424,Karlsruhe,other,2,0,1
+mmmp:tgn_7006984,Groningen,other,2,0,0
+mmmp:tgn_7007754,Płock,other,2,0,1
+mmmp:tgn_7008984,Bar-sur-Aube,other,2,0,0
+mmmp:tgn_1034307,Marville,other,2,0,0
+mmmp:tgn_7017283,Glasgow,other,2,0,0
+mmmp:bibale_element_1096008,Leuven,other,2,0,0
+mmmp:tgn_7005179,Mannheim,other,2,0,0
+mmmp:tgn_7014597,Shrewsbury,other,2,0,0
+mmmp:tgn_7007855,Anderlecht,other,2,0,1
+mmmp:tgn_7007277,Cologny,other,2,0,0
+mmmp:tgn_7078915,Würm,other,2,0,1
+mmmp:tgn_7008063,Mantes-la-Jolie,other,2,0,0
+mmmp:tgn_7007872,Dendermonde,other,2,0,1
+mmmp:tgn_7010750,Durrës,other,2,0,0
+mmmp:tgn_7017752,Santa Barbara,other,2,0,0
+mmmp:tgn_7017431,Noirmoutier-en-l'Île,other,2,0,0
+mmmp:tgn_7011871,Saint Albans,other,2,1,1
+mmmp:tgn_4002300,Cascia,other,2,0,2
+mmmp:tgn_1026388,Deinze,other,2,0,2
+mmmp:tgn_1035674,Seclin,other,2,2,0
+mmmp:tgn_7004093,Otranto,other,2,1,1
+mmmp:tgn_1039515,Heiligenberg,other,2,0,2
+mmmp:tgn_7008926,Jumièges,other,2,0,1
+mmmp:bibale_element_131725,United States,other,2,0,1
+mmmp:tgn_7004939,Piacenza,other,2,1,1
+mmmp:tgn_7544514,Solesmes,other,2,1,1
+mmmp:tgn_7011131,Tewkesbury,other,2,0,1
+mmmp:tgn_7646675,Glageon,other,2,0,0
+mmmp:tgn_7017314,Digne,other,2,0,1
+mmmp:tgn_7011441,Eastbourne,other,2,0,1
+mmmp:tgn_7009223,Guéret,other,2,0,1
+mmmp:tgn_1000069,Finland,other,2,0,0
+mmmp:tgn_7010045,Hartlepool,other,2,0,1
+mmmp:tgn_1029579,Hodnet,other,2,0,1
+mmmp:tgn_7011909,Luton,other,2,0,1
+mmmp:tgn_7013458,Brookline,other,2,0,0
+mmmp:tgn_7010707,Mansfield,other,2,0,1
+mmmp:tgn_1029982,Marlborough,other,2,0,1
+mmmp:tgn_1096647,Corio,other,2,0,1
+mmmp:tgn_1096356,Box Hill,other,2,0,1
+mmmp:tgn_1030071,Minehead,other,2,0,1
+mmmp:tgn_7009951,Linköping,other,2,0,1
+mmmp:tgn_7009880,Helsinki,other,2,0,0
+mmmp:tgn_1031626,Yläne,other,2,0,0
+mmmp:sdbm_sdbm_119,Abbaye de Neubourg,other,2,0,1
+mmmp:tgn_1100054,"Montmajour, Abbaye de",other,2,0,0
+mmmp:tgn_7010951,Oakham,other,2,0,1
+mmmp:tgn_7008910,Oviedo,other,2,0,1
+mmmp:tgn_7011418,Worthing,other,2,0,1
+mmmp:tgn_7014390,Paterson,other,2,0,1
+mmmp:tgn_4012345,Wollaton,other,2,0,1
+mmmp:tgn_7008385,Perelada,other,2,0,1
+mmmp:tgn_7004667,Altötting,other,2,0,0
+mmmp:sdbm_sdbm_2020,Fribourg,other,2,0,0
+mmmp:tgn_7011083,Zákinthos,other,2,0,0
+mmmp:sdbm_sdbm_4657,Quarr Abbey,other,2,0,1
+mmmp:tgn_7028560,Ranworth,other,2,0,1
+mmmp:tgn_1030481,Ryde,other,2,0,1
+mmmp:tgn_4010760,Steeple Ashton,other,2,0,1
+mmmp:tgn_5000460,Stirling,other,2,0,1
+mmmp:tgn_7446771,Stourton,other,2,0,1
+mmmp:tgn_7010794,Swaffham,other,2,0,1
+mmmp:tgn_7012016,Tiverton,other,2,0,1
+mmmp:tgn_7031176,Tollerton,other,2,0,1
+mmmp:sdbm_sdbm_3780,Sodp Monastery,other,2,0,0
+mmmp:tgn_7003924,Casale Monferrato,other,2,0,1
+mmmp:tgn_7085766,Wasserburg,other,2,0,0
+mmmp:tgn_7025163,Chatsworth House,other,2,0,1
+mmmp:tgn_7011848,Chelmsford,other,2,0,1
+mmmp:sdbm_sdbm_3813,Liesborn Abbey,other,2,0,0
+mmmp:tgn_7017444,Mobile,other,2,0,0
+mmmp:tgn_7006792,Rotterdam,other,2,0,1
+mmmp:tgn_7170864,Himmerod,other,2,0,0
+mmmp:tgn_7018922,Islington,other,2,0,0
+mmmp:tgn_7210470,Baumberg,other,2,0,0
+mmmp:tgn_7013303,Annapolis,other,2,0,0
+mmmp:tgn_1062193,Móstoles,other,2,0,0
+mmmp:tgn_7009503,Thiron-Gardais,other,2,0,1
+mmmp:tgn_1026300,Auderghem,other,2,0,1
+mmmp:tgn_4012680,Chelsea,other,2,0,0
+mmmp:tgn_7007292,Neuchatel,other,2,0,1
+mmmp:sdbm_sdbm_1615,Montalbodo,other,2,0,0
+mmmp:tgn_1047169,Tradate,other,2,0,0
+mmmp:tgn_7029505,South Yorkshire,other,2,0,0
+mmmp:tgn_7011008,Wolverhampton,other,2,0,0
+mmmp:tgn_1028819,Chesterfield,other,2,0,2
+mmmp:tgn_7019133,Dundee,other,2,0,1
+mmmp:tgn_7010922,"Mílos, Nísos",other,2,0,0
+mmmp:tgn_7013425,Birmingham,other,2,0,0
+mmmp:tgn_7008492,Saumur,other,2,0,1
+mmmp:tgn_7018916,Hackney,other,2,0,0
+mmmp:tgn_7008643,Santiago de Compostela,other,2,0,1
+mmmp:tgn_7006541,Latvia,other,2,0,1
+mmmp:tgn_7338458,Castilleja del Campo,other,2,0,1
+mmmp:tgn_1001651,Catania,other,2,0,0
+mmmp:tgn_7004161,Lanciano,other,2,0,0
+mmmp:sdbm_sdbm_571,Abbey of Santa Giustina,other,2,0,2
+mmmp:sdbm_sdbm_2994,Klooster Sint-Catharinadal in Hasselt,other,2,0,1
+mmmp:tgn_7010576,Crépy-en-Valois,other,2,1,0
+mmmp:tgn_4004933,Helmingham,other,2,0,0
+mmmp:tgn_7007517,Massachusetts,other,2,0,1
+mmmp:sdbm_sdbm_3343,Klosterneuburg,other,2,0,0
+mmmp:tgn_7031554,"Göttweig, Stift",other,2,0,0
+mmmp:tgn_7007058,Bergen,other,2,0,0
+mmmp:tgn_7615142,Rohan,other,2,0,0
+mmmp:sdbm_sdbm_373,Abbaye Saint-Martin de Laon‏,other,2,0,0
+mmmp:tgn_7007254,Kansas,other,2,0,0
+mmmp:tgn_1051300,Chernyakhovsk,other,2,0,1
+mmmp:tgn_7013330,Athens,other,2,0,1
+mmmp:sdbm_sdbm_4868,Hamilton Palace,other,2,0,0
+mmmp:sdbm_sdbm_3677,Saint-Maur-des-Fosses Abbey,other,2,1,0
+mmmp:sdbm_sdbm_1603,Bruton Abbey,other,2,1,1
+mmmp:tgn_2003233,Cullman,other,2,0,1
+mmmp:tgn_1001232,Edirne,other,2,0,1
+mmmp:tgn_7011742,Farnham,other,2,0,0
+mmmp:sdbm_sdbm_3741,Merton Priory,other,2,1,1
+mmmp:tgn_1042025,Ierisós,other,2,0,0
+mmmp:tgn_4012698,Kensington,other,2,0,0
+mmmp:tgn_7002499,Ephesus,other,2,1,0
+mmmp:tgn_7012520,Markt Indersdorf,other,2,0,1
+mmmp:tgn_7014046,Middlebury,other,2,0,1
+mmmp:tgn_7253311,Sluis,other,2,0,0
+mmmp:sdbm_sdbm_4300,Rethymno,other,2,0,0
+mmmp:tgn_7007824,Jaén,other,2,0,1
+mmmp:tgn_7004448,Koblenz,other,2,0,1
+mmmp:tgn_7011562,Ramsgate,other,2,0,1
+mmmp:tgn_7621180,Nonette,other,2,0,1
+mmmp:sdbm_sdbm_4925,Nieuwlicht Monastery,other,2,0,0
+mmmp:sdbm_sdbm_4926,Nonnberg Abbey,other,2,0,0
+mmmp:tgn_7001938,Hobart,other,2,0,0
+mmmp:tgn_7006006,Monza,other,2,0,1
+mmmp:tgn_7006238,Victoria,other,2,0,0
+mmmp:tgn_7002916,Département du Calvados,other,2,0,0
+mmmp:tgn_7454723,Bunbury,other,2,0,1
+mmmp:tgn_7009225,Guise,other,2,0,1
+mmmp:tgn_7009839,Malmö,other,2,0,0
+mmmp:tgn_1062028,Fregenal de la Sierra,other,2,0,0
+mmmp:tgn_7006847,Cuyk,other,2,0,1
+mmmp:sdbm_sdbm_3377,Stift Sankt Peter,other,2,1,1
+mmmp:sdbm_sdbm_5034,Ashridge Priory,other,2,1,1
+mmmp:tgn_4004786,Hampole,other,2,0,1
+mmmp:tgn_7002677,Euboea,other,2,0,1
+mmmp:tgn_2092465,Ridgway,other,2,0,1
+mmmp:sdbm_sdbm_1604,Capo del Faro,other,2,0,1
+mmmp:tgn_7014498,Sewickley,other,2,0,0
+mmmp:sdbm_sdbm_1629,Vahnashen,other,2,0,0
+mmmp:tgn_2017494,Wallingford,other,2,0,1
+mmmp:tgn_7017221,Bourbonnais,other,2,0,0
+mmmp:tgn_7011908,Dunstable,other,2,0,0
+mmmp:tgn_7004003,Arcevia,other,2,0,1
+mmmp:tgn_7011487,Hove,other,2,0,0
+mmmp:sdbm_sdbm_4348,Perthshire,other,2,0,0
+mmmp:tgn_7009673,Saverne,other,2,0,0
+mmmp:tgn_7016996,Lier,other,2,0,1
+mmmp:tgn_7013154,Ontario,other,2,0,2
+mmmp:tgn_7005546,Gemona del Friuli,other,2,1,1
+mmmp:tgn_7012357,Amberg,other,2,0,0
+mmmp:tgn_7013580,Charleston,other,2,0,1
+mmmp:tgn_7009954,Gothenburg,other,2,0,1
+mmmp:tgn_7016739,Central America,other,2,0,2
+mmmp:tgn_7011111,Ledbury,other,2,0,1
+mmmp:tgn_7046997,Gualdo,other,2,0,1
+mmmp:tgn_7004202,Sulmona,other,2,0,1
+mmmp:tgn_7012926,Neresheim,other,2,0,1
+mmmp:tgn_7010743,Stamford,other,2,1,1
+mmmp:tgn_7011440,Battle,other,2,0,1
+mmmp:tgn_7004900,Cento,other,2,0,1
+mmmp:tgn_7051607,"Murano, Isola di",glass,2,0,0
+mmmp:sdbm_sdbm_3400,Abbey of St. Bertin,other,2,0,1
+mmmp:tgn_7012359,Überlingen,other,2,0,1
+mmmp:tgn_7014071,Milwaukee,other,2,0,0
+mmmp:tgn_7017520,Peoria,other,2,0,1
+mmmp:tgn_2105685,Lockhart,other,2,0,1
+mmmp:tgn_7007521,Minnesota,other,2,0,1
+mmmp:tgn_2033554,Saint Meinrad,other,2,0,1
+mmmp:tgn_7014370,Terre Haute,other,2,0,1
+mmmp:tgn_7013384,Berea,other,2,0,1
+mmmp:tgn_2045609,South Berwick,other,2,0,1
+mmmp:sdbm_sdbm_3304,Gamliel Monastery,other,2,0,1
+mmmp:tgn_7029522,Bryn Mawr,other,2,0,0
+mmmp:sdbm_sdbm_5173,Le Mont-Dieu,other,2,0,0
+mmmp:tgn_7012686,Saarlouis,other,2,0,0
+mmmp:tgn_8702973,Cologny,other,2,0,2
+mmmp:tgn_7012706,Schuttern,other,2,0,1
+mmmp:tgn_7006968,Tivoli,other,2,0,0
+mmmp:tgn_7008892,Caldarola,other,2,0,1
+mmmp:tgn_7011886,Hitchin,other,2,0,1
+mmmp:sdbm_sdbm_5226,Onze-Lieve-Vrouw-ten-Duinen,other,2,0,0
+mmmp:sdbm_sdbm_5232,Brauweiler,other,2,1,2
+mmmp:sdbm_sdbm_5243,Chiesa di Santa Maria di Rosate,other,2,0,0
+mmmp:tgn_7011095,Great Malvern,other,2,0,1
+mmmp:sdbm_sdbm_5245,Abbadia Cerreto,other,2,0,1
+mmmp:tgn_7031351,Shirburn,other,2,0,0
+mmmp:tgn_7011893,Aylesbury,other,2,0,0
+mmmp:tgn_7010427,Preston,other,2,0,1
+mmmp:tgn_7010370,Kingston-Upon-Hull,other,2,0,1
+mmmp:tgn_7014590,Waterbury,other,2,0,1
+mmmp:tgn_7006467,Moravia,other,2,0,1
+mmmp:tgn_1000133,Pakistan,other,2,0,1
+mmmp:tgn_7013964,Richmond,other,2,0,1
+mmmp:tgn_7002672,Lesbos Island,other,2,0,0
+mmmp:tgn_8711885,Umayyad Caliphate,other,2,1,0
+mmmp:tgn_1039519,Heilsbronn,other,2,0,0
+mmmp:sdbm_sdbm_3401,Corbie Abbey,other,2,1,0
+mmmp:tgn_7102211,Rothenberg,other,2,0,1
+mmmp:tgn_7003497,Cork,other,2,0,0
+mmmp:sdbm_sdbm_4071,Ascoli Piceno,other,2,0,1
+mmmp:tgn_7012862,Rudolstadt,other,2,0,1
+mmmp:tgn_7010009,Hexham,other,2,0,0
+mmmp:tgn_7069151,Stauffenburg,other,2,0,1
+mmmp:tgn_7002702,Transylvania,other,2,0,2
+mmmp:sdbm_sdbm_4251,Burg-Gräfenrode,other,2,0,1
+mmmp:tgn_7005188,Rothenburg ober der Tauber,other,2,0,0
+mmmp:tgn_7014483,Sarasota,other,2,0,2
+mmmp:tgn_7003694,Schleswig,other,2,0,0
+mmmp:tgn_7016881,Scandinavia,other,2,0,1
+mmmp:tgn_1029763,Knaresborough,other,2,0,1
+mmmp:tgn_7007445,Porrentruy,other,2,0,1
+mmmp:sdbm_sdbm_370,Nottingham,other,2,0,1
+mmmp:tgn_7017076,Peloponnese,other,2,0,1
+mmmp:tgn_7030916,Pipewell,other,2,0,0
+mmmp:tgn_7018918,Harrow,other,2,0,0
+mmmp:tgn_7011732,Dorking,other,2,0,0
+mmmp:sdbm_sdbm_2420,Monte Cavallo,other,2,0,1
+mmmp:tgn_7183809,Göttingen,other,2,0,0
+mmmp:tgn_7007014,Grottaferrata,other,2,0,1
+mmmp:sdbm_sdbm_1887,Urgell,other,2,0,0
+mmmp:tgn_7005057,Norcia,other,2,0,1
+mmmp:sdbm_sdbm_4466,Zacualpan de Amilpas,other,2,0,1
+mmmp:tgn_7013902,Logan,other,2,0,1
+mmmp:tgn_7005677,Trino,other,2,0,0
+mmmp:tgn_1045558,Monterubbiano,other,2,0,1
+mmmp:sdbm_sdbm_4104,Steinfeld Abbey,other,2,0,0
+mmmp:tgn_7462926,Lower Brailes,other,2,0,1
+mmmp:tgn_7010351,Bridlington,other,2,0,1
+mmmp:tgn_1028623,Bridport,other,2,0,1
+mmmp:tgn_7011899,Buckingham,other,2,0,1
+mmmp:tgn_7456513,Cardross,other,2,0,1
+mmmp:tgn_7009453,Puylaurens,other,2,0,1
+mmmp:sdbm_sdbm_1086,Southeastern Germany,other,2,0,0
+mmmp:tgn_7240301,Elsegem,other,2,0,0
+mmmp:tgn_7012317,Halberstadt,other,2,0,0
+mmmp:tgn_1038288,Büderich,other,2,0,0
+mmmp:tgn_7029506,West Midlands,other,2,1,0
+mmmp:sdbm_sdbm_483,Michaelsberg Abbey,other,2,0,1
+mmmp:tgn_7010300,Tashkent,other,2,0,1
+mmmp:tgn_7012523,Kaisheim,other,2,0,1
+mmmp:sdbm_sdbm_1922,Touton Scriptorium,other,2,0,0
+mmmp:tgn_7002818,Cuenca,other,2,0,1
+mmmp:tgn_7012892,Zerbst,other,2,0,1
+mmmp:tgn_4006786,Maguelonne,other,2,0,1
+mmmp:tgn_7641181,La Celle,other,2,0,1
+mmmp:sdbm_sdbm_3390,Marmoutier Abbey,other,2,1,0
+mmmp:tgn_7005532,Spilimbergo,other,2,0,1
+mmmp:tgn_7005286,Bremen,other,2,0,1
+mmmp:tgn_7267587,Oostbroek,other,2,0,0
+mmmp:tgn_7007820,We̜grów,other,2,0,1
+mmmp:tgn_7012430,Eberbach,other,2,0,0
+mmmp:tgn_1003488,Pordenone,other,2,0,1
+mmmp:tgn_7005019,Macau,other,2,0,2
+mmmp:sdbm_sdbm_2753,"Cologne, Gers",control,2,2,2
+mmmp:tgn_7606933,"Serignan, Bois de",other,2,0,0
+mmmp:tgn_7015125,Piran,other,2,0,0
+mmmp:sdbm_sdbm_2460,Saint-Pierre-en-Chastres,other,2,0,1
+mmmp:tgn_1001012,Nara,other,2,1,0
+mmmp:tgn_7299846,Valdenoceda,other,2,0,1
+mmmp:tgn_1032406,Cancon,other,2,0,0
+mmmp:tgn_1061798,Béjar,other,2,0,1
+mmmp:tgn_7008384,Elne,other,2,0,1
+mmmp:sdbm_sdbm_357,Chur,other,2,0,0
+mmmp:tgn_7004398,Oberbayern,other,2,0,1
+mmmp:sdbm_sdbm_3861,Kamp Abbey,other,2,0,1
+mmmp:tgn_7002786,Galicia,other,2,0,1
+mmmp:tgn_7098115,Sponheim,other,2,0,1
+mmmp:tgn_7003821,Évora,other,2,0,1
+mmmp:tgn_7012851,Nordhausen,other,2,0,1
+mmmp:tgn_7012674,Reutlingen,other,2,0,1
+mmmp:sdbm_sdbm_274,Santa María de El Paular,other,2,0,1
+mmmp:tgn_1061943,Cervera,other,2,0,1
+mmmp:tgn_7002314,Tripoli,other,2,0,1
+mmmp:tgn_1052257,Ararat,other,2,0,1
+mmmp:sdbm_sdbm_1166,Bengal,other,2,0,1
+mmmp:tgn_7032024,İznik,other,2,0,0
+mmmp:sdbm_sdbm_1478,Urkhan,other,2,0,1
+mmmp:tgn_7012844,Meissen,other,2,0,1
+mmmp:tgn_7012685,Rottweil,other,2,0,1
+mmmp:tgn_7630256,Lorry-Mardigny,other,2,0,2
+mmmp:tgn_1001331,Kābul,other,2,0,2
+mmmp:sdbm_sdbm_2870,Brielle,other,2,0,2
+mmmp:tgn_7012881,Torgau,other,2,0,1
+mmmp:tgn_7001493,Āgra,other,2,0,2
+mmmp:tgn_7013246,Lower Rhine,other,2,0,2
+mmmp:sdbm_sdbm_3867,Wiblingen Abbey,other,2,0,2
+mmmp:tgn_7010375,Osimo,other,2,0,2
+mmmp:tgn_7606876,Savoie,other,2,0,1
+mmmp:tgn_7017400,Wijk-bij-Duurstede,other,2,0,2
+mmmp:tgn_1047992,Noordwijk-Binnen,other,2,0,2
+mmmp:sdbm_sdbm_1935,Kloster Marienburg,other,2,0,2
+mmmp:sdbm_sdbm_2889,Hama,other,2,0,2
+mmmp:tgn_1034042,Liessies,other,2,0,2
+mmmp:tgn_7007883,Forest,other,2,0,2
+mmmp:tgn_7238951,Hoeilaart,other,2,0,2
+mmmp:tgn_7258539,Albergen,other,2,0,1
+mmmp:tgn_4005207,Huysburg,other,2,0,1
+mmmp:tgn_7012813,Görlitz,other,2,0,2
+mmmp:tgn_7011636,Balkan Peninsula,other,2,0,2
+mmmp:sdbm_sdbm_2993,Kruisheren Closter,other,2,0,2
+mmmp:sdbm_sdbm_1923,Western Tibet,other,2,0,2
+mmmp:sdbm_sdbm_980,Middle Egypt,other,2,2,0
+mmmp:tgn_1000116,Indonesia,other,2,0,2
+mmmp:tgn_7005296,Helmarshausen,other,2,2,0
+mmmp:sdbm_sdbm_1513,Vaspurakan,other,2,0,2
+mmmp:tgn_7608908,Saint-Martin-de-Tours,other,2,2,0
+mmmp:tgn_7012875,Stendal,other,2,0,2
+mmmp:tgn_1029023,Daventry,other,2,0,2
+mmmp:sdbm_sdbm_1053,Northern Iraq,other,2,1,1
+mmmp:tgn_1103337,"Naţrūn, Wādī an",other,2,1,1
+mmmp:tgn_7003692,Baden-Württemberg,other,2,0,2
+mmmp:tgn_8002037,Malabar,other,2,0,0
+mmmp:tgn_7032343,Monastery of Sanahin,other,2,0,2
+mmmp:tgn_7005598,Tlaxcala,other,2,0,2
+mmmp:sdbm_sdbm_3243,Al Qūsh,other,2,0,2
+mmmp:tgn_7004113,Molfetta,other,2,0,2
+mmmp:tgn_7139366,Leiningen,other,2,0,2
+mmmp:tgn_8625122,Kaxgar,other,2,0,2
+mmmp:tgn_1001535,Shewa,other,2,0,2
+mmmp:tgn_8703822,Klosters,other,2,0,2
+mmmp:sdbm_sdbm_3386,Darb al Chanashat,other,2,0,2
+mmmp:tgn_7004967,Bolzano,other,2,0,2
+mmmp:tgn_7008797,Villalón de Campos,other,2,0,2
+mmmp:tgn_1016499,Santo Domingo,other,2,0,2
+mmmp:tgn_7005121,Narni,other,2,0,2
+mmmp:tgn_7008909,Huesca,other,2,1,1
+mmmp:tgn_7330353,Hita,other,2,0,2
+mmmp:tgn_7011127,Cirencester,other,2,2,0
+mmmp:tgn_1001591,Van,other,2,0,2
+mmmp:tgn_1003478,Novara,other,2,1,2
+mmmp:sdbm_sdbm_2703,Evesham Abbey,other,2,1,1
+mmmp:tgn_7008696,Armagh,other,2,2,0
+mmmp:tgn_7003236,Liguria,other,2,0,1
+mmmp:tgn_7025173,Crich,other,2,0,2
+mmmp:tgn_7010876,Saint Neots,other,2,2,0
+mmmp:sdbm_sdbm_3603,Southwestern Wales,other,2,0,2
+mmmp:tgn_1119011,Lake Van,other,2,0,2
+mmmp:sdbm_sdbm_1908,Ahmadnagar,other,2,0,2
+mmmp:sdbm_sdbm_1507,Moselle,other,2,0,2
+mmmp:tgn_1003450,Cosenza,other,2,0,2
+mmmp:tgn_7539982,Memphis,other,2,0,0
+mmmp:tgn_1033422,Hautmont,other,2,1,0
+mmmp:tgn_7608929,Saint-Martin-des-Champs,other,2,1,1
+mmmp:sdbm_sdbm_3759,Abbaye Saint-Lucien de Beauvais,other,2,2,0
+mmmp:sdbm_sdbm_3763,Santa Maria degli Angeli,other,2,0,1
+mmmp:sdbm_sdbm_546,Northeastern Germany,other,2,0,2
+mmmp:tgn_7016655,Erzurum,other,2,0,1
+mmmp:tgn_7009278,Lens,other,2,0,2
+mmmp:tgn_7009712,Vannes,other,2,0,2
+mmmp:tgn_4004675,Guyenne,other,2,0,1
+mmmp:sdbm_sdbm_1838,Vigiliano dAsti,other,2,0,2
+mmmp:tgn_7003218,Département de Tarn-et-Garonne,other,2,0,2
+mmmp:tgn_7003626,Overijssel,other,2,0,2
+mmmp:tgn_1100097,San Pietro in Vaticano,other,2,0,2
+mmmp:tgn_7004029,Fermo,other,2,0,2
+mmmp:sdbm_sdbm_2262,Palace of Westminster,other,2,0,2
+mmmp:tgn_7007262,Almería,other,2,1,1
+mmmp:tgn_7010698,Rotherham,other,2,0,2
+mmmp:tgn_7003190,Sankt Pölten,other,2,0,2
+mmmp:tgn_8698234,Transoxania,other,2,0,2
+mmmp:sdbm_sdbm_1479,Northwestern India,other,2,1,1
+mmmp:tgn_7017241,Gascony,other,2,0,1
+mmmp:tgn_7001314,Algiers,other,2,0,2
+mmmp:tgn_7594690,Tigray,other,2,0,2
+mmmp:tgn_7008755,Úbeda,other,2,1,1
+mmmp:tgn_7002245,Balkh,other,2,1,1
+mmmp:tgn_7001282,Fārs,other,2,0,2
+mmmp:tgn_7459880,Old Sarum,other,2,0,2
+mmmp:tgn_7016836,Turkistan,other,2,0,2
+mmmp:tgn_7005819,Cuzco,other,2,0,2
+mmmp:tgn_7018751,Maras,other,2,0,2
+mmmp:tgn_1016644,Cobán,other,2,0,2
+mmmp:tgn_1018677,Zapotitlán de Vadillo,other,2,0,2
+mmmp:tgn_7030110,Oldland,other,2,0,2
+mmmp:tgn_5000913,Campsall,other,2,0,2
+mmmp:tgn_7010063,Scarborough,other,2,0,2
+mmmp:tgn_1100671,Tower of London,other,2,0,2
+mmmp:sdbm_sdbm_2115,Bradfield St George,other,2,0,2
+mmmp:sdbm_sdbm_2159,Over Heyton,other,2,0,2
+mmmp:tgn_1030300,Penkridge,other,2,0,2
+mmmp:tgn_7010942,Bramford,other,2,1,2
+mmmp:tgn_7029248,East Bergholt,other,2,0,2
+mmmp:tgn_7452974,Cretingham,other,2,0,2
+mmmp:tgn_1030343,Pontefract,other,2,0,2
+mmmp:sdbm_sdbm_2201,Fakenham Magna,other,2,0,2
+mmmp:tgn_7445590,Sutton under Brailes,other,2,0,2
+mmmp:tgn_7447019,Stokesay,other,2,0,2
+mmmp:sdbm_sdbm_2229,Thurleston,other,2,0,2
+mmmp:tgn_7444917,Trysull,other,2,0,2
+mmmp:tgn_7010931,Framlingham,other,2,0,2
+mmmp:tgn_4002654,Church Eaton,other,2,0,2
+mmmp:sdbm_sdbm_2272,Richmond Palace,other,2,0,2
+mmmp:tgn_7011115,Wigmore,other,2,0,2
+mmmp:tgn_1000004,Asia,other,2,0,0
+mmmp:sdbm_sdbm_3970,Visigothic Kingdom,other,2,1,1
+mmmp:tgn_7009169,Eu,other,2,0,2
+mmmp:sdbm_sdbm_2525,"Saint Peters Abbey, Ghent",other,2,0,2
+mmmp:sdbm_sdbm_2560,Beaumont-Louestault,other,2,0,2
+mmmp:tgn_1034528,Montreuil-sur-Mer,other,2,0,2
+mmmp:tgn_7621658,Paimpont,other,2,0,2
+mmmp:tgn_7012424,Dannenberg,other,1,0,1
+mmmp:tgn_1034918,Pont-d'Ain,other,1,0,1
+mmmp:tgn_7009220,Grez-sur-Loing,other,1,0,1
+mmmp:tgn_7029743,Auvillar,other,1,1,0
+mmmp:tgn_7009385,Muret,other,1,0,1
+mmmp:tgn_1032826,Couture-sur-Loir,other,1,0,1
+mmmp:tgn_7010221,Kendal,other,1,0,1
+mmmp:tgn_7009160,Épernon,other,1,0,1
+mmmp:tgn_7606934,Sérignan,other,1,1,0
+mmmp:tgn_7009330,Marvejols,other,1,1,0
+mmmp:tgn_7624409,Montigny-lès-Cherlieu,other,1,1,0
+mmmp:tgn_7007600,Castelló de la Plana,other,1,0,1
+mmmp:tgn_7015545,Trogir,other,1,0,1
+mmmp:tgn_1033613,La Châtre,other,1,0,1
+mmmp:tgn_7613023,Puiseaux,other,1,0,1
+mmmp:tgn_7667389,Aureville,other,1,0,1
+mmmp:bibale_element_13368-273,Les Trois-Moutiers,other,1,0,1
+mmmp:tgn_1032848,Cravant,other,1,0,1
+mmmp:tgn_7009017,Champigny-sur-Marne,other,1,0,1
+mmmp:tgn_7611081,Rosiers-d'Égletons,other,1,0,0
+mmmp:tgn_7624449,Mortemart,other,1,0,0
+mmmp:tgn_1031958,Avrieux,other,1,1,0
+mmmp:tgn_7008948,Bergerac,other,1,1,0
+mmmp:tgn_7010171,Kiev,other,1,0,1
+mmmp:tgn_1032364,Buis-les-Baronnies,other,1,1,1
+mmmp:tgn_4002792,Collioure,other,1,1,0
+mmmp:tgn_7650631,Fleurance,other,1,1,0
+mmmp:tgn_7009152,Draguignan,other,1,1,1
+mmmp:tgn_7008444,Figeac,other,1,1,0
+mmmp:tgn_1033221,Génolhac,other,1,1,1
+mmmp:tgn_7008205,Le Puy,other,1,1,0
+mmmp:tgn_7029742,Lectoure,other,1,1,0
+mmmp:tgn_7008949,Bernay,other,1,0,1
+mmmp:tgn_7009342,Millau,other,1,1,0
+mmmp:tgn_7608085,Saint-Léger-des-Bois,other,1,1,0
+mmmp:tgn_7008803,Orange,other,1,1,0
+mmmp:tgn_7009419,Orthez,other,1,1,0
+mmmp:tgn_1034799,Pamiers,other,1,1,0
+mmmp:tgn_7009315,Lusigny-sur-Barse,other,1,0,0
+mmmp:tgn_7627044,Marmagne,other,1,1,0
+mmmp:tgn_7008283,L'Île Bouchard,other,1,0,0
+mmmp:tgn_1035732,Sisteron,other,1,1,0
+mmmp:tgn_5001315,Saint-Émilion,other,1,1,0
+mmmp:tgn_7009628,Saint-Gaudens,other,1,1,0
+mmmp:tgn_1035361,Saint-Girons,other,1,1,1
+mmmp:tgn_7604912,Saint-Sever,other,1,1,0
+mmmp:tgn_7607567,Saint-Junien,other,1,1,1
+mmmp:tgn_7633950,Lavaur,other,1,0,1
+mmmp:tgn_1034712,Nuits-Saint-Georges,other,1,0,1
+mmmp:tgn_7607335,Saint-Gildas-de-Rhuys,other,1,0,0
+mmmp:tgn_7610989,Rospez,other,1,0,0
+mmmp:tgn_7625067,Lyas,other,1,0,1
+mmmp:tgn_7012660,Prüm,other,1,1,0
+mmmp:tgn_7661701,Bragny-sur-Saône,other,1,0,1
+mmmp:bibale_element_10068-272,Leiden,other,1,0,1
+mmmp:tgn_1034657,Neuvy-le-Roi,other,1,0,1
+mmmp:tgn_7008632,Anet,other,1,0,1
+mmmp:tgn_7003759,Thurgau,other,1,0,1
+mmmp:tgn_7003678,Hesse,other,1,0,1
+mmmp:tgn_7657139,Bussières,other,1,1,0
+mmmp:tgn_7605015,Canton Saint-Seine-l'Abbaye,other,1,1,0
+mmmp:tgn_7008225,Flavigny-sur-Ozerain,other,1,0,0
+mmmp:tgn_1031977,Bèze,other,1,1,0
+mmmp:tgn_7609572,Saint-Pierremont,other,1,0,1
+mmmp:tgn_1032780,Couches,other,1,1,0
+mmmp:tgn_7619463,Muret-et-Crouttes,other,1,0,1
+mmmp:tgn_7012733,Tauberbischofsheim,other,1,0,0
+mmmp:tgn_1033930,Le Quesnoy,other,1,0,1
+mmmp:tgn_7016442,Azincourt,other,1,0,1
+mmmp:tgn_7003046,Motta di Livenza,other,1,0,0
+mmmp:tgn_1032635,Chaumont-sur-Loire,other,1,0,1
+mmmp:tgn_7660061,Bouëx,other,1,0,0
+mmmp:tgn_7009008,Caudebec,other,1,0,1
+mmmp:tgn_7008200,Souvigny,other,1,0,1
+mmmp:tgn_7634519,La Tour-Blanche,other,1,0,1
+mmmp:tgn_7008637,Annonay,other,1,0,0
+mmmp:tgn_7010658,Mussy-sur-Seine,other,1,0,1
+mmmp:tgn_7618235,Pont-sur-Seine,other,1,0,1
+mmmp:tgn_4006215,Le Drennec,other,1,0,1
+mmmp:tgn_7619007,Nailly,other,1,0,1
+mmmp:tgn_1035727,Sillery,other,1,0,0
+mmmp:tgn_7017235,Romorantin,other,1,0,1
+mmmp:tgn_7607717,Saint-Germain-Laval,other,1,0,1
+mmmp:tgn_1034163,Méounes-lès-Montrieux,other,1,0,1
+mmmp:tgn_7012830,Königstein,other,1,0,1
+mmmp:tgn_7008420,Remiremont,other,1,0,1
+mmmp:tgn_7599507,Vendes,other,1,0,1
+mmmp:tgn_7652794,Donzenac,other,1,1,0
+mmmp:tgn_4005260,Illueca,other,1,0,1
+mmmp:tgn_1062337,Peñíscola,other,1,0,1
+mmmp:tgn_7008455,Bergues,other,1,0,0
+mmmp:tgn_7662775,Beaumont-de-Lomagne,other,1,0,1
+mmmp:tgn_7005894,Asola,other,1,0,1
+mmmp:tgn_4011784,Vieil-Hesdin,other,1,0,0
+mmmp:tgn_1004651,Heybeli,other,1,0,1
+mmmp:bibale_element_1278619,Le Mont-Dieu,other,1,1,0
+mmmp:tgn_7646481,Gouy-Saint-André,other,1,1,0
+mmmp:tgn_1034146,Lusignan,other,1,0,0
+mmmp:tgn_1035583,Sainte-Menehould,other,1,0,1
+mmmp:tgn_7004294,Squillace,other,1,1,0
+mmmp:tgn_7045546,Copanello,other,1,1,0
+mmmp:tgn_1026600,Menen,other,1,0,0
+mmmp:tgn_1034396,Mitry-Mory,other,1,0,0
+mmmp:tgn_7243897,Hulst,other,1,0,0
+mmmp:tgn_7253312,Sluis,other,1,0,1
+mmmp:tgn_1035198,Sérifontaine,other,1,0,0
+mmmp:tgn_1000403,Dalarna,other,1,0,1
+mmmp:tgn_1032328,Brignoles,other,1,0,1
+mmmp:tgn_7618483,Pignan,other,1,0,1
+mmmp:tgn_7251378,Raversijde,other,1,0,0
+mmmp:tgn_7599582,Vadans,other,1,0,1
+mmmp:tgn_1029025,Dawlish,other,1,0,1
+mmmp:tgn_1005868,Walthamstow,other,1,0,1
+mmmp:tgn_1004602,Hammersmith,other,1,0,1
+mmmp:tgn_1036019,Vaucouleurs,other,1,0,1
+mmmp:tgn_7024764,Axel,other,1,0,1
+mmmp:tgn_7009730,Villandraut,other,1,1,0
+mmmp:tgn_7009480,Roquemaure,other,1,0,1
+mmmp:tgn_7005168,Wesel,other,1,0,0
+mmmp:tgn_7245433,Bassevelde,other,1,0,0
+mmmp:tgn_7006745,Sluis,other,1,0,0
+mmmp:tgn_7009398,Neauphle-le-Vieux,other,1,0,1
+mmmp:tgn_1033527,Jouars,other,1,0,1
+mmmp:tgn_7014280,Olean,other,1,0,1
+mmmp:tgn_1033715,La Tour-du-Pin,other,1,0,1
+mmmp:tgn_7009724,Vichy,other,1,0,1
+mmmp:tgn_7030858,Hartwell,other,1,0,1
+mmmp:tgn_7663090,Barenton,other,1,0,1
+mmmp:tgn_7609234,Saint-Paul-aux-Bois,other,1,0,1
+mmmp:tgn_7009325,Marly-le-Roi,other,1,0,1
+mmmp:tgn_7001099,Damietta,other,1,1,0
+mmmp:tgn_7012112,Belfast,other,1,0,1
+mmmp:tgn_7007387,La Chaux-de-Fonds,other,1,0,1
+mmmp:tgn_1035566,Sainte-Croix-aux-Mines,other,1,0,1
+mmmp:tgn_7007590,Cartagena,other,1,1,0
+mmmp:tgn_7043460,Premariacco,other,1,0,0
+mmmp:tgn_7596845,Vouvray,other,1,0,1
+mmmp:tgn_7006688,Arpino,other,1,0,0
+mmmp:tgn_7646430,Gerville-la-Forêt,other,1,0,1
+mmmp:tgn_7060078,Affolterbach,other,1,0,1
+mmmp:tgn_7609756,Saint-Pierre-du-Chemin,other,1,1,0
+mmmp:tgn_2016748,Danbury,other,1,0,1
+mmmp:tgn_7003315,Ceneda,other,1,0,1
+mmmp:tgn_7004018,Macerata,other,1,0,1
+mmmp:tgn_1033910,Le Perreux-Sur-Marne,other,1,0,1
+mmmp:tgn_7014282,Poughkeepsie,other,1,0,1
+mmmp:tgn_2065675,Nutley,other,1,0,1
+mmmp:tgn_2032900,Mishawaka,other,1,0,1
+mmmp:tgn_7028423,Hales,other,1,1,0
+mmmp:tgn_5001144,Anglards-de-Salers,other,1,0,1
+mmmp:tgn_7663274,Barby,other,1,0,0
+mmmp:tgn_1062047,Gibraleón,other,1,0,0
+mmmp:tgn_7643236,Harly,other,1,0,0
+mmmp:bibale_element_1068303-272,Delft,other,1,0,0
+mmmp:tgn_1034169,Mérignac,other,1,0,1
+mmmp:tgn_1044734,Galatro,other,1,1,0
+mmmp:tgn_1035184,Rumilly,other,1,0,1
+mmmp:tgn_7603203,Tresserve,other,1,0,1
+mmmp:tgn_1034401,Modane,other,1,0,1
+mmmp:tgn_7641782,La Côte-d'Aime,other,1,0,1
+mmmp:tgn_7029780,Ingrandes,other,1,0,1
+mmmp:tgn_1032564,Chamoux-sur-Gelon,other,1,0,1
+mmmp:tgn_7658946,Chanaz,other,1,0,1
+mmmp:tgn_7009045,Cluses,other,1,0,1
+mmmp:tgn_7008616,Aix-les-Bains,other,1,0,1
+mmmp:tgn_1035835,Termignon,other,1,0,1
+mmmp:tgn_7009399,Nemours,other,1,0,1
+mmmp:tgn_1033312,Grésy-sur-Aix,other,1,0,1
+mmmp:tgn_7603525,Tiercé,other,1,0,1
+mmmp:tgn_7007682,Obernai,other,1,0,0
+mmmp:tgn_7658224,Chanzeaux,other,1,0,1
+mmmp:tgn_1035081,Ribemont,other,1,0,1
+mmmp:tgn_1033882,Le Luc,other,1,0,1
+mmmp:tgn_1035660,Savigny-sur-Orge,other,1,0,1
+mmmp:tgn_1032912,Decize,other,1,0,0
+mmmp:tgn_1034281,Marmande,other,1,0,1
+mmmp:tgn_7007875,Dinant,other,1,1,0
+mmmp:tgn_7008702,Soria,other,1,0,0
+mmmp:tgn_7008812,Zamora,other,1,0,0
+mmmp:tgn_1033572,L'Isle-sur-la-Sorgue,other,1,0,1
+mmmp:tgn_7607117,Sercy,other,1,0,0
+mmmp:tgn_1035379,Saint-Jean-de-Losne,other,1,0,1
+mmmp:tgn_4004762,Ham-en-Artois,other,1,1,0
+mmmp:tgn_7008367,Lagrasse,other,1,0,0
+mmmp:tgn_7008203,Issoire,other,1,0,1
+mmmp:tgn_1034622,Nantouillet,other,1,0,1
+mmmp:tgn_1048376,Killyleagh,other,1,0,1
+mmmp:tgn_7017275,Vaison-la-Romaine,control,1,0,1
+mmmp:tgn_7655329,Colombier-le-Cardinal,other,1,0,0
+mmmp:tgn_1031871,Arvillard,other,1,0,0
+mmmp:tgn_1032148,Billom,other,1,1,0
+mmmp:tgn_7665531,Ancône,other,1,0,1
+mmmp:tgn_7610005,Saint-Riquier,other,1,0,0
+mmmp:tgn_1032008,Bar-sur-Seine,other,1,0,0
+mmmp:tgn_7008989,Bouchain,other,1,0,1
+mmmp:tgn_1034546,Moreuil,other,1,0,1
+mmmp:tgn_1032920,Descartes,other,1,0,1
+mmmp:tgn_4011429,Turenne,other,1,0,1
+mmmp:tgn_7637522,La Neuville-en-Hez,other,1,0,1
+mmmp:tgn_1026369,Chièvres,other,1,0,1
+mmmp:tgn_7008657,Argoules,other,1,0,0
+mmmp:tgn_7011197,Bath,other,1,1,0
+mmmp:tgn_1030775,Stradbroke,other,1,1,0
+mmmp:tgn_7010887,Buckden,other,1,0,0
+mmmp:tgn_4010571,Solignac,other,1,1,0
+mmmp:tgn_7008422,Nant,other,1,1,0
+mmmp:tgn_7609427,Saint-Maur-sur-le-Loir,other,1,0,1
+mmmp:tgn_7650121,Fauquembergues,other,1,0,0
+mmmp:tgn_7008511,Monmouth,other,1,1,0
+mmmp:tgn_7011066,Monaco,other,1,0,1
+mmmp:tgn_7013813,Jersey City,other,1,0,1
+mmmp:tgn_1009410,Tenerife,other,1,0,1
+mmmp:tgn_7602760,Sorbon,other,1,1,0
+mmmp:tgn_7664249,Bénonces,other,1,1,0
+mmmp:tgn_1033283,Glos-la-Ferrière,other,1,0,1
+mmmp:tgn_7108367,Raben Steinfeld,other,1,0,1
+mmmp:tgn_7610720,Rouans,other,1,1,0
+mmmp:tgn_7009228,Harcourt,other,1,0,0
+mmmp:tgn_7006687,Aquino,other,1,0,0
+mmmp:tgn_7006724,Priverno,other,1,0,0
+mmmp:tgn_7009216,Gorze,other,1,1,0
+mmmp:tgn_7008057,Cernay-la-Ville,other,1,1,0
+mmmp:tgn_7003757,Schwyz,other,1,1,0
+mmmp:tgn_7009658,Saint-Tropez,other,1,0,1
+mmmp:tgn_1036235,Voisenon,other,1,1,0
+mmmp:tgn_1032596,Chaource,other,1,0,1
+mmmp:tgn_7253869,Teralfene,other,1,1,0
+mmmp:tgn_1040465,Neumünster,other,1,0,0
+mmmp:tgn_7659606,Boron,other,1,0,0
+mmmp:tgn_7620803,Ognolles,other,1,1,0
+mmmp:tgn_1047319,Varazze,other,1,1,0
+mmmp:tgn_7007416,Moutier,other,1,1,0
+mmmp:tgn_1138710,Muri,other,1,1,0
+mmmp:tgn_1064625,Colwyn Bay,other,1,1,0
+mmmp:tgn_7254291,'t Hasselt,other,1,0,1
+mmmp:tgn_4009282,Rijkel,other,1,0,1
+mmmp:tgn_7642175,Gueschart,other,1,0,1
+mmmp:tgn_7896682,Abbeymahon,other,1,0,0
+mmmp:tgn_7014339,Ridgefield,other,1,0,1
+mmmp:tgn_1063942,Biasca,other,1,0,0
+mmmp:tgn_7003762,Valais,other,1,1,0
+mmmp:tgn_1033022,Entremont-le-Vieux,other,1,1,0
+mmmp:tgn_7596423,Vitreux,other,1,0,0
+mmmp:tgn_7651935,Courlandon,other,1,1,0
+mmmp:tgn_7664700,Belpech,other,1,0,0
+mmmp:tgn_1036220,Vitry-sur-Seine,other,1,1,0
+mmmp:tgn_7649522,Fontaine-le-Port,other,1,0,1
+mmmp:tgn_7010215,Coniston,other,1,0,1
+mmmp:tgn_7653127,Cuissy-et-Geny,other,1,0,0
+mmmp:tgn_7610693,Royères,other,1,0,0
+mmmp:tgn_7633417,Lauroux,other,1,0,0
+mmmp:tgn_7656375,Cirey,other,1,0,0
+mmmp:tgn_7325336,Sant Sadurní d'Anoia,other,1,1,0
+mmmp:tgn_7001354,Acre,other,1,0,0
+mmmp:tgn_7009020,Charleville-Mézières,other,1,0,0
+mmmp:bibale_element_737,mmmp:bibale_element_737,other,1,0,0
+mmmp:tgn_7009182,Foix,other,1,0,0
+mmmp:tgn_7076844,Emden,other,1,0,0
+mmmp:tgn_7009193,Ganagobie,other,1,0,0
+mmmp:tgn_7017068,Lunel,other,1,0,0
+mmmp:tgn_7077320,Erlangen,other,1,0,0
+mmmp:tgn_1034494,Montigny-le-Bretonneux,other,1,0,0
+mmmp:tgn_7031499,Pau,other,1,0,0
+mmmp:tgn_7007628,La Roche-sur-Yon,other,1,0,0
+mmmp:tgn_7009708,Saint-Etienne,other,1,0,0
+mmmp:tgn_1035745,Solesmes,other,1,0,0
+mmmp:tgn_1036086,Vesoul,other,1,0,0
+mmmp:tgn_7006280,Budapest,other,1,0,0
+mmmp:tgn_7006076,Lucca,other,1,0,0
+mmmp:tgn_7007652,Cracow,control,1,0,0
+mmmp:tgn_7010600,Évora,other,1,0,0
+mmmp:tgn_7007986,Étampes,other,1,0,0
+mmmp:tgn_7607808,Saint-Lizier,other,1,0,0
+mmmp:tgn_1034727,Oissel,other,1,0,0
+mmmp:tgn_7012304,Pommersfelden,other,1,0,0
+mmmp:bibale_element_1068150,Hainaut Province,other,1,0,0
+mmmp:tgn_1043576,Borgo Val di Taro,other,1,0,0
+mmmp:tgn_7010389,Clitheroe,other,1,0,0
+mmmp:tgn_7647289,Gosné,other,1,0,0
+mmmp:tgn_1033888,Le Merlerault,other,1,0,0
+mmmp:tgn_7011424,Horsham,other,1,0,0
+mmmp:tgn_7077746,Kleve,other,1,0,0
+mmmp:tgn_7622643,Metz-Tessy,other,1,0,0
+mmmp:tgn_7638065,La Roche-Posay,other,1,0,0
+mmmp:tgn_7600577,Villeneuve-de-Marc,other,1,0,0
+mmmp:tgn_7618663,Poulaines,other,1,0,0
+mmmp:tgn_7607575,Saint-Julien-sur-Cher,other,1,0,0
+mmmp:tgn_7621930,Menetou-Couture,other,1,0,0
+mmmp:tgn_4007928,Noirlac,other,1,0,0
+mmmp:tgn_7011049,Stoke-on-Trent,other,1,0,0
+mmmp:tgn_1035032,Réchicourt-le-Château,other,1,0,0
+mmmp:tgn_1034192,Magny-les-Hameaux,other,1,0,0
+mmmp:tgn_7247721,De Hulst,other,1,0,0
+mmmp:tgn_7012442,Engelberg,other,1,0,0
+mmmp:tgn_1034766,Ostricourt,other,1,0,0
+mmmp:tgn_7007496,Wettingen,other,1,0,0
+mmmp:tgn_7012354,Zwickau,other,1,0,0
+mmmp:tgn_7249508,Oud-Turnhout,other,1,0,0
+mmmp:tgn_7003107,Seckau,other,1,0,0
+mmmp:tgn_4010009,Sankt Lambrecht,other,1,0,0
+mmmp:tgn_7003193,Melk,other,1,0,0
+mmmp:tgn_7668970,Ivančna Gorica,other,1,0,0
+mmmp:tgn_8713215,Neuberg an der Mürz,other,1,0,0
+mmmp:tgn_1033811,Lauzun,other,1,0,0
+mmmp:tgn_7008020,Walcourt,other,1,0,0
+mmmp:tgn_7609125,Saint-Pryvé-Saint-Mesmin,other,1,0,0
+mmmp:tgn_7616696,Peyrat-la-Nonière,other,1,0,0
+mmmp:tgn_7009175,Faverney,other,1,0,0
+mmmp:tgn_7003104,Vorau,other,1,0,0
+mmmp:tgn_7008457,Cysoing,other,1,0,0
+mmmp:tgn_7017187,Asnières-sur-Oise,other,1,0,0
+mmmp:tgn_1040603,Ochsenfurt,other,1,0,0
+mmmp:tgn_1026483,Hemiksem,other,1,0,0
+mmmp:tgn_7084564,Wiblingen,other,1,0,0
+mmmp:tgn_7644980,Freistroff,other,1,0,0
+mmmp:tgn_4004870,Hauterive,other,1,0,0
+mmmp:tgn_7004432,Wiesbaden,other,1,0,0
+mmmp:tgn_7296112,Yeles,other,1,0,0
+mmmp:tgn_7248308,Beloeil,other,1,0,0
+mmmp:tgn_7449500,Ednam,other,1,0,0
+mmmp:tgn_7007295,Solothurn,other,1,0,0
+mmmp:tgn_7010883,Corfu,other,1,0,0
+mmmp:tgn_7460077,Poltalloch,other,1,0,0
+mmmp:tgn_1136756,Thornton,other,1,0,0
+mmmp:bibale_element_252,Leuven,other,1,0,0
+mmmp:tgn_7664919,Beyssac,other,1,0,0
+mmmp:tgn_8702369,Stalden,other,1,0,0
+mmmp:tgn_7007960,Namur,other,1,0,0
+mmmp:tgn_7251507,Orbais,other,1,0,0
+mmmp:tgn_7014564,Taos,other,1,0,0
+mmmp:tgn_7599052,Verbiesles,other,1,0,0
+mmmp:tgn_7008713,Tarazona,other,1,0,0
+mmmp:tgn_2031102,Bloomfield,other,1,0,0
+mmmp:tgn_7013605,Claremont,other,1,0,0
+mmmp:bibale_element_1064423-343,mmmp:bibale_element_1064423-343,other,1,0,0
+mmmp:bibale_element_272105-343,mmmp:bibale_element_272105-343,other,1,0,0
+mmmp:bibale_element_272117-343,mmmp:bibale_element_272117-343,other,1,0,0
+mmmp:bibale_element_272129-343,mmmp:bibale_element_272129-343,other,1,0,0
+mmmp:bibale_element_272141-343,mmmp:bibale_element_272141-343,other,1,0,0
+mmmp:bibale_element_272153-343,mmmp:bibale_element_272153-343,other,1,0,0
+mmmp:bibale_element_272165-343,mmmp:bibale_element_272165-343,other,1,0,0
+mmmp:bibale_element_272178-343,mmmp:bibale_element_272178-343,other,1,0,0
+mmmp:bibale_element_272191-343,mmmp:bibale_element_272191-343,other,1,0,0
+mmmp:bibale_element_272196-343,mmmp:bibale_element_272196-343,other,1,0,0
+mmmp:bibale_element_272201-343,mmmp:bibale_element_272201-343,other,1,0,0
+mmmp:bibale_element_272214-343,mmmp:bibale_element_272214-343,other,1,0,0
+mmmp:bibale_element_272224-343,mmmp:bibale_element_272224-343,other,1,0,0
+mmmp:bibale_element_272232-343,mmmp:bibale_element_272232-343,other,1,0,0
+mmmp:bibale_element_272240-343,mmmp:bibale_element_272240-343,other,1,0,0
+mmmp:bibale_element_272248-343,mmmp:bibale_element_272248-343,other,1,0,0
+mmmp:bibale_element_272256-343,mmmp:bibale_element_272256-343,other,1,0,0
+mmmp:bibale_element_272270-343,mmmp:bibale_element_272270-343,other,1,0,0
+mmmp:bibale_element_272282-343,mmmp:bibale_element_272282-343,other,1,0,0
+mmmp:bibale_element_272296-343,mmmp:bibale_element_272296-343,other,1,0,0
+mmmp:bibale_element_272308-343,mmmp:bibale_element_272308-343,other,1,0,0
+mmmp:bibale_element_272320-343,mmmp:bibale_element_272320-343,other,1,0,0
+mmmp:bibale_element_272332-343,mmmp:bibale_element_272332-343,other,1,0,0
+mmmp:bibale_element_272344-343,mmmp:bibale_element_272344-343,other,1,0,0
+mmmp:bibale_element_272352-343,mmmp:bibale_element_272352-343,other,1,0,0
+mmmp:bibale_element_272360-343,mmmp:bibale_element_272360-343,other,1,0,0
+mmmp:bibale_element_272368-343,mmmp:bibale_element_272368-343,other,1,0,0
+mmmp:bibale_element_272380-343,mmmp:bibale_element_272380-343,other,1,0,0
+mmmp:bibale_element_272392-343,mmmp:bibale_element_272392-343,other,1,0,0
+mmmp:bibale_element_272400-343,mmmp:bibale_element_272400-343,other,1,0,0
+mmmp:bibale_element_272410-343,mmmp:bibale_element_272410-343,other,1,0,0
+mmmp:bibale_element_272418-343,mmmp:bibale_element_272418-343,other,1,0,0
+mmmp:bibale_element_272426-343,mmmp:bibale_element_272426-343,other,1,0,0
+mmmp:bibale_element_272434-343,mmmp:bibale_element_272434-343,other,1,0,0
+mmmp:bibale_element_272442-343,mmmp:bibale_element_272442-343,other,1,0,0
+mmmp:bibale_element_272450-343,mmmp:bibale_element_272450-343,other,1,0,0
+mmmp:bibale_element_272462-343,mmmp:bibale_element_272462-343,other,1,0,0
+mmmp:bibale_element_272470-343,mmmp:bibale_element_272470-343,other,1,0,0
+mmmp:bibale_element_272483-343,mmmp:bibale_element_272483-343,other,1,0,0
+mmmp:bibale_element_272496-343,mmmp:bibale_element_272496-343,other,1,0,0
+mmmp:bibale_element_272509-343,mmmp:bibale_element_272509-343,other,1,0,0
+mmmp:bibale_element_272519-343,mmmp:bibale_element_272519-343,other,1,0,0
+mmmp:bibale_element_272532-343,mmmp:bibale_element_272532-343,other,1,0,0
+mmmp:bibale_element_272545-343,mmmp:bibale_element_272545-343,other,1,0,0
+mmmp:bibale_element_272553-343,mmmp:bibale_element_272553-343,other,1,0,0
+mmmp:bibale_element_272561-343,mmmp:bibale_element_272561-343,other,1,0,0
+mmmp:bibale_element_272569-343,mmmp:bibale_element_272569-343,other,1,0,0
+mmmp:bibale_element_272577-343,mmmp:bibale_element_272577-343,other,1,0,0
+mmmp:bibale_element_272597-343,mmmp:bibale_element_272597-343,other,1,0,0
+mmmp:bibale_element_272605-343,mmmp:bibale_element_272605-343,other,1,0,0
+mmmp:bibale_element_272613-343,mmmp:bibale_element_272613-343,other,1,0,0
+mmmp:bibale_element_272621-343,mmmp:bibale_element_272621-343,other,1,0,0
+mmmp:bibale_element_272642-343,mmmp:bibale_element_272642-343,other,1,0,0
+mmmp:bibale_element_272654-343,mmmp:bibale_element_272654-343,other,1,0,0
+mmmp:bibale_element_272666-343,mmmp:bibale_element_272666-343,other,1,0,0
+mmmp:tgn_1034070,Liverdun,other,1,0,0
+mmmp:tgn_7008719,Toledo,other,1,0,1
+mmmp:tgn_1035897,Tournon,other,1,0,1
+mmmp:tgn_7008281,Chinon,other,1,0,1
+mmmp:tgn_7636364,La Merci-Dieu,other,1,1,0
+mmmp:tgn_7007139,Alcalá de Henares,other,1,0,1
+mmmp:tgn_7077307,Landkreis Landshut,other,1,0,1
+mmmp:tgn_1026401,Drongen,other,1,1,1
+mmmp:tgn_8711850,Grand Est,other,1,0,1
+mmmp:tgn_7639792,La Bouteille,other,1,0,0
+mmmp:bibale_element_1023509,Rotterdam,other,1,0,0
+mmmp:tgn_7005893,Revere,other,1,0,1
+mmmp:tgn_7005050,Spello,other,1,0,1
+mmmp:tgn_7003264,Cologna Veneta,other,1,0,1
+mmmp:tgn_7006082,Pisa,glass,1,0,1
+mmmp:tgn_7051204,Nardo,other,1,0,1
+mmmp:tgn_7010578,Fontaine-Chaalis,other,1,1,0
+mmmp:tgn_7005020,Reggio Emilia,other,1,0,1
+mmmp:tgn_4005999,La Sauve,other,1,1,1
+mmmp:tgn_2021639,Venice,glass,1,0,1
+mmmp:tgn_7002970,Département de la Meuse,other,1,1,0
+mmmp:tgn_1032743,Condom,other,1,0,1
+mmmp:tgn_1136698,Eye,other,1,1,0
+mmmp:tgn_7523855,Aswān,other,1,1,0
+mmmp:tgn_7616841,Pays de la Loire,other,1,0,1
+mmmp:tgn_1033648,La Flèche,other,1,0,1
+mmmp:bibale_element_1225262,mmmp:bibale_element_1225262,other,1,0,1
+mmmp:tgn_7643886,Humières,other,1,0,0
+mmmp:tgn_7006739,Rieti,other,1,1,0
+mmmp:tgn_7009452,Puteaux,other,1,0,1
+mmmp:tgn_7619164,Neuchâtel,other,1,0,1
+mmmp:tgn_1033969,Les Andelys,other,1,0,0
+mmmp:tgn_5001390,Baume-les-Messieurs,other,1,0,1
+mmmp:tgn_1003123,Düsseldorf,other,1,0,1
+mmmp:tgn_4008721,Plougastel-Daoulas,other,1,0,1
+mmmp:tgn_7009509,Tréguier,other,1,0,1
+mmmp:tgn_7005652,Novara,other,1,1,0
+mmmp:tgn_1031784,Anduze,other,1,0,1
+mmmp:tgn_7601002,Vernines,other,1,0,0
+mmmp:tgn_7017208,Longpont-sur-Orge,other,1,0,0
+mmmp:tgn_7009297,Lièpvre,other,1,0,0
+mmmp:tgn_7012006,Nottingham,other,1,0,1
+mmmp:tgn_7608886,Saint-Michel-en-Brenne,other,1,0,0
+mmmp:tgn_7016443,Conches-en-Ouche,other,1,0,0
+mmmp:tgn_7008058,Conflans-Sainte-Honorine,other,1,0,0
+mmmp:bibale_element_52345-272,Massachusetts,other,1,0,1
+mmmp:tgn_7635312,L'Échelle-Saint-Aurin,other,1,0,0
+mmmp:tgn_1032250,Bourbon-Lancy,other,1,0,0
+mmmp:tgn_1033896,Le Monastier,other,1,0,0
+mmmp:tgn_1033103,Flavigny-sur-Moselle,other,1,0,1
+mmmp:tgn_1035726,Signy-l'Abbaye,other,1,0,0
+mmmp:tgn_7005839,Pontida,other,1,0,0
+mmmp:tgn_7622937,Ménil,other,1,0,1
+mmmp:tgn_7003297,Treviso,other,1,0,1
+mmmp:tgn_7006707,Carinola,other,1,0,0
+mmmp:bodley_bodley_place_32,Treffort-Cuisiat,other,1,0,0
+mmmp:tgn_4004737,Hailes,other,1,0,1
+mmmp:bodley_bodley_place_8,"Kingsham [in Donnington], Sussex",other,1,0,1
+mmmp:tgn_4003043,Cropredy,other,1,0,0
+mmmp:tgn_1028262,Adderbury,other,1,0,0
+mmmp:tgn_7028282,Besthorpe,other,1,0,0
+mmmp:bodley_bodley_place_7008161,Bordeaux,other,1,0,0
+mmmp:tgn_4006124,Lanhydrock,other,1,0,0
+mmmp:tgn_7011311,Honiton,other,1,0,0
+mmmp:tgn_7011312,Ottery Saint Mary,other,1,0,0
+mmmp:bodley_bodley_place_34,Thurnham [unidentified],other,1,0,0
+mmmp:tgn_7010471,Eger,other,1,0,0
+mmmp:tgn_7214023,Beyharting,other,1,0,0
+mmmp:tgn_4003172,Dartington,other,1,0,1
+mmmp:tgn_7030153,Owston,other,1,0,0
+mmmp:tgn_7018669,Clipsham,other,1,0,1
+mmmp:bodley_bodley_place_39,"Oates [in High Laver], Essex",other,1,0,1
+mmmp:tgn_1029264,Fordingbridge,other,1,0,0
+mmmp:tgn_1048085,Schagen,other,1,0,0
+mmmp:tgn_7011010,Stourbridge,other,1,0,0
+mmmp:tgn_7010288,Smolensk,other,1,0,0
+mmmp:tgn_7013888,Lexington,other,1,0,0
+mmmp:tgn_1039484,Hattingen,other,1,0,0
+mmmp:tgn_7007809,Szczecin,other,1,0,1
+mmmp:tgn_7250945,Oosterlo,other,1,0,0
+mmmp:tgn_7457283,Maresfield,other,1,0,0
+mmmp:tgn_7166812,Heinsheim,other,1,0,0
+mmmp:tgn_7005447,Rovereto,other,1,0,0
+mmmp:tgn_7001313,Annaba,other,1,0,0
+mmmp:tgn_7009852,Sigtuna,other,1,0,0
+mmmp:tgn_7009889,Naantali,other,1,0,0
+mmmp:tgn_7013938,Tallahassee,other,1,0,0
+mmmp:sdbm_sdbm_4667,Pöytyä,other,1,0,0
+mmmp:tgn_7008388,Aubazines,other,1,0,0
+mmmp:tgn_1100055,"Orval, Abbaye d'",other,1,0,0
+mmmp:tgn_7008123,Murbach,other,1,0,0
+mmmp:tgn_1033081,Favières,other,1,0,0
+mmmp:sdbm_sdbm_4144,St. Osyth,other,1,0,0
+mmmp:tgn_7009872,Västerås,other,1,0,0
+mmmp:tgn_7013953,Oklahoma City,other,1,0,0
+mmmp:tgn_1036362,Aschersleben,other,1,0,0
+mmmp:tgn_1040910,Riedlingen,other,1,0,0
+mmmp:tgn_7025917,Long Bredy,other,1,0,0
+mmmp:sdbm_sdbm_4632,Stanbrook,other,1,0,1
+mmmp:tgn_7441869,Wass,other,1,0,1
+mmmp:tgn_1038915,Ehingen,other,1,0,0
+mmmp:tgn_7012440,Ellwangen,other,1,0,0
+mmmp:tgn_1063963,Broc,other,1,0,0
+mmmp:tgn_1030453,Rock Ferry,other,1,0,0
+mmmp:tgn_7658714,Chacenay,other,1,0,0
+mmmp:tgn_7009722,Vertus,other,1,0,0
+mmmp:sdbm_sdbm_4670,Buch,other,1,0,0
+mmmp:tgn_7012684,Rottenburg,other,1,0,0
+mmmp:tgn_7659617,Bornay,other,1,0,0
+mmmp:tgn_7661703,Bragelogne,other,1,0,0
+mmmp:tgn_7252073,Melle,other,1,0,0
+mmmp:sdbm_sdbm_4705,Halkshill,other,1,0,1
+mmmp:tgn_7005173,Blaubeuren,other,1,0,1
+mmmp:tgn_7891635,Sandymount,other,1,0,0
+mmmp:tgn_7008743,Tordesillas,other,1,0,0
+mmmp:tgn_7014487,Savannah,other,1,0,0
+mmmp:sdbm_sdbm_4711,Farleigh House,other,1,0,0
+mmmp:sdbm_sdbm_3869,Villanova del Sillaro,other,1,0,0
+mmmp:tgn_7012370,Bad Königshofen im Grabfeld,other,1,0,0
+mmmp:tgn_7014627,Wilkes-Barre,other,1,0,0
+mmmp:tgn_7013694,Harrisburg,other,1,0,0
+mmmp:tgn_4010604,Sorèze,other,1,0,0
+mmmp:tgn_1036841,Grimma,other,1,0,0
+mmmp:tgn_7009494,Melrose,other,1,0,0
+mmmp:tgn_7451846,Healey,other,1,0,0
+mmmp:tgn_1035475,Saint-Ouen,other,1,0,0
+mmmp:tgn_1047800,Grave,other,1,0,0
+mmmp:tgn_7597006,Woël,other,1,0,0
+mmmp:tgn_7025919,Lytchett Matravers,other,1,0,0
+mmmp:tgn_1030700,Southwold,other,1,0,0
+mmmp:tgn_7461992,Inworth,other,1,0,0
+mmmp:tgn_1029176,Emsworth,other,1,0,0
+mmmp:tgn_7009988,Alnwick,other,1,0,0
+mmmp:tgn_1029724,Kimbolton,other,1,0,0
+mmmp:tgn_7007892,Herentals,other,1,0,0
+mmmp:tgn_7441914,Torton,other,1,0,0
+mmmp:tgn_7011156,Fairford,other,1,0,0
+mmmp:tgn_1029941,Lynton,other,1,0,0
+mmmp:tgn_1031943,Avernes,other,1,0,0
+mmmp:tgn_7011808,Terezín,other,1,0,0
+mmmp:tgn_7004632,Dachau,other,1,0,0
+mmmp:tgn_1001101,Ankara,other,1,0,0
+mmmp:tgn_1042867,Killala,other,1,0,0
+mmmp:tgn_1002352,Elk,other,1,0,0
+mmmp:tgn_7460401,Hopetoun House,other,1,0,0
+mmmp:sdbm_sdbm_4763,Hamuli,other,1,0,0
+mmmp:tgn_1046306,Rivarolo Mantovano,other,1,0,0
+mmmp:tgn_7119836,Pfersee,other,1,0,0
+mmmp:tgn_7046981,Guardia,other,1,0,0
+mmmp:tgn_1028564,Botesdale,other,1,0,0
+mmmp:tgn_7031299,Headington,other,1,0,0
+mmmp:tgn_7008253,Joigny,other,1,0,0
+mmmp:tgn_7446727,Rede,other,1,0,0
+mmmp:tgn_7011937,Woodstock,other,1,0,0
+mmmp:tgn_7005035,Lugo,other,1,0,1
+mmmp:tgn_7009484,Rosny-sur-Seine,other,1,0,0
+mmmp:tgn_7327323,Pedraza,other,1,0,0
+mmmp:tgn_1040538,Nordkirchen,other,1,0,0
+mmmp:tgn_7009443,Pont-de-l'Arche,other,1,0,0
+mmmp:tgn_7026615,Dumbleton,other,1,0,1
+mmmp:tgn_1000203,Tanzania,other,1,0,0
+mmmp:tgn_7004770,Barbados,other,1,0,0
+mmmp:tgn_7604025,Trois-Fontaines,other,1,1,1
+mmmp:tgn_7009133,Ayr,other,1,0,0
+mmmp:sdbm_sdbm_4787,Lavigny,other,1,0,0
+mmmp:tgn_7629644,Lisors,other,1,0,0
+mmmp:tgn_1064622,Chirk,other,1,0,0
+mmmp:tgn_7007483,Bilbao,other,1,0,0
+mmmp:tgn_7003105,Leoben,other,1,0,0
+mmmp:tgn_1030220,Nuneaton,other,1,1,1
+mmmp:tgn_7007967,Ostend,other,1,0,0
+mmmp:tgn_1042582,Athboy,other,1,0,0
+mmmp:tgn_7453097,Cameron,other,1,0,0
+mmmp:tgn_7006169,Certaldo,other,1,0,0
+mmmp:tgn_7113647,Rödelsee,other,1,0,1
+mmmp:tgn_4009108,Ranshofen,other,1,0,0
+mmmp:tgn_7634189,Le Boupère,other,1,0,0
+mmmp:tgn_1033164,Foucarmont,other,1,0,0
+mmmp:tgn_7012847,Naumburg,other,1,0,0
+mmmp:tgn_7005175,Donaueschingen,other,1,0,0
+mmmp:sdbm_sdbm_4935,Kloster St. Katharina Nürnberg,glass,1,0,0
+mmmp:tgn_7007656,Elbla̜g,other,1,0,0
+mmmp:tgn_7026306,Radwinter,other,1,0,0
+mmmp:tgn_7003302,Kremsmünster,other,1,0,0
+mmmp:tgn_7004336,Schweinfurt,other,1,0,0
+mmmp:tgn_7011827,Hampstead,other,1,0,0
+mmmp:tgn_1028309,Ampthill,other,1,0,0
+mmmp:tgn_7028151,Syston,other,1,0,0
+mmmp:tgn_7014298,Provo,other,1,0,0
+mmmp:tgn_7011041,Burton on Trent,other,1,1,0
+mmmp:tgn_7629758,Liancourt-Fosse,other,1,0,0
+mmmp:tgn_1031169,Wirksworth,other,1,0,0
+mmmp:tgn_7011916,Eton,other,1,0,1
+mmmp:tgn_7031164,Strelley,other,1,0,0
+mmmp:tgn_7010724,Louth,other,1,0,0
+mmmp:tgn_7007565,New Jersey,other,1,0,0
+mmmp:tgn_7610012,Saint-Pierre-de-Curtille,other,1,0,0
+mmmp:tgn_1100066,Tintern,other,1,0,0
+mmmp:sdbm_sdbm_38,Ourscamp Abbey,other,1,1,1
+mmmp:tgn_7006836,Rosmalen,other,1,0,0
+mmmp:tgn_7641766,La Fermeté,other,1,0,0
+mmmp:sdbm_sdbm_4838,Kloster Banz,other,1,0,0
+mmmp:sdbm_sdbm_4839,Saint-Guilhem-le-Désert,other,1,0,0
+mmmp:tgn_1026348,Boussu,other,1,0,0
+mmmp:tgn_7254364,Vellereille-les-Brayeux,other,1,0,0
+mmmp:tgn_8712216,Blickling Estate,other,1,0,0
+mmmp:sdbm_sdbm_4845,Dobcross,other,1,0,0
+mmmp:tgn_7001158,Castilla y León,other,1,0,0
+mmmp:tgn_7007253,Iowa,other,1,0,0
+mmmp:tgn_1000193,South Africa,other,1,0,0
+mmmp:tgn_7018933,Wandsworth,other,1,0,0
+mmmp:tgn_7007564,New Hampshire,other,1,0,0
+mmmp:tgn_7008269,Dreux,other,1,0,0
+mmmp:tgn_4008183,Oliwa,other,1,0,0
+mmmp:tgn_7016143,Carthage,other,1,0,0
+mmmp:tgn_7007523,Missouri,other,1,0,0
+mmmp:sdbm_sdbm_479,Witham,other,1,0,0
+mmmp:tgn_7003191,Herzogenburg,other,1,0,0
+mmmp:tgn_2060075,Perryville,other,1,0,0
+mmmp:tgn_7002469,Chalcedon,other,1,0,0
+mmmp:tgn_7002716,Chalcidice,other,1,0,0
+mmmp:sdbm_sdbm_5132,Bramshill Park,other,1,0,1
+mmmp:tgn_7000811,Cape Town,other,1,0,0
+mmmp:tgn_1031204,Woodmansey,other,1,0,0
+mmmp:sdbm_sdbm_3382,St. Maximins Abbey,other,1,0,0
+mmmp:sdbm_sdbm_1857,Reading Abbey,other,1,0,0
+mmmp:tgn_7011413,Felpham,other,1,0,0
+mmmp:tgn_4002580,Chemillé-sur-Indrois,other,1,0,0
+mmmp:sdbm_sdbm_3269,Hyde Abbey,other,1,0,0
+mmmp:tgn_7011834,Hanworth,other,1,0,0
+mmmp:tgn_7009322,Malesherbes,other,1,0,0
+mmmp:tgn_7026815,Chawton,other,1,0,0
+mmmp:tgn_7881014,Lemíthou,other,1,0,0
+mmmp:tgn_1026472,Harelbeke,other,1,0,0
+mmmp:tgn_7012040,Kalambáka,other,1,0,0
+mmmp:tgn_7014637,Winston-Salem,other,1,0,0
+mmmp:tgn_7016142,Bodrum,other,1,0,0
+mmmp:tgn_7002515,Suhut,other,1,0,0
+mmmp:tgn_7026808,Bramshill,other,1,0,0
+mmmp:tgn_7004708,Wessobrunn,other,1,0,0
+mmmp:tgn_5001378,Loché-sur-Indrois,other,1,1,0
+mmmp:tgn_7007853,Amay,other,1,0,0
+mmmp:tgn_5003641,Shayzar,other,1,0,0
+mmmp:sdbm_sdbm_4902,Statfold Hall,other,1,0,0
+mmmp:tgn_5000435,Ayr,other,1,0,0
+mmmp:tgn_7258466,Zepperen,other,1,0,0
+mmmp:tgn_7003212,Crespano del Grappa,other,1,0,0
+mmmp:tgn_1061830,Belorado,other,1,0,0
+mmmp:sdbm_sdbm_4090,Diocese of Liege,other,1,0,0
+mmmp:tgn_1029383,Great Missenden,other,1,1,1
+mmmp:tgn_7013266,Albany,other,1,0,0
+mmmp:tgn_7002332,Lapithos,other,1,0,0
+mmmp:sdbm_sdbm_4913,Yur’yevets,other,1,0,0
+mmmp:tgn_6003016,Cappadocia,other,1,1,0
+mmmp:tgn_7002615,Sardes,other,1,0,0
+mmmp:tgn_7007525,Nebraska,other,1,0,0
+mmmp:tgn_1026791,Waasmunster,other,1,0,0
+mmmp:tgn_1048345,Dromore,other,1,0,1
+mmmp:tgn_7018913,Ealing,other,1,0,0
+mmmp:tgn_7003199,Linz,other,1,0,0
+mmmp:tgn_1136730,Newport,other,1,0,0
+mmmp:sdbm_sdbm_2317,Deeping Gate,other,1,0,0
+mmmp:sdbm_sdbm_4937,Wrest Park,other,1,0,0
+mmmp:tgn_7012903,Wallington,other,1,0,0
+mmmp:tgn_1047867,Hulst,other,1,0,0
+mmmp:sdbm_sdbm_1842,Poissy Abbey,other,1,0,0
+mmmp:tgn_7011247,Bruton,other,1,0,0
+mmmp:tgn_7254874,Sijsele,other,1,0,0
+mmmp:tgn_7248976,Cierreux,other,1,0,0
+mmmp:tgn_7009350,Mont-de-Marsan,other,1,0,0
+mmmp:tgn_7123761,Neuhausen,other,1,0,0
+mmmp:tgn_7014636,Winnetka,other,1,0,0
+mmmp:tgn_7006831,Tilburg,other,1,0,0
+mmmp:tgn_1040922,Rinteln,other,1,0,0
+mmmp:sdbm_sdbm_4957,Diocese of Minden,other,1,0,0
+mmmp:tgn_7028048,Revesby,other,1,0,0
+mmmp:tgn_1028388,Balderton,other,1,0,0
+mmmp:tgn_7011743,Godalming,other,1,0,0
+mmmp:tgn_7014211,New Hope,other,1,0,0
+mmmp:tgn_7003836,Algarve,other,1,1,0
+mmmp:tgn_7046500,Casentino,other,1,0,0
+mmmp:tgn_7005378,Noli,other,1,0,0
+mmmp:tgn_7004231,Venosa,other,1,0,1
+mmmp:sdbm_sdbm_4972,Lykkesholm,other,1,0,0
+mmmp:tgn_7003573,Maribo,other,1,0,0
+mmmp:sdbm_sdbm_4973,Kvarnfors,other,1,0,0
+mmmp:tgn_7594273,Corsica,other,1,0,0
+mmmp:tgn_1096420,Bundoora,other,1,0,0
+mmmp:tgn_7004322,Aschaffenburg,other,1,0,0
+mmmp:tgn_7001362,Haifa,other,1,0,0
+mmmp:sdbm_sdbm_4977,Sitlington,other,1,0,0
+mmmp:tgn_7008398,Plasencia,other,1,0,0
+mmmp:tgn_1097361,Lawson,other,1,0,0
+mmmp:tgn_1097621,Mosman,other,1,0,0
+mmmp:tgn_7001992,Tasmania,other,1,0,1
+mmmp:tgn_7009063,Crémieu,other,1,0,0
+mmmp:tgn_7028413,Great Ryburgh,other,1,0,1
+mmmp:tgn_7450004,Hale,other,1,0,0
+mmmp:tgn_1100068,Westminster Abbey,other,1,0,0
+mmmp:sdbm_sdbm_5000,Bordesley Abbey,other,1,0,0
+mmmp:tgn_7449820,Halford,other,1,0,1
+mmmp:tgn_7011887,Letchworth,other,1,0,0
+mmmp:tgn_7014080,Minneapolis,other,1,0,0
+mmmp:tgn_4012389,Wroxton,other,1,0,0
+mmmp:tgn_7007511,Cáceres,other,1,0,0
+mmmp:tgn_7155234,Kirchheim,other,1,0,0
+mmmp:tgn_1028489,Billingshurst,other,1,0,0
+mmmp:tgn_7028969,Everingham,other,1,0,0
+mmmp:tgn_7006201,Gallicano,other,1,0,0
+mmmp:tgn_7667143,Aubevoye,other,1,0,0
+mmmp:tgn_7607736,Saint-Lon-les-Mines,other,1,0,0
+mmmp:tgn_7017324,Chişinău,other,1,0,1
+mmmp:tgn_7009383,Moyenmoutier,other,1,1,1
+mmmp:tgn_7662605,Bazancourt,other,1,0,0
+mmmp:tgn_7008540,Llandudno,other,1,0,0
+mmmp:tgn_7010042,Dunkirk,other,1,0,0
+mmmp:tgn_7005443,Recife,other,1,0,1
+mmmp:tgn_7667409,Aubais,other,1,0,0
+mmmp:tgn_7649419,Fagnon,other,1,0,0
+mmmp:tgn_1029414,Hadfield,other,1,0,0
+mmmp:tgn_1030896,Tideswell,other,1,0,0
+mmmp:tgn_1040064,Lebach,other,1,0,0
+mmmp:tgn_1100040,"Corvey, Kloster",other,1,0,0
+mmmp:sdbm_sdbm_5033,Bardney Abbey,other,1,0,0
+mmmp:tgn_7450058,Hackington,other,1,0,0
+mmmp:tgn_1136675,Broughton,other,1,0,0
+mmmp:tgn_1100064,Sweetheart Abbey,other,1,0,0
+mmmp:tgn_2009949,Alta,other,1,0,0
+mmmp:tgn_7011430,Isle of Wight,other,1,0,0
+mmmp:tgn_2016736,Cornwall,other,1,0,0
+mmmp:tgn_7014145,Greenwich,other,1,0,0
+mmmp:sdbm_sdbm_5047,Poussay,other,1,0,0
+mmmp:tgn_7006088,Iserlohn,other,1,0,0
+mmmp:tgn_6004165,Nemours,other,1,0,0
+mmmp:tgn_7012334,Nördlingen (Swabia),other,1,0,0
+mmmp:tgn_7617223,Passy,other,1,0,0
+mmmp:tgn_7007537,"San Nicola, Isola",other,1,0,0
+mmmp:tgn_7649434,Fontaine-Milon,other,1,0,0
+mmmp:tgn_7135354,Molsberg,other,1,0,0
+mmmp:tgn_7005875,Soresina,other,1,0,0
+mmmp:tgn_8711849,Bourgogne-Franche-Comté,other,1,0,0
+mmmp:tgn_7032344,Goght',other,1,0,0
+mmmp:tgn_7030107,Zierikzee,other,1,0,0
+mmmp:tgn_7722163,Harput,other,1,0,0
+mmmp:sdbm_sdbm_5071,New Minster,other,1,0,0
+mmmp:tgn_7010068,Harrogate,other,1,0,1
+mmmp:sdbm_sdbm_5074,Burton Dasset,other,1,0,0
+mmmp:tgn_1064694,Llandovery,other,1,0,1
+mmmp:tgn_1030249,Oswestry,other,1,0,0
+mmmp:tgn_7001303,Thrace,other,1,0,0
+mmmp:tgn_1099687,Alvastra,other,1,0,0
+mmmp:tgn_2050026,Longmeadow,other,1,0,1
+mmmp:tgn_7203420,Bredelar,other,1,0,0
+mmmp:tgn_2062554,Plattsmouth,other,1,0,0
+mmmp:tgn_2081927,Somerset,other,1,0,0
+mmmp:tgn_7001445,Giza,other,1,0,0
+mmmp:tgn_7014272,Portland,other,1,0,1
+mmmp:tgn_7006155,San Piero a Sieve,other,1,0,0
+mmmp:sdbm_sdbm_5087,Luere,other,1,0,0
+mmmp:tgn_7106591,Schleedorf,other,1,0,0
+mmmp:sdbm_sdbm_5090,Villach,other,1,0,1
+mmmp:tgn_7662047,Bressieux,other,1,0,1
+mmmp:tgn_7017852,Mystic,other,1,0,1
+mmmp:tgn_7006107,Bibbiena,other,1,0,0
+mmmp:tgn_7006007,Vimercate,other,1,0,0
+mmmp:sdbm_sdbm_5096,Bonn,other,1,0,0
+mmmp:tgn_1100244,Castel dell'Ovo,other,1,0,0
+mmmp:tgn_2014203,Sebastopol,other,1,0,1
+mmmp:tgn_7005804,Quebec,other,1,0,1
+mmmp:tgn_1043681,Busca,other,1,0,0
+mmmp:tgn_7628981,Lorgies,other,1,0,1
+mmmp:tgn_7667172,Avrillé,other,1,0,0
+mmmp:tgn_1041944,Édhessa,other,1,0,0
+mmmp:tgn_7011444,Lewes,other,1,0,1
+mmmp:tgn_1004064,Beckenham,other,1,0,0
+mmmp:sdbm_sdbm_5111,Montagu Square,other,1,0,1
+mmmp:tgn_1033927,Le Pré-Saint-Gervais,other,1,0,0
+mmmp:tgn_7006891,s Heerenberg,other,1,0,0
+mmmp:tgn_1028357,Atherstone,other,1,0,0
+mmmp:tgn_7121040,Pasing,other,1,0,1
+mmmp:tgn_7637948,Lassay,other,1,0,0
+mmmp:tgn_7092071,Villmar,other,1,0,0
+mmmp:tgn_1100124,La Verna,other,1,0,0
+mmmp:tgn_1040765,Porz am Rhein,other,1,0,0
+mmmp:tgn_1004542,Golders Green,other,1,0,0
+mmmp:tgn_2029016,Maywood,other,1,0,0
+mmmp:tgn_7012780,Wildbad im Schwarzwald,other,1,0,0
+mmmp:tgn_7014285,Omaha,other,1,0,1
+mmmp:tgn_7043283,Quarto dei Mille,other,1,0,0
+mmmp:tgn_1063206,Karlshamn,other,1,0,0
+mmmp:tgn_7652443,Diou,other,1,0,1
+mmmp:tgn_7115727,Osterberg,other,1,0,0
+mmmp:tgn_7007869,Charleroi,other,1,0,0
+mmmp:tgn_7009408,Nogent-sur-Marne,other,1,0,0
+mmmp:tgn_4006209,Le Cateau-Cambrésis,other,1,0,0
+mmmp:tgn_7015329,Ohrid,other,1,0,0
+mmmp:tgn_1025973,Raab,other,1,0,1
+mmmp:tgn_7008862,Tremezzo,other,1,0,0
+mmmp:tgn_7193199,Fellheim,other,1,0,1
+mmmp:sdbm_sdbm_649,Carrow Abbey,other,1,0,0
+mmmp:tgn_7003720,Cottbus,other,1,0,0
+mmmp:tgn_1041829,Willebadessen,other,1,0,0
+mmmp:tgn_1030195,North Shields,other,1,0,1
+mmmp:tgn_7007983,Morigny-Champigny,other,1,0,0
+mmmp:tgn_7622930,Ménil-Erreux,other,1,0,0
+mmmp:tgn_7008907,Foret de Soignes,other,1,0,0
+mmmp:sdbm_sdbm_5168,Listenois,other,1,0,1
+mmmp:tgn_1047207,Tricarico,other,1,0,0
+mmmp:tgn_7010002,Lodi Vecchio,other,1,0,0
+mmmp:tgn_7006478,"Plata, Río de la",other,1,0,0
+mmmp:tgn_2069461,Great Neck,other,1,0,1
+mmmp:tgn_7640507,La Bussière-sur-Ouche,other,1,0,0
+mmmp:tgn_7638465,La Plagne,other,1,0,0
+mmmp:tgn_7005565,Panama,other,1,0,0
+mmmp:sdbm_sdbm_5178,Jericho,other,1,0,1
+mmmp:tgn_7003306,Weyer,other,1,0,1
+mmmp:tgn_4009370,Roderen,other,1,0,0
+mmmp:tgn_7013136,Victoria,other,1,0,0
+mmmp:tgn_1026250,Ybbs,other,1,0,1
+mmmp:tgn_7090062,Venningen,other,1,0,0
+mmmp:tgn_7140611,Mandelsloh,other,1,0,0
+mmmp:tgn_7030436,South Tyrol,other,1,0,0
+mmmp:tgn_7013228,Hamersleben,other,1,1,1
+mmmp:tgn_1037441,Osterwieck,other,1,1,0
+mmmp:tgn_1045545,Monteprandone,other,1,0,0
+mmmp:tgn_7009144,Dinan,other,1,0,0
+mmmp:tgn_7009526,Selkirk,other,1,0,0
+mmmp:tgn_7153886,Karden,other,1,0,1
+mmmp:tgn_1040360,Monheim,other,1,0,1
+mmmp:tgn_1082613,Bsharrī,other,1,0,0
+mmmp:tgn_7013683,Hamden,other,1,0,0
+mmmp:tgn_7465255,Bossall,other,1,0,1
+mmmp:tgn_7009055,Condé-sur-l'Escaut,other,1,0,0
+mmmp:tgn_1000046,Bolivia,other,1,0,0
+mmmp:tgn_7003181,Wiener Neustadt,other,1,0,0
+mmmp:sdbm_sdbm_5214,Mcely,other,1,0,0
+mmmp:tgn_7005616,Bra,other,1,0,0
+mmmp:tgn_7011435,Děčín,other,1,0,0
+mmmp:sdbm_sdbm_5219,Val-dOrnain,other,1,1,1
+mmmp:tgn_7003382,L'viv,other,1,0,0
+mmmp:tgn_1030697,Southwater,other,1,0,0
+mmmp:tgn_7875264,Famagusta Walled City,other,1,0,0
+mmmp:sdbm_sdbm_800,Abbaye Notre-Dame de Beaugency,other,1,0,0
+mmmp:sdbm_sdbm_5231,Prato della Valle,other,1,0,0
+mmmp:tgn_7447415,Radley,other,1,0,0
+mmmp:sdbm_sdbm_5235,Wageningen,other,1,0,0
+mmmp:sdbm_sdbm_5236,Pionnat,other,1,0,1
+mmmp:sdbm_sdbm_5238,Varese,other,1,0,1
+mmmp:sdbm_sdbm_5239,Katrineholm,other,1,0,0
+mmmp:sdbm_sdbm_5240,Weinheim,other,1,0,1
+mmmp:sdbm_sdbm_5242,Rocca del Colle,other,1,0,0
+mmmp:sdbm_sdbm_5244,monk hesleden,other,1,0,0
+mmmp:tgn_7011875,Hemel Hempstead,other,1,0,0
+mmmp:tgn_7008705,Tábara,other,1,0,0
+mmmp:sdbm_sdbm_5249,Canizzano,other,1,0,0
+mmmp:tgn_7006657,Belarus,other,1,0,0
+mmmp:sdbm_sdbm_5227,Abbaye Notre-Dame de Feuillant,other,1,0,0
+mmmp:tgn_1028671,Broxbourne,other,1,0,0
+mmmp:tgn_7029310,Skirlaugh,other,1,0,0
+mmmp:sdbm_sdbm_3244,Cologne Charterhouse,control,1,0,0
+mmmp:tgn_7452654,Fonthill Abbey,other,1,0,1
+mmmp:tgn_5003190,San Michele,other,1,0,0
+mmmp:tgn_7030435,Herkenrode,other,1,0,0
+mmmp:tgn_7624021,Mont-sur-Monnet,other,1,0,0
+mmmp:tgn_1100044,Abbey of Fontenay,other,1,0,0
+mmmp:tgn_7013509,Davis,other,1,0,0
+mmmp:tgn_7007515,Maine,other,1,0,1
+mmmp:sdbm_sdbm_4989,Didlington Hall,other,1,0,0
+mmmp:sdbm_sdbm_4961,Warren Wood,other,1,0,0
+mmmp:tgn_7007520,Michigan,other,1,0,0
+mmmp:sdbm_sdbm_4524,Thirlestaine House,other,1,0,1
+mmmp:tgn_1000055,Paraguay,other,1,0,0
+mmmp:tgn_1000137,Saudi Arabia,other,1,0,0
+mmmp:tgn_7006174,Signa,other,1,0,0
+mmmp:tgn_7004705,Polling,other,1,0,0
+mmmp:tgn_1033297,Gorron,other,1,0,0
+mmmp:tgn_7026816,Chilbolton,other,1,0,1
+mmmp:sdbm_sdbm_4151,Tarrant Abbey,other,1,1,1
+mmmp:sdbm_sdbm_4154,Putica,other,1,0,0
+mmmp:tgn_7007988,Saint Kruis,other,1,0,1
+mmmp:tgn_7006573,Pelago,other,1,0,0
+mmmp:tgn_7014558,Swarthmore,other,1,0,0
+mmmp:tgn_1038720,Cham,other,1,0,0
+mmmp:tgn_7010483,Keszthely,other,1,0,0
+mmmp:tgn_7011614,Gravesend,other,1,0,0
+mmmp:tgn_7003501,Cavan,other,1,0,0
+mmmp:tgn_1038339,Bad Honnef,other,1,0,0
+mmmp:tgn_7016465,Basra,other,1,0,0
+mmmp:tgn_7005630,Goslar,other,1,0,0
+mmmp:tgn_1038289,Büdingen,other,1,0,0
+mmmp:tgn_7464440,Berwick Saint John,other,1,0,0
+mmmp:tgn_7012843,Meiningen,other,1,0,0
+mmmp:tgn_1063658,Stocksund,other,1,0,0
+mmmp:sdbm_sdbm_4195,Tamegroute,other,1,0,0
+mmmp:tgn_1004334,Döbling,other,1,0,0
+mmmp:tgn_8703002,Bevaix,other,1,0,0
+mmmp:tgn_7032026,Bermuda,other,1,0,0
+mmmp:tgn_1038743,Dülmen,other,1,0,0
+mmmp:tgn_1047389,Viù,other,1,0,0
+mmmp:tgn_1074569,Bikaner,other,1,0,0
+mmmp:tgn_7165917,Heidenfeld,other,1,0,0
+mmmp:sdbm_sdbm_4206,Leighton Hall,other,1,0,1
+mmmp:sdbm_sdbm_4213,Jabal Amil,other,1,0,1
+mmmp:tgn_1029111,Earls Colne,other,1,1,0
+mmmp:tgn_7010526,Vác,other,1,0,1
+mmmp:tgn_7005985,Aalen,other,1,0,0
+mmmp:tgn_1030995,Warboys,other,1,0,0
+mmmp:tgn_2091396,North East,other,1,0,1
+mmmp:tgn_1042827,Granard,other,1,0,0
+mmmp:tgn_1063955,Bourg-Saint-Pierre,other,1,0,0
+mmmp:tgn_1041390,Taufkirchen,other,1,0,0
+mmmp:tgn_2088025,Easton,other,1,0,0
+mmmp:tgn_1029344,Gorleston,other,1,0,0
+mmmp:tgn_2016722,Colchester,other,1,0,0
+mmmp:tgn_7012043,Birkenhead,other,1,0,0
+mmmp:tgn_2064105,Berkeley Heights,other,1,0,1
+mmmp:sdbm_sdbm_4275,Stoke next Guildford,other,1,0,0
+mmmp:sdbm_sdbm_4276,Abbazia di S. Paolo fuori le mura,other,1,0,0
+mmmp:tgn_7077899,Wiesbaden,other,1,0,0
+mmmp:tgn_7006818,Oegstgeest,other,1,0,0
+mmmp:tgn_7012604,Mettlach,other,1,0,0
+mmmp:tgn_4006135,Larchant,other,1,0,0
+mmmp:tgn_7019115,East Lothian,other,1,0,0
+mmmp:sdbm_sdbm_4289,Abbaye de Saint-Josse,other,1,0,0
+mmmp:tgn_1093112,Grahamstown,other,1,0,0
+mmmp:tgn_7026806,Bramdean,other,1,0,0
+mmmp:sdbm_sdbm_4296,Tenbury,other,1,0,0
+mmmp:tgn_1003643,Slough,other,1,0,0
+mmmp:tgn_7011617,Wrotham,other,1,0,0
+mmmp:tgn_1029802,Leconfield,other,1,0,0
+mmmp:tgn_7011917,Maidenhead,other,1,0,1
+mmmp:tgn_1044823,Gioia Tauro,other,1,0,0
+mmmp:tgn_1042201,Sámos,other,1,0,0
+mmmp:tgn_7010867,Kéa,other,1,1,1
+mmmp:tgn_7011058,Sparta,other,1,0,0
+mmmp:tgn_7010034,Darlington,other,1,0,0
+mmmp:sdbm_sdbm_4313,Sainte-Marie of Beaupré Abbey,other,1,0,0
+mmmp:tgn_7254799,Viane,other,1,0,0
+mmmp:tgn_7008211,Cherbourg,other,1,0,1
+mmmp:tgn_7630305,Limésy,other,1,0,0
+mmmp:tgn_1031084,Wetherby,other,1,0,0
+mmmp:tgn_7302008,Miranda del Castañar,other,1,0,0
+mmmp:tgn_7013242,Homberg,other,1,0,0
+mmmp:sdbm_sdbm_4321,Ryston Hall,other,1,0,0
+mmmp:tgn_7004494,Nusco,other,1,0,1
+mmmp:tgn_1034817,Pecquencourt,other,1,0,0
+mmmp:tgn_7025612,Dewlish,other,1,0,0
+mmmp:sdbm_sdbm_4330,Peover Hall,other,1,0,0
+mmmp:tgn_7010547,Buda,other,1,0,0
+mmmp:tgn_7010517,Székesfehérvár,other,1,0,0
+mmmp:tgn_7010956,Stratford-upon-Avon,other,1,0,0
+mmmp:sdbm_sdbm_4343,Handsworth,other,1,0,0
+mmmp:tgn_7005646,Savigliano,other,1,0,0
+mmmp:sdbm_sdbm_4345,Kurzelow,other,1,0,0
+mmmp:sdbm_sdbm_4347,Barking Abbey,other,1,0,1
+mmmp:sdbm_sdbm_4349,Craighall,other,1,0,0
+mmmp:sdbm_sdbm_4350,Browsholme Hall,other,1,0,0
+mmmp:sdbm_sdbm_4351,Fairfield House,other,1,0,0
+mmmp:tgn_7450228,Easthope,other,1,0,0
+mmmp:tgn_7019140,Angus,other,1,0,0
+mmmp:tgn_1035860,Thiviers,other,1,0,0
+mmmp:sdbm_sdbm_4032,Haughmond Abbey,other,1,1,0
+mmmp:tgn_1003566,Bolton,other,1,0,0
+mmmp:tgn_7002605,Nusaybin,other,1,1,0
+mmmp:tgn_7002497,Şanlıurfa,other,1,1,0
+mmmp:tgn_7013462,Bryn Athyn,other,1,0,0
+mmmp:tgn_6005912,Thapsus,other,1,0,0
+mmmp:tgn_7007207,Farfa,other,1,0,0
+mmmp:tgn_7008560,Sahagún,other,1,0,0
+mmmp:tgn_7008571,San Cugat del Vallés,other,1,0,0
+mmmp:tgn_7010050,Guisborough,other,1,0,0
+mmmp:sdbm_sdbm_718,Pipewell Abbey,other,1,0,0
+mmmp:tgn_7444861,Wenhaston,other,1,0,0
+mmmp:tgn_7027571,Gaddesby,other,1,0,0
+mmmp:sdbm_sdbm_4376,Southport,other,1,0,1
+mmmp:tgn_7024830,Tarvin,other,1,0,1
+mmmp:tgn_7006161,Prato,other,1,0,0
+mmmp:tgn_1062235,Miranda de Ebro,other,1,0,1
+mmmp:sdbm_sdbm_4392,Monks Kirby,other,1,0,0
+mmmp:tgn_7626667,Matougues,other,1,0,0
+mmmp:tgn_1028284,Alfreton,other,1,0,0
+mmmp:tgn_7031306,Holton,other,1,0,0
+mmmp:tgn_7001246,Oran,other,1,0,0
+mmmp:sdbm_sdbm_3403,Hodegon Monastery,other,1,0,0
+mmmp:tgn_1030528,Sandhurst,other,1,0,0
+mmmp:tgn_7013503,Dallas,other,1,0,0
+mmmp:sdbm_sdbm_4404,Allestree Hall,other,1,0,0
+mmmp:tgn_1026742,Soignies,other,1,0,0
+mmmp:tgn_1138431,Sovetsk,other,1,0,0
+mmmp:tgn_4011352,Trespiano,other,1,0,0
+mmmp:sdbm_sdbm_4413,Woolston Hall,other,1,0,0
+mmmp:tgn_7456172,Crookston,other,1,0,0
+mmmp:tgn_4010120,Sarsden,other,1,0,0
+mmmp:tgn_1030209,Northleach,other,1,0,0
+mmmp:tgn_1035342,Saint-Germain-Laval,other,1,0,0
+mmmp:tgn_1030277,Pangbourne,other,1,0,0
+mmmp:tgn_1029272,Fowey,other,1,0,0
+mmmp:tgn_7002978,Département de l'Orne,other,1,0,0
+mmmp:tgn_7010380,Apulia,other,1,0,0
+mmmp:tgn_7005159,Wipperfürth,other,1,0,0
+mmmp:tgn_7448864,Southwick,other,1,0,0
+mmmp:tgn_7028552,Plumstead,other,1,0,0
+mmmp:tgn_7010937,Mildenhall,other,1,0,0
+mmmp:tgn_1035252,Saint-Astier,other,1,0,0
+mmmp:tgn_7009366,Montluçon,other,1,0,0
+mmmp:sdbm_sdbm_4433,Poltalloch,other,1,0,0
+mmmp:tgn_7009604,Basque Provinces,other,1,0,0
+mmmp:tgn_7010949,Loughborough,other,1,0,0
+mmmp:tgn_1030109,Mundesley,other,1,0,0
+mmmp:tgn_1030978,Wallingford,other,1,0,0
+mmmp:tgn_1029297,Gainsborough,other,1,0,0
+mmmp:tgn_7011728,Banstead,other,1,0,0
+mmmp:tgn_7008298,"Pantelleria, Isola di",other,1,0,0
+mmmp:tgn_7006540,Estonia,other,1,0,0
+mmmp:tgn_1037271,Markkleeberg,other,1,0,0
+mmmp:tgn_7004431,Kassel,other,1,0,0
+mmmp:tgn_1000049,Chile,other,1,0,0
+mmmp:tgn_7212527,Borbach,other,1,0,0
+mmmp:tgn_7014250,Oakland,other,1,0,0
+mmmp:tgn_7007926,Llerena,other,1,0,0
+mmmp:tgn_7012369,Bad Kissingen,other,1,0,0
+mmmp:sdbm_sdbm_4456,Bescaran,other,1,0,0
+mmmp:tgn_7003300,Montebelluna,other,1,0,0
+mmmp:tgn_1042658,Bray,other,1,0,0
+mmmp:tgn_7002789,La Rioja,other,1,0,0
+mmmp:tgn_1004092,Bermondsey,other,1,0,0
+mmmp:tgn_7007828,Vermont,other,1,0,0
+mmmp:sdbm_sdbm_4477,East Sutton,other,1,0,0
+mmmp:tgn_7007827,Utah,other,1,0,0
+mmmp:tgn_7240166,Elnon,other,1,0,0
+mmmp:tgn_1044424,Crescentino,other,1,0,0
+mmmp:tgn_1064449,Teufen,other,1,0,0
+mmmp:tgn_7013296,Amherst,other,1,0,1
+mmmp:tgn_7011718,Opava,other,1,0,0
+mmmp:tgn_7451769,Ettington Park,other,1,0,0
+mmmp:sdbm_sdbm_4525,Middle Hill,other,1,0,1
+mmmp:sdbm_sdbm_1633,Sürs,other,1,0,0
+mmmp:sdbm_sdbm_1654,Pfaffenhofen,other,1,0,0
+mmmp:tgn_7120678,Platten,other,1,0,0
+mmmp:tgn_4010301,Seligenstadt,other,1,0,0
+mmmp:sdbm_sdbm_425,Abbaye-aux-Bois,other,1,0,0
+mmmp:sdbm_sdbm_1742,Furness Abbey,other,1,0,0
+mmmp:sdbm_sdbm_436,Corsanico,other,1,0,0
+mmmp:tgn_7015404,Kotor,other,1,0,0
+mmmp:tgn_1037947,Weissenberg,other,1,0,0
+mmmp:sdbm_sdbm_1789,Paradyż (Paradies),other,1,0,0
+mmmp:tgn_7005051,Trevi,other,1,0,1
+mmmp:tgn_1030445,Robertsbridge,other,1,0,0
+mmmp:tgn_1041738,Welzheim,other,1,0,0
+mmmp:tgn_5001796,Neustadt am Main,other,1,0,0
+mmmp:tgn_7006890,Doetinchem,other,1,0,0
+mmmp:sdbm_sdbm_128,Monasterio de Santa María de El Paular,other,1,0,0
+mmmp:sdbm_sdbm_510,Monastery of Santa María de Guadalupe,other,1,0,0
+mmmp:tgn_7011581,Velikiy Novgorod,other,1,0,0
+mmmp:tgn_7005537,Sacile,other,1,0,1
+mmmp:tgn_1036082,Vervins,other,1,0,0
+mmmp:sdbm_sdbm_506,Niederaltaich Abbey,other,1,0,0
+mmmp:tgn_7443637,Weybread,other,1,0,1
+mmmp:tgn_7003274,Gmunden,other,1,0,0
+mmmp:sdbm_sdbm_2322,Aulxanges,other,1,0,0
+mmmp:sdbm_sdbm_2749,Auseveng,other,1,0,0
+mmmp:tgn_7449451,Flixton,other,1,0,0
+mmmp:tgn_1065029,Izola,other,1,0,0
+mmmp:tgn_7027400,Pluckley,other,1,0,0
+mmmp:tgn_7005813,Gandino,other,1,0,0
+mmmp:sdbm_sdbm_2444,Abbey of St. Wivina,other,1,0,0
+mmmp:tgn_7649537,Fontainejean,other,1,0,0
+mmmp:tgn_7216393,Absdorf,other,1,0,0
+mmmp:sdbm_sdbm_2509,Bonne-Espérance (Premonstratensian abbey),other,1,0,0
+mmmp:tgn_7213595,Biburg,other,1,0,0
+mmmp:sdbm_sdbm_2636,Mount Lebanon,other,1,0,0
+mmmp:tgn_7009333,Médan,other,1,0,0
+mmmp:tgn_7003679,Holstein,other,1,0,0
+mmmp:tgn_7007050,Beverwijk,other,1,0,1
+mmmp:tgn_1048066,Rijswijk,other,1,0,0
+mmmp:tgn_7011239,Glastonbury,other,1,0,0
+mmmp:sdbm_sdbm_3103,Healaugh,other,1,0,0
+mmmp:tgn_7028115,Holme next the Sea,other,1,0,0
+mmmp:tgn_7003505,Waterford,other,1,0,0
+mmmp:sdbm_sdbm_3543,Urswick,other,1,0,0
+mmmp:sdbm_sdbm_580,Bonnecombe,other,1,0,0
+mmmp:tgn_7007470,Sion,other,1,0,0
+mmmp:tgn_7017509,Susa,other,1,0,0
+mmmp:tgn_7004700,Ettal,other,1,0,0
+mmmp:tgn_1003428,Alessandria,other,1,0,0
+mmmp:tgn_7007456,Benavente,other,1,0,0
+mmmp:sdbm_sdbm_3731,Mount Thabor Convent,other,1,0,0
+mmmp:sdbm_sdbm_3736,Forde Abbey,other,1,0,0
+mmmp:tgn_7010539,Esztergom,other,1,0,0
+mmmp:tgn_7006851,Ischia,other,1,0,0
+mmmp:tgn_7012530,Kempten,other,1,0,0
+mmmp:tgn_7159562,Hollen Berg,other,1,0,0
+mmmp:sdbm_sdbm_1492,Saint-Jean-de-Baillon,other,1,0,0
+mmmp:tgn_1037866,Triptis,other,1,0,0
+mmmp:sdbm_sdbm_1833,Neustadt an der Orla,other,1,0,0
+mmmp:tgn_1130644,Tarn,other,1,0,0
+mmmp:tgn_7009091,Limburg,other,1,0,0
+mmmp:tgn_7011712,Most,other,1,0,0
+mmmp:tgn_7044382,Castino,other,1,0,0
+mmmp:tgn_7009547,Leith,other,1,0,0
+mmmp:tgn_7037921,Valperga,other,1,0,0
+mmmp:tgn_1025970,Purgstall,other,1,0,0
+mmmp:tgn_7616826,Pérouse,other,1,0,0
+mmmp:tgn_7607721,Saint-Louis,other,1,0,0
+mmmp:sdbm_sdbm_179,Ramingdorf,other,1,0,0
+mmmp:tgn_1048843,Ścinawa,other,1,0,0
+mmmp:tgn_1040544,Nottuln,other,1,0,0
+mmmp:tgn_4009271,Rievaulx,other,1,0,0
+mmmp:tgn_1035708,Serrières,other,1,0,0
+mmmp:sdbm_sdbm_3419,Monastery of Saint Michael,other,1,0,0
+mmmp:tgn_1100039,"Casamari, Abbazia di",other,1,0,0
+mmmp:tgn_7003841,Beira,other,1,0,0
+mmmp:tgn_7622423,Mirepoix,other,1,0,0
+mmmp:tgn_7008421,Conques,other,1,0,0
+mmmp:sdbm_sdbm_216,Abbey of Saint Salvatore and Lorenzo at Settimo,other,1,0,0
+mmmp:sdbm_sdbm_674,Meaux Abbey,other,1,0,0
+mmmp:sdbm_sdbm_230,Abbaye de Longchamp,other,1,0,0
+mmmp:tgn_7006528,Figline Valdarno,other,1,0,0
+mmmp:tgn_7623405,Montpensier,other,1,0,0
+mmmp:tgn_7012535,Kitzingen,other,1,0,0
+mmmp:tgn_7005105,Soest,other,1,0,0
+mmmp:tgn_7008904,Santa Vittoria in Matenano,other,1,0,0
+mmmp:sdbm_sdbm_814,Abbaye de Saint-Trond,other,1,0,0
+mmmp:tgn_1140146,Hājīpur,other,1,0,0
+mmmp:tgn_7006764,Palombara Sabina,other,1,0,0
+mmmp:sdbm_sdbm_273,Ostermiething,other,1,0,0
+mmmp:tgn_7012821,Haldensleben,other,1,0,0
+mmmp:tgn_1026370,Chimay,other,1,0,0
+mmmp:sdbm_sdbm_961,Kloster Osterberg,other,1,0,0
+mmmp:tgn_7006581,Vallombrosa,other,1,0,0
+mmmp:tgn_7003247,Schwaz,other,1,0,0
+mmmp:sdbm_sdbm_309,Lengenfeld,other,1,0,0
+mmmp:sdbm_sdbm_1076,Rocca di Mezzo,other,1,0,0
+mmmp:sdbm_sdbm_1109,Western Croatia,other,1,0,0
+mmmp:tgn_7736222,Barıştepe,other,1,0,0
+mmmp:tgn_1136960,Ortenberg,other,1,0,0
+mmmp:tgn_1025646,Hartberg,other,1,0,0
+mmmp:tgn_7008301,Adria,other,1,0,0
+mmmp:tgn_7001016,Tunis,other,1,0,0
+mmmp:tgn_7012015,Thetford,other,1,0,0
+mmmp:sdbm_sdbm_3106,Ponticelli,other,1,0,0
+mmmp:sdbm_sdbm_1268,Vrouwenberg (Monastery in Ijsselstein),other,1,0,0
+mmmp:sdbm_sdbm_1279,Southwestern Russia,other,1,0,0
+mmmp:tgn_7006242,Barga,other,1,0,0
+mmmp:sdbm_sdbm_1414,Santa María de la Real,other,1,0,0
+mmmp:sdbm_sdbm_1438,Southeastern Turkey,other,1,0,0
+mmmp:tgn_7131200,Merzweiler,other,1,0,0
+mmmp:tgn_7012792,Arnstadt,other,1,0,0
+mmmp:tgn_4003760,Southern Europe,other,1,0,0
+mmmp:sdbm_sdbm_1543,Tafza,other,1,0,0
+mmmp:tgn_7016735,Mediterranean Sea,other,1,0,0
+mmmp:tgn_4001976,Buggiano Castello,other,1,0,0
+mmmp:tgn_7008386,"Fonte Avellana, Monastero di",other,1,0,1
+mmmp:tgn_7003195,Gaming,other,1,0,1
+mmmp:tgn_7008852,Furnes,other,1,0,1
+mmmp:tgn_7006087,Irsee,other,1,0,1
+mmmp:tgn_7005934,Northeim,other,1,0,1
+mmmp:sdbm_sdbm_796,Porto Ragusco,other,1,0,1
+mmmp:tgn_7005649,Alba,other,1,0,1
+mmmp:sdbm_sdbm_2835,Thoolen,other,1,0,1
+mmmp:sdbm_sdbm_2840,Gemeente Weststellingwerf,other,1,0,1
+mmmp:tgn_1001318,Jakarta,other,1,0,1
+mmmp:tgn_1047589,s Gravenzande,other,1,0,1
+mmmp:sdbm_sdbm_818,Altenberg,other,1,0,1
+mmmp:tgn_7098207,Simmern,other,1,0,1
+mmmp:tgn_1047838,Heiloo,other,1,0,0
+mmmp:tgn_7031832,Nijmegen,other,1,0,1
+mmmp:tgn_7242728,Korsendonk,other,1,0,1
+mmmp:tgn_7005478,Stadthagen,other,1,0,1
+mmmp:tgn_1086806,Suruç,other,1,1,0
+mmmp:tgn_7024441,Old Cairo,other,1,1,0
+mmmp:sdbm_sdbm_2891,Academia Salmuriensis,other,1,0,1
+mmmp:tgn_1062503,Segorbe,other,1,0,1
+mmmp:sdbm_sdbm_2894,Mariencroon,other,1,0,1
+mmmp:tgn_1026665,Overijse,other,1,0,1
+mmmp:sdbm_sdbm_2898,Scheut,other,1,0,1
+mmmp:tgn_7255880,Saint-Martin,other,1,1,1
+mmmp:tgn_7012318,Halle (on Charleroi-Brussels canal),other,1,0,1
+mmmp:tgn_7211973,Bilsen,other,1,0,1
+mmmp:tgn_7008014,Tienen,other,1,0,1
+mmmp:tgn_7251212,Opheylissem,other,1,0,1
+mmmp:sdbm_sdbm_2911,St. Peters Abbey,other,1,0,1
+mmmp:sdbm_sdbm_2904,Collégiale Sainte-Waudru de Mons,other,1,0,1
+mmmp:tgn_1047943,Menaldum,other,1,0,1
+mmmp:tgn_7266479,Hensbroek,other,1,0,1
+mmmp:tgn_7261770,Haamstede,other,1,0,1
+mmmp:tgn_7003988,Fossombrone,other,1,0,1
+mmmp:tgn_7116597,Ottering,other,1,0,1
+mmmp:sdbm_sdbm_2929,Sheen,other,1,0,1
+mmmp:sdbm_sdbm_2930,Dammartin-en-Goële,other,1,0,1
+mmmp:tgn_7606498,Selonnet,other,1,0,1
+mmmp:tgn_7005236,Channel Islands,other,1,0,1
+mmmp:tgn_1062226,Medinaceli,other,1,0,0
+mmmp:tgn_7633789,Launaguet,other,1,0,1
+mmmp:sdbm_sdbm_874,Bawuna,other,1,0,1
+mmmp:sdbm_sdbm_75,Taufers im Münstertal,other,1,0,1
+mmmp:tgn_7062783,Amelungsborn,other,1,0,1
+mmmp:tgn_7017618,Yekaterinburg,other,1,0,1
+mmmp:tgn_7006915,Rhenen,other,1,0,1
+mmmp:tgn_7005682,Anhalt,other,1,0,1
+mmmp:sdbm_sdbm_2955,Pernstejn,other,1,0,1
+mmmp:tgn_7004793,New Brandenburg,other,1,0,1
+mmmp:tgn_7116832,Ottenhausen,other,1,0,1
+mmmp:tgn_7002076,Zhejiang,other,1,1,0
+mmmp:tgn_1047923,Lopik,other,1,0,1
+mmmp:tgn_7262379,Hardenberg,other,1,0,0
+mmmp:tgn_7260319,Grafhorst,other,1,0,1
+mmmp:tgn_7012455,Forchheim,other,1,0,1
+mmmp:tgn_1036141,Villefranche,other,1,0,1
+mmmp:tgn_1035915,Treffort,other,1,0,1
+mmmp:tgn_7005993,Amorbach,other,1,0,1
+mmmp:tgn_7112738,Roggenburg,other,1,1,0
+mmmp:sdbm_sdbm_2982,Monastery of San Michele in Bosco,other,1,0,1
+mmmp:tgn_7154075,Karben,other,1,0,1
+mmmp:tgn_7129603,Melkendorf,other,1,0,1
+mmmp:tgn_7005163,Emmerich,other,1,0,1
+mmmp:tgn_7049429,Carpasio,other,1,0,1
+mmmp:tgn_7593899,Babylonia,other,1,0,1
+mmmp:sdbm_sdbm_2995,Léran,other,1,0,1
+mmmp:tgn_7002626,Babylon,other,1,1,0
+mmmp:tgn_7004291,Crotone,other,1,0,1
+mmmp:sdbm_sdbm_2997,Northern Zhejiang,other,1,1,0
+mmmp:tgn_1026654,Oostmalle,other,1,0,1
+mmmp:sdbm_sdbm_3001,Dillingen (Luxembourg),other,1,0,1
+mmmp:tgn_7003169,Zwettl,other,1,0,1
+mmmp:tgn_7012543,Kronach,other,1,0,1
+mmmp:sdbm_sdbm_1389,Northern Wales,other,1,0,1
+mmmp:sdbm_sdbm_3007,Saint-Riquier Abbey,other,1,1,0
+mmmp:tgn_7003635,Zeeland,other,1,0,1
+mmmp:sdbm_sdbm_991,Septème,other,1,0,1
+mmmp:tgn_7007741,Mazowsze,other,1,0,1
+mmmp:tgn_6001914,Warmia,other,1,0,0
+mmmp:tgn_7009313,Lunéville,other,1,0,0
+mmmp:tgn_1061958,Ciudad Real,other,1,0,1
+mmmp:sdbm_sdbm_3020,Abbaye Sainte-Marie de Longues,other,1,1,0
+mmmp:tgn_7008033,Medina del Campo,other,1,0,1
+mmmp:tgn_1062306,Olmedo,other,1,0,1
+mmmp:tgn_7040246,Sarzana,other,1,0,1
+mmmp:tgn_6000295,Annam,other,1,0,0
+mmmp:sdbm_sdbm_3035,Northwestern Spain,other,1,0,1
+mmmp:sdbm_sdbm_3860,Couvent des Minimes de Nigeon Paris,control,1,0,1
+mmmp:tgn_1037635,Salzwedel,other,1,0,1
+mmmp:sdbm_sdbm_1011,Northeastern Ethiopia,other,1,0,1
+mmmp:tgn_7001449,Idfū,other,1,1,0
+mmmp:tgn_1003770,Kurdistan,other,1,0,0
+mmmp:tgn_7442775,Tintern Abbey,other,1,0,1
+mmmp:tgn_7447479,Stepney,other,1,0,1
+mmmp:tgn_1051610,Şamaxı,other,1,0,1
+mmmp:tgn_7012484,Gundelfingen,other,1,0,1
+mmmp:tgn_7012503,Herford,other,1,0,1
+mmmp:tgn_7007831,Toruń,other,1,0,1
+mmmp:tgn_7212706,Boppard,other,1,0,1
+mmmp:tgn_7012662,Röttingen,other,1,0,1
+mmmp:tgn_7031909,Baden,other,1,0,1
+mmmp:tgn_7000354,Marakesh,other,1,1,0
+mmmp:tgn_7163871,Hürbel,other,1,0,1
+mmmp:sdbm_sdbm_3099,Cockersand Abbey,other,1,1,0
+mmmp:sdbm_sdbm_1051,Eastern Italy,other,1,0,1
+mmmp:tgn_4001533,Binham,other,1,0,1
+mmmp:tgn_7447222,Stoke by Clare,other,1,0,0
+mmmp:sdbm_sdbm_3126,Warley,other,1,0,1
+mmmp:sdbm_sdbm_291,Northern Flanders,other,1,0,1
+mmmp:tgn_7005972,Frankfurt an der Oder,other,1,0,0
+mmmp:sdbm_sdbm_3138,Western Iran,other,1,0,1
+mmmp:tgn_7012988,Carniola,other,1,0,1
+mmmp:tgn_1078917,Āmol,other,1,1,0
+mmmp:sdbm_sdbm_3147,Baḩrābād,other,1,0,1
+mmmp:tgn_7004978,Neuss,other,1,0,1
+mmmp:sdbm_sdbm_3165,"Douai Abbey (Woolhampton, England)",other,1,0,1
+mmmp:sdbm_sdbm_3168,Barbeau Abbey,other,1,1,0
+mmmp:tgn_4006414,Lindores,other,1,0,0
+mmmp:tgn_7004723,Ticino,other,1,0,1
+mmmp:tgn_7012946,Nassau,other,1,0,1
+mmmp:sdbm_sdbm_5157,"Convent of the Third Order of St. Francis, Kempen",other,1,0,1
+mmmp:tgn_7659863,Bouillé-Loretz,other,1,0,1
+mmmp:tgn_7007858,Ath,other,1,0,1
+mmmp:tgn_7007881,Floreffe,other,1,0,1
+mmmp:sdbm_sdbm_3209,Byszewo,other,1,0,1
+mmmp:sdbm_sdbm_3211,Dareah,other,1,0,1
+mmmp:tgn_1052185,Andijon,other,1,0,1
+mmmp:tgn_7003627,Utrecht,other,1,0,1
+mmmp:tgn_7593751,Galway,other,1,0,1
+mmmp:tgn_7009492,Jedburgh,other,1,0,1
+mmmp:tgn_7028813,Brantingham,other,1,0,1
+mmmp:tgn_7727919,Cizre,other,1,0,1
+mmmp:tgn_7137888,Langnow,other,1,0,1
+mmmp:tgn_7009361,Montiér-en-Der,other,1,0,1
+mmmp:tgn_7007979,Maqueda,other,1,0,1
+mmmp:tgn_7003624,North Brabant,other,1,0,1
+mmmp:tgn_7027872,Frieston,other,1,0,1
+mmmp:sdbm_sdbm_3297,Southern Wales,other,1,0,1
+mmmp:tgn_7450276,Guthrie,other,1,0,1
+mmmp:tgn_6006275,Valois,other,1,0,1
+mmmp:tgn_7003174,Waldviertel,other,1,0,1
+mmmp:tgn_7002938,Département du Finistère,other,1,1,0
+mmmp:tgn_7026325,South Weald,other,1,0,1
+mmmp:tgn_1028335,Ashford,other,1,0,1
+mmmp:tgn_1001403,Māzandarān,other,1,0,1
+mmmp:tgn_1065380,Bamiyan,other,1,1,0
+mmmp:sdbm_sdbm_3332,Kawkaban,other,1,0,1
+mmmp:tgn_7656744,Campan,other,1,0,1
+mmmp:tgn_1001343,Karbalā',other,1,1,0
+mmmp:tgn_1025938,Perchtoldsdorf,other,1,0,1
+mmmp:tgn_7042797,Rivalta,other,1,1,0
+mmmp:sdbm_sdbm_1124,Oxyrhynchus,other,1,1,0
+mmmp:tgn_7015156,Kazan',other,1,0,1
+mmmp:sdbm_sdbm_3392,Margat,other,1,1,0
+mmmp:tgn_7187247,Engelthal,other,1,0,1
+mmmp:tgn_7001388,Bethlehem,other,1,0,1
+mmmp:tgn_1095584,Maghāghah,other,1,1,0
+mmmp:tgn_7006345,Montepulciano,other,1,0,1
+mmmp:tgn_7298950,Valhermoso,other,1,0,1
+mmmp:tgn_7004022,Visso,other,1,0,1
+mmmp:tgn_7003843,Giuliana,other,1,0,1
+mmmp:tgn_7010843,Khaniá,other,1,0,1
+mmmp:sdbm_sdbm_3477,Cave,other,1,0,1
+mmmp:sdbm_sdbm_406,East Baltic,other,1,0,1
+mmmp:tgn_7008517,Brecon,other,1,0,1
+mmmp:tgn_7006318,Montalcino,other,1,0,1
+mmmp:tgn_7002797,Región de Murcia,other,1,0,1
+mmmp:tgn_7006335,Sarteano,other,1,0,1
+mmmp:tgn_7006676,Anagni,other,1,0,1
+mmmp:tgn_1045778,Ortona,other,1,0,1
+mmmp:tgn_7621415,Orange,other,1,0,0
+mmmp:tgn_7100293,Saalfeld,other,1,0,1
+mmmp:sdbm_sdbm_3137,Western Mediterranean,other,1,0,1
+mmmp:tgn_1033486,Isola,other,1,0,1
+mmmp:sdbm_sdbm_3523,Lobbes,other,1,1,0
+mmmp:tgn_7002085,Shandong,other,1,0,1
+mmmp:tgn_7004926,Bertinoro,other,1,0,1
+mmmp:tgn_7011144,Winchcombe,other,1,1,0
+mmmp:sdbm_sdbm_1158,Montagnana,other,1,0,1
+mmmp:sdbm_sdbm_1160,Northwestern Persia,other,1,1,1
+mmmp:tgn_7003677,North Rhine-Westphalia,other,1,0,1
+mmmp:tgn_7001201,Munster,other,1,0,1
+mmmp:tgn_7007234,Cloyne,other,1,0,0
+mmmp:sdbm_sdbm_3559,Southeastern Ireland,other,1,0,1
+mmmp:tgn_7002448,Northern Ireland,other,1,1,0
+mmmp:tgn_1033584,Lézat,other,1,0,0
+mmmp:tgn_7044880,Candida,other,1,0,1
+mmmp:sdbm_sdbm_1167,Lake Lucerne,other,1,0,1
+mmmp:tgn_7042676,Prato di Resia,other,1,0,1
+mmmp:tgn_7012458,Frankenthal,other,1,1,0
+mmmp:tgn_7012593,Maria Laach,other,1,0,1
+mmmp:tgn_7005104,Siegburg,other,1,1,0
+mmmp:tgn_7455464,Cumberland,other,1,0,1
+mmmp:tgn_7250731,Munsterbilzen,other,1,1,0
+mmmp:tgn_7016945,Périgord,other,1,0,1
+mmmp:tgn_7006330,Poggibonsi,other,1,0,1
+mmmp:tgn_7016693,Feodosiya,other,1,0,1
+mmmp:tgn_7012683,Salem,other,1,1,0
+mmmp:tgn_7011844,Waltham Abbey,other,1,0,1
+mmmp:tgn_7008117,Cumbria,other,1,0,1
+mmmp:sdbm_sdbm_1173,Southern Armenia,other,1,0,1
+mmmp:sdbm_sdbm_3606,Finchale Priory,other,1,0,1
+mmmp:sdbm_sdbm_3608,Fontfroide Abbey,other,1,1,0
+mmmp:tgn_1003442,Brindisi,other,1,0,0
+mmmp:sdbm_sdbm_3617,Salento,other,1,1,0
+mmmp:tgn_7003496,Clare,other,1,0,1
+mmmp:tgn_7106790,Schmerlenbach,other,1,1,1
+mmmp:tgn_7445239,Wombridge,other,1,0,1
+mmmp:sdbm_sdbm_3640,Tawila,other,1,0,1
+mmmp:tgn_8705153,"Müstair, Val",other,1,1,0
+mmmp:tgn_7003755,Sankt Gallen,other,1,1,0
+mmmp:sdbm_sdbm_3642,Eastern Switzerland,other,1,1,0
+mmmp:tgn_6004769,Ponthieu,other,1,0,1
+mmmp:tgn_7257235,Wisbecq,other,1,0,1
+mmmp:tgn_1049791,Horta,other,1,0,1
+mmmp:tgn_7032949,Şirvan,other,1,0,1
+mmmp:sdbm_sdbm_4119,Mount Sumaq,other,1,0,1
+mmmp:sdbm_sdbm_3666,Jannat Abad,other,1,0,1
+mmmp:tgn_7008754,Tudela,other,1,1,1
+mmmp:tgn_7002248,Kandahar,other,1,0,1
+mmmp:tgn_7007346,Disentis,other,1,1,0
+mmmp:tgn_7013254,Raetia,other,1,1,0
+mmmp:tgn_1091429,Sefrou,other,1,0,0
+mmmp:sdbm_sdbm_4107,Villanueva de la Reina,other,1,0,1
+mmmp:tgn_7001399,Thessaly,other,1,1,0
+mmmp:sdbm_sdbm_3678,Beaupré Abbey (Picardy),other,1,1,0
+mmmp:tgn_1111796,Toggenburg,other,1,0,1
+mmmp:sdbm_sdbm_3687,Acharnes,other,1,0,1
+mmmp:tgn_7011560,Irkutsk,other,1,0,0
+mmmp:sdbm_sdbm_3692,San Clemente Abbey,other,1,1,0
+mmmp:sdbm_sdbm_3697,Maria Troon Convent,other,1,0,1
+mmmp:sdbm_sdbm_3707,Mestre,other,1,0,1
+mmmp:tgn_7605387,Sarlat,other,1,1,0
+mmmp:sdbm_sdbm_1234,Auvers,other,1,0,1
+mmmp:tgn_7002850,Zamora,other,1,0,1
+mmmp:tgn_1046130,Porcia,other,1,0,1
+mmmp:tgn_7010802,Caldas da Rainha,other,1,0,1
+mmmp:tgn_7005736,Asunción,other,1,0,1
+mmmp:tgn_7003457,East Flanders,other,1,0,1
+mmmp:sdbm_sdbm_3902,Maubeuge,other,1,0,1
+mmmp:tgn_7005651,Mondovì,other,1,0,1
+mmmp:tgn_5000950,Stourton,other,1,0,1
+mmmp:sdbm_sdbm_3737,Osney,other,1,1,0
+mmmp:tgn_7008250,Tournus,other,1,0,0
+mmmp:sdbm_sdbm_3740,Tournon-sur-Rhône,other,1,0,1
+mmmp:sdbm_sdbm_3742,Abbaye Notre-Dame de Vaucelles,other,1,1,0
+mmmp:sdbm_sdbm_3745,San Giovanni in Conca,other,1,0,0
+mmmp:tgn_7003072,Monsélice,other,1,0,1
+mmmp:tgn_4003961,Foigny,other,1,1,0
+mmmp:tgn_5001562,Saint-Bertin,other,1,1,0
+mmmp:sdbm_sdbm_3773,San Pier Maggiore,other,1,0,1
+mmmp:tgn_1032203,Bollène,other,1,0,1
+mmmp:tgn_1136927,Horneburg,other,1,0,0
+mmmp:sdbm_sdbm_3164,Santa Maria di Baggio,other,1,0,1
+mmmp:tgn_7046005,Castagneto,other,1,0,1
+mmmp:tgn_7003025,Niederösterreich,other,1,0,1
+mmmp:sdbm_sdbm_3804,Fraterhaus St. Michael am Weidenbach,other,1,0,1
+mmmp:sdbm_sdbm_3805,"Trinity Abbey, Vendome",other,1,1,0
+mmmp:tgn_1112144,Salzkammergut,other,1,0,1
+mmmp:tgn_7299836,Valdeosera,other,1,0,1
+mmmp:tgn_8711651,Dutch East Indies,other,1,0,0
+mmmp:tgn_7005795,Sedrina,other,1,0,1
+mmmp:sdbm_sdbm_3951,Karahisar,other,1,0,1
+mmmp:sdbm_sdbm_117,Lądek-Zdrój,other,1,1,0
+mmmp:tgn_1039118,Fredeburg,other,1,0,1
+mmmp:tgn_7001171,Sūhāj,other,1,1,0
+mmmp:sdbm_sdbm_1278,Northern Bohemia,other,1,0,1
+mmmp:sdbm_sdbm_1281,Eastern Armenia,other,1,0,1
+mmmp:sdbm_sdbm_1282,"Church of the Holy Mother of God, Darashamb",other,1,0,1
+mmmp:sdbm_sdbm_1285,Shaban,other,1,0,1
+mmmp:tgn_7012769,Wertheim,other,1,0,1
+mmmp:tgn_7202210,Bronnbach,other,1,0,1
+mmmp:tgn_7030663,Whixley,other,1,0,1
+mmmp:tgn_7003688,Schleswig-Holstein,other,1,0,1
+mmmp:tgn_4005179,Huejotzingo,other,1,0,1
+mmmp:sdbm_sdbm_1326,Southwestern Italy,other,1,0,1
+mmmp:sdbm_sdbm_4112,Maxstoke Priory,other,1,0,1
+mmmp:sdbm_sdbm_4117,Moissac-Vallée-Française,other,1,0,1
+mmmp:tgn_7001111,Asyūţ,other,1,0,1
+mmmp:tgn_1016932,Acatlán,other,1,0,1
+mmmp:tgn_8711657,"Granada, New Kingdom of",other,1,0,1
+mmmp:sdbm_sdbm_4130,St Albans Abbey,other,1,1,0
+mmmp:tgn_7005554,Honduras,other,1,0,1
+mmmp:tgn_7007113,Metztitlán,other,1,0,1
+mmmp:sdbm_sdbm_4135,Verapaz,other,1,0,1
+mmmp:tgn_7005127,Cuneo,other,1,0,1
+mmmp:tgn_7004735,Nagasaki,other,1,0,1
+mmmp:tgn_7007016,Franeker,other,1,0,1
+mmmp:tgn_1032520,Châtenois,other,1,0,1
+mmmp:tgn_7012695,Scheyern,other,1,0,1
+mmmp:tgn_7004414,Landshut,other,1,0,1
+mmmp:tgn_7003618,East Friesland,other,1,0,1
+mmmp:sdbm_sdbm_1332,Bergklooster St. Agnietenberg,other,1,0,1
+mmmp:tgn_7005369,Ameglia,other,1,0,1
+mmmp:tgn_7003332,Pieve di Cadore,other,1,0,1
+mmmp:tgn_7007091,Écija,other,1,1,1
+mmmp:tgn_1044626,Fivizzano,other,1,0,1
+mmmp:tgn_1111989,Frignano,other,1,0,1
+mmmp:sdbm_sdbm_4476,Castello di Romena,control,1,0,1
+mmmp:tgn_4007415,Montedoglio,other,1,0,1
+mmmp:tgn_1038594,Bopfingen,other,1,0,1
+mmmp:tgn_7001112,Aswan,other,1,1,0
+mmmp:sdbm_sdbm_4331,Odenheim Abbey,other,1,0,1
+mmmp:sdbm_sdbm_4469,Klooster-Lidlum,other,1,0,1
+mmmp:sdbm_sdbm_4470,Khudayar,other,1,0,1
+mmmp:tgn_7007928,Logroño,other,1,0,1
+mmmp:tgn_7347084,Arenas,other,1,0,0
+mmmp:tgn_7011013,Náfplio,other,1,0,1
+mmmp:tgn_7002632,"Trebizond, Empire of",other,1,0,0
+mmmp:tgn_7001262,Qifṭ,other,1,0,0
+mmmp:tgn_7014206,Atlantic Ocean,other,1,0,0
+mmmp:sdbm_sdbm_4954,Treyford,other,1,0,1
+mmmp:tgn_1046439,Salorno,other,1,0,0
+mmmp:tgn_7001095,Limousin,other,1,0,1
+mmmp:tgn_7013245,Upper Rhine,other,1,0,1
+mmmp:sdbm_sdbm_5061,Rümlingen,other,1,0,1
+mmmp:sdbm_sdbm_461,Wiblingen,other,1,0,1
+mmmp:tgn_1029125,East Leake,other,1,0,1
+mmmp:sdbm_5155,mmmp:sdbm_5155,other,1,0,1
+mmmp:tgn_7002338,Diyarbakır,other,1,0,1
+mmmp:tgn_7005502,Haiti,other,1,0,1
+mmmp:tgn_1028252,Abbots Langley,other,1,0,1
+mmmp:tgn_7011620,Swanscombe,other,1,0,1
+mmmp:tgn_7449945,East Wretham,other,1,0,1
+mmmp:tgn_7010739,Crowland,other,1,1,1
+mmmp:tgn_1099803,Korykos,other,1,1,0
+mmmp:tgn_7024035,Geghark'unik' province,other,1,0,1
+mmmp:sdbm_sdbm_1423,Pfalz,other,1,0,1
+mmmp:sdbm_sdbm_1424,Northern Greece,other,1,0,0
+mmmp:sdbm_sdbm_1439,Argelan,other,1,0,1
+mmmp:tgn_7302358,Muro,other,1,0,1
+mmmp:sdbm_sdbm_1450,Northwestern China,other,1,1,0
+mmmp:tgn_1124510,Hérault,other,1,1,0
+mmmp:tgn_1047494,Vogogna,other,1,0,1
+mmmp:tgn_7047901,Fagagna,other,1,0,1
+mmmp:tgn_7018653,Fleury,other,1,0,1
+mmmp:sdbm_sdbm_1483,Al-Aqsa Mosque,other,1,0,1
+mmmp:tgn_4005919,Löwen,other,1,0,1
+mmmp:tgn_7007726,Legnica,other,1,0,1
+mmmp:tgn_7004439,Oldenburg,other,1,0,1
+mmmp:tgn_7117372,Ödenwald,other,1,0,1
+mmmp:tgn_7029798,Mogao Caves,other,1,1,0
+mmmp:tgn_7040622,San Severino,other,1,0,1
+mmmp:tgn_7010395,Borgo Valsugana,other,1,0,1
+mmmp:tgn_1025807,Mönchhof,other,1,0,1
+mmmp:tgn_7232740,Kormísta,other,1,1,0
+mmmp:tgn_7665198,Argy,other,1,0,1
+mmmp:tgn_7006653,Georgia,other,1,1,0
+mmmp:tgn_7001376,Ashqelon,other,1,0,1
+mmmp:tgn_7003144,Savona,other,1,0,1
+mmmp:tgn_1062593,Valderas,other,1,0,1
+mmmp:sdbm_sdbm_1637,Southern Scotland,other,1,0,1
+mmmp:sdbm_sdbm_534,Newark,other,1,0,1
+mmmp:tgn_7214699,Beuerberg,other,1,0,1
+mmmp:tgn_7239196,Gemmenich,other,1,0,1
+mmmp:sdbm_sdbm_1666,Busdorfkirche (Paderborn),other,1,0,1
+mmmp:tgn_7016818,Slavonia,other,1,0,1
+mmmp:tgn_1100093,Saint Paul's Cathedral,other,1,0,1
+mmmp:sdbm_sdbm_5068,San Giorgio Maggiore monastery,other,1,0,1
+mmmp:tgn_1000169,Kenya,other,1,0,1
+mmmp:sdbm_sdbm_1683,Baalbek,other,1,0,1
+mmmp:sdbm_sdbm_1694,Northern Persia,other,1,0,1
+mmmp:tgn_1041144,Schrobenhausen,other,1,0,1
+mmmp:sdbm_sdbm_1723,Buchholz,other,1,0,1
+mmmp:tgn_7018118,Yunnan,other,1,0,1
+mmmp:sdbm_sdbm_1728,Abarkuh,other,1,0,1
+mmmp:tgn_1001596,Wāsiţ,other,1,1,0
+mmmp:sdbm_sdbm_1751,East Drayton,other,1,0,1
+mmmp:sdbm_sdbm_157,Waldsee,other,1,0,1
+mmmp:sdbm_sdbm_1755,Kloster Graefenthal,other,1,0,1
+mmmp:sdbm_sdbm_1759,Leta,other,1,0,1
+mmmp:sdbm_sdbm_1762,Saint-Rémy Church,other,1,0,1
+mmmp:tgn_7881026,Lárnaka,other,1,0,1
+mmmp:sdbm_sdbm_1768,Padone,other,1,0,1
+mmmp:tgn_7011710,Mladá Boleslav,other,1,0,1
+mmmp:tgn_7184405,Gravenhorst,other,1,0,1
+mmmp:tgn_7027126,Bratislavský,other,1,0,1
+mmmp:sdbm_sdbm_1782,Offenberg,other,1,0,1
+mmmp:tgn_7345130,Alguaire,other,1,0,1
+mmmp:tgn_7655743,"Choux, Val des",other,1,1,0
+mmmp:tgn_7012526,Kaufbeuren,other,1,0,1
+mmmp:tgn_7076140,Bernberg,other,1,0,1
+mmmp:tgn_1037787,Stolberg,other,1,0,1
+mmmp:tgn_7004228,Potenza,other,1,0,1
+mmmp:tgn_7010402,Whalley,other,1,0,1
+mmmp:sdbm_sdbm_594,Seeschwaben,other,1,0,1
+mmmp:sdbm_sdbm_1810,Serlanaco,other,1,0,1
+mmmp:sdbm_sdbm_596,San Pietro,other,1,1,0
+mmmp:tgn_7003283,Braunau am Inn,other,1,0,1
+mmmp:tgn_7042729,Prado,other,1,0,1
+mmmp:tgn_7005562,Nicaragua,other,1,0,1
+mmmp:tgn_7001363,"Qesari, H̲orbat",other,1,1,1
+mmmp:tgn_7003126,Valle d'Aosta,other,1,0,1
+mmmp:tgn_7009748,Viviers,other,1,0,1
+mmmp:sdbm_sdbm_1852,Parthenope,other,1,0,1
+mmmp:tgn_7002137,Jolfā,other,1,0,1
+mmmp:tgn_6001250,Chagatai Khanate,other,1,0,1
+mmmp:tgn_7707851,Şabanmera,other,1,0,1
+mmmp:tgn_8698237,Khwārezm,other,1,0,1
+mmmp:tgn_7170090,Herborn,other,1,0,1
+mmmp:tgn_7004068,Pescara,other,1,0,1
+mmmp:tgn_1000782,Tlemcen,other,1,0,1
+mmmp:tgn_7007823,Játiva,other,1,0,1
+mmmp:tgn_7003461,Limburg,other,1,1,0
+mmmp:sdbm_sdbm_1909,Northern Syria,other,1,1,0
+mmmp:tgn_7005763,Rivoli,other,1,0,1
+mmmp:sdbm_sdbm_1933,San Luca,other,1,0,1
+mmmp:tgn_7005698,Chieri,other,1,0,1
+mmmp:tgn_7012313,Cleves,other,1,0,1
+mmmp:tgn_7015443,Smederevo,other,1,0,1
+mmmp:sdbm_sdbm_1945,Bagnano,other,1,0,1
+mmmp:tgn_7127364,Nimburg,other,1,0,1
+mmmp:tgn_1025765,Langenzersdorf,other,1,0,1
+mmmp:tgn_7210294,Banz,other,1,1,0
+mmmp:sdbm_sdbm_1962,Hautecombe Abbey,other,1,1,0
+mmmp:tgn_1025441,Badgastein,other,1,0,1
+mmmp:tgn_7006424,Berat,other,1,1,0
+mmmp:sdbm_sdbm_1976,Ceneda,other,1,0,1
+mmmp:tgn_7031840,Antelias,other,1,0,1
+mmmp:tgn_1030934,Tutbury,other,1,0,1
+mmmp:tgn_7026193,Newstead,other,1,1,0
+mmmp:tgn_4006576,Lorrha,other,1,0,1
+mmmp:sdbm_sdbm_2002,Templemore,other,1,0,1
+mmmp:sdbm_sdbm_2004,Stanlaw Abbey,other,1,1,1
+mmmp:tgn_7028587,Salle,other,1,0,1
+mmmp:tgn_7006157,Scarperia,other,1,0,1
+mmmp:sdbm_sdbm_2011,Godstow,other,1,0,1
+mmmp:tgn_1051081,Stonehouse,other,1,0,1
+mmmp:sdbm_sdbm_2016,Ewig,other,1,0,1
+mmmp:tgn_7010083,Montegiorgio,other,1,0,1
+mmmp:sdbm_sdbm_553,Lipnice nad Sázavou,other,1,0,1
+mmmp:tgn_7624265,Montargis,other,1,0,1
+mmmp:tgn_7447567,Shotley,other,1,0,1
+mmmp:tgn_7137890,Langnau,other,1,0,1
+mmmp:tgn_7027258,Wakeley,other,1,0,1
+mmmp:tgn_7006170,Fucecchio,other,1,0,1
+mmmp:tgn_7668941,Tenochtitlan,other,1,0,1
+mmmp:tgn_1017886,Morelia,other,1,0,1
+mmmp:tgn_1025311,Trujillo,other,1,0,1
+mmmp:tgn_7005364,Costa Rica,other,1,0,1
+mmmp:sdbm_sdbm_2063,Atitlan,other,1,0,1
+mmmp:tgn_1016990,Ameca,other,1,0,1
+mmmp:tgn_7352643,Atengo,other,1,0,1
+mmmp:tgn_7352713,Atlatlahuaca,other,1,0,1
+mmmp:sdbm_sdbm_2068,Cuzcatlan,other,1,0,1
+mmmp:tgn_7419093,San Miguel Huautla,other,1,0,1
+mmmp:tgn_7370581,Hueytlalpan,other,1,0,1
+mmmp:tgn_1017591,Iguala,other,1,0,1
+mmmp:tgn_7459747,Merionethshire,other,1,0,1
+mmmp:tgn_7018923,Lambeth,other,1,0,1
+mmmp:tgn_7004529,Capua,other,1,0,1
+mmmp:tgn_1028765,Castleton,other,1,0,1
+mmmp:tgn_1030897,Tilbury,other,1,0,1
+mmmp:tgn_7466115,Barnham,other,1,0,1
+mmmp:tgn_5000748,Rutland,other,1,0,1
+mmmp:tgn_7005001,Romagna,control,1,0,1
+mmmp:tgn_1005755,Tottenham,other,1,0,1
+mmmp:tgn_7011516,Faversham,other,1,0,1
+mmmp:tgn_7008838,Carmarthen,other,1,0,1
+mmmp:tgn_1030048,Middleton,other,1,0,0
+mmmp:tgn_4012152,West Bretton,other,1,1,0
+mmmp:sdbm_sdbm_2132,Sandal Magna,other,1,1,0
+mmmp:sdbm_sdbm_2134,Caistor,other,1,1,0
+mmmp:tgn_7026354,Great Tey,other,1,1,0
+mmmp:tgn_7030085,Liversedge,other,1,0,1
+mmmp:sdbm_sdbm_2142,West Wardon,other,1,0,1
+mmmp:tgn_1028747,Cannock,other,1,0,1
+mmmp:sdbm_sdbm_2152,Newton,other,1,0,1
+mmmp:sdbm_sdbm_2154,Dungworth,other,1,0,1
+mmmp:sdbm_sdbm_2155,Morwode,other,1,0,1
+mmmp:tgn_7454075,Dennington,other,1,0,1
+mmmp:tgn_7027087,Lyonshall,other,1,0,1
+mmmp:tgn_7446493,Rendlesham,other,1,0,1
+mmmp:tgn_1028689,Bungay,other,1,0,1
+mmmp:sdbm_sdbm_2169,Whitgreave,other,1,0,1
+mmmp:tgn_7460091,Old Byland,other,1,0,1
+mmmp:sdbm_sdbm_2177,Whittington,other,1,0,1
+mmmp:tgn_7445133,Troston,other,1,0,1
+mmmp:sdbm_sdbm_2182,Alspath (Meriden),other,1,0,1
+mmmp:sdbm_sdbm_2183,Thornseat,other,1,0,1
+mmmp:sdbm_sdbm_2185,Sugnall,other,1,0,1
+mmmp:tgn_7027179,Yarpole,other,1,0,1
+mmmp:sdbm_sdbm_2189,Sweriden,other,1,0,1
+mmmp:sdbm_sdbm_2191,Roche,other,1,0,1
+mmmp:tgn_7030101,Tattingstone,other,1,0,1
+mmmp:tgn_7030652,Weardley,other,1,0,1
+mmmp:sdbm_sdbm_2200,Le Coumbe,other,1,0,1
+mmmp:tgn_1029759,Kirton,other,1,0,1
+mmmp:sdbm_sdbm_2207,Pontefract Castle,other,1,0,1
+mmmp:tgn_7464871,Boxted,other,1,0,1
+mmmp:tgn_7447221,Stoke by Nayland,other,1,0,1
+mmmp:sdbm_sdbm_2215,Felley,other,1,0,1
+mmmp:tgn_7448688,Shadingfield,other,1,0,1
+mmmp:sdbm_sdbm_2222,Covehithe,other,1,0,1
+mmmp:sdbm_sdbm_2203,Hetton,other,1,0,1
+mmmp:tgn_7029895,Brierley,other,1,0,1
+mmmp:tgn_1030526,Sandbach,other,1,0,1
+mmmp:tgn_7464102,Algarkirk,other,1,0,1
+mmmp:sdbm_sdbm_2234,Whitwell,other,1,0,1
+mmmp:sdbm_sdbm_2235,Hatherton,other,1,0,1
+mmmp:tgn_7448941,Seisdon,other,1,0,1
+mmmp:tgn_1136703,Hadleigh,other,1,0,1
+mmmp:tgn_7029962,Ecclesfield,other,1,0,1
+mmmp:sdbm_sdbm_2243,Alcostes,other,1,0,1
+mmmp:tgn_1030729,Stannington,other,1,0,1
+mmmp:tgn_1029520,Hemsworth,other,1,0,1
+mmmp:sdbm_sdbm_2248,Brandeston,other,1,0,1
+mmmp:sdbm_sdbm_2252,Kirketon,other,1,0,1
+mmmp:sdbm_sdbm_2257,Overton,other,1,0,1
+mmmp:tgn_7008523,Montgomery,other,1,0,1
+mmmp:sdbm_sdbm_2268,Nottingham Castle,other,1,0,1
+mmmp:sdbm_sdbm_2271,Brocton,other,1,0,1
+mmmp:sdbm_sdbm_2275,Eardswick,other,1,0,1
+mmmp:sdbm_sdbm_2276,Lapworth,other,1,0,1
+mmmp:sdbm_sdbm_2278,Socknersh Manor,other,1,0,1
+mmmp:tgn_1005614,Shoreditch,other,1,0,0
+mmmp:tgn_7447983,Shimpling,other,1,1,1
+mmmp:sdbm_sdbm_2289,Uggeshall,other,1,0,1
+mmmp:tgn_7455940,Crowfield,other,1,0,1
+mmmp:sdbm_sdbm_2293,Candelet,other,1,0,1
+mmmp:tgn_7459397,Otley,other,1,0,0
+mmmp:sdbm_sdbm_2297,Somerleyton,other,1,1,0
+mmmp:tgn_1032471,Cernay,other,1,0,1
+mmmp:tgn_7009368,Montmorency,other,1,1,1
+mmmp:tgn_7009308,Lorris,other,1,0,1
+mmmp:tgn_7076068,Beselich,other,1,0,1
+mmmp:sdbm_sdbm_2316,Rixton-with-Glazebrook,other,1,0,1
+mmmp:sdbm_sdbm_2319,St. Briavels Castle,other,1,1,0
+mmmp:tgn_7005237,Guernsey,other,1,0,1
+mmmp:tgn_5000457,Ross and Cromarty,control,1,0,1
+mmmp:sdbm_sdbm_2332,Wyssete,other,1,1,0
+mmmp:sdbm_sdbm_2334,Bradenstoke,other,1,0,1
+mmmp:tgn_7027266,Huntingdonshire,other,1,1,0
+mmmp:tgn_7459535,Mettingham,other,1,1,0
+mmmp:tgn_7010684,Derby,other,1,1,0
+mmmp:sdbm_sdbm_4031,Newburgh Priory,other,1,1,0
+mmmp:tgn_7028370,East Tuddenham,other,1,0,1
+mmmp:sdbm_sdbm_2356,Hafiz,other,1,0,1
+mmmp:sdbm_sdbm_2358,Béjaïa,other,1,1,0
+mmmp:tgn_7026086,Golconda,other,1,0,1
+mmmp:sdbm_sdbm_2717,Yuxari Agulis,other,1,0,1
+mmmp:sdbm_sdbm_2382,Baddesley Clinton,other,1,0,1
+mmmp:tgn_7004550,West Indies,other,1,0,1
+mmmp:tgn_4004017,Fotheringhay,other,1,0,1
+mmmp:sdbm_sdbm_2401,Santa Croce in Gerusalemme,other,1,0,1
+mmmp:tgn_7016140,Bergama,other,1,1,0
+mmmp:tgn_7029383,Thebes,other,1,0,1
+mmmp:sdbm_sdbm_2418,Halae,other,1,0,1
+mmmp:tgn_7056983,Bassano,other,1,0,0
+mmmp:sdbm_sdbm_2427,Dominican Convent of San Marco,other,1,0,0
+mmmp:sdbm_sdbm_2429,Anchin Abbey,other,1,0,1
+mmmp:tgn_7004108,Trani,other,1,0,1
+mmmp:tgn_7009674,Sedan,other,1,0,1
+mmmp:tgn_1035595,Salers,other,1,0,1
+mmmp:tgn_7647336,Gerberoy,other,1,0,1
+mmmp:tgn_1026123,Stockerau,other,1,1,0
+mmmp:tgn_1100048,"Hautecombe, Abbaye de",other,1,0,1
+mmmp:tgn_7007173,Anguillara Sabazia,other,1,0,1
+mmmp:tgn_1035697,Senones,other,1,0,1
+mmmp:tgn_7006903,Hattem,other,1,0,1
+mmmp:tgn_7004148,Siponto,other,1,0,1
+mmmp:tgn_7655501,Conflans,other,1,0,1
+mmmp:tgn_1039493,Hechingen,other,1,0,1
+mmmp:tgn_7601397,Villefort,other,1,0,1
+mmmp:tgn_7244103,Kallo,other,1,0,1
+mmmp:sdbm_sdbm_2552,Meuse (France),other,1,0,0
+mmmp:tgn_7007284,Aranjuez,other,1,0,1
+mmmp:tgn_7031595,Hrodna,other,1,0,1
+mmmp:tgn_1026510,Ingelmunster,other,1,0,1
+mmmp:tgn_7006853,Venlo,other,1,0,1
+mmmp:tgn_7007863,Binche,other,1,0,1
+mmmp:tgn_7256506,Wiers,other,1,0,1
+mmmp:sdbm_sdbm_2571,Bergues,other,1,0,1
+mmmp:tgn_7657570,Cailly,other,1,0,1
+mmmp:tgn_7017159,Bugey,other,1,1,0
+mmmp:sdbm_sdbm_2591,Morinie,other,1,0,1
+mmmp:tgn_7026463,South Moreton,other,1,0,1
+mmmp:tgn_7025039,Ellesborough,other,1,0,1
+mmmp:tgn_7002520,Gelibolu,other,1,0,0
+mmmp:tgn_7002934,Département de la Drôme,other,1,0,1
+mmmp:sdbm_sdbm_2631,Luçon,other,1,0,1
+mmmp:tgn_7459427,Orton,other,1,1,1
+mmmp:sdbm_sdbm_2645,West Smithfield,other,1,0,1
+mmmp:sdbm_sdbm_2646,Elstronwick,other,1,0,1
+mmmp:tgn_7457487,Mapleton,other,1,0,1
+mmmp:sdbm_sdbm_2649,Upper Swabia,other,1,0,1
+mmmp:sdbm_sdbm_4087,Abbaye d’Aulne,other,1,1,0
+mmmp:tgn_1036106,Vierzon,other,1,0,1
+mmmp:tgn_7656820,Cardaillac,other,1,0,1
+mmmp:tgn_7328295,Quintanavides,other,1,0,1
+mmmp:sdbm_sdbm_2674,Saladzor,other,1,0,1
+mmmp:sdbm_sdbm_2676,Calcomier,other,1,0,1
+mmmp:tgn_7008206,Saint-Flour,other,1,0,1
+mmmp:tgn_5000092,Upper Silesia,other,1,0,1
+mmmp:tgn_7002899,Département des Ardennes,other,1,0,1
+mmmp:tgn_1100121,"Grande Chartreuse, Couvent de la",other,1,0,1
+mmmp:sdbm_sdbm_2688,Kwidzyn Cathedral,other,1,0,1
+mmmp:sdbm_sdbm_2693,"Saint-Gilles, Gard",other,1,0,1
+mmmp:tgn_7626900,Marcilly-sur-Maulne,other,1,0,1
+mmmp:sdbm_sdbm_2700,Nyburg,other,1,0,1
+mmmp:sdbm_sdbm_2702,Rouergue,other,1,0,1
+mmmp:tgn_1035652,Sauveterre,other,1,0,1
+mmmp:tgn_7241769,Limoges,other,1,0,1
+mmmp:sdbm_sdbm_2707,Abbey of Saint-Gilles,other,1,0,1
+mmmp:sdbm_sdbm_2710,Lower Brittany,other,1,0,1
+mmmp:tgn_4000969,Aunis,other,1,0,1
+mmmp:tgn_7252847,Treignes,other,1,0,1
+mmmp:tgn_7010618,Cheb,other,1,0,1
+mmmp:tgn_7001410,Nazareth,other,1,0,0
+mmmp:tgn_1086032,Birecik,other,1,0,0
+mmmp:tgn_7006306,Pescia,other,1,0,1
+mmmp:tgn_7010782,Great Yarmouth,other,1,0,1
+mmmp:sdbm_sdbm_2740,St. Clara Monastery,other,1,0,1
+mmmp:sdbm_sdbm_2746,Faremoutiers Abbey,other,1,1,1
+mmmp:tgn_1032271,Bourgueil,other,1,0,0
+mmmp:tgn_7017039,Lagny,other,1,0,0
+mmmp:tgn_7253934,Val Saint-Lambert,other,1,0,0
+mmmp:tgn_7008734,Visé,other,1,0,1
+mmmp:tgn_1047691,Cadzand,other,1,0,1
+mmmp:sdbm_sdbm_2772,Saint-Pierre-de-Chartreuse,other,1,0,1
+mmmp:tgn_4001323,Bebenhausen,other,1,0,1
+mmmp:tgn_7004676,Traunstein,other,1,0,1
+mmmp:tgn_7018993,Pembrokeshire,other,1,0,1
+mmmp:tgn_7009266,Laudun,other,1,0,1
+mmmp:tgn_7007388,Lachen,other,1,0,1
+mmmp:tgn_7008791,Fréjus,other,1,0,1
+mmmp:tgn_7605126,Sarrians,other,1,0,1
+mmmp:tgn_7007603,Cazalla de la Sierra,other,1,0,1
+mmmp:tgn_1027133,Chotěšov,other,1,0,1
+mmmp:tgn_1027132,Chomutov,other,1,0,1
+mmmp:tgn_7004720,Mecklenburg,other,1,1,0
+mmmp:tgn_1026295,Assenede,other,1,0,1
+mmmp:sdbm_sdbm_2823,Abbaye Notre-Dame de Daoulas,other,1,0,1
+mmmp:tgn_7010024,Tynemouth,other,1,0,1
+mmmp:tgn_7029496,Swine,other,1,0,1

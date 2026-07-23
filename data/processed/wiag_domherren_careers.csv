@@ -1,0 +1,944 @@
+wiag_id,name,birth_year,death_year,office_year,office_title,institution,diocese,glass_center_location,source,age_at_office
+WIAG-Pers-CANON-10176-001,Adam Friedrich Schenk von Stauffenberg,1767.0,1808.0,1787.0,Domherr,Domstift Augsburg,,False,wiag_domherren,20.0
+WIAG-Pers-CANON-10575-001,Franz Ludwig Hutten-Stolzenberg,1669.0,1728.0,1687.0,Domherr,Domstift Würzburg,Bistum Würzburg,False,wiag_domherren,18.0
+WIAG-Pers-CANON-10710-001,Franz Anton Donat Heußlein von Eussenheim,1742.0,1805.0,1764.0,Domherr,Domstift Würzburg,,False,wiag_domherren,22.0
+WIAG-Pers-CANON-10823-001,Georg Dietrich,1589.0,1634.0,1621.0,Domherr,Domstift Konstanz,,False,wiag_domherren,32.0
+WIAG-Pers-CANON-10825-001,Leonhard Pappus,1607.0,1677.0,1628.0,Domherr,Domstift Konstanz,,False,wiag_domherren,21.0
+WIAG-Pers-CANON-10887-001,Franz Arnold Asseburg,1714.0,1790.0,1732.0,Domherr,Domstift Hildesheim,Bistum Münster,False,wiag_domherren,18.0
+WIAG-Pers-CANON-10890-001,Jobst Christoph Bennigsen,1699.0,1778.0,1732.0,Domherr,Domstift Hildesheim,,False,wiag_domherren,33.0
+WIAG-Pers-CANON-10891-001,Franz Cölestin Beroldingen,1740.0,1798.0,1761.0,Domherr,Domstift Hildesheim,Bistum Hildesheim,False,wiag_domherren,21.0
+WIAG-Pers-CANON-10893-001,Ignaz Joseph Konrad Silvester Beroldingen,1744.0,1806.0,1764.0,Domherr,Domstift Speyer,,False,wiag_domherren,20.0
+WIAG-Pers-CANON-10895-001,Joseph Maria Gabriel Beroldingen,1723.0,1800.0,1748.0,Domherr,Domstift Hildesheim,,False,wiag_domherren,25.0
+WIAG-Pers-CANON-10898-001,Ferdinand Wilhelm Ignaz Engelbert Bocholtz,1708.0,1784.0,1733.0,Domherr,Domstift Hildesheim,Bistum Hildesheim,False,wiag_domherren,25.0
+WIAG-Pers-CANON-10899-001,Franz Arnold Florenz Bocholtz,1706.0,1765.0,1728.0,Domherr,Domstift Hildesheim,,False,wiag_domherren,22.0
+WIAG-Pers-CANON-10900-001,Franz Wilhelm Bocholtz,1744.0,1792.0,1765.0,Domherr,Domstift Hildesheim,,False,wiag_domherren,21.0
+WIAG-Pers-CANON-10901-001,Gottfried Konrad Gaudenz Bocholtz,1685.0,1753.0,1711.0,Domherr,Domstift Hildesheim,,False,wiag_domherren,26.0
+WIAG-Pers-CANON-10903-001,Theodor Werner Bocholtz,1743.0,1822.0,1774.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,31.0
+WIAG-Pers-CANON-10907-001,Maximilian August Bockenförde gen. Schüngel,1656.0,1750.0,1689.0,Domherr,Domstift Hildesheim,,False,wiag_domherren,33.0
+WIAG-Pers-CANON-10911-001,Franz Georg Karl Boos-Waldeck,1732.0,,1761.0,Domherr,Domstift Hildesheim,,False,wiag_domherren,29.0
+WIAG-Pers-CANON-10912-001,Karl Damian Philipp Boos-Waldeck,1722.0,,1759.0,Domherr,Domstift Hildesheim,,False,wiag_domherren,37.0
+WIAG-Pers-CANON-10916-001,Jobst Edmund Brabeck,1659.0,1728.0,1681.0,Domherr,Domstift Hildesheim,,False,wiag_domherren,22.0
+WIAG-Pers-CANON-10917-001,Jobst Edmund II. Brabeck,1660.0,1732.0,1684.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,24.0
+WIAG-Pers-CANON-10922-001,Ferdinand Ludwig Brueggeney genannt Hasenkamp,1703.0,1773.0,1725.0,Domherr,Domstift Hildesheim,,False,wiag_domherren,22.0
+WIAG-Pers-CANON-10924-001,Karl Gottfried Brueggeney gen. Hasenkamp,1689.0,1750.0,1716.0,Domherr,Domstift Hildesheim,,False,wiag_domherren,27.0
+WIAG-Pers-CANON-10927-001,Engelbert Dietrich Ludwig Droste zu Erwitte,1705.0,1769.0,1725.0,Domherr,Domstift Hildesheim,,False,wiag_domherren,20.0
+WIAG-Pers-CANON-10929-001,Levin Christoph Adrian Droste-Senden,1687.0,1725.0,1709.0,Domherr,Domstift Speyer,Bistum Speyer,False,wiag_domherren,22.0
+WIAG-Pers-CANON-10930-001,Franz Otto Droste-Vischering,1771.0,1826.0,1789.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,18.0
+WIAG-Pers-CANON-10932-001,Johann Ferdinand Elmendorff,1718.0,1788.0,1742.0,Domherr,Domstift Lübeck,,False,wiag_domherren,24.0
+WIAG-Pers-CANON-10933-001,Alexander Friedrich Elverfeldt,1743.0,1805.0,1761.0,Domherr,Domstift Hildesheim,Bistum Hildesheim,False,wiag_domherren,18.0
+WIAG-Pers-CANON-10934-001,Clemens August Paul Elverfeldt,1732.0,1783.0,1755.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,23.0
+WIAG-Pers-CANON-10936-001,Werner August Elverfeldt,1740.0,1818.0,1761.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,21.0
+WIAG-Pers-CANON-10938-001,Johann Sigismund Frenz,1661.0,1712.0,1679.0,Domherr,Domstift Trier,,False,wiag_domherren,18.0
+WIAG-Pers-CANON-10940-001,Christian Ignaz Alexander Fürstenberg,1731.0,1779.0,1750.0,Domherr,Domstift Hildesheim,Bistum Hildesheim,False,wiag_domherren,19.0
+WIAG-Pers-CANON-10948-001,Johann Adolf Fürstenberg,1631.0,1704.0,1652.0,Domherr,Domstift Hildesheim,Bistum Münster,False,wiag_domherren,21.0
+WIAG-Pers-CANON-10955-001,Adolf Arnold Robert Gysenberg,1651.0,1725.0,1675.0,Domherr,Domstift Hildesheim,,False,wiag_domherren,24.0
+WIAG-Pers-CANON-10956-001,Heinrich Wilhelm Ludwig Harff,1715.0,1781.0,1740.0,Domherr,Domstift Mainz,,False,wiag_domherren,25.0
+WIAG-Pers-CANON-10959-001,Clemens August Maria Wilhelm Haxthausen,1744.0,,1764.0,Domherr,Domstift Osnabrück,Bistum Osnabrück,False,wiag_domherren,20.0
+WIAG-Pers-CANON-10960-001,Friedrich Kaspar Ferdinand Haxthausen,1749.0,1811.0,1774.0,Domherr,Domstift Hildesheim,,False,wiag_domherren,25.0
+WIAG-Pers-CANON-10965-001,Johann Friedrich Hoensbroeck,1740.0,1804.0,1771.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,31.0
+WIAG-Pers-CANON-10967-001,Ferdinand Gottfried Hoerde,1678.0,1711.0,1699.0,Domherr,Domstift Hildesheim,,False,wiag_domherren,21.0
+WIAG-Pers-CANON-10968-001,Franz Joseph Hoerde,1711.0,1733.0,1729.0,Domherr,Domstift Hildesheim,Bistum Hildesheim,False,wiag_domherren,18.0
+WIAG-Pers-CANON-10973-001,Joseph Ernst Hoerde,1757.0,1803.0,1789.0,Domherr,Domstift Hildesheim,Bistum Hildesheim,False,wiag_domherren,32.0
+WIAG-Pers-CANON-10974-001,Kaspar Friedrich Hoheneck,1653.0,1727.0,1674.0,Domherr,Domstift Hildesheim,,False,wiag_domherren,21.0
+WIAG-Pers-CANON-10979-001,Franz Arnold Kerckering,1715.0,1734.0,1733.0,Domherr,Domstift Hildesheim,,False,wiag_domherren,18.0
+WIAG-Pers-CANON-10980-001,Franz Hermann Ludwig Kerckering,1713.0,,1734.0,Domherr,Domstift Hildesheim,,False,wiag_domherren,21.0
+WIAG-Pers-CANON-10984-001,Matthias Benedikt Antonius Ignatz Maria Ketteler,1752.0,1802.0,1770.0,Domherr,Domstift Hildesheim,Bistum Hildesheim,False,wiag_domherren,18.0
+WIAG-Pers-CANON-10985-001,Wilhelm Arnold Ketteler,1753.0,1820.0,1775.0,Domherr,Domstift Augsburg,Bistum Paderborn,False,wiag_domherren,22.0
+WIAG-Pers-CANON-10986-001,Dietrich Otto Korff gen. Schmising,1651.0,1727.0,1669.0,Domherr,Domstift Münster,Bistum Hildesheim,False,wiag_domherren,18.0
+WIAG-Pers-CANON-10989-001,Friedrich Klemens Ledebur,1770.0,1841.0,1790.0,Domherr,Domstift Hildesheim,,False,wiag_domherren,20.0
+WIAG-Pers-CANON-10996-001,Johann Adolf Loe,1656.0,1716.0,1678.0,Domherr,Domstift Hildesheim,,False,wiag_domherren,22.0
+WIAG-Pers-CANON-11000-001,Klemens August Konstantin Mengersen,1719.0,1801.0,1743.0,Domherr,Domstift Worms,,False,wiag_domherren,24.0
+WIAG-Pers-CANON-11005-001,Ferdinand Ignaz Nagel,1660.0,1726.0,1682.0,Domherr,Domstift Paderborn,,False,wiag_domherren,22.0
+WIAG-Pers-CANON-11007-001,Franz Adolf Nagel,1680.0,1746.0,1704.0,Domherr,Domstift Hildesheim,Bistum Münster,False,wiag_domherren,24.0
+WIAG-Pers-CANON-11018-001,Ferdinand Plettenberg-Lenhausen,1650.0,1712.0,1673.0,Domherr,Domstift Paderborn,,False,wiag_domherren,23.0
+WIAG-Pers-CANON-11019-001,Ferdinand Joseph Plettenberg-Lenhausen,1729.0,1777.0,1752.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,23.0
+WIAG-Pers-CANON-11026-001,Karl Franz Maria Schaesberg,1734.0,1800.0,1752.0,Domherr,Domstift Paderborn,Bistum Paderborn,False,wiag_domherren,18.0
+WIAG-Pers-CANON-11027-001,Franz Friedrich Schilder,1737.0,1774.0,1756.0,Domherr,Domstift Hildesheim,,False,wiag_domherren,19.0
+WIAG-Pers-CANON-11032-001,Ferdinand August Spiegel,1764.0,1835.0,1782.0,Domherr,Domstift Münster,Bistum Osnabrück,False,wiag_domherren,18.0
+WIAG-Pers-CANON-11033-001,Franz Wilhelm Spiegel zum Desenberg,1752.0,1815.0,1776.0,Domherr,Domstift Hildesheim,Bistum Hildesheim,False,wiag_domherren,24.0
+WIAG-Pers-CANON-11035-001,Otto Hermann Spiegel zum Desenberg,1712.0,1801.0,1756.0,Domherr,Domstift Hildesheim,,False,wiag_domherren,44.0
+WIAG-Pers-CANON-11038-001,Jobst Edmund Moritz Twickel,1726.0,1782.0,1748.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,22.0
+WIAG-Pers-CANON-11040-001,Johann Rudolf Benedikt Twickel,1684.0,1759.0,1727.0,Domherr,Domstift Hildesheim,Bistum Hildesheim,False,wiag_domherren,43.0
+WIAG-Pers-CANON-11043-001,Friedrich Ignaz Konstantin Vittinghoff genannt Schell,1691.0,1727.0,1711.0,Domherr,Domstift Paderborn,Bistum Münster,False,wiag_domherren,20.0
+WIAG-Pers-CANON-11045-001,Karl Friedrich Vittinghoff genannt Schell,1751.0,1819.0,1775.0,Domherr,Domstift Hildesheim,Bistum Hildesheim,False,wiag_domherren,24.0
+WIAG-Pers-CANON-11046-001,Gottfried Wilhelm Voigt von Elspe,1697.0,1755.0,1717.0,Domherr,Domstift Hildesheim,,False,wiag_domherren,20.0
+WIAG-Pers-CANON-11047-001,Franz Karl Waldbott-Bassenheim,1760.0,1804.0,1783.0,Domherr,Domstift Hildesheim,Bistum Hildesheim,False,wiag_domherren,23.0
+WIAG-Pers-CANON-11048-001,Matthias Burchard Weichs-Koertlinghausen,1680.0,1741.0,1703.0,Domherr,Domstift Hildesheim,,False,wiag_domherren,23.0
+WIAG-Pers-CANON-11051-001,Johann Friedrich Joseph Weichs-Roesberg,1696.0,1756.0,1732.0,Domherr,Domstift Hildesheim,,False,wiag_domherren,36.0
+WIAG-Pers-CANON-11055-001,Franz Adam Anton Weichs-Sarstedt,1679.0,1766.0,1715.0,Domherr,Domstift Hildesheim,,False,wiag_domherren,36.0
+WIAG-Pers-CANON-11059-001,Leopold Edmund Weichs-Sarstedt,1755.0,,1773.0,Domherr,Domstift Hildesheim,Bistum Hildesheim,False,wiag_domherren,18.0
+WIAG-Pers-CANON-11062-001,Stephan Franz Weichs-Wenne,1717.0,1768.0,1740.0,Domherr,Domstift Osnabrück,,False,wiag_domherren,23.0
+WIAG-Pers-CANON-11064-001,Franz Wilhelm Wendt,1757.0,1804.0,1779.0,Domherr,Domstift Hildesheim,Bistum Hildesheim,False,wiag_domherren,22.0
+WIAG-Pers-CANON-11074-001,Dietrich Heinrich Konrad Westrem,1705.0,,1728.0,Domherr,Domstift Hildesheim,,False,wiag_domherren,23.0
+WIAG-Pers-CANON-11077-001,Dietrich Joseph Wrede,1736.0,1808.0,1759.0,Domherr,Domstift Hildesheim,Bistum Münster,False,wiag_domherren,23.0
+WIAG-Pers-CANON-11078-001,Engelbert Anton Maria Wrede,1742.0,1808.0,1761.0,Domherr,Domstift Hildesheim,Bistum Hildesheim,False,wiag_domherren,19.0
+WIAG-Pers-CANON-11357-001,Albert Clamor Bussche,1653.0,1710.0,1683.0,Domherr,Domstift Minden,,False,wiag_domherren,30.0
+WIAG-Pers-CANON-11359-001,Alexander Hammerstein,1686.0,1755.0,1707.0,Domherr,Domstift Minden,,False,wiag_domherren,21.0
+WIAG-Pers-CANON-11582-001,Hermann Baden,1628.0,1691.0,1651.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,23.0
+WIAG-Pers-CANON-12276-001,Andreas Mandelsloh,1519.0,1585.0,1541.0,Domherr,Domstift Verden,,False,wiag_domherren,22.0
+WIAG-Pers-CANON-12622-001,Busso Britzke,1534.0,1572.0,1565.0,Domherr,Domstift Magdeburg,Erzbistum Magdeburg,False,wiag_domherren,31.0
+WIAG-Pers-CANON-12623-001,Werner Plotho,1532.0,1589.0,1559.0,Domherr,Domstift Magdeburg,Erzbistum Magdeburg,False,wiag_domherren,27.0
+WIAG-Pers-CANON-13221-001,Philipp Brauneck,1294.0,,1332.0,Domherr,Domstift Mainz,,False,wiag_domherren,38.0
+WIAG-Pers-CANON-13239-001,Johann Schenk von Erbach,1309.0,1383.0,1335.0,Domherr,Domstift Würzburg,,False,wiag_domherren,26.0
+WIAG-Pers-CANON-13283-001,Johann Rieneck,1322.0,,1370.0,Domherr,Domstift Mainz,,False,wiag_domherren,48.0
+WIAG-Pers-CANON-13382-001,Albert Schenk von Limpurg,1399.0,1449.0,1417.0,Domherr,Domstift Würzburg,Bistum Würzburg,False,wiag_domherren,18.0
+WIAG-Pers-CANON-13421-001,Stephan Pfalz-Simmern,1421.0,1481.0,1439.0,Domherr,Domstift Köln,Erzbistum Köln,False,wiag_domherren,18.0
+WIAG-Pers-CANON-13425-001,Ruprecht Solms,1420.0,1499.0,1444.0,Domherr,Domstift Mainz,,False,wiag_domherren,24.0
+WIAG-Pers-CANON-13804-001,Karl Albrecht Fugger,1581.0,1642.0,1612.0,Domherr,Domstift Konstanz,,False,wiag_domherren,31.0
+WIAG-Pers-CANON-13820-001,Berthold Königsegg-Rothenfels,1593.0,1663.0,1614.0,Domherr,Domstift Köln,Bistum Konstanz,False,wiag_domherren,21.0
+WIAG-Pers-CANON-13831-001,Ulrich Konrad Stadion,1604.0,1636.0,1624.0,Domherr,"Domstift Salzburg, Österreich",,False,wiag_domherren,20.0
+WIAG-Pers-CANON-13832-001,Karl Philipp Ulm,1612.0,1660.0,1630.0,Domherr,Domstift Konstanz,,False,wiag_domherren,18.0
+WIAG-Pers-CANON-13867-001,Franz Christoph Heidenheim,1628.0,1680.0,1650.0,Domherr,Domstift Eichstätt,,False,wiag_domherren,22.0
+WIAG-Pers-CANON-13895-001,Franz Wilhelm Joseph Stein von Rechtenstein,1671.0,1719.0,1691.0,Domherr,Domstift Eichstätt,,False,wiag_domherren,20.0
+WIAG-Pers-CANON-13939-001,Joseph Maria Wilhelm Speth von Zwiefalten,1734.0,1797.0,1755.0,Domherr,Domstift Augsburg,,False,wiag_domherren,21.0
+WIAG-Pers-CANON-14845-001,Joseph Anton Friedrich Hohenlohe-Bartenstein,1707.0,1764.0,1725.0,Domherr,"Domstift Straßburg, Frankreich",,False,wiag_domherren,18.0
+WIAG-Pers-CANON-14865-001,Anton Willibald Waldburg-Waldsee,1729.0,1821.0,1749.0,Domherr,Domstift Augsburg,,False,wiag_domherren,20.0
+WIAG-Pers-CANON-14901-001,Karl Joseph Ulm,1759.0,1797.0,1779.0,Domherr,Domstift Augsburg,,False,wiag_domherren,20.0
+WIAG-Pers-CANON-14999-001,Georg Heinrich Künssberg,1607.0,1676.0,1630.0,Domherr,Domstift Würzburg,Bistum Würzburg,False,wiag_domherren,23.0
+WIAG-Pers-CANON-15010-001,Johann Otto Gebsattel,1624.0,1688.0,1646.0,Domherr,Domstift Würzburg,,False,wiag_domherren,22.0
+WIAG-Pers-CANON-15085-001,Johann Rudolf Friedrich Ingelheim,1635.0,1706.0,1695.0,Domherr,Domstift Bamberg,Bistum Bamberg,False,wiag_domherren,60.0
+WIAG-Pers-CANON-15116-001,Joseph Eustach Anton Wertenstein,1700.0,1764.0,1722.0,Domherr,Domstift Bamberg,,False,wiag_domherren,22.0
+WIAG-Pers-CANON-15122-001,Karl Johann Alexander Rotenhan,1710.0,,1728.0,Domherr,Domstift Bamberg,,False,wiag_domherren,18.0
+WIAG-Pers-CANON-15142-001,Joseph Karl Georg Hutten,1736.0,1812.0,1754.0,Domherr,Domstift Bamberg,Bistum Eichstätt,False,wiag_domherren,18.0
+WIAG-Pers-CANON-15143-001,Johann Karl Joseph Horneck von Weinheim,1723.0,1791.0,1754.0,Domherr,Domstift Bamberg,Bistum Bamberg,False,wiag_domherren,31.0
+WIAG-Pers-CANON-15162-001,Philipp Anton Bubenhofen,1748.0,1798.0,1768.0,Domherr,Domstift Bamberg,Bistum Bamberg,False,wiag_domherren,20.0
+WIAG-Pers-CANON-15165-001,Johann Georg Joseph Stadion,1749.0,,1769.0,Domherr,Domstift Mainz,,False,wiag_domherren,20.0
+WIAG-Pers-CANON-15174-001,Friedrich Anton Wilhelm Redtwitz,1751.0,1815.0,1781.0,Domherr,Domstift Bamberg,Bistum Bamberg,False,wiag_domherren,30.0
+WIAG-Pers-CANON-15627-001,Martin Ach,1610.0,1661.0,1645.0,Domherr,Domstift Augsburg,,False,wiag_domherren,35.0
+WIAG-Pers-CANON-15661-001,Gustav Adolf Baden-Durlach,1631.0,1677.0,1664.0,Domherr,Domstift Köln,,False,wiag_domherren,33.0
+WIAG-Pers-CANON-16343-001,Dietrich Kaspar Fürstenberg,1615.0,1675.0,1636.0,Domherr,Domstift Speyer,Bistum Speyer,False,wiag_domherren,21.0
+WIAG-Pers-CANON-16452-001,Johann Franz Jakob Hoheneck,1668.0,1758.0,1717.0,Domherr,Domstift Mainz,,False,wiag_domherren,49.0
+WIAG-Pers-CANON-16473-001,Wilhelm Christoph Bubenhofen,1665.0,1747.0,1713.0,Domherr,Domstift Mainz,,False,wiag_domherren,48.0
+WIAG-Pers-CANON-16517-001,Franz Ludwig Metternich-Winneburg,1719.0,1778.0,1744.0,Domherr,Domstift Mainz,,False,wiag_domherren,25.0
+WIAG-Pers-CANON-16722-001,Franz Ferdinand Landsberg,1660.0,1726.0,1682.0,Domherr,Domstift Münster,Bistum Osnabrück,False,wiag_domherren,22.0
+WIAG-Pers-CANON-16729-001,Goswin Konrad Ketteler,1677.0,1747.0,1698.0,Domherr,Domstift Osnabrück,Bistum Münster,False,wiag_domherren,21.0
+WIAG-Pers-CANON-16742-001,Maximilian Heinrich Merveldt,1684.0,1732.0,1707.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,23.0
+WIAG-Pers-CANON-16748-001,Ferdinand Wilhelm Westphalen,1701.0,1729.0,1722.0,Domherr,Domstift Osnabrück,,False,wiag_domherren,21.0
+WIAG-Pers-CANON-16750-001,Heidenreich Adolf Adrian Nagel,1691.0,1748.0,1712.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,21.0
+WIAG-Pers-CANON-16757-001,Franz Ludolf Oer,1704.0,1771.0,1729.0,Domherr,Domstift Osnabrück,,False,wiag_domherren,25.0
+WIAG-Pers-CANON-16758-001,Ferdinand Philipp Droste zu Erwitte,1710.0,1736.0,1728.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,18.0
+WIAG-Pers-CANON-16775-001,Karl Anton Galen-Assen,1679.0,1752.0,1698.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,19.0
+WIAG-Pers-CANON-16824-001,Alhard Georg Meschede,1576.0,1618.0,1599.0,Domherr,Domstift Paderborn,,False,wiag_domherren,23.0
+WIAG-Pers-CANON-16840-001,Johann Alard Imbsen,1595.0,1664.0,1615.0,Domherr,Domstift Paderborn,,False,wiag_domherren,20.0
+WIAG-Pers-CANON-16903-001,Franz Wolrad Oeynhausen,1644.0,1681.0,1668.0,Domherr,Domstift Paderborn,Bistum Paderborn,False,wiag_domherren,24.0
+WIAG-Pers-CANON-16919-001,Moritz Franz Adam Asseburg,1664.0,1712.0,1682.0,Domherr,Domstift Hildesheim,,False,wiag_domherren,18.0
+WIAG-Pers-CANON-16931-001,Johann Franz Ignaz Lippe,1673.0,1746.0,1696.0,Domherr,Domstift Paderborn,,False,wiag_domherren,23.0
+WIAG-Pers-CANON-16934-001,Ignaz Anton Friedrich Asseburg,1675.0,1733.0,1699.0,Domherr,Domstift Paderborn,Bistum Paderborn,False,wiag_domherren,24.0
+WIAG-Pers-CANON-16939-001,Johann Werner Imbsen,1669.0,1743.0,1703.0,Domherr,Domstift Paderborn,Bistum Paderborn,False,wiag_domherren,34.0
+WIAG-Pers-CANON-16950-001,Bernhard Wilhelm Plettenberg-Lenhausen,1690.0,1750.0,1709.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,19.0
+WIAG-Pers-CANON-17003-001,Damian Wilhelm Kaspar Forstmeister von Gelnhausen,1723.0,1802.0,1752.0,Domherr,Domstift Minden,,False,wiag_domherren,29.0
+WIAG-Pers-CANON-17023-001,Maximilian Friedrich August Viktor Ferdinand Franz Ignaz Johann Nepomuk Maria Elverfeldt,1763.0,1831.0,1787.0,Domherr,Domstift Paderborn,Bistum Paderborn,False,wiag_domherren,24.0
+WIAG-Pers-CANON-17027-001,Max Friedrich Ascheberg,1768.0,,1791.0,Domherr,Domstift Paderborn,,False,wiag_domherren,23.0
+WIAG-Pers-CANON-17032-001,Carl Ascheberg,1775.0,1848.0,1799.0,Domherr,Domstift Paderborn,Bistum Paderborn,False,wiag_domherren,24.0
+WIAG-Pers-CANON-17082-001,Karl Ferdinand Muggenthal,1613.0,1687.0,1638.0,Domherr,"Domstift Salzburg, Österreich",,False,wiag_domherren,25.0
+WIAG-Pers-CANON-17094-001,Christoph Waldburg-Trauchburg,1627.0,1682.0,1649.0,Domherr,Domstift Augsburg,,False,wiag_domherren,22.0
+WIAG-Pers-CANON-17133-001,Guidobald Vigil Thun,1649.0,1687.0,1667.0,Domherr,Domstift Freising,,False,wiag_domherren,18.0
+WIAG-Pers-CANON-17158-001,Johann Georg Gustav Colonna von Voels,1677.0,1724.0,1703.0,Domherr,Domstift Passau,,False,wiag_domherren,26.0
+WIAG-Pers-CANON-17193-001,Johann Joseph Harrach,1722.0,1746.0,1740.0,Domherr,Domstift Passau,,False,wiag_domherren,18.0
+WIAG-Pers-CANON-17279-001,Kaspar Rudolf Salis,1599.0,1669.0,1630.0,Domherr,Domstift Regensburg,,False,wiag_domherren,31.0
+WIAG-Pers-CANON-17366-001,Karl Emmerich Hagen,1689.0,1733.0,1710.0,Domherr,Domstift Regensburg,,False,wiag_domherren,21.0
+WIAG-Pers-CANON-17449-001,Konstantin Lichtenstein-Castelkorn,1593.0,1635.0,1612.0,Domherr,"Domstift Salzburg, Österreich",,False,wiag_domherren,19.0
+WIAG-Pers-CANON-17451-001,Johann Sigmund Lamberg,1593.0,1632.0,1613.0,Domherr,"Domstift Salzburg, Österreich",,False,wiag_domherren,20.0
+WIAG-Pers-CANON-17452-001,Veit Wolkenstein-Rodeneck,1583.0,1632.0,1613.0,Domherr,"Domstift Salzburg, Österreich",,False,wiag_domherren,30.0
+WIAG-Pers-CANON-17464-001,Konstantin Lichtenstein-Castelkorn,1593.0,1662.0,1618.0,Domherr,"Domstift Trient, Italien",,False,wiag_domherren,25.0
+WIAG-Pers-CANON-17467-001,Georg Ulrich Wolkenstein-Rodeneck,1598.0,1663.0,1628.0,Domherr,"Domstift Brixen (Bressanone), Italien",,False,wiag_domherren,30.0
+WIAG-Pers-CANON-17486-001,Konrad Fortunat Spaur,1625.0,1694.0,1643.0,Domherr,"Domstift Salzburg, Österreich",,False,wiag_domherren,18.0
+WIAG-Pers-CANON-17488-001,Karl Castelbarco,1619.0,1689.0,1644.0,Domherr,"Domstift Salzburg, Österreich",,False,wiag_domherren,25.0
+WIAG-Pers-CANON-17518-001,Maximilian Adam Lichtenstein-Castelkorn,1647.0,1709.0,1666.0,Domherr,"Domstift Olmütz (Olomouc), Tschechien",,False,wiag_domherren,19.0
+WIAG-Pers-CANON-17521-001,Franz Albrecht Oettingen-Spielberg,1663.0,1737.0,1685.0,Domherr,"Domstift Salzburg, Österreich",,False,wiag_domherren,22.0
+WIAG-Pers-CANON-17529-001,Johann Baptist Anton Arco,1650.0,1722.0,1680.0,Domherr,"Domstift Trient, Italien",,False,wiag_domherren,30.0
+WIAG-Pers-CANON-17530-001,Johann Joseph Fortunat Preysing-Hohenaschau,1651.0,1721.0,1691.0,Domherr,"Domstift Salzburg, Österreich",,False,wiag_domherren,40.0
+WIAG-Pers-CANON-17531-001,Paris Julius Salm,1647.0,1701.0,1668.0,Domherr,"Domstift Olmütz (Olomouc), Tschechien",,False,wiag_domherren,21.0
+WIAG-Pers-CANON-17535-001,Adolf August Althann,1670.0,1719.0,1690.0,Domherr,"Domstift Trient, Italien",,False,wiag_domherren,20.0
+WIAG-Pers-CANON-17548-001,Joseph Wilhelm Eusebius Waldburg-Trauchburg,1694.0,1756.0,1712.0,Domherr,"Domstift Salzburg, Österreich",,False,wiag_domherren,18.0
+WIAG-Pers-CANON-17549-001,Franz Joseph Kuenigl,1695.0,1755.0,1713.0,Domherr,"Domstift Salzburg, Österreich",,False,wiag_domherren,18.0
+WIAG-Pers-CANON-17564-001,Johann Georg Felix Arco,1705.0,1792.0,1726.0,Domherr,"Domstift Salzburg, Österreich",,False,wiag_domherren,21.0
+WIAG-Pers-CANON-17567-001,Wolfgang Leopold Wildenstein,1701.0,1761.0,1728.0,Domherr,"Domstift Salzburg, Österreich",,False,wiag_domherren,27.0
+WIAG-Pers-CANON-17580-001,Joseph Gottfried Saurau,1720.0,1775.0,1746.0,Domherr,"Domstift Salzburg, Österreich",,False,wiag_domherren,26.0
+WIAG-Pers-CANON-17586-001,Maria Korbinian Saurau,1733.0,1761.0,1752.0,Domherr,"Domstift Salzburg, Österreich",,False,wiag_domherren,19.0
+WIAG-Pers-CANON-17596-001,Friedrich Virgil Lodron,1741.0,1814.0,1762.0,Domherr,"Domstift Salzburg, Österreich",,False,wiag_domherren,21.0
+WIAG-Pers-CANON-17599-001,Joseph Philipp Adam Strasoldo,1738.0,1824.0,1764.0,Domherr,"Domstift Salzburg, Österreich",,False,wiag_domherren,26.0
+WIAG-Pers-CANON-17608-001,Friedrich Franz Joseph Spaur von Pflaum und Valör,1756.0,1821.0,1777.0,Domherr,"Domstift Salzburg, Österreich",,False,wiag_domherren,21.0
+WIAG-Pers-CANON-17613-001,Franz Joseph Kuenburg,1765.0,1820.0,1786.0,Domherr,"Domstift Salzburg, Österreich",,False,wiag_domherren,21.0
+WIAG-Pers-CANON-17616-001,Joseph Johann Michael Spaur,1746.0,1828.0,1794.0,Domherr,"Domstift Salzburg, Österreich",,False,wiag_domherren,48.0
+WIAG-Pers-CANON-17617-001,Anton Olivier Wallis,1770.0,1823.0,1788.0,Domherr,Domstift Passau,,False,wiag_domherren,18.0
+WIAG-Pers-CANON-17621-001,Johann Joseph Trautmannsdorff,1780.0,1834.0,1798.0,Domherr,"Domstift Salzburg, Österreich",,False,wiag_domherren,18.0
+WIAG-Pers-CANON-17788-001,Marianus Franz Lothar Schütz von Holzhausen,1720.0,1760.0,1741.0,Domherr,Domstift Speyer,,False,wiag_domherren,21.0
+WIAG-Pers-CANON-17792-001,Franz Philipp Christoph Hutten zu Stolzenberg,1731.0,1790.0,1749.0,Domherr,Domstift Bamberg,Bistum Bamberg,False,wiag_domherren,18.0
+WIAG-Pers-CANON-17878-001,Wilhelm Wolkenstein-Trostburg,1620.0,,1643.0,Domherr,Domstift Passau,,False,wiag_domherren,23.0
+WIAG-Pers-CANON-17885-001,Karl Gemmingen,1615.0,1649.0,1635.0,Domherr,Domstift Augsburg,,False,wiag_domherren,20.0
+WIAG-Pers-CANON-17886-001,Johann Dietrich Nagel von Altenschönstein,1610.0,1683.0,1640.0,Domherr,"Domstift Basel, Schweiz",,False,wiag_domherren,30.0
+WIAG-Pers-CANON-17897-001,Wolfgang Franz Spirinck,1630.0,1702.0,1649.0,Domherr,Domstift Eichstätt,,False,wiag_domherren,19.0
+WIAG-Pers-CANON-17902-001,Johann Frobenius Waldburg-Zeil,1631.0,1693.0,1649.0,Domherr,Domstift Augsburg,,False,wiag_domherren,18.0
+WIAG-Pers-CANON-17903-001,Johann Georg Heidenheim,1635.0,1669.0,1653.0,Domherr,Domstift Eichstätt,,False,wiag_domherren,18.0
+WIAG-Pers-CANON-17908-001,Wolfgang Franz Schenk von Castell,1631.0,1669.0,1650.0,Domherr,"Domstift Basel, Schweiz",,False,wiag_domherren,19.0
+WIAG-Pers-CANON-17910-001,Franz Adolf Ehingen,1640.0,1690.0,1659.0,Domherr,Domstift Eichstätt,,False,wiag_domherren,19.0
+WIAG-Pers-CANON-17911-001,Johann Ernst Knoeringen,1642.0,1681.0,1660.0,Domherr,Domstift Eichstätt,,False,wiag_domherren,18.0
+WIAG-Pers-CANON-17912-001,Markus Albert Freyberg-Raunau-Haldenwang,1641.0,1710.0,1660.0,Domherr,Domstift Augsburg,,False,wiag_domherren,19.0
+WIAG-Pers-CANON-17921-001,Karl Ferdinand Ulm,1649.0,1710.0,1670.0,Domherr,Domstift Eichstätt,,False,wiag_domherren,21.0
+WIAG-Pers-CANON-17922-001,Rudolf Dietrich Freyberg und Eisenberg zu Raunau,1651.0,1722.0,1670.0,Domherr,Domstift Eichstätt,,False,wiag_domherren,19.0
+WIAG-Pers-CANON-17925-001,Johann Heinrich Speth von Zwiefalten,1646.0,1699.0,1670.0,Domherr,Domstift Regensburg,,False,wiag_domherren,24.0
+WIAG-Pers-CANON-17926-001,Franz Thomas Erhard Schenk von Castell,1648.0,1685.0,1668.0,Domherr,"Domstift Basel, Schweiz",,False,wiag_domherren,20.0
+WIAG-Pers-CANON-17930-001,Karl Christian Leiblfing,1646.0,1717.0,1677.0,Domherr,Domstift Eichstätt,,False,wiag_domherren,31.0
+WIAG-Pers-CANON-17931-001,Johann Ernst Ulm,1654.0,1692.0,1678.0,Domherr,Domstift Eichstätt,,False,wiag_domherren,24.0
+WIAG-Pers-CANON-17940-001,Johann Albrecht Anton Hallweil,1668.0,1709.0,1686.0,Domherr,Domstift Eichstätt,,False,wiag_domherren,18.0
+WIAG-Pers-CANON-17945-001,Johann Philipp Joseph Waldbott-Olbrueck,1672.0,1730.0,1690.0,Domherr,Domstift Mainz,Erzbistum Mainz,False,wiag_domherren,18.0
+WIAG-Pers-CANON-17949-001,Marquard Anton Bernhausen,1672.0,1699.0,1692.0,Domherr,Domstift Augsburg,,False,wiag_domherren,20.0
+WIAG-Pers-CANON-17954-001,Johann Hugo Hagen,1678.0,1735.0,1699.0,Domherr,Domstift Eichstätt,,False,wiag_domherren,21.0
+WIAG-Pers-CANON-17956-001,Maximilian Felix Freyberg-Allmendingen,1680.0,1737.0,1701.0,Domherr,Domstift Eichstätt,,False,wiag_domherren,21.0
+WIAG-Pers-CANON-17965-001,Ferdinand Edmund Clodt von Ehrenberg,1679.0,1720.0,1709.0,Domherr,Domstift Eichstätt,,False,wiag_domherren,30.0
+WIAG-Pers-CANON-17966-001,Philipp Anton Reinach-Steinbrunn,1686.0,1750.0,1709.0,Domherr,Domstift Eichstätt,,False,wiag_domherren,23.0
+WIAG-Pers-CANON-17972-001,Lothar Philipp Ludwig Hartmann Schenk von Stauffenberg,1694.0,1758.0,1717.0,Domherr,Domstift Augsburg,,False,wiag_domherren,23.0
+WIAG-Pers-CANON-17976-001,Johann Baptist Anton Ulm,1696.0,1765.0,1717.0,Domherr,Domstift Augsburg,,False,wiag_domherren,21.0
+WIAG-Pers-CANON-17979-001,Lothar Philipp Joseph Hoheneck,1699.0,1744.0,1722.0,Domherr,Domstift Eichstätt,Bistum Eichstätt,False,wiag_domherren,23.0
+WIAG-Pers-CANON-17985-001,Franz Karl Ludwig Schellard,1700.0,1760.0,1730.0,Domherr,Domstift Eichstätt,,False,wiag_domherren,30.0
+WIAG-Pers-CANON-17992-001,Franz Ludwig Ferdinand Reinach-Wörth,1709.0,1751.0,1736.0,Domherr,Domstift Eichstätt,Bistum Eichstätt,False,wiag_domherren,27.0
+WIAG-Pers-CANON-18004-001,Johann Eucharius Ulm,1729.0,1793.0,1750.0,Domherr,Domstift Eichstätt,,False,wiag_domherren,21.0
+WIAG-Pers-CANON-18008-001,Christoph Gustav Eyb,1733.0,1797.0,1754.0,Domherr,Domstift Eichstätt,,False,wiag_domherren,21.0
+WIAG-Pers-CANON-18009-001,Karl Borromäus Joseph Johann Baptist Daun,1728.0,1805.0,1747.0,Domherr,Domstift Freising,,False,wiag_domherren,19.0
+WIAG-Pers-CANON-18017-001,Johann Adam Bodman-Bodman,1740.0,1816.0,1761.0,Domherr,Domstift Eichstätt,,False,wiag_domherren,21.0
+WIAG-Pers-CANON-18019-001,Franz Fidelis Thurn und Valsassina,1738.0,1794.0,1762.0,Domherr,Domstift Eichstätt,,False,wiag_domherren,24.0
+WIAG-Pers-CANON-18027-001,Joseph Erasmus Buquoi,1746.0,1772.0,1771.0,Domherr,Domstift Eichstätt,,False,wiag_domherren,25.0
+WIAG-Pers-CANON-18028-001,Karl Arnold Joseph Hompesch,1736.0,1803.0,1762.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,26.0
+WIAG-Pers-CANON-18035-001,Johann Philipp Anton Redtwitz,1758.0,,1780.0,Domherr,Domstift Eichstätt,Bistum Eichstätt,False,wiag_domherren,22.0
+WIAG-Pers-CANON-18037-001,Franz Joseph Maria Starhemberg,1756.0,1818.0,1779.0,Domherr,Domstift Eichstätt,,False,wiag_domherren,23.0
+WIAG-Pers-CANON-18043-001,Friedrich Andlau,1765.0,1797.0,1783.0,Domherr,Domstift Eichstätt,Bistum Eichstätt,False,wiag_domherren,18.0
+WIAG-Pers-CANON-18051-001,Karl Heinrich Nikolaus Thurn und Valsassina,1748.0,1796.0,1793.0,Domherr,Domstift Eichstätt,,False,wiag_domherren,45.0
+WIAG-Pers-CANON-18063-001,Hartger Hoenott,1571.0,1637.0,1603.0,Domherr,Domstift Köln,,False,wiag_domherren,32.0
+WIAG-Pers-CANON-18118-001,Johann Baptist Wenzl von Sternbach,1631.0,1679.0,1663.0,Domherr,Domstift Freising,,False,wiag_domherren,32.0
+WIAG-Pers-CANON-18152-001,Johann Bernhard Anton Bodman-Streusslingen,1672.0,1730.0,1691.0,Domherr,Domstift Freising,,False,wiag_domherren,19.0
+WIAG-Pers-CANON-18168-001,Johann Franz Heinrich Pienzenau,1686.0,1722.0,1712.0,Domherr,Domstift Freising,,False,wiag_domherren,26.0
+WIAG-Pers-CANON-18768-001,Wartislaw VIII. Pommern-Wolgast,1373.0,1415.0,1391.0,Domherr,"Domstift Olmütz (Olomouc), Tschechien",,False,wiag_domherren,18.0
+WIAG-Pers-CANON-18949-001,Heinrich Sanckenstede,1420.0,1481.0,1462.0,Domherr,Domstift Hildesheim,,False,wiag_domherren,42.0
+WIAG-Pers-CANON-18957-001,Jakob Schomaker,1499.0,1563.0,1524.0,Domherr,Domstift Lübeck,,False,wiag_domherren,25.0
+WIAG-Pers-CANON-19163-001,Otto Wackerbarth,1540.0,1599.0,1570.0,Domherr,Domstift Schwerin,Bistum Schwerin,False,wiag_domherren,30.0
+WIAG-Pers-CANON-19440-001,Johannes Brandes,1467.0,1531.0,1493.0,Domherr,Domstift Lübeck,,False,wiag_domherren,26.0
+WIAG-Pers-CANON-19592-001,Ludolf Quirre,1395.0,1463.0,1417.0,Domherr,Domstift Minden,Bistum Minden,False,wiag_domherren,22.0
+WIAG-Pers-CANON-19637-001,Dietrich Tetens,1452.0,1505.0,1486.0,Domherr,Domstift Lübeck,,False,wiag_domherren,34.0
+WIAG-Pers-CANON-19698-001,Bruno Warendorp,1471.0,1538.0,1495.0,Domherr,Domstift Lübeck,,False,wiag_domherren,24.0
+WIAG-Pers-CANON-19720-001,Johannes Wulf,1470.0,1542.0,1495.0,Domherr,Domstift Schleswig,,False,wiag_domherren,25.0
+WIAG-Pers-CANON-20108-001,Conrad Pegel,1487.0,1567.0,1556.0,Domherr,Domstift Schwerin,Bistum Schwerin,False,wiag_domherren,69.0
+WIAG-Pers-CANON-24704-001,Johannes Alendorf,1400.0,1496.0,1472.0,Domherr,Domstift Würzburg,Bistum Würzburg,False,wiag_domherren,72.0
+WIAG-Pers-CANON-24725-001,Georg Christoph Aufseß,1612.0,1645.0,1636.0,Domherr,Domstift Bamberg,Bistum Bamberg,False,wiag_domherren,24.0
+WIAG-Pers-CANON-24796-001,Jakob Bibra,1487.0,1547.0,1512.0,Domherr,Domstift Bamberg,Bistum Bamberg,False,wiag_domherren,25.0
+WIAG-Pers-CANON-24910-001,Jodokus Riedt,1555.0,1629.0,1584.0,Domherr,Domstift Mainz,Erzbistum Mainz,False,wiag_domherren,29.0
+WIAG-Pers-CANON-24931-001,Heinrich Adam Rosenbach,1611.0,1638.0,1629.0,Domherr,Domstift Würzburg,Bistum Würzburg,False,wiag_domherren,18.0
+WIAG-Pers-CANON-24971-001,Jodokus Rüsenbach,1507.0,1545.0,1527.0,Domherr,"Domstift Salzburg, Österreich",,False,wiag_domherren,20.0
+WIAG-Pers-CANON-24981-001,Friedrich Sachsen,1474.0,1510.0,1492.0,Domherr,Domstift Würzburg,,False,wiag_domherren,18.0
+WIAG-Pers-CANON-25044-001,Friedrich Anton Dalberg,1652.0,1705.0,1680.0,Domherr,Domstift Mainz,,False,wiag_domherren,28.0
+WIAG-Pers-CANON-25112-001,Valentin Echter von Mespelbrunn,1550.0,1624.0,1569.0,Domherr,Domstift Würzburg,Bistum Würzburg,False,wiag_domherren,19.0
+WIAG-Pers-CANON-25187-001,Johann Christoph Erthal-Elfershausen,1664.0,1713.0,1682.0,Domherr,Domstift Bamberg,Bistum Bamberg,False,wiag_domherren,18.0
+WIAG-Pers-CANON-25198-001,Albert Eyb,1420.0,1475.0,1444.0,Domherr,Domstift Eichstätt,Bistum Eichstätt,False,wiag_domherren,24.0
+WIAG-Pers-CANON-25246-001,Johann Philipp Gotfried Amand Karl Adalbert Zobel von Giebelstadt,1737.0,1796.0,1766.0,Domherr,Domstift Mainz,,False,wiag_domherren,29.0
+WIAG-Pers-CANON-25395-001,Damian Hugo Kasimir Greiffenclau-Vollraths,1719.0,1786.0,1738.0,Domherr,Domstift Worms,Bistum Würzburg,False,wiag_domherren,19.0
+WIAG-Pers-CANON-25415-001,Anselm Philipp Friedrich Groß von und zu Trockau,1727.0,1815.0,1750.0,Domherr,Domstift Eichstätt,,False,wiag_domherren,23.0
+WIAG-Pers-CANON-25470-001,Johann Guttenberg,1454.0,1538.0,1484.0,Domherr,Domstift Würzburg,Erzbistum Mainz,False,wiag_domherren,30.0
+WIAG-Pers-CANON-25474-001,Johann Gottfried Franz Guttenberg,1770.0,,1789.0,Domherr,Domstift Würzburg,,False,wiag_domherren,19.0
+WIAG-Pers-CANON-25576-001,Georg Henneberg,1432.0,1508.0,1450.0,Domherr,Domstift Würzburg,Erzbistum Köln,False,wiag_domherren,18.0
+WIAG-Pers-CANON-25622-001,Georg Albert Hettersdorf,1634.0,1673.0,1652.0,Domherr,Domstift Würzburg,,False,wiag_domherren,18.0
+WIAG-Pers-CANON-25658-001,Philipp Karl Hoheneck,1735.0,1808.0,1760.0,Domherr,Domstift Mainz,,False,wiag_domherren,25.0
+WIAG-Pers-CANON-25661-001,Albert Hohenlohe,1478.0,1551.0,1500.0,Domherr,Domstift Mainz,,False,wiag_domherren,22.0
+WIAG-Pers-CANON-25759-001,Georg Philipp Kottwitz von Aulenbach,1643.0,1696.0,1667.0,Domherr,Domstift Würzburg,,False,wiag_domherren,24.0
+WIAG-Pers-CANON-25760-001,Johann Konrad Kottwitz von Aulenbach,1547.0,1610.0,1573.0,Domherr,Domstift Mainz,,False,wiag_domherren,26.0
+WIAG-Pers-CANON-25935-001,Erasmus Neustetter,1523.0,1594.0,1545.0,Domherr,Domstift Würzburg,Bistum Eichstätt,False,wiag_domherren,22.0
+WIAG-Pers-CANON-25990-001,Friedrich Gottfried Theoderich Ignaz Pfürdt,1654.0,1726.0,1682.0,Domherr,Domstift Eichstätt,Bistum Würzburg,False,wiag_domherren,28.0
+WIAG-Pers-CANON-26019-001,Karl Sigmund Anton Konstantin Redwitz-Theisenorth,1778.0,,1797.0,Domherr,Domstift Würzburg,,False,wiag_domherren,19.0
+WIAG-Pers-CANON-26070-001,Franz Georg Schönborn,1639.0,1674.0,1663.0,Domherr,Domstift Mainz,Bistum Bamberg,False,wiag_domherren,24.0
+WIAG-Pers-CANON-26092-001,Kraft Hartmann Schutzpar,1541.0,1594.0,1561.0,Domherr,Domstift Würzburg,,False,wiag_domherren,20.0
+WIAG-Pers-CANON-26093-001,Otto Friedrich Schutzpar,1563.0,1604.0,1582.0,Domherr,Domstift Würzburg,Bistum Würzburg,False,wiag_domherren,19.0
+WIAG-Pers-CANON-26104-001,Wilhelm Schwarzenberg,1506.0,1549.0,1530.0,Domherr,Domstift Augsburg,Bistum Augsburg,False,wiag_domherren,24.0
+WIAG-Pers-CANON-26282-001,Wolfgang Tann,1561.0,1604.0,1587.0,Domherr,Domstift Würzburg,,False,wiag_domherren,26.0
+WIAG-Pers-CANON-26302-001,Andreas Thüngen,1434.0,1510.0,1454.0,Domherr,Domstift Würzburg,,False,wiag_domherren,20.0
+WIAG-Pers-CANON-26307-001,Eucharius Thüngen,1454.0,1540.0,1501.0,Domherr,Domstift Würzburg,Bistum Würzburg,False,wiag_domherren,47.0
+WIAG-Pers-CANON-26329-001,Wilhelm Thüngen,1508.0,1536.0,1531.0,Domherr,Domstift Würzburg,Bistum Würzburg,False,wiag_domherren,23.0
+WIAG-Pers-CANON-26445-001,Emmerich Friedrich Walterdorf,1635.0,1686.0,1683.0,Domherr,Domstift Würzburg,Bistum Würzburg,False,wiag_domherren,48.0
+WIAG-Pers-CANON-26704-001,Johann Rantzau,1492.0,1565.0,1560.0,Domherr,Domstift Lübeck,,False,wiag_domherren,68.0
+WIAG-Pers-CANON-26710-001,Mattheus Becker,1532.0,1591.0,1562.0,Domherr,Domstift Lübeck,,False,wiag_domherren,30.0
+WIAG-Pers-CANON-26730-001,Nicolaus Schmidt,1550.0,1613.0,1579.0,Domherr,Domstift Lübeck,,False,wiag_domherren,29.0
+WIAG-Pers-CANON-26741-001,Otto Qualen,1566.0,1620.0,1586.0,Domherr,Domstift Lübeck,,False,wiag_domherren,20.0
+WIAG-Pers-CANON-26743-001,Balthasar Pogwisch,1543.0,1587.0,1586.0,Domherr,Domstift Lübeck,,False,wiag_domherren,43.0
+WIAG-Pers-CANON-26745-001,Kai Rantzau,1562.0,,1587.0,Domherr,Domstift Lübeck,,False,wiag_domherren,25.0
+WIAG-Pers-CANON-26746-001,Georg Braun,1542.0,1622.0,1587.0,Domherr,Domstift Lübeck,,False,wiag_domherren,45.0
+WIAG-Pers-CANON-26752-001,Caspar Steding,1565.0,,1588.0,Domherr,Domstift Lübeck,,False,wiag_domherren,23.0
+WIAG-Pers-CANON-26754-001,Hermann Zesterfleth,1565.0,,1589.0,Domherr,Domstift Lübeck,,False,wiag_domherren,24.0
+WIAG-Pers-CANON-26755-001,Christoph Hoflinger,1565.0,1613.0,1589.0,Domherr,Domstift Lübeck,,False,wiag_domherren,24.0
+WIAG-Pers-CANON-26756-001,Ludwig Pincier,1561.0,1612.0,1589.0,Domherr,Domstift Lübeck,,False,wiag_domherren,28.0
+WIAG-Pers-CANON-26757-001,Gerhard Polmann,1566.0,1638.0,1590.0,Domherr,Domstift Lübeck,,False,wiag_domherren,24.0
+WIAG-Pers-CANON-26766-001,Conrad Brokes,1570.0,1598.0,1595.0,Domherr,Domstift Lübeck,,False,wiag_domherren,25.0
+WIAG-Pers-CANON-26788-001,Georg Albrecht Brandenburg zu Ansbach,1591.0,1615.0,1612.0,Domherr,Domstift Lübeck,,False,wiag_domherren,21.0
+WIAG-Pers-CANON-26794-001,Ägidius Lanken,1580.0,1631.0,1616.0,Domherr,Domstift Lübeck,,False,wiag_domherren,36.0
+WIAG-Pers-CANON-26805-001,Gotthard Hoeveln,1595.0,,1627.0,Domherr,Domstift Lübeck,,False,wiag_domherren,32.0
+WIAG-Pers-CANON-26808-001,Gottlieb Hagen,1595.0,,1627.0,Domherr,Domstift Lübeck,,False,wiag_domherren,32.0
+WIAG-Pers-CANON-26815-001,Johannes Helm,1599.0,,1632.0,Domherr,Domstift Lübeck,,False,wiag_domherren,33.0
+WIAG-Pers-CANON-26821-001,Adolf Pellicerus,1603.0,,1635.0,Domherr,Domstift Lübeck,,False,wiag_domherren,32.0
+WIAG-Pers-CANON-26822-001,Christian Pentz,1600.0,1651.0,1635.0,Domherr,Domstift Lübeck,,False,wiag_domherren,35.0
+WIAG-Pers-CANON-26824-001,David Gloxin,1597.0,,1636.0,Domherr,Domstift Lübeck,,False,wiag_domherren,39.0
+WIAG-Pers-CANON-26835-001,Balthasar Gloxin,1601.0,1654.0,1642.0,Domherr,Domstift Lübeck,,False,wiag_domherren,41.0
+WIAG-Pers-CANON-26838-001,Christian Rantzau,1614.0,1663.0,1651.0,Domherr,Domstift Lübeck,,False,wiag_domherren,37.0
+WIAG-Pers-CANON-26840-001,Friedrich Hans Gloxin,1635.0,1684.0,1654.0,Domherr,Domstift Lübeck,,False,wiag_domherren,19.0
+WIAG-Pers-CANON-26845-001,Friedrich Ahlefeldt,1623.0,1686.0,1665.0,Domherr,Domstift Lübeck,,False,wiag_domherren,42.0
+WIAG-Pers-CANON-26846-001,Christian Rantzau,1649.0,1704.0,1667.0,Domherr,Domstift Lübeck,,False,wiag_domherren,18.0
+WIAG-Pers-CANON-26867-001,Christian August Berkenthin,1666.0,,1684.0,Domherr,Domstift Lübeck,,False,wiag_domherren,18.0
+WIAG-Pers-CANON-26869-001,Magnus Wedderkop,1637.0,1721.0,1686.0,Domherr,Domstift Lübeck,,False,wiag_domherren,49.0
+WIAG-Pers-CANON-26880-001,Johann Ludwig Pincier,1660.0,1730.0,1698.0,Domherr,Domstift Lübeck,,False,wiag_domherren,38.0
+WIAG-Pers-CANON-26881-001,Carl Dänemark,1680.0,1729.0,1699.0,Domherr,Domstift Lübeck,,False,wiag_domherren,19.0
+WIAG-Pers-CANON-26903-001,Benedikt Wilhelm Ahlefeldt,1678.0,1748.0,1717.0,Domherr,Domstift Lübeck,,False,wiag_domherren,39.0
+WIAG-Pers-CANON-26904-001,Christian August Eyben,1700.0,1785.0,1718.0,Domherr,Domstift Lübeck,,False,wiag_domherren,18.0
+WIAG-Pers-CANON-26908-001,Christian Lerche,1692.0,1757.0,1721.0,Domherr,Domstift Lübeck,,False,wiag_domherren,29.0
+WIAG-Pers-CANON-26917-001,Jacob Levin Plessen,1701.0,1761.0,1730.0,Domherr,Domstift Lübeck,,False,wiag_domherren,29.0
+WIAG-Pers-CANON-26925-001,Magnus Wedderkop,1716.0,1741.0,1739.0,Domherr,Domstift Lübeck,,False,wiag_domherren,23.0
+WIAG-Pers-CANON-26927-001,Schack Buchwaldt,1705.0,1770.0,1741.0,Domherr,Domstift Lübeck,,False,wiag_domherren,36.0
+WIAG-Pers-CANON-26932-001,Johann Ludwig Wedderkop,1724.0,1777.0,1744.0,Domherr,Domstift Lübeck,,False,wiag_domherren,20.0
+WIAG-Pers-CANON-26939-001,Friedrich Otto Dernath,1734.0,,1753.0,Domherr,Domstift Lübeck,,False,wiag_domherren,19.0
+WIAG-Pers-CANON-26947-001,Magnus Wedderkop,1717.0,1771.0,1761.0,Domherr,Domstift Lübeck,,False,wiag_domherren,44.0
+WIAG-Pers-CANON-26955-001,Cai Friedrich Rumohr,1747.0,,1765.0,Domherr,Domstift Lübeck,,False,wiag_domherren,18.0
+WIAG-Pers-CANON-26962-001,Wulf Hinrich Thienen,1732.0,1775.0,1770.0,Domherr,Domstift Lübeck,,False,wiag_domherren,38.0
+WIAG-Pers-CANON-26969-001,Detlev Hans Schmettau,1749.0,1794.0,1775.0,Domherr,Domstift Lübeck,,False,wiag_domherren,26.0
+WIAG-Pers-CANON-26970-001,Peter Friedrich Ludwig Schleswig-Holstein-Gottorf,1755.0,1829.0,1776.0,Domherr,Domstift Lübeck,,False,wiag_domherren,21.0
+WIAG-Pers-CANON-26975-001,Johann Baptist Aloysius Edling,1753.0,1830.0,1779.0,Domherr,Domstift Lübeck,,False,wiag_domherren,26.0
+WIAG-Pers-CANON-26982-001,Friedrich Brockenhuus,1758.0,,1787.0,Domherr,Domstift Lübeck,,False,wiag_domherren,29.0
+WIAG-Pers-CANON-26984-001,Wilhelm Otto Decken,1767.0,,1789.0,Domherr,Domstift Lübeck,,False,wiag_domherren,22.0
+WIAG-Pers-CANON-26987-001,Friedrich August Busche,1747.0,,1790.0,Domherr,Domstift Lübeck,,False,wiag_domherren,43.0
+WIAG-Pers-CANON-26988-001,Friedrich Bernhard Bassewitz,1756.0,1816.0,1791.0,Domherr,Domstift Lübeck,,False,wiag_domherren,35.0
+WIAG-Pers-CANON-26992-001,Christoph Elmendorff,1774.0,1834.0,1796.0,Domherr,Domstift Lübeck,,False,wiag_domherren,22.0
+WIAG-Pers-CANON-44970-001,Friedrich Sickingen,1581.0,1634.0,1606.0,Domherr,Domstift Mainz,,False,wiag_domherren,25.0
+WIAG-Pers-CANON-44983-001,Markwart Stein,1475.0,1559.0,1494.0,Domherr,Domstift Augsburg,,False,wiag_domherren,19.0
+WIAG-Pers-CANON-44999-001,Peter Jakob Partenheim,1594.0,1662.0,1653.0,Domherr,Domstift Mainz,,False,wiag_domherren,59.0
+WIAG-Pers-CANON-45001-001,Veit Christoph Fuchs von Dornheim,1614.0,1686.0,1653.0,Domherr,Domstift Mainz,Bistum Würzburg,False,wiag_domherren,39.0
+WIAG-Pers-CANON-45004-001,Hugo Wolfgang Kesselstatt,1659.0,1738.0,1688.0,Domherr,Domstift Mainz,,False,wiag_domherren,29.0
+WIAG-Pers-CANON-45009-001,Lothar Franz Ignaz Specht von Bubenheim,1695.0,1766.0,1730.0,Domherr,Domstift Mainz,,False,wiag_domherren,35.0
+WIAG-Pers-CANON-45011-001,Christoph Gablenz,1459.0,1535.0,1511.0,Domherr,Domstift Mainz,,False,wiag_domherren,52.0
+WIAG-Pers-CANON-45012-001,Franz Philipp Valentin Frankenstein,1722.0,1774.0,1748.0,Domherr,Domstift Mainz,,False,wiag_domherren,26.0
+WIAG-Pers-CANON-45025-001,Johann Heinrich Walbrunn,1531.0,1573.0,1554.0,Domherr,Domstift Mainz,,False,wiag_domherren,23.0
+WIAG-Pers-CANON-45026-001,Anton Wiltberg,1530.0,1594.0,1567.0,Domherr,Domstift Mainz,Erzbistum Mainz,False,wiag_domherren,37.0
+WIAG-Pers-CANON-45042-001,Kasimir Ferdinand Adolf Waldbott-Bassenheim,1642.0,1730.0,1661.0,Domherr,Domstift Trier,Erzbistum Trier,False,wiag_domherren,19.0
+WIAG-Pers-CANON-45050-001,Heinrich Stockheim,1532.0,1588.0,1553.0,Domherr,Domstift Mainz,,False,wiag_domherren,21.0
+WIAG-Pers-CANON-45256-001,Erpho Gemmingen,1469.0,1523.0,1488.0,Domherr,Domstift Worms,,False,wiag_domherren,19.0
+WIAG-Pers-CANON-45257-001,Georg Gemmingen,1458.0,1511.0,1477.0,Domherr,Domstift Speyer,,False,wiag_domherren,19.0
+WIAG-Pers-CANON-45283-001,Johann Sigmund Lamberg,1605.0,1634.0,1626.0,Domherr,Domstift Passau,,False,wiag_domherren,21.0
+WIAG-Pers-CANON-45286-001,Paul Lang von Wellenburg,1475.0,1521.0,1506.0,Domherr,Domstift Freising,,False,wiag_domherren,31.0
+WIAG-Pers-CANON-45303-001,Anton Lodron,1537.0,1615.0,1559.0,Domherr,"Domstift Salzburg, Österreich",,False,wiag_domherren,22.0
+WIAG-Pers-CANON-45337-001,Arnold Spiegel zu Pickelsheim,1575.0,1652.0,1613.0,Domherr,Domstift Halberstadt,,False,wiag_domherren,38.0
+WIAG-Pers-CANON-45436-001,Johann Kienburg,1496.0,1555.0,1525.0,Domherr,"Domstift Salzburg, Österreich",,False,wiag_domherren,29.0
+WIAG-Pers-CANON-45547-001,Stephan Röslin,1470.0,1548.0,1514.0,Domherr,Domstift Passau,,False,wiag_domherren,44.0
+WIAG-Pers-CANON-45602-001,Oktavian August Schrenck von Notzing,1547.0,1592.0,1588.0,Domherr,Domstift Freising,Bistum Freising,False,wiag_domherren,41.0
+WIAG-Pers-CANON-45670-001,Christoph Welser,1480.0,1536.0,1511.0,Domherr,Domstift Regensburg,,False,wiag_domherren,31.0
+WIAG-Pers-CANON-45779-001,Reimar Streitberg,1491.0,1541.0,1510.0,Domherr,Domstift Bamberg,Bistum Eichstätt,False,wiag_domherren,19.0
+WIAG-Pers-CANON-45804-001,Ernst Hopkorff,1522.0,1615.0,1593.0,Domherr,Domstift Halberstadt,Bistum Halberstadt,False,wiag_domherren,71.0
+WIAG-Pers-CANON-45832-001,Wolf Christoph Zechau,1580.0,1627.0,1615.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,35.0
+WIAG-Pers-CANON-48550-001,Johann Auer von Puelach,1517.0,1561.0,1541.0,Domherr,Domstift Passau,,False,wiag_domherren,24.0
+WIAG-Pers-CANON-48562-001,Christoph Mamming,1538.0,1565.0,1559.0,Domherr,Domstift Passau,,False,wiag_domherren,21.0
+WIAG-Pers-CANON-48563-001,Johann Kienburg,1515.0,1584.0,1537.0,Domherr,"Domstift Salzburg, Österreich",,False,wiag_domherren,22.0
+WIAG-Pers-CANON-48594-001,Philipp Dobreiner,1535.0,1577.0,1566.0,Domherr,Domstift Passau,,False,wiag_domherren,31.0
+WIAG-Pers-CANON-49069-001,Ludwig Eyb,1510.0,1569.0,1531.0,Domherr,Domstift Bamberg,,False,wiag_domherren,21.0
+WIAG-Pers-CANON-49098-001,Johann Georg Leonrod,1512.0,1594.0,1532.0,Domherr,Domstift Eichstätt,Bistum Eichstätt,False,wiag_domherren,20.0
+WIAG-Pers-CANON-49107-001,Christoph Gottfried Zimmern,1524.0,,1544.0,Domherr,"Domstift Straßburg, Frankreich",,False,wiag_domherren,20.0
+WIAG-Pers-CANON-49124-001,Johann Kaspar Künsberg,1532.0,1562.0,1554.0,Domherr,Domstift Bamberg,Bistum Würzburg,False,wiag_domherren,22.0
+WIAG-Pers-CANON-49168-001,Francesco Todeschini-Piccolomini,1439.0,1503.0,1459.0,Domherr,Domstift Speyer,,False,wiag_domherren,20.0
+WIAG-Pers-CANON-49170-001,Oddo Colonna,1368.0,1431.0,1399.0,"Domherr, Anwärter",Domstift Speyer,,False,wiag_domherren,31.0
+WIAG-Pers-CANON-49202-001,Angelo Acciaiuoli,1340.0,1408.0,1398.0,Domherr,Domstift Speyer,,False,wiag_domherren,58.0
+WIAG-Pers-CANON-49226-001,Johannes Heppenheim,1503.0,1555.0,1524.0,Domherr,Domstift Speyer,,False,wiag_domherren,21.0
+WIAG-Pers-CANON-49234-001,Ludwig Hohenlohe,1486.0,1550.0,1507.0,Domherr,Domstift Speyer,,False,wiag_domherren,21.0
+WIAG-Pers-CANON-49291-001,Anton Emershofen,1479.0,,1504.0,Domherr,Domstift Speyer,,False,wiag_domherren,25.0
+WIAG-Pers-CANON-49479-001,Georg Schenk von Erbach,1476.0,1509.0,1500.0,Domherr,Domstift Speyer,,False,wiag_domherren,24.0
+WIAG-Pers-CANON-49530-001,Otto Wedelberg,1399.0,,1422.0,Domherr,Domstift Speyer,,False,wiag_domherren,23.0
+WIAG-Pers-CANON-49640-001,Karl Miltitz,1490.0,1529.0,1515.0,Domherr,Domstift Trier,,False,wiag_domherren,25.0
+WIAG-Pers-CANON-49723-001,Ulrich Helmstadt,1419.0,1488.0,1438.0,Domherr,Domstift Speyer,,False,wiag_domherren,19.0
+WIAG-Pers-CANON-49760-001,Konrad Schenk von Limpurg,1402.0,1435.0,1422.0,"Domherr, Anwärter",Domstift Speyer,Erzbistum Köln,False,wiag_domherren,20.0
+WIAG-Pers-CANON-50251-001,Johann Christoph Adelmann von Adelmannsfelden,1640.0,1687.0,1684.0,Domherr,Domstift Eichstätt,,False,wiag_domherren,44.0
+WIAG-Pers-CANON-50266-001,Raban Wilhelm Schilder,1649.0,1699.0,1669.0,Domherr,Domstift Minden,,False,wiag_domherren,20.0
+WIAG-Pers-CANON-50277-001,Christoph Bussche,1643.0,1695.0,1689.0,Domherr,Domstift Minden,,False,wiag_domherren,46.0
+WIAG-Pers-CANON-50283-001,Heinrich Dietrich Westphalen,1675.0,1720.0,1694.0,Domherr,Domstift Minden,Bistum Minden,False,wiag_domherren,19.0
+WIAG-Pers-CANON-50288-001,Ferdinand Raesfeld,1680.0,,1700.0,Domherr,Domstift Minden,,False,wiag_domherren,20.0
+WIAG-Pers-CANON-50289-001,Maximilian Ferdinand Anton Horst,1669.0,1739.0,1701.0,Domherr,Domstift Minden,,False,wiag_domherren,32.0
+WIAG-Pers-CANON-50297-001,Arnold Heinrich Treskow,1687.0,1729.0,1710.0,Domherr,Domstift Minden,,False,wiag_domherren,23.0
+WIAG-Pers-CANON-50298-001,Heinrich Friedrich Wolfgang Boeselager,1687.0,1716.0,1708.0,Domherr,Domstift Minden,,False,wiag_domherren,21.0
+WIAG-Pers-CANON-50299-001,Adolf Heinrich Droste zu Vischering,1691.0,1747.0,1711.0,Domherr,Domstift Minden,Bistum Münster,False,wiag_domherren,20.0
+WIAG-Pers-CANON-50305-001,Ernst Friedrich Ascheberg,1702.0,1762.0,1720.0,Domherr,Domstift Minden,Bistum Münster,False,wiag_domherren,18.0
+WIAG-Pers-CANON-50678-001,Nikolaus Hermann Joseph Beverförde,1708.0,,1732.0,Domherr,Domstift Osnabrück,,False,wiag_domherren,24.0
+WIAG-Pers-CANON-50682-001,Caspar Friedrich Franz Johann Joseph Boeselager,1743.0,1801.0,1765.0,Domherr,Domstift Osnabrück,Bistum Osnabrück,False,wiag_domherren,22.0
+WIAG-Pers-CANON-50683-001,Ferdinand Goswin Moritz Johann Nepomuk Boeselager,1746.0,1810.0,1766.0,Domherr,Domstift Osnabrück,Bistum Münster,False,wiag_domherren,20.0
+WIAG-Pers-CANON-50685-001,Friedrich Wilhelm Anton Joseph Boeselager,1778.0,1851.0,1798.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,20.0
+WIAG-Pers-CANON-50690-001,Philipp Clamor Bussche,1728.0,1808.0,1762.0,Domherr,Domstift Osnabrück,,False,wiag_domherren,34.0
+WIAG-Pers-CANON-50691-001,Johann Eberhard Bussche,1733.0,1783.0,1775.0,Domherr,Domstift Osnabrück,,False,wiag_domherren,42.0
+WIAG-Pers-CANON-50692-001,Clamor Werner Otto Bussche,1755.0,1793.0,1783.0,Domherr,Domstift Osnabrück,,False,wiag_domherren,28.0
+WIAG-Pers-CANON-50695-001,Georg Ludwig Bussche zu Hünnefeld,1721.0,1762.0,1753.0,Domherr,Domstift Osnabrück,,False,wiag_domherren,32.0
+WIAG-Pers-CANON-50697-001,Clamor Dietrich Ernst Ludwig Wilhelm Bussche zu Hünnefeld,1767.0,1822.0,1796.0,Domherr,Domstift Osnabrück,,False,wiag_domherren,29.0
+WIAG-Pers-CANON-50699-001,Jodokus Theodor August Dincklage,1685.0,1735.0,1708.0,Domherr,Domstift Osnabrück,Bistum Osnabrück,False,wiag_domherren,23.0
+WIAG-Pers-CANON-50703-001,Ernst Constantin Maria Franziskus Theodor Droste zu Hülshoff,1709.0,1756.0,1727.0,Domherr,Domstift Osnabrück,Bistum Osnabrück,False,wiag_domherren,18.0
+WIAG-Pers-CANON-50704-001,Ernst Constantin Adolph Matthias Droste zu Hülshoff,1736.0,1799.0,1756.0,Domherr,Domstift Osnabrück,Bistum Osnabrück,False,wiag_domherren,20.0
+WIAG-Pers-CANON-50705-001,Johann Heinrich Franz Adolph Pantaleon Max Droste zu Hülshoff,1768.0,1836.0,1792.0,Domherr,Domstift Münster,Bistum Osnabrück,False,wiag_domherren,24.0
+WIAG-Pers-CANON-50710-001,Ferdinand Gottfried Droste zu Vischering,1717.0,1774.0,1737.0,Domherr,Domstift Osnabrück,Bistum Osnabrück,False,wiag_domherren,20.0
+WIAG-Pers-CANON-50713-001,Johann Matthias Galen,1674.0,1716.0,1692.0,Domherr,Domstift Osnabrück,Bistum Münster,False,wiag_domherren,18.0
+WIAG-Pers-CANON-50723-001,Hans Werner Hammerstein,1696.0,1787.0,1715.0,Domherr,Domstift Osnabrück,,False,wiag_domherren,19.0
+WIAG-Pers-CANON-50724-001,Ernst August Hammerstein,1704.0,1756.0,1732.0,Domherr,Domstift Osnabrück,,False,wiag_domherren,28.0
+WIAG-Pers-CANON-50725-001,Hans Georg Hammerstein,1771.0,1841.0,1793.0,Domherr,Domstift Osnabrück,,False,wiag_domherren,22.0
+WIAG-Pers-CANON-50726-001,Friedrich Georg Christoph Clamor Ludwig Hammerstein,1775.0,1851.0,1798.0,Domherr,Domstift Osnabrück,,False,wiag_domherren,23.0
+WIAG-Pers-CANON-50729-001,Joseph Franz Stanislaus Herberstein,1757.0,1816.0,1775.0,Domherr,Domstift Osnabrück,,False,wiag_domherren,18.0
+WIAG-Pers-CANON-50730-001,Carl Joseph Herberstein,1763.0,1837.0,1782.0,Domherr,Domstift Osnabrück,,False,wiag_domherren,19.0
+WIAG-Pers-CANON-50736-001,Carl Anton Kerckerinck,1751.0,,1775.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,24.0
+WIAG-Pers-CANON-50744-001,Caspar Maximilian Heinrich Franz Maria Korff genannt Schmising,1751.0,1814.0,1779.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,28.0
+WIAG-Pers-CANON-50746-001,Hugo Gottfried Adam Korff,1693.0,1726.0,1719.0,Domherr,Domstift Osnabrück,,False,wiag_domherren,26.0
+WIAG-Pers-CANON-50747-001,Franz Adolph Anton Benedikt Korff,1745.0,1769.0,1765.0,Domherr,Domstift Osnabrück,,False,wiag_domherren,20.0
+WIAG-Pers-CANON-50749-001,Jodokus Theodor Korff,1632.0,1715.0,1654.0,Domherr,Domstift Osnabrück,,False,wiag_domherren,22.0
+WIAG-Pers-CANON-50751-001,Clemens August Maria Korff,1757.0,,1776.0,Domherr,Domstift Osnabrück,,False,wiag_domherren,19.0
+WIAG-Pers-CANON-50756-001,Franz Carl Friedrich Anton Maximilian Landsberg,1735.0,1779.0,1753.0,Domherr,Domstift Paderborn,Bistum Paderborn,False,wiag_domherren,18.0
+WIAG-Pers-CANON-50761-001,Johann Heidenreich Franz August Clamor Morsey,1739.0,1800.0,1762.0,Domherr,Domstift Osnabrück,,False,wiag_domherren,23.0
+WIAG-Pers-CANON-50762-001,Alexander Heinrich Morsey,1742.0,1789.0,1774.0,Domherr,Domstift Osnabrück,,False,wiag_domherren,32.0
+WIAG-Pers-CANON-50763-001,Clemens August Wilhelm Morsey,1745.0,1775.0,1769.0,Domherr,Domstift Osnabrück,,False,wiag_domherren,24.0
+WIAG-Pers-CANON-50769-001,Hieronymus Adam Joseph Franz Nesselrode,1714.0,1758.0,1740.0,Domherr,Domstift Osnabrück,,False,wiag_domherren,26.0
+WIAG-Pers-CANON-50785-001,Philipp Conrad Spiegel zum Desenberg,1653.0,1724.0,1674.0,Domherr,Domstift Osnabrück,,False,wiag_domherren,21.0
+WIAG-Pers-CANON-50786-001,Georg Hermann Spiegel zum Desenberg,1655.0,1721.0,1676.0,Domherr,Domstift Paderborn,,False,wiag_domherren,21.0
+WIAG-Pers-CANON-50788-001,Dietrich Wilhelm Stael,1687.0,1762.0,1724.0,Domherr,Domstift Osnabrück,,False,wiag_domherren,37.0
+WIAG-Pers-CANON-50789-001,Conrad Ludwig Anton Stael,1718.0,1778.0,1740.0,Domherr,Domstift Osnabrück,,False,wiag_domherren,22.0
+WIAG-Pers-CANON-50795-001,Edmund Theodor Wachtendonck,1672.0,1735.0,1693.0,Domherr,"Domstift Lüttich, Belgien",Bistum Lüttich,False,wiag_domherren,21.0
+WIAG-Pers-CANON-50801-001,Ferdinand Joseph Weichs,1770.0,1848.0,1790.0,Domherr,Domstift Osnabrück,,False,wiag_domherren,20.0
+WIAG-Pers-CANON-50811-001,August Wilhelm Franz Wolff genannt Metternich,1705.0,1764.0,1724.0,Domherr,Domstift Paderborn,Bistum Paderborn,False,wiag_domherren,19.0
+WIAG-Pers-CANON-50897-001,Sigmund Arco,1641.0,1725.0,1666.0,Domherr,Domstift Augsburg,,False,wiag_domherren,25.0
+WIAG-Pers-CANON-50919-001,Wilhelm Christian Recke,1707.0,1764.0,1729.0,Domherr,Domstift Minden,,False,wiag_domherren,22.0
+WIAG-Pers-CANON-50921-001,Friedrich Bernhard Wrede,1704.0,1764.0,1729.0,Domherr,Domstift Minden,,False,wiag_domherren,25.0
+WIAG-Pers-CANON-50930-001,Jobst Heinrich Wilhelm Bussche,1725.0,1758.0,1752.0,Domherr,Domstift Minden,,False,wiag_domherren,27.0
+WIAG-Pers-CANON-50942-001,Heinrich Plato Ledebur,1709.0,1759.0,1755.0,Domherr,Domstift Minden,,False,wiag_domherren,46.0
+WIAG-Pers-CANON-50944-001,Dietrich Victor Heinrich Korff,1731.0,1796.0,1756.0,Domherr,Domstift Minden,,False,wiag_domherren,25.0
+WIAG-Pers-CANON-50945-001,Karl Abraham Franz Alexander Bottlenberg genannt Kessel,1733.0,1791.0,1756.0,Domherr,Domstift Minden,,False,wiag_domherren,23.0
+WIAG-Pers-CANON-50946-001,Christian Heinrich Ernst Ledebur,1739.0,1794.0,1758.0,Domherr,Domstift Minden,,False,wiag_domherren,19.0
+WIAG-Pers-CANON-50949-001,Christian August Clamor Bussche,1736.0,1791.0,1756.0,Domherr,Domstift Osnabrück,,False,wiag_domherren,20.0
+WIAG-Pers-CANON-50956-001,Valentin Ernst Ludwig Recke,1757.0,1779.0,1778.0,Domherr,Domstift Minden,,False,wiag_domherren,21.0
+WIAG-Pers-CANON-50966-001,Nikolaus Franz Xavier Adelmann von Adelmannsfelden,1756.0,1827.0,1781.0,Domherr,Domstift Minden,,False,wiag_domherren,25.0
+WIAG-Pers-CANON-50967-001,Clemens Philipp Spiegel,1760.0,1833.0,1780.0,Domherr,Domstift Paderborn,,False,wiag_domherren,20.0
+WIAG-Pers-CANON-50971-001,Ernst Idel Jobst Victor Friedrich August Wilhelm Vincke,1768.0,1845.0,1791.0,Domherr,Domstift Minden,,False,wiag_domherren,23.0
+WIAG-Pers-CANON-50973-001,Karl Theodor Ernst Redwitz,1753.0,1834.0,1792.0,Domherr,Domstift Paderborn,Bistum Eichstätt,False,wiag_domherren,39.0
+WIAG-Pers-CANON-50978-001,Adolf Karl Ludwig Franz Bothmer,1771.0,1843.0,1796.0,Domherr,Domstift Osnabrück,,False,wiag_domherren,25.0
+WIAG-Pers-CANON-51070-001,Ferdinand Wilhelm Benedikt Boeselager,1736.0,,1758.0,Domherr,Domstift Paderborn,,False,wiag_domherren,22.0
+WIAG-Pers-CANON-51077-001,Friedrich Joseph Boeselager,1743.0,,1763.0,Domherr,Domstift Paderborn,,False,wiag_domherren,20.0
+WIAG-Pers-CANON-51089-001,Friedrich Ludwig Noël Plettenberg und Witten,1745.0,1796.0,1763.0,Domherr,Domstift Passau,Bistum Passau,False,wiag_domherren,18.0
+WIAG-Pers-CANON-51112-001,Franz Carl Hannibal Dietrichstein,1711.0,1794.0,1730.0,Domherr,Domstift Eichstätt,,False,wiag_domherren,19.0
+WIAG-Pers-CANON-51341-001,Johann Christoph Roman Joseph Freyberg und Eisenberg,1698.0,1733.0,1722.0,Domherr,Domstift Augsburg,,False,wiag_domherren,24.0
+WIAG-Pers-CANON-51350-001,Johann Ludwig Grafeneck auf Osterhofen und Eglingen,1572.0,1638.0,1591.0,Domherr,Domstift Augsburg,,False,wiag_domherren,19.0
+WIAG-Pers-CANON-51356-001,Georg Wilhelm Casimir Guttenberg,1697.0,1740.0,1717.0,Domherr,Domstift Eichstätt,Bistum Eichstätt,False,wiag_domherren,20.0
+WIAG-Pers-CANON-51373-001,Amadeus Hohenzollern-Hechingen,1724.0,1753.0,1747.0,Domherr,Domstift Augsburg,,False,wiag_domherren,23.0
+WIAG-Pers-CANON-51377-001,Franz Eustach Maria Hornstein auf Göffingen,1729.0,1805.0,1750.0,Domherr,Domstift Freising,,False,wiag_domherren,21.0
+WIAG-Pers-CANON-51987-001,Franz Anton Königsegg und Rothenfels zu Aulendorf,1638.0,1709.0,1659.0,Domherr,Domstift Augsburg,Bistum Augsburg,False,wiag_domherren,21.0
+WIAG-Pers-CANON-52006-001,Ferdinand Maria Lobkowitz,1726.0,1795.0,1747.0,Domherr,"Domstift Lüttich, Belgien",,False,wiag_domherren,21.0
+WIAG-Pers-CANON-52042-001,Friedrich Anton Oettingen-Spielberg,1759.0,1831.0,1780.0,Domherr,Domstift Köln,,False,wiag_domherren,21.0
+WIAG-Pers-CANON-52056-001,Heinrich Raesfeld,1521.0,1597.0,1556.0,Domherr,Domstift Minden,Bistum Minden,False,wiag_domherren,35.0
+WIAG-Pers-CANON-52082-001,Johann Adam Nicolas Joseph Johann Nepomuk Palmer,1734.0,1823.0,1782.0,Domherr,Domstift Augsburg,,False,wiag_domherren,48.0
+WIAG-Pers-CANON-52094-001,Karl Maria Johann Rechberg,1775.0,1847.0,1794.0,Domherr,Domstift Augsburg,,False,wiag_domherren,19.0
+WIAG-Pers-CANON-52129-001,Richard Wolde,1531.0,1596.0,1562.0,Domherr,Domstift Lübeck,Bistum Lübeck,False,wiag_domherren,31.0
+WIAG-Pers-CANON-52135-001,Laurenz Schrader nan,1537.0,1606.0,1564.0,Domherr,Domstift Lübeck,,False,wiag_domherren,27.0
+WIAG-Pers-CANON-52269-001,Johannes Randow,1526.0,1572.0,1545.0,Domherr,Domstift Magdeburg,Erzbistum Magdeburg,False,wiag_domherren,19.0
+WIAG-Pers-CANON-52273-001,Levin Schulenburg,1528.0,1587.0,1566.0,Domherr,Domstift Magdeburg,,False,wiag_domherren,38.0
+WIAG-Pers-CANON-52279-001,Friedrich Arnstedt,1548.0,1608.0,1567.0,Domherr,Domstift Magdeburg,Erzbistum Magdeburg,False,wiag_domherren,19.0
+WIAG-Pers-CANON-52280-001,Heinrich Asseburg,1576.0,1611.0,1597.0,Domherr,Domstift Magdeburg,,False,wiag_domherren,21.0
+WIAG-Pers-CANON-52282-001,Ernst Meltzing,1549.0,1617.0,1567.0,Domherr,Domstift Magdeburg,,False,wiag_domherren,18.0
+WIAG-Pers-CANON-52283-001,Thomas Nivendorf,1569.0,1618.0,1597.0,Domherr,Domstift Magdeburg,,False,wiag_domherren,28.0
+WIAG-Pers-CANON-52286-001,Erasmus Bennigsen,1593.0,1647.0,1614.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,21.0
+WIAG-Pers-CANON-52292-001,Joachim Britzke,1547.0,1592.0,1572.0,Domherr,Domstift Magdeburg,Erzbistum Magdeburg,False,wiag_domherren,25.0
+WIAG-Pers-CANON-52293-001,Johann Georg Arnim,1554.0,1603.0,1576.0,Domherr,Domstift Magdeburg,,False,wiag_domherren,22.0
+WIAG-Pers-CANON-52370-001,Johannes Miltitz,1577.0,1644.0,1624.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,47.0
+WIAG-Pers-CANON-52371-001,Alexander Schieck,1597.0,1646.0,1627.0,Domherr,Domstift Meißen,,False,wiag_domherren,30.0
+WIAG-Pers-CANON-52378-001,Burckhard Harbert,1546.0,1614.0,1614.0,Domherr,Domstift Meißen,,False,wiag_domherren,68.0
+WIAG-Pers-CANON-52479-001,Markus Fugger,1448.0,1479.0,1474.0,Domherr,Domstift Augsburg,,False,wiag_domherren,26.0
+WIAG-Pers-CANON-52485-001,Eberhard Kadmer,1441.0,1507.0,1507.0,Domherr,Domstift Augsburg,,False,wiag_domherren,66.0
+WIAG-Pers-CANON-52486-001,Adolf Daniel Schutzbar,1527.0,1551.0,1551.0,Domherr,Domstift Mainz,,False,wiag_domherren,24.0
+WIAG-Pers-CANON-52644-001,Günther Bünau,1524.0,1591.0,1549.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,25.0
+WIAG-Pers-CANON-52682-001,Johannes Gropper,1503.0,1559.0,1534.0,Domherr,Domstift Köln,,False,wiag_domherren,31.0
+WIAG-Pers-CANON-52767-001,Johann Freyberger von Geisenhausen,1470.0,,1510.0,Domherr,Domstift Freising,,False,wiag_domherren,40.0
+WIAG-Pers-CANON-52769-001,Sigmund Scheufler,1474.0,1522.0,1513.0,Domherr,Domstift Freising,,False,wiag_domherren,39.0
+WIAG-Pers-CANON-52774-001,Kaspar Wirt,1464.0,1530.0,1511.0,Domherr,Domstift Konstanz,Bistum Konstanz,False,wiag_domherren,47.0
+WIAG-Pers-CANON-52777-001,Christoph Langenmantel,1488.0,1539.0,1515.0,Domherr,Domstift Freising,,False,wiag_domherren,27.0
+WIAG-Pers-CANON-52780-001,Anton Albersdorf,1494.0,1560.0,1516.0,Domherr,Domstift Freising,,False,wiag_domherren,22.0
+WIAG-Pers-CANON-52782-001,Matthäus Hörl,1472.0,1535.0,1517.0,Domherr,Domstift Freising,,False,wiag_domherren,45.0
+WIAG-Pers-CANON-52785-001,Johann Wirsberg,1476.0,1537.0,1504.0,Domherr,Domstift Eichstätt,,False,wiag_domherren,28.0
+WIAG-Pers-CANON-52807-001,Paul Oberstein,1480.0,1544.0,1518.0,Domherr,Domstift Freising,,False,wiag_domherren,38.0
+WIAG-Pers-CANON-52810-001,Ambros Ipfhofer von Ipfhoferstal,1475.0,1542.0,1508.0,Domherr,"Domstift Brixen (Bressanone), Italien",,False,wiag_domherren,33.0
+WIAG-Pers-CANON-52822-001,Wolfgang Griesstetter von Haslach,1490.0,1567.0,1538.0,Domherr,Domstift Freising,,False,wiag_domherren,48.0
+WIAG-Pers-CANON-52839-001,Konrad Braun,1491.0,1563.0,1546.0,Domherr,Domstift Freising,,False,wiag_domherren,55.0
+WIAG-Pers-CANON-52872-001,Martin Eisengrein auf Herrenfellburg,1535.0,1578.0,1566.0,Domherr,Domstift Freising,,False,wiag_domherren,31.0
+WIAG-Pers-CANON-52901-001,Anton Welser,1551.0,1618.0,1584.0,Domherr,Domstift Freising,,False,wiag_domherren,33.0
+WIAG-Pers-CANON-52910-001,Ulrich Hacker,1555.0,1610.0,1589.0,Domherr,Domstift Freising,,False,wiag_domherren,34.0
+WIAG-Pers-CANON-52912-001,Oktavian Schrenk,1547.0,1592.0,1588.0,Domherr,Domstift Freising,Bistum Freising,False,wiag_domherren,41.0
+WIAG-Pers-CANON-52913-001,Christoph Rehlingen,1568.0,1632.0,1590.0,Domherr,Domstift Freising,,False,wiag_domherren,22.0
+WIAG-Pers-CANON-52920-001,Wilhelm Sixtus Kepser,1573.0,1633.0,1594.0,Domherr,Domstift Freising,,False,wiag_domherren,21.0
+WIAG-Pers-CANON-52932-001,Severin Fugger,1586.0,1629.0,1605.0,Domherr,Domstift Freising,,False,wiag_domherren,19.0
+WIAG-Pers-CANON-52940-001,Balthasar Schrenk von Notzing,1579.0,1640.0,1613.0,Domherr,Domstift Freising,,False,wiag_domherren,34.0
+WIAG-Pers-CANON-52943-001,Johann Baptist Rembold,1580.0,1626.0,1618.0,Domherr,Domstift Freising,,False,wiag_domherren,38.0
+WIAG-Pers-CANON-52945-001,Johann Albrecht Fugger,1597.0,1667.0,1619.0,Domherr,Domstift Freising,,False,wiag_domherren,22.0
+WIAG-Pers-CANON-52949-001,Johann Karl Schad Freiherr von Mittelbibrach und Warthausen,1601.0,1655.0,1623.0,Domherr,Domstift Freising,,False,wiag_domherren,22.0
+WIAG-Pers-CANON-52969-001,Franz Ignaz Pfetten,1635.0,1658.0,1653.0,Domherr,Domstift Freising,,False,wiag_domherren,18.0
+WIAG-Pers-CANON-53037-001,Kaspar Adelmann von Adelmannsfelden,1464.0,1541.0,1497.0,Domherr,Domstift Eichstätt,,False,wiag_domherren,33.0
+WIAG-Pers-CANON-53213-001,Hieronymus Günther,1530.0,,1586.0,Domherr,Domstift Naumburg,,False,wiag_domherren,56.0
+WIAG-Pers-CANON-53228-001,Johannes Mugenhofer,1455.0,1510.0,1500.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,45.0
+WIAG-Pers-CANON-53229-001,Johannes Roth,1530.0,1571.0,1553.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,23.0
+WIAG-Pers-CANON-53231-001,Johannes Stoibe,1371.0,1441.0,1428.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,57.0
+WIAG-Pers-CANON-53236-001,Kaspar Jungermann,1531.0,1606.0,1575.0,Domherr,Domstift Naumburg,,False,wiag_domherren,44.0
+WIAG-Pers-CANON-53249-001,Paul Lobwasser,1503.0,1566.0,1538.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,35.0
+WIAG-Pers-CANON-53252-001,Simon Pistoris von Seußlitz,1489.0,1562.0,1519.0,Domherr,Domstift Naumburg,,False,wiag_domherren,30.0
+WIAG-Pers-CANON-53255-001,Valerius Pfister,1510.0,1561.0,1534.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,24.0
+WIAG-Pers-CANON-53388-001,Gottfried Franz Fidelis Guttenberg,1770.0,,1789.0,Domherr,Domstift Würzburg,,False,wiag_domherren,19.0
+WIAG-Pers-CANON-53408-001,Joseph Helfrich,1762.0,1837.0,1792.0,Domherr,Domstift Speyer,,False,wiag_domherren,30.0
+WIAG-Pers-CANON-53419-001,Sigmund Hohenlohe,1485.0,1534.0,1511.0,Domherr,Domstift Augsburg,,False,wiag_domherren,26.0
+WIAG-Pers-CANON-53865-001,Friedrich Leonrod,1483.0,1539.0,1501.0,Domherr,Domstift Eichstätt,Bistum Eichstätt,False,wiag_domherren,18.0
+WIAG-Pers-CANON-53866-001,Sebastian Leonrod,1509.0,1542.0,1532.0,Domherr,Domstift Eichstätt,,False,wiag_domherren,23.0
+WIAG-Pers-CANON-53908-001,Franz Rudolf Schönau,1627.0,1695.0,1650.0,Domherr,Domstift Eichstätt,,False,wiag_domherren,23.0
+WIAG-Pers-CANON-53909-001,Franz Heinrich Fridolin Schönau,1663.0,1714.0,1685.0,Domherr,Domstift Eichstätt,,False,wiag_domherren,22.0
+WIAG-Pers-CANON-53928-001,Johann Rudolf Khuen,1577.0,,1596.0,Domherr,"Domstift Salzburg, Österreich",,False,wiag_domherren,19.0
+WIAG-Pers-CANON-53962-001,Andreas Kuenburg,1490.0,1536.0,1517.0,Domherr,"Domstift Salzburg, Österreich",,False,wiag_domherren,27.0
+WIAG-Pers-CANON-53965-001,Georg Kuenburg,1577.0,1632.0,1596.0,Domherr,"Domstift Salzburg, Österreich",,False,wiag_domherren,19.0
+WIAG-Pers-CANON-53966-001,Johann Kuenburg,1545.0,1610.0,1580.0,Domherr,"Domstift Salzburg, Österreich",,False,wiag_domherren,35.0
+WIAG-Pers-CANON-53967-001,Rudolf Kuenburg,1450.0,1526.0,1484.0,Domherr,"Domstift Salzburg, Österreich",,False,wiag_domherren,34.0
+WIAG-Pers-CANON-53974-001,Matthäus Pappenheim-Biberbach,1458.0,1541.0,1493.0,Domherr,Domstift Augsburg,,False,wiag_domherren,35.0
+WIAG-Pers-CANON-53977-001,Ambros Lamberg,1496.0,1551.0,1517.0,Domherr,"Domstift Salzburg, Österreich",,False,wiag_domherren,21.0
+WIAG-Pers-CANON-53979-001,Georg Rudolph Leobenegg,1515.0,1575.0,1556.0,Domherr,Domstift Regensburg,,False,wiag_domherren,41.0
+WIAG-Pers-CANON-53989-001,Johann Georg Werdenstein,1542.0,1608.0,1563.0,Domherr,Domstift Augsburg,Bistum Augsburg,False,wiag_domherren,21.0
+WIAG-Pers-CANON-54005-001,Christoph Schurff,1550.0,1583.0,1571.0,Domherr,"Domstift Salzburg, Österreich",,False,wiag_domherren,21.0
+WIAG-Pers-CANON-54026-001,Johann Anton Thun,1559.0,1602.0,1578.0,Domherr,"Domstift Salzburg, Österreich",,False,wiag_domherren,19.0
+WIAG-Pers-CANON-54041-001,Ernst Wolkenstein,1558.0,1616.0,1578.0,Domherr,"Domstift Brixen (Bressanone), Italien",,False,wiag_domherren,20.0
+WIAG-Pers-CANON-54070-001,Ernst Markgraf Baden,1482.0,1553.0,1503.0,Domherr,Domstift Augsburg,,False,wiag_domherren,21.0
+WIAG-Pers-CANON-54072-001,Rudolph Markgraf Baden,1481.0,1533.0,1504.0,Domherr,Domstift Augsburg,,False,wiag_domherren,23.0
+WIAG-Pers-CANON-54923-001,Johann Werner Ehingen,1612.0,1666.0,1652.0,Domherr,Domstift Freising,,False,wiag_domherren,40.0
+WIAG-Pers-CANON-54929-001,Johann Christoph Haertl,1607.0,1663.0,1659.0,Domherr,Domstift Freising,,False,wiag_domherren,52.0
+WIAG-Pers-CANON-54942-001,Albrecht Sigmund Westacher,1645.0,1706.0,1665.0,Domherr,Domstift Freising,,False,wiag_domherren,20.0
+WIAG-Pers-CANON-54948-001,Johann Rudolf Leoprechting,1629.0,1699.0,1670.0,Domherr,Domstift Freising,,False,wiag_domherren,41.0
+WIAG-Pers-CANON-54952-001,Kaspar Sigmund Lerchenfeld,1655.0,1680.0,1674.0,Domherr,Domstift Freising,,False,wiag_domherren,19.0
+WIAG-Pers-CANON-54954-001,Johann Anton Gugler von Zeilhofen,1649.0,1699.0,1675.0,Domherr,Domstift Freising,,False,wiag_domherren,26.0
+WIAG-Pers-CANON-54956-001,Franz Joseph Anton Roll von Bernau,1653.0,1717.0,1678.0,Domherr,Domstift Freising,,False,wiag_domherren,25.0
+WIAG-Pers-CANON-54963-001,Franz Joseph Freyberg,1656.0,1682.0,1680.0,Domherr,Domstift Freising,,False,wiag_domherren,24.0
+WIAG-Pers-CANON-54968-001,Judas Thaddäus Thann,1654.0,1713.0,1687.0,Domherr,Domstift Freising,,False,wiag_domherren,33.0
+WIAG-Pers-CANON-54976-001,Johann Joseph Pienzenau,1679.0,,1697.0,Domherr,Domstift Freising,,False,wiag_domherren,18.0
+WIAG-Pers-CANON-54977-001,Konrad Ferdinand August Albrecht Albrechtsburg,1675.0,,1699.0,Domherr,Domstift Freising,,False,wiag_domherren,24.0
+WIAG-Pers-CANON-54978-001,Johann Baptist Ignaz Pfistern auf Burschenheim,1672.0,1738.0,1699.0,Domherr,Domstift Freising,,False,wiag_domherren,27.0
+WIAG-Pers-CANON-54982-001,Johann Maximilian Joseph Clemens Alt-u. Neufraunhofen,1683.0,1722.0,1701.0,Domherr,Domstift Freising,,False,wiag_domherren,18.0
+WIAG-Pers-CANON-54984-001,Heinrich Wilhelm Moritz Wolframsdorf,1682.0,1721.0,1704.0,Domherr,Domstift Freising,,False,wiag_domherren,22.0
+WIAG-Pers-CANON-54988-001,Clemens Franz Vacchieri,1673.0,1716.0,1709.0,Domherr,Domstift Freising,,False,wiag_domherren,36.0
+WIAG-Pers-CANON-54990-001,Joseph Alois Franz Edlweck von Schönau,1692.0,1770.0,1713.0,Domherr,Domstift Freising,,False,wiag_domherren,21.0
+WIAG-Pers-CANON-54994-001,Franz Anton Imhof,1670.0,1741.0,1717.0,Domherr,Domstift Freising,,False,wiag_domherren,47.0
+WIAG-Pers-CANON-54996-001,Joseph Franz Altspaur von Freienhofen,1693.0,1750.0,1717.0,Domherr,Domstift Freising,,False,wiag_domherren,24.0
+WIAG-Pers-CANON-54998-001,Andreas Joseph Heinrich Trauner,1697.0,1719.0,1719.0,Domherr,Domstift Freising,,False,wiag_domherren,22.0
+WIAG-Pers-CANON-55003-001,Johann Franz Bernhard Ignaz Theodor Donnersberg,1691.0,1768.0,1723.0,Domherr,Domstift Freising,,False,wiag_domherren,32.0
+WIAG-Pers-CANON-55004-001,Johann Karl Maximilian Lerchenfeld,1709.0,1751.0,1727.0,Domherr,Domstift Freising,,False,wiag_domherren,18.0
+WIAG-Pers-CANON-55006-001,Joseph Theophil Schlechtleuthner,1702.0,1732.0,1728.0,Domherr,Domstift Freising,,False,wiag_domherren,26.0
+WIAG-Pers-CANON-55007-001,Franz Ignaz Anton Mayr,1691.0,1760.0,1730.0,Domherr,Domstift Freising,,False,wiag_domherren,39.0
+WIAG-Pers-CANON-55010-001,Joseph Ladislaus Gumppenberg,1712.0,1747.0,1739.0,Domherr,Domstift Freising,,False,wiag_domherren,27.0
+WIAG-Pers-CANON-55020-001,Joseph Dominikus Benedikt Franz Xaver Johann Taufkirchen,1731.0,1772.0,1750.0,Domherr,Domstift Freising,,False,wiag_domherren,19.0
+WIAG-Pers-CANON-55021-001,Ägidius Oswald Colonna Völls,1729.0,1811.0,1751.0,Domherr,Domstift Freising,,False,wiag_domherren,22.0
+WIAG-Pers-CANON-55022-001,Joseph Ignaz Unertl,1725.0,1759.0,1753.0,Domherr,Domstift Freising,,False,wiag_domherren,28.0
+WIAG-Pers-CANON-55023-001,Johann Adalbert Bodmann zu Steißlingen und Wiechs,1718.0,1787.0,1738.0,Domherr,Domstift Regensburg,,False,wiag_domherren,20.0
+WIAG-Pers-CANON-55029-001,Joseph Benedikt Thurn Wartegg,1744.0,,1762.0,Domherr,Domstift Regensburg,,False,wiag_domherren,18.0
+WIAG-Pers-CANON-55030-001,Johann Baptist Thurn und Valsassina,1747.0,1772.0,1766.0,Domherr,Domstift Freising,,False,wiag_domherren,19.0
+WIAG-Pers-CANON-55034-001,Leopold Maria Joseph Jakob Adam Brandis,1747.0,1778.0,1770.0,Domherr,Domstift Freising,,False,wiag_domherren,23.0
+WIAG-Pers-CANON-55035-001,Johann Nepomuk Stroehl,1749.0,1813.0,1771.0,Domherr,Domstift Freising,,False,wiag_domherren,22.0
+WIAG-Pers-CANON-55036-001,Johann Christoph Erdmann Indobler,1725.0,1792.0,1772.0,Domherr,Domstift Freising,,False,wiag_domherren,47.0
+WIAG-Pers-CANON-55040-001,Franz Joseph Johann Nepomuk Leopold Stengel,1753.0,1822.0,1773.0,Domherr,Domstift Freising,,False,wiag_domherren,20.0
+WIAG-Pers-CANON-55041-001,Damian Hugo Lehrbach,1738.0,1815.0,1775.0,Domherr,Domstift Freising,,False,wiag_domherren,37.0
+WIAG-Pers-CANON-55047-001,Johann Georg Ferdinand Alois Seyboltsdorf,1761.0,,1782.0,Domherr,Domstift Freising,,False,wiag_domherren,21.0
+WIAG-Pers-CANON-55049-001,Joseph Maria Imsland,1759.0,1824.0,1782.0,Domherr,Domstift Freising,,False,wiag_domherren,23.0
+WIAG-Pers-CANON-80535-001,Joachim Rintorff,1527.0,1582.0,1549.0,Domherr,Domstift Magdeburg,Erzbistum Magdeburg,False,wiag_domherren,22.0
+WIAG-Pers-CANON-81186-001,Johann Limburg-Styrum,1567.0,1613.0,1612.0,Domherr,Domstift Köln,Erzbistum Köln,False,wiag_domherren,45.0
+WIAG-Pers-CANON-81341-001,Heinrich Michael Scherer von Hausen,1685.0,1752.0,1744.0,Domherr,Domstift Konstanz,Bistum Konstanz,False,wiag_domherren,59.0
+WIAG-Pers-CANON-81442-001,Johann Hugo Bongert,1743.0,1789.0,1765.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,22.0
+WIAG-Pers-CANON-81443-001,Johann Wilhelm Ambrosius Anton Bourscheidt,1728.0,1784.0,1757.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,29.0
+WIAG-Pers-CANON-81468-001,Karl Joseph Stephan Kaunitz-Rietberg,1715.0,1737.0,1733.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,18.0
+WIAG-Pers-CANON-81595-001,Alexander Ferdinand Velen,1699.0,1745.0,1726.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,27.0
+WIAG-Pers-CANON-81649-001,Heinrich Rembert Galen,1649.0,,1684.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,35.0
+WIAG-Pers-CANON-81700-001,Amandus Friedrich Konrad Hanxleden,1733.0,,1764.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,31.0
+WIAG-Pers-CANON-81731-001,Heinrich Büren,1325.0,,1345.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,20.0
+WIAG-Pers-CANON-81794-001,Heinrich Adolf Christoph Hövel,1690.0,1748.0,1716.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,26.0
+WIAG-Pers-CANON-81886-001,Clemens August Merveldt,1722.0,1781.0,1752.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,30.0
+WIAG-Pers-CANON-81991-001,Friedrich Rhede,1519.0,,1538.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,19.0
+WIAG-Pers-CANON-82108-001,Franz Wilhelm Wolff,1695.0,1752.0,1713.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,18.0
+WIAG-Pers-CANON-83488-001,Wilderich Walderdorff,1498.0,1543.0,1535.0,Domherr,Domstift Worms,Bistum Worms,False,wiag_domherren,37.0
+WIAG-Pers-CANON-83743-001,Alexander Velen,1599.0,1675.0,1618.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,19.0
+WIAG-Pers-CANON-83750-001,Franz Emmerich Wilhelm Fürstenberg,1646.0,1666.0,1666.0,Domherr,Domstift Trier,Erzbistum Trier,False,wiag_domherren,20.0
+WIAG-Pers-CANON-84009-001,Maximilian Xaver Anton Joseph Friedrich Johann Nepomuk Maria Hornstein,1754.0,1819.0,1772.0,Domherr,Domstift Freising,Bistum Freising,False,wiag_domherren,18.0
+WIAG-Pers-CANON-84096-001,Eberhard Tann,1495.0,1574.0,1517.0,Domherr,Domstift Eichstätt,Bistum Eichstätt,False,wiag_domherren,22.0
+WIAG-Pers-CANON-84145-001,Hugo Emmerich Eltz-Kempenich,1643.0,1698.0,1675.0,Domherr,Domstift Trier,Erzbistum Trier,False,wiag_domherren,32.0
+WIAG-Pers-CANON-84215-001,Heidenreich Droste zu Vischering,1616.0,,1634.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,18.0
+WIAG-Pers-CANON-85205-001,Johann Scheiring,1454.0,1516.0,1495.0,Domherr,Domstift Magdeburg,Erzbistum Magdeburg,False,wiag_domherren,41.0
+WIAG-Pers-CANON-85243-001,Clemens August Droste-Vischering,1773.0,1845.0,1791.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,18.0
+WIAG-Pers-CANON-85588-001,Ferdinand Ludwig Maximilian Anton Horst,1727.0,1799.0,1747.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,20.0
+WIAG-Pers-CANON-85654-001,Clemens Franz Xaver Asch,1752.0,1804.0,1775.0,Domherr,Domstift Regensburg,Bistum Regensburg,False,wiag_domherren,23.0
+WIAG-Pers-CANON-85658-001,Albert Adam Freiberg,1675.0,1749.0,1715.0,Domherr,Domstift Regensburg,Bistum Regensburg,False,wiag_domherren,40.0
+WIAG-Pers-CANON-85664-001,Ferdinand Emanuel Joner,1675.0,1731.0,1731.0,Domherr,Domstift Regensburg,Bistum Regensburg,False,wiag_domherren,56.0
+WIAG-Pers-CANON-85666-001,Veit Ludwig Kreith,1661.0,1709.0,1709.0,Domherr,Domstift Regensburg,Bistum Regensburg,False,wiag_domherren,48.0
+WIAG-Pers-CANON-85673-001,Johann Sigismund Pienzenau,1655.0,1747.0,1716.0,Domherr,Domstift Regensburg,Bistum Regensburg,False,wiag_domherren,61.0
+WIAG-Pers-CANON-85675-001,Johann Andreas Puech,1604.0,1670.0,1670.0,Domherr,Domstift Regensburg,Bistum Regensburg,False,wiag_domherren,66.0
+WIAG-Pers-CANON-85679-001,Franz Joseph Rosenbusch,1691.0,1741.0,1721.0,Domherr,Domstift Regensburg,Bistum Regensburg,False,wiag_domherren,30.0
+WIAG-Pers-CANON-85681-001,Ignaz Maria Sauer,1761.0,1824.0,1787.0,Domherr,Domstift Regensburg,Bistum Regensburg,False,wiag_domherren,26.0
+WIAG-Pers-CANON-85688-001,Karl Ignaz Törring-Gronsfeld,1757.0,1828.0,1787.0,Domherr,Domstift Regensburg,Bistum Regensburg,False,wiag_domherren,30.0
+WIAG-Pers-CANON-85689-001,Johann Karl Vöhlin,1727.0,1783.0,1768.0,Domherr,Domstift Regensburg,Bistum Regensburg,False,wiag_domherren,41.0
+WIAG-Pers-CANON-85693-001,Franz Anton Zeller Freiherr von Leibersdorf,1659.0,1717.0,1713.0,Domherr,Domstift Regensburg,Bistum Regensburg,False,wiag_domherren,54.0
+WIAG-Pers-CANON-85887-001,Hermann Dobbe,1550.0,1627.0,1595.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,45.0
+WIAG-Pers-CANON-85916-001,Maximilian Friedrich Droste zu Hülshoff,1764.0,1840.0,1782.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,18.0
+WIAG-Pers-CANON-85917-001,Karl Friedrich Droste zu Senden,1750.0,1800.0,1789.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,39.0
+WIAG-Pers-CANON-86039-001,Johannes Cassel,1390.0,,1413.0,Domherr,Prämonstratenser-Domstift Brandenburg an der Havel,Bistum Brandenburg,False,wiag_domherren,23.0
+WIAG-Pers-CANON-86131-001,Adolf Bernhard Merveldt,1657.0,1737.0,1737.0,Domherr,Domstift Osnabrück,Bistum Osnabrück,False,wiag_domherren,80.0
+WIAG-Pers-CANON-86138-001,Heinrich Letmathe,1597.0,,1621.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,24.0
+WIAG-Pers-CANON-86152-001,Burchard Alexander Anton Maria Ludger Merveldt,1714.0,1775.0,1746.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,32.0
+WIAG-Pers-CANON-86159-001,Philipp Ludwig Nagel,1654.0,1712.0,1688.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,34.0
+WIAG-Pers-CANON-86564-001,Maximilian Heidenreich Droste zu Vischering,1749.0,1801.0,1772.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,23.0
+WIAG-Pers-CANON-86630-001,Heidenreich Oer,1525.0,1574.0,1552.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,27.0
+WIAG-Pers-CANON-86631-001,Franz Letmathe,1575.0,1638.0,1596.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,21.0
+WIAG-Pers-CANON-86675-001,Joseph Anton Roll,1681.0,1768.0,1734.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,53.0
+WIAG-Pers-CANON-86706-001,Maximilian Friedrich Weichs,1767.0,1846.0,1790.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,23.0
+WIAG-Pers-CANON-86755-001,Konrad Gaudenz Ketteler,1647.0,1689.0,1666.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,19.0
+WIAG-Pers-CANON-86793-001,Georg Hatzfeld,1493.0,1562.0,1530.0,Domherr,Domstift Osnabrück,Bistum Osnabrück,False,wiag_domherren,37.0
+WIAG-Pers-CANON-86871-001,Clemens August Maria Twickel,1721.0,1792.0,1742.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,21.0
+WIAG-Pers-CANON-86873-001,Clemens August Anton Ignaz Maria Ketteler,1751.0,1815.0,1770.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,19.0
+WIAG-Pers-CANON-86947-001,Dietrich Franz Raesfeld,1528.0,,1546.0,Domherr,Domstift Osnabrück,Bistum Osnabrück,False,wiag_domherren,18.0
+WIAG-Pers-CANON-86952-001,Franz Raesfeld,1529.0,,1575.0,Domherr,Domstift Osnabrück,Bistum Osnabrück,False,wiag_domherren,46.0
+WIAG-Pers-CANON-87102-001,Johann Matthias Caspar Ascheberg,1737.0,1818.0,1760.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,23.0
+WIAG-Pers-CANON-87223-001,Hermann Anton Bernhard Velen,1698.0,1767.0,1717.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,19.0
+WIAG-Pers-CANON-88990-001,Heinrich Gottfried Bauer,1733.0,1811.0,1771.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,38.0
+WIAG-Pers-CANON-88994-001,Friedrich Wilhelm Beust,1735.0,1816.0,1763.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,28.0
+WIAG-Pers-CANON-88996-001,Johann Born,1600.0,1660.0,1645.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,45.0
+WIAG-Pers-CANON-88998-001,Karl Gottfried Bose,1654.0,1731.0,1675.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,21.0
+WIAG-Pers-CANON-89000-001,Heinrich Bünau,1697.0,1762.0,1725.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,28.0
+WIAG-Pers-CANON-89001-001,Rudolf Bünau,1711.0,1772.0,1742.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,31.0
+WIAG-Pers-CANON-89010-001,Sigismund Finckelthaus,1579.0,1644.0,1618.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,39.0
+WIAG-Pers-CANON-89013-001,Johann George Friedrich Friesen,1757.0,1824.0,1779.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,22.0
+WIAG-Pers-CANON-89018-001,Wilhelm Adolf Hagen,1721.0,1787.0,1742.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,21.0
+WIAG-Pers-CANON-89020-001,Johann Otto Hake,1608.0,1671.0,1645.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,37.0
+WIAG-Pers-CANON-89022-001,Ennoch Heiland,1582.0,1639.0,1628.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,46.0
+WIAG-Pers-CANON-89025-001,Georg Rudolf Heßler,1678.0,1726.0,1708.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,30.0
+WIAG-Pers-CANON-89029-001,Gottfried Nikolaus Ittig,1645.0,1710.0,1705.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,60.0
+WIAG-Pers-CANON-89036-001,Georg Friedrich Schönberg,1586.0,1650.0,1611.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,25.0
+WIAG-Pers-CANON-89037-001,Christian Adolf Seckendorff,1767.0,1833.0,1794.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,27.0
+WIAG-Pers-CANON-89038-001,Friedrich Bernhard Seckendorf,1772.0,1852.0,1797.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,25.0
+WIAG-Pers-CANON-89040-001,Christian Heinrich Watzdorf,1698.0,1747.0,1722.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,24.0
+WIAG-Pers-CANON-89043-001,Karl August Wolfersdorf,1691.0,1746.0,1710.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,19.0
+WIAG-Pers-CANON-89051-001,Immanuel Christian Leberecht Ampach,1772.0,1831.0,1798.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,26.0
+WIAG-Pers-CANON-89078-001,Wulfbrand Georg Bock von Wülfingen,1590.0,1651.0,1621.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,31.0
+WIAG-Pers-CANON-89079-001,Hans Heinrich Adolf Bodenhausen,1772.0,1820.0,1792.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,20.0
+WIAG-Pers-CANON-89080-001,Friedrich Carl Bose,1737.0,1764.0,1761.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,24.0
+WIAG-Pers-CANON-89091-001,Heinrich Adolf Brühl,1744.0,1778.0,1771.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,27.0
+WIAG-Pers-CANON-89098-001,Christoph Friedrich Burgsdorff,1686.0,1741.0,1712.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,26.0
+WIAG-Pers-CANON-89126-001,Georg Friedrich Eberstein,1684.0,1716.0,1710.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,26.0
+WIAG-Pers-CANON-89143-001,Heinrich Friesen,1610.0,1680.0,1638.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,28.0
+WIAG-Pers-CANON-89159-001,Konrad Heinrich Griesheim,1664.0,1740.0,1688.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,24.0
+WIAG-Pers-CANON-89210-001,Georg Albrecht Heynitz,1591.0,1623.0,1623.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,32.0
+WIAG-Pers-CANON-89219-001,Johann Hülsemann,1602.0,1661.0,1651.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,49.0
+WIAG-Pers-CANON-89238-001,Christoph Kayn,1587.0,,1606.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,19.0
+WIAG-Pers-CANON-89240-001,Johannes Kostitz,1541.0,1611.0,1594.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,53.0
+WIAG-Pers-CANON-89261-001,George Albrecht Rohr,1606.0,1653.0,1647.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,41.0
+WIAG-Pers-CANON-89265-001,Julius Christian Friedrich Schauroth,1734.0,1794.0,1759.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,25.0
+WIAG-Pers-CANON-89267-001,Abraham Schleinitz,1556.0,1621.0,1588.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,32.0
+WIAG-Pers-CANON-89272-001,Johann Dietrich Schönberg,1623.0,1682.0,1650.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,27.0
+WIAG-Pers-CANON-89277-001,Johann Heinrich Stammer,1603.0,1654.0,1641.0,Domherr,Domstift Magdeburg,Erzbistum Magdeburg,False,wiag_domherren,38.0
+WIAG-Pers-CANON-89283-001,Dietrich Vitzthum,1544.0,1612.0,1568.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,24.0
+WIAG-Pers-CANON-89284-001,Johann Georg Vitzthum von Eckstedt,1585.0,1641.0,1604.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,19.0
+WIAG-Pers-CANON-89631-001,Stefan Friesen,1598.0,1650.0,1628.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,30.0
+WIAG-Pers-CANON-89633-001,Günther Griesheim,1635.0,1719.0,1670.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,35.0
+WIAG-Pers-CANON-89634-001,Friedrich Abraham Hopfgarten,1702.0,1774.0,1720.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,18.0
+WIAG-Pers-CANON-89637-001,Johannes Löser,1559.0,1614.0,1588.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,29.0
+WIAG-Pers-CANON-89640-001,Johann Siegmund Osterhausen,1613.0,1679.0,1638.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,25.0
+WIAG-Pers-CANON-89641-001,Ludwig Ernst Pöllnitz,1641.0,1695.0,1675.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,34.0
+WIAG-Pers-CANON-89648-001,Christian Uffel,1687.0,1748.0,1713.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,26.0
+WIAG-Pers-CANON-89654-001,Friedrich Berbisdorf,1608.0,1684.0,1627.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,19.0
+WIAG-Pers-CANON-89655-001,Georg Friedrich Berlepsch,1727.0,1799.0,1746.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,19.0
+WIAG-Pers-CANON-89656-001,Christoph Ludolf Burgsdorff,1653.0,1720.0,1676.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,23.0
+WIAG-Pers-CANON-89667-001,Karl Gottlob Hopfgarten,1704.0,1765.0,1737.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,33.0
+WIAG-Pers-CANON-89687-001,Friedrich Cachedenier,1608.0,1675.0,1650.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,42.0
+WIAG-Pers-CANON-89689-001,Hans Hartmann Erffa,1684.0,1727.0,1702.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,18.0
+WIAG-Pers-CANON-89698-001,Heinrich Christoph Metzsch,1655.0,1712.0,1680.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,25.0
+WIAG-Pers-CANON-89699-001,Johann Christoph Ponickau,1712.0,1768.0,1740.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,28.0
+WIAG-Pers-CANON-89700-001,Ernst Friedrich Seckendorf,1696.0,1756.0,1730.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,34.0
+WIAG-Pers-CANON-89701-001,Wilhelm Christoph Volrad Taubenheim,1660.0,1720.0,1687.0,Domherr,Domstift Merseburg,Bistum Merseburg,False,wiag_domherren,27.0
+WIAG-Pers-CANON-89705-001,Caspar Sigmund Berbisdorf,1683.0,1753.0,1706.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,23.0
+WIAG-Pers-CANON-89718-001,Adalbert Georg August Wilhelm Boyneburg,1711.0,1780.0,1744.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,33.0
+WIAG-Pers-CANON-89721-001,Carl Friesen,1619.0,1686.0,1647.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,28.0
+WIAG-Pers-CANON-89732-001,Christian Friedrich August Meding,1735.0,1825.0,1756.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,21.0
+WIAG-Pers-CANON-89733-001,Johann Ascan Rheden,1671.0,1738.0,1694.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,23.0
+WIAG-Pers-CANON-89736-001,Raban Heinrich Spiegel von Peckelsheim,1697.0,1745.0,1716.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,19.0
+WIAG-Pers-CANON-89792-001,Johann Georg Vitzthum von Eckstedt,1628.0,1701.0,1661.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,33.0
+WIAG-Pers-CANON-89793-001,Johann Adolph Taubenheim,1690.0,1762.0,1717.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,27.0
+WIAG-Pers-CANON-90056-001,Friedrich Hartmann Landwüst,1713.0,1782.0,1754.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,41.0
+WIAG-Pers-CANON-90057-001,Johann Heinrich Lest,1620.0,1664.0,1651.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,31.0
+WIAG-Pers-CANON-90060-001,Christian Loß,1697.0,1770.0,1725.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,28.0
+WIAG-Pers-CANON-90061-001,Lüder Mencke,1658.0,1726.0,1708.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,50.0
+WIAG-Pers-CANON-90062-001,Wolfgang Friedrich Möllendorf,1682.0,1737.0,1710.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,28.0
+WIAG-Pers-CANON-90063-001,Samuel Mosbach,1584.0,1649.0,1645.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,61.0
+WIAG-Pers-CANON-90064-001,Börries Anthon Christian Münchhausen,1745.0,1829.0,1777.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,32.0
+WIAG-Pers-CANON-90065-001,Ludolf Franz Münchhausen,1657.0,1689.0,1677.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,20.0
+WIAG-Pers-CANON-90070-001,Franz Romanus,1600.0,1668.0,1668.0,Domherr,Domstift Merseburg,Bistum Merseburg,False,wiag_domherren,68.0
+WIAG-Pers-CANON-90083-001,Wilhelm Kospoth,1628.0,1678.0,1652.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,24.0
+WIAG-Pers-CANON-90112-001,Johann Karl David Minckwitz,1762.0,,1780.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,18.0
+WIAG-Pers-CANON-90113-001,Johannes Modest von Kitzing,1493.0,1540.0,1540.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,47.0
+WIAG-Pers-CANON-90115-001,Hilmar Münchhausen,1669.0,1727.0,1721.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,52.0
+WIAG-Pers-CANON-90543-001,August Friedrich Werner Oldershausen,1773.0,1797.0,1795.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,22.0
+WIAG-Pers-CANON-90544-001,Hans Georg Friedrich Oldershausen,1770.0,1850.0,1796.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,26.0
+WIAG-Pers-CANON-90547-001,Georg Albert Osterhausen,1656.0,1697.0,1676.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,20.0
+WIAG-Pers-CANON-90561-001,Friedrich August Pforte,1753.0,,1777.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,24.0
+WIAG-Pers-CANON-90568-001,Johann Georg Poigk,1722.0,1767.0,1745.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,23.0
+WIAG-Pers-CANON-90572-001,Josias Ernst Ludwig Püttmann,1730.0,1796.0,1793.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,63.0
+WIAG-Pers-CANON-90576-001,Christian Rau,1744.0,1818.0,1793.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,49.0
+WIAG-Pers-CANON-90579-001,Karl Otto Rechenberg,1689.0,1751.0,1720.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,31.0
+WIAG-Pers-CANON-90593-001,Paul Franz Romanus,1641.0,1675.0,1671.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,30.0
+WIAG-Pers-CANON-90597-001,Ernst Wolfgang Rothkirch und Trach,1769.0,1832.0,1788.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,19.0
+WIAG-Pers-CANON-90606-001,Johann Christoph Schacher,1667.0,1720.0,1710.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,43.0
+WIAG-Pers-CANON-90618-001,Hannibal August Schmertzing,1691.0,1756.0,1722.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,31.0
+WIAG-Pers-CANON-90620-001,Wilhelm Hannibal Schmertzing,1705.0,,1729.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,24.0
+WIAG-Pers-CANON-90625-001,August Friedrich Schott,1744.0,1792.0,1792.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,48.0
+WIAG-Pers-CANON-90635-001,Wilhelm Gerlach Adolf Schwarzenfels,1739.0,1793.0,1776.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,37.0
+WIAG-Pers-CANON-90636-001,Johann Gottlieb Seger,1735.0,1786.0,1782.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,47.0
+WIAG-Pers-CANON-90638-001,Ludwig Rudolf Senfft von Pilsach,1678.0,1719.0,1697.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,19.0
+WIAG-Pers-CANON-90654-001,Friedrich Heinrich Stein,1677.0,,1696.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,19.0
+WIAG-Pers-CANON-90677-001,Moritz August Thümmel,1738.0,1817.0,1777.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,39.0
+WIAG-Pers-CANON-90727-001,Georg Werthern,1700.0,1768.0,1725.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,25.0
+WIAG-Pers-CANON-90764-001,Friedrich Gottlieb Zoller,1717.0,1782.0,1765.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,48.0
+WIAG-Pers-CANON-90924-001,Johannes Cochlaeus,1479.0,1552.0,1535.0,Domherr,Domstift Meißen,Bistum Meißen,False,wiag_domherren,56.0
+WIAG-Pers-CANON-91094-001,Burkhard Hewen,1348.0,1376.0,1366.0,Domherr,Domstift Konstanz,Bistum Konstanz,False,wiag_domherren,18.0
+WIAG-Pers-CANON-91103-001,Jakob Raßler,1568.0,1617.0,1605.0,Domherr,Domstift Konstanz,Bistum Konstanz,False,wiag_domherren,37.0
+WIAG-Pers-CANON-91139-001,Heinrich Grimhard von Westerholt,1355.0,,1398.0,Domherr,Domstift Köln,Erzbistum Köln,False,wiag_domherren,43.0
+WIAG-Pers-CANON-91154-001,Ludwig Isenburg,1422.0,1511.0,1453.0,Domherr,Domstift Köln,Erzbistum Köln,False,wiag_domherren,31.0
+WIAG-Pers-CANON-91233-001,Adolf Kleve,1425.0,1492.0,1453.0,Domherr,Domstift Köln,Erzbistum Köln,False,wiag_domherren,28.0
+WIAG-Pers-CANON-91392-001,Peter Conradi,1477.0,1561.0,1528.0,Domherr,Prämonstratenser-Domstift Havelberg,Bistum Havelberg,False,wiag_domherren,51.0
+WIAG-Pers-EPISCGatz-02611-001,Nikolaus Burgsdorff,1375.0,,1441.0,Domherr,Domstift Magdeburg,Erzbistum Magdeburg,False,wiag_domherren,66.0
+WIAG-Pers-EPISCGatz-02617-001,Gerhard Lippe,1180.0,1258.0,1207.0,Domherr,Domstift Paderborn,,False,wiag_domherren,27.0
+WIAG-Pers-EPISCGatz-02820-001,Albrecht Wernigerode,1345.0,1419.0,1363.0,Domherr,Domstift Halberstadt,Erzbistum Köln,False,wiag_domherren,18.0
+WIAG-Pers-EPISCGatz-02856-001,Johann Hoya,1355.0,1424.0,1374.0,Domherr,Domstift Köln,Erzbistum Köln,False,wiag_domherren,19.0
+WIAG-Pers-EPISCGatz-02889-001,Heinrich Virneburg,1244.0,1332.0,1300.0,Domherr,Domstift Trier,,False,wiag_domherren,56.0
+WIAG-Pers-EPISCGatz-02894-001,Friedrich Saarwerden,1348.0,1414.0,1370.0,Domherr,Domstift Köln,,False,wiag_domherren,22.0
+WIAG-Pers-EPISCGatz-02909-001,Heinrich Dießenhofen,1299.0,1376.0,1324.0,Domherr,Domstift Konstanz,,False,wiag_domherren,25.0
+WIAG-Pers-EPISCGatz-03030-001,Johannes Mul,1291.0,1350.0,1327.0,Domherr,Domstift Schwerin,,False,wiag_domherren,36.0
+WIAG-Pers-EPISCGatz-03052-001,Adolf Mark,1288.0,1344.0,1310.0,Domherr,Domstift Köln,Erzbistum Köln,False,wiag_domherren,22.0
+WIAG-Pers-EPISCGatz-03277-001,Bernhard Lippe,1277.0,1341.0,1311.0,Domherr,Domstift Minden,,False,wiag_domherren,34.0
+WIAG-Pers-EPISCGatz-03281-001,Wilhelm Berg,1382.0,1428.0,1400.0,Domherr,Domstift Köln,Erzbistum Köln,False,wiag_domherren,18.0
+WIAG-Pers-EPISCGatz-03624-001,Balduin Luxemburg,1285.0,1354.0,1308.0,Domherr,"Domstift Metz, Frankreich",,False,wiag_domherren,23.0
+WIAG-Pers-EPISCGatz-03738-001,Friedrich Domneck,1385.0,1445.0,1421.0,"Domherr, Anwärter",Domstift Mainz,,False,wiag_domherren,36.0
+WIAG-Pers-EPISCGatz-03759-001,Gerhard Schwarzburg,1313.0,1400.0,1337.0,Domherr,Domstift Bamberg,Bistum Naumburg,False,wiag_domherren,24.0
+WIAG-Pers-EPISCGatz-03762-001,Sigmund Sachsen,1416.0,1471.0,1437.0,Domherr,Domstift Köln,Erzbistum Köln,False,wiag_domherren,21.0
+WIAG-Pers-EPISCGatz-05280-001,Heinrich Absberg,1409.0,1492.0,1431.0,Domherr,Domstift Regensburg,,False,wiag_domherren,22.0
+WIAG-Pers-EPISCGatz-05316-001,Stephan Bodeker,1384.0,1459.0,1415.0,Domherr,Prämonstratenser-Domstift Brandenburg an der Havel,,False,wiag_domherren,31.0
+WIAG-Pers-EPISCGatz-05320-001,Pietro Bonomo,1458.0,1546.0,1490.0,Domherr,"Domstift Aquileia, Italien",,False,wiag_domherren,32.0
+WIAG-Pers-EPISCGatz-05326-001,Ortlieb Brandis,1430.0,1491.0,1449.0,Domherr,"Domstift Chur, Schweiz",,False,wiag_domherren,19.0
+WIAG-Pers-EPISCGatz-05332-001,Dietrich Bülow,1460.0,1523.0,1482.0,Domherr,"Domstift Lebus (zeitweilig Göritz, Fürstenwalde)",,False,wiag_domherren,22.0
+WIAG-Pers-EPISCGatz-05353-001,Konrad Diepholz,1424.0,1482.0,1455.0,Domherr,Domstift Köln,Erzbistum Köln,False,wiag_domherren,31.0
+WIAG-Pers-EPISCGatz-05355-001,Nikolaus Diesbach,1478.0,1550.0,1514.0,Domherr,"Domstift Basel, Schweiz",,False,wiag_domherren,36.0
+WIAG-Pers-EPISCGatz-05370-001,Ernst Sachsen,1464.0,1513.0,1488.0,Domherr,Domstift Lübeck,,False,wiag_domherren,24.0
+WIAG-Pers-EPISCGatz-05371-001,Gabriel Eyb,1447.0,1535.0,1467.0,Domherr,Domstift Bamberg,Bistum Bamberg,False,wiag_domherren,20.0
+WIAG-Pers-EPISCGatz-05384-001,Friedrich Baden,1458.0,1517.0,1477.0,Domherr,Domstift Trier,,False,wiag_domherren,19.0
+WIAG-Pers-EPISCGatz-05392-001,Uriel Gemmingen,1468.0,1514.0,1501.0,Domherr,Domstift Worms,,False,wiag_domherren,33.0
+WIAG-Pers-EPISCGatz-05394-001,Georg Baden,1433.0,1484.0,1456.0,Domherr,Domstift Köln,Erzbistum Köln,False,wiag_domherren,23.0
+WIAG-Pers-EPISCGatz-05432-001,Johannes Hinderbach,1418.0,1486.0,1453.0,Domherr,Domstift Passau,,False,wiag_domherren,35.0
+WIAG-Pers-EPISCGatz-05448-001,Johann Rhein,1429.0,1475.0,1453.0,"Domherr, Anwärter",Domstift Würzburg,Bistum Speyer,False,wiag_domherren,24.0
+WIAG-Pers-EPISCGatz-05479-001,Jakob Liebenstein,1462.0,1508.0,1484.0,Domherr,Domstift Mainz,,False,wiag_domherren,22.0
+WIAG-Pers-EPISCGatz-05483-001,Konrad Loste,1416.0,1503.0,1447.0,Domherr,Domstift Schwerin,Bistum Schwerin,False,wiag_domherren,31.0
+WIAG-Pers-EPISCGatz-05509-001,Johannes Nix von Hoheneck,1411.0,1467.0,1436.0,Domherr,Domstift Mainz,,False,wiag_domherren,25.0
+WIAG-Pers-EPISCGatz-05526-001,Enea Silvio Piccolomini,1405.0,1464.0,1457.0,Domherr,Domstift Speyer,,False,wiag_domherren,52.0
+WIAG-Pers-EPISCGatz-05580-001,Johannes Schallermann,1373.0,1465.0,1426.0,Domherr,Domstift Speyer,,False,wiag_domherren,53.0
+WIAG-Pers-EPISCGatz-05582-001,Peter Schaumberg,1388.0,1469.0,1419.0,Domherr,Domstift Bamberg,Bistum Würzburg,False,wiag_domherren,31.0
+WIAG-Pers-EPISCGatz-05600-001,Dietrich Schönberg,1410.0,1492.0,1435.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,25.0
+WIAG-Pers-EPISCGatz-10000-001,Joseph Ach,1620.0,1691.0,1663.0,Domherr,Domstift Konstanz,Bistum Konstanz,False,wiag_domherren,43.0
+WIAG-Pers-EPISCGatz-10003-001,Franz Xaver Adelmann von Adelmannsfelden,1721.0,1787.0,1739.0,Domherr,Domstift Augsburg,,False,wiag_domherren,18.0
+WIAG-Pers-EPISCGatz-10020-001,Johann Heinrich Anethan,1628.0,1693.0,1679.0,Domherr,Domstift Köln,,False,wiag_domherren,51.0
+WIAG-Pers-EPISCGatz-10023-001,Joseph Franz Valerian Felix Arco,1686.0,1746.0,1721.0,Domherr,"Domstift Salzburg, Österreich",,False,wiag_domherren,35.0
+WIAG-Pers-EPISCGatz-10026-001,Wilhelm Anton Asseburg,1707.0,1782.0,1726.0,Domherr,Domstift Osnabrück,Bistum Paderborn,False,wiag_domherren,19.0
+WIAG-Pers-EPISCGatz-10031-001,Joseph Oswald Attems,1679.0,1744.0,1708.0,Domherr,"Domstift Salzburg, Österreich",,False,wiag_domherren,29.0
+WIAG-Pers-EPISCGatz-10034-001,Joseph Franz Anton Auersperg,1734.0,1795.0,1752.0,Domherr,Domstift Passau,,False,wiag_domherren,18.0
+WIAG-Pers-EPISCGatz-10051-001,Georges Louis Berghes,1662.0,1743.0,1682.0,Domherr,Domstift Köln,,False,wiag_domherren,20.0
+WIAG-Pers-EPISCGatz-10052-001,Adam Ernst Bernclau von Schönreith,1712.0,1779.0,1756.0,Domherr,Domstift Regensburg,,False,wiag_domherren,44.0
+WIAG-Pers-EPISCGatz-10055-001,Friedrich Wilhelm Bicken,1661.0,1732.0,1680.0,Domherr,Domstift Mainz,,False,wiag_domherren,19.0
+WIAG-Pers-EPISCGatz-10056-001,Joseph Ignaz Bildstein,1655.0,1727.0,1695.0,Domherr,Domstift Konstanz,Bistum Konstanz,False,wiag_domherren,40.0
+WIAG-Pers-EPISCGatz-10061-001,Johannes Blau,1636.0,1694.0,1667.0,Domherr,Domstift Freising,Bistum Konstanz,False,wiag_domherren,31.0
+WIAG-Pers-EPISCGatz-10067-001,Johann Ferdinand Reinhard Joseph Boedigkeim,1685.0,1756.0,1706.0,Domherr,Domstift Freising,,False,wiag_domherren,21.0
+WIAG-Pers-EPISCGatz-10073-001,Jobst Edmund Brabeck,1619.0,1702.0,1668.0,Domherr,Domstift Hildesheim,,False,wiag_domherren,49.0
+WIAG-Pers-EPISCGatz-10084-001,Anton Ernst Franz Breuner,1724.0,1789.0,1742.0,Domherr,Domstift Freising,,False,wiag_domherren,18.0
+WIAG-Pers-EPISCGatz-10127-001,Clemens August Bayern,1700.0,1761.0,1720.0,Domherr,Domstift Köln,,False,wiag_domherren,20.0
+WIAG-Pers-EPISCGatz-10143-001,Philipp Wirich Lorenz Daun zu Sassenheim und Callenborn,1720.0,1763.0,1738.0,Domherr,Domstift Passau,,False,wiag_domherren,18.0
+WIAG-Pers-EPISCGatz-10149-001,Sebastian Denich,1596.0,1671.0,1622.0,Domherr,Domstift Konstanz,Bistum Konstanz,False,wiag_domherren,26.0
+WIAG-Pers-EPISCGatz-10160-001,Heidenreich Matthias Droste zu Vischering,1691.0,1739.0,1721.0,Domherr,Domstift Osnabrück,Bistum Osnabrück,False,wiag_domherren,30.0
+WIAG-Pers-EPISCGatz-10169-001,Johann Franz Eckher von Kapfing und Liechteneck,1649.0,1727.0,1673.0,Domherr,Domstift Freising,,False,wiag_domherren,24.0
+WIAG-Pers-EPISCGatz-10173-001,Leopold Friedrich Egkh und Hungersbach,1696.0,1760.0,1722.0,Domherr,Domstift Freising,,False,wiag_domherren,26.0
+WIAG-Pers-EPISCGatz-10187-001,Georg Adam Fechenbach zu Laudenbach,1707.0,1772.0,1739.0,Domherr,Domstift Mainz,Bistum Würzburg,False,wiag_domherren,32.0
+WIAG-Pers-EPISCGatz-10207-001,Johannes Karl Franckenstein,1610.0,1691.0,1654.0,Domherr,Domstift Worms,Bistum Worms,False,wiag_domherren,44.0
+WIAG-Pers-EPISCGatz-10209-001,Franz Kaspar Franken-Siersdorf,1683.0,1770.0,1713.0,Domherr,Domstift Köln,,False,wiag_domherren,30.0
+WIAG-Pers-EPISCGatz-10210-001,Johann Andreas Franken-Siersdorf,1696.0,1754.0,1723.0,Domherr,Domstift Köln,,False,wiag_domherren,27.0
+WIAG-Pers-EPISCGatz-10212-001,Peter Gerwin Franken-Siersdorf,1702.0,1763.0,1753.0,Domherr,Domstift Köln,,False,wiag_domherren,51.0
+WIAG-Pers-EPISCGatz-10219-001,Johann Anton Freyberg-Hopferau,1674.0,1757.0,1711.0,Domherr,Domstift Eichstätt,,False,wiag_domherren,37.0
+WIAG-Pers-EPISCGatz-10223-001,Friedrich Hessen-Darmstadt,1616.0,1682.0,1653.0,Domherr,"Domstift Lüttich, Belgien",,False,wiag_domherren,37.0
+WIAG-Pers-EPISCGatz-10228-001,Franz Karl Joseph Fugger-Glött von Kirchberg und Weißenhorn,1708.0,1769.0,1731.0,Domherr,Domstift Konstanz,,False,wiag_domherren,23.0
+WIAG-Pers-EPISCGatz-10232-001,Franz Egon Fürstenberg,1702.0,1761.0,1720.0,Domherr,Domstift Münster,Bistum Paderborn,False,wiag_domherren,18.0
+WIAG-Pers-EPISCGatz-10240-001,Johann Reichard Gallenberg,1667.0,1753.0,1690.0,Domherr,Domstift Passau,,False,wiag_domherren,23.0
+WIAG-Pers-EPISCGatz-10253-001,Gilles Etienne Ghéquier,1696.0,1753.0,1733.0,Domherr,"Domstift Lüttich, Belgien",,False,wiag_domherren,37.0
+WIAG-Pers-EPISCGatz-10261-001,Johann Götzfried,1634.0,1699.0,1699.0,Domherr,Domstift Regensburg,Bistum Regensburg,False,wiag_domherren,65.0
+WIAG-Pers-EPISCGatz-10273-001,Johann Gottfried Groß von Trockau,1687.0,1750.0,1713.0,Domherr,Domstift Eichstätt,,False,wiag_domherren,26.0
+WIAG-Pers-EPISCGatz-10279-001,Franz Dietrich Guttenberg,1652.0,1717.0,1672.0,Domherr,Domstift Augsburg,Bistum Eichstätt,False,wiag_domherren,20.0
+WIAG-Pers-EPISCGatz-10288-001,Franz Christoph Hanxleden,1702.0,1770.0,1734.0,Domherr,Domstift Minden,Bistum Minden,False,wiag_domherren,32.0
+WIAG-Pers-EPISCGatz-10289-001,Ernst Adalbert Harrach zu Rohrau,1598.0,1667.0,1618.0,Domherr,Domstift Passau,,False,wiag_domherren,20.0
+WIAG-Pers-EPISCGatz-10290-001,Franz Anton Harrach,1665.0,1727.0,1685.0,Domherr,Domstift Passau,,False,wiag_domherren,20.0
+WIAG-Pers-EPISCGatz-10296-001,Anton Lothar Hatzfeld zu Gleichen,1682.0,1727.0,1727.0,Domherr,Domstift Würzburg,Bistum Würzburg,False,wiag_domherren,45.0
+WIAG-Pers-EPISCGatz-10302-001,Franz Caspar Philipp Haxthausen,1669.0,1733.0,1694.0,Domherr,Domstift Eichstätt,,False,wiag_domherren,25.0
+WIAG-Pers-EPISCGatz-10312-001,Johann Georg Herberstein,1591.0,1663.0,1615.0,Domherr,Domstift Regensburg,Bistum Regensburg,False,wiag_domherren,24.0
+WIAG-Pers-EPISCGatz-10322-001,César Constantin François Hoensbroeck,1724.0,1792.0,1751.0,Domherr,"Domstift Lüttich, Belgien",,False,wiag_domherren,27.0
+WIAG-Pers-EPISCGatz-10324-001,Johann Friedrich Adolf Hörde zu Schönholthausen,1688.0,1761.0,1711.0,Domherr,Domstift Hildesheim,Bistum Hildesheim,False,wiag_domherren,23.0
+WIAG-Pers-EPISCGatz-10325-001,Wenzel Wilhelm Hofkirchen,1611.0,1679.0,1635.0,Domherr,Domstift Passau,,False,wiag_domherren,24.0
+WIAG-Pers-EPISCGatz-10335-001,Johann Philipp Horn,1724.0,1796.0,1763.0,Domherr,Domstift Köln,,False,wiag_domherren,39.0
+WIAG-Pers-EPISCGatz-10346-001,Anselm Franz Friedrich Ingelheim,1634.0,1695.0,1656.0,Domherr,Domstift Mainz,,False,wiag_domherren,22.0
+WIAG-Pers-EPISCGatz-10351-001,Joseph Hessen-Darmstadt,1699.0,1768.0,1729.0,Domherr,"Domstift Lüttich, Belgien",,False,wiag_domherren,30.0
+WIAG-Pers-EPISCGatz-10355-001,Franz Heinrich Wendelin Kageneck,1704.0,1781.0,1722.0,Domherr,Domstift Eichstätt,,False,wiag_domherren,18.0
+WIAG-Pers-EPISCGatz-10361-001,Franz Karl Kaunitz,1676.0,1717.0,1699.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,23.0
+WIAG-Pers-EPISCGatz-10368-001,Nikolaus Hermann Ketteler,1678.0,1737.0,1699.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,21.0
+WIAG-Pers-EPISCGatz-10371-001,"Johann Franz Khuen zu Liechtenberg, Aur und Belasy",1649.0,1702.0,1674.0,Domherr,Domstift Freising,,False,wiag_domherren,25.0
+WIAG-Pers-EPISCGatz-10378-001,Johann Anton Knebel von Katzenellenbogen,1646.0,1725.0,1667.0,Domherr,Domstift Eichstätt,Bistum Augsburg,False,wiag_domherren,21.0
+WIAG-Pers-EPISCGatz-10379-001,Lothar Franz Josef Knebel von Katzenellenbogen,1700.0,1749.0,1718.0,Domherr,Domstift Speyer,,False,wiag_domherren,18.0
+WIAG-Pers-EPISCGatz-10399-001,Franz Ferdinand Kuenburg,1651.0,1731.0,1670.0,Domherr,Domstift Passau,,False,wiag_domherren,19.0
+WIAG-Pers-EPISCGatz-10403-001,Karl Joseph Kuenburg,1686.0,1729.0,1706.0,Domherr,"Domstift Salzburg, Österreich",,False,wiag_domherren,20.0
+WIAG-Pers-EPISCGatz-10404-001,Maximilian Gandolf Kuenburg,1622.0,1687.0,1644.0,Domherr,"Domstift Salzburg, Österreich",,False,wiag_domherren,22.0
+WIAG-Pers-EPISCGatz-10405-001,Polykarp Wilhelm Kuenburg,1633.0,1675.0,1669.0,Domherr,"Domstift Salzburg, Österreich",,False,wiag_domherren,36.0
+WIAG-Pers-EPISCGatz-10414-001,Anton Joseph Lamberg,1687.0,1755.0,1709.0,Domherr,Domstift Passau,,False,wiag_domherren,22.0
+WIAG-Pers-EPISCGatz-10418-001,Joseph Dominikus Franz Kilian Lamberg,1680.0,1761.0,1698.0,Domherr,Domstift Passau,,False,wiag_domherren,18.0
+WIAG-Pers-EPISCGatz-10421-001,Gottfried Langwerth von Simmern,1669.0,1741.0,1692.0,Domherr,Domstift Regensburg,Bistum Regensburg,False,wiag_domherren,23.0
+WIAG-Pers-EPISCGatz-10427-001,Pierre Lambert Ledrou,1640.0,1721.0,1704.0,Domherr,"Domstift Lüttich, Belgien",,False,wiag_domherren,64.0
+WIAG-Pers-EPISCGatz-10442-001,Jakob Ernst Liechtenstein-Kastelkorn,1690.0,1747.0,1709.0,Domherr,"Domstift Olmütz (Olomouc), Tschechien",,False,wiag_domherren,19.0
+WIAG-Pers-EPISCGatz-10451-001,Paris Lodron,1586.0,1653.0,1606.0,Domherr,"Domstift Salzburg, Österreich",,False,wiag_domherren,20.0
+WIAG-Pers-EPISCGatz-10452-001,Heinrich Friedrich Philipp Gottfried Loe,1691.0,1748.0,1713.0,Domherr,Domstift Hildesheim,,False,wiag_domherren,22.0
+WIAG-Pers-EPISCGatz-10465-001,Otto Matthias Mallinckrodt,1723.0,1761.0,1746.0,Domherr,Domstift Hildesheim,,False,wiag_domherren,23.0
+WIAG-Pers-EPISCGatz-10475-001,Maximilian Franz Österreich,1756.0,1801.0,1780.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,24.0
+WIAG-Pers-EPISCGatz-10503-001,Georg Sigismund Müller,1615.0,1686.0,1650.0,Domherr,Domstift Freising,,False,wiag_domherren,35.0
+WIAG-Pers-EPISCGatz-10527-001,Johann Hugo Orsbeck,1634.0,1711.0,1652.0,Domherr,Domstift Trier,Erzbistum Trier,False,wiag_domherren,18.0
+WIAG-Pers-EPISCGatz-10533-001,Georg Strauwen,1593.0,1661.0,1633.0,Domherr,Domstift Köln,,False,wiag_domherren,40.0
+WIAG-Pers-EPISCGatz-10554-001,Ignaz Wilhelm Plebst,1623.0,1695.0,1652.0,Domherr,Domstift Regensburg,Bistum Regensburg,False,wiag_domherren,29.0
+WIAG-Pers-EPISCGatz-10556-001,Friedrich Christian Plettenberg-Lenhausen,1644.0,1706.0,1663.0,Domherr,Domstift Speyer,Bistum Speyer,False,wiag_domherren,19.0
+WIAG-Pers-EPISCGatz-10573-001,Johann Peter Quentell,1650.0,1710.0,1678.0,Domherr,Domstift Köln,Erzbistum Köln,False,wiag_domherren,28.0
+WIAG-Pers-EPISCGatz-10576-001,Kaspar Anton Radermacher,1711.0,1773.0,1769.0,Domherr,Domstift Köln,Erzbistum Köln,False,wiag_domherren,58.0
+WIAG-Pers-EPISCGatz-10581-001,Beat Albrecht Ramstein,1594.0,1651.0,1620.0,Domherr,Domstift Worms,,False,wiag_domherren,26.0
+WIAG-Pers-EPISCGatz-10588-001,Johann Rudolf Rechberg zu Hohenrechberg,1606.0,1660.0,1628.0,Domherr,Domstift Eichstätt,,False,wiag_domherren,22.0
+WIAG-Pers-EPISCGatz-10590-001,Franz Heinrich Wilhelm Karl Redwitz,1739.0,1804.0,1762.0,Domherr,Domstift Bamberg,Bistum Bamberg,False,wiag_domherren,23.0
+WIAG-Pers-EPISCGatz-10591-001,Joseph Kasimir Karl Redwitz,1752.0,,1786.0,Domherr,Domstift Mainz,,False,wiag_domherren,34.0
+WIAG-Pers-EPISCGatz-10593-001,Johann Baptist Reinach,1669.0,1734.0,1694.0,Domherr,"Domstift Basel, Schweiz",,False,wiag_domherren,25.0
+WIAG-Pers-EPISCGatz-10594-001,Johann Konrad Reinach-Hirzbach,1657.0,1737.0,1676.0,Domherr,"Domstift Basel, Schweiz",,False,wiag_domherren,19.0
+WIAG-Pers-EPISCGatz-10603-001,Johann Arnold Reux,1665.0,1746.0,1720.0,Domherr,Domstift Köln,,False,wiag_domherren,55.0
+WIAG-Pers-EPISCGatz-10615-001,Georg Anton Rodenstein,1579.0,1652.0,1610.0,Domherr,Domstift Mainz,,False,wiag_domherren,31.0
+WIAG-Pers-EPISCGatz-10664-001,Franz Ludwig Schenk von Castell,1671.0,1736.0,1694.0,Domherr,Domstift Augsburg,,False,wiag_domherren,23.0
+WIAG-Pers-EPISCGatz-10667-001,Johann Franz Schenk von Stauffenberg,1658.0,1740.0,1677.0,Domherr,Domstift Konstanz,,False,wiag_domherren,19.0
+WIAG-Pers-EPISCGatz-10686-001,Johann Franz Schönau,1619.0,1656.0,1639.0,Domherr,Domstift Eichstätt,,False,wiag_domherren,20.0
+WIAG-Pers-EPISCGatz-10697-001,Siegmund Christoph Schrattenbach,1698.0,1771.0,1716.0,Domherr,Domstift Augsburg,,False,wiag_domherren,18.0
+WIAG-Pers-EPISCGatz-10700-001,Wolfgang Hannibal Schrattenbach,1660.0,1738.0,1682.0,Domherr,"Domstift Salzburg, Österreich",,False,wiag_domherren,22.0
+WIAG-Pers-EPISCGatz-10718-001,Anton Nikolaus Seitz,1700.0,1757.0,1743.0,Domherr,Domstift Augsburg,Bistum Augsburg,False,wiag_domherren,43.0
+WIAG-Pers-EPISCGatz-10722-001,Kasimir Anton Sickingen,1684.0,1750.0,1713.0,Domherr,Domstift Konstanz,,False,wiag_domherren,29.0
+WIAG-Pers-EPISCGatz-10738-001,Ignaz Franz Stanislaus Spaur,1729.0,1779.0,1755.0,Domherr,"Domstift Salzburg, Österreich",,False,wiag_domherren,26.0
+WIAG-Pers-EPISCGatz-10740-001,Joseph Philipp Franz Spaur,1718.0,1791.0,1736.0,Domherr,"Domstift Brixen (Bressanone), Italien",,False,wiag_domherren,18.0
+WIAG-Pers-EPISCGatz-10742-001,Franz Vigil Spaur und Valör,1609.0,1670.0,1632.0,Domherr,"Domstift Trient, Italien",,False,wiag_domherren,23.0
+WIAG-Pers-EPISCGatz-10746-001,Karl Philipp Johann Spieß,1700.0,1774.0,1734.0,Domherr,Domstift Osnabrück,,False,wiag_domherren,34.0
+WIAG-Pers-EPISCGatz-10748-001,Christoph Rudolph Stadion,1638.0,1700.0,1664.0,Domherr,Domstift Mainz,,False,wiag_domherren,26.0
+WIAG-Pers-EPISCGatz-10755-001,Ferdinand Ottokar Starhemberg,1696.0,1729.0,1717.0,Domherr,Domstift Passau,,False,wiag_domherren,21.0
+WIAG-Pers-EPISCGatz-10756-001,Leopold Ansgar Starhemberg,1695.0,1752.0,1717.0,Domherr,Domstift Passau,,False,wiag_domherren,22.0
+WIAG-Pers-EPISCGatz-10767-001,Antoine Casimir Libère Stockem,1767.0,1811.0,1788.0,Domherr,"Domstift Lüttich, Belgien",,False,wiag_domherren,21.0
+WIAG-Pers-EPISCGatz-10776-001,Felix Stubenberg,1748.0,1828.0,1773.0,Domherr,Domstift Eichstätt,,False,wiag_domherren,25.0
+WIAG-Pers-EPISCGatz-10801-001,Johann Ernst Thun,1643.0,1709.0,1662.0,Domherr,"Domstift Salzburg, Österreich",,False,wiag_domherren,19.0
+WIAG-Pers-EPISCGatz-10803-001,Rudolf Joseph Thun,1652.0,1702.0,1671.0,Domherr,"Domstift Trient, Italien",,False,wiag_domherren,19.0
+WIAG-Pers-EPISCGatz-10810-001,Johann Baptist Thurn und Taxis,1706.0,1762.0,1729.0,Domherr,"Domstift Salzburg, Österreich",,False,wiag_domherren,23.0
+WIAG-Pers-EPISCGatz-10836-001,Johannes Werner Veyder,1657.0,,1694.0,Domherr,Domstift Köln,,False,wiag_domherren,37.0
+WIAG-Pers-EPISCGatz-10852-001,Franz Peter Wämpl,1652.0,1729.0,1682.0,Domherr,Domstift Regensburg,,False,wiag_domherren,30.0
+WIAG-Pers-EPISCGatz-10855-001,Franz Emmerich Kaspar Waldbott von Bassenheim,1626.0,1683.0,1651.0,Domherr,Domstift Speyer,,False,wiag_domherren,25.0
+WIAG-Pers-EPISCGatz-10856-001,Franz Karl Eusebius Waldburg-Friedberg und Trauchburg,1701.0,1772.0,1719.0,Domherr,"Domstift Basel, Schweiz",,False,wiag_domherren,18.0
+WIAG-Pers-EPISCGatz-10857-001,Ferdinand Christoph Waldburg-Zeil,1719.0,1786.0,1745.0,Domherr,"Domstift Salzburg, Österreich",,False,wiag_domherren,26.0
+WIAG-Pers-EPISCGatz-10866-001,Adrian Walenburch,1609.0,1669.0,1647.0,Domherr,Domstift Köln,,False,wiag_domherren,38.0
+WIAG-Pers-EPISCGatz-10867-001,Peter Walenburch seit 1667 von Walenburch,1610.0,1675.0,1669.0,Domherr,Domstift Köln,,False,wiag_domherren,59.0
+WIAG-Pers-EPISCGatz-10875-001,Franz Wilhelm Wartenberg,1593.0,1661.0,1617.0,Domherr,Domstift Regensburg,Bistum Freising,False,wiag_domherren,24.0
+WIAG-Pers-EPISCGatz-10878-001,Jobst Edmund Weichs,1700.0,1755.0,1723.0,Domherr,Domstift Hildesheim,,False,wiag_domherren,23.0
+WIAG-Pers-EPISCGatz-10879-001,Maximilian Heinrich Weichs-Roesberg,1651.0,1723.0,1670.0,Domherr,Domstift Hildesheim,,False,wiag_domherren,19.0
+WIAG-Pers-EPISCGatz-10887-001,Levin Stephan Wenge,1702.0,1776.0,1723.0,Domherr,Domstift Paderborn,,False,wiag_domherren,21.0
+WIAG-Pers-EPISCGatz-10889-001,Franz Ignaz Albert Wertenstein,1697.0,1766.0,1719.0,Domherr,Domstift Freising,,False,wiag_domherren,22.0
+WIAG-Pers-EPISCGatz-10903-001,Franz Arnold Wolff zur Gracht,1658.0,1718.0,1678.0,Domherr,Domstift Osnabrück,Bistum Münster,False,wiag_domherren,20.0
+WIAG-Pers-EPISCGatz-10920-001,Franz Jakob Ignaz Zadler,1637.0,1695.0,1673.0,Domherr,Domstift Freising,,False,wiag_domherren,36.0
+WIAG-Pers-EPISCGatz-10927-001,Johann Anton Zehmen,1715.0,1790.0,1737.0,Domherr,Domstift Eichstätt,,False,wiag_domherren,22.0
+WIAG-Pers-EPISCGatz-10930-001,Johann Sigmund Zeller von und zu Leibersdorf,1653.0,1729.0,1673.0,Domherr,Domstift Regensburg,,False,wiag_domherren,20.0
+WIAG-Pers-EPISCGatz-10938-001,Wilhelm Jakob Amarin Rhein,1699.0,1769.0,1728.0,Domherr,Domstift Würzburg,,False,wiag_domherren,29.0
+WIAG-Pers-EPISCGatz-10942-001,Klemens August Maria Merle,1732.0,1810.0,1762.0,Domherr,Domstift Köln,,False,wiag_domherren,30.0
+WIAG-Pers-EPISCGatz-12602-001,Klemens Wenzeslaus Sachsen,1739.0,1812.0,1763.0,Domherr,Domstift Köln,,False,wiag_domherren,24.0
+WIAG-Pers-EPISCGatz-12614-001,Joseph Stubenberg,1740.0,1824.0,1762.0,Domherr,Domstift Regensburg,,False,wiag_domherren,22.0
+WIAG-Pers-EPISCGatz-12618-001,Franz Xaver Salm-Reifferscheidt-Krautheim,1749.0,1822.0,1767.0,Domherr,"Domstift Olmütz (Olomouc), Tschechien",,False,wiag_domherren,18.0
+WIAG-Pers-EPISCGatz-12620-001,Karl Friedrich Wendt,1748.0,1825.0,1768.0,Domherr,Domstift Hildesheim,,False,wiag_domherren,20.0
+WIAG-Pers-EPISCGatz-12622-001,Johann Hermann Joseph Caspars zu Weiss,1744.0,1822.0,1796.0,Domherr,Domstift Köln,,False,wiag_domherren,52.0
+WIAG-Pers-EPISCGatz-12626-001,Vinzenz Joseph Franz Sales Schrattenbach,1744.0,1816.0,1762.0,Domherr,"Domstift Salzburg, Österreich",,False,wiag_domherren,18.0
+WIAG-Pers-EPISCGatz-12627-001,Gandolf Ernst Kuenburg,1737.0,1793.0,1764.0,Domherr,Domstift Augsburg,,False,wiag_domherren,27.0
+WIAG-Pers-EPISCGatz-12638-001,Franz Friedrich Wilhelm Fürstenberg,1729.0,1810.0,1748.0,Domherr,Domstift Paderborn,Bistum Paderborn,False,wiag_domherren,19.0
+WIAG-Pers-EPISCGatz-12644-001,Johann Nepomuk Wolf,1743.0,1829.0,1764.0,Domherr,Domstift Regensburg,,False,wiag_domherren,21.0
+WIAG-Pers-EPISCGatz-12647-001,Joseph Adam Johann Nepomuk Arco,1733.0,1802.0,1757.0,Domherr,Domstift Passau,,False,wiag_domherren,24.0
+WIAG-Pers-EPISCGatz-12657-001,Emanuel Maria Thun,1763.0,1818.0,1790.0,Domherr,"Domstift Trient, Italien",,False,wiag_domherren,27.0
+WIAG-Pers-EPISCGatz-20003-001,Adolf Anhalt-Zerbst,1458.0,1526.0,1489.0,Domherr,Domstift Hildesheim,Bistum Hildesheim,False,wiag_domherren,31.0
+WIAG-Pers-EPISCGatz-20007-001,Hieronymus Otto Agricola,1571.0,1627.0,1600.0,Domherr,"Domstift Brixen (Bressanone), Italien",,False,wiag_domherren,29.0
+WIAG-Pers-EPISCGatz-20008-001,Gottschalk Ahlefeldt,1475.0,1541.0,1496.0,Domherr,Domstift Schleswig,,False,wiag_domherren,21.0
+WIAG-Pers-EPISCGatz-20009-001,Claude-Louis Alardet,1506.0,1561.0,1529.0,Domherr,"Domstift Lausanne, Schweiz",,False,wiag_domherren,23.0
+WIAG-Pers-EPISCGatz-20010-001,Paul Albert,1557.0,1600.0,1580.0,Domherr,"Domstift Breslau (Wrocław), Polen",,False,wiag_domherren,23.0
+WIAG-Pers-EPISCGatz-20022-001,Busso Alvensleben,1468.0,1548.0,1508.0,Domherr,Domstift Magdeburg,Bistum Halberstadt,False,wiag_domherren,40.0
+WIAG-Pers-EPISCGatz-20028-001,Gregor Angerer,1476.0,1548.0,1510.0,Domherr,"Kollegiatstift, später Domstift Wien, Österreich",,False,wiag_domherren,34.0
+WIAG-Pers-EPISCGatz-20037-001,Johann Gottfried Aschhausen,1575.0,1622.0,1593.0,Domherr,Domstift Würzburg,Bistum Bamberg,False,wiag_domherren,18.0
+WIAG-Pers-EPISCGatz-20048-001,Andreas Barby,1508.0,1559.0,1550.0,Domherr,Domstift Lübeck,,False,wiag_domherren,42.0
+WIAG-Pers-EPISCGatz-20050-001,Andreas Bathory,1563.0,1599.0,1581.0,Domherr,"Domstift Ermland, Polen",,False,wiag_domherren,18.0
+WIAG-Pers-EPISCGatz-20064-001,Zbynko Berka von Duba und Leipa,1551.0,1606.0,1577.0,Domherr,"Domstift Prag (Praha), Tschechien",,False,wiag_domherren,26.0
+WIAG-Pers-EPISCGatz-20067-001,Bernhard Waldeck,1551.0,1591.0,1583.0,Domherr,Domstift Köln,,False,wiag_domherren,32.0
+WIAG-Pers-EPISCGatz-20080-001,Jakob Christoph Blarer von Wartensee,1542.0,1608.0,1560.0,Domherr,"Domstift Basel, Schweiz",,False,wiag_domherren,18.0
+WIAG-Pers-EPISCGatz-20086-001,Dietrich Bocksdorf,1410.0,1466.0,1445.0,Domherr,Domstift Naumburg,Bistum Naumburg,False,wiag_domherren,35.0
+WIAG-Pers-EPISCGatz-20109-001,Martin Brenner,1548.0,1616.0,1585.0,Domherr,Domstift Freising,,False,wiag_domherren,37.0
+WIAG-Pers-EPISCGatz-20111-001,Sebastian Breuning,1552.0,1618.0,1587.0,Domherr,Domstift Augsburg,,False,wiag_domherren,35.0
+WIAG-Pers-EPISCGatz-20127-001,Nikolaus Carlowitz,1502.0,1555.0,1529.0,Domherr,Domstift Meißen,Bistum Meißen,False,wiag_domherren,27.0
+WIAG-Pers-EPISCGatz-20138-001,Christian Braunschweig-Lüneburg-Wolfenbüttel,1566.0,1633.0,1597.0,Domherr,Domstift Minden,,False,wiag_domherren,31.0
+WIAG-Pers-EPISCGatz-20141-001,Thomas Chrön,1560.0,1630.0,1596.0,Domherr,"Domstift Laibach (Ljubljana), Slowenien",,False,wiag_domherren,36.0
+WIAG-Pers-EPISCGatz-20146-001,Bernhard Cles,1485.0,1539.0,1511.0,Domherr,"Domstift Trient, Italien",,False,wiag_domherren,26.0
+WIAG-Pers-EPISCGatz-20147-001,Wolfgang Closen,1503.0,1561.0,1528.0,Domherr,Domstift Passau,,False,wiag_domherren,25.0
+WIAG-Pers-EPISCGatz-20149-001,Niccolò Coret,1532.0,1591.0,1575.0,Domherr,"Domstift Aquileia, Italien",,False,wiag_domherren,43.0
+WIAG-Pers-EPISCGatz-20158-001,Johannes Dantiscus,1485.0,1548.0,1529.0,Domherr,"Domstift Ermland, Polen",,False,wiag_domherren,44.0
+WIAG-Pers-EPISCGatz-20170-001,Franz Seraph Dietrichstein,1570.0,1636.0,1591.0,Domherr,"Domstift Olmütz (Olomouc), Tschechien",,False,wiag_domherren,21.0
+WIAG-Pers-EPISCGatz-20189-001,Wilhelm Effern,1563.0,1616.0,1604.0,Domherr,Domstift Worms,,False,wiag_domherren,41.0
+WIAG-Pers-EPISCGatz-20210-001,Ernst Bayern,1500.0,1560.0,1530.0,Domherr,Domstift Köln,,False,wiag_domherren,30.0
+WIAG-Pers-EPISCGatz-20218-001,Johann Fabri,1478.0,1541.0,1531.0,Domherr,"Domstift Prag (Praha), Tschechien",,False,wiag_domherren,53.0
+WIAG-Pers-EPISCGatz-20225-001,Mauritius Ferber,1471.0,1537.0,1507.0,Domherr,"Domstift Ermland, Polen",,False,wiag_domherren,36.0
+WIAG-Pers-EPISCGatz-20227-001,Simon Feurstein,1553.0,1623.0,1588.0,Domherr,"Domstift Brixen (Bressanone), Italien",,False,wiag_domherren,35.0
+WIAG-Pers-EPISCGatz-20235-001,Johann Flugi,1550.0,1627.0,1586.0,Domherr,"Domstift Chur, Schweiz",,False,wiag_domherren,36.0
+WIAG-Pers-EPISCGatz-20240-001,Franz Waldeck,1491.0,1553.0,1510.0,Domherr,Domstift Köln,Erzbistum Köln,False,wiag_domherren,19.0
+WIAG-Pers-EPISCGatz-20250-001,Friedrich Schleswig-Holstein,1529.0,1556.0,1551.0,Domherr,Domstift Köln,,False,wiag_domherren,22.0
+WIAG-Pers-EPISCGatz-20261-001,Jakob Fugger,1567.0,1626.0,1587.0,Domherr,Domstift Konstanz,,False,wiag_domherren,20.0
+WIAG-Pers-EPISCGatz-20270-001,Johann Konrad Gemmingen,1561.0,1612.0,1579.0,Domherr,Domstift Eichstätt,,False,wiag_domherren,18.0
+WIAG-Pers-EPISCGatz-20275-001,Georg Österreich,1504.0,1557.0,1540.0,Domherr,"Domstift Lüttich, Belgien",,False,wiag_domherren,36.0
+WIAG-Pers-EPISCGatz-20276-001,Georg Braunschweig-Wolfenbüttel,1494.0,1566.0,1515.0,Domherr,Domstift Hildesheim,Erzbistum Köln,False,wiag_domherren,21.0
+WIAG-Pers-EPISCGatz-20280-001,Martin Gerstmann,1527.0,1585.0,1565.0,Domherr,"Domstift Olmütz (Olomouc), Tschechien",,False,wiag_domherren,38.0
+WIAG-Pers-EPISCGatz-20282-001,Tiedemann Bartholomäus Giese,1480.0,1550.0,1507.0,Domherr,"Domstift Ermland, Polen",,False,wiag_domherren,27.0
+WIAG-Pers-EPISCGatz-20295-001,Charles-Chrétien Gournay,1585.0,1637.0,1636.0,Domherr,"Domstift Verdun, Frankreich",,False,wiag_domherren,51.0
+WIAG-Pers-EPISCGatz-20298-001,Georg Friedrich Greiffenclau von Vollrads,1573.0,1629.0,1595.0,Domherr,Domstift Worms,,False,wiag_domherren,22.0
+WIAG-Pers-EPISCGatz-20303-001,Jan Grodecký von Brod,1525.0,1574.0,1560.0,Domherr,"Domstift Olmütz (Olomouc), Tschechien",,False,wiag_domherren,35.0
+WIAG-Pers-EPISCGatz-20304-001,Gerhard Groesbeek,1517.0,1580.0,1536.0,Domherr,"Domstift Lüttich, Belgien",,False,wiag_domherren,19.0
+WIAG-Pers-EPISCGatz-20313-001,Philipp Gundelsheim,1487.0,1553.0,1510.0,Domherr,"Domstift Basel, Schweiz",,False,wiag_domherren,23.0
+WIAG-Pers-EPISCGatz-20317-001,Johann Ludwig Hagen,1492.0,1547.0,1510.0,Domherr,Domstift Trier,Erzbistum Trier,False,wiag_domherren,18.0
+WIAG-Pers-EPISCGatz-20330-001,Johann Haugwitz,1524.0,1595.0,1550.0,Domherr,Domstift Meißen,Bistum Naumburg,False,wiag_domherren,26.0
+WIAG-Pers-EPISCGatz-20333-001,Hugues Hazards,1454.0,1517.0,1505.0,Domherr,"Domstift Metz, Frankreich",,False,wiag_domherren,51.0
+WIAG-Pers-EPISCGatz-20339-001,Heinrich Sachsen-Lauenburg,1550.0,1585.0,1577.0,Domherr,Domstift Köln,,False,wiag_domherren,27.0
+WIAG-Pers-EPISCGatz-20340-001,Heinrich Herzog in Bayern,1487.0,1552.0,1506.0,Domherr,"Domstift Straßburg, Frankreich",,False,wiag_domherren,19.0
+WIAG-Pers-EPISCGatz-20356-001,Sebastian Heusenstamm,1508.0,1555.0,1533.0,Domherr,Domstift Mainz,,False,wiag_domherren,25.0
+WIAG-Pers-EPISCGatz-20364-001,Jodocus Hoetfilter,1500.0,1551.0,1535.0,Domherr,Domstift Köln,Erzbistum Köln,False,wiag_domherren,35.0
+WIAG-Pers-EPISCGatz-20366-001,Andreas Hofmann,1547.0,1604.0,1597.0,Domherr,Domstift Passau,,False,wiag_domherren,50.0
+WIAG-Pers-EPISCGatz-20367-001,Mark Sittich Hohenems,1533.0,1595.0,1560.0,Domherr,Domstift Mainz,,False,wiag_domherren,27.0
+WIAG-Pers-EPISCGatz-20378-001,Stanislaus Hosius,1504.0,1579.0,1538.0,Domherr,"Domstift Ermland, Polen",,False,wiag_domherren,34.0
+WIAG-Pers-EPISCGatz-20381-001,Johann Hoya zu Stolzenau,1529.0,1574.0,1560.0,Domherr,Domstift Lübeck,,False,wiag_domherren,31.0
+WIAG-Pers-EPISCGatz-20396-001,Jakob Baden,1471.0,1511.0,1491.0,Domherr,Domstift Trier,Erzbistum Trier,False,wiag_domherren,20.0
+WIAG-Pers-EPISCGatz-20397-001,Andreas Jerin,1541.0,1596.0,1574.0,Domherr,"Domstift Breslau (Wrocław), Polen",,False,wiag_domherren,33.0
+WIAG-Pers-EPISCGatz-20398-001,Johann Albert Wasa,1612.0,1634.0,1630.0,Domherr,Domstift Köln,,False,wiag_domherren,18.0
+WIAG-Pers-EPISCGatz-20404-001,Johann Rhein,1488.0,1538.0,1506.0,Domherr,Domstift Passau,,False,wiag_domherren,18.0
+WIAG-Pers-EPISCGatz-20411-001,Hildebrand Jost,1585.0,1638.0,1604.0,Domherr,"Domstift Sitten, Schweiz",,False,wiag_domherren,19.0
+WIAG-Pers-EPISCGatz-20416-001,Kaspar Karas von Rhomstein,1591.0,1646.0,1621.0,Domherr,"Domstift Breslau (Wrocław), Polen",,False,wiag_domherren,30.0
+WIAG-Pers-EPISCGatz-20427-001,Rembert Kerssenbrock,1474.0,1568.0,1493.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,19.0
+WIAG-Pers-EPISCGatz-20432-001,Melchior Klesl,1552.0,1630.0,1618.0,Domherr,Domstift Freising,,False,wiag_domherren,66.0
+WIAG-Pers-EPISCGatz-20463-001,Michael Kuenburg,1514.0,1560.0,1538.0,Domherr,Domstift Passau,,False,wiag_domherren,24.0
+WIAG-Pers-EPISCGatz-20494-001,Johann Christoph Lichtenstein-Castelkorn,1591.0,1643.0,1609.0,Domherr,Domstift Passau,,False,wiag_domherren,18.0
+WIAG-Pers-EPISCGatz-20502-001,Sebastian Bartholomäus Lodron,1601.0,1643.0,1623.0,Domherr,"Domstift Trient, Italien",,False,wiag_domherren,22.0
+WIAG-Pers-EPISCGatz-20543-001,Lothar Metternich,1551.0,1623.0,1570.0,Domherr,Domstift Trier,Bistum Münster,False,wiag_domherren,19.0
+WIAG-Pers-EPISCGatz-20605-001,Christoph Marschalk zu Pappenheim,1492.0,1539.0,1511.0,Domherr,Domstift Eichstätt,,False,wiag_domherren,19.0
+WIAG-Pers-EPISCGatz-20627-001,Julius Pflug,1499.0,1564.0,1519.0,Domherr,Domstift Meißen,Bistum Meißen,False,wiag_domherren,20.0
+WIAG-Pers-EPISCGatz-20676-001,Moritz Graf von Sandizell,1514.0,1567.0,1532.0,Domherr,Domstift Freising,,False,wiag_domherren,18.0
+WIAG-Pers-EPISCGatz-20705-001,Johann Schleinitz,1470.0,1537.0,1490.0,Domherr,Domstift Meißen,,False,wiag_domherren,20.0
+WIAG-Pers-EPISCGatz-20720-001,Johann Schönenberg,1525.0,1599.0,1561.0,Domherr,Domstift Münster,Bistum Münster,False,wiag_domherren,36.0
+WIAG-Pers-EPISCGatz-20731-001,Johann Schwickard Kronberg,1553.0,1626.0,1577.0,Domherr,Domstift Mainz,,False,wiag_domherren,24.0
+WIAG-Pers-EPISCGatz-20771-001,Etienne Strecheus,1580.0,1628.0,1618.0,Domherr,"Domstift Lüttich, Belgien",,False,wiag_domherren,38.0
+WIAG-Pers-EPISCGatz-20821-001,Dietrich Reden,1492.0,1556.0,1540.0,Domherr,Domstift Lübeck,,False,wiag_domherren,48.0
+WIAG-Pers-EPISCGatz-20838-001,Detlev Reventlow,1485.0,1536.0,1513.0,Domherr,Domstift Hamburg,,False,wiag_domherren,28.0
+WIAG-Pers-EPISCGatz-20874-001,Gebhard Truchseß von Waldburg,1547.0,1601.0,1577.0,Domherr,Domstift Köln,,False,wiag_domherren,30.0
+WIAG-Pers-EPISCGatz-20916-001,Anselm Kasimir Wambolt von Umstadt,1583.0,1647.0,1605.0,Domherr,Domstift Mainz,,False,wiag_domherren,22.0
+WIAG-Pers-EPISCGatz-20948-001,Friedrich Wied,1478.0,1551.0,1522.0,Domherr,Domstift Köln,Erzbistum Köln,False,wiag_domherren,44.0
+WIAG-Pers-EPISCGatz-21725-001,Daniel Brendel von Homburg,1522.0,1582.0,1543.0,Domherr,Domstift Speyer,,False,wiag_domherren,21.0
+WIAG-Pers-EPISCGatz-21751-001,Wolfgang Friedrich Laimingen,1629.0,1675.0,1654.0,Domherr,Domstift Regensburg,Bistum Regensburg,False,wiag_domherren,25.0
+WIAG-Pers-EPISCGatz-21752-001,Joachim Albrecht Leiblfing zu Rain,1640.0,1692.0,1664.0,Domherr,Domstift Regensburg,,False,wiag_domherren,24.0
+WIAG-Pers-EPISCGatz-21754-001,Hannibal Felix Thurn und Valsassina,1699.0,1733.0,1718.0,Domherr,"Domstift Salzburg, Österreich",,False,wiag_domherren,19.0
+WIAG-Pers-EPISCGatz-21755-001,Johann Leopold Peter Khevenhueller,1710.0,1775.0,1731.0,Domherr,Domstift Eichstätt,,False,wiag_domherren,21.0
+WIAG-Pers-EPISCGatz-21777-001,Christian August Sachsen-Zeitz,1666.0,1725.0,1691.0,Domherr,Domstift Köln,Bistum Lüttich,False,wiag_domherren,25.0

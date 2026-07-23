@@ -1,0 +1,2 @@
+test,source,mean_glass,mean_control,ratio_glass_to_control,t_stat,p_value,n_glass,n_control,total_glass_editions,total_control_editions,note
+istc_glass_vs_control,istc_official_2025_period_start_1400,1218.4,56.88390501319261,21.419063964005755,2.1113311969672908,0.10227795306301639,5,379,6092,21559,cross_section_associational_not_did

@@ -1,0 +1,2 @@
+test,mean_pre_1300,mean_post_1300,share45_pre,share45_post,t_stat,p_value,n_pre,n_post,n_career_events_1250_1550,n_immat_pre_1300,n_immat_post_1300
+rag_age_at_first_career_pre_vs_post_1300,27.7143,23.2527,0.1429,0.0359,-1.2318,0.263865,7,1951,142968,82,108212

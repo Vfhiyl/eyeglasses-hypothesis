@@ -1,0 +1,2 @@
+test,mean_pre_1300,mean_post_1300,t_stat,p_value,n_pre,n_post,note
+active_share_45plus_pre_vs_post_1300,,0.4243,,,0,5,synthetic_rete_proxy; century-level shares

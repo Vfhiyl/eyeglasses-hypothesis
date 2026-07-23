@@ -1,0 +1,31 @@
+Associational. Formula omits post_1300 (collinear with C(century)). Synthetic RETE ages; not individual-level binomial GLM.
+
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:           share_45plus   R-squared:                       0.118
+Model:                            OLS   Adj. R-squared:                 -0.025
+Method:                 Least Squares   F-statistic:                    0.6653
+Date:                Wed, 22 Jul 2026   Prob (F-statistic):              0.653
+Time:                        00:04:13   Log-Likelihood:                 6.9555
+No. Observations:                  37   AIC:                            -1.911
+Df Residuals:                      31   BIC:                             7.755
+Df Model:                           5                                         
+Covariance Type:                  HC1                                         
+======================================================================================
+                         coef    std err          z      P>|z|      [0.025      0.975]
+--------------------------------------------------------------------------------------
+Intercept              0.3952      0.055      7.157      0.000       0.287       0.503
+C(century)[T.1400]     0.1612      0.131      1.231      0.218      -0.095       0.418
+C(century)[T.1500]    -0.0211      0.086     -0.246      0.806      -0.190       0.147
+C(century)[T.1600]    -0.0440      0.072     -0.615      0.539      -0.184       0.096
+C(century)[T.1700]     0.0383      0.094      0.409      0.683      -0.145       0.222
+glass_center           0.0216      0.135      0.160      0.873      -0.243       0.286
+==============================================================================
+Omnibus:                        3.363   Durbin-Watson:                   2.377
+Prob(Omnibus):                  0.186   Jarque-Bera (JB):                2.120
+Skew:                          -0.515   Prob(JB):                        0.347
+Kurtosis:                       3.561   Cond. No.                         9.09
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC1)

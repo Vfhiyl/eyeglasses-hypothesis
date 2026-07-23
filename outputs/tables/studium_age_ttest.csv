@@ -1,0 +1,2 @@
+test,share45_pre,share45_post,mean_pre_1300,mean_post_1300,t_stat,p_value,p_value_mean_age,n_pre,n_post,note
+studium_share45_pre_vs_post_1300,0.8519,0.8973,71.2346,61.7243,-0.7183,0.287769,0.474625,81,185,p_value is share45 proportion test; local window; filtered life dates

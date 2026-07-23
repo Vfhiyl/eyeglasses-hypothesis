@@ -1,0 +1,4 @@
+person_id,name,wikidata_qid,status,birth_year,death_year,evidence_year,evidence_age,evidence_type,occupation_class,confidence,n_works,age_first_work,age_last_work,age_mean_work,n_works_before_evidence,n_works_after_evidence,share_works_after_evidence
+petrarch,Francesco Petrarca,Q1401,ok,1304.0,1374.0,1364.0,60.0,self_report_literary,humanist_scholar,high,14,21.0,65.0,44.142857142857146,13.0,1.0,0.07142857142857142
+filelfo,Francesco Filelfo,Q4622,ok,1398.0,1481.0,1456.0,58.0,order_request_letter,humanist_scholar,high,3,29.0,82.0,51.0,2.0,1.0,0.3333333333333333
+lotto,Lorenzo Lotto,Q310973,ok,1480.0,1556.0,1540.0,60.0,account_book_wear,painter,medium,12,25.0,72.0,47.166666666666664,10.0,2.0,0.16666666666666666

@@ -1,0 +1,27 @@
+# Published ISTC city totals (15th c. incunabula editions, approximate)
+# Sources: ISTC aggregate statistics, Goldfinch & Ridge 2020, Atlas of Early Printing
+city,total_incunabula,glass_center
+Venice,4500,true
+Paris,3200,false
+Rome,2000,false
+Cologne,1800,false
+Lyon,1400,false
+Leipzig,1300,false
+Nuremberg,1200,true
+Milan,1100,true
+Basel,1000,false
+Strasbourg,950,false
+Florence,900,true
+Augsburg,850,false
+Barcelona,800,false
+Pisa,200,true
+Murano,50,true
+Bologna,600,false
+Oxford,500,false
+Cambridge,400,false
+Prague,450,false
+Salamanca,400,false
+Krakow,350,false
+Utrecht,300,false
+Heidelberg,280,false
+Padua,250,false

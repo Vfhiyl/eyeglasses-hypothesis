@@ -1,0 +1,136 @@
+# Glass / eyeglass manufacturing centers and control cities
+# Sources: Ilardi (2007), Venice 1300 cristalleri guild, Macfarlane & Martin (2002)
+
+glass_centers:
+  - city: Florence
+    country: Italy
+    glass_center: true
+    year_first_guild: 1320
+    year_first_spectacles: 1289
+    has_university: true
+    university_founded: 1321
+    region: Italy
+    population_1500: 50000
+  - city: Venice
+    country: Italy
+    glass_center: true
+    year_first_guild: 1300
+    year_first_spectacles: 1300
+    has_university: false
+    university_founded: null
+    region: Italy
+    population_1500: 115000
+  - city: Pisa
+    country: Italy
+    glass_center: true
+    year_first_guild: null
+    year_first_spectacles: 1286
+    has_university: true
+    university_founded: 1343
+    region: Italy
+    population_1500: 20000
+  - city: Murano
+    country: Italy
+    glass_center: true
+    year_first_guild: 1291
+    year_first_spectacles: 1300
+    has_university: false
+    university_founded: null
+    region: Italy
+    population_1500: 7000
+  - city: Nuremberg
+    country: Germany
+    glass_center: true
+    year_first_guild: 1531
+    year_first_spectacles: 1400
+    has_university: false
+    university_founded: null
+    region: Germany
+    population_1500: 40000
+  - city: Milan
+    country: Italy
+    glass_center: true
+    year_first_guild: null
+    year_first_spectacles: 1462
+    has_university: true
+    university_founded: 1361
+    region: Italy
+    population_1500: 100000
+
+control_cities:
+  - city: Bologna
+    country: Italy
+    glass_center: false
+    has_university: true
+    university_founded: 1088
+    region: Italy
+    population_1500: 60000
+  - city: Paris
+    country: France
+    glass_center: false
+    has_university: true
+    university_founded: 1150
+    region: France
+    population_1500: 225000
+  - city: Oxford
+    country: England
+    glass_center: false
+    has_university: true
+    university_founded: 1096
+    region: England
+    population_1500: 12000
+  - city: Cambridge
+    country: England
+    glass_center: false
+    has_university: true
+    university_founded: 1209
+    region: England
+    population_1500: 6000
+  - city: Cologne
+    country: Germany
+    glass_center: false
+    has_university: true
+    university_founded: 1388
+    region: Germany
+    population_1500: 40000
+  - city: Prague
+    country: Bohemia
+    glass_center: false
+    has_university: true
+    university_founded: 1348
+    region: Germany
+    population_1500: 50000
+  - city: Salamanca
+    country: Spain
+    glass_center: false
+    has_university: true
+    university_founded: 1218
+    region: Iberia
+    population_1500: 25000
+  - city: Krakow
+    country: Poland
+    glass_center: false
+    has_university: true
+    university_founded: 1364
+    region: Eastern_Europe
+    population_1500: 18000
+
+# City name aliases for matching RETE/ISTC records
+aliases:
+  Firenze: Florence
+  Venezia: Venice
+  Pisae: Pisa
+  Florentiae: Florence
+  Venetiis: Venice
+  Mediolanum: Milan
+  Milano: Milan
+  Norimberga: Nuremberg
+  Nürnberg: Nuremberg
+  Bononia: Bologna
+  Lutetia: Paris
+  Parisiis: Paris
+  Oxonia: Oxford
+  Cantabrigia: Cambridge
+  Colonia: Cologne
+  Praga: Prague
+  Cracovia: Krakow

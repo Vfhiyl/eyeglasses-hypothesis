@@ -1,0 +1,10 @@
+# Life expectancy at age 30 for European scholars (Stelter et al. 2021, Demography)
+# e30 = remaining years of life from age 30
+century,e30_at_30,source
+1500,30.5,stelter2021_approx
+1550,30.0,stelter2021_approx
+1600,27.0,stelter2021_17c_crisis
+1650,27.5,stelter2021_approx
+1700,28.0,stelter2021_approx
+1750,32.0,stelter2021_approx
+1800,35.0,stelter2021_approx

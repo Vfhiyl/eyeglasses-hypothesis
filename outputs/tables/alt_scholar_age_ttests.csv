@@ -1,0 +1,6 @@
+test,mean_pre_1300,mean_post_1300,share45_pre,share45_post,t_stat,p_value,share45_prop_z,share45_prop_p,n_pre,n_post,note
+pantheon_age_at_death_pre_vs_post_1300,66.7818,63.3909,0.9455,0.9088,-1.7851,0.078286,-0.8947,0.370923,55,307,Pantheon EU scholar occupations; death-year split; elite fame sample
+wikidata_intellectuals_age_at_death_pre_vs_post_1300,66.7719,62.627,0.9125,0.8651,-9.1569,0.0,-4.9799,1e-06,1315,42821,"Wikidata European intellectuals (merged occupations, death 1100–1850); death-year split"
+stelter_career_span_1300s_vs_1400s,18.8837,20.3058,0.3953,0.4752,0.5748,0.567605,0.9677,0.333185,43,242,Stelter HRE; 1300s vs 1400s starts; long-span share (thr=20y); spectacles already traded in 14c
+stelter_active_at_45_1300s_vs_1400s,0.6047,0.5702,0.6047,0.5702,-0.42,0.67601,-0.4206,0.674062,43,242,Stelter; share of appointments covering age 45; experience-premium predicts rise as glasses diffuse
+stelter_active_at_45_1400_44_vs_1450_99,0.5647,0.5732,0.5647,0.5732,0.1274,0.898756,0.1281,0.898035,85,157,"Stelter; pre-print vs early-print cohorts; if glasses-not-print drove late careers, 1400-44 should already be high"

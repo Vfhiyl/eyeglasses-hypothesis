@@ -1,0 +1,2 @@
+n_records_total,n_pre_1300,n_post_1300,n_glass_center_city,n_physical_or_ownership,earliest_year,latest_year_end,claim_layer,note,ilardi_court_pairs_documented,ilardi_london_import_pairs_sum,ilardi_price_soldi_min,ilardi_price_soldi_max,ilardi_order_docs
+37,1,36,18,25,1286,1562,spectacle_adoption_evidence,Ilardi RQ1976-corrected court orders ~108 pairs (1462:54 + 1466:50 + extras); London customs cited sum 25988; Florence prices ~0.67-20.0 soldi/pair. Supports diffusion/affordability/age-grading; not career-year identification.,108,25988,0.67,20.0,4

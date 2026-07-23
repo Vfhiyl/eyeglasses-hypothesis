@@ -1,0 +1,14 @@
+person_id,name,wikidata_qid,status,birth_year,death_year,evidence_year,evidence_age,evidence_type,occupation_class,confidence,n_works,age_first_work,age_last_work,age_mean_work,n_works_before_evidence,n_works_after_evidence,share_works_after_evidence
+petrarch,Francesco Petrarca,Q1401,ok,1304.0,1374.0,1364.0,60.0,self_report_literary,humanist_scholar,high,14,21.0,65.0,44.142857142857146,13.0,1.0,0.07142857142857142
+filelfo,Francesco Filelfo,Q4622,ok,1398.0,1481.0,1456.0,58.0,order_request_letter,humanist_scholar,high,3,29.0,82.0,51.0,2.0,1.0,0.3333333333333333
+ammannati,Iacopo Ammannati Piccolomini,Q1677987,ok,1422.0,1479.0,1473.0,51.0,order_receipt_letter,cardinal_humanist,high,0,,,,0.0,0.0,
+bernardino,Bernardino of Siena,Q194449,ok,1380.0,1444.0,1444.0,64.0,posthumous_relic_possession,preacher_saint,high,0,,,,0.0,0.0,
+leo_x,Pope Leo X (Giovanni de Medici),Q5703,ok,1475.0,1521.0,1513.0,38.0,expense_accounts_and_reports,pope_humanist_patron,high,0,,,,0.0,0.0,
+lotto,Lorenzo Lotto,Q310973,ok,1480.0,1556.0,1540.0,60.0,account_book_wear,painter,medium,12,25.0,72.0,47.166666666666664,10.0,2.0,0.16666666666666666
+gonzaga_francesco,Cardinal Francesco Gonzaga,Q1441206,ok,1444.0,1483.0,1483.0,39.0,inventory_cases_lenses,cardinal,medium,0,,,,0.0,0.0,
+stapeldon,Walter de Stapeldon,Q4476147,ok,1261.0,1326.0,1326.0,65.0,probate_inventory,bishop_statesman,high,0,,,,0.0,0.0,
+orsi,Antonio degli Orsi,Q3619497,ok,1260.0,1321.0,1322.0,62.0,probate_inventory,bishop,medium,0,,,,0.0,0.0,
+magnavia,Giovanni di Magnavia,,no_qid,,,,,,,,0,,,,,,
+strozzi_filippo,Filippo Strozzi the Elder,Q1384100,ok,1428.0,1491.0,1480.0,52.0,secondary_named_wearer,merchant_banker,medium,0,,,,0.0,0.0,
+sacchetti,Franco Sacchetti,Q739981,ok,1332.0,1400.0,1392.0,60.0,literary_depiction_author,merchant_writer,low,0,,,,0.0,0.0,
+leonardovinci,Leonardo da Vinci,Q762,ok,1452.0,1519.0,1500.0,48.0,notebook_mentions_inferred,artist_engineer,low,23,20.0,62.0,39.43478260869565,15.0,8.0,0.34782608695652173

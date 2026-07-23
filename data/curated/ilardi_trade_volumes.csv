@@ -1,0 +1,18 @@
+obs_id,year,year_end,place,flow,pairs,source_series,archive_ref,source_page_note,confidence,notes
+london_1384_q3,1384,1384,London,import,1152,customs_tunnage_poundage,TNA PRO E122/71/8 m.4,Ilardi 2007 + Jenks i_4 verified,high,Eight gross Jul-Sep 1384
+london_1390_may_jun,1390,1390,London,import,764,customs,TNA PRO E122 Jenks i_5,Ilardi 2007 ch.2,medium,Ilardi aggregate May-Jun 1390; Jenks line items also list dozens/500 separately
+london_1391_apr_may,1391,1391,London,import,4104,customs,TNA PRO E122 Jenks i_6,Ilardi 2007 ch.2,high,Apr-May 1391 total; includes 26-gross Hans Knygth shipment of 3744
+sforza_court_1462_66,1462,1466,Milan_via_Florence,court_order,104,diplomatic_orders,BNF + ASM Sforzesco,Ilardi RQ 1976 pp.345-349 p.356,high,RQ1976: 54 in 1462 + 50 in 1466 = 104
+paradiso_monastery_sales_1452_60,1452,1460,Florence,monastery_retail_sales,,cash_receipts_not_pair_count,ASF Monastero accounts,Ilardi 2007 Appendix II,medium,Cash totals only; pair counts incomplete in OCR
+london_1480_81_cobb,1480,1481,London,import,5472,customs_petty_cobb,E122/194/25; BHO LRS vol27,line-item scrape + Cobb intro ~30 gross,high,Line sum 5472 pairs; editor said some 30 gross (~4320); Low Countries industry
+florence_1525_occhialai_est,1525,1525,Florence,production_estimate,42000,catasto_salary_backcalc,Ilardi 2007 / Goldthwaite calc,6 occhialai x 7000 pairs @2 soldi 25pct margin,medium,Back-of-envelope from Catasto wages; export-oriented if city pop ~60k; not observed shipment count
+florence_1480_occhialai_named,1480,1480,Florence,artisan_census,,catasto_named_makers,Ilardi 2007 Appendix I,6 shops / 9 named occhialai in 1480 Catasto,high,Capacity signal not pair count; similar backcalc possible
+london_1509_gras_sample,1509,1509,London,import,1584,customs_subsidy_gras,Gras 1918 pp.560-580; 21 Apr-23 Jun 1509,9+1.5 gross + 6 dozen sample hits,high,Partial Apr-Jun 1509; Ilardi cites 1872 for two-month window (may include more lines)
+london_1410_20doz,1410,1410,London,import,240,customs_jenks_ii_1,E122/76/32,Jenks ii_1 verified,high,20 dozen 7 May 1410
+london_1428_29_jenks,1428,1429,London,import,2304,customs_jenks_ii_3,E122/74/11,5 gross 1428 + 11 gros 1429,high,Plus 6 coffynes cases; matches Ilardi ch.4
+rome_1457_german_8mo,1457,1457,Rome,import,2692,camera_urbis_esch_ilardi,ASR Camera Urbis Introitus,Ilardi 2007: 14 gross +100 +4 gross in first 8 months 1457,high,German/Flemish merchants; wooden frames cheaper
+london_1494_macgregor,1494,1495,London,import,2880,customs_jenks_iv_3,E122/79/5,Jenks iv_3 verified: Hill 4+4 + Mowger 12 gross,high,Upgraded from MacGregor secondary; 2880 pairs in 1494/95 account sample
+venice_1540_levant_export,1540,1540,Venice,export,24000,secondary_trade_cite,Ilardi 2007,Ilardi: 24000 pairs Venice to Levant 1540,medium,Largest cited early-modern shipment; verify primary if used as core claim
+london_1487_24gros,1487,1488,London,import,3456,customs_jenks_iv_1,E122/78/7,Nicholao Mazeracheo 24 gros,high,Largest single London line found so far
+london_1478_jenks,1477,1478,London,import,2304,customs_jenks_iii_4,E122/194/22,12+4 gross,high,Andrea van Hulse 12 + Barbour 4
+london_1502_12gros,1502,1502,London,import,1728,customs_jenks_iv_5,E122,21 Nov 1502,high,Nicholao Haryson 12 gros

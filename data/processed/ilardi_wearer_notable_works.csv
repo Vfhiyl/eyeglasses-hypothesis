@@ -1,0 +1,53 @@
+person_id,name,wikidata_qid,birth_year,death_year,evidence_year,evidence_age,evidence_type,occupation_class,confidence,work,pub_year,age_at_work,work_after_evidence
+petrarch,Francesco Petrarca,Q1401,1304,1374,1364,60,self_report_literary,humanist_scholar,high,http://www.wikidata.org/entity/Q383855,1339,35,False
+petrarch,Francesco Petrarca,Q1401,1304,1374,1364,60,self_report_literary,humanist_scholar,high,http://www.wikidata.org/entity/Q425606,1337,33,False
+petrarch,Francesco Petrarca,Q1401,1304,1374,1364,60,self_report_literary,humanist_scholar,high,http://www.wikidata.org/entity/Q777574,1336,32,False
+petrarch,Francesco Petrarca,Q1401,1304,1374,1364,60,self_report_literary,humanist_scholar,high,http://www.wikidata.org/entity/Q995950,1325,21,False
+petrarch,Francesco Petrarca,Q1401,1304,1374,1364,60,self_report_literary,humanist_scholar,high,http://www.wikidata.org/entity/Q1094908,1351,47,False
+petrarch,Francesco Petrarca,Q1401,1304,1374,1364,60,self_report_literary,humanist_scholar,high,http://www.wikidata.org/entity/Q3646317,1346,42,False
+petrarch,Francesco Petrarca,Q1401,1304,1374,1364,60,self_report_literary,humanist_scholar,high,http://www.wikidata.org/entity/Q3704141,1347,43,False
+petrarch,Francesco Petrarca,Q1401,1304,1374,1364,60,self_report_literary,humanist_scholar,high,http://www.wikidata.org/entity/Q3704161,1360,56,False
+petrarch,Francesco Petrarca,Q1401,1304,1374,1364,60,self_report_literary,humanist_scholar,high,http://www.wikidata.org/entity/Q3704182,1346,42,False
+petrarch,Francesco Petrarca,Q1401,1304,1374,1364,60,self_report_literary,humanist_scholar,high,http://www.wikidata.org/entity/Q3800903,1355,51,False
+petrarch,Francesco Petrarca,Q1401,1304,1374,1364,60,self_report_literary,humanist_scholar,high,http://www.wikidata.org/entity/Q3800901,1369,65,True
+petrarch,Francesco Petrarca,Q1401,1304,1374,1364,60,self_report_literary,humanist_scholar,high,http://www.wikidata.org/entity/Q3933307,1350,46,False
+petrarch,Francesco Petrarca,Q1401,1304,1374,1364,60,self_report_literary,humanist_scholar,high,http://www.wikidata.org/entity/Q123483277,1358,54,False
+petrarch,Francesco Petrarca,Q1401,1304,1374,1364,60,self_report_literary,humanist_scholar,high,http://www.wikidata.org/entity/Q123483349,1355,51,False
+filelfo,Francesco Filelfo,Q4622,1398,1481,1456,58,order_request_letter,humanist_scholar,high,http://www.wikidata.org/entity/Q120999038,1440,42,False
+filelfo,Francesco Filelfo,Q4622,1398,1481,1456,58,order_request_letter,humanist_scholar,high,http://www.wikidata.org/entity/Q134298389,1427,29,False
+filelfo,Francesco Filelfo,Q4622,1398,1481,1456,58,order_request_letter,humanist_scholar,high,http://www.wikidata.org/entity/Q135448385,1480,82,True
+lotto,Lorenzo Lotto,Q310973,1480,1556,1540,60,account_book_wear,painter,medium,http://www.wikidata.org/entity/Q369350,1505,25,False
+lotto,Lorenzo Lotto,Q310973,1480,1556,1540,60,account_book_wear,painter,medium,http://www.wikidata.org/entity/Q605863,1530,50,False
+lotto,Lorenzo Lotto,Q310973,1480,1556,1540,60,account_book_wear,painter,medium,http://www.wikidata.org/entity/Q649875,1517,37,False
+lotto,Lorenzo Lotto,Q310973,1480,1556,1540,60,account_book_wear,painter,medium,http://www.wikidata.org/entity/Q3605564,1523,43,False
+lotto,Lorenzo Lotto,Q310973,1480,1556,1540,60,account_book_wear,painter,medium,http://www.wikidata.org/entity/Q3657381,1524,44,False
+lotto,Lorenzo Lotto,Q310973,1480,1556,1540,60,account_book_wear,painter,medium,http://www.wikidata.org/entity/Q3910913,1552,72,True
+lotto,Lorenzo Lotto,Q310973,1480,1556,1540,60,account_book_wear,painter,medium,http://www.wikidata.org/entity/Q3937550,1547,67,True
+lotto,Lorenzo Lotto,Q310973,1480,1556,1540,60,account_book_wear,painter,medium,http://www.wikidata.org/entity/Q3937598,1520,40,False
+lotto,Lorenzo Lotto,Q310973,1480,1556,1540,60,account_book_wear,painter,medium,http://www.wikidata.org/entity/Q3937702,1526,46,False
+lotto,Lorenzo Lotto,Q310973,1480,1556,1540,60,account_book_wear,painter,medium,http://www.wikidata.org/entity/Q3947723,1527,47,False
+lotto,Lorenzo Lotto,Q310973,1480,1556,1540,60,account_book_wear,painter,medium,http://www.wikidata.org/entity/Q131557854,1526,46,False
+lotto,Lorenzo Lotto,Q310973,1480,1556,1540,60,account_book_wear,painter,medium,http://www.wikidata.org/entity/Q131613887,1529,49,False
+leonardovinci,Leonardo da Vinci,Q762,1452,1519,1500,48,notebook_mentions_inferred,artist_engineer,low,http://www.wikidata.org/entity/Q128910,1490,38,False
+leonardovinci,Leonardo da Vinci,Q762,1452,1519,1500,48,notebook_mentions_inferred,artist_engineer,low,http://www.wikidata.org/entity/Q474338,1490,38,False
+leonardovinci,Leonardo da Vinci,Q762,1452,1519,1500,48,notebook_mentions_inferred,artist_engineer,low,http://www.wikidata.org/entity/Q563727,1511,59,True
+leonardovinci,Leonardo da Vinci,Q762,1452,1519,1500,48,notebook_mentions_inferred,artist_engineer,low,http://www.wikidata.org/entity/Q591128,1500,48,True
+leonardovinci,Leonardo da Vinci,Q762,1452,1519,1500,48,notebook_mentions_inferred,artist_engineer,low,http://www.wikidata.org/entity/Q783215,1514,62,True
+leonardovinci,Leonardo da Vinci,Q762,1452,1519,1500,48,notebook_mentions_inferred,artist_engineer,low,http://www.wikidata.org/entity/Q797902,1500,48,True
+leonardovinci,Leonardo da Vinci,Q762,1452,1519,1500,48,notebook_mentions_inferred,artist_engineer,low,http://www.wikidata.org/entity/Q972196,1480,28,False
+leonardovinci,Leonardo da Vinci,Q762,1452,1519,1500,48,notebook_mentions_inferred,artist_engineer,low,http://www.wikidata.org/entity/Q1217213,1472,20,False
+leonardovinci,Leonardo da Vinci,Q762,1452,1519,1500,48,notebook_mentions_inferred,artist_engineer,low,http://www.wikidata.org/entity/Q1638622,1482,30,False
+leonardovinci,Leonardo da Vinci,Q762,1452,1519,1500,48,notebook_mentions_inferred,artist_engineer,low,http://www.wikidata.org/entity/Q1892745,1500,48,True
+leonardovinci,Leonardo da Vinci,Q762,1452,1519,1500,48,notebook_mentions_inferred,artist_engineer,low,http://www.wikidata.org/entity/Q20174114,1474,22,False
+leonardovinci,Leonardo da Vinci,Q762,1452,1519,1500,48,notebook_mentions_inferred,artist_engineer,low,http://www.wikidata.org/entity/Q131449682,1496,44,False
+leonardovinci,Leonardo da Vinci,Q762,1452,1519,1500,48,notebook_mentions_inferred,artist_engineer,low,http://www.wikidata.org/entity/Q131501780,1500,48,True
+leonardovinci,Leonardo da Vinci,Q762,1452,1519,1500,48,notebook_mentions_inferred,artist_engineer,low,http://www.wikidata.org/entity/Q131501822,1500,48,True
+leonardovinci,Leonardo da Vinci,Q762,1452,1519,1500,48,notebook_mentions_inferred,artist_engineer,low,http://www.wikidata.org/entity/Q131561186,1478,26,False
+leonardovinci,Leonardo da Vinci,Q762,1452,1519,1500,48,notebook_mentions_inferred,artist_engineer,low,http://www.wikidata.org/entity/Q131561185,1481,29,False
+leonardovinci,Leonardo da Vinci,Q762,1452,1519,1500,48,notebook_mentions_inferred,artist_engineer,low,http://www.wikidata.org/entity/Q131579611,1478,26,False
+leonardovinci,Leonardo da Vinci,Q762,1452,1519,1500,48,notebook_mentions_inferred,artist_engineer,low,http://www.wikidata.org/entity/Q131613919,1490,38,False
+leonardovinci,Leonardo da Vinci,Q762,1452,1519,1500,48,notebook_mentions_inferred,artist_engineer,low,http://www.wikidata.org/entity/Q131613966,1495,43,False
+leonardovinci,Leonardo da Vinci,Q762,1452,1519,1500,48,notebook_mentions_inferred,artist_engineer,low,http://www.wikidata.org/entity/Q131613970,1495,43,False
+leonardovinci,Leonardo da Vinci,Q762,1452,1519,1500,48,notebook_mentions_inferred,artist_engineer,low,http://www.wikidata.org/entity/Q131613971,1495,43,False
+leonardovinci,Leonardo da Vinci,Q762,1452,1519,1500,48,notebook_mentions_inferred,artist_engineer,low,http://www.wikidata.org/entity/Q131613984,1479,27,False
+leonardovinci,Leonardo da Vinci,Q762,1452,1519,1500,48,notebook_mentions_inferred,artist_engineer,low,http://www.wikidata.org/entity/Q12418,1503,51,True

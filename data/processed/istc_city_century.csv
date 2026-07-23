@@ -1,0 +1,503 @@
+city,century,book_count
+"""Bologna",1400.0,2
+"""Florence",1400.0,1
+"""Leipzig",1500.0,1
+"""Mainz",1400.0,1
+"""Nazzano""",1400.0,1
+"""Paris",1400.0,1
+"""Rome",1400.0,1
+"""Siena",1400.0,3
+"""Venice",1400.0,6
+'Basel,1400.0,1
+'Ferrara',1400.0,1
+'Rome,1400.0,1
+'Rome',1400.0,1
+'San Cugat del Valles',1400.0,1
+'Siena,1400.0,1
+'Siena',1400.0,1
+'Supra Rychensteyn',1400.0,1
+'Venice,1400.0,4
+'Venice',1400.0,7
+'Venice',1500.0,1
+'s-Hertogenbosch,1400.0,14
+Abbeville,1400.0,3
+Albi,1400.0,20
+Alcalá,1500.0,1
+Alost,1400.0,26
+Angers,1400.0,27
+Angoulême,1400.0,10
+Antwerp,1400.0,410
+Antwerp,1500.0,31
+Antwerp? or Louvain?,1400.0,6
+Aquila,1400.0,11
+Ascoli Piceno,1400.0,2
+Audenarde,1400.0,14
+Augsburg,1400.0,1179
+Augsburg,1500.0,54
+Augsburg or Nuremberg,1400.0,1
+Augsburg?,1400.0,2
+Avignon,1400.0,4
+Avignon,1500.0,2
+Bamberg,1400.0,141
+Bamberg,1500.0,6
+Bamberg or Nuremberg?,1400.0,1
+Barcelona,1400.0,123
+Barcelona,1500.0,2
+Barcelona?,1400.0,2
+Barco,1400.0,2
+Basel,1400.0,756
+Basel,1500.0,53
+Basel?,1400.0,1
+Bavaria,1400.0,2
+Bergamo,1400.0,1
+Berlin,1400.0,1
+Beromünster,1400.0,6
+Besançon,1400.0,7
+Blaubeuren,1400.0,24
+Bologna,1400.0,526
+Bologna,1500.0,36
+Bologna?,1400.0,5
+Braga,1400.0,2
+Brescia,1400.0,257
+Brescia,1500.0,22
+Breslau,1400.0,11
+Bruges,1400.0,41
+Brussels,1400.0,36
+Bréhan-Loudéac,1400.0,12
+Brünn,1400.0,23
+Buda,1400.0,2
+Burgdorf,1400.0,7
+Burgos,1400.0,95
+Burgos,1500.0,15
+Burgos or Valladolid,1500.0,1
+Burgos?,1400.0,1
+Caen,1400.0,1
+Caen,1500.0,2
+Cagli,1400.0,5
+Cagliari?,1400.0,2
+Capua,1400.0,1
+Casal di San Vaso,1400.0,4
+Casale Monferrato,1400.0,2
+Caselle,1400.0,3
+Castano Primo,1400.0,1
+Castile,1400.0,5
+Central Italy?,1400.0,1
+Cesena,1400.0,1
+Cetinje,1400.0,4
+Chablis,1400.0,7
+Chambéry,1400.0,9
+Chartres,1400.0,2
+Chaves,1400.0,2
+Chivasso,1400.0,1
+Châlons-en-Champagne,1400.0,1
+Châlons-en-Champagne,1500.0,1
+Cividale,1400.0,3
+Cluny,1400.0,2
+Colle di Val d'Elsa,1400.0,1
+Colle di Valdelsa,1400.0,5
+Cologne,1400.0,1421
+Cologne,1500.0,127
+Cologne or Trier?,1400.0,1
+Cologne?,1400.0,5
+Como,1400.0,3
+Constantinople,1400.0,1
+Copenhagen,1400.0,5
+Coria,1400.0,2
+Cosenza,1400.0,7
+Cracow,1400.0,8
+Cremona,1400.0,30
+Cremona,1500.0,2
+Culemborg,1400.0,6
+Danzig,1400.0,3
+Delft,1400.0,154
+Deventer,1400.0,585
+Deventer,1500.0,29
+Dijon,1400.0,5
+Dillingen,1400.0,1
+Dôle,1400.0,2
+East Germany,1400.0,1
+Eichstätt,1400.0,20
+Eltville,1400.0,12
+Embrun,1400.0,1
+England?,1400.0,1
+Erfurt,1400.0,85
+Erfurt,1500.0,25
+Esslingen,1400.0,56
+Faenza,1400.0,1
+Fano?,1400.0,1
+Faro,1400.0,3
+Faro,1500.0,1
+Ferrara,1400.0,115
+Ferrara,1500.0,4
+Fivizzano,1400.0,5
+Florence,1400.0,739
+Florence,1500.0,96
+Florence:,1400.0,3
+Florence:,1500.0,1
+Florence?,1400.0,8
+Florence?,1500.0,2
+Foligno,1400.0,3
+Forlì,1400.0,5
+Forlì,1500.0,1
+France,1400.0,4
+France,1500.0,8
+France or Germany,1500.0,1
+France?,1400.0,4
+Freiberg in Sachsen,1400.0,1
+Freiburg im Breisgau,1400.0,55
+Freiburg im Breisgau,1500.0,2
+Freising,1400.0,4
+Gaeta,1400.0,11
+Galicia (Orense?),1400.0,1
+Geneva,1400.0,95
+Geneva,1500.0,9
+Geneva?,1400.0,4
+Genoa,1400.0,5
+Germany,1400.0,23
+Germany,1500.0,4
+Germany?,1400.0,1
+Gerona,1400.0,6
+Ghent,1400.0,23
+Gouda,1400.0,118
+Goupillières,1400.0,1
+Granada,1400.0,3
+Grenoble,1400.0,3
+Grenoble?,1400.0,5
+Gripsholm,1400.0,1
+Guadalajara,1400.0,16
+Haarlem,1400.0,25
+Hagenau,1400.0,51
+Hagenau,1500.0,11
+Hamburg,1400.0,6
+Hamburg,1500.0,1
+Hasselt,1400.0,7
+Heidelberg,1400.0,96
+Heidelberg,1500.0,2
+Huete?,1400.0,25
+Hungary,1400.0,3
+Híjar,1400.0,7
+Iesi,1400.0,7
+Ingolstadt,1400.0,44
+Italy,1400.0,52
+Italy,1500.0,16
+Italy (Padua?),1400.0,2
+Italy (Tuscany?),1400.0,1
+Italy:,1500.0,1
+Italy?,1400.0,1
+Kirchheim in Elsass,1400.0,10
+Kosinj,1400.0,1
+Kuttenberg,1400.0,1
+Langres?,1400.0,1
+Lantenac,1400.0,5
+Lauingen,1400.0,2
+Lausanne,1400.0,2
+Leiden,1400.0,46
+Leiden,1500.0,5
+Leipzig,1400.0,1212
+Leipzig,1500.0,159
+Leipzig?,1500.0,1
+Leiria,1400.0,5
+Limoges,1400.0,1
+Limoges,1500.0,1
+Lisbon,1400.0,18
+Lisbon,1500.0,2
+Liège,1500.0,1
+Logroño,1500.0,2
+London,1400.0,145
+London,1500.0,21
+Louvain,1400.0,251
+Louvain,1500.0,2
+Lucca,1400.0,9
+Lyons,1400.0,1261
+Lyons,1500.0,152
+Lyons?,1400.0,1
+Lérida,1400.0,28
+Lübeck,1400.0,284
+Lübeck,1500.0,16
+Lübeck?,1400.0,1
+Lüneburg,1400.0,6
+Magdeburg,1400.0,115
+Magdeburg,1500.0,20
+Magdeburg or Leipzig,1400.0,1
+Mainz,1400.0,413
+Mainz,1500.0,10
+Mallorca,1400.0,3
+Mantua,1400.0,57
+Marienburg,1400.0,2
+Marienthal,1400.0,21
+Matelica,1400.0,1
+Meissen,1400.0,2
+Memmingen,1400.0,119
+Memmingen,1500.0,31
+Merseburg,1400.0,10
+Merseburg or Lübeck?,1400.0,1
+Messina,1400.0,24
+Messina,1500.0,1
+Metz,1400.0,8
+Metz,1500.0,8
+Milan,1400.0,1055
+Milan,1500.0,58
+Milan?,1400.0,6
+Milan?,1500.0,2
+Modena,1400.0,80
+Modena,1500.0,6
+Mondovì,1400.0,15
+Monterrey,1400.0,3
+Monterrey,1500.0,1
+Montserrat,1400.0,12
+Montserrat,1500.0,9
+Moûtiers,1400.0,1
+Munich,1400.0,14
+Munich,1500.0,13
+Munich? or Landshut?,1400.0,1
+Murcia,1400.0,6
+Mâcon,1400.0,3
+Münster in Westfalen,1400.0,9
+Nantes,1400.0,6
+Naples,1400.0,323
+Naples,1500.0,4
+Naples?,1400.0,1
+Narbonne,1400.0,1
+Netherlands,1400.0,1
+Netherlands?,1400.0,1
+Nijmegen,1400.0,4
+Nonantola,1400.0,2
+Northern France,1400.0,1
+Northern Germany,1400.0,4
+Northern Germany,1500.0,1
+Northern Italy,1400.0,12
+Northern Italy (Brescia?),1400.0,1
+Northern Italy?,1400.0,5
+Northwest Germany,1400.0,1
+Novi,1400.0,2
+Nozzano,1400.0,1
+Nuremberg,1400.0,988
+Nuremberg,1500.0,78
+Nuremberg or Basel,1400.0,1
+Nuremberg?,1400.0,3
+Nuremberg?,1500.0,1
+Odense,1400.0,2
+Offenburg,1400.0,1
+Olmütz,1400.0,2
+Olmütz,1500.0,1
+Oporto,1400.0,2
+Oppenheim,1400.0,3
+Orléans,1400.0,1
+Oxford,1400.0,17
+Padua,1400.0,184
+Padua?,1400.0,2
+Palermo,1400.0,1
+Pamplona,1400.0,17
+Pamplona,1500.0,3
+Paris,1400.0,2459
+Paris,1500.0,413
+Paris and Bourges,1500.0,1
+Paris or Lyons?,1400.0,1
+Paris or Rouen,1400.0,15
+Paris or Rouen,1500.0,3
+Paris?,1400.0,4
+Paris?,1500.0,1
+Parma,1400.0,82
+Passau,1400.0,84
+Pavia,1400.0,320
+Pavia,1500.0,16
+Pavia or Rome,1400.0,1
+Pavia?,1400.0,1
+Perpignan,1500.0,3
+Perugia,1400.0,59
+Perugia,1500.0,5
+Pescia,1400.0,28
+Pforzheim,1400.0,3
+Pforzheim,1500.0,11
+Piacenza,1400.0,4
+Piedmont or Southern France,1400.0,1
+Pilsen,1400.0,14
+Pinerolo,1400.0,9
+Pinerolo?,1400.0,1
+Piove di Sacco,1400.0,2
+Pisa,1400.0,18
+Poitiers,1400.0,87
+Poitiers,1500.0,15
+Pojano,1400.0,2
+Poland (Chelmno?),1400.0,7
+Portese,1400.0,1
+Portugal?,1400.0,2
+Prague,1400.0,16
+Prague,1500.0,4
+Promenthoux,1400.0,1
+Provins,1400.0,2
+Périgueux,1400.0,2
+Regensburg,1400.0,10
+Regensburg?,1400.0,1
+Reggio Emilia,1400.0,23
+Reggio Emilia,1500.0,5
+Reggio di Calabria,1400.0,1
+Rennes,1400.0,2
+Reutlingen,1400.0,248
+Reutlingen,1500.0,1
+Rheinstein (Fautsberg),1400.0,1
+Rome,1400.0,1792
+Rome,1500.0,195
+Rome?,1400.0,5
+Rostock,1400.0,27
+Rostock,1500.0,2
+Rouen,1400.0,114
+Rouen,1500.0,47
+Rouen or Paris,1400.0,7
+Rouen or Paris,1500.0,1
+Rouen?,1400.0,1
+Rougemont,1400.0,1
+Rougemont?,1400.0,1
+Salamanca,1400.0,126
+Salamanca,1500.0,26
+Salins,1400.0,3
+Saluzzo,1400.0,1
+Saluzzo or Turin?,1400.0,1
+San Cesario,1400.0,1
+San Germano,1400.0,1
+Sant'Orso,1400.0,15
+Sant'Orso?,1400.0,1
+Santiago de Compostela,1400.0,1
+Savigliano,1400.0,5
+Savona,1400.0,2
+Scandiano,1400.0,2
+Scandiano,1500.0,1
+Schiedam,1400.0,2
+Schleswig,1400.0,3
+Schoonhoven,1400.0,14
+Schoonhoven,1500.0,5
+Schussenried,1400.0,2
+Segovia,1400.0,9
+Senj,1400.0,2
+Seville,1400.0,125
+Seville,1500.0,27
+Siena,1400.0,75
+Siena,1500.0,4
+Soncino,1400.0,27
+Soncino,1500.0,1
+Soncino or Naples,1400.0,2
+South east France,1400.0,1
+South east France?,1400.0,1
+South west France,1400.0,1
+South-east France?,1400.0,3
+Southern France,1400.0,4
+Southern France?,1400.0,1
+Southern Germany,1400.0,11
+Southern Germany,1500.0,1
+Southern Germany (Constance?),1400.0,16
+Southern Germany?,1400.0,5
+Southern Germany?,1500.0,2
+Southern Italy,1400.0,2
+Southern Italy,1500.0,1
+Southern Italy?,1500.0,1
+Southern Netherlands,1400.0,10
+Southern Netherlands?,1400.0,9
+Southwest Germany,1400.0,2
+Southwest Germany (Ulm or Reutlingen?),1400.0,3
+Southwest Germany?,1400.0,4
+Spain,1400.0,2
+Spain or Portugal,1400.0,14
+Spain or Portugal,1500.0,2
+Spain or Portugal?,1400.0,1
+Spain?,1400.0,3
+Spain?,1500.0,1
+Speyer,1400.0,343
+Speyer,1500.0,13
+St. Albans,1400.0,8
+St. Maartensdijk,1400.0,1
+Stendal,1400.0,7
+Stockholm,1400.0,14
+Strassburg,1400.0,1061
+Strassburg,1500.0,115
+Strassburg or Basel,1400.0,1
+Strassburg or Cologne,1400.0,1
+Strassburg?,1400.0,3
+Strassburg?,1500.0,1
+Stuttgart,1400.0,3
+Subiaco,1400.0,3
+Sursee,1500.0,2
+Tarragona,1400.0,5
+Tarragona,1500.0,1
+The Netherlands,1400.0,245
+The Netherlands,1500.0,3
+The Netherlands?,1400.0,1
+The Netherlands?,1500.0,1
+Toledo,1400.0,31
+Toledo,1500.0,15
+Torrebelvicino,1400.0,4
+Tortosa,1400.0,2
+Toscolano,1400.0,5
+Toulouse,1400.0,131
+Toulouse,1500.0,1
+Toulouse?,1400.0,1
+Tours,1400.0,7
+Tours,1500.0,1
+Trent,1400.0,13
+Trevi,1400.0,2
+Treviso,1400.0,110
+Trier,1400.0,2
+Troyes,1400.0,11
+Troyes,1500.0,2
+Troyes?,1400.0,1
+Tréguier,1400.0,4
+Turin,1400.0,58
+Turin,1500.0,5
+Turin?,1400.0,1
+Tübingen,1400.0,13
+Tübingen,1500.0,10
+Udine,1400.0,3
+Ulm,1400.0,391
+Ulm,1500.0,21
+Unassigned,1400.0,18
+Unassigned,1500.0,8
+Urach,1400.0,48
+Urbino,1400.0,3
+Utrecht,1400.0,64
+Utrecht?,1400.0,2
+Uzès,1400.0,2
+Vadstena,1400.0,1
+Valence,1400.0,1
+Valencia,1400.0,79
+Valencia,1500.0,5
+Valencia?,1400.0,2
+Valenciennes,1400.0,3
+Valenciennes,1500.0,2
+Valladolid,1400.0,23
+Valladolid,1500.0,3
+Valldemusa,1400.0,3
+Venice,1400.0,3292
+Venice,1500.0,333
+Venice or Lyons,1400.0,1
+Venice or Padua,1400.0,2
+Venice or Treviso,1400.0,2
+Venice?,1400.0,8
+Venice?,1500.0,1
+Venice? or Reggio Emilia?,1500.0,1
+Vercelli,1400.0,1
+Verona,1400.0,46
+Verona,1500.0,1
+Verona?,1400.0,2
+Vicenza,1400.0,122
+Vienna,1400.0,70
+Vienna,1500.0,19
+Vienna?,1400.0,1
+Vienne,1400.0,39
+Vienne?,1400.0,1
+Viterbo,1400.0,1
+Voghera,1400.0,1
+West France?,1400.0,1
+Westminster,1400.0,198
+Westminster,1500.0,18
+Winterberg,1400.0,3
+Württemberg?,1400.0,2
+Würzburg,1400.0,91
+Würzburg,1500.0,2
+Zamora,1400.0,20
+Zaragoza,1400.0,109
+Zaragoza,1500.0,7
+Zinna,1400.0,1
+Zweibrücken,1400.0,4
+Zweibrücken:,1400.0,1
+Zwolle,1400.0,130
+Zwolle,1500.0,6
+Zürich,1400.0,11

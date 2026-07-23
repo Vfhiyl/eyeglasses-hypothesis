@@ -1,0 +1,7 @@
+breakpoint,f_stat,p_value,slope_change,intercept_change,mean_pre,mean_post,pct_change,n_pre,n_post,window_half,method,series,note
+1290,29.831,0.0,0.002091,0.470586,230.8381,262.7685,13.83,80,80,80,trend_chow_log_local_window,human_capital,
+1450,32.7032,0.0,0.005048,-0.08788,472.069,1234.5045,161.51,80,80,80,trend_chow_log_local_window,human_capital,
+1608,138.0952,0.0,-0.00726,-0.072678,3311.5876,4045.0053,22.15,80,80,80,trend_chow_log_local_window,human_capital,
+1290,,,,,,,,0,0,80,,book_count,insufficient_local_sample
+1450,,,,,,,,0,49,80,,book_count,insufficient_local_sample
+1608,,,,,,,,0,0,80,,book_count,insufficient_local_sample

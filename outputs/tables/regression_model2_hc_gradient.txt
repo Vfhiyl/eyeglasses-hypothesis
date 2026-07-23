@@ -1,0 +1,37 @@
+Associational city panel; not causal. Observed HC cells only if hc_observed present.
+
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:        log_hc_per_100k   R-squared:                       0.794
+Model:                            OLS   Adj. R-squared:                  0.752
+Method:                 Least Squares   F-statistic:                     74.24
+Date:                Wed, 22 Jul 2026   Prob (F-statistic):           3.63e-28
+Time:                        00:04:13   Log-Likelihood:                -144.71
+No. Observations:                  65   AIC:                             313.4
+Df Residuals:                      53   BIC:                             339.5
+Df Model:                          11                                         
+Covariance Type:                  HC1                                         
+========================================================================================
+                           coef    std err          z      P>|z|      [0.025      0.975]
+----------------------------------------------------------------------------------------
+Intercept                1.2604      1.428      0.883      0.377      -1.538       4.059
+C(century)[T.1400.0]     1.8344      1.350      1.359      0.174      -0.811       4.480
+C(century)[T.1500.0]     2.6987      1.158      2.330      0.020       0.429       4.968
+C(century)[T.1600.0]     2.7571      1.127      2.447      0.014       0.549       4.965
+C(century)[T.1700.0]     2.9090      1.136      2.560      0.010       0.682       5.136
+C(region)[T.England]     2.2429      0.448      5.005      0.000       1.365       3.121
+C(region)[T.France]     -0.4945      0.700     -0.706      0.480      -1.867       0.878
+C(region)[T.Germany]    -1.0481      0.444     -2.362      0.018      -1.918      -0.178
+C(region)[T.Iberia]     -1.6134      2.031     -0.794      0.427      -5.595       2.368
+C(region)[T.Italy]      -0.2785      0.530     -0.526      0.599      -1.317       0.760
+glass_center            -2.6370      1.125     -2.343      0.019      -4.842      -0.432
+has_university           8.4474      1.140      7.408      0.000       6.212      10.682
+==============================================================================
+Omnibus:                       36.301   Durbin-Watson:                   1.116
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               96.851
+Skew:                          -1.728   Prob(JB):                     9.31e-22
+Kurtosis:                       7.880   Cond. No.                         14.4
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC1)

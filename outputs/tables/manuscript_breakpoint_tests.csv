@@ -1,0 +1,7 @@
+breakpoint,f_stat,p_value,n_pre,n_post,window_half,note,series,mean_pre,mean_post,pct_change,method
+1290,,,8,3,,insufficient_local_sample,manuscripts_europe,,,,
+1450,,,10,1,,insufficient_local_sample,manuscripts_europe,,,,
+1608,,,11,0,,insufficient_local_sample,manuscripts_europe,,,,
+1200,,,1,1,,growth_1100_1200,manuscripts_europe,588421.0,1327968.0,125.68,century_pair_growth_descriptive
+1300,,,1,1,,growth_1200_1300,manuscripts_europe,1327968.0,2391322.0,80.07,century_pair_growth_descriptive
+1400,,,1,1,,growth_1300_1400,manuscripts_europe,2391322.0,3991351.0,66.91,century_pair_growth_descriptive

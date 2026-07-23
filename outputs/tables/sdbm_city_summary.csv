@@ -1,0 +1,12 @@
+city,search_field,source_file,n_entries,n_date_parsed,n_mid_pre_1300,n_mid_post_1300,n_spans_1300_breakpoint,n_entirely_pre_1300,folios_sum,peak_halfcentury,peak_entries,post_pre_ratio_mid,local_pre_1200_1285,local_post_1300_1385,local_post_over_pre,local_folios_pre,local_folios_post,note
+Bologna,place,sdbm_bologna_1200_1500.csv,664,659,137,522,111,71,111564.0,1350,176,3.81,87,273,3.1379,22881.0,42870.0,SDBM Place+ManuscriptDate; mid=(start+end)/2
+Cologne,place,sdbm_cologne_1200_1500.csv,425,423,38,385,26,19,79859.0,1450,261,10.13,27,50,1.8519,4086.0,13460.0,SDBM Place+ManuscriptDate; mid=(start+end)/2
+Florence,place,sdbm_florence_1200_1500.csv,2056,2039,9,2030,9,3,282616.0,1450,1453,225.56,7,117,16.7143,932.0,13499.0,SDBM Place+ManuscriptDate; mid=(start+end)/2
+Florence,provenance,sdbm_florence_1200_1500_provenance.csv,667,666,40,626,29,24,63589.0,1450,400,15.65,29,88,3.0345,3890.0,7675.0,SDBM Provenance+ManuscriptDate; mid=(start+end)/2
+Milan,place,sdbm_milan_1200_1500.csv,512,509,46,463,5,42,74718.0,1450,274,10.07,15,23,1.5333,2724.0,2348.0,SDBM Place+ManuscriptDate; mid=(start+end)/2
+Nuremberg,place,sdbm_nuremberg_1200_1500.csv,152,151,3,148,1,2,22953.0,1450,93,49.33,3,10,3.3333,618.0,894.0,SDBM Place+ManuscriptDate; mid=(start+end)/2
+Oxford,place,sdbm_oxford_1200_1500.csv,197,197,103,94,18,87,37683.0,1250,77,0.91,91,26,0.2857,24649.0,3067.0,SDBM Place+ManuscriptDate; mid=(start+end)/2
+Paris,place,sdbm_paris_1200_1500.csv,3349,3345,793,2552,265,581,659011.0,1450,1130,3.22,672,373,0.5551,200304.0,85339.0,SDBM Place+ManuscriptDate; mid=(start+end)/2
+Paris,provenance,sdbm_paris_1200_1500_provenance.csv,2059,2058,731,1327,405,349,234517.0,1450,590,1.82,459,419,0.9129,47194.0,53972.0,SDBM Provenance+ManuscriptDate; mid=(start+end)/2
+Venice,place,sdbm_venice_1200_1500.csv,1701,1645,31,1614,12,27,161793.0,1450,571,52.06,30,81,2.7,5799.0,8489.0,SDBM Place+ManuscriptDate; mid=(start+end)/2
+Venice,provenance,sdbm_venice_1200_1500_provenance.csv,1080,1079,81,998,38,48,96770.0,1450,381,12.32,43,139,3.2326,1711.0,7432.0,SDBM Provenance+ManuscriptDate; mid=(start+end)/2

@@ -1,0 +1,3 @@
+test,metric,value,p_value,n_persons,n_works_before,n_works_after,note
+ilardi_wearer_share_notable_works_after_evidence,mean_share_after,0.1905,,3,25,4,Share of Wikidata P800 works dated at/after documented wear/ownership evidence; B predicts high share (late unlock); A predicts low
+ilardi_wearer_mean_work_age_minus_evidence_age,mean_age_delta,-11.8968,,3,25,4,Mean(age_at_P800) - evidence_age; negative => notable works earlier than wear onset
