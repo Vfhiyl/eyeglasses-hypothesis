@@ -1,0 +1,68 @@
+day,month,month_name,year_printed,modern_year,florentine_adj,letter_label,pos,match,after_wear
+28,4,aprile,1446,1446,False,,120415,Al nome di Dio. A dì 28 d'aprile 1446,False
+24,8,agosto,1447,1447,False,PRIMA,78677,Al nome di Dio. A dì 24 d'agosto 1447,False
+29,3,marzo,1448,1448,False,PRIMA,111400,Al nome di Dio. A di 29 di marzo 1448,False
+4,11,novembre,1448,1448,False,SECONDA,128111,Al nome di Dio. A dì 4 di novembre 1448,False
+20,2,f'ebraio,1448,1449,True,,137898,Al nome di Dio. A dì 20 di f'ebraio 1448,False
+13,7,luglio,1449,1449,False,TERZA,143959,Al nome di Dio. A dì 13 di luglio 1449,False
+24,8,agosto,1449,1449,False,,155371,Al nome di Dio. A dì 24 d'agosto 1449,False
+26,12,dicembre,1449,1449,False,QUARTA,157532,Al nome di Dio. A dì 26 dicembre 1449,False
+8,2,febbraio,1449,1450,True,QUINTA,173368,Al nome di Dio. A dì 8 eli febbraio 1449,False
+5,6,giugno,1450,1450,False,SESTA,191997,Al nome di Dio. A dì 5 di giugno 1450,False
+22,10,ottobre,1450,1450,False,SETTIMA,198858,Al nome di Dio. A dì 22 d'ottobre 1450,False
+6,12,dicembre,1450,1450,False,OTTAVA,220216,Al nome di Dio. A dì 6 di dicembre 1450,False
+11,12,dicembre,1450,1450,False,NONA,232821,Al nome di Dio. A dì 11 di dicembre 1450,False
+27,2,febbraio,1452,1453,True,UNDECIMA,252951,Al nome di Dio. A dì 27 di febbraio 1452,False
+9,9,settembre,1458,1458,False,DODICESIMA,267415,Al nome di Dio. A dì 9 di settembre 1458,False
+19,2,febbraio,1458,1459,True,TREDICESIMA,280761,Al nome di Dio. A dì 19 di febbraio 1458,False
+20,7,luglio,1459,1459,False,QUATTORDICESIMA,291937,Al nome di Dio. A di 20 di luglio 1459,False
+21,7,luglio,1459,1459,False,QUINDICESIMA,300525,Al nome eli Dio. A dì 21 eli luglio 1459,False
+27,7,luglio,1459,1459,False,SEDICESIMA,307848,Al nome di Dio. A di 27 di luglio 1459,False
+14,8,agosto,1459,1459,False,,313795,Al nome di Dio. A dì 14 d'agosto 1459,False
+6,9,settembre,1459,1459,False,DICIASSETTESIMA,326269,Al nome di Dio. A di 6 di settembre 1459,False
+13,9,settembre,1459,1459,False,DICIOTTESIMA,356064,Al nome di Dio. A di 13 di settembre 1459,False
+2,11,novembre,1459,1459,False,DICIANNOVESIMA,364993,Al nome di Dio. A di 2 di novembre 1459,False
+18,12,dicembre,1459,1459,False,VENTESIMA,387202,Al nome di Dio. A di 18 di dicembre 1459,False
+28,2,febbraio,1460,1461,True,VENTUNESIMA,393340,Al nome di Dio. A dì 28 di febbraio 1460,False
+6,3,marzo,1460,1461,True,VENTIDDESIMA,400454,Al nome di Dio. A dì 6 di marzo 1460,False
+11,4,aprile,1461,1461,False,VENTIQUATTRESIMA,407647,Al nome di Dio. A dì 11 d'aprile 1461,False
+25,8,agosto,1461,1461,False,VENTIQUATTRESIMA,419928,Al nome di Dio. A dì 25 d'agosto 1461,False
+15,3,marzo,1461,1462,True,VENTISEESIMA,429481,Al nome di Dio. A di 15 di marzo 1461,False
+17,12,dicembre,1463,1463,False,VENTISETTESIMA,445828,Al nome di Dio. A dì 17 di dicembre 1463,False
+22,3,marzo,1463,1464,True,VENTOTTESIMA,453075,Al nome di Dio. A dì 22 di marzo 1463,False
+7,4,aprile,1464,1464,False,VENTINOVESIMA,464203,Al nome di Dio. A dì 7 d'aprile 1464,False
+9,4,aprile,1464,1464,False,TRENTESIMA,469473,Al nome di Dio. A dì 9 d'aprile 1464,False
+21,4,aprile,1464,1464,False,TRENTUNESIMA,476667,Al nome di Dio. A dì 21 d'aprile 1464,False
+28,4,aprile,1464,1464,False,TRENTADUESIMA,487661,Al nome di Dio. A dì 28 d'aprile 1464,False
+30,4,aprile,1464,1464,False,TRENTATREESIMA,492273,Al nome di Dio. A dì 30 d'aprile 1464,False
+11,5,maggio,1464,1464,False,TRENTAQUATTRESIMA,493793,Al nome di Dio. A dì 11 di maggio 1464,False
+15,9,settembre,1464,1464,False,TRENTASEESIMA,516888,Al nome di Dio. A di 15 di settembre 1464,False
+13,12,dicembre,1464,1464,False,TRENTASETTESIMO,527555,Al nome di Dio. A dì 13 di dicembre 1464,False
+3,1,gennaio,1464,1465,True,TRENTANOVESIMA,541108,Al nome di Dio. A dì 3 di gennaio 1464,True
+12,1,gennaio,1464,1465,True,QUARANTESIMA,558149,Al nome di Dio. A di 12 di gennaio 1464,True
+26,1,gennaio,1464,1465,True,QUARANTUNESIMA,562579,Al nome di Dio. A dì 26 di gennaio 1464,True
+5,2,febbraio,1464,1465,True,QDARANTADUESIMA,573792,Al nome di Dio. A dì 5 di febbraio 1464,True
+26,5,maggio,1465,1465,False,QUARANTASEESIMA,631971,Al nome di Dio. A dì 26 di maggio 1465,True
+15,6,giugno,1465,1465,False,QDARANTASETTESIMA,653670,Al nome di Dio. A dì 15 di giugno 1465,True
+5,7,luglio,1465,1465,False,QDARANTOTTESIMA,680589,Al nome di Dio. A dì 5 di luglio 1465,True
+26,7,luglio,1465,1465,False,QUARANTANOVESIMA,688209,Al nome di Dio. A dì 26 di luglio 1465,True
+9,8,agosto,1465,1465,False,CINQUANTESIMA,706669,Al nome di Dio. A dì 9 d'agosto 1465,True
+17,8,agosto,1465,1465,False,CINQUANTUNESIMA,711304,Al nome di Dio. A dì 17 d'agosto 1465,True
+20,9,settembre,1465,1465,False,CINQUANTAQUATTRESIMA,742879,Al nome di Dio. A dì 20 di settembre 1465,True
+12,10,ottobre,1465,1465,False,CINQUANTACINQUESIMA,750824,Al nome di Dio. A di 12 d'ottobre 1465,True
+19,10,ottobre,1465,1465,False,CINQDANTASEESIMA,759461,Al nome di Dio. A di 19 d'ottobre 1465,True
+26,10,ottobre,1465,1465,False,CINODANTASETTESIMA,767046,Al nome di Dio. A dì 26 d'ottobre 1465,True
+2,11,novembre,1465,1465,False,CINQUANTOTTESIMA,775372,Al nome di Dio. A dì 2 di novembre 1465,True
+15,11,novembre,1465,1465,False,CINQUANTANOVESIMA,782999,Al nome di Dio. A dì 15 di novembre 1465,True
+22,11,novembre,1465,1465,False,SESSANTESIMA,798106,Al nome di Dio. A dì 22 di novembre 1465,True
+19,12,dicembre,1465,1465,False,SESSANTUNESIMA,803814,Al nome di Dio. A dì 19 di dicembre 1465,True
+21,12,dicembre,1465,1465,False,SESSANTADDESIMA,809225,Al nome di Dio. A dì 21 di dicembre 1465,True
+28,12,dicembre,1465,1465,False,SESSANTATREESIMA,817597,Al nome di Dio. A dì 28 di dicembre 1465,True
+4,1,gennaio,1465,1466,True,SESSANTAQUATTRESIMA,826524,Al nome di Dio. A dì 4 di gennaio 1465,True
+11,1,gennaio,1465,1466,True,SESSANTACINQUESIMA,838659,Al nome di Dio. A dì 11 di gennaio 1465,True
+25,1,gennaio,1465,1466,True,SESSANTASEESIMA,847026,Al nome di Dio. A dì 25 di gennaio 1465,True
+30,1,gennaio,1465,1466,True,SESSANTASETTESIMA,862156,Al nome di Dio. A dì 30 di gennaio 1465,True
+7,2,febbraio,1465,1466,True,SESSANTOTTESCA,870890,Al nome di Dio. A dì 7 di febbraio 1465,True
+15,2,febbraio,1465,1466,True,SESSANTANOVESIMA,882096,Al nome di Dio. A di 15 di febbraio 1465,True
+8,5,maggio,1469,1469,False,SETTANTUNESIMA,899660,Al nome di Dio. A dì 8 di maggio 1469,True
+14,4,aprile,1470,1470,False,SETTANTADUESIMA,921721,Al nome di Dio. A dì 14 d'aprile 1470,True

@@ -1,0 +1,2 @@
+person_id,evidence_year,activity_proxy,n_roman_date_hits_dedup,n_on_or_after_evidence,last_letter_year_in_early_prints,years_after_evidence_epistolae,note
+filelfo,1456,early_print_epistolae_roman_dates_plus_rosmini,166,29,1468,12,1496/1485 early prints: Roman M.cccc... dates OCR-parsed. Coverage may be front books only; Rosmini still carries continuous activity to 1481 (+25).

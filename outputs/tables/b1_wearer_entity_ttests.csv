@@ -1,0 +1,2 @@
+test,metric,value,n_persons,n_works_before,n_works_after,b1_status
+b1_slow_entity_share_after,mean_share_after,0.1429,4,26,4,insufficient_but_growing

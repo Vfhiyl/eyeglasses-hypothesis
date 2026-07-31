@@ -1,0 +1,11 @@
+person_id,date,event,source,near_work_class,note
+azevedo_joao_porto,1476-01-24,spectacle_order_recipient,Ilardi_2007_Cambini_AOI_Estranei_N235_fols23v-24r,wear_onset,12 paia d'occhiali for vescovo di Oporto
+azevedo_joao_porto,1485-03-11,transaction_contract_WITH_him,Digitarq_PT/TT/GAV/9/2/21,near_work_documentary,"Contrato de transacção entre conde de Marialva e D. João de Azevedo, bispo do Porto, re igreja S. Cristóvão de Espadanedo (+9y). Catalog title; filesCount=0."
+azevedo_joao_porto,1490-06-15,escort_presence_Evora,Resende_Verdelho_2007_CELGA;_resende_ctx,presence_not_near_work,Dom Joam d' Azevedo with D. Jorge into Évora (+14y)
+azevedo_joao_porto,1492,papal_bull_pension_beneficiary,Digitarq_PT/ADPRT/DIO/CABIDO/017/1672/00385_uuid_062a3bde…,beneficiary_not_near_work,Bula … Bispo D. João pension S. Salvador de Árvore; no images; +16y
+azevedo_joao_porto,1492-01-19,episcopal_collacao_FROM_him,Digitarq_PT/ADPRT/MON/CVSFPRT/001/6055/55153_uuid_11c4c05e…;_also_TT/CABT/P/0129/02568,near_work_documentary,Colação de Frei Domingos as abade S. Miguel de Rebordosa POR D. João de Azevedo (+16y). CVSFPRT unit 519 imgs (tombo composite; folio pin pending). TT CABT confirmação same day catalog.
+azevedo_joao_porto,1492-10-07,chancery_kin_named_as_bishop,Digitarq_PT/TT/CHR/J/0007/464_and_532,presence_kin,D. Joana / António sobrinhos do bispo do Porto — bishop still identified as such (+16y)
+azevedo_joao_porto,1493-06-12,episcopal_privilege_carta_FROM_him,Digitarq_CVSEPRT_002/0043_m0948-954_ink470;_1778_treslado,near_work_documentary,Dom João de Azevedo Bispo do Porto: sealed carta privileges Casa Santo Eloy / cong. S. João Evangelista; Mosteiro S. João de Pendorada; notary João do Canto; +17y. Keep images in data/raw/azevedo_porto/digitarq/cvseprt_002_0043/keep/
+azevedo_joao_porto,1495-10-23,resign_Porto_see,Eubel_II_Portagalen,career_boundary,End episcopate; ceiling wear→resign ≈ +19y
+azevedo_joao_porto,1496-05-17,chancery_nephew_Antonio_de_Azevedo,Digitarq_PT/TT/CHR/K/27/15-62,post_resign_kin,Confirmação a António de Azevedo sobrinho do Bispo do Porto — still styles uncle as bishop after resign date in catalog title
+azevedo_joao_porto,1517-07-27,death_Xabregas_donato,Cunha_/_secondary,death,Donato at S. João Evangelista Xabregas; +41y survival from wear

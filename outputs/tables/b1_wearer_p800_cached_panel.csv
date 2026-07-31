@@ -1,0 +1,5 @@
+person_id,name,qid,confidence,evidence_type,evidence_year,evidence_age,n_works,n_before,n_after,share_after,age_mean,mean_age_delta,source
+filelfo,Francesco Filelfo,Q4622,high,order_request_letter,1456,58.0,3,2,1,0.3333,51.0,-7.0,cached_p800
+leonardovinci,Leonardo da Vinci,Q762,low,notebook_mentions_inferred,1500,48.0,23,15,8,0.3478,39.435,-8.565,cached_p800
+lotto,Lorenzo Lotto,Q310973,medium,account_book_wear,1540,60.0,12,10,2,0.1667,47.167,-12.833,cached_p800
+petrarch,Francesco Petrarca,Q1401,high,self_report_literary,1364,60.0,14,13,1,0.0714,44.143,-15.857,cached_p800

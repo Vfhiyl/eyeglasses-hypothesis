@@ -1,0 +1,4 @@
+person_id,evidence_year,confidence,post_wear_oa_near_work,hard_ingest,years_after_if_any,blocker
+neri_mici,1329,medium,no,no,,single_1329_theft_ownership_no_birth_death_no_later_acts
+bartholomeus_padua,1318,medium,no,no,,single_1318_self_report_identity_thin_zecchin_not_oa
+barbaro_zaccaria,1476,low,no_wrong_order,no,,dispacci_1471_73_precede_manni_letter_do_not_hard_ingest_low

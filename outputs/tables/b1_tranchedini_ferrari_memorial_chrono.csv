@@ -1,0 +1,31 @@
+person_id,date,kind,place,mentions_ochiali,note,source
+tranchedini,1466-07-04,book_list_shipment,Firenze→Pontremoli,0,Elenco libri spediti via Domenico de Strata,GSL 1912-13 IV Sforza Biblioteca pp.48ff
+tranchedini,1468-03,book_list_shipment,Firenze→Pontremoli,0,Altri libri via Bartolomeo Lontano,GSL 1912-13 Biblioteca
+tranchedini,1468-07-22,book_list_shipment,Firenze→Pontremoli,0,Libri per viaggio moglie Allegrezza / parto Lunesina,GSL 1912-13 Biblioteca
+tranchedini,1468-09-19,inventory_deposit,Montughi/Firenze,0,Reposui libros et scripta dum adirem principem; multi elenchi 19-27 sept,GSL 1914-15 Inventari
+tranchedini,1468-09-20,inventory_deposit,Firenze,0,Dimisi indumentum etc.,GSL 1914-15 Inventari
+tranchedini,1468-09-27,inventory_deposit,Pontremoli,0,Dimisi Alegretiae consorti,GSL 1914-15 Inventari
+tranchedini,1469-06-20,inventory_deposit,Milano,0,Dimisi in capsono novo,GSL 1914-15 Inventari
+tranchedini,1470-03,shipment_to_wife,Roma→Firenze,0,Mazzo de lettere / oriolo etc.,GSL 1914-15 Inventari
+tranchedini,1470-05-14,shipment,Roma,0,Testa de marmoro Faustina via Lorenzo Costamezzana,GSL 1914-15 Inventari
+tranchedini,1470-06-18,shipment,Roma,0,Brocato d'oro a Lunesina,GSL 1914-15 Inventari
+tranchedini,1470-07-26,shipment_to_wife,Roma→Firenze,1,Con libri: 'scatola piena de ochiali fini',GSL 1914-15 Inventari
+tranchedini,1470-08,inventory_note,Pontremoli,0,Tornando a Milano passò da Pontremoli; nota memorial,GSL 1914-15 Inventari
+tranchedini,1470-10-24,shipment,Pavia→Milano,0,Recordo che mandai da Pavia,GSL 1914-15 Inventari
+tranchedini,1470-12-14,inventory_deposit,Firenze,0,Lassai ad Fiorenza lenzoli etc.,GSL 1914-15 Inventari
+tranchedini,1471-02-27,inventory_deposit,Pontremoli,0,"Tornando dal principe a Roma, lassai in Pontremolo",GSL 1914-15 Inventari
+tranchedini,1471-10-03,shipment_letters,,0,Voluppo de letere de amici / copie brevi et bolle,GSL 1914-15 Inventari
+tranchedini,1472-04-15,account_entry,,0,Spese vestito etc. in memoriale,GSL 1914-15 Inventari
+tranchedini,1472-04-23,account_entry,,0,Zornea a la divisa,GSL 1914-15 Inventari
+tranchedini,1472-06-15,inventory_deposit,Roma,1,Lassai in casa; later 16 junij 'parechie paia de ochiali' in capseta,GSL 1914-15 Inventari
+tranchedini,1472-06-16,inventory_deposit,Roma,1,Capseta: parechie paia de ochiali,GSL 1914-15 Inventari
+tranchedini,1472-06-16,shipment,Roma→Pontremoli,0,Spedi bolognesi etc. a Lunesina,GSL 1914-15 Inventari
+tranchedini,1472-07-15,account_settlement,,0,Pagato integramente fino a di 15 luglio 1472,GSL 1914-15 Inventari
+tranchedini,1472-10-13,shipment_letters,Milano→Pontremoli,0,Mazzo de letere de amici et scripture poste a libro,GSL 1914-15 Inventari
+tranchedini,1474,household_note,Pontremoli→Milano,0,Alegreza portò masserizie; also 'fodere da ochiali' remain in Pontremoli house list nearby,GSL 1914-15 Inventari
+tranchedini,1475-06-10,book_list,,0,Ulteriore elenco libri in memoriale,GSL 1912-13 Biblioteca
+tranchedini,1476-02-01,household_hire_note,,0,Staffero Zohane Vesconte — entry in memoriale,GSL 1914-15 Inventari
+tranchedini,1476-02-15,household_hire_note,,0,Gaspare Hyvano da Sarzana,GSL 1914-15 Inventari
+tranchedini,1477-06-08,household_hire_note,,0,Bayla per Zohan Ludovico — Nicodemo paga,GSL 1914-15 Inventari
+tranchedini,1478-11-17,household_hire_note,,0,Bernardino da Orvieto in casa,GSL 1914-15 Inventari
+tranchedini,1479-08-08,household_hire_note,,0,Bayla Rosina — last dated memorial entry spotted in Ferrari inventari article,GSL 1914-15 Inventari

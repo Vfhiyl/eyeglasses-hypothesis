@@ -1,0 +1,41 @@
+person_id,name,occupation_class,birth_year,death_year,evidence_year,evidence_type,confidence
+bartholomeus_padua,Magister Bartholomeus (Padua),notary_family_elderly,,,1318,court_testimony_self_report,medium
+neri_mici,Ser Neri Mici da Bibbiena,notary,1300.0,,1329,theft_complaint_ownership,medium
+petrarch,Francesco Petrarca,humanist_scholar,1304.0,1374.0,1364,self_report_literary,high
+philippe_le_hardi,Philippe II le Hardi Duke of Burgundy,duke_ruler,1342,1404,1389,purchase_personal_use,high
+datini,Francesco di Marco Datini,merchant,1335.0,1410.0,1400,order_request_letter,high
+vangelista,Suora Vangelista,nun,,,1402,repair_purchase_convent,medium
+nicolas_de_baye,Nicolas de Baye (greffier du Parlement de Paris),parlement_greffier_clerk,1364,1419,1416,self_report_office_petition,high
+ardingelli_bese,Bese di Giovanni Ardingelli,merchant,1408.0,1476.0,1451,account_book_ownership,high
+arduino_baiso,Arduino da Baiso,woodcarver_artisan,1385.0,1454.0,1451,order_request_letter,high
+cederni,Bartolomeo Cederni,bank_employee_clerk,1416.0,1482.0,1454,order_request_letter_personal_use,high
+charles_orleans,Charles I Duke of Orléans,duke_ruler,1394,1465,1454,purchase_personal_use,high
+filelfo,Francesco Filelfo,humanist_scholar,1398.0,1481.0,1456,order_request_letter,high
+nuno_fernandes,Nuno Fernandes,portuguese_client,,,1459,export_order_named_recipient,medium
+gonzaga_ludovico,Ludovico III Gonzaga,marquis_ruler,1412.0,1478.0,1460,self_report_letter,high
+policastro,Iacobo de Policastro,castellan_military_administrator,1410.0,1478.0,1460,order_request_letter,high
+pius_ii,Pope Pius II,pope_humanist,1405.0,1464.0,1461,purchase_reading_lenses,medium
+bianca_maria,Bianca Maria Visconti,duchess_ruler,1425.0,1468.0,1462,third_party_report_of_use,medium
+sforza_francesco,Francesco I Sforza,duke_ruler,1401.0,1466.0,1462,third_party_report_of_use,high
+tranchedini,Nicodemo Tranchedini,diplomat_ambassador_humanist,1411.0,1481.0,1462,inventory_and_self_report_letter,high
+walmysford_william,Frater Willelmus Walmysford (Peterborough),benedictine_monk,,,1463,debt_for_spectacles_purchase,medium
+strozzi_filippo,Filippo Strozzi the Elder,merchant_banker,1428.0,1491.0,1464,order_request_via_mother,high
+alessandra_strozzi,Alessandra Macinghi Strozzi,gentlewoman_letter_writer,1406.0,1471.0,1465,self_report_letter,high
+barbara_brandenburg,Barbara of Brandenburg,marchesa_ruler,1422.0,1481.0,1466,order_request_letter,medium
+ammannati,Iacopo Ammannati Piccolomini,cardinal_humanist,1422.0,1479.0,1473,order_receipt_letter,high
+azevedo_joao_porto,João de Azevedo Bishop of Porto,bishop_prelate,1430.0,1517.0,1476,order_recipient_named,high
+lorenzo_medici,Lorenzo de' Medici (il Magnifico),ruler_patron,1449.0,1492.0,1479,self_report_letter,high
+sixtus_iv,Pope Sixtus IV (Francesco della Rovere),pope_ruler,1414.0,1484.0,1482,third_party_report_of_use,high
+egidio_piacenza,Fra Egidio da Piacenza,friar,1433,,1488,order_by_age_band,medium
+jacopo_magnia_friar,Fra Iacopo della Magnia,friar,1423,,1488,order_by_age_band,medium
+rene_ii_lorraine,Rene II Duke of Lorraine,duke_ruler,1451,1508,1504,purchase_personal_use,high
+leo_x,Pope Leo X (Giovanni de Medici),pope_humanist_patron,1475.0,1521.0,1513,expense_accounts_and_reports,high
+pirckheimer,Willibald Pirckheimer,humanist_patrician,1470.0,1530.0,1520,physical_find_in_study,medium
+wolsey,Thomas Wolsey,cardinal_statesman,1473.0,1530.0,1527,gift_receipt_luxury,high
+wyatt_henry,Henry Wyatt,treasurer_courtier,1460.0,1537.0,1527,gift_receipt_luxury,high
+spataro_giovanni,Giovanni Spataro,music_theorist_composer_choirmaster,1458,1541,1532,self_report_letter_return_unfit,high
+spinelli_benedetto,Benedetto di Guaspare Spinelli,merchant,1483,1547,1534,third_party_report_of_need,medium
+lotto,Lorenzo Lotto,painter,1480.0,1556.0,1540,account_book_wear,medium
+henry_viii,Henry VIII,king_ruler,1491.0,1547.0,1545,purchase_personal_use,high
+maurolico_francesco,Francesco Maurolico,mathematician_abbot_humanist,1494.0,1575.0,1554,self_report_treatise,high
+domenichi_ludovico,Lodovico (Ludovico) Domenichi,humanist_translator_editor_polygraph,1515,1564,1555,gift_receipt_for_study_writing,medium

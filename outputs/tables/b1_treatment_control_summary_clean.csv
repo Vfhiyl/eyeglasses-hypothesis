@@ -1,0 +1,2 @@
+n_treatment,n_control,median_career_span_t,median_career_span_c,median_years_work_after_45_t,median_years_work_after_45_c,mean_years_work_after_45_t,mean_years_work_after_45_c,median_last_work_age_t,median_last_work_age_c,delta_median_work_after_45,delta_median_last_work_age,sesoi_direction_5,sesoi_macfarlane_15,n20_met,caveat
+3,15,49.0,20.0,27.0,18.0,29.666666666666668,15.4,72.0,63.0,9.0,9.0,PASS_RAW,FAIL,False,RAW median delta only; treatment n<<20; famous-wearer WD bias; controls not archive-negative for spectacles; NOT a confirmatory test.

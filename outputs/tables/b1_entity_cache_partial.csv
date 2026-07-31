@@ -1,0 +1,5 @@
+person_id,qid,n_p800_claims,n_dated_cached,n_before,n_after,share_after,source
+strozzi_filippo,Q1384100,0,0,0,0,,entity_json_only_need_work_dates
+orsi,Q3619497,0,0,0,0,,entity_json_only_need_work_dates
+stapeldon,Q4476147,0,0,0,0,,entity_json_only_need_work_dates
+datini,Q970069,1,0,0,0,,entity_json_only_need_work_dates

@@ -1,0 +1,2 @@
+corpus,evidence_year,n_dated_letters,n_before,n_on_or_after,first_year,last_year,years_active_after_evidence,letters_per_year_1391_1399,letters_per_year_1400_1410,rate_ratio_after_over_before,share_on_or_after,ochiali_hits,caveat,ochiali_hits_note
+mazzei_to_datini_guasti_vol1_2,1400,130,75,55,1390,1410,10,8.222,5.0,0.608,0.4231,0,Mazzei→Datini headers; vol2 included if present. Not Datini writing rate. Bio death 1410.,"vol2 hit is OCR false positive (inginocchiatoi=kneelers), not spectacles"

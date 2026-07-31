@@ -1,0 +1,7 @@
+B1 hunt status 2026-07-24g
+hard_dated_series_n=15 (unchanged from 24f / Barbara Hofmann promotion)
+this_pass=path_triage_no_hard_ingest
+lbc_post9_policastro=exhausted_zero_hits
+santoro_p617_oa=not_found
+next=human_santoro_scan_or_ASM_pavia757
+notes=outputs/tables/b1_next_hard_hunt_notes.md

@@ -1,0 +1,7 @@
+mode,subset,n_pairs_with_delta,median_delta,boot95_lo,boot95_hi,n_ge_5,n_ge_15,sesoi5,sesoi15,note
+primary,all_treatments,36,-0.75,-3.0,3.3,11,2,FAIL_OR_UNAVAILABLE,FAIL,PASS_RAW requires median≥threshold; sesoi5 also wants boot95_lo≥0
+primary,merchant_treatments,4,-1.5,-9.47,0.5,0,0,FAIL_OR_UNAVAILABLE,FAIL,PASS_RAW requires median≥threshold; sesoi5 also wants boot95_lo≥0
+all_curated,all_treatments,36,-0.25,-3.0,4.25,11,2,FAIL_OR_UNAVAILABLE,FAIL,PASS_RAW requires median≥threshold; sesoi5 also wants boot95_lo≥0
+all_curated,merchant_treatments,4,-4.74,-13.0,0.0,0,0,FAIL_OR_UNAVAILABLE,FAIL,PASS_RAW requires median≥threshold; sesoi5 also wants boot95_lo≥0
+high_only,all_treatments,31,-2.0,-5.0,3.0,9,4,FAIL_OR_UNAVAILABLE,FAIL,PASS_RAW requires median≥threshold; sesoi5 also wants boot95_lo≥0
+high_only,merchant_treatments,3,-3.0,-13.0,0.0,0,0,FAIL_OR_UNAVAILABLE,FAIL,PASS_RAW requires median≥threshold; sesoi5 also wants boot95_lo≥0

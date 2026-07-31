@@ -1,0 +1,2 @@
+person_id,evidence_year,confidence,activity_proxy,n_year_hits,first_year,last_year,years_after_evidence,n_before,n_on_or_after,share_on_or_after,caveat,occhiali_hits
+lotto,1540,medium,lotto_libro_spese_openstarts_year_mentions,1327,1540,1556,16,0,1327,1.0,Year hits from OA edition text include editorial apparatus; Libro itself covers ~1540-1556 (wear evidence ≈ start of book). Continuity to 1556 = full book span.,9

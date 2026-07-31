@@ -1,0 +1,15 @@
+person_id,date,event,source,note
+ardingelli_bese,1408-02-02,birth,tratte_ser10_reckey404331;_Lanza-Speranzi_2025_p89,Bese di Giovanni; age at wear ~43
+ardingelli_bese,1432-09-04,signed_ms_villani,Bouveret_vol1_n2226;_BNCF_II.I.249;_Lanza-Speranzi_2025,Bouveret prints 1432-09-04; Lanza may prefer 1433 — pre-wear either way
+ardingelli_bese,1442-05-09,signed_ms_dante_petrarch,Bouveret_vol1_n2227;_BML_Med.Pal.72;_Lanza-Speranzi_2025,Commedia+Trionfi; pre-wear; hour 23 vigilia Ascensione
+ardingelli_bese,1451-11-06,spectacle_purchase,Ilardi_2007;_Tordi_2_fol.16v,Gilt-silver occhiali in leather case
+ardingelli_bese,1455,signed_ms_villani,Lanza-Speranzi_2025_App1;_BML_Med.Pal.159,Nuova Cronica; Tordi 2 f.95r; post-wear +4y; not in Bouveret 2226–2229
+ardingelli_bese,1455-05-08,signed_ms_armannino,Bouveret_vol1_n2228;_Lanza-Speranzi_2025_App1;_BNCF_II.III.139,Fiorita d'Italia f.193; hour 4 di nocte; post-wear +4y
+ardingelli_bese,1455,signed_ms_dominici,Bouveret_vol1_n2229;_Lanza-Speranzi_2025_App1;_BNCF_II.IV.478,Libro d'amor di carità f.168; Bouveret says post 1455 / Lanza dates 1455; post-wear +4y
+ardingelli_bese,1458,marriage_move,Lanza-Speranzi_2025_p90;_Cursi-Miglio,Third wife Dianora Buondelmonti; moves to her house
+ardingelli_bese,1459-08-15,catasto_scrivano_start,Lanza-Speranzi_2025_p95;_Tordi_2_f.100r,"Went as scrivano to Ufficiali del Catasto del Contado; salary 16 fiorini/mese (ricordanza 1459-10-15)"
+ardingelli_bese,1460,catasto_register_hand,Lanza-Speranzi_2025_App2;_ASF_Catasto_866-870_872-878,Hand in 1460 Catasto vols S.M.Novella (indices + many folios)
+ardingelli_bese,1465-03,copy_job_bonsi_probable,Lanza-Speranzi_2025_n6;_Tordi_2_ff.63v-64v;_Med.Pal.160,If ID correct: epitome Villani for Giovanni di Donato Bonsi Mar–Apr 1465
+ardingelli_bese,1467-02-01,copy_job_pistole,Lanza-Speranzi_2025_p92;_Tordi_2_f.68v;_BNCF_II.II.76,Credit for 14 quinterni libro di pistole (=II.II.76) for Piero di Maestro Ugolino
+ardingelli_bese,1470,copyist_activity_upper_bound,Cursi-Miglio_via_Lanza-Speranzi_n2,Cursi arco cronologico copista to 1470
+ardingelli_bese,1476,death_approx,Lanza-Speranzi_2025_p90;_Tordi_2_f.129r;_Cursi-Miglio_p220,Morì intorno al 1476

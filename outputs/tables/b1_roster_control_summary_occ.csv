@@ -1,0 +1,2 @@
+metric,n_treatment_with_birth,n_matched,n_occ_birth_matched,n_occ_relaxed,n_birth_only_fallback,median_delta_ya45_all_matched,median_delta_ya45_occ_matched,sesoi5_all,sesoi15_all,sesoi5_occ,sesoi15_occ,caveat
+ya45_occ_aware_match,29,29,29,0,0,1.25,1.25,FAIL_OR_UNAVAILABLE,FAIL_OR_UNAVAILABLE,FAIL_OR_UNAVAILABLE,FAIL_OR_UNAVAILABLE,Outcome B=ya45 survival. Primary occ+birth = first bucket only; occ_relaxed = secondary buckets (e.g. merchant→humanist). Not archive-negative.

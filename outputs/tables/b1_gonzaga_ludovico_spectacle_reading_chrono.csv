@@ -1,0 +1,5 @@
+person_id,date,kind,direction,ochiali,note,source
+gonzaga_ludovico,1460-02-13,self_report_letter,from_ludovico,1,"Ludovico→Giovanni Lochner, Mantua: reads letters daily with spectacles; asks more pairs. ASMA Copialettere B.2886. Quoted Ilardi 2007; first Signorini Opus hoc tenue.",Ilardi 2007 n.54; Signorini
+gonzaga_ludovico,1466-03-14,spectacle_gift_letter_to_him,to_ludovico,1,Abbot Bessarion (S. Benedetto Polirone)→Ludovico: sends 2 pairs; recalls his sight failing and need to start using ochialli. Luzio-Renier print full text.,GSLI 16 (1890) Luzio-Renier p.146 n.1; data/raw/gonzaga/GiornaleStoricoLettItal1890_djvu.txt
+gonzaga_ludovico,1466-09-18,order_by_wife,barbara,1,Barbara→Federico: bring ochiali assai (may include gifts). ASMA. Corroborates court supply; not Ludovico self-activity.,Ilardi 2007 n.56
+gonzaga_ludovico,1473-03-07,self_report_letter,from_ludovico,1,Ludovico→Zaccaria Saggi: still wears glasses (ochiali pesano) — continued near-work reading at +13y after 1460 onset.,Ilardi 2007 n.58; Signorini p.80 n.145

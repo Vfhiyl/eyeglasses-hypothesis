@@ -1,0 +1,1278 @@
+qid,name,birth,death,cohort,is_known_wearer,source,strata_bucket
+Q161866,Henry IV of England,1367,1413,strata_ruler,False,sparql_ruler,ruler
+Q154460,Christian II of Denmark,1481,1559,strata_ruler,False,sparql_ruler,ruler
+Q168769,Mehmed I,1386,1421,strata_ruler,False,sparql_ruler,ruler
+Q160349,Charles VI of France,1368,1422,strata_ruler,False,sparql_ruler,ruler
+Q160341,Edward IV of England,1442,1483,strata_ruler,False,sparql_ruler,ruler
+Q160337,Henry VI of England,1421,1471,strata_ruler,False,sparql_ruler,ruler
+Q161958,Eric of Pomerania,1381,1459,strata_ruler,False,sparql_ruler,ruler
+Q157789,Frederick I of Denmark,1471,1533,strata_ruler,False,sparql_ruler,ruler
+Q157776,"John, King of Denmark",1455,1513,strata_ruler,False,sparql_ruler,ruler
+Q165983,Selim i,1447,1512,strata_ruler,False,sparql_ruler,ruler
+Q155244,Eleanor of Arborea,1340,1402,strata_ruler,False,sparql_ruler,ruler
+Q167782,Charles V of France,1338,1380,strata_ruler,False,sparql_ruler,ruler
+Q150611,"Ferdinand I, Holy Roman Emperor",1503,1564,strata_ruler,False,sparql_ruler,ruler
+Q155669,Charles IV,1316,1378,strata_ruler,False,sparql_ruler,ruler
+Q157112,Albert II of Germany,1397,1439,strata_ruler,False,sparql_ruler,ruler
+Q153940,Christian I of Denmark,1426,1481,strata_ruler,False,sparql_ruler,ruler
+Q157092,"Louis II, King of Hungary, Croatia and Bohemia",1506,1526,strata_ruler,False,sparql_ruler,ruler
+Q154998,Christian III of Denmark,1503,1559,strata_ruler,False,sparql_ruler,ruler
+Q154412,Mary I of Hungary,1371,1395,strata_ruler,False,sparql_ruler,ruler
+Q57124,Sigismund,1368,1437,strata_ruler,False,sparql_ruler,ruler
+Q54056,Sigismund I the Old,1467,1548,strata_ruler,False,sparql_ruler,ruler
+Q52947,Gustav I of Sweden,1496,1560,strata_ruler,False,sparql_ruler,ruler
+Q53998,Louis I of Hungary,1326,1382,strata_ruler,False,sparql_ruler,ruler
+Q58056,Christopher of Bavaria,1416,1448,strata_ruler,False,sparql_ruler,ruler
+Q54053,Władysław III of Poland,1424,1444,strata_ruler,False,sparql_ruler,ruler
+Q52944,John III of Sweden,1537,1592,strata_ruler,False,sparql_ruler,ruler
+Q52939,Charles IX of Sweden,1550,1611,strata_ruler,False,sparql_ruler,ruler
+Q52945,Eric XIV of Sweden,1533,1577,strata_ruler,False,sparql_ruler,ruler
+Q174964,Charles IV of France,1294,1328,strata_ruler,False,sparql_ruler,ruler
+Q188634,Matthias Corvinus,1443,1490,strata_ruler,False,sparql_ruler,ruler
+Q214559,Ismail I,1487,1524,strata_ruler,False,sparql_ruler,ruler
+Q237747,Leonor Teles de Menezes,1350,1386,strata_ruler,False,sparql_ruler,ruler
+Q233745,Beatrice of Portugal,1373,1409,strata_ruler,False,sparql_ruler,ruler
+Q259896,Violant of Bar,1365,1431,strata_ruler,False,sparql_ruler,ruler
+Q239486,David II of Scotland,1324,1371,strata_ruler,False,sparql_ruler,ruler
+Q269586,"Beatrice of Bourbon, Queen of Bohemia",1320,1383,strata_ruler,False,sparql_ruler,ruler
+Q34503,Mehmed II,1432,1481,strata_ruler,False,sparql_ruler,ruler
+Q29085,Hayam Wuruk,1334,1389,strata_ruler,False,sparql_ruler,ruler
+Q32500,Charles V,1500,1558,strata_ruler,False,sparql_ruler,ruler
+Q37682,Sejong the Great,1397,1450,strata_ruler,False,sparql_ruler,ruler
+Q32607,John Zápolya,1487,1540,strata_ruler,False,sparql_ruler,ruler
+Q37063,Andronikos III Palaiologos,1297,1341,strata_ruler,False,sparql_ruler,ruler
+Q37078,Andronikos IV Palaiologos,1348,1385,strata_ruler,False,sparql_ruler,ruler
+Q37062,John VIII Palaiologos,1392,1448,strata_ruler,False,sparql_ruler,ruler
+Q8597,Akbar,1542,1605,strata_ruler,False,sparql_ruler,ruler
+Q81000,Richard II of England,1367,1400,strata_ruler,False,sparql_ruler,ruler
+Q113217,Radu of Afumați,1493,1529,strata_ruler,False,sparql_ruler,ruler
+Q123088,Ismail II,1533,1577,strata_ruler,False,sparql_ruler,ruler
+Q83680,Sher Shah Suri,1472,1545,strata_ruler,False,sparql_ruler,ruler
+Q96261,Murad I,1326,1389,strata_ruler,False,sparql_ruler,ruler
+Q114203,Radu II of Wallachia,1380,1431,strata_ruler,False,sparql_ruler,ruler
+Q129247,Edward III of England,1312,1377,strata_ruler,False,sparql_ruler,ruler
+Q131394,Murad II,1404,1451,strata_ruler,False,sparql_ruler,ruler
+Q108442,Ferdinand I of Portugal,1345,1383,strata_ruler,False,sparql_ruler,ruler
+Q1060257,Ououso,1350,1413,strata_ruler,False,sparql_ruler,ruler
+Q1060357,William II of Athens,1312,1338,strata_ruler,False,sparql_ruler,ruler
+Q1040397,Stephen II of Moldavia,1410,1447,strata_ruler,False,sparql_ruler,ruler
+Q917090,"Joan of Valois, Queen of Navarre",1343,1373,strata_ruler,False,sparql_ruler,ruler
+Q1033822,Lê Trung Tông,1535,1556,strata_ruler,False,sparql_ruler,ruler
+Q1060836,Alexandru Lăpușneanu,1499,1568,strata_ruler,False,sparql_ruler,ruler
+Q935658,Alexander I Aldea,1397,1436,strata_ruler,False,sparql_ruler,ruler
+Q1053873,Maha Sajan,1450,1471,strata_ruler,False,sparql_ruler,ruler
+Q1058875,Chaiyasongkhram,1300,1325,strata_ruler,False,sparql_ruler,ruler
+Q1064030,Nicholas Alexander of Wallachia,1300,1364,strata_ruler,False,sparql_ruler,ruler
+Q982255,Dmitry of Tver,1299,1326,strata_ruler,False,sparql_ruler,ruler
+Q940578,Raden Patah,1455,1518,strata_ruler,False,sparql_ruler,ruler
+Q926552,Bogdan II of Moldavia,1409,1451,strata_ruler,False,sparql_ruler,ruler
+Q977393,Pătraşcu cel Bun,1516,1557,strata_ruler,False,sparql_ruler,ruler
+Q897671,Stephen IV of Moldavia,1506,1527,strata_ruler,False,sparql_ruler,ruler
+Q1047304,Michael I of Wallachia,1380,1420,strata_ruler,False,sparql_ruler,ruler
+Q950771,Saw Yun,1299,1327,strata_ruler,False,sparql_ruler,ruler
+Q957293,Mircea II of Wallachia,1422,1446,strata_ruler,False,sparql_ruler,ruler
+Q1060091,Ioan Iacob Heraclid,1511,1563,strata_ruler,False,sparql_ruler,ruler
+Q938326,Konrad III Rudy,1449,1503,strata_ruler,False,sparql_ruler,ruler
+Q912154,Vlad cel Tânăr,1488,1512,strata_ruler,False,sparql_ruler,ruler
+Q316462,Marko Mrnjavčević,1335,1395,strata_ruler,False,sparql_ruler,ruler
+Q137906,James IV of Scotland,1473,1513,strata_ruler,False,sparql_ruler,ruler
+Q170353,René of Anjou,1409,1480,strata_ruler,False,sparql_ruler,ruler
+Q147677,Zara Yaqob,1399,1468,strata_ruler,False,sparql_ruler,ruler
+Q297278,John II of Castile,1405,1454,strata_ruler,False,sparql_ruler,ruler
+Q49875581,Nchare Yen,1370,1418,strata_ruler,False,sparql_ruler,ruler
+Q229846,Mary of Lorraine,1515,1560,strata_ruler,False,sparql_ruler,ruler
+Q133372,Charles VII of France,1403,1461,strata_ruler,False,sparql_ruler,ruler
+Q30325515,Gearalt MacMurrough-Kavanagh,1450,1523,strata_ruler,False,sparql_ruler,ruler
+Q216630,Valdemar IV of Denmark,1320,1375,strata_ruler,False,sparql_ruler,ruler
+Q56824872,Qaʾitbay,1418,1496,strata_ruler,False,sparql_ruler,ruler
+Q171136,Juana I of Castile,1479,1555,strata_ruler,False,sparql_ruler,ruler
+Q133028,Richard III of England,1452,1485,strata_ruler,False,sparql_ruler,ruler
+Q30675040,Art Buidhe MacMurrough-Kavanagh,1447,1517,strata_ruler,False,sparql_ruler,ruler
+Q60537581,Sabla Wangel,1500,1567,strata_ruler,False,sparql_ruler,ruler
+Q313396,John Sigismund Zápolya,1540,1571,strata_ruler,False,sparql_ruler,ruler
+Q310918,Henry IV of Castile,1425,1474,strata_ruler,False,sparql_ruler,ruler
+Q299675,Francesco I de' Medici,1541,1587,strata_ruler,False,sparql_ruler,ruler
+Q312763,Muhammad XII of Granada,1459,1533,strata_ruler,False,sparql_ruler,ruler
+Q313015,Haakon VI of Norway,1340,1380,strata_ruler,False,sparql_ruler,ruler
+Q332049,Manco Inca,1500,1544,strata_ruler,False,sparql_ruler,ruler
+Q329708,Matthew Kantakouzenos,1325,1383,strata_ruler,False,sparql_ruler,ruler
+Q335118,Abu Marwan Abd al-Malik I Saadi,1541,1578,strata_ruler,False,sparql_ruler,ruler
+Q322296,"Henry, Duke of Mecklenburg-Stargard",1412,1466,strata_ruler,False,sparql_ruler,ruler
+Q336879,Aben Humeya,1520,1568,strata_ruler,False,sparql_ruler,ruler
+Q3764168,Ibrahim Quli Qutb Shah Wali,1518,1580,strata_ruler,False,sparql_ruler,ruler
+Q3764651,Quli Qutb Shah,1485,1543,strata_ruler,False,sparql_ruler,ruler
+Q3515575,Tarabya of Ava,1368,1400,strata_ruler,False,sparql_ruler,ruler
+Q3515573,Tarabya I of Sagaing,1297,1339,strata_ruler,False,sparql_ruler,ruler
+Q3519413,Thadominbya,1345,1367,strata_ruler,False,sparql_ruler,ruler
+Q3552812,Uzana I of Pinya,1298,1356,strata_ruler,False,sparql_ruler,ruler
+Q4090787,Bolesław Januszowic,1386,1424,strata_ruler,False,sparql_ruler,ruler
+Q4090790,Bolesław V of Warsaw,1453,1488,strata_ruler,False,sparql_ruler,ruler
+Q3524614,Thihathura of Ava,1431,1480,strata_ruler,False,sparql_ruler,ruler
+Q3524796,Thohanbwa,1505,1542,strata_ruler,False,sparql_ruler,ruler
+Q3529329,Vimaladharmasuriya I of Kandy,1550,1604,strata_ruler,False,sparql_ruler,ruler
+Q3575107,Zein Pun,1295,1330,strata_ruler,False,sparql_ruler,ruler
+Q3630505,Man Singh I,1550,1614,strata_ruler,False,sparql_ruler,ruler
+Q3327292,Mswati I du Swaziland,1460,1520,strata_ruler,False,sparql_ruler,ruler
+Q3327500,Mohammed Shah I,1350,1375,strata_ruler,False,sparql_ruler,ruler
+Q3229169,Leik Munhtaw,1432,1454,strata_ruler,False,sparql_ruler,ruler
+Q3510554,Luethai,1358,1409,strata_ruler,False,sparql_ruler,ruler
+Q3510561,Nguanamthom,1298,1347,strata_ruler,False,sparql_ruler,ruler
+Q3331461,Bentor,1463,1496,strata_ruler,False,sparql_ruler,ruler
+Q3200887,Kyaswa of Sagaing,1319,1350,strata_ruler,False,sparql_ruler,ruler
+Q3200895,Kyawswa I of Pinya,1299,1350,strata_ruler,False,sparql_ruler,ruler
+Q3200893,Kyawswa II of Pinya,1328,1359,strata_ruler,False,sparql_ruler,ruler
+Q3514244,Takayutpi,1511,1539,strata_ruler,False,sparql_ruler,ruler
+Q3274810,Lê Hiến Tông,1461,1504,strata_ruler,False,sparql_ruler,ruler
+Q3336022,Narapati of Ava,1413,1468,strata_ruler,False,sparql_ruler,ruler
+Q3336028,Narathu of Pinya,1333,1364,strata_ruler,False,sparql_ruler,ruler
+Q3337352,Nawrahta Minye,1326,1349,strata_ruler,False,sparql_ruler,ruler
+Q3482705,Shwetaungtet,1313,1339,strata_ruler,False,sparql_ruler,ruler
+Q3342104,Borom Nipeanbot,1291,1346,strata_ruler,False,sparql_ruler,ruler
+Q3216828,Lompong Reachea,1320,1353,strata_ruler,False,sparql_ruler,ruler
+Q3314758,Minbyauk Thihapate,1309,1364,strata_ruler,False,sparql_ruler,ruler
+Q3315520,Minkhaung I,1373,1422,strata_ruler,False,sparql_ruler,ruler
+Q3315521,Minkhaung II,1446,1501,strata_ruler,False,sparql_ruler,ruler
+Q3289754,Rajasinha I of Sitawaka,1544,1593,strata_ruler,False,sparql_ruler,ruler
+Q67712,John II of Simmern,1492,1557,strata_ruler,False,sparql_ruler,ruler
+Q72923,"Bernhard III, Margrave of Baden-Baden",1474,1536,strata_ruler,False,sparql_ruler,ruler
+Q64554,Tecun Uman,1500,1524,strata_ruler,False,sparql_ruler,ruler
+Q64569,"Albert Alcibiades, Margrave of Brandenburg-Kulmbach",1522,1557,strata_ruler,False,sparql_ruler,ruler
+Q66888,"Joachim Ernest, Prince of Anhalt",1536,1586,strata_ruler,False,sparql_ruler,ruler
+Q69462,Catherine of Mecklenburg,1487,1561,strata_ruler,False,sparql_ruler,ruler
+Q66602,"Christopher I, Margrave of Baden",1453,1527,strata_ruler,False,sparql_ruler,ruler
+Q66270,"Magnus II, Duke of Mecklenburg",1441,1503,strata_ruler,False,sparql_ruler,ruler
+Q63886,"Frederick V, Burgrave of Nuremberg",1332,1398,strata_ruler,False,sparql_ruler,ruler
+Q63884,"John III, Burgrave of Nuremberg",1369,1420,strata_ruler,False,sparql_ruler,ruler
+Q61814,"Joachim I Nestor, Elector of Brandenburg",1484,1535,strata_ruler,False,sparql_ruler,ruler
+Q64984,"Christopher II, Margrave of Baden-Rodemachern",1537,1575,strata_ruler,False,sparql_ruler,ruler
+Q45859,Isabella I of Castile,1451,1504,strata_ruler,False,sparql_ruler,ruler
+Q63277,Louis VI of the Palatinate,1539,1583,strata_ruler,False,sparql_ruler,ruler
+Q62171,Frederick III of the Palatinate,1515,1576,strata_ruler,False,sparql_ruler,ruler
+Q47412,Ferdinand I of Aragon,1380,1416,strata_ruler,False,sparql_ruler,ruler
+Q1108098,Razadarit,1368,1421,strata_ruler,False,sparql_ruler,ruler
+Q1112851,Marianus IV of Arborea,1317,1375,strata_ruler,False,sparql_ruler,ruler
+Q1195391,Lê Thái Tổ,1384,1433,strata_ruler,False,sparql_ruler,ruler
+Q1091376,Sigismund Kęstutaitis,1365,1440,strata_ruler,False,sparql_ruler,ruler
+Q1116577,Saw Zein,1303,1330,strata_ruler,False,sparql_ruler,ruler
+Q1070476,Ahmad Jalayir,1382,1410,strata_ruler,False,sparql_ruler,ruler
+Q1095044,Süleyman Çelebi,1377,1411,strata_ruler,False,sparql_ruler,ruler
+Q1194003,Hasan Buzurg,1305,1356,strata_ruler,False,sparql_ruler,ruler
+Q248996,Barquq,1339,1399,strata_ruler,False,sparql_ruler,ruler
+Q273072,Elisabeth of Brandenburg-Küstrin,1540,1578,strata_ruler,False,sparql_ruler,ruler
+Q210445,Al-Musta'in,1390,1430,strata_ruler,False,sparql_ruler,ruler
+Q207303,Stefan Dušan,1308,1355,strata_ruler,False,sparql_ruler,ruler
+Q236896,Catherine of Navarre,1470,1517,strata_ruler,False,sparql_ruler,ruler
+Q236889,Leonor I of Navarre,1426,1479,strata_ruler,False,sparql_ruler,ruler
+Q233865,Blanche I of Navarre,1387,1441,strata_ruler,False,sparql_ruler,ruler
+Q262363,Henry II of Castile,1334,1379,strata_ruler,False,sparql_ruler,ruler
+Q191103,Lucrezia Borgia,1480,1519,strata_ruler,False,sparql_ruler,ruler
+Q179421,Balthasar,1336,1406,strata_ruler,False,sparql_ruler,ruler
+Q297050,Cuauhtémoc,1495,1525,strata_ruler,False,sparql_ruler,ruler
+Q280412,Al-Salih Ismail,1325,1345,strata_ruler,False,sparql_ruler,ruler
+Q288013,Al-Salih Salih,1337,1360,strata_ruler,False,sparql_ruler,ruler
+Q307552,Abtai Sain Khan,1534,1586,strata_ruler,False,sparql_ruler,ruler
+Q307564,Abd al-Haqq II,1419,1465,strata_ruler,False,sparql_ruler,ruler
+Q314514,Gian Galeazzo Sforza,1469,1494,strata_ruler,False,sparql_ruler,ruler
+Q302096,U of Goryeo,1364,1389,strata_ruler,False,sparql_ruler,ruler
+Q288557,An-Nàssir Hàssan,1330,1361,strata_ruler,False,sparql_ruler,ruler
+Q310963,Peter of Castile,1334,1369,strata_ruler,False,sparql_ruler,ruler
+Q312328,John II of Aragon,1398,1479,strata_ruler,False,sparql_ruler,ruler
+Q286573,Al-Salih Hajji,1372,1412,strata_ruler,False,sparql_ruler,ruler
+Q286592,Al-Ashraf Sha'ban,1350,1377,strata_ruler,False,sparql_ruler,ruler
+Q286551,Shaykh al-Mahmudi,1369,1421,strata_ruler,False,sparql_ruler,ruler
+Q286582,Saif ad-Din Abu-Bakr,1321,1341,strata_ruler,False,sparql_ruler,ruler
+Q110752,"Albert, Margrave of Baden-Hachberg",1456,1488,strata_ruler,False,sparql_ruler,ruler
+Q128358,Bayezid I,1354,1403,strata_ruler,False,sparql_ruler,ruler
+Q161872,Selim II,1524,1574,strata_ruler,False,sparql_ruler,ruler
+Q90443,"Philip I, Margrave of Baden",1479,1533,strata_ruler,False,sparql_ruler,ruler
+Q97064,"Rudolf III, Margrave of Hachberg-Sausenberg",1343,1428,strata_ruler,False,sparql_ruler,ruler
+Q110047,"Bernard IV, Margrave of Baden-Durlach",1517,1553,strata_ruler,False,sparql_ruler,ruler
+Q91219,"Reinhard IV, Count of Hanau-Münzenberg",1473,1512,strata_ruler,False,sparql_ruler,ruler
+Q157098,Philip I of Castile,1478,1506,strata_ruler,False,sparql_ruler,ruler
+Q150726,Maximilian I,1459,1519,strata_ruler,False,sparql_ruler,ruler
+Q77854,"Rudolf VI, Margrave of Baden",1350,1372,strata_ruler,False,sparql_ruler,ruler
+Q77866,"Frederick III, Margrave of Baden",1327,1353,strata_ruler,False,sparql_ruler,ruler
+Q155473,Catherine of Bohemia,1342,1395,strata_ruler,False,sparql_ruler,ruler
+Q98795,"Rudolf II, Margrave of Hachberg-Sausenberg",1301,1352,strata_ruler,False,sparql_ruler,ruler
+Q77875,"Bernard I, Margrave of Baden-Baden",1364,1431,strata_ruler,False,sparql_ruler,ruler
+Q77879,"Otto I, Margrave of Hachberg-Sausenberg",1302,1384,strata_ruler,False,sparql_ruler,ruler
+Q150966,"Frederick III, Holy Roman Emperor",1415,1493,strata_ruler,False,sparql_ruler,ruler
+Q105350,"William, Margrave of Hachberg-Sausenberg",1406,1482,strata_ruler,False,sparql_ruler,ruler
+Q87732,"Wolrad II, Count of Waldeck-Eisenberg",1509,1578,strata_ruler,False,sparql_ruler,ruler
+Q86766,"Catherine of Brunswick-Wolfenbüttel, Margravine of Brandenburg-Küstrin",1518,1574,strata_ruler,False,sparql_ruler,ruler
+Q159934,Murad III,1546,1595,strata_ruler,False,sparql_ruler,ruler
+Q95239,Maria of Jever,1500,1575,strata_ruler,False,sparql_ruler,ruler
+Q87986,"Henry III, Landgrave of Upper Hesse",1440,1483,strata_ruler,False,sparql_ruler,ruler
+Q155599,Vladislaus II of Bohemia and Hungary,1456,1516,strata_ruler,False,sparql_ruler,ruler
+Q86349,Mechthild of Bavaria,1532,1565,strata_ruler,False,sparql_ruler,ruler
+Q378868,Francesco II Sforza,1495,1535,strata_ruler,False,sparql_ruler,ruler
+Q354796,Ivan Shishman of Bulgaria,1350,1395,strata_ruler,False,sparql_ruler,ruler
+Q380071,Vukašin Mrnjavčević,1320,1371,strata_ruler,False,sparql_ruler,ruler
+Q380330,Vlad II Dracul,1395,1447,strata_ruler,False,sparql_ruler,ruler
+Q374340,Konrad III the Old,1350,1412,strata_ruler,False,sparql_ruler,ruler
+Q365659,Andronikos III of Trebizond,1310,1332,strata_ruler,False,sparql_ruler,ruler
+Q370824,Dharmapala of Kotte,1541,1597,strata_ruler,False,sparql_ruler,ruler
+Q320101,Louis II,1438,1471,strata_ruler,False,sparql_ruler,ruler
+Q332681,Martin of Aragon,1356,1410,strata_ruler,False,sparql_ruler,ruler
+Q335620,Abu al-Hasan Ali ibn Uthman,1297,1351,strata_ruler,False,sparql_ruler,ruler
+Q358374,John I of Aragon,1351,1396,strata_ruler,False,sparql_ruler,ruler
+Q335050,Abu Hammu Musa II,1323,1389,strata_ruler,False,sparql_ruler,ruler
+Q335416,Abu Taschfin I.,1293,1337,strata_ruler,False,sparql_ruler,ruler
+Q359352,Jean IV de Brosse,1505,1564,strata_ruler,False,sparql_ruler,ruler
+Q333218,Mamai,1335,1380,strata_ruler,False,sparql_ruler,ruler
+Q328024,"Magnus II, Duke of Saxe-Lauenburg",1543,1603,strata_ruler,False,sparql_ruler,ruler
+Q336990,Abu Inan Faris,1329,1358,strata_ruler,False,sparql_ruler,ruler
+Q336823,Peter IV of Aragon,1319,1387,strata_ruler,False,sparql_ruler,ruler
+Q442595,John I of Lubin,1425,1453,strata_ruler,False,sparql_ruler,ruler
+Q442650,Konrad VIII the Younger,1397,1444,strata_ruler,False,sparql_ruler,ruler
+Q429584,Adityawarman,1294,1375,strata_ruler,False,sparql_ruler,ruler
+Q468616,Martin I of Sicily,1374,1409,strata_ruler,False,sparql_ruler,ruler
+Q468672,Frederick III the Simple,1341,1377,strata_ruler,False,sparql_ruler,ruler
+Q451995,"Amadeus VI, Count of Savoy",1334,1383,strata_ruler,False,sparql_ruler,ruler
+Q435994,Alexander I of Moldavia,1375,1432,strata_ruler,False,sparql_ruler,ruler
+Q441416,René II of Lorraine,1451,1508,strata_ruler,False,sparql_ruler,ruler
+Q397135,Stephen V of Moldavia,1496,1540,strata_ruler,False,sparql_ruler,ruler
+Q437440,"Margaret of Savoy, Duchess of Anjou",1420,1479,strata_ruler,False,sparql_ruler,ruler
+Q453529,Louis II of Naples,1377,1417,strata_ruler,False,sparql_ruler,ruler
+Q447535,Louis III of Naples,1403,1434,strata_ruler,False,sparql_ruler,ruler
+Q400911,Ahmad al-Mansur,1549,1603,strata_ruler,False,sparql_ruler,ruler
+Q383455,Afonso I of Kongo,1456,1543,strata_ruler,False,sparql_ruler,ruler
+Q4993282,"Marie of Blois, Duchess of Anjou",1345,1404,strata_ruler,False,sparql_ruler,ruler
+Q88329966,Catherine of Ilok,1448,1493,strata_ruler,False,sparql_ruler,ruler
+Q317506,Henri II of Navarre,1503,1555,strata_ruler,False,sparql_ruler,ruler
+Q4383551,Pulad,1330,1365,strata_ruler,False,sparql_ruler,ruler
+Q364630,Adolf X.,1419,1474,strata_ruler,False,sparql_ruler,ruler
+Q364634,Adolf XI,1547,1601,strata_ruler,False,sparql_ruler,ruler
+Q77850,"Rudolf IV, Margrave of Baden-Pforzheim",1300,1348,strata_ruler,False,sparql_ruler,ruler
+Q4902299,Bhuvanekabahu VII of Kotte,1468,1551,strata_ruler,False,sparql_ruler,ruler
+Q77233,Frederick III of Saxony,1463,1525,strata_ruler,False,sparql_ruler,ruler
+Q279693,Stefan Uroš V of Serbia,1336,1371,strata_ruler,False,sparql_ruler,ruler
+Q5385083,Erazem Lueger,1450,1484,strata_ruler,False,sparql_ruler,ruler
+Q107970099,Muhammed al-Fallah,1378,1435,strata_ruler,False,sparql_ruler,ruler
+Q348961,Louis I of Anjou,1339,1384,strata_ruler,False,sparql_ruler,ruler
+Q4538307,Janusz II of Płock,1455,1495,strata_ruler,False,sparql_ruler,ruler
+Q4494540,Hajim Muhammad,1519,1603,strata_ruler,False,sparql_ruler,ruler
+Q5290255,Domhnall Spáinneach Mac Murchadha Caomhánach,1550,1632,strata_ruler,False,sparql_ruler,ruler
+Q392792,Švitrigaila / Svidrigiello,1356,1452,strata_ruler,False,sparql_ruler,ruler
+Q75477,"Albert IV, Duke of Saxe-Lauenburg",1315,1343,strata_ruler,False,sparql_ruler,ruler
+Q442630,Wenceslaus III of Oława,1400,1423,strata_ruler,False,sparql_ruler,ruler
+Q435016,"Augustus, Elector of Saxony",1526,1586,strata_ruler,False,sparql_ruler,ruler
+Q451864,Go-Kameyama,1347,1424,strata_ruler,False,sparql_ruler,ruler
+Q458062,"Frederick II, Margrave of Baden-Eberstein",1300,1333,strata_ruler,False,sparql_ruler,ruler
+Q379984,Huitzilihuitl,1380,1417,strata_ruler,False,sparql_ruler,ruler
+Q380623,Go-Tsuchimikado,1442,1500,strata_ruler,False,sparql_ruler,ruler
+Q376898,Ewuare,1400,1473,strata_ruler,False,sparql_ruler,ruler
+Q427216,Al-Afdal Muhammad,1290,1341,strata_ruler,False,sparql_ruler,ruler
+Q380868,Emilie of Saxony,1516,1591,strata_ruler,False,sparql_ruler,ruler
+Q376159,Nikola Altomanović,1348,1373,strata_ruler,False,sparql_ruler,ruler
+Q453771,"Albrecht III Achilles, Elector of Brandenburg",1414,1486,strata_ruler,False,sparql_ruler,ruler
+Q367271,Rupert I of Legnica,1347,1409,strata_ruler,False,sparql_ruler,ruler
+Q371100,John III of Navarre,1469,1516,strata_ruler,False,sparql_ruler,ruler
+Q378483,Taejo of Joseon,1335,1408,strata_ruler,False,sparql_ruler,ruler
+Q442060,Henry IX of Lubin,1369,1419,strata_ruler,False,sparql_ruler,ruler
+Q442137,Konrad IX the Black,1415,1471,strata_ruler,False,sparql_ruler,ruler
+Q442091,Wenceslaus I of Legnica,1318,1364,strata_ruler,False,sparql_ruler,ruler
+Q472224,Basil of Trebizond,1315,1340,strata_ruler,False,sparql_ruler,ruler
+Q518684,Francis,1470,1495,strata_ruler,False,sparql_ruler,ruler
+Q480717,Konrad VI the Dean,1391,1427,strata_ruler,False,sparql_ruler,ruler
+Q525683,"Francis I, Duke of Lorraine",1517,1545,strata_ruler,False,sparql_ruler,ruler
+Q526114,Konrad VII the White,1396,1452,strata_ruler,False,sparql_ruler,ruler
+Q494660,Selim I,1470,1520,strata_ruler,False,sparql_ruler,ruler
+Q494074,Gongmin,1330,1374,strata_ruler,False,sparql_ruler,ruler
+Q505040,"Charles III, Duke of Lorraine",1543,1608,strata_ruler,False,sparql_ruler,ruler
+Q483631,Injong of Joseon,1515,1545,strata_ruler,False,sparql_ruler,ruler
+Q484006,Seongjong of Joseon,1457,1495,strata_ruler,False,sparql_ruler,ruler
+Q517044,"Guy I of Luxembourg, Count of Ligny",1337,1371,strata_ruler,False,sparql_ruler,ruler
+Q486188,Humayun,1508,1556,strata_ruler,False,sparql_ruler,ruler
+Q485556,Jeongjong of Joseon,1357,1419,strata_ruler,False,sparql_ruler,ruler
+Q485590,Gongyang of Goryeo,1345,1394,strata_ruler,False,sparql_ruler,ruler
+Q1367194,Berdi Beg,1310,1359,strata_ruler,False,sparql_ruler,ruler
+Q1367188,Khalil Sultan,1384,1411,strata_ruler,False,sparql_ruler,ruler
+Q1522957,João I of Kongo,1440,1506,strata_ruler,False,sparql_ruler,ruler
+Q1319152,Hồ Quý Ly,1336,1407,strata_ruler,False,sparql_ruler,ruler
+Q1405858,"Lucien, Lord of Monaco",1481,1523,strata_ruler,False,sparql_ruler,ruler
+Q1363744,David X of Kartli,1473,1526,strata_ruler,False,sparql_ruler,ruler
+Q1392586,Kadi Burhan al-Din,1345,1398,strata_ruler,False,sparql_ruler,ruler
+Q1613268,Hermann Blankenheim,1535,1604,strata_ruler,False,sparql_ruler,ruler
+Q1396459,Mingyinyo,1459,1530,strata_ruler,False,sparql_ruler,ruler
+Q513315,"Charles II, Margrave of Baden-Durlach",1529,1577,strata_ruler,False,sparql_ruler,ruler
+Q537570,Husayn Bayqarah,1438,1506,strata_ruler,False,sparql_ruler,ruler
+Q471799,Go-En'yū,1359,1393,strata_ruler,False,sparql_ruler,ruler
+Q537742,Alexios III of Trebizond,1338,1390,strata_ruler,False,sparql_ruler,ruler
+Q553940,Bolko II of Ziębice,1300,1341,strata_ruler,False,sparql_ruler,ruler
+Q479538,"Francis II, Duke of Saxe-Lauenburg",1547,1619,strata_ruler,False,sparql_ruler,ruler
+Q480262,"Bernard II, Duke of Saxe-Lauenburg",1385,1463,strata_ruler,False,sparql_ruler,ruler
+Q525245,Sophie of Brandenburg-Ansbach,1535,1587,strata_ruler,False,sparql_ruler,ruler
+Q480588,Konrad X the White,1420,1492,strata_ruler,False,sparql_ruler,ruler
+Q557484,Konrad V Kantner,1380,1439,strata_ruler,False,sparql_ruler,ruler
+Q482338,Shihab ad-Din Ahmad,1316,1344,strata_ruler,False,sparql_ruler,ruler
+Q505112,Philip III of Navarre,1306,1343,strata_ruler,False,sparql_ruler,ruler
+Q476001,"Eric II, Duke of Schleswig",1290,1325,strata_ruler,False,sparql_ruler,ruler
+Q555465,Go-Kōgon,1338,1374,strata_ruler,False,sparql_ruler,ruler
+Q470641,"Charles, Prince of Viana",1421,1461,strata_ruler,False,sparql_ruler,ruler
+Q509574,Sabina of Brandenburg-Ansbach,1529,1575,strata_ruler,False,sparql_ruler,ruler
+Q6734479,Mahmud III,1500,1600,strata_ruler,False,sparql_ruler,ruler
+Q5942064,Lê Tương Dực,1495,1516,strata_ruler,False,sparql_ruler,ruler
+Q6506727,Le Chieu Tong,1506,1526,strata_ruler,False,sparql_ruler,ruler
+Q6506833,Lê Cung Hoàng,1507,1527,strata_ruler,False,sparql_ruler,ruler
+Q5907962,Hoshang Shah,1406,1435,strata_ruler,False,sparql_ruler,ruler
+Q6137489,Simhavarman VI,1350,1400,strata_ruler,False,sparql_ruler,ruler
+Q6138147,Indravarman VI,1350,1441,strata_ruler,False,sparql_ruler,ruler
+Q586326,Tilokarat,1409,1487,strata_ruler,False,sparql_ruler,ruler
+Q634867,Alexander I of Kakheti,1454,1511,strata_ruler,False,sparql_ruler,ruler
+Q634733,Sen Surintra,1511,1582,strata_ruler,False,sparql_ruler,ruler
+Q559150,Sahib I Giray,1500,1550,strata_ruler,False,sparql_ruler,ruler
+Q546469,Peter I of Cyprus,1328,1369,strata_ruler,False,sparql_ruler,ruler
+Q546544,Peter II of Cyprus,1357,1382,strata_ruler,False,sparql_ruler,ruler
+Q554636,George II of Bulgaria,1300,1322,strata_ruler,False,sparql_ruler,ruler
+Q590487,"Antoine, Duke of Lorraine",1489,1544,strata_ruler,False,sparql_ruler,ruler
+Q570195,"John I, Duke of Cleves",1419,1481,strata_ruler,False,sparql_ruler,ruler
+Q576971,Nicholas Orsini,1295,1323,strata_ruler,False,sparql_ruler,ruler
+Q558459,Władysław of Legnica,1296,1352,strata_ruler,False,sparql_ruler,ruler
+Q556397,Przemysław of Oświęcim,1365,1406,strata_ruler,False,sparql_ruler,ruler
+Q592881,James of Baux,1354,1383,strata_ruler,False,sparql_ruler,ruler
+Q551841,Mehmed I Giray,1465,1523,strata_ruler,False,sparql_ruler,ruler
+Q556917,John VIII,1428,1477,strata_ruler,False,sparql_ruler,ruler
+Q653413,"Bartolomeu, Voivode of Transylvania",1447,1501,strata_ruler,False,sparql_ruler,ruler
+Q593666,Aonghus Óg of Islay,1296,1318,strata_ruler,False,sparql_ruler,ruler
+Q666676,Bolko II the Small,1308,1368,strata_ruler,False,sparql_ruler,ruler
+Q567378,"Magnus I, Duke of Saxe-Lauenburg",1470,1543,strata_ruler,False,sparql_ruler,ruler
+Q664454,Henry VI the Good,1294,1335,strata_ruler,False,sparql_ruler,ruler
+Q612669,"Manfred V, Marquess of Saluzzo",1315,1392,strata_ruler,False,sparql_ruler,ruler
+Q715054,Borso d'Este,1413,1471,strata_ruler,False,sparql_ruler,ruler
+Q70783,Master E. S.,1420,1467,strata_artisan,False,sparql_artisan,artisan
+Q78017,Agnes Dürer,1475,1539,strata_artisan,False,sparql_artisan,artisan
+Q115752,Hans Asper,1499,1571,strata_artisan,False,sparql_artisan,artisan
+Q116240,Jost Amman,1539,1591,strata_artisan,False,sparql_artisan,artisan
+Q106851,Hans Memling,1435,1494,strata_artisan,False,sparql_artisan,artisan
+Q102272,Jan van Eyck,1390,1441,strata_artisan,False,sparql_artisan,artisan
+Q37562,Donatello,1386,1466,strata_artisan,False,sparql_artisan,artisan
+Q48319,Hans Holbein the Younger,1497,1543,strata_artisan,False,sparql_artisan,artisan
+Q49987,Hans Holbein the Elder,1465,1524,strata_artisan,False,sparql_artisan,artisan
+Q7129,Cosimo Tura,1430,1495,strata_artisan,False,sparql_artisan,artisan
+Q9977,Xuande Emperor,1399,1435,strata_artisan,False,sparql_artisan,artisan
+Q29609,Master of Egerton,1350,1450,strata_artisan,False,sparql_artisan,artisan
+Q123732,Ambrosius Holbein,1494,1519,strata_artisan,False,sparql_artisan,artisan
+Q153746,Albrecht Altdorfer,1480,1538,strata_artisan,False,sparql_artisan,artisan
+Q155575,Martin Schongauer,1440,1491,strata_artisan,False,sparql_artisan,artisan
+Q468689,Tommaso de Vigilia,1435,1497,strata_artisan,False,sparql_artisan,artisan
+Q470846,Amico Aspertini,1475,1552,strata_artisan,False,sparql_artisan,artisan
+Q509533,Albert von Soest,1550,1583,strata_artisan,False,sparql_artisan,artisan
+Q495226,Andrea Vanni,1332,1414,strata_artisan,False,sparql_artisan,artisan
+Q497965,Andreas Herber,1530,1614,strata_artisan,False,sparql_artisan,artisan
+Q191748,Lucas Cranach the Elder,1472,1553,strata_artisan,False,sparql_artisan,artisan
+Q177415,Bartolo di Fredi,1330,1410,strata_artisan,False,sparql_artisan,artisan
+Q194977,Luca della Robbia,1399,1482,strata_artisan,False,sparql_artisan,artisan
+Q163420,Albert van Ouwater,1415,1475,strata_artisan,False,sparql_artisan,artisan
+Q170339,Lucas Cranach the Younger,1515,1586,strata_artisan,False,sparql_artisan,artisan
+Q182046,Leon Battista Alberti,1404,1472,strata_artisan,False,sparql_artisan,artisan
+Q606983,Hans Weiditz,1495,1536,strata_artisan,False,sparql_artisan,artisan
+Q585052,Volcher Coiter,1534,1576,strata_artisan,False,sparql_artisan,artisan
+Q524497,Vincenzo Tamagni,1492,1530,strata_artisan,False,sparql_artisan,artisan
+Q525755,Jorge Inglés,1420,1500,strata_artisan,False,sparql_artisan,artisan
+Q236038,Sofonisba Anguissola,1532,1625,strata_artisan,False,sparql_artisan,artisan
+Q215251,Hugo van der Goes,1440,1482,strata_artisan,False,sparql_artisan,artisan
+Q654579,Bartolomeo della Gatta,1448,1502,strata_artisan,False,sparql_artisan,artisan
+Q632385,Master of the Saint Bartholomew Altarpiece,1450,1510,strata_artisan,False,sparql_artisan,artisan
+Q675137,Gregor Erhart,1465,1540,strata_artisan,False,sparql_artisan,artisan
+Q1234790,Vincenzo Danti,1530,1576,strata_artisan,False,sparql_artisan,artisan
+Q1111214,Johannes Ruysch,1460,1533,strata_artisan,False,sparql_artisan,artisan
+Q1095265,Clara Tott,1440,1520,strata_artisan,False,sparql_artisan,artisan
+Q557212,Zhu Yunming,1460,1526,strata_artisan,False,sparql_artisan,artisan
+Q573800,Yang Weizhen,1296,1370,strata_artisan,False,sparql_artisan,artisan
+Q260057,Francesco Francia,1447,1517,strata_artisan,False,sparql_artisan,artisan
+Q293106,Properzia de' Rossi,1490,1530,strata_artisan,False,sparql_artisan,artisan
+Q269445,Catarina van Hemessen,1527,1567,strata_artisan,False,sparql_artisan,artisan
+Q711560,Priamo della Quercia,1400,1467,strata_artisan,False,sparql_artisan,artisan
+Q723221,Giovanni Battista Castello,1509,1569,strata_artisan,False,sparql_artisan,artisan
+Q703250,Luis de Morales,1509,1586,strata_artisan,False,sparql_artisan,artisan
+Q700903,Wang Meng,1308,1385,strata_artisan,False,sparql_artisan,artisan
+Q722999,Erhard Reuwich,1445,1505,strata_artisan,False,sparql_artisan,artisan
+Q1135967,Giovanni Paolo Cavagna,1550,1627,strata_artisan,False,sparql_artisan,artisan
+Q1144111,Conrad Segenschmid,1400,1489,strata_artisan,False,sparql_artisan,artisan
+Q1358762,Jan Wellens de Cock,1480,1520,strata_artisan,False,sparql_artisan,artisan
+Q1282718,Wolf Blechschmidt,1500,1560,strata_artisan,False,sparql_artisan,artisan
+Q1268819,Meister der Weingartner Liederhandschrift,1300,1400,strata_artisan,False,sparql_artisan,artisan
+Q1276766,Meister von Bronnweiler,1400,1500,strata_artisan,False,sparql_artisan,artisan
+Q319403,Theophanes the Greek,1335,1410,strata_artisan,False,sparql_artisan,artisan
+Q314275,Quinten Metsys,1456,1530,strata_artisan,False,sparql_artisan,artisan
+Q318117,Masolino da Panicale,1383,1447,strata_artisan,False,sparql_artisan,artisan
+Q316731,Federico Barocci,1535,1612,strata_artisan,False,sparql_artisan,artisan
+Q315803,Peter Candid,1548,1628,strata_artisan,False,sparql_artisan,artisan
+Q318560,Hans Brüggemann,1480,1540,strata_artisan,False,sparql_artisan,artisan
+Q728948,Jacob de Backer,1545,1592,strata_artisan,False,sparql_artisan,artisan
+Q733372,Angelo Barovier,1450,1480,strata_artisan,False,sparql_artisan,artisan
+Q1288346,Ivo Strigel,1430,1516,strata_artisan,False,sparql_artisan,artisan
+Q1370613,Jan Boudolf,1340,1400,strata_artisan,False,sparql_artisan,artisan
+Q1578778,Hans Bolsterer,1505,1573,strata_artisan,False,sparql_artisan,artisan
+Q1580272,Hans Hirtz,1410,1466,strata_artisan,False,sparql_artisan,artisan
+Q1572986,Hans Rogel,1520,1592,strata_artisan,False,sparql_artisan,artisan
+Q1576553,Hieronymus Schaffhirt,1530,1578,strata_artisan,False,sparql_artisan,artisan
+Q1579632,Hans Funk,1470,1540,strata_artisan,False,sparql_artisan,artisan
+Q1567207,Jerg Kugler,1484,1540,strata_artisan,False,sparql_artisan,artisan
+Q345605,Federico Zuccari,1539,1609,strata_artisan,False,sparql_artisan,artisan
+Q332178,Juan Rexach,1411,1485,strata_artisan,False,sparql_artisan,artisan
+Q338410,Bernardino Fungai,1460,1516,strata_artisan,False,sparql_artisan,artisan
+Q325339,Leonhard Beck,1475,1542,strata_artisan,False,sparql_artisan,artisan
+Q333366,Francesco Primaticcio,1504,1560,strata_artisan,False,sparql_artisan,artisan
+Q333380,Gerard David,1460,1523,strata_artisan,False,sparql_artisan,artisan
+Q330232,Andreas Ritzos,1421,1492,strata_artisan,False,sparql_artisan,artisan
+Q334711,Inca Garcilaso de la Vega,1539,1616,strata_artisan,False,sparql_artisan,artisan
+Q1580712,Hans Kemmer,1495,1561,strata_artisan,False,sparql_artisan,artisan
+Q1583343,Hans von Amberg,1450,1509,strata_artisan,False,sparql_artisan,artisan
+Q1582512,Hans Seyffer,1460,1509,strata_artisan,False,sparql_artisan,artisan
+Q1582683,Hans Strigel the Elder,1400,1462,strata_artisan,False,sparql_artisan,artisan
+Q1582777,Hans Tirol,1505,1575,strata_artisan,False,sparql_artisan,artisan
+Q1582875,Hans Vischer,1489,1550,strata_artisan,False,sparql_artisan,artisan
+Q1583016,Hans Weigel,1520,1577,strata_artisan,False,sparql_artisan,artisan
+Q1431942,Heinrich Multscher,1400,1500,strata_artisan,False,sparql_artisan,artisan
+Q1435555,Meister des Pfullendorfer Altars,1455,1520,strata_artisan,False,sparql_artisan,artisan
+Q379567,Altichiero,1330,1390,strata_artisan,False,sparql_artisan,artisan
+Q363720,Willem Vrelant,1450,1481,strata_artisan,False,sparql_artisan,artisan
+Q371697,Giovannino de’ Grassi,1357,1398,strata_artisan,False,sparql_artisan,artisan
+Q359759,Marx Reichlich,1460,1520,strata_artisan,False,sparql_artisan,artisan
+Q804745,Baldassare Estense,1432,1504,strata_artisan,False,sparql_artisan,artisan
+Q828775,Christoph Weiditz the Elder,1498,1559,strata_artisan,False,sparql_artisan,artisan
+Q833877,Jakob Woller,1500,1564,strata_artisan,False,sparql_artisan,artisan
+Q1751201,Master of the Fogg Pietà,1300,1400,strata_artisan,False,sparql_artisan,artisan
+Q548407,Daniel Hopfer,1470,1536,strata_artisan,False,sparql_artisan,artisan
+Q1350748,Erhard Barg,1544,1603,strata_artisan,False,sparql_artisan,artisan
+Q1440711,Maître Frana,1355,1418,strata_artisan,False,sparql_artisan,artisan
+Q1598733,Heinrich Schickhardt der Ältere,1464,1540,strata_artisan,False,sparql_artisan,artisan
+Q434006,Pieter Coecke van Aelst,1502,1550,strata_artisan,False,sparql_artisan,artisan
+Q1750767,Master of the Martyrs of Saints,1480,1505,strata_artisan,False,sparql_artisan,artisan
+Q855263,Biagio Rossetti,1447,1516,strata_artisan,False,sparql_artisan,artisan
+Q882619,Ulrich Füetrer,1401,1496,strata_artisan,False,sparql_artisan,artisan
+Q876275,Jörg Breu the Younger,1510,1547,strata_artisan,False,sparql_artisan,artisan
+Q837903,Oda Nagamasu,1548,1622,strata_artisan,False,sparql_artisan,artisan
+Q452499,Master of Alkmaar,1470,1515,strata_artisan,False,sparql_artisan,artisan
+Q460300,Master of the Housebook,1450,1500,strata_artisan,False,sparql_artisan,artisan
+Q455252,Catherine of Bologna,1413,1463,strata_artisan,False,sparql_artisan,artisan
+Q1617559,Hieronymus Hopfer,1500,1563,strata_artisan,False,sparql_artisan,artisan
+Q1617571,Hieronymus Lang the Elder,1520,1582,strata_artisan,False,sparql_artisan,artisan
+Q1624026,Riccardo Quartararo,1443,1506,strata_artisan,False,sparql_artisan,artisan
+Q1640822,Nicolas Bataille,1330,1399,strata_artisan,False,sparql_artisan,artisan
+Q1612959,Hermann Vischer der Jüngere,1486,1516,strata_artisan,False,sparql_artisan,artisan
+Q1626922,Gonzalo Pérez,1380,1451,strata_artisan,False,sparql_artisan,artisan
+Q1773381,Girolamo Porro,1520,1604,strata_artisan,False,sparql_artisan,artisan
+Q1462176,Friedrich Seefried,1549,1608,strata_artisan,False,sparql_artisan,artisan
+Q921421,Master of 1328,1300,1400,strata_artisan,False,sparql_artisan,artisan
+Q1681906,Jan Joest,1455,1519,strata_artisan,False,sparql_artisan,artisan
+Q1665108,Meister des Nürtinger Altars,1500,1600,strata_artisan,False,sparql_artisan,artisan
+Q1682302,Jan Táborský,1500,1572,strata_artisan,False,sparql_artisan,artisan
+Q1658817,Nicolaus Haberschrack,1454,1484,strata_artisan,False,sparql_artisan,artisan
+Q1679150,Jakob Kaschauer,1400,1463,strata_artisan,False,sparql_artisan,artisan
+Q1679243,Jakob Mülholzer,1500,1600,strata_artisan,False,sparql_artisan,artisan
+Q1668931,Master of the Holy Kinship the Elder,1400,1500,strata_artisan,False,sparql_artisan,artisan
+Q1488906,Gabriel Angler,1404,1483,strata_artisan,False,sparql_artisan,artisan
+Q1479488,Virgil Master,1350,1415,strata_artisan,False,sparql_artisan,artisan
+Q1482425,Wilhelm Pleydenwurff,1460,1494,strata_artisan,False,sparql_artisan,artisan
+Q1505752,Georg Riemenschneider,1500,1570,strata_artisan,False,sparql_artisan,artisan
+Q1879480,Léonard Limousin,1505,1570,strata_artisan,False,sparql_artisan,artisan
+Q1873074,Lucas Gassel,1483,1568,strata_artisan,False,sparql_artisan,artisan
+Q1840332,Adriaen de Weerdt,1510,1590,strata_artisan,False,sparql_artisan,artisan
+Q1868417,Pieter Pietersz the Elder,1540,1603,strata_artisan,False,sparql_artisan,artisan
+Q1870108,Lorenz Lechler,1460,1538,strata_artisan,False,sparql_artisan,artisan
+Q2157243,Pieter van Aelst,1450,1532,strata_artisan,False,sparql_artisan,artisan
+Q976786,Battista Franco Veneziano,1510,1561,strata_artisan,False,sparql_artisan,artisan
+Q982538,Gian Paolo Lomazzo,1538,1592,strata_artisan,False,sparql_artisan,artisan
+Q983352,Il Pordenone,1484,1539,strata_artisan,False,sparql_artisan,artisan
+Q1042332,Carlo di Cesare del Palagio,1538,1598,strata_artisan,False,sparql_artisan,artisan
+Q1054349,Francesco Torbido,1483,1562,strata_artisan,False,sparql_artisan,artisan
+Q1526241,Giovanni Marinoni,1440,1508,strata_artisan,False,sparql_artisan,artisan
+Q1522152,Giacomo Pacchiarotti,1474,1540,strata_artisan,False,sparql_artisan,artisan
+Q1525753,Giovanni Antonio da Brescia,1460,1523,strata_artisan,False,sparql_artisan,artisan
+Q1515581,Jörg Stocker,1461,1527,strata_artisan,False,sparql_artisan,artisan
+Q1513704,Gerlach Flicke,1495,1558,strata_artisan,False,sparql_artisan,artisan
+Q1697068,Leonhard Sinniger,1500,1600,strata_artisan,False,sparql_artisan,artisan
+Q1707972,Joseph Schmid,1500,1555,strata_artisan,False,sparql_artisan,artisan
+Q1918550,Meister des Hersbrucker Altars,1445,1508,strata_artisan,False,sparql_artisan,artisan
+Q1918708,Meister von Rabenden,1460,1527,strata_artisan,False,sparql_artisan,artisan
+Q1909908,Matthias Gerung,1500,1570,strata_artisan,False,sparql_artisan,artisan
+Q1927814,Michael Heuffner,1483,1511,strata_artisan,False,sparql_artisan,artisan
+Q1918337,Master of the Biberach Holy Kinship,1500,1600,strata_artisan,False,sparql_artisan,artisan
+Q1918396,Master of the Lindau Lamentation,1400,1500,strata_artisan,False,sparql_artisan,artisan
+Q1918393,Meister der Landsberger Geburt Christi,1400,1500,strata_artisan,False,sparql_artisan,artisan
+Q1918417,Meister der Neudenauer Apostelgruppe,1400,1500,strata_artisan,False,sparql_artisan,artisan
+Q1918487,Meister der von Carbenschen Gedächtnisstiftung,1500,1600,strata_artisan,False,sparql_artisan,artisan
+Q1918503,Master of the Pierre de Wissant altar,1400,1500,strata_artisan,False,sparql_artisan,artisan
+Q1918566,Meister des Lautenbacher Hochaltars,1500,1600,strata_artisan,False,sparql_artisan,artisan
+Q1918623,Meister des Wippinger Altars,1500,1600,strata_artisan,False,sparql_artisan,artisan
+Q1918620,Meister des Wimpfener Quirinusaltars,1500,1600,strata_artisan,False,sparql_artisan,artisan
+Q1918718,Master of Schloss Lichtenstein,1400,1460,strata_artisan,False,sparql_artisan,artisan
+Q2187661,Francisco de Holanda,1517,1584,strata_artisan,False,sparql_artisan,artisan
+Q2245140,Fra Carnevale,1420,1484,strata_artisan,False,sparql_artisan,artisan
+Q1978080,Francesco de Tatti,1470,1532,strata_artisan,False,sparql_artisan,artisan
+Q1997386,Naddo Ceccarelli,1320,1347,strata_artisan,False,sparql_artisan,artisan
+Q1994650,Francesco Masini,1532,1601,strata_artisan,False,sparql_artisan,artisan
+Q3805911,Jacopo da Trezzo,1515,1589,strata_artisan,False,sparql_artisan,artisan
+Q3806456,James Archer,1550,1620,strata_artisan,False,sparql_artisan,artisan
+Q3766696,Giovanni Battista Maganza,1513,1586,strata_artisan,False,sparql_artisan,artisan
+Q3768499,Giovanni di Stefano,1443,1506,strata_artisan,False,sparql_artisan,artisan
+Q3783164,Mair von Landshut,1450,1520,strata_artisan,False,sparql_artisan,artisan
+Q3767675,Giovanni Maria Tolosani,1501,1600,strata_artisan,False,sparql_artisan,artisan
+Q1473352,Jürgen Röttger,1550,1623,strata_artisan,False,sparql_artisan,artisan
+Q970559,Niccolò di Liberatore,1432,1502,strata_artisan,False,sparql_artisan,artisan
+Q1715415,Jorg Kolderer,1465,1540,strata_artisan,False,sparql_artisan,artisan
+Q2910848,Borghese di Piero Borghese,1397,1463,strata_artisan,False,sparql_artisan,artisan
+Q2881571,Balthasar Behem,1450,1508,strata_artisan,False,sparql_artisan,artisan
+Q2075222,Peter Gottland,1501,1572,strata_artisan,False,sparql_artisan,artisan
+Q2080427,Petrarcameister,1485,1560,strata_artisan,False,sparql_artisan,artisan
+Q2468731,Hans Eworth,1515,1578,strata_artisan,False,sparql_artisan,artisan
+Q2470693,Ke Jiusi,1290,1343,strata_artisan,False,sparql_artisan,artisan
+Q3319422,Mokuan Reien,1300,1345,strata_artisan,False,sparql_artisan,artisan
+Q3322587,Monte di Giovanni del Fora,1448,1533,strata_artisan,False,sparql_artisan,artisan
+Q3297576,Masséot Abaquesne,1500,1564,strata_artisan,False,sparql_artisan,artisan
+Q3906452,Plautilla Nelli,1524,1588,strata_artisan,False,sparql_artisan,artisan
+Q3836903,Lorenzo Canozzi,1425,1477,strata_artisan,False,sparql_artisan,artisan
+Q3054315,Engrand Leprince,1500,1531,strata_artisan,False,sparql_artisan,artisan
+Q3026163,Diana Scultori,1547,1612,strata_artisan,False,sparql_artisan,artisan
+Q2527880,Simone del Pollaiolo,1457,1508,strata_artisan,False,sparql_artisan,artisan
+Q2506658,Jacques le Moyne,1533,1588,strata_artisan,False,sparql_artisan,artisan
+Q2508243,Valentin Boltz,1515,1560,strata_artisan,False,sparql_artisan,artisan
+Q2508248,Valentin Bouché,1490,1541,strata_artisan,False,sparql_artisan,artisan
+Q2512042,Veit Hirschvogel the Elder,1461,1525,strata_artisan,False,sparql_artisan,artisan
+Q3382670,Pier Antonio Mezzastris,1430,1506,strata_artisan,False,sparql_artisan,artisan
+Q3347312,Nōami,1397,1471,strata_artisan,False,sparql_artisan,artisan
+Q4762991,Angelos Akotantos,1400,1457,strata_artisan,False,sparql_artisan,artisan
+Q4015185,Vittore Gambello,1460,1537,strata_artisan,False,sparql_artisan,artisan
+Q3104832,Gherardo di Giovanni del Fora,1445,1497,strata_artisan,False,sparql_artisan,artisan
+Q3104075,Gerino da Pistoia,1480,1529,strata_artisan,False,sparql_artisan,artisan
+Q3087528,Jacques du Broeucq,1505,1584,strata_artisan,False,sparql_artisan,artisan
+Q2575262,Wilhelm Stetter,1487,1552,strata_artisan,False,sparql_artisan,artisan
+Q2585778,Lu Zhi,1495,1576,strata_artisan,False,sparql_artisan,artisan
+Q3480606,Sesson Shukei,1504,1589,strata_artisan,False,sparql_artisan,artisan
+Q3130260,Hendrick van Cleve III,1525,1589,strata_artisan,False,sparql_artisan,artisan
+Q3159291,Jacques Le Boucq,1520,1573,strata_artisan,False,sparql_artisan,artisan
+Q2094286,Pieter van der Borcht,1530,1608,strata_artisan,False,sparql_artisan,artisan
+Q3958521,Severo Calzetta da Ravenna,1465,1543,strata_artisan,False,sparql_artisan,artisan
+Q2717140,Tilman Burch,1500,1600,strata_artisan,False,sparql_artisan,artisan
+Q2711860,Hans Frey,1450,1523,strata_artisan,False,sparql_artisan,artisan
+Q2715131,Niccolò dell'Arca,1435,1494,strata_artisan,False,sparql_artisan,artisan
+Q2641144,Alessandro Pieroni,1550,1607,strata_artisan,False,sparql_artisan,artisan
+Q3173916,Jean Perrissin,1536,1611,strata_artisan,False,sparql_artisan,artisan
+Q3175258,John de Beauchesne,1538,1620,strata_artisan,False,sparql_artisan,artisan
+Q3182736,John White,1539,1593,strata_artisan,False,sparql_artisan,artisan
+Q3568259,Wilhelm Ziegler,1480,1543,strata_artisan,False,sparql_artisan,artisan
+Q3575370,Zhang Lu,1464,1538,strata_artisan,False,sparql_artisan,artisan
+Q3567211,Wen Boren,1502,1575,strata_artisan,False,sparql_artisan,artisan
+Q3532590,Tosa Mitsuyoshi,1539,1613,strata_artisan,False,sparql_artisan,artisan
+Q3712917,Domenico Bianchini,1510,1576,strata_artisan,False,sparql_artisan,artisan
+Q3605397,Adolf Dauher the Elder,1460,1520,strata_artisan,False,sparql_artisan,artisan
+Q65103,Jakob Fugger,1459,1526,strata_merchant,False,sparql_merchant,merchant
+Q99040,Barbara Uthmann,1512,1575,strata_merchant,False,sparql_merchant,merchant
+Q1042090,Carlo Diodati,1541,1625,strata_merchant,False,sparql_merchant,merchant
+Q435320,Francysk Skaryna,1486,1541,strata_merchant,False,sparql_merchant,merchant
+Q448203,Kenau Simonsdochter Hasselaer,1526,1588,strata_merchant,False,sparql_merchant,merchant
+Q395635,Agostino Chigi,1466,1520,strata_merchant,False,sparql_merchant,merchant
+Q1086196,Christoph von Gendorf,1497,1563,strata_merchant,False,sparql_merchant,merchant
+Q1375297,Pankraz von Freyberg,1508,1565,strata_merchant,False,sparql_merchant,merchant
+Q1416792,Philipp Drachstedt,1500,1539,strata_merchant,False,sparql_merchant,merchant
+Q496200,Andreas Blau,1500,1600,strata_merchant,False,sparql_merchant,merchant
+Q463808,Justus Ludwik Decjusz,1485,1545,strata_merchant,False,sparql_merchant,merchant
+Q1169109,Matthäus Landauer,1451,1515,strata_merchant,False,sparql_merchant,merchant
+Q1426305,Sigmund Wann,1395,1469,strata_merchant,False,sparql_merchant,merchant
+Q1579870,Hans Greiner,1550,1609,strata_merchant,False,sparql_merchant,merchant
+Q1580034,Hans Harrer,1530,1580,strata_merchant,False,sparql_merchant,merchant
+Q99369,Konrad Gobel,1498,1557,strata_merchant,False,sparql_merchant,merchant
+Q1679183,Jakub Krčín,1535,1604,strata_merchant,False,sparql_merchant,merchant
+Q1692623,Johann Baptista von Taxis,1470,1541,strata_merchant,False,sparql_merchant,merchant
+Q722286,Asche von Holle,1529,1594,strata_merchant,False,sparql_merchant,merchant
+Q1904858,Martin Römer,1430,1483,strata_merchant,False,sparql_merchant,merchant
+Q1910217,Matthias Peltzer,1508,1591,strata_merchant,False,sparql_merchant,merchant
+Q3388274,Pigello Portinari,1421,1468,strata_merchant,False,sparql_merchant,merchant
+Q2078548,Peter Stromer,1315,1388,strata_merchant,False,sparql_merchant,merchant
+Q3725894,Enrico Martínez,1550,1635,strata_merchant,False,sparql_merchant,merchant
+Q3848183,Marino Contarini,1385,1441,strata_merchant,False,sparql_merchant,merchant
+Q2880657,Baldassare degli Embriachi,1350,1450,strata_merchant,False,sparql_merchant,merchant
+Q3973137,Stephan Schlick,1487,1526,strata_merchant,False,sparql_merchant,merchant
+Q4959629,Karen Kotte,1550,1590,strata_merchant,False,sparql_merchant,merchant
+Q6010174,Mencía Calderón,1514,1593,strata_merchant,False,sparql_merchant,merchant
+Q16253055,John Spencer,1455,1522,strata_merchant,False,sparql_merchant,merchant
+Q13648753,Michael Kantakouzenos Şeytanoğlu,1515,1578,strata_merchant,False,sparql_merchant,merchant
+Q16888088,Henning Rüdem,1500,1553,strata_merchant,False,sparql_merchant,merchant
+Q15453063,Martin Baumgartner auf Breitenbach,1473,1535,strata_merchant,False,sparql_merchant,merchant
+Q15621613,Hans Gallizian,1472,1524,strata_merchant,False,sparql_merchant,merchant
+Q15790293,Bunheim Schaiff,1350,1392,strata_merchant,False,sparql_merchant,merchant
+Q17124653,Marcos Pérez,1527,1572,strata_merchant,False,sparql_merchant,merchant
+Q16980192,Jean Battier,1537,1602,strata_merchant,False,sparql_merchant,merchant
+Q16980200,Peter Servauter,1500,1574,strata_merchant,False,sparql_merchant,merchant
+Q20494923,Hans Luther,1459,1530,strata_merchant,False,sparql_merchant,merchant
+Q15814778,Heinrich Halbisen,1390,1451,strata_merchant,False,sparql_merchant,merchant
+Q15820432,Isaak von Montjoie,1350,1386,strata_merchant,False,sparql_merchant,merchant
+Q21531050,Octavian Secundus Fugger,1549,1600,strata_merchant,False,sparql_merchant,merchant
+Q21548520,Girolamo Lippomano,1460,1527,strata_merchant,False,sparql_merchant,merchant
+Q46360673,Agnes Stromer,1351,1413,strata_merchant,False,sparql_merchant,merchant
+Q28175420,Marcus Semler,1450,1511,strata_merchant,False,sparql_merchant,merchant
+Q28672537,Maciej Russek,1440,1504,strata_merchant,False,sparql_merchant,merchant
+Q28672600,Marcin Skrzetuski,1520,1573,strata_merchant,False,sparql_merchant,merchant
+Q55847049,Jobst Tetzel,1503,1575,strata_merchant,False,sparql_merchant,merchant
+Q23561356,Philipp Eduard Fugger,1546,1618,strata_merchant,False,sparql_merchant,merchant
+Q55850294,Hans Geizkofler,1498,1563,strata_merchant,False,sparql_merchant,merchant
+Q55857924,Hans von Nützel,1540,1620,strata_merchant,False,sparql_merchant,merchant
+Q55852557,Hieronymus der Ältere von Holzschuher,1538,1598,strata_merchant,False,sparql_merchant,merchant
+Q52419190,Paolo Casotti,1463,1528,strata_merchant,False,sparql_merchant,merchant
+Q34486127,Agostino Balbani,1482,1534,strata_merchant,False,sparql_merchant,merchant
+Q55885548,Hanns Bosch,1541,1613,strata_merchant,False,sparql_merchant,merchant
+Q55225243,Tommaso Balbani,1515,1584,strata_merchant,False,sparql_merchant,merchant
+Q55225739,Bartolomeo Bolognini,1350,1411,strata_merchant,False,sparql_merchant,merchant
+Q55226104,Zanobi Buondelmonti,1491,1527,strata_merchant,False,sparql_merchant,merchant
+Q55228599,Iacopo Guicciardini,1480,1552,strata_merchant,False,sparql_merchant,merchant
+Q55238498,Christian Tänzl von Trazberg,1430,1491,strata_merchant,False,sparql_merchant,merchant
+Q55238495,Johann Jakob Tänzl von Trazberg,1505,1536,strata_merchant,False,sparql_merchant,merchant
+Q55238497,Kaspar Joachim Tänzl von Trazberg,1510,1553,strata_merchant,False,sparql_merchant,merchant
+Q55238468,Veit Jakob Tänzl von Trazberg,1465,1530,strata_merchant,False,sparql_merchant,merchant
+Q55238472,Simon Tänzl von Trazberg,1470,1525,strata_merchant,False,sparql_merchant,merchant
+Q56026688,Lorenz Schlick,1495,1583,strata_merchant,False,sparql_merchant,merchant
+Q60660083,Q60660083,1530,1591,strata_merchant,False,sparql_merchant,merchant
+Q94784301,Anton Gallician,1429,1497,strata_merchant,False,sparql_merchant,merchant
+Q94786727,Christoph Lins,1529,1602,strata_merchant,False,sparql_merchant,merchant
+Q94790244,Bartholomäus I. Marchtaler,1476,1530,strata_merchant,False,sparql_merchant,merchant
+Q88174741,Alessandro Capponi,1512,1587,strata_merchant,False,sparql_merchant,merchant
+Q87067305,Giovanni Balbani,1509,1579,strata_merchant,False,sparql_merchant,merchant
+Q87449660,Pasino Eustachi,1360,1445,strata_merchant,False,sparql_merchant,merchant
+Q94795075,Hans Ebner,1482,1552,strata_merchant,False,sparql_merchant,merchant
+Q94796124,Franz Tucher,1504,1587,strata_merchant,False,sparql_merchant,merchant
+Q94796364,Friedrich Viskule,1435,1464,strata_merchant,False,sparql_merchant,merchant
+Q94795241,Hans Geizkofler,1530,1581,strata_merchant,False,sparql_merchant,merchant
+Q94847165,Peter Haller von Hallerstein,1348,1425,strata_merchant,False,sparql_merchant,merchant
+Q94802214,Gian Travers Salis,1546,1624,strata_merchant,False,sparql_merchant,merchant
+Q94881224,Georg Schlauderspach,1445,1512,strata_merchant,False,sparql_merchant,merchant
+Q94404737,Martín López de Isasi,1525,1597,strata_merchant,False,sparql_merchant,merchant
+Q94893181,Paul Schürer von Waldheim,1504,1592,strata_merchant,False,sparql_merchant,merchant
+Q94898464,Q94898464,1540,1603,strata_merchant,False,sparql_merchant,merchant
+Q94805908,Leonhard Schleicher,1536,1606,strata_merchant,False,sparql_merchant,merchant
+Q94758256,Joachim Nützel,1532,1603,strata_merchant,False,sparql_merchant,merchant
+Q94755147,David Werdmüller,1548,1612,strata_merchant,False,sparql_merchant,merchant
+Q94757327,Joachim Poschinger,1523,1599,strata_merchant,False,sparql_merchant,merchant
+Q94865852,Dietrich Degler,1500,1570,strata_merchant,False,sparql_merchant,merchant
+Q47001669,Kuno von Hahn,1525,1590,strata_merchant,False,sparql_merchant,merchant
+Q30247850,Jacob Luther,1490,1571,strata_merchant,False,sparql_merchant,merchant
+Q94931832,Ulrich Schütz,1472,1533,strata_merchant,False,sparql_merchant,merchant
+Q94877346,Ananias Symens,1538,1591,strata_merchant,False,sparql_merchant,merchant
+Q95340564,Antonio Gondi,1443,1486,strata_merchant,False,sparql_merchant,merchant
+Q94938388,Georg von II. Frundsberg,1533,1586,strata_merchant,False,sparql_merchant,merchant
+Q95219537,Moritz Buchner,1491,1544,strata_merchant,False,sparql_merchant,merchant
+Q108904024,Heinrich von Starschedel,1435,1499,strata_merchant,False,sparql_merchant,merchant
+Q111354039,Fabio Mattei,1548,1608,strata_merchant,False,sparql_merchant,merchant
+Q111149269,Pietro Antonio Mattei,1475,1528,strata_merchant,False,sparql_merchant,merchant
+Q110421536,Giovanni Bernardini,1486,1547,strata_merchant,False,sparql_merchant,merchant
+Q113660997,Amico Canobio,1532,1592,strata_merchant,False,sparql_merchant,merchant
+Q136644661,Q136644661,1485,1550,strata_merchant,False,sparql_merchant,merchant
+Q139014820,Q139014820,1505,1572,strata_merchant,False,sparql_merchant,merchant
+Q92357,Jakob Fugger the Elder,1398,1469,strata_merchant,False,sparql_merchant,merchant
+Q102185,Johann Wittenborg,1321,1363,strata_merchant,False,sparql_merchant,merchant
+Q91007,Hans Boner,1450,1524,strata_merchant,False,sparql_merchant,merchant
+Q92338,Ulrich Fugger the Elder,1441,1510,strata_merchant,False,sparql_merchant,merchant
+Q99915,Jakob Heller,1455,1522,strata_merchant,False,sparql_merchant,merchant
+Q104182,Ulrich Fugger the Younger,1490,1525,strata_merchant,False,sparql_merchant,merchant
+Q111945,Lukas Fugger,1439,1494,strata_merchant,False,sparql_merchant,merchant
+Q112779,Bartholomeus VI. Welser,1512,1546,strata_merchant,False,sparql_merchant,merchant
+Q143046,Étienne Marcel,1315,1358,strata_merchant,False,sparql_merchant,merchant
+Q104805,Raymund Fugger,1489,1535,strata_merchant,False,sparql_merchant,merchant
+Q121371,Andreas Fugger,1394,1457,strata_merchant,False,sparql_merchant,merchant
+Q108787,Georg Fugger,1453,1506,strata_merchant,False,sparql_merchant,merchant
+Q114527,Ulman Stromer,1329,1407,strata_merchant,False,sparql_merchant,merchant
+Q115254,Markus Fugger,1529,1597,strata_merchant,False,sparql_merchant,merchant
+Q109272,Hans Fugger,1531,1598,strata_merchant,False,sparql_merchant,merchant
+Q111515,Georgius Emerich,1422,1507,strata_merchant,False,sparql_merchant,merchant
+Q337493,Richard Whittington,1354,1423,strata_merchant,False,sparql_merchant,merchant
+Q317517,Josel of Rosheim,1476,1554,strata_merchant,False,sparql_merchant,merchant
+Q290133,Étienne Turquet,1495,1560,strata_merchant,False,sparql_merchant,merchant
+Q318673,Thomas Gresham,1519,1579,strata_merchant,False,sparql_merchant,merchant
+Q328261,Martin Kabátnik,1428,1503,strata_merchant,False,sparql_merchant,merchant
+Q77697,Schweipolt Fiol,1460,1525,strata_merchant,False,sparql_merchant,merchant
+Q45260,Hans Kohlhase,1500,1540,strata_merchant,False,sparql_merchant,merchant
+Q44838,Martin Behaim,1459,1507,strata_merchant,False,sparql_merchant,merchant
+Q47674,Américo Vespucio,1454,1512,strata_merchant,False,sparql_merchant,merchant
+Q72459,Georg Giese,1497,1562,strata_merchant,False,sparql_merchant,merchant
+Q7331,Ibn Battuta,1304,1368,strata_merchant,False,sparql_merchant,merchant
+Q75686,Bartholomew V. Welser,1484,1561,strata_merchant,False,sparql_merchant,merchant
+Q64390,Johann Fust,1400,1466,strata_merchant,False,sparql_merchant,merchant
+Q1617573,Hieronymus Lotter,1497,1580,strata_merchant,False,sparql_merchant,merchant
+Q1618286,Hildebrand Veckinchusen,1365,1426,strata_merchant,False,sparql_merchant,merchant
+Q1619506,Hinrich Rapesulver,1400,1440,strata_merchant,False,sparql_merchant,merchant
+Q1612122,Hermann Meyer,1500,1528,strata_merchant,False,sparql_merchant,merchant
+Q1619531,Hinrik Paternostermaker,1350,1384,strata_merchant,False,sparql_merchant,merchant
+Q1605614,Henning von Rentelen,1360,1406,strata_merchant,False,sparql_merchant,merchant
+Q1645646,Seweryn Boner,1486,1549,strata_merchant,False,sparql_merchant,merchant
+Q1696808,Johann von Holzhausen,1350,1393,strata_merchant,False,sparql_merchant,merchant
+Q1696825,Johann von Melem,1433,1484,strata_merchant,False,sparql_merchant,merchant
+Q442610,Niccolò de' Conti,1395,1469,strata_merchant,False,sparql_merchant,merchant
+Q370777,Andreas Ryff,1550,1603,strata_merchant,False,sparql_merchant,merchant
+Q461757,Jacques Cœur,1395,1456,strata_merchant,False,sparql_merchant,merchant
+Q367752,Adriaen Coenen,1514,1587,strata_merchant,False,sparql_merchant,merchant
+Q367807,Adriaen Pauw,1516,1578,strata_merchant,False,sparql_merchant,merchant
+Q377324,Jean Marot,1450,1526,strata_merchant,False,sparql_merchant,merchant
+Q354177,Adelberg Meyer zum Pfeil,1474,1548,strata_merchant,False,sparql_merchant,merchant
+Q4354937,Valborg Innamaa,1550,1602,strata_merchant,False,sparql_merchant,merchant
+Q4090445,Q4090445,1537,1617,strata_merchant,False,sparql_merchant,merchant
+Q3856530,Michele Burlamacchi,1531,1590,strata_merchant,False,sparql_merchant,merchant
+Q3904063,Pietro Massimo,1420,1489,strata_merchant,False,sparql_merchant,merchant
+Q659093,Benedetto Dei,1418,1492,strata_merchant,False,sparql_merchant,merchant
+Q681622,Lodovico Gritti,1480,1534,strata_merchant,False,sparql_merchant,merchant
+Q540415,Pippo Spano,1369,1426,strata_merchant,False,sparql_merchant,merchant
+Q594900,Anton Tucher,1458,1524,strata_merchant,False,sparql_merchant,merchant
+Q554825,Benedikt Kotruljević,1416,1469,strata_merchant,False,sparql_merchant,merchant
+Q558074,Ciriaco de' Pizzicolli,1391,1452,strata_merchant,False,sparql_merchant,merchant
+Q576201,Laurens Jansz Coster,1370,1440,strata_merchant,False,sparql_merchant,merchant
+Q630418,Rulman Merswin,1307,1382,strata_merchant,False,sparql_merchant,merchant
+Q608093,Anthony Jenkinson,1529,1611,strata_merchant,False,sparql_merchant,merchant
+Q721857,Giovanni Arnolfini,1400,1472,strata_merchant,False,sparql_merchant,merchant
+Q708954,Filippo Strozzi the Younger,1489,1538,strata_merchant,False,sparql_merchant,merchant
+Q719706,John Shakespeare,1530,1601,strata_merchant,False,sparql_merchant,merchant
+Q1681791,Jan Gillisz Valckenier,1522,1592,strata_merchant,False,sparql_merchant,merchant
+Q1682131,Paul Würfel,1365,1437,strata_merchant,False,sparql_merchant,merchant
+Q1684296,Thomas Sutton,1532,1611,strata_merchant,False,sparql_merchant,merchant
+Q1692064,Johan Radermacher,1538,1617,strata_merchant,False,sparql_merchant,merchant
+Q1658269,Johann Jakob Fugger,1517,1575,strata_merchant,False,sparql_merchant,merchant
+Q1679122,Jakob III Fugger,1542,1598,strata_merchant,False,sparql_merchant,merchant
+Q1744147,Willem Eggert,1360,1417,strata_merchant,False,sparql_merchant,merchant
+Q1809514,Lazarus Nuremberger,1499,1564,strata_merchant,False,sparql_merchant,merchant
+Q1714518,Paolo Spada,1541,1631,strata_merchant,False,sparql_merchant,merchant
+Q1782373,Konrad Wibbeking,1500,1544,strata_merchant,False,sparql_merchant,merchant
+Q1768402,Nicolaes Jonghelinck,1517,1570,strata_merchant,False,sparql_merchant,merchant
+Q1796897,Lienhard Hirschvogel,1504,1549,strata_merchant,False,sparql_merchant,merchant
+Q780137,Roberto di Ridolfi,1531,1612,strata_merchant,False,sparql_merchant,merchant
+Q913241,Jacopo Salviati,1461,1533,strata_merchant,False,sparql_merchant,merchant
+Q869981,Jakob Meyer zum Hasen,1482,1531,strata_merchant,False,sparql_merchant,merchant
+Q767785,Augustin Haffner,1550,1616,strata_merchant,False,sparql_merchant,merchant
+Q805653,Balthasar Springer,1500,1600,strata_merchant,False,sparql_merchant,merchant
+Q809540,Bartolomé de Medina,1497,1585,strata_merchant,False,sparql_merchant,merchant
+Q819001,Berend Bomhower,1500,1526,strata_merchant,False,sparql_merchant,merchant
+Q809370,Bartholomäus May,1446,1531,strata_merchant,False,sparql_merchant,merchant
+Q809377,Bartholomäus Schönebeck,1548,1605,strata_merchant,False,sparql_merchant,merchant
+Q809381,Bartholomäus Viatis the Elder,1538,1624,strata_merchant,False,sparql_merchant,merchant
+Q809577,Bartoš Písař,1470,1535,strata_merchant,False,sparql_merchant,merchant
+Q912612,Dávid,1450,1550,strata_merchant,False,sparql_merchant,merchant
+Q5166796,Conín,1480,1571,strata_merchant,False,sparql_merchant,merchant
+Q4998007,Buonaccorso Pitti,1354,1401,strata_merchant,False,sparql_merchant,merchant
+Q4865514,Bartolomeo Marchionni,1449,1530,strata_merchant,False,sparql_merchant,merchant
+Q11963613,Christen Mule,1525,1589,strata_merchant,False,sparql_merchant,merchant
+Q12037124,Mikuláš Müller,1530,1587,strata_merchant,False,sparql_merchant,merchant
+Q9614716,André de Cacena,1460,1538,strata_merchant,False,sparql_merchant,merchant
+Q8273182,John the New,1300,1340,strata_merchant,False,sparql_merchant,merchant
+Q9291615,Hermann Rüdiger,1550,1613,strata_merchant,False,sparql_merchant,merchant
+Q11727701,Johann Ferber,1430,1501,strata_merchant,False,sparql_merchant,merchant
+Q11716514,Jakub Lubbe,1430,1500,strata_merchant,False,sparql_merchant,merchant
+Q1016517,Burkhard Zink,1396,1474,strata_merchant,False,sparql_merchant,merchant
+Q1056171,Domenico Colombo,1418,1497,strata_merchant,False,sparql_merchant,merchant
+Q970915,Konrad Rott,1530,1610,strata_merchant,False,sparql_merchant,merchant
+Q1040762,János Thurzó,1437,1508,strata_merchant,False,sparql_merchant,merchant
+Q940660,Lodovico Guicciardini,1521,1589,strata_merchant,False,sparql_merchant,merchant
+Q949426,Francesco Balducci Pegolotti,1290,1349,strata_merchant,False,sparql_merchant,merchant
+Q5480153,Francisco Pérez de Valenzuela,1528,1599,strata_merchant,False,sparql_merchant,merchant
+Q1085158,Christoph Herwart,1464,1529,strata_merchant,False,sparql_merchant,merchant
+Q1081256,Christian Northoff,1475,1532,strata_merchant,False,sparql_merchant,merchant
+Q1079343,Magnus Heinason,1545,1589,strata_merchant,False,sparql_merchant,merchant
+Q1083876,Christine von Halle,1533,1603,strata_merchant,False,sparql_merchant,merchant
+Q1098828,Claus Stalburg,1469,1524,strata_merchant,False,sparql_merchant,merchant
+Q1068306,Jacob van Brugge,1418,1472,strata_merchant,False,sparql_merchant,merchant
+Q1233622,Peter Haller,1500,1569,strata_merchant,False,sparql_merchant,merchant
+Q1084593,Christoph Beyer,1458,1518,strata_merchant,False,sparql_merchant,merchant
+Q1986900,Nicolaus de Smit,1541,1623,strata_merchant,False,sparql_merchant,merchant
+Q1919158,Melchior Manlich,1513,1576,strata_merchant,False,sparql_merchant,merchant
+Q1987990,Constantine Corniaktos,1517,1603,strata_merchant,False,sparql_merchant,merchant
+Q1884396,Willem Jansz van Loon,1537,1618,strata_merchant,False,sparql_merchant,merchant
+Q1908517,Mathias Mulich,1470,1528,strata_merchant,False,sparql_merchant,merchant
+Q1976418,Pompeius Occo,1483,1537,strata_merchant,False,sparql_merchant,merchant
+Q1279512,Eberhard Windeck,1380,1440,strata_merchant,False,sparql_merchant,merchant
+Q10946745,Andrea Barbarigo,1399,1449,strata_merchant,False,sparql_merchant,merchant
+Q10329123,Suetsugu Masanao,1546,1630,strata_merchant,False,sparql_merchant,merchant
+Q1349375,Willem van der Haegen,1430,1507,strata_merchant,False,sparql_merchant,merchant
+Q1340902,Endres II. Hirschvogel,1513,1550,strata_merchant,False,sparql_merchant,merchant
+Q1340905,Endres Tucher,1423,1507,strata_merchant,False,sparql_merchant,merchant
+Q1348814,Pietro Lando,1462,1545,strata_merchant,False,sparql_merchant,merchant
+Q1320578,György Thurzó,1467,1521,strata_merchant,False,sparql_merchant,merchant
+Q1365396,Fernão de Noronha,1470,1540,strata_merchant,False,sparql_merchant,merchant
+Q2086555,Philipp Adler,1461,1532,strata_merchant,False,sparql_merchant,merchant
+Q2153399,Johan van der Veeken,1549,1616,strata_merchant,False,sparql_merchant,merchant
+Q2140564,Reinhard Bachofen,1544,1614,strata_merchant,False,sparql_merchant,merchant
+Q2218738,Samuel Pallache,1550,1616,strata_merchant,False,sparql_merchant,merchant
+Q1455168,George of Ghese,1500,1559,strata_merchant,False,sparql_merchant,merchant
+Q1425043,Tidemann von Güstrow,1300,1350,strata_merchant,False,sparql_merchant,merchant
+Q1395822,Francesco del Giocondo,1460,1542,strata_merchant,False,sparql_merchant,merchant
+Q1464654,Hektor Mülich,1410,1490,strata_merchant,False,sparql_merchant,merchant
+Q1486383,Paul Neefe,1507,1566,strata_merchant,False,sparql_merchant,merchant
+Q1496285,Johann Haunold,1445,1506,strata_merchant,False,sparql_merchant,merchant
+Q1502943,Geoffrey Boleyn,1406,1463,strata_merchant,False,sparql_merchant,merchant
+Q1504470,Georg von Gossembrot,1445,1502,strata_merchant,False,sparql_merchant,merchant
+Q1506167,Georg Stürgkh,1500,1547,strata_merchant,False,sparql_merchant,merchant
+Q1471672,Konrad Klepping,1290,1354,strata_merchant,False,sparql_merchant,merchant
+Q16575786,Marco Carelli,1320,1394,strata_merchant,False,sparql_merchant,merchant
+Q16831805,Herman von Vechelde,1350,1420,strata_merchant,False,sparql_merchant,merchant
+Q16831809,Hermann von Vechelde,1379,1460,strata_merchant,False,sparql_merchant,merchant
+Q16586697,Pandolfo Rucellai,1436,1497,strata_merchant,False,sparql_merchant,merchant
+Q16863524,Henry Ughtred,1533,1599,strata_merchant,False,sparql_merchant,merchant
+Q16702571,Q16702571,1528,1577,strata_merchant,False,sparql_merchant,merchant
+Q2326323,Giovanni Colombini,1304,1367,strata_merchant,False,sparql_merchant,merchant
+Q2384352,Roemer Visscher,1547,1620,strata_merchant,False,sparql_merchant,merchant
+Q2426175,Thomas Morkerke,1330,1401,strata_merchant,False,sparql_merchant,merchant
+Q2513067,Girolamo Conestaggio,1530,1617,strata_merchant,False,sparql_merchant,merchant
+Q2431750,Tidemann Steen,1400,1441,strata_merchant,False,sparql_merchant,merchant
+Q2428137,Thomas White,1492,1567,strata_merchant,False,sparql_merchant,merchant
+Q6128913,Simón Ruiz Embito,1525,1597,strata_merchant,False,sparql_merchant,merchant
+Q1541579,Lukas Rem,1481,1541,strata_merchant,False,sparql_merchant,merchant
+Q1534681,Henry Nicholis,1502,1580,strata_merchant,False,sparql_merchant,merchant
+Q1564430,Heinrich Witte,1500,1523,strata_merchant,False,sparql_merchant,merchant
+Q1578915,Hans Bär,1465,1502,strata_merchant,False,sparql_merchant,merchant
+Q6002963,Imai Sōkyū,1520,1593,strata_merchant,False,sparql_merchant,merchant
+Q5983283,Luis Enríquez Xoaida,1530,1600,strata_merchant,False,sparql_merchant,merchant
+Q6044371,Peter Ålänning,1350,1404,strata_merchant,False,sparql_merchant,merchant
+Q5873628,Gabriel Zaporta,1500,1580,strata_merchant,False,sparql_merchant,merchant
+Q1582826,Hans Ulrich Krafft,1550,1621,strata_merchant,False,sparql_merchant,merchant
+Q1596007,Tidemann Lemberg,1350,1386,strata_merchant,False,sparql_merchant,merchant
+Q1596764,Heinrich Blarer,1450,1476,strata_merchant,False,sparql_merchant,merchant
+Q1597118,Heinrich Ehinger,1484,1537,strata_merchant,False,sparql_merchant,merchant
+Q1582804,Hans Tucher,1428,1491,strata_merchant,False,sparql_merchant,merchant
+Q13734745,Jacob J. Hinlopen,1550,1612,strata_merchant,False,sparql_merchant,merchant
+Q15429193,Philipp Volland,1474,1537,strata_merchant,False,sparql_merchant,merchant
+Q2795465,Anselm Adornes,1424,1483,strata_merchant,False,sparql_merchant,merchant
+Q2575693,Fernăo Gomes,1430,1490,strata_merchant,False,sparql_merchant,merchant
+Q2658917,Pir Roshan,1515,1585,strata_merchant,False,sparql_merchant,merchant
+Q2581324,Willibald Imhoff,1519,1580,strata_merchant,False,sparql_merchant,merchant
+Q2786299,Petrus Alamirus,1470,1536,strata_merchant,False,sparql_merchant,merchant
+Q2863419,Rinaldo Boteram,1417,1484,strata_merchant,False,sparql_merchant,merchant
+Q2777058,Gaspar da Gama,1444,1510,strata_merchant,False,sparql_merchant,merchant
+Q2591610,Wolfgang Treu,1500,1540,strata_merchant,False,sparql_merchant,merchant
+Q6236290,John Gresham,1495,1556,strata_merchant,False,sparql_merchant,merchant
+Q133746,Ōkubo Nagayasu,1545,1613,strata_merchant,False,sparql_merchant,merchant
+Q137338,Charlotte Guillard,1485,1557,strata_merchant,False,sparql_merchant,merchant
+Q91579,Günther Zainer,1430,1478,strata_merchant,False,sparql_merchant,merchant
+Q602350,Antonio de Guarás,1520,1579,strata_merchant,False,sparql_merchant,merchant
+Q633039,Richard Amerike,1440,1503,strata_merchant,False,sparql_merchant,merchant
+Q644849,Pierre Attaingnant,1494,1552,strata_merchant,False,sparql_merchant,merchant
+Q458014,Ottaviano Petrucci,1466,1539,strata_merchant,False,sparql_merchant,merchant
+Q1349498,Philip Henslowe,1550,1616,strata_merchant,False,sparql_merchant,merchant
+Q721293,Mordecai Meisel,1528,1601,strata_merchant,False,sparql_merchant,merchant
+Q214080,Bartolomé Blumenthal,1505,1585,strata_merchant,False,sparql_merchant,merchant
+Q256139,Catherine Stenbock,1535,1621,strata_merchant,False,sparql_merchant,merchant
+Q1413989,Filippo Sassetti,1540,1588,strata_merchant,False,sparql_merchant,merchant
+Q319902,Isaac Abrabanel,1437,1508,strata_merchant,False,sparql_merchant,merchant
+Q315490,John Hawkins,1532,1595,strata_merchant,False,sparql_merchant,merchant
+Q298184,Gracia Mendes Nasi,1510,1569,strata_merchant,False,sparql_merchant,merchant
+Q1503683,Georg Bernecker,1500,1544,strata_merchant,False,sparql_merchant,merchant
+Q926465,Francisco de Tassis,1459,1517,strata_merchant,False,sparql_merchant,merchant
+Q1990476,Niklaus Vintler,1350,1413,strata_merchant,False,sparql_merchant,merchant
+Q389140,Luigi Cornaro,1484,1566,strata_merchant,False,sparql_merchant,merchant
+Q2070383,Anikey Stroganov,1488,1569,strata_merchant,False,sparql_merchant,merchant
+Q1086019,Christoph Uthmann,1507,1553,strata_merchant,False,sparql_merchant,merchant
+Q2176432,Hieronymus Lauweryn van Watervliet,1450,1509,strata_merchant,False,sparql_merchant,merchant
+Q3022024,Demange Dietrich,1549,1623,strata_merchant,False,sparql_merchant,merchant
+Q2921194,Francis Langley,1548,1602,strata_merchant,False,sparql_merchant,merchant
+Q1132083,Cord Broyhan,1500,1570,strata_merchant,False,sparql_merchant,merchant
+Q2262493,Sebald Pögl der Ältere,1450,1510,strata_merchant,False,sparql_merchant,merchant
+Q2299184,Solomon Abenaes,1520,1603,strata_merchant,False,sparql_merchant,merchant
+Q1508495,Lucas Watzenrode the Elder,1400,1462,strata_merchant,False,sparql_merchant,merchant
+Q1895244,Margery Jourdemayne,1400,1441,strata_merchant,False,sparql_merchant,merchant
+Q4489809,Silvester Pardo,1460,1537,strata_merchant,False,sparql_merchant,merchant
+Q3161794,Jan de Gheet,1480,1535,strata_merchant,False,sparql_merchant,merchant
+Q3742116,Felice Brancacci,1382,1440,strata_merchant,False,sparql_merchant,merchant
+Q3175739,Jean de Tournes,1539,1615,strata_merchant,False,sparql_merchant,merchant
+Q4887317,Benedict Spinola,1519,1580,strata_merchant,False,sparql_merchant,merchant
+Q3478435,Semyon Stroganovte,1540,1586,strata_merchant,False,sparql_merchant,merchant
+Q5111910,Christopher Barker,1529,1599,strata_merchant,False,sparql_merchant,merchant
+Q4968661,Ebba Månsdotter,1529,1609,strata_merchant,False,sparql_merchant,merchant
+Q5607475,Paschilius Dionysius Chenon,1550,1632,strata_merchant,False,sparql_merchant,merchant
+Q5493319,François Le Fort,1540,1598,strata_merchant,False,sparql_merchant,merchant
+Q4965095,Esperanza Malchi,1501,1600,strata_merchant,False,sparql_merchant,merchant
+Q5986794,Hans Mikkelsen,1450,1532,strata_merchant,False,sparql_merchant,merchant
+Q6154755,Janja Kantakouzenos,1430,1477,strata_merchant,False,sparql_merchant,merchant
+Q5578204,Björn Skeppare,1440,1504,strata_merchant,False,sparql_merchant,merchant
+Q6255875,John Roysse,1500,1571,strata_merchant,False,sparql_merchant,merchant
+Q5941666,Humphrey Weld,1547,1610,strata_merchant,False,sparql_merchant,merchant
+Q6114414,John Winchcombe,1489,1557,strata_merchant,False,sparql_merchant,merchant
+Q6258698,John Spring,1498,1547,strata_merchant,False,sparql_merchant,merchant
+Q6263262,John Watts,1550,1616,strata_merchant,False,sparql_merchant,merchant
+Q6218254,John Addey,1550,1606,strata_merchant,False,sparql_merchant,merchant
+Q6222755,Werewolf of Châlons,1550,1598,strata_merchant,False,sparql_merchant,merchant
+Q7288239,Ralph Warren,1483,1553,strata_merchant,False,sparql_merchant,merchant
+Q7326955,Richard Jugge,1514,1577,strata_merchant,False,sparql_merchant,merchant
+Q7329596,Richard Tylman,1546,1584,strata_merchant,False,sparql_merchant,merchant
+Q7494136,Shen Wansan,1330,1379,strata_merchant,False,sparql_merchant,merchant
+Q7794407,Thomas Tesdale,1547,1610,strata_merchant,False,sparql_merchant,merchant
+Q7795575,"Thomasine, Lady Percival",1470,1530,strata_merchant,False,sparql_merchant,merchant
+Q7621415,Strange Jørgenssøn,1539,1610,strata_merchant,False,sparql_merchant,merchant
+Q10947819,Song Suqing,1445,1525,strata_merchant,False,sparql_merchant,merchant
+Q7788075,Thomas Burton,1401,1496,strata_merchant,False,sparql_merchant,merchant
+Q7788202,Thomas Cambell,1536,1614,strata_merchant,False,sparql_merchant,merchant
+Q8014523,William Levett,1495,1554,strata_merchant,False,sparql_merchant,merchant
+Q8012427,William Holles,1471,1542,strata_merchant,False,sparql_merchant,merchant
+Q8018842,William Stewart,1440,1500,strata_merchant,False,sparql_merchant,merchant
+Q8020614,William Wyggeston,1467,1536,strata_merchant,False,sparql_merchant,merchant
+Q11957689,Ambrosius Bogbinder,1500,1536,strata_merchant,False,sparql_merchant,merchant
+Q9370437,Valerio Tamburini-Montelupi,1543,1613,strata_merchant,False,sparql_merchant,merchant
+Q9352614,Szymon Bahr,1543,1606,strata_merchant,False,sparql_merchant,merchant
+Q11727796,Johann von Werden,1495,1554,strata_merchant,False,sparql_merchant,merchant
+Q11827847,Prospero Provana,1520,1584,strata_merchant,False,sparql_merchant,merchant
+Q11771393,Mateusz Dobrucki,1520,1602,strata_merchant,False,sparql_merchant,merchant
+Q7791799,Thomas Leigh,1504,1571,strata_merchant,False,sparql_merchant,merchant
+Q7791615,Thomas Kytson the Elder,1485,1540,strata_merchant,False,sparql_merchant,merchant
+Q7792647,Thomas Myddelton,1550,1631,strata_merchant,False,sparql_merchant,merchant
+Q13138038,Steven Butendiic,1450,1483,strata_merchant,False,sparql_merchant,merchant
+Q14326769,Jørgen von Ansbach,1510,1591,strata_merchant,False,sparql_merchant,merchant
+Q16854161,Rose Lok,1526,1613,strata_merchant,False,sparql_merchant,merchant
+Q16499704,Isabel Bras Williamson,1430,1493,strata_merchant,False,sparql_merchant,merchant
+Q16188165,Caterina Llull i Sabastida,1440,1495,strata_merchant,False,sparql_merchant,merchant
+Q16197681,Henry Bynneman,1501,1583,strata_merchant,False,sparql_merchant,merchant
+Q16200743,Alice Bradbridge,1523,1604,strata_merchant,False,sparql_merchant,merchant
+Q15583064,Salomone Ashkenazi,1520,1602,strata_merchant,False,sparql_merchant,merchant
+Q15512307,John Cawood,1514,1572,strata_merchant,False,sparql_merchant,merchant
+Q18147734,Volcxken Diericx,1530,1600,strata_merchant,False,sparql_merchant,merchant
+Q18922322,Henry Smith,1549,1628,strata_merchant,False,sparql_merchant,merchant
+Q18917451,Edward Haute,1476,1530,strata_merchant,False,sparql_merchant,merchant
+Q19288602,Jerolim Zagurović,1550,1580,strata_merchant,False,sparql_merchant,merchant
+Q19977061,Christoffer Schenck,1550,1614,strata_merchant,False,sparql_merchant,merchant
+Q20172602,Franz Jügert,1525,1592,strata_merchant,False,sparql_merchant,merchant
+Q18672633,Thomas Offley,1505,1582,strata_merchant,False,sparql_merchant,merchant
+Q19802245,Neeltje Andries,1527,1603,strata_merchant,False,sparql_merchant,merchant
+Q21416123,Heinrich Cramer von Claußbruch,1515,1599,strata_merchant,False,sparql_merchant,merchant
+Q20980040,Henning Büring,1453,1499,strata_merchant,False,sparql_merchant,merchant
+Q21548641,Marc'Antonio de Santis,1550,1650,strata_merchant,False,sparql_merchant,merchant
+Q21003711,Emotan,1301,1401,strata_merchant,False,sparql_merchant,merchant
+Q25858580,Simon Bogner,1500,1568,strata_merchant,False,sparql_merchant,merchant
+Q23418860,Pierre de Moucheron,1508,1567,strata_merchant,False,sparql_merchant,merchant
+Q26239718,Arnold Duppengiesser,1550,1628,strata_merchant,False,sparql_merchant,merchant
+Q26239715,Blasius Dundi,1550,1621,strata_merchant,False,sparql_merchant,merchant
+Q26239851,Evert Hindersson,1550,1615,strata_merchant,False,sparql_merchant,merchant
+Q27749797,Hans Röhling,1490,1564,strata_merchant,False,sparql_merchant,merchant
+Q47171722,Johann IX. Langenmantel vom Sparren,1450,1505,strata_merchant,False,sparql_merchant,merchant
+Q55850144,Georg Fugger,1518,1569,strata_merchant,False,sparql_merchant,merchant
+Q50377582,Anna taskomakare,1480,1500,strata_merchant,False,sparql_merchant,merchant
+Q50377583,Birgitta Ingvaldsdotter,1468,1500,strata_merchant,False,sparql_merchant,merchant
+Q50383700,Niklas Ribeisen,1484,1547,strata_merchant,False,sparql_merchant,merchant
+Q55598858,Odot Molain,1383,1471,strata_merchant,False,sparql_merchant,merchant
+Q58303253,Konrad Rehlinger the older,1470,1553,strata_merchant,False,sparql_merchant,merchant
+Q64210352,Hans Franckaert,1520,1584,strata_merchant,False,sparql_merchant,merchant
+Q65643560,Pieter Pot,1375,1450,strata_merchant,False,sparql_merchant,merchant
+Q63396777,Girolamo Forni,1540,1610,strata_merchant,False,sparql_merchant,merchant
+Q63677269,Cord Fribusch,1400,1476,strata_merchant,False,sparql_merchant,merchant
+Q88212406,Michael von Derenburg,1450,1549,strata_merchant,False,sparql_merchant,merchant
+Q77250221,Marguerite Poullain,1537,1613,strata_merchant,False,sparql_merchant,merchant
+Q78360935,Strongilah,1450,1548,strata_merchant,False,sparql_merchant,merchant
+Q102316347,Michael Aschenbrenner,1549,1605,strata_merchant,False,sparql_merchant,merchant
+Q106364499,Moses (Juif),1400,1475,strata_merchant,False,sparql_merchant,merchant
+Q106575214,Frank XII. von Cronberg,1397,1461,strata_merchant,False,sparql_merchant,merchant
+Q110081181,Bartolomeo Bontempelli,1538,1616,strata_merchant,False,sparql_merchant,merchant
+Q125867220,Leonardo Frescobaldi,1485,1529,strata_merchant,False,sparql_merchant,merchant
+Q124768455,Ibn al-D ryhm,1312,1361,strata_merchant,False,sparql_merchant,merchant
+Q139088980,Edward Goodman,1476,1560,strata_merchant,False,sparql_merchant,merchant
+Q1259240,Johannes Knebel,1413,1481,strata_clerk,False,sparql_clerk,clerk
+Q1821925,Levinus Hulsius,1550,1606,strata_clerk,False,sparql_clerk,clerk
+Q1648849,Rudolf Losse,1310,1364,strata_clerk,False,sparql_clerk,clerk
+Q1696278,Johannes Spreng,1524,1601,strata_clerk,False,sparql_clerk,clerk
+Q1685972,Jean d'Outremeuse,1338,1400,strata_clerk,False,sparql_clerk,clerk
+Q1697474,Johannes Fabri de Werdea,1450,1505,strata_clerk,False,sparql_clerk,clerk
+Q1995304,Noe Meurer,1525,1583,strata_clerk,False,sparql_clerk,clerk
+Q1610605,Hermann Barckhusen,1460,1529,strata_clerk,False,sparql_clerk,clerk
+Q1564257,Johann I. von Isenburg,1300,1370,strata_clerk,False,sparql_clerk,clerk
+Q1644828,Albert II. Krummendiek,1417,1489,strata_clerk,False,sparql_clerk,clerk
+Q1009965,Gervais du Bus,1300,1400,strata_clerk,False,sparql_clerk,clerk
+Q1224005,Dietrich Schernberg,1500,1600,strata_clerk,False,sparql_clerk,clerk
+Q1233142,Friedrich,1300,1387,strata_clerk,False,sparql_clerk,clerk
+Q735685,Johannes Mentelin,1410,1478,strata_clerk,False,sparql_clerk,clerk
+Q1047818,Caspar Borner,1492,1547,strata_clerk,False,sparql_clerk,clerk
+Q1048018,Caspar Schaller,1490,1542,strata_clerk,False,sparql_clerk,clerk
+Q809375,Bartholomäus Sastrow,1520,1603,strata_clerk,False,sparql_clerk,clerk
+Q809389,Bartholomäus van der Lake,1420,1468,strata_clerk,False,sparql_clerk,clerk
+Q426305,Giovanni Maria Cecchi,1518,1587,strata_clerk,False,sparql_clerk,clerk
+Q213330,Nicolas Flamel,1335,1418,strata_clerk,False,sparql_clerk,clerk
+Q92435,Ulrich Molitor,1442,1507,strata_clerk,False,sparql_clerk,clerk
+Q121696,Johann Renner,1525,1583,strata_clerk,False,sparql_clerk,clerk
+Q18530143,John Blacman,1408,1485,strata_clerk,False,sparql_clerk,clerk
+Q17300851,Joan Esteve,1442,1487,strata_clerk,False,sparql_clerk,clerk
+Q18945082,Bastiano Foresi,1424,1488,strata_clerk,False,sparql_clerk,clerk
+Q18945418,Giovanni Battista Refrigerio,1424,1499,strata_clerk,False,sparql_clerk,clerk
+Q16531977,Benintendi Ravegnani,1318,1365,strata_clerk,False,sparql_clerk,clerk
+Q2575451,Wilhelm Ulenoge,1545,1572,strata_clerk,False,sparql_clerk,clerk
+Q2433227,Tilemann Elhen von Wolfhagen,1347,1420,strata_clerk,False,sparql_clerk,clerk
+Q2144421,Renward Cysat,1545,1614,strata_clerk,False,sparql_clerk,clerk
+Q2081018,Petrus Seehausen,1400,1464,strata_clerk,False,sparql_clerk,clerk
+Q2050434,Paolo Santonino,1440,1500,strata_clerk,False,sparql_clerk,clerk
+Q55126869,Hanns von Ungnad,1405,1500,strata_clerk,False,sparql_clerk,clerk
+Q41568767,Raffaele de' Cerchi,1401,1500,strata_clerk,False,sparql_clerk,clerk
+Q45539848,Niccolò Tinucci,1390,1444,strata_clerk,False,sparql_clerk,clerk
+Q48407068,Niccolò da Casola,1300,1380,strata_clerk,False,sparql_clerk,clerk
+Q55228359,Vincenzo Giusti,1532,1619,strata_clerk,False,sparql_clerk,clerk
+Q55193487,Ambrosius Bitschin,1401,1454,strata_clerk,False,sparql_clerk,clerk
+Q55095224,Dimitrios Rendi,1330,1402,strata_clerk,False,sparql_clerk,clerk
+Q41615592,Matteo Griffoni,1351,1426,strata_clerk,False,sparql_clerk,clerk
+Q41617619,Gaspare Pontani,1440,1515,strata_clerk,False,sparql_clerk,clerk
+Q55227737,Giovanni Forteguerri,1508,1582,strata_clerk,False,sparql_clerk,clerk
+Q55122541,Heinrich Arnoldi,1405,1487,strata_clerk,False,sparql_clerk,clerk
+Q54932522,Bartomeu Salvador,1450,1550,strata_clerk,False,sparql_clerk,clerk
+Q55225114,Antonio da Legnago,1350,1385,strata_clerk,False,sparql_clerk,clerk
+Q55226248,Ugo Caleffini,1439,1503,strata_clerk,False,sparql_clerk,clerk
+Q55228138,Gherardo del Ciriagio,1412,1472,strata_clerk,False,sparql_clerk,clerk
+Q48861610,Pietro Leoni,1452,1516,strata_clerk,False,sparql_clerk,clerk
+Q41559657,Bernardino Azzurrini,1542,1620,strata_clerk,False,sparql_clerk,clerk
+Q42027400,Jean III Robertet,1430,1502,strata_clerk,False,sparql_clerk,clerk
+Q41567508,Martino Buzio,1500,1600,strata_clerk,False,sparql_clerk,clerk
+Q15429102,Kaspar Frey,1460,1526,strata_clerk,False,sparql_clerk,clerk
+Q12795648,Marcantonio Nicoletti,1536,1596,strata_clerk,False,sparql_clerk,clerk
+Q15429042,Niklaus Schradin,1500,1531,strata_clerk,False,sparql_clerk,clerk
+Q15821142,Johan Wunstorp,1450,1483,strata_clerk,False,sparql_clerk,clerk
+Q16330391,Q16330391,1345,1420,strata_clerk,False,sparql_clerk,clerk
+Q15637260,Antonio Quetta,1480,1556,strata_clerk,False,sparql_clerk,clerk
+Q16439039,Johannes Goritz,1455,1527,strata_clerk,False,sparql_clerk,clerk
+Q15735608,Štěpán z Tetína,1290,1338,strata_clerk,False,sparql_clerk,clerk
+Q55835399,Fino Fini,1431,1519,strata_clerk,False,sparql_clerk,clerk
+Q55859467,Wendelin Regensberger,1530,1598,strata_clerk,False,sparql_clerk,clerk
+Q55875779,Albertolo Griffi,1372,1420,strata_clerk,False,sparql_clerk,clerk
+Q55887839,Franz Schweickher,1489,1568,strata_clerk,False,sparql_clerk,clerk
+Q55436531,Tomasino Bianchi,1473,1554,strata_clerk,False,sparql_clerk,clerk
+Q3120020,Guillaume Le Doyen,1460,1540,strata_clerk,False,sparql_clerk,clerk
+Q2978313,Claude de Bellièvre,1487,1557,strata_clerk,False,sparql_clerk,clerk
+Q3107535,Giovanni della Grossa,1388,1464,strata_clerk,False,sparql_clerk,clerk
+Q3259517,Lorenzo de Monacis,1351,1428,strata_clerk,False,sparql_clerk,clerk
+Q19938959,Bartolomeo Cavassico,1480,1555,strata_clerk,False,sparql_clerk,clerk
+Q22704329,Johannes Sander,1455,1544,strata_clerk,False,sparql_clerk,clerk
+Q23891009,Jan Jansz. Potter,1530,1590,strata_clerk,False,sparql_clerk,clerk
+Q23072062,Pragensis Procopius,1390,1482,strata_clerk,False,sparql_clerk,clerk
+Q19984661,Filippo Cioni,1461,1520,strata_clerk,False,sparql_clerk,clerk
+Q21544640,Francesco Mario Grapaldi,1460,1515,strata_clerk,False,sparql_clerk,clerk
+Q21548692,Nicolo Monticoli,1464,1523,strata_clerk,False,sparql_clerk,clerk
+Q21207738,Alvise Dardani,1429,1511,strata_clerk,False,sparql_clerk,clerk
+Q96364188,Felix Frei,1482,1555,strata_clerk,False,sparql_clerk,clerk
+Q96256716,Johann Bäli,1400,1465,strata_clerk,False,sparql_clerk,clerk
+Q104412303,Juan Alemán,1470,1560,strata_clerk,False,sparql_clerk,clerk
+Q104028749,Matxin Zalba,1390,1446,strata_clerk,False,sparql_clerk,clerk
+Q96319024,Guillaume Gruyère,1439,1505,strata_clerk,False,sparql_clerk,clerk
+Q105095003,Castello Castelli,1350,1412,strata_clerk,False,sparql_clerk,clerk
+Q55906043,Liebhard Eghenvelder,1407,1457,strata_clerk,False,sparql_clerk,clerk
+Q59532498,Lorenzo Violi,1464,1550,strata_clerk,False,sparql_clerk,clerk
+Q61472794,Paolo Boncambio,1401,1500,strata_clerk,False,sparql_clerk,clerk
+Q58218487,Philipp Melanchthon,1525,1605,strata_clerk,False,sparql_clerk,clerk
+Q60840883,Johann Schienen,1497,1541,strata_clerk,False,sparql_clerk,clerk
+Q27792351,Alessandro Canobbio,1532,1607,strata_clerk,False,sparql_clerk,clerk
+Q30434026,Antonio Ivani,1430,1482,strata_clerk,False,sparql_clerk,clerk
+Q3713292,Domenico da Gravina,1300,1350,strata_clerk,False,sparql_clerk,clerk
+Q3623797,Arrigo Simintendi,1300,1350,strata_clerk,False,sparql_clerk,clerk
+Q3749625,Francesco Besozzi,1460,1539,strata_clerk,False,sparql_clerk,clerk
+Q3805893,Jacopo I Appiano,1322,1398,strata_clerk,False,sparql_clerk,clerk
+Q3768078,Giovanni Sabadino degli Arienti,1445,1510,strata_clerk,False,sparql_clerk,clerk
+Q4282684,Niccolo de Martoni,1350,1450,strata_clerk,False,sparql_clerk,clerk
+Q5860586,Fernán Díaz de Toledo,1385,1457,strata_clerk,False,sparql_clerk,clerk
+Q3827018,Lapo Mazzei,1350,1412,strata_clerk,False,sparql_clerk,clerk
+Q3827021,Lapo Gianni,1300,1400,strata_clerk,False,sparql_clerk,clerk
+Q3619675,Antonio Godi,1350,1438,strata_clerk,False,sparql_clerk,clerk
+Q136592967,Q136592967,1550,1650,strata_clerk,False,sparql_clerk,clerk
+Q136634326,Q136634326,1532,1572,strata_clerk,False,sparql_clerk,clerk
+Q136642907,Q136642907,1434,1501,strata_clerk,False,sparql_clerk,clerk
+Q110164165,Jacopo Languschi,1380,1450,strata_clerk,False,sparql_clerk,clerk
+Q107190077,Wigand Kenniken,1443,1480,strata_clerk,False,sparql_clerk,clerk
+Q110212204,Alexander Huge,1455,1529,strata_clerk,False,sparql_clerk,clerk
+Q110215027,Beatus Widmer,1475,1533,strata_clerk,False,sparql_clerk,clerk
+Q109302282,Johannes Wydenroyd,1391,1478,strata_clerk,False,sparql_clerk,clerk
+Q109518021,Pietro Durante,1450,1510,strata_clerk,False,sparql_clerk,clerk
+Q110246996,Cesare Nappi,1440,1518,strata_clerk,False,sparql_clerk,clerk
+Q11906048,Antonio Geraldini,1448,1489,strata_clerk,False,sparql_clerk,clerk
+Q11939361,Onofre Ferragut,1550,1605,strata_clerk,False,sparql_clerk,clerk
+Q11731888,Jörg Gail,1520,1584,strata_clerk,False,sparql_clerk,clerk
+Q7167754,Pere Tresfort,1350,1450,strata_clerk,False,sparql_clerk,clerk
+Q10268896,Duarte de Armas,1465,1500,strata_clerk,False,sparql_clerk,clerk
+Q63302013,Antonio Della Valle,1449,1511,strata_clerk,False,sparql_clerk,clerk
+Q64654179,Jaume Despla,1357,1423,strata_clerk,False,sparql_clerk,clerk
+Q63159757,Jaume Aguilar,1480,1542,strata_clerk,False,sparql_clerk,clerk
+Q62554292,Johannes Walling,1390,1459,strata_clerk,False,sparql_clerk,clerk
+Q63162019,Lluis Alanyà,1450,1550,strata_clerk,False,sparql_clerk,clerk
+Q89484095,Donato Bosso,1436,1511,strata_clerk,False,sparql_clerk,clerk
+Q94787856,Konrad Künlin,1403,1472,strata_clerk,False,sparql_clerk,clerk
+Q94796356,Barthold von Tzerstede,1440,1490,strata_clerk,False,sparql_clerk,clerk
+Q89045211,Andrea Mamellini,1509,1581,strata_clerk,False,sparql_clerk,clerk
+Q94799808,Michael Bruckner,1510,1582,strata_clerk,False,sparql_clerk,clerk
+Q94821635,Swigger Sifrid,1417,1478,strata_clerk,False,sparql_clerk,clerk
+Q87647584,Filippo Redditi,1454,1524,strata_clerk,False,sparql_clerk,clerk
+Q87183892,Benuccio Capacci,1430,1510,strata_clerk,False,sparql_clerk,clerk
+Q88209118,Bartolomeo Alfei,1460,1557,strata_clerk,False,sparql_clerk,clerk
+Q85434541,Ausiàs de Sant Joan,1500,1600,strata_clerk,False,sparql_clerk,clerk
+Q94895965,Martin Guntern,1538,1588,strata_clerk,False,sparql_clerk,clerk
+Q94907855,Jacob Rieber,1537,1592,strata_clerk,False,sparql_clerk,clerk
+Q94859963,Giovanni Battista Almadiani,1452,1522,strata_clerk,False,sparql_clerk,clerk
+Q95047473,Nicolò Signorili,1375,1428,strata_clerk,False,sparql_clerk,clerk
+Q95298196,Matthäus Schiller,1518,1602,strata_clerk,False,sparql_clerk,clerk
+Q94921070,Leonhard Erngroß,1430,1470,strata_clerk,False,sparql_clerk,clerk
+Q94936031,Johann Wolfgang Rötenbeck,1544,1595,strata_clerk,False,sparql_clerk,clerk
+Q95260010,von Pfullendorf Jos,1370,1433,strata_clerk,False,sparql_clerk,clerk
+Q114323929,Jacobus Apocellus,1484,1550,strata_clerk,False,sparql_clerk,clerk
+Q112518097,Pavol,1359,1431,strata_clerk,False,sparql_clerk,clerk
+Q114245657,Tielmannus Gravius,1474,1545,strata_clerk,False,sparql_clerk,clerk
+Q113302440,Cristoforo Guidini,1345,1410,strata_clerk,False,sparql_clerk,clerk
+Q111210803,Noël de Fribois,1400,1467,strata_clerk,False,sparql_clerk,clerk
+Q112408181,Q112408181,1384,1442,strata_clerk,False,sparql_clerk,clerk
+Q112402644,Antonio de Thomeis,1425,1479,strata_clerk,False,sparql_clerk,clerk
+Q112413865,Q112413865,1550,1591,strata_clerk,False,sparql_clerk,clerk
+Q112684597,Bonaventura Monachi,1290,1348,strata_clerk,False,sparql_clerk,clerk
+Q116250877,Oddo di Biagio,1330,1392,strata_clerk,False,sparql_clerk,clerk
+Q117289757,Gideon Fallet,1544,1614,strata_clerk,False,sparql_clerk,clerk
+Q120599193,Jacopo Grasolari,1450,1534,strata_clerk,False,sparql_clerk,clerk
+Q139125109,Q139125109,1541,1613,strata_clerk,False,sparql_clerk,clerk
+Q139013731,Q139013731,1475,1548,strata_clerk,False,sparql_clerk,clerk
+Q137925814,Johann Beier,1518,1563,strata_clerk,False,sparql_clerk,clerk
+Q127602756,Ibn Tawq,1430,1509,strata_clerk,False,sparql_clerk,clerk
+Q126898855,Heinrich Plummer,1300,1335,strata_clerk,False,sparql_clerk,clerk
+Q127996663,Jakob of Hall,1300,1400,strata_clerk,False,sparql_clerk,clerk
+Q128004416,Hermann of Pflugsdorf,1300,1400,strata_clerk,False,sparql_clerk,clerk
+Q128009672,Lewis of Freising,1300,1400,strata_clerk,False,sparql_clerk,clerk
+Q124156972,Jean Olphi dit Galhard,1460,1521,strata_clerk,False,sparql_clerk,clerk
+Q128036333,Niklas of Meissen,1300,1400,strata_clerk,False,sparql_clerk,clerk
+Q131958526,Lorenzo de Apapis,1501,1586,strata_clerk,False,sparql_clerk,clerk
+Q95639108,Johannes Hartung,1493,1554,strata_clerk,False,sparql_clerk,clerk
+Q95884041,Eliseo Mamellini,1462,1531,strata_clerk,False,sparql_clerk,clerk
+Q139268852,Q139268852,1445,1494,strata_clerk,False,sparql_clerk,clerk
+Q139199881,Q139199881,1502,1567,strata_clerk,False,sparql_clerk,clerk
+Q139200541,Q139200541,1527,1612,strata_clerk,False,sparql_clerk,clerk
+Q139217127,Q139217127,1450,1515,strata_clerk,False,sparql_clerk,clerk
+Q139363668,Q139363668,1515,1572,strata_clerk,False,sparql_clerk,clerk
+Q139226023,Q139226023,1310,1376,strata_clerk,False,sparql_clerk,clerk
+Q486278,Kim Chong-jik,1431,1491,strata_clerk,False,sparql_clerk,clerk
+Q486298,Han Myŏnghoe,1415,1487,strata_clerk,False,sparql_clerk,clerk
+Q494175,Chŏng Inji,1397,1478,strata_clerk,False,sparql_clerk,clerk
+Q453523,Stanisław Żółkiewski,1547,1620,strata_clerk,False,sparql_clerk,clerk
+Q460248,Niels Kaas,1534,1594,strata_clerk,False,sparql_clerk,clerk
+Q485534,Sim Jeong,1471,1531,strata_clerk,False,sparql_clerk,clerk
+Q699485,Liu Ji,1311,1375,strata_clerk,False,sparql_clerk,clerk
+Q704854,Chŏng Yŏrip,1546,1589,strata_clerk,False,sparql_clerk,clerk
+Q704920,Liu Jin,1451,1510,strata_clerk,False,sparql_clerk,clerk
+Q626149,Hong Gyeong-ju,1450,1521,strata_clerk,False,sparql_clerk,clerk
+Q805637,Balthasar Nuss,1545,1618,strata_clerk,False,sparql_clerk,clerk
+Q678012,"Armand de Gontaut, baron de Biron",1524,1592,strata_clerk,False,sparql_clerk,clerk
+Q716233,Čeněk of Wartenberg,1400,1425,strata_clerk,False,sparql_clerk,clerk
+Q349814,Adam I of Hradec,1494,1531,strata_clerk,False,sparql_clerk,clerk
+Q349823,Adam z Hradce,1546,1596,strata_clerk,False,sparql_clerk,clerk
+Q328250,Jan Ostroróg,1436,1501,strata_clerk,False,sparql_clerk,clerk
+Q197234,Zhang Juzheng,1525,1582,strata_clerk,False,sparql_clerk,clerk
+Q393872,Povel Huitfeldt,1520,1592,strata_clerk,False,sparql_clerk,clerk
+Q967015,Mikołaj Radziwiłł Czarny,1515,1565,strata_clerk,False,sparql_clerk,clerk
+Q887232,Erik Rosenkrantz,1519,1575,strata_clerk,False,sparql_clerk,clerk
+Q983688,Demetrios Kydones,1324,1398,strata_clerk,False,sparql_clerk,clerk
+Q919967,Gonzalo Fernández de Oviedo y Valdés,1478,1557,strata_clerk,False,sparql_clerk,clerk
+Q2976539,Krystyn Ościk,1363,1442,strata_clerk,False,sparql_clerk,clerk
+Q3084913,François II de Montholon,1529,1590,strata_clerk,False,sparql_clerk,clerk
+Q1085207,Christoph von Ortenburg,1480,1551,strata_clerk,False,sparql_clerk,clerk
+Q1248377,Guillaume Pot de Rhodes,1505,1603,strata_clerk,False,sparql_clerk,clerk
+Q1047925,Kaspar Hoyer,1540,1594,strata_clerk,False,sparql_clerk,clerk
+Q77358,Paulus Hector Mair,1517,1579,strata_clerk,False,sparql_clerk,clerk
+Q3229283,Lelio Torelli,1498,1576,strata_clerk,False,sparql_clerk,clerk
+Q3263362,Louis d'Ongnies,1501,1567,strata_clerk,False,sparql_clerk,clerk
+Q3295620,Martin Ruzé de Beaulieu,1526,1613,strata_clerk,False,sparql_clerk,clerk
+Q4539925,Teodor Denhoff,1550,1622,strata_clerk,False,sparql_clerk,clerk
+Q1429690,Florian Griespek von Griespach,1504,1588,strata_clerk,False,sparql_clerk,clerk
+Q1314585,Heinrich Lersner,1506,1576,strata_clerk,False,sparql_clerk,clerk
+Q1445343,Jakob Villinger,1480,1529,strata_clerk,False,sparql_clerk,clerk
+Q1378725,Eustachius von Harras,1500,1561,strata_clerk,False,sparql_clerk,clerk
+Q1317110,Hu Weiyong,1350,1380,strata_clerk,False,sparql_clerk,clerk
+Q5779478,Nils Göransson Gyllenstierna,1526,1601,strata_clerk,False,sparql_clerk,clerk
+Q3642126,Bonifacio Antelmi,1542,1610,strata_clerk,False,sparql_clerk,clerk
+Q3610187,Alessandro Pallantieri,1505,1571,strata_clerk,False,sparql_clerk,clerk
+Q3619484,Antonio D'Alessandro,1420,1499,strata_clerk,False,sparql_clerk,clerk
+Q3386254,Pierre Merlin,1533,1603,strata_clerk,False,sparql_clerk,clerk
+Q3364420,Otte Krumpen,1480,1569,strata_clerk,False,sparql_clerk,clerk
+Q5941647,Poul Laxmand,1450,1502,strata_clerk,False,sparql_clerk,clerk
+Q5923254,Krister Nilsson (Vasa),1365,1442,strata_clerk,False,sparql_clerk,clerk
+Q5915893,Knut Ribbing,1450,1518,strata_clerk,False,sparql_clerk,clerk
+Q4786468,Archibald Napier,1534,1608,strata_clerk,False,sparql_clerk,clerk
+Q3845528,Marcello Alberini,1511,1580,strata_clerk,False,sparql_clerk,clerk
+Q3902867,Pier Francesco Riccio,1490,1564,strata_clerk,False,sparql_clerk,clerk
+Q3907649,Polo de Ondegardo,1520,1575,strata_clerk,False,sparql_clerk,clerk
+Q5162648,Conrad von Pyhy,1500,1553,strata_clerk,False,sparql_clerk,clerk
+Q1690531,Joachim Ulrich von Rosenfeld,1525,1600,strata_clerk,False,sparql_clerk,clerk
+Q1601234,Heinz Lüder,1490,1559,strata_clerk,False,sparql_clerk,clerk
+Q1597836,Henry IV of Neuhaus,1442,1507,strata_clerk,False,sparql_clerk,clerk
+Q1599713,Heinrich Witzleben,1509,1561,strata_clerk,False,sparql_clerk,clerk
+Q1690644,Joachim of Hradec,1526,1565,strata_clerk,False,sparql_clerk,clerk
+Q5954097,Kim Seong-il,1538,1593,strata_clerk,False,sparql_clerk,clerk
+Q5965427,Hồ Nguyên Trừng,1374,1446,strata_clerk,False,sparql_clerk,clerk
+Q6001701,Stellan Otto von Mörner,1550,1645,strata_clerk,False,sparql_clerk,clerk
+Q4136998,Jan Herburt,1508,1576,strata_clerk,False,sparql_clerk,clerk
+Q1768609,Achacy Czema,1485,1565,strata_clerk,False,sparql_clerk,clerk
+Q1794630,Ludvig Munk,1537,1602,strata_clerk,False,sparql_clerk,clerk
+Q1819323,Leonhard von Eck,1480,1550,strata_clerk,False,sparql_clerk,clerk
+Q1819919,Leopold Stralendorf,1540,1626,strata_clerk,False,sparql_clerk,clerk
+Q5575615,Nils Pedersson Bielke,1502,1550,strata_clerk,False,sparql_clerk,clerk
+Q5578329,Hans Larsson Björnram,1520,1571,strata_clerk,False,sparql_clerk,clerk
+Q5580906,Nils Andersson Boije,1490,1568,strata_clerk,False,sparql_clerk,clerk
+Q5535781,Georg Norman,1490,1552,strata_clerk,False,sparql_clerk,clerk
+Q5568118,Joachim Beck,1500,1572,strata_clerk,False,sparql_clerk,clerk
+Q5571048,Joakim Berendes,1550,1623,strata_clerk,False,sparql_clerk,clerk
+Q7109338,Otte Rømer,1350,1411,strata_clerk,False,sparql_clerk,clerk
+Q5586910,Jesper Brochmand,1488,1562,strata_clerk,False,sparql_clerk,clerk
+Q5636450,Ha Wiji,1387,1456,strata_clerk,False,sparql_clerk,clerk
+Q1973226,Cornelis Grapheus,1482,1558,strata_clerk,False,sparql_clerk,clerk
+Q1909424,Matthes Enderlein vom Burgstadl,1493,1556,strata_clerk,False,sparql_clerk,clerk
+Q1910492,Matthäus Ackermann,1544,1606,strata_clerk,False,sparql_clerk,clerk
+Q6194357,Arvid Eriksson,1450,1529,strata_clerk,False,sparql_clerk,clerk
+Q5700170,Antonio de Cháves,1516,1599,strata_clerk,False,sparql_clerk,clerk
+Q5700249,Antonio de Naveros,1500,1552,strata_clerk,False,sparql_clerk,clerk
+Q5744621,Johan Friis,1494,1570,strata_clerk,False,sparql_clerk,clerk
+Q5698485,Antonio González,1535,1601,strata_clerk,False,sparql_clerk,clerk
+Q5721988,Hans Faaborg,1450,1516,strata_clerk,False,sparql_clerk,clerk
+Q7343234,Robert Crull,1349,1408,strata_clerk,False,sparql_clerk,clerk
+Q7351394,Robert de Crull,1329,1378,strata_clerk,False,sparql_clerk,clerk
+Q7526630,Sir Edward Wotton,1489,1551,strata_clerk,False,sparql_clerk,clerk
+Q7839899,Triadan Gritti,1391,1474,strata_clerk,False,sparql_clerk,clerk
+Q7794019,Thomas Smeton,1536,1583,strata_clerk,False,sparql_clerk,clerk
+Q6224923,Corfitz Tönnesen Viffert,1550,1592,strata_clerk,False,sparql_clerk,clerk
+Q12612112,Lee Ye,1419,1480,strata_clerk,False,sparql_clerk,clerk
+Q12610189,Yun Kuk-hyong,1543,1611,strata_clerk,False,sparql_clerk,clerk
+Q12604541,Sinjap,1541,1609,strata_clerk,False,sparql_clerk,clerk
+Q12604826,Sim Gyeol,1419,1470,strata_clerk,False,sparql_clerk,clerk
+Q12604841,Shim Dal-won,1494,1535,strata_clerk,False,sparql_clerk,clerk
+Q12604842,Sim Deok-bu,1328,1401,strata_clerk,False,sparql_clerk,clerk
+Q12604878,Sim Eon-gwang,1487,1540,strata_clerk,False,sparql_clerk,clerk
+Q12604921,Sim Jeon,1520,1589,strata_clerk,False,sparql_clerk,clerk
+Q12606285,Yang Sŏng-ji,1415,1482,strata_clerk,False,sparql_clerk,clerk
+Q12606440,Yang Paengson,1480,1545,strata_clerk,False,sparql_clerk,clerk
+Q12608235,Onneung Gun,1407,1454,strata_clerk,False,sparql_clerk,clerk
+Q12608507,Wang Hui-geol,1505,1553,strata_clerk,False,sparql_clerk,clerk
+Q12609951,Ryu In-suk,1485,1545,strata_clerk,False,sparql_clerk,clerk
+Q12610025,Ryu Jin-dong,1497,1561,strata_clerk,False,sparql_clerk,clerk
+Q12610132,Ryu Hui-ryeong,1480,1552,strata_clerk,False,sparql_clerk,clerk
+Q12610184,Yun Kwan,1490,1550,strata_clerk,False,sparql_clerk,clerk
+Q12610249,Yun Byeon,1493,1549,strata_clerk,False,sparql_clerk,clerk
+Q12610394,Yun Ui-jung,1524,1590,strata_clerk,False,sparql_clerk,clerk
+Q12611051,Lee Geuk-don,1435,1503,strata_clerk,False,sparql_clerk,clerk
+Q12611049,Yi Geuk-gyun,1437,1504,strata_clerk,False,sparql_clerk,clerk
+Q12611341,Lee Maek,1455,1528,strata_clerk,False,sparql_clerk,clerk
+Q12611444,Lee Min-do,1336,1395,strata_clerk,False,sparql_clerk,clerk
+Q12611482,Lee Baek-yu,1352,1399,strata_clerk,False,sparql_clerk,clerk
+Q12611607,Lee Sanbo,1539,1594,strata_clerk,False,sparql_clerk,clerk
+Q12611694,Yi Seo,1332,1410,strata_clerk,False,sparql_clerk,clerk
+Q12602921,Song Sun,1493,1583,strata_clerk,False,sparql_clerk,clerk
+Q12611812,Lee Se-eung,1473,1528,strata_clerk,False,sparql_clerk,clerk
+Q12611875,Yi Sun-ji,1406,1465,strata_clerk,False,sparql_clerk,clerk
+Q12612773,Lee Ji-beon,1508,1575,strata_clerk,False,sparql_clerk,clerk
+Q12613063,Lee Hang,1499,1576,strata_clerk,False,sparql_clerk,clerk
+Q12613135,Hyŏn-bo Yi,1467,1555,strata_clerk,False,sparql_clerk,clerk
+Q11749357,Krzysztof Kobylanski,1520,1565,strata_clerk,False,sparql_clerk,clerk
+Q12613891,Im Ŏngnyŏng,1496,1568,strata_clerk,False,sparql_clerk,clerk
+Q12613908,Im Won-jun,1423,1500,strata_clerk,False,sparql_clerk,clerk
+Q12614023,Im Hyeon,1547,1597,strata_clerk,False,sparql_clerk,clerk
+Q12614040,Lim Hui-jae,1472,1504,strata_clerk,False,sparql_clerk,clerk
+Q12614320,Jang Gyeong-se,1547,1615,strata_clerk,False,sparql_clerk,clerk
+Q12614447,Jang Mal-son,1431,1486,strata_clerk,False,sparql_clerk,clerk
+Q12615449,Jeong Gyeon,1427,1514,strata_clerk,False,sparql_clerk,clerk
+Q12615502,Jeong Nanjong,1433,1489,strata_clerk,False,sparql_clerk,clerk
+Q12615746,Jeong Se-ho,1486,1563,strata_clerk,False,sparql_clerk,clerk
+Q12616209,Jeong Hui-ryang,1469,1502,strata_clerk,False,sparql_clerk,clerk
+Q12616934,Cho On,1347,1417,strata_clerk,False,sparql_clerk,clerk
+Q12617008,Cho In-ok,1347,1396,strata_clerk,False,sparql_clerk,clerk
+Q12616952,Jo Wook,1498,1557,strata_clerk,False,sparql_clerk,clerk
+Q12616974,Jo Wi,1454,1503,strata_clerk,False,sparql_clerk,clerk
+Q12622497,Ha Eung-rim,1536,1567,strata_clerk,False,sparql_clerk,clerk
+Q12624343,Han Chung,1486,1521,strata_clerk,False,sparql_clerk,clerk
+Q12624411,Hamburim,1360,1410,strata_clerk,False,sparql_clerk,clerk
+Q12624801,Heo Hong,1471,1529,strata_clerk,False,sparql_clerk,clerk
+Q12624887,Heo Ja,1496,1551,strata_clerk,False,sparql_clerk,clerk
+Q6450511,Kwŏn Kŭn,1352,1409,strata_admin,False,sparql_admin,admin
+Q6409195,Kim Myŏngyun,1493,1572,strata_admin,False,sparql_admin,admin
+Q6408542,Kim Dam,1416,1464,strata_admin,False,sparql_admin,admin
+Q12602029,Sŏng Su-ch'im,1493,1564,strata_admin,False,sparql_admin,admin
+Q12594282,Ryu Ryang,1354,1416,strata_admin,False,sparql_admin,admin
+Q12589992,Nam Ŭn,1354,1398,strata_admin,False,sparql_admin,admin
+Q12595003,Maeng Sa-seong,1360,1438,strata_admin,False,sparql_admin,admin
+Q12595385,Mokcheom,1515,1593,strata_admin,False,sparql_admin,admin
+Q12596179,Min Gae,1360,1396,strata_admin,False,sparql_admin,admin
+Q12596272,Min Je,1339,1408,strata_admin,False,sparql_admin,admin
+Q12596689,Park Sang,1474,1530,strata_admin,False,sparql_admin,admin
+Q12596825,Park Seung-im,1517,1586,strata_admin,False,sparql_admin,admin

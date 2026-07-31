@@ -1,0 +1,209 @@
+qid,name,birth,death,cohort,is_known_wearer
+Q25260,1st Dalai Lama,1391,1474,writer_poet_1380_1420,False
+Q29284,Gómez Manrique,1412,1490,writer_poet_1380_1420,False
+Q26648,John Argyropoulos,1415,1480,writer_poet_1380_1420,False
+Q28779,"Íñigo López de Mendoza, 1st Marquis of Santillana",1398,1458,writer_poet_1380_1420,False
+Q77715,Albrecht von Eyb,1420,1475,writer_poet_1380_1420,False
+Q67397,Wessel Gansfort,1419,1489,writer_poet_1380_1420,False
+Q71437,John Brugman,1400,1473,writer_poet_1380_1420,False
+Q88079,Johannes Hartlieb,1410,1468,writer_poet_1380_1420,False
+Q101437,Pius II,1405,1464,writer_poet_1380_1420,False
+Q108124,Heinrich Steinhöwel,1412,1482,writer_poet_1380_1420,False
+Q166519,Bornio da Sala,1400,1496,writer_poet_1380_1420,False
+Q123085,Juliana Berners,1388,1500,writer_poet_1380_1420,False
+Q105816,Hans Rosenplüt,1400,1460,writer_poet_1380_1420,False
+Q182046,Leon Battista Alberti,1404,1472,writer_poet_1380_1420,False
+Q247287,Koca Davud Pasha,1401,1498,writer_poet_1380_1420,False
+Q214115,Lorenzo Valla,1407,1457,writer_poet_1380_1420,False
+Q154751,Nicholas of Cusa,1401,1464,writer_poet_1380_1420,False
+Q214964,Gilles Binchois,1400,1460,writer_poet_1380_1420,False
+Q275044,Isotta Nogarola,1418,1466,writer_poet_1380_1420,False
+Q309907,Thomas Malory,1405,1471,writer_poet_1380_1420,False
+Q310146,"Charles I, Duke of Orléans",1394,1465,writer_poet_1380_1420,False
+Q220976,Thomas à Kempis,1380,1471,writer_poet_1380_1420,False
+Q287222,Yu Gam-dong,1401,1499,writer_poet_1380_1420,False
+Q312458,Jami,1414,1492,writer_poet_1380_1420,False
+Q312551,Kabir,1398,1518,writer_poet_1380_1420,False
+Q327763,Olivier Basselin,1403,1470,writer_poet_1380_1420,False
+Q272715,Elisabeth of Lorraine,1397,1456,writer_poet_1380_1420,False
+Q299446,Basilios Bessarion,1403,1472,writer_poet_1380_1420,False
+Q318254,Poggio Bracciolini,1380,1459,writer_poet_1380_1420,False
+Q332651,Diego de Valera,1412,1488,writer_poet_1380_1420,False
+Q333086,Lope de Barrientos,1382,1469,writer_poet_1380_1420,False
+Q302833,Řehoř Krajčí,1420,1474,writer_poet_1380_1420,False
+Q372817,Alphonso de Spina,1400,1491,writer_poet_1380_1420,False
+Q320735,Thomas Ebendorfer,1388,1464,writer_poet_1380_1420,False
+Q376445,Baltoğlu Süleyman Bey,1400,1453,writer_poet_1380_1420,False
+Q321881,Jean de Wavrin,1394,1472,writer_poet_1380_1420,False
+Q433647,George Sphrantzes,1401,1477,writer_poet_1380_1420,False
+Q435984,Pavel Židek,1413,1470,writer_poet_1380_1420,False
+Q381211,Gennadius Scholarius,1400,1473,writer_poet_1380_1420,False
+Q388140,Juan de Mena,1411,1456,writer_poet_1380_1420,False
+Q455252,Catherine of Bologna,1413,1463,writer_poet_1380_1420,False
+Q363836,Joanot Martorell,1410,1465,writer_poet_1380_1420,False
+Q400930,Ahmad ibn Arabshah,1389,1450,writer_poet_1380_1420,False
+Q401063,Ahmed-i Dāʻī,1400,1500,writer_poet_1380_1420,False
+Q470122,Sin Sukchu,1417,1475,writer_poet_1380_1420,False
+Q459540,Juan Alfonso de Baena,1406,1454,writer_poet_1380_1420,False
+Q468605,Helene Kottannerin,1400,1470,writer_poet_1380_1420,False
+Q425695,Jan Čapek,1400,1500,writer_poet_1380_1420,False
+Q423644,Ali Qushji,1403,1474,writer_poet_1380_1420,False
+Q531326,Saadia Ibn Danan,1401,1493,writer_poet_1380_1420,False
+Q481499,İbn Tanrıverdi,1410,1470,writer_poet_1380_1420,False
+Q465675,Ausiàs March,1400,1459,writer_poet_1380_1420,False
+Q533514,George of Trebizond,1395,1472,writer_poet_1380_1420,False
+Q535676,Angelo Decembrio,1415,1450,writer_poet_1380_1420,False
+Q486251,Yangnyeong,1394,1462,writer_poet_1380_1420,False
+Q587247,Antoine de la Sale,1388,1462,writer_poet_1380_1420,False
+Q554825,Benedikt Kotruljević,1416,1469,writer_poet_1380_1420,False
+Q516283,Guillebert de Lannoy,1386,1462,writer_poet_1380_1420,False
+Q473002,Hendrik Herp,1400,1478,writer_poet_1380_1420,False
+Q558074,Ciriaco de' Pizzicolli,1391,1452,writer_poet_1380_1420,False
+Q600799,Pedro Tafur,1410,1484,writer_poet_1380_1420,False
+Q599858,Antonio Beccadelli,1394,1471,writer_poet_1380_1420,False
+Q546961,Johannes Galliculus,1401,1501,writer_poet_1380_1420,False
+Q526613,Giovanni Fontana,1395,1455,writer_poet_1380_1420,False
+Q651013,Roberto Valturio,1405,1475,writer_poet_1380_1420,False
+Q719440,Jean V de Bueil,1406,1478,writer_poet_1380_1420,False
+Q568395,John Fortescue,1394,1479,writer_poet_1380_1420,False
+Q702918,Ma Huan,1380,1460,writer_poet_1380_1420,False
+Q722705,Aşıkpaşazade,1400,1484,writer_poet_1380_1420,False
+Q704539,Guillem de Copons,1400,1500,writer_poet_1380_1420,False
+Q704519,Fernão Lopes,1385,1458,writer_poet_1380_1420,False
+Q764413,Andrea Pannonio,1420,1471,writer_poet_1380_1420,False
+Q706876,Yu Qian,1398,1457,writer_poet_1380_1420,False
+Q809500,Bartolomeo Facio,1400,1457,writer_poet_1380_1420,False
+Q690877,John of Rokycan,1390,1471,writer_poet_1380_1420,False
+Q711910,Niccolò Barbaro,1420,1494,writer_poet_1380_1420,False
+Q826664,Bernkopf,1400,1500,writer_poet_1380_1420,False
+Q781656,Hugo van Lannoy,1384,1456,writer_poet_1380_1420,False
+Q898160,Martin le Franc,1410,1461,writer_poet_1380_1420,False
+Q712941,Juan de Torquemada,1388,1468,writer_poet_1380_1420,False
+Q713261,Petr Chelčický,1390,1452,writer_poet_1380_1420,False
+Q754764,Athanasios Chalkeopoulos,1407,1497,writer_poet_1380_1420,False
+Q947874,Gö Lotsawa Zhönnu-pel,1392,1481,writer_poet_1380_1420,False
+Q809389,Bartholomäus van der Lake,1420,1468,writer_poet_1380_1420,False
+Q983263,Masuccio Salernitano,1410,1475,writer_poet_1380_1420,False
+Q957427,Georges Chastellain,1405,1475,writer_poet_1380_1420,False
+Q1042297,Carlo Marsuppini,1398,1453,writer_poet_1380_1420,False
+Q716427,Jean Juvénal des Ursins,1388,1473,writer_poet_1380_1420,False
+Q882619,Ulrich Füetrer,1401,1496,writer_poet_1380_1420,False
+Q1016517,Burkhard Zink,1396,1474,writer_poet_1380_1420,False
+Q1144111,Conrad Segenschmid,1400,1489,writer_poet_1380_1420,False
+Q967051,Giosafat Barbaro,1413,1494,writer_poet_1380_1420,False
+Q1257734,Gert van der Schueren,1411,1490,writer_poet_1380_1420,False
+Q1259857,Katarina Branković,1418,1492,writer_poet_1380_1420,False
+Q1217759,Nicholas Upton,1400,1457,writer_poet_1380_1420,False
+Q1226846,Diogo Gomes,1420,1502,writer_poet_1380_1420,False
+Q1233727,Q1233727,1420,1480,writer_poet_1380_1420,False
+Q1234681,Giannozzo Manetti,1396,1459,writer_poet_1380_1420,False
+Q1372875,Maffeo Vegio,1407,1458,writer_poet_1380_1420,False
+Q1357237,John Capgrave,1393,1464,writer_poet_1380_1420,False
+Q1376928,Tongwa Donden,1416,1453,writer_poet_1380_1420,False
+Q1343011,Enguerrand de Monstrelet,1390,1453,writer_poet_1380_1420,False
+Q1362779,Michael Apostolius,1420,1478,writer_poet_1380_1420,False
+Q1393409,Alfonso Martínez de Toledo,1398,1470,writer_poet_1380_1420,False
+Q1459241,Friedrich Gerhart,1400,1463,writer_poet_1380_1420,False
+Q1489714,Johann Holland,1390,1500,writer_poet_1380_1420,False
+Q1398560,Taccola,1382,1453,writer_poet_1380_1420,False
+Q1535835,Marinos Phalieros,1396,1474,writer_poet_1380_1420,False
+Q1473819,Thüring von Ringoltingen,1415,1483,writer_poet_1380_1420,False
+Q1471821,Fröschel von Leidnitz,1400,1500,writer_poet_1380_1420,False
+Q1656375,Ichijō Kaneyoshi,1402,1481,writer_poet_1380_1420,False
+Q1579627,Hans Fründ,1400,1468,writer_poet_1380_1420,False
+Q1664528,Chökhor Lotsawa Jampal Yeshe,1404,1477,writer_poet_1380_1420,False
+Q1692314,Shōtetsu,1381,1459,writer_poet_1380_1420,False
+Q1677247,Monk of Salzburg,1400,1500,writer_poet_1380_1420,False
+Q1677529,Phugpa Lhündrub Gyatsho,1400,1500,writer_poet_1380_1420,False
+Q1648217,Jean Le Fevre de Saint-Remy,1395,1468,writer_poet_1380_1420,False
+Q1650332,Michael Czacheritz,1420,1489,writer_poet_1380_1420,False
+Q1775944,Muhammad al-Jazuli,1404,1465,writer_poet_1380_1420,False
+Q1770663,Shinkei,1406,1475,writer_poet_1380_1420,False
+Q1696839,John II of Pernstein,1406,1476,writer_poet_1380_1420,False
+Q1697670,Johann Herolt,1390,1468,writer_poet_1380_1420,False
+Q1780792,Komparu Zenchiku,1405,1468,writer_poet_1380_1420,False
+Q1698751,Johannes von Indersdorf,1382,1470,writer_poet_1380_1420,False
+Q1745417,Nikolaus von Pelgrims,1385,1459,writer_poet_1380_1420,False
+Q7331,Ibn Battuta,1304,1368,writer_poet_1290_1320,False
+Q1402,Giovanni Boccaccio,1313,1375,writer_poet_1290_1320,False
+Q24766,John Mandeville,1300,1372,writer_poet_1290_1320,False
+Q60281,Johannes Tauler,1300,1361,writer_poet_1290_1320,False
+Q71578,Johannes Noviforensis,1310,1381,writer_poet_1290_1320,False
+Q37084,John VI Kantakouzenos,1292,1383,writer_poet_1290_1320,False
+Q66631,Konrad of Megenberg,1309,1374,writer_poet_1290_1320,False
+Q86981,Peter Suchenwirt,1320,1396,writer_poet_1290_1320,False
+Q105287,Hermann of Fritzlar,1300,1400,writer_poet_1290_1320,False
+Q91136,John of Hildesheim,1315,1375,writer_poet_1290_1320,False
+Q170863,Clement VI,1291,1352,writer_poet_1290_1320,False
+Q243787,Gregory Palamas,1296,1359,writer_poet_1290_1320,False
+Q146994,Zanobi da Strada,1312,1361,writer_poet_1290_1320,False
+Q152221,Philotheus I of Constantinople,1300,1379,writer_poet_1290_1320,False
+Q173893,John Wycliffe,1320,1385,writer_poet_1290_1320,False
+Q116671,Klaret,1320,1370,writer_poet_1290_1320,False
+Q116695,Milíč of Kroměříž,1320,1374,writer_poet_1290_1320,False
+Q155669,Charles IV,1316,1378,writer_poet_1290_1320,False
+Q225604,"Henry of Grosmont, 1st Duke of Lancaster",1310,1361,writer_poet_1290_1320,False
+Q200580,Guillaume de Machaut,1300,1377,writer_poet_1290_1320,False
+Q204996,Bridget of Sweden,1303,1373,writer_poet_1290_1320,False
+Q275500,Jean Buridan,1295,1358,writer_poet_1290_1320,False
+Q311766,Philippe de Vitry,1291,1361,writer_poet_1290_1320,False
+Q354683,Adelheid Langmann,1306,1375,writer_poet_1290_1320,False
+Q331692,Guillaume de Deguileville,1295,1360,writer_poet_1290_1320,False
+Q362683,John of Legnano,1320,1383,writer_poet_1290_1320,False
+Q320991,Benesch von Weitmühl,1300,1375,writer_poet_1290_1320,False
+Q364908,Adolf von Wien,1300,1400,writer_poet_1290_1320,False
+Q509416,Dolpopa Sherab Gyeltsen,1292,1361,writer_poet_1290_1320,False
+Q476851,Henry of Nördlingen,1310,1356,writer_poet_1290_1320,False
+Q517287,Dafydd ap Gwilym,1320,1370,writer_poet_1290_1320,False
+Q537845,Violante of Vilaragut,1320,1372,writer_poet_1290_1320,False
+Q465438,Santob de Carrion,1290,1369,writer_poet_1290_1320,False
+Q541021,Nijō Yoshimoto,1320,1388,writer_poet_1290_1320,False
+Q541057,Muneyoshi-shinnō,1311,1385,writer_poet_1290_1320,False
+Q573800,Yang Weizhen,1296,1370,writer_poet_1290_1320,False
+Q551791,Watriquet de Couvin,1300,1400,writer_poet_1290_1320,False
+Q603627,Callistus I of Constantinople,1300,1363,writer_poet_1290_1320,False
+Q708107,Peter of Dusburg,1300,1400,writer_poet_1290_1320,False
+Q741596,Jean Le Bel,1290,1370,writer_poet_1290_1320,False
+Q673770,Nicholas Bozon,1300,1400,writer_poet_1290_1320,False
+Q669351,Ludolph of Saxony,1300,1377,writer_poet_1290_1320,False
+Q683792,Kitabatake Chikafusa,1293,1354,writer_poet_1290_1320,False
+Q630418,Rulman Merswin,1307,1382,writer_poet_1290_1320,False
+Q713013,Song Lian,1310,1381,writer_poet_1290_1320,False
+Q643306,Raimon de Cornet,1298,1350,writer_poet_1290_1320,False
+Q699485,Liu Ji,1311,1375,writer_poet_1290_1320,False
+Q770348,Ranulf Higden,1299,1360,writer_poet_1290_1320,False
+Q807285,Barawa Gyeltshen Pelsang,1310,1391,writer_poet_1290_1320,False
+Q804757,Baldemar von Petterweil,1320,1382,writer_poet_1290_1320,False
+Q920312,John of Ruysbroeck,1293,1381,writer_poet_1290_1320,False
+Q983400,Johannes de Muris,1300,1350,writer_poet_1290_1320,False
+Q1009965,Gervais du Bus,1300,1400,writer_poet_1290_1320,False
+Q1018259,Buton Rinchen Drub,1290,1364,writer_poet_1290_1320,False
+Q935382,Guillaume Tirel,1312,1395,writer_poet_1290_1320,False
+Q1237303,Lapo da Castiglionchio,1316,1381,writer_poet_1290_1320,False
+Q1196326,Der Püller,1300,1400,writer_poet_1290_1320,False
+Q1155893,Chu Văn An,1292,1370,writer_poet_1290_1320,False
+Q1335413,John of Fordun,1301,1384,writer_poet_1290_1320,False
+Q1248865,Leontios Pilatus,1310,1365,writer_poet_1290_1320,False
+Q1362183,Giovanni de' Marignolli,1290,1358,writer_poet_1290_1320,False
+Q1316710,Ulrich von Lilienfeld,1308,1358,writer_poet_1290_1320,False
+Q1393342,Jean de Venette,1307,1368,writer_poet_1290_1320,False
+Q1370726,Pierre Bersuire,1290,1362,writer_poet_1290_1320,False
+Q1375838,Geoffroi de Charny,1300,1356,writer_poet_1290_1320,False
+Q1399161,Fazio of Uberti,1305,1400,writer_poet_1290_1320,False
+Q1442687,Franco von Meschede,1300,1400,writer_poet_1290_1320,False
+Q1406709,Franz von Prag,1290,1362,writer_poet_1290_1320,False
+Q1418815,Konrad von Hainburg,1300,1360,writer_poet_1290_1320,False
+Q1601242,Heinzelin von Konstanz,1300,1400,writer_poet_1290_1320,False
+Q1567333,Hadamar III of Laber,1300,1354,writer_poet_1290_1320,False
+Q1616590,Tilo von Kulm,1300,1383,writer_poet_1290_1320,False
+Q1599024,Heinrich Taube von Selbach,1300,1364,writer_poet_1290_1320,False
+Q1599443,Heinrich der Teichner,1310,1380,writer_poet_1290_1320,False
+Q1696847,Johann von Ringgenberg,1291,1351,writer_poet_1290_1320,False
+Q1699264,John Barbour,1316,1395,writer_poet_1290_1320,False
+Q1697851,Johannes Klenkok,1310,1374,writer_poet_1290_1320,False
+Q1676869,Johannes Gobi,1300,1350,writer_poet_1290_1320,False
+Q1702886,Chokle Namgyel,1306,1386,writer_poet_1290_1320,False
+Q1703666,Jordan of Quedlinburg,1300,1380,writer_poet_1290_1320,False
+Q1777502,Shi Nai'an,1290,1365,writer_poet_1290_1320,False
+Q1708503,Longchenpa,1308,1364,writer_poet_1290_1320,False
+Q1789160,Kristan von Luppin,1300,1400,writer_poet_1290_1320,False

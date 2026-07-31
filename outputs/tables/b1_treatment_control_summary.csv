@@ -1,0 +1,2 @@
+n_treatment,n_control,median_career_span_t,median_career_span_c,median_years_work_after_45_t,median_years_work_after_45_c,mean_years_work_after_45_t,mean_years_work_after_45_c,median_last_work_age_t,median_last_work_age_c,delta_median_work_after_45,delta_median_last_work_age,filter,note
+6,25,26.5,5.0,12.5,15.0,14.833333333333334,16.52,53.0,60.0,-2.5,-7.0,"work year in [birth+12, death+2]; career_span<=80","Controls=writers/poets/historians/philosophers or merchants by birth cohort, not on Ilardi roster. Not verified spectacles-negative in archives. Proxy only."

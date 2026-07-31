@@ -1,0 +1,48 @@
+qid,name,birth,death,cohort,is_known_wearer
+Q7105731,Osbern Bokenam,1393,1401.0,humanist_1380_1420,False
+Q18530143,John Blacman,1408,1485.0,humanist_1380_1420,False
+Q1402,Giovanni Boccaccio,1313,1375.0,humanist_1290_1320,False
+Q102185,Johann Wittenborg,1321,1363.0,merchant_1320_1360,False
+Q114527,Ulman Stromer,1329,1407.0,merchant_1320_1360,False
+Q337493,Richard Whittington,1354,1423.0,merchant_1320_1360,False
+Q1605614,Henning von Rentelen,1360,1406.0,merchant_1320_1360,False
+Q1619521,Hinrich von der Hude,1350,1459.0,merchant_1320_1360,False
+Q1619531,Hinrik Paternostermaker,1350,1384.0,merchant_1320_1360,False
+Q1695984,Johann Rinck,1350,1464.0,merchant_1320_1360,False
+Q1696808,Johann von Holzhausen,1350,1393.0,merchant_1320_1360,False
+Q1744147,Willem Eggert,1360,1417.0,merchant_1320_1360,False
+Q970069,Francesco di Marco Datini,1346,1410.0,merchant_1320_1360,True
+Q4998007,Buonaccorso Pitti,1354,1401.0,merchant_1320_1360,False
+Q2426175,Thomas Morkerke,1330,1401.0,merchant_1320_1360,False
+Q15972049,Daniele de Ungrispach,1344,1411.0,merchant_1320_1360,False
+Q2880657,Baldassare degli Embriachi,1350,1450.0,merchant_1320_1360,False
+Q6044371,Peter Ålänning,1350,1404.0,merchant_1320_1360,False
+Q16166021,Andalò da Savignone,1330,1346.0,merchant_1320_1360,False
+Q16575786,Marco Carelli,1320,1394.0,merchant_1320_1360,False
+Q1596007,Tidemann Lemberg,1350,1386.0,merchant_1320_1360,False
+Q16831805,Herman von Vechelde,1350,1420.0,merchant_1320_1360,False
+Q31191509,Hans Fugger,1345,1408.0,merchant_1320_1360,False
+Q20979818,Albert Schreye,1350,1424.0,merchant_1320_1360,False
+Q18814542,Leonello Lomellini,1350,1420.0,merchant_1320_1360,False
+Q3776498,Gregorio Dati,1353,1435.0,merchant_1320_1360,False
+Q23041775,Simon Oldesloe,1350,1412.0,merchant_1320_1360,False
+Q23062419,Johann Klingenberg,1350,1371.0,merchant_1320_1360,False
+Q23062683,Berthold Roland,1350,1428.0,merchant_1320_1360,False
+Q23501852,Ferrer de Gualbes,1350,1423.0,merchant_1320_1360,False
+Q55905859,Hans Ingolstetter,1320,1361.0,merchant_1320_1360,False
+Q42425036,Fricke van Twedorp,1350,1428.0,merchant_1320_1360,False
+Q60834442,Jerzy Merkiel,1350,,merchant_1320_1360,False
+Q55915390,Stephan Notangst,1360,1427.0,merchant_1320_1360,False
+Q56036114,Heinrich Schlick,1345,1431.0,merchant_1320_1360,False
+Q48125068,Albrecht Huxer,1350,1456.0,merchant_1320_1360,False
+Q24756867,Henggi Humpis,1345,1429.0,merchant_1320_1360,False
+Q27698021,Sinibaldo Perugino,1340,1384.0,merchant_1320_1360,False
+Q88473066,Napoleone Lomellini,1320,1401.0,merchant_1320_1360,False
+Q94805512,Heinrich Rummel,1340,1417.0,merchant_1320_1360,False
+Q94806425,Johannes Schedel,1350,1400.0,merchant_1320_1360,False
+Q94811128,Ralph Blackwell,1327,1377.0,merchant_1320_1360,False
+Q94847165,Peter Haller von Hallerstein,1348,1425.0,merchant_1320_1360,False
+Q68025890,Hans Steger,1350,1500.0,merchant_1320_1360,False
+Q94931275,Johann von Thorn II,1340,1410.0,merchant_1320_1360,False
+Q85848706,Bertran Nicolau,1355,1421.0,merchant_1320_1360,False
+Q114775265,Mosse Cabrit,1350,1410.0,merchant_1320_1360,False

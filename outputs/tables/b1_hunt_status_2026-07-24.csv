@@ -1,0 +1,2 @@
+date,activity_proxy_rows,hard_dated_series,control_candidates,tc_clean_treatment,tc_clean_control,delta_median_work_after_45,sesoi5,sesoi15,status
+2026-07-24,14,4,208,3,15,9.0,PASS_RAW,FAIL,control_pool_v2_clean; n20_not_met; plus15_unproven

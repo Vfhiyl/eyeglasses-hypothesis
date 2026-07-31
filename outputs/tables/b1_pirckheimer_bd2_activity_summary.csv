@@ -1,0 +1,2 @@
+person_id,volume,evidence_year,evidence_type,n_register_entries,n_dated,n_before_evidence,n_on_or_after_evidence,first_year,last_year,years_after_evidence,volume_coverage,note,source_file
+pirckheimer,Briefwechsel Bd.2 (Reicke 1956),1520,physical_find_in_study,99,93,93,0,1508,1515,,approx 1507–1515 (pre-evidence),Bd.2 is PRE spectacles-find (~1520). Establishes dense correspondence before evidence. Need Bd.6–7 (esp. Bd.7: 1528–1530) for post-wear activity.,data/raw/pirckheimer/pirckheimer_bd2.pdf

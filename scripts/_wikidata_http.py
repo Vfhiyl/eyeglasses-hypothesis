@@ -120,27 +120,22 @@ def _read_header(sock: socket.socket, max_bytes: int = 65536) -> bytes:
     return buf
 
 
-def _parse_proxy(proxy: str | None) -> tuple[str, int, str] | None:
-    """Return (host, port, proto). Accepts http://, socks5://, socks4://, or host:port."""
+def _parse_proxy(
+    proxy: str | None,
+) -> tuple[str, int, str, str | None, str | None] | None:
+    """Return (host, port, proto, username, password).
+
+    Accepts http://, socks5://, socks4://, user:pass@host:port,
+    and Evomi-style socks5://host:port:user:pass.
+    """
     if not proxy:
         return None
-    p = proxy.strip()
-    proto = "http"
-    lower = p.lower()
-    if "://" in lower:
-        scheme, rest = p.split("://", 1)
-        scheme = scheme.lower()
-        if scheme in ("socks5", "socks"):
-            proto = "socks5"
-        elif scheme == "socks4":
-            proto = "socks4"
-        else:
-            proto = "http"
-        p = rest
-    else:
-        p = p.replace("https://", "").replace("http://", "")
-    host, _, port_s = p.rpartition(":")
-    return host, int(port_s), proto
+    from _upstream_tunnel import parse_upstream_spec
+
+    spec = parse_upstream_spec(proxy, default_proto="http")
+    if not spec:
+        return None
+    return spec.host, spec.port, spec.proto, spec.username, spec.password
 
 
 def open_wikidata_ssl_socket(
@@ -154,9 +149,16 @@ def open_wikidata_ssl_socket(
 
     prox = _parse_proxy(proxy)
     if prox:
-        host, port, proto = prox
+        host, port, proto, username, password = prox
         sock = open_upstream_tunnel(
-            proto, host, port, WIKIDATA_HOST, WIKIDATA_PORT, timeout
+            proto,
+            host,
+            port,
+            WIKIDATA_HOST,
+            WIKIDATA_PORT,
+            timeout,
+            username=username,
+            password=password,
         )
         sock.settimeout(timeout)
     else:

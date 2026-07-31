@@ -1,0 +1,2 @@
+person_id,evidence_year_modern,n_dated_letters,n_before,n_on_or_after,first_letter_year,last_letter_year,years_active_after_evidence,letters_per_year_before,letters_per_year_on_after,share_on_or_after,rate_ratio_after_over_before,filter,caveat,source
+alessandra_strozzi,1465,67,39,28,1446,1470,5,2.053,4.667,0.4179,2.274,modern_year 1446-1471,Edition density may bias late years; still shows continued correspondence after documented wear.,Guasti 1877 OCR

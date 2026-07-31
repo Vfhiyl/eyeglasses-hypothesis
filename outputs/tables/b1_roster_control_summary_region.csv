@@ -1,0 +1,2 @@
+n_onsetish_with_birth,n_matched,n_strict_region,n_unmatched,match_levels,median_delta_ya45_strict_region,sesoi5_strict,sesoi15_strict,caveat
+36,36,36,0,occ+birth+region:31;occ_relaxed+region:5,6.0,PASS_RAW,FAIL_OR_UNAVAILABLE,Strict = occ+birth+macro_region (or occ_relaxed+region). WD P27/P19 mapping incomplete.

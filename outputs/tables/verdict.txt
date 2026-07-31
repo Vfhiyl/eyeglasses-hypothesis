@@ -14,8 +14,9 @@ FOUR-LAYER VERDICT (see docs/CLAIM_MAP.md, docs/VERDICT_zh.md):
        B1 (wearers work more years): UNIDENTIFIED → priority hunt
        (expand named wearers; EMLO; inventories×output). Micro n=3 so far.
        B3 Wikidata P800/P577: EXPLORATORY ONLY — not primary reject.
-  [C]  CIVILIZATION-ORIGIN SLOGANS — DEBUNK. '+15 years' attribution:
-       PENDING multi-edition page check (NOT 'Miller only').
+  [C]  CIVILIZATION-ORIGIN SLOGANS — DEBUNK. '+15 years' sentence:
+       CONFIRMED in Chicago ed. printed p.145 (Ch.8); not Miller-only.
+       Book claim ≠ historically verified effect size (still needs B1).
 
 HARD CONCLUSIONS STILL AVAILABLE:
   - A1 yes; A2 direction yes; B2/B4 macro unlock unsupported; C origin debunk.
@@ -50,7 +51,7 @@ HEADLINE:
 [A1 SUPPORT] Near-work productivity gains in modern RCTs (split endpoints).
 [A2 CREDIBLE] Medieval spectacles as near-work tool; effect-years unestimated.
 [B MACRO UNSUPPORTED] B2/B4 fail strong unlock; B1 HUNT; B3 exploratory.
-[C PARTIAL] Debunk civilization-origin; +15y pending book-page verification.
+[C PARTIAL] Debunk civilization-origin; +15y CONFIRMED Chicago p.145 (claim≠proof).
 
 PRIMARY: evidence_by_family.csv + evidence_by_claim.csv + evidence_core.csv
 HUNT LIST: named-wearer×output (B1); Macfarlane +15 pages; EMLO.

@@ -17,6 +17,11 @@ outputs/logs/
 
 # Local Shiny session credentials (use env RETE_SESSION_ID / RETE_NONCE or fill locally)
 config/rete_api.local.yaml
+# Paid proxy URL for wikidata_proxy_gateway (never commit)
+config/wikidata_premium.local.env
+# Digitarq JWT (browser cookie token=…)
+config/digitarq_token.local
+
 
 # Scraped / local proxy lists & hunt logs (operational; not research outputs)
 outputs/tables/proxy_pool*.txt
@@ -39,11 +44,33 @@ data/raw/**
 !data/raw/cross-country-literacy-rates.csv
 !data/raw/europop.csv
 !data/raw/istc_city_year_seed.csv
-
+!data/raw/macfarlane_glass/
+!data/raw/macfarlane_glass/README.md
+!data/raw/macfarlane_glass/ocr_hi/
+!data/raw/macfarlane_glass/ocr_hi/hi-079.txt
+!data/raw/ilardi_renaissance_vision/
+!data/raw/ilardi_renaissance_vision/README.md
+!data/raw/emlo_spectacles_README.md
+!data/raw/guasti_strozzi_letters/
+!data/raw/guasti_strozzi_letters/README.md
+!data/raw/guasti_strozzi_letters/occhiali_snippets.txt
+data/raw/guasti_strozzi_letters/guasti_1877_djvu.txt
 # Explicitly never commit PDFs / huge dumps even if path matches
 data/raw/**/*.pdf
 data/raw/**/*.zip
 data/raw/**/*.bz2
+# Macfarlane scan rasters / bulk OCR intermediates (keep README + small extracts)
+data/raw/macfarlane_glass/pages/
+data/raw/macfarlane_glass/ocr/
+data/raw/macfarlane_glass/ocr_sample/
+data/raw/macfarlane_glass/ocr_hi/*.png
+data/raw/macfarlane_glass/*.pdf
+data/raw/macfarlane_glass/Glass-A-World-History.ocr.txt
+data/raw/macfarlane_glass/Glass-A-World-History.txt
+!data/raw/macfarlane_glass/README.md
+!data/raw/macfarlane_glass/ocr_hi/
+data/raw/macfarlane_glass/ocr_hi/*
+!data/raw/macfarlane_glass/ocr_hi/hi-079.txt
 data/raw/studium_persons.jsonl
 data/raw/istc_clean_1.0.yaml
 data/raw/istc_core_holdings_1.0.csv
@@ -59,3 +86,7 @@ data/raw/london_customs/
 data/raw/cdmv-macrodata/
 data/raw/bhotmg/
 data/raw/mmm_data*
+
+data/raw/lettersampo/*.zip
+data/raw/lettersampo/unpacked/
+!data/raw/lettersampo/README.md

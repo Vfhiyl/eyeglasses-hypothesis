@@ -1,0 +1,11 @@
+qid,group,person_id,name,cohort,occupation_class,birth_year,death_year,n_works,first_work,last_work,career_span,n_works_age_ge45,share_age_ge45,years_alive_after_45,years_work_after_45,last_work_age,evidence_year,n_before,n_after,share_after,years_work_after_evidence
+Q101437,control,,Pius II,writer_poet_1380_1420,,1405,1464,7,1443,1463,20,3,0.4285714285714285,14,13,58,,,,,
+Q108124,control,,Heinrich Steinhöwel,writer_poet_1380_1420,,1412,1482,5,1471,1477,6,5,1.0,25,20,65,,,,,
+Q1402,control,,Giovanni Boccaccio,writer_poet_1290_1320,,1313,1375,23,1333,1373,40,6,0.2608695652173913,17,15,60,,,,,
+Q154751,control,,Nicholas of Cusa,writer_poet_1380_1420,,1401,1464,49,1433,1464,31,36,0.7346938775510204,18,18,63,,,,,
+Q182046,control,,Leon Battista Alberti,writer_poet_1380_1420,,1404,1472,10,1436,1472,36,5,0.5,23,23,68,,,,,
+Q214115,control,,Lorenzo Valla,writer_poet_1380_1420,,1407,1457,3,1440,1452,12,1,0.3333333333333333,5,0,45,,,,,
+Q318254,control,,Poggio Bracciolini,writer_poet_1380_1420,,1380,1459,9,1429,1455,26,9,1.0,34,30,75,,,,,
+Q331692,control,,Guillaume de Deguileville,writer_poet_1290_1320,,1295,1360,3,1338,1358,20,2,0.6666666666666666,20,18,63,,,,,
+Q362683,control,,John of Legnano,writer_poet_1290_1320,,1320,1383,5,1360,1375,15,3,0.6,18,10,55,,,,,
+Q88079,control,,Johannes Hartlieb,writer_poet_1380_1420,,1410,1468,14,1432,1467,35,5,0.3571428571428571,13,12,57,,,,,

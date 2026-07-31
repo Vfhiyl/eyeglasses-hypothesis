@@ -1,0 +1,10 @@
+person_id,date,event_type,source_ref,role,notes
+maurolico_francesco,1554-05-29,spectacle_self_report_and_optics_chapter,Ilardi_2007_Diaphanorum_III_Saitti_p126;_Maurolico_Project_BNF_FL7249,wear_onset,"First-person: 'Ego quidem ad longe, prope, propriusve spectandum legendumque, diversis aliquatenus utor conspiciliis'. De conspiciliis dated In arce Catanensi 29 May 1554 (Maurolico Project autograph FL 7249 / 1611 Naples ed. colophon)."
+maurolico_francesco,1557,arithmetic_treatise_composed,Cassinet_1988;_Opuscula_companion_Arithmeticorum_1575_IA,FROM-him,Arithmeticorum libri duo written 1557; printed with Opuscula Venice 1575 (IA ita-bnc-mag-00000852-001 OCR verified)
+maurolico_francesco,1565,mechanics_treatise,Napoli_1876_from_MSS_Brevis_demonstratio_centri_in_parabola,FROM-him,Dated 1565 treatise on centre of gravity of paraboloid (post-wear near-work)
+maurolico_francesco,1567,euclid_compendia_for_jesuits,Gavagna_Maurolico_Euclid;_MacTutor,FROM-him,Elementorum compendia Books I–XII reworked for Jesuit Messina encyclopedia plan (1567); near-work teaching/editing
+maurolico_francesco,1569-04-16,publication_letter_to_Borgia,dAlessandro_Napolitani_Nuncius_2001;_MacTutor,FROM-him,Letter to Jesuit General Francisco Borgia seeking help printing mathematical compendia
+maurolico_francesco,1569,professor_mathematics_messina,MacTutor_DSB_Jesuit_college,FROM-him,Appointed professor of mathematics at Jesuit college Messina (teaching Euclid/Sacrobosco; contract includes music theory)
+maurolico_francesco,1572-11-06,supernova_observation_essay,Hellman_Isis_1960_MS_dated_6_Nov_1572,FROM-him,Dated MS essay on Cassiopeia nova 1572 (five days before Brahe); astronomical near-work observation/report
+maurolico_francesco,1574,hands_optics_MSS_to_Clavius,MacTutor_Clavius_visit_1574,FROM-him,Gave Photismi/Diaphana autographs to Christopher Clavius for publication (Clavius visit Messina)
+maurolico_francesco,1575,opuscula_mathematica_printed,IA_ita-bnc-mag-00000852-001_Venice_Francisci_1575,FROM-him,Opuscula Mathematica + Arithmeticorum Venice 1575 (publisher dedication 26 July 1575); dies 22 July 1575 Messina → +21y from wear

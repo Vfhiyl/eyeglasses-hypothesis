@@ -1,0 +1,74 @@
+person_id,name,qid,work_qid,pub_year,age_at_work,evidence_year,evidence_age,work_after_evidence,confidence,evidence_type,source
+petrarch,Francesco Petrarca,Q1401,Q383855,1339,35,1364,60,False,high,self_report_literary,P50
+petrarch,Francesco Petrarca,Q1401,Q425606,1337,33,1364,60,False,high,self_report_literary,P50
+petrarch,Francesco Petrarca,Q1401,Q777574,1336,32,1364,60,False,high,self_report_literary,P50
+petrarch,Francesco Petrarca,Q1401,Q779955,1340,36,1364,60,False,high,self_report_literary,P50
+petrarch,Francesco Petrarca,Q1401,Q995950,1325,21,1364,60,False,high,self_report_literary,P50
+petrarch,Francesco Petrarca,Q1401,Q1094908,1351,47,1364,60,False,high,self_report_literary,P50
+petrarch,Francesco Petrarca,Q1401,Q3646317,1346,42,1364,60,False,high,self_report_literary,P50
+petrarch,Francesco Petrarca,Q1401,Q3704141,1347,43,1364,60,False,high,self_report_literary,P50
+petrarch,Francesco Petrarca,Q1401,Q3704161,1360,56,1364,60,False,high,self_report_literary,P50
+petrarch,Francesco Petrarca,Q1401,Q3704170,1368,64,1364,60,True,high,self_report_literary,P50
+petrarch,Francesco Petrarca,Q1401,Q3704182,1346,42,1364,60,False,high,self_report_literary,P50
+petrarch,Francesco Petrarca,Q1401,Q3730658,1331,27,1364,60,False,high,self_report_literary,P50
+petrarch,Francesco Petrarca,Q1401,Q3730657,1352,48,1364,60,False,high,self_report_literary,P50
+petrarch,Francesco Petrarca,Q1401,Q3800903,1355,51,1364,60,False,high,self_report_literary,P50
+petrarch,Francesco Petrarca,Q1401,Q3800901,1369,65,1364,60,True,high,self_report_literary,P50
+petrarch,Francesco Petrarca,Q1401,Q3804209,1344,40,1364,60,False,high,self_report_literary,P50
+petrarch,Francesco Petrarca,Q1401,Q3933307,1350,46,1364,60,False,high,self_report_literary,P50
+petrarch,Francesco Petrarca,Q1401,Q3964389,1337,33,1364,60,False,high,self_report_literary,P50
+petrarch,Francesco Petrarca,Q1401,Q134127157,1336,32,1364,60,False,high,self_report_literary,P50
+petrarch,Francesco Petrarca,Q1401,Q137222834,1351,47,1364,60,False,high,self_report_literary,P50
+petrarch,Francesco Petrarca,Q1401,Q137927547,1378,74,1364,60,True,high,self_report_literary,P50
+petrarch,Francesco Petrarca,Q1401,Q140267986,1374,70,1364,60,True,high,self_report_literary,P50
+petrarch,Francesco Petrarca,Q1401,Q140267987,1374,70,1364,60,True,high,self_report_literary,P50
+petrarch,Francesco Petrarca,Q1401,Q140267985,1374,70,1364,60,True,high,self_report_literary,P50
+petrarch,Francesco Petrarca,Q1401,Q123483277,1358,54,1364,60,False,high,self_report_literary,P50
+petrarch,Francesco Petrarca,Q1401,Q123483349,1355,51,1364,60,False,high,self_report_literary,P50
+filelfo,Francesco Filelfo,Q4622,Q120999038,1440,42,1456,58,False,high,order_request_letter,P50
+filelfo,Francesco Filelfo,Q4622,Q130945297,1451,53,1456,58,False,high,order_request_letter,P50
+filelfo,Francesco Filelfo,Q4622,Q137927504,1472,74,1456,58,True,high,order_request_letter,P50
+filelfo,Francesco Filelfo,Q4622,Q134298389,1427,29,1456,58,False,high,order_request_letter,P800
+filelfo,Francesco Filelfo,Q4622,Q135448385,1480,82,1456,58,True,high,order_request_letter,P800
+lotto,Lorenzo Lotto,Q310973,Q369350,1505,25,1540,60,False,medium,account_book_wear,P800
+lotto,Lorenzo Lotto,Q310973,Q605863,1530,50,1540,60,False,medium,account_book_wear,P800
+lotto,Lorenzo Lotto,Q310973,Q649875,1517,37,1540,60,False,medium,account_book_wear,P800
+lotto,Lorenzo Lotto,Q310973,Q3605564,1523,43,1540,60,False,medium,account_book_wear,P800
+lotto,Lorenzo Lotto,Q310973,Q3657381,1524,44,1540,60,False,medium,account_book_wear,P800
+lotto,Lorenzo Lotto,Q310973,Q3910913,1552,72,1540,60,True,medium,account_book_wear,P800
+lotto,Lorenzo Lotto,Q310973,Q3937550,1547,67,1540,60,True,medium,account_book_wear,P800
+lotto,Lorenzo Lotto,Q310973,Q3937598,1520,40,1540,60,False,medium,account_book_wear,P800
+lotto,Lorenzo Lotto,Q310973,Q3937702,1526,46,1540,60,False,medium,account_book_wear,P800
+lotto,Lorenzo Lotto,Q310973,Q3947723,1527,47,1540,60,False,medium,account_book_wear,P800
+lotto,Lorenzo Lotto,Q310973,Q131557854,1526,46,1540,60,False,medium,account_book_wear,P800
+lotto,Lorenzo Lotto,Q310973,Q131613887,1529,49,1540,60,False,medium,account_book_wear,P800
+leonardovinci,Leonardo da Vinci,Q762,Q1258536,1520,68,1500,48,True,low,notebook_mentions_inferred,P50
+leonardovinci,Leonardo da Vinci,Q762,Q128910,1490,38,1500,48,False,low,notebook_mentions_inferred,P800
+leonardovinci,Leonardo da Vinci,Q762,Q474338,1490,38,1500,48,False,low,notebook_mentions_inferred,P800
+leonardovinci,Leonardo da Vinci,Q762,Q563727,1511,59,1500,48,True,low,notebook_mentions_inferred,P800
+leonardovinci,Leonardo da Vinci,Q762,Q591128,1500,48,1500,48,True,low,notebook_mentions_inferred,P800
+leonardovinci,Leonardo da Vinci,Q762,Q783215,1514,62,1500,48,True,low,notebook_mentions_inferred,P800
+leonardovinci,Leonardo da Vinci,Q762,Q797902,1500,48,1500,48,True,low,notebook_mentions_inferred,P800
+leonardovinci,Leonardo da Vinci,Q762,Q972196,1480,28,1500,48,False,low,notebook_mentions_inferred,P800
+leonardovinci,Leonardo da Vinci,Q762,Q1217213,1472,20,1500,48,False,low,notebook_mentions_inferred,P800
+leonardovinci,Leonardo da Vinci,Q762,Q1638622,1482,30,1500,48,False,low,notebook_mentions_inferred,P800
+leonardovinci,Leonardo da Vinci,Q762,Q1892745,1500,48,1500,48,True,low,notebook_mentions_inferred,P800
+leonardovinci,Leonardo da Vinci,Q762,Q20174114,1474,22,1500,48,False,low,notebook_mentions_inferred,P800
+leonardovinci,Leonardo da Vinci,Q762,Q131449682,1496,44,1500,48,False,low,notebook_mentions_inferred,P800
+leonardovinci,Leonardo da Vinci,Q762,Q131501780,1500,48,1500,48,True,low,notebook_mentions_inferred,P800
+leonardovinci,Leonardo da Vinci,Q762,Q131501822,1500,48,1500,48,True,low,notebook_mentions_inferred,P800
+leonardovinci,Leonardo da Vinci,Q762,Q131561186,1478,26,1500,48,False,low,notebook_mentions_inferred,P800
+leonardovinci,Leonardo da Vinci,Q762,Q131561185,1481,29,1500,48,False,low,notebook_mentions_inferred,P800
+leonardovinci,Leonardo da Vinci,Q762,Q131579611,1478,26,1500,48,False,low,notebook_mentions_inferred,P800
+leonardovinci,Leonardo da Vinci,Q762,Q131613919,1490,38,1500,48,False,low,notebook_mentions_inferred,P800
+leonardovinci,Leonardo da Vinci,Q762,Q131613966,1495,43,1500,48,False,low,notebook_mentions_inferred,P800
+leonardovinci,Leonardo da Vinci,Q762,Q131613970,1495,43,1500,48,False,low,notebook_mentions_inferred,P800
+leonardovinci,Leonardo da Vinci,Q762,Q131613971,1495,43,1500,48,False,low,notebook_mentions_inferred,P800
+leonardovinci,Leonardo da Vinci,Q762,Q131613984,1479,27,1500,48,False,low,notebook_mentions_inferred,P800
+leonardovinci,Leonardo da Vinci,Q762,Q12418,1503,51,1500,48,True,low,notebook_mentions_inferred,P800
+datini,Francesco di Marco Datini,Q970069,Q126007566,1367,32,1400,65,False,high,order_request_letter,P800
+guy_chauliac,Guy de Chauliac,Q469362,Q352130,1363,63,1363,63,True,low,medical_treatise_mention,P50
+guy_chauliac,Guy de Chauliac,Q469362,Q138676362,1363,63,1363,63,True,low,medical_treatise_mention,P50
+henry_viii,Henry VIII,Q38370,Q743848,1521,30,1547,56,False,high,probate_inventory,P50
+henry_viii,Henry VIII,Q38370,Q19096657,1527,36,1547,56,False,high,probate_inventory,P50
+bianca_maria,Bianca Maria Visconti,Q1232642,Q56677515,1452,27,1462,37,False,medium,third_party_report_of_use,P50

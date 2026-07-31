@@ -1,0 +1,2 @@
+n_treatment,n_control,median_years_work_after_45_t,median_years_work_after_45_c,delta_median_work_after_45,median_last_work_age_t,median_last_work_age_c,filter,sesoi5,sesoi15,hard_dated_series_persons,caveat
+3,10,27.0,16.5,10.5,72.0,61.5,clean panel + control n_works>=3 & career_span>=5; exclude henry_viii,PASS_RAW,FAIL,5,Still n_treatment<<20; WD proxy bias; Lotto now has account-book hard series separate from this WD compare.

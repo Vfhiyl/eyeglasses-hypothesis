@@ -1,0 +1,11 @@
+person_id,date,event_type,source_ref,role,notes
+spataro_giovanni,1532-03-13,pre_wear_letter_ochiali_request,BAV_Vat.lat.5318_fol.236v_IIIF,FROM-him,"Signed G. Spataro; Bologna; mentions 'uno paro de ochiali'; PRE-wear vs Ilardi onset 1532-04-05; image data/raw/spataro_giovanni/iiif_keep/236v.jpg"
+spataro_giovanni,1532-04-05,spectacle_return_unfit,Ilardi_2007_n88_Vat.lat.5318_222r-v,wear_onset,"Spataro→Aaron returns Venetian eyeglasses unfit ('non sono boni per me' / ochiali); signed Gioanne Spataro; IIIF verify 222v.jpg"
+spataro_giovanni,1532-07-19,music_theory_letter,BAV_Vat.lat.5318_fol.238v_IIIF,FROM-him,"Bononij die 19 iulij 1532; signed G. Spataro; mensural symbols; +3.5m after wear; iiif_keep/238v.jpg; address slip 239v"
+spataro_giovanni,1532-09-08,music_theory_letter,BAV_Vat.lat.5318_fol.213v_IIIF,FROM-him,"Bononia MDXXXII Die octavo Septembris; signed jo. spatarius; mentions M. Adriano (Willaert); +5m; iiif_keep/213v.jpg"
+spataro_giovanni,1533-01-02,music_theory_letter,CMBM_Epv.Spataro.1_inv27263,FROM-him,"Spataro→Aaron Bologna; mensural staves; CMBM image verified 2026-07-30; +9m"
+spataro_giovanni,1533-03-08,music_theory_letter,BAV_Vat.lat.5318_fol.249v_IIIF,FROM-him,"Da bologna adi 8 Martii 1533; signed Giované spataro → Pietro Aron; +11m; iiif_keep/249v.jpg"
+spataro_giovanni,1533-06-30,music_theory_letter,BAV_Vat.lat.5318_fol.251r_IIIF,FROM-him,"Data in bologna adi 30 Junij 1533; signed G. spataro; contrapunto/trattato; +15m; iiif_keep/251r.jpg"
+spataro_giovanni,1533-07-30,music_theory_letter,CMBM_Epv.Spataro.2_inv27264,FROM-him,"Spataro→Del Lago Bologna; theory notation; CMBM verified; +15.8m"
+spataro_giovanni,1533-08-29,music_theory_letter,BAV_Vat.lat.5318_fol.248v_IIIF,FROM-him,"29 augusti 1533; signed J. spataro; +16.8m; iiif_keep/248v.jpg"
+spataro_giovanni,1533-10-30,music_theory_letter,BAV_Vat.lat.5318_fol.129v_IIIF,FROM-him,"Da Bologna alli 30 Ottob. 1533; signed Spataro; +18.8m; iiif_keep/129v.jpg"

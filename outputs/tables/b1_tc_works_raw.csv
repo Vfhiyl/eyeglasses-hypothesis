@@ -1,0 +1,822 @@
+qid,work,year,person_id,name,birth_year,death_year,evidence_year,occupation_class,group,cohort,plausible
+Q101437,Q992710,1600,,Pius II,1405.0,1464.0,,,control,writer_poet_1380_1420,False
+Q123085,Q2057626,1486,,Juliana Berners,1388.0,1500.0,,,control,writer_poet_1380_1420,True
+Q101437,Q2967342,1500,,Pius II,1405.0,1464.0,,,control,writer_poet_1380_1420,False
+Q101437,Q7767985,1444,,Pius II,1405.0,1464.0,,,control,writer_poet_1380_1420,True
+Q101437,Q20850661,1500,,Pius II,1405.0,1464.0,,,control,writer_poet_1380_1420,False
+Q123085,Q29386064,1903,,Juliana Berners,1388.0,1500.0,,,control,writer_poet_1380_1420,False
+Q108124,Q43516994,1500,,Heinrich Steinhöwel,1412.0,1482.0,,,control,writer_poet_1380_1420,False
+Q123085,Q51439563,1875,,Juliana Berners,1388.0,1500.0,,,control,writer_poet_1380_1420,False
+Q123085,Q51439560,1875,,Juliana Berners,1388.0,1500.0,,,control,writer_poet_1380_1420,False
+Q123085,Q51513523,1883,,Juliana Berners,1388.0,1500.0,,,control,writer_poet_1380_1420,False
+Q101437,Q54850082,1500,,Pius II,1405.0,1464.0,,,control,writer_poet_1380_1420,False
+Q1232642,Q56677515,1452,bianca_maria,Bianca Maria Visconti,1425.0,1468.0,1462.0,duchess_ruler,treatment,,True
+Q101437,Q114029065,1458,,Pius II,1405.0,1464.0,,,control,writer_poet_1380_1420,True
+Q108124,Q120164186,1500,,Heinrich Steinhöwel,1412.0,1482.0,,,control,writer_poet_1380_1420,False
+Q108124,Q120164186,1474,,Heinrich Steinhöwel,1412.0,1482.0,,,control,writer_poet_1380_1420,True
+Q116695,Q121920968,1974,,Milíč of Kroměříž,1320.0,1374.0,,,control,writer_poet_1290_1320,False
+Q116695,Q121932369,1948,,Milíč of Kroměříž,1320.0,1374.0,,,control,writer_poet_1290_1320,False
+Q116671,Q121938721,1926,,Klaret,1320.0,1370.0,,,control,writer_poet_1290_1320,False
+Q101437,Q122092100,2001,,Pius II,1405.0,1464.0,,,control,writer_poet_1380_1420,False
+Q108124,Q123169211,1477,,Heinrich Steinhöwel,1412.0,1482.0,,,control,writer_poet_1380_1420,True
+Q101437,Q125338258,1500,,Pius II,1405.0,1464.0,,,control,writer_poet_1380_1420,False
+Q108124,Q126885308,1500,,Heinrich Steinhöwel,1412.0,1482.0,,,control,writer_poet_1380_1420,False
+Q108124,Q126885378,1500,,Heinrich Steinhöwel,1412.0,1482.0,,,control,writer_poet_1380_1420,False
+Q108124,Q126885613,1500,,Heinrich Steinhöwel,1412.0,1482.0,,,control,writer_poet_1380_1420,False
+Q108124,Q126886370,1471,,Heinrich Steinhöwel,1412.0,1482.0,,,control,writer_poet_1380_1420,True
+Q108124,Q126886375,1473,,Heinrich Steinhöwel,1412.0,1482.0,,,control,writer_poet_1380_1420,True
+Q108124,Q126886381,1473,,Heinrich Steinhöwel,1412.0,1482.0,,,control,writer_poet_1380_1420,True
+Q101437,Q131786638,1500,,Pius II,1405.0,1464.0,,,control,writer_poet_1380_1420,False
+Q101437,Q131786649,1458,,Pius II,1405.0,1464.0,,,control,writer_poet_1380_1420,True
+Q101437,Q131786661,1500,,Pius II,1405.0,1464.0,,,control,writer_poet_1380_1420,False
+Q101437,Q131921737,1500,,Pius II,1405.0,1464.0,,,control,writer_poet_1380_1420,False
+Q101437,Q131921751,1444,,Pius II,1405.0,1464.0,,,control,writer_poet_1380_1420,True
+Q101437,Q131921891,1443,,Pius II,1405.0,1464.0,,,control,writer_poet_1380_1420,True
+Q101437,Q131921907,1444,,Pius II,1405.0,1464.0,,,control,writer_poet_1380_1420,True
+Q101437,Q135111988,1500,,Pius II,1405.0,1464.0,,,control,writer_poet_1380_1420,False
+Q101437,Q135161440,1500,,Pius II,1405.0,1464.0,,,control,writer_poet_1380_1420,False
+Q101437,Q136213284,1487,,Pius II,1405.0,1464.0,,,control,writer_poet_1380_1420,False
+Q101437,Q136213293,1463,,Pius II,1405.0,1464.0,,,control,writer_poet_1380_1420,True
+Q101437,Q137554067,1479,,Pius II,1405.0,1464.0,,,control,writer_poet_1380_1420,False
+Q1401,Q383855,1339,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,True
+Q1401,Q425606,1337,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,True
+Q1401,Q777574,1336,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,True
+Q1401,Q995950,1325,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,True
+Q1401,Q1094598,1400,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q1094908,1351,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,True
+Q1402,Q1169267,1362,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,True
+Q154751,Q1180601,1433,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,True
+Q154751,Q1180614,1440,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,True
+Q1402,Q1402912,1337,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,True
+Q1401,Q3237726,1400,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1402,Q3614628,1343,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,True
+Q1401,Q3646317,1346,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,True
+Q1401,Q3704141,1347,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,True
+Q1401,Q3704161,1360,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,True
+Q1401,Q3704182,1346,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,True
+Q1402,Q3721314,1344,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,True
+Q1402,Q3759459,1360,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,True
+Q1402,Q3792638,1365,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,True
+Q1401,Q3800903,1355,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,True
+Q1401,Q3800901,1369,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,True
+Q1401,Q3933307,1350,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,True
+Q1402,Q3984953,1339,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,True
+Q1402,Q5244311,1373,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,True
+Q154751,Q5244595,1463,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,True
+Q1402,Q16681040,1400,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q19133975,1334,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,True
+Q1402,Q20630337,1373,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,True
+Q1402,Q24036748,1367,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,True
+Q1401,Q123483277,1358,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,True
+Q1401,Q123483349,1355,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,True
+Q1401,Q123483393,1400,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q154751,Q131840818,1458,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,True
+Q1402,Q137640314,1333,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,True
+Q154751,Q137706949,1436,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,True
+Q154751,Q137706954,1445,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,True
+Q154751,Q137706955,1445,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,True
+Q154751,Q137706952,1445,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,True
+Q154751,Q137706953,1445,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,True
+Q154751,Q137706958,1449,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,True
+Q154751,Q137706956,1446,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,True
+Q154751,Q137706957,1447,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,True
+Q154751,Q137706962,1450,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,True
+Q154751,Q137706967,1453,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,True
+Q154751,Q137706964,1450,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,True
+Q154751,Q137706970,1500,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,False
+Q154751,Q137706970,1453,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,True
+Q154751,Q137706971,1454,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,True
+Q154751,Q137706969,1453,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,True
+Q154751,Q137706975,1457,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,True
+Q154751,Q137706978,1459,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,True
+Q154751,Q137706977,1459,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,True
+Q154751,Q137706983,1461,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,True
+Q154751,Q137706980,1460,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,True
+Q154751,Q137706981,1460,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,True
+Q154751,Q137706984,1462,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,True
+Q154751,Q137706988,1464,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,True
+Q154751,Q139395081,1434,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,True
+Q154751,Q139396462,1442,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,True
+Q154751,Q139396593,1441,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,True
+Q154751,Q139398656,1463,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,True
+Q154751,Q139401434,1462,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,True
+Q1402,Q16438,1351,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,True
+Q1401,Q779955,1340,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,True
+Q1402,Q3527393,1460,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q3649284,1334,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,True
+Q1401,Q3704170,1368,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,True
+Q1401,Q3730658,1331,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,True
+Q1401,Q3730657,1352,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,True
+Q1401,Q3731066,1400,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1402,Q3745486,1336,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,True
+Q1401,Q3804209,1344,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,True
+Q1402,Q3877086,1344,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,True
+Q1401,Q3964389,1337,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,True
+Q1402,Q19128469,1830,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q19156453,1834,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q19194167,1869,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1401,Q19213185,1883,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q19214118,1883,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q19223434,1804,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q19223437,1804,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q19223443,1804,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q19223440,1804,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q19223445,1804,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q19223448,1804,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q19223455,1804,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q19223452,1804,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q19223458,1804,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q19223463,1804,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q19223461,1804,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q19223467,1804,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q19223465,1804,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q19223475,1804,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q19223472,1804,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q19223479,1804,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q19223476,1804,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q19223482,1804,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q19223486,1804,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q19223488,1804,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q19223495,1804,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q19223492,1804,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q19223498,1804,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q19223501,1804,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q19223505,1804,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q19223508,1804,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q19223514,1804,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q19223512,1804,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q19223516,1804,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q19223523,1804,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q19223520,1804,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q19223526,1804,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q19223530,1804,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q19223535,1804,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q19223532,1804,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q19223538,1804,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q19525589,1891,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1402,Q30715567,1434,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q40480535,1873,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q40480535,1872,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q40480535,1869,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q40480535,1868,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q40480535,1867,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q40480535,1866,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q40480535,1865,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q41529369,1884,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q42187050,1343,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,True
+Q1402,Q43168698,1897,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1401,Q56513252,1898,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q80112327,1899,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q86522713,1500,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q96188155,1964,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q102132068,1854,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q105269383,1854,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q105714827,1910,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q140267986,1374,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,True
+Q1401,Q140267987,1374,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,True
+Q1401,Q140267985,1374,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,True
+Q1401,Q117794381,1880,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q121954435,2014,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q122029520,1967,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q122135617,2022,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q123490849,1910,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q123932795,1500,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q124639540,1910,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q124639554,1739,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q124639826,1964,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q124869930,1503,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133262571,1964,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133262626,1739,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133262892,1964,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133263719,1400,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133263754,1964,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133269255,1400,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133269258,1964,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133269267,1739,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133269321,1400,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133269373,1964,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133270281,1400,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133270331,1910,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133270392,1964,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133270582,1400,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133270623,1964,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133275287,1400,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133275304,1964,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133275431,1400,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133275469,1964,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133296943,1400,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133296960,1964,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133296971,1964,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133296981,1400,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133372667,1400,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133373753,1964,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133374261,1400,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133374349,1964,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133400678,1400,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133444090,1964,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133444151,1400,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133444179,1964,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133444224,1400,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133444282,1964,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133444309,1400,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133444318,1964,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133454603,1400,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133454607,1964,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133454685,1400,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133454711,1964,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133467810,1500,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133501973,1400,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133501980,1964,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133502127,1400,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133502137,1964,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133537957,1400,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133537969,1964,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133538015,1400,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133538118,1400,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133539570,1400,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133539581,1964,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133539686,1400,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133795725,1964,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133795900,1400,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q133796034,1997,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q134127157,1336,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,True
+Q1401,Q135003255,1500,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q135004022,1500,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q135944460,1548,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q136282282,1500,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q136287287,1500,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q137222834,1351,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,True
+Q1401,Q137927547,1378,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1401,Q139935826,1819,petrarch,Francesco Petrarca,1304.0,1374.0,1364.0,humanist_scholar,treatment,,False
+Q1402,Q120164186,1500,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q120164186,1474,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q121921000,1959,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q43306049,1353,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,True
+Q1402,Q43306067,1450,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q43306082,1350,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,True
+Q1402,Q43517456,1860,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q44082253,1945,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q50924614,1938,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q50929361,2013,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q50929882,2017,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q50930183,2014,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q50930496,2013,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q54555014,1401,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q57315759,1539,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q155669,Q58186508,1741,,Charles IV,1316.0,1378.0,,,control,writer_poet_1290_1320,False
+Q155669,Q58187290,1741,,Charles IV,1316.0,1378.0,,,control,writer_poet_1290_1320,False
+Q1402,Q65525483,1861,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q71736142,1342,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,True
+Q1402,Q80977948,1930,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q86673964,1339,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,True
+Q1402,Q87442870,2019,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q105264225,1928,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q155669,Q105760738,1909,,Charles IV,1316.0,1378.0,,,control,writer_poet_1290_1320,False
+Q155669,Q11903437,1340,,Charles IV,1316.0,1378.0,,,control,writer_poet_1290_1320,True
+Q155669,Q19194135,1908,,Charles IV,1316.0,1378.0,,,control,writer_poet_1290_1320,False
+Q155669,Q19194132,1908,,Charles IV,1316.0,1378.0,,,control,writer_poet_1290_1320,False
+Q155669,Q19208979,1908,,Charles IV,1316.0,1378.0,,,control,writer_poet_1290_1320,False
+Q155669,Q19211627,1908,,Charles IV,1316.0,1378.0,,,control,writer_poet_1290_1320,False
+Q155669,Q19214823,1877,,Charles IV,1316.0,1378.0,,,control,writer_poet_1290_1320,False
+Q155669,Q19215205,1908,,Charles IV,1316.0,1378.0,,,control,writer_poet_1290_1320,False
+Q155669,Q19215211,1908,,Charles IV,1316.0,1378.0,,,control,writer_poet_1290_1320,False
+Q155669,Q19215209,1908,,Charles IV,1316.0,1378.0,,,control,writer_poet_1290_1320,False
+Q155669,Q19215214,1908,,Charles IV,1316.0,1378.0,,,control,writer_poet_1290_1320,False
+Q155669,Q19216757,1877,,Charles IV,1316.0,1378.0,,,control,writer_poet_1290_1320,False
+Q155669,Q19216762,1877,,Charles IV,1316.0,1378.0,,,control,writer_poet_1290_1320,False
+Q155669,Q19216760,1877,,Charles IV,1316.0,1378.0,,,control,writer_poet_1290_1320,False
+Q155669,Q19216766,1877,,Charles IV,1316.0,1378.0,,,control,writer_poet_1290_1320,False
+Q155669,Q19216770,1877,,Charles IV,1316.0,1378.0,,,control,writer_poet_1290_1320,False
+Q155669,Q19216774,1877,,Charles IV,1316.0,1378.0,,,control,writer_poet_1290_1320,False
+Q155669,Q19216779,1877,,Charles IV,1316.0,1378.0,,,control,writer_poet_1290_1320,False
+Q155669,Q19216781,1877,,Charles IV,1316.0,1378.0,,,control,writer_poet_1290_1320,False
+Q155669,Q19223544,1908,,Charles IV,1316.0,1378.0,,,control,writer_poet_1290_1320,False
+Q155669,Q19223548,1908,,Charles IV,1316.0,1378.0,,,control,writer_poet_1290_1320,False
+Q155669,Q19224159,1908,,Charles IV,1316.0,1378.0,,,control,writer_poet_1290_1320,False
+Q155669,Q19224156,1908,,Charles IV,1316.0,1378.0,,,control,writer_poet_1290_1320,False
+Q155669,Q19224161,1908,,Charles IV,1316.0,1378.0,,,control,writer_poet_1290_1320,False
+Q155669,Q19224167,1908,,Charles IV,1316.0,1378.0,,,control,writer_poet_1290_1320,False
+Q155669,Q19224164,1908,,Charles IV,1316.0,1378.0,,,control,writer_poet_1290_1320,False
+Q155669,Q19224165,1908,,Charles IV,1316.0,1378.0,,,control,writer_poet_1290_1320,False
+Q155669,Q19224169,1908,,Charles IV,1316.0,1378.0,,,control,writer_poet_1290_1320,False
+Q155669,Q19224172,1908,,Charles IV,1316.0,1378.0,,,control,writer_poet_1290_1320,False
+Q155669,Q19224400,1713,,Charles IV,1316.0,1378.0,,,control,writer_poet_1290_1320,False
+Q155669,Q19224503,1877,,Charles IV,1316.0,1378.0,,,control,writer_poet_1290_1320,False
+Q155669,Q19224583,1908,,Charles IV,1316.0,1378.0,,,control,writer_poet_1290_1320,False
+Q155669,Q19232442,1908,,Charles IV,1316.0,1378.0,,,control,writer_poet_1290_1320,False
+Q155669,Q19232445,1908,,Charles IV,1316.0,1378.0,,,control,writer_poet_1290_1320,False
+Q1402,Q43306004,1350,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,True
+Q1402,Q121924587,1929,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q121925220,1919,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q121934294,1940,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q155669,Q121934560,1941,,Charles IV,1316.0,1378.0,,,control,writer_poet_1290_1320,False
+Q1402,Q121939008,1930,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q121942860,2002,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q155669,Q121945296,1985,,Charles IV,1316.0,1378.0,,,control,writer_poet_1290_1320,False
+Q1402,Q121945572,2007,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q155669,Q121978201,2016,,Charles IV,1316.0,1378.0,,,control,writer_poet_1290_1320,False
+Q1402,Q122036365,1938,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q122093013,1901,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q123302008,1342,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,True
+Q1402,Q124357995,1521,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q124358048,1525,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q124358049,1525,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q125881117,1542,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q126885308,1500,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q126889111,1446,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q127418780,1414,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q127418857,1409,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q127418871,1409,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q130638130,1457,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q154751,Q131836890,1565,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,False
+Q154751,Q131840751,1565,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,False
+Q1402,Q133698864,1500,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q134390804,2012,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q134409114,1400,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q134451343,1400,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q134469915,1400,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q134469951,1400,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q135009347,1500,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q135009838,1500,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q135642838,2001,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q137629626,1500,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q154751,Q137706950,1441,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,True
+Q154751,Q137706951,1442,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,True
+Q154751,Q137706959,1449,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,True
+Q154751,Q137706963,1450,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,True
+Q154751,Q137706961,1450,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,True
+Q154751,Q137706966,1452,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,True
+Q154751,Q137706965,1450,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,True
+Q154751,Q137706974,1457,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,True
+Q154751,Q137706972,1454,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,True
+Q154751,Q137706973,1454,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,True
+Q154751,Q137706979,1459,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,True
+Q154751,Q137706976,1458,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,True
+Q154751,Q137706986,1463,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,True
+Q154751,Q137706987,1463,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,True
+Q154751,Q137706985,1462,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,True
+Q154751,Q137706990,1433,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,True
+Q154751,Q137712893,1450,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,True
+Q154751,Q137712980,1457,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,True
+Q1402,Q138453367,1770,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q1402,Q138507554,2003,,Giovanni Boccaccio,1313.0,1375.0,,,control,writer_poet_1290_1320,False
+Q154751,Q139398529,1500,,Nicholas of Cusa,1401.0,1464.0,,,control,writer_poet_1380_1420,False
+Q200580,Q114841795,1400,,Guillaume de Machaut,1300.0,1377.0,,,control,writer_poet_1290_1320,False
+Q182046,Q923702,1451,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,True
+Q182046,Q1077624,1485,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,False
+Q182046,Q1268593,1750,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,False
+Q182046,Q1268593,1401,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,False
+Q182046,Q1581882,1472,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,True
+Q170863,Q2494335,1343,,Clement VI,1291.0,1352.0,,,control,writer_poet_1290_1320,True
+Q182046,Q3020472,1436,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,True
+Q200580,Q3140417,1400,,Guillaume de Machaut,1300.0,1377.0,,,control,writer_poet_1290_1320,False
+Q182046,Q3584552,1401,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,False
+Q200580,Q3594175,1400,,Guillaume de Machaut,1300.0,1377.0,,,control,writer_poet_1290_1320,False
+Q182046,Q3665169,1441,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,True
+Q182046,Q3703923,1462,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,True
+Q182046,Q3704168,1564,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,False
+Q182046,Q3839059,1450,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,True
+Q200580,Q3932535,1400,,Guillaume de Machaut,1300.0,1377.0,,,control,writer_poet_1290_1320,False
+Q170863,Q17633097,1343,,Clement VI,1291.0,1352.0,,,control,writer_poet_1290_1320,True
+Q204996,Q19019250,1940,,Bridget of Sweden,1303.0,1373.0,,,control,writer_poet_1290_1320,False
+Q182046,Q19126611,1960,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,False
+Q182046,Q19128133,1966,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,False
+Q182046,Q19129517,1973,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,False
+Q182046,Q19129659,1973,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,False
+Q182046,Q19129790,1966,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,False
+Q182046,Q19130569,1973,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,False
+Q182046,Q19130821,1960,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,False
+Q182046,Q19132212,1973,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,False
+Q182046,Q19135833,1973,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,False
+Q182046,Q19136174,1973,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,False
+Q182046,Q19138536,1966,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,False
+Q182046,Q19139965,1966,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,False
+Q182046,Q19140847,1966,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,False
+Q182046,Q19140971,1973,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,False
+Q182046,Q19141815,1966,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,False
+Q182046,Q19143671,1973,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,False
+Q182046,Q19144198,1500,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,False
+Q200580,Q19176152,1400,,Guillaume de Machaut,1300.0,1377.0,,,control,writer_poet_1290_1320,False
+Q182046,Q21328967,1440,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,True
+Q182046,Q21522565,1782,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,False
+Q200580,Q42197402,1400,,Guillaume de Machaut,1300.0,1377.0,,,control,writer_poet_1290_1320,False
+Q182046,Q65129967,1440,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,True
+Q182046,Q96352482,1401,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,False
+Q204996,Q100977254,2004,,Bridget of Sweden,1303.0,1373.0,,,control,writer_poet_1290_1320,False
+Q204996,Q102457940,2002,,Bridget of Sweden,1303.0,1373.0,,,control,writer_poet_1290_1320,False
+Q204996,Q102461232,1957,,Bridget of Sweden,1303.0,1373.0,,,control,writer_poet_1290_1320,False
+Q204996,Q102461239,1959,,Bridget of Sweden,1303.0,1373.0,,,control,writer_poet_1290_1320,False
+Q204996,Q102461846,1958,,Bridget of Sweden,1303.0,1373.0,,,control,writer_poet_1290_1320,False
+Q204996,Q102461882,2001,,Bridget of Sweden,1303.0,1373.0,,,control,writer_poet_1290_1320,False
+Q204996,Q102461930,1998,,Bridget of Sweden,1303.0,1373.0,,,control,writer_poet_1290_1320,False
+Q204996,Q102473025,1991,,Bridget of Sweden,1303.0,1373.0,,,control,writer_poet_1290_1320,False
+Q204996,Q102473924,2000,,Bridget of Sweden,1303.0,1373.0,,,control,writer_poet_1290_1320,False
+Q204996,Q102477219,2016,,Bridget of Sweden,1303.0,1373.0,,,control,writer_poet_1290_1320,False
+Q204996,Q102477220,2014,,Bridget of Sweden,1303.0,1373.0,,,control,writer_poet_1290_1320,False
+Q204996,Q102484266,1991,,Bridget of Sweden,1303.0,1373.0,,,control,writer_poet_1290_1320,False
+Q204996,Q102484275,1972,,Bridget of Sweden,1303.0,1373.0,,,control,writer_poet_1290_1320,False
+Q182046,Q105724464,1916,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,False
+Q182046,Q111623970,1550,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,False
+Q200580,Q114833965,1400,,Guillaume de Machaut,1300.0,1377.0,,,control,writer_poet_1290_1320,False
+Q200580,Q114833991,1400,,Guillaume de Machaut,1300.0,1377.0,,,control,writer_poet_1290_1320,False
+Q200580,Q114841691,1400,,Guillaume de Machaut,1300.0,1377.0,,,control,writer_poet_1290_1320,False
+Q200580,Q114841688,1400,,Guillaume de Machaut,1300.0,1377.0,,,control,writer_poet_1290_1320,False
+Q200580,Q114841700,1400,,Guillaume de Machaut,1300.0,1377.0,,,control,writer_poet_1290_1320,False
+Q200580,Q114841705,1400,,Guillaume de Machaut,1300.0,1377.0,,,control,writer_poet_1290_1320,False
+Q200580,Q114841731,1400,,Guillaume de Machaut,1300.0,1377.0,,,control,writer_poet_1290_1320,False
+Q200580,Q114841754,1400,,Guillaume de Machaut,1300.0,1377.0,,,control,writer_poet_1290_1320,False
+Q200580,Q114841761,1400,,Guillaume de Machaut,1300.0,1377.0,,,control,writer_poet_1290_1320,False
+Q200580,Q114841766,1400,,Guillaume de Machaut,1300.0,1377.0,,,control,writer_poet_1290_1320,False
+Q200580,Q114841776,1400,,Guillaume de Machaut,1300.0,1377.0,,,control,writer_poet_1290_1320,False
+Q200580,Q114841782,1400,,Guillaume de Machaut,1300.0,1377.0,,,control,writer_poet_1290_1320,False
+Q200580,Q114841787,1400,,Guillaume de Machaut,1300.0,1377.0,,,control,writer_poet_1290_1320,False
+Q204996,Q102487707,1400,,Bridget of Sweden,1303.0,1373.0,,,control,writer_poet_1290_1320,False
+Q204996,Q102489766,1975,,Bridget of Sweden,1303.0,1373.0,,,control,writer_poet_1290_1320,False
+Q204996,Q102490631,1992,,Bridget of Sweden,1303.0,1373.0,,,control,writer_poet_1290_1320,False
+Q204996,Q102491321,1978,,Bridget of Sweden,1303.0,1373.0,,,control,writer_poet_1290_1320,False
+Q204996,Q102492154,1958,,Bridget of Sweden,1303.0,1373.0,,,control,writer_poet_1290_1320,False
+Q204996,Q102492250,1971,,Bridget of Sweden,1303.0,1373.0,,,control,writer_poet_1290_1320,False
+Q204996,Q102492384,1967,,Bridget of Sweden,1303.0,1373.0,,,control,writer_poet_1290_1320,False
+Q204996,Q102494587,1956,,Bridget of Sweden,1303.0,1373.0,,,control,writer_poet_1290_1320,False
+Q204996,Q102494679,1961,,Bridget of Sweden,1303.0,1373.0,,,control,writer_poet_1290_1320,False
+Q204996,Q102495124,1991,,Bridget of Sweden,1303.0,1373.0,,,control,writer_poet_1290_1320,False
+Q200580,Q114841803,1400,,Guillaume de Machaut,1300.0,1377.0,,,control,writer_poet_1290_1320,False
+Q182046,Q120647680,1868,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,False
+Q182046,Q121932209,1947,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,False
+Q182046,Q123518075,1916,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,False
+Q182046,Q123518078,1916,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,False
+Q182046,Q126338936,1966,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,False
+Q182046,Q126339770,1966,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,False
+Q182046,Q126341299,1966,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,False
+Q182046,Q126361544,1960,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,False
+Q182046,Q126361648,1973,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,False
+Q182046,Q126361720,1960,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,False
+Q182046,Q126361742,1973,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,False
+Q182046,Q126361773,1973,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,False
+Q182046,Q126363662,1947,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,False
+Q182046,Q126363710,1782,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,False
+Q182046,Q126363711,1782,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,False
+Q182046,Q126363713,1782,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,False
+Q182046,Q126366099,1443,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,True
+Q204996,Q137160636,1492,,Bridget of Sweden,1303.0,1373.0,,,control,writer_poet_1290_1320,False
+Q204996,Q137172239,1951,,Bridget of Sweden,1303.0,1373.0,,,control,writer_poet_1290_1320,False
+Q204996,Q137638383,1500,,Bridget of Sweden,1303.0,1373.0,,,control,writer_poet_1290_1320,False
+Q182046,Q138662233,1991,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,False
+Q182046,Q140602834,1811,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,False
+Q182046,Q51175,2001,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,False
+Q182046,Q51175,1458,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,True
+Q182046,Q51175,1278,,Leon Battista Alberti,1404.0,1472.0,,,control,writer_poet_1380_1420,False
+Q220976,Q670350,1418,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,True
+Q24766,Q3257249,1356,,John Mandeville,1300.0,1372.0,,,control,writer_poet_1290_1320,True
+Q214115,Q3822227,1442,,Lorenzo Valla,1407.0,1457.0,,,control,writer_poet_1380_1420,True
+Q214115,Q42188162,1500,,Lorenzo Valla,1407.0,1457.0,,,control,writer_poet_1380_1420,False
+Q214115,Q127603730,1500,,Lorenzo Valla,1407.0,1457.0,,,control,writer_poet_1380_1420,False
+Q214115,Q127603816,1500,,Lorenzo Valla,1407.0,1457.0,,,control,writer_poet_1380_1420,False
+Q214115,Q127603951,1500,,Lorenzo Valla,1407.0,1457.0,,,control,writer_poet_1380_1420,False
+Q214115,Q127606570,1452,,Lorenzo Valla,1407.0,1457.0,,,control,writer_poet_1380_1420,True
+Q24766,Q131526992,1400,,John Mandeville,1300.0,1372.0,,,control,writer_poet_1290_1320,False
+Q220976,Q134608215,1500,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q220976,Q134608310,1500,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q220976,Q134608318,1500,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q220976,Q134608322,1500,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q220976,Q134608324,1500,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q220976,Q134608335,1500,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q220976,Q134608338,1500,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q220976,Q134608346,1500,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q220976,Q134608344,1500,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q220976,Q134608349,1500,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q220976,Q134608383,1500,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q220976,Q134608425,1500,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q220976,Q134608433,1500,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q220976,Q134608443,1500,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q220976,Q134608471,1500,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q220976,Q134608495,1500,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q220976,Q134608614,1500,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q220976,Q134608648,1500,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q220976,Q134608681,1500,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q220976,Q134608786,1500,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q214115,Q135658394,1500,,Lorenzo Valla,1407.0,1457.0,,,control,writer_poet_1380_1420,False
+Q214115,Q6680849,1440,,Lorenzo Valla,1407.0,1457.0,,,control,writer_poet_1380_1420,True
+Q243787,Q7839914,1350,,Gregory Palamas,1296.0,1359.0,,,control,writer_poet_1290_1320,True
+Q220976,Q55850745,1775,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q220976,Q60394397,1901,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q220976,Q79266745,1908,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q220976,Q107315254,1862,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q24766,Q111710922,1400,,John Mandeville,1300.0,1372.0,,,control,writer_poet_1290_1320,False
+Q220976,Q113209923,1932,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q220976,Q119586330,1854,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q220976,Q121917816,1921,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q220976,Q121917817,1911,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q220976,Q121924171,1930,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q220976,Q121924775,1913,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q220976,Q121941103,1947,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q24766,Q121945473,1912,,John Mandeville,1300.0,1372.0,,,control,writer_poet_1290_1320,False
+Q220976,Q121963493,1900,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q220976,Q121964125,1879,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q220976,Q121964309,1864,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q220976,Q121967104,2015,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q220976,Q121970011,2015,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q220976,Q122001125,1902,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q220976,Q122021169,1934,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q220976,Q122037092,1887,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q220976,Q122094489,1931,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q214115,Q122114811,2021,,Lorenzo Valla,1407.0,1457.0,,,control,writer_poet_1380_1420,False
+Q220976,Q126692477,1494,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q220976,Q131310609,1890,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q24766,Q131539105,1500,,John Mandeville,1300.0,1372.0,,,control,writer_poet_1290_1320,False
+Q220976,Q131566717,1406,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,True
+Q214115,Q133467755,1500,,Lorenzo Valla,1407.0,1457.0,,,control,writer_poet_1380_1420,False
+Q220976,Q133886433,1500,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q220976,Q134438857,1500,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q220976,Q134439803,1500,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q220976,Q134439818,1500,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q220976,Q134439838,1500,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q220976,Q134608123,1500,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q220976,Q134608167,1500,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q220976,Q136032401,1909,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q220976,Q136333290,1880,,Thomas à Kempis,1380.0,1471.0,,,control,writer_poet_1380_1420,False
+Q24766,Q136749827,1500,,John Mandeville,1300.0,1372.0,,,control,writer_poet_1290_1320,False
+Q214115,Q136805613,1500,,Lorenzo Valla,1407.0,1457.0,,,control,writer_poet_1380_1420,False
+Q24766,Q139564577,1500,,John Mandeville,1300.0,1372.0,,,control,writer_poet_1290_1320,False
+Q275500,Q64624685,1301,,Jean Buridan,1295.0,1358.0,,,control,writer_poet_1290_1320,False
+Q28779,Q64829409,1437,,"Íñigo López de Mendoza, 1st Marquis of Santillana",1398.0,1458.0,,,control,writer_poet_1380_1420,True
+Q28779,Q64829413,1799,,"Íñigo López de Mendoza, 1st Marquis of Santillana",1398.0,1458.0,,,control,writer_poet_1380_1420,False
+Q28779,Q133506100,1874,,"Íñigo López de Mendoza, 1st Marquis of Santillana",1398.0,1458.0,,,control,writer_poet_1380_1420,False
+Q28779,Q138505230,1500,,"Íñigo López de Mendoza, 1st Marquis of Santillana",1398.0,1458.0,,,control,writer_poet_1380_1420,False
+Q28779,Q138505248,1500,,"Íñigo López de Mendoza, 1st Marquis of Santillana",1398.0,1458.0,,,control,writer_poet_1380_1420,False
+Q28779,Q138505261,1500,,"Íñigo López de Mendoza, 1st Marquis of Santillana",1398.0,1458.0,,,control,writer_poet_1380_1420,False
+Q28779,Q138505267,1500,,"Íñigo López de Mendoza, 1st Marquis of Santillana",1398.0,1458.0,,,control,writer_poet_1380_1420,False
+Q28779,Q138505269,1500,,"Íñigo López de Mendoza, 1st Marquis of Santillana",1398.0,1458.0,,,control,writer_poet_1380_1420,False
+Q310973,Q369350,1505,lotto,Lorenzo Lotto,1480.0,1556.0,1540.0,painter,treatment,,True
+Q310973,Q605863,1530,lotto,Lorenzo Lotto,1480.0,1556.0,1540.0,painter,treatment,,True
+Q310973,Q649875,1517,lotto,Lorenzo Lotto,1480.0,1556.0,1540.0,painter,treatment,,True
+Q309907,Q1136104,1485,,Thomas Malory,1405.0,1471.0,,,control,writer_poet_1380_1420,False
+Q310973,Q3605564,1523,lotto,Lorenzo Lotto,1480.0,1556.0,1540.0,painter,treatment,,True
+Q310973,Q3657381,1524,lotto,Lorenzo Lotto,1480.0,1556.0,1540.0,painter,treatment,,True
+Q310973,Q3910913,1552,lotto,Lorenzo Lotto,1480.0,1556.0,1540.0,painter,treatment,,True
+Q310973,Q3937550,1547,lotto,Lorenzo Lotto,1480.0,1556.0,1540.0,painter,treatment,,True
+Q310973,Q3937598,1520,lotto,Lorenzo Lotto,1480.0,1556.0,1540.0,painter,treatment,,True
+Q310973,Q3937702,1526,lotto,Lorenzo Lotto,1480.0,1556.0,1540.0,painter,treatment,,True
+Q310973,Q3947723,1527,lotto,Lorenzo Lotto,1480.0,1556.0,1540.0,painter,treatment,,True
+Q312551,Q4907152,1500,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,True
+Q312551,Q19087557,1915,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q299446,Q42191376,1469,,Basilios Bessarion,1403.0,1472.0,,,control,writer_poet_1380_1420,True
+Q311766,Q96313549,1400,,Philippe de Vitry,1291.0,1361.0,,,control,writer_poet_1290_1320,False
+Q312551,Q108678477,2019,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108957122,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108957125,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108957131,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108957128,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108957134,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108957137,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108957143,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108957140,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108957146,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108957151,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108957149,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108957154,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108957158,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108957156,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108957163,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108957165,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108957171,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108957168,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108957174,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108957177,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108957183,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108957180,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108957186,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108957189,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108957195,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108957192,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108957198,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108957201,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108957207,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108957204,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108957210,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108979798,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108979802,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108979800,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108979806,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108979804,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108979810,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108979808,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108979814,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108979815,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108979812,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108979817,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108979823,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108979820,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108979821,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108979827,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108979825,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108979831,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108979829,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108979835,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108979833,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108979839,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108979837,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108979842,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108979846,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108979844,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108979850,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108979854,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108979852,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108979858,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108979856,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108979862,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108979860,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108979866,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108979864,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108979870,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108979868,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108979874,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108979872,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108979879,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108979877,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108979883,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108979881,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108979886,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108979884,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108999132,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108999136,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108999143,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108999140,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108999146,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q310146,Q121363353,1500,,"Charles I, Duke of Orléans",1394.0,1465.0,,,control,writer_poet_1380_1420,False
+Q310146,Q121940078,1405,,"Charles I, Duke of Orléans",1394.0,1465.0,,,control,writer_poet_1380_1420,False
+Q310146,Q121940383,1500,,"Charles I, Duke of Orléans",1394.0,1465.0,,,control,writer_poet_1380_1420,False
+Q310146,Q121940506,1456,,"Charles I, Duke of Orléans",1394.0,1465.0,,,control,writer_poet_1380_1420,True
+Q310146,Q121940630,1500,,"Charles I, Duke of Orléans",1394.0,1465.0,,,control,writer_poet_1380_1420,False
+Q310146,Q121940759,1500,,"Charles I, Duke of Orléans",1394.0,1465.0,,,control,writer_poet_1380_1420,False
+Q310146,Q121940905,1500,,"Charles I, Duke of Orléans",1394.0,1465.0,,,control,writer_poet_1380_1420,False
+Q310146,Q121941018,1500,,"Charles I, Duke of Orléans",1394.0,1465.0,,,control,writer_poet_1380_1420,False
+Q310146,Q126326769,1867,,"Charles I, Duke of Orléans",1394.0,1465.0,,,control,writer_poet_1380_1420,False
+Q310973,Q131557854,1526,lotto,Lorenzo Lotto,1480.0,1556.0,1540.0,painter,treatment,,True
+Q310973,Q131613743,1603,lotto,Lorenzo Lotto,1480.0,1556.0,1540.0,painter,treatment,,False
+Q310973,Q131613887,1529,lotto,Lorenzo Lotto,1480.0,1556.0,1540.0,painter,treatment,,True
+Q311766,Q133482002,1400,,Philippe de Vitry,1291.0,1361.0,,,control,writer_poet_1290_1320,False
+Q311766,Q133482342,1400,,Philippe de Vitry,1291.0,1361.0,,,control,writer_poet_1290_1320,False
+Q311766,Q133482933,1400,,Philippe de Vitry,1291.0,1361.0,,,control,writer_poet_1290_1320,False
+Q299446,Q133888924,1464,,Basilios Bessarion,1403.0,1472.0,,,control,writer_poet_1380_1420,True
+Q312458,Q138048437,1756,,Jami,1414.0,1492.0,,,control,writer_poet_1380_1420,False
+Q310146,Q138332979,1500,,"Charles I, Duke of Orléans",1394.0,1465.0,,,control,writer_poet_1380_1420,False
+Q309907,Q138507049,1970,,Thomas Malory,1405.0,1471.0,,,control,writer_poet_1380_1420,False
+Q309907,Q138561819,1999,,Thomas Malory,1405.0,1471.0,,,control,writer_poet_1380_1420,False
+Q310146,Q2881067,1458,,"Charles I, Duke of Orléans",1394.0,1465.0,,,control,writer_poet_1380_1420,True
+Q309907,Q19089796,1906,,Thomas Malory,1405.0,1471.0,,,control,writer_poet_1380_1420,False
+Q310146,Q19135423,1915,,"Charles I, Duke of Orléans",1394.0,1465.0,,,control,writer_poet_1380_1420,False
+Q310146,Q19167898,1915,,"Charles I, Duke of Orléans",1394.0,1465.0,,,control,writer_poet_1380_1420,False
+Q310146,Q19167902,1915,,"Charles I, Duke of Orléans",1394.0,1465.0,,,control,writer_poet_1380_1420,False
+Q310146,Q19171420,1915,,"Charles I, Duke of Orléans",1394.0,1465.0,,,control,writer_poet_1380_1420,False
+Q310146,Q19191526,1915,,"Charles I, Duke of Orléans",1394.0,1465.0,,,control,writer_poet_1380_1420,False
+Q310146,Q19200329,1915,,"Charles I, Duke of Orléans",1394.0,1465.0,,,control,writer_poet_1380_1420,False
+Q310146,Q19224801,1915,,"Charles I, Duke of Orléans",1394.0,1465.0,,,control,writer_poet_1380_1420,False
+Q309907,Q29386075,1893,,Thomas Malory,1405.0,1471.0,,,control,writer_poet_1380_1420,False
+Q309907,Q31684817,1485,,Thomas Malory,1405.0,1471.0,,,control,writer_poet_1380_1420,False
+Q310146,Q51325865,1915,,"Charles I, Duke of Orléans",1394.0,1465.0,,,control,writer_poet_1380_1420,False
+Q312458,Q54230234,1595,,Jami,1414.0,1492.0,,,control,writer_poet_1380_1420,False
+Q312458,Q85377955,1481,,Jami,1414.0,1492.0,,,control,writer_poet_1380_1420,True
+Q310146,Q108847056,1895,,"Charles I, Duke of Orléans",1394.0,1465.0,,,control,writer_poet_1380_1420,False
+Q310146,Q108878560,1898,,"Charles I, Duke of Orléans",1394.0,1465.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108999151,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108999149,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108999155,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108999158,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108999161,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108999167,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108999164,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108999170,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108999174,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108999176,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108999182,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108999180,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108999185,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108999191,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q108999188,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q109064354,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q109064355,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q109064358,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q109064359,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q109064356,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q109064357,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q312551,Q109064360,1923,,Kabir,1398.0,1518.0,,,control,writer_poet_1380_1420,False
+Q318254,Q4481574,1470,,Poggio Bracciolini,1380.0,1459.0,,,control,writer_poet_1380_1420,False
+Q331692,Q6507542,1358,,Guillaume de Deguileville,1295.0,1360.0,,,control,writer_poet_1290_1320,True
+Q331692,Q42194117,1400,,Guillaume de Deguileville,1295.0,1360.0,,,control,writer_poet_1290_1320,False
+Q331692,Q123266904,1358,,Guillaume de Deguileville,1295.0,1360.0,,,control,writer_poet_1290_1320,True
+Q331692,Q123266929,1338,,Guillaume de Deguileville,1295.0,1360.0,,,control,writer_poet_1290_1320,True
+Q318254,Q127601097,1500,,Poggio Bracciolini,1380.0,1459.0,,,control,writer_poet_1380_1420,False
+Q318254,Q127602375,1448,,Poggio Bracciolini,1380.0,1459.0,,,control,writer_poet_1380_1420,True
+Q318254,Q127602393,1455,,Poggio Bracciolini,1380.0,1459.0,,,control,writer_poet_1380_1420,True
+Q318254,Q127602410,1450,,Poggio Bracciolini,1380.0,1459.0,,,control,writer_poet_1380_1420,True
+Q318254,Q131003936,1500,,Poggio Bracciolini,1380.0,1459.0,,,control,writer_poet_1380_1420,False
+Q318254,Q131004033,1455,,Poggio Bracciolini,1380.0,1459.0,,,control,writer_poet_1380_1420,True
+Q318254,Q131004090,1448,,Poggio Bracciolini,1380.0,1459.0,,,control,writer_poet_1380_1420,True
+Q318254,Q131004219,1440,,Poggio Bracciolini,1380.0,1459.0,,,control,writer_poet_1380_1420,True
+Q318254,Q131004282,1440,,Poggio Bracciolini,1380.0,1459.0,,,control,writer_poet_1380_1420,True
+Q318254,Q131004342,1436,,Poggio Bracciolini,1380.0,1459.0,,,control,writer_poet_1380_1420,True
+Q318254,Q131004436,1429,,Poggio Bracciolini,1380.0,1459.0,,,control,writer_poet_1380_1420,True
+Q362683,Q135963124,1400,,John of Legnano,1320.0,1383.0,,,control,writer_poet_1290_1320,False
+Q362683,Q135963163,1400,,John of Legnano,1320.0,1383.0,,,control,writer_poet_1290_1320,False
+Q362683,Q135963167,1400,,John of Legnano,1320.0,1383.0,,,control,writer_poet_1290_1320,False
+Q362683,Q135963185,1400,,John of Legnano,1320.0,1383.0,,,control,writer_poet_1290_1320,False
+Q362683,Q135963194,1375,,John of Legnano,1320.0,1383.0,,,control,writer_poet_1290_1320,True
+Q362683,Q135963198,1372,,John of Legnano,1320.0,1383.0,,,control,writer_poet_1290_1320,True
+Q362683,Q135963202,1365,,John of Legnano,1320.0,1383.0,,,control,writer_poet_1290_1320,True
+Q362683,Q135963207,1364,,John of Legnano,1320.0,1383.0,,,control,writer_poet_1290_1320,True
+Q362683,Q135963212,1400,,John of Legnano,1320.0,1383.0,,,control,writer_poet_1290_1320,False
+Q362683,Q135963217,1360,,John of Legnano,1320.0,1383.0,,,control,writer_poet_1290_1320,True
+Q362683,Q135963228,1400,,John of Legnano,1320.0,1383.0,,,control,writer_poet_1290_1320,False
+Q332651,Q139827742,1441,,Diego de Valera,1412.0,1488.0,,,control,writer_poet_1380_1420,True
+Q332651,Q139827759,1482,,Diego de Valera,1412.0,1488.0,,,control,writer_poet_1380_1420,True
+Q332651,Q139827762,1500,,Diego de Valera,1412.0,1488.0,,,control,writer_poet_1380_1420,False
+Q332651,Q139827764,1500,,Diego de Valera,1412.0,1488.0,,,control,writer_poet_1380_1420,False
+Q332651,Q139827792,1500,,Diego de Valera,1412.0,1488.0,,,control,writer_poet_1380_1420,False
+Q332651,Q139834788,1500,,Diego de Valera,1412.0,1488.0,,,control,writer_poet_1380_1420,False
+Q332651,Q139834835,1500,,Diego de Valera,1412.0,1488.0,,,control,writer_poet_1380_1420,False
+Q332651,Q139834998,1500,,Diego de Valera,1412.0,1488.0,,,control,writer_poet_1380_1420,False
+Q332651,Q139835042,1500,,Diego de Valera,1412.0,1488.0,,,control,writer_poet_1380_1420,False
+Q318254,Q19019429,1692,,Poggio Bracciolini,1380.0,1459.0,,,control,writer_poet_1380_1420,False
+Q318254,Q110612635,1692,,Poggio Bracciolini,1380.0,1459.0,,,control,writer_poet_1380_1420,False
+Q318254,Q110615331,1889,,Poggio Bracciolini,1380.0,1459.0,,,control,writer_poet_1380_1420,False
+Q318254,Q110615748,1889,,Poggio Bracciolini,1380.0,1459.0,,,control,writer_poet_1380_1420,False
+Q318254,Q110615881,1889,,Poggio Bracciolini,1380.0,1459.0,,,control,writer_poet_1380_1420,False
+Q318254,Q110616097,1889,,Poggio Bracciolini,1380.0,1459.0,,,control,writer_poet_1380_1420,False
+Q318254,Q110616114,1889,,Poggio Bracciolini,1380.0,1459.0,,,control,writer_poet_1380_1420,False
+Q318254,Q111450663,1889,,Poggio Bracciolini,1380.0,1459.0,,,control,writer_poet_1380_1420,False
+Q318254,Q111452737,1484,,Poggio Bracciolini,1380.0,1459.0,,,control,writer_poet_1380_1420,False
+Q318254,Q111584471,1692,,Poggio Bracciolini,1380.0,1459.0,,,control,writer_poet_1380_1420,False
+Q318254,Q111603929,1692,,Poggio Bracciolini,1380.0,1459.0,,,control,writer_poet_1380_1420,False
+Q318254,Q111604141,1692,,Poggio Bracciolini,1380.0,1459.0,,,control,writer_poet_1380_1420,False
+Q318254,Q111607096,1692,,Poggio Bracciolini,1380.0,1459.0,,,control,writer_poet_1380_1420,False
+Q331692,Q115474824,1500,,Guillaume de Deguileville,1295.0,1360.0,,,control,writer_poet_1290_1320,False
+Q318254,Q121979263,2016,,Poggio Bracciolini,1380.0,1459.0,,,control,writer_poet_1380_1420,False
+Q318254,Q121979916,2003,,Poggio Bracciolini,1380.0,1459.0,,,control,writer_poet_1380_1420,False
+Q332651,Q125000298,1875,,Diego de Valera,1412.0,1488.0,,,control,writer_poet_1380_1420,False
+Q331692,Q131519818,1490,,Guillaume de Deguileville,1295.0,1360.0,,,control,writer_poet_1290_1320,False
+Q331692,Q131595782,1430,,Guillaume de Deguileville,1295.0,1360.0,,,control,writer_poet_1290_1320,False
+Q332651,Q139820338,1500,,Diego de Valera,1412.0,1488.0,,,control,writer_poet_1380_1420,False
+Q318254,Q127600412,1500,,Poggio Bracciolini,1380.0,1459.0,,,control,writer_poet_1380_1420,False
+Q38370,Q743848,1521,henry_viii,Henry VIII,1491.0,1547.0,1547.0,king_ruler,treatment,,True
+Q37084,Q3973869,1357,,John VI Kantakouzenos,1292.0,1383.0,,,control,writer_poet_1290_1320,True
+Q38370,Q19096657,1527,henry_viii,Henry VIII,1491.0,1547.0,1547.0,king_ruler,treatment,,True
+Q4622,Q120999038,1440,filelfo,Francesco Filelfo,1398.0,1481.0,1456.0,humanist_scholar,treatment,,True
+Q37084,Q125395898,1828,,John VI Kantakouzenos,1292.0,1383.0,,,control,writer_poet_1290_1320,False
+Q37084,Q125395999,1831,,John VI Kantakouzenos,1292.0,1383.0,,,control,writer_poet_1290_1320,False
+Q37084,Q125396054,1832,,John VI Kantakouzenos,1292.0,1383.0,,,control,writer_poet_1290_1320,False
+Q4622,Q130945297,1451,filelfo,Francesco Filelfo,1398.0,1481.0,1456.0,humanist_scholar,treatment,,True
+Q4622,Q134297641,1500,filelfo,Francesco Filelfo,1398.0,1481.0,1456.0,humanist_scholar,treatment,,False
+Q4622,Q134297766,1500,filelfo,Francesco Filelfo,1398.0,1481.0,1456.0,humanist_scholar,treatment,,False
+Q4622,Q134298027,1500,filelfo,Francesco Filelfo,1398.0,1481.0,1456.0,humanist_scholar,treatment,,False
+Q4622,Q134298390,1500,filelfo,Francesco Filelfo,1398.0,1481.0,1456.0,humanist_scholar,treatment,,False
+Q4622,Q134298389,1427,filelfo,Francesco Filelfo,1398.0,1481.0,1456.0,humanist_scholar,treatment,,True
+Q4622,Q134347082,1500,filelfo,Francesco Filelfo,1398.0,1481.0,1456.0,humanist_scholar,treatment,,False
+Q4622,Q135446802,1500,filelfo,Francesco Filelfo,1398.0,1481.0,1456.0,humanist_scholar,treatment,,False
+Q4622,Q135446820,1500,filelfo,Francesco Filelfo,1398.0,1481.0,1456.0,humanist_scholar,treatment,,False
+Q4622,Q135446860,1500,filelfo,Francesco Filelfo,1398.0,1481.0,1456.0,humanist_scholar,treatment,,False
+Q4622,Q135447043,1500,filelfo,Francesco Filelfo,1398.0,1481.0,1456.0,humanist_scholar,treatment,,False
+Q4622,Q135447052,1500,filelfo,Francesco Filelfo,1398.0,1481.0,1456.0,humanist_scholar,treatment,,False
+Q4622,Q135447056,1500,filelfo,Francesco Filelfo,1398.0,1481.0,1456.0,humanist_scholar,treatment,,False
+Q4622,Q135447061,1500,filelfo,Francesco Filelfo,1398.0,1481.0,1456.0,humanist_scholar,treatment,,False
+Q4622,Q135447070,1500,filelfo,Francesco Filelfo,1398.0,1481.0,1456.0,humanist_scholar,treatment,,False
+Q4622,Q135447093,1500,filelfo,Francesco Filelfo,1398.0,1481.0,1456.0,humanist_scholar,treatment,,False
+Q4622,Q135447113,1500,filelfo,Francesco Filelfo,1398.0,1481.0,1456.0,humanist_scholar,treatment,,False
+Q4622,Q135448385,1480,filelfo,Francesco Filelfo,1398.0,1481.0,1456.0,humanist_scholar,treatment,,True
+Q4622,Q135451350,1500,filelfo,Francesco Filelfo,1398.0,1481.0,1456.0,humanist_scholar,treatment,,False
+Q4622,Q135458619,1500,filelfo,Francesco Filelfo,1398.0,1481.0,1456.0,humanist_scholar,treatment,,False
+Q4622,Q137927504,1472,filelfo,Francesco Filelfo,1398.0,1481.0,1456.0,humanist_scholar,treatment,,True
+Q60281,Q122002787,1872,,Johannes Tauler,1300.0,1361.0,,,control,writer_poet_1290_1320,False
+Q7331,Q60797163,1355,,Ibn Battuta,1304.0,1368.0,,,control,writer_poet_1290_1320,True
+Q91136,Q63384071,1364,,John of Hildesheim,1315.0,1375.0,,,control,writer_poet_1290_1320,True
+Q88079,Q110975675,1434,,Johannes Hartlieb,1410.0,1468.0,,,control,writer_poet_1380_1420,True
+Q7331,Q115862676,1997,,Ibn Battuta,1304.0,1368.0,,,control,writer_poet_1290_1320,False
+Q7331,Q119118228,1997,,Ibn Battuta,1304.0,1368.0,,,control,writer_poet_1290_1320,False
+Q71578,Q122020733,1880,,Johannes Noviforensis,1310.0,1381.0,,,control,writer_poet_1290_1320,False
+Q7331,Q131754099,2023,,Ibn Battuta,1304.0,1368.0,,,control,writer_poet_1290_1320,False
+Q88079,Q133968407,1432,,Johannes Hartlieb,1410.0,1468.0,,,control,writer_poet_1380_1420,True
+Q77715,Q135189226,1500,,Albrecht von Eyb,1420.0,1475.0,,,control,writer_poet_1380_1420,False
+Q77715,Q135206888,1500,,Albrecht von Eyb,1420.0,1475.0,,,control,writer_poet_1380_1420,False
+Q7331,Q135491096,2003,,Ibn Battuta,1304.0,1368.0,,,control,writer_poet_1290_1320,False
+Q7331,Q135491097,2003,,Ibn Battuta,1304.0,1368.0,,,control,writer_poet_1290_1320,False
+Q7331,Q135497086,2007,,Ibn Battuta,1304.0,1368.0,,,control,writer_poet_1290_1320,False
+Q77715,Q135672442,1500,,Albrecht von Eyb,1420.0,1475.0,,,control,writer_poet_1380_1420,False
+Q88079,Q136165567,1437,,Johannes Hartlieb,1410.0,1468.0,,,control,writer_poet_1380_1420,True
+Q88079,Q136168023,1440,,Johannes Hartlieb,1410.0,1468.0,,,control,writer_poet_1380_1420,True
+Q77715,Q138447939,1500,,Albrecht von Eyb,1420.0,1475.0,,,control,writer_poet_1380_1420,False
+Q77715,Q138448106,1500,,Albrecht von Eyb,1420.0,1475.0,,,control,writer_poet_1380_1420,False
+Q77715,Q138448138,1500,,Albrecht von Eyb,1420.0,1475.0,,,control,writer_poet_1380_1420,False
+Q77715,Q138448139,1500,,Albrecht von Eyb,1420.0,1475.0,,,control,writer_poet_1380_1420,False
+Q88079,Q138953385,1440,,Johannes Hartlieb,1410.0,1468.0,,,control,writer_poet_1380_1420,True
+Q88079,Q138953447,1450,,Johannes Hartlieb,1410.0,1468.0,,,control,writer_poet_1380_1420,True
+Q88079,Q138953569,1448,,Johannes Hartlieb,1410.0,1468.0,,,control,writer_poet_1380_1420,True
+Q88079,Q138953639,1440,,Johannes Hartlieb,1410.0,1468.0,,,control,writer_poet_1380_1420,True
+Q88079,Q138953703,1450,,Johannes Hartlieb,1410.0,1468.0,,,control,writer_poet_1380_1420,True
+Q88079,Q138953730,1457,,Johannes Hartlieb,1410.0,1468.0,,,control,writer_poet_1380_1420,True
+Q88079,Q138953784,1456,,Johannes Hartlieb,1410.0,1468.0,,,control,writer_poet_1380_1420,True
+Q88079,Q138953962,1457,,Johannes Hartlieb,1410.0,1468.0,,,control,writer_poet_1380_1420,True
+Q88079,Q138954214,1465,,Johannes Hartlieb,1410.0,1468.0,,,control,writer_poet_1380_1420,True
+Q88079,Q138954462,1467,,Johannes Hartlieb,1410.0,1468.0,,,control,writer_poet_1380_1420,True
+Q88079,Q138954715,1500,,Johannes Hartlieb,1410.0,1468.0,,,control,writer_poet_1380_1420,False
+Q7331,Q140669868,1997,,Ibn Battuta,1304.0,1368.0,,,control,writer_poet_1290_1320,False
+Q970069,Q126007566,1367,datini,Francesco di Marco Datini,1335.0,1410.0,1400.0,merchant,treatment,,True

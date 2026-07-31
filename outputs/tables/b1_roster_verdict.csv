@@ -1,0 +1,9 @@
+check,result,detail
+primary_estimand_defined,DONE,See b1_primary_estimand_method.md
+sesoi_direction_5_primary,FAIL_OR_UNAVAILABLE,"n=36; median=-0.75; CI=[-3.0,3.3]"
+sesoi_direction_5_merchant_primary,FAIL_OR_UNAVAILABLE,"n=4; median=-1.5; CI=[-9.47,0.5]"
+sesoi_macfarlane_15_primary,FAIL,median=-0.75
+sesoi_direction_5_high_only,FAIL_OR_UNAVAILABLE,"n=31; median=-2.0; CI=[-5.0,3.0]"
+b1_nearwork_causal,UNIDENTIFIED,Primary contrast built; causal ID still blocked (spectacle-negative + fuller coverage)
+macfarlane_plus15_strong_reading,UNSUPPORTED_ON_OPEN_CONTRAST,Primary median far below +15; merchant cell ~0
+direction_decision,FREEZE_N_EXPAND_MEASURE,Use primary estimand tables as claim language base

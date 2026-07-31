@@ -1,0 +1,39 @@
+person_id,name,qid,status,birth_year,evidence_year,evidence_age,evidence_type,confidence,n_p800,n_works,n_before,n_after,share_after,mean_age_delta
+petrarch,Francesco Petrarca,Q1401,ok,1304.0,1364.0,60.0,self_report_literary,high,17.0,14,13,1,0.0714,-15.857
+filelfo,Francesco Filelfo,Q4622,ok,1398.0,1456.0,58.0,order_request_letter,high,21.0,3,2,1,0.3333,-7.0
+ammannati,Iacopo Ammannati Piccolomini,Q1677987,ok,1422.0,1473.0,51.0,order_receipt_letter,high,0.0,0,0,0,,
+bernardino,Bernardino of Siena,Q194449,ok,1380.0,1444.0,64.0,posthumous_relic_possession,high,0.0,0,0,0,,
+leo_x,Pope Leo X (Giovanni de Medici),Q5703,ok,1475.0,1513.0,38.0,expense_accounts_and_reports,high,0.0,0,0,0,,
+lotto,Lorenzo Lotto,Q310973,ok,1480.0,1540.0,60.0,account_book_wear,medium,18.0,12,10,2,0.1667,-12.833
+gonzaga_francesco,Cardinal Francesco Gonzaga,Q1441206,ok,1444.0,1483.0,39.0,inventory_cases_lenses,medium,0.0,0,0,0,,
+stapeldon,Walter de Stapeldon,Q4476147,ok,1261.0,1326.0,65.0,probate_inventory,high,0.0,0,0,0,,
+orsi,Antonio degli Orsi,Q3619497,ok,1260.0,1322.0,62.0,probate_inventory,medium,0.0,0,0,0,,
+magnavia,Giovanni di Magnavia,,no_cache,,,,,medium,,0,0,0,,
+strozzi_filippo,Filippo Strozzi the Elder,Q1384100,ok,1428.0,1480.0,52.0,secondary_named_wearer,medium,0.0,0,0,0,,
+sacchetti,Franco Sacchetti,Q739981,ok,1332.0,1392.0,60.0,literary_depiction_author,low,0.0,0,0,0,,
+leonardovinci,Leonardo da Vinci,Q762,ok,1452.0,1500.0,48.0,notebook_mentions_inferred,low,50.0,23,16,7,0.3043,-9.0
+datini,Francesco di Marco Datini,Q970069,ok,1335.0,1400.0,65.0,order_request_letter,high,1.0,1,1,0,0.0,-33.0
+bonifazio_ruspi,Bonifazio Ruspi,,no_cache,,,,,low,,0,0,0,,
+sloradis,Philip de Sloradis,,no_cache,,,,,high,,0,0,0,,
+ardingelli_bese,Bese di Giovanni Ardingelli,,no_cache,,,,,medium,,0,0,0,,
+wolsey,Thomas Wolsey,Q206512,ok,1473.0,1527.0,54.0,gift_receipt_luxury,high,0.0,0,0,0,,
+wyatt_henry,Henry Wyatt,Q5730558,ok,1460.0,1527.0,67.0,gift_receipt_luxury,high,0.0,0,0,0,,
+nuno_fernandes,Nuno Fernandes,,no_cache,,,,,medium,,0,0,0,,
+vangelista,Suora Vangelista,,no_cache,,,,,medium,,0,0,0,,
+guy_chauliac,Guy de Chauliac,Q469362,ok,1300.0,1363.0,63.0,medical_treatise_mention,low,2.0,2,0,2,1.0,0.0
+alessandra_strozzi,Alessandra Macinghi Strozzi,Q371787,ok,1406.0,1465.0,59.0,self_report_letter,high,0.0,0,0,0,,
+tranchedini,Nicodemo Tranchedini,Q3876098,ok,1411.0,1462.0,51.0,inventory_and_self_report_letter,high,0.0,0,0,0,,
+sforza_francesco,Francesco I Sforza,Q310536,ok,1401.0,1462.0,61.0,third_party_report_of_use,high,0.0,0,0,0,,
+gonzaga_ludovico,Ludovico III Gonzaga,Q969770,ok,1412.0,1460.0,48.0,self_report_letter,high,0.0,0,0,0,,
+arduino_baiso,Arduino da Baiso,Q62292442,ok,1385.0,1451.0,66.0,order_request_letter,high,0.0,0,0,0,,
+henry_viii,Henry VIII,Q38370,ok,1491.0,1547.0,56.0,probate_inventory,high,0.0,0,0,0,,
+policastro,Iacobo de Policastro,,no_cache,,,,,high,,0,0,0,,
+bianca_maria,Bianca Maria Visconti,Q1232642,ok,1425.0,1462.0,37.0,third_party_report_of_use,medium,0.0,0,0,0,,
+cederni,Bartolomeo Cederni,,no_cache,,,,,medium,,0,0,0,,
+barbara_brandenburg,Barbara of Brandenburg,Q64222,ok,1422.0,1466.0,44.0,order_request_letter,medium,0.0,0,0,0,,
+bartholomeus_padua,Magister Bartholomeus (Padua),,no_cache,,,,,medium,,0,0,0,,
+neri_mici,Ser Neri Mici da Bibbiena,,no_cache,,,,,medium,,0,0,0,,
+pirckheimer,Willibald Pirckheimer,Q62663,ok,1470.0,1520.0,50.0,physical_find_in_study,medium,0.0,0,0,0,,
+jacopo_magnia_friar,Fra Iacopo della Magnia,,no_cache,,,,,medium,,0,0,0,,
+egidio_piacenza,Fra Egidio da Piacenza,,no_cache,,,,,medium,,0,0,0,,
+barbaro_zaccaria,Zaccaria Barbaro,Q55225296,ok,1422.0,1476.0,54.0,order_request_letter_unconfirmed,low,0.0,0,0,0,,

@@ -1,0 +1,6 @@
+person_id,date,event,source,note
+nicolas_de_baye,1400-11,greffier_parlement_begins,tuetey_journal_span,Journal/office span Nov 1400–Nov 1416 (Tuetey ed.).
+nicolas_de_baye,1416-11,spectacle_self_report_lunettes,tuetey_journal_petition,Petition: débilité de ma veue; cannot enregistrer without lunettes. Evidence onset.
+nicolas_de_baye,1417-01,conseiller_clerc_enquetes,tuetey_notice_biographique,Relieved as greffier; provided as conseiller clerc (Chambre des Enquêtes / Grand Chambre). Near-work continues.
+nicolas_de_baye,1418,burgundian_proscription,tuetey_notice_biographique,Proscribed after Burgundian takeover of Paris; active office ends. Soft activity terminus.
+nicolas_de_baye,1419-05-09,death_terminus,wikidata_Q3340895,"Death 9 May 1419. years_after soft=2 (1416→1418), not survival to death."

@@ -13,21 +13,28 @@
 
 **本项目态度：** 原书是「玻璃技术组合」叙事，不是「仅有眼镜 → 现代文明」单因论。宽链未系统检验。
 
-## 2. 「+15 年」状态机（不得写「只来自 Miller」）
+## 2. 「+15 年」状态机（已核 Chicago 正文）
 
 机器可读表：[`data/curated/claim_fifteen_years_sources.csv`](../data/curated/claim_fifteen_years_sources.csv)
 
 | 状态 | 含义 |
 |------|------|
-| `confirmed_in_book` | 三版之一已核对纸页/扫描页出现逐字或明确等价句 |
-| `attributed_secondary` | 书评/摘录站归因作者，页码未核 |
-| `pending_reverification` | 先前单次电子通读未检出；分页/版本差异下需重核 |
+| `confirmed_in_book` | 已核对纸页/扫描页出现逐字句 |
+| `attributed_secondary` | 书评/摘录站归因作者 |
+| `pending_reverification` | 版本分页待核 |
 | `debunk_as_causal_slogan` | 口号式文明起点，可 debunk |
 
-**当前（2026-07-23）：** 多条二手/摘录将「15 年或更多」归于作者（Miller、Delanceyplace、T&C 书评概括、豆瓣中译摘录）。Chicago 电子本一次通读未检出 `fifteen years`，**不足以**定论「确定不是原书」。  
-**开放猎证：** Profile 英版、Chicago 纸本全页、商印中译 Ch.8–9 页码照片。
+**当前（2026-07-23）：** Chicago 扫描本 **印刷页 p.145**（Ch.8 *Spectacles and Predicaments*）原文：
 
-**可安全引用的已核定性句（Chicago e-text）：** p.190 *spectacles lengthened the working life of individuals*。
+> The invention of spectacles increased the intellectual life of professional workers by fifteen years or more.
+
+同页并述 Petrarch、工匠 active life almost doubled、与印刷互促。本地核验见 `data/raw/macfarlane_glass/README.md` 与 `ocr_hi/hi-079.txt`。
+
+**因此：** 先前「正文无 fifteen years、只来自 Miller」**撤回**。Miller / Delanceyplace 是转述，不是源头。  
+**仍待核：** Profile 英版页码、商印中译对应页。  
+**C 档仍可 debunk：** 「文明唯一起点」类单因口号（书中亦是玻璃组合叙事，不是「只有眼镜」）。
+
+**另：** p.190 一带「延长工作生涯」的定性句与 **p.145 的 +15 年量化句**不是同一句；窗玻璃 “lengthened the working day” 又是另一条。
 
 ## 3. 窄命题与 B1–B4
 
@@ -46,12 +53,14 @@
 
 | 核对项 | 状态 |
 |--------|------|
-| p.190 定性延长工作生涯 | ✅ |
-| 正文 `fifteen years` 逐字 | ⚠ 该电子本未检出；**非**终局；见来源表 |
-| 文明唯一起点 | ✅ 否（玻璃组合叙事） |
-| 「不是蒸汽机而是眼镜」口号 | ❌ 未检出 |
+| p.145 +15 years 原文 | ✅ confirmed | Ch.8; local Chicago scan 2026-07-23 |
+| p.190 定性延长工作生涯 | ✅ 另句 | 勿与 p.145 混淆 |
+| 正文 `fifteen years` 逐字 | ✅ | **p.145**（先前「未检出」撤回） |
+| 文明唯一起点 | ✅ 否 | 嵌于玻璃组合宽叙事 |
+| 「不是蒸汽机而是眼镜」口号 | ❌ 未检出 | 正文口号式原句未见 |
 
-### 待办（硬）
+### 待办
 
-- [ ] Profile / Chicago 纸本 / 商印：+15 页码三版猎证
-- [ ] 核验后更新 `claim_fifteen_years_sources.csv` 的 `verification_status`
+- [x] Chicago：+15 页码（p.145）
+- [ ] Profile / 商印页码对照
+- [ ] 更新 checklist CSV 与 PREPRINT C 档措辞（本轮已同步 md）

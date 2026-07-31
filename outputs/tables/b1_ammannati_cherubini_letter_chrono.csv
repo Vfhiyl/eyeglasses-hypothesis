@@ -1,0 +1,742 @@
+letter_num,year,month,day,source,match
+2,1448,agosto,10,elenco_num_year_mon,2. 1448 agosto 10
+3,1450,maggio,,elenco_num_year_mon,3. [1450 maggio
+4,1460,aprile,,elenco_num_year_mon,4. 1460 aprile
+6,1460,agosto,5,elenco_num_year_mon,6. 1460 agosto 5
+7,1460,settembre,6,elenco_num_year_mon,7. 1460 settembre 6
+8,1460,settembre,12,elenco_num_year_mon,8. 1460 settembre 12
+5,1460,luglio,30,elenco_num_year_mon,5. 1460 luglio 30
+23,1461,dicembre,1,elenco_num_year_mon,23. [1461 dicembre 1
+12,1461,luglio,3,elenco_num_year_mon,12. 1461 luglio 3
+13,1461,luglio,13,elenco_num_year_mon,13. 1461 luglio 13
+16,1461,dicembre,18,elenco_num_year_mon,16. 1461 dicembre 18
+17,1461,dicembre,18,elenco_num_year_mon,17. [1461 dicembre 18
+19,1461,dicembre,18,elenco_num_year_mon,19. [1461 dicembre 18
+21,1461,dicembre,18,elenco_num_year_mon,21. [1461 dicembre 18
+22,1461,dicembre,18,elenco_num_year_mon,22. [1461 dicembre 18
+25,1461,dicembre,18,elenco_num_year_mon,25. [1461 dicembre 18
+26,1461,dicembre,18,elenco_num_year_mon,26. [1461 dicembre 18
+27,1461,dicembre,18,elenco_num_year_mon,27. [1461 dicembre 18
+28,1461,dicembre,18,elenco_num_year_mon,28. [1461 dicembre 18
+29,1461,dicembre,18,elenco_num_year_mon,29. [1461 dicembre 18
+14,1461,ottobre,22,elenco_num_year_mon,14. 1461 ottobre 22
+31,1462,gennaio,,elenco_num_year_mon,31. [1462 gennaio
+52,1462,dicembre,,elenco_num_year_mon,52. 1462 dicembre
+41,1462,marzo,5,elenco_num_year_mon,41. 1462 marzo 5
+44,1462,maggio,7,elenco_num_year_mon,44. [1462 maggio 7
+46,1462,giugno,8,elenco_num_year_mon,46. 1462 giugno 8
+47,1462,giugno,9,elenco_num_year_mon,47. 1462 giugno 9
+35,1462,febbraio,12,elenco_num_year_mon,35. 1462 febbraio 12
+36,1462,febbraio,12,elenco_num_year_mon,36. 1462 febbraio 12
+37,1462,febbraio,13,elenco_num_year_mon,37. 1462 febbraio 13
+50,1462,settembre,13,elenco_num_year_mon,50. 1462 settembre 13
+38,1462,febbraio,15,elenco_num_year_mon,38. 1462 febbraio 15
+39,1462,febbraio,16,elenco_num_year_mon,39. 1462 febbraio 16
+43,1462,maggio,20,elenco_num_year_mon,43. 1462 maggio 20
+49,1462,giugno,20,elenco_num_year_mon,49. 1462 giugno 20
+34,1462,gennaio,22,elenco_num_year_mon,34. 1462 gennaio 22
+40,1462,febbraio,23,elenco_num_year_mon,40. 1462 febbraio 23
+42,1462,marzo,23,elenco_num_year_mon,42. 1462 marzo 23
+51,1462,ottobre,26,elenco_num_year_mon,51. 1462 ottobre 26
+54,1462,dicembre,27,elenco_num_year_mon,54. 1462 dicembre 27
+55,1463,gennaio,,elenco_num_year_mon,55. 1463 gennaio
+63,1463,giugno,,elenco_num_year_mon,63. [1463 giugno
+59,1463,febbraio,2,elenco_num_year_mon,59. 1463 febbraio 2
+65,1463,settembre,4,elenco_num_year_mon,65. 1463 settembre 4
+68,1463,dicembre,7,elenco_num_year_mon,68. [1463 dicembre 7
+67,1463,novembre,14,elenco_num_year_mon,67. 1463 novembre 14
+56,1463,gennaio,15,elenco_num_year_mon,56. 1463 gennaio 15
+66,1463,settembre,17,elenco_num_year_mon,66. 1463 settembre 17
+60,1463,febbraio,19,elenco_num_year_mon,60. 1463 febbraio 19
+57,1463,gennaio,20,elenco_num_year_mon,57. 1463 gennaio 20
+69,1463,dicembre,24,elenco_num_year_mon,69. 1463 dicembre 24
+64,1463,luglio,25,elenco_num_year_mon,64. 1463 luglio 25
+58,1463,gennaio,26,elenco_num_year_mon,58. 1463 gennaio 26
+62,1463,maggio,26,elenco_num_year_mon,62. 1463 maggio 26
+72,1464,agosto,,elenco_num_year_mon,72. 1464 agosto
+73,1464,agosto,,elenco_num_year_mon,73. [1464 agosto
+74,1464,agosto,,elenco_num_year_mon,74. [1464 agosto
+75,1464,settembre,,elenco_num_year_mon,75. 1464 settembre
+78,1464,settembre,,elenco_num_year_mon,78. [1464 settembre
+79,1464,settembre,,elenco_num_year_mon,79. [1464 settembre
+80,1464,settembre,,elenco_num_year_mon,80. [1464 settembre
+83,1464,novembre,,elenco_num_year_mon,83. 1464 novembre
+88,1464,dicembre,,elenco_num_year_mon,88. 1464 dicembre
+95,1464,dicembre,,elenco_num_year_mon,95. [1464 dicembre
+71,1464,agosto,5,elenco_num_year_mon,71. 1464 agosto 5
+76,1464,settembre,12,elenco_num_year_mon,76. 1464 settembre 12
+89,1464,dicembre,13,elenco_num_year_mon,89. 1464 dicembre 13
+81,1464,ottobre,18,elenco_num_year_mon,81. 1464 ottobre 18
+82,1464,ottobre,19,elenco_num_year_mon,82. 1464 ottobre 19
+86,1464,novembre,19,elenco_num_year_mon,86. 1464 novembre 19
+90,1464,dicembre,19,elenco_num_year_mon,90. 1464 dicembre 19
+92,1464,dicembre,23,elenco_num_year_mon,92. 1464 dicembre 23
+77,1464,settembre,24,elenco_num_year_mon,77. 1464 settembre 24
+87,1464,novembre,26,elenco_num_year_mon,87. [1464 novembre 26
+93,1464,dicembre,27,elenco_num_year_mon,93. 1464 dicembre 27
+102,1465,gennaio,,elenco_num_year_mon,102. [1465 gennaio
+121,1465,marzo,,elenco_num_year_mon,121. [1465 marzo
+122,1465,marzo,,elenco_num_year_mon,122. 1465 marzo
+147,1465,maggio,,elenco_num_year_mon,147. [1465 maggio
+125,1465,marzo,1,elenco_num_year_mon,125. 1465 marzo 1
+97,1465,gennaio,2,elenco_num_year_mon,97. 1465 gennaio 2
+185,1465,ottobre,3,elenco_num_year_mon,185. 1465 ottobre 3
+137,1465,maggio,4,elenco_num_year_mon,137. 1465 maggio 4
+99,1465,gennaio,5,elenco_num_year_mon,99. 1465 gennaio 5
+100,1465,gennaio,5,elenco_num_year_mon,100. 1465 gennaio 5
+101,1465,gennaio,5,elenco_num_year_mon,101. 1465 gennaio 5
+183,1465,settembre,5,elenco_num_year_mon,183. [1465 settembre 5
+197,1465,dicembre,5,elenco_num_year_mon,197. 1465 dicembre 5
+189,1465,ottobre,7,elenco_num_year_mon,189. 1465 ottobre 7
+190,1465,ottobre,7,elenco_num_year_mon,190. 1465 ottobre 7
+120,1465,marzo,8,elenco_num_year_mon,120. 1465 marzo 8
+141,1465,maggio,8,elenco_num_year_mon,141. 1465 maggio 8
+142,1465,maggio,8,elenco_num_year_mon,142. 1465 maggio 8
+143,1465,maggio,8,elenco_num_year_mon,143. 1465 maggio 8
+163,1465,agosto,10,elenco_num_year_mon,163. 1465 agosto 10
+103,1465,gennaio,12,elenco_num_year_mon,103. 1465 gennaio 12
+148,1465,giugno,12,elenco_num_year_mon,148. 1465 giugno 12
+123,1465,marzo,13,elenco_num_year_mon,123. 1465 marzo 13
+167,1465,agosto,13,elenco_num_year_mon,167. 1465 agosto 13
+24,1465,marzo,14,elenco_num_year_mon,24. 1465 marzo 14
+126,1465,marzo,15,elenco_num_year_mon,126. 1465 marzo 15
+149,1465,giugno,15,elenco_num_year_mon,149. 1465 giugno 15
+135,1465,aprile,18,elenco_num_year_mon,135. 1465 aprile 18
+150,1465,giugno,18,elenco_num_year_mon,150. 1465 giugno 18
+53,1465,giugno,19,elenco_num_year_mon,53. 1465 giugno 19
+106,1465,gennaio,19,elenco_num_year_mon,106. 1465 gennaio 19
+151,1465,giugno,19,elenco_num_year_mon,151. 1465 giugno 19
+152,1465,giugno,19,elenco_num_year_mon,152. 1465 giugno 19
+170,1465,agosto,19,elenco_num_year_mon,170. 1465 agosto 19
+171,1465,agosto,20,elenco_num_year_mon,171. 1465 agosto 20
+194,1465,novembre,20,elenco_num_year_mon,194. 1465 novembre 20
+15,1465,febbraio,21,elenco_num_year_mon,15. 1465 febbraio 21
+172,1465,agosto,21,elenco_num_year_mon,172. 1465 agosto 21
+173,1465,agosto,21,elenco_num_year_mon,173. 1465 agosto 21
+193,1465,ottobre,22,elenco_num_year_mon,193. 1465 ottobre 22
+144,1465,maggio,25,elenco_num_year_mon,144. 1465 maggio 25
+145,1465,maggio,25,elenco_num_year_mon,145. 1465 maggio 25
+146,1465,maggio,25,elenco_num_year_mon,146. 1465 maggio 25
+174,1465,agosto,25,elenco_num_year_mon,174. 1465 agosto 25
+18,1465,febbraio,26,elenco_num_year_mon,18. 1465 febbraio 26
+175,1465,agosto,26,elenco_num_year_mon,175. 1465 agosto 26
+133,1465,marzo,27,elenco_num_year_mon,133. 1465 marzo 27
+160,1465,luglio,27,elenco_num_year_mon,160. 1465 luglio 27
+176,1465,agosto,27,elenco_num_year_mon,176. 1465 agosto 27
+177,1465,agosto,27,elenco_num_year_mon,177. 1465 agosto 27
+10,1465,gennaio,28,elenco_num_year_mon,10. 1465 gennaio 28
+108,1465,gennaio,28,elenco_num_year_mon,108. 1465 gennaio 28
+109,1465,gennaio,28,elenco_num_year_mon,109. 1465 gennaio 28
+161,1465,luglio,28,elenco_num_year_mon,161. 1465 luglio 28
+136,1465,aprile,29,elenco_num_year_mon,136. 1465 aprile 29
+154,1465,giugno,29,elenco_num_year_mon,154. 1465 giugno 29
+155,1465,giugno,29,elenco_num_year_mon,155. 1465 giugno 29
+196,1465,novembre,30,elenco_num_year_mon,196. [1465 novembre 30
+134,1465,marzo,31,elenco_num_year_mon,134. 1465 marzo 31
+214,1466,agosto,,elenco_num_year_mon,214. 1466 agosto
+1,1466,agosto,1,elenco_num_year_mon,1. [1466 agosto 1
+217,1466,ottobre,2,elenco_num_year_mon,217. 1466 ottobre 2
+199,1466,gennaio,3,elenco_num_year_mon,199. 1466 gennaio 3
+223,1466,dicembre,5,elenco_num_year_mon,223. 1466 dicembre 5
+205,1466,maggio,6,elenco_num_year_mon,205. 1466 maggio 6
+220,1466,novembre,8,elenco_num_year_mon,220. 1466 novembre 8
+221,1466,novembre,9,elenco_num_year_mon,221. 1466 novembre 9
+200,1466,marzo,12,elenco_num_year_mon,200. 1466 marzo 12
+201,1466,marzo,16,elenco_num_year_mon,201. 1466 marzo 16
+208,1466,giugno,16,elenco_num_year_mon,208. 1466 giugno 16
+209,1466,giugno,16,elenco_num_year_mon,209. 1466 giugno 16
+224,1466,dicembre,17,elenco_num_year_mon,224. 1466 dicembre 17
+215,1466,settembre,19,elenco_num_year_mon,215. 1466 settembre 19
+222,1466,novembre,20,elenco_num_year_mon,222. 1466 novembre 20
+198,1466,gennaio,23,elenco_num_year_mon,198. 1466 gennaio 23
+210,1466,luglio,26,elenco_num_year_mon,210. 1466 luglio 26
+225,1466,dicembre,26,elenco_num_year_mon,225. 1466 dicembre 26
+202,1466,marzo,27,elenco_num_year_mon,202. 1466 marzo 27
+219,1466,ottobre,27,elenco_num_year_mon,219. 1466 ottobre 27
+206,1466,maggio,30,elenco_num_year_mon,206. 1466 maggio 30
+233,1467,marzo,,elenco_num_year_mon,233. 1467 marzo
+249,1467,luglio,,elenco_num_year_mon,249. [1467 luglio
+250,1467,luglio,,elenco_num_year_mon,250. [1467 luglio
+251,1467,luglio,,elenco_num_year_mon,251. [1467 luglio
+252,1467,luglio,,elenco_num_year_mon,252. [1467 luglio
+253,1467,luglio,,elenco_num_year_mon,253. 1467 luglio
+255,1467,luglio,,elenco_num_year_mon,255. [1467 luglio
+256,1467,luglio,,elenco_num_year_mon,256. [1467 luglio
+259,1467,luglio,,elenco_num_year_mon,259. [1467 luglio
+260,1467,luglio,,elenco_num_year_mon,260. 1467 luglio
+261,1467,luglio,,elenco_num_year_mon,261. [1467 luglio
+267,1467,luglio,,elenco_num_year_mon,267. 1467 luglio
+274,1467,agosto,,elenco_num_year_mon,274. 1467 agosto
+275,1467,agosto,,elenco_num_year_mon,275. 1467 agosto
+239,1467,maggio,3,elenco_num_year_mon,239. 1467 maggio 3
+232,1467,marzo,4,elenco_num_year_mon,232. 1467 marzo 4
+237,1467,aprile,4,elenco_num_year_mon,237. 1467 aprile 4
+257,1467,luglio,4,elenco_num_year_mon,257. 1467 luglio 4
+280,1467,novembre,4,elenco_num_year_mon,280. 1467 novembre 4
+258,1467,luglio,5,elenco_num_year_mon,258. 1467 luglio 5
+269,1467,agosto,5,elenco_num_year_mon,269. 1467 agosto 5
+270,1467,agosto,5,elenco_num_year_mon,270. 1467 agosto 5
+276,1467,settembre,6,elenco_num_year_mon,276. 1467 settembre 6
+283,1467,dicembre,12,elenco_num_year_mon,283. 1467 dicembre 12
+234,1467,marzo,14,elenco_num_year_mon,234. 1467 marzo 14
+235,1467,marzo,15,elenco_num_year_mon,235. 1467 marzo 15
+238,1467,aprile,19,elenco_num_year_mon,238. 1467 aprile 19
+241,1467,maggio,20,elenco_num_year_mon,241. 1467 maggio 20
+242,1467,maggio,22,elenco_num_year_mon,242. 1467 maggio 22
+282,1467,novembre,22,elenco_num_year_mon,282. 1467 novembre 22
+226,1467,gennaio,23,elenco_num_year_mon,226. 1467 gennaio 23
+243,1467,maggio,24,elenco_num_year_mon,243. 1467 maggio 24
+262,1467,luglio,28,elenco_num_year_mon,262. 1467 luglio 28
+263,1467,luglio,30,elenco_num_year_mon,263. 1467 luglio 30
+264,1467,luglio,30,elenco_num_year_mon,264. 1467 luglio 30
+244,1467,maggio,31,elenco_num_year_mon,244. 1467 maggio 31
+265,1467,luglio,31,elenco_num_year_mon,265. 1467 luglio 31
+266,1467,luglio,31,elenco_num_year_mon,266. 1467 luglio 31
+289,1468,aprile,,elenco_num_year_mon,289. 1468 aprile
+290,1468,maggio,,elenco_num_year_mon,290. 1468 maggio
+295,1468,giugno,,elenco_num_year_mon,295. [1468 giugno
+296,1468,giugno,,elenco_num_year_mon,296. 1468 giugno
+308,1468,giugno,,elenco_num_year_mon,308. [1468 giugno
+310,1468,giugno,,elenco_num_year_mon,310. [1468 giugno
+311,1468,giugno,,elenco_num_year_mon,311. [1468 giugno
+312,1468,giugno,,elenco_num_year_mon,312. [1468 giugno
+315,1468,giugno,,elenco_num_year_mon,315. [1468 giugno
+325,1468,giugno,,elenco_num_year_mon,325. [1468 giugno
+327,1468,luglio,,elenco_num_year_mon,327. 1468 luglio
+328,1468,luglio,,elenco_num_year_mon,328. 1468 luglio
+303,1468,giugno,3,elenco_num_year_mon,303. 1468 giugno 3
+304,1468,giugno,3,elenco_num_year_mon,304. 1468 giugno 3
+291,1468,maggio,4,elenco_num_year_mon,291. 1468 maggio 4
+367,1468,novembre,5,elenco_num_year_mon,367. 1468 novembre 5
+362,1468,ottobre,6,elenco_num_year_mon,362. 1468 ottobre 6
+285,1468,febbraio,7,elenco_num_year_mon,285. 1468 febbraio 7
+335,1468,luglio,10,elenco_num_year_mon,335. 1468 luglio 10
+284,1468,gennaio,12,elenco_num_year_mon,284. 1468 gennaio 12
+339,1468,luglio,12,elenco_num_year_mon,339. 1468 luglio 12
+340,1468,luglio,12,elenco_num_year_mon,340. 1468 luglio 12
+368,1468,novembre,12,elenco_num_year_mon,368. 1468 novembre 12
+316,1468,giugno,14,elenco_num_year_mon,316. 1468 giugno 14
+343,1468,luglio,15,elenco_num_year_mon,343. 1468 luglio 15
+365,1468,ottobre,16,elenco_num_year_mon,365. 1468 ottobre 16
+359,1468,agosto,19,elenco_num_year_mon,359. 1468 agosto 19
+369,1468,dicembre,22,elenco_num_year_mon,369. 1468 dicembre 22
+287,1468,aprile,23,elenco_num_year_mon,287. 1468 aprile 23
+323,1468,giugno,23,elenco_num_year_mon,323. 1468 giugno 23
+370,1468,dicembre,23,elenco_num_year_mon,370. 1468 dicembre 23
+346,1468,luglio,24,elenco_num_year_mon,346. 1468 luglio 24
+371,1468,dicembre,24,elenco_num_year_mon,371. 1468 dicembre 24
+286,1468,febbraio,26,elenco_num_year_mon,286. 1468 febbraio 26
+288,1468,aprile,27,elenco_num_year_mon,288. 1468 aprile 27
+324,1468,giugno,30,elenco_num_year_mon,324. 1468 giugno 30
+361,1468,settembre,30,elenco_num_year_mon,361. 1468 settembre 30
+366,1468,ottobre,30,elenco_num_year_mon,366. 1468 ottobre 30
+384,1469,maggio,,elenco_num_year_mon,384. [1469 maggio
+391,1469,luglio,,elenco_num_year_mon,391. 1469 luglio
+392,1469,luglio,,elenco_num_year_mon,392. 1469 luglio
+412,1469,ottobre,,elenco_num_year_mon,412. 1469 ottobre
+414,1469,ottobre,,elenco_num_year_mon,414. [1469 ottobre
+407,1469,settembre,3,elenco_num_year_mon,407. 1469 settembre 3
+377,1469,febbraio,5,elenco_num_year_mon,377. 1469 febbraio 5
+415,1469,dicembre,5,elenco_num_year_mon,415. 1469 dicembre 5
+382,1469,maggio,6,elenco_num_year_mon,382. 1469 maggio 6
+408,1469,settembre,6,elenco_num_year_mon,408. 1469 settembre 6
+413,1469,ottobre,6,elenco_num_year_mon,413. 1469 ottobre 6
+393,1469,luglio,16,elenco_num_year_mon,393. 1469 luglio 16
+398,1469,agosto,16,elenco_num_year_mon,398. 1469 agosto 16
+399,1469,agosto,16,elenco_num_year_mon,399. 1469 agosto 16
+400,1469,agosto,16,elenco_num_year_mon,400. 1469 agosto 16
+378,1469,febbraio,18,elenco_num_year_mon,378. 1469 febbraio 18
+401,1469,agosto,18,elenco_num_year_mon,401. 1469 agosto 18
+394,1469,luglio,19,elenco_num_year_mon,394. 1469 luglio 19
+409,1469,settembre,19,elenco_num_year_mon,409. 1469 settembre 19
+395,1469,luglio,20,elenco_num_year_mon,395. 1469 luglio 20
+396,1469,luglio,20,elenco_num_year_mon,396. 1469 luglio 20
+374,1469,gennaio,21,elenco_num_year_mon,374. 1469 gennaio 21
+375,1469,gennaio,22,elenco_num_year_mon,375. 1469 gennaio 22
+402,1469,agosto,22,elenco_num_year_mon,402. 1469 agosto 22
+389,1469,giugno,23,elenco_num_year_mon,389. 1469 giugno 23
+376,1469,gennaio,25,elenco_num_year_mon,376. 1469 gennaio 25
+390,1469,giugno,26,elenco_num_year_mon,390. 1469 giugno 26
+410,1469,settembre,27,elenco_num_year_mon,410. 1469 settembre 27
+385,1469,maggio,31,elenco_num_year_mon,385. 1469 maggio 31
+404,1469,agosto,31,elenco_num_year_mon,404. 1469 agosto 31
+433,1470,marzo,,elenco_num_year_mon,433. 1470 marzo
+434,1470,marzo,,elenco_num_year_mon,434. 1470 marzo
+430,1470,febbraio,1,elenco_num_year_mon,430. 1470 febbraio 1
+419,1470,gennaio,8,elenco_num_year_mon,419. 1470 gennaio 8
+436,1470,marzo,9,elenco_num_year_mon,436. 1470 marzo 9
+431,1470,febbraio,16,elenco_num_year_mon,431. 1470 febbraio 16
+426,1470,gennaio,19,elenco_num_year_mon,426. 1470 gennaio 19
+427,1470,gennaio,20,elenco_num_year_mon,427. 1470 gennaio 20
+449,1470,dicembre,23,elenco_num_year_mon,449. 1470 dicembre 23
+450,1470,dicembre,23,elenco_num_year_mon,450. 1470 dicembre 23
+429,1470,gennaio,26,elenco_num_year_mon,429. 1470 gennaio 26
+448,1470,novembre,26,elenco_num_year_mon,448. 1470 novembre 26
+462,1471,giugno,,elenco_num_year_mon,462. [1471 giugno
+477,1471,ottobre,,elenco_num_year_mon,477. 1471 ottobre
+490,1471,dicembre,,elenco_num_year_mon,490. 1471 dicembre
+491,1471,dicembre,,elenco_num_year_mon,491. 1471 dicembre
+476,1471,ottobre,2,elenco_num_year_mon,476. 1471 ottobre 2
+451,1471,gennaio,3,elenco_num_year_mon,451. 1471 gennaio 3
+452,1471,gennaio,3,elenco_num_year_mon,452. 1471 gennaio 3
+480,1471,novembre,3,elenco_num_year_mon,480. 1471 novembre 3
+481,1471,novembre,4,elenco_num_year_mon,481. 1471 novembre 4
+455,1471,aprile,5,elenco_num_year_mon,455. 1471 aprile 5
+482,1471,novembre,5,elenco_num_year_mon,482. 1471 novembre 5
+456,1471,aprile,6,elenco_num_year_mon,456. 1471 aprile 6
+466,1471,settembre,7,elenco_num_year_mon,466. 1471 settembre 7
+457,1471,aprile,9,elenco_num_year_mon,457. 1471 aprile 9
+467,1471,settembre,9,elenco_num_year_mon,467. 1471 settembre 9
+468,1471,settembre,12,elenco_num_year_mon,468. 1471 settembre 12
+458,1471,aprile,13,elenco_num_year_mon,458. 1471 aprile 13
+478,1471,ottobre,14,elenco_num_year_mon,478. 1471 ottobre 14
+492,1471,dicembre,14,elenco_num_year_mon,492. 1471 dicembre 14
+453,1471,marzo,16,elenco_num_year_mon,453. 1471 marzo 16
+459,1471,aprile,16,elenco_num_year_mon,459. 1471 aprile 16
+493,1471,dicembre,16,elenco_num_year_mon,493. 1471 dicembre 16
+494,1471,dicembre,16,elenco_num_year_mon,494. 1471 dicembre 16
+495,1471,dicembre,16,elenco_num_year_mon,495. 1471 dicembre 16
+496,1471,dicembre,16,elenco_num_year_mon,496. 1471 dicembre 16
+497,1471,dicembre,16,elenco_num_year_mon,497. 1471 dicembre 16
+498,1471,dicembre,17,elenco_num_year_mon,498. 1471 dicembre 17
+503,1471,dicembre,17,elenco_num_year_mon,503. 1471 dicembre 17
+460,1471,aprile,18,elenco_num_year_mon,460. 1471 aprile 18
+461,1471,maggio,18,elenco_num_year_mon,461. 1471 maggio 18
+483,1471,novembre,18,elenco_num_year_mon,483. 1471 novembre 18
+499,1471,dicembre,18,elenco_num_year_mon,499. 1471 dicembre 18
+470,1471,settembre,19,elenco_num_year_mon,470. 1471 settembre 19
+454,1471,marzo,20,elenco_num_year_mon,454. 1471 marzo 20
+465,1471,luglio,20,elenco_num_year_mon,465. 1471 luglio 20
+500,1471,dicembre,20,elenco_num_year_mon,500. 1471 dicembre 20
+501,1471,dicembre,20,elenco_num_year_mon,501. 1471 dicembre 20
+479,1471,ottobre,21,elenco_num_year_mon,479. 1471 ottobre 21
+484,1471,novembre,21,elenco_num_year_mon,484. 1471 novembre 21
+485,1471,novembre,21,elenco_num_year_mon,485. 1471 novembre 21
+502,1471,dicembre,21,elenco_num_year_mon,502. 1471 dicembre 21
+486,1471,novembre,25,elenco_num_year_mon,486. 1471 novembre 25
+504,1471,dicembre,26,elenco_num_year_mon,504. 1471 dicembre 26
+487,1471,novembre,27,elenco_num_year_mon,487. 1471 novembre 27
+506,1471,dicembre,29,elenco_num_year_mon,506. 1471 dicembre 29
+507,1471,dicembre,29,elenco_num_year_mon,507. 1471 dicembre 29
+488,1471,novembre,30,elenco_num_year_mon,488. 1471 novembre 30
+489,1471,novembre,30,elenco_num_year_mon,489. 1471 novembre 30
+508,1471,dicembre,31,elenco_num_year_mon,508. 1471 dicembre 31
+509,1472,gennaio,,elenco_num_year_mon,509. 1472 gennaio
+510,1472,gennaio,,elenco_num_year_mon,510. 1472 gennaio
+511,1472,gennaio,,elenco_num_year_mon,511. 1472 gennaio
+512,1472,gennaio,,elenco_num_year_mon,512. 1472 gennaio
+521,1472,gennaio,,elenco_num_year_mon,521. [1472 gennaio
+543,1472,aprile,,elenco_num_year_mon,543. 1472 aprile
+551,1472,maggio,,elenco_num_year_mon,551. 1472 maggio
+559,1472,giugno,,elenco_num_year_mon,559. 1472 giugno
+561,1472,luglio,,elenco_num_year_mon,561. 1472 luglio
+571,1472,agosto,,elenco_num_year_mon,571. 1472 agosto
+572,1472,agosto,,elenco_num_year_mon,572. 1472 agosto
+593,1472,settembre,,elenco_num_year_mon,593. 1472 settembre
+608,1472,novembre,,elenco_num_year_mon,608. 1472 novembre
+609,1472,novembre,,elenco_num_year_mon,609. 1472 novembre
+556,1472,giugno,1,elenco_num_year_mon,556. 1472 giugno 1
+548,1472,maggio,2,elenco_num_year_mon,548. 1472 maggio 2
+562,1472,luglio,2,elenco_num_year_mon,562. 1472 luglio 2
+573,1472,agosto,2,elenco_num_year_mon,573. 1472 agosto 2
+618,1472,dicembre,2,elenco_num_year_mon,618. 1472 dicembre 2
+574,1472,agosto,3,elenco_num_year_mon,574. 1472 agosto 3
+575,1472,agosto,3,elenco_num_year_mon,575. 1472 agosto 3
+513,1472,gennaio,4,elenco_num_year_mon,513. 1472 gennaio 4
+587,1472,settembre,4,elenco_num_year_mon,587. 1472 settembre 4
+588,1472,settembre,4,elenco_num_year_mon,588. 1472 settembre 4
+527,1472,febbraio,5,elenco_num_year_mon,527. 1472 febbraio 5
+537,1472,marzo,5,elenco_num_year_mon,537. 1472 marzo 5
+538,1472,marzo,5,elenco_num_year_mon,538. 1472 marzo 5
+563,1472,luglio,5,elenco_num_year_mon,563. 1472 luglio 5
+610,1472,novembre,5,elenco_num_year_mon,610. 1472 novembre 5
+529,1472,febbraio,6,elenco_num_year_mon,529. 1472 febbraio 6
+564,1472,luglio,6,elenco_num_year_mon,564. 1472 luglio 6
+589,1472,settembre,6,elenco_num_year_mon,589. 1472 settembre 6
+611,1472,novembre,6,elenco_num_year_mon,611. 1472 novembre 6
+576,1472,agosto,7,elenco_num_year_mon,576. 1472 agosto 7
+590,1472,settembre,7,elenco_num_year_mon,590. 1472 settembre 7
+598,1472,ottobre,7,elenco_num_year_mon,598. 1472 ottobre 7
+619,1472,dicembre,7,elenco_num_year_mon,619. 1472 dicembre 7
+620,1472,dicembre,7,elenco_num_year_mon,620. 1472 dicembre 7
+621,1472,dicembre,7,elenco_num_year_mon,621. 1472 dicembre 7
+530,1472,febbraio,8,elenco_num_year_mon,530. 1472 febbraio 8
+549,1472,maggio,8,elenco_num_year_mon,549. 1472 maggio 8
+557,1472,giugno,8,elenco_num_year_mon,557. 1472 giugno 8
+558,1472,giugno,8,elenco_num_year_mon,558. 1472 giugno 8
+550,1472,maggio,9,elenco_num_year_mon,550. 1472 maggio 9
+577,1472,agosto,9,elenco_num_year_mon,577. 1472 agosto 9
+591,1472,settembre,9,elenco_num_year_mon,591. 1472 settembre 9
+599,1472,ottobre,9,elenco_num_year_mon,599. 1472 ottobre 9
+622,1472,dicembre,9,elenco_num_year_mon,622. 1472 dicembre 9
+544,1472,aprile,10,elenco_num_year_mon,544. 1472 aprile 10
+578,1472,agosto,10,elenco_num_year_mon,578. 1472 agosto 10
+600,1472,ottobre,10,elenco_num_year_mon,600. 1472 ottobre 10
+552,1472,maggio,12,elenco_num_year_mon,552. 1472 maggio 12
+601,1472,ottobre,12,elenco_num_year_mon,601. 1472 ottobre 12
+612,1472,novembre,12,elenco_num_year_mon,612. 1472 novembre 12
+531,1472,febbraio,13,elenco_num_year_mon,531. 1472 febbraio 13
+539,1472,marzo,13,elenco_num_year_mon,539. 1472 marzo 13
+545,1472,aprile,13,elenco_num_year_mon,545. 1472 aprile 13
+514,1472,gennaio,14,elenco_num_year_mon,514. 1472 gennaio 14
+532,1472,febbraio,14,elenco_num_year_mon,532. 1472 febbraio 14
+565,1472,luglio,14,elenco_num_year_mon,565. 1472 luglio 14
+580,1472,agosto,14,elenco_num_year_mon,580. 1472 agosto 14
+581,1472,agosto,14,elenco_num_year_mon,581. 1472 agosto 14
+613,1472,novembre,14,elenco_num_year_mon,613. 1472 novembre 14
+614,1472,novembre,14,elenco_num_year_mon,614. 1472 novembre 14
+515,1472,gennaio,15,elenco_num_year_mon,515. 1472 gennaio 15
+533,1472,febbraio,15,elenco_num_year_mon,533. 1472 febbraio 15
+534,1472,febbraio,15,elenco_num_year_mon,534. 1472 febbraio 15
+582,1472,agosto,15,elenco_num_year_mon,582. 1472 agosto 15
+583,1472,agosto,15,elenco_num_year_mon,583. 1472 agosto 15
+602,1472,ottobre,15,elenco_num_year_mon,602. 1472 ottobre 15
+546,1472,aprile,16,elenco_num_year_mon,546. 1472 aprile 16
+566,1472,luglio,16,elenco_num_year_mon,566. 1472 luglio 16
+603,1472,ottobre,16,elenco_num_year_mon,603. 1472 ottobre 16
+604,1472,ottobre,16,elenco_num_year_mon,604. 1472 ottobre 16
+623,1472,dicembre,16,elenco_num_year_mon,623. 1472 dicembre 16
+516,1472,gennaio,17,elenco_num_year_mon,516. 1472 gennaio 17
+547,1472,aprile,17,elenco_num_year_mon,547. 1472 aprile 17
+567,1472,luglio,17,elenco_num_year_mon,567. 1472 luglio 17
+594,1472,settembre,17,elenco_num_year_mon,594. 1472 settembre 17
+595,1472,settembre,17,elenco_num_year_mon,595. 1472 settembre 17
+624,1472,dicembre,17,elenco_num_year_mon,624. 1472 dicembre 17
+535,1472,febbraio,19,elenco_num_year_mon,535. 1472 febbraio 19
+560,1472,giugno,19,elenco_num_year_mon,560. 1472 giugno 19
+585,1472,agosto,20,elenco_num_year_mon,585. 1472 agosto 20
+586,1472,agosto,20,elenco_num_year_mon,586. 1472 agosto 20
+536,1472,febbraio,21,elenco_num_year_mon,536. 1472 febbraio 21
+520,1472,gennaio,22,elenco_num_year_mon,520. 1472 gennaio 22
+605,1472,ottobre,22,elenco_num_year_mon,605. 1472 ottobre 22
+522,1472,gennaio,23,elenco_num_year_mon,522. 1472 gennaio 23
+568,1472,luglio,23,elenco_num_year_mon,568. 1472 luglio 23
+596,1472,settembre,24,elenco_num_year_mon,596. 1472 settembre 24
+616,1472,novembre,24,elenco_num_year_mon,616. 1472 novembre 24
+523,1472,gennaio,26,elenco_num_year_mon,523. 1472 gennaio 26
+540,1472,marzo,26,elenco_num_year_mon,540. 1472 marzo 26
+554,1472,maggio,27,elenco_num_year_mon,554. 1472 maggio 27
+524,1472,gennaio,28,elenco_num_year_mon,524. 1472 gennaio 28
+569,1472,luglio,28,elenco_num_year_mon,569. 1472 luglio 28
+555,1472,maggio,29,elenco_num_year_mon,555. 1472 maggio 29
+617,1472,novembre,29,elenco_num_year_mon,617. 1472 novembre 29
+597,1472,settembre,30,elenco_num_year_mon,597. 1472 settembre 30
+606,1472,ottobre,30,elenco_num_year_mon,606. 1472 ottobre 30
+607,1472,ottobre,30,elenco_num_year_mon,607. 1472 ottobre 30
+525,1472,gennaio,31,elenco_num_year_mon,525. 1472 gennaio 31
+570,1472,luglio,31,elenco_num_year_mon,570. 1472 luglio 31
+636,1473,febbraio,,elenco_num_year_mon,636. [1473 febbraio
+657,1473,maggio,,elenco_num_year_mon,657. 1473 maggio
+658,1473,maggio,,elenco_num_year_mon,658. 1473 maggio
+663,1473,giugno,,elenco_num_year_mon,663. 1473 giugno
+667,1473,luglio,,elenco_num_year_mon,667. 1473 luglio
+673,1473,luglio,,elenco_num_year_mon,673. 1473 luglio
+674,1473,luglio,,elenco_num_year_mon,674. 1473 luglio
+675,1473,luglio,,elenco_num_year_mon,675. 1473 luglio
+659,1473,maggio,1,elenco_num_year_mon,659. 1473 maggio 1
+668,1473,luglio,2,elenco_num_year_mon,668. 1473 luglio 2
+669,1473,luglio,2,elenco_num_year_mon,669. 1473 luglio 2
+687,1473,novembre,2,elenco_num_year_mon,687. 1473 novembre 2
+626,1473,gennaio,3,elenco_num_year_mon,626. 1473 gennaio 3
+644,1473,aprile,3,elenco_num_year_mon,644. 1473 aprile 3
+692,1473,dicembre,3,elenco_num_year_mon,692. 1473 dicembre 3
+627,1473,gennaio,4,elenco_num_year_mon,627. 1473 gennaio 4
+662,1473,giugno,4,elenco_num_year_mon,662. 1473 giugno 4
+645,1473,aprile,5,elenco_num_year_mon,645. 1473 aprile 5
+679,1473,agosto,5,elenco_num_year_mon,679. 1473 agosto 5
+637,1473,marzo,6,elenco_num_year_mon,637. 1473 marzo 6
+646,1473,aprile,6,elenco_num_year_mon,646. 1473 aprile 6
+670,1473,luglio,6,elenco_num_year_mon,670. 1473 luglio 6
+671,1473,luglio,7,elenco_num_year_mon,671. 1473 luglio 7
+638,1473,marzo,8,elenco_num_year_mon,638. 1473 marzo 8
+647,1473,aprile,8,elenco_num_year_mon,647. 1473 aprile 8
+648,1473,aprile,8,elenco_num_year_mon,648. 1473 aprile 8
+649,1473,aprile,8,elenco_num_year_mon,649. 1473 aprile 8
+672,1473,luglio,8,elenco_num_year_mon,672. 1473 luglio 8
+680,1473,agosto,9,elenco_num_year_mon,680. 1473 agosto 9
+650,1473,aprile,12,elenco_num_year_mon,650. 1473 aprile 12
+664,1473,giugno,13,elenco_num_year_mon,664. 1473 giugno 13
+628,1473,gennaio,14,elenco_num_year_mon,628. 1473 gennaio 14
+634,1473,febbraio,14,elenco_num_year_mon,634. 1473 febbraio 14
+651,1473,aprile,14,elenco_num_year_mon,651. 1473 aprile 14
+684,1473,settembre,14,elenco_num_year_mon,684. 1473 settembre 14
+688,1473,novembre,15,elenco_num_year_mon,688. 1473 novembre 15
+693,1473,dicembre,15,elenco_num_year_mon,693. 1473 dicembre 15
+694,1473,dicembre,16,elenco_num_year_mon,694. 1473 dicembre 16
+681,1473,agosto,17,elenco_num_year_mon,681. 1473 agosto 17
+652,1473,aprile,18,elenco_num_year_mon,652. 1473 aprile 18
+689,1473,novembre,18,elenco_num_year_mon,689. 1473 novembre 18
+629,1473,gennaio,20,elenco_num_year_mon,629. 1473 gennaio 20
+630,1473,gennaio,20,elenco_num_year_mon,630. 1473 gennaio 20
+685,1473,ottobre,20,elenco_num_year_mon,685. 1473 ottobre 20
+686,1473,ottobre,20,elenco_num_year_mon,686. 1473 ottobre 20
+695,1473,dicembre,20,elenco_num_year_mon,695. 1473 dicembre 20
+635,1473,febbraio,21,elenco_num_year_mon,635. 1473 febbraio 21
+632,1473,gennaio,23,elenco_num_year_mon,632. 1473 gennaio 23
+676,1473,luglio,23,elenco_num_year_mon,676. 1473 luglio 23
+639,1473,marzo,24,elenco_num_year_mon,639. 1473 marzo 24
+640,1473,marzo,25,elenco_num_year_mon,640. 1473 marzo 25
+641,1473,marzo,25,elenco_num_year_mon,641. 1473 marzo 25
+653,1473,aprile,25,elenco_num_year_mon,653. 1473 aprile 25
+682,1473,agosto,25,elenco_num_year_mon,682. 1473 agosto 25
+633,1473,gennaio,26,elenco_num_year_mon,633. 1473 gennaio 26
+642,1473,marzo,26,elenco_num_year_mon,642. 1473 marzo 26
+660,1473,maggio,26,elenco_num_year_mon,660. 1473 maggio 26
+677,1473,luglio,26,elenco_num_year_mon,677. 1473 luglio 26
+643,1473,marzo,27,elenco_num_year_mon,643. 1473 marzo 27
+654,1473,aprile,27,elenco_num_year_mon,654. 1473 aprile 27
+655,1473,aprile,27,elenco_num_year_mon,655. 1473 aprile 27
+656,1473,aprile,29,elenco_num_year_mon,656. 1473 aprile 29
+678,1473,luglio,30,elenco_num_year_mon,678. 1473 luglio 30
+690,1473,novembre,30,elenco_num_year_mon,690. 1473 novembre 30
+691,1473,novembre,30,elenco_num_year_mon,691. 1473 novembre 30
+661,1473,maggio,31,elenco_num_year_mon,661. 1473 maggio 31
+683,1473,agosto,31,elenco_num_year_mon,683. 1473 agosto 31
+705,1474,febbraio,,elenco_num_year_mon,705. 1474 febbraio
+718,1474,aprile,,elenco_num_year_mon,718. 1474 aprile
+735,1474,agosto,,elenco_num_year_mon,735. 1474 agosto
+755,1474,ottobre,,elenco_num_year_mon,755. 1474 ottobre
+756,1474,ottobre,,elenco_num_year_mon,756. 1474 ottobre
+757,1474,ottobre,,elenco_num_year_mon,757. 1474 ottobre
+773,1474,novembre,,elenco_num_year_mon,773. [1474 novembre
+696,1474,gennaio,2,elenco_num_year_mon,696. 1474 gennaio 2
+758,1474,ottobre,3,elenco_num_year_mon,758. 1474 ottobre 3
+777,1474,dicembre,3,elenco_num_year_mon,777. 1474 dicembre 3
+715,1474,aprile,4,elenco_num_year_mon,715. 1474 aprile 4
+716,1474,aprile,4,elenco_num_year_mon,716. 1474 aprile 4
+778,1474,dicembre,4,elenco_num_year_mon,778. 1474 dicembre 4
+697,1474,gennaio,5,elenco_num_year_mon,697. 1474 gennaio 5
+759,1474,ottobre,5,elenco_num_year_mon,759. 1474 ottobre 5
+706,1474,febbraio,7,elenco_num_year_mon,706. 1474 febbraio 7
+745,1474,settembre,7,elenco_num_year_mon,745. 1474 settembre 7
+717,1474,aprile,8,elenco_num_year_mon,717. 1474 aprile 8
+760,1474,ottobre,8,elenco_num_year_mon,760. 1474 ottobre 8
+746,1474,settembre,9,elenco_num_year_mon,746. 1474 settembre 9
+698,1474,gennaio,10,elenco_num_year_mon,698. 1474 gennaio 10
+699,1474,gennaio,12,elenco_num_year_mon,699. 1474 gennaio 12
+724,1474,giugno,12,elenco_num_year_mon,724. 1474 giugno 12
+726,1474,luglio,12,elenco_num_year_mon,726. [1474 luglio 12
+747,1474,settembre,12,elenco_num_year_mon,747. 1474 settembre 12
+719,1474,aprile,13,elenco_num_year_mon,719. 1474 aprile 13
+738,1474,agosto,13,elenco_num_year_mon,738. 1474 agosto 13
+739,1474,agosto,13,elenco_num_year_mon,739. 1474 agosto 13
+712,1474,marzo,14,elenco_num_year_mon,712. 1474 marzo 14
+722,1474,maggio,14,elenco_num_year_mon,722. 1474 maggio 14
+766,1474,novembre,15,elenco_num_year_mon,766. 1474 novembre 15
+767,1474,novembre,15,elenco_num_year_mon,767. 1474 novembre 15
+713,1474,marzo,16,elenco_num_year_mon,713. 1474 marzo 16
+727,1474,luglio,16,elenco_num_year_mon,727. 1474 luglio 16
+725,1474,giugno,17,elenco_num_year_mon,725. 1474 giugno 17
+779,1474,dicembre,17,elenco_num_year_mon,779. 1474 dicembre 17
+768,1474,novembre,18,elenco_num_year_mon,768. 1474 novembre 18
+769,1474,novembre,18,elenco_num_year_mon,769. 1474 novembre 18
+729,1474,luglio,19,elenco_num_year_mon,729. 1474 luglio 19
+730,1474,luglio,19,elenco_num_year_mon,730. 1474 luglio 19
+700,1474,gennaio,20,elenco_num_year_mon,700. 1474 gennaiO 20
+710,1474,febbraio,20,elenco_num_year_mon,710. 1474 febbraio 20
+731,1474,luglio,20,elenco_num_year_mon,731. 1474 luglio 20
+780,1474,dicembre,20,elenco_num_year_mon,780. 1474 dicembre 20
+9,1474,aprile,22,ocr_near_num,1474 aprile 22
+702,1474,gennaio,22,elenco_num_year_mon,702. 1474 gennaio 22
+703,1474,gennaio,22,elenco_num_year_mon,703. 1474 gennaio 22
+720,1474,aprile,22,elenco_num_year_mon,720. 1474 aprile 22
+740,1474,agosto,22,elenco_num_year_mon,740. 1474 agosto 22
+770,1474,novembre,22,elenco_num_year_mon,770. 1474 novembre 22
+721,1474,aprile,23,elenco_num_year_mon,721. 1474 aprile 23
+761,1474,ottobre,23,elenco_num_year_mon,761. 1474 ottobre 23
+762,1474,ottobre,23,elenco_num_year_mon,762. 1474 ottobre 23
+763,1474,ottobre,23,elenco_num_year_mon,763. 1474 ottobre 23
+764,1474,ottobre,23,elenco_num_year_mon,764. 1474 ottobre 23
+732,1474,luglio,24,elenco_num_year_mon,732. 1474 luglio 24
+749,1474,settembre,24,elenco_num_year_mon,749. 1474 settembre 24
+750,1474,settembre,24,elenco_num_year_mon,750. 1474 settembre 24
+751,1474,settembre,24,elenco_num_year_mon,751. 1474 settembre 24
+733,1474,luglio,26,elenco_num_year_mon,733. 1474 luglio 26
+734,1474,luglio,26,elenco_num_year_mon,734. 1474 luglio 26
+741,1474,agosto,26,elenco_num_year_mon,741. 1474 agosto 26
+742,1474,agosto,26,elenco_num_year_mon,742. 1474 agosto 26
+743,1474,agosto,26,elenco_num_year_mon,743. 1474 agosto 26
+771,1474,novembre,26,elenco_num_year_mon,771. 1474 novembre 26
+772,1474,novembre,26,elenco_num_year_mon,772. 1474 novembre 26
+704,1474,gennaio,27,elenco_num_year_mon,704. 1474 gennaio 27
+711,1474,febbraio,28,elenco_num_year_mon,711. 1474 febbraio 28
+723,1474,maggio,28,elenco_num_year_mon,723. 1474 maggio 28
+744,1474,agosto,28,elenco_num_year_mon,744. 1474 agosto 28
+752,1474,settembre,28,elenco_num_year_mon,752. 1474 settembre 28
+714,1474,marzo,29,elenco_num_year_mon,714. 1474 marzo 29
+774,1474,novembre,29,elenco_num_year_mon,774. 1474 novembre 29
+775,1474,novembre,29,elenco_num_year_mon,775. 1474 novembre 29
+776,1474,novembre,29,elenco_num_year_mon,776. 1474 novembre 29
+753,1474,settembre,30,elenco_num_year_mon,753. 1474 settembre 30
+754,1474,settembre,30,elenco_num_year_mon,754. 1474 settembre 30
+782,1475,gennaio,,elenco_num_year_mon,782. 1475 gennaio
+786,1475,gennaio,,elenco_num_year_mon,786. 1475 gennaio
+789,1475,febbraio,,elenco_num_year_mon,789. [1475 febbraio
+791,1475,febbraio,,elenco_num_year_mon,791. 1475 febbraio
+794,1475,marzo,,elenco_num_year_mon,794. 1475 marzo
+796,1475,aprile,,elenco_num_year_mon,796. 1475 aprile
+800,1475,maggio,,elenco_num_year_mon,800. 1475 maggio
+822,1475,agosto,,elenco_num_year_mon,822. 1475 agosto
+823,1475,agosto,,elenco_num_year_mon,823. 1475 agosto
+797,1475,aprile,1,elenco_num_year_mon,797. 1475 aprile 1
+801,1475,maggio,3,elenco_num_year_mon,801. 1475 maggio 3
+805,1475,giugno,3,elenco_num_year_mon,805. 1475 giugno 3
+838,1475,novembre,3,elenco_num_year_mon,838. 1475 novembre 3
+783,1475,gennaio,4,elenco_num_year_mon,783. 1475 gennaio 4
+790,1475,febbraio,4,elenco_num_year_mon,790. 1475 febbraio 4
+834,1475,settembre,4,elenco_num_year_mon,834. 1475 settembre 4
+836,1475,ottobre,5,elenco_num_year_mon,836. 1475 ottobre 5
+784,1475,gennaio,6,elenco_num_year_mon,784. 1475 gennaio 6
+793,1475,marzo,6,elenco_num_year_mon,793. 1475 marzo 6
+808,1475,luglio,6,elenco_num_year_mon,808. 1475 luglio 6
+820,1475,agosto,6,elenco_num_year_mon,820. 1475 agosto 6
+785,1475,gennaio,8,elenco_num_year_mon,785. 1475 gennaio 8
+821,1475,agosto,8,elenco_num_year_mon,821. 1475 agosto 8
+806,1475,giugno,9,elenco_num_year_mon,806. 1475 giugno 9
+787,1475,gennaio,11,elenco_num_year_mon,787. 1475 gennaio 11
+835,1475,settembre,13,elenco_num_year_mon,835. 1475 settembre 13
+788,1475,gennaio,14,elenco_num_year_mon,788. 1475 gennaio 14
+809,1475,luglio,14,elenco_num_year_mon,809. 1475 luglio 14
+802,1475,maggio,15,elenco_num_year_mon,802. 1475 maggio 15
+810,1475,luglio,16,elenco_num_year_mon,810. 1475 luglio 16
+824,1475,agosto,16,elenco_num_year_mon,824. 1475 agosto 16
+825,1475,agosto,17,elenco_num_year_mon,825. 1475 agosto 17
+798,1475,aprile,18,elenco_num_year_mon,798. 1475 aprile 18
+799,1475,aprile,18,elenco_num_year_mon,799. 1475 aprile 18
+841,1475,dicembre,19,elenco_num_year_mon,841. 1475 dicembre 19
+792,1475,febbraio,20,elenco_num_year_mon,792. 1475 febbraio 20
+811,1475,luglio,20,elenco_num_year_mon,811. 1475 luglio 20
+803,1475,maggio,23,elenco_num_year_mon,803. 1475 maggio 23
+827,1475,agosto,23,elenco_num_year_mon,827. 1475 agosto 23
+828,1475,agosto,23,elenco_num_year_mon,828. 1475 agosto 23
+829,1475,agosto,24,elenco_num_year_mon,829. 1475 agosto 24
+830,1475,agosto,25,elenco_num_year_mon,830. 1475 agosto 25
+831,1475,agosto,25,elenco_num_year_mon,831. 1475 agosto 25
+832,1475,agosto,25,elenco_num_year_mon,832. 1475 agosto 25
+837,1475,ottobre,25,elenco_num_year_mon,837. 1475 ottobre 25
+839,1475,novembre,25,elenco_num_year_mon,839. 1475 novembre 25
+833,1475,agosto,26,elenco_num_year_mon,833. 1475 agosto 26
+804,1475,maggio,27,elenco_num_year_mon,804. 1475 maggio 27
+812,1475,luglio,27,elenco_num_year_mon,812. 1475 luglio 27
+813,1475,luglio,27,elenco_num_year_mon,813. 1475 luglio 27
+814,1475,luglio,27,elenco_num_year_mon,814. 1475 luglio 27
+815,1475,luglio,27,elenco_num_year_mon,815. 1475 luglio 27
+807,1475,giugno,28,elenco_num_year_mon,807. 1475 giugno 28
+816,1475,luglio,29,elenco_num_year_mon,816. 1475 luglio 29
+817,1475,luglio,29,elenco_num_year_mon,817. 1475 luglio 29
+818,1475,luglio,29,elenco_num_year_mon,818. 1475 luglio 29
+819,1475,luglio,29,elenco_num_year_mon,819. 1475 luglio 29
+840,1475,novembre,30,elenco_num_year_mon,840. 1475 novembre 30
+842,1476,gennaio,,elenco_num_year_mon,842. 1476 gennaio
+843,1476,gennaio,,elenco_num_year_mon,843. [1476 gennaio
+857,1476,giugno,,elenco_num_year_mon,857. 1476 giugno
+866,1476,luglio,,elenco_num_year_mon,866. [1476 luglio
+867,1476,luglio,,elenco_num_year_mon,867. [1476 luglio
+872,1476,luglio,,elenco_num_year_mon,872. [1476 luglio
+874,1476,agosto,,elenco_num_year_mon,874. 1476 agosto
+875,1476,agosto,,elenco_num_year_mon,875. 1476 agosto
+876,1476,agosto,,elenco_num_year_mon,876. [1476 agosto
+880,1476,settembre,,elenco_num_year_mon,880. 1476 settembre
+882,1476,settembre,,elenco_num_year_mon,882. [1476 settembre
+873,1476,agosto,3,elenco_num_year_mon,873. 1476 agosto 3
+849,1476,marzo,5,elenco_num_year_mon,849. 1476 marzo 5
+877,1476,agosto,5,elenco_num_year_mon,877. 1476 agosto 5
+850,1476,marzo,7,elenco_num_year_mon,850. 1476 marzo 7
+892,1476,novembre,7,elenco_num_year_mon,892. 1476 novembre 7
+893,1476,novembre,7,elenco_num_year_mon,893. 1476 novembre 7
+852,1476,aprile,8,elenco_num_year_mon,852. 1476 aprile 8
+883,1476,settembre,8,elenco_num_year_mon,883. 1476 settembre 8
+884,1476,ottobre,8,elenco_num_year_mon,884. 1476 ottobre 8
+885,1476,ottobre,8,elenco_num_year_mon,885. 1476 ottobre 8
+851,1476,marzo,9,elenco_num_year_mon,851. 1476 marzo 9
+878,1476,agosto,9,elenco_num_year_mon,878. 1476 agosto 9
+886,1476,ottobre,9,elenco_num_year_mon,886. 1476 ottobre 9
+859,1476,giugno,12,elenco_num_year_mon,859. 1476 giugno 12
+860,1476,giugno,12,elenco_num_year_mon,860. 1476 giugno 12
+868,1476,luglio,13,elenco_num_year_mon,868. 1476 luglio 13
+869,1476,luglio,13,elenco_num_year_mon,869. 1476 luglio 13
+870,1476,luglio,14,elenco_num_year_mon,870. 1476 luglio 14
+887,1476,ottobre,14,elenco_num_year_mon,887. 1476 ottobre 14
+888,1476,ottobre,14,elenco_num_year_mon,888. 1476 ottobre 14
+889,1476,ottobre,14,elenco_num_year_mon,889. 1476 ottobre 14
+854,1476,maggio,15,elenco_num_year_mon,854. 1476 maggio 15
+890,1476,ottobre,15,elenco_num_year_mon,890. 1476 ottobre 15
+894,1476,novembre,15,elenco_num_year_mon,894. 1476 novembre 15
+879,1476,agosto,16,elenco_num_year_mon,879. 1476 agosto 16
+891,1476,ottobre,17,elenco_num_year_mon,891. 1476 ottobre 17
+895,1476,novembre,18,elenco_num_year_mon,895. 1476 novembre 18
+897,1476,dicembre,18,elenco_num_year_mon,897. 1476 dicembre 18
+844,1476,gennaio,21,elenco_num_year_mon,844. 1476 gennaio 21
+845,1476,gennaio,21,elenco_num_year_mon,845. 1476 gennaio 21
+853,1476,aprile,23,elenco_num_year_mon,853. 1476 aprile 23
+861,1476,giugno,23,elenco_num_year_mon,861. 1476 giugno 23
+896,1476,novembre,23,elenco_num_year_mon,896. 1476 novembre 23
+846,1476,gennaio,24,elenco_num_year_mon,846. 1476 gennaio 24
+847,1476,gennaio,27,elenco_num_year_mon,847. 1476 gennaio 27
+871,1476,luglio,28,elenco_num_year_mon,871. 1476 luglio 28
+862,1476,giugno,29,elenco_num_year_mon,862. 1476 giugno 29
+863,1476,giugno,29,elenco_num_year_mon,863. 1476 giugno 29
+898,1476,dicembre,29,elenco_num_year_mon,898. 1476 dicembre 29
+906,1477,febbraio,,elenco_num_year_mon,906. 1477 febbraio
+929,1477,ottobre,,elenco_num_year_mon,929. 1477 ottobre
+912,1477,aprile,2,elenco_num_year_mon,912. 1477 aprile 2
+930,1477,ottobre,2,elenco_num_year_mon,930. 1477 ottobre 2
+935,1477,novembre,3,elenco_num_year_mon,935. 1477 novembre 3
+924,1477,settembre,4,elenco_num_year_mon,924. 1477 settembre 4
+913,1477,aprile,5,elenco_num_year_mon,913. 1477 aprile 5
+931,1477,ottobre,9,elenco_num_year_mon,931. 1477 ottobre 9
+914,1477,aprile,12,elenco_num_year_mon,914. 1477 aprile 12
+918,1477,luglio,12,elenco_num_year_mon,918. 1477 luglio 12
+907,1477,marzo,13,elenco_num_year_mon,907. 1477 marzo 13
+915,1477,aprile,14,elenco_num_year_mon,915. 1477 aprile 14
+917,1477,giugno,14,elenco_num_year_mon,917. 1477 giugno 14
+919,1477,luglio,17,elenco_num_year_mon,919. 1477 luglio 17
+902,1477,gennaio,18,elenco_num_year_mon,902. 1477 gennaio 18
+903,1477,gennaio,18,elenco_num_year_mon,903. 1477 gennaio 18
+936,1477,novembre,18,elenco_num_year_mon,936. 1477 novembre 18
+916,1477,aprile,19,elenco_num_year_mon,916. 1477 aprile 19
+922,1477,agosto,19,elenco_num_year_mon,922. 1477 agosto 19
+933,1477,ottobre,19,elenco_num_year_mon,933. 1477 ottobre 19
+925,1477,settembre,23,elenco_num_year_mon,925. 1477 settembre 23
+926,1477,settembre,23,elenco_num_year_mon,926. 1477 settembre 23
+938,1477,novembre,24,elenco_num_year_mon,938. 1477 novembre 24
+904,1477,gennaio,25,elenco_num_year_mon,904. 1477 gennaio 25
+908,1477,marzo,25,elenco_num_year_mon,908. 1477 marzo 25
+939,1477,novembre,25,elenco_num_year_mon,939. 1477 novembre 25
+909,1477,marzo,26,elenco_num_year_mon,909. 1477 marzo 26
+910,1477,marzo,26,elenco_num_year_mon,910. 1477 marzo 26
+920,1477,luglio,27,elenco_num_year_mon,920. 1477 luglio 27
+940,1477,novembre,27,elenco_num_year_mon,940. 1477 novembre 27
+923,1477,agosto,29,elenco_num_year_mon,923. 1477 agosto 29
+934,1477,ottobre,29,elenco_num_year_mon,934. 1477 ottobre 29
+941,1477,novembre,29,elenco_num_year_mon,941. 1477 novembre 29
+942,1477,novembre,29,elenco_num_year_mon,942. 1477 novembre 29
+955,1478,marzo,,elenco_num_year_mon,955. 1478 marzo
+956,1478,giugno,6,elenco_num_year_mon,956. 1478 giugno 6
+945,1478,gennaio,7,elenco_num_year_mon,945. 1478 gennaio 7
+959,1478,luglio,8,elenco_num_year_mon,959. 1478 luglio 8
+962,1478,ottobre,13,elenco_num_year_mon,962. 1478 ottobre 13
+963,1478,novembre,13,ocr_near_num,1478 novembre 13
+960,1478,luglio,16,elenco_num_year_mon,960. 1478 luglio 16
+957,1478,giugno,18,elenco_num_year_mon,957. 1478 giugno 18
+966,1478,dicembre,19,ocr_near_num,1478 dicembre 19
+954,1478,febbraio,20,elenco_num_year_mon,954. 1478 febbraio 20
+958,1478,giugno,20,elenco_num_year_mon,958. 1478 giugno 20
+946,1478,gennaio,28,elenco_num_year_mon,946. 1478 gennaio 28
+964,1478,novembre,29,ocr_near_num,1478 novembre 29
+948,1478,gennaio,30,elenco_num_year_mon,948. 1478 gennaio 30
+949,1478,gennaio,30,elenco_num_year_mon,949. 1478 gennaio 30
+951,1478,gennaio,31,elenco_num_year_mon,951. 1478 gennaio 31
+952,1478,gennaio,31,elenco_num_year_mon,952. 1478 gennaio 31
+969,1479,gennaio,,elenco_num_year_mon,969. 1479 gennaio
+973,1479,febbraio,,ocr_near_num,1479 febbraio
+974,1479,febbraio,,ocr_near_num,1479 febbraio
+983,1479,giugno,,elenco_num_year_mon,983. 1479 giugno
+986,1479,agosto,5,elenco_num_year_mon,986. 1479 agosto 5
+987,1479,agosto,8,elenco_num_year_mon,987. 1479 agosto 8
+984,1479,giugno,16,elenco_num_year_mon,984. 1479 giugno 16
+985,1479,luglio,24,elenco_num_year_mon,985. 1479 luglio 24
+976,1479,febbraio,27,ocr_near_num,1479 febbraio 27
+982,1479,aprile,30,elenco_num_year_mon,982. 1479 aprile 30
+977,1479,marzo,97,ocr_near_num,1479 marzo 97
+978,1479,marzo,97,ocr_near_num,1479 marzo 97

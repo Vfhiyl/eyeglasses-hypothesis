@@ -1,0 +1,10 @@
+year,event,source,evidence_class
+1335,birth,standard bio,bio
+1384,letter_spiritual_ochiali_joke,Ilardi F.709 Bassano 13 Oct 1384,metaphor_not_wear
+1397,inventory_pair_of_spectacles_household,Origo inventory 16 Jul 1397,household_ownership_ambiguous
+1400,orders_spectacles_venice_while_in_bologna,ASPO Prato F.721/F.713; Ilardi quotes; images in data/raw/datini_prato/images,personal_order_high
+1400,piaciti_24jul_will_supply_ochiali,ASPO00076089 / codice 423833,supplier_letter
+1400,piaciti_31jul_sent_3_pairs,ASPO00076090,supplier_letter
+1400,gaddi_sept_12_pairs_most_perfect,ASPO00073932/73933/76013,supplier_letter
+1402,gifts_spectacles_to_bonifazio_ruspi,Origo accounts 5 Aug 1402,gift_not_self_wear
+1410,death,standard bio,bio
