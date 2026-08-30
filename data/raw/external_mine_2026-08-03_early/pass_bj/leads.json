@@ -1,0 +1,44 @@
+{
+  "pass": "BJ",
+  "date": "2026-08-05",
+  "direction": "freeze B1-Output SESOI +5; close Voiture short-window; living OA/IA scout dry",
+  "output_sesoi5_freeze": {
+    "status": "PASS_RAW",
+    "n_pairs": 44,
+    "median_delta": 6.0,
+    "boot95": [
+      3.0,
+      8.75
+    ],
+    "share_gt_0": 0.705,
+    "n_ge_5": 24,
+    "sesoi15": "FAIL_OR_UNAVAILABLE",
+    "robustness": {
+      "death_strip_keep_office": "PASS (BI: med 5.0 CI [1.5,7.5])",
+      "wyatt_delta_to_0": "PASS (BI: med 5.0 CI [2.0,8.75])",
+      "curated_years_authoritative": true,
+      "exclude_death_before_45": true
+    },
+    "do_not_claim_without": [
+      "primary=textual brain-work only",
+      "curated wearer years authoritative loader",
+      "BH/BI control densify state"
+    ]
+  },
+  "living_oa_scout": {
+    "IA_advancedsearch": "403 via proxy \u2014 dry this pass",
+    "new_cleux_bar_promote": null
+  },
+  "soft_closes": {
+    "voiture_vincent": "SHORT-WINDOW CLOSED: onset~1647 d.1648 ya_act=1; no multi-point post-wear possible"
+  },
+  "soft_stock_onsetish_hard_false": 17,
+  "library_gated": [
+    "bourchier_henry_bath",
+    "jeffreys_joyce",
+    "hesselin_denis comptes"
+  ],
+  "third_party_blocked": [
+    "unwin_mary"
+  ]
+}

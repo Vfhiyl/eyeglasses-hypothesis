@@ -1,0 +1,42 @@
+person_id,name,bucket,n_works,t_span45,med_c,delta,n_ctrl,strict_primary,ctrl_mix,quality_tier,wearer_confidence
+filelfo,Francesco Filelfo,humanist,5,37.0,18.0,19.0,11,1,curated;wd,strict_overlap,
+hesselin_denis,Denis Hesselin (Hasselin) Prevot des Marchands de Paris,clerk,2,36.0,19.0,17.0,5,0,curated,expanded_ok,medium
+petrarch,Francesco Petrarca,humanist,19,29.0,13.5,15.5,6,1,curated;wd,strict_overlap,
+sixtus_iv,Pope Sixtus IV (Francesco della Rovere),ruler_cleric,3,22.0,11.5,10.5,4,1,curated,strict_overlap,
+maurolico_francesco,Francesco Maurolico,humanist,7,36.0,26.0,10.0,8,1,curated;wd,strict_overlap,medium
+spinelli_benedetto,Benedetto di Guaspare Spinelli,merchant,2,19.0,9.0,10.0,3,0,curated,coverage_low,low
+tranchedini,Nicodemo Tranchedini,humanist,8,23.0,13.0,10.0,11,1,curated;wd,strict_overlap,medium
+sforza_francesco,Francesco I Sforza,ruler,14,23.0,13.5,9.5,4,0,curated;wd,expanded_ok,medium
+charles_orleans,Charles I Duke of Orléans,ruler,5,22.0,13.0,9.0,5,0,curated,expanded_ok,medium
+lotto,Lorenzo Lotto,artisan,11,27.0,18.5,8.5,6,0,curated;wd,expanded_ok,
+richardson_richard_jr,Richard Richardson the younger (Bierley),humanist,2,24.0,16.0,8.0,8,1,curated;wd,strict_overlap,medium
+alessandra_strozzi,Alessandra Macinghi Strozzi,letter_writer,18,19.0,12.0,7.0,10,1,curated;wd,strict_overlap,medium
+spataro_giovanni,Giovanni Spataro,humanist,2,30.0,24.0,6.0,4,1,curated;wd,strict_overlap,medium
+philippe_le_hardi,Philippe II le Hardi Duke of Burgundy,ruler,2,16.0,12.0,4.0,4,0,curated,expanded_ok,medium
+ammannati,Iacopo Ammannati Piccolomini,humanist,22,12.0,9.0,3.0,6,1,curated;wd,strict_overlap,medium
+wyatt_henry,Henry Wyatt,clerk,3,26.0,23.0,3.0,4,0,curated,expanded_ok,medium
+arduino_baiso,Arduino da Baiso,artisan,2,24.0,22.0,2.0,4,0,curated;wd,coverage_low,low
+gonzaga_ludovico,Ludovico III Gonzaga,ruler,3,16.0,15.0,1.0,5,0,curated;wd,expanded_ok,medium
+policastro,Iacobo de Policastro,admin,13,23.0,25.0,-2.0,5,1,curated,strict_overlap,medium
+wood_anthony,Anthony Wood,humanist,10,18.0,20.0,-2.0,11,1,curated;wd,strict_overlap,medium
+barbara_brandenburg,Barbara of Brandenburg,ruler,9,12.0,15.0,-3.0,5,0,curated,expanded_ok,medium
+jacopo_magnia_friar,Fra Iacopo della Magnia,cleric,1,20.0,23.0,-3.0,5,0,curated,coverage_low,low
+joris_van_der_paele,Joris (Canon) van der Paele,other,2,21.0,24.0,-3.0,4,0,curated,coverage_low,low
+pius_ii,Pope Pius II,ruler_cleric,4,14.0,17.0,-3.0,4,1,curated;wd,strict_overlap,medium
+rene_ii_lorraine,Rene II Duke of Lorraine,ruler,2,12.0,16.0,-4.0,3,0,curated,coverage_low,low
+pirckheimer,Willibald Pirckheimer,humanist,13,13.0,18.0,-5.0,6,1,curated;wd,strict_overlap,medium
+wolsey,Thomas Wolsey,ruler_cleric,4,11.0,17.0,-6.0,7,1,curated,strict_overlap,medium
+egidio_piacenza,Fra Egidio da Piacenza,cleric,1,10.0,17.0,-7.0,9,0,curated;wd,coverage_low,low
+lynnet_william,William Lynnet,cleric,5,23.0,30.5,-7.5,6,1,curated,strict_overlap,medium
+henry_viii,Henry VIII,ruler,2,0.0,9.0,-9.0,4,0,curated,expanded_ok,
+nicolas_de_baye,Nicolas de Baye (greffier du Parlement de Paris),clerk,3,9.0,19.0,-10.0,5,1,curated;wd,strict_overlap,medium
+azevedo_joao_porto,João de Azevedo Bishop of Porto,cleric,3,18.0,28.5,-10.5,4,1,curated;wd,strict_overlap,medium
+cederni,Bartolomeo Cederni,clerk,3,17.0,27.5,-10.5,4,1,curated,strict_overlap,medium
+ardingelli_bese,Bese di Giovanni Ardingelli,merchant,2,7.0,18.5,-11.5,4,1,curated,strict_overlap,medium
+domenichi_ludovico,Lodovico (Ludovico) Domenichi,humanist,9,4.0,16.0,-12.0,7,1,curated;wd,strict_overlap,medium
+lorenzo_medici,Lorenzo de' Medici (il Magnifico),other,6,0.0,13.0,-13.0,7,1,curated;wd,strict_overlap,medium
+neri_mici,Ser Neri Mici da Bibbiena,clerk,1,0.0,13.0,-13.0,3,0,curated,coverage_low,low
+bianca_maria,Bianca Maria Visconti,ruler,2,0.0,16.5,-16.5,4,0,curated,expanded_ok,medium
+leo_x,Pope Leo X (Giovanni de Medici),ruler_cleric,3,1.0,20.0,-19.0,9,1,curated,strict_overlap,medium
+strozzi_filippo,Filippo Strozzi the Elder,merchant,1,5.0,24.5,-19.5,4,1,curated,strict_overlap,medium
+datini,Francesco di Marco Datini,merchant,1,0.0,30.0,-30.0,3,1,wd,strict_overlap,

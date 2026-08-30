@@ -9,6 +9,9 @@ CONNECT and SOCKS4/5), hunts when quality is low, and fails over within a
 per-request time budget. Clients always speak HTTP CONNECT to this gateway;
 SOCKS upstreams are wrapped transparently.
 
+Paid Evomi sessions are hardcoded in HARDCODED_PREMIUM_PROXIES (preferred by default).
+Extra URLs can still be passed with --premium.
+
 Stability v4 (anti-MITM gate + CONNECT tunnel):
   - Hunter: active probe on query.wikidata.org (YE1 + SPARQL) → pool admission
   - CONNECT default: anti-MITM TLS probe through upstream BEFORE 200 (OS trust store
@@ -17,6 +20,10 @@ Stability v4 (anti-MITM gate + CONNECT tunnel):
   - --no-anti-mitm-probe: skip probe (v3 tunnel-only; browser may see cert errors)
   - Live score: per-destination-host route quarantine on probe/tunnel failure
   - sticky: per-target-host sticky upstream
+  - Hunt triggers (v4.1): global usable < min; OR primary host route-eligible < min;
+    OR recent fail-rate high; OR CONNECT exhausted / empty pick → immediate wake.
+    Do NOT treat "global usable≥3" as healthy while www/query.wikidata.org are route-thin.
+  - Premium: always tried first when not route-quarantined; free pool is fallback.
 
 Foreground only — Ctrl+C exits. Logs on state changes (not every byte) to
 console and outputs/logs/wikidata_proxy_gateway.log (truncated on each start).
@@ -25,10 +32,12 @@ Examples:
   .venv/bin/python scripts/wikidata_proxy_gateway.py
   .venv/bin/python scripts/wikidata_proxy_gateway.py --listen 12309 --budget 30 --min-usable 3
   .venv/bin/python scripts/wikidata_proxy_gateway.py --no-anti-mitm-probe  # v3 tunnel-only
+  .venv/bin/python scripts/wikidata_proxy_gateway.py
 """
 from __future__ import annotations
 
 import argparse
+import hashlib
 import random
 import select
 import socket
@@ -42,7 +51,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from _paths import OUTPUT_LOGS  # noqa: E402
-from _upstream_tunnel import open_upstream_tunnel  # noqa: E402
+from _upstream_tunnel import open_upstream_tunnel, parse_upstream_spec  # noqa: E402
 from _wikidata_http import (  # noqa: E402
     peer_is_os_trusted_leaf,
     peer_is_trusted_public_ca,
@@ -56,6 +65,37 @@ from check_https_proxy_cert import (  # noqa: E402
 )
 
 DEFAULT_LOG_FILE = OUTPUT_LOGS / "wikidata_proxy_gateway.log"
+
+# Evomi sticky sessions (host:port shared; password suffix = sticky exit).
+# Same host:port must stay distinct in the pool via session id in the key.
+HARDCODED_PREMIUM_PROXIES: tuple[str, ...] = (
+    # credentials removed from history; see config/wikidata_premium.local.env
+)
+
+
+def _upstream_key(
+    proto: str,
+    host: str,
+    port: int,
+    *,
+    username: str | None = None,
+    password: str | None = None,
+) -> str:
+    """Unique pool key. Auth/session must disambiguate shared host:port exits."""
+    base = f"{proto}://{host}:{port}"
+    if username is None and password is None:
+        return base
+    if password and "_session-" in password:
+        sess = password.rsplit("_session-", 1)[-1]
+        return f"{base}|{username or ''}|s-{sess}"
+    dig = hashlib.sha256(f"{username}:{password}".encode()).hexdigest()[:10]
+    return f"{base}|{username or ''}|{dig}"
+
+
+def _session_tag(password: str | None) -> str:
+    if password and "_session-" in password:
+        return password.rsplit("_session-", 1)[-1]
+    return ""
 
 # ---------------------------------------------------------------------------
 # Console + file (state-change only)
@@ -96,6 +136,11 @@ RECENT_WINDOW_S = 300.0  # 5 minutes
 HUNT_BOOST_HALFLIFE_S = 90.0  # hunt YE1 boost fades fast without live traffic
 ROUTE_QUARANTINE_BASE_S = 25.0
 ROUTE_QUARANTINE_CAP_S = 300.0
+# Hosts that must stay route-eligible; global "usable" alone is not enough.
+PRIMARY_HUNT_HOSTS = ("query.wikidata.org", "www.wikidata.org")
+RECENT_FAIL_WINDOW_S = 60.0
+RECENT_FAIL_MIN_N = 3
+RECENT_FAIL_RATE_HUNT = 0.40  # hunt if fail/(ok+fail) ≥ this in the window
 
 
 @dataclass
@@ -114,6 +159,9 @@ class ProxyStat:
     host: str
     port: int
     proto: str = "http"  # http | socks5 | socks4
+    username: str | None = None
+    password: str | None = None
+    premium: bool = False
     attempts: int = 0
     connect_ok: int = 0
     ye1_ok: int = 0
@@ -137,7 +185,21 @@ class ProxyStat:
 
     @property
     def key(self) -> str:
-        return f"{self.proto}://{self.host}:{self.port}"
+        return _upstream_key(
+            self.proto,
+            self.host,
+            self.port,
+            username=self.username,
+            password=self.password,
+        )
+
+    def label(self) -> str:
+        if self.premium:
+            u = self.username or "?"
+            sess = _session_tag(self.password)
+            tail = f"/s-{sess}" if sess else ""
+            return f"premium:{self.proto}://{u}:***@{self.host}:{self.port}{tail}"
+        return self.key
 
     def effective_score(self, now: float | None = None) -> float:
         now = now or time.time()
@@ -184,6 +246,7 @@ class ProxyPool:
         sticky_ttl: float = 60.0,
         quarantine_base: float = 45.0,
         quarantine_cap: float = 600.0,
+        prefer_premium: bool = True,
     ) -> None:
         self._lock = threading.RLock()
         self._proxies: dict[str, ProxyStat] = {}
@@ -193,6 +256,7 @@ class ProxyPool:
         self.sticky_ttl = sticky_ttl
         self.quarantine_base = quarantine_base
         self.quarantine_cap = quarantine_cap
+        self.prefer_premium = prefer_premium
         self.req_ok = 0
         self.req_fail = 0
         # Global sticky kept for hunter-era compatibility; CONNECT uses per-host sticky.
@@ -200,6 +264,10 @@ class ProxyPool:
         self._sticky_until: float = 0.0
         self._sticky_by_host: dict[str, tuple[str, float]] = {}
         self._routes: dict[tuple[str, str], RouteStat] = {}
+        # Recent CONNECT outcomes (ts, ok) — drives fail-rate hunting.
+        self._recent_req: list[tuple[float, bool]] = []
+        # Hunter wake-up: set on exhausted CONNECT / high fail pressure.
+        self.hunt_wake = threading.Event()
 
     def size(self) -> int:
         with self._lock:
@@ -226,6 +294,43 @@ class ProxyPool:
                 if not self._is_quarantined(p, now) and p.effective_score(now) >= self.score_floor
             ]
 
+    def _push_recent(self, ok: bool) -> None:
+        now = time.time()
+        self._recent_req.append((now, ok))
+        # Cap list; prune old outside fail window + buffer.
+        cutoff = now - max(RECENT_FAIL_WINDOW_S, 120.0)
+        self._recent_req = [(t, o) for t, o in self._recent_req if t >= cutoff][-200:]
+
+    def nudge_hunt(self, reason: str) -> None:
+        """Wake hunter immediately (e.g. CONNECT exhausted all route-eligible upstreams)."""
+        log("hunt", f"nudge wake — {reason}", force=True)
+        self.hunt_wake.set()
+
+    def recent_fail_stats(self) -> tuple[int, int, float]:
+        """Return (ok, fail, fail_rate) over RECENT_FAIL_WINDOW_S."""
+        now = time.time()
+        with self._lock:
+            cutoff = now - RECENT_FAIL_WINDOW_S
+            rows = [(t, o) for t, o in self._recent_req if t >= cutoff]
+        ok = sum(1 for _, o in rows if o)
+        fail = sum(1 for _, o in rows if not o)
+        n = ok + fail
+        rate = (fail / n) if n else 0.0
+        return ok, fail, rate
+
+    def usable_for_host(self, target_host: str) -> list[ProxyStat]:
+        """Proxies that pick() could still try for this destination (not globally/route-Q)."""
+        now = time.time()
+        th = target_host.lower()
+        with self._lock:
+            return [
+                p
+                for p in self._proxies.values()
+                if not self._is_quarantined(p, now)
+                and not self._route_blocked(p.key, th, now)
+                and p.effective_score(now) >= self.score_floor
+            ]
+
     def needs_hunt(self) -> bool:
         with self._lock:
             now = time.time()
@@ -240,7 +345,52 @@ class ProxyPool:
             if not top:
                 return True
             mean = sum(p.effective_score(now) for p in top) / len(top)
-            return mean < self.score_floor + 10
+            if mean < self.score_floor + 10:
+                return True
+            # Per-primary-host: route quarantine can zero out a host while global usable looks fine.
+            for host in PRIMARY_HUNT_HOSTS:
+                n_host = sum(
+                    1
+                    for p in self._proxies.values()
+                    if not self._is_quarantined(p, now)
+                    and not self._route_blocked(p.key, host, now)
+                    and p.effective_score(now) >= self.score_floor
+                )
+                if n_host < self.min_usable:
+                    return True
+        ok, fail, rate = self.recent_fail_stats()
+        if fail >= RECENT_FAIL_MIN_N and rate >= RECENT_FAIL_RATE_HUNT:
+            return True
+        return False
+
+    def hunt_reason(self) -> str:
+        """Short reason string for logs when hunting."""
+        with self._lock:
+            now = time.time()
+            usable = [
+                p
+                for p in self._proxies.values()
+                if not self._is_quarantined(p, now) and p.effective_score(now) >= self.score_floor
+            ]
+            if len(usable) < self.min_usable:
+                return f"global_usable={len(usable)}<{self.min_usable}"
+            parts = []
+            for host in PRIMARY_HUNT_HOSTS:
+                n_host = sum(
+                    1
+                    for p in self._proxies.values()
+                    if not self._is_quarantined(p, now)
+                    and not self._route_blocked(p.key, host, now)
+                    and p.effective_score(now) >= self.score_floor
+                )
+                if n_host < self.min_usable:
+                    parts.append(f"{host}_eligible={n_host}")
+            if parts:
+                return "route_thin:" + ",".join(parts)
+        ok, fail, rate = self.recent_fail_stats()
+        if fail >= RECENT_FAIL_MIN_N and rate >= RECENT_FAIL_RATE_HUNT:
+            return f"fail_rate={rate:.0%} ({fail}f/{ok}ok in {RECENT_FAIL_WINDOW_S:.0f}s)"
+        return "score_low"
 
     def snapshot_line(self) -> str:
         with self._lock:
@@ -255,23 +405,72 @@ class ProxyPool:
             parts = []
             for p in top:
                 mark = "Q" if self._is_quarantined(p, now) else ""
-                parts.append(f"{p.key}={p.effective_score(now):.0f}{mark}")
+                prem = "*" if p.premium else ""
+                parts.append(f"{p.key}{prem}={p.effective_score(now):.0f}{mark}")
             sticky = ""
             if self._sticky_key and self._sticky_until > now:
                 sticky = f" sticky={self._sticky_key}({self._sticky_until - now:.0f}s)"
+            n_prem = sum(1 for p in self._proxies.values() if p.premium)
             return (
                 f"pool total={len(self._proxies)} usable={len(usable)} quarantined={qn} "
-                f"req_ok={self.req_ok} req_fail={self.req_fail}{sticky} "
+                f"premium={n_prem} req_ok={self.req_ok} req_fail={self.req_fail}{sticky} "
                 f"top=[{', '.join(parts) or '-'}]"
             )
 
-    def seed(self, host: str, port: int, score: float = 40.0, proto: str = "http") -> None:
-        key = f"{proto}://{host}:{port}"
+    def seed(
+        self,
+        host: str,
+        port: int,
+        score: float = 40.0,
+        proto: str = "http",
+        *,
+        username: str | None = None,
+        password: str | None = None,
+        premium: bool = False,
+    ) -> None:
+        key = _upstream_key(proto, host, port, username=username, password=password)
         with self._lock:
             if key not in self._proxies:
-                self._proxies[key] = ProxyStat(host=host, port=port, proto=proto, score=score)
-        log("add", f"seed {key} score={score:.0f}", force=True)
+                self._proxies[key] = ProxyStat(
+                    host=host,
+                    port=port,
+                    proto=proto,
+                    username=username,
+                    password=password,
+                    premium=premium,
+                    score=score,
+                )
+            else:
+                st = self._proxies[key]
+                st.score = max(st.score, score)
+                if username is not None:
+                    st.username = username
+                    st.password = password
+                if premium:
+                    st.premium = True
+        tag = "premium seed" if premium else "seed"
+        log("add", f"{tag} {key} score={score:.0f}", force=True)
         log("pool", self.snapshot_line())
+
+    def seed_premium(self, raw: str, *, score: float = 95.0) -> bool:
+        """Parse Evomi/standard URL and insert as preferred upstream. Returns True if ok."""
+        spec = parse_upstream_spec(raw, default_proto="socks5", premium=True)
+        if not spec:
+            log("cfg", f"premium parse failed: {raw[:40]}…", force=True)
+            return False
+        self.seed(
+            spec.host,
+            spec.port,
+            score=score,
+            proto=spec.proto,
+            username=spec.username,
+            password=spec.password,
+            premium=True,
+        )
+        sess = _session_tag(spec.password)
+        extra = f" session={sess}" if sess else ""
+        log("cfg", f"premium preferred → {spec.redacted()}{extra}", force=True)
+        return True
 
     def add_or_boost(
         self,
@@ -283,12 +482,21 @@ class ProxyPool:
         latency_ms: float,
         detail: str,
         proto: str = "http",
+        username: str | None = None,
+        password: str | None = None,
     ) -> None:
         """Hunter found YE1-good proxy — provisional hunt_boost, decays without live traffic."""
-        key = f"{proto}://{host}:{port}"
+        key = _upstream_key(proto, host, port, username=username, password=password)
         now = time.time()
         with self._lock:
-            st = self._proxies.get(key) or ProxyStat(host=host, port=port, proto=proto, score=25.0)
+            st = self._proxies.get(key) or ProxyStat(
+                host=host,
+                port=port,
+                proto=proto,
+                username=username,
+                password=password,
+                score=25.0,
+            )
             st.attempts += 1
             st.connect_ok += 1
             if ye1:
@@ -319,8 +527,10 @@ class ProxyPool:
         *,
         proto: str = "http",
         target_host: str | None = None,
+        username: str | None = None,
+        password: str | None = None,
     ) -> None:
-        key = f"{proto}://{host}:{port}"
+        key = _upstream_key(proto, host, port, username=username, password=password)
         now = time.time()
         with self._lock:
             st = self._proxies.get(key)
@@ -337,6 +547,7 @@ class ProxyPool:
                 st.score = min(100.0, st.score + min(15.0, st.hunt_boost * 0.25))
                 st.hunt_boost *= 0.5
             self.req_ok += 1
+            self._push_recent(True)
             self._sticky_key = key
             self._sticky_until = now + self.sticky_ttl
             if target_host:
@@ -362,15 +573,24 @@ class ProxyPool:
         *,
         timeout: bool = False,
         proto: str = "http",
+        username: str | None = None,
+        password: str | None = None,
     ) -> None:
         """Soft demote: quarantine this upstream only for target_host (not global drop)."""
-        key = f"{proto}://{host}:{port}"
+        key = _upstream_key(proto, host, port, username=username, password=password)
         now = time.time()
         th = target_host.lower()
         with self._lock:
             st = self._proxies.get(key)
             if not st:
-                st = ProxyStat(host=host, port=port, proto=proto, score=20.0)
+                st = ProxyStat(
+                    host=host,
+                    port=port,
+                    proto=proto,
+                    username=username,
+                    password=password,
+                    score=20.0,
+                )
                 self._proxies[key] = st
             st.attempts += 1
             st.failures += 1
@@ -394,24 +614,51 @@ class ProxyPool:
             if sticky and sticky[0] == key:
                 del self._sticky_by_host[th]
             self.req_fail += 1
+            self._push_recent(False)
             consec = rt.consec_fails
+            # If this host now has too few route-eligible upstreams, wake hunter.
+            n_host = sum(
+                1
+                for p in self._proxies.values()
+                if not self._is_quarantined(p, now)
+                and not self._route_blocked(p.key, th, now)
+                and p.effective_score(now) >= self.score_floor
+            )
+            thin = n_host < self.min_usable
         log(
             "route",
             f"route-Q {key} → {th} {q:.0f}s (consec={consec}) {reason[:70]}",
             force=True,
         )
         log("pool", self.snapshot_line())
+        if thin:
+            self.nudge_hunt(f"route-thin {th} eligible={n_host}<{self.min_usable}")
 
     def record_failure(
-        self, host: str, port: int, reason: str, *, timeout: bool = False, proto: str = "http"
+        self,
+        host: str,
+        port: int,
+        reason: str,
+        *,
+        timeout: bool = False,
+        proto: str = "http",
+        username: str | None = None,
+        password: str | None = None,
     ) -> None:
         """Global quarantine — hunter / optional CONNECT preflight / proxy-hard fails."""
-        key = f"{proto}://{host}:{port}"
+        key = _upstream_key(proto, host, port, username=username, password=password)
         now = time.time()
         with self._lock:
             st = self._proxies.get(key)
             if not st:
-                st = ProxyStat(host=host, port=port, proto=proto, score=20.0)
+                st = ProxyStat(
+                    host=host,
+                    port=port,
+                    proto=proto,
+                    username=username,
+                    password=password,
+                    score=20.0,
+                )
                 self._proxies[key] = st
             st.attempts += 1
             st.failures += 1
@@ -432,7 +679,7 @@ class ProxyPool:
             for h in [h for h, (k, _) in self._sticky_by_host.items() if k == key]:
                 del self._sticky_by_host[h]
             rate = st.recent_success_rate(now)
-            if st.consec_fails >= 4 and (rate is None or rate < 0.15):
+            if st.consec_fails >= 4 and (rate is None or rate < 0.15) and not st.premium:
                 del self._proxies[key]
                 log("drop", f"drop {key} consec_fails={st.consec_fails} ({reason})", force=True)
             else:
@@ -447,11 +694,35 @@ class ProxyPool:
     def pick(
         self, exclude: set[str] | None = None, *, target_host: str | None = None
     ) -> ProxyStat | None:
-        """Prefer per-host sticky; else power-of-two among globally+route-eligible."""
+        """Prefer premium, then per-host sticky; else power-of-two among eligible."""
         exclude = exclude or set()
         now = time.time()
         with self._lock:
             th = target_host.lower() if target_host else None
+
+            def _eligible(st: ProxyStat) -> bool:
+                return (
+                    st.key not in exclude
+                    and not self._is_quarantined(st, now)
+                    and not self._route_blocked(st.key, th, now)
+                    and st.effective_score(now) >= self.dead_below
+                )
+
+            if self.prefer_premium:
+                premium = [p for p in self._proxies.values() if p.premium and _eligible(p)]
+                if premium:
+                    # Prefer sticky premium for this host if still eligible.
+                    if th:
+                        sticky = self._sticky_by_host.get(th)
+                        if sticky and sticky[1] > now:
+                            st = self._proxies.get(sticky[0])
+                            if st and st.premium and _eligible(st):
+                                return st
+                    if len(premium) == 1:
+                        return premium[0]
+                    a, b = random.sample(premium, 2)
+                    return a if a.effective_score(now) >= b.effective_score(now) else b
+
             if th:
                 sticky = self._sticky_by_host.get(th)
                 if sticky and sticky[1] > now and sticky[0] not in exclude:
@@ -471,14 +742,7 @@ class ProxyPool:
                 if st and not self._is_quarantined(st, now):
                     return st
 
-            cands = [
-                p
-                for p in self._proxies.values()
-                if p.key not in exclude
-                and not self._is_quarantined(p, now)
-                and not self._route_blocked(p.key, th, now)
-                and p.effective_score(now) >= self.dead_below
-            ]
+            cands = [p for p in self._proxies.values() if _eligible(p)]
             if not cands:
                 return None
             usable = [p for p in cands if p.effective_score(now) >= self.score_floor]
@@ -494,6 +758,8 @@ class ProxyPool:
         with self._lock:
             for key in list(self._proxies):
                 st = self._proxies[key]
+                if st.premium:
+                    continue  # never idle-drop paid upstream
                 last = max(st.last_ok_at, st.last_fail_at)
                 idle = (now - last) if last > 0 else 9999.0
                 eff = st.effective_score(now)
@@ -519,9 +785,21 @@ def upstream_connect(
     target_host: str,
     target_port: int,
     timeout: float,
+    *,
+    username: str | None = None,
+    password: str | None = None,
 ) -> socket.socket:
     """Open tunnel via upstream (http/socks5/socks4). Returns connected socket."""
-    return open_upstream_tunnel(proto, proxy_host, proxy_port, target_host, target_port, timeout)
+    return open_upstream_tunnel(
+        proto,
+        proxy_host,
+        proxy_port,
+        target_host,
+        target_port,
+        timeout,
+        username=username,
+        password=password,
+    )
 
 
 def probe_upstream(
@@ -534,6 +812,8 @@ def probe_upstream(
     timeout: float,
     sparql: bool,
     cert_mode: str = "allowlist",
+    username: str | None = None,
+    password: str | None = None,
 ) -> tuple[bool, str, float, bool, bool]:
     """Return (ok, detail, latency_ms, cert_ok, sparql_ok).
 
@@ -545,7 +825,16 @@ def probe_upstream(
     sock = None
     ssock = None
     try:
-        sock = upstream_connect(proto, host, port, target_host, target_port, timeout)
+        sock = upstream_connect(
+            proto,
+            host,
+            port,
+            target_host,
+            target_port,
+            timeout,
+            username=username,
+            password=password,
+        )
         ctx = ssl.create_default_context()
         ssock = ctx.wrap_socket(sock, server_hostname=target_host)
         sock = None
@@ -565,7 +854,16 @@ def probe_upstream(
                 pass
             ssock = None
             scheme = "socks5" if proto.startswith("socks5") else ("socks4" if proto == "socks4" else "http")
-            ok_s, detail_s = sparql_smoke(f"{scheme}://{host}:{port}", timeout=min(20.0, timeout + 5))
+            if username is not None:
+                from urllib.parse import quote
+
+                proxy_url = (
+                    f"{scheme}://{quote(username, safe='')}:{quote(password or '', safe='')}"
+                    f"@{host}:{port}"
+                )
+            else:
+                proxy_url = f"{scheme}://{host}:{port}"
+            ok_s, detail_s = sparql_smoke(proxy_url, timeout=min(20.0, timeout + 5))
             sparql_ok = ok_s
             if not ok_s:
                 return False, f"cert OK but SPARQL fail: {detail_s}", (time.monotonic() - t0) * 1000, True, False
@@ -661,7 +959,7 @@ class Hunter:
             self._cursor += len(batch)
             return batch
 
-    def _hunt_once(self) -> int:
+    def _hunt_once(self, *, force: bool = False) -> int:
         if self._hunting.is_set():
             return 0
         self._hunting.set()
@@ -673,7 +971,12 @@ class Hunter:
                 batch = self._next_batch()
             if not batch:
                 return 0
-            log("hunt", f"hunting batch={len(batch)} need_usable≈{self.pool.min_usable}", force=True)
+            why = self.pool.hunt_reason() if self.pool.needs_hunt() else ("forced" if force else "manual")
+            log(
+                "hunt",
+                f"hunting batch={len(batch)} reason={why} force={force} need_usable≈{self.pool.min_usable}",
+                force=True,
+            )
             with ThreadPoolExecutor(max_workers=self.workers) as ex:
                 futs = {
                     ex.submit(
@@ -689,7 +992,12 @@ class Hunter:
                     for h, p, proto in batch
                 }
                 for fut in as_completed(futs):
-                    if self._stop.is_set() or not self.pool.needs_hunt():
+                    if self._stop.is_set():
+                        break
+                    # Forced hunts finish enough of the batch to actually refill route-thin hosts.
+                    if not force and not self.pool.needs_hunt():
+                        break
+                    if force and added >= max(2, self.pool.min_usable) and not self.pool.needs_hunt():
                         break
                     h, p, proto = futs[fut]
                     try:
@@ -708,14 +1016,24 @@ class Hunter:
             self._hunting.clear()
 
     def _loop(self) -> None:
-        # Initial fill.
+        # Initial fill; then wake on interval OR pool.hunt_wake (CONNECT failure / route-thin).
         while not self._stop.is_set():
-            if self.pool.needs_hunt():
-                self._hunt_once()
+            force = self.pool.hunt_wake.is_set()
+            if force:
+                self.pool.hunt_wake.clear()
+            need = self.pool.needs_hunt()
+            if need or force:
+                self._hunt_once(force=force or need)
             else:
-                log("hunt", f"pool healthy — idle | {self.pool.snapshot_line()}")
+                ok, fail, rate = self.pool.recent_fail_stats()
+                log(
+                    "hunt",
+                    f"pool healthy — idle | recent {fail}f/{ok}ok ({rate:.0%}) | {self.pool.snapshot_line()}",
+                )
             self.pool.decay()
-            self._stop.wait(self.interval)
+            # Fail pressure → poll sooner; otherwise normal interval. Wake early on nudge.
+            wait = 3.0 if (force or self.pool.needs_hunt()) else self.interval
+            self.pool.hunt_wake.wait(timeout=wait)
 
 
 # ---------------------------------------------------------------------------
@@ -854,6 +1172,7 @@ class Gateway:
                 if st is None:
                     # Wait for hunter / quarantine expiry — do NOT re-hammer failed upstreams.
                     last_err = "empty/quarantined pool" if self.pool.size() else "empty pool"
+                    self.pool.nudge_hunt(f"no route-eligible upstream for {target_host}")
                     time.sleep(min(2.5, max(0.8, remaining / 5)))
                     continue
                 tried.add(st.key)
@@ -872,6 +1191,8 @@ class Gateway:
                         timeout=pre_t,
                         sparql=False,
                         cert_mode="os_trust",
+                        username=st.username,
+                        password=st.password,
                     )
                     if not (ok_pf and cert_pf):
                         last_err = f"{st.key} anti-MITM: {detail_pf}"
@@ -883,6 +1204,8 @@ class Gateway:
                             f"anti-MITM {detail_pf}",
                             timeout=is_to,
                             proto=st.proto,
+                            username=st.username,
+                            password=st.password,
                         )
                         continue
                     remaining = deadline - time.monotonic()
@@ -893,21 +1216,35 @@ class Gateway:
                 t0 = time.monotonic()
                 try:
                     upstream = upstream_connect(
-                        st.proto, st.host, st.port, target_host, target_port, slice_t
+                        st.proto,
+                        st.host,
+                        st.port,
+                        target_host,
+                        target_port,
+                        slice_t,
+                        username=st.username,
+                        password=st.password,
                     )
                     lat = (time.monotonic() - t0) * 1000
                     self.pool.record_connect_success(
-                        st.host, st.port, lat, proto=st.proto, target_host=target_host
+                        st.host,
+                        st.port,
+                        lat,
+                        proto=st.proto,
+                        target_host=target_host,
+                        username=st.username,
+                        password=st.password,
                     )
                     client.sendall(b"HTTP/1.1 200 Connection Established\r\n\r\n")
+                    via = st.label()
                     if self.anti_mitm_probe:
                         detail = (
-                            f"CONNECT {target_host}:{target_port} via {st.key} "
+                            f"CONNECT {target_host}:{target_port} via {via} "
                             f"(anti-MITM {lat_pf:.0f}ms + tunnel {lat:.0f}ms, tried={len(tried)})"
                         )
                     else:
                         detail = (
-                            f"CONNECT {target_host}:{target_port} via {st.key} "
+                            f"CONNECT {target_host}:{target_port} via {via} "
                             f"(tunnel {lat:.0f}ms, tried={len(tried)})"
                         )
                     log("req", detail)
@@ -924,13 +1261,22 @@ class Gateway:
                             "short tunnel after handoff",
                             timeout=False,
                             proto=st.proto,
+                            username=st.username,
+                            password=st.password,
                         )
                     return
                 except Exception as e:
                     last_err = f"{st.key}: {e}"
                     is_to = isinstance(e, TimeoutError) or "timed out" in str(e).lower()
                     self.pool.record_route_failure(
-                        st.host, st.port, target_host, str(e), timeout=is_to, proto=st.proto
+                        st.host,
+                        st.port,
+                        target_host,
+                        str(e),
+                        timeout=is_to,
+                        proto=st.proto,
+                        username=st.username,
+                        password=st.password,
                     )
                     if upstream:
                         try:
@@ -945,6 +1291,9 @@ class Gateway:
                 "req",
                 f"FAIL CONNECT {target_host}:{target_port} after {len(tried)} upstream(s): {last_err}",
                 force=True,
+            )
+            self.pool.nudge_hunt(
+                f"CONNECT exhausted {target_host} tried={len(tried)} last={last_err[:80]}"
             )
         except Exception as e:
             log("req", f"handler error {addr}: {e}", force=True)
@@ -1003,6 +1352,32 @@ def main() -> int:
         help="seed upstream host:port (repeatable)",
     )
     ap.add_argument(
+        "--premium",
+        action="append",
+        default=[],
+        help=(
+            "extra paid upstream URL (repeatable), in addition to HARDCODED_PREMIUM_PROXIES. "
+            "Formats: socks5://user:pass@host:port OR socks5://host:port:user:pass"
+        ),
+    )
+    ap.add_argument(
+        "--no-hardcoded-premium",
+        action="store_true",
+        help="skip HARDCODED_PREMIUM_PROXIES (only --premium extras, if any)",
+    )
+    ap.add_argument(
+        "--prefer-premium",
+        action=argparse.BooleanOptionalAction,
+        default=True,
+        help="try paid upstream(s) before free pool (default on)",
+    )
+    ap.add_argument(
+        "--premium-smoke",
+        type=int,
+        default=3,
+        help="smoke-test up to N hardcoded premium sessions at start (0=skip)",
+    )
+    ap.add_argument(
         "--log-file",
         default=str(DEFAULT_LOG_FILE),
         help=f"log file (truncated on each start; default {DEFAULT_LOG_FILE})",
@@ -1014,7 +1389,8 @@ def main() -> int:
     log(
         "cfg",
         f"v4 sticky_ttl={args.sticky_ttl:.0f}s quarantine_base={args.quarantine_base:.0f}s "
-        f"budget={args.budget:.0f}s anti_mitm_probe={args.anti_mitm_probe}",
+        f"budget={args.budget:.0f}s anti_mitm_probe={args.anti_mitm_probe} "
+        f"prefer_premium={args.prefer_premium}",
         force=True,
     )
 
@@ -1023,12 +1399,74 @@ def main() -> int:
         score_floor=args.score_floor,
         sticky_ttl=args.sticky_ttl,
         quarantine_base=args.quarantine_base,
+        prefer_premium=args.prefer_premium,
     )
     for s in args.seed:
         parsed = parse_proxy_line(s)
         if parsed:
             h, p, proto = parsed
             pool.seed(h, p, proto=proto)
+
+    premium_urls: list[str] = []
+    if not args.no_hardcoded_premium:
+        premium_urls.extend(HARDCODED_PREMIUM_PROXIES)
+    premium_urls.extend(args.premium)
+    seen_prem: set[str] = set()
+    n_seeded = 0
+    for raw in premium_urls:
+        if raw in seen_prem:
+            continue
+        seen_prem.add(raw)
+        if pool.seed_premium(raw):
+            n_seeded += 1
+    log("cfg", f"premium seeded={n_seeded} (hardcoded={not args.no_hardcoded_premium})", force=True)
+
+    # Smoke a few sessions in parallel (not all 10 — keeps startup snappy).
+    premium_stats = [p for p in pool.usable() if p.premium]
+    random.shuffle(premium_stats)
+    smoke_n = max(0, min(args.premium_smoke, len(premium_stats)))
+    smoke_targets = premium_stats[:smoke_n]
+
+    def _smoke_one(st: ProxyStat) -> tuple[ProxyStat, bool, str, float]:
+        ok, detail, lat, cert_ok, _ = probe_upstream(
+            st.host,
+            st.port,
+            proto=st.proto,
+            target_host=args.host,
+            target_port=args.port,
+            timeout=12.0,
+            sparql=False,
+            cert_mode="os_trust",
+            username=st.username,
+            password=st.password,
+        )
+        return st, bool(ok and cert_ok), detail, lat
+
+    if smoke_targets:
+        with ThreadPoolExecutor(max_workers=min(5, len(smoke_targets))) as ex:
+            for st, ok, detail, lat in ex.map(_smoke_one, smoke_targets):
+                if ok:
+                    pool.record_connect_success(
+                        st.host,
+                        st.port,
+                        lat,
+                        proto=st.proto,
+                        target_host=args.host,
+                        username=st.username,
+                        password=st.password,
+                    )
+                    log("cfg", f"premium smoke OK {st.label()} {lat:.0f}ms ({detail})", force=True)
+                else:
+                    pool.record_route_failure(
+                        st.host,
+                        st.port,
+                        args.host,
+                        f"premium smoke: {detail}",
+                        proto=st.proto,
+                        username=st.username,
+                        password=st.password,
+                    )
+                    log("cfg", f"premium smoke FAIL {st.label()}: {detail}", force=True)
 
     hunter = Hunter(
         pool,

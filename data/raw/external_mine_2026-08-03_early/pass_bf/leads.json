@@ -1,0 +1,38 @@
+{
+  "pass": "BF",
+  "direction": "pepys/strozzi/wolsey negatives + cederni median tip",
+  "moves": {
+    "pepys_samuel": {
+      "before": -7.0,
+      "after": 6.0,
+      "note": "RS 1684 + death 1703; retire Ray"
+    },
+    "strozzi_filippo": {
+      "before": -6.5,
+      "after": 10.0,
+      "note": "retire Portinari/Dei; +Piero de'Medici"
+    },
+    "wolsey": {
+      "before": -6.0,
+      "after": -2.0,
+      "note": "retire Tunstall/Fisher"
+    },
+    "cederni": {
+      "before": 4.0,
+      "after": 8.0,
+      "note": "death 1482 harvest; retire Simonetta \u2014 tips median to 5.0"
+    }
+  },
+  "primary_summary": {
+    "n": 44,
+    "median_delta": 5.0,
+    "boot95": [
+      0.0,
+      8.0
+    ],
+    "n_ge_5": 22,
+    "sesoi5": "PASS_RAW",
+    "sesoi15": "FAIL_OR_UNAVAILABLE",
+    "note": "SESOI +5 raw: median\u22655 and CI lo\u22650 (docs/B1_OUTPUT_SESOI.md). Still provisional on densify caveats."
+  }
+}

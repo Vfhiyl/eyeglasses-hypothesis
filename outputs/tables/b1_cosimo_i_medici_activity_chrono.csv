@@ -1,0 +1,4 @@
+person_id,date,kind,note,source
+cosimo_i_medici,1566-03-05,spectacle_purchase,MIA MdP 6435: pays Miseroni scudi 2 for two pairs of dust-crystal occhiali among crystal work. ONSET of this purchase pin (not a reading-onset tip).,MIA document_6435.json
+cosimo_i_medici,1569-01-01,office_grand_duke,Becomes Grand Duke of Tuscany (WD Q48547 P39 / Q154849 P580 1569). Dated post-purchase public act.,Wikidata Q48547 P39
+cosimo_i_medici,1574-04-21,death_terminus_not_ya,Died 21 Apr 1574. Survival bound only — do not use as labor tip. years_after=3 to 1569.,Wikidata Q48547 P570

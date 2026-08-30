@@ -1,0 +1,56 @@
+{
+  "head" : {
+    "vars" : [ "item", "itemLabel", "birth", "death" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q103945176-9BA79B1B-CEE2-43AF-AC6F-2AD7A0486D90"
+      },
+      "itemLabel" : {
+        "type" : "literal",
+        "value" : "statement/Q103945176-9BA79B1B-CEE2-43AF-AC6F-2AD7A0486D90"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Bartholomeus"
+      },
+      "itemLabel" : {
+        "type" : "literal",
+        "value" : "https://en.wikipedia.org/wiki/Bartholomeus"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q809314"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bartholomeus"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15872891"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bartholomeus"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18627182"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bartholomeus"
+      }
+    } ]
+  }
+}

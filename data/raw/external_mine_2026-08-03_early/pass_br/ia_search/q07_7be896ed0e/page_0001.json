@@ -1,0 +1,829 @@
+{
+  "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785940100988",
+  "version": "1x7o",
+  "session_context": {
+    "session_key": "user__alanobrienterry918272@gmail.com",
+    "created": "2026-08-05T14:28:24Z",
+    "client_characterization": {
+      "characterized_by": "asserted_or_authenticated",
+      "preferred_client_ip": null,
+      "client_ip": "23.229.125.197:sra",
+      "preferred_client_useragent": null,
+      "client_useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36:sua",
+      "preferred_client_id": null,
+      "client_id": "alanobrienterry918272@gmail.com:sco"
+    },
+    "username": "alanobrienterry918272@gmail.com",
+    "authentication_method": "cookie",
+    "is_system": false,
+    "is_guest": false,
+    "is_user": true,
+    "is_archive_user": false,
+    "is_qualified": false,
+    "is_archivist": false,
+    "has_universal_privs": false,
+    "has_collection_priv": false,
+    "has_allowed_host_priv": false,
+    "has_vpn_host_priv": false,
+    "has_scan_center_priv": false,
+    "has_any_priv": false,
+    "has_any_priv_permissive": false,
+    "pps": {
+      "is_page_target_owner": false,
+      "contributed_review_on_page": false,
+      "full_text_search_override": false,
+      "sees_sensitive_fields": false
+    },
+    "pps_relevant_user_preferences": {
+      "display__blur_moderated_content": "on"
+    }
+  },
+  "request": {
+    "client_request_parameters": {
+      "client": "page_production_service_endpoint",
+      "user_query": "(\"pair of spectacles\" OR \"paire of spectacles\" OR \"pairs of spectacles\") AND (accounts OR household OR disbursed OR paid)",
+      "hits_per_page": 25,
+      "page": 1,
+      "aggregations": [],
+      "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785940100988",
+      "client_url": "https://archive.org/search?query=%28%22pair+of+spectacles%22+OR+%22paire+of+spectacles%22+OR+%22pairs+of+spectacles%22%29+AND+%28accounts+OR+household+OR+disbursed+OR+paid%29"
+    },
+    "backend_requests": {
+      "search": {
+        "root": "(self)",
+        "children": [
+          "collection_title_fetch__a612a23c992ee16275a8b72f86ae4abd"
+        ],
+        "request_type": "search",
+        "finalized_parameters": {
+          "client": "page_production_service_endpoint",
+          "user_query": "(redacted)",
+          "hits_per_page": 25,
+          "page": 1,
+          "aggregations": [],
+          "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785940100988",
+          "client_url": "https://archive.org/search?query=%28%22pair+of+spectacles%22+OR+%22paire+of+spectacles%22+OR+%22pairs+of+spectacles%22%29+AND+%28accounts+OR+household+OR+disbursed+OR+paid%29",
+          "page_type": "search_results",
+          "fields": [
+            "_tile_"
+          ],
+          "sort": [
+            "_relevance_:desc",
+            "identifier"
+          ],
+          "aggregations_size": 10,
+          "service_backend": "metadata",
+          "scope": "standard",
+          "feature_flags": {
+            "complex_facets": true,
+            "collection_titles": true,
+            "redact_collections": true,
+            "redact_collections_by_privs": false,
+            "redact_empty_collections": true,
+            "redact_admin_collections": true,
+            "protect_flagging_collections": true
+          },
+          "service": "service__metadata__load_balanced"
+        }
+      },
+      "collection_title_fetch__a612a23c992ee16275a8b72f86ae4abd": {
+        "root": "search",
+        "parent": "search",
+        "request_type": "collection_title_fetch",
+        "finalized_parameters": {
+          "page_type": "document_fetch",
+          "user_query": "(redacted)",
+          "aggregations": [],
+          "caching": null,
+          "fields": [
+            "identifier",
+            "title"
+          ],
+          "search_as_system": true,
+          "page": 1,
+          "hits_per_page": 250,
+          "sort": [
+            "_efficient_"
+          ],
+          "service_backend": "metadata",
+          "scope": "ill,printdisabled_and_music,scancenter",
+          "service": "service__metadata__load_balanced"
+        }
+      }
+    }
+  },
+  "caching": {
+    "search": {
+      "name": "PPS-1x7o-J:US-RT:s~hit-T:sr-Q:bdfb6c5b-H:25-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+      "acceptable_names": [
+        "PPS-1x7o-J:US-RT:s~std-T:sr-Q:bdfb6c5b-H:25-B:mds-RS:sta~CS::P:0+CS:some+BR:1"
+      ],
+      "configuration": {
+        "requested": [],
+        "finalized": {
+          "bypass": false,
+          "recompute": false,
+          "no_compute": false,
+          "ttl_s": 300,
+          "max_age_s": 0,
+          "miss_policy": "none"
+        }
+      },
+      "utilization": {
+        "went_to_cache": true,
+        "alternates_allowed": true,
+        "hit_alternate": false,
+        "hit_canonical": false,
+        "hit": false,
+        "miss": true,
+        "recomputed": true,
+        "stored": true,
+        "acceptable_names_tried": [
+          "PPS-1x7o-J:US-RT:s~std-T:sr-Q:bdfb6c5b-H:25-B:mds-RS:sta~CS::P:0+CS:some+BR:1"
+        ],
+        "elapsed_s": 0.895270824432373
+      },
+      "statsd_bucket": "search.pps.cache.metadata.search_results"
+    },
+    "collection_title_fetch__a612a23c992ee16275a8b72f86ae4abd": {
+      "name": "PPS-1x7o-J:US-RT:ctf-T:df-Q:64023e2b-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1",
+      "acceptable_names": [],
+      "configuration": {
+        "requested": [],
+        "finalized": {
+          "bypass": false,
+          "recompute": false,
+          "no_compute": false,
+          "ttl_s": 300,
+          "max_age_s": 0,
+          "miss_policy": "none"
+        }
+      },
+      "utilization": {
+        "went_to_cache": true,
+        "alternates_allowed": true,
+        "hit_alternate": false,
+        "hit_canonical": false,
+        "hit": false,
+        "miss": true,
+        "recomputed": true,
+        "stored": true,
+        "elapsed_s": 0.10614204406738281
+      },
+      "statsd_bucket": "search.pps.cache.metadata.search_results"
+    },
+    "summary": {
+      "fetched": [],
+      "computed": [
+        "PPS-1x7o-J:US-RT:s~hit-T:sr-Q:bdfb6c5b-H:25-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:US-RT:ctf-T:df-Q:64023e2b-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "stored": [
+        "PPS-1x7o-J:US-RT:s~hit-T:sr-Q:bdfb6c5b-H:25-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:US-RT:ctf-T:df-Q:64023e2b-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "missed": [
+        "PPS-1x7o-J:US-RT:s~hit-T:sr-Q:bdfb6c5b-H:25-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:US-RT:ctf-T:df-Q:64023e2b-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "bypassed": []
+    }
+  },
+  "elapsed_secs": 1.017848014831543,
+  "response": {
+    "header": {
+      "succeeded": true,
+      "query_time": 492,
+      "forensics": {
+        "client_characterization": {
+          "client_ip": "23.229.125.197:sra",
+          "client_id": "alanobrienterry918272@gmail.com:sco",
+          "client_useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36:sua",
+          "preferred_client_ip": null,
+          "preferred_client_id": null,
+          "preferred_client_useragent": null,
+          "application_id": {
+            "session": [
+              "pageproduction"
+            ],
+            "request": []
+          },
+          "client_jurisdiction": "US",
+          "preferred_client_jurisdiction": null,
+          "actionable_jurisdiction": "US",
+          "characterized_by": "asserted_or_authenticated",
+          "ensured": true
+        },
+        "routing": {
+          "backend": "es-prod-metadatasearch-filtered",
+          "backend_server": "es-prod-client-o-01",
+          "routed_to_load_balanced": true,
+          "index_addressed": "prod-o-001"
+        },
+        "backend_request_elapsed_secs": {
+          "search": 0.895270824432373,
+          "collection_title_fetch__a612a23c992ee16275a8b72f86ae4abd": 0.10614204406738281
+        }
+      },
+      "elapsed_secs_for_backend_requests": 1.0014128684997559
+    },
+    "body": {
+      "hits": {
+        "total": 7,
+        "returned": 7,
+        "hits": [
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "WWS_1930031901",
+              "title": "The Wainwright star (1930-03-19)",
+              "description": "Page 1: - Local News - The Town Council Sells New Bond Issue - Lewis Again Heads Hospital Board - Ireland's Patron Saint Honored - The Home Town Paper - Local News - C. N. R. Colonization Changes Announced - Local News - Oil Companies Must Supply Oil to Farmer - Picking Show Animals from Wainwright Park - Happy Gathering at Bamelis Home - Big Convention Called This Month - Pool Guarantee Prov. Act Passed - Local News - Protection Object of General Interest - Last Respects Paid Mrs. J. Russell Love - Local News - Oil News from the Wainwright Field - Local News - Farmers Attend Tractor School Page 2: - Local News Page 3: - Police of Canda and States Enlist Auto and Radio for Crime Detection Page 4: - A Pair of Spectacles - Making it Harder - Sister Provinces Set an Example - Some Good Varieties of Vegetables - The Examiner's Weekly Review of Prov. Markets - Kill the Chain Letter - Vice Regal Party to Tour West Page 5: - Minerals for March - Letters to be Editor - Moisture Conserved by...",
+              "subject": [
+                "Wainwright star"
+              ],
+              "collection": [
+                "peel_newspapers",
+                "peel",
+                "university_of_alberta_libraries"
+              ],
+              "date": "1930-03-19T00:00:00Z",
+              "year": 1930,
+              "genre": [
+                "Newspaper"
+              ],
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "item_size": 98390944,
+              "files_count": 19,
+              "downloads": 26,
+              "week": 0,
+              "month": 2,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2024-01-24T21:10:47Z",
+              "publicdate": "2024-01-24T21:10:47Z"
+            },
+            "highlight": null,
+            "_score": [
+              372.82434
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "Auckland_Unitarian_Church___Love_beyond_belief-20260308_RachelMackintosh_Nothing",
+              "title": "Nothing is Permanent",
+              "description": "Today is International Working Women’s Day Speaker & Worship Leader:- Rachel Mackintosh Read below, or download the PDF Follow this shortcut to the bottom of the page for the various readings, quotes, etc. shared in the service. Rachel Mackintosh © 8 March 2026 In 2017 the tide was in. It was a tide of transformation. One … Continue reading Nothing is Permanent →",
+              "subject": [
+                "power between ideas"
+              ],
+              "creator": [
+                "Auckland Unitarian Church | Love beyond belief"
+              ],
+              "collection": [
+                "audio_sermons",
+                "audio_religion"
+              ],
+              "date": "2026-03-08T03:30:00Z",
+              "year": 2026,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "audio",
+              "item_size": 66826120,
+              "files_count": 8,
+              "downloads": 3,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2026-03-21T02:35:39Z",
+              "publicdate": "2026-03-21T02:35:39Z"
+            },
+            "highlight": null,
+            "_score": [
+              7.1777077
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "hy0_hooting_yard_2009-04-02",
+              "title": "Hooting Yard On The Air: Confessions Of A Door-To-Door Monkey Salesman",
+              "description": "Confessions Of A Door-To-Door Monkey Salesman - 00:15 Sieve Project - 16:13 Flamboyance And Palsy - 23:35",
+              "creator": [
+                "Frank Key"
+              ],
+              "collection": [
+                "hooting-yard",
+                "podcasts"
+              ],
+              "date": "2009-04-02T00:00:00Z",
+              "year": 2009,
+              "mediatype": "audio",
+              "item_size": 43848225,
+              "files_count": 9,
+              "downloads": 104,
+              "week": 1,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2020-12-23T02:29:50Z",
+              "publicdate": "2020-12-23T02:29:50Z"
+            },
+            "highlight": null,
+            "_score": [
+              4.2591267
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "VOA_Africa_20191010_030000",
+              "title": "VOA [Voice of America] Africa : October 09, 2019 11:00PM-12:00AM EDT",
+              "description": "Closed captions transcript: 00:00:00 Planning to shut off power to nearly 800000 customers to prevent possible forest 00:00:04 fires and parts of northern and central coastal California be any confirmed it will 00:00:10 proactively shut down power in those areas for up to 5 days for customers in 34 00:00:16 counties in California the companies calling the intentional power cut public 00:00:21 safety power shut offs P.C.P.'s will affect people's homes as well as public 00:00:27 services like traffic lights hospitals are using backup generators and likely will 00:00:32 remain open along with the emergency services cell phone companies have as said 00:00:37 most cell phones should work as long as they're charged already utility company is 00:00:41 citing 00:00:42 a forecast of dry hot in windy weather with high potential for fire risk projection 00:00:48 showed peak winds forecasted for at least the next couple of days and they could 00:00:52 reach 962112 kilometers per hour in the...",
+              "subject": [
+                "Radio Program",
+                "Political parties",
+                "Chief executive officers",
+                "Law enforcement",
+                "Liberal democracies",
+                "Countries of the Indian Ocean",
+                "Social economy",
+                "Western Asia",
+                "G20 nations",
+                "American politicians",
+                "Commonwealth republics",
+                "Republics",
+                "Bantu countries and territories",
+                "Member states of the Commonwealth of Nations",
+                "Types of organization",
+                "White House",
+                "Member states of the African Union",
+                "Regions of Africa",
+                "Federal architecture in Washington, D.C.",
+                "Member states of the United Nations",
+                "Corporate governance",
+                "North Africa",
+                "Political science",
+                "Metropolitan areas of China",
+                "Corporate executives",
+                "Criminal law",
+                "Political terminology"
+              ],
+              "collection": [
+                "Radio-VOA-Africa",
+                "radio",
+                "radioprograms"
+              ],
+              "date": "2019-10-10T00:00:00Z",
+              "year": 2019,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "audio",
+              "item_size": 60065439,
+              "files_count": 14,
+              "downloads": 99,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2019-10-10T04:09:19Z",
+              "publicdate": "2019-10-10T04:09:31Z"
+            },
+            "highlight": null,
+            "_score": [
+              3.924152
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "VOA_Africa_20191010_040000",
+              "title": "VOA [Voice of America] Africa : October 10, 2019 12:00AM-01:00AM EDT",
+              "description": "Closed captions transcript: 00:00:00 Gas company for which Biden's son Hunter held a seat this is v.o.a. 00:00:04 News federal prosecutors in Germany have assumed control of an investigation to the 00:00:09 shooting deaths of 2 people in the city of holly in the country's federal 00:00:13 prosecutor handles cases involving possible terrorism and national security and 00:00:19 shootings occurred near a synagogue in a Turkish kabobs restaurant 00:00:23 a heavily armed man tried to enter the synagogue as about 80 people were inside 00:00:28 observing young comport one of the holiest days on the Jewish calendar and when he 00:00:32 was unable to get inside he shot 00:00:34 a woman on the street and then another person inside the shop at one point 00:00:39 California power company Pacific Gas and Electric shut all power to as many as 00:00:44 2000000 customers as the company's way of reducing the possibility of sparks 00:00:49 causing devastating wildfires in 00:00:51 a region that's...",
+              "subject": [
+                "Radio Program",
+                "Chief executive officers",
+                "Law enforcement",
+                "American politicians",
+                "Countries of the Indian Ocean",
+                "G20 nations",
+                "Liberal democracies",
+                "Political terminology",
+                "Bantu countries and territories",
+                "Commonwealth republics",
+                "Member states of the Commonwealth of Nations",
+                "White House",
+                "Republics",
+                "Member states of the African Union",
+                "George Mason",
+                "Regions of Africa",
+                "Universities and colleges accredited by the Southern Association of Colleges and Schools",
+                "Federal architecture in Washington, D.C.",
+                "Member states of the United Nations",
+                "Corporate governance",
+                "Criminal law",
+                "Metropolitan areas of China",
+                "Members of the Annapolis Group",
+                "Corporate executives",
+                "Political science",
+                "National security",
+                "American Roman Catholics"
+              ],
+              "collection": [
+                "Radio-VOA-Africa",
+                "radio",
+                "radioprograms"
+              ],
+              "date": "2019-10-10T00:00:00Z",
+              "year": 2019,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "audio",
+              "item_size": 91193811,
+              "files_count": 16,
+              "downloads": 103,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2019-10-10T05:09:27Z",
+              "publicdate": "2019-10-10T05:09:38Z"
+            },
+            "highlight": null,
+            "_score": [
+              3.8760862
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "VOA_Africa_20191010_050000",
+              "title": "VOA [Voice of America] Africa : October 10, 2019 01:00AM-02:00AM EDT",
+              "description": "Closed captions transcript: 00:00:00 Biden's been at the center of the latest controversy where the president asked 00:00:04 Ukraine's leader to do him 00:00:05 a favor and investigate the former vice president and his son shooting holes in the 00:00:10 Constitution by asking foreign powers to interfere in the 2020 race he's already 00:00:16 convicted himself. In full view of the world in the American people the president 00:00:21 responded within 15 minutes tweeting it's pathetic to see Biden calling for 00:00:26 impeachment adding Joe's failing campaign gave him no other choice solderer Megami 00:00:33 at the White House. German Federal prosecutors have assumed control of an 00:00:39 investigation into the shooting deaths of 2 people in the city of Halle those 00:00:44 shootings occurred Wednesday near a synagogue and 00:00:47 a Turkish restaurant the country's federal prosecutors handle cases involving 00:00:53 possible terrorism and national security heavily armed men trying to...",
+              "subject": [
+                "Radio Program",
+                "Meteorology",
+                "American politicians",
+                "White House",
+                "Federal architecture in Washington, D.C.",
+                "Problem solving",
+                "Law enforcement",
+                "Regions of Africa",
+                "Logic",
+                "Members of the Annapolis Group",
+                "Political science",
+                "Winds",
+                "Weather",
+                "Criminal law",
+                "North Africa",
+                "Western Asia",
+                "American Roman Catholics",
+                "Scientific method",
+                "National security",
+                "Psychology",
+                "Traffic law",
+                "Philosophical terminology",
+                "Legal professions",
+                "Security",
+                "Reasoning",
+                "American brands",
+                "Agriculture"
+              ],
+              "collection": [
+                "Radio-VOA-Africa",
+                "radio",
+                "radioprograms"
+              ],
+              "date": "2019-10-10T00:00:00Z",
+              "year": 2019,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "audio",
+              "item_size": 95255105,
+              "files_count": 18,
+              "downloads": 151,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2019-10-10T06:11:34Z",
+              "publicdate": "2019-10-10T06:11:59Z"
+            },
+            "highlight": null,
+            "_score": [
+              3.6461802
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "youtube-xzN0qGXt8d4",
+              "title": "What Made George Washington Great?",
+              "description": "There would have never been a United States of America without George Washington. John Rhodehamel, author of \"George Washington: The Wonder of the Age,\" details how Washington successfully guided the budding nation through war and nurtured her in peace. #georgewashington #history #ushistory #foundingfathers SUBSCRIBE 👉 https://www.prageru.com/join Script: It’s hard to imagine there would have been a United States of America without George Washington. He was there at the birth of the nation. He successfully guided it through war and nurtured it in peace. How did he do it? Not by being a great general, a potent political theorist, or even a clever politician. He was none of those things. And yet, he was admired by generals, political theorists and politicians. Why? Because he was a man great men trusted. Thomas Jefferson, John Adams, Benjamin Franklin, James Madison and so many others looked up to him—literally. He was one of the tallest men of his era at six-foot-three. Add courage,...",
+              "subject": [
+                "Youtube",
+                "video",
+                "Education"
+              ],
+              "creator": [
+                "PragerU"
+              ],
+              "collection": [
+                "altcensored",
+                "fringe"
+              ],
+              "date": "2022-08-29T00:00:00Z",
+              "year": 2022,
+              "mediatype": "movies",
+              "item_size": 58517385,
+              "files_count": 22,
+              "downloads": 58,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "uncurated"
+              ],
+              "addeddate": "2024-01-24T10:23:41Z",
+              "publicdate": "2024-01-24T10:23:41Z"
+            },
+            "highlight": null,
+            "_score": [
+              123.56291
+            ]
+          }
+        ]
+      },
+      "collection_titles": {
+        "hooting-yard": "Hooting Yard On The Air",
+        "audio_sermons": "Sermons & Religious Lectures",
+        "podcasts": "Podcasts",
+        "peel": "Peel's Prairie Provinces",
+        "peel_newspapers": "Peel's Prairie Provinces - Newspapers",
+        "university_of_alberta_libraries": "University of Alberta Library",
+        "radio": "Radio News Archive",
+        "audio_religion": "Spirituality & Religion",
+        "radioprograms": "Radio Show and Programs Archive",
+        "altcensored": "altCensored.com"
+      }
+    },
+    "hit_schema": {
+      "item": {
+        "identifier": {
+          "multivalue": false,
+          "mapping": "string"
+        },
+        "noindex": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "optional": true
+        },
+        "title": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "description": {
+          "multivalue": false,
+          "mapping": "string",
+          "dressing": {
+            "truncate": 1000
+          },
+          "optional": true
+        },
+        "subject": {
+          "multivalue": true,
+          "mapping": "string",
+          "dressing": {
+            "truncate": 1000
+          },
+          "optional": true
+        },
+        "creator": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "collection": {
+          "multivalue": true,
+          "mapping": "string",
+          "comment": "may be a superset of metadata collection field"
+        },
+        "date": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "year": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed from date",
+          "optional": true
+        },
+        "genre": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "volume": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "type": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "language": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "mediatype": {
+          "multivalue": false,
+          "mapping": "string"
+        },
+        "licenseurl": {
+          "multivalue": false,
+          "mapping": "string__url",
+          "optional": true
+        },
+        "num_favorites": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true,
+          "comment": "computed during document construction"
+        },
+        "num_reviews": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true,
+          "comment": "computed during document construction"
+        },
+        "item_size": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "bytes; computed during document construction"
+        },
+        "files_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction"
+        },
+        "item_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction",
+          "optional": true
+        },
+        "displayed_item_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction, may be inferred from item_count",
+          "optional": true
+        },
+        "collection_files_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction, for collection items only",
+          "optional": true
+        },
+        "collection_size": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "bytes; computed during document construction, for collection items only",
+          "optional": true
+        },
+        "downloads": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "total views over item lifetime, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "week": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "views over a seven-day period, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "month": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "views over a month, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "indexflag": {
+          "multivalue": true,
+          "mapping": "string",
+          "comment": "item characterization including noindex status"
+        },
+        "lending___available_to_borrow": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___available_to_browse": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___available_to_waitlist": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___status": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "avg_rating": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true
+        },
+        "addeddate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "issue": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "format varies",
+          "optional": true
+        },
+        "source": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "format varies",
+          "optional": true
+        },
+        "reviewdate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "publicdate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "date_favorited": {
+          "multivalue": false,
+          "mapping": "date",
+          "comment": "not metadata; only present in favorites lists, sourced from Lists API",
+          "optional": true
+        },
+        "reviews_data": {
+          "multivalue": true,
+          "dressing": {
+            "truncate": false
+          },
+          "mapping": "string",
+          "comment": "untruncated JSON encoded data used for Account reviews",
+          "optional": true
+        }
+      }
+    }
+  }
+}

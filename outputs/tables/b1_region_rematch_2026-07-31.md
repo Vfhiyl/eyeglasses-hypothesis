@@ -9,15 +9,15 @@ Pre-reg required macro-region. This pass enforces it.
 
 | | |
 |--|--|
-| Onsetish with birth | 36 |
-| Any match | 36 |
-| **Strict region match** | **36** |
-| Unmatched | 0 |
-| Match levels | occ+birth+region:31;occ_relaxed+region:5 |
-| Median Δ ya45 (strict) | 6.0 |
+| Onsetish with birth | 69 |
+| Any match | 68 |
+| **Strict region match** | **67** |
+| Unmatched | 1 |
+| Match levels | birth_only:1;occ+birth+region:65;occ_relaxed+region:2 |
+| Median Δ ya45 (strict) | 8.5 |
 | SESOI +5 / +15 ya45 | PASS_RAW / FAIL_OR_UNAVAILABLE |
-| Work-proxy overlay n | 17 |
-| Work-proxy median Δ | 11.0 |
+| Work-proxy overlay n | 21 |
+| Work-proxy median Δ | 6.0 |
 
 ## Files
 

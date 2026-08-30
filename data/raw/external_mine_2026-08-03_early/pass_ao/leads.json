@@ -1,0 +1,21 @@
+{
+  "pass": "AO",
+  "goal": "soft→hard: charles_orleans via Champion Vie OA",
+  "choice_rationale": "Best OA ROI among soft early: short window but dense Champion biography with day-dated FROM-duke mandements. Hesselin still library-gated; Philippe window thin (1389–1404).",
+  "promoted_hard": [
+    "charles_orleans"
+  ],
+  "charles_orleans": {
+    "onset": "1454 Laborde estuy/lunectes 6789/6805",
+    "years_after": 10,
+    "last_hard_pin": "1464-05-14 mandement pension Pierre de Refuge (Champion)",
+    "death": "1465-01",
+    "n_dated_near_work": 13,
+    "source": "Champion Vie de Charles d'Orléans (1911) IA viedecharlesdorl00cham",
+    "chrono": "outputs/tables/b1_charles_orleans_chrono.csv",
+    "hard_dated_series": true
+  },
+  "hesselin_denis": "skip — OA comptes FROM-him still dry",
+  "philippe_le_hardi": "deferred — 15y window; only 2 spectacle pins; Burgundy densify lower ROI this pass",
+  "ingest_labor_n": "unchanged"
+}

@@ -1,0 +1,620 @@
+{
+  "pageid": 103739859,
+  "ns": 0,
+  "title": "Q108479663",
+  "lastrevid": 2351004896,
+  "modified": "2025-05-21T21:17:23Z",
+  "type": "item",
+  "id": "Q108479663",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Giovanni di Magnavia"
+    },
+    "en": {
+      "language": "en",
+      "value": "Giovanni di Magnavia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Giovanni di Magnavia"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Giovanni di Magnavia"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Giovanni di Magnavia"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Giovanni di Magnavia"
+    }
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "katholischer Bischof"
+    },
+    "en": {
+      "language": "en",
+      "value": "bishop of the Roman Catholic Church"
+    },
+    "it": {
+      "language": "it",
+      "value": "vescovo cattolico"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "\u00e9v\u00eaque catholique"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "biskup katolicki"
+    },
+    "la": {
+      "language": "la",
+      "value": "episcopus catholicus"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "bisbe cat\u00f2lic"
+    },
+    "es": {
+      "language": "es",
+      "value": "obispo cat\u00f3lico"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "katholiek bisschop"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "\u0454\u043f\u0438\u0441\u043a\u043e\u043f \u0420\u0438\u043c\u0441\u044c\u043a\u043e-\u043a\u0430\u0442\u043e\u043b\u0438\u0446\u044c\u043a\u043e\u0457 \u0446\u0435\u0440\u043a\u0432\u0438"
+    }
+  },
+  "aliases": {},
+  "claims": {
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 5,
+              "id": "Q5"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q108479663$3885F5C3-FBD9-4DA8-896F-948A70EB1091",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "9e2ce10e0966a17f58391201725e4f1ee7ee9f31",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "3bd60302f69c76cfc7f921f119a778bdff18496f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 3892772,
+                      "id": "Q3892772"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P1047": [
+                {
+                  "snaktype": "value",
+                  "property": "P1047",
+                  "hash": "25eedbb70422e87372cde62c24dc8d14afdd746b",
+                  "datavalue": {
+                    "value": "magnavia",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "ad8e21174df3e46c11b1d726e77bf3d01af06231",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2021-09-09T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P1047",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P21": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P21",
+          "hash": "85ad4b1c7348f7a5aac521135040d74e91fb5939",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 6581097,
+              "id": "Q6581097"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q108479663$4F785ADF-C476-442C-88AB-6100A7AEBDBA",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "4fbaba91351d90d214fca4b68ae7ab9d27410482",
+            "snaks": {
+              "P1047": [
+                {
+                  "snaktype": "value",
+                  "property": "P1047",
+                  "hash": "25eedbb70422e87372cde62c24dc8d14afdd746b",
+                  "datavalue": {
+                    "value": "magnavia",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "3bd60302f69c76cfc7f921f119a778bdff18496f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 3892772,
+                      "id": "Q3892772"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "0a3bb137286f7a06f4ea2f543f29533c862174ca",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2024-12-10T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P1047",
+              "P248",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P140": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P140",
+          "hash": "d2c9eca604ede83ae9ca9fc525294f8456fbb5dd",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 9592,
+              "id": "Q9592"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q108479663$1188F975-31CF-4457-A734-20AFF7920DF6",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "ab57345add500e0839ba3291c7e3716b025f8d16",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "3bd60302f69c76cfc7f921f119a778bdff18496f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 3892772,
+                      "id": "Q3892772"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P1047": [
+                {
+                  "snaktype": "value",
+                  "property": "P1047",
+                  "hash": "25eedbb70422e87372cde62c24dc8d14afdd746b",
+                  "datavalue": {
+                    "value": "magnavia",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "7e7939b9246cffb083deb2737622fdc751c41615",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2021-10-11T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P1047",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P1047": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1047",
+          "hash": "25eedbb70422e87372cde62c24dc8d14afdd746b",
+          "datavalue": {
+            "value": "magnavia",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q108479663$D373D488-47BB-400F-A804-B8DA37E44C95",
+        "rank": "normal"
+      }
+    ],
+    "P570": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P570",
+          "hash": "b1f3d180575e3837db78eabe02cdf6a4001695d3",
+          "datavalue": {
+            "value": {
+              "time": "+1364-10-29T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+            },
+            "type": "time"
+          },
+          "datatype": "time"
+        },
+        "type": "statement",
+        "id": "Q108479663$CEA655F7-12C2-4D15-AE1D-6F9A2C54A9E9",
+        "rank": "normal"
+      }
+    ],
+    "P39": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P39",
+          "hash": "1278969032c8a518b81797fdb701239680c6f158",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1144278,
+              "id": "Q1144278"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P708": [
+            {
+              "snaktype": "value",
+              "property": "P708",
+              "hash": "6b6a669e7fc101f72569d4dc9b126ce2fcfe522d",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 873561,
+                  "id": "Q873561"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ],
+          "P580": [
+            {
+              "snaktype": "value",
+              "property": "P580",
+              "hash": "b939371fdaf82d657b6c7cb3f724d9fbbf90cb55",
+              "datavalue": {
+                "value": {
+                  "time": "+1361-07-18T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ],
+          "P1365": [
+            {
+              "snaktype": "value",
+              "property": "P1365",
+              "hash": "f84c4706f0f8bf60f0b074ef2faa4b5931911a37",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 108517060,
+                  "id": "Q108517060"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ],
+          "P1366": [
+            {
+              "snaktype": "value",
+              "property": "P1366",
+              "hash": "22332c058cefaa672565079f8b04fbae4f129053",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 7179197,
+                  "id": "Q7179197"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P708",
+          "P580",
+          "P1365",
+          "P1366"
+        ],
+        "id": "Q108479663$8aac334d-18ba-4f06-97b3-bd01f4b42c60",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "47ba9c18ca4fcc7e4fe5915e57b2aabcae7b4fa0",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "3bd60302f69c76cfc7f921f119a778bdff18496f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 3892772,
+                      "id": "Q3892772"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P1047": [
+                {
+                  "snaktype": "value",
+                  "property": "P1047",
+                  "hash": "25eedbb70422e87372cde62c24dc8d14afdd746b",
+                  "datavalue": {
+                    "value": "magnavia",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "6b1ab1d593c2501ffb6c270764474f288f0b3c91",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2021-09-14T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P1047",
+              "P813"
+            ]
+          },
+          {
+            "hash": "7dd0fdf97982f3dbc5c69a328e6050c304617fdf",
+            "snaks": {
+              "P1866": [
+                {
+                  "snaktype": "value",
+                  "property": "P1866",
+                  "hash": "665d36674b725075f1e7b9a7998a081cf2f487f5",
+                  "datavalue": {
+                    "value": "orto",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P1866"
+            ]
+          }
+        ]
+      }
+    ],
+    "P735": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P735",
+          "hash": "04ecfc301ac7434da3c0a7324c99f2f562c4859f",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1158906,
+              "id": "Q1158906"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q108479663$DE54669B-5DD2-4801-95FD-605B2A4EEC6E",
+        "rank": "normal"
+      }
+    ],
+    "P106": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P106",
+          "hash": "e3b51e796019773a0a66427b08dd4a904404f3df",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 250867,
+              "id": "Q250867"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q108479663$10DC817D-DEEF-424A-8714-6B7A068316FD",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P106",
+          "hash": "41e61fc011b0456c31296d0b4f572f5f720ba3d1",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 611644,
+              "id": "Q611644"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q108479663$6EBE6C63-34D7-4F04-82A6-CF97DA1B074C",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "22600bdcc2eeb7d4915b52c30f7c5841ce17ec97",
+            "snaks": {
+              "P1047": [
+                {
+                  "snaktype": "value",
+                  "property": "P1047",
+                  "hash": "25eedbb70422e87372cde62c24dc8d14afdd746b",
+                  "datavalue": {
+                    "value": "magnavia",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P1047"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "sitelinks": {}
+}

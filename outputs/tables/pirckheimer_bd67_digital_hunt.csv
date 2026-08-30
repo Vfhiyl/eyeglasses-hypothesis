@@ -1,0 +1,12 @@
+source,query,result,url,open_access
+STATUS_2026-08-22,Willibald Pirckheimers Briefwechsel (full set),HARD_TO_FIND — bd4-6 needed for R1 order pin are print/copyright only; remote OA dig closed (see rows below). Prefer library or Ilardi quote; stop web hunt.,n/a,no
+Heidelberg digi,pirckheimer related items,Bd.2 only; no Bd.6/7,https://digi.ub.uni-heidelberg.de/diglit/pirckheimer,no
+Internet Archive,Willibald Pirckheimers Briefwechsel,0 hits for critical edition,https://archive.org,n/a
+Internet Archive,Goldast Opera 1665,PD Opera with sparse epistolae; few 1520-30 year hits,https://archive.org/details/bub_gb_XFSzOVms1AoC,yes
+C.H. Beck shop,Bd.7 ISBN 978-3-406-57780-2,print only 2009; Inhaltsverzeichnis OA; 189 letters 1528-1530,https://www.chbeck.de/scheible-willibald-pirckheimers-briefwechsel-vii-band/product/24371,toc_only
+C.H. Beck / Ex Libris,Bd.6 ISBN 978-3-406-51761-7,print only 2004; ~1525-1527; no free fulltext found,https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/willibald-pirckheimers-briefwechsel-bd-6/id/9783406517617/,no
+MGH Bibliothek,Bd.1 1940,full PDF available (pre-wear period),https://www.mgh-bibliothek.de/dokumente/b/b078280+0001.pdf,yes
+Google Books API,ISBN Bd.6/Bd.7,rate-limited; commercial editions typically no full view,https://books.google.com,unlikely
+HathiTrust,catalog search,Cloudflare blocked bot; no prior evidence of Full View for 2004/2009 vols,https://catalog.hathitrust.org,unknown_blocked
+Open Library,Briefwechsel,catalog only; no IA identifier for vols,https://openlibrary.org/works/OL18338959W,no
+Google Books preview,Bd.5 ISBN 3-406-47190-0 zip from Downloads,Snippet only: title/Inhalt/Vorwort; Nr.760-964 = 1522-1525; no Brille in 58 frames; kept under data/raw/pirckheimer/bd5_google_preview,local zip 2026-08-22,preview_only

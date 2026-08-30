@@ -1,0 +1,30 @@
+{
+  "belluga_pere_apotecari": {
+    "hunt": "MedCat cards + Serna Box / Ferragud trail; IA/Roderic for Valencia apothecary rolls; jurist literature carefully excluded",
+    "result": "Still only fl.1435 (purchase) + 1442 inventari. No age, fill-de, guild matriculation, or birth year in OA. Procedència on cards is 'bibliografia' without published edition text online.",
+    "decision": "HOLD — OA birth hunt CLOSED until ARV/Corpus Christi protocol imaging or published Alegret edition with age clause",
+    "do_not": "Do not EST birth from adult apothecary status in 1435; do not use jurist 1392"
+  },
+  "piceto_giacomo": {
+    "identity": "Giacomo del Piccio / Pizo / Piceto / Pizeto, Seneschal General under Galeazzo Maria",
+    "living_pin": "Fresco instructions ca.1471: 'Piceto a cavalo che guardi con li ochiali…' (Welch JWCI 53 1990 p.182 via Ilardi n.50)",
+    "termini": "Still none in OA (Lubkin/Welch not free on IA; WD empty)",
+    "decision": "HOLD"
+  },
+  "ruspi_bonifazio": {
+    "note": "Already demoted low-confidence gift recipient — not reopened",
+    "decision": "SKIP"
+  },
+  "bartholomeus_padua": {
+    "note": "1318 self-report real; identity still anonymous beyond 'son of a notary'",
+    "decision": "HOLD — no b/d"
+  },
+  "jean_sans_peur": {
+    "note": "Dollfus monocle-at-27 lacks OA primary account pin this pass",
+    "decision": "HOLD pending primary"
+  },
+  "new_oa_living_pair": {
+    "result": "No Cleux-bar new promote this pass",
+    "decision": "none"
+  }
+}

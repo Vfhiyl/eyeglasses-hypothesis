@@ -1,0 +1,60 @@
+{
+  "pass": "T",
+  "date": "2026-08-03",
+  "decision": "no_ingest",
+  "direction": "Low Countries bril accounts + English Letter-Books/Exchequer + René/Rosen densify",
+  "early_stock_unchanged": {
+    "onsetish_n": 34,
+    "labor_delta_n": 28,
+    "labor_delta_median": -0.5
+  },
+  "seams": {
+    "gent_rekeningen_1376": {
+      "id": "derekeningenders00ghen",
+      "result": "no bril/spectacles",
+      "decision": "dry"
+    },
+    "geeraardsbergen_stadsrekeningen": {
+      "id": "uittrekselsuitde00fris",
+      "result": "dry",
+      "decision": "dry"
+    },
+    "delpher": {
+      "result": "404",
+      "decision": "dry"
+    },
+    "london_letter_books": {
+      "result": "no spectacles hits (false Brittles / spectancium)",
+      "decision": "dry"
+    },
+    "brantingham_issue_roll": {
+      "result": "dry",
+      "decision": "dry"
+    },
+    "scottish_exchequer_rolls": {
+      "result": "spectancium false positives only",
+      "decision": "dry"
+    },
+    "rene_lecoy_674": {
+      "pin": "1449-06-19 Guillaume Tourneville buys 2 pairs in Avignon for René",
+      "decision": "SKIP agent — wearer already rene_anjou"
+    },
+    "muntz_vol1": {
+      "result": "Pius crystal pieces only (already known)",
+      "decision": "SKIP"
+    },
+    "rosen_1956_rescan": {
+      "result": "bishop inventory death path; Manfredo/Neri/Petrarch known; makers Francesco 1317",
+      "decision": "no_new_living"
+    },
+    "cusac_genealogy_oa": {
+      "result": "OpenAlex noise; still no death",
+      "decision": "HOLD"
+    },
+    "digitarq": {
+      "result": "search UI 404",
+      "decision": "dry"
+    }
+  },
+  "new_cleux_bar_promote": null
+}

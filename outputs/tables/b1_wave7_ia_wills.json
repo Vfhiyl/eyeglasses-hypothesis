@@ -1,0 +1,1178 @@
+{
+  "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1787902337767",
+  "version": "1x7o",
+  "session_context": {
+    "session_key": "user__alanobrienterry918272@gmail.com",
+    "created": "2026-08-28T07:32:23Z",
+    "client_characterization": {
+      "characterized_by": "asserted_or_authenticated",
+      "preferred_client_ip": null,
+      "client_ip": "103.138.53.30:sra",
+      "preferred_client_useragent": null,
+      "client_useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36:sua",
+      "preferred_client_id": null,
+      "client_id": "alanobrienterry918272@gmail.com:sco"
+    },
+    "username": "alanobrienterry918272@gmail.com",
+    "authentication_method": "cookie",
+    "is_system": false,
+    "is_guest": false,
+    "is_user": true,
+    "is_archive_user": false,
+    "is_qualified": false,
+    "is_archivist": false,
+    "has_universal_privs": false,
+    "has_collection_priv": false,
+    "has_allowed_host_priv": false,
+    "has_vpn_host_priv": false,
+    "has_scan_center_priv": false,
+    "has_any_priv": false,
+    "has_any_priv_permissive": false,
+    "pps": {
+      "is_page_target_owner": false,
+      "contributed_review_on_page": false,
+      "full_text_search_override": false,
+      "sees_sensitive_fields": false
+    },
+    "pps_relevant_user_preferences": {
+      "display__blur_moderated_content": "on"
+    }
+  },
+  "request": {
+    "client_request_parameters": {
+      "client": "page_production_service_endpoint",
+      "user_query": "\"two pair spectacles\" OR \"paire spectaclys\" OR \"pair of spectacles\" will inventory",
+      "hits_per_page": 15,
+      "page": 1,
+      "aggregations": [],
+      "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1787902337767",
+      "client_url": "https://archive.org/search?query=%22two+pair+spectacles%22+OR+%22paire+spectaclys%22+OR+%22pair+of+spectacles%22+will+inventory"
+    },
+    "backend_requests": {
+      "search": {
+        "root": "(self)",
+        "children": [
+          "collection_title_fetch__c97c01484bf6c7e60cea49bb1fd5b18f"
+        ],
+        "request_type": "search",
+        "finalized_parameters": {
+          "client": "page_production_service_endpoint",
+          "user_query": "(redacted)",
+          "hits_per_page": 15,
+          "page": 1,
+          "aggregations": [],
+          "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1787902337767",
+          "client_url": "https://archive.org/search?query=%22two+pair+spectacles%22+OR+%22paire+spectaclys%22+OR+%22pair+of+spectacles%22+will+inventory",
+          "page_type": "search_results",
+          "fields": [
+            "_tile_"
+          ],
+          "sort": [
+            "_relevance_:desc",
+            "identifier"
+          ],
+          "aggregations_size": 10,
+          "service_backend": "metadata",
+          "scope": "standard",
+          "feature_flags": {
+            "complex_facets": true,
+            "collection_titles": true,
+            "redact_collections": true,
+            "redact_collections_by_privs": false,
+            "redact_empty_collections": true,
+            "redact_admin_collections": true,
+            "protect_flagging_collections": true
+          },
+          "service": "service__metadata__load_balanced"
+        }
+      },
+      "collection_title_fetch__c97c01484bf6c7e60cea49bb1fd5b18f": {
+        "root": "search",
+        "parent": "search",
+        "request_type": "collection_title_fetch",
+        "finalized_parameters": {
+          "page_type": "document_fetch",
+          "user_query": "(redacted)",
+          "aggregations": [],
+          "caching": null,
+          "fields": [
+            "identifier",
+            "title"
+          ],
+          "search_as_system": true,
+          "page": 1,
+          "hits_per_page": 250,
+          "sort": [
+            "_efficient_"
+          ],
+          "service_backend": "metadata",
+          "scope": "ill,printdisabled_and_music,scancenter",
+          "service": "service__metadata__load_balanced"
+        }
+      }
+    }
+  },
+  "caching": {
+    "search": {
+      "name": "PPS-1x7o-J:DE-RT:s~hit-T:sr-Q:94840549-H:15-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+      "acceptable_names": [
+        "PPS-1x7o-J:DE-RT:s~std-T:sr-Q:94840549-H:15-B:mds-RS:sta~CS::P:0+CS:some+BR:1"
+      ],
+      "configuration": {
+        "requested": [],
+        "finalized": {
+          "bypass": false,
+          "recompute": false,
+          "no_compute": false,
+          "ttl_s": 300,
+          "max_age_s": 0,
+          "miss_policy": "none"
+        }
+      },
+      "utilization": {
+        "went_to_cache": true,
+        "alternates_allowed": true,
+        "hit_alternate": false,
+        "hit_canonical": false,
+        "hit": false,
+        "miss": true,
+        "recomputed": true,
+        "stored": true,
+        "acceptable_names_tried": [
+          "PPS-1x7o-J:DE-RT:s~std-T:sr-Q:94840549-H:15-B:mds-RS:sta~CS::P:0+CS:some+BR:1"
+        ],
+        "elapsed_s": 0.8292210102081299
+      },
+      "statsd_bucket": "search.pps.cache.metadata.search_results"
+    },
+    "collection_title_fetch__c97c01484bf6c7e60cea49bb1fd5b18f": {
+      "name": "PPS-1x7o-J:DE-RT:ctf-T:df-Q:d3bcce57-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1",
+      "acceptable_names": [],
+      "configuration": {
+        "requested": [],
+        "finalized": {
+          "bypass": false,
+          "recompute": false,
+          "no_compute": false,
+          "ttl_s": 300,
+          "max_age_s": 0,
+          "miss_policy": "none"
+        }
+      },
+      "utilization": {
+        "went_to_cache": true,
+        "alternates_allowed": true,
+        "hit_alternate": false,
+        "hit_canonical": false,
+        "hit": false,
+        "miss": true,
+        "recomputed": true,
+        "stored": true,
+        "elapsed_s": 0.13236498832702637
+      },
+      "statsd_bucket": "search.pps.cache.metadata.search_results"
+    },
+    "summary": {
+      "fetched": [],
+      "computed": [
+        "PPS-1x7o-J:DE-RT:s~hit-T:sr-Q:94840549-H:15-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:DE-RT:ctf-T:df-Q:d3bcce57-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "stored": [
+        "PPS-1x7o-J:DE-RT:s~hit-T:sr-Q:94840549-H:15-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:DE-RT:ctf-T:df-Q:d3bcce57-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "missed": [
+        "PPS-1x7o-J:DE-RT:s~hit-T:sr-Q:94840549-H:15-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:DE-RT:ctf-T:df-Q:d3bcce57-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "bypassed": []
+    }
+  },
+  "elapsed_secs": 1.0192928314208984,
+  "response": {
+    "header": {
+      "succeeded": true,
+      "query_time": 439,
+      "forensics": {
+        "client_characterization": {
+          "client_ip": "103.138.53.30:sra",
+          "client_id": "alanobrienterry918272@gmail.com:sco",
+          "client_useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36:sua",
+          "preferred_client_ip": null,
+          "preferred_client_id": null,
+          "preferred_client_useragent": null,
+          "application_id": {
+            "session": [
+              "pageproduction"
+            ],
+            "request": []
+          },
+          "client_jurisdiction": "DE",
+          "preferred_client_jurisdiction": null,
+          "actionable_jurisdiction": "DE",
+          "characterized_by": "asserted_or_authenticated",
+          "ensured": true
+        },
+        "routing": {
+          "backend": "es-prod-metadatasearch-filtered",
+          "backend_server": "es-prod-client-o-01",
+          "routed_to_load_balanced": true,
+          "index_addressed": "prod-o-001"
+        },
+        "backend_request_elapsed_secs": {
+          "search": 0.8292210102081299,
+          "collection_title_fetch__c97c01484bf6c7e60cea49bb1fd5b18f": 0.13236498832702637
+        }
+      },
+      "elapsed_secs_for_backend_requests": 0.9615859985351562
+    },
+    "body": {
+      "hits": {
+        "total": 12266,
+        "returned": 15,
+        "hits": [
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "hypercard_audio-inventory-stack",
+              "title": "Audio Inventory Stack",
+              "description": "tack will inventory your CDs, LPs and Cassettes. It is a demo version (mostly due to download time considerations.) It is only partialy functional.",
+              "subject": [
+                "hypercard",
+                "hypercard_stack",
+                "hypercard_movies-TV-tape-CD"
+              ],
+              "creator": [
+                "Jim Mohring"
+              ],
+              "collection": [
+                "hypercardstacks",
+                "softwarelibrary",
+                "emulation"
+              ],
+              "date": "1994-05-28T00:00:00Z",
+              "year": 1994,
+              "mediatype": "software",
+              "item_size": 2222716,
+              "files_count": 8,
+              "downloads": 140,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2017-08-11T09:22:39Z",
+              "publicdate": "2017-08-11T09:22:39Z"
+            },
+            "highlight": null,
+            "_score": [
+              6138.021
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "reubensmithofpit00spur",
+              "title": "Reuben Smith, of Pittsford, Vermont : a record of more than 450 of his descendants, with will, inventory, war records, census reports, deeds, contracts, signature, etc. --",
+              "description": "Two unnumbered pages inserted between p. 58 and 59",
+              "subject": [
+                "Smith family (Reuben Smith, 1750-1834)"
+              ],
+              "creator": [
+                "Spurling, Fannie Smith, Mrs., 1876- ed",
+                "Spurling, Fannie Smith), Mrs., 1876- ed"
+              ],
+              "collection": [
+                "bostonpubliclibrary",
+                "bpllfhc",
+                "inlibrary"
+              ],
+              "date": "1939-01-01T00:00:00Z",
+              "year": 1939,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 2,
+              "item_size": 122978032,
+              "files_count": 28,
+              "downloads": 115,
+              "week": 1,
+              "month": 5,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_browse",
+              "addeddate": "2012-05-10T13:05:54Z",
+              "publicdate": "2012-05-10T13:05:57Z"
+            },
+            "highlight": null,
+            "_score": [
+              4337.835
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "willinventoryboounit",
+              "title": "Will & inventory book, Newberry county : W.P.A. project 65-33-118, sponsored by the University of S.C. ; supervised by Anne K. Gregorie ; copied by Mamie E. Kibler",
+              "description": "14 volumes ; 28 x 34 cm",
+              "subject": [
+                "Wills--South Carolina--Newberry County",
+                "Probate records--South Carolina--Newberry County",
+                "Wills -- South Carolina -- Newberry County",
+                "Probate records -- South Carolina -- Newberry County",
+                "Probate records",
+                "Wills",
+                "South Carolina -- Newberry County"
+              ],
+              "creator": [
+                "United States. Works Projects Administration. South Carolina"
+              ],
+              "collection": [
+                "allen_county"
+              ],
+              "date": "1936-01-01T00:00:00Z",
+              "year": 1936,
+              "volume": "Book N",
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 1,
+              "item_size": 254300311,
+              "files_count": 25,
+              "downloads": 139,
+              "week": 1,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "addeddate": "2022-01-10T20:49:37Z",
+              "source": "folio",
+              "publicdate": "2021-12-21T18:48:03Z"
+            },
+            "highlight": null,
+            "_score": [
+              4198.83
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "willinventoryboounit_0",
+              "title": "Will & inventory book, Newberry county : W.P.A. project 65-33-118, sponsored by the University of S.C. ; supervised by Anne K. Gregorie ; copied by Mamie E. Kibler",
+              "description": "14 volumes ; 28 x 34 cm",
+              "subject": [
+                "Wills--South Carolina--Newberry County",
+                "Probate records--South Carolina--Newberry County",
+                "Wills -- South Carolina -- Newberry County",
+                "Probate records -- South Carolina -- Newberry County",
+                "Probate records",
+                "Wills",
+                "South Carolina -- Newberry County"
+              ],
+              "creator": [
+                "United States. Works Projects Administration. South Carolina"
+              ],
+              "collection": [
+                "allen_county"
+              ],
+              "date": "1936-01-01T00:00:00Z",
+              "year": 1936,
+              "volume": "Book OND",
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 1,
+              "item_size": 272464722,
+              "files_count": 25,
+              "downloads": 149,
+              "week": 2,
+              "month": 7,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2022-01-10T20:31:08Z",
+              "source": "folio",
+              "publicdate": "2021-12-21T18:48:07Z"
+            },
+            "highlight": null,
+            "_score": [
+              4157.419
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "aiyvuyp9iaonik6bzgw6azmwgedneqcj8cdaglwv",
+              "title": "Ep. 41 | What Vet Med Gets Wrong About Inventory",
+              "description": "Nicole discusses and reviews what veterinary medicine gets wrong about inventory. Inventory management is a very misunderstood aspect of managing a practice and over the years she's heard several misconceptions frequently.In this episode, Nicole breaks down:1. It's okay to not know2. \"It's always going to suck\"3. \"My inventory will never be under control\"4. \"No one will ever WANT to manage inventory\"5. \"No one ever writes in the want book\"6. \"Because of Chewy and 1-800-PetMeds, I shouldn't even bother with inventory anymore\" For more training, download the Roadmap to Inventory Success: https://vetlogic.co/inventory-pathway/",
+              "subject": [
+                "Podcast",
+                "veterinary",
+                "veterinarian",
+                "veterinary medicine",
+                "veterinary inventory management",
+                "vet tech",
+                "veterinary technician"
+              ],
+              "creator": [
+                "Inventory Nation with Nicole Clausen - All Things Inventory Management for Veterinary Professionals"
+              ],
+              "collection": [
+                "podcasts_mirror_bobarchives",
+                "podcasts_mirror"
+              ],
+              "date": "2021-05-25T00:00:00Z",
+              "year": 2021,
+              "mediatype": "audio",
+              "item_size": 29045488,
+              "files_count": 9,
+              "downloads": 7,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2021-06-02T12:13:58Z",
+              "publicdate": "2021-06-02T12:13:58Z"
+            },
+            "highlight": null,
+            "_score": [
+              4102.283
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "tucows_314804_iMagic_Inventory",
+              "title": "iMagic Inventory",
+              "description": "This program lets you take full control of your inventory and invoicing. Save time, manage customers and get one step ahead of your competition with this inventory software. It gives you quick access to your inventory and customer details. The intelligent reordering system gives you complete control over your inventory. Order in new items weeks or months before they are needed. Analyze your invoices and track your sales with the reporting feature. Track long term trends and remove dying stock before it becomes a burden. The fully featured reporting system lets you track sales over time, making market analysis simple. Full barcode support saves you time; simply attach a barcode reader to your PC and it will fully integrate into the software. You can also build up your client database over time and use it as a valuable marketing tool. Mail merge into Word or send out special offers via e-mail.",
+              "subject": [
+                "iMagic Inventory",
+                "Business",
+                "Inventory",
+                "Inventory management",
+                "iMagic Inventory Software"
+              ],
+              "creator": [
+                "http://www.iMagicInventorySoftware.com/"
+              ],
+              "collection": [
+                "tucows",
+                "softwaresites"
+              ],
+              "date": "2004-08-11T00:00:00Z",
+              "year": 2004,
+              "mediatype": "software",
+              "item_size": 13047156,
+              "files_count": 6,
+              "downloads": 781,
+              "week": 2,
+              "month": 12,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2004-11-02T12:54:43Z",
+              "publicdate": "2004-11-08T03:24:31Z"
+            },
+            "highlight": null,
+            "_score": [
+              3912.9626
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "jstor-1915524",
+              "title": "Will and Inventory of Hon. John Tyler",
+              "description": "\"Will and Inventory of Hon. John Tyler\" is an article from The William and Mary Quarterly, Volume 17 . View more articles from The William and Mary Quarterly . View this article on JSTOR . View this article's JSTOR metadata . You may also retrieve all of this items metadata in JSON at the following URL: https://archive.org/metadata/jstor-1915524",
+              "creator": [
+                "Tyler, John"
+              ],
+              "collection": [
+                "jstor_willmaryquar",
+                "jstor_ejc",
+                "journals"
+              ],
+              "date": "1909-04-01T00:00:00Z",
+              "year": 1909,
+              "volume": "17",
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 2854368,
+              "files_count": 16,
+              "downloads": 318,
+              "week": 2,
+              "month": 4,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2013-03-19T00:38:28Z",
+              "source": "http://www.jstor.org/stable/10.2307/1915524",
+              "publicdate": "2013-03-19T00:38:28Z"
+            },
+            "highlight": null,
+            "_score": [
+              3799.2856
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "spvf3bdpp1xagpqqhkhnjvfi4wwcdc9aqtlkppvk",
+              "title": "Ep. 01 | Continuously Improving your Inventory with Caitlin Shaw, LVT",
+              "description": "Caitlin shares her advice with other inventory managers: \"Try to take advantage of all available resources, ask questions, network, ask people on Facebook groups, the Veterinary Inventory Strategy Network, and Vetcove discussion boards. Question the methods that are in place when you take over, ask yourself, \"is there a better way to do this?\". It doesn't have to all be changed overnight, it's a process, it will take time to make the system your own. But, it's all about looking at each process, and saying \"is this the best way I can be doing this?\" and if not, what are some other ways and other resources to reach out to and see about other options that might be a better fit. Always be flexible and be willing to learn, grow, and change!\"",
+              "subject": [
+                "Podcast",
+                "veterinary",
+                "veterinarian",
+                "veterinary medicine",
+                "veterinary inventory management",
+                "vet tech",
+                "veterinary technician"
+              ],
+              "creator": [
+                "Inventory Nation with Nicole Clausen - All Things Inventory Management for Veterinary Professionals"
+              ],
+              "collection": [
+                "podcasts_mirror_bobarchives",
+                "podcasts_mirror"
+              ],
+              "date": "2020-06-29T00:00:00Z",
+              "year": 2020,
+              "mediatype": "audio",
+              "item_size": 26279733,
+              "files_count": 9,
+              "downloads": 22,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2021-06-02T12:34:11Z",
+              "publicdate": "2021-06-02T12:34:11Z"
+            },
+            "highlight": null,
+            "_score": [
+              3792.943
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "8vfc7dl0pokgibxcpxkhwiaiqi3yxc7eehblte2j",
+              "title": "Ep. 33 | Inventory Accounting Strategies with Keith VanHoy",
+              "description": "In this episode, Keith talks about why having a strong financial and accounting system in place is important to the long-term strategy of a veterinarian clinic. He gives examples of some of the benefits of having a CPA and discusses challenges that clinics face when they do not have a solid partner to help with financial analysis.If you are fearful of seeking professional help or think that hiring a CPA is not for you then this episode will change your mind.",
+              "subject": [
+                "Podcast",
+                "veterinary",
+                "veterinarian",
+                "veterinary medicine",
+                "veterinary inventory management",
+                "vet tech",
+                "veterinary technician"
+              ],
+              "creator": [
+                "Inventory Nation with Nicole Clausen - All Things Inventory Management for Veterinary Professionals"
+              ],
+              "collection": [
+                "podcasts_mirror_bobarchives",
+                "podcasts_mirror"
+              ],
+              "date": "2021-02-16T00:00:00Z",
+              "year": 2021,
+              "mediatype": "audio",
+              "item_size": 25937309,
+              "files_count": 9,
+              "downloads": 8,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2021-06-02T12:17:58Z",
+              "publicdate": "2021-06-02T12:17:58Z"
+            },
+            "highlight": null,
+            "_score": [
+              3768.3813
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "e414ca1b-a7f2-48c7-9adb-549a04711241",
+              "title": "Inventory Analytics",
+              "description": "Inventory Analytics provides a comprehensive and accessible introduction to the theory and practice of inventory control – a significant research area central to supply chain planning. The book outlines the foundations of inventory systems and surveys prescriptive analytics models for deterministic inventory control. It further discusses predictive analytics techniques for demand forecasting in inventory control and also examines prescriptive analytics models for stochastic inventory control. Inventory Analytics is the first book of its kind to adopt a practicable, Python-driven approach to illustrating theories and concepts via computational examples, with each model covered in the book accompanied by its Python code. Originating as a collection of self-contained lectures, Inventory Analytics will be an indispensable resource for practitioners, researchers, teachers, and students alike.",
+              "subject": [
+                "BUS",
+                "JHBC",
+                "K",
+                "KCA",
+                "KJ",
+                "KJMV",
+                "PBT",
+                "PBWL",
+                "BUS001010",
+                "BUS044000",
+                "BUS069030",
+                "MAT029000",
+                "TS160",
+                "Economics, Politics and Sociology",
+                "Mathematics",
+                "Textbooks and Learning Guides",
+                "demand forecasting",
+                "deterministic inventory control",
+                "inventory control",
+                "inventory systems",
+                "Python",
+                "stochastic inventory control",
+                "supply chain planning"
+              ],
+              "creator": [
+                "Roberto Rossi"
+              ],
+              "collection": [
+                "thoth-archiving-network"
+              ],
+              "date": "2021-05-24T00:00:00Z",
+              "year": 2021,
+              "language": [
+                "ENG"
+              ],
+              "mediatype": "texts",
+              "licenseurl": "https://creativecommons.org/licenses/by/4.0",
+              "num_favorites": 7,
+              "item_size": 121575259,
+              "files_count": 21,
+              "downloads": 448,
+              "week": 4,
+              "month": 11,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2022-11-28T12:21:10Z",
+              "source": "https://doi.org/10.11647/OBP.0252",
+              "publicdate": "2022-11-28T12:21:10Z"
+            },
+            "highlight": null,
+            "_score": [
+              3710.1372
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "osf-registrations-cewvh-v1",
+              "title": "CFWI Study 3",
+              "description": "This study is designed to provide additional validation evidence for the Childfree Will Inventory (CFWI), a multidimensional measure of antinatalist beliefs and reasons for not wanting children.",
+              "creator": [
+                "Gwen Gao",
+                "Jessica Diaz"
+              ],
+              "collection": [
+                "osf-registration-providers-osf-v1",
+                "osf-registrations",
+                "osf"
+              ],
+              "date": "2026-05-19T00:00:00Z",
+              "year": 2026,
+              "mediatype": "data",
+              "item_size": 20952600,
+              "files_count": 5,
+              "downloads": 1,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2026-05-20T23:00:50Z",
+              "source": "https://osf.io/cewvh/",
+              "publicdate": "2026-05-20T23:00:50Z"
+            },
+            "highlight": null,
+            "_score": [
+              3480.6648
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "tucows_296657_Network_Inventory_Master",
+              "title": "Network Inventory Master",
+              "description": "This is an asset management and asset tracking system for your desktop and networked PCs. It will provide your organization with detailed reporting about all of the hardware and software on all of the PCs on your network. You can export this information into CSV and HTML files. It includes BIOS, CPU type and speed, IP settings, memory size, various operating system details and the network card. It is possible to export any item of hardware inventory data for external analysis and reporting. It also collects information about software installed on each workstation. It includes modem detection and a search function.",
+              "subject": [
+                "Network Inventory Master",
+                "Internet",
+                "Network administration",
+                "Inventory",
+                "network inventory master"
+              ],
+              "creator": [
+                "http://www.networkinventory.net"
+              ],
+              "collection": [
+                "tucows",
+                "softwaresites"
+              ],
+              "date": "2004-07-21T00:00:00Z",
+              "year": 2004,
+              "mediatype": "software",
+              "num_favorites": 1,
+              "item_size": 829726,
+              "files_count": 7,
+              "downloads": 653,
+              "week": 0,
+              "month": 5,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2004-11-02T12:45:34Z",
+              "publicdate": "2004-11-07T19:44:38Z"
+            },
+            "highlight": null,
+            "_score": [
+              3457.8901
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "lngvwtx-Water_Service_Line_Inventory_-_Public_Works_-_June_2024",
+              "title": "Water Service Line Inventory - Public Works - June 2024",
+              "description": "As part of a national initiative with the U.S. Environmental Protection Agency, the City of Longview will inventory the types of materials of all customer’s water service lines in the City’s distribution system by October 16, 2024. The inventory is an important step in protecting public health and minimizing the risk of lead entering your drinking water from service pipes and fixtures in your home. Residents can complete a Service Line Inventory Survey available at https://LongviewTexas.gov/WaterLine. The site also provides instructions for how to conduct an at-home scratch test, a project timeline, information about the updated Lead & Copper EPA Rule, and more information. The City of Longview Public Works Department and Water Purification Division is committed to providing the highest quality drinking water to our customers. The City’s Water Purification Division carefully adjusts and monitors the water’s chemistry at the plant before it is distributed to prevent corrosion and...",
+              "subject": [
+                "Texas",
+                "Longview",
+                "City of Longview TX",
+                "CityView Municipal Television",
+                "Government Access TV",
+                "Community Media",
+                "PEG",
+                "Youtube",
+                "2024"
+              ],
+              "creator": [
+                "City of Longview TX"
+              ],
+              "collection": [
+                "lngvwtx",
+                "community_media",
+                "newsandpublicaffairs"
+              ],
+              "date": "2024-06-24T00:00:00Z",
+              "year": 2024,
+              "language": [
+                "English"
+              ],
+              "mediatype": "movies",
+              "item_size": 25686738,
+              "files_count": 20,
+              "downloads": 40,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "uncurated"
+              ],
+              "addeddate": "2024-08-04T09:01:39Z",
+              "publicdate": "2024-08-04T09:01:39Z"
+            },
+            "highlight": null,
+            "_score": [
+              3443.3337
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "httpswww.ijtsrd.commanagementaccounting-and-finance44968a-study-on-inventory-managementk-ravi-sai",
+              "title": "A Study on Inventory Management",
+              "description": "Inventory management system which is helpful for the business operators, where shopkeeper keep the records of purchase and sales. This inventory management system will have the ability to track sales and available inventory, tells a shopkeeper when its time to reorder and how much to purchase. K Ravi Sai | Dr. P. Jaya Rami Reddy \"A Study on Inventory Management\" Published in International Journal of Trend in Scientific Research and Development (ijtsrd), ISSN: 2456-6470, Volume-5 | Issue-5 , August 2021, URL: https://www.ijtsrd.com/papers/ijtsrd44968.pdf Paper URL: https://www.ijtsrd.com/management/accounting-and-finance/44968/a-study-on-inventory-management/k-ravi-sai",
+              "subject": [
+                "Inventory Management",
+                "EOQ Analysis",
+                "ABC Analysis",
+                "Inventory Turnover Ratios"
+              ],
+              "creator": [
+                "K Ravi Sai | Dr. P. Jaya Rami Reddy"
+              ],
+              "collection": [
+                "IJTSRD",
+                "journals"
+              ],
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 6913223,
+              "files_count": 15,
+              "downloads": 99,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2021-09-13T09:09:26Z",
+              "publicdate": "2021-09-13T09:09:26Z"
+            },
+            "highlight": null,
+            "_score": [
+              3336.755
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "oapen-20.500.12657-49414",
+              "title": "Inventory Analytics",
+              "description": "\"Inventory Analytics provides a comprehensive and accessible introduction to the theory and practice of inventory control – a significant research area central to supply chain planning. The book outlines the foundations of inventory systems and surveys prescriptive analytics models for deterministic inventory control. It further discusses predictive analytics techniques for demand forecasting in inventory control and also examines prescriptive analytics models for stochastic inventory control. Inventory Analytics is the first book of its kind to adopt a practicable, Python-driven approach to illustrating theories and concepts via computational examples, with each model covered in the book accompanied by its Python code. Originating as a collection of self-contained lectures, Inventory Analytics will be an indispensable resource for practitioners, researchers, teachers, and students alike.\"",
+              "subject": [
+                "book"
+              ],
+              "collection": [
+                "oapen-library",
+                "patron-library-collection"
+              ],
+              "date": "2021-01-01T00:00:00Z",
+              "year": 2021,
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "item_size": 118828114,
+              "files_count": 15,
+              "downloads": 44,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2024-05-30T13:38:13Z",
+              "publicdate": "2024-05-30T13:38:13Z"
+            },
+            "highlight": null,
+            "_score": [
+              3296.3162
+            ]
+          }
+        ]
+      },
+      "collection_titles": {
+        "bostonpubliclibrary": "Boston Public Library",
+        "IJTSRD": "International Journal of Trend in Scientific Research and Development",
+        "community_media": "Community Media Archive",
+        "hypercardstacks": "HyperCard Stacks",
+        "podcasts_mirror_bobarchives": "Podcasts Mirror (administered by bobarchives)",
+        "jstor_willmaryquar": "JSTOR Early Journal Content, The William and Mary Quarterly",
+        "newsandpublicaffairs": "News & Public Affairs",
+        "oapen-library": "OAPEN Library of Open-Access Materials",
+        "jstor_ejc": "JSTOR Early Journal Content",
+        "podcasts_mirror": "Podcasts Mirror",
+        "osf": "Open Science Framework",
+        "osf-registrations": "OSF Registrations",
+        "journals": "Journals",
+        "patron-library-collection": "Patron Libraries (Libraries from Patrons)",
+        "lngvwtx": "City of Longview TX",
+        "thoth-archiving-network": "Thoth Open Archiving Network",
+        "softwaresites": "Software Sites Collection",
+        "softwarelibrary": "Software Library",
+        "bpllfhc": "Boston Public Library Local and Family History Collection",
+        "osf-registration-providers-osf-v1": "OSF Registries",
+        "emulation": "The Emulation Station",
+        "allen_county": "Allen County Public Library",
+        "tucows": "Tucows Software Library"
+      }
+    },
+    "hit_schema": {
+      "item": {
+        "identifier": {
+          "multivalue": false,
+          "mapping": "string"
+        },
+        "noindex": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "optional": true
+        },
+        "title": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "description": {
+          "multivalue": false,
+          "mapping": "string",
+          "dressing": {
+            "truncate": 1000
+          },
+          "optional": true
+        },
+        "subject": {
+          "multivalue": true,
+          "mapping": "string",
+          "dressing": {
+            "truncate": 1000
+          },
+          "optional": true
+        },
+        "creator": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "collection": {
+          "multivalue": true,
+          "mapping": "string",
+          "comment": "may be a superset of metadata collection field"
+        },
+        "date": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "year": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed from date",
+          "optional": true
+        },
+        "genre": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "volume": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "type": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "language": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "mediatype": {
+          "multivalue": false,
+          "mapping": "string"
+        },
+        "licenseurl": {
+          "multivalue": false,
+          "mapping": "string__url",
+          "optional": true
+        },
+        "num_favorites": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true,
+          "comment": "computed during document construction"
+        },
+        "num_reviews": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true,
+          "comment": "computed during document construction"
+        },
+        "item_size": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "bytes; computed during document construction"
+        },
+        "files_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction"
+        },
+        "item_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction",
+          "optional": true
+        },
+        "displayed_item_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction, may be inferred from item_count",
+          "optional": true
+        },
+        "collection_files_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction, for collection items only",
+          "optional": true
+        },
+        "collection_size": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "bytes; computed during document construction, for collection items only",
+          "optional": true
+        },
+        "downloads": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "total views over item lifetime, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "week": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "views over a seven-day period, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "month": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "views over a month, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "indexflag": {
+          "multivalue": true,
+          "mapping": "string",
+          "comment": "item characterization including noindex status"
+        },
+        "lending___available_to_borrow": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___available_to_browse": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___available_to_waitlist": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___status": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "avg_rating": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true
+        },
+        "addeddate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "issue": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "format varies",
+          "optional": true
+        },
+        "source": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "format varies",
+          "optional": true
+        },
+        "reviewdate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "publicdate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "date_favorited": {
+          "multivalue": false,
+          "mapping": "date",
+          "comment": "not metadata; only present in favorites lists, sourced from Lists API",
+          "optional": true
+        },
+        "reviews_data": {
+          "multivalue": true,
+          "dressing": {
+            "truncate": false
+          },
+          "mapping": "string",
+          "comment": "untruncated JSON encoded data used for Account reviews",
+          "optional": true
+        }
+      }
+    }
+  }
+}

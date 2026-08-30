@@ -1,0 +1,1833 @@
+{
+  "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785941246643",
+  "version": "1x7o",
+  "session_context": {
+    "session_key": "user__alanobrienterry918272@gmail.com",
+    "created": "2026-08-05T14:47:35Z",
+    "client_characterization": {
+      "characterized_by": "asserted_or_authenticated",
+      "preferred_client_ip": null,
+      "client_ip": "23.229.125.197:sra",
+      "preferred_client_useragent": null,
+      "client_useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36:sua",
+      "preferred_client_id": null,
+      "client_id": "alanobrienterry918272@gmail.com:sco"
+    },
+    "username": "alanobrienterry918272@gmail.com",
+    "authentication_method": "cookie",
+    "is_system": false,
+    "is_guest": false,
+    "is_user": true,
+    "is_archive_user": false,
+    "is_qualified": false,
+    "is_archivist": false,
+    "has_universal_privs": false,
+    "has_collection_priv": false,
+    "has_allowed_host_priv": false,
+    "has_vpn_host_priv": false,
+    "has_scan_center_priv": false,
+    "has_any_priv": false,
+    "has_any_priv_permissive": false,
+    "pps": {
+      "is_page_target_owner": false,
+      "contributed_review_on_page": false,
+      "full_text_search_override": false,
+      "sees_sensitive_fields": false
+    },
+    "pps_relevant_user_preferences": {
+      "display__blur_moderated_content": "on"
+    }
+  },
+  "request": {
+    "client_request_parameters": {
+      "client": "page_production_service_endpoint",
+      "user_query": "Costume Historian spectacles OR \"costume historian\" spectacles",
+      "hits_per_page": 30,
+      "page": 1,
+      "aggregations": [],
+      "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785941246643",
+      "client_url": "https://archive.org/search?query=Costume+Historian+spectacles+OR+%22costume+historian%22+spectacles"
+    },
+    "backend_requests": {
+      "search": {
+        "root": "(self)",
+        "children": [
+          "collection_title_fetch__9a89b8e554a90bf0a0f0cd6742d72c2a"
+        ],
+        "request_type": "search",
+        "finalized_parameters": {
+          "client": "page_production_service_endpoint",
+          "user_query": "(redacted)",
+          "hits_per_page": 30,
+          "page": 1,
+          "aggregations": [],
+          "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785941246643",
+          "client_url": "https://archive.org/search?query=Costume+Historian+spectacles+OR+%22costume+historian%22+spectacles",
+          "page_type": "search_results",
+          "fields": [
+            "_tile_"
+          ],
+          "sort": [
+            "_relevance_:desc",
+            "identifier"
+          ],
+          "aggregations_size": 10,
+          "service_backend": "metadata",
+          "scope": "standard",
+          "feature_flags": {
+            "complex_facets": true,
+            "collection_titles": true,
+            "redact_collections": true,
+            "redact_collections_by_privs": false,
+            "redact_empty_collections": true,
+            "redact_admin_collections": true,
+            "protect_flagging_collections": true
+          },
+          "service": "service__metadata__load_balanced"
+        }
+      },
+      "collection_title_fetch__9a89b8e554a90bf0a0f0cd6742d72c2a": {
+        "root": "search",
+        "parent": "search",
+        "request_type": "collection_title_fetch",
+        "finalized_parameters": {
+          "page_type": "document_fetch",
+          "user_query": "(redacted)",
+          "aggregations": [],
+          "caching": null,
+          "fields": [
+            "identifier",
+            "title"
+          ],
+          "search_as_system": true,
+          "page": 1,
+          "hits_per_page": 250,
+          "sort": [
+            "_efficient_"
+          ],
+          "service_backend": "metadata",
+          "scope": "ill,printdisabled_and_music,scancenter",
+          "service": "service__metadata__load_balanced"
+        }
+      }
+    }
+  },
+  "caching": {
+    "search": {
+      "name": "PPS-1x7o-J:US-RT:s~hit-T:sr-Q:255ad52a-H:30-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+      "acceptable_names": [
+        "PPS-1x7o-J:US-RT:s~std-T:sr-Q:255ad52a-H:30-B:mds-RS:sta~CS::P:0+CS:some+BR:1"
+      ],
+      "configuration": {
+        "requested": [],
+        "finalized": {
+          "bypass": false,
+          "recompute": false,
+          "no_compute": false,
+          "ttl_s": 300,
+          "max_age_s": 0,
+          "miss_policy": "none"
+        }
+      },
+      "utilization": {
+        "went_to_cache": true,
+        "alternates_allowed": true,
+        "hit_alternate": false,
+        "hit_canonical": true,
+        "hit": true,
+        "miss": true,
+        "recomputed": false,
+        "stored": false,
+        "acceptable_names_tried": [
+          "PPS-1x7o-J:US-RT:s~std-T:sr-Q:255ad52a-H:30-B:mds-RS:sta~CS::P:0+CS:some+BR:1"
+        ],
+        "elapsed_s": 0.009485006332397461
+      },
+      "statsd_bucket": "search.pps.cache.metadata.search_results"
+    },
+    "collection_title_fetch__9a89b8e554a90bf0a0f0cd6742d72c2a": {
+      "name": "PPS-1x7o-J:US-RT:ctf-T:df-Q:0bcee8e5-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1",
+      "acceptable_names": [],
+      "configuration": {
+        "requested": [],
+        "finalized": {
+          "bypass": false,
+          "recompute": false,
+          "no_compute": false,
+          "ttl_s": 300,
+          "max_age_s": 0,
+          "miss_policy": "none"
+        }
+      },
+      "utilization": {
+        "went_to_cache": true,
+        "alternates_allowed": true,
+        "hit_alternate": false,
+        "hit_canonical": true,
+        "hit": true,
+        "miss": false,
+        "recomputed": false,
+        "stored": false,
+        "elapsed_s": 0.003069162368774414
+      },
+      "statsd_bucket": "search.pps.cache.metadata.search_results"
+    },
+    "summary": {
+      "fetched": [
+        "PPS-1x7o-J:US-RT:s~hit-T:sr-Q:255ad52a-H:30-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:US-RT:ctf-T:df-Q:0bcee8e5-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "computed": [],
+      "stored": [],
+      "missed": [],
+      "bypassed": []
+    }
+  },
+  "elapsed_secs": 0.04006314277648926,
+  "response": {
+    "header": {
+      "succeeded": true,
+      "query_time": 351,
+      "forensics": {
+        "client_characterization": {
+          "client_ip": "23.229.125.197:sra",
+          "client_id": "alanobrienterry918272@gmail.com:sco",
+          "client_useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36:sua",
+          "preferred_client_ip": null,
+          "preferred_client_id": null,
+          "preferred_client_useragent": null,
+          "application_id": {
+            "session": [
+              "pageproduction"
+            ],
+            "request": []
+          },
+          "client_jurisdiction": "US",
+          "preferred_client_jurisdiction": null,
+          "actionable_jurisdiction": "US",
+          "characterized_by": "asserted_or_authenticated",
+          "ensured": true
+        },
+        "routing": {
+          "backend": "es-prod-metadatasearch-filtered",
+          "backend_server": "es-prod-client-o-07",
+          "routed_to_load_balanced": true,
+          "index_addressed": "prod-o-001"
+        },
+        "backend_request_elapsed_secs": {
+          "search": 0.009485006332397461,
+          "collection_title_fetch__9a89b8e554a90bf0a0f0cd6742d72c2a": 0.003069162368774414
+        }
+      },
+      "elapsed_secs_for_backend_requests": 0.012554168701171875
+    },
+    "body": {
+      "hits": {
+        "total": 3930,
+        "returned": 30,
+        "hits": [
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "thingiverse-2892509",
+              "title": "Spectacles (2892509)",
+              "description": "These are Spectacles.",
+              "subject": [
+                "spectacles",
+                "thingiverse",
+                "Eyewear",
+                "Eyeglasses",
+                "Toys & Games",
+                "Glasses",
+                "stl"
+              ],
+              "creator": [
+                "Matthew (Matthewkaye)"
+              ],
+              "collection": [
+                "thingiverse"
+              ],
+              "date": "2018-05-04T00:00:00Z",
+              "year": 2018,
+              "mediatype": "data",
+              "licenseurl": "https://creativecommons.org/licenses/by/4.0/",
+              "item_size": 62375,
+              "files_count": 5,
+              "downloads": 28,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2021-01-19T18:58:03Z",
+              "publicdate": "2021-01-19T18:58:03Z"
+            },
+            "highlight": null,
+            "_score": [
+              4592.618
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "blackspectacles0000unse",
+              "title": "The Black Spectacles",
+              "creator": [
+                "The black spectacles"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "1947-01-01T00:00:00Z",
+              "year": 1947,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 671889336,
+              "files_count": 28,
+              "downloads": 9,
+              "week": 2,
+              "month": 3,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_browse",
+              "addeddate": "2026-03-16T04:11:08Z",
+              "publicdate": "2024-07-09T17:25:59Z"
+            },
+            "highlight": null,
+            "_score": [
+              4547.1978
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "courrierdesspect00dese",
+              "title": "Courrier des spectacles",
+              "description": "Prospectus for \"Courrier des spectacles,\" which began publication in 1797",
+              "subject": [
+                "Courrier des spectacles",
+                "Booksellers and bookselling",
+                "Periodicals"
+              ],
+              "creator": [
+                "Desenne, Victor, bookseller",
+                "Vente, Louis, 1765-1853, bookseller",
+                "Huet, L.-C., fl. 1792-1807, bookseller",
+                "Mercier de Compiègne, Claude-François-Xavier, 1763-1800, bookseller"
+              ],
+              "collection": [
+                "newberryfrenchpamphlets",
+                "newberry"
+              ],
+              "date": "1797-01-01T00:00:00Z",
+              "year": 1797,
+              "language": [
+                "fre"
+              ],
+              "mediatype": "texts",
+              "item_size": 26397729,
+              "files_count": 24,
+              "downloads": 204,
+              "week": 0,
+              "month": 7,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "addeddate": "2017-06-28T19:51:38Z",
+              "publicdate": "2017-06-28T18:53:39Z"
+            },
+            "highlight": null,
+            "_score": [
+              4287.9116
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "clevelandart-1940.246-spectacles",
+              "title": "Spectacles",
+              "description": "Spectacles, c. 1816–1820. John Peirce (American). Silver; overall: 11.8 cm (4 5/8 in.). The Cleveland Museum of Art, Gift of Hollis French 1940.246",
+              "subject": [
+                "Decorative Art and Design"
+              ],
+              "creator": [
+                "John Peirce (American)"
+              ],
+              "collection": [
+                "clevelandart"
+              ],
+              "date": "1816-01-01T00:00:00Z",
+              "year": 1816,
+              "mediatype": "image",
+              "licenseurl": "https://creativecommons.org/publicdomain/zero/1.0/",
+              "num_favorites": 2,
+              "item_size": 42295827,
+              "files_count": 9,
+              "downloads": 277,
+              "week": 0,
+              "month": 3,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2019-01-20T16:08:53Z",
+              "publicdate": "2019-01-20T16:08:53Z"
+            },
+            "highlight": null,
+            "_score": [
+              4227.2637
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "pub_spectacles",
+              "title": "Spectacles",
+              "description": "Spectacles is a historical journal published in United States focused on Historical Periodical. This collection contains microfilm published in 1807.",
+              "subject": [
+                "Historical Periodical"
+              ],
+              "collection": [
+                "periodicals",
+                "sim_microfilm",
+                "texts"
+              ],
+              "date": "1807-01-01T00:00:00Z",
+              "year": 1807,
+              "language": [
+                "English"
+              ],
+              "mediatype": "collection",
+              "item_size": 71651,
+              "files_count": 7,
+              "item_count": 3,
+              "collection_files_count": 57,
+              "collection_size": 54554763,
+              "downloads": 178,
+              "week": 1,
+              "month": 3,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "collections"
+              ],
+              "addeddate": "2021-07-14T11:19:04Z",
+              "publicdate": "2021-07-14T11:19:04Z"
+            },
+            "highlight": null,
+            "_score": [
+              4178.2046
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "eyesspectacles00rohruoft",
+              "title": "Eyes and spectacles;",
+              "description": "14",
+              "subject": [
+                "Spectacles"
+              ],
+              "creator": [
+                "Rohr, Moritz von, 1868-"
+              ],
+              "collection": [
+                "gerstein",
+                "university_of_toronto"
+              ],
+              "date": "1912-01-01T00:00:00Z",
+              "year": 1912,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 361520442,
+              "files_count": 26,
+              "downloads": 1169,
+              "week": 4,
+              "month": 14,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2007-04-10T15:00:52Z",
+              "publicdate": "2007-04-10T15:01:34Z"
+            },
+            "highlight": null,
+            "_score": [
+              4158.1636
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "pygmalionsspecta22893gut",
+              "title": "Pygmalion's Spectacles",
+              "description": "Book from Project Gutenberg: Pygmalion's Spectacles",
+              "creator": [
+                "Weinbaum, Stanley Grauman, 1902-1935"
+              ],
+              "collection": [
+                "gutenberg"
+              ],
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "licenseurl": "http://www.gnu.org/licenses/gpl.html",
+              "item_size": 358027,
+              "files_count": 19,
+              "downloads": 471,
+              "week": 1,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2011-07-17T18:35:39Z",
+              "source": "http://www.gutenberg.org/ebooks/22893",
+              "publicdate": "2011-07-17T18:35:39Z"
+            },
+            "highlight": null,
+            "_score": [
+              4033.095
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "spectacles0000beat",
+              "title": "Spectacles",
+              "description": "37 pages : 24 cm",
+              "subject": [
+                "Grandmothers -- Fiction",
+                "Old age -- Fiction",
+                "Eyeglasses -- Fiction",
+                "Eyeglasses",
+                "Grandmothers",
+                "Old age"
+              ],
+              "creator": [
+                "Beattie, Ann"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "1985-01-01T00:00:00Z",
+              "year": 1985,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 92557232,
+              "files_count": 30,
+              "downloads": 35,
+              "week": 0,
+              "month": 4,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": true,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_borrow",
+              "addeddate": "2020-12-20T15:06:32Z",
+              "publicdate": "2020-10-27T01:23:42Z"
+            },
+            "highlight": null,
+            "_score": [
+              3816.9685
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "spectacles0000mazz",
+              "title": "Spectacles",
+              "description": "190 p. : 18x18 cm",
+              "subject": [
+                "Eyeglasses in art"
+              ],
+              "creator": [
+                "Mazza, Samuele, 1960-"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "1996-01-01T00:00:00Z",
+              "year": 1996,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 1,
+              "item_size": 494674371,
+              "files_count": 31,
+              "downloads": 61,
+              "week": 0,
+              "month": 4,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_browse",
+              "addeddate": "2024-02-13T04:01:26Z",
+              "publicdate": "2023-12-19T19:31:36Z"
+            },
+            "highlight": null,
+            "_score": [
+              3803.6536
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "jstor-1631475",
+              "title": "Concerning Spectacles",
+              "description": "\"Concerning Spectacles\" is an article from Science, Volume 20 . View more articles from Science . View this article on JSTOR . View this article's JSTOR metadata . You may also retrieve all of this items metadata in JSON at the following URL: https://archive.org/metadata/jstor-1631475",
+              "creator": [
+                "C. R. E."
+              ],
+              "collection": [
+                "jstor_science",
+                "jstor_ejc",
+                "journals"
+              ],
+              "date": "1904-08-05T00:00:00Z",
+              "year": 1904,
+              "volume": "20",
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 1451172,
+              "files_count": 16,
+              "downloads": 163,
+              "week": 0,
+              "month": 5,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2013-03-12T11:07:57Z",
+              "source": "http://www.jstor.org/stable/10.2307/1631475",
+              "publicdate": "2013-03-12T11:07:57Z"
+            },
+            "highlight": null,
+            "_score": [
+              3792.5264
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "spectacles0000elle",
+              "title": "Spectacles",
+              "creator": [
+                "Ellen Raskin"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "1968-01-01T00:00:00Z",
+              "year": 1968,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 9,
+              "item_size": 132718828,
+              "files_count": 31,
+              "downloads": 62,
+              "week": 0,
+              "month": 2,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_browse",
+              "addeddate": "2023-03-17T22:04:34Z",
+              "publicdate": "2023-03-08T15:05:06Z"
+            },
+            "highlight": null,
+            "_score": [
+              3783.0732
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "spectacles0000leme",
+              "title": "Spectacles",
+              "description": "282 pages ; 21 cm",
+              "creator": [
+                "Lemercier, Valérie, 1964- author"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "2015-01-01T00:00:00Z",
+              "year": 2015,
+              "language": [
+                "fre"
+              ],
+              "mediatype": "texts",
+              "item_size": 517997285,
+              "files_count": 32,
+              "downloads": 14,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_browse",
+              "addeddate": "2024-02-13T04:01:27Z",
+              "publicdate": "2023-08-10T07:20:38Z"
+            },
+            "highlight": null,
+            "_score": [
+              3780.9849
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "spectacles00rask",
+              "title": "Spectacles",
+              "description": "A nearsighted little girl talks about and shows some of the unusual things she saw before being fitted with glasses",
+              "subject": [
+                "Eye",
+                "Eyeglasses"
+              ],
+              "creator": [
+                "Raskin, Ellen"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "1968-01-01T00:00:00Z",
+              "year": 1968,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 13,
+              "item_size": 95730755,
+              "files_count": 28,
+              "downloads": 174,
+              "week": 0,
+              "month": 4,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": true,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_borrow",
+              "addeddate": "2012-01-11T19:06:36Z",
+              "publicdate": "2012-01-11T19:06:40Z"
+            },
+            "highlight": null,
+            "_score": [
+              3780.6318
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "thingiverse-900307",
+              "title": "Spectacles nose rest (900307)",
+              "description": "If you have specs with nose rests that plug into small rectangular frames, then this is the model for you.",
+              "subject": [
+                "thingiverse",
+                "spectacles",
+                "eyeglasses",
+                "glasses",
+                "stl",
+                "Glasses"
+              ],
+              "creator": [
+                "Duane Harland (PortiaCat)"
+              ],
+              "collection": [
+                "thingiverse"
+              ],
+              "date": "2015-06-27T00:00:00Z",
+              "year": 2015,
+              "mediatype": "data",
+              "licenseurl": "https://creativecommons.org/licenses/by-sa/3.0/",
+              "item_size": 627231,
+              "files_count": 5,
+              "downloads": 23,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2021-04-13T23:55:17Z",
+              "publicdate": "2021-04-13T23:55:17Z"
+            },
+            "highlight": null,
+            "_score": [
+              3766.1304
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "spectacles0000rask",
+              "title": "Spectacles",
+              "description": "47 unnumbered pages : 18 x 23 cm",
+              "subject": [
+                "Picture books",
+                "Eye -- Diseases -- Fiction",
+                "Eyeglasses -- Fiction"
+              ],
+              "creator": [
+                "Raskin, Ellen"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "1988-01-01T00:00:00Z",
+              "year": 1988,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 9,
+              "item_size": 152488929,
+              "files_count": 32,
+              "downloads": 56,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": true,
+              "lending___status": "available_to_browse",
+              "addeddate": "2020-08-13T12:07:23Z",
+              "publicdate": "2020-08-06T01:04:42Z"
+            },
+            "highlight": null,
+            "_score": [
+              3743.9575
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "bim_early-english-books-1641-1700_true-spectacles_yarwell-john_1697",
+              "title": "True spectacles. 1697",
+              "description": "True spectacles. 1697.. Digitized from IA40313009-29 . Previous issue: bim_early-english-books-1641-1700_englands-improvement-by_yarranton-andrew_1698_0 . Next issue: bim_early-english-books-1641-1700_the-year-of-jubile-_1700 .",
+              "subject": [
+                "Books",
+                "microfilm"
+              ],
+              "creator": [
+                "Yarwell, John."
+              ],
+              "collection": [
+                "pub_early-english-books-1641-1700",
+                "bim_microfilm",
+                "microfilm"
+              ],
+              "date": "1697-01-01T00:00:00Z",
+              "year": 1697,
+              "language": [
+                "Middle English"
+              ],
+              "mediatype": "texts",
+              "item_size": 23523482,
+              "files_count": 20,
+              "downloads": 35,
+              "week": 1,
+              "month": 4,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "addeddate": "2024-01-15T21:17:37Z",
+              "source": "IA40313009-29",
+              "publicdate": "2024-01-15T21:17:37Z"
+            },
+            "highlight": null,
+            "_score": [
+              3730.8535
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "spectacles0000perk_v7c7",
+              "title": "Spectacles",
+              "description": "1 volume : 20 cm",
+              "subject": [
+                "Great Britain",
+                "Perkins, Sue, 1969-",
+                "Television personalities -- Great Britain -- Biography",
+                "Women television personalities -- Great Britain -- Biography",
+                "Comedians -- Great Britain -- Biography",
+                "Women comedians -- Great Britain -- Biography",
+                "Television personalities",
+                "Comedians",
+                "Women television personalities",
+                "Women comedians"
+              ],
+              "creator": [
+                "Perkins, Sue, 1969- author"
+              ],
+              "collection": [
+                "internetarchivebooks"
+              ],
+              "date": "2016-01-01T00:00:00Z",
+              "year": 2016,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 2,
+              "item_size": 1049863401,
+              "files_count": 32,
+              "downloads": 51,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_printdisabled",
+              "addeddate": "2020-06-20T07:04:14Z",
+              "source": "removed",
+              "publicdate": "2020-06-04T09:22:37Z"
+            },
+            "highlight": null,
+            "_score": [
+              3728.2708
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "bim_early-english-books-1475-1640_linceus-spectacles_lloyd-lodowick_1607",
+              "title": "Linceus spectacles. 1607",
+              "description": "Linceus spectacles. 1607.. Digitized from IA40313006-22 . Previous issue: bim_early-english-books-1475-1640_newes-of-the-complement-_linton-anthony_1609 . Next issue: bim_early-english-books-1475-1640_brief-conclusions-of-dan_lowin-john_1609 .",
+              "subject": [
+                "Books",
+                "microfilm"
+              ],
+              "creator": [
+                "Lloyd, Lodowick."
+              ],
+              "collection": [
+                "pub_early-english-books-1475-1640",
+                "bim_microfilm",
+                "microfilm"
+              ],
+              "date": "1607-01-01T00:00:00Z",
+              "year": 1607,
+              "language": [
+                "Middle English"
+              ],
+              "mediatype": "texts",
+              "item_size": 443698588,
+              "files_count": 19,
+              "downloads": 54,
+              "week": 0,
+              "month": 4,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "addeddate": "2024-01-14T21:15:28Z",
+              "source": "IA40313006-22",
+              "publicdate": "2024-01-14T21:15:28Z"
+            },
+            "highlight": null,
+            "_score": [
+              3724.3494
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "thingiverse-3786186",
+              "title": "Side Shield for Spectacles (3786186)",
+              "description": "Safety Side Shields for Glasses ================= Specs_shield_1.stl is to fit spectacles with a heavy frame Specs_shield_2.stl is to fit spectacles with a normal frame Provides some protection against objects hitting your eyes from the side. Also useful to protect from glare if you have to sit sideways by a window. Use at your own risk. Your peripheral vision impaired: do not use while driving. If you are doing something where there is a high risk of being hit such as using a strimmer or other power tools then wear purpose designed wrap around safety glasses or goggles.",
+              "subject": [
+                "stl",
+                "side_shield",
+                "thingiverse",
+                "safety_glasses",
+                "glasses",
+                "Other",
+                "safety_spectacles"
+              ],
+              "creator": [
+                "Leslie Kaye (les_kaye)"
+              ],
+              "collection": [
+                "thingiverse"
+              ],
+              "date": "2019-08-03T00:00:00Z",
+              "year": 2019,
+              "mediatype": "data",
+              "licenseurl": "https://creativecommons.org/licenses/by-sa/3.0/",
+              "item_size": 25499,
+              "files_count": 5,
+              "downloads": 26,
+              "week": 0,
+              "month": 2,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2021-03-18T21:46:55Z",
+              "publicdate": "2021-03-18T21:46:55Z"
+            },
+            "highlight": null,
+            "_score": [
+              3706.9075
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "thingiverse-2555539",
+              "title": "Snapchat Spectacles - Safety Side Shields (2555539)",
+              "description": "Convert your Snapchat Spectacles into Protective Shop Glasses! Works better than converted standard eyeglass protectors, guaranteed. I recommend Printing them vertically for best resolution, though printing them on the flat side is faster and you get cleaner notches for rubber O-Rings, which is what I used to attach mine to my glasses.",
+              "subject": [
+                "spectacles",
+                "snapchat",
+                "specs",
+                "thingiverse",
+                "Safety",
+                "Snapchat_Spectacles",
+                "Glasses_protector",
+                "DIY",
+                "snap",
+                "stl"
+              ],
+              "creator": [
+                "Louis Weisz (WeiszCracks)"
+              ],
+              "collection": [
+                "thingiverse"
+              ],
+              "date": "2017-10-03T00:00:00Z",
+              "year": 2017,
+              "mediatype": "data",
+              "licenseurl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+              "item_size": 140460,
+              "files_count": 5,
+              "downloads": 29,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2021-01-16T13:52:35Z",
+              "publicdate": "2021-01-16T13:52:35Z"
+            },
+            "highlight": null,
+            "_score": [
+              3706.3315
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "almanachdesspec09unkngoog",
+              "title": "Almanach des spectacles",
+              "description": "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+              "subject": [
+                "Theater",
+                "Opera"
+              ],
+              "creator": [
+                "Soubies, Albert, 1846-1918"
+              ],
+              "collection": [],
+              "date": "1874-01-01T00:00:00Z",
+              "year": 1874,
+              "language": [
+                "fre"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 1,
+              "item_size": 53631097,
+              "files_count": 16,
+              "downloads": 639,
+              "week": 0,
+              "month": 4,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2009-09-27T20:15:59Z",
+              "source": "http://books.google.com/books?id=rCsbAAAAYAAJ&oe=UTF-8",
+              "publicdate": "2009-09-27T20:15:59Z"
+            },
+            "highlight": null,
+            "_score": [
+              3703.607
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "courrierdesspect00lepa",
+              "title": "Courrier des spectacles, journal des théatres",
+              "description": "Prospectus for \"Courrier des spectacles,\" which began publication in 1797",
+              "subject": [
+                "Courrier des spectacles",
+                "Booksellers and bookselling",
+                "Periodicals"
+              ],
+              "creator": [
+                "Le Pan",
+                "Desanteul, E.-N.-F"
+              ],
+              "collection": [
+                "newberryfrenchpamphlets",
+                "newberry"
+              ],
+              "date": "1797-01-01T00:00:00Z",
+              "year": 1797,
+              "language": [
+                "fre"
+              ],
+              "mediatype": "texts",
+              "item_size": 6303850,
+              "files_count": 21,
+              "downloads": 234,
+              "week": 1,
+              "month": 12,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "addeddate": "2017-06-28T19:51:55Z",
+              "publicdate": "2017-06-28T18:53:43Z"
+            },
+            "highlight": null,
+            "_score": [
+              3667.6191
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "amethystspectacl0000cran",
+              "title": "The amethyst spectacles",
+              "description": "159 pages ; 23 cm",
+              "subject": [
+                "Murder -- Investigation -- Fiction",
+                "Meurtre -- Enquêtes -- Romans, nouvelles, etc",
+                "Murder -- Investigation",
+                "New Mexico -- Fiction",
+                "Nouveau-Mexique -- Romans, nouvelles, etc",
+                "New Mexico"
+              ],
+              "creator": [
+                "Crane, Frances"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "2012-01-01T00:00:00Z",
+              "year": 2012,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 4,
+              "item_size": 389890064,
+              "files_count": 33,
+              "downloads": 124,
+              "week": 1,
+              "month": 6,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_browse",
+              "addeddate": "2022-07-27T07:01:04Z",
+              "publicdate": "2022-07-22T05:25:56Z"
+            },
+            "highlight": null,
+            "_score": [
+              3657.1675
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "journalmusicalet00hera",
+              "title": "Journal musical et des spectacles",
+              "description": "Prospectus for \"Journal musical et des spectacles.\"",
+              "subject": [
+                "Journal musical et des spectacles",
+                "Booksellers and bookselling",
+                "Periodicals"
+              ],
+              "creator": [
+                "Hérault, J.-B"
+              ],
+              "collection": [
+                "newberryfrenchpamphlets",
+                "newberry"
+              ],
+              "date": "1791-01-01T00:00:00Z",
+              "year": 1791,
+              "language": [
+                "fre"
+              ],
+              "mediatype": "texts",
+              "item_size": 12351649,
+              "files_count": 21,
+              "downloads": 161,
+              "week": 0,
+              "month": 3,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "addeddate": "2017-07-05T14:39:24Z",
+              "publicdate": "2017-07-05T13:40:17Z"
+            },
+            "highlight": null,
+            "_score": [
+              3653.7275
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "1997-portes-ouvertes-spectacles",
+              "title": "Spectacles Portes Ouvertes 1997",
+              "description": "Spectacles Portes Ouvertes 1997",
+              "subject": [
+                "Promotional Material"
+              ],
+              "creator": [
+                "Department of Contemporary Dance"
+              ],
+              "collection": [
+                "rma-concordia-publications"
+              ],
+              "date": "1997-12-06T00:00:00Z",
+              "year": 1997,
+              "language": [
+                "fre"
+              ],
+              "mediatype": "texts",
+              "licenseurl": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+              "item_size": 5215019,
+              "files_count": 16,
+              "downloads": 74,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2023-02-22T20:52:39Z",
+              "publicdate": "2023-02-22T20:52:39Z"
+            },
+            "highlight": null,
+            "_score": [
+              3653.6335
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "bim_early-english-books-1475-1640_linceus-spectacles_lloyd-lodowick_1607_0",
+              "title": "Linceus spectacles. 1607",
+              "description": "Linceus spectacles. 1607.. Digitized from IA40313012-80 . Previous issue: bim_early-english-books-1475-1640_the-cl-psalmes-of-david-_liturgies-other-protesta_1630 . Next issue: bim_early-english-books-1475-1640_the-godlie-garden-of-get_loarte-gaspare_1576 .",
+              "subject": [
+                "Books",
+                "microfilm"
+              ],
+              "creator": [
+                "Lloyd, Lodowick"
+              ],
+              "collection": [
+                "pub_early-english-books-1475-1640",
+                "bim_microfilm",
+                "microfilm"
+              ],
+              "date": "1607-01-01T00:00:00Z",
+              "year": 1607,
+              "language": [
+                "Middle English"
+              ],
+              "mediatype": "texts",
+              "item_size": 413858563,
+              "files_count": 19,
+              "downloads": 35,
+              "week": 0,
+              "month": 2,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "addeddate": "2024-01-17T20:34:13Z",
+              "source": "IA40313012-80",
+              "publicdate": "2024-01-17T20:34:13Z"
+            },
+            "highlight": null,
+            "_score": [
+              3628.944
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "isbn_9780415907514",
+              "title": "Media spectacles",
+              "description": "Includes bibliographical references and index",
+              "subject": [
+                "Mass media"
+              ],
+              "creator": [
+                "Garber, Marjorie B",
+                "Matlock, Jann, 1955-",
+                "Walkowitz, Rebecca L., 1970-"
+              ],
+              "collection": [
+                "internetarchivebooks"
+              ],
+              "date": "1993-01-01T00:00:00Z",
+              "year": 1993,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 1,
+              "item_size": 489243612,
+              "files_count": 37,
+              "downloads": 187,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_printdisabled",
+              "addeddate": "2012-01-17T15:34:23Z",
+              "source": "removed",
+              "publicdate": "2012-01-17T15:34:31Z"
+            },
+            "highlight": null,
+            "_score": [
+              3623.6094
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "thingiverse-1793969",
+              "title": "Snapchat Spectacles (1793969)",
+              "description": "I'm in no way affiliated or employed by Snap, Inc. (AKA-Snapchat). This design was released on 9/23/2016 and I chose to copy the design of the frame so that I could create my own version of \"Spectacles\" using a Raspberry Pi Zero. This uses my own measurements and is designed from scratch using Fusion 360. It's a work in progress, and I will continue to post updates. Sharing your print is the best way to thank me for the design. Have fun!",
+              "subject": [
+                "Glasses",
+                "stl",
+                "thingiverse"
+              ],
+              "creator": [
+                "Mike Cameron (MikeyDesign)"
+              ],
+              "collection": [
+                "thingiverse"
+              ],
+              "date": "2016-09-27T00:00:00Z",
+              "year": 2016,
+              "mediatype": "data",
+              "licenseurl": "https://creativecommons.org/licenses/by/4.0/",
+              "item_size": 227139,
+              "files_count": 5,
+              "downloads": 33,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2021-04-27T23:36:58Z",
+              "publicdate": "2021-04-27T23:36:58Z"
+            },
+            "highlight": null,
+            "_score": [
+              3616.236
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "fancy-nancy-spectacular-spectacles",
+              "title": "Fancy Nancy Spectacular Spectacles",
+              "description": "Tonight Trisha reads 'Fancy Nancy Spectacular Spectacles' in a set of spectacular spectacles of her own",
+              "subject": [
+                "Children's Books",
+                "Short Stories"
+              ],
+              "creator": [
+                "Quicksie 98.3"
+              ],
+              "collection": [
+                "quicksie983",
+                "radiostationarchives",
+                "radioprograms"
+              ],
+              "date": "2020-05-04T00:00:00Z",
+              "year": 2020,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "movies",
+              "item_size": 207748681,
+              "files_count": 14,
+              "downloads": 209,
+              "week": 1,
+              "month": 2,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2020-05-04T21:52:28Z",
+              "publicdate": "2020-05-04T21:52:28Z"
+            },
+            "highlight": null,
+            "_score": [
+              3581.2966
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "petitsspectacles0000vian_c9b4",
+              "title": "Petits spectacles",
+              "description": "348 pages ; 18 cm",
+              "subject": [
+                "French drama -- 20th century",
+                "French drama"
+              ],
+              "creator": [
+                "Vian, Boris, 1920-1959"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "1980-01-01T00:00:00Z",
+              "year": 1980,
+              "language": [
+                "fre"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 1,
+              "item_size": 451101971,
+              "files_count": 30,
+              "downloads": 32,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_browse",
+              "addeddate": "2021-02-10T09:00:46Z",
+              "publicdate": "2021-02-05T23:58:30Z"
+            },
+            "highlight": null,
+            "_score": [
+              3571.8518
+            ]
+          }
+        ]
+      },
+      "collection_titles": {
+        "sim_microfilm": "Serials in Microfilm",
+        "jstor_ejc": "JSTOR Early Journal Content",
+        "radiostationarchives": "Radio Stations and Radio Station Archives",
+        "newberry": "Newberry Library",
+        "bim_microfilm": "Books in Microfilm",
+        "quicksie983": "Quicksie 98.3",
+        "rma-concordia-publications": "Concordia University, Montreal",
+        "newberryfrenchpamphlets": "Newberry French Pamphlet Collection",
+        "journals": "Journals",
+        "microfilm": "Microfilm",
+        "jstor_science": "JSTOR Early Journal Content, Science",
+        "periodicals": "Periodicals",
+        "pub_early-english-books-1475-1640": "Early English Books, 1475-1640",
+        "thingiverse": "Thingiverse Archive",
+        "gerstein": "University of Toronto - Gerstein Science Information Centre",
+        "university_of_toronto": "University of Toronto",
+        "pub_early-english-books-1641-1700": "Early English Books, 1641-1700",
+        "internetarchivebooks": "Internet Archive Books",
+        "clevelandart": "Cleveland Museum of Art",
+        "texts": "eBooks and Texts",
+        "radioprograms": "Radio Show and Programs Archive",
+        "gutenberg": "Project Gutenberg"
+      }
+    },
+    "hit_schema": {
+      "item": {
+        "identifier": {
+          "multivalue": false,
+          "mapping": "string"
+        },
+        "noindex": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "optional": true
+        },
+        "title": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "description": {
+          "multivalue": false,
+          "mapping": "string",
+          "dressing": {
+            "truncate": 1000
+          },
+          "optional": true
+        },
+        "subject": {
+          "multivalue": true,
+          "mapping": "string",
+          "dressing": {
+            "truncate": 1000
+          },
+          "optional": true
+        },
+        "creator": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "collection": {
+          "multivalue": true,
+          "mapping": "string",
+          "comment": "may be a superset of metadata collection field"
+        },
+        "date": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "year": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed from date",
+          "optional": true
+        },
+        "genre": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "volume": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "type": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "language": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "mediatype": {
+          "multivalue": false,
+          "mapping": "string"
+        },
+        "licenseurl": {
+          "multivalue": false,
+          "mapping": "string__url",
+          "optional": true
+        },
+        "num_favorites": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true,
+          "comment": "computed during document construction"
+        },
+        "num_reviews": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true,
+          "comment": "computed during document construction"
+        },
+        "item_size": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "bytes; computed during document construction"
+        },
+        "files_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction"
+        },
+        "item_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction",
+          "optional": true
+        },
+        "displayed_item_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction, may be inferred from item_count",
+          "optional": true
+        },
+        "collection_files_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction, for collection items only",
+          "optional": true
+        },
+        "collection_size": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "bytes; computed during document construction, for collection items only",
+          "optional": true
+        },
+        "downloads": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "total views over item lifetime, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "week": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "views over a seven-day period, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "month": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "views over a month, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "indexflag": {
+          "multivalue": true,
+          "mapping": "string",
+          "comment": "item characterization including noindex status"
+        },
+        "lending___available_to_borrow": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___available_to_browse": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___available_to_waitlist": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___status": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "avg_rating": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true
+        },
+        "addeddate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "issue": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "format varies",
+          "optional": true
+        },
+        "source": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "format varies",
+          "optional": true
+        },
+        "reviewdate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "publicdate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "date_favorited": {
+          "multivalue": false,
+          "mapping": "date",
+          "comment": "not metadata; only present in favorites lists, sourced from Lists API",
+          "optional": true
+        },
+        "reviews_data": {
+          "multivalue": true,
+          "dressing": {
+            "truncate": false
+          },
+          "mapping": "string",
+          "comment": "untruncated JSON encoded data used for Account reviews",
+          "optional": true
+        }
+      }
+    }
+  }
+}

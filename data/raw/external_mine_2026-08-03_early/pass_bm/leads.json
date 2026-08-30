@@ -1,0 +1,37 @@
+{
+  "pass": "BM",
+  "date": "2026-08-05",
+  "direction": "symmetric control exclude_death_before_45; close Joan/Barbaro Younger leak",
+  "primary": {
+    "n_pairs": 44,
+    "median_delta": 6.0,
+    "boot95": [3.0, 8.5],
+    "share_gt_0": 0.705,
+    "n_ge_5": 24,
+    "sesoi5": "PASS_RAW",
+    "sesoi15": "FAIL_OR_UNAVAILABLE"
+  },
+  "dropped_controls": [
+    {
+      "qid": "Q917090",
+      "name": "Joan of Valois",
+      "age_at_death": 30,
+      "wearer": "philippe_le_hardi",
+      "delta_before": -3.0,
+      "delta_after": -4.0
+    },
+    {
+      "qid": "Q1236821",
+      "name": "Ermolao Barbaro the Younger",
+      "age_at_death": 40,
+      "wearer": "spataro_giovanni",
+      "delta_before": 14.0,
+      "delta_after": 8.0
+    }
+  ],
+  "script_gate": "ctrl_allowed rejects death < birth+45",
+  "do_not": [
+    "exclude_ctrl_death_before_50 into primary",
+    "reopen library softs without PDFs"
+  ]
+}

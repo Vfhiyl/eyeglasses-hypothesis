@@ -1,0 +1,233 @@
+           American Journal of                                                                                                   www.biomedgrid.com
+           Biomedical Science & Research                                                                 ISSN: 2642-1747
+---------------------------------------------------------------------------------------------------------------------------------
+Mini Review                                                                                                                      Copy Right@ Xian Du
+
+
+
+    Roll-To-Roll Printing of Wearable Sensors and Devices
+             for Personalized Health Monitoring
+   Mehdi Riza and Xian Du*
+   Department of Mechanical Engineering, University of Massachusetts Amherst, USA
+
+   *Corresponding author: Xian Du, Department of Mechanical Engineering, Center for Personalized Health Monitoring (CPHM),
+   Institute for Applied Life Sciences (IALS), University of Massachusetts Amherst, USA.
+   To Cite This Article: Xian Du, Roll-To-Roll Printing of Wearable Sensors and Devices for Personalized Health Monitoring. 2020 - 7(6). AJBSR.
+   MS.ID.001208. DOI: 10.34297/AJBSR.2020.07.001208.
+   Received:       February 11, 2020; Published:                March 04, 2020
+
+
+
+
+   Abstract
+
+        Personalized Health Monitoring (PHM) is a growing field in the medical community that is intended to address the needs of patients requiring
+   regular monitoring of biodata from a distance. Successful efforts have been made in recent years to solve this problem using wearable electronic
+   sensors/devices. The most effective designs utilize flexible electronics: sensor arrays mounted on polymer substrates that can be wrapped on the
+   skin. While immensely useful due to their inherent advantages in conformability, comfort, and lightweight structures, the challenge lies in finding
+   effective ways to manufacture these devices on a mass scale. Roll-to-Roll (R2R) printing promises high-throughput, high-fidelity fabrication via
+   multiple different methods of imprinting conductive patterns on the substrate. This review examines the applications of these different methods and
+   some of the results that have been demonstrated thus far.
+
+   Keywords: Additive Manufacturing, Flexible Electronics, Health Monitoring, Medical Devices, Roll-To-Roll Printing, Wearable Sensors,
+   Polydimethylsiloxane, Polymeric Substrates, RFID electronics, Silver Electrodes
+
+   Abbreviations: CNT: Carbon Nanotubes; µCP: Microcontact Printing; NIL: Nanoimprint Lithography; PDMS: Polydimethylsiloxane; PHM:
+   Personalized Health Monitoring; R2R: Roll-to-roll; UHF RFID: Ultra-high frequency Radio Frequency Identification
+
+
+
+
+Introduction
+                                                                                  personalized patient applications. As with any emergent technology,
+     Humans have long enjoyed the utility of wearable medical
+                                                                                  developing intelligent fabrication methods is essential to reduce the
+devices since the invention of the first pair of eyeglasses in Northern
+                                                                                  cost of these products and maximize the accessibility to the public.
+Italy, around 730 years ago [1]. Only three centuries later, the first
+                                                                                  R2R allows large-scale manufacturing of these and other kinds of
+hearing aids (ear trumpets) were used to assist the partially deaf
+                                                                                  flexible wearable devices [2-4]. Among the primary applications
+in Europe. Founded on simple material properties and ergonomic
+                                                                                  of wearable electronics is Personalized Health Monitoring (PHM)
+principles, these devices are examples of passive technological
+                                                                                  [5,6]. Oftentimes patients with non-critical conditions that require
+aids that greatly enhanced the quality of life of the wearer while
+                                                                                  frequent monitoring are unable to receive on-time regular check-
+minimizing obstruction into daily activities. In recent years the
+                                                                                  ups due to factors such as distance from clinics, scheduling conflicts,
+development of new additive manufacturing methods, especially
+                                                                                  and general inconvenience (Figure 1) [5].
+Roll-to-Roll (R2R) flexible electronics printing technologies, and
+the miniaturization of computational platforms have unlocked the                      In such cases, wearable monitoring systems such as the one
+potential for wearable medical technology that fulfills considerably              developed at the Tyndall National Institute in Ireland (Figure 1) can
+more advanced functions.                                                          be highly useful for physicians who are able to track their patients’
+                                                                                  biometric readings every 30 minutes, allowing them to respond in
+    Researchers and engineers around the world have already
+                                                                                  case of an emergency [5]. However, the electronics and substrates
+developed prototypes of different wearable electronic devices that
+                                                                                  are rigid, and unwieldy-this is where flexible electronics can make
+incorporate sensors, microfluidics, and even haptic feedback for
+                                                                                  a large contribution. Sensor electronics, whether optical, chemical,
+
+
+
+               This work is licensed under Creative Commons Attribution 4.0 License AJBSR.MS.ID.001208.                                            495
+Am J Biomed Sci & Res                                                                                                        Copy@ Xian Du
+
+
+
+physical, or other, are either embedded into or printed on flexible       imprinted onto the Polydimethylsiloxane (PDMS) film. Researchers
+polymeric substrates which are then placed in contact with the skin       note the potential for this device as a form of touch-sensitive
+[6]. Figure 2 shows a capacitive pressure sensor array embedded in        artificial skin [7]. Using a similar concept, other groups have
+a thin elastomeric “skin-like” membrane. In this configuration, the       developed flexible sensors that detect a wide variety of biomarkers
+brittleness of the silicon-based sensors is negated by their being        and are capable of real-time data transmission [7-9].
+
+
+
+
+ Figure 1: Tyndall-DMS Mote, a patient monitoring device which transmits blood pressure readings, etc. [5].
+
+
+
+
+ Figure 2. Flexible sensors displaying deformations [7].
+
+
+    The device in this example was created via microcontact printing,     (µCP) or Nanoimprint Lithography (NIL) is that they are scalable for
+a form of soft lithography in which the Polydimethylsiloxane              bulk manufacturing [2]. The difference between the two methods
+(PDMS) substrate is stamped with a conductive ink pattern [10,11].        is that NIL utilizes thermal imprinting [13]. This can be done by
+The ink is generally made using some form of gold or silver, but          integrating the stamp/press into an R2R system, similar in layout
+research has demonstrated the effectiveness of carbon nanotubes           to the old process for printing newspapers [2,14]. Figure 3 shows
+as a high-performance medium too [12]. A major advantage of               an example of this in an R2R NIL machine for thermal imprinting
+contact-based lithographic methods such as microcontact printing          polymer film [13].
+
+
+
+
+                                        American Journal of Biomedical Science & Research                                                496
+Am J Biomed Sci & Res                                                                                                                    Copy@ Xian Du
+
+
+
+    Another type of device is mounted directly on the skin like a              Skin-like ultra-thin tags may be placed on the body with minimal
+tattoo, sandwiched between ultra-thin polymer layers [14,15].                  to no discomfort or interference to the user’s normal movement
+Ultra-High Frequency Radio Frequency Identification (UHF RFID) is              patterns [14].
+used in many applications for human monitoring, and one research
+                                                                                   This technology is not limited to RFID monitoring, as inkjet-
+group used inkjet printing to deposit silver nanoparticle inks onto
+                                                                               printed electrodes used for biosensing of molecules (e.g. cortisol)
+tattoo paper so they can be easily transferred to the skin. These
+                                                                               have already been designed and tested. Inkjet printing has even
+tattoo tags are ultra-thin (1-5µm) compared to screen or etched
+                                                                               been used to deposit gold and silver electrodes onto polymeric
+tags (tens of µm) [14]. This technology has a great advantage over
+                                                                               substrates that had already been imprinted with microfluidic
+current forms of human monitoring devices that utilize bulky
+                                                                               channels by NIL, making composite devices [3].
+wrist/armbands or ankle bracelets containing the RFID electronics.
+
+Print Methods Comparison
+ Table 1: Comparison of the main print categories that have been proven for medical applications.
+                                                                   Type of Printing
+                             Screen printing                         Inkjet                 Lithography (µCP, NIL)                   Flexography
+                      Voice recognition module on thin       Passive UHF RFID skin       Microfluidic devices on polymer
+   Applications                                                                                                              CNT array sensors (optical,
+                    film (polyimide). Large area flexible   tattoo tags. Sensing elec-   substrate, Cellulose biosensing
+                                                                                                                             chemical tactile) on the ul-
+                    sensor array on thin film. Graphene     trodes for electrochemi-      films. The elastomeric sensor
+                                                                                                                             trathin polymer membrane
+                     high res patterned flexible circuit.          cal analysis                   array on PDMS
+                                                              Relatively low cost;
+                    Low cost; high potential throughput.                                   Bulk-scaling potential; very      CNT stamp microstructures
+       Pros                                                 versatile choice of ink/
+                          Large area; Simplicity                                         high speed; high fidelity pattern   are resistant to roof collapse
+                                                                  substrates
+                                                            Slower speed compared          Requires complex feedback           Slow speed; limited for
+                     Low-resolution patterns compared
+                                                            to contact-based meth-       control system to manage print      large area stamps. requires
+       Cons           to photolithography and etching.
+                                                              ods; Inefficient ener-       forces and alignment at the       complex fabrication of nano
+                             Limited materials
+                                                                     gy-wise                       microscale                       porous stamps
+       Refs                       [16-18]                           [3,4,14]                        [2,3,7,13]                           [15]
+Table Abbreviations: UHF RFID: Ultra-High Frequency Radio Frequency Identification; PDMS: Polydimethylsiloxane; CNT: Carbon Nanotube
+
+     Table 1 provides a visual aid to summarize the print methods              explored the capabilities of each. A combination of methods both
+that have been most successful at fabricating flexible electronic              contact and non-contact (i.e. µCP and inkjet) could be integrated
+devices for PHM applications thus far. The intent is not to convey             into an R2R system that would be capable of fabricating a wide range
+that one print method is superior in all aspects to others, but                of devices on a large scale. This composite system would utilize the
+to demonstrate that different methods have varying levels of                   best features of each of the components-i.e. the processing speed
+effectiveness depending on the applications. For example, due to               and high resolution of µCP combined with the adaptability of inkjet.
+inherent limitations screen printing methods will never match the              Other print methods such as flexography or screen printing could
+high-resolution of inkjet printing [4,16]. However, screen printing            also be included. A prototype of such a system should be designed
+is vastly superior for a large area, high throughput fabrication of            and tested with the results being the subject of further study.
+lower resolution electronics-as well as being much more energy-
+                                                                               Acknowledgment
+efficient. Meanwhile, lithographic methods such as µCP can produce
+super-high-resolution patterns in large areas at high speed. But                  Thanks are owed to the researchers and authors of the various
+since they are contact-based and rely on premade stamps, they                  groups cited; whose work enabled the writing of this review.
+still lack the customizability of inkjet printers which can be easily          Conflict of Interest
+reprogrammed to produce different patterns [3].
+                                                                                   The author declares no conflict of interest. This work is
+Conclusions and Future Perspectives                                            supported in part by the National Science Foundation (grant no.
+    Wearable sensors printed onto polymeric substrates have                    CMMI1916866 and CMMI1942185). Any opinions, findings and
+major advantages over outdated rigid designs due to their low                  conclusions or recommendations expressed in this material are
+cost, lightweight, flexibility, and comfort [6]. The emergence of              those of the authors and do not necessarily reflect the views of the
+higher throughput, lower-cost manufacturing methods for flexible               National Science Foundation.
+electronics will have a great impact on the field of Personalized              References
+Health Monitoring. This paper has gone over the most viable
+                                                                               1. Ilardi V (2007) Renaissance Vision from Spectacles to Telescopes,
+methods used to fabricate these devices in large quantities and                   American Philosophical Society, Philadelphia, USA.
+
+
+
+
+                                        American Journal of Biomedical Science & Research                                                             497
+Am J Biomed Sci & Res                                                                                                                   Copy@ Xian Du
+
+
+
+2. Kooy N, Mohamed K, Pin LT, Guan OS (2014) A review of roll-to-roll        12. Volder MFD, Tawfick SH, Baughman RH, Hart AJ (2013) Carbon
+   nanoimprint lithography. Nanoscale Res Lett 9(1): 320.                        Nanotubes: Present and Future Commercial Applications. Science
+                                                                                 339(6119): 535-539.
+3. Zhou Y (2019) Direct Printing/Patterning of Key Components for
+   Biosensor Devices. Doctoral Dissertation, Univ of Massachusetts           13. Mäkelä T, Haatainen T, Ahopelto J, (2011) Roll-to-roll printed gratings in
+   Amherst, MA, USA.                                                             cellulose acetate web using novel nanoimprinting device. J Microelectron
+                                                                                 Eng 88(8): 2045-2047.
+4. Abbel R, Teunissen P, Rubingh E, van Lammeren T, Cauchois R, et al.
+   (2014) Industrial-scale inkjet-printed electronics manufacturing-         14. Romaguera VS, Ziai MA, Oyeka D, Barbosa S, Wheeleret JSR, et al. (2013)
+   production up-scaling from concept tools to a roll-to-roll pilot line.        Towards inkjet-printed low-cost passive UHF RFID skin mounted tattoo
+   Transl Mater Res 1(1): 015002.                                                paper tags based on silver nanoparticle inks. Journal of Materials
+                                                                                 Chemistry 1(39): 6395-6402.
+5. Donoghue J, Herbert J, Stack P (2020) Remote Non-Intrusive Patient
+   Monitoring. Tyndall National Institute, Cork, Ireland.                    15. Kim S, Sojoudi H, Zhao H, Mariappan D, McKinley GH, et al. (2016)
+                                                                                 Ultrathin high-resolution flexographic printing using nanoporous
+6. Khan S, Ali S, Bermak A (2019) Recent Developments in Printing Flexible       stamps. Science Advances 2(12): 1601660.
+   and Wearable Sensing Electronics for Healthcare Applications. Sensors
+   Basel 19(5): 1230.                                                        16. Chang WY, Fang TH, Lin HJ, Shen YT, Lin YC (2009) A Large Area Flexible
+                                                                                 Array Sensors Using Screen Printing Technology. J Display Technol 5(6):
+7. Woo SJ, Kong JH, Kimb DG, Kim JM (2014) A Thin All-Elastomeric                178-183.
+   Capacitive Pressure Sensor Array based on Micro-Contact Printed
+   Elastic Conductors. Journal of Materials Chemistry C 2(22): 4415-4422.    17. Numakura D (2008) Advanced Screen-Printing Practical Approaches
+                                                                                 for Printable & Flexible Electronics. 3rd International Microsystems,
+8. Shiwaku R, Matsui H, Nagamine K, Uematsu M, Mano T, et al. (2018)             Packaging, Assembly & Circuits Technology Conference, Taipei, Taiwan.
+   A Printed Organic Circuit System for Wearable Amperometric
+   Electrochemical Sensors. Sci Rep 8: 6368.                                 18. Hyun WJ, Secor EB, Hersam MC, Frisbie CD, Francis LF (2015) High‐
+                                                                                 Resolution Patterning of Graphene by Screen Printing with a Silicon
+9. Tricoli A, Nasiri N, De S (2017) Wearable and miniaturized sensor             Stencil for Highly Flexible Printed Electronics. Advanced Materials
+   technologies for personalized and preventive medicine. Adv Funct Mater        27(1): 109-115.
+   27(15): 1605271.
+10. Du X, Hardt D, Anthony B (2019) Real Time Imaging of Invisible Micron-
+    Scale Monolayer Patterns on a Moving Web Using Condensation Figures.
+    IEEE Transactions on Industrial Electronics 67(5): 4077-4087.
+11. Chris M, Du X, Hardt D, AlQahtani H (2015) Roll-to-Roll Microcontact
+    Printing of Flexible Aluminum Substrates Using Octadecylphosphonic
+    Acid (ODPA). ASME International Mechanical Engineering Congress and
+    Exposition, Houston, Texas, USA p.7.
+
+
+
+
+                                         American Journal of Biomedical Science & Research                                                           498
+

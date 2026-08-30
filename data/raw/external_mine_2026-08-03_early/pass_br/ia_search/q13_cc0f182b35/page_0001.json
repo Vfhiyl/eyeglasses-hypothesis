@@ -1,0 +1,181 @@
+{
+  "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785940139361",
+  "version": "1x7o",
+  "session_context": {
+    "session_key": "user__alanobrienterry918272@gmail.com",
+    "created": "2026-08-05T14:29:02Z",
+    "client_characterization": {
+      "characterized_by": "asserted_or_authenticated",
+      "preferred_client_ip": null,
+      "client_ip": "23.229.125.197:sra",
+      "preferred_client_useragent": null,
+      "client_useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36:sua",
+      "preferred_client_id": null,
+      "client_id": "alanobrienterry918272@gmail.com:sco"
+    },
+    "username": "alanobrienterry918272@gmail.com",
+    "authentication_method": "cookie",
+    "is_system": false,
+    "is_guest": false,
+    "is_user": true,
+    "is_archive_user": false,
+    "is_qualified": false,
+    "is_archivist": false,
+    "has_universal_privs": false,
+    "has_collection_priv": false,
+    "has_allowed_host_priv": false,
+    "has_vpn_host_priv": false,
+    "has_scan_center_priv": false,
+    "has_any_priv": false,
+    "has_any_priv_permissive": false,
+    "pps": {
+      "is_page_target_owner": false,
+      "contributed_review_on_page": false,
+      "full_text_search_override": false,
+      "sees_sensitive_fields": false
+    },
+    "pps_relevant_user_preferences": {
+      "display__blur_moderated_content": "on"
+    }
+  },
+  "request": {
+    "client_request_parameters": {
+      "client": "page_production_service_endpoint",
+      "user_query": "\"household accounts\" AND (Camden OR Surtees OR \"Record Society\" OR Roxburghe) AND (spectacles OR eyeglasses OR glasses)",
+      "hits_per_page": 25,
+      "page": 1,
+      "aggregations": [],
+      "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785940139361",
+      "client_url": "https://archive.org/search?query=%22household+accounts%22+AND+%28Camden+OR+Surtees+OR+%22Record+Society%22+OR+Roxburghe%29+AND+%28spectacles+OR+eyeglasses+OR+glasses%29"
+    },
+    "backend_requests": {
+      "search": {
+        "root": "(self)",
+        "request_type": "search",
+        "finalized_parameters": {
+          "client": "page_production_service_endpoint",
+          "user_query": "(redacted)",
+          "hits_per_page": 25,
+          "page": 1,
+          "aggregations": [],
+          "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785940139361",
+          "client_url": "https://archive.org/search?query=%22household+accounts%22+AND+%28Camden+OR+Surtees+OR+%22Record+Society%22+OR+Roxburghe%29+AND+%28spectacles+OR+eyeglasses+OR+glasses%29",
+          "page_type": "search_results",
+          "fields": [
+            "_tile_"
+          ],
+          "sort": [
+            "_relevance_:desc",
+            "identifier"
+          ],
+          "aggregations_size": 10,
+          "service_backend": "metadata",
+          "scope": "standard",
+          "feature_flags": {
+            "complex_facets": true,
+            "collection_titles": true,
+            "redact_collections": true,
+            "redact_collections_by_privs": false,
+            "redact_empty_collections": true,
+            "redact_admin_collections": true,
+            "protect_flagging_collections": true
+          },
+          "service": "service__metadata__load_balanced"
+        }
+      }
+    }
+  },
+  "caching": {
+    "search": {
+      "name": "PPS-1x7o-J:US-RT:s~hit-T:sr-Q:6997709a-H:25-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+      "acceptable_names": [
+        "PPS-1x7o-J:US-RT:s~std-T:sr-Q:6997709a-H:25-B:mds-RS:sta~CS::P:0+CS:some+BR:1"
+      ],
+      "configuration": {
+        "requested": [],
+        "finalized": {
+          "bypass": false,
+          "recompute": false,
+          "no_compute": false,
+          "ttl_s": 300,
+          "max_age_s": 0,
+          "miss_policy": "none"
+        }
+      },
+      "utilization": {
+        "went_to_cache": true,
+        "alternates_allowed": true,
+        "hit_alternate": false,
+        "hit_canonical": false,
+        "hit": false,
+        "miss": true,
+        "recomputed": true,
+        "stored": true,
+        "acceptable_names_tried": [
+          "PPS-1x7o-J:US-RT:s~std-T:sr-Q:6997709a-H:25-B:mds-RS:sta~CS::P:0+CS:some+BR:1"
+        ],
+        "elapsed_s": 1.297865867614746
+      },
+      "statsd_bucket": "search.pps.cache.metadata.search_results"
+    },
+    "summary": {
+      "fetched": [],
+      "computed": [
+        "PPS-1x7o-J:US-RT:s~hit-T:sr-Q:6997709a-H:25-B:mds-RS:sta~CS::P:0+CS:some+BR:1"
+      ],
+      "stored": [
+        "PPS-1x7o-J:US-RT:s~hit-T:sr-Q:6997709a-H:25-B:mds-RS:sta~CS::P:0+CS:some+BR:1"
+      ],
+      "missed": [
+        "PPS-1x7o-J:US-RT:s~hit-T:sr-Q:6997709a-H:25-B:mds-RS:sta~CS::P:0+CS:some+BR:1"
+      ],
+      "bypassed": []
+    }
+  },
+  "elapsed_secs": 1.3463590145111084,
+  "response": {
+    "header": {
+      "succeeded": true,
+      "query_time": 813,
+      "forensics": {
+        "client_characterization": {
+          "client_ip": "23.229.125.197:sra",
+          "client_id": "alanobrienterry918272@gmail.com:sco",
+          "client_useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36:sua",
+          "preferred_client_ip": null,
+          "preferred_client_id": null,
+          "preferred_client_useragent": null,
+          "application_id": {
+            "session": [
+              "pageproduction"
+            ],
+            "request": []
+          },
+          "client_jurisdiction": "US",
+          "preferred_client_jurisdiction": null,
+          "actionable_jurisdiction": "US",
+          "characterized_by": "asserted_or_authenticated",
+          "ensured": true
+        },
+        "routing": {
+          "backend": "es-prod-metadatasearch-filtered",
+          "backend_server": "es-prod-client-o-01",
+          "routed_to_load_balanced": true,
+          "index_addressed": "(cannot determine without hits)"
+        },
+        "backend_request_elapsed_secs": {
+          "search": 1.297865867614746
+        }
+      },
+      "elapsed_secs_for_backend_requests": 1.297865867614746
+    },
+    "body": {
+      "hits": {
+        "total": 0,
+        "returned": 0,
+        "hits": []
+      }
+    },
+    "hit_schema": []
+  }
+}

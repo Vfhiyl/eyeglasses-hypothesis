@@ -1,0 +1,47 @@
+{
+  "pass": "BI",
+  "direction": "hold SESOI +5: Wyatt lifespan rebalance (remove short Bainbridge/Colet); Domenichi long densify trim",
+  "wyatt": {
+    "before": 19.0,
+    "after": 7.0,
+    "issue": "BH Bainbridge/Colet age@death\u224850\u201352 vs Wyatt d.@77 \u2192 reverse lifespan bias",
+    "fix": "remove Bainbridge/Colet overlays; unlock Warham; restore trimmed Mair; +Stokesley/Blythe; LP harvest 1527\u201331"
+  },
+  "domenichi_ludovico": {
+    "before": -5.5,
+    "after": -2.5,
+    "note": "retire Visdomini/Tomitano; keep Grataroli/Robortello"
+  },
+  "jeake_samuel": {
+    "delta": -5.0,
+    "note": "HOLD structural ya45=2; already lifespan-matched"
+  },
+  "primary_summary": {
+    "n": 44,
+    "median_delta": 6.0,
+    "boot95": [
+      3.0,
+      8.75
+    ],
+    "sesoi5": "PASS_RAW",
+    "n_ge_5": 24
+  },
+  "robustness": {
+    "death_strip_keep_office": {
+      "median": 5.0,
+      "boot95": [
+        1.5,
+        7.5
+      ],
+      "sesoi5": "PASS"
+    },
+    "wyatt_delta_to_0": {
+      "median": 5.0,
+      "boot95": [
+        2.0,
+        8.75
+      ],
+      "sesoi5": "PASS"
+    }
+  }
+}

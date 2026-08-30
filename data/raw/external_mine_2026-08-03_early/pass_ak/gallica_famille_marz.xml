@@ -1,0 +1,854 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<srw:searchRetrieveResponse xmlns:ns6="http://gallica.bnf.fr/namespaces/gallica/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <srw:version>1.2</srw:version>
+    <srw:echoedSearchRetrieveRequest>
+        <srw:query>gallica all "Famille de la Marzelière"</srw:query>
+        <srw:version>1.2</srw:version>
+    </srw:echoedSearchRetrieveRequest>
+    <srw:numberOfRecords>1939</srw:numberOfRecords>
+    <srw:extraResponseData>&lt;numberOfRecordsDecollapser&gt;6763&lt;/numberOfRecordsDecollapser&gt;</srw:extraResponseData>
+    <srw:records>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Association bretonne et Union régionaliste bretonne. Auteur du texte</dc:creator>
+                    <dc:date>1948-2004</dc:date>
+                    <dc:description>Variante(s) de titre : Bulletin agricole et archéologique de l'Association bretonne</dc:description>
+                    <dc:description>Variante(s) de titre : Association bretonne</dc:description>
+                    <dc:description>Variante(s) de titre : Bulletin de l'Association bretonne</dc:description>
+                    <dc:description>Variante(s) de titre : Comptes rendus, conférences et mémoires, colloque, vie culturelle</dc:description>
+                    <dc:description>Variante(s) de titre : Comptes rendus, colloque, vie culturelle</dc:description>
+                    <dc:description>Variante(s) de titre : Comptes rendus, mémoires, colloque, vie culturelle</dc:description>
+                    <dc:description>Variante(s) de titre : Comptes rendus, mémoires, vie culturelle</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb391081151/date</dc:identifier>
+                    <dc:identifier>NUMP-26254</dc:identifier>
+                    <dc:identifier>ISSN 17650224</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>A. Prud'homme (Saint-Brieuc)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb391081151</dc:relation>
+                    <dc:relation>A pour reproduction : Comptes rendus, procès-verbaux, mémoires (Association bretonne et Union régionaliste bretonne. Reproduction numérique) = ISSN 2971-2904 (https://gallica.bnf.fr/ark:/12148/cb391081151/date)</dc:relation>
+                    <dc:source>Association Bretonne, 2023-71937</dc:source>
+                    <dc:title>Comptes rendus, procès-verbaux, mémoires... (Association bretonne et Union régionaliste bretonne)</dc:title>
+                    <dc:title>Comptes rendus, procès-verbaux, mémoires... : agriculture, archéologie / Association bretonne et Union régionaliste bretonne</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>0</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bd6t5347142x.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb391081151/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bd6t5347142x.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bd6t5347142x.medres</medres>
+                <nqamoyen>89.59</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t5347142x.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bd6t5347142x</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Vallet de Viriville, Auguste (1815-1868). Auteur du texte</dc:creator>
+                    <dc:creator>Du Hallay-Coëtquen, Jean (1799-18..). Auteur du texte</dc:creator>
+                    <dc:date>1851</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>1 vol. (XXIII-80 p.) : fac-similé ; in-8</dc:format>
+                    <dc:format>Nombre total de vues : 118</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k850578t</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:language>français</dc:language>
+                    <dc:publisher> (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb315246906</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LJ16-2</dc:source>
+                    <dc:title>Notice des archives de monsieur le marquis du Hallay-Coëtquen</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>1</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k850578t.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k850578t</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k850578t.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k850578t.medres</medres>
+                <nqamoyen>87.04</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k850578t.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k850578t</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Steyert, André (1830-1904). Auteur du texte</dc:creator>
+                    <dc:date>1860</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : RhoneAlp1</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>In-4° , XX p., 65 ff. de fig., 96 p.</dc:format>
+                    <dc:format>Nombre total de vues : 258</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k54094768</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:language>français</dc:language>
+                    <dc:publisher>A. Brun (Lyon)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31407364z</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 4-LM2-80</dc:source>
+                    <dc:title>Armorial général du Lyonnais, Forez et Beaujolais...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>2</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k54094768.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k54094768</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k54094768.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k54094768.medres</medres>
+                <nqamoyen>99.98</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k54094768.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k54094768</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Saffroy, Gaston (1909-1985). Auteur du texte</dc:creator>
+                    <dc:date>1974</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:description>Bibliographie</dc:description>
+                    <dc:format>1 vol. (VI-831 p.) : ill., couv. ill. ; 26 cm</dc:format>
+                    <dc:format>Nombre total de vues : 861</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bd6t5404748g</dc:identifier>
+                    <dc:identifier>NUMS-100404748</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>G. Saffroy (Paris)</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb34297329c</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb35125705h</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Manuscrits, 4-IMPR-1021 (3)</dc:source>
+                    <dc:subject>Généalogie -- France</dc:subject>
+                    <dc:title>Bibliographie généalogique, héraldique et nobiliaire de la France. 3, Recueils généalogiques généraux, monographies familiales et études particulières.... Numéro 33963-52222,Tome 3 / Gaston Saffroy</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>3</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bd6t5404748g.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bd6t5404748g</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bd6t5404748g.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bd6t5404748g.medres</medres>
+                <nqamoyen>88.06</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t5404748g.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bd6t5404748g</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Magny, Ludovic de (1826-1914). Auteur du texte</dc:creator>
+                    <dc:date>1874-1875</dc:date>
+                    <dc:description>Contient une table des matières</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>2 tomes en 1 vol. (162 p.-IX p. de pl., 135 p.) : pl. ; gr. in-8</dc:format>
+                    <dc:format>Nombre total de vues : 187</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k5828151m</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>aux "Archives de la noblesse" (Paris)</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb308591367</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb308591367</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 4-LM1-132</dc:source>
+                    <dc:title>Armorial de la France. 1874 / par L. de Magny,...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>4</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k5828151m.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k5828151m</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k5828151m.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k5828151m.medres</medres>
+                <nqamoyen>92.2</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k5828151m.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k5828151m</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Bellevue, Cte de. Auteur du texte</dc:creator>
+                    <dc:date>1901</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>1 vol. (63 p.) : armoirie ; in-8</dc:format>
+                    <dc:format>Nombre total de vues : 65</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k5557391m</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:language>français</dc:language>
+                    <dc:publisher>Impr. E. Grimaud et fils (Nantes)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb34211069p</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LM3-3220</dc:source>
+                    <dc:subject>Lambilly</dc:subject>
+                    <dc:title>Généalogie de la famille de Lambilly / Cte de Bellevüe</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>5</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k5557391m.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k5557391m</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k5557391m.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k5557391m.medres</medres>
+                <nqamoyen>96.61</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k5557391m.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k5557391m</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Peigné, Jean-Marie (1837-1893). Auteur du texte</dc:creator>
+                    <dc:date>1861</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>42 p. ; in-8</dc:format>
+                    <dc:format>Nombre total de vues : 60</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k6503803b</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:language>français</dc:language>
+                    <dc:publisher>impr. de J.-B. Huart (Dinan)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb310729525</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LK7-340</dc:source>
+                    <dc:subject>Antrain (France)</dc:subject>
+                    <dc:title>Antrain et ses environs : essai / par J.-M. Peigné,...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>6</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k6503803b.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k6503803b</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k6503803b.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k6503803b.medres</medres>
+                <nqamoyen>99.96</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k6503803b.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k6503803b</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1870-1871</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>In-fol.</dc:format>
+                    <dc:format>Nombre total de vues : 540</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k5499951n</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb364564741</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, FOL-LB57-113</dc:source>
+                    <dc:subject>France (1870-1940, 3e République)</dc:subject>
+                    <dc:title>Recueil des dépêches télégraphiques reproduites par la photographie et adressées à Paris au moyen de pigeons voyageurs pendant l'investissement de la capitale</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>7</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k5499951n.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k5499951n</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k5499951n.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k5499951n.medres</medres>
+                <nqamoyen>99.98</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k5499951n.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k5499951n</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Cauvin, Thomas (1762-1846). Auteur du texte</dc:creator>
+                    <dc:date>1840</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : PaysLoir1</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>In-12, 264 p. et pl.</dc:format>
+                    <dc:format>Nombre total de vues : 282</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k54082716</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:language>français</dc:language>
+                    <dc:publisher> (Le Mans)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30208405g</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LM2-122</dc:source>
+                    <dc:title>Essai sur l'armorial du diocèse du Mans, par Th. Cauvin,...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>8</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k54082716.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k54082716</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k54082716.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k54082716.medres</medres>
+                <nqamoyen>99.98</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k54082716.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k54082716</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Chaix d'Est-Ange, Gustave (1863-1923). Auteur du texte</dc:creator>
+                    <dc:date>1903-1929</dc:date>
+                    <dc:description>Dictionnaires biographiques</dc:description>
+                    <dc:description>Dictionnaires</dc:description>
+                    <dc:format>20 vol. ; in-8</dc:format>
+                    <dc:format>Nombre total de vues : 415</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k111996v</dc:identifier>
+                    <dc:identifier>NUMM-111996</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>impr. de C. Hérissey (Évreux)</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb34209118s</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb34209118s</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LM1-164 (3)</dc:source>
+                    <dc:subject>Noms de personnes -- France</dc:subject>
+                    <dc:subject>Élite (sciences sociales) -- France -- XIXe siècle</dc:subject>
+                    <dc:subject>Généalogie -- France</dc:subject>
+                    <dc:subject>France</dc:subject>
+                    <dc:title>Dictionnaire des familles françaises anciennes ou notables à la fin du XIXe siècle. III. Bas-Ber. - 1904 / par C. d'E.-A. [Chaix d'Est-Ange]</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>9</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k111996v.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k111996v</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k111996v.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k111996v.medres</medres>
+                <nqamoyen>95.18</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k111996v.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k111996v</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Poplimont, Charles (1821-1887). Auteur du texte</dc:creator>
+                    <dc:date>1870-1874</dc:date>
+                    <dc:format>8 vol. ; in-8</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k5415158b</dc:identifier>
+                    <dc:identifier>NUMM-5415158</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>[éd. divers] (Lieux divers)</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb31136391q</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31136391q</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LM1-129 (7)</dc:source>
+                    <dc:title>La France héraldique. VII. Patras de Campaigno-Ruzé. - "Saint-Germain, impr. de E. Heutte et Cie", 1874 / par Ch. Poplimont,...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>10</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k5415158b.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k5415158b</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k5415158b.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k5415158b.medres</medres>
+                <nqamoyen>99.98</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k5415158b.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k5415158b</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Dayre de Mailhol, Camille Philippe (1843-1898). Auteur du texte</dc:creator>
+                    <dc:date>1895-1897</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>2 vol. (VIII-2112, 789 col.) : fig. ; gr. in-8</dc:format>
+                    <dc:format>Nombre total de vues : 1086</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k1172347d</dc:identifier>
+                    <dc:identifier>NUMM-1172347</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Direction et rédaction (Paris)</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb30860921f</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30860921f</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 4-LM1-157 (1)</dc:source>
+                    <dc:subject>France -- généalogie</dc:subject>
+                    <dc:title>Dictionnaire historique et héraldique de la noblesse française : rédigé dans l'ordre patronymique, d'après les archives des anciens Parlements, les manuscrits de d'Hozier et les travaux des auteurs, contenant un vocabulaire du blason, la notice des familles nobles existant actuellement en France, avec la description et le dessin de leurs armes. Tome 1 / par D. de Mailhol</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>11</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k1172347d.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k1172347d</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k1172347d.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k1172347d.medres</medres>
+                <nqamoyen>87.46</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k1172347d.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k1172347d</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Vidier, Alexandre (1874-1927). Rédacteur</dc:contributor>
+                    <dc:contributor>Perrier, Paul (1886-1965). Rédacteur</dc:contributor>
+                    <dc:contributor>Omont, Henri (1857-1940). Préfacier</dc:contributor>
+                    <dc:creator>Bibliothèque nationale (France). Auteur du texte</dc:creator>
+                    <dc:date>1931-1948</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:description>Index</dc:description>
+                    <dc:description>Catalogues</dc:description>
+                    <dc:format>6 vol. ; 26 cm</dc:format>
+                    <dc:format>Nombre total de vues : 488</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bd6t5380006s</dc:identifier>
+                    <dc:identifier>NUMS-100380006</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>E. Leroux (Paris)</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb37065678c</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb37065678c</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, C-119 (4)</dc:source>
+                    <dc:subject>Bibliothèque nationale (France). Département des manuscrits</dc:subject>
+                    <dc:title>Catalogue général des manuscrits français : table générale alphabétique des ancien et nouveau fonds (nos 1-33264) et des nouvelles acquisitions (nos 1-10000). IV, L et M / Bibliothèque nationale ; par A. Vidier et P. Perrier... ; [introduction par Henri Omont]</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>12</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bd6t5380006s.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bd6t5380006s</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bd6t5380006s.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bd6t5380006s.medres</medres>
+                <nqamoyen>73.65</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t5380006s.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bd6t5380006s</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>L Huillier, Henry (Julien Charles Henry). Auteur du texte</dc:creator>
+                    <dc:date>1912</dc:date>
+                    <dc:description>Contient une table des matières</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>In-8°, 114 p., portrait et planches</dc:format>
+                    <dc:format>Nombre total de vues : 153</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k5550911g</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:language>français</dc:language>
+                    <dc:publisher>Impr. de Contant-Laguerre (Bar-le-Duc)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb341753953</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LM3-3152</dc:source>
+                    <dc:subject>Oudinot, Maréchal</dc:subject>
+                    <dc:subject>Oudinot</dc:subject>
+                    <dc:title>La Famille du maréchal Oudinot, son cimetière à Bar-le-Duc , par H. L'Huillier,...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>13</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k5550911g.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k5550911g</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k5550911g.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k5550911g.medres</medres>
+                <nqamoyen>99.98</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k5550911g.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k5550911g</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1922-1944</dc:date>
+                    <dc:description>Périodicité : Hebdomadaire</dc:description>
+                    <dc:description>Etat de collection : Jusqu'à : 26 août 1944 [LIX, n° 1740] ; inc.</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG00</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG31</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG31</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb32763038h/date</dc:identifier>
+                    <dc:identifier>NUMP-27792</dc:identifier>
+                    <dc:identifier>ISSN 21267537</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>[s.n.] (Luchon)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb32763038h</dc:relation>
+                    <dc:relation>A pour reproduction : L'Écho pyrénéen (Luchon. Reproduction numérique) = ISSN 3036-9223 (https://gallica.bnf.fr/ark:/12148/cb32763038h/date)</dc:relation>
+                    <dc:relation>Première de couverture : 865177</dc:relation>
+                    <dc:source>Bibliothèque nationale de France, département Droit, économie, politique, JO-7075</dc:source>
+                    <dc:title>L'Écho pyrénéen (Luchon)</dc:title>
+                    <dc:title>L'Écho pyrénéen : ancien "Luchon-thermal" : organe du Comminges et des Pyrénées centrales : indépendant, politique, littéraire, thermal, climatique, mondain et sportif : paraissant toute l'année</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>14</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k7018351h.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb32763038h/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k7018351h.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k7018351h.medres</medres>
+                <nqamoyen>86.69</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k7018351h.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k7018351h</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1944-1946</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : Limous1</dc:description>
+                    <dc:format>Nombre total de vues : 8</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb32811879z/date</dc:identifier>
+                    <dc:identifier>ISSN 2131845X</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>[s.n.] (Limoges)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb32811879z</dc:relation>
+                    <dc:relation>A pour reproduction : La Marseillaise du Centre (Reproduction numérique) = ISSN 2419-1493 (https://gallica.bnf.fr/ark:/12148/cb32811879z/date)</dc:relation>
+                    <dc:source>Bibliothèque nationale de France, département Réserve des livres rares, RES-G-1470 (242)</dc:source>
+                    <dc:title>La Marseillaise du Centre : organe régional du Mouvement de libération nationale ["puis" organe régional du MUR (Mouvements unis de résistance) "puis" organe régional du Mouvement de la libération nationale (ex MUR) "puis" quotidien régional du Mouvement de la libération nationale (ex MUR)]</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>15</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bd6t5446757z.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb32811879z/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bd6t5446757z.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bd6t5446757z.medres</medres>
+                <nqamoyen>87.52</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t5446757z.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bd6t5446757z</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1926-1942</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG00</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG37</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG37</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb32759927k/date</dc:identifier>
+                    <dc:identifier>NUMP-2478</dc:identifier>
+                    <dc:identifier>ISSN 21261768</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>[s.n.] (Tours)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb32759927k</dc:relation>
+                    <dc:relation>A pour reproduction : L'Écho de Chinon (Reproduction numérique) = ISSN 3002-2789 (https://gallica.bnf.fr/ark:/12148/cb32759927k/date)</dc:relation>
+                    <dc:relation>Première de couverture : 832904</dc:relation>
+                    <dc:source>Bibliothèque nationale de France, département Collections numérisées, JO-1558</dc:source>
+                    <dc:title>L'Écho de Chinon : journal hebdomadaire de l'arrondissement de Chinon</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>16</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bd6t510767753.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb32759927k/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bd6t510767753.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bd6t510767753.medres</medres>
+                <nqamoyen>97.44</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t510767753.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bd6t510767753</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Beauchesne, Adelstan de (1851-1935). Auteur du texte</dc:creator>
+                    <dc:date>1912</dc:date>
+                    <dc:description>Contient une table des matières</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>1 vol. (147 p.) : pl. ; in-8</dc:format>
+                    <dc:format>Nombre total de vues : 186</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k33476049</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher> (Laval)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb34111878p</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LK7-37605</dc:source>
+                    <dc:subject>Bois-Thibault (France)</dc:subject>
+                    <dc:title>Le Bois-Thibault : étude historique &amp; archéologique / par le marquis de Beauchesne...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>17</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k33476049.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k33476049</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k33476049.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k33476049.medres</medres>
+                <nqamoyen>99.99</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k33476049.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k33476049</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1829-1885</dc:date>
+                    <dc:description>Périodicité : Trihebdomadaire ; Six fois par semaine (1er oct. 1882-1885)</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG00</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG57</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb327505577/date</dc:identifier>
+                    <dc:identifier>NUMP-25149</dc:identifier>
+                    <dc:identifier>ISSN 2015335X</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>[s.n.] (Metz)</dc:publisher>
+                    <dc:publisher>[s.n.][s.n.] (Nancy)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb327505577</dc:relation>
+                    <dc:relation>A pour reproduction : Courrier de la Moselle (Reproduction numérique) = ISSN 2826-8946 (https://kiosque.limedia.fr/titres-presse/courrier-de-la-Moselle/)</dc:relation>
+                    <dc:relation>A pour reproduction : Courrier de la Moselle (Reproduction numérique) = ISSN 2826-8946 (https://gallica.bnf.fr/ark:/12148/cb327505577/date)</dc:relation>
+                    <dc:relation>Première de couverture : 704143</dc:relation>
+                    <dc:source>Bibliothèques-Médiathèques de Metz, AA 162-184</dc:source>
+                    <dc:title>Courrier de la Moselle : journal politique, industriel et littéraire</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>18</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k8255497q.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb327505577/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k8255497q.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k8255497q.medres</medres>
+                <nqamoyen>98.64</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k8255497q.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k8255497q</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Lapie, Paul (1869-1927). Auteur du texte</dc:creator>
+                    <dc:date>1908</dc:date>
+                    <dc:description>Collection : Bibliothèque biologique et sociologique de la femme ; 7</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : PHILR000</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : PHILR005</dc:description>
+                    <dc:description>Contient une table des matières</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>1 vol. (4-334 p.) ; in-18</dc:format>
+                    <dc:format>Nombre total de vues : 355</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k5601228h</dc:identifier>
+                    <dc:identifier>NUMM-5601228</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>O. Doin (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30738581b</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-R-21721 (7)</dc:source>
+                    <dc:title>La femme dans la famille / par Paul Lapie,...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>19</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k5601228h.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k5601228h</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k5601228h.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k5601228h.medres</medres>
+                <nqamoyen>93.85</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k5601228h.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k5601228h</uri>
+            </srw:extraRecordData>
+        </srw:record>
+    </srw:records>
+    <srw:nextRecordPosition>21</srw:nextRecordPosition>
+</srw:searchRetrieveResponse>

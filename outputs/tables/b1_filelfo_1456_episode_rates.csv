@@ -1,0 +1,6 @@
+window,span,n_letters,n_unique_dates,per_year_or_note,read
+pre_auto_parse,1454-1455,39,,19.5,A336151 auto Roman-year closings (OCR; undercounts possible)
+episode_year_curated,1456,19,15,19,curated from multimodal pp.240-241 + OCR Vale...M.cccc.lvi
+episode_May_Jun,1456-05/06,9,,,dense cluster around spectacle letter 05-31
+post_auto_parse,1457-1458,7,,3.5,auto parse; thin but nonzero — continuity not a stoppage
+anchor,1456-05-31,1,1,,Donato Acciaioli; vitreis oculis via Scala; multimodal

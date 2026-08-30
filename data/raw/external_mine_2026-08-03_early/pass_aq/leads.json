@@ -1,0 +1,21 @@
+{
+  "pass": "AQ",
+  "goal": "soft→hard: nicolas_de_baye via Tuetey Journal OA",
+  "choice_rationale": "Local Journal OCR; clearest Cleux-bar among remaining soft (Hesselin library; Pius/Sforza thinner local cache).",
+  "promoted_hard": [
+    "nicolas_de_baye"
+  ],
+  "nicolas_de_baye": {
+    "onset": "1416-11 lunettes petition (Tuetey notice)",
+    "years_after": 2,
+    "last_hard_pin": "1418-03-28 last conseiller present list",
+    "death": "1419-05-09",
+    "n_dated_near_work": 10,
+    "source": "Tuetey ed. Journal de Nicolas de Baye vol.2 IA journaldenicolas02bayeuoft",
+    "chrono": "outputs/tables/b1_nicolas_de_baye_chrono.csv",
+    "hard_dated_series": true
+  },
+  "hesselin_denis": "still library-gated",
+  "pius_ii_sforza": "deferred",
+  "ingest_labor_n": "unchanged"
+}

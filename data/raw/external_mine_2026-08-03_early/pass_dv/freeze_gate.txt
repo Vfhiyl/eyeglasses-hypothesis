@@ -1,0 +1,44 @@
+labor overlays applied: +85; per-wearer excludes: 88
+skipped death_before_45=2; skipped T_work<=0=1
+PRIMARY all: {'mode': 'primary', 'subset': 'all_treatments', 'n_pairs_with_delta': 59, 'median_delta': 7.0, 'boot95_lo': 5.0, 'boot95_hi': 10.0, 'n_ge_5': 37, 'n_ge_15': 7, 'sesoi5': 'PASS_RAW', 'sesoi15': 'FAIL', 'note': 'PASS_RAW requires median≥threshold; sesoi5 also wants boot95_lo≥0'}
+PRIMARY merchant: {'mode': 'primary', 'subset': 'merchant_treatments', 'n_pairs_with_delta': 4, 'median_delta': 8.0, 'boot95_lo': -0.47, 'boot95_hi': 11.0, 'n_ge_5': 3, 'n_ge_15': 0, 'sesoi5': 'FAIL_OR_UNAVAILABLE', 'sesoi15': 'FAIL', 'note': 'PASS_RAW requires median≥threshold; sesoi5 also wants boot95_lo≥0'}
+HIGH only: {'mode': 'high_only', 'subset': 'all_treatments', 'n_pairs_with_delta': 53, 'median_delta': 8.0, 'boot95_lo': 5.0, 'boot95_hi': 10.0, 'n_ge_5': 34, 'n_ge_15': 10, 'sesoi5': 'PASS_RAW', 'sesoi15': 'FAIL', 'note': 'PASS_RAW requires median≥threshold; sesoi5 also wants boot95_lo≥0'}
+wrote /Users/admin/Desktop/proj/other/eyeglasses-hypothesis/outputs/tables/b1_primary_estimand_pairs.csv
+wrote /Users/admin/Desktop/proj/other/eyeglasses-hypothesis/outputs/tables/b1_primary_estimand_summary.csv
+wrote /Users/admin/Desktop/proj/other/eyeglasses-hypothesis/outputs/tables/b1_primary_estimand_method.md
+strict control overlays applied: +85 links; per-wearer excludes: 88
+control curated output pins: 178; elig_true=178 elig_false=119
+B1-Output: treatments with QID=50; SPARQL=False; proxy=http://127.0.0.1:12309
+wearer years written: 64; with dated works=61
+SUMMARY span n=49 med=8.0 CI=[7.0,9.0] sesoi5=PASS_RAW sesoi15=FAIL_OR_UNAVAILABLE
+wrote /Users/admin/Desktop/proj/other/eyeglasses-hypothesis/outputs/tables/b1_labor_cleaning_sensitivity.csv
+wrote /Users/admin/Desktop/proj/other/eyeglasses-hypothesis/outputs/tables/b1_cleaning_sensitivity_method.md
+labor_work_after_45    dirty_max          n=63 med=3.0 CI=[0.0,8.3] FAIL_OR_UNAVAILABLE / FAIL
+labor_work_after_45    raw_match          n=63 med=2.0 CI=[-1.0,7.0] FAIL_OR_UNAVAILABLE / FAIL
+labor_work_after_45    full_clean         n=59 med=7.0 CI=[5.0,10.0] PASS_RAW / FAIL
+output_span_after_45   full_clean_frozen  n=49 med=8.0 CI=[7.0,9.0] PASS_RAW / FAIL_OR_UNAVAILABLE
+wrote /Users/admin/Desktop/proj/other/eyeglasses-hypothesis/outputs/tables/b1_wearer_control_collision_audit.csv
+wrote /Users/admin/Desktop/proj/other/eyeglasses-hypothesis/outputs/tables/b1_wearer_control_collision_audit.md
+active_collisions 0
+inactive_aliases 6
+ note cusanus Q154751 exact_qid
+ note pius_ii Q101437 name_exact
+ note locke_john Q9353 exact_qid
+ note rene_anjou Q170353 exact_qid
+ note priestley_joseph Q159636 exact_qid
+ note burke_edmund Q165792 exact_qid
+run 25_b1_primary_estimand.py
+run 27_b1_output_estimand.py
+run 29_b1_cleaning_sensitivity.py
+run 30_b1_wearer_control_collision_audit.py
+wrote /Users/admin/Desktop/proj/other/eyeglasses-hypothesis/outputs/tables/b1_freeze_gate_report.md
+OK sesoi_direction_5_primary got=PASS_RAW
+OK wearer_control_collision_clear got=DONE
+OK cleaning_sensitivity_documented got=DONE
+OK sesoi_macfarlane_15_primary_FAIL got=FAIL
+OK output_sesoi5 row=output_span_after_45; sesoi5=PASS_RAW
+OK output_sesoi15_not_pass sesoi15=FAIL_OR_UNAVAILABLE
+OK sensitivity_raw_fail_clean_pass raw=FAIL_OR_UNAVAILABLE; clean=PASS_RAW
+OK sensitivity_plus15_none_pass all arms FAIL +15
+OK collision_active_zero n_active=0
+GATE PASS

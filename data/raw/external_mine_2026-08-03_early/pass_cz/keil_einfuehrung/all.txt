@@ -1,0 +1,335 @@
+
+===== PAGE 1 =====
+Einführung 
+Grundlagen,  Ziele  und Aufbau  der Untersuchung 
+Von allen  diesen  verdienten  Männern  findet  man  nichts  in Ansehung 
+ihrer  Lebens-Umstände.  Mahler  und  Ihre  Kunst-Genoßen,  sind  darinn 
+noch  immer  glücklicher  gewesen,  daß  man  ihrer  gedacht  hat,  als 
+Mechanische  Künstler,  obwohlen  es diese  eben  so würdig  gewesen  wären. 
+Paul  von  Stetten  d. J. 1765 
+Kein  geringerer  als einer  der letzten  beiden  Stadtpfleger  der Freien  Reichsstadt 
+Augsburg,  Paul  von  Stetten  d.J.(1731-1808)  traf  diese  Feststellung  in seinen  'Er-
+läuterungen  der  in Kupfer  gestochenen  Vorstellungen  aus  der  Geschichte  der 
+Reichsstadt  Augsburg'.1  Der  exzellente  Stadthistoriograph  versuchte  zwar  diese 
+Lücke  in der Augsburger  Geschichtsschreibung  zu schließen:  In den Jahren  1779 
+bis 1788  erschienen  die beiden  Bände  seiner  berühmten  'Kunst-,  Gewerb-,  und 
+Handwerksgeschichte  der Reichsstadt  Augsburg',  worin  er zu den  'Mechanischen 
+Künstlern'  auch  die optischen  Handwerker  zählte.  Allerdings  blieben  seine  Infor-
+mationen  zu dieser  spezifischen  Gruppe  ziemlich  spärlich,  auch  wenn  sie eine 
+gute Grundlage  für weitere  Forschungen  boten.2  Optische  Instrumente  des  17. 
+Jahrhunderts  aus Augsburg  sind  kaum  erhalten.  Aus  diesem  Grund  fielen  die frü-
+hen Optiker  nahezu  völligem  Vergessen  anheim.  Mit  dieser  Studie  über  Johann 
+Wiesel  (1583-1662)  und  dessen  Nachfolger  soll  nicht  nur  eine  Lücke  in der 
+Handwerksgeschichte  von  Augsburg  geschlossen,  sondern  auch  ein Beitrag  zur 
+Frühgeschichte  der optischen  Instrumente  erbracht  werden. 
+In der frühen  Neuzeit  lebten  in Augsburg  Uhrmacher  und  Feinmechaniker,  de-
+ren Uhren,  Automaten,  Sonnenuhren  und  wissenschaftliche  Instrumente  wie  Zir-
+kel, astronomische  Bestecke,  Geräte  für  Artillerie  und  Feldmessung,  Armil-
+larsphären,  Globen  u.a.  in alle Welt  gingen.  Vieles  davon  findet  man  heute  in den 
+Museen  Europas  und  Nordamerikas.  Die  kleinen  tragbaren  Sonnenuhren  waren 
+geradezu  ein  Exportschlager.  Sie  bildeten  eine  gute  Ergänzung  zu den  vielen 
+Stetten:  Erläuterungen  S. 174. 
+2 Stetten:  Kunst  u. Handwerksgeschichte  Bd.  1. S. 169f.  u. 173. 
+
+===== PAGE 2 =====
+12 Einfuhrung 
+kunstvollen  Uhren,  die Augsburgs  Werkstätten  verließen,  benötigte  man  sie doch 
+noch  bis zum  19. Jahrhundert  fur die Korrektur  der noch  ungenau  gehenden  Rä-
+deruhren.3  Sie enthielten  einen  Kompaß  zur  Ausrichtung  nach  Norden,  weshalb 
+man ihre  Hersteller,  wie  die  Instrumentenmacher  überhaupt,  'Kompaßmacher' 
+nannte.  Nur  der herausragendste  unter  ihnen,  Christoph  Schißler  d.Ä.  (um  1531-
+1608)  bezeichnete  sich  als 'geometrischen  und  astronomischen  Werkmeister'.  Ge-
+org Friedrich  Brander  (1713-1783),  der  mit  seinen  vielfältigen  Instrumenten 
+Augsburg  im 18.Jahrhundert  noch  einmal  an die Spitze  des  deutschen  Instrumen-
+tenbaus  fuhren  sollte,  nannte  sich  'Mechanikus'.  Diese  Kunsthandwerker,  von 
+Schißler  und  seinen  Zeitgenossen  bis hin zu Brander  und  seinem  Schwiegersohn 
+Christoph  Kaspar  Höschel  (1744-1820),  sind  durch  die Bücher  von  Maximilian 
+Bobinger  hervorragend  dokumentiert.  Auch  über  die wichtigsten  Kunstuhrmacher 
+des 16. und  17. Jahrhunderts  hat Bobinger  berichtet.4  Eine  zusätzliche,  ausfuhrli-
+che Dokumentation  von  Leben  und  Werk  Branders  und  Höschels  wurde  1983  im 
+Deutschen  Museum  in München  erstellt.5 
+Völlig  in Vergessenheit  geraten  war  aber,  daß  Augsburg  bereits  im 17.  Jahr-
+hundert  eine  berühmte  optische  Werkstatt  besaß. 
+Was sonsten  den  Tubum  betrifft,  den  mein  Herr  allhier  von  Dantzig  aus  be-
+gehrt,  so kann  ich  dem  Herrn  hiemit  berichten,  daß  auch  nicht  ein  einziges 
+gutes  telescopium  allhier  zu kaufen  sey,  denn  sie nicht  gemacht  werden,  man 
+muß sie, wo man  sie nicht  selbsten  machen  kann,  in Niederland,  von  Rom  oder 
+Augsburg  suchen, 
+schrieb  1661  der  Astronom  Johannes  Hevelius  (1611-1687)  in Danzig.6  Johann 
+Wiesel,  der Gründer  der Augsburger  Werkstatt,  wurde  mit seinen  erst  kurz  zuvor 
+in Holland  erfundenen  optischen  Instrumenten  wie  Fernrohr  und  Mikroskop  als 
+'Augustanus  Opticus',  wie  er seine  Instrumente  in späteren  Jahren  signierte,  in 
+ganz  Europa  bekannt.  Er fand  nach  seinem  Tod  in Daniel  Depiere  und  Cosmus 
+Conrad  Cuno  geschickte  Nachfolger,  die sich  vor  allem  auf  den  Bau  von  Mikro-
+skopen  spezialisierten.  Weil  auch  Brander  und  Höschel  optische  Instrumente  aller 
+Art bauten  - Brander  verfertigte  unter  anderem  1737  das erste  Spiegelteleskop  in 
+Deutschland  - können  wir  in Augsburg  auf  zweihundert  Jahre  hoher  optischer 
+Handwerkskunst  zurückblicken. 
+Bei der  Suche  nach  Quellen  für  einen  Beitrag  zu der  Festschrift  zum  450-
+jährigen  Jubiläum  des  Augsburger  Gymnasiums  bei St. Anna7  stieß  ich in Ernst 
+Bachmann:  Sonnenuhren  als Eichinstrumente. 
+4 siehe  Literaturverzeichnis.  Maximilian  Bobinger  (1895-1973)  war  Mathematiker  und  Di-
+rektor  des Maria-Theresia-Gymnasiums  in Augsburg.  Mit  optischen  Instrumenten  hat er sich 
+nicht  näher  beschäftigt,  was  auch  aus seinem  Nachlaß  im Stadtarchiv  Augsburg  hervorgeht. 
+5 Brachner:  Brander. 
+6 Observatoire  Paris.  Correspondance  Hevelius  C 1.1.  5 S. 668.  5.7.1661  J. Hevel  an G. Rabe-
+ner. 
+7 Keil/Keil:  Astronomie  am Gymnasium  bei St. Anna.  1981. 
+
+===== PAGE 3 =====
+Einfuhrung 13 
+Zinners  'Instrumente'  zum  ersten  Mal  auf den Namen  von  Johann  Wiesel.8  Er war 
+einer  der ersten  kommerziellen  Fernrohrbauer  des  17. Jahrhunderts.  Deshalb  war 
+die Frage  naheliegend:  Hatte  man  in Augsburg  seine  Fernrohre  zu astronomischen 
+Beobachtungen  benützt?  Das  Gymnasium  besaß  ja seit  1613  auf dem  Turm  der 
+benachbarten  Stadtbibliothek  eine  Sternwarte.  In der  kurzen  Zeit,  die bis zum 
+Schuljubiläum  zur  Verfügung  stand,  konnte  diese  Frage  nicht  geklärt  werden. 
+Zwei  Jahre  später  veröffentlichte  Dr. Alfons  Thewes  in Oldenburg  eine  Biogra-
+phie des  Kapuziners  Anton  Maria  Schyrleus  de Rheita  (1604-1659/60),  die den 
+endgültigen  Anstoß  zu meinen  Forschungen  über  Wiesel  gab.  Von  Rheita,  der 
+sich vor allem  in den  Jahren  nach  1640  mit dem  Fernrohrbau  beschäftigte,  schie-
+nen etliche  Fäden  zu Wiesel  zu führen.  Sein  umfangreiches  Buch  Oculus  Enoch 
+et Eliae',  das 1645  in Antwerpen  erschien  und  das damalige  Weltbild  behandelte, 
+enthielt  ein Kapitel  über  den  Fernrohrbau,  in dem  Rheita  ausdrücklich  auf Wiesel 
+als äußerst  erfahrenen  Opticus'  hinwies.9 
+Um 1983  lagen  eine  Reihe  von  Übersichtsarbeiten  zur  Geschichte  der  opti-
+schen  Instrumente10  wie  auch  zur Geschichte  der Brille  und  der Augenheilkunde 
+vor."  Auch  über  die  Glasherstellung  war  einiges  zu finden.'2  Die  Augsburger 
+Optiker  wurden  nur  selten  erwähnt.  Zu anderen  Optikern  des  17.  Jahrhunderts 
+standen  z.B.  die Arbeiten  von  Maria  Habacher  über  den  Wiener  Hof,  Hubert  de 
+Martin  über  Griendel  von  Ach  (um  1631-1687)  und  L.C.  Palm  und  H.A.M.  Snel-
+ders über  Antoni  Leeuwenhoek  (1632-1723)  zur Verfügung.13 
+1916  hatte  Max  Engelmann  über  Depieres  Mikroskop  in der Dresdner  Kunst-
+kammer  berichtet.  Armin  Geus  hatte  1976  einen  Neudruck  von  Cunos  mikrosko-
+pischen  Beobachtungen  herausgegeben,  dem  1978  einige  Arbeiten  von  Gerhard 
+Müller  über  Cunos  ersten  Bericht  von  seinen  Mikroskopen  folgten. 
+Als ich mit meinen  Nachforschungen  begann,  war  nichts  über  die persönlichen 
+Lebensumstände  Wiesels  und  seiner  Nachfolger  bekannt,  nichts  über  die Zeit  vor 
+1644,  nichts  über  Wiesels  Tätigkeit  als Brillenmacher  und  Hersteller  von  augen-
+diagnostischen  Geräten,  nichts  genaues  über  die Einfuhrung  der Feldlinse  im Mi-
+kroskop  und  wenig  über  die weitgefächerte  Produktion  des  Optikers  und  seine 
+geschäftlichen  Beziehungen  im In- und  Ausland.  Depieres  Verzeichnis  war  unbe-
+Zinner:  Instrumente.  S. 585:  Fünf  Zeilen,  die das damalige  mangelhafte  Wissen  über  Wiesel 
+zeigen. 
+9 Thewes:  Oculus  Enoch  ... 1983.  Weitere  Arbeiten  von  Thewes  zu Rheita  im Literaturver-
+zeichnis. 
+10 z.B.  von  Rohr  1918  u. 1938;  Daumas  1953;  Fernrohr:  King  1955;  Riekher  l.Auflage  1956; 
+Mikroskop:  Harting  1859;  Mayall  1886;  Petri  1896;  Clay/Court  1932;  Rooseboom  1967; 
+Zingg  1973;  G.L'E.Turner  1979  u.1981;  Camera  Obscura:  Hammond  1981. 
+11 z.B.  Greeff,  Pflugk,  verschiedene  Arbeiten  von  Moritz  v.Rohr;  Hirschberg  ; Münchow  1983. 
+12 z.B.  Lobmeyer  1874;  Vopelius  1895;  Von  Rohr:  Zur  Geschichte  des  optischen  Glases  1917; 
+Hudig  1923;  Schulz  1928;  Duncan  1960;  Douglas/Frank  1972;  Godfrey  1975. 
+13 Habacher  1960;  Martin  1970;  Palm/Snelders  1982. 
+
+===== PAGE 4 =====
+14 Einführung 
+kannt  und  Cunos  Mikroskope  wurden  mit  Ausnahme  von  Geus  und  Müller  nur 
+am Rande  erwähnt.  Damit  sind  die Ziele  der Arbeit  umrissen,  das Leben  und  Wir-
+ken des bedeutenden  Optikers  Johann  Wiesel  und  seiner  Nachfolger  in Augsburg 
+aufzuhellen,  aber  auch  ihre  Arbeiten  in das nationale  und  internationale  Umfeld 
+einzuordnen  und  Wechselwirkungen  aufzuzeigen. 
+Erste  Spuren  von  Wiesels  Tätigkeit  konnte  ich in Paul  von  Stettens  oben  er-
+wähnter  Handwerksgeschichte  finden.14  Die historischen  Schriften  des Jenaer  Op-
+tikers  Moritz  von  Rohr  (1868-1940)  brachten  Hinweise  auf Wiesels  Porträt  und 
+seine  Fernrohrpreisliste.  Maria  Rooseboom  zitierte  1967  in ihrer  Mikroskopge-
+schichte  Christiaan  Huygens  (1629-1695),  der Instrumente  von  Wiesel  untersucht 
+hatte.  Aus  der neueren  Zeit  sind  die Arbeiten  der amerikanischen  Wissenschafts-
+historiker  Silvio  A. Bedini,  Washington,  und  Albert  Van  Helden,  Houston,  zu 
+nennen.  Bedini  hatte  zwischen  1963  und  1971  einige  umfassende  Aufsätze  über 
+frühe,  vor allem  italienische  optische  Instrumente  und  ihre  Herstellung  veröffent-
+licht.  Van  Helden  hatte  seit  1974  über  die Erfindung  des  Fernrohrs  und  seine 
+weitere  Entwicklung  geschrieben,  wobei  er auf Wiesels  Anteil  beim  Bau  des zu-
+sammengesetzten  Okulars  einging  und  den Verkauf  von  Fernrohren  nach  England 
+und nach  Bologna  (Riccioli)  belegte.  Beide  Wissenschaftler  standen  mit  dem 
+Stadtarchiv  Augsburg  in Verbindung. 
+In den  ersten  Jahren  meiner  Forschungen  erschienen  die  letzten  Bände  des 
+Mersenne-Briefwechsels  und  Auszüge  aus dem  Briefwechsel  von  Philipp  Hainho-
+fer (1578-1647)  mit  Herzog  August  dem  Jüngeren  von  Braunschweig-Lüneburg 
+(1579-1666).  Seitdem  sind  zahlreiche  einschlägige  Arbeiten  gedruckt  worden, 
+darunter  einige  sehr  wichtige,  z.B.  seit 1986  die Arbeiten  von  Carlos  Gilly,  Julian 
+Paulus  und  Günther  Hoppe  über  den  Augsburger  Arzt  Carl  (Carolus)  Widemann 
+(1555-1637),  einen  frühen  Förderer  Wiesels,  und  1988  von  Hans  Remky  über  die 
+ersten  Versuche  zum  Augenspiegel,  1985  bis 1992  die Aufsätze  von  Allen  Simp-
+son, Edinburgh,  über  den  englischen  Zeitgenossen  Wiesels,  den  Optiker  Richard 
+Reeve  (+1666),  oder  1989  von  Marian  Fournier  über  die Mikroskopentwürfe  von 
+Huygens  und  1991  ihr Buch  über  die  frühen  Mikroskopiker,  1997  Peter  de 
+Clercqs  Buch  über  die Musschenbroek-Werkstatt  in Leiden.  1990  erschien  Wolf-
+gang  Jaegers  Vortrag  über  die  Begründung  der  physiologischen  Optik  im 17. 
+Jahrhundert  und  1995  Rolf  Willachs  Aufsatz  über  Rheitas  Oculus  Enoch'.  Neuere 
+Beiträge  zur Geschichte  des  Buntpapiers,  vor  allem  1992  und  1995  von  Nedim 
+Sönmez,  seien  erwähnt.  1997  machte  mir  Frau  Dr.  Anita  McConnell  ihre  noch 
+unveröffentlichte  Arbeit  zur  Geschichte  des  englischen  Glases  zugänglich  und 
+ebenso  John  Young  seine  Dissertation  über  Johann  Moriaen  (1591-  ca. 1668),  den 
+Mittelsmann  zwischen  Wiesel  und  dem  Hartlib-Kreis  in England,  wofür  ich bei-
+den ganz  herzlich  danken  möchte. 
+14 Stetten:  Kunst  u. Handwerksgeschichte  Bd.  1. S. 169f. 
+
+===== PAGE 5 =====
+Einführung 15 
+Profundes  Hintergrundwissen  lieferten  die Mikroskopgeschichte  von  Wolfgang 
+Gloede  von  1986  und  die  1990  erschienene,  erweiterte  Neuauflage  von  Rolf 
+Riekhers  'Fernrohre  und  ihre  Meister',  in die er bereits  einige  Informationen  über 
+Wiesel  aufnahm15,  wie auch  verschiedene  Arbeiten  von  Gerard  Turner.  Durch  das 
+1996  abgeschlossene  'Hartlib  Papers  Project'  an der Universität  Sheffield  wurden 
+die Quellen  über  Wiesels  Beziehungen  nach  England  besser  zugänglich.16 
+Auch  zur Geschichte  von  Augsburg  erschienen  seit  1981  eine  Reihe  von  Ar-
+beiten,  zum  17. Jahrhundert  vor allem  von  Bernd  Roeck.  Man  kann  ruhig  sagen, 
+ohne  die Neuerscheinungen  der letzten  zwanzig  Jahre  hätte  dieses  Buch  über  die 
+Augsburger  Optiker  nicht  so geschrieben  werden  können,  wie  es jetzt  vorliegt. 
+Besonders  fördernd  erwies  sich  das  in den  letzten  zwei  Jahrzehnten  verstärkte 
+Interesse  an den  wissenschaftlichen  Instrumenten  als Zeugen  nicht  nur der dama-
+ligen  Handwerkskunst  sondern  auch  der Entwicklung  der Naturwissenschaften.17 
+1977  war  die 'Scientific  Instrument  Commission  of the International  Union  of the 
+History  and  Philosophy  of Science'  gegründet  worden,  deren  erster  wissenschaft-
+licher  Sekretär  Professor  Gerard  L'E.  Turner  war.  Er zeigte  in zahlreichen  Aufsät-
+zen über  historische  Instrumente,  welche  wichtigen  Hinweise  die Einbeziehung 
+der Instrumente  und  ihrer  Hersteller  für die Geschichte  der Naturwissenschaften 
+geben  können.  Die  'Scientific  Instrument  Society'  (SIS)  bringt  seit ihrer  Gründung 
+1983  in ihrem  Bulletin  stets  aufschlußreiche  Beiträge  zu diesem  Thema. 
+Die erfolgreiche  Suche  nach  Lebensdaten  im Augsburger  Stadtarchiv,  im 
+Staatsarchiv  Augsburg  und  im evangelischen  Kirchenregisteramt  hellte  die per-
+sönliche  Situation  Wiesels  und  seiner  Familie  und  seine  Herkunft  aus der Pfalz 
+auf. In der  Staats-  und  Stadtbibliothek  Augsburg  fanden  sich  zeitgenössische 
+Handschriften  und  Bücher,  die Zeugnis  von  Wiesel  geben,  sowie  das bisher  einzi-
+ge Exemplar  des Depiere'schen  Verzeichnisses  von  1674.  Eine  Fülle  an Informa-
+tionen  hat sich  in verschiedenen,  nicht  veröffentlichten  Korrespondenzen  erhalten, 
+vor allem  in Wolfenbüttel,  Paris,  Sheffield  und London.  Instrumente,  die an fürst-
+liche  Höfe  gelangt  waren,  fanden  sich  in Inventaren  von  Kunstkammern  oder  in 
+Hofkammerrechnungen  verzeichnet,  z.B.  in Gotha,  München  und  Stuttgart. 
+Ein sehr  erfreulicher  Fund  ergab  sich  bei den  Forschungen  über  Alchemisten 
+und Paracelsisten  des  17. Jahrhunderts  durch  Carlos  Gilly  in Basel:  Briefe  des 
+Augsburger  Stadtarztes  Carl  Widemann  und  Wiesels  an August  Fürst  zu Anhalt 
+(1575-1653),  deren  Abschriften  in der  Niedersächsischen  Landesbibliothek  in 
+Hannover  liegen.  Sie stammen  aus den Jahren  1625  bis 1628  und  enthalten  Ange-
+bote Wieselscher  Instrumente  samt  Preisen,  ein einmaliges  Zeugnis  aus  dieser 
+ersten  Zeit  des  neuen  optischen  Handwerks.  Herrn  Dr.  Gilly  bin ich zu großem 
+15 Riekher  1990  S. 52 und  55f. 
+16 Resultat  des Projekts  sind  zwei  CD-Roms,  die in Deutschland  zur Zeit  in der Staatsbibliothek 
+Berlin  und  in der Herzog  August  Bibliothek  in Wolfenbüttel  verfügbar  sind. 
+17 Van  Helden/Hankins:  Instruments  in the History  of Science.  1994. 
+
+===== PAGE 6 =====
+16 Einfuhrung 
+Dank  verpflichtet.  Im Niedersächsischen  Staatsarchiv  und  in der Herzog  August 
+Bibliothek  in Wolfenbüttel,  in der Universitätsbibliothek  Sheffield,  in der Univer-
+sitätsbibliothek  Leiden,  im Thüringischen  Staatsarchiv  Gotha  und  in der Staats-
+und Stadtbibliothek  Augsburg  fanden  sich  eigenhändige  Schreiben  des Optikers. 
+Erst im Verlauf  meiner  Recherchen  wurden  einige  Instrumente  aus den Augs-
+burger  Werkstätten  entdeckt.  1989  stieß  ich durch  Herrn  Ernst  Goercke  auf zwei 
+Wiesel-Fernrohre  im Schloß  Skokloster  und  auf die in Schweden  bereits  darüber 
+vorliegende  Literatur.18  1993  fand  sich  ein von  Wiesel  signiertes  Relikt  im Ger-
+manischen  Nationalmuseum  in Nürnberg  und  erst  1998  in Schloß  Rosenborg  in 
+Kopenhagen  die Schiffslaterne,  die Wiesel  um 1637/40  dem  dänischen  König 
+Christian  IV. (1577-1648)  geliefert  hatte.  Auch  das einzige  heute  bekannte  Mi-
+kroskopkästchen  von  Cuno,  1692  signiert,  tauchte  erst 1996  in einer  Auktion  bei 
+Christie's  auf  und  wurde  vom  Mathematisch-Physikalischen  Salon  in Dresden 
+erworben. 
+Das erste  Kapitel  des Buchs  soll dem  Leser  einen  Eindruck  über  Leben,  Han-
+del, Handwerk  und  Wissenschaft  um 1600  in der Reichsstadt  Augsburg  bieten, 
+Voraussetzungen  für die Erfolge  des Optikers.  Danach  wird  von  Wiesels  Leben 
+berichtet,  vor allem  von den schweren  Jahren  des Dreißigjährigen  Kriegs,  von den 
+Fortschritten  im Instrumentenbau,  die er erzielen  konnte,  von  seinem  Aufstieg  in 
+die Kaufleutestube  der Stadt  und  von  den  Ehrungen,  die er erhielt.  Seine  Ge-
+schäftsbeziehungen  in Europa  werden  dargestellt,  seine  Kunden  genannt.  Leben 
+und Arbeiten  von  Wiesels  Schwiegersohn,  Daniel  Depiere  aus Danzig,  und  sei-
+nem Nachfolger,  Cosmus  Conrad  Cuno  aus Hamburg,  stehen  im Mittelpunkt  der 
+nächsten  Kapitel.  Danach  wird  von  den  übrigen  Vertretern  des optischen  Hand-
+werks  in Augsburg  berichtet.  Einige  Angaben  zu zeitgenössischen  deutschen  und 
+ausländischen  Optikern  des 17. Jahrhunderts  sollen  Wiesels  Stellung  im europäi-
+schen  Raum  verdeutlichen. 
+Die letzten  Kapitel  informieren  über  die benötigten  Materialien  und  ihre  Be-
+schaffung  wie über  Wiesels  Brillen  und die einzelnen  Instrumente  der Augsburger 
+Produktion.  Abbildungen,  Instrumentenangebote,  Produktions-  und  Preislisten, 
+die Liste  der gebauten  Instrumente,  soweit  bekannt,  Briefe  von und an Wiesel  und 
+Depiere,  und zwei  Zeittafeln  vervollständigen  die Arbeit. 
+Ein Wort  zur Zitierweise:  Originalzitate  erscheinen  kursiv,  wobei  Abkürzun-
+gen und Doppel-m  (m mit Querstrich)  aufgelöst  wurden,  ebenso  z.B.  yt in that in 
+englischen  Texten.  Zur besseren  Verständlichkeit  sind  manchmal  einzelne  Wörter 
+in den Originaltext  eingefugt  worden.  Sie stehen  in eckigen  Klammern  und  nicht 
+kursiv.  Originalzitate  in deutscher  Übersetzung  stehen  in Anfuhrungszeichen.  Die 
+18 Alm  S. 151-154;  Losman/Sigurdson. 
+
+===== PAGE 7 =====
+Einfuhrung 17 
+Abkürzungen  EFD  (Eure  Fürstliche  Durchlaucht)  und  FG  (Fürstliche  Gnaden) 
+u.ä. in Briefen  wurden  beibehalten. 
+Alle benützten  Handschriften  der Herzog  August  Bibliothek  in Wolfenbüttel 
+stammen  aus dem  Bestand  Cod.Guelf.  Deshalb  wurde  in den  Fußnoten  diese  Be-
+zeichnung  weggelassen. 
+Bei Zitaten  aus den  Hartlib-Papers  wurde  die Bezeichnung  A und  Β fur recto 
+und verso  beibehalten. 
+Wiederholt  kommt  in den  Zitaten  die  Benennung  'Schuh'  (oder  Fuß)  vor. 
+Nachdem  die Maße  zur damaligen  Zeit  noch  nicht  vereinheitlicht  waren,  wurde 
+meistens  als Mittel  30 cm angenommen.  Der  Augsburger  Schuh  betrug  genau 
+29,62  cm.  An anderen  Orten  war  der 'Schuh'  meistens  etwas  länger. 
+Vielen  wäre  zu danken.  Ich bitte  um Nachsicht,  daß  ich hier  nicht  alle  Namen 
+erwähnen  kann.  Herrn  Dr. Alfons  Thewes  in Oldenburg  danke  ich für seine  Anre-
+gung,  das Thema  aufzunehmen,  und  für weiterfuhrende  Informationen.  Herr  Dr. 
+Hans-Reinhard  Bachmann  in München  war  mir  vor  allem  bei  meinen  ersten 
+Schritten  mit gutem  Rat  und  wertvollen  Hinweisen  behilflich.  Herrn  Ernst  Goer-
+cke (1919-1996)  in Ingolstadt  habe  ich für viele  Informationen  und  lebhafte  Dis-
+kussionen  zu danken.  Herr  Dr.  Siegfried  Spring  (1915-1992),  Altphilologe  am 
+Anna-Gymnasium,  Verfasser  aufschlußreicher  Arbeiten  über  einige  Rektoren  der 
+Schule,  übersetzte  mir  freundlicherweise  manche  lateinische  Textstelle,  ebenso 
+Frau  Christiane  Kühn.  Auch  Herr  Dr.  Klaus  Meyer  in Soest,  Übersetzer  der 
+Leeuwenhoek-Briefe,  half  mir  mit  Übersetzungen  und  war  mir  ein  wertvoller 
+Ratgeber  in medizinischen  Fragen  und  speziell  zum  Thema  der einfachen  Mikro-
+skope  um 1700.  Danken  möchte  ich ebenso  Herrn  Joachim  Rienitz  in Tübingen, 
+meinem  Augenarzt  Dr.  Wolfgang  Hälbig  und  Herrn  Professor  Hans  Remky  in 
+München. 
+Den Damen  und  Herren  aller  genannten  und  nicht  genannten  Archive  und  Bi-
+bliotheken,  in denen  ich arbeiten  konnte,  und  in den  vielen  Museen,  in denen  ich 
+nach  Instrumenten  gesucht  habe,  sei herzlich  für ihre  Hilfsbereitschaft  und Geduld 
+gedankt.  In erster  Linie  sind  die Augsburger  Institutionen  zu nennen,  Stadtarchiv, 
+Staatsarchiv,  Evangelisches  Kirchenregisteramt,  Staats-  und  Stadtbibliothek,  Uni-
+versitätsbibliothek  sowie  die Städtischen  Kunstsammlungen,  die Herzog  August 
+Bibliothek  in Wolfenbüttel,  die Bibliothek  des  Pariser  Observatoriums  und  das 
+Deutsche  Museum  in München  mit seinen  verschiedenen  Einrichtungen.  Stellver-
+tretend  sei Frau  Edeltraud  Prestel  und  den  Herren  Wolfgang  Mayer  und  Ekkehard 
+Nowak  der  Augsburger  Staats-und  Stadtbibliothek  gedankt,  den  Herren  Helmut 
+Rischert  und  Alois  Senser  vom  Stadtarchiv  Augsburg,  sowie  Herrn  Wolf-Dieter 
+Otte in Wolfenbüttel  und  Frau  Dr. Jill Bepler,  die mir  einige  Gastaufenthalte  an 
+der Herzog  August  Bibliothek  ermöglichte.  Dankbar  erinnere  ich mich  an das 
+freundliche  Entgegenkommen  von  Frau  Dr.  Susanne  Netzer  in Berlin  und  der 
+
+===== PAGE 8 =====
+18 Einfuhrung 
+Herren  Dr.  Arne  Losman  in Skokloster,  Mogens  Bencard  und  Jorgen  Hein  in 
+Schloß  Rosenborg,  Jeremy  Collins  in South  Kensington,  Neil  Brown  in London 
+und Dr. Johannes  Willers  in Nürnberg,  die mir erlaubten,  Augsburger  Instrumente 
+(unter  manchmal  schwierigen  Bedingungen)  zu sehen  und  zu fotografieren. 
+Durch  den  Besuch  der  Jahrestagungen  der  Deutschen  Gesellschaft  für Ge-
+schichte  der  Medizin,  Naturwissenschaft  und  Technik  und  der  International 
+Scientific  Instrument  Symposien  ergaben  sich  wertvolle  Kontakte  in ganz  Europa, 
+seit der Grenzöffnung  1989  auch  nach  Ostdeutschland.  Herr  Dr. Klaus  Schillin-
+ger, Direktor  des Mathematisch-Physikalischen  Salons  im Dresdner  Zwinger,  und 
+Frau  Dr. Helga  Beez,  Leiterin  der Sammlung  im Optischen  Museum  in Jena,  sind 
+mir seitdem  verständnisvolle  und  interessierte  Diskussionspartner  und  Freunde 
+geworden,  ebenso  die Herren  Rolf  Riekher  und  Dr. Jürgen  Hamel  in Berlin.  Herr 
+Dr. Hartmut  Ross  in Oranienbaum  eröffnete  mir den  Zugang  zur Geschichte  von 
+Sachsen-Anhalt.  Mit  Frau  Dr. Anita  McConnell  in London  verband  mich  ein be-
+sonders  freundschaftlicher  und  offener  Gedanken-  und  Informationsaustausch, 
+ebenso  mit Herrn  Dr. John  Young  in Sheffield  und den  Professoren  Silvio  Bedini 
+und Albert  Van  Helden  in den USA.  Herrn  Professor  Gerard  L'E.Turner  danke  ich 
+für sein  Interesse  und  Wohlwollen,  mit dem  er mir manchen  Kontakt  erleichterte. 
+Herr  Dr. Hans-Olof  Boström  in Karlstad,  der beste  Kenner  der Augsburger  Kunst-
+schränke,  half  mir mit wichtigen  Informationen  aus Schweden. 
+Besonderen  Dank  schulde  ich Herrn  Rolf  Willach  in Tägerwilen  (Schweiz)  da-
+für, daß er mir seine  Untersuchungen  der Wiesel-Fernrohre  zur Verfügung  stellte, 
+und nicht  zuletzt  meinem  Mann  für seine  Geduld,  sein  Interesse  und  seine  vielfal-
+tigen  Hilfeleistungen. 
+1990  wurde  an der Universität  Augsburg  das 'Institut  für Europäische  Kultur-
+geschichte'  gegründet.  Herr  Professor  Jochen  Brüning,  dessen  erster  Geschäfts-
+führender  Direktor,  ermunterte  mich  sehr,  meine  Forschungen  auch  im Rahmen 
+des Instituts  fortzuführen.  Die Teilnahme  an den  Kolloquien  des  Instituts  brachte 
+mir nicht  nur wertvolle  Informationen  und  den  Kontakt  mit den  historischen  Wis-
+senschaften,  sondern  bereitete  mir auch  viel  Freude  durch  die Begegnung  mit jun-
+gen Wissenschaftlern  und  Wissenschaftlerinnen.  Den  Mitarbeiterinnen  und  Mit-
+arbeitern  des Instituts,  heutigen  und  ehemaligen,  sei herzlich  gedankt  für ihre  stets 
+freundliche  Hilfsbereitschaft,  ebenso  Herrn  Professor  Wolfgang  Weber  für  die 
+Durchsicht  des  Manuskripts,  seine  wertvollen  Hinweise  und  sein  großes  Ver-
+ständnis  und  Engagement  für meine  Anliegen,  und  schließlich  dem  Direktorium, 
+den Professoren  Johannes  Burkhardt,  Thomas  Scheerer  und  Theo  Stammen  dafür, 
+daß sie das Erscheinen  meiner  Arbeit  in den  Colloquia  Augustana  ermöglichten. 
+Dank  gilt  nicht  zuletzt  auch  dem  Lektor  des Akademie  Verlages  Herrn  Manfred 
+Karras. 

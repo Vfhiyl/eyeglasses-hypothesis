@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<srw:searchRetrieveResponse xmlns:ns6="http://gallica.bnf.fr/namespaces/gallica/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <srw:version>1.2</srw:version>
+    <srw:echoedSearchRetrieveRequest>
+        <srw:query>dc.title all "Histoire de Lorraine" and dc.creator all Calmet</srw:query>
+        <srw:version>1.2</srw:version>
+    </srw:echoedSearchRetrieveRequest>
+    <srw:numberOfRecords>6</srw:numberOfRecords>
+    <srw:extraResponseData>&lt;numberOfRecordsDecollapser&gt;6&lt;/numberOfRecordsDecollapser&gt;</srw:extraResponseData>
+    <srw:records>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Calmet, Augustin (1672-1757). Auteur du texte</dc:creator>
+                    <dc:date>1741</dc:date>
+                    <dc:format>XXXII-204-CCCXIII p., f. de dépl. : ill. (pl. gr.) ; in-fol.</dc:format>
+                    <dc:format>Nombre total de vues : 631</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k10411851</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>A Nancy, de l'imprimerie de la veuve Jean-Baptiste Cusson, imprimeur-libraire, sur la place, au nom de Jesus. M. DCCXLI. Avec approbation et privilege du Roy</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30187375m</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Arsenal, FOL-H-4033</dc:source>
+                    <dc:subject>Du Châtelet (famille)</dc:subject>
+                    <dc:subject>Généalogie -- France</dc:subject>
+                    <dc:title>Histoire généalogique de la maison du Chatelet, branche puînée de la maison de Lorraine . Justifiée par les titres les plus autentiques, la plûpart tirés du Trésor des Chartres de Lorraine, tombeaux, sceaux, monnayes &amp; autres anciens monumens publics. Par le révérend pere Dom Augustin Calmet, abbé de Senone</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>0</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k10411851.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k10411851</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k10411851.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k10411851.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k10411851.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k10411851</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:coverage>Monde</dc:coverage>
+                    <dc:creator>Bugnon, Didier (1676-1736). Auteur du texte</dc:creator>
+                    <dc:creator>Calmet, Augustin (1672-1757). Auteur du texte</dc:creator>
+                    <dc:creator>Académie des sciences (France). Auteur du texte</dc:creator>
+                    <dc:date>1724-1725</dc:date>
+                    <dc:description>Échelle(s) : Les Eschelles. Trois Lieues de 20 au degré.. . [=Om. 047 ; 1:700 000 ca]</dc:description>
+                    <dc:format>1 flle ; 400 x 355</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 1</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b84947629</dc:identifier>
+                    <dc:identifier>IFN-8494762</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>[s.n.]</dc:publisher>
+                    <dc:relation>Notice de recueil : http://catalogue.bnf.fr/ark:/12148/cb40593927f</dc:relation>
+                    <dc:relation>Appartient à : Registre C ; 05796-259</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb406567227</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Cartes et plans, GE D-17118</dc:source>
+                    <dc:subject>Cartouches (ornement)</dc:subject>
+                    <dc:subject>Trèves, Archevêché de</dc:subject>
+                    <dc:title>Carte de l'archevesché et Electorat de Trèves avec Partie des pays Adjacents, Dressée et Assujettie aux observations Astronomiques de l'Académie Royale des Sciences et sur les Mémoires de Mr Didier Bugnon, ... Par le même Auteur Pour Servir à l'Histoire Ecclésiastique et civile de Lorraine &amp;c... par le R.P. Dom Augustin Calmé, Abbé de St Léopold de Nancy</dc:title>
+                    <dc:type>map</dc:type>
+                    <dc:type>carte</dc:type>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>1</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b84947629.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b84947629</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b84947629.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b84947629.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b84947629.thumbnail</thumbnail>
+                <typedoc>cartes</typedoc>
+                <uri>btv1b84947629</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Calmet, Augustin (1672-1757). Auteur du texte</dc:creator>
+                    <dc:creator>Pillart, Laurent. Auteur du texte</dc:creator>
+                    <dc:date>1751</dc:date>
+                    <dc:description>Comprend : Rusticiados libri sex...</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : RfnLit1</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : Lorr1</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : RfnHisg1</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : RfnEuro1</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : RfnRel1</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : RfnEns0</dc:description>
+                    <dc:description>Contient une table des matières</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:description>Dictionnaires biographiques</dc:description>
+                    <dc:format>XXVIII-1047 p. et supplément de 118 p. et 84 col. ; in-fol.</dc:format>
+                    <dc:format>Nombre total de vues : 685</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k5861244r</dc:identifier>
+                    <dc:identifier>NUMM-5861244</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>A. Leseure (Nancy)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30187333p</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, FOL-LN20-73</dc:source>
+                    <dc:subject>Lorraine (France)</dc:subject>
+                    <dc:title>Bibliothèque lorraine, ou Histoire des hommes illustres qui ont fleuri en Lorraine, dans les Trois Évêchés, dans l'archevêché de Trèves, dans le duché de Luxembourg, etc. Par le R.P. dom Calmet,...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>2</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k5861244r.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k5861244r</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k5861244r.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k5861244r.medres</medres>
+                <nqamoyen>85.75</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k5861244r.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k5861244r</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Calmet, Augustin, 1672-1757, Auteur</dc:creator>
+                    <dc:date>1734</dc:date>
+                    <dc:format>1 livre</dc:format>
+                    <dc:format>1 vol. (520 p.), 17 cm</dc:format>
+                    <dc:format>application/xhtml+xml</dc:format>
+                    <dc:identifier>https://numelyo.bm-lyon.fr/f_view/BML:BML_00GOO0100137001101350192</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>chez la veuve de Jean-Bapt. Cusson, &amp; Abel-Denis Cusson (A Nancy) </dc:publisher>
+                    <dc:relation>vignette : https://numelyo.bm-lyon.fr/BML:BML_00GOO0100137001101350192/thumbnail_JPG00000007.jpg</dc:relation>
+                    <dc:rights>Licence Ouverte-Open Licence</dc:rights>
+                    <dc:source>Bibliothèque municipale de Lyon, SJ AD 333/56</dc:source>
+                    <dc:title>Abregé de l&amp;#039;histoire de Lorraine par le R. Pere dom Augustin Calmet,...</dc:title>
+                    <dc:type>texte imprimé</dc:type>
+                    <dc:type>text</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>3</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://numelyo.bm-lyon.fr/BML:BML_00GOO0100137001101350192/highres_JPG00000007.jpg</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://numelyo.bm-lyon.fr/f_view/BML:BML_00GOO0100137001101350192</link>
+                <lowres>https://numelyo.bm-lyon.fr/BML:BML_00GOO0100137001101350192/lowres_JPG00000007.jpg</lowres>
+                <medres>https://numelyo.bm-lyon.fr/BML:BML_00GOO0100137001101350192/medres_JPG00000007.jpg</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>numelyo</provenance>
+                <thumbnail>https://numelyo.bm-lyon.fr/BML:BML_00GOO0100137001101350192/thumbnail_JPG00000007.jpg</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>oai:numelyo.bm-lyon.fr:BML:BML_00GOO0100137001101350192</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:coverage>Lorraine (France)</dc:coverage>
+                    <dc:coverage>Lorraine (France) -- Histoire</dc:coverage>
+                    <dc:creator>Calmet, Augustin, 1672-1757, Auteur</dc:creator>
+                    <dc:date>1745 1757</dc:date>
+                    <dc:description>T. 04 : Bibliothèque lorraine, ou Sur l'histoire des hommes illustres qui ont fleuri en Lorraine</dc:description>
+                    <dc:format>1 livre</dc:format>
+                    <dc:format>7 vol.</dc:format>
+                    <dc:format>application/xhtml+xml</dc:format>
+                    <dc:identifier>https://numelyo.bm-lyon.fr/f_view/BML:BML_00GOO0100137001101348709</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>chez A. Leseure (A Nancy) </dc:publisher>
+                    <dc:relation>vignette : https://numelyo.bm-lyon.fr/BML:BML_00GOO0100137001101348709/thumbnail_JPG00000009.jpg</dc:relation>
+                    <dc:rights>Licence Ouverte-Open Licence</dc:rights>
+                    <dc:source>Bibliothèque municipale de Lyon, SJ AD 332/4 04</dc:source>
+                    <dc:title>Histoire de Lorraine, qui comprend ce qui s&amp;#039;est passé de plus mémorable dans l&amp;#039;Archevêché de Tréves, &amp;amp; dans les Evêchés de Metz, Toul &amp;amp; Verdun, depuis l&amp;#039;entrée de Jules César dans les Gaules, jusqu&amp;#039;à la cession de la Lorraine, arrivée en 1737, inclusivement. Avec les piéces justificatives à la fin. Le tout enrichi de cartes géographiques, de plans de villes &amp;amp; d&amp;#039;églises, de sceaux, de monnoyes... Nouvelle edition revûë, corrigée et augmentée par l&amp;#039;auteur... Par le R. P. Dom Calmet,... Tome I [-VII]</dc:title>
+                    <dc:type>texte imprimé</dc:type>
+                    <dc:type>text</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>4</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://numelyo.bm-lyon.fr/BML:BML_00GOO0100137001101348709/highres_JPG00000009.jpg</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://numelyo.bm-lyon.fr/f_view/BML:BML_00GOO0100137001101348709</link>
+                <lowres>https://numelyo.bm-lyon.fr/BML:BML_00GOO0100137001101348709/lowres_JPG00000009.jpg</lowres>
+                <medres>https://numelyo.bm-lyon.fr/BML:BML_00GOO0100137001101348709/medres_JPG00000009.jpg</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>numelyo</provenance>
+                <thumbnail>https://numelyo.bm-lyon.fr/BML:BML_00GOO0100137001101348709/thumbnail_JPG00000009.jpg</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>oai:numelyo.bm-lyon.fr:BML:BML_00GOO0100137001101348709</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:coverage>Lorraine (France)</dc:coverage>
+                    <dc:coverage>Lorraine (France) -- Histoire</dc:coverage>
+                    <dc:creator>Calmet, Augustin, 1672-1757, Auteur</dc:creator>
+                    <dc:date>1745 1757</dc:date>
+                    <dc:description>T. 04 : Bibliothèque lorraine, ou Sur l'histoire des hommes illustres qui ont fleuri en Lorraine</dc:description>
+                    <dc:format>1 livre</dc:format>
+                    <dc:format>7 vol.</dc:format>
+                    <dc:format>application/xhtml+xml</dc:format>
+                    <dc:identifier>https://numelyo.bm-lyon.fr/f_view/BML:BML_00GOO0100137001101348691</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>chez A. Leseure (A Nancy) </dc:publisher>
+                    <dc:relation>vignette : https://numelyo.bm-lyon.fr/BML:BML_00GOO0100137001101348691/thumbnail_JPG00000009.jpg</dc:relation>
+                    <dc:rights>Licence Ouverte-Open Licence</dc:rights>
+                    <dc:source>Bibliothèque municipale de Lyon, SJ AD 332/3 03</dc:source>
+                    <dc:title>Histoire de Lorraine, qui comprend ce qui s&amp;#039;est passé de plus mémorable dans l&amp;#039;Archevêché de Tréves, &amp;amp; dans les Evêchés de Metz, Toul &amp;amp; Verdun, depuis l&amp;#039;entrée de Jules César dans les Gaules, jusqu&amp;#039;à la cession de la Lorraine, arrivée en 1737, inclusivement. Avec les piéces justificatives à la fin. Le tout enrichi de cartes géographiques, de plans de villes &amp;amp; d&amp;#039;églises, de sceaux, de monnoyes... Nouvelle edition revûë, corrigée et augmentée par l&amp;#039;auteur... Par le R. P. Dom Calmet,... Tome I [-VII]</dc:title>
+                    <dc:type>texte imprimé</dc:type>
+                    <dc:type>text</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>5</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://numelyo.bm-lyon.fr/BML:BML_00GOO0100137001101348691/highres_JPG00000009.jpg</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://numelyo.bm-lyon.fr/f_view/BML:BML_00GOO0100137001101348691</link>
+                <lowres>https://numelyo.bm-lyon.fr/BML:BML_00GOO0100137001101348691/lowres_JPG00000009.jpg</lowres>
+                <medres>https://numelyo.bm-lyon.fr/BML:BML_00GOO0100137001101348691/medres_JPG00000009.jpg</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>numelyo</provenance>
+                <thumbnail>https://numelyo.bm-lyon.fr/BML:BML_00GOO0100137001101348691/thumbnail_JPG00000009.jpg</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>oai:numelyo.bm-lyon.fr:BML:BML_00GOO0100137001101348691</uri>
+            </srw:extraRecordData>
+        </srw:record>
+    </srw:records>
+    <srw:nextRecordPosition>21</srw:nextRecordPosition>
+</srw:searchRetrieveResponse>

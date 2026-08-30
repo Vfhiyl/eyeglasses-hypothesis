@@ -1,0 +1,1790 @@
+{
+  "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785941292340",
+  "version": "1x7o",
+  "session_context": {
+    "session_key": "user__alanobrienterry918272@gmail.com",
+    "created": "2026-08-05T14:48:17Z",
+    "client_characterization": {
+      "characterized_by": "asserted_or_authenticated",
+      "preferred_client_ip": null,
+      "client_ip": "182.10.99.211:sra",
+      "preferred_client_useragent": null,
+      "client_useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36:sua",
+      "preferred_client_id": null,
+      "client_id": "alanobrienterry918272@gmail.com:sco"
+    },
+    "username": "alanobrienterry918272@gmail.com",
+    "authentication_method": "cookie",
+    "is_system": false,
+    "is_guest": false,
+    "is_user": true,
+    "is_archive_user": false,
+    "is_qualified": false,
+    "is_archivist": false,
+    "has_universal_privs": false,
+    "has_collection_priv": false,
+    "has_allowed_host_priv": false,
+    "has_vpn_host_priv": false,
+    "has_scan_center_priv": false,
+    "has_any_priv": false,
+    "has_any_priv_permissive": false,
+    "pps": {
+      "is_page_target_owner": false,
+      "contributed_review_on_page": false,
+      "full_text_search_override": false,
+      "sees_sensitive_fields": false
+    },
+    "pps_relevant_user_preferences": {
+      "display__blur_moderated_content": "on"
+    }
+  },
+  "request": {
+    "client_request_parameters": {
+      "client": "page_production_service_endpoint",
+      "user_query": "Joyce Jeffreys spectacles OR \"Joyce Jeffreys\" eyeglasses",
+      "hits_per_page": 30,
+      "page": 1,
+      "aggregations": [],
+      "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785941292340",
+      "client_url": "https://archive.org/search?query=Joyce+Jeffreys+spectacles+OR+%22Joyce+Jeffreys%22+eyeglasses"
+    },
+    "backend_requests": {
+      "search": {
+        "root": "(self)",
+        "children": [
+          "collection_title_fetch__4cbae553f4d55bd0bba722b258c8b818"
+        ],
+        "request_type": "search",
+        "finalized_parameters": {
+          "client": "page_production_service_endpoint",
+          "user_query": "(redacted)",
+          "hits_per_page": 30,
+          "page": 1,
+          "aggregations": [],
+          "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785941292340",
+          "client_url": "https://archive.org/search?query=Joyce+Jeffreys+spectacles+OR+%22Joyce+Jeffreys%22+eyeglasses",
+          "page_type": "search_results",
+          "fields": [
+            "_tile_"
+          ],
+          "sort": [
+            "_relevance_:desc",
+            "identifier"
+          ],
+          "aggregations_size": 10,
+          "service_backend": "metadata",
+          "scope": "standard",
+          "feature_flags": {
+            "complex_facets": true,
+            "collection_titles": true,
+            "redact_collections": true,
+            "redact_collections_by_privs": false,
+            "redact_empty_collections": true,
+            "redact_admin_collections": true,
+            "protect_flagging_collections": true
+          },
+          "service": "service__metadata__load_balanced"
+        }
+      },
+      "collection_title_fetch__4cbae553f4d55bd0bba722b258c8b818": {
+        "root": "search",
+        "parent": "search",
+        "request_type": "collection_title_fetch",
+        "finalized_parameters": {
+          "page_type": "document_fetch",
+          "user_query": "(redacted)",
+          "aggregations": [],
+          "caching": null,
+          "fields": [
+            "identifier",
+            "title"
+          ],
+          "search_as_system": true,
+          "page": 1,
+          "hits_per_page": 250,
+          "sort": [
+            "_efficient_"
+          ],
+          "service_backend": "metadata",
+          "scope": "ill,printdisabled_and_music,scancenter",
+          "service": "service__metadata__load_balanced"
+        }
+      }
+    }
+  },
+  "caching": {
+    "search": {
+      "name": "PPS-1x7o-J:ID-RT:s~hit-T:sr-Q:72815ce8-H:30-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+      "acceptable_names": [
+        "PPS-1x7o-J:ID-RT:s~std-T:sr-Q:72815ce8-H:30-B:mds-RS:sta~CS::P:0+CS:some+BR:1"
+      ],
+      "configuration": {
+        "requested": [],
+        "finalized": {
+          "bypass": false,
+          "recompute": false,
+          "no_compute": false,
+          "ttl_s": 300,
+          "max_age_s": 0,
+          "miss_policy": "none"
+        }
+      },
+      "utilization": {
+        "went_to_cache": true,
+        "alternates_allowed": true,
+        "hit_alternate": false,
+        "hit_canonical": false,
+        "hit": false,
+        "miss": true,
+        "recomputed": true,
+        "stored": true,
+        "acceptable_names_tried": [
+          "PPS-1x7o-J:ID-RT:s~std-T:sr-Q:72815ce8-H:30-B:mds-RS:sta~CS::P:0+CS:some+BR:1"
+        ],
+        "elapsed_s": 1.0394129753112793
+      },
+      "statsd_bucket": "search.pps.cache.metadata.search_results"
+    },
+    "collection_title_fetch__4cbae553f4d55bd0bba722b258c8b818": {
+      "name": "PPS-1x7o-J:ID-RT:ctf-T:df-Q:a077f56f-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1",
+      "acceptable_names": [],
+      "configuration": {
+        "requested": [],
+        "finalized": {
+          "bypass": false,
+          "recompute": false,
+          "no_compute": false,
+          "ttl_s": 300,
+          "max_age_s": 0,
+          "miss_policy": "none"
+        }
+      },
+      "utilization": {
+        "went_to_cache": true,
+        "alternates_allowed": true,
+        "hit_alternate": false,
+        "hit_canonical": false,
+        "hit": false,
+        "miss": true,
+        "recomputed": true,
+        "stored": true,
+        "elapsed_s": 0.2357189655303955
+      },
+      "statsd_bucket": "search.pps.cache.metadata.search_results"
+    },
+    "summary": {
+      "fetched": [],
+      "computed": [
+        "PPS-1x7o-J:ID-RT:s~hit-T:sr-Q:72815ce8-H:30-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:ID-RT:ctf-T:df-Q:a077f56f-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "stored": [
+        "PPS-1x7o-J:ID-RT:s~hit-T:sr-Q:72815ce8-H:30-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:ID-RT:ctf-T:df-Q:a077f56f-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "missed": [
+        "PPS-1x7o-J:ID-RT:s~hit-T:sr-Q:72815ce8-H:30-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:ID-RT:ctf-T:df-Q:a077f56f-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "bypassed": []
+    }
+  },
+  "elapsed_secs": 1.3039898872375488,
+  "response": {
+    "header": {
+      "succeeded": true,
+      "query_time": 579,
+      "forensics": {
+        "client_characterization": {
+          "client_ip": "182.10.99.211:sra",
+          "client_id": "alanobrienterry918272@gmail.com:sco",
+          "client_useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36:sua",
+          "preferred_client_ip": null,
+          "preferred_client_id": null,
+          "preferred_client_useragent": null,
+          "application_id": {
+            "session": [
+              "pageproduction"
+            ],
+            "request": []
+          },
+          "client_jurisdiction": "ID",
+          "preferred_client_jurisdiction": null,
+          "actionable_jurisdiction": "ID",
+          "characterized_by": "asserted_or_authenticated",
+          "ensured": true
+        },
+        "routing": {
+          "backend": "es-prod-metadatasearch-filtered",
+          "backend_server": "es-prod-client-o-07",
+          "routed_to_load_balanced": true,
+          "index_addressed": "prod-o-001"
+        },
+        "backend_request_elapsed_secs": {
+          "search": 1.0394129753112793,
+          "collection_title_fetch__4cbae553f4d55bd0bba722b258c8b818": 0.2357189655303955
+        }
+      },
+      "elapsed_secs_for_backend_requests": 1.2751319408416748
+    },
+    "body": {
+      "hits": {
+        "total": 1721,
+        "returned": 30,
+        "hits": [
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "smackjeeves-43396",
+              "title": "Octopus Eyeglasses (43396)",
+              "subject": [
+                "smackjeeves",
+                "other",
+                "webcomic",
+                "comic"
+              ],
+              "creator": [
+                "octopus eyeglasses, nate118"
+              ],
+              "collection": [
+                "smackjeeves-web-comics",
+                "comics",
+                "folkscanomy"
+              ],
+              "date": "2008-10-01T00:00:00Z",
+              "year": 2008,
+              "mediatype": "image",
+              "item_size": 1592722,
+              "files_count": 31,
+              "downloads": 491,
+              "week": 11,
+              "month": 117,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2021-01-15T11:58:02Z",
+              "publicdate": "2021-01-15T11:58:02Z"
+            },
+            "highlight": null,
+            "_score": [
+              5659.1284
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "eyeglasses00gold",
+              "title": "Eyeglasses",
+              "description": "Includes index",
+              "subject": [
+                "Eyeglasses",
+                "Vision",
+                "Vision disorders"
+              ],
+              "creator": [
+                "Goldstein, Margaret J"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "1996-01-01T00:00:00Z",
+              "year": 1996,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 2,
+              "item_size": 65787352,
+              "files_count": 31,
+              "downloads": 155,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": true,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_borrow",
+              "addeddate": "2010-10-25T20:03:56Z",
+              "publicdate": "2010-10-25T20:04:01Z"
+            },
+            "highlight": null,
+            "_score": [
+              5289.9653
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "eyeglasses0000gros",
+              "title": "Eyeglasses",
+              "description": "104 p. : 14 cm",
+              "subject": [
+                "Eyeglasses"
+              ],
+              "creator": [
+                "Gross, Kim Johnson"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "1994-01-01T00:00:00Z",
+              "year": 1994,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 13,
+              "item_size": 188293434,
+              "files_count": 30,
+              "downloads": 104,
+              "week": 1,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_browse",
+              "addeddate": "2021-07-29T10:04:44Z",
+              "publicdate": "2021-07-27T22:27:41Z"
+            },
+            "highlight": null,
+            "_score": [
+              5155.1255
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "eyeglassesASL",
+              "title": "eyeglasses",
+              "description": "ASL vocabulary",
+              "subject": [
+                "eyeglasses"
+              ],
+              "creator": [
+                "Center for Accessible Technology in Sign"
+              ],
+              "collection": [
+                "asl-dictionary",
+                "culturalandacademicfilms"
+              ],
+              "date": "2020-04-17T00:00:00Z",
+              "year": 2020,
+              "language": [
+                "ASL"
+              ],
+              "mediatype": "movies",
+              "item_size": 1497932,
+              "files_count": 9,
+              "downloads": 26,
+              "week": 2,
+              "month": 2,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2020-07-30T15:37:40Z",
+              "publicdate": "2020-07-30T15:37:40Z"
+            },
+            "highlight": null,
+            "_score": [
+              5056.129
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "eyeglasses-case-illustration",
+              "title": "eyeglasses-case-illustration",
+              "description": "Eyeglasses in case illustration Free Vector",
+              "subject": [
+                "Eyeglasses in case illustration Free Vector"
+              ],
+              "collection": [
+                "freevectors"
+              ],
+              "language": [
+                "English"
+              ],
+              "mediatype": "data",
+              "item_size": 6193607,
+              "files_count": 5,
+              "downloads": 19,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2019-06-14T17:49:37Z",
+              "publicdate": "2019-06-14T17:49:37Z"
+            },
+            "highlight": null,
+            "_score": [
+              5019.7476
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "mma_eyeglasses_117455",
+              "title": "Eyeglasses",
+              "subject": [
+                "Europe",
+                "Eyeglasses",
+                "Metal",
+                "metal",
+                "Metropolitan Museum of Art",
+                "first quarter 19th century",
+                "European"
+              ],
+              "collection": [
+                "metropolitanmuseumofart-gallery"
+              ],
+              "mediatype": "image",
+              "item_size": 40436,
+              "files_count": 8,
+              "downloads": 129,
+              "week": 1,
+              "month": 11,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2014-02-24T22:11:39Z",
+              "publicdate": "2014-02-24T22:11:39Z"
+            },
+            "highlight": null,
+            "_score": [
+              4798.509
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "thingiverse-4770354",
+              "title": "Fix Eyeglasses (4770354)",
+              "description": "Hi All, I made this hinge, to fix my son's eyeglasses Video:https://www.youtube.com/watch?v=NN7p_YjgwmI Steps: https://amitjain1980.blogspot.com/2021/02/fixed-your-eyeglasses.html",
+              "subject": [
+                "stl",
+                "thingiverse",
+                "eyeglasses",
+                "Household Supplies"
+              ],
+              "creator": [
+                "Amit Jain (Amit_jain)"
+              ],
+              "collection": [
+                "thingiverse"
+              ],
+              "date": "2021-02-21T00:00:00Z",
+              "year": 2021,
+              "mediatype": "data",
+              "licenseurl": "https://creativecommons.org/licenses/by/4.0/",
+              "item_size": 379440,
+              "files_count": 5,
+              "downloads": 21,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2021-03-16T01:18:04Z",
+              "publicdate": "2021-03-16T01:18:04Z"
+            },
+            "highlight": null,
+            "_score": [
+              4761.674
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "glasseseyeglassesASL",
+              "title": "glasses,eyeglasses",
+              "description": "ASL vocabulary",
+              "subject": [
+                "glasses,eyeglasses"
+              ],
+              "creator": [
+                "Center for Accessible Technology in Sign"
+              ],
+              "collection": [
+                "asl-dictionary",
+                "culturalandacademicfilms"
+              ],
+              "date": "2020-04-17T00:00:00Z",
+              "year": 2020,
+              "language": [
+                "ASL"
+              ],
+              "mediatype": "movies",
+              "item_size": 836564,
+              "files_count": 7,
+              "downloads": 20,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2020-08-10T14:47:04Z",
+              "publicdate": "2020-08-10T14:47:04Z"
+            },
+            "highlight": null,
+            "_score": [
+              4758.6943
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "RealisticEyeglassesSet",
+              "title": "Realistic Eyeglasses Set",
+              "description": "Realistic eyeglasses set Free Vector",
+              "subject": [
+                "Realistic eyeglasses set Free Vector"
+              ],
+              "collection": [
+                "freevectors"
+              ],
+              "language": [
+                "English"
+              ],
+              "mediatype": "data",
+              "item_size": 2371226,
+              "files_count": 5,
+              "downloads": 23,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2019-06-14T16:51:18Z",
+              "publicdate": "2019-06-14T16:51:18Z"
+            },
+            "highlight": null,
+            "_score": [
+              4745.4775
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "thingiverse-4743964",
+              "title": "Eyeglasses Case (4743964)",
+              "description": "My goal was to create a compact and lightweight case for eyeglasses. This weighs 1.6 ounces (45.4 grams) when I printed it using PLA filament. The dimensions inside the case are approximately 140mm x 40mm x 32mm.",
+              "subject": [
+                "thingiverse",
+                "eyeglasses",
+                "sunglasses_holder",
+                "eyeglasses_holder",
+                "stl",
+                "sunglasses",
+                "Containers"
+              ],
+              "creator": [
+                "Darren Cardenas (Duals)"
+              ],
+              "collection": [
+                "thingiverse"
+              ],
+              "date": "2021-01-30T00:00:00Z",
+              "year": 2021,
+              "mediatype": "data",
+              "licenseurl": "https://creativecommons.org/licenses/by/4.0/",
+              "item_size": 422284,
+              "files_count": 5,
+              "downloads": 21,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2021-03-15T21:36:02Z",
+              "publicdate": "2021-03-15T21:36:02Z"
+            },
+            "highlight": null,
+            "_score": [
+              4715.744
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "agapanthushumey00cowl",
+              "title": "Agapanthus Hum and the eyeglasses",
+              "description": "Agapanthus struggles to do handstands and other acrobatic tricks while wearing her eyeglasses, which have a tendency to fall off as she cavorts about",
+              "subject": [
+                "Eyeglasses",
+                "Acrobats"
+              ],
+              "creator": [
+                "Cowley, Joy",
+                "Plecas, Jennifer, ill"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "stmaryscountylibrary"
+              ],
+              "date": "1999-01-01T00:00:00Z",
+              "year": 1999,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 7,
+              "item_size": 136186130,
+              "files_count": 29,
+              "downloads": 140,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_printdisabled",
+              "addeddate": "2011-10-13T18:38:28Z",
+              "source": "removed",
+              "publicdate": "2012-03-27T13:30:11Z"
+            },
+            "highlight": null,
+            "_score": [
+              4532.938
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "thingiverse-4307991",
+              "title": "eyeglasses temple replacement (4307991)",
+              "description": "A neightbour lost one of his eyeglasses temple, all the optic shops are closes because of the corona lockdown so i made for her new temples",
+              "subject": [
+                "thingiverse",
+                "eyeglasses repair",
+                "Glasses",
+                "Replacement Parts",
+                "eyeglesses temple",
+                "stl"
+              ],
+              "creator": [
+                "None None (ruben_zilzer_3409)"
+              ],
+              "collection": [
+                "thingiverse"
+              ],
+              "date": "2020-04-23T00:00:00Z",
+              "year": 2020,
+              "mediatype": "data",
+              "licenseurl": "https://creativecommons.org/licenses/by/4.0/",
+              "item_size": 811200,
+              "files_count": 5,
+              "downloads": 22,
+              "week": 1,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2021-04-04T09:28:37Z",
+              "publicdate": "2021-04-04T09:28:37Z"
+            },
+            "highlight": null,
+            "_score": [
+              4424.5107
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "fashionsineyegla00cors",
+              "title": "Fashions in eyeglasses",
+              "description": "Bibliography: p. 277-280",
+              "subject": [
+                "Eyeglasses"
+              ],
+              "creator": [
+                "Corson, Richard"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "1967-01-01T00:00:00Z",
+              "year": 1967,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 14,
+              "item_size": 1464484897,
+              "files_count": 32,
+              "downloads": 274,
+              "week": 1,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_browse",
+              "addeddate": "2013-12-23T19:20:45Z",
+              "publicdate": "2013-12-23T19:20:48Z"
+            },
+            "highlight": null,
+            "_score": [
+              4420.5015
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "thingiverse-3501868",
+              "title": "Eyeglasses Stand (3501868)",
+              "description": "Blind as a bat? Disorganized? Forgetful? Clumsy? 'Nuf said. Slide your specs into these holders without the fussing and fiddling needed with standard \"display\" style racks. The cupped bottom of each tilted chamber centers your glasses so that the lenses don't rub up against the sides. UPDATE: I've added a second version that tilts the glasses both to the side and to the back. It takes a little longer to print, but the glasses settle into a stable position more easily.",
+              "subject": [
+                "stl",
+                "glasses rack",
+                "eyeglasses_rack",
+                "Organization",
+                "glasses_holder",
+                "eyeglasses_holder",
+                "thingiverse"
+              ],
+              "creator": [
+                "Jeff Kerr (LoboCNC)"
+              ],
+              "collection": [
+                "thingiverse"
+              ],
+              "date": "2019-03-19T00:00:00Z",
+              "year": 2019,
+              "mediatype": "data",
+              "licenseurl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+              "item_size": 2314588,
+              "files_count": 5,
+              "downloads": 24,
+              "week": 0,
+              "month": 2,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2021-03-05T08:36:43Z",
+              "publicdate": "2021-03-05T08:36:43Z"
+            },
+            "highlight": null,
+            "_score": [
+              4416.1187
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "thingiverse-4552038",
+              "title": "Porte lunettes - Eyeglasses holder (4552038)",
+              "description": "Vertical eyeglasses holder",
+              "subject": [
+                "Eyeglass_Holder",
+                "eyeglasses",
+                "Household",
+                "eyeglasses_holder",
+                "lunettes",
+                "stl",
+                "thingiverse",
+                "holder"
+              ],
+              "creator": [
+                "Cédric Lemoine (Dadarck)"
+              ],
+              "collection": [
+                "thingiverse"
+              ],
+              "date": "2020-07-25T00:00:00Z",
+              "year": 2020,
+              "mediatype": "data",
+              "licenseurl": "https://creativecommons.org/licenses/by/4.0/",
+              "item_size": 96472,
+              "files_count": 5,
+              "downloads": 21,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2021-03-17T20:21:40Z",
+              "publicdate": "2021-03-17T20:21:40Z"
+            },
+            "highlight": null,
+            "_score": [
+              4381.3105
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "thingiverse-4786764",
+              "title": "Eyeglasses ear stopper (4786764)",
+              "description": "This is a work in process, Needed to add a pair of stoppers to avoid my eyeglasses from sliding off while I'm working. Commercially available, but what the heck I can print it. First version printed using PLA, next version will be using TPU.",
+              "subject": [
+                "thingiverse",
+                "eyeglasses",
+                "earpiece",
+                "stl",
+                "accesories",
+                "3D Printer Accessories"
+              ],
+              "creator": [
+                "Al Ex (Alexenergia)"
+              ],
+              "collection": [
+                "thingiverse"
+              ],
+              "date": "2021-03-07T00:00:00Z",
+              "year": 2021,
+              "mediatype": "data",
+              "licenseurl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+              "item_size": 957501,
+              "files_count": 5,
+              "downloads": 19,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2021-03-16T06:16:49Z",
+              "publicdate": "2021-03-16T06:16:49Z"
+            },
+            "highlight": null,
+            "_score": [
+              4346.4795
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "thingiverse-2838395",
+              "title": "Eyeglasses wall mount holder (2838395)",
+              "description": "Simple wall mount holder for your eyeglasses / spectacles / sunglasses / shades, etc.. I used hot glue gun to stick it to the wall -added a version with a hole for screw mounting",
+              "subject": [
+                "eyeglases_stand",
+                "eyeglasses",
+                "thingiverse",
+                "wall-mount",
+                "Organization",
+                "wall_mount",
+                "eyeglasses holder",
+                "stl"
+              ],
+              "creator": [
+                "None None (ruben_zilzer_3409)"
+              ],
+              "collection": [
+                "thingiverse"
+              ],
+              "date": "2018-03-24T00:00:00Z",
+              "year": 2018,
+              "mediatype": "data",
+              "licenseurl": "https://creativecommons.org/licenses/by/4.0/",
+              "item_size": 769180,
+              "files_count": 5,
+              "downloads": 27,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2021-01-19T04:53:04Z",
+              "publicdate": "2021-01-19T04:53:04Z"
+            },
+            "highlight": null,
+            "_score": [
+              4298.317
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "Fifth_Graders_Collect_Eyeglasses",
+              "title": "Fifth Graders Collect Eyeglasses",
+              "description": "Fifth grade students at Blue Heron Elementary School in Lino Lakes are collecting unused eyeglasses for people in developing countries to use.",
+              "subject": [
+                "Minnesota",
+                "Blaine",
+                "North Metro TV",
+                "NMTV",
+                "Public Access TV",
+                "Community Media",
+                "PEG",
+                "Youtube",
+                "Blue Heron Elementary",
+                "Eyeglasses Donations",
+                "Lino Lakes",
+                "Centennial Schools",
+                "North Metro TV News",
+                "2019"
+              ],
+              "creator": [
+                "NMTV"
+              ],
+              "collection": [
+                "nmtvmn",
+                "community_media",
+                "newsandpublicaffairs"
+              ],
+              "date": "2019-02-04T00:00:00Z",
+              "year": 2019,
+              "language": [
+                "English"
+              ],
+              "mediatype": "movies",
+              "item_size": 59056630,
+              "files_count": 20,
+              "downloads": 90,
+              "week": 0,
+              "month": 2,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "uncurated"
+              ],
+              "addeddate": "2019-02-21T06:29:03Z",
+              "publicdate": "2019-02-21T06:29:03Z"
+            },
+            "highlight": null,
+            "_score": [
+              4221.719
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "thingiverse-2793130",
+              "title": "MDE Flat Eyeglasses kit (2793130)",
+              "description": "Eyeglasses made in fusion 360 and 3d printed in the Anet A8 3d Printer. Material: -Super Glue or contact cement. -Orange prescription lenses. Just go to a lens lab and give the glasses and they will design your lenses. -A set of screws for eyeglasses.",
+              "subject": [
+                "3D_printing",
+                "glasses",
+                "Anet_A8",
+                "eyeglasses",
+                "thingiverse",
+                "3D Printing",
+                "stl"
+              ],
+              "creator": [
+                "YONATAN ALI RODRIGUEZ ARIAS (yonatanorion)"
+              ],
+              "collection": [
+                "thingiverse"
+              ],
+              "date": "2018-02-13T00:00:00Z",
+              "year": 2018,
+              "mediatype": "data",
+              "licenseurl": "https://creativecommons.org/licenses/by-nc/4.0/",
+              "item_size": 1270470,
+              "files_count": 5,
+              "downloads": 27,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2021-01-18T15:07:57Z",
+              "publicdate": "2021-01-18T15:07:57Z"
+            },
+            "highlight": null,
+            "_score": [
+              4213.408
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "thingiverse-132471",
+              "title": "Eyeglasses stand (132471)",
+              "description": "This thing was made with Tinkercad. Edit it online https://tinkercad.com/things/6ywl6VNJWNK",
+              "subject": [
+                "stand",
+                "Organization",
+                "eyeglasses",
+                "holder",
+                "thingiverse",
+                "stl",
+                "glasses"
+              ],
+              "creator": [
+                "Jan Beckman (janbeckman)"
+              ],
+              "collection": [
+                "thingiverse"
+              ],
+              "date": "2013-08-13T00:00:00Z",
+              "year": 2013,
+              "mediatype": "data",
+              "licenseurl": "https://creativecommons.org/licenses/by-sa/3.0/",
+              "item_size": 23752,
+              "files_count": 5,
+              "downloads": 40,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2021-06-07T20:01:05Z",
+              "publicdate": "2021-06-07T20:01:05Z"
+            },
+            "highlight": null,
+            "_score": [
+              4192.4644
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "thingiverse-5437940",
+              "title": "Magnetic Eyeglasses Holder (5437940)",
+              "description": "I need glasses (or a microscope) to read some food labels. I was looking for a good storage place in the kitchen for my glasses and I stumbled upon a few glasses holder designs. I decided to make my own slightly different to stick on a refrigerator or other metal surface in the kitchen. The 8mm dia. X 2mm thick magnet (10 for $2.99 at Harbor Freight, 67488) is press fit into the hole. I was going to glue it but after I put it in the hole to check the fit, it was so hard to remove, I left it. I printed this in resin using default Chitubox settings for my Elegoo Mars printer in Elegoo Translucent Standard resin except that the support density is 70% and the support angle is 60°. The holders are angled at 45° on the buildplate. (Except for the magnet fit, the dimensions are not critical and there is very little load on it.) This eyeglasses holder was drawn in TurboCAD Platinum. It is a sweep of a small circle along an ellipse to form the ring. That is added to the base which is an...",
+              "subject": [
+                "stl",
+                "Glasses",
+                "magnetic_holder",
+                "eyeglasses_holder",
+                "thingiverse"
+              ],
+              "creator": [
+                "Mitch Scherer (itchymaus)"
+              ],
+              "collection": [
+                "thingiverse"
+              ],
+              "date": "2022-07-21T00:00:00Z",
+              "year": 2022,
+              "mediatype": "data",
+              "licenseurl": "https://creativecommons.org/licenses/by/4.0/",
+              "item_size": 2420633,
+              "files_count": 5,
+              "downloads": 19,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2022-08-16T19:30:20Z",
+              "publicdate": "2022-08-16T19:30:20Z"
+            },
+            "highlight": null,
+            "_score": [
+              4178.3887
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "thingiverse-5387713",
+              "title": "Bowl for eyeglasses (5387713)",
+              "description": "Tired of looking for my glasses, I created this bowl to just drop them in. The size is variable to fit whatever size your are. I line them with felt or flock them. The bowl keeps them handy and clean without any scratches.",
+              "subject": [
+                "stl",
+                "eyeglasses",
+                "thingiverse",
+                "Organization"
+              ],
+              "creator": [
+                "Dan Freedman (Dan104)"
+              ],
+              "collection": [
+                "thingiverse"
+              ],
+              "date": "2022-05-17T00:00:00Z",
+              "year": 2022,
+              "mediatype": "data",
+              "licenseurl": "https://creativecommons.org/licenses/by/4.0/",
+              "item_size": 239101,
+              "files_count": 5,
+              "downloads": 18,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2022-08-15T08:30:43Z",
+              "publicdate": "2022-08-15T08:30:43Z"
+            },
+            "highlight": null,
+            "_score": [
+              4132.769
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "thingiverse-2873017",
+              "title": "Eyeglasses Nose Pads (2873017)",
+              "description": "Made these for a pair of Zenni Sunglasses when my wife broke one of the pads. They use a tiny screw to hold them or you can use a tiny piece of wirewrap wire as a temporary fix. They worked well in an emergency. I used a raft without any supports since the up curve layers are tolerable for my printer (AnyCubic i3 Mega) and it printed well on the Ultrabase glass surface in PLA 200/50 degrees. I carefully pried them off the raft and gently sanded the rounded top, cleaned out the screw holes with a fine pair of tweezers and they installed very nice. The wife is happy! Maybe now she'll buy me another roll of clear filament... LOL Enjoy",
+              "subject": [
+                "Nose Pad",
+                "Nose Pad for Eyeglass",
+                "Nosepad",
+                "thingiverse",
+                "Eyeglasses",
+                "Nose Pads",
+                "Eyeglasses Nose Pad",
+                "Glasses",
+                "Eye Glasses",
+                "stl"
+              ],
+              "creator": [
+                "Mike Kloc (mikekloc)"
+              ],
+              "collection": [
+                "thingiverse"
+              ],
+              "date": "2018-04-22T00:00:00Z",
+              "year": 2018,
+              "mediatype": "data",
+              "licenseurl": "https://creativecommons.org/licenses/by/4.0/",
+              "item_size": 95844,
+              "files_count": 5,
+              "downloads": 28,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2021-01-19T14:13:14Z",
+              "publicdate": "2021-01-19T14:13:14Z"
+            },
+            "highlight": null,
+            "_score": [
+              4082.9329
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "babyduckbadeyegl0000hest",
+              "title": "Baby Duck and the bad eyeglasses",
+              "description": "1 v. (unpaged) : 30 cm",
+              "subject": [
+                "Ducks -- Fiction",
+                "Eyeglasses -- Fiction",
+                "Grandfathers -- Fiction"
+              ],
+              "creator": [
+                "Hest, Amy"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "1996-01-01T00:00:00Z",
+              "year": 1996,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 2,
+              "item_size": 147714395,
+              "files_count": 30,
+              "downloads": 34,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_browse",
+              "addeddate": "2021-01-08T05:01:14Z",
+              "publicdate": "2021-01-06T01:40:47Z"
+            },
+            "highlight": null,
+            "_score": [
+              4054.6975
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "thingiverse-5369186",
+              "title": "Eyeglasses (5369186)",
+              "description": "Curved the main structure with boiling water.",
+              "subject": [
+                "Glasses",
+                "stl",
+                "thingiverse"
+              ],
+              "creator": [
+                "Thiago Luiz Benedetti (Thiagogo)"
+              ],
+              "collection": [
+                "thingiverse"
+              ],
+              "date": "2022-04-27T00:00:00Z",
+              "year": 2022,
+              "mediatype": "data",
+              "licenseurl": "https://creativecommons.org/licenses/by/4.0/",
+              "item_size": 212574,
+              "files_count": 5,
+              "downloads": 18,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2022-08-15T11:41:38Z",
+              "publicdate": "2022-08-15T11:41:38Z"
+            },
+            "highlight": null,
+            "_score": [
+              4030.7917
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "babyduckneweyegl0000hest",
+              "title": "Baby Duck and the new eyeglasses",
+              "description": "32 pages : 30 cm",
+              "subject": [
+                "Eyeglasses -- Pictorial works -- Juvenile fiction",
+                "Grandparent and child -- Pictorial works -- Juvenile fiction"
+              ],
+              "creator": [
+                "Hest, Amy"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "1998-01-01T00:00:00Z",
+              "year": 1998,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 1,
+              "item_size": 226954207,
+              "files_count": 32,
+              "downloads": 45,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_browse",
+              "addeddate": "2020-09-07T16:08:59Z",
+              "publicdate": "2020-09-03T13:43:22Z"
+            },
+            "highlight": null,
+            "_score": [
+              4029.308
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "thingiverse-3389912",
+              "title": "Eyeglasses stand (3389912)",
+              "description": "I am using eyeglasses, as most of you, for reading, computer work, work, hobbies. Often I need to put it away and when I look for it first thing I touch the lenses. :) . I need to clean it and use it again . This is the reason that I started to design a stand to put my eyeglasses and not being able to touch the lenses when taking back from the stand. The stand is in two versions : a table stand with a tripod a stand that can be placed on a standard 16 mm furniture panel",
+              "subject": [
+                "Organization",
+                "stl",
+                "thingiverse"
+              ],
+              "creator": [
+                "Paul Lacatus (PaulLacatus)"
+              ],
+              "collection": [
+                "thingiverse"
+              ],
+              "date": "2019-01-29T00:00:00Z",
+              "year": 2019,
+              "mediatype": "data",
+              "licenseurl": "https://creativecommons.org/licenses/by/4.0/",
+              "item_size": 404296,
+              "files_count": 5,
+              "downloads": 26,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2021-03-17T17:57:22Z",
+              "publicdate": "2021-03-17T17:57:22Z"
+            },
+            "highlight": null,
+            "_score": [
+              3996.1816
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "lionseyeglasses00vild",
+              "title": "The lion's eyeglasses",
+              "description": "An old lion solves the problem of failing eyesight by getting eyeglasses and then proceeds to lose them",
+              "subject": [
+                "Lion"
+              ],
+              "creator": [
+                "Vildrac, Charles, 1882-1971",
+                "Lavaivre, Noëlle, illus"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "1969-01-01T00:00:00Z",
+              "year": 1969,
+              "language": [
+                "engfre",
+                "fre"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 3,
+              "item_size": 662019353,
+              "files_count": 31,
+              "downloads": 73,
+              "week": 2,
+              "month": 2,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_browse",
+              "addeddate": "2013-04-01T14:17:59Z",
+              "publicdate": "2013-04-01T14:18:02Z"
+            },
+            "highlight": null,
+            "_score": [
+              3987.276
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "thingiverse-4462495",
+              "title": "Faceshield_Eyeglasses (4462495)",
+              "description": "I was designing a minimalist faceshield that can use eyeglasses as support and I find geat design from 'Abel' that think similar : https://www.youmagine.com/designs/visiere-coronavirus-face-shield I try to adobt the simple and fonctionnal 2 holes to keep in place the Clear Binding Cover. I also make better gipped clip that fit for the most of leg eyeglasses. Good point of these clips: - Very fast printing - No PLA waste (3g pla used for 2 clips) - Easy to mount For any one untersted to get the file source to modify just email me. Concept design : Voxel Studio",
+              "subject": [
+                "stl",
+                "thingiverse",
+                "Other"
+              ],
+              "creator": [
+                "houcem ben (houcemben)"
+              ],
+              "collection": [
+                "thingiverse"
+              ],
+              "date": "2020-06-16T00:00:00Z",
+              "year": 2020,
+              "mediatype": "data",
+              "licenseurl": "https://creativecommons.org/licenses/by/4.0/",
+              "item_size": 971665,
+              "files_count": 5,
+              "downloads": 22,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2021-03-10T15:24:58Z",
+              "publicdate": "2021-03-10T15:24:58Z"
+            },
+            "highlight": null,
+            "_score": [
+              3964.5356
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "thingiverse-4324284",
+              "title": "EllPro Eyeglasses Wall Mount (4324284)",
+              "description": "Another useful product from the King of Useless! XD I got tired of setting my reading glasses on the desk where they could get bumped or knocked off by my asshole cat, so I screwed around with some primitives and the hole-maker and here you go.",
+              "subject": [
+                "thingiverse",
+                "eyeglasses",
+                "Organization",
+                "wall",
+                "stl",
+                "eyeglasses_holder",
+                "wall_mount"
+              ],
+              "creator": [
+                "Devin Ellenwood (EllPro)"
+              ],
+              "collection": [
+                "thingiverse"
+              ],
+              "date": "2020-04-29T00:00:00Z",
+              "year": 2020,
+              "mediatype": "data",
+              "licenseurl": "https://creativecommons.org/licenses/by/4.0/",
+              "item_size": 23241,
+              "files_count": 5,
+              "downloads": 22,
+              "week": 1,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2021-04-04T18:41:22Z",
+              "publicdate": "2021-04-04T18:41:22Z"
+            },
+            "highlight": null,
+            "_score": [
+              3963.8533
+            ]
+          }
+        ]
+      },
+      "collection_titles": {
+        "smackjeeves-web-comics": "SmackJeeves Web Comics",
+        "stmaryscountylibrary": "St. Mary’s County Library (MD) - Open Libraries Collection",
+        "newsandpublicaffairs": "News & Public Affairs",
+        "asl-dictionary": "The ASL Dictionary",
+        "nmtvmn": "North Metro TV",
+        "thingiverse": "Thingiverse Archive",
+        "freevectors": "Vector Images",
+        "culturalandacademicfilms": "Cultural & Academic Films",
+        "community_media": "Community Media Archive",
+        "folkscanomy": "Folkscanomy: A Library of Books",
+        "metropolitanmuseumofart-gallery": "Metropolitan Museum of Art - Gallery Images",
+        "internetarchivebooks": "Internet Archive Books",
+        "comics": "Comic Books and Graphic Novels"
+      }
+    },
+    "hit_schema": {
+      "item": {
+        "identifier": {
+          "multivalue": false,
+          "mapping": "string"
+        },
+        "noindex": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "optional": true
+        },
+        "title": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "description": {
+          "multivalue": false,
+          "mapping": "string",
+          "dressing": {
+            "truncate": 1000
+          },
+          "optional": true
+        },
+        "subject": {
+          "multivalue": true,
+          "mapping": "string",
+          "dressing": {
+            "truncate": 1000
+          },
+          "optional": true
+        },
+        "creator": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "collection": {
+          "multivalue": true,
+          "mapping": "string",
+          "comment": "may be a superset of metadata collection field"
+        },
+        "date": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "year": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed from date",
+          "optional": true
+        },
+        "genre": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "volume": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "type": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "language": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "mediatype": {
+          "multivalue": false,
+          "mapping": "string"
+        },
+        "licenseurl": {
+          "multivalue": false,
+          "mapping": "string__url",
+          "optional": true
+        },
+        "num_favorites": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true,
+          "comment": "computed during document construction"
+        },
+        "num_reviews": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true,
+          "comment": "computed during document construction"
+        },
+        "item_size": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "bytes; computed during document construction"
+        },
+        "files_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction"
+        },
+        "item_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction",
+          "optional": true
+        },
+        "displayed_item_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction, may be inferred from item_count",
+          "optional": true
+        },
+        "collection_files_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction, for collection items only",
+          "optional": true
+        },
+        "collection_size": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "bytes; computed during document construction, for collection items only",
+          "optional": true
+        },
+        "downloads": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "total views over item lifetime, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "week": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "views over a seven-day period, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "month": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "views over a month, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "indexflag": {
+          "multivalue": true,
+          "mapping": "string",
+          "comment": "item characterization including noindex status"
+        },
+        "lending___available_to_borrow": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___available_to_browse": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___available_to_waitlist": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___status": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "avg_rating": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true
+        },
+        "addeddate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "issue": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "format varies",
+          "optional": true
+        },
+        "source": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "format varies",
+          "optional": true
+        },
+        "reviewdate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "publicdate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "date_favorited": {
+          "multivalue": false,
+          "mapping": "date",
+          "comment": "not metadata; only present in favorites lists, sourced from Lists API",
+          "optional": true
+        },
+        "reviews_data": {
+          "multivalue": true,
+          "dressing": {
+            "truncate": false
+          },
+          "mapping": "string",
+          "comment": "untruncated JSON encoded data used for Account reviews",
+          "optional": true
+        }
+      }
+    }
+  }
+}

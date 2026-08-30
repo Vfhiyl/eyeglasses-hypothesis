@@ -1,0 +1,39 @@
+{
+  "belluga_pere_apotecari": {
+    "update": "Serna Box MedCat cards only label fl.1435; no guild age / fill-de / birth in OA. Jurist Pere Belluga (1392–1468) still distinct. Ferrer death confirmed by MedCat doc3793 (testament marmessors Aug 1435).",
+    "decision": "HOLD — no birth"
+  },
+  "filelfo": {
+    "note": "Already onsetish/primary (1456 Alamanni request; WD 1398–1481; ya=25). Not a new promote.",
+    "decision": "SKIP — already rostered"
+  },
+  "philippe_le_hardi_prost_1389": {
+    "note": "Prost Inventaires II §8240 (1389-08-14): Jehan de Baugis estuy à bericles pour luy — same living-case seam already used for philippe_le_hardi.",
+    "decision": "SKIP — duplicate"
+  },
+  "baret_john_tymms": {
+    "note": "Tymms Bury wills p.15: John Baret 1463 bequeaths 'peyre spectaclys of syluir and ouyr gylt' to Davn John Ixnyng — death-will ownership (already baret_john path).",
+    "decision": "EXCLUDE labor (ya≈0 will path)"
+  },
+  "cusac_thomas": {
+    "update": "Web/ODNB hits resolve to later Irish chancellor Thomas Cusack (c.1505–1571), not Breton Chevalier Angloys of 1433. Still no obit for Breton Cusac.",
+    "decision": "HOLD"
+  },
+  "cleux_jean": {
+    "update": "IA/Morice still no death language; Olivier de Cleux is a different career pin, not the 1433 brace recipient.",
+    "decision": "HOLD"
+  },
+  "medcat_cluster": {
+    "living_purchase_only": "doc10557 Belluga",
+    "death_inventari": ["10556 Ferrer", "10559 Belluga", "10561 Bartomeu Palma", "10567 Salat", "10568 Moranta"],
+    "decision": "no new Cleux-bar promote"
+  },
+  "dollfus_1969": {
+    "note": "Persée abstract only; names Philippe le Hardi + Jean sans Peur monocle — Philippe already rostered; Jean sans Peur lacks OA living spectacle-pair pin here.",
+    "decision": "no ingest"
+  },
+  "madonna_filippa_1476": {
+    "note": "Cambini crystal lens with handle — loupe/reading-stone path, not spectacle pair; identity thin.",
+    "decision": "EXCLUDE"
+  }
+}

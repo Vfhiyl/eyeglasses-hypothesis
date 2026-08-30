@@ -1,0 +1,74 @@
+[
+  {
+    "i": 1,
+    "query": "title:(\"household book\" OR \"household books\") mediatype:texts",
+    "ok": true,
+    "total": 68
+  },
+  {
+    "i": 2,
+    "query": "title:(\"privy purse\") mediatype:texts",
+    "ok": true,
+    "total": 30
+  },
+  {
+    "i": 3,
+    "query": "(\"household book\" OR \"household books\") AND (Surtees OR Camden OR \"Record Society\" OR Roxburghe OR Chetham) mediatype:texts",
+    "ok": true,
+    "total": 11
+  },
+  {
+    "i": 4,
+    "query": "title:(Northumberland) AND (household OR accounts) mediatype:texts",
+    "ok": true,
+    "total": 10
+  },
+  {
+    "i": 5,
+    "query": "(\"pair of spectacles\" OR \"paire of spectacles\") AND (paid OR bought OR boughten OR disbursed OR \"item for\") mediatype:texts",
+    "ok": true,
+    "total": 1
+  },
+  {
+    "i": 6,
+    "query": "Costume Historian spectacles OR \"costume historian\" spectacles",
+    "ok": true,
+    "total": 3930
+  },
+  {
+    "i": 7,
+    "query": "\"for a paire of spectacles\" OR \"for a pair of spectacles\" OR \"for spectacles for\"",
+    "ok": true,
+    "total": 2
+  },
+  {
+    "i": 8,
+    "query": "title:(accounts) AND (spectacles OR eyeglasses) AND year:[1800 TO 2020] mediatype:texts",
+    "ok": true,
+    "total": 0
+  },
+  {
+    "i": 9,
+    "query": "(\"disbursement\" OR \"disbursements\") AND spectacles mediatype:texts",
+    "ok": true,
+    "total": 2
+  },
+  {
+    "i": 10,
+    "query": "Leicester Dudley (spectacles OR eyeglasses OR \"spectacle\")",
+    "ok": true,
+    "total": 0
+  },
+  {
+    "i": 11,
+    "query": "\"earl of bath\" (spectacles OR eyeglasses)",
+    "ok": true,
+    "total": 0
+  },
+  {
+    "i": 12,
+    "query": "Joyce Jeffreys spectacles OR \"Joyce Jeffreys\" eyeglasses",
+    "ok": true,
+    "total": 1721
+  }
+]

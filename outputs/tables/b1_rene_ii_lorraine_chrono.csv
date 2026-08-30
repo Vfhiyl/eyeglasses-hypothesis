@@ -1,3 +1,5 @@
-person_id,date,event,source,note
-rene_ii_lorraine,1504,multi_pair_lunettes_purchase,laborde_comptes_lorraine,Dix paires to Seigneur Roy at Bar.
-rene_ii_lorraine,1508-12-10,death_terminus,wikidata_Q441416,Soft years_after=4.
+person_id,date,event_type,source_ref,role,notes
+rene_ii_lorraine,1504-01-01,multi_pair_lunettes_purchase,Laborde_glossaire_Comptes_Ducs_Lorraine,wear_onset,"1504: dix paires de lunettes (3 cristal + béril) apportées à deux fois au Seigneur Roy at Bar (Comptes des Ducs de Lorraine via Laborde). Soft onset year."
+rene_ii_lorraine,1506-12-03,codicil_testament,Calmet_Histoire_Lorraine_1752_codicile,FROM-him,"Codicil 3 Dec 1506 (Calmet citing Cabinet Abbé de Camp) — testamentary writing FROM-him. Near-work pin but single legal act, not Cleux multi-point series."
+rene_ii_lorraine,1507-01-01,return_nancy_late_reign,Calmet_Histoire_Lorraine_1752,dated_presence,"Beginning 1507: René returned to Nancy; Calmet: more occupied with salvation than earthly affairs; later to Bar-le-Duc end 1508. Presence/narrative, not day-dated FROM-him near-work."
+rene_ii_lorraine,1508-12-10,death_terminus,Calmet_Histoire_Lorraine_WD_Q441416,death,"Death 10 Dec 1508 at Fains near Bar (apoplexy after wolf hunt); body St-Maxe Bar then Cordeliers Nancy. Soft years_after=4 from 1504. HARD densify OA-CLOSED this pass."

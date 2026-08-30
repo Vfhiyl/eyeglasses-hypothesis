@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<srw:searchRetrieveResponse xmlns:ns6="http://gallica.bnf.fr/namespaces/gallica/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <srw:version>1.2</srw:version>
+    <srw:echoedSearchRetrieveRequest>
+        <srw:query>(gallica all "Rulon" and gallica all "Marzelière") or (gallica all "Rulon" and gallica all "Association bretonne" and dc.date all "1959")</srw:query>
+        <srw:version>1.2</srw:version>
+    </srw:echoedSearchRetrieveRequest>
+    <srw:numberOfRecords>25</srw:numberOfRecords>
+    <srw:extraResponseData>&lt;numberOfRecordsDecollapser&gt;56&lt;/numberOfRecordsDecollapser&gt;</srw:extraResponseData>
+    <srw:records>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Association bretonne et Union régionaliste bretonne. Auteur du texte</dc:creator>
+                    <dc:date>1948-2004</dc:date>
+                    <dc:description>Variante(s) de titre : Bulletin agricole et archéologique de l'Association bretonne</dc:description>
+                    <dc:description>Variante(s) de titre : Association bretonne</dc:description>
+                    <dc:description>Variante(s) de titre : Bulletin de l'Association bretonne</dc:description>
+                    <dc:description>Variante(s) de titre : Comptes rendus, conférences et mémoires, colloque, vie culturelle</dc:description>
+                    <dc:description>Variante(s) de titre : Comptes rendus, colloque, vie culturelle</dc:description>
+                    <dc:description>Variante(s) de titre : Comptes rendus, mémoires, colloque, vie culturelle</dc:description>
+                    <dc:description>Variante(s) de titre : Comptes rendus, mémoires, vie culturelle</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb391081151/date</dc:identifier>
+                    <dc:identifier>NUMP-26254</dc:identifier>
+                    <dc:identifier>ISSN 17650224</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>A. Prud'homme (Saint-Brieuc)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb391081151</dc:relation>
+                    <dc:relation>A pour reproduction : Comptes rendus, procès-verbaux, mémoires (Association bretonne et Union régionaliste bretonne. Reproduction numérique) = ISSN 2971-2904 (https://gallica.bnf.fr/ark:/12148/cb391081151/date)</dc:relation>
+                    <dc:source>Association Bretonne, 2023-71937</dc:source>
+                    <dc:title>Comptes rendus, procès-verbaux, mémoires... (Association bretonne et Union régionaliste bretonne)</dc:title>
+                    <dc:title>Comptes rendus, procès-verbaux, mémoires... : agriculture, archéologie / Association bretonne et Union régionaliste bretonne</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>0</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bd6t5347142x.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb391081151/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bd6t5347142x.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bd6t5347142x.medres</medres>
+                <nqamoyen>89.59</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t5347142x.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bd6t5347142x</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Petit de La Villéon, E (Dr). Directeur de publication</dc:contributor>
+                    <dc:creator>Société d'histoire et d'archéologie de l'arrondissement de Saint-Malo. Auteur du texte</dc:creator>
+                    <dc:date>1951</dc:date>
+                    <dc:description>Variante(s) de titre : Annales - Société d'histoire et d'archéologie de l'arrondissement de Saint-Malo</dc:description>
+                    <dc:description>Périodicité : Annuel</dc:description>
+                    <dc:description>Numérisé par le partenaire</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb343878480/date</dc:identifier>
+                    <dc:identifier>ISSN 07558643</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Société d'histoire et d'archéologie de l'arrondissement de Saint-Malo (Saint-Malo)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb343878480</dc:relation>
+                    <dc:source>Société d'Histoire et d'Archéologie de l'arrondissement de Saint-Malo, 1PER</dc:source>
+                    <dc:title>Annales de la Société d'histoire et d'archéologie de l'arrondissement de Saint-Malo / président : Dr E. Petit de la Villéon</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>1</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k53247087.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb343878480/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k53247087.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k53247087.medres</medres>
+                <nqamoyen>89.37</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k53247087.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k53247087</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Société polymathique du Morbihan. Auteur du texte</dc:creator>
+                    <dc:date>1861-1996</dc:date>
+                    <dc:description>Variante(s) de titre : Bulletin mensuel de la Société polymathique du Morbihan</dc:description>
+                    <dc:description>Périodicité : Mensuel ; puis annuel</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : Bretagn1</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb34414373t/date</dc:identifier>
+                    <dc:identifier>NUMP-26443</dc:identifier>
+                    <dc:identifier>ISSN 07679882</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Société polymathique du Morbihan (Vannes)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb34414373t</dc:relation>
+                    <dc:relation>A pour reproduction : Bulletin de la Société polymathique du Morbihan (Reproduction numérique) = ISSN 2419-9931 (https://gallica.bnf.fr/ark:/12148/cb34414373t/date)</dc:relation>
+                    <dc:relation>A pour reproduction : Bulletin de la Société polymathique du Morbihan (Reproduction numérique) = ISSN 2419-9931 (https://catalog.hathitrust.org/Record/008607978)</dc:relation>
+                    <dc:relation>A pour reproduction : Bulletin de la Société polymathique du Morbihan (Reproduction numérique) = ISSN 2419-9931 (https://catalog.hathitrust.org/Record/000678406)</dc:relation>
+                    <dc:source>Société Polymathique du Morbihan, 2023-104229</dc:source>
+                    <dc:title>Bulletin de la Société polymathique du Morbihan</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>2</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bd6t5347828p.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb34414373t/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bd6t5347828p.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bd6t5347828p.medres</medres>
+                <nqamoyen>88.82</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t5347828p.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bd6t5347828p</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1912-1944</dc:date>
+                    <dc:description>Périodicité : Quotidien</dc:description>
+                    <dc:description>Etat de collection : 1912/03/10-1942/04/15</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG00</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG14</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG50</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG72</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : GMBrst001</dc:description>
+                    <dc:format>Nombre total de vues : 100865</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb41193642z/date</dc:identifier>
+                    <dc:identifier>NUMP-1118</dc:identifier>
+                    <dc:identifier>ISSN 21334285</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>[s.n.] (Rennes)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb41193642z</dc:relation>
+                    <dc:relation>A pour reproduction : L'Ouest-Éclair (Éd. de Caen. Reproduction numérique) = ISSN 2420-661X (https://gallica.bnf.fr/ark:/12148/cb41193642z/date)</dc:relation>
+                    <dc:relation>A pour reproduction : L'Ouest-Éclair (Éd. de Caen. Reproduction numérique) = ISSN 2420-661X (https://www.archives-manche.fr/rechercher-1/periodiques-et-journaux?arko_default_6357e704657a7--modeRestit=arko_default_6357e9dfafdab&amp;arko_default_6357e704657a7--ficheFocus=arko_fiche_649d83424ea59)</dc:relation>
+                    <dc:relation>Première de couverture : 188372</dc:relation>
+                    <dc:source>Bibliothèque nationale de France</dc:source>
+                    <dc:title>L'Ouest-Éclair (Éd. de Caen)</dc:title>
+                    <dc:title>L'Ouest-Éclair</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>3</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k495120b.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb41193642z/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k495120b.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k495120b.medres</medres>
+                <nqamoyen>99.38</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k495120b.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k495120b</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Société archéologique et historique d'Ille-et-Vilaine. Auteur du texte</dc:creator>
+                    <dc:date>1862-1999</dc:date>
+                    <dc:description>Variante(s) de titre : Société archéologique du département d'Ille-et-Vilaine</dc:description>
+                    <dc:description>Variante(s) de titre : Mémoires de la Société archéologique du département d'Ille-et- Vilaine</dc:description>
+                    <dc:description>Variante(s) de titre : Bulletin et mémoires - Société archéologique d'Ille-et-Vilaine</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : Bretagn1</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb343832231/date</dc:identifier>
+                    <dc:identifier>NUMP-27456</dc:identifier>
+                    <dc:identifier>ISSN 07501412</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Société archéologique du département d'Ille-et-Vilaine (Rennes)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb343832231</dc:relation>
+                    <dc:relation>A pour reproduction : Bulletin et mémoires de la Société archéologique du département d'Ille-et-Vilaine (Reproduction numérique) = ISSN 2419-8447 (https://gallica.bnf.fr/ark:/12148/cb343832231/date)</dc:relation>
+                    <dc:relation>A pour reproduction : Bulletin et mémoires de la Société archéologique du département d'Ille-et-Vilaine (Reproduction numérique) = ISSN 2419-8447 (https://catalog.hathitrust.org/Record/000499974)</dc:relation>
+                    <dc:source>Société archéologique et historique d'Ille-et-Vilaine (SAHIv), 2023-228267</dc:source>
+                    <dc:title>Bulletin et mémoires de la Société archéologique du département d'Ille-et-Vilaine</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>4</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bd6t5351529q.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb343832231/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bd6t5351529q.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bd6t5351529q.medres</medres>
+                <nqamoyen>88.93</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t5351529q.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bd6t5351529q</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Desgrées du Lou, Emmanuel (1867-1933). Directeur de publication</dc:contributor>
+                    <dc:date>1899-1944</dc:date>
+                    <dc:description>Variante(s) de titre : L'Ouest-Éclair et l'Étoile de mer</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG00</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG14</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG29</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG35</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : Bretagn1</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : GMBrst001</dc:description>
+                    <dc:format>Nombre total de vues : 135307</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb32830550k/date</dc:identifier>
+                    <dc:identifier>NUMP-1495</dc:identifier>
+                    <dc:identifier>ISSN 12616249</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>[s.n.] (Rennes)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb32830550k</dc:relation>
+                    <dc:relation>A pour reproduction : L'Ouest-Éclair (Rennes. Reproduction numérique) = ISSN 2419-2651 (https://gallica.bnf.fr/ark:/12148/cb32830550k/date)</dc:relation>
+                    <dc:relation>Première de couverture : 212137</dc:relation>
+                    <dc:source>Bibliothèque nationale de France</dc:source>
+                    <dc:title>L'Ouest-Éclair (Rennes)</dc:title>
+                    <dc:title>L'Ouest-Éclair : journal quotidien d'informations, politique, littéraire, commercial</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>5</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k663048w.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb32830550k/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k663048w.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k663048w.medres</medres>
+                <nqamoyen>99.02</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k663048w.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k663048w</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Association bretonne et Union régionaliste bretonne. Auteur du texte</dc:creator>
+                    <dc:date>1990</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>114 p. ; 25 cm</dc:format>
+                    <dc:format>Nombre total de vues : 136</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k3046281p</dc:identifier>
+                    <dc:identifier>NUMM-3046281</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>[s.n.]</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb39236201x</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Recherche bibliographique, 2019-158415</dc:source>
+                    <dc:subject>Association bretonne et Union régionaliste bretonne -- Périodique</dc:subject>
+                    <dc:title>Tables générales, section d'histoire et d'archéologie, 1847-1987 : comptes rendus, procès-verbaux, mémoires / Association bretonne et union régionaliste bretonne</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>6</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k3046281p.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k3046281p</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k3046281p.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k3046281p.medres</medres>
+                <nqamoyen>86.91</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k3046281p.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k3046281p</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1911</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : IledeFr1</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>In-8°, fig.</dc:format>
+                    <dc:format>Nombre total de vues : 186</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k1457313</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:language>français</dc:language>
+                    <dc:publisher> (Enghien-les-Bains)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb34116059d</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LK7-37834</dc:source>
+                    <dc:subject>Enghien (France)</dc:subject>
+                    <dc:title>Enghien-les-Bains, guide-annuaire</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>7</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k1457313.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k1457313</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k1457313.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k1457313.medres</medres>
+                <nqamoyen>99.73</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k1457313.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k1457313</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1887-1935</dc:date>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb391150993/date</dc:identifier>
+                    <dc:identifier>NUMP-17988</dc:identifier>
+                    <dc:identifier>ISSN 26062135</dc:identifier>
+                    <dc:language>eng</dc:language>
+                    <dc:publisher>[s.n.] (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb391150993</dc:relation>
+                    <dc:relation>A pour reproduction : The New York herald (European ed. Reproduction numérique) = ISSN 2725-2582 (https://gallica.bnf.fr/ark:/12148/cb391150993/date)</dc:relation>
+                    <dc:relation>A pour reproduction : The New York herald (European ed. Reproduction numérique) = ISSN 2725-2582 (https://www.retronews.fr/ark:/12148/cb391150993/notice)</dc:relation>
+                    <dc:source>Bibliothèque nationale de France, département Droit, économie, politique, GR FOL-PB-1751 (BIS)</dc:source>
+                    <dc:title>The New York herald (European ed.)</dc:title>
+                    <dc:title>The New York herald</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>8</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k41311290.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb391150993/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k41311290.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k41311290.medres</medres>
+                <nqamoyen>86.89</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k41311290.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k41311290</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Saffroy, Gaston (1909-1985). Auteur du texte</dc:creator>
+                    <dc:date>1974</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:description>Bibliographie</dc:description>
+                    <dc:format>1 vol. (VI-831 p.) : ill., couv. ill. ; 26 cm</dc:format>
+                    <dc:format>Nombre total de vues : 861</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bd6t5404748g</dc:identifier>
+                    <dc:identifier>NUMS-100404748</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>G. Saffroy (Paris)</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb34297329c</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb35125705h</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Manuscrits, 4-IMPR-1021 (3)</dc:source>
+                    <dc:subject>Généalogie -- France</dc:subject>
+                    <dc:title>Bibliographie généalogique, héraldique et nobiliaire de la France. 3, Recueils généalogiques généraux, monographies familiales et études particulières.... Numéro 33963-52222,Tome 3 / Gaston Saffroy</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>9</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bd6t5404748g.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bd6t5404748g</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bd6t5404748g.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bd6t5404748g.medres</medres>
+                <nqamoyen>88.06</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t5404748g.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bd6t5404748g</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Legeay, Fortuné (1821-1899). Auteur du texte</dc:creator>
+                    <dc:date>1861</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : PaysLoir1</dc:description>
+                    <dc:description>Contient une table des matières</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>In-18, 790 p. et carte</dc:format>
+                    <dc:format>Nombre total de vues : 803</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k6534988x</dc:identifier>
+                    <dc:identifier>NUMM-6534988</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Du Temple et Vialat (Le Mans)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb307758771</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LK7-3786</dc:source>
+                    <dc:subject>Le Mans (France)</dc:subject>
+                    <dc:title>Le Guide du voyageur au Mans et dans le département de la Sarthe pour 1861... / par F. Legeay</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>10</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k6534988x.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k6534988x</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k6534988x.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k6534988x.medres</medres>
+                <nqamoyen>98.5</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k6534988x.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k6534988x</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Bibliothèque nationale (France). Auteur du texte</dc:creator>
+                    <dc:date>1990-2000</dc:date>
+                    <dc:description>Périodicité : Bimensuel</dc:description>
+                    <dc:description>Etat de collection : 1990-1999</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>Nombre total de vues : 64873</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb34422328q/date</dc:identifier>
+                    <dc:identifier>ISSN 11423250</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Bibliothèque nationale (Paris)</dc:publisher>
+                    <dc:publisher>Office général du livre (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb34422328q</dc:relation>
+                    <dc:source>Bibliothèque nationale de France, département Collections numérisées, 2010-111551</dc:source>
+                    <dc:title>Bibliographie nationale française. Livres (Imprimé)</dc:title>
+                    <dc:title>Bibliographie nationale française. Livres : notices établies par la Bibliothèque nationale à partir des documents déposés auprès du Service du dépôt légal : bibliographie créée par décret impérial du 14 octobre 1811 / [dir. publ. P.-A. Berend]</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>11</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k6143565j.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb34422328q/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k6143565j.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k6143565j.medres</medres>
+                <nqamoyen>99.98</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k6143565j.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k6143565j</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Paris-Jallobert, Paul (1838-1905). Auteur du texte</dc:creator>
+                    <dc:date>1880</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>1 vol. (XXXVI-600 p.) : pl. ; in-4</dc:format>
+                    <dc:format>Nombre total de vues : 671</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k318900t</dc:identifier>
+                    <dc:identifier>NUMM-318900</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>J. Guays (Vitré)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31059860s</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 4-LK7-21834</dc:source>
+                    <dc:subject>Vitré (France)</dc:subject>
+                    <dc:title>Journal historique de Vitré ou Documents et notes pour servir à l'histoire de cette ville... / par l'abbé Paul Paris-Jallobert,...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>12</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k318900t.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k318900t</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k318900t.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k318900t.medres</medres>
+                <nqamoyen>87.49</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k318900t.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k318900t</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1890-193.</dc:date>
+                    <dc:description>Variante(s) de titre : Annuaire universel. Paris-adresses</dc:description>
+                    <dc:description>Variante(s) de titre : Paris-adresses : annuaire universel : toutes les adresses de l'industrie et du commerce... de Paris et des communes du département de la Seine ; classées par professions</dc:description>
+                    <dc:description>Etat de collection : 1896-1898. 1900-1902. 1931 [XLI]</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb326988580/date</dc:identifier>
+                    <dc:identifier>ISSN 26066602</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Ch. Alavoine et cie (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb326988580</dc:relation>
+                    <dc:source>Bibliothèque nationale de France, département Sciences et techniques, 4-V-4045</dc:source>
+                    <dc:title>Paris-adresses : annuaire général de l'industrie et du commerce : corps constitués, administrations, professions libérales, propriétaires, rentiers, etc... de Paris et du département de la Seine</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>13</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k11808753.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb326988580/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k11808753.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k11808753.medres</medres>
+                <nqamoyen>85.9</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k11808753.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k11808753</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Marcelin, Émile (1825-1887). Fondateur de la publication. Directeur de publication</dc:contributor>
+                    <dc:date>1863-1970</dc:date>
+                    <dc:description>Etat de collection : 1863-1941</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPNOUV</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb328892561/date</dc:identifier>
+                    <dc:identifier>NUMP-15542</dc:identifier>
+                    <dc:identifier>ISSN 20221274</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>[s.n.] (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb328892561</dc:relation>
+                    <dc:relation>A pour reproduction : La Vie parisienne (Reproduction numérique) = ISSN 2533-8927 (https://gallica.bnf.fr/ark:/12148/cb328892561/date)</dc:relation>
+                    <dc:relation>A pour reproduction : La Vie parisienne (Reproduction numérique) = ISSN 2533-8927 (https://argonnaute.parisnanterre.fr/ark:/14707/3k45nsw2rx09) (1913-1920, 1931, fragm.)</dc:relation>
+                    <dc:relation>A pour reproduction : La Vie parisienne (Reproduction numérique) = ISSN 2533-8927 (https://opacplus.bsb-muenchen.de/search?oclcno=225395550&amp;View=default&amp;db=100&amp;View=default)</dc:relation>
+                    <dc:relation>A pour reproduction : La Vie parisienne (Reproduction numérique) = ISSN 2533-8927 (https://catalog.hathitrust.org/Record/009038268)</dc:relation>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, FOL-LC13-81</dc:source>
+                    <dc:title>La Vie parisienne : mœurs élégantes, choses du jour, fantaisies, voyages, théâtres, musique, modes / par Marcellin</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>14</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k12534418.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb328892561/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k12534418.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k12534418.medres</medres>
+                <nqamoyen>98.03</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k12534418.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k12534418</uri>
+            </srw:extraRecordData>
+        </srw:record>
+    </srw:records>
+    <srw:nextRecordPosition>16</srw:nextRecordPosition>
+</srw:searchRetrieveResponse>

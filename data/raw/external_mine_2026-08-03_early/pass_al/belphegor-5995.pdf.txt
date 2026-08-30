@@ -1,0 +1,598 @@
+Belphégor
+
+Littérature populaire et culture médiatique
+22-1 | 2024
+
+Imaginaires de l'IA
+
+The Law Of The Upload
+João Marinotti and Asaf Lubin
+
+Electronic version
+URL: https://journals.openedition.org/belphegor/5995
+DOI: 10.4000/11tfl
+ISSN: 1499-7185
+Publisher
+LPCM
+Electronic reference
+João Marinotti and Asaf Lubin, “The Law Of The Upload”, Belphégor [Online], 22-1 | 2024, Online since
+28 May 2024, connection on 09 January 2025. URL: http://journals.openedition.org/belphegor/5995 ;
+DOI: https://doi.org/10.4000/11tfl
+
+This text was automatically generated on January 9, 2025.
+
+The text only may be used under licence CC BY-NC-ND 4.0. All other elements (illustrations, imported
+files) are “All rights reserved”, unless otherwise stated.
+
+The Law Of The Upload
+
+The Law Of The Upload
+João Marinotti and Asaf Lubin
+
+Introduction
+1
+
+In April 2020, Amazon released a new comedy series called “Upload.” The show’s first
+season extrapolates a future in which advances in computation and neuroscience have
+led to the successful simulation of human consciousness in silico.1 In this world,
+individuals can pay to be “uploaded” into a series of competing digital afterlives. When
+uploaded, human consciousness is converted into stored memories and executable
+code, which can be edited, reset, throttled, or even deleted depending on each upload’s
+membership plan and payment status. By portraying this world, the show breaks the
+boundaries between reality and virtual reality, consciousness and artificial intelligence,
+and even life and afterlife, entangling various legal questions in novel ways.
+
+2
+
+The neuro-simulation technology depicted in the show is, in fact, already in
+development. The OpenWorm project, for example, used the fully mapped neural
+system of a nematode (C. elegans) to “‘copy-paste’ its brain into a computer, creating a
+virtual copy of the organism that reacts to stimuli the same way as the real thing”
+(Micu). The uploaded nematode can move around, hunt bacteria, and even respond to
+simulated physical stimuli. It does so relying on its virtual nervous system, which is
+simulated down to the level of individual ion channels on the nematode’s 302 neurons
+(Sarma et al.)! Such successes, however, do not mean that human uploads are
+imminent. While petascale supercomputers may one day be able to support “cellular
+level simulations of the complete human brain,” mapping the various “elements,
+interactions, emergent properties, and time scales” of the brain remains a “massive
+challenge” (Markram, et al. 40).
+
+3
+
+Seemingly rising to this challenge, a company called Humai came onto the scene in
+2015 promising to transfer people’s consciousness into artificial bodies within 30 years
+(Thubron). The company, however, was not a true tech venture. Commentators later
+noted that the company was simply “an effective way to rob people” and that the
+ambitious future it imagined “is about as likely as a zombie apocalypse” (Moye).
+
+Belphégor, 22-1 | 2024
+
+1
+
+The Law Of The Upload
+
+4
+
+While it is possible that much more limited “Brain-Computer Interface (BCI)”
+technologies will continue to make progress in the foreseeable future, the upload
+technologies featured on the show will almost surely not exist anytime soon
+(Gonfalonieri). Therefore, it may seem strange to give “Upload” any sort of legal
+analysis. The show’s world-building and narrative, however, provide an opportunity to
+explore—through a possible distant future—the legal, social, and business decisions
+being made today. It serves as an exaggerated mirror through which we can engage in
+“conscious psychological exploration and social criticism” of the legal norms currently
+taken for granted (Brantlinger, 41).
+
+5
+
+Specifically, this short analysis will examine three topics. First, we aim to leverage the
+show’s advanced technology to question the distinction between human consciousness
+and artificial intelligence in the context of copyright and contract law. In so doing, we
+highlight how legal personhood may be doctrinally denied to “uploaded” human
+minds, even if they are—for the sake of argument—as capable, conscious, and creative
+as living human minds. We then build on this conclusion to demonstrate how the
+power imbalance between individuals and technology companies will continue to
+exacerbate the problem of contracts of adhesion and surveillance capitalism (even after
+physical death!). Lastly, we seek to demonstrate how an unyielding, unquestioning,
+myopic desire for digital rights (at all costs) may lead to the unintentional loss of
+crucial non-digital rights.
+
+I. Loss of Personhood
+6
+
+“Upload” raises complex questions in almost all areas of law, from tort liability to
+consumer protection, to estate planning. One of the most jarring, however, is how
+“Upload” depicts a future in which the current legal regimes of copyright and contract
+law may unintentionally reinstate a virtual form of servitude. Specifically, it
+demonstrates how current law may, in the face of technological change, conspire in
+such a way that robs individuals of agency, autonomy, and ultimately legal personhood.
+
+7
+
+To understand how this is so, consider first the existing law governing ownership of AI
+creations. In the United States, the Copyright Office has adopted a stringent “human
+authorship” requirement according to which the Office will only “register an original
+work of authorship, provided that the work was created by a human being”
+(Compendium of U.S. Copyright Office Practices, Ch. 300 §306). For the Office, the
+“fruits of intellectual labor” are limited to those “founded in the creative powers of the
+mind”—the living human mind that is (Compendium). This position was reaffirmed in
+the now infamous “monkey selfie” case concerning a photo taken by a crested macaque
+named Naruto. In that case, the Ninth Circuit concluded that “a monkey—and all
+animals, since they are not human—lacks statutory standing under the Copyright act”
+and therefore is unable to seek damages or injunctive relief against copyright
+infringement (Naruto v. Slater).
+
+8
+
+Even in jurisdictions that seem more welcoming to the idea that non-human generated
+content may be copyrightable, the ownership rights continue to belong to a company
+or living human individual. This is the case with AI-generated content whose rights are
+granted to the company or individual employing the AI and not to the AI itself. In 2020,
+for example, a court in Shenzhen, China, recognized that stories produced by an
+automated software called Dreamwriter possessed sufficient originality to qualify for
+
+Belphégor, 22-1 | 2024
+
+2
+
+The Law Of The Upload
+
+copyright protection. The court, however, granted the rights over the stories not to the
+Dreamwriter AI but to the Chinese tech titan Tencent that created it (Sawers).
+9
+
+For our current purposes, such limits on the entitlement to and assignment of
+copyright protections may seem benign. This restriction, however, smuggles with it an
+undertheorized assumption about creativity and agency. It assumes that copyright law
+is only meant to incentivize and protect the legal interests of currently living biological
+humans. In the United States, such assumption is suspect even at the constitutional
+level. Doctrinally, federal copyright protection exists solely under the government’s
+constitutional power to “promote the Progress of Science and useful Arts” in society
+(U.S. CONST. Art. 1 §8 Cl. 8).2 Constitutionally, then, copyright law was a “distinctly
+utilitarian construct” from the very beginning (Stadler, 611). By limiting the authorship
+requirement to living humans, the law “denies the incentive of copyright to an
+increasingly large group of works that are indistinguishable in substance and public
+value from works created by human beings” (Denicola, 286). Ultimately, though, the
+effectiveness of modern copyright doctrines in fulfilling their constitutional mandate is
+an empirical question outside the scope of this short piece.
+
+10
+
+More interesting, however, is a theoretical question raised by modern copyright
+doctrine. The law’s requirement of a living human author assumes that a discrete
+qualitative difference must exist between living human brains and computers. But
+where exactly is the boundary between an AI and the human mind? If a human brain is
+fully simulated, are its works worth any less to society, promoting the arts and
+sciences? If not, are simulated minds still less worthy of incentives?
+
+11
+
+The uploads in the show challenge the categorical distinction between human minds
+and algorithms by offering a clear edge test. Nathan, the protagonist of the show
+“Upload,” is now an uploaded human consciousness. When describing his current
+situation to a living human, he noted that “[i]n a sense both of our consciousnesses are
+simulations, mine on a silicon computer and yours on a computer made of meat, your
+brain” (“Upload”, Season 1, Episode 7, “Bring Your Dad to Work Day,” 12:07). If uploads
+do indeed mimic all of “the synaptic connections” in the original human’s brain cells as
+well as the complete “thousands of terabytes” of the human’s memory data (Episode 3,
+“The Funeral,” 3:12), is the uploaded intelligence “artificial” in any meaningful sense
+merely because it is running on silicon?
+
+12
+
+While the “Upload” showrunners purposefully do not answer this question, they
+affirmatively portray a world in which the law also fails to address this critical issue.
+The law in “Upload” relies on inertia to deny the legal existence (or even relevance) of
+uploaded humans. Whether consciously or not, they seem to have premised their
+narrative on the likely scenario that law will lag behind technological innovation. Much
+like Naruto the crested macaque and the Dreamwriter AI, the uploads are not allowed
+to work, contract, or directly earn money in any way, as that would “driv[e] down
+wages for us meat folks” (Episode 4, “The Sex Suit,” 1:45.)
+
+13
+
+More importantly, the scanned uploads are themselves “owned.” Nathan, when
+describing his relationship with his living girlfriend Ingrid says, “it’s definitely changed
+the relationship. I mean, now she literally owns me” (Episode 4, “The Sex Suit,” 6:53),
+later noting that “I’m just this plaything for Ingrid, there when she wants me. [Ingrid]
+control[s] all my purchases, what I do, what I eat” (Episode 5, “The Grey Market,” 1:30).
+While the interpersonal dimensions of this reality are explored at length in the show,
+the legal ramifications are not.
+
+Belphégor, 22-1 | 2024
+
+3
+
+The Law Of The Upload
+
+14
+
+One such ramification is in the law of copyright. Throughout the show the various
+uploads of Lakeview, the virtual world in which Nathan lives, continuously produce
+content: David hits cinematic golf shots, Dylan devises innovative new pranks to play
+on the local groundskeepers, and Nathan himself constantly writes and performs
+thoughtful and artistic prose. All of these creations, however, seem to be owned by
+Horizen, the company behind Lakeview, or by the Horizen account holder, a living
+individual paying Horizen to host the upload. The uploads are treated much like the
+Dreamwriter AI.
+
+15
+
+Uploaded human minds are not entitled to copyright protections nor are they allowed
+to contract around this limitation. They are stuck. Under fear of permanent deletion,
+they may be forced to engage in endless intellectual (or computational) labor. Despite
+their cognitive abilities and emotional responses, which are by presumption equivalent
+to those of living humans, they lack any and all entitlements of legal personhood.
+
+II. Power Dynamics of Technology
+16
+
+Why does this lack of personhood matter? Given the historical and theoretical
+connections between personhood and human rights, one can imagine the myriad
+problems this situation may create (Vatter & de Leeuw). In this piece, we will highlight
+just two. First, is the growing problem of contracts of adhesion in the face of life altering
+infrastructural technologies.3 Second, is surveillance capitalism’s role in transforming
+human minds into products available for purchase.4
+
+17
+
+Regarding the role of contract law, it is true that each and every upload ‘agreed’ to this
+loss of personhood in Horizen’s terms of service. As living humans (and legal persons),
+they were each informed of Horizen’s policies and consented to the relevant terms and
+conditions before being uploaded. Under current California law, for example, such
+terms—even of indispensable internet services—are routinely upheld as enforceable
+contracts. Not even “oppression or surprise due to unequal bargaining power” are
+enough to render a contract of adhesion unconscionable and therefore unenforceable
+(In re Google Assistant Priv. Litig., 837). Presumably, enforcing such contracts is thought to
+somehow promote autonomy and the ability to rely on the promises of others. As
+Hanoch and Heller noted, “contract serves autonomy by enabling people to legitimately
+enlist others in advancing their own projects and thus it expands the range of
+meaningful choices people can make to shape their own lives” (66).
+
+18
+
+To render a contract of adhesion unenforceable, current law in California requires that
+the contract contain “substantive unconscionability” which focuses on “‘overly harsh’
+or ‘one-sided’ results” ((In re Google Assistant Priv. Litig, 838). Notably, these results must
+be biased towards one of the parties to the contract. In the universe of “Upload” it
+seems clear from Horizen’s successful business model that courts do not treat the
+uploaded individuals as legal persons and therefore do not recognize their
+mistreatment as substantive unconscionability towards one of the contract parties.
+Ultimately, “dead person[s] cannot sue” (Repko v. Our Lady of Lourdes Medical Center, 958)
+so uploads are not only be forever bound by Horizen’s terms of service, they also lack
+basic legal protections if or when Horizen breaches any of its own terms.
+
+19
+
+This is even more alarming because Horizen advertises such loss of legal personhood
+and legal recourse as a heavenly afterlife. It also targets individuals at an extremely
+
+Belphégor, 22-1 | 2024
+
+4
+
+The Law Of The Upload
+
+vulnerable time: when they are dying. Nathan, for example, is forced to accept
+Horizen’s terms of service (without reading them) while dying on a hospital gurney.
+When he begins to question whether he should accept these terms, the Horizen
+representative taunts him: “Hit accept! ... You can’t use our service without agreeing to
+the terms of service. Have you never gotten an app ever?” (Episode 1, “Welcome to
+Upload,” 14:13). Under pressure from his loved ones and feeling humanity’s inherent
+“fear of mortality” (Cozzolino, et al. 422), Nathan gives in and accepts the terms.
+20
+
+In the process and for an empty promise of eternal life, Nathan forfeits legal
+personhood, the ability to contract, the right to own any property or intellectual
+property, and any other future legal recourse. After scanning the minds of dying
+individuals, Horizen has the uploads locked in a golden cage where it not only collects
+monthly fees for hosting these poor unfortunate souls, but also has the legal power to
+make further profit off all the fruits of their labor. The uploads have only their Horizen
+account holders to turn to, who themselves may at any moment, and for whatever
+reason, decide to delete, freeze, or alter their uploads without recourse.
+
+21
+
+In fact, the relationship between Horizon, the uploads, and the living account holders
+who pay for the uploads’ maintenance raises the second problem inherent in the power
+dynamics of the show: surveillance capitalism. In the modern digital marketplace, “if
+you are not paying for the product, you are the product” (Hövermann). This phrase has
+become a modern proverb. Some have argued, however, that this axiom is already
+outdated. Nowadays, “[n]o matter how much you pay, under current US law, you’re the
+product if the company’s privacy policy says so” (Scholz).
+
+22
+
+This is taken to the extreme in “Upload.” Horizen presents itself as offering a service
+for the individual uploaded, but uploads are not the ones who pay. They are not the
+ones to whom Horizon is obliged. Rather, Horizen must bow to the pressure of living
+individuals who continue to pay for the maintenance of each upload. The simulation of
+a loved one’s mind is the product being sold as an experience or service to living
+individuals. If you are that simulated mind, you are the product being sold in a much
+more concrete sense than ever before. One’s very existence can be extinguished
+whenever the consumers who pay for the service—the living individuals—cancel their
+subscription.
+
+23
+
+In this way, “Upload” demonstrates what can happen when individuals are reduced to
+only two roles: consumers or products. If you cannot be a consumer (because you are
+dead) and you cannot be a product (because there is no market for whatever it is you
+have to offer) then you quite simply (and literately) cease to exist.
+
+24
+
+Ultimately, this situation can lead to even further abuse by Horizen. Not only can it sell
+your existence as a service to living individuals it can also engage in product
+placement, adding “contextual cues” to “shape emerging habits” of the living
+individuals who come see and interact with you (McKinsey & Co.). If the entire world in
+which uploads exist is a manipulable digital environment, Horizen could easily “nudge”
+its consumers—the living individuals—towards even more profit-making purchases and
+activities (McKinsey & Co.) . In this scenario, the fact that uploads’ minds are as
+powerful and as feeling as those of living humans is irrelevant. Simulated minds are
+merely digital services used to sell advertisements or engage in other profit-earning
+activities, all while collecting more and more data.
+
+Belphégor, 22-1 | 2024
+
+5
+
+The Law Of The Upload
+
+III. Contextualizing Digital Rights
+25
+
+In spite of these terrifying possibilities, the allure of an eternal digital afterlife was too
+much for society to bear. Human rights defenders on the show, for example, were so
+blinded by the fact that wealthy individuals get to experience digital immortality, that
+their immediate goal was to democratize this technology.
+
+26
+
+According to the activists, everyone should have the right to Horizen’s digital life
+extension. If Horizen’s technology is seen as a form of health care or life support, this
+conclusion might make sense. As we have shown, however, the reality is much more
+complicated. Instead of fighting for the rights of uploads, activists are fighting for the
+rights of humans to be uploaded (Episode 4, “The Sex Suit,” 11:44). In other words, they
+are fighting for the purported human right to freely enter what amounts to a labor
+camp and retail shop for consciousnesses.
+
+27
+
+An obsessive focus digital rights blinds these activists from the fact that what they are
+fighting for is actually for the right to be imprisoned. Horizen has, after all, created the
+perfect
+prison.
+Much like in Jeremy Bentham’s Panopticon,5
+by inducing “a sense of conscious and permanent visibility”(Foucault , 201)Horizen
+mastered a new form of power and control.Entrapped in a simulated complex space,
+the uploads are subject to “instrumental coding” of their minds (153). This is a new
+form
+of“political anatomy,” in the Foucauldian
+context, a mode of ordering by omnipresent surveillance and afeeling of futility and
+perpetuity(138).
+
+28
+
+In this age of cyber instability new digital rights are cropping left, right, and center.
+From a “right to be forgotten” (Lee) to a “right to cybersecurity” (Kilovaty) to a “right
+to internet access” (Tully) . But perhaps the biggest lesson to be learned from the
+“Upload” is that we must resist our tendencies to immediately embrace and apply
+human rights law, and reassess “the ethical foundations underlying ” the very field
+exploring the “outer limits” of the discourse and its potential pitfalls (Dror-Shpolianky
+& Shany). Especially when the subject matter to be regulated is a paradigm-shifting
+technology, we should consider leaving some of our legal paradigms at the door.
+
+Conclusion
+29
+
+“Upload” portrays many different visions for the future, but perhaps none more
+profound than the idea that society will inevitably subjugate its AI creations. What sets
+“Upload” apart from any other show about technological servitude (and robotic
+uprising), like “Westworld” for example, is that in “Upload” human consciousness is
+the AI. It is our minds, our memories, our thoughts and feelings, which are being
+scanned and uploaded, not an algorithmic version of them. In the world of “Upload,”
+we are so doomed by technological determinism that we voluntarily put our very
+consciousness on the stake.
+
+30
+
+But as if that’s not enough, after waiving all of their rights in the process, uploaded
+individuals clamor for the technology that would allow them to “download” their
+consciousness back into printed flesh:
+“We are about to witness a human consciousness reinserted into a printed clone
+body… They are effectively reversing the upload process, bringing us closer to
+
+Belphégor, 22-1 | 2024
+
+6
+
+The Law Of The Upload
+
+endless corporeal life… many would agree the opportunity to live again in real life
+is worth any price… the team is now cueing up the reinsertion process. This will
+carry thousands of terabytes of data into the clone. And that data is that’s his
+consciousness… The machine is a reverse scanner reorganizing the synaptic
+connections in his brain cells” (Episode 3, “The Funeral,” 0:00–4-22).
+31
+
+Nothing in this process, however, grants such downloaded individuals their original
+personhood. It is perhaps the ultimate testament to the fact, regardless of medium, that
+a person without personhood isn’t a person at all. The uploads and their living next of
+kin seek to reverse their own doing, translating consciousness back into a synaptic map
+of (synthetic but physical) brain cells. By perusing the move from the physical to the
+digital and then back to the physical again, “Upload” demonstrates how humanity is
+forever chained to its antiquity, even in the face of groundbreaking innovation and
+technological advancement.
+
+32
+
+In this piece, we analyzed the law of “Upload.” We hope that this discussion can serve
+as a launching pad for a more nuanced conversation about what is artificial in artificial
+intelligence, what is virtual in virtual reality, and what is the digital in digital rights.
+We argue that becoming early adopters of a new reconceptualized language around
+“us” and “them”, the “self” and the “other” can perhaps future proof our society from
+the cyborg perils that await us in the undoubtfully arduous and tumultuous road ahead.
+This way we may possibly be able to trade a looming Horizen for at least a slightly
+better horizon.
+Stadler, Sara K., “Forging a Truly Utilitarian Copyright,” Iowa Law Review Vol. 91 (2005), pp.
+609-671.
+Sarma, Gopal P., et al., “OpenWorm: overview and recent advances in integrative biological
+simulation of Caenorhabditis elegans.” Philosophical Transactions of the Royal Society B, Vol. 373, No.
+1758, (2018), https://doi.org/10.1098/rstb.2017.0382.
+
+BIBLIOGRAPHY
+Bentham, Jeremy, The Works of Jeremy Bentham. W. Tait, 1843.
+Black's Law Dictionary, Gardner, Bryan A., ed., 11th ed., West 2019.
+Brantlinger, Patrick, "The gothic origins of science fiction." NOVEL: A forum on fiction. Vol. 14.
+No. 1. Duke University Press, 1980.
+Compendium Of U.S. Copyright Office Practices, Ch. 300, Sec. 306 (3rd ed., 2014).
+Cozzolino, Philip J., Laura E.R. Blackie & Lawrence S. Meyers, “Self-Related Consequences of
+Death Fear and Death Denial, Death Studies, Vol. 38, No. 6 (2014), pp. 418-422.
+Cuéllar, Mariano-Florentino & Aziz Z. Huq, “Economies of Surveillance,” 133 Harvard Law Review,
+Vol. 133, (2020), pp. 1280-1336.
+Dagan, Hanoch, and Michael Heller, The Choice Theory of Contracts. Cambridge University Press,
+2017.
+
+Belphégor, 22-1 | 2024
+
+7
+
+The Law Of The Upload
+
+Denicola, Robert C., “Ex machina: copyright protection for computer generated works.” Rutgers
+UL Rev. Vol. 69 (2016), pp. 251-287.
+Dror-Shpolianky, Dafna & Yuval Shany, “It's the End of the (Offline) World as We Know It: from
+Human Rights to Digital Human Rights – a Proposed Typology,” Hebrew University of Jerusalem
+Legal Research Paper, No. 20-36 (2020), https://ssrn.com/abstract=3700267.
+Foucault, Michel, "Discipline and punish: The birth of the modern prison." Trans. Alan Sheridan.
+New York: Pantheon (1977).
+Gonfalonieri, Alexandre, “What Brain-Computer Interfaces Could Mean for the Future of Work,”
+Harvard Business Review Online, 6 Oct. 2020), https://hbr.org/2020/10/what-brain-computerinterfaces-could-mean-for-the-future-of-work.
+Hövermann, Daniel, “If You Are Not Paying for the Product, You Are the Product!” Medium 24
+Sep. 2020, https://medium.com/change-your-mind/if-you-are-not-paying-for-the-product-youare-the-product-4dbc15b9a3f2.
+In re Google Assistant Priv. Litig., United States District Court, Northern District of California, San
+Jose Division, Federal Supplement, 3rd Series, Vol. 457 at 797, 2020.
+Kilovaty, Ido, “An Extraterritorial Human Right to Cybersecurity,” Notre Dame Journal of
+International and Comparative Law, Vol. 10, No. 1 (2020), pp. 35-55.
+Lee, Edward, “Recognizing Rights in Real Time: The Role of Google in the EU Right to Be
+Forgotten,” U.C. Davis Law Review, Vol. 49 (2016), pp. 1017-1095.
+Markram, Henry, et al. “Introducing the Human Brain Project.” Procedia Computer Science, Vol. 7,
+2021, pp. 39-42, https://doi.org/10.1016/j.procs.2011.12.015.
+McKinsey & Co., “Understanding and Shaping Consumer Behavior in the Next Normal,” 24 Jul.
+2020), https://mck.co/3hk5F3e.
+Micu, Alexandra, “A Worm’s Brain was Uploaded to a Hard Drive and Put to the Test.” ZME
+Science, 5 Mar. 2018, www.zmescience.com/medicine/mind-and-brain/c-elegans-brain-on-chip/.
+Moye, David, “Dear Future Dead People, Don’t Trust This Guy’s Plan To Resurrect You,” HuffPost,
+27 Nov. 2015, https://www.huffpost.com/entry/tech-company-humai-aims-to-resurrect-deadpeople-within-30-years_n_56549096e4b0879a5b0c7b65.
+Naruto v. Slater, United States Court of Appeals for the Ninth Circuit, Federal Reporter, 3rd Series,
+Vol. 888 at 418, 2018.
+Sawers, Paul, “Chinese court rules AI-written article is protected by copyright,” VentureBeat, 10
+Jan. 2020), https://venturebeat.com/2020/01/10/chinese-court-rules-ai-written-article-isprotected-by-copyright/.
+Repko v. Our Lady of Lourdes Medical Center, Superior Court of New Jersey, Appellate Division,
+Atlantic Reporter, 3rd Series, Vol 237 at 956, 2020.
+Scholz, Lauren, “Paying to be the Product,” Jotwell: J. Things We Like (2019) (reviewing Stacy-Ann
+Elvy, “Commodifying Consumer Data in the Era of the Internet of Things,” Boston College Law
+Review, Vol. 59 (2018) p. 423), https://contracts.jotwell.com/paying-to-be-the-product/.
+Thubron, Rob, “New Startup Aims to Transfer People's Consciousness into Artificial Bodies so
+They can Live Forever,” TechSpot, 26 Nov. 2015, https://www.techspot.com/news/62932-newstartup-aims-transfer-people-consciousness-artificial-bodies.html.
+
+Belphégor, 22-1 | 2024
+
+8
+
+The Law Of The Upload
+
+Tully, Stephen, “A Human Right to Access the Internet? Problems and Prospects,” Human Rights
+Law Review, Vol. 14, No. 2 (2014), pp. 175-195.
+Upload, Greg Daniels, creator. Deedle-Dee Productions, 3 Arts Entertainment, Reunion Pacific
+Entertainment, and Baral-Waley Productions, 2020.
+Vatter, Miguel & Mac de Leeuw, “Human Rights, Legal Personhood and the Impersonality of
+Embodied Life,” Law, Culture, & the Humanities (2019), https://doi.org/10.1177/1743872119857068.
+Whitaker, Reginald, The end of privacy: How total surveillance is becoming a reality. Vol. 195. New
+York: New Press, 1999.
+
+NOTES
+*.
+1. This piece was inspired by and examines the fictional world of “Upload”’s first season, which
+aired in 2020, in the context of the American legal system. We note that Seasons 2 and 3 of the
+show have now aired reveling even further inequalities in the afterlife at Lakeview and exposing
+more of Horizen’s wrongdoing. These seasons were released after we had completed writing this
+paper and we do not focus on them.
+2. “[The United States Congress shall have power] To promote the Progress of Science and useful
+Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their
+respective Writings and Discoveries” (U.S. CONST. art 1 §8 cl. 8).
+3. A contract of adhesion is a “standard-form contract prepared by one party, to be signed by
+another party in a weaker position, usually a consumer, who adheres to the contract with little
+choice about the terms” (Adhesion Contract in CONTRACT, Black's Law Dictionary, 11th ed., 2019).
+4. Surveillance Capitalism, as defined by Shoshanna Zuboff, “includes the acquisition of
+‘behavioral surplus,’ the creation of predictive products, and the implementation of behavioral
+modification” (Cuéllar & Huq, 1287).
+5. In 1791 Jeremy Bentham wrote the “Panopticon or Inspection House” which described “a new
+principle of construction applicable to any sort of establishment, in which persons of any
+description are to be kept under inspection.” (Bentham, Vol. 4, 40–45). The goal of such a building
+was to guarantee perfect observation of any of the subjects at any given moment. Bentham also
+highlighted the idea of “apparent omnipresence” achieved through games of light and blinds and
+the establishment of a central guard tower. For further analysis of the Panopticon theory and its
+application to modern day mass surveillance techniques, see Whitaker (1999).
+
+ABSTRACTS
+In April 2020, Amazon released a new comedy series called “Upload.” The show extrapolates a
+future in which human consciousness is successfully simulated in silico. In this world, individuals
+pay to be “uploaded” into a digital afterlife. When uploaded, human consciousness is converted
+into data and executable code, which can be edited, reset, or even deleted depending on each
+upload’s membership and payment plan. The show breaks the boundaries between reality and
+virtual reality, consciousness and artificial intelligence, and even life and afterlife, entangling
+
+Belphégor, 22-1 | 2024
+
+9
+
+The Law Of The Upload
+
+existing legal questions in novel ways. By addressing three of these legal issues, we hope to
+highlight how science fiction may help launch a more nuanced conversation about what is
+artificial in artificial intelligence, what is virtual in virtual reality, and what is digital in digital
+rights. We argue that becoming early adopters of a new reconceptualized language around “us”
+and “them”, the “self” and the “other,” can perhaps future proof our society from the
+technological perils that await us.
+En avril 2020, Amazon a lancé une nouvelle série comique intitulée Upload. La série imagine un
+avenir dans lequel la conscience humaine est simulée avec succès. Dans cet univers, les individus
+paient pour être « téléchargés » dans une vie numérique après la mort. Une fois téléchargée, la
+conscience humaine est convertie en données et en code exécutable, qui peuvent être modifiés,
+réinitialisés ou même supprimés en fonction de l'adhésion et du plan de paiement de chacun. La
+série brise les frontières entre la réalité et la réalité virtuelle, la conscience et l'intelligence
+artificielle, et même la vie et l'au-delà, en reprenant de manière inédite des questions juridiques
+préexistantes. En abordant trois de ces questions juridiques, nous espérons montrer comment la
+science-fiction peut contribuer à initier une réflexion plus nuancée sur ce qui est artificiel dans
+l'intelligence artificielle, sur ce qui est virtuel dans la réalité virtuelle et sur ce qui est numérique
+dans les droits numériques. Nous soutenons que l'adoption précoce d'un nouveau langage
+reconceptualisé autour du « nous » et du « eux », du « soi » et de l'« autre », peut peut-être
+mettre notre société à l'abri des périls technologiques qui nous attendent.
+
+INDEX
+Mots-clés: personne légale, intelligence artificielle, IA, capitalisme de surveillance, internet
+Keywords: digital afterlife, legal personhood, artificial intelligence, AI, surveillance capitalism,
+internet governance
+
+AUTHORS
+JOÃO MARINOTTI
+
+João Marinotti is an Associate Professor of Law at Indiana University Maurer School of
+Law and an Affiliated Fellow at Yale Law School’s Information Society Project. He is a
+scholar of private law theory and researches the legal, cultural, and inter-personal
+implications of emerging and disruptive technologies.
+ASAF LUBIN
+
+Dr. Asaf Lubin is an Associate Professor of Law at Indiana University Maurer School of
+Law, a Faculty Associate at the Berkman Klein Center, Harvard University, and an
+Affiliated Fellow at Yale Law School’s Information Society Project. His research
+intersects emerging technologies and international security, focusing on the regulation
+of cybersecurity, intelligence collection and espionage, Artificial Intelligence,
+informational privacy, and internet governance.
+
+Belphégor, 22-1 | 2024
+
+10
+
+

@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en" class="apde">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Adams Papers Digital Edition - Massachusetts Historical Society</title>
+<link rel="shortcut icon" href="/favicon.ico" />
+<link href='//fonts.googleapis.com/css?family=Libre+Baskerville:400italic,400,700' rel='stylesheet' type='text/css' />
+<link rel="stylesheet" href="/publications/lib/css/basic-2017.css" media="all"/>
+<link rel="stylesheet" href="/publications/adams-papers/css/apde.css" media="all"/>
+<script src="/incl/js/jquery-2.1.1.min.js"></script>
+<script src="/publications/adams-papers/js/apde.js"></script>
+	<link rel="stylesheet" href="/publications/lib/css/tei-display/tei-fragment.css" />
+	<link rel="stylesheet" href="/publications/lib/css/tei-display/tei-display.css" />
+
+	<script src="/lib/ui-library/mhssticky-v3-jq.js"></script>
+	<script src="/publications/lib/js/display2018.js"></script>
+	<script>
+		var page = "0";
+
+		window.addEventListener('DOMContentLoaded', function(){
+			var el;
+			var display = new displayTools();
+
+			//page view only
+			if(page) {
+				display.initPageBasedDisplay(page);
+				display.stickyBar();
+			} else {
+				//still use BTT
+				display.backToTop();
+				display.BTTinit();
+			}
+
+			//to customize, set a global var textSizingSelector;
+			if (typeof textSizingEl == "undefined") {
+				//look for nav
+				el = document.getElementsByTagName("nav");
+				if (el.length > 0) {
+					//look for inner wrapper
+					var tempel = el[0].getElementsByTagName('div');
+					if (tempel.length > 0) el = tempel[0];
+				} else el = el[0];
+			}
+			el = document.querySelector(textSizingSelector);
+
+			if(el != null) {
+				display.initTextSizers(el, "top");
+			}
+
+			display.setupShortTitles();
+			display.setupNotesLinks();
+		});
+
+	</script>
+
+	<script>
+		var linkPrefix = "/publications/adams-papers/index.php/view/";
+		var textSizingSelector = "article .gutter";
+	</script>
+
+
+</head>
+<body class="apde innerPage ADMS-04  document">
+
+		<div style="background: black; margin: 0; padding: 10px 14px 4px 14px; text-align: center;">
+	<a href="/"><img src="/images/banners/mhs_final_horizontal_blk.svg" style="height: 24px; max-width: 100%"/></a>
+</div>
+ 	<header class="siteHeader">
+		<div class="gutter">
+			<h1>Adams Papers <span class='subtitle'>Digital Edition</span></h1>
+		</div>
+
+		<nav>
+			<svg class="hamburger" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 60.000001 60.000001" height="60" width="60"><g transform="translate(0,-992.36216)"><path d="M 5,1000.3622 55,1000.3622 55,1008.3622 5,1008.3622 Z" style="fill-opacity:1;stroke:none" /><path style="fill-opacity:1;stroke:none;" d="M 5,1018.3622 55,1018.3622 55,1026.3622 5,1026.3622 Z" /><path d="M 5,1036.3622 55,1036.3622 55,1044.3622 5,1044.3622 Z" style="fill-opacity:1;stroke:none" /></g></svg>
+			<div class="gutter">
+				<a href="/publications/adams-papers">Home</a>
+				<a href="/publications/adams-papers/index.php/browse">Browse</a>
+				<a href="/publications/adams-papers/index.php/index">Index</a>
+				<a href="/publications/adams-papers/index.php/search">Search</a>
+				<a id="codeNames" href="/publications/adams-papers/views/adams-inits.php"><span class="hideTablet">Adams Family </span>Name Codes</a>
+			</div>
+		</nav>
+	</header>
+
+
+	<div class="navToolsWrapper">
+		<script>
+			var PUB_PREFIX = "APDE-";
+			var linkPrefix = "/publications/adams-papers/index.php/view/";
+			var solrIndexPrefix = "apde-"; //after which rest is the ID
+			var ajaxPrevNextUrl = "/publications/adams-papers/index.php/search-ajax-prevnext";
+
+		</script>
+		<script src="/publications/lib/js/nav-tools.js"></script>
+	</div>
+
+	<article>
+		<div class="gutter">
+			<h1 class="contextualTitle"><a href="/publications/adams-papers/index.php/volume/ADMS-04-05">Adams Family Correspondence, volume 5</a></h1>
+
+		
+	<div class="prevNextNav">
+		<div>
+					<label>Previous document in volume</label>
+			<a href="/publications/adams-papers/index.php/view/ADMS-04-05-02-0210">
+				<h3>John Adams to Abigail Adams</h3>
+	<!--			<span class="who">						-->			</span>
+
+				<span class="date"></span>
+			</a>
+				</div>
+
+		<div>
+					<label>Next document in volume</label>
+			<a href="/publications/adams-papers/index.php/view/ADMS-04-05-02-0212">
+				<h3>Abigail Adams to Elizabeth Smith Shaw</h3>
+	<!--			<span class="who">						-->			</span>
+
+				<span class="date"></span>
+			</a>
+				</div>
+	</div>
+
+	<section class="teiFragment">
+		<div id='document'>
+<doc old-id="AFC05d216" id="ADMS-04-05-02-0211" type="doc">
+            <mapData id="ADMS-04-05-02-0211">
+               <bibl>
+                  <title>John Adams to Abigail Adams 2d, 27 July 1784</title>
+                  <author>JA</author>
+                  <name type="recip">AA2</name>
+                  <h3 xmlns="http://www.tei-c.org/ns/1.0">1784-07-27</h3>
+               </bibl>
+               <Title>John Adams to Abigail Adams 2d, 27 July 1784</Title>
+               <mapDates>
+                  <searchRange from="1784-07-27" to="1784-07-27"> </searchRange>
+                  <dayRange from="1784-07-27" to="1784-07-27"> </dayRange>
+               </mapDates>
+               <Author>Adams, John</Author>
+               <Recipient>Adams, Abigail (daughter of JA and AA)</Recipient>
+               <pageRange from="ADMS-04-05-02-pb-0400" to="ADMS-04-05-02-pb-0401"> </pageRange>
+            </mapData>
+            <header>John Adams to Abigail Adams 2d</header>
+            <div2 type="docbody">
+               <opener>
+                  <salute>My Dear Daughter:</salute>
+                  <dateline>The Hague, <date when="1784-07-27">17 <add resp="ed" cert="low">27</add> July, 1784<a xmlns="http://www.tei-c.org/ns/1.0" href="#AFC05d216n1" class="note" id="AFC05d216n1a">1</a>
+                     </date>
+                  </dateline>
+               </opener>
+               <p>With the tenderest emotions of a father's heart, I congratulate you on your agreeable voyage, and happy arrival; and hope that your journeys in Europe, and your returning voyage to your own country, will be equally prosperous.</p>
+               <p>At your age, travels are pleasing and instructive. But that you may be able to derive the full benefit from them, let me recommend to you to keep a journal.</p>
+               <p>I have never had influence enough with your brother to prevail upon him to attend to this exercise, as pleasant as it is useful. But the punishment of this negligence is certain; if he lives sixty years, he will spend them all in continual repentance, and self-reproaches. A regular journal of his travels would be very valuable.<a xmlns="http://www.tei-c.org/ns/1.0" href="#AFC05d216n2" class="note" id="AFC05d216n2a">2</a>
+               </p>
+               <span class="pb" id="pageBreak401">401</span>
+               <p>I cannot reproach myself, because my eyes have made it impracticable.<a xmlns="http://www.tei-c.org/ns/1.0" href="#AFC05d216n3" class="note" id="AFC05d216n3a">3</a> With the utmost difficulty have I performed the writing, which my public duty required of me; and I may add, that my head and heart have been so occupied with necessary business, that objects of curiosity, and even the fine arts, had few attractions for me.</p>
+               <p>Your case and that of your brother are very different. In travelling with me, through the Dutch and Austrian Low Countries to France, you will have a great opportunity.<a xmlns="http://www.tei-c.org/ns/1.0" href="#AFC05d216n4" class="note" id="AFC05d216n4a">4</a>
+               </p>
+               <p>In London you see one of those enormous masses of human nature, which exhibit to view its utmost extremes of grandeur and littleness, of virtues and vices, of wisdom and folly. In Paris you will see another; and all along between them, are countries and cities which will deserve your attention.</p>
+               <p>I need not say to you, that the end of travel, as well as study, is not the simple gratification of curiosity, or to enable one to shine in conversation, but to make us wiser and better.</p>
+               <p>The British Museum, Sir Ashton Lever's Museum, Wedgwood's Manufactory of Earthen Ware, Parker's Manufactory of Glass, I saw with great pleasure. You cannot see Mrs. Siddons, as she is absent. Westminster Abbey, and St. Paul's Church you should see.<a xmlns="http://www.tei-c.org/ns/1.0" href="#AFC05d216n5" class="note" id="AFC05d216n5a">5</a>
+               </p>
+               <p>But I presume you will not be long in England after your brother's arrival.</p>
+               <closer>
+                  <salute>Hasten, my dear girl, as much as you can with prudence, to your affectionate father,</salute>
+                  <signed>John Adams</signed>
+               </closer>
+            </div2>
+            <div2 type="docback">
+               <note type="source" id="AFC05d216sn1">
+                  <p>
+                     <bibl type="docSource">
+                        <abbr>MS</abbr> not found. <rs type="dType">Printed from</rs> (<a href="/publications/adams-papers/index.php/lists/AFC05st4/short-title" class="completion" data-type="short-title">AA2, <hi rendition="#italic">Jour. and Corr.</hi>
+                        </a>, 1:3–5.)</bibl>
+                  </p>
+               </note>
+               <note n="1" type="fn" id="AFC05d216n1"><span class="label">1.
+				</span>
+                  <p>The date is likely a printing or transcription error. <abbr>JA</abbr> did not know of <abbr>AA2</abbr>'s arrival in London, on 20 July, until he received <abbr>AA</abbr>'s letter of <a href="/publications/adams-papers/index.php/view/AFC05d214" class="docLink" data-type="document">23</a> July, which he answered on the <a href="/publications/adams-papers/index.php/view/AFC05d215" class="docLink" data-type="document">26th</a> (both above).</p>
+               </note>
+               <note n="2" type="fn" id="AFC05d216n2"><span class="label">2.
+				</span>
+                  <p>For <abbr>JA</abbr>'s first known exhortation to <abbr>JQA</abbr> to keep a diary, in 1778, and <abbr>JQA</abbr>'s initially sporadic but often successful attempts to do so, from Nov. 1779 through Dec. 1783, see vol. 3:<a href="/publications/adams-papers/index.php/view/AFC03d080" class="docLink" data-type="document">92–93</a>, 224, <a href="/publications/adams-papers/index.php/view/AFC03d175#AFC03d175n1" class="docLink" data-type="note">note 1</a>, <a href="/publications/adams-papers/index.php/view/AFC03d297" class="docLink" data-type="document">400</a>, 425, <a href="/publications/adams-papers/index.php/view/AFC03d314#AFC03d314n1" class="docLink" data-type="note">note 1</a>; <a href="/publications/adams-papers/index.php/lists/AFC05st34/short-title" class="completion" data-type="short-title">JQA, <hi rendition="#italic">Diary</hi>
+                     </a>, <a href="/publications/adams-papers/index.php/view/DQA01pR37" class="docLink" data-type="pageNo">1:xxxvii–xli</a>. On 8 Aug., after an eightmonth hiatus, <abbr>JQA</abbr> resumed his Diary, and after another lapse in the fall, he began keeping it regularly in Jan. 1785.</p>
+               </note>
+               <note n="3" type="fn" id="AFC05d216n3"><span class="label">3.
+				</span>
+                  <p>
+                     <abbr>JA</abbr> had complained of inflamed eyes and weak vision since 1774. See vol. 2:<a href="/publications/adams-papers/index.php/view/AFC02d120" class="docLink" data-type="document">163</a>, <a href="/publications/adams-papers/index.php/view/AFC02d191" class="docLink" data-type="document">243</a>; vol. 4:<a href="/publications/adams-papers/index.php/view/AFC04d022" class="docLink" data-type="document">37</a>, <a href="/publications/adams-papers/index.php/view/AFC04d029" class="docLink" data-type="document">45</a>; <a href="/publications/adams-papers/index.php/lists/AFC05st28/short-title" class="completion" data-type="short-title">JA, <hi rendition="#italic">Papers</hi>
+                     </a>, 2:<a href="/publications/adams-papers/index.php/view/PJA02d079" class="docLink" data-type="document">200</a>, <a href="/publications/adams-papers/index.php/view/PJA02d113" class="docLink" data-type="document">404</a>; 3:<a href="/publications/adams-papers/index.php/view/PJA03d010" class="docLink" data-type="document">11</a>, <a href="/publications/adams-papers/index.php/view/PJA03d034" class="docLink" data-type="document">49</a>, <a href="/publications/adams-papers/index.php/view/PJA03d054" class="docLink" data-type="document">87</a>; <a href="/publications/adams-papers/index.php/view/PJA04d243" class="docLink" data-type="document">4:413</a>.</p>
+               </note>
+               <note n="4" type="fn" id="AFC05d216n4"><span class="label">4.
+				</span>
+                  <p>Compare <abbr>JA</abbr>'s attitude here toward his own duty to perform “necessary business,” and his belief that <abbr>AA2</abbr> and <abbr>JQA</abbr> had much greater cultural opportunities than he did, with his earlier celebrated observation that he “must study Politicks and War that my sons may have liberty to study Mathematicks and Philosophy . . . . in order to give their Children a right to study Painting, Poetry, Musick, Architecture, Statuary, Tapestry and Porcelaine” (to <abbr>AA</abbr>, <a href="/publications/adams-papers/index.php/view/AFC03d260" class="docLink" data-type="document">
+                        <add resp="ed">post 12 May 1780</add>
+                     </a>, vol. 3:342).</p>
+               </note>
+               <note n="5" type="fn" id="AFC05d216n5"><span class="label">5.
+				</span>
+                  <p>See <a href="/publications/adams-papers/index.php/lists/AFC05st24/short-title" class="completion" data-type="short-title">JA, <hi rendition="#italic">Diary and Autobiography</hi>
+                     </a>, 3:149–151, <a href="/publications/adams-papers/index.php/view/DJA03d132#DJA03d132n3" class="docLink" data-type="note">note 3</a>; <a href="/publications/adams-papers/index.php/lists/AFC05st34/short-title" class="completion" data-type="short-title">JQA, <hi rendition="#italic">Diary</hi>
+                     </a>, <a href="/publications/adams-papers/index.php/view/DQA01p197" class="docLink" data-type="pageNo">1:197–201</a>.</p>
+               </note>
+            </div2>
+         </doc>
+
+</div>
+	</section>
+
+		</div>
+	</article>
+
+	<footer>
+	<p><img src="/adams-resources/adams-insignia-blue.png" /></p>
+	<p>Adams Papers Digital Edition</p>
+	<p>&copy; 2026 Massachusetts Historical Society</p>
+</footer>
+<script>
+ 
+ function mhsASSetup(){
+	mhsASobj = new AntiSocial();
+	mhsASobj.findButtons("sharing-icons");
+ }
+ 
+</script>
+<script src="/lib/ui-library/antisocial-v3.js" async="true" onload="mhsASSetup();"></script>
+
+
+<script>
+	var cc_localStorageKey = "TRACKINGCONSENT";
+	var cc_siteUsesGA = true; // to load GA
+	var cc_gaAccountID ='G-1174Q9G3RC';
+</script>
+<script src="/lib/cookie-consent.js?v=2f" async="true"></script>
+<script data-goatcounter="https://www.masshist.org/analytics"
+        async src="/lib/count.js"></script>
+</body>
+</html>

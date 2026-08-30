@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<srw:searchRetrieveResponse xmlns:ns6="http://gallica.bnf.fr/namespaces/gallica/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <srw:version>1.2</srw:version>
+    <srw:echoedSearchRetrieveRequest>
+        <srw:query>(gallica all "Manfredo" and gallica all "occhiali")</srw:query>
+        <srw:version>1.2</srw:version>
+    </srw:echoedSearchRetrieveRequest>
+    <srw:numberOfRecords>229</srw:numberOfRecords>
+    <srw:extraResponseData>&lt;numberOfRecordsDecollapser&gt;312&lt;/numberOfRecordsDecollapser&gt;</srw:extraResponseData>
+    <srw:records>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Comisso, Giovanni (1895-1969). Auteur du texte</dc:creator>
+                    <dc:date>1928</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>159 p. ; 19 cm</dc:format>
+                    <dc:format>Nombre total de vues : 172</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bd6t5931919c</dc:identifier>
+                    <dc:identifier>NUMS-100931919</dc:identifier>
+                    <dc:language>ita</dc:language>
+                    <dc:publisher>Ribet (Torino)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb357789395</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Littérature et art, 16-Y2-64723</dc:source>
+                    <dc:title>Al vento dell'Adriatico : romanzo / Giovanni Comisso</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>0</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bd6t5931919c.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bd6t5931919c</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bd6t5931919c.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bd6t5931919c.medres</medres>
+                <nqamoyen>89.37</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t5931919c.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bd6t5931919c</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Lafenestre, Georges (1837-1919). Auteur du texte</dc:creator>
+                    <dc:creator>Richtenberger, Eugène (1856-1920). Auteur du texte</dc:creator>
+                    <dc:date>1893-1905</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : GTextes1</dc:description>
+                    <dc:format>7 vol. : ill. ; in-16</dc:format>
+                    <dc:format>Nombre total de vues : 522</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k115914f</dc:identifier>
+                    <dc:identifier>NUMM-115914</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Librairies-imprimeries réunies (Paris)</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb307137175</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb307137175</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Sciences et techniques, 8-V-25604 (ROME2)</dc:source>
+                    <dc:title>La peinture en Europe, catalogues raisonnés des oeuvres principales conservées dans les musées, collections, édifices civils et religieux.... Rome. Le Vatican. Les églises / par Georges Lafenestre,... et Eugène Richtenberger...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>1</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k115914f.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k115914f</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k115914f.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k115914f.medres</medres>
+                <nqamoyen>41.03</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k115914f.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k115914f</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Partito socialista italiano. Auteur du texte</dc:creator>
+                    <dc:creator>Partito socialista italia di unità proletaria. Federazione in Francia. Auteur du texte</dc:creator>
+                    <dc:date>1946-1970</dc:date>
+                    <dc:description>Variante(s) de titre : Avanti di Francia ! : organo del Partito socialista (S.I.I.S.)</dc:description>
+                    <dc:description>Variante(s) de titre : Avanti di Francia ! : organo del Partito socialista democratico italiano (S.I.I.S.)</dc:description>
+                    <dc:description>Variante(s) de titre : Avanti di Francia : organo della Federazione di Francia del partito socialista unitario</dc:description>
+                    <dc:description>Etat de collection : Jusqu'à : 27 avr. 1948 [LII, n. s., n° 88], inc.</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb32707792z/date</dc:identifier>
+                    <dc:identifier>NUMP-19247</dc:identifier>
+                    <dc:identifier>ISSN 28236912</dc:identifier>
+                    <dc:language>ita</dc:language>
+                    <dc:publisher>[s.n.] (Parigi)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb32707792z</dc:relation>
+                    <dc:relation>A pour reproduction : Avanti di Francia ! (Reproduction numérique) = ISSN 2823-6882 (https://gallica.bnf.fr/ark:/12148/cb32707792z/date)</dc:relation>
+                    <dc:source>Bibliothèque nationale de France, département Droit, économie, politique, JO-20063 (2)</dc:source>
+                    <dc:title>Avanti di Francia ! : organo della Federazione in Francia del Partito socialista italiana di unità proletaria</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>2</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k3252185h.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb32707792z/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k3252185h.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k3252185h.medres</medres>
+                <nqamoyen>86.85</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k3252185h.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k3252185h</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Unione franco-italiana. Auteur du texte</dc:creator>
+                    <dc:date>1925-1927</dc:date>
+                    <dc:description>Périodicité : Hebdomadaire</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG00</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG06</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG13</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb32834992k/date</dc:identifier>
+                    <dc:identifier>NUMP-20626</dc:identifier>
+                    <dc:identifier>ISSN 21338736</dc:identifier>
+                    <dc:language>ita</dc:language>
+                    <dc:publisher>[s.n.] (Nizza)</dc:publisher>
+                    <dc:publisher>[s.n.][s.n.] (Nizza)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb32834992k</dc:relation>
+                    <dc:relation>A pour reproduction : Il Pensiero latino (Nizza. Reproduction numérique) = ISSN 2557-8502 (https://gallica.bnf.fr/ark:/12148/cb32834992k/date)</dc:relation>
+                    <dc:relation>Première de couverture : 440483</dc:relation>
+                    <dc:source>Bibliothèque nationale de France, département Droit, économie, politique, JO-94111</dc:source>
+                    <dc:title>Il Pensiero latino (Nizza)</dc:title>
+                    <dc:title>Il Pensiero latino : organo ["puis" organo settimanale fascista] per l'Unione franco-italiana e dei popoli latini : politico, finanziario, artistico, mondano</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>3</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k6064756w.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb32834992k/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k6064756w.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k6064756w.medres</medres>
+                <nqamoyen>79.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k6064756w.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k6064756w</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Rocca, Pierre. Directeur de publication</dc:contributor>
+                    <dc:date>1920-1939</dc:date>
+                    <dc:description>Périodicité : La périodicité varie</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG00</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG20</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb32821589n/date</dc:identifier>
+                    <dc:identifier>NUMP-23119</dc:identifier>
+                    <dc:identifier>ISSN 21327068</dc:identifier>
+                    <dc:language>cos</dc:language>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>[s.n.] (Paris)</dc:publisher>
+                    <dc:publisher>[s.n.][s.n.] (Ajaccio)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb32821589n</dc:relation>
+                    <dc:relation>A pour reproduction : A Muvra (Reproduction numérique) = ISSN 2763-2199 (http://archives.isula.corsica/Internet_THOT/)</dc:relation>
+                    <dc:relation>A pour reproduction : A Muvra (Reproduction numérique) = ISSN 2763-2199 (https://gallica.bnf.fr/ark:/12148/cb32821589n/date)</dc:relation>
+                    <dc:relation>Première de couverture : 509699</dc:relation>
+                    <dc:source>Bibliothèque municipale Fesch (Ajaccio), 2020-183388</dc:source>
+                    <dc:title>A Muvra : bulletin régionaliste de l'île de Corse ["puis" ghiurnale di e pieve di Corsica "puis" giurnale di e pieve di Corsica] / dir. Pierre Rocca</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>4</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k13308133.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb32821589n/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k13308133.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k13308133.medres</medres>
+                <nqamoyen>98.81</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k13308133.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k13308133</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Giustizia e libertà (Italie). Auteur du texte</dc:creator>
+                    <dc:creator>Movimento unitario d'azione per l'autonomia operaia, la Repubblica socialista, un nuovo umanesimo. Auteur du texte</dc:creator>
+                    <dc:date>1934-1940</dc:date>
+                    <dc:description>Variante(s) de titre : Justice et Liberté (Paris)</dc:description>
+                    <dc:description>Périodicité : Hebdomadaire</dc:description>
+                    <dc:description>Etat de collection : 1934 ; 1936-1940&lt;inc.&gt;</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb34518294n/date</dc:identifier>
+                    <dc:identifier>NUMP-17386</dc:identifier>
+                    <dc:identifier>ISSN 12459046</dc:identifier>
+                    <dc:language>ita</dc:language>
+                    <dc:publisher>Giustizia e Libertà (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb34518294n</dc:relation>
+                    <dc:relation>A pour reproduction : Giustizia e Libertà (Paris. Reproduction numérique) = ISSN 2592-4818 (https://gallica.bnf.fr/ark:/12148/cb34518294n/date)</dc:relation>
+                    <dc:source>Bibliothèque nationale de France, département Droit, économie, politique, GR FOL-JO-154</dc:source>
+                    <dc:title>Giustizia e Libertà (Paris)</dc:title>
+                    <dc:title>Giustizia e Libertà : movimento d'azione per l'autonomia operaia, la repubblica socialista, un nuovo umanesimo</dc:title>
+                    <dc:title>Justice et Liberté</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>5</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k4566196r.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb34518294n/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k4566196r.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k4566196r.medres</medres>
+                <nqamoyen>82.33</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k4566196r.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k4566196r</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Bigi, Quirino (1815?-1880). Auteur du texte</dc:creator>
+                    <dc:date>1873</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>1 vol. (241 p.) ; in-8</dc:format>
+                    <dc:format>Nombre total de vues : 248</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k872252z</dc:identifier>
+                    <dc:identifier>NUMM-872252</dc:identifier>
+                    <dc:language>ita</dc:language>
+                    <dc:publisher>C. Vincenzi (Modena)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30104575s</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-K-2159</dc:source>
+                    <dc:title>Notizie di Antonio Allegri, di Antonio Bartolotti, suo maestro, di altri pittori ed artisti correggiesi / de l'avvocato cav. Quirino Bigi,...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>6</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k872252z.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k872252z</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k872252z.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k872252z.medres</medres>
+                <nqamoyen>88.72</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k872252z.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k872252z</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1871-1895</dc:date>
+                    <dc:description>Périodicité : Quotidien</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG00</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG06</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb328349870/date</dc:identifier>
+                    <dc:identifier>NUMP-20442</dc:identifier>
+                    <dc:identifier>ISSN 20168675</dc:identifier>
+                    <dc:language>ita</dc:language>
+                    <dc:publisher>[s.n.] (Nizza)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb328349870</dc:relation>
+                    <dc:relation>A pour reproduction : Il Pensiero di Nizza (Reproduction numérique) = ISSN 2711-7103 (https://gallica.bnf.fr/ark:/12148/cb328349870/date)</dc:relation>
+                    <dc:relation>A pour reproduction : Il Pensiero di Nizza (Reproduction numérique) = ISSN 2711-7103 (https://recherche.archives.nicecotedazur.org/document/FRAC006088_000000116#tt1-6) ("Il Diritto di Nizza")</dc:relation>
+                    <dc:relation>A pour reproduction : Il Pensiero di Nizza (Reproduction numérique) = ISSN 2711-7103 (http://bibliotecadigitale.regione.liguria.it/ark:/64639/TO00190820)</dc:relation>
+                    <dc:relation>Première de couverture : 433412</dc:relation>
+                    <dc:source>Bibliothèque nationale de France, département Droit, économie, politique, JO-5686</dc:source>
+                    <dc:title>Il Pensiero di Nizza : giornale politico, scientifico e letterario</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>7</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k83609129.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb328349870/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k83609129.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k83609129.medres</medres>
+                <nqamoyen>87.25</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k83609129.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k83609129</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Litta, Pompeo (1781-1851). Auteur du texte</dc:creator>
+                    <dc:date>1819-1874</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>10 vol. : pl. en noir et en coul. ; in-fol.</dc:format>
+                    <dc:format>Nombre total de vues : 224</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bd6t57841048</dc:identifier>
+                    <dc:identifier>NUMS-100784104</dc:identifier>
+                    <dc:language>ita</dc:language>
+                    <dc:publisher>presso l'autoré (Tipografia delle famiglie italiane) (Milano)</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb30824563d</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30824563d</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Réserve des livres rares, RES-K-333</dc:source>
+                    <dc:title>Famiglie celebri italiane del conte Pompeo Litta. Volume primo [- decimo]. Volume 5</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>8</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bd6t57841048.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bd6t57841048</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bd6t57841048.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bd6t57841048.medres</medres>
+                <nqamoyen>84.83</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t57841048.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bd6t57841048</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Pochettino, A.. Préfacier</dc:contributor>
+                    <dc:contributor>Università degli studi (Turin, Italie). Éditeur scientifique</dc:contributor>
+                    <dc:date>1928</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>Nombre total de vues : 516</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bd6t5347312h</dc:identifier>
+                    <dc:identifier>NUMS-100347312</dc:identifier>
+                    <dc:language>ita</dc:language>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb32535908k</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Académie salésienne (Annecy), NUM 478</dc:source>
+                    <dc:title>Studi pubblicati dalla Regia Università di Torino nel 4 centenario della nascita di Emanuele Filiberto. 8 luglio 1928. [Prefazione di A. Pochettino.]</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>9</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bd6t5347312h.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bd6t5347312h</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bd6t5347312h.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bd6t5347312h.medres</medres>
+                <nqamoyen>88.64</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t5347312h.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bd6t5347312h</uri>
+            </srw:extraRecordData>
+        </srw:record>
+    </srw:records>
+    <srw:nextRecordPosition>11</srw:nextRecordPosition>
+</srw:searchRetrieveResponse>

@@ -1,0 +1,53 @@
+{
+  "_note": "Cached from Europeana API Pass DM 2026-08-06 (WebFetch). Query: \"Biskop Knut\" avlat. totalResults=5.",
+  "totalResults": 5,
+  "items": [
+    {
+      "id": "/2048079/17297",
+      "sdhk": "17297",
+      "year": "14090908",
+      "edmIsShownBy": "https://sok.riksarkivet.se/dokument/sdhk/17297.pdf",
+      "dcDescription_sv": "Biskop Knut i Linköping utlovar avlat åt dem, som vördar och tillber den bild han invigt (i Visby).",
+      "europeana": "https://www.europeana.eu/item/2048079/17297",
+      "post_onset": false
+    },
+    {
+      "id": "/2048079/15559",
+      "sdhk": "15559",
+      "year": "14010126",
+      "edmIsShownBy": "https://sok.riksarkivet.se/dokument/sdhk/15559.pdf",
+      "dcDescription_sv": "Biskop Knut i Linköping utlovar avlat åt alla, som vid vissa bestämda högtider besöker Blackstads kyrka i Linköpings stift.",
+      "europeana": "https://www.europeana.eu/item/2048079/15559",
+      "post_onset": false
+    },
+    {
+      "id": "/2048079/15838",
+      "sdhk": "15838",
+      "year": "14020428",
+      "edmIsShownBy": "https://sok.riksarkivet.se/dokument/sdhk/15838.pdf",
+      "dcDescription_sv": "Biskop Knut i Linköping utlovar 40 dagars avlat åt dem som lämnar bidrag till kyrkobyggnaden i Vadstena.",
+      "europeana": "https://www.europeana.eu/item/2048079/15838",
+      "post_onset": false
+    },
+    {
+      "id": "/2048079/17949",
+      "sdhk": "17949",
+      "year": "14130122",
+      "edmIsShownBy": "https://sok.riksarkivet.se/dokument/sdhk/17949.pdf",
+      "dcDescription_sv": "Biskop Knut i Linköping utlovar avlat åt dem som i stiftets kyrkor förrättar viss föreskriven andakt.",
+      "europeana": "https://www.europeana.eu/item/2048079/17949",
+      "post_onset": false,
+      "note": "Near/pre soft onset ~1415 — optional companion densify, not tip"
+    },
+    {
+      "id": "/2048079/19064",
+      "sdhk": "19064",
+      "year": "14180328",
+      "edmIsShownBy": "https://sok.riksarkivet.se/dokument/sdhk/19064.pdf",
+      "dcDescription_sv": "Biskop Knut i Linköping, utlovar 40 dagars avlat åt dem som tillber den heliga Annas bild i Vadstena kloster.",
+      "europeana": "https://www.europeana.eu/item/2048079/19064",
+      "post_onset": true,
+      "pick": "Pass DM Option C densify-only"
+    }
+  ]
+}

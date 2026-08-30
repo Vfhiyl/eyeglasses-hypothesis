@@ -1,0 +1,10 @@
+person_id,date,event_type,source_ref,role,notes
+dexter_samuel,1785-01-01,spectacle_object_onset_soft,MHS_gold_temple_spectacles_Fleishman_ca1785,wear_onset,"Gold temple spectacles ca.1785 (MHS; Fleishman dating via McCaffrey). Soft onset year; no day-dated purchase. Living reading/writing use narrative."
+dexter_samuel,1788-01-01,eye_injury_commonplace,McCaffrey_CSM_Commonplace_p251,FROM-him,"Commonplace-book p.251: hit head above eye Jan 1788 departing for church; mentions Horace. Post-onset near-work diary pin (MHS Ms.SBd-219)."
+dexter_samuel,1791-01-01,pamphlet_jacob_esau,AAS_Haven_Isaiah_Thomas_1791,FROM-him,"Anonymous 60p pamphlet on Jacob/Esau (Isaiah Thomas 1791) — sole broad public piece of bespectacled period (McCaffrey; AAS Haven)."
+dexter_samuel,1791-01-01,johnston_portrait_reader,AAS_Johnston_Samuel_Dexter_1791,dated_portrait,"John Johnston oil 1791: library/reader identity; spectacles absent from portrait (McCaffrey fig.1)."
+dexter_samuel,1792-06-14,wills_commonplace_weston,McCaffrey_CSM_Commonplace_p270-71,FROM-him,"Weston 14 Jun 1792: 'no end of burning old wills, and executing new ones' (Commonplace p.270–71). Day-dated FROM-him near-work."
+dexter_samuel,1797-06-21,mother_obituary_penned,Columbian_Centinel_1797-06-21_DexterGenealogy,FROM-him,"Penned mother's obituary (McCaffrey); printed Columbian Centinel 21 Jun 1797; Dexter Genealogy 42–43."
+dexter_samuel,1802-01-01,ophthalmia_commonplace,McCaffrey_CSM_Commonplace_p308,FROM-him,"Jan 1802: complains of ophthalmia; fears total blindness (Commonplace p.308). Still writing under spectacles."
+dexter_samuel,1809-03-01,birthday_gratitude_commonplace,McCaffrey_CSM_Commonplace_p332,FROM-him,"Mar 1809 eighty-third birthday: yearly 'holy gratitude… mitigation of my bodily pains & infirmities' (Commonplace p.332). Last hard pin."
+dexter_samuel,1810-06-10,death_terminus,WD_Q26262956_Kendal_sermon_1810-06-14,death,"Death ~10 Jun 1810 (WD); funeral sermon Kendal at Mendon 14 Jun 1810. years_after=25 from 1785 onset; hard series to 1809-03."

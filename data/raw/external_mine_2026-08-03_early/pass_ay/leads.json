@@ -1,0 +1,30 @@
+{
+  "pass": "AY",
+  "direction": "control/output densify after library PDF plateau (not new living OA)",
+  "scouted_skipped": {
+    "spinelli_benedetto": "Robey OA only reconfirms TO-him Marradi 1534-08-24; no FROM-him multi-year series",
+    "gray_devon_IA": "user confirmed unavailable",
+    "new_living_IA": "mes lunettes / began-to-use / Barbaro dry"
+  },
+  "densified": {
+    "albrecht_prussia": {
+      "before": "n_ctrl_with_works=0 no_delta; wearer curated low COVERAGE 2 pins",
+      "after": "n_ctrl=4 in_primary=1 delta_span=+17.5; wearer years n=11 medium",
+      "fix": "elig False\u2192True for Q61814/Q67712/Q32500/Q95239 + OUT_YEARS pins; harvest Voigt chrono"
+    },
+    "dexter_samuel": {
+      "before": "exclude_coverage_low_pin; n_ctrl=2 (Smith/Priestley skipped \u2014 missing elig)",
+      "after": "n_ctrl=4 in_primary=1 delta_span=+15.5; wearer years n=7 medium",
+      "fix": "add Q9381/Q159636 to elig; harvest McCaffrey chrono pins; confidence low\u2192medium"
+    }
+  },
+  "primary_summary": {
+    "n": 42,
+    "median_delta": -0.5,
+    "boot95": [
+      -4.0,
+      6.0
+    ],
+    "sesoi5": "FAIL_OR_UNAVAILABLE"
+  }
+}

@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<srw:searchRetrieveResponse xmlns:ns6="http://gallica.bnf.fr/namespaces/gallica/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <srw:version>1.2</srw:version>
+    <srw:echoedSearchRetrieveRequest>
+        <srw:query>(gallica all "Jean de Cleuz" or gallica all "Jehan de Cleux")</srw:query>
+        <srw:version>1.2</srw:version>
+    </srw:echoedSearchRetrieveRequest>
+    <srw:numberOfRecords>1800</srw:numberOfRecords>
+    <srw:extraResponseData>&lt;numberOfRecordsDecollapser&gt;7656&lt;/numberOfRecordsDecollapser&gt;</srw:extraResponseData>
+    <srw:records>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>13160101-18021231</dc:date>
+                    <dc:date>17471008</dc:date>
+                    <dc:description>Numérisation effectuée à partir d'un document original : Chappée 13, 33.</dc:description>
+                    <dc:format>Pontivy. - Papier. - 2 ff. - original</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b525158760</dc:identifier>
+                    <dc:language>lat</dc:language>
+                    <dc:language>fre</dc:language>
+                    <dc:relation>Notice du catalogue : http://archivesetmanuscrits.bnf.fr/ark:/12148/cc1011182/cN1039A</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France. Département des Manuscrits. Chappée 13, 33</dc:source>
+                    <dc:title>55 n° pour 91 pièces. Bretagne. Accord entre Jean-Claude de Cleuz, marquis du gage, et Jean Alba, fermier général du duché de Rohan, sur les droits de rachat montant à 6000 l. à percevoir pour la seigneurie de Rimaison.</dc:title>
+                    <dc:type>manuscript</dc:type>
+                    <dc:type>manuscrit</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>0</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b525158760.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b525158760</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b525158760.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b525158760.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b525158760.thumbnail</thumbnail>
+                <typedoc>manuscrits</typedoc>
+                <uri>btv1b525158760</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Duportal, Alfred Anne (1837-1916). Auteur du texte</dc:creator>
+                    <dc:description>Appartient à l’ensemble documentaire : Bretagn1</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>In-8° , 23 p.</dc:format>
+                    <dc:format>Nombre total de vues : 25</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k6129587f</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:language>français</dc:language>
+                    <dc:publisher>impr. de R. Prud'homme (Saint-Brieuc)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb303820392</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Droit, économie, politique, 8-F PIECE-4546</dc:source>
+                    <dc:title>Un droit féodal dans l'évêché de Dol au XVIIIe siècle. [Signé : A. Anne Duportal.]</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>1</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k6129587f.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k6129587f</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k6129587f.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k6129587f.medres</medres>
+                <nqamoyen>97.04</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k6129587f.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k6129587f</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Géraud, Hercule (1812-1844). Auteur du texte</dc:creator>
+                    <dc:date>1837</dc:date>
+                    <dc:description>Collection : Collection de documents inédits sur l'histoire de France. Première série, Histoire politique</dc:description>
+                    <dc:description>Contient une table des matières</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>1 vol. (XVI-638 p., pl.) : cartes ; 27 cm</dc:format>
+                    <dc:format>Nombre total de vues : 682</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k6534899c</dc:identifier>
+                    <dc:identifier>NUMM-6534899</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Impr. de Crapelet (Paris)</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb375629054</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb375629054</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 4-L45-30 (H)</dc:source>
+                    <dc:subject>Rues -- Paris (France) -- XIIIe siècle -- Sources</dc:subject>
+                    <dc:subject>Taille (impôt) -- Paris (France) -- XIIIe siècle -- Sources</dc:subject>
+                    <dc:subject>Paris (France) -- 13e siècle -- Sources</dc:subject>
+                    <dc:subject>Paris (France) -- 13e siècle</dc:subject>
+                    <dc:title>Paris sous Philippe-le-Bel : d'après des documents originaux et notamment d'après un manuscrit contenant le rôle de la taille imposée sur les habitants de Paris en 1292 / publ. par H. Géraud,...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>2</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k6534899c.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k6534899c</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k6534899c.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k6534899c.medres</medres>
+                <nqamoyen>99.79</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k6534899c.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k6534899c</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Deseille, Ernest (1835-1889). Auteur du texte</dc:creator>
+                    <dc:creator>Le Sueur, Guillaume (01). Auteur du texte</dc:creator>
+                    <dc:date>1878-1879</dc:date>
+                    <dc:description>Comprend : Introduction à l'histoire du Pays Boulonnais ; Antiquitez de Boulogne-sur-mer</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>2 parties en 1 vol. ; in-8</dc:format>
+                    <dc:format>Nombre total de vues : 476</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bd6t5334201d</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>impr. de Vve C. Aigre (Boulogne-sur-mer)</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb30330156d</dc:relation>
+                    <dc:relation>Périodique lié : Mémoires de la Société académique de l'arrondissement de Boulogne-sur-Mer(ISSN 0765-1546), 1878-1879 (Notice : http://catalogue.bnf.fr/ark:/12148/cb34394588w)</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30330156d</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque municipale de Boulogne-sur-Mer, 2022-40090</dc:source>
+                    <dc:title>Le Pays Boulonnais. II. Antiquitez de Boulogne sur Mer / par Gme Lesueur, 1596 / [Ernest Deseille, Gme Lesueur]</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>3</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bd6t5334201d.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bd6t5334201d</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bd6t5334201d.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bd6t5334201d.medres</medres>
+                <nqamoyen>88.43</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t5334201d.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bd6t5334201d</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Ledieu, Alcius (1850-1912). Auteur du texte</dc:creator>
+                    <dc:date>1898</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>In-8° , 14 p.</dc:format>
+                    <dc:format>Nombre total de vues : 18</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bd6t5345379p</dc:identifier>
+                    <dc:identifier>NUMS-100345379</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Impr. nationale (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb307699683</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>AR2L Hauts-de-France, NUM PIC 23 708</dc:source>
+                    <dc:title>Notice sur "la Petite-Trésorière", navire de guerre acheté par l'échevinage d'Abbeville en 1479, par M. Alcius Ledieu</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>4</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bd6t5345379p.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bd6t5345379p</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bd6t5345379p.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bd6t5345379p.medres</medres>
+                <nqamoyen>87.77</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t5345379p.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bd6t5345379p</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Merlin-Chazelas, Anne. Éditeur scientifique</dc:contributor>
+                    <dc:date>1977-1978</dc:date>
+                    <dc:description>Collection : Collection de documents inédits sur l'histoire de France : section de philologie et d'histoire jusqu'à 1610. Série in-8 ; 11</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : HNormand1</dc:description>
+                    <dc:description>Contient une table des matières</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>2 vol. (350, 349 p.) ; 25 cm</dc:format>
+                    <dc:format>Nombre total de vues : 360</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k6245919j</dc:identifier>
+                    <dc:identifier>NUMM-6245919</dc:identifier>
+                    <dc:identifier>ISBN 2717713492</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Bibliothèque nationale (Paris)</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb345907028</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb345907028</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Comité des travaux historiques et scientifiques (CTHS), 2012-95636</dc:source>
+                    <dc:subject>Rouen (France)</dc:subject>
+                    <dc:title>Documents relatifs au Clos des galées de Rouen et aux armées de mer du roi de France de 1293 à 1418. Série 8,Tome 1,Volume 11 / recueillis et analysés par Anne Chazelas,...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>5</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k6245919j.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k6245919j</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k6245919j.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k6245919j.medres</medres>
+                <nqamoyen>99.96</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k6245919j.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k6245919j</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Delisle, Léopold (1826-1910). Éditeur scientifique</dc:contributor>
+                    <dc:contributor>Société de l'histoire de Normandie. Éditeur scientifique</dc:contributor>
+                    <dc:creator>France. Chambre des comptes de Paris. Auteur du texte</dc:creator>
+                    <dc:date>1871</dc:date>
+                    <dc:description>Collection : Société de l'histoire de Normandie</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BNormand1</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : HNormand1</dc:description>
+                    <dc:format>1 vol. (III-442 p.) ; in-8</dc:format>
+                    <dc:format>Nombre total de vues : 449</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k361814</dc:identifier>
+                    <dc:identifier>NUMM-36181</dc:identifier>
+                    <dc:publisher>A. le Brument (Rouen)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb332337441</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France</dc:source>
+                    <dc:subject>Politique et gouvernement -- France -- 1328-1350 -- Sources</dc:subject>
+                    <dc:subject>Administration -- Normandie (France) -- XIVe siècle -- Sources</dc:subject>
+                    <dc:title>Actes normands de la Chambre des comptes sous Philippe de Valois : 1328-1350 / publiés pour la première fois par Léopold Delisle</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>6</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k361814.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k361814</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k361814.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k361814.medres</medres>
+                <nqamoyen>99.5</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k361814.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k361814</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Haigneré, Daniel (1824-1893). Éditeur scientifique</dc:contributor>
+                    <dc:contributor>Bled, Oscar (1839-1928). Éditeur scientifique</dc:contributor>
+                    <dc:contributor>Société des antiquaires de la Morinie. Éditeur scientifique</dc:contributor>
+                    <dc:creator>Dewitte, Charles Joseph (Dom). Auteur du texte</dc:creator>
+                    <dc:date>1886-1899</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>4 vol. (LXVI-470, 531, 2-599, 542 p.) ; in-4</dc:format>
+                    <dc:format>Nombre total de vues : 614</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k3210092k</dc:identifier>
+                    <dc:identifier>NUMM-3210092</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>impr. et lithogr. H. d'Omont (Saint-Omer)</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb44385111b</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb44385111b</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque municipale de Lille, 2019-73924</dc:source>
+                    <dc:subject>Abbaye Saint-Bertin (Saint-Omer, Pas-de-Calais)</dc:subject>
+                    <dc:subject>Saint-Omer (France)</dc:subject>
+                    <dc:title>Les chartes de Saint-Bertin d'après le grand cartulaire de Dom Charles-Joseph-Dewitte dernier archiviste de ce monastère. T. II, 1241-1380 / publiées ou analysées... par M. l'abbé Daniel Haigneré... ; [continuées par M. l'abbé Bled, correspondant du Ministère de l'instruction publique...] ; [éd par la Société des antiquaires de la Morinie]</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>7</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k3210092k.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k3210092k</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k3210092k.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k3210092k.medres</medres>
+                <nqamoyen>86.9</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k3210092k.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k3210092k</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Terrier de Loray, Henri-Philibert-André (Mis). Auteur du texte</dc:creator>
+                    <dc:date>1877</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : CentSev001</dc:description>
+                    <dc:description>Contient une table des matières</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>1 vol. (276-CCXX p.) ; in-8</dc:format>
+                    <dc:format>Nombre total de vues : 514</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k9661111c</dc:identifier>
+                    <dc:identifier>NUMM-9661111</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Librairie de la Société bibliographique (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb314452432</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque du Musée national de la Marine, 2015-219805</dc:source>
+                    <dc:subject>Jean de Vienne</dc:subject>
+                    <dc:title>Jean de Vienne, amiral de France, 1341-1396 / par le Mis Terrier de Loray</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>8</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k9661111c.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k9661111c</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k9661111c.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k9661111c.medres</medres>
+                <nqamoyen>99.32</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k9661111c.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k9661111c</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Chapot, L.. Auteur du texte</dc:creator>
+                    <dc:date>1902</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>Gr. in-8° , 304 p., fig.</dc:format>
+                    <dc:format>Nombre total de vues : 305</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bd6t53938746g</dc:identifier>
+                    <dc:identifier>NUMS-103938746</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>A. Taffin-Lefort (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb302214892</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque Carré d'art / Nîmes, 157576</dc:source>
+                    <dc:title>Le Batelier de Notre-Dame de Rochefort, récit du temps des Croisades... / L. Chapot</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>9</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bd6t53938746g.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bd6t53938746g</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bd6t53938746g.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bd6t53938746g.medres</medres>
+                <nqamoyen>99.05</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t53938746g.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bd6t53938746g</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>La Trémoïlle, Louis de (1838-1911). Auteur du texte</dc:creator>
+                    <dc:date>1890-1896</dc:date>
+                    <dc:description>Contient une table des matières</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>5 vol. ; In-4°</dc:format>
+                    <dc:format>Nombre total de vues : 376</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k5564554c</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>E. Grimaud (Nantes)</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb30748506s</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30748506s</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 4-LM3-2107 (1)</dc:source>
+                    <dc:subject>La Trémoille</dc:subject>
+                    <dc:title>Les La Trémoïlle pendant cinq siècles. Louis Ier, Louis II, Jean et Jacques / [par le duc L.-C. de La Trémoïlle]</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>10</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k5564554c.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k5564554c</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k5564554c.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k5564554c.medres</medres>
+                <nqamoyen>99.98</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k5564554c.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k5564554c</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Guibert, Louis (1840-1904). Éditeur scientifique</dc:contributor>
+                    <dc:date>1897-1902</dc:date>
+                    <dc:description>Collection : Société des archives historiques du Limousin. Première série, Archives anciennes ; 7-8</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : Limous1</dc:description>
+                    <dc:format>2 vol. ; in-8</dc:format>
+                    <dc:format>Nombre total de vues : 437</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k1116288</dc:identifier>
+                    <dc:identifier>NUMM-111628</dc:identifier>
+                    <dc:language>lat</dc:language>
+                    <dc:language>fro</dc:language>
+                    <dc:language>frm</dc:language>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>impr. de F. Plainemaison (Limoges)</dc:publisher>
+                    <dc:publisher>[puis] vve H. Ducourtieux (Limoges)</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb341025677</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb341025677</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-Lk2-3657 (1,8)</dc:source>
+                    <dc:subject>Limoges (Haute-Vienne, France) -- Histoire</dc:subject>
+                    <dc:subject>Marche (France) -- Histoire</dc:subject>
+                    <dc:title>Documents, analyses de pièces, extraits &amp; notes relatifs à l'histoire municipale des deux villes de Limoges. T. 2 / publiés par Louis Guibert...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>11</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k1116288.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k1116288</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k1116288.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k1116288.medres</medres>
+                <nqamoyen>98.39</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k1116288.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k1116288</uri>
+            </srw:extraRecordData>
+        </srw:record>
+    </srw:records>
+    <srw:nextRecordPosition>13</srw:nextRecordPosition>
+</srw:searchRetrieveResponse>

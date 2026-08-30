@@ -1,0 +1,19 @@
+{
+  "pass": "Z",
+  "date": "2026-08-03",
+  "decision": "no_ingest",
+  "direction": "Cusac English death + Cleux Morice densify + Vangelista/Tellino Dini identity + Rinaldo OA",
+  "early_stock_unchanged": {
+    "onsetish_n": 34,
+    "labor_delta_n": 28,
+    "labor_delta_median": -0.5
+  },
+  "seams": {
+    "cusac_english_bho": "BHO Cloudflare challenge; Foedera IA miss — still HOLD",
+    "cleux_isabeau_morice": "Living densify: Maître d'Hôtel Duchesse Isabeau in roll near 1457–58 — NOT death",
+    "vangelista_tellino_dini": "Farulli identity densify (figlia Tellino Dini / Luvisa Arringhieri); WD empty; no b–d — HOLD",
+    "rinaldo_de_lo_duca": "WD empty; only Cambini 1476 request recipient — HOLD",
+    "openalex_rosen": "Rosen JH MAS closed OA"
+  },
+  "new_cleux_bar_promote": null
+}

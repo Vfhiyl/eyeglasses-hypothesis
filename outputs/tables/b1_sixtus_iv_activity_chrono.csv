@@ -1,0 +1,11 @@
+person_id,date,event,source,role,note
+sixtus_iv,1482-03-12,wear_while_dictating_memorandum,Ilardi_2007_ch3_n119_Arcamone_ASM_PE_Roma,wear_onset,"Anello Arcamone et al. to Ferrante: «Soa S.ta con li ochiali stava guardando et dittando» while secretary wrote (Rome)."
+sixtus_iv,1482-04-02,papal_order_governors_reati,Pastor_History_Popes_vol4_IA,near_work_documentary,"Sixtus IV issued Order to Gubernatori Reatis et Interamnis — control passes into kingdom (mandamus)."
+sixtus_iv,1482-05-04,papal_brief,Pastor_vol4,near_work_documentary,"Brief of 4 May 1482 (Pastor cites with 10 Sept 1481 Briefs cluster)."
+sixtus_iv,1482-08-19,letter_to_count_girolamo_riario,Pastor_vol4_Florence_NatLib,near_work_documentary,"Sixtus IV wrote to Count Girolamo on castello Gandolfo / Sabello (Gratissimum nobis fuit…)."
+sixtus_iv,1482-12-13,announces_gonzaga_mission_to_ercole,Pastor_vol4_Modena_State_Archives,near_work_documentary,"Sixtus IV announced to Ercole of Ferrara the mission of Gonzaga (consolari ac … iuvare)."
+sixtus_iv,1483-04-03,papal_brief,Pastor_vol4_Appendix_N68,near_work_documentary,"Brief of 3 April 1483 (Pastor Appendix N. 68)."
+sixtus_iv,1483-08-02,decree_spanish_inquisition_appeals,Pastor_vol4,near_work_documentary,"Sixtus IV decreed: Roman appeal decisions valid in Spain; secret absolution; no re-molestation of absolved."
+sixtus_iv,1483-11-15,creation_of_cardinals,Pastor_vol4,near_work_documentary,"Cardinal creation: Conti, Orsini, Moles, Bourdeilles, et al."
+sixtus_iv,1484-07-14,papal_brief,Pastor_vol4,near_work_documentary,"Last hard pin: Sixtus IV Brief of 14 July 1484 (Pastor). years_after=2 from 1482."
+sixtus_iv,1484-08-12,death_terminus,wikidata_Q163514,death,Hard death terminus. Soft survival from onset = +2y.

@@ -1,0 +1,1043 @@
+        NUN-SCRIBES AND THEIR COLOPHONS:
+         FEMALE SELF-IDENTIFICATION AND
+       REMEMBRANCE IN EARLY MODERN ITALY
+
+                                  MELISSA MORETON
+                       INSTITUTE FOR ADVANCED STUDY, PRINCETON
+
+        Italian nuns produced thousands of manuscripts in the fifteenth and six-
+        teenth centuries. Colophon use became increasingly common in this pe-
+        riod and nuns used these paratextural spaces to present themselves in a
+        range of ways. Though generally dismissed as formulaic, a deeper anal-
+        ysis of these metatexts reveals information about nuns’ work, educa-
+        tion, knowledge of texts, reading, and devotional practices, offering a
+        unique view of cloistered women’s lives that is otherwise difficult to re-
+        cover. The essay examines a range of colophon typologies, motives for
+        writing, and describes how colophon language can be used to identify
+        previously unidentified manuscripts produced by nun-scribes.
+Religious women have a long history of producing books. As authors, copyists, mu-
+sical notators, printers, decorators, and painters, nuns were active in book produc-
+tion from the early medieval period onward in Europe, sometimes leaving notes to
+their readers in their colophons. 1 Italian nuns produced thousands of manuscripts
+
+
+1
+  For a broad survey of nuns’ book production, see the three volumes devoted to Nuns’ Liter-
+acies in Medieval Europe, edited by Blanton, O’Mara and Stoop (2013–2017). Studies of nuns’
+book production in medieval Europe (mostly on Germanic and English nun-scribes) began
+being published as early as the 1960s, and increased in number beginning in the 1990s, fo-
+cused on the ninth- and twelfth-century monastic Renaissances. Two important monographs
+on female monastic book production in the Germanic lands include: Alison Beach, Women as
+Scribes: Book Production and Monastic Reform in Twelfth-Century Bavaria (New York: Cam-
+bridge University Press, 2004) and Cynthia Cyrus, The Scribes for Women’s Convents in Late
+Medieval Germany (Toronto: University of Toronto Press, 2009). On Portuguese nun-scribes,
+see Paula Cardoso, “Beyond the Colophon: Assessing Role in Manuscript Production and
+
+
+
+                                            201
+202                                  MELISSA MORETON
+
+
+in the fifteenth and sixteenth centuries and colophon use became increasingly
+common during this period. 2 Though generally dismissed as formulaic and non-
+specific, a deeper analysis of these metatexts reveals information about nuns’ work,
+education, knowledge of texts, reading, and devotional practices, offering a unique
+view of cloistered women’s lives that is otherwise difficult to recover. 3 They were
+familiar with and made use of colophons common in the period, often altering
+them slightly, and also departed from this language in surprising ways. Italian nuns
+provided information that demonstrates their desire to be remembered as pious
+members of their community as well as, in some cases, their pride in and identifica-
+tion with their aristocratic or wealthy merchant families. Nuns borrowed colophon
+language from revered mentors in the scriptorium. They often used characteristic
+phrases, and religious houses with an established scriptorium commonly developed
+a “convent style.” Whether they chose to use formulaic language or to depart from
+it, it was a choice – and the specific language chosen for their colophons can be
+used to identify new texts and provide a better understanding of the circulation
+and copying of texts from one religious community to another.
+      Not surprisingly, colophons are the primary method through which nun-
+scribes are identified. Examined as a group, these metatexts offer insight in the
+changing demographics of women in convent life and demonstrate how nun-
+scribes’ work illuminates new forms of self-expression in the early modern period.
+Female self-identification in colophons, where the scribe identifies herself or shares
+information about her work or life, increased steadily throughout the fifteenth and
+sixteenth centuries, in part due to the changing demographics in Italian convent
+populations. 4 Female education was on the rise in the fifteenth century 5 and the
+
+
+
+Acquisition in the Observant Dominican Nunneries of Early-Modern Portugal,” Pecia 19
+(Outils et pratique des artisans du livre au Moyen Âge), (Turhout: Brepols, 2017): 59–86.
+2
+  On Italian nun-scribes, see Brian Richardson’s writing on nuns as scribes in his Women and
+the Circulation of Texts in Renaissance Italy (Cambridge: Cambridge University Press, 2020):
+96–126; see also the publications cited in the bibliography by Luisa Miglio and Marco Pal-
+ma, and their database Donne e cultura scritta nel Medioevo (http://www.tramedivita.
+it/donne/index.html) which identifies hundreds of female scribes working in medieval Eu-
+rope from the eighth through fifteenth centuries. For an overview of nun-scribes working in
+Italy, see Melissa Moreton, “‘Scritto di bellissima lettera’: Nuns’ Book Production in Fifteenth
+and Sixteenth-Century Italy,” unpublished dissertation (University of Iowa, 2013).
+3
+  Italian nuns’ colophons are analyzed in depth in Moreton’s “Pious Voices: Nun-scribes and
+the Language of Colophons in Late Medieval Italy,” Essays in Medieval Studies 29 (2014): 43–
+73.
+4
+  I will use the term ‘convent’ according to the English language usage, to describe a nuns’
+house. This is unlike the modern Italian usage, where the term ‘convento’ is not gendered,
+but can refer to a male or female house connected to a mendicant order, such as Dominican,
+Franciscan, Augustinian, etc. (in contrast to non-medicant orders, such as Benedictines,
+whose houses are called ‘monasteri’). In the medieval usage, nuns referred to their own
+                            NUN-SCRIBES AND THEIR COLOPHONS                                203
+
+
+increase in dowry prices meant that not all daughters could marry and that many
+entered the convent as an alternative to being married off below their social sta-
+tus. 6 Girls were educated at home, or in the convent through formal and informal
+means. It is clear for example that Angela di Lionardo Rucellai, one particularly
+talented nun-scribe at the Florentine Dominican Convent of San Jacopo di Ripoli,
+acquired literacy in Latin and the vernacular as well as her writing skills entirely
+within the convent since she entered San Jacopo at only a year of age in 1444. 7
+Other girls were educated at home, alongside brothers, and were later mentored
+within the convent by older nuns in writing and the calligraphic arts. With a high
+number of literate girls and women in cloistered life, these graphic skills were
+channeled into convent industries that offered a vocation for these educated wom-
+en (one rarely afforded to their secular sisters) and provided income for their reli-
+gious communities. 8 The rise in nuns’ colophon use in the late fifteenth century
+
+houses variously as ‘convento,’ ‘monastero’ or ‘monasterio,’ regardless of their religious or-
+der.
+5
+  On girls’ education in Italy in the period, see Richardson (Women, 97–99); Moreton, “Ex-
+change and Alliance: The Sharing and Gifting of Books in Women’s Houses in Late Medieval
+and Renaissance Italy,” in Nuns’ Literacies in Medieval Europe: The Antwerp Dialogue (Turn-
+hout, Belgium: Brepols, 2017), 385–390; Sharon Strocchia, “Learning the Virtues: Convent
+Schools and Female Culture in Renaissance Florence,” in Women’s Education in Early Modern
+Europe: A History, 1500–1800. ed. Barbara Whitehead (New York: Garland, 1999), 3–46. On
+studies of nuns’ education in Naples, Lucca, Brussels, and Vadstena see the essays by Ambro-
+sio, Vandi, Stoop, and Hedström in the Nuns’ Literacies in Medieval Europe volumes listed in
+the bibliography.
+6
+  Nuns’ dowries, paid to the convent, cost much less than dowries that accompanied women
+in marriage. In Florence, the city government subsidized dowries for entry into both the
+convent and marriage, for families that could not afford to pay, such as the family of nun-
+scribe Maria degli Albizzi. See Arthur, “New Evidence for a Scribal-Nun’s Art: Maria di Or-
+manno degli Albizzi at San Gaggio,” Mitteilungen des Kunsthistorischen Institutes in Florenz 59.
+Bd., H. 2 (2017): 272; Anthony Molho, Marriage Alliance in Late Medieval Florence (Cam-
+bridge: Harvard University Press, 1994); and Gabriella Zarri, Recinti: Donne, clausura e mat-
+rimonio nella prima età moderna (Bologna: Il Mulino, 2000).
+7
+  Florence, Archivio di Stato, MS San Jacopo di Ripoli, 23: Croniche, segnato A, 1508–1778,
+folios 121r–122v. This source, the Necrology of San Jacopo di Ripoli, and Rucellai’s fascinat-
+ing biography have been explored by Sharon Strocchia. See Strocchia, “Savonarolan Wit-
+nesses: The Nuns of San Jacopo and the Piagnone Movement in Sixteenth-Century Florence,”
+Sixteenth Century Journal XXXVIII/2 (2007): 393–418.
+8
+  On convent populations, see Strocchia, Nuns and Nunneries in Renaissance Florence (Balti-
+more: Johns Hopkins University Press, 2009) and Richardson, Women, 96–97. Strocchia
+notes the statistic that before the Black Death in 1348, one in 250 residents of Florence was
+a nun and by 1552, one in nineteen was (Strocchia, Nuns, xii). Richardson notes the statistic
+that three out of five patrician girls in Venice was a nun by 1581 and convent populations in
+Milan increased fourfold and in Bologna eightfold over the course of the sixteenth century
+(Women, 96–97).
+204                                  MELISSA MORETON
+
+
+also coincides with the advent of print, a greater circulation of texts, a rise in liter-
+acy among the secular population, a new demand for texts within reformed Orders,
+and a greater demand of books in general – a demand met by work in the convent
+scriptorium. There was a particular boon in Italian nuns’ scribal work from the
+mid-fifteenth century through the late sixteenth century, though nuns continued to
+copy out texts through the early modern period and beyond. 9 Copying gave women
+control over their own texts. They could copy a devotional text they were interest-
+ed in reading (and copying in itself was an act of devotion), produce a liturgical
+manuscript (often too specific and / or too large to make it profitable for a printing
+establishment), or gather numerous texts into a specific devotional compilation
+suited specifically to their use. Without ready access to a bookseller’s shop, Italian
+nuns often copied out texts on loan, and borrowed from other convents or religious
+overseers. One example comes from a nun – likely Venetian – who wrote out the
+Rule of Saint Benedict on paper in the early sixteenth century, copying it word for
+word including the colophon from a copy printed in Venice in 1532 (Figures 1 and
+2). 10 It is odd to read a handwritten note that says “Stampata in Vinegia” (“Printed
+in Venice”), but the nun-scribe is being thorough and citing her source. The printed
+preface to the text tells us that this edition was edited specifically for use by Bene-
+dictine nuns. At a moment when an Observant Benedictine reform movement was
+sweeping through Venice and its convents, new reformed texts were in demand;
+the nun is clearly interested in having the most recent and most authentic copy of
+the Rule of her patron saint – and reminding her reader that this was it. Having a
+known exemplar and a nun-scribe’s copy to check it against is a rare opportunity to
+examine how female scribes corrected and annotated texts, and demonstrated their
+knowledge of Latin and vernacular languages. The nun-copyist of this Rule demon-
+strates her familiarity with writing conventions such as the condensing or expan-
+sion of abbreviations – something she does quite a bit throughout her copying of
+
+9
+  This fifteenth-century proliferation of nun-scribed books is not limited to Italy and Europe.
+Nun-scribes in colonial Mexico continue to produce books into the twentieth century.
+10
+   The manuscript is University of Toronto Fisher Rare Book Library, MSS 01207. The nun-
+scribe was likely Venetian, given the Venetian printing of the Rule for Venetian Benedictine
+houses and the vernacular possession notes in the manuscript which have a distinctive Vene-
+tian dialect. I had only heard of this practice, before seeing the Toronto Fisher copy and was
+able to check it against the only known surviving copy of the printed text (according to the
+Edit16 database: https://edit16.iccu.sbn.it/resultset-titoli/-/titoli/detail/5249), in the Bibli-
+oteca capitolare Fabroniana in Pistoia, Italy. On manuscripts copied from incunables see
+Albinia De la Mare, “New Research on humanistic scribes in Florence,” in Miniatura fiorenti-
+na del rinascimento, 1440–1525, ed. Annarosa Garzelli, vol. I (Florence: La Nuova Italia,
+1985), 413; and her note from Buhler, The Fifteenth-Century Book (Philadelphia: University of
+Philadelphia Press, 1960), 15–16 and 34–35 where he says – with some exaggeration – “ex-
+perience has taught me that every manuscript ascribed to the second half of the fifteenth
+century is potentially (and often without questions) a copy of some incunable”; also Lutz,
+Essays on Manuscripts and Rare Books (Hamden: Archon Books, 1975): 129–38.
+                           NUN-SCRIBES AND THEIR COLOPHONS                              205
+
+
+this text. She spells out “Francesco,” “compagni,” and “novembre” (abbreviated in
+the colophon) and abbreviates “santo” in her copy (spelled out in the colophon).
+The cursive script she chose and the hurriedness of her hand may indicate that she
+copied the text out quickly, perhaps in order to return the book to whomever she
+borrowed it from – another convent, another nun, a family member or perhaps a
+spiritual male overseer. Possession notes by a different hand in the manuscript in-
+dicate that the book was used by another female reader after it was made and read
+by the copyist. 11
+
+
+
+
+     Figure 1. Venetian nun’s copy of the 1532 printing of the Regula del sanctissimo
+     Benedetto. Thomas Fisher Rare Book Library, MMS 01207. Reproduced with per-
+     mission.
+
+
+
+
+11
+   The manuscript contains possession notes on folio 3r in a very rough hand from another
+woman who appears to be new at practicing writing her name. She says: Io Donna Zeza del
+Bindo/ Io Donna Lucrezia del Bino, sono padrona de questa regola Santo Benedetto” (Me,
+Lady Zeza del Bindo/ Me, Lady Lucrezia del Bino, I am the owner of this Rule of Saint Bene-
+dict). The title of ‘Lady’ does not necessarily mean that the owner was not a nun or connect-
+ed to a religious order, especially in this period, where noblewomen commonly became nuns
+and widows often retired to the convent at the end of their child-bearing lives. The diminu-
+tive name “Zeza” for “Lucrezia” has a particularly Venetian ring to it and may help to con-
+firm the origins of the manuscript as Venetian.
+206                                  MELISSA MORETON
+
+
+
+
+      Figure 2. The nun-scribe’s exemplar, the Regula del sanctissimo Benedetto printed in
+      1532 in Venice by Francesco Bindoni and Maffeo Pasini. Biblioteca capitolare
+      Fabroniana, Pistoia. Reproduced with permission.
+
+
+RESEARCH METHODOLOGY – USING COLOPHONS TO FIND NEW MANUSCRIPTS
+Most of the manuscripts nun-scribes produced did not include sottoscrizioni or
+scribal signatures, where the nun names herself, and it is therefore difficult to iden-
+tify the corpus of a nun’s work unless one has access to an intact collection origi-
+nating from the convent. Within intact collections of manuscripts, some containing
+scribal signatures with names, one can use paleographical evidence from known
+manuscripts to identify unsigned manuscripts by the same scribe. For dispersed
+collections (where manuscripts are no longer connected with a convent archives or
+are in European collections far removed from their original place of origin) where
+the scribe is not named and convent not known, using colophon language to search
+for new manuscripts is an effective research methodology.
+      It is clear that nun-scribes chose from a wide range of colophon language. This
+was determined based on the genre of the text they were copying, the audience/
+reader/ buyer, language of the main text (Latin or vernacular), and the particular
+message they wanted to convey about their place within the convent and the larger
+world – spiritual and earthly. Though it is easy, at first glance, to dismiss these as
+formulaic, each colophon is unique – whether it varies slightly from a standard
+formula in its spelling, word order or naming conventions. Within a given commu-
+nity and between scribes who worked closely together, nun-copyists often reused
+phrases again and again, created unique language akin to a convent style. It is this
+uniqueness that can be used to find new manuscripts. A search using specific colo-
+phon phrases within publicly accessible electronic databases such as Manus Online:
+Manoscritti delle biblioteche italiane (https://manus.iccu.sbn.it/web/manus) can re-
+                            NUN-SCRIBES AND THEIR COLOPHONS                              207
+
+
+turn information on manuscripts matching that language. 12 Each potential match
+must be investigated and ultimately examined in person and/or through images
+gathered from the holding institution, in order to verify that the manuscript was
+produced by a known scribe. Each scribe had a particular way of working, scripts
+that she was adept at using, and a specific way of calligraphing each character.
+Even within a uniform convent scriptorium style, each scribe’s hand produced tell-
+tale signs unique to her. A paleographical study of the manuscript’s script (style of
+handwriting), and the individual scribe’s hand (how they write each character
+within a script) can help verify or reject a potential match. Each convent with an
+established scriptorium practice also had a systematic way of working, from sourc-
+ing materials, collating manuscript folios, following Gregory’s Rule (matching
+hair/hair and flesh/flesh in parchment manuscripts), to using catchwords and rul-
+ing pages for writing (number of lines, type of ruling medium used). Codicological
+data that places this manuscript within the wider scriptorium practice of a given
+house – such as line ruling and the use of Gregory’s Rule (hair/hair and flesh/flesh
+alignment of parchment surfaces) – are also helpful in placing new manuscript
+candidates within the production of a known convent.
+
+
+
+
+     Figure 3. Colophon within scroll around portrait of San Gaggio nun-scribe Maria
+     di Ormanno degli Albizzi. Vienna, Österreichische Nationalbibliothek MS 1923, f.
+     89r. Reproduced with permission.
+
+
+
+
+12
+  Manus Online aggregates data from hundreds of libraries across Italy and has an Advanced
+Search feature that allows searching by phrases, words, date ranges, library collections,
+shelfmarks, titles, names, etc. It also charts the date range of the occurrence of a phrase or
+word within the metadata from the database’s manuscripts. This search was done using the
+colophon phrase: “pro merito caritatis expostulat.”
+208                                 MELISSA MORETON
+
+
+This is the case with several newly discovered manuscripts from the convent scrip-
+torium of the Augustinian hermits of San Gaggio in Florence. The accomplished
+nun-scribes who worked closely with the Augustinian friars of Santo Spirito and
+secular illuminators, produced luxurious liturgical manuscripts, devotional texts,
+prayer books, and Books of Hours from the mid-fifteenth through the early six-
+teenth century. One scribe, Maria di Ormanno degli Albizzi, was identified using
+colophon language. Her only known manuscript (now Vienna, Österreichische Na-
+tionalbibliothek MS 1923) had been an art historical mystery for centuries, her full
+name and convent unknown. The book is a mid fifteenth-century breviary, scribed
+by a nun named Maria (and at least one other scribe), and includes her portrait
+within a cartouche and colophon within the scroll around her head: “ANCILLA
+YHU XPI MARIA ORMANI FILIA SCRIPSIT MoCCCCLIII (The handmaiden of Jesus
+Christ, Maria, daughter of Ormanno, wrote this in 1453)” (Figure 3). 13 Her identity
+had been speculated upon since the sixteenth century, when her portrait was first
+noted by Giorgio Vasari in his famous biography of the Lives of the Most Illustrious
+Painters, Sculptors, and Architects. Due to a misreading of the Latin colophon, she
+became known as “Maria Ormani” and thought to be the painter of the self-portrait
+(rather than the daughter of a man named Ormanno, and the scribe). The manu-
+script also includes another colophon at the end of the text (Figure 4), which be-
+gins: “Qui scripsit scribat et semper cum domino vivat. Vivat in celis in suo nomine
+felix, qui legentium orationes pro merito karitatis expostulat.” (May she who wrote
+this continue to write and live always with the Lord. Live happily in heaven, in his name,
+she asks for the goodness of charity from whomever reads these prayers). 14
+
+
+
+
+13
+   Vienna, Österreichische Nationalbibliothek, MS 1923, folio 89r.
+14
+   Vienna, Österreichische Nationalbibliothek MS 1923, folio 486v. The colophon is much
+longer and includes a date later than Maria’s portrait colophon (1453). This suggests a long-
+er history of production of the manuscript, though my argument against this is too lengthy
+to explore in this essay. The full colophon also ends with a date: “…Anno domini M CCCCo L
+XXXX die vigesimo quinto mensis Madii. Deo gratias. Amen” (…In the year of our Lord 1490
+on the 25th day of May. Thanks be to God. Amen.) However, the textual colophon date of 1490
+is dubious. MoCCCCoLXXXX was a common way of writing 1490 in Roman numerals in the
+period, but it does appear that some text (LXXXX) has been scraped away and rewritten and
+could have been MoCCCCoLiii (1453). The later date here requires more investigation and
+possibly multispectral imaging to reveal the writing embedded within the parchment under
+the 1490 date. For other examples of the particularly Italian “Qui scripsit scribat” colophon,
+its geographic and temporal distribution, see Literary Snippets: A Colophon Reader.
+                         NUN-SCRIBES AND THEIR COLOPHONS                               209
+
+
+
+
+    Figure 4. Second colophon at the end of Maria di Ormanno degli Albizzi’s brevia-
+    ry, made at San Gaggio, Florence. Vienna, Österreichische Nationalbibliothek MS
+    1923, f. 486v. Reproduced with permission.
+
+In collaboration with art historian Kathleen Arthur, who had been searching for
+Maria’s identity, it was suggested that she use the colophon language to find other
+manuscripts by this scribe, since my research had revealed that these colophon pat-
+terns were unique to each convent and each nun-scribe. Using this method, search-
+ing the phrase “Qui legentium orationes pro merito caritatis expostulat,” she did in
+fact identify two new manuscripts belonging to Maria or her sister-scribes at San
+Gaggio – the Confessions of Saint Augustine finished in 1453 (Rome, Biblioteca Na-
+zionale Centrale Vittorio Emanuele II, MS Vitt. Em. 856) and a Liber moralium of
+Saint Gregory dated 22 September 1460 (Dresden, Sächsische Landesbibliothek –
+Staats- und Universitätsbibliothek, Mscr. Dresd. OB.5). Both manuscripts provided
+the name of the nun-scribes’ convent, the Florentine Augustinian house of Santa
+Caterina de Monte, commonly known as San Gaggio. Using this information, Ar-
+thur searched the convent records in the Florentine archives and found Maria’s
+name, revealing that she belonged to a branch of the illustrious Albizzi family, an
+extremely wealthy merchant family who had fallen out of favor with the ruling
+Medici and been permanently exiled from the city in the 1430, at the time Maria
+210                                 MELISSA MORETON
+
+
+entered San Gaggio as a novice. 15 It is perhaps for this reason that Maria does not
+include her patronymic family name in her colophon, in a period in which the Al-
+bizzi were poorly favored by the ruling elite of Florence. Maria finds other means
+of self-identification to present herself as an important member of her conventual
+and civic community. As Arthur notes, her colophon scroll and portrait are placed
+in the lower register of the first folio of the breviary’s Proper of Seasons, a space
+normally reserved for saints’ portraits or a noble family’s coat of arms. In all ways
+she is signaling “I am from an important and wealthy family” without actually giv-
+ing us her family name.
+
+
+
+
+      Figure 5. LEFT: Calendar for January / February in a Book of Hours, from the San
+      Gaggio convent scriptorium. Boston, Boston Public Library, MS q Med.279. Re-
+      produced with permission. Figure 6. RIGHT: Calendar for January / February in a
+      breviary scribed by Maria di Ormanno degli Albizzi of the convent of San Gaggio,
+      Florence. Vienna, Österreichische Nationalbibliothek MS 1923.
+
+
+
+
+15
+  Her father was Ormanno, son of Rinaldo degli Albizzi; both were exiled in 1433, though
+some members of the extended family who were loyal to the Medici were allowed to remain
+in Florence. Arthur’s essay discusses this and the new manuscript evidence and has been
+important in revealing the breadth of production at San Gaggio, whose account books doc-
+ument the sale of books, receipt of writing supplies, purchase of binding materials and
+commissions from the friars of Santo Spirito and the cartolai or booksellers of the city with
+whom they collaborated. See Arthur, “New Evidence,” 271–280.
+                           NUN-SCRIBES AND THEIR COLOPHONS                              211
+
+
+
+
+     Figure 7. Colophon from a San Gaggio nun-scribe in a work by Giovanni Domini-
+     ci. Florence, Biblioteca Medicea Laurenziana, MS Acq. e doni 8, f. 188r. Repro-
+     duced with permission.
+
+In another search, using the colophon language from this second colophon in the
+book, I was also able to locate two new manuscripts connected to San Gaggio. The
+first is a Florentine Book of Hours dated 1 January 1467 that passed through a
+dealer’s hands in 2015. Manuscript scholar Peter Kidd, who authored the dealer’s
+catalog, identified it as Florentine coming from an Augustinian house, and pre-
+sumed it belonged to Santo Spirito. 16 However, a paleographical comparison sug-
+gests that the script and hands show similarities to those of the nun-scribes of San
+Gaggio. The colophon, with similar language to that found in Maria’s breviary as
+well as other San Gaggio manuscripts, reads: “Finito libro isto referamus gratia
+Christo. Qui scripsit scribat semper cum Domino vivat. Vivat in celis in suo nomine
+felix. Anno domini. Mocccclxvij. die 1 in mensis Ianuarii” (Having finished the book,
+let us give thanks to Christ. May she who wrote this continue to write and live always
+with the Lord. Live happily in heaven, in his name. In the year of our Lord 1467 on the
+1st day of January.) 17 The calendars in the 1453 breviary and 1467 Book of Hours
+also appear to include an identical list of saints (Figures 5 and 6). 18
+
+16
+   The book of hours has passed through many hands since I first saw images of it in the
+Avoa auction catalog in 2014, days before it was sold. The manuscript was put up for sale by
+Avoa, Ltd, in 2014 (Books of Hours/Livres d’Heures, no. 1); sold at auction by Bloomsbury.
+December 9, 2015 (lot 121); sold again by Bloomsbury/Dreweatts on July 2, 2019 (lot 83)
+to Les Enluminures, Paris; sold by Les Enluminures, Paris, to the Boston Public Library in
+June 2020 (now cataloged as MS q Med.279). It is now digitized and available to view
+online: https://ark.digitalcommonwealth.org/ark:/50959/2r36xh78c.
+17
+   The colophon is on folios 136r–v, Boston, Boston Public Library, MS q Med.279.
+18
+   Aside from a few entries, the saints and feast days on the calendar pages of the 1467 Book
+of Hours (Boston Public Library, MS q Med.279) match the days in Maria’s breviary (Vienna,
+Österreichische Nationalbibliothek, MS 1923), the main difference being the designation of
+red letter days. The hands in the Book of Hours are rougher and less practiced than those
+212                                  MELISSA MORETON
+
+
+      The second manuscript, found through a colophon phrase search on Manus
+Online, contains works by Dominican writer Giovanni Dominici, including his Libro
+d’amore di carità, Trattato delle dieci questioni, Epistole a Bartolomea degli Alberti,
+Epistola a una figlia spirituale, and Epistole alle Monache del Corpus Domini di Venezia
+– devotional works popular among nuns (Florence, Biblioteca Medicea Laurenzi-
+ana, MS Acq. e doni 8). 19 The colophon, whose phrasing matches other noted man-
+uscripts from San Gaggio, reads: “Explicit liber iste. Anno Domini Moccccolijo die Vo
+octubris. Qui scripsit scribat et semper cum Domino vivat. Vivat in celis in suo
+nomine felix. Qui legentium orationes pro merito caritatis expostulat. Deo gratias.
+Amen” (This book is complete. In the year of our Lord 1452 on the 5th day of October.
+May she who wrote this continue to write and live always with the Lord. Live happily in
+heaven, in his name. She asks for the goodness of charity from whomever reads these
+prayers. Thanks be to God. Amen) (Figure 7). 20 Completed 1452, it predates Maria’s
+breviary containing the 1453 colophon and portrait and was likely completed
+while the scribal production on that work was already underway in the convent
+scriptorium. The 1452 manuscript was completed by three scribes and, aside from
+the almost identical colophon, shows extremely close paleographical similarity to
+the work of the San Gaggio scriptorium. 21 Another identifying factor is the secular
+male illuminator whose historiated initials and distinctive border work decorates
+the pages. He is identified in this new 1452 manuscript as Bartolomeo Varnucci, 22 a
+miniaturist active in Florence c. 1437–1479. 23 His decorated initial, shows Giovan-
+ni Dominici giving the book to an Augustinian nun, who kneels under the figure of
+caritas waving a banner similar in style to the scroll framing Maria’s breviary por-
+trait (Figure 8). The 1453 breviary contains work by two unidentified manuscript
+painters (not counting the painter of Maria’s portrait), and one of these can now be
+
+found in Maria’s breviary (Maria was not the only scribe of the breviary), but show similari-
+ties to those produced by the San Gaggio scriptorium. The corrections in the Book of Hours
+and variations in ink, pigments, and quality of parchment, suggest that it was produced for
+use within the convent. It was not a high end production for an external patron, though
+many books of hours were made in Florentine convent scriptoria for sale to and gift ex-
+change with external patrons and clientele.
+19
+   Manus Online: Manoscritti delle biblioteche italiane (https://manus.iccu.sbn.it/risultati-
+ricerca-manoscritti/-/manus-search/results#1666558982949) (accessed 15 August 2022).
+20
+   Florence, Biblioteca Medicea Laurenziana, MS Acq. e doni 8, folio 188r.
+21
+   The author consulted high resolution color photographs of the manuscript and will carry
+out a codicological study of the work.
+22
+   Lisa Frantini and Stefano Zamponi, I manoscritti datati del fondo Acquisti e Doni e dei fondi
+minori della Biblioteca Medicea Laurenziana di Firenze (Florence: Sismel, 2004), 29 and plate
+38.
+23
+   On Bartolomeo Varnucci see De Floriani, “Bartolomeo Varnucci: Un messale e alcune pre-
+cisazioni,” Miniatura, volume 5/6 (1996): 49–60; for Varnucci and his collaborators and cli-
+ents (including the convents of Le Murate and San Gaggio), see Levi d’Ancona, Miniatura e
+miniatori a Firenze dal XIV al XVI secolo (Florence: Olschki, 1962), 29–37, 281–282.
+                            NUN-SCRIBES AND THEIR COLOPHONS                                 213
+
+
+identified as the same Bartolomeo Varnucci or at least a painter connected to his
+workshop. The workshop clearly also produced miniatures for the 1453 copy of
+Augustine’s Confessions. 24 This solves one unknown in the production of the brevia-
+ry and also sheds light on the relationship between the San Gaggio nuns and secu-
+lar male miniaturists. Mid fifteenth-century Florence was a city extremely active in
+manuscript production, with secular scribes producing custom manuscripts in
+booksellers’ shops, monks, and nuns in religious houses throughout the city copy-
+ing out books. Since most women’s convents with book production focused on
+scribal work and simple penwork initials, the high-end decoration of manuscripts’
+pages was outsourced to ubiquitous secular male illuminators, with whom they
+often formed trusted relationships and continued working with over decades. Var-
+nucci is known to have collaborated with several convents and likely had a close
+working relationship with the San Gaggio nuns. Scholarship on Florentine illumina-
+tors and their work is fairly well-established; identifying known manuscripts by
+these collaborators will also be a useful methodology for tracing new manuscripts
+by these nuns.
+
+                                     PRIDE AND PIETY
+The portrait of Maria di Ormanno degli Albizzi, and her colophon associations with
+family (rather than her religious house) was a departure from the pious tropes of-
+ten used by religious scribes. However it was not unique in the period and several
+nun-scribes followed this form of self-identification, stressing their well-born ori-
+gins (whether true or not), level of education, and family connections. Though
+from a poor branch of her family, nun-scribe Piera di Medici of the convent of San-
+ta Verdiana in Florence tells us in the first of two colophons in her missal of 1447,
+that she is of noble Medici birth 25: “Petra soror, claro Medicorum sanguine nata,
+hoc sacrum virtutis opus transcripsit habendum, virginibus sancto viride cognomi-
+ne dictis.” (Sister Piera, born of noble Medici blood, transcribed this holy work of
+virtue, to be held by the virgins called by the surname of ‘San Verdiano’). 26
+
+
+24
+   Rome, Biblioteca Nazionale Centrale Vittorio Emanuele II, MS Vitt. Em. 856. For images of
+the miniatures, see Arthur, “New Evidence…”, 275, 277. Arthur notes that the miniatures
+are similar to those from the Florentine workshop of Filippo di Matteo Torelli.
+25
+   On Piera di Medici, see Sharon Strocchia, “Abbess Piera de’ Medici and Her Kin: Gender,
+Gifts, and Patronage in Renaissance Florence,” Renaissance Studies 28, no. 5 (2014): 695–
+713.
+26
+   Florence, Biblioteca Medicea Laurenziana, MS Conv. Sopp. Vallombrosa codex 235, folio
+142v. See Miglio, “‘A mulieribus conscriptos arbitror’: Donne e scrittura,” in Scribi e colofoni,
+eds. Condello and De Gregorio (Spoleto: Centro Italiano di studi sull’alto medioevo, 1995),
+261. The second colophon reads: “Librum hunc transcripsit Petra Bivigliani de Medicis, una
+ex sororibus in monasterio Sancti Iohannis Gualberti et Beate Verdiane Deo devotissime ser-
+vientibus, Ordinis Vallis Umbrosae” (Piera di Bivigliano de’ Medici transcribed this book,
+214                                 MELISSA MORETON
+
+
+
+
+      Figure 8. First folio of San Gaggio nun-scribes copy of works by Giovanni Domini-
+      ci, with miniature by Bartolomeo Varnucci. Florence, Biblioteca Medicea Lauren-
+      ziana, MS Acq. e doni 8, f. 1r. Reproduced with permission.
+
+
+
+one of the nuns from the monastery of San Giovanni Gualberti and the Beata Verdiana, de-
+voutly serving God, in the Order of Vallombrosa).
+                           NUN-SCRIBES AND THEIR COLOPHONS                              215
+
+
+     Another scribe who identifies her kinship ties over her religious community is
+Lana dei Galvagni, Clarissan nun likely from northern Italy. On the last folio of a
+religious zibaldone she copied out in the late 1400s, she writes in Italian: “Francis-
+cus et Claram. Questo libro si è scrito per mane de Lana dei Galvagni, fiola che fu
+de miser zan Bertolameo. Iesu Maria.” (Francis and Clare. This book was written by
+the hand of Lana dei Galvagni, daughter of Sir San Bartholemew. Jesus Mary.) 27 Also
+from northern Italy, is nun Domitilla Bernabuzi’s manuscript of Gregory Correr’s
+epistle De commodis vitae regularis seu de contemptu mundi, which she copied out in
+the vernacular in 1474. Her colophon, in Latin, states “Ego soror Domicilla filia
+magnifici domini Francisci Bernabutii de Faventia complevi hunc codicem die 21
+decembris M°CCCC°74” (I, Sister Domitilla, daughter of magnificent Lord Francesco
+Bernabuzi of Faenza, finished this book on 21 December 1474) (Figure 9). 28 Per-
+haps intended to alert the reader to her level of education and worldliness, Domitil-
+la ended her vernacular work with a Latin colophon, spectacularly shaping her col-
+ophon in a rectangle at the bottom of the folio, pointed to by the explicit which is
+scribed in the shape of a triangle or funnel centered on the page. Though shaped
+explicit / colophon combinations are seen in monastic books, they are not common
+in Italian nuns’ books and may reference the creatively-shaped endings in other
+book traditions or anticipate the shaped colophons commonly seen in printed
+books in northern Italy a few decades later (such as the Venetian colophon in Fig-
+ure 2). 29 She also copied the text out in a humanist bookhand. While senior scribes
+learned a number of Gothic scripts as well as cursive, a humanist bookhand is rare
+and may point to Domitilla’s humanist education as a girl, in the northern city of
+Faenza. These four cases may be read as indicators of a shift in the mid to late fif-
+teenth century, when pious tropes were no longer the only means of self-
+identification and women began to express a fuller range of identities and personal
+motives, identifying with their families rather than their religious communities. 30
+     Self-identification was always a choice, and often touched on tropes of piety.
+A number of colophons include language where the nun identifies herself as un-
+worthy (“indegna”), servant (“serva” or “schiava”) of Christ, and sinner (“pecca-
+trice” or similar) – however this occurs far less than one would expect. 31 Examples
+
+
+27
+   Rome, Biblioteca Nazionale Centrale, Varia 24 (574), folio 219v.
+28
+   Verona, Biblioteca Civica, MS 1196, folio 30v.
+29
+   The date of 1474 places this book in the incunable period of early printed books, when
+printing was just being established in Venice. Early incunable colophons were quite basic
+with shaped colophons not emerging in full force until the sixteenth century.
+30
+   For more on this departure from pious tropes, see Moreton, “Pious Voices,” 53–58.
+31
+   Roughly twenty percent of nuns’ colophons included in Moreton’s study of over 50 Italian
+nun-scribes’ colophons include this language. See Moreton, “Pious Voices,” 45. There are
+numerous examples of this language coming from the Bridgettine double monastery of the
+Paradiso in Florence, and we see the same trope used at the Bridgettine mother house in
+distant Vadstena, Sweden. On the Florentine Bridgettines, see Mirello, I manoscritti del Mon-
+216                                 MELISSA MORETON
+
+
+in Florence come from the Bridgettine double monastery of the Paradiso, the Bene-
+dictines of Le Murate, and a number of Dominican houses. Formulas using pious
+self-identification sometimes connected women to spiritual exemplars within their
+order.
+
+
+
+
+      Figure 9. Colophon page of Domitilla Bernabuzi’s 1474 copy of Gregory Correr’s
+      De commodis vitae regularis seu de contemptu mundi, written in a humanist
+      bookhand. Verona, Biblioteca Civica, MS 1196, fol. 30v. Reproduced with permis-
+      sion.
+
+
+
+
+astero del Paradiso di Firenze (Florence: Sismel, 2007). An example from Vadestena is MS C
+508, Uppsala Universitetsbibliotek, Uppsala, Sweden, folio 45v. Swedish nun-scribe Christi-
+na Handsdotter Brask left a colophon in Old Swedish in a psalter and directorium chori (writ-
+ten in Latin), which was copied out by her and other sister-scribes between 1473–86,
+“Taessa bokena screff syster cristin hanssa dotter owerdogh conuentz syster i them tima tha
+syster anna fikconis och syster anna nicholau the waro cantrices.” (This book has been writ-
+ten by Christina Hansdotter, unworthy sister of the convent, at the time when Sister Anna
+Fickesdotter and Sister Anna Nilsson were cantrices). The use of “unworthy sister” allows
+her to be remembered as a pious member of the community, and one connected to im-
+portant fellow nuns, the convent’s lead singers. The transcription and translation are from
+Lindell, “Christina Hansdotter Brask: A Vadstena Nun and Her Use of Writing,” in Saint Bir-
+gitta, Syon and Vadstena, eds. Gejrot, Risberg, and Åkestam (Stockholm: Royal Academy of
+Letter, 2010), 181–182.
+                           NUN-SCRIBES AND THEIR COLOPHONS                              217
+
+
+      In the sixteenth century, Dominican nuns from San Niccolò in Prato, San Ja-
+copo di Ripoli, used versions of the phrase “indegna serva e schiava di Jesu cristo”
+(“unworthy servant and slave/servant of Jesus Christ”) consciously referencing
+Saint Catherine of Siena, who identified herself this way in her letters written two
+centuries earlier in the mid-1300s. 32 A revered spiritual mother, Saint Catherine
+and her writings would have been familiar to female Dominicans, especially those
+who were literate and copying texts for their community. It will take a much larger
+dataset to determine if this phrase is particularly Dominican in style, but with a big
+data approach such analysis of formulas is promising (as is a study of language
+formulas by textual genre).
+      Suor Angela di Lionardo Rucellai, referred to herself as an “unworthy servant”
+in a Latin colophon at the end of her Collectarium of circa 1500: “Ego soror Angela
+indigna serva domini nostri Iesu Christi scripsi manu propria hoc collectarium” (I
+Suor Angela, unworthy servant of our Lord Jesus Christ, wrote this Collectarium in
+my own hand)” (Figure 10). 33 She omits this language in another Collectarium she
+copied, likely dating to c. 1490 34: “Ego soror angela de rucellariis monialis monas-
+terii sancti Iacobi de Ripolis de florentia scripsi manu propria hoc collectarium.
+Deus sit laudatus et to [sic] corde benedictus.” (I Suor Angela di Rucellai of the
+monastery of San Jacopo di Ripoli of Florence wrote this collectarium in my own
+hand. May God be praised and be blessed in your heart). (Figure 11). 35 The volume,
+now at the Columbia University Special Collections has yet to be contextualized
+within her full body of work. It is very rare to have two of the same works by one
+nun-scribe and a thorough comparative study of the texts, codicology, and paleog-
+raphy of two volumes will offer invaluable information about how Angela worked,
+which manuscript she completed first, her solo or collaborative work (if there are
+other hands in the manuscript), and who the audience was for both these collec-
+tions of prayers. It is remarkable that she included her last name in many of her
+works (she names herself in a similar way in the colophons of her liturgical manu-
+scripts). This may point to this larger trend in late fifteenth-century Italy, when
+nuns were increasingly identifying themselves by name. Angela di Lionardo Rucel-
+lai was from a poor branch of a very famous and wealthy merchant family, the
+Rucellai of Florence. In including her full name in Latin in so many of her manu-
+scripts (all beautifully scribed in a formal Gothic bookhand), she may be signaling
+
+32
+   From San Jacopo di Ripoli in Florence, see Florence, Biblioteca Riccardiana, MS 2102,
+folio i’v; from Paola a nun-scribe of Le Murate, see Florence, Biblioteca Riccardiana, MS
+1794, folio 370r; from San Niccolò in Prato, see Prato, Conservatorio and Monastero di San
+Niccolò. See Moreton, “Pious Voices,” 46–47.
+33
+   Florence, Biblioteca Nazionale Centrale, MS Conv. Soppr. D.7.344, folio 203v.
+34
+   The colophon is transcribed as it appears in the manuscript. The dealer’s catalog for this
+Collectarium notes a likely date of 1491 or later, based on the manuscript’s Calendar. Rucel-
+lai died in 1516 and was active through the late fifteenth century.
+35
+   New York City, Columbia University Special Collections, MS Western 112, folio 187v.
+218                                    MELISSA MORETON
+
+
+toward her distant family connections, with a desire for recognition or remem-
+brance – in ways similar to that of Maria degli Albizzi, Piera di Medici, and others
+who felt marginalized. She is the young girl, mentioned previously, who came to
+the convent as a toddler (likely due to the death of her mother); she was educated
+at San Jacopo by the nuns (in a neighborhood dominated by the Rucellai), became
+a prolific senior scribe and prioress of her house, even leading her fellow sisters in
+following the strict reforms of Savonarola. 36 Her colophons offer much information
+about her level of education (composing in Latin, rather than simply copying), her
+evolving artistic work in the scriptorium, and her self-presentation to the world –
+whether the convent or the secular world beyond.
+
+
+
+
+        Figure 10. Left: Angela Rucellai’s colophon in her Collectarium, c. 1500. Florence,
+        Biblioteca Nazionale Centrale, MS Conv. Soppr. D.7.344, f. 203v. Reproduced
+        with permission.
+
+        Figure 11. Right: Rucellai’s colophon in another Collectarium, late 15th-century.
+        New York City, Columbia University Special Collections, MS Western 112,
+        f. 187v. Reproduced with permission.
+
+Nuns sometimes mixed pious language in with extensive information about the ex-
+tent of their work, presenting a complex image of women’s work that was motiva-
+tion both by piety and the desire to be recognized. In a note from 1553, Pratese
+nun-scribe and decorator Innocenza de Selmi (or Lelmi) refers to herself as
+“indegna” but also tells us that she went to great effort to complete the scribal
+work and decoration of her book – above and beyond her daily responsibilities in
+
+36
+     On Angela Rucellai, see Strocchia, “Savonarolan Witnesses.”
+                            NUN-SCRIBES AND THEIR COLOPHONS                                 219
+
+
+the convent – challenging the notion that she is completely unworthy. She notes
+that she bore the expense of the materials required to produce the book, paid to
+have it bound and gives it to her sisters in the convent; in exchange, she asks that
+they sing a requiem mass for her after she dies, and to recite the penitential
+psalms.” 37 Appeals for prayer are also seen, as expected – the nun asking the reader
+to pray for her, or referring to herself in the third person as “the scribe.” One spicy
+colophon combines an appeal to prayer with a threat. 38 After finishing her Vita di
+sant’Eustachio, a nun-scribe named Sara asks the reader to pray for her and threat-
+ens bodily harm if they do not! She states “Let whoever reads this devout life pray
+God for me, poor Sister Sara […] and if you don’t I’ll strangle you when I’m dead
+(Qualunque persona leggerà questa divota leggenda prieghi Iddio per me soror Sara
+povera […] che se voi nol farete quando sarò morta vi strangholerò).” 39
+
+                 COLOPHONS AND THE DESIRE FOR REMEMBRANCE
+Scribal signatures, colophons where the copyist includes their name, were used
+increasingly by secular and religious scribes in Europe from the early fourteenth
+century onward. 40 In Italian nun-scribes’ books, these sottoscrizioni increased dra-
+matically in the fifteenth century, as more educated women with graphic skills
+were placed in convent life and more texts with colophons were in circulation. The
+strict adherence to monastic piety that dictated anonymity for early medieval
+
+37
+   “Io suor Innocenza de Selmi da Prato indegna serva di Gesú à scripto, notato, miniato
+questo libro, guadagnato le carte e la legatura del libro, tutto sopra el suo lavoro ordinario, e
+ne fo un presente alle Cantore con pacti gli cantino una messa de morte el 7o giorno della
+sua sepultura e all’altre domanda per grazia una volta e 7 psalmi penitenziali. Mi arete ex-
+cusat[a] non sta come vorrei. Nel’ anno del Signore 1553 alli 23 di novembre.” “I, Sister
+Innocenza Lelmi of Prato, unworthy servant of Jesus Christ, wrote out, copied the notes and
+decorated this book, paid for its paper and its binding, all in addition to her ordinary work,
+and I make a present of it to the singers on the condition that they sing for her a requiem
+mass on the seventh day after her burial, and she kindly asks the other nuns [to say] once
+the seven penitential psalms. Forgive me: it is not as I would wish. 23 November in the year
+of Our Lord 1553).” The manuscript is Prato, Conservatorio and Monastero di San Niccolò.
+The colophon is cited in Elissa Weaver, Convent Theatre in Early Modern Italy (Cambridge:
+Cambridge University Press, 2002), 36.
+38
+   Appeals for prayers are common in nun-scribes manuscripts. See a selection of these in
+Literary Snippets: A Colophon Reader. Moreton explores this extensively in her essay “Pious
+Voices: Nun-Scribes and the Language of Colophons,” 47, 51–53.
+39
+   Brian Richardson, Women, 100. Sara is the third of three scribes who copied out devotion-
+al texts for the book, adding her colophon on folio 134r (Florence, Biblioteca Riccardiana,
+MS 1381). See Teresa De Robertis and Rosella Miriello, I manoscritti datati della Biblioteca
+Riccardiana di Firenze, vol. 2 (Florence: Sismel, 1999), 55 and tav. CXXI.
+40
+   For information on the increased use of scribal signatures, see Pamela R. Robinson, Cata-
+logue of Dated and Datable Manuscripts c.737–1600 in Cambridge Libraries (Cambridge: Cam-
+bridge University Press, 1988), 5–12.
+220                                  MELISSA MORETON
+
+
+scribes is no longer at work in the later Middle Ages and early modern period. We
+hear from nuns themselves, working north of the Alps in the late fifteenth century,
+that as long as the convent’s scribes include their names in their books for the pur-
+pose of being remembered by their sisters, and not out of vanity, it is proper and
+will benefit their souls. 41 Remembrance is certainly a motivating factor for Italian
+nun-scribes. One colophon, from Angela Rucellai and Lucrezia Panciatichi of the
+Observant Dominican convent of San Jacopo di Ripoli, notes the scribes’ wish to be
+remembered in the libro della vita: “Iste liber scriptus fuit a duabus sororibus mon-
+asterii sancti Iacobi de Ripolis ad honorem domini nostri yesu Christi Nomina caro-
+rum fuit Suor Angela et Suor Lucretia quas deus scribat in libro vite” (This book
+was written by two sisters of the monastery of San Jacopo di Ripoli in honor of our
+Lord Jesus Christ, whose names, Sister Angela and Sister Lucretia, may God in-
+scribe in the Book of Life). 42 The manuscript was a gradual, completed about 1500
+by the accomplished team of the aforementioned Angela di Leonardo Rucellai (who
+completed the scribal work) and her close colleague in the convent scriptorium,
+Lucrezia di Francesco Panciatichi (who notated the music). Knowing that their sis-
+ters would see their names in this large liturgical manuscript, sung communally
+from the church choir, was a form of regular remembrance within their community
+that would continue after their death.
+     Colophon formulas, passed down within the scriptorium from senior scribes to
+novices, were also a way that nuns remembered and paid homage to respected el-
+ders within their community. Ginevra di Lorenzo Lenzi (d.1546) or Suor Cleofe, the
+name she took upon accepting formal vows, was an active scribe at the Bridgettine
+house of the Paradiso in Florence from the 1480s into the early 1500s. She became
+the second most prolific copyist at her house; only her teacher, Suor Raffaella (Raf-
+faella di Arnolfo Bardi), produced more manuscripts. Mentoring through scribal
+teamwork is a common theme seen in Italian convent scriptoria and throughout
+Europe, with two or more nuns producing texts together. 43 Cleofe and Raffaella’s
+
+
+
+41
+   This is a note from a nun-scribe of the convent of St. Katherina in St. Gall, writing in the
+convent chronicle. Winston-Allen, Convent Chronicles: Women Writing About Women and Re-
+form in the Late Middle Ages (University Park: Pennsylvania State University Press, 2004),
+174.
+42
+   The colophon is transcribed as it appears in the manuscript. Florence, Museo di San
+Marco, MS 630, folio 259.
+43
+   There is much to be said about teamwork within the scriptorium and many instances of
+this in Italian and other convent scriptoria in Europe. Notator-scribe duos and decorator-
+scribe teams are also known, such scribe Angela di Lionardo Rucellai and notator Lucrezia
+Panciatichi of San Jacopo di Ripoli, and Gostanza Cocchi of Sant’Ambrogio Florence who
+collaborated with fellow nun and miniaturist Angela di Antonio da Rabatta to produce their
+breviary of 1518 (Florence Biblioteca Medicea Laurenziana Conv. Sopp. 90). On Rucellai,
+see Strocchia “Savonarolan Witnesses…”; on the Sant’Ambrogio example, see Strocchia, “Sis-
+                            NUN-SCRIBES AND THEIR COLOPHONS                                221
+
+
+close working relationship 44 is evident in their manuscripts and in the colophon
+language they chose. They both used the phrase “faticha et disagio” when finishing
+a text, noting that the work was completed with much “labor and discomfort.” 45
+Within a prolific convent scriptorium, active for almost a century, they are the only
+Paradiso nun-scribes to use this language, which would have signaled important
+lineages and elicited acts of remembrance by future nuns of their house when read-
+ing the texts they had produced.
+
+                     SELF-IDENTIFICATION AND TEXTUAL GENRE
+As a general rule, liturgical manuscripts were less likely to include colophons and
+when they have colophons, they are less likely to include a nun by name – perhaps
+because these were destined to be communal texts and not meant to be associated
+with an individual (the Rucellai-Panciatichi team is an exception). Paraliturgical
+texts such as Books of Hours and breviaries more commonly included the name of
+the convent where they were made since they cross into the category of devotional
+manuscripts, which are much more likely to include colophons – some quite
+lengthy. The production of books of hours and personal breviaries became a thriv-
+ing convent industry; books were sold to lay women across a socio-economic range,
+depending on cost, which was determined by the level of scribal work and decora-
+tion. For some, the naming of a scribe or their house may have been akin to leaving
+a calling card in the book, letting others know who made it and where to find an-
+other one. 46 Devotional manuscripts contain the widest range of colophons: those
+that include scribal self-identification (sharing information on kinship, social sta-
+
+
+ters in Spririt: The Nuns of Sant’ Ambrogio and Their Consorority in Early Sixteenth-Century
+Florence,” Sixteenth Century Journal 33, no. 3 (Autumn 2002): 735–67.
+44
+   The phrase is used in numerous manuscripts from nun-scribes Cleofe and Raffaella of the
+Paradiso, noted in this essay. On Cleofe and Raffaella, see Miriello, I manoscritti del Monas-
+tero del Paradiso di Firenze.
+45
+   Florence, Biblioteca Nazionale Centrale di Firenze, MS II.III.270, folio 137v. The colophon
+also notes that the book was written by the light of an oil lamp and provides a date of 1495.
+“Fu conpiuto di scrivere a dì 26 aprile nel M 495. Fu scricto con molta fatica e con molto
+disagio la maggior parte al lume di lucerna, et però chi ll’acacta con diligiença si lo tenga et
+alle monache del Paradiso sì llo renda. Amen.” (The writing of this book was finished on the
+26th of April 1495. It was written with extreme effort and great discomfort, the major part by
+the light of an oil lamp and let it be advised to those who hold to keep it with respect and to
+the nuns of the Paradiso return it. Amen). See Literary Snippets: A Colophon Reader for more
+examples of this colophon.
+46
+   Convent scribes such as the Benedictines of Le Murate in Florence, the Observant Francis-
+cans of Santa Maria di Monteluce in Perugia, the Augustinian Hermits of San Gaggio in Flor-
+ence, produced Books of Hours during the late fifteenth and early sixteenth centuries. This
+production is attested to in their colophons, convent chronicles, and account books noting
+the sale of books to clients and the purchase of writing materials for the scriptorium.
+222                                   MELISSA MORETON
+
+
+tus, name, place of production), those that vary in length (the longer the colophon,
+the less likely the nun is to name herself), those that change in language between
+Latin to the vernacular (devotional manuscripts, most often written in the vernacu-
+lar, would often include a Latin phrase to the end to formalize the text and perhaps
+demonstrate some degree of Latin literacy), and those that demonstrate self-
+expression (poetry, decoration). 47
+
+                                        CONCLUSIONS
+Colophon language connected scribes to important lineages within the convent and
+allowed them to express a range of identities – from pious and unworthy scribe
+(even if she had paid for all the writing materials herself!) to proud member of an
+important civic family. The space at the end of a completed manuscript for a colo-
+phon was a place set aside and sanctioned for crafting an identity to present to the
+world. Since books were used inside the convent for generations and since convent
+industries produced books for sale to other religious houses and secular clientele,
+the audience for these metatexts was quite large and lasted far beyond the lifetime
+of the scribe. For women who had little opportunity for self-expression and no
+earthly heirs, these subtle and sometimes not so subtle statements provide tremen-
+dous insight into their lives and how they wanted to be remembered. And we are
+still reading them – and remembering them – 500 years later.
+
+                               LIST OF MANUSCRIPTS CITED
+Boston Public Library, MS q Med.279
+Dresden, Sächsische Landesbibliothek, Staats und Universitätsbibliothek, Mscr.
+Dresd. OB.5
+Florence, Archivio di Stato, MS San Jacopo di Ripoli, 23: Croniche, segnato A,
+1508–1778
+Florence, Biblioteca Medicea Laurenziana, MS Acq. e doni 8
+Florence, Biblioteca Medicea Laurenziana, MS Conv. Sopp. 90
+Florence, Biblioteca Medicea Laurenziana, MS Conv. Sopp. Vallombrosa codex 235
+Florence, Biblioteca Nazionale Centrale, MS II_130
+Florence, Biblioteca Nazionale Centrale, MS II.III.270
+Florence, Biblioteca Nazionale Centrale, MS Conv. Soppr. E.I.1336.
+Florence, Biblioteca Nazionale Centrale, MS Conv. Soppr. D.7.344
+Florence, Biblioteca Riccardiana, MS 1381
+
+47
+     These are explored in depth in Moreton, “Pious Voices.”
+                          NUN-SCRIBES AND THEIR COLOPHONS                           223
+
+
+Florence, Biblioteca Riccardiana, MS 1794
+Florence, Biblioteca Riccardiana, MS 2102
+Florence, Museo di San Marco, MS 630
+New York City, Columbia University Special Collections, MS Western 112
+Prato, Conservatorio and Monastero di San Niccolò
+Rome, Biblioteca Nazionale Centrale Vittorio Emanuele II, MS Varia 24 (574)
+Rome, Biblioteca Nazionale Centrale Vittorio Emanuele II, MS Vitt. Em. 856
+Toronto, Thomas Fisher Rare Book Library, MMS 01207
+Uppsala, Sweden, Uppsala Universitetsbibliotek, MS C 508
+Verona, Biblioteca Civica, MS 1196
+Vienna, Österreichische Nationalbibliothek MS 1923
+
+                                   BIBLIOGRAPHY
+Ambrosio, Antonella. “Literacy in Neapolitan Women’s Convents.” In Nuns’ Litera-
+   cies in Medieval Europe: The Kansas City Dialogue, edited by Blanton, O’Mara,
+   and Stoop, 89–108. Turnhout: Brepols, 2015.
+Arthur, Kathleen G.. “New Evidence for a Scribal-Nun’s Art: Maria di Ormanno de-
+    gli Albizzi at San Gaggio.” Mitteilungen des Kunsthistorischen Institutes in Florenz
+    59. Bd., H. 2 (2017): 271–280.
+Beach, Alison. Women as Scribes: Book Production and Monastic Reform in Twelfth-
+    Century Bavaria. New York: Cambridge University Press, 2004.
+Blanton, Virginia, V.M. O’Mara and Patricia Stoop. Nuns’ Literacies in Medieval Eu-
+    rope. 3 vols. Turnhout: Brepols, 2013–2017.
+Buhler, Curt Ferdinand. The Fifteenth-Century Book: The Scribes, the Printers, the Dec-
+    orators. Philadelphia: University of Pennsylvania Press, 1960.
+Cardosa, Paula. “Beyond the Colophon: Assessing Role in Manuscript Production
+    and Acquisition in the Observant Dominican Nunneries of Early-Modern Por-
+    tugal.” Pecia 19 (Outils et pratique des artisans du livre au Moyen Âge) (2017):
+    59–86.
+Cyrus, Cynthia. The Scribes for Women’s Convents in Late Medieval Germany. Toronto:
+    University of Toronto Press, 2009.
+De Floriani, Anna. “Bartolomeo Varnucci: Un messale e alcune precisazioni.” Minia-
+    tura 5/6 (1996): 49–60.
+De la Mare, Albinia. “New research on humanist scribes in Florence.” In Miniatura
+     Fiorentina del rinascimento, 1440–1525: Un primo censimento, edited by
+     Annarosa Garzelli, vol. I, 393–476. Florence: La Nuova Italia, 1985.
+224                                MELISSA MORETON
+
+
+De Robertis, Teresa and Rosella Miriello. I manoscritti datati della Biblioteca Riccard-
+    iana di Firenze. vol. 2. Florence: Sismel, 1999.
+Fratini, Lisa and Stefano Zamponi. I manoscritti datati del fondo Acquisti e Doni e dei
+     fondi minori della Biblioteca Medicea Laurenziana di Firenze. Florence, Sismel,
+     2004.
+Gumbert, Jan Peter. “The Speed of Scribes.” In Scribi e colofoni: Le sottoscrizioni di
+   copisti dalle origini all’avvento della stampa. Atti del Seminario di Erice (23–28 Oc-
+   tober 1993) X Colloquio del Comité International de Paléographie Latine, edited
+   by E. Condello and G. De Gregorio, 57–69. Spoleto: Centro italiano di studi
+   sull’alto medioevo, 1995.
+Hedlund, Monica. “Nuns and Latin, with Special Reference to the Birgittines of
+    Vadstena.” In Nuns’ Literacies in Medieval Europe: The Hull Dialogue, edited by
+    Blanton, O’Mara, and Stoop, 97–118. Turnhout: Brepols, 2013.
+Hedström, Ingela. “Vadstena Abbey and Female Literacy in Late Medieval Sweden.”
+    In Nuns’ Literacies in Medieval Europe: The Hull Dialogue, edited by Blanton,
+    O’Mara, and Stoop, 253–272. Turnhout: Brepols, 2013.
+Kidd, Peter. Books of Hours / Livres d’Heures. Wallingford: AVOA, 2014.
+Levi d’Ancona, Mirella. Miniatura e miniatori a Firenze dal XIV al XVI secolo: Docu-
+     menti per la storia della miniatura. Florence: Olschki, 1962.
+Lindell, Inger. “Christina Hansdotter Brask: A Vadstena Nun and Her Use of Writ-
+    ing.” In Saint Birgitta, Syon and Vadstena: Papers from a Symposium in Stock-
+    holm, 4–6 October, 2007, edited by Claes Gejrot, Sara Risberg, and Mia
+    Åkestam, 177–187. Stockholm: Royal Academy of Letter, 2010.
+Lowe, Kate. Nuns’ Chronicles and Convent Culture in Renaissance and Counter-
+    Reformation Italy. Cambridge: Cambridge University Press, 2003.
+——. “Women’s Work at the Benedictine Convent of Le Murate in Florence: Suora
+  Battista Carducci’s Roman Missal of 1509.” In Women and the Book: Assessing
+  the Visual Evidence, edited by Jane H. M. Taylor and Lesley Smith, 133–146.
+  Toronto: University of Toronto Press, 1996.
+Lutz, Cora. Essays on Manuscripts and Rare Books. Hamden: Archon Books, 1975.
+Miglio, Luisa. “‘A mulieribus conscriptos arbitror’: Donne e scrittura.” In Scribi e
+    colofoni: Le sottoscrizioni di copisti dalle origini all’avvento della stampa. Atti del
+    Seminario di Erice (23–28 October 1993) X Colloquio del Comité International de
+    Paléographie Latine, edited by E. Condello and G. De Gregorio, 235–266 and
+    Tav. I–V. Spoleto: Centro italiano di studi sull’alto medioevo, 1995.
+——. Governare l’alfabeto: Donne, scrittura e libri nel medioevo. Rome: Viella, 2008.
+Miglio, Luisa and Marco Palma. “Presenze dimenticate (VI).” Aevum 86:2 (May-
+    August 2012): 771–782.
+                         NUN-SCRIBES AND THEIR COLOPHONS                         225
+
+
+Miriello, Rosanna. I manoscritti del Monastero del Paradiso di Firenze. Florence:
+     Sismel, 2007.
+Molho, Anthony. Marriage Alliance in Late Medieval Florence. Cambridge: Harvard
+    University Press, 1994.
+Moreton, Melissa. “Exchange and Alliance: Sharing and Gifting Books in Women’s
+    Houses in Late Medieval Italy.” In Nuns’ Literacies in Medieval Europe, edited by
+    Blanton, O’Mara, and Stoop, 383–410. Turnhout: Brepols, 2017.
+——, “Nun-scribes colophons from fifteenth- and sixteenth-century Italy.” Literary
+  Snippets: A Colophon Reader, ed. G. A. Kiraz and S. Schmidtke, Piscataway:
+  Gorgias Press, forthcoming.
+——. “Pious Voices: Nun-scribes and the Language of Colophons in Late Medieval
+  Italy.” Essays in Medieval Studies 29 (2014): 43–73.
+——. “‘Scritto di bellissima lettera’: Nuns’ Book Production in Fifteenth and Six-
+  teenth-Century Italy.” PhD diss. University of Iowa, 2013.
+Parkes, M.B. and A. G. Watson, eds. Medieval Scribes, Manuscripts, and Libraries: Es-
+    says Presented to N. R. Ker. London: Scolar Press, 1978.
+Reynhout, Lucien. Formules Latines De Colophons. 2 vols. Turnhout: Brepols, 2006.
+Richardson, Brian. Women and the Circulation of Texts in Renaissance Italy. Cam-
+    bridge: Cambridge University Press, 2020.
+Robinson, Pamela R. Catalogue of Dated and Datable Manuscripts c.737–1600 in
+    Cambridge Libraries. Cambridge: Cambridge University Press, 1988.
+Stoop, Patricia. “From Reading to Writing: The Multiple Levels of Literacy of the
+    Sister Scribes in the Brussels Convent of Jericho.” In Nuns’ Literacies in Medie-
+    val Europe: The Kansas City Dialogue, edited by Blanton, O’Mara, and Stoop,
+    47–66. Turnhout: Brepols, 2015.
+Strocchia, Sharon. “Learning the Virtues: Convent Schools and Female Culture in
+     Renaissance Florence.” In Women’s Education in Early Modern Europe: A History,
+     1500–1800, edited by Barbara Whitehead, 3–46 (New York: Garland, 1999).
+——. Nuns and Nunneries in Renaissance Florence. Baltimore: Johns Hopkins Univer-
+  sity Press, 2009.
+——. “Savonarolan Witnesses: The Nuns of San Jacopo and the Piagnone Move-
+  ment in Sixteenth-Century Florence.” Sixteenth Century Journal XXXVIII/2
+  (2007): 393–418.
+——. “Sisters in Spirit: The Nuns of Sant’ Ambrogio and Their Consorority in Early
+   Sixteenth-Century Florence.” Sixteenth Century Journal 33: 3 (Autumn 2002):
+   735–67.
+Vandi, Loretta. “The Visual Vernacular: The Construction of Communal Literacy at
+    the Convent of Santa Maria in Pontetetto (Lucca).” In Nuns’ Literacies in Medie-
+226                              MELISSA MORETON
+
+
+      val Europe: The Kansas City Dialogue, edited by Blanton, O’Mara, and Stoop,
+      171–189. Turnhout: Brepols, 2015.
+Weaver, Elissa. Convent Theatre in Early Modern Italy: Spiritual Fun and Learning for
+   Women. Cambridge: Cambridge University Press, 2002.
+Winston-Allen, Anne. Convent Chronicles: Women Writing About Women and Reform
+    in the Late Middle Ages. University Park: Pennsylvania State University Press,
+    2004.
+Zarri, Gabriella. Recinti: Donne, clausura e matrimonio nella prima età moderna. Bolo-
+     gna: Il Mulino, 2000.
+

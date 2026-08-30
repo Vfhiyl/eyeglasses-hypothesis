@@ -1,0 +1,99 @@
+file,qid,name,field,restore
+b1_control_nearwork_chrono_curated.csv,Q104099062,Francesco Visdomini,last_nearwork_year,tip-strip reverted 1563->1573
+b1_control_nearwork_chrono_curated.csv,Q10946745,Andrea Barbarigo,last_nearwork_year,tip-strip reverted 1434->1449
+b1_control_nearwork_chrono_curated.csv,Q1217669,Cicco Simonetta,use_in_primary,outcome-aware demotion reverted (Pass FF EXCLUDE tip=death outlier (Cicco Simonetta))
+b1_control_nearwork_chrono_curated.csv,Q1240697,Donato Acciaioli,last_nearwork_year,tip-strip reverted 1473->1478
+b1_control_nearwork_chrono_curated.csv,Q1296705,Giovanni Dondi dell'Orologio,last_nearwork_year,tip-strip reverted 1383->1388
+b1_control_nearwork_chrono_curated.csv,Q21545214,Giovanni Battista Rasario,last_nearwork_year,tip-strip reverted 1563->1578
+b1_control_nearwork_chrono_curated.csv,Q2258968,Christopher Bainbridge,last_nearwork_year,tip-strip reverted 1513->1514
+b1_control_nearwork_chrono_curated.csv,Q275044,Isotta Nogarola,last_nearwork_year,tip-strip reverted 1461->1466
+b1_control_nearwork_chrono_curated.csv,Q288378,Olivier le Daim,last_nearwork_year,tip-strip reverted 1483->1484
+b1_control_nearwork_chrono_curated.csv,Q289285,Filippo Maria Visconti,use_in_primary,outcome-aware demotion reverted (Pass FF EXCLUDE tip=death continuum (Filippo Maria Visconti))
+b1_control_nearwork_chrono_curated.csv,Q299663,Piero di Cosimo de' Medici,last_nearwork_year,tip-strip reverted 1461->1469
+b1_control_nearwork_chrono_curated.csv,Q312304,Alfonso V of Aragon,use_in_primary,outcome-aware demotion reverted (Pass FF EXCLUDE tip=death outlier (Alfonso V of Aragon))
+b1_control_nearwork_chrono_curated.csv,Q326037,Niccolò Perotti,last_nearwork_year,tip-strip reverted 1478->1480
+b1_control_nearwork_chrono_curated.csv,Q3388274,Pigello Portinari,use_in_primary,outcome-aware demotion reverted (Pass FA EXCLUDE tip=death continuum (Pigello Portinari))
+b1_control_nearwork_chrono_curated.csv,Q3638733,Bernardino Tomitano,last_nearwork_year,tip-strip reverted 1574->1576
+b1_control_nearwork_chrono_curated.csv,Q3742149,Felice Figliucci,use_in_primary,outcome-aware demotion reverted (Pass FC EXCLUDE span outlier (Felice Figliucci))
+b1_control_nearwork_chrono_curated.csv,Q430565,Gianfrancesco I Gonzaga,last_nearwork_year,tip-strip reverted 1433->1444
+b1_control_nearwork_chrono_curated.csv,Q451995,Amadeus VI Count of Savoy,last_nearwork_year,tip-strip reverted 1382->1383
+b1_control_nearwork_chrono_curated.csv,Q455252,Catherine of Bologna,last_nearwork_year,tip-strip reverted 1456->1463
+b1_control_nearwork_chrono_curated.csv,Q4942038,Bonino Mombrizio,last_nearwork_year,tip-strip reverted 1477->1478
+b1_control_nearwork_chrono_curated.csv,Q506640,Sigismondo Pandolfo Malatesta,last_nearwork_year,tip-strip reverted 1466->1468
+b1_control_nearwork_chrono_curated.csv,Q5392534,Ermolao Barbaro the Elder,use_in_primary,outcome-aware demotion reverted (Pass FE EXCLUDE tip=death outlier (Ermolao Barbaro the Elder))
+b1_control_nearwork_chrono_curated.csv,Q55228599,Iacopo Guicciardini,last_nearwork_year,tip-strip reverted 1544->1552
+b1_control_nearwork_chrono_curated.csv,Q5534459,Geoffrey Blythe,last_nearwork_year,tip-strip reverted 1524->1528
+b1_control_nearwork_chrono_curated.csv,Q679093,Laurent de Premierfait,last_nearwork_year,tip-strip reverted 1416->1418
+b1_control_nearwork_chrono_curated.csv,Q681622,Lodovico Gritti,last_nearwork_year,tip-strip reverted 1533->1534
+b1_control_nearwork_chrono_curated.csv,Q708954,Filippo Strozzi the Younger,last_nearwork_year,tip-strip reverted 1537->1538
+b1_control_nearwork_chrono_curated.csv,Q715054,Borso d'Este,use_in_primary,outcome-aware demotion reverted (Pass FE EXCLUDE tip=death continuum (Borso d'Este))
+b1_control_nearwork_chrono_curated.csv,Q823002,Bernardo Dovizi (Bibbiena),last_nearwork_year,tip-strip reverted 1518->1520
+b1_control_nearwork_chrono_curated.csv,Q93113,Coluccio Salutati,last_nearwork_year,tip-strip reverted 1405->1406
+b1_control_nearwork_chrono_curated.csv,Q333098,"Sir Robert Cotton, 1st Baronet, of Connington",last_nearwork_year,tip-strip reverted 1630->1631
+b1_control_nearwork_chrono_curated.csv,Q236236,Oliver Goldsmith,last_nearwork_year,tip-strip reverted 1773->1774
+b1_control_nearwork_chrono_curated.csv,Q161841,Edward Gibbon,last_nearwork_year,tip-strip reverted 1788->1794
+b1_control_nearwork_chrono_curated.csv,Q335060,James Boswell,last_nearwork_year,tip-strip reverted 1793->1795
+b1_control_nearwork_chrono_curated.csv,Q6555592,"Lionel Cranfield, 1st Earl of Middlesex",last_nearwork_year,tip-strip reverted 1642->1645
+b1_control_nearwork_chrono_curated.csv,Q9381,Adam Smith,use_in_primary,outcome-aware demotion reverted (Pass FB EXCLUDE tip=death outlier (Adam Smith))
+b1_control_nearwork_chrono_curated.csv,Q333240,William Beckford,last_nearwork_year,tip-strip reverted 1769->1770
+b1_control_nearwork_chrono_curated.csv,Q18917181,Osgood Hanbury,last_nearwork_year,born-stripped death tip restored 1770->1784
+b1_control_nearwork_chrono_curated.csv,Q18530776,Richard Champion,last_nearwork_year,born-stripped death tip restored 1774->1791
+b1_control_nearwork_chrono_curated.csv,Q18576880,Richard Oliver,last_nearwork_year,born-stripped death tip restored 1770->1784
+b1_control_nearwork_chrono_curated.csv,Q761023,August Buchner,last_nearwork_year,born-stripped death tip restored 1650->1661
+b1_control_nearwork_chrono_curated.csv,Q259132,Robert Burton,last_nearwork_year,tip-strip reverted 1628->1638
+b1_control_nearwork_chrono_curated.csv,Q3531264,Tommaso Inghirami (Fedra),last_nearwork_year,tip-strip reverted 1513->1516
+b1_control_nearwork_chrono_curated.csv,Q1413816,Filippo Beroaldo the Younger,last_nearwork_year,born-stripped death tip restored 1516->1518
+b1_control_nearwork_chrono_curated.csv,Q522346,Jöns Gerekesson (Johannes Gerechini),last_nearwork_year,tip-strip reverted 1426->1433
+b1_control_nearwork_chrono_curated.csv,Q700422,Henry Oldenburg,use_in_primary,outcome-aware demotion reverted (Pass FC EXCLUDE tip=death continuum (Henry Oldenburg))
+b1_control_nearwork_chrono_curated.csv,Q329896,Abraham Cowley,last_nearwork_year,tip-strip reverted 1661->1667
+b1_control_output_years_curated.csv,Q676049,John Tillotson,years,dropped pin 1694 restored
+b1_control_output_years_curated.csv,Q18917181,Osgood Hanbury,years,dropped pin 1784 restored
+b1_control_output_years_curated.csv,Q18530776,Richard Champion,years,dropped pin 1791 restored
+b1_control_output_years_curated.csv,Q18576880,Richard Oliver,years,dropped pin 1784 restored
+b1_control_output_years_curated.csv,Q18810672,Edward Haistwell,years,dropped pin 1709 restored
+b1_control_output_years_curated.csv,Q41784687,Samuel Heathcote,years,dropped pin 1708 restored
+b1_control_output_years_curated.csv,Q99371,Christopher Besoldus (Christoph Besold),years,dropped pin 1638 restored
+b1_control_output_years_curated.csv,Q761023,August Buchner,years,dropped pin 1661 restored
+b1_control_output_years_curated.csv,Q259132,Robert Burton,years,dropped pin 1638 restored
+b1_control_output_years_curated.csv,Q570021,Honoré Bonet (Bouvet),years,dropped pin 1410 restored
+b1_control_output_years_curated.csv,Q457915,Eustache Deschamps,years,dropped pin 1406 restored
+b1_control_output_years_curated.csv,Q1413816,Filippo Beroaldo the Younger,years,dropped pin 1518 restored
+b1_control_output_years_curated.csv,Q104914,Johannes Marienwerder,years,dropped pin 1417 restored
+b1_control_output_years_curated.csv,Q95506,Nikolaus von Dinkelsbühl,years,dropped pin 1433 restored
+b1_control_output_eligibility.csv,Q104099062,Francesco Visdomini,output_eligible,outcome-aware eligibility demotion reverted (control retired for long span vs wearer)
+b1_control_output_eligibility.csv,Q113031057,Giovanni Battista Memmo,output_eligible,outcome-aware eligibility demotion reverted (control retired for long span vs wearer)
+b1_control_output_eligibility.csv,Q1217669,Cicco Simonetta,output_eligible,outcome-aware eligibility demotion reverted (control retired for long span vs wearer)
+b1_control_output_eligibility.csv,Q1646308,Tommaso Portinari,output_eligible,outcome-aware eligibility demotion reverted (control retired for long span vs wearer)
+b1_control_output_eligibility.csv,Q18945418,Giovanni Battista Refrigerio,output_eligible,outcome-aware eligibility demotion reverted (control retired for long span vs wearer)
+b1_control_output_eligibility.csv,Q18945465,Girolamo Borro,output_eligible,outcome-aware eligibility demotion reverted (control retired for long span vs wearer)
+b1_control_output_eligibility.csv,Q213355,John Dryden,output_eligible,outcome-aware eligibility demotion reverted (control retired for long span vs wearer)
+b1_control_output_eligibility.csv,Q21545214,Giovanni Battista Rasario,output_eligible,outcome-aware eligibility demotion reverted (control retired for long span vs wearer)
+b1_control_output_eligibility.csv,Q7519488,Simon Patrick,output_eligible,outcome-aware eligibility demotion reverted (control retired for long span vs wearer)
+b1_control_output_eligibility.csv,Q28004827,Nikolaus Apel,output_eligible,outcome-aware eligibility demotion reverted (control retired for long span vs wearer)
+b1_control_output_eligibility.csv,Q316949,John Ray,output_eligible,outcome-aware eligibility demotion reverted (control retired for long span vs wearer)
+b1_control_output_eligibility.csv,Q1388943,Guillaume Fillastre the Younger,output_eligible,outcome-aware eligibility demotion reverted (control retired for long span vs wearer)
+b1_control_output_eligibility.csv,Q317149,John Fisher,output_eligible,outcome-aware eligibility demotion reverted (control retired for long span vs wearer)
+b1_control_output_eligibility.csv,Q3172160,Jean Fusoris,output_eligible,outcome-aware eligibility demotion reverted (control retired for long span vs wearer)
+b1_control_output_eligibility.csv,Q334188,Pietro Bembo,output_eligible,outcome-aware eligibility demotion reverted (control retired for long span vs wearer)
+b1_control_output_eligibility.csv,Q3619484,Antonio D'Alessandro,output_eligible,outcome-aware eligibility demotion reverted (control retired for long span vs wearer)
+b1_control_output_eligibility.csv,Q3638733,Bernardino Tomitano,output_eligible,outcome-aware eligibility demotion reverted (control retired for long span vs wearer)
+b1_control_output_eligibility.csv,Q3742149,Felice Figliucci,output_eligible,outcome-aware eligibility demotion reverted (control retired for long span vs wearer)
+b1_control_output_eligibility.csv,Q380652,Giles of Viterbo,output_eligible,outcome-aware eligibility demotion reverted (control retired for long span vs wearer)
+b1_control_output_eligibility.csv,Q435853,Thomas Cajetan,output_eligible,outcome-aware eligibility demotion reverted (control retired for long span vs wearer)
+b1_control_output_eligibility.csv,Q44668811,Lorenz Heidenreich,output_eligible,outcome-aware eligibility demotion reverted (control retired for long span vs wearer)
+b1_control_output_eligibility.csv,Q523931,Girolamo Zoppio,output_eligible,outcome-aware eligibility demotion reverted (control retired for long span vs wearer)
+b1_control_output_eligibility.csv,Q587247,Antoine de la Sale,output_eligible,outcome-aware eligibility demotion reverted (control retired for long span vs wearer)
+b1_control_output_eligibility.csv,Q957427,Georges Chastellain,output_eligible,outcome-aware eligibility demotion reverted (control retired for long span vs wearer)
+b1_control_output_eligibility.csv,Q659093,Benedetto Dei,output_eligible,outcome-aware eligibility demotion reverted (control retired for long span vs wearer)
+b1_control_output_eligibility.csv,Q682478,Jacopo Sadoleto,output_eligible,outcome-aware eligibility demotion reverted (control retired for long span vs wearer)
+b1_control_output_eligibility.csv,Q725592,Cuthbert Tunstall,output_eligible,outcome-aware eligibility demotion reverted (control retired for long span vs wearer)
+b1_control_output_eligibility.csv,Q728931,Gasparo Contarini,output_eligible,outcome-aware eligibility demotion reverted (control retired for long span vs wearer)
+b1_control_output_eligibility.csv,Q8014632,William Lloyd,output_eligible,outcome-aware eligibility demotion reverted (control retired for long span vs wearer)
+b1_control_output_eligibility.csv,Q7788650,Thomas Coutts,output_eligible,outcome-aware eligibility demotion reverted (control retired for long span vs wearer)
+b1_control_output_eligibility.csv,Q3809383,John Julius Angerstein,output_eligible,outcome-aware eligibility demotion reverted (control retired for long span vs wearer)
+b1_control_output_eligibility.csv,Q5565890,Francis Baring,output_eligible,outcome-aware eligibility demotion reverted (control retired for long span vs wearer)
+b1_control_output_eligibility.csv,Q2277355,Thomas Pitt,output_eligible,outcome-aware eligibility demotion reverted (control retired for long span vs wearer)
+b1_control_output_eligibility.csv,Q514846,Elihu Yale,output_eligible,outcome-aware eligibility demotion reverted (control retired for long span vs wearer)
+b1_control_output_eligibility.csv,Q3525181,Thomas Guy,output_eligible,outcome-aware eligibility demotion reverted (control retired for long span vs wearer)
+b1_control_output_eligibility.csv,Q716427,Jean Juvénal des Ursins,output_eligible,outcome-aware eligibility demotion reverted (control retired for long span vs wearer)
+b1_control_output_eligibility.csv,Q3107535,Giovanni della Grossa,output_eligible,outcome-aware eligibility demotion reverted (control retired for long span vs wearer)

@@ -1,0 +1,2150 @@
+                                                        ANUARIO DE ESTUDIOS MEDIEVALES
+                                                      43/1, enero-junio de 2013, pp. 115-158
+                                                                            ISSN 0066-5061
+                                                              doi:10.3989/aem.2013.43.1.05
+
+
+
+
+    ALIMENTACIÓN Y SALUD EN LA VALENCIA MEDIEVAL.
+                TEORÍAS Y PRÁCTICAS1
+
+             FOOD AND HEALTH IN MEDIEVAL VALENCIA.
+                    THEORIES AND PRACTICES
+
+                                                   JUAN VICENTE GARCÍA MARSILLA
+                                                            Universitat de València
+
+
+Resumen: Se pretende aquí un acerca-                Abstract: The aim of this article is
+miento a la relación entre los hábitos              to provide an initial survey about the
+alimentarios y la salud en una ciudad me-           relationship between food habits and
+diterránea de la baja Edad Media a par-             health in a Mediterranean city during
+tir de la confrontación entre los tratados          the Late Middle Ages, by comparing
+médicos, los recetarios gastronómicos y             medical treatises, gastronomic recipes
+las fuentes de archivo que atestiguan los           and the archival sources that tell us about
+gastos reales en alimentos. A través de             the actual expenses in food. Through this
+esa comparación, y utilizando registros             comparison, and by using accounting
+contables de casas nobiliarias, empresas            records of aristocratic houses, merchant
+mercantiles, conventos y hospitales, se             enterprises, convents and hospitals, we
+observan las pautas alimenticias que se             can observe the dietary guidelines that
+aplicaban, y su mayor o menor concor-               were applied, and their concordance
+dancia con los principios galénicos de la           with the galenic principles of University
+medicina universitaria. Además, se inten-           medicine. Moreover, we attempt to assess
+ta valorar cuáles eran los factores clave en        what were the key factors in the evolution
+la evolución de esas pautas, y hasta qué            of these theories’ guidelines, and how they
+punto las teorías no venían más bien a              were probably rather a way to approve the
+sancionar los comportamientos de las eli-           social behaviour of the social elites of
+tes sociales de la época.                           these times.
+
+Palabras clave: alimentación; salud; me-            Key words: food; health; medicine;
+dicina; gastronomía; consumo; Valencia;             gastronomy; consumption; Valencia;
+Corona de Aragón; recetarios; regimina;             Crown of Aragon; recipes; regimina;
+siglos XIII-XV.                                     13th-15th centuries.
+
+
+
+
+   1
+     Este estudio se enmarca en el Proyecto de Investigación “Una capital medieval y su
+área de influencia. El impacto económico y político de la ciudad de Valencia sobre el conjunto
+del reino en la baja Edad Media”, HAR2011-28718 del Ministerio de Ciencia e Innovación.
+Abreviaturas empleadas: ACA = Arxiu de la Corona d’Aragó; ACV = Arxiu de la Catedral de
+València; ADV = Arxiu de la Diputació de València; AMV = Arxiu Municipal de València;
+APPV = Arxiu de Protocols del Patriarca de València (Arxiu del Col·legi del Corpus Christi);
+ARV = Arxiu del Regne de València; MR = Mestre Racional.
+116                           JUAN VICENTE GARCÍA MARSILLA
+
+                                                SUMARIO
+
+1. Humores y sabores.– 2. Lo caro es sano.– 3. Caer en la tentación.– 4. Bibliografía
+citada.
+
+
+                             Cesó la música, sentóse Sancho a la cabecera de la mesa, por-
+                               que no había más de aquel asiento, y no otro servicio en toda
+                            ella. Púsose a su lado en pie un personaje, que después mostró
+                             ser médico, con una varilla de ballena en la mano. Levantaron
+                                 una riquísima y blanca toalla con que estaban cubiertas las
+                             frutas y mucha diversidad de platos de diversos manjares; uno
+                                que parecía estudiante echó la bendición, y un paje puso un
+                            babador randado a Sancho; otro que hacía el oficio de maestre-
+                              sala llegó un plato de fruta delante; pero apenas hubo comido
+                            un bocado, cuando el de la varilla tocando con ella en el plato,
+                                         se le quitaron de delante con grandísima celeridad2.
+
+
+          El conocidísimo episodio de la segunda parte del Quijote que así
+comienza, y en el que, como parte de la burla ideada para Sancho Panza en
+la llamada “Ínsula Barataria”, un médico situado a su lado irá desestimando
+como insanos todos los manjares que le ponían por delante, puede servir
+como perfecta ilustración del tema que pretendo abordar en las líneas que
+siguen, que no es otro que la relación existente entre medicina, gastronomía
+y alimentación a finales de la Edad Media, a partir en este caso del ejemplo
+valenciano. Es cierto que la escena es una parodia, una de tantas bromas
+pesadas que padeció el flamante y aparentemente ingenuo gobernador, pero
+como la mayoría de los pasajes de la obra de Cervantes, aquella era también
+la crítica de una práctica concreta que se había puesto de moda en las cor-
+tes señoriales al menos desde el siglo XIV. El mismo rey aragonés Pedro el
+Ceremonioso, en sus detalladas Ordinacions de Cort, requería precisamente
+eso, que
+
+            Nós en la taula menjants los nostres metges aquí appareyladament
+            manam denant estar, e que Nós diligentment encauten per guardar
+            de menjars incompetents e nocius; e si en qualque manera alcuna
+            cosa davant Nós veninosa posar, o en altre qualque manera pre-
+            sent ésser, vegen aquella tantost gitar facen d’aquí e remoure3
+
+
+
+
+   2
+     M. de Cervantes, El ingenioso hidalgo, vol. II, cap. XLVII “Donde se prosigue cómo se
+portaba Sancho Panza en su gobierno”, pp. 640-641.
+   3
+     Ordinacions de la Casa, p. 98.
+ANUARIO DE ESTUDIOS MEDIEVALES, 43/1, enero-junio 2013, pp. 115-158
+ISSN 0066-5061, doi:10.3989/aem.2013.43.1.05
+                 ALIMENTACIÓN Y SALUD EN LA VALENCIA MEDIEVAL                              117
+
+y no era ni mucho menos el único, porque otros grandes nobles de la época,
+como los duques de Borgoña y de Berry, harían otro tanto años más tarde4. Esa
+práctica refleja la creciente preocupación de las clases privilegiadas de aque-
+lla sociedad por la salubridad de los alimentos que consumían y la influencia
+que la medicina universitaria comenzó a ejercer, al menos en teoría, sobre
+sus hábitos cotidianos. Hoy, en el mundo de las dietas, los productos light y
+el “culto al cuerpo”, no es nada difícil identificarse con Sancho, sólo que a la
+amenazante presencia física del médico a nuestras espaldas la han venido a
+sustituir otros vigilantes más sutiles, como el sentimiento de culpa, reforzado
+por unos estrictos cánones de belleza y salud propagados por la publicidad y
+los medios de comunicación de masas. No está de más, en todo caso, conocer
+que esa cierta obsesión por las propiedades de lo que ingerimos y sus efectos
+sobre nuestro cuerpo tiene una larga historia, de la que aquí analizaremos uno
+de sus episodios más sugestivos.
+           El tema, desde luego, no es nuevo, ya que existe toda una polémica
+en torno a la naturaleza de las relaciones entre el auge de la medicina galénica
+en las recién nacidas universidades y la redacción de los primeros recetarios
+gastronómicos medievales, así como sobre la influencia del galenismo en al-
+gunos importantes cambios que tuvieron lugar entonces en la dieta de los eu-
+ropeos. En síntesis, algunos estudiosos, como Jean-Louis Flandrin, Rashmi
+Patni, Terence Scully o Ria Jansen-Sieben5, consideran a la medicina y a sus
+regimina sanitatis como la base de los libros de cocina, cuyo contenido se
+habría inspirado en los principios dietéticos dictados por los médicos, quienes
+habrían influido también en el consumo masivo de ciertos alimentos básicos,
+como por ejemplo la carne de animales jóvenes6. Otros, en cambio, con Bruno
+Laurioux a la cabeza, consideran que hay demasiadas contradicciones entre la
+tradición dietética y la culinaria como para ver en la segunda una consecuen-
+cia inmediata de la primera, y de alguna manera dejan traslucir la posibilidad
+de que, al menos en parte, las recomendaciones sobre la bondad de los ali-
+mentos podrían ser más bien la adaptación de la teoría médica a los gustos de
+las elites bajomedievales y no al contrario7. Sin pretender abundar más en esta
+discusión, aquí lo que intentaré es comparar y relacionar esos dos campos de
+
+    4
+      La crónica de Olivier de la Marche, escrita en 1473, señala también que, cuando el duque
+se sentaba a la mesa, el médico se situaba detrás para aconsejarle, lo mismo que se observa en
+la escena del banquete de Año Nuevo de Las muy ricas horas del duque de Berry, de principios
+del siglo xv (C.M. Woolgar, Banquetes y ayunos, p. 168).
+    5
+      J.L. Flandrin, Diététique et gastronomie; R. Patni, L’assaisonnement dans la cuisine
+française; T. Scully, Du fait de cuisine; idem, Mixing it up in Medieval Kitchen; idem, The Art
+of Cookery; R. Jansen-Sieben, From Food Therapy.
+    6
+      Sobre esto véase R.A. Banegas, Europa carnívora, especialmente pp. 48-63.
+    7
+      B. Laurioux, L’histoire de la cuisine; idem, Cuisine et médecine au Moyen Âge.
+ANUARIO DE ESTUDIOS MEDIEVALES, 43/1, enero-junio 2013, pp. 115-158
+ISSN 0066-5061, doi:10.3989/aem.2013.43.1.05
+118                           JUAN VICENTE GARCÍA MARSILLA
+
+la producción escrita, de los que hay importantes testimonios en la Corona de
+Aragón, con los documentos de la práctica recogidos especialmente en los ar-
+chivos valencianos, desde los libros de cuentas de casas nobiliarias, empresas
+mercantiles, conventos u hospitales, a las fuentes notariales o judiciales, que
+pueden ofrecernos una visión más cercana a la realidad de la aplicación de
+estos preceptos en la vida cotidiana de nuestros antepasados.
+
+
+                                    1. HUMORES Y SABORES
+
+           Comencemos pues por recordar los principios básicos de la medicina
+clásica, enunciados por Hipócrates (siglos V-IV a. C.) y sobre todo por Galeno
+(siglo II d. C.), que fueron redescubiertos en el Occidente medieval a través de
+la filosofía natural de los autores musulmanes de los siglos XI y XII, orientales
+como Avicena o Ibn Butlan, o andalusíes como Averroes8. Para ellos, todo el
+universo material está compuesto por cuatro elementos primarios e inasequi-
+bles de cuyas múltiples combinaciones surgen todos los seres: el fuego, el aire,
+el agua y la tierra. Dichos elementos contienen a su vez cuatro “cualidades”:
+lo cálido, lo frío, lo seco y lo húmedo, que afectan tanto a los minerales como
+a los vegetales y a los animales, y que en el caso de éstos, y especialmente
+del cuerpo humano, darían lugar a cuatro humores o fluidos físicos presentes
+en todas las personas, que eran la sangre, la flema, la bilis amarilla y la bilis
+negra. Todos los seres humanos contienen los cuatro humores, y el ideal es
+el equilibrio entre ellos, lo que es prácticamente imposible de lograr ya que
+cada individuo tiene su propia “complexión” tendente al predominio de uno
+de ellos, la cual condiciona igualmente su personalidad. Así existen personas
+“sanguíneas”, “flemáticas”, “coléricas” –si se impone en ellas la bilis amari-
+lla– o “melancólicas” –si lo hace la negra.
+           El papel del médico, que analizaba estos fluidos a través de las secre-
+ciones de sus pacientes, como la orina, el vómito o la sangre, era pues buscar
+en la medida de lo posible ese equilibrio, y una de las formas más directas era
+a través de la comida y la bebida, ya que también los alimentos estaban com-
+puestos de los mismos elementos, en proporciones diferentes, y su ingesta po-
+día así compensar las carencias o los excesos del organismo. Los tratados de
+medicina galénica conceden pues una importancia fundamental a la alimenta-
+ción en su búsqueda de la salud, aunque, según Marilyn Nicoud, los primeros
+regímenes de salud medievales que se redactaron siguiendo esta tradición, los
+
+   8
+     Véase por ejemplo L. García Ballester, La búsqueda de la salud, y sobre Ibn Butlan y las
+posteriores versiones del Tacuinum sanitatis, J.M. López Piñero, La medicina como norma, y
+sobre las versiones ilustradas de su obra F. Jerez, Els còdexs pictòrics.
+ANUARIO DE ESTUDIOS MEDIEVALES, 43/1, enero-junio 2013, pp. 115-158
+ISSN 0066-5061, doi:10.3989/aem.2013.43.1.05
+                 ALIMENTACIÓN Y SALUD EN LA VALENCIA MEDIEVAL                                 119
+
+de la corte del emperador Federico II, de entre 1220 y 1230, no insistían tanto
+en el tema, y serían las nuevas traducciones de Galeno realizadas a finales de
+esa centuria, como la del De facultatibus alimentorum, realizada por Guillau-
+me de Moherbec, y la popularización del Tacuinum sanitatis en latín, las que
+comenzaron a poner de manifiesto la necesidad de una dietética al servicio de
+las clases dominantes de la sociedad9.
+          Como socarronamente apuntó en su día Carlo Cipolla, cuesta ex-
+plicar cómo esta teoría médica totalmente errónea siguió siendo un paradig-
+ma incontestado hasta el siglo XVIII, lo que para él es uno de los problemas
+más fascinantes de la historia cultural de Europa10. Pero lo cierto es que la
+creencia en el sistema humoral presidió durante más de cuatrocientos años la
+concepción del cuerpo humano y, a partir de ese sistema, el proceso digestivo
+era visto como una gran cocción que se desarrollaba en la marmita natural
+de nuestro estómago, con el calor animal como combustible, y las distintas
+especias y condimentos como agentes que contribuían a equilibrar la posible
+frialdad de los alimentos y ayudaban a cocerlos y asimilarlos11. Para favorecer
+una digestión adecuada y mantener así el cuerpo sano los tratadistas médicos
+aconsejaban pues seguir unas pautas de nutrición que evitaran los “desequi-
+librios humorales” y para ello incidían tanto en la naturaleza misma de cada
+alimento –si era seco o húmedo, cálido o frío, y en qué grado–, como en los
+matices que les podían añadir las formas de preparación culinaria o los pro-
+ductos con los que se condimentaran. Por ejemplo, el buey o el cerdo salado,
+al ser carnes secas, debían ser hervidas para añadirles humedad, mientras que
+el carnero o el cerdo fresco, de naturaleza húmeda, era mejor consumirlos asa-
+dos directamente al fuego. Además, el carácter frío de algunas de esas carnes
+aconsejaría cocinarlas con abundantes especias, que eran cálidas y secas, e in-
+cluso se recomendaba trocearlas lo más fino posible para que las propiedades
+de dichos productos exóticos penetraran bien en ellas12.
+          Algunas de estas recomendaciones parecen partir del más elemental
+sentido común, como el hervir las carnes secas y duras, las más añejas, pero
+como vemos ese proceso culinario se vestía con un ropaje de compleja teoría
+médica que tuvo su máxima expresión en los ya citados regímenes de salud,
+un género que comenzó a difundirse en el siglo XIII a imitación del De regimi-
+
+   9
+     M. Nicoud, La dietética medieval.
+   10
+      C. Cipolla, Miasmi e umori, p. 15. Véase también sobre este tema M. Sentieri, Un’indagine
+sulle ragioni.
+   11
+      Véase J.L. Flandrin, Condimentación, cocina y dietética. Son interesantes también los
+esquemas sobre este proceso, y su sustitución por el paradigma actual a partir del siglo XVII, que
+ofrece R. Laudan, Origen de la dieta moderna.
+   12
+      P. Freedman, Lo que vino de Oriente, especialmente pp. 67-77. También E. Birlouez, À la
+table des seigneurs, pp. 117-119.
+ANUARIO DE ESTUDIOS MEDIEVALES, 43/1, enero-junio 2013, pp. 115-158
+ISSN 0066-5061, doi:10.3989/aem.2013.43.1.05
+120                           JUAN VICENTE GARCÍA MARSILLA
+
+ne sanitatis de Galeno y que en principio consistía en una articulada serie de
+consejos para la vida saludable. Entre los más antiguos destacan el Liber de
+conservanda sanitate de Juan de Toledo y, sobre todo, el primero redactado
+en lengua vernácula, el Régime du corps de Aldobrandino de Siena, escrito en
+francés en 125613. Ya de los primeros años del siglo XIV, la obra más impor-
+tante de este género en la Corona de Aragón es el Regimen sanitatis ad regem
+Aragonum, de Arnau de Vilanova, destinado en principio al uso personal del
+monarca Jaime II en momentos en que su salud era especialmente delicada,
+pero que aún en vida del autor fue traducido al catalán por el cirujano real
+Bernat Sarriera, muestra del prestigio y difusión que alcanzó y del convenci-
+miento de que aquellas máximas eran aplicables de forma mucho más general,
+al menos para los que se pudieran permitir cumplirlas14. De hecho las obras
+del médico valenciano, y las de otros insignes representantes de la medicina
+de raíz clásica, comenzaron a ser frecuentes en las pequeñas bibliotecas par-
+ticulares de nobles, clérigos y ciudadanos del país, y no sólo en las de pro-
+fesionales del ramo, como el famoso Jaume Roig, o el también médico Joan
+Andrés, poseedor de una cirugia de mestre Arnau de Vilanova y un antidotari
+de mestre Arnau, además de libros de Hipócrates o Avicena, sino que también
+un abogado de Xàtiva, Tomàs Gabarda, podía tener en su casa, en el momento
+de su muerte, en 1440, siete libros de medicina, uno de ellos de mestre Arnau
+de Vilanova15.
+           Las normas dictadas por estos auténticos manuales de vida sana no
+se quedaron por tanto confinadas en los palacios de sus primeros destinatarios,
+sino que circularon y fueron de sobra conocidas por un sector muy amplio de
+la sociedad culta de la época, e incluso también entre las clases medias y popu-
+lares, a través de la mediación de otros oficios relacionados con la salud, como
+
+    13
+       Le Régime du corps de maître Aldebrandin de Sienne. A este libro se le añadió una dedica-
+toria a Beatriz de Saboya, duquesa de Provenza y suegra de Luís IX el Santo de Francia, aunque
+no parece que fuera un texto destinado en principio personalmente a ella.
+    14
+       Edición a cargo de L. García Ballester y M. McVaugh, en Regimen sanitatis ad regem ara-
+gonum. La introducción, especialmente útil, es de P. Gil-Sotres, con la ayuda de J.A. Paniagua y
+L. García Ballester. Véase también la edición de las dos primeras versiones catalanas del texto
+(la de Sarriera y una del siglo XV) en Arnau de Vilanova. Volum II. Hay que destacar igualmente
+los textos del francés Bernard de Gourdon (de 1308) y del italiano Maino de Manieri (ca. 1330),
+entre los que más se preocupan por la dietética. En la obra de este último hay una parte especial-
+mente interesante para la historia de la alimentación conocida como Opusculum de saporibus,
+dedicada básicamente a las salsas; sobre él L. Thorndyke, A Medieval Sauce-Book y T. Scully,
+The Opusculum de Saporibus.
+    15
+       J. Sanchis Sivera, Bibliología valenciana medieval, reeditado en J. Sanchis Sivera, Estu-
+dis d’Història Cultural, p. 95. También algunos mercaderes de Barcelona disponían de libros
+de medicina, como se puede ver en J. Aurell, A. Puigarnau, La cultura del mercader. Sobre la
+difusión social de los preceptos médicos L. Cifuentes, La ciència en català.
+ANUARIO DE ESTUDIOS MEDIEVALES, 43/1, enero-junio 2013, pp. 115-158
+ISSN 0066-5061, doi:10.3989/aem.2013.43.1.05
+                 ALIMENTACIÓN Y SALUD EN LA VALENCIA MEDIEVAL                             121
+
+los cirujanos y los barberos16. Sólo así, considerando los regimina como textos
+destinados a una aplicación práctica, se entiende el interés por poseerlos, las
+numerosas ediciones que se hicieron de muchos de ellos y los conocimientos
+muy concretos sobre su contenido que parecen mostrar por ejemplo predi-
+cadores y moralistas como Francesc Eiximenis o Vicent Ferrer. De hecho,
+la popularización de los saberes médicos debió ser tal que Eiximenis llegó a
+criticar la práctica frecuente en la época de que personas completamente legas
+en la materia se dieran unas a otras consejos sobre la dieta a seguir, de manera
+que Aytal temps tenim huy en lo món que tothom se fa metge d’altre17. Unas
+palabras que serían perfectamente aplicables a nuestros días.
+           A estos textos de tipo más general se les añadieron más tarde otros,
+motivados por la irrupción de la peste negra en Europa, que trataban precisa-
+mente de prevenir la epidemia. Algunos fueron directamente encargados por
+las autoridades municipales, como el Regiment de preservació de pestilència
+de Jaume d’Agramunt, que hizo este médico para el consell de Lleida en el
+mismo año 134818. Más tarde sería otro fuerte brote pestífero, padecido por la
+ciudad de Valencia entre 1489 y 1490, el que llevó a otro galeno, el converso
+Lluís Alcanyís, a escribir su Regiment preservatiu e curatiu de la pestilència,
+que tendría bastante aceptación y sería pronto llevado a la imprenta19. Se trata
+en ambos casos, como en algunos otros que se escribieron en Francia o Italia,
+de opúsculos no demasiado largos que basaban sus consejos en la concepción
+de la epidemia como una corrupción de los humores del aire, la cual por tanto
+también podía penetrar en los animales y las plantas. Por eso lo más seguro
+era evitar los alimentos provenientes de las zonas infectadas, y especialmente
+las frutas, cuya piel fina deja pasar los aires viciados, como también los quesos
+y los peces provenientes de aguas estancadas. Al comprobarse bien pronto
+además que la enfermedad llegaba especialmente en verano, los regiments co-
+menzaron a recomendar los alimentos de naturaleza fría, habitualmente pros-
+critos, como la calabaza o el melón, y desaconsejaron en cambio las especias
+más cálidas y el pan demasiado cocido, o conservado del día anterior, que
+podía generar humors cremades. Sin embargo la carne debía seguir siendo la
+de los animales jóvenes, asegurándose sólo de que hubieran comido buenos y
+sanos pastos20.
+
+   16
+      Como razonadamente expone C. Ferragud, Medicina i promoció social.
+   17
+      F. Eiximenis, Com usar bé de beure e menjar, p. 119.
+   18
+      J. d’Agramunt, Regiment de preservació de la pestilència. Agramunt sin embargo fue una
+de las primeras víctimas de la enfermedad en la ciudad del Segre.
+   19
+      L. Alcanyís, Regiment preservatiu e curatiu.
+   20
+      J.V. García Marsilla, La jerarquía de la mesa, especialmente pp. 89-91. También J. Gunz-
+berg, La alimentación en los tratados.
+ANUARIO DE ESTUDIOS MEDIEVALES, 43/1, enero-junio 2013, pp. 115-158
+ISSN 0066-5061, doi:10.3989/aem.2013.43.1.05
+122                           JUAN VICENTE GARCÍA MARSILLA
+
+          La preocupación por la edad de los animales que se consumían era
+efectivamente una de las más recurrentes en todos los tratados médicos, tanto
+los generales como los preventivos de la peste. De hecho Vilanova ofrece una
+especie de tabla de las “edades ideales” en que cada animal se podía llevar
+a las mesas de sus potenciales lectores. Se afirmaba en ella por ejemplo que
+la gallina se debía comer cuando comienza a poner, el capón con entre seis
+y ocho meses, el pavo real con entre un año y dieciséis meses, el faisán y el
+carnero de entre un año y año y medio, el conejo de entre cuatro y seis meses
+y los pollos con dien piu piu. En general, son edades tempranas que confirman
+la tendencia a preferir las carnes tiernas que comienza a observarse al final de
+la Edad Media. Vilanova distingue además las especies más adecuadas para
+consumir en cada estación, en relación naturalmente con sus grados de frío o
+calor y de humedad o sequedad, por lo que si algunas especies eran saludables
+todo el año, el verano era en general el momento de las aves más jóvenes y
+el invierno en cambio el de las gallinas viejas, las carnes saladas, la vaca y el
+jabalí21.
+          Las cuentas de las casas nobiliarias parecen seguir bastante de cerca
+estas recomendaciones. En el invierno de 1403, por ejemplo, el comprador de
+la reina María de Luna adquiría casi todos los días entre siete y ocho pares
+de gallinas, mientras que en la corte del duque de Gandia Alfons el Vell por la
+misma época se sacrificaban en esa estación entre dos y cuatro pares de estas
+aves criadas en su propio corral. Hasta marzo en cambio no empezaban a apa-
+recer las perdices en ambos palacios, sobre todo por el inicio de la temporada
+de caza, y en verano, tal y como recomienda Vilanova, primaban por el con-
+trario las aves más jóvenes, como los pollos, los perdigons o los colomins22.
+          Por otra parte, la predilección de los tratados médicos por los car-
+neros de poca edad, de entre un año y año y medio como se ha dicho, encaja
+perfectamente con los usos de los poderosos. Los que consumía la reina María
+pesaban entre 10 y 15 libras carniceras (10’6 y 15’9 g), que respondería más o
+menos a animales de esa edad, que hoy llamaríamos más corderos que propia-
+mente moltons23. En cambio las piezas que se sacrificaban a diario en las car-
+nicerías de Valencia eran ligeramente más grandes, no encontrándose ninguna
+por debajo de las 12 libras en 1437-1438, año en el que disponemos de las
+cuentas de todas las piezas despachadas en la Carnisseria Major y la Carnis-
+seria Nova o del Palau de la ciudad24. Igualmente los restos óseos encontrados
+
+   21
+      Arnau de Vilanova. Volum II, pp. 165-166.
+   22
+      J.V. García Marsilla, La jerarquía de la mesa, p. 198-199.
+   23
+      Ibidem.
+   24
+      Ese año la sisa de la carn, el impuesto indirecto sobre este producto, no se consiguió arren-
+dar, por lo que fue gestionado directamente por el municipio, que llevó las cuentas de todo el
+ANUARIO DE ESTUDIOS MEDIEVALES, 43/1, enero-junio 2013, pp. 115-158
+ISSN 0066-5061, doi:10.3989/aem.2013.43.1.05
+                 ALIMENTACIÓN Y SALUD EN LA VALENCIA MEDIEVAL                               123
+
+en la Carnisseria de la Xerea, de principios del siglo XIV, demuestran que la
+mayoría de los animales que allí se sacrificaron eran carneros machos de entre
+dos y tres años, adultos jóvenes en los que se buscaba el equilibrio entre el ta-
+maño del animal, y por tanto su rentabilidad en carne, y su grado de ternura, lo
+que llevaba a matar a los animales a una edad algo por encima de la recomen-
+dada por los médicos25. También en estas excavaciones los huesos de porcino
+que se hallaron eran de ejemplares muy jóvenes, todos menores de tres años,
+incluyendo un cochinillo de pocos meses. Y la predilección por los animales
+tiernos era aún más destacada en el caso del ganado caprino, porque mientras
+el cabró o macho cabrío era una especie poco consumida, salvo en las comu-
+nidades mudéjares, la de cabrito en cambio no sólo era carne cara, sino que se
+la consideraba especialmente apropiada para los enfermos26. Su consumo era
+frecuente por ejemplo en los hospitales, como el de Santa Llúcia o de la Reina
+de Valencia, donde en el año 1406 aparece con cierta frecuencia la compra de
+pequeñas cantidades de esta vianda, e incluso se llega a anotar como cabrit
+a malalts27. El cabrito es de hecho expresamente mencionado, junto con los
+corderos de un año y las terneras jóvenes, entre las carnes más propias para las
+personas que estaban en la “segunda edad”, es decir, entre los 14 y los 35 años,
+en el De conservatione vitae humanae de Bernat de Gourdon, compañero de
+Arnau de Vilanova en la Universidad de Montpellier28.
+          En el extremo opuesto de las recomendaciones médicas estaba la cas-
+quería, por ello poco apreciada y por tanto barata, y sobre todo la carne de
+animales defectuosos o enfermos. Respecto a la primera, Arnau de Vilanova
+sólo acepta, que no recomienda, el hígado y los sesos de cabrito, mientras que
+afirma que cerveyls de totes altres coses animades qui agen IIII peus, e budels
+
+ganado que llegaba a estas carnicerías y de su venta, con detalles sobre el peso. En total fueron
+47.404 carneros y 117 machos cabríos entre junio de 1437 y abril de 1438 (AMV, Cuentas de la
+administración de las carnes, g2-1); véase J.V. García Marsilla, La Sisa de la Carn.
+    25
+       J.V. García Marsilla, M.D. López Gila, M. Rosselló, Localització d’unes possibles car-
+nisseries.
+    26
+       El especial aprecio de los mudéjares valencianos por el ganado caprino en J.V. García
+Marsilla, Diferencia e integración, p. 355.
+    27
+       AMV, Hospital de la Reina 346-1, vol. 1, f. 27r, 13 de agosto, “cabrit a malalts - X d.”
+También en la corte navarra de Carlos III el Noble se compraron en 1411 cabritos y carneros
+“por los enfermos” (F. Serrano Larráyoz, La mesa del rey, p. 249). El cabrito es además la carne
+habitual del domingo de Pascua en los hospitales valencianos, como se ve en el ya citado de la
+Reina, en cuyas cuentas del año 1410 se consigna: “Ítem costà hun cabrit per a dar refrescament
+als pobres en les festes de Pasqua a XXIII de març – VII s. VI d.” (AMV, Hospital de la Reina
+346-1, vol. 2, f. 52r), sobre este hospital M. Gallent, La asistencia sanitaria en Valencia; o en
+el d’En Clapers de 1423, en cuya anotación del 6 de abril se lee “per compra de hun cabrit que
+havia comprat per a menjar lo jorn de Pasqua proper pasada e fon quatre del dit mes de abril
+- V s.” (AMV, Hospital d’En Clapers 350-2, vol. 2, f. 42v).
+    28
+       Bernard de Gordon, De conservatione vitae humanae, p. 55, citado por R.A. Banegas,
+Europa carnívora, p. 58.
+ANUARIO DE ESTUDIOS MEDIEVALES, 43/1, enero-junio 2013, pp. 115-158
+ISSN 0066-5061, doi:10.3989/aem.2013.43.1.05
+124                           JUAN VICENTE GARCÍA MARSILLA
+
+de totes coses animades, e ventres, e ronyons, e melses, deuen ésser esquivatz29.
+Sin embargo, entre las tablas de la Carnisseria Major de Valencia había una
+llamada precisamente de les tripes, especializada pues en esos budells que tan
+nocivos les parecían a los médicos y en los embutidos que se preparaban con
+ellos30. Y de hecho en la corte de Alfons el Vell de Gandia se compraba con
+cierta frecuencia casquería, especialmente hígados, pero también sesos, tripas,
+turmas y otras piezas en principio poco valoradas del carnero como la cabeza o
+los pies. Aunque es posible que en parte esa carne fuera destinada a los sirvien-
+tes de la casa, una proporción no despreciable iba a parar a la mesa del señor,
+al que por ejemplo le servían algunos días la cabeçola de un cabrito después de
+haberse comido un cuarto del mismo o le confeccionaban con hígado salsas o
+sofritos31. Esas salsas aparecen incluso en los recetarios más famosos, como la
+salsa de pagó, que el Llibre de Sent Soví, de principios del siglo XIV, recomien-
+da elaborar con vientres de gallinas y corazones de estos mismos animales y de
+conejos, junto con otros muchos ingredientes, lo que contradice abiertamente
+las prescripciones médicas32.
+          Desde luego, lo que no entraría nunca en la cesta de la compra de una
+corte nobiliaria como ésta sería carne como la rafalina o defectuosa que se
+vendía por ejemplo a mitad de precio en las carnicerías de Orihuela33, o como
+los “cerdos leprosos” (porcs mesells) de los que se surtía la tabla de carnes pe-
+ligrosas de Porta Ferrissa, en Barcelona, aún sabiendo sus clientes que, según
+los médicos, podían contagiarse de dicha enfermedad por comerla34. Y por
+supuesto sería muy raro que, como hacían algunos para conseguir carne bara-
+ta, aristócratas como éstos le compraran a sus vecinos judíos la llamada carne
+truffana, que los rabinos habían rechazado por algún defecto en la matanza
+kosher o igualmente por haber encontrado enfermedades o malformaciones en
+el animal una vez abierto y examinadas sus entrañas35.
+          Quienes no tenían más remedio que comprar estas carnes no se po-
+dían permitir tampoco gastar mucho en especias y condimentos para sazonar-
+
+
+   29
+       Arnau de Vilanova. Volum II, p. 170.
+   30
+       Tabla arrendada junto con otras por Joan Armenguer, “síndic e procurador dels senyors
+útils de les taules de la Carnisseria Major”, en 1414 y 1415 (J.V. García Marsilla, La jerarquía
+de la mesa, p. 109).
+    31
+       J.V. García Marsilla, La taula del senyor duc, pp. 45-46.
+    32
+       Llibre de Sent Soví, p. 63.
+    33
+       Al menos pagaba la mitad de impuestos o sisas (J.A. Barrio, Finanzas municipales, p. 41).
+    34
+       En realidad no se trataba de lepra, sino la llamada cisticercosis del cerdo, por la que los
+humanos podían contraer la tenia, pero desde luego no la lepra (R.A. Banegas, Europa carní-
+vora, pp. 132-136).
+    35
+        J.V. García Marsilla, Puresa i negoci. También J. Riera i Sans, La conflictivitat de
+l’alimentació.
+ANUARIO DE ESTUDIOS MEDIEVALES, 43/1, enero-junio 2013, pp. 115-158
+ISSN 0066-5061, doi:10.3989/aem.2013.43.1.05
+                 ALIMENTACIÓN Y SALUD EN LA VALENCIA MEDIEVAL                           125
+
+las, por lo que, como ya se ha advertido más de una vez, es completamente
+falsa la premisa de que el gusto por los platos muy especiados, propio de la
+cocina medieval, se debiera a cualquier intento de enmascarar la carne o el
+pescado en malas condiciones36. Cuando algunos médicos, como Lluís Al-
+canyís, denuncian las salses ab les quals les carns se preparen per corregir
+alguna malícia d’elles, no se están refiriendo a los efectos de la putrefacción o
+a alteraciones tóxicas, sino a las contraindicaciones que esos alimentos podían
+tener desde el punto de vista de los desequilibrios humorales del cuerpo37. De
+hecho, desde ese punto de vista, P. Freedman señala que uno de los grandes
+atractivos de estos productos exóticos fue desde bien pronto su naturaleza
+medicamentosa, el hecho de que, además de ofrecer un festín al paladar, éste
+fuera, según la mentalidad de la época, un placer saludable38. No sería ésta la
+única razón para el indudable éxito de las especias hasta el siglo XVII, pues ha-
+bría que añadir las propias tendencias hedonistas de los consumidores, ávidos
+de nuevas sensaciones gustativas, el prestigio de unos productos de proceden-
+cia ignota, algunos de los cuales incluso se pensaban directamente llegados
+del Paraíso Terrenal, y sobre todo la distinción social que aportaban a sus consu-
+midores habituales39; pero sin duda la opinión favorable de los médicos sería
+la que le conferiría a estos productos y al uso y abuso de los mismos en las
+artes culinarias, un mayor marchamo de respetabilidad.
+          Es cierto, sin embargo, que no todas las especias eran iguales, y que
+los seguidores del galenismo hicieron todo lo posible por distinguir las pro-
+piedades específicas de cada una de ellas y sus posibles combinaciones con
+otros alimentos. En general los médicos aconsejaban una cierta moderación
+con estos condimentos fuertes, porque para ellos sería como si las personas
+sanas abusaran de las medicinas, lo que podría tener consecuencias negativas,
+como un inmoderado incremento del apetito, o el enmascarar y hacer desea-
+bles alimentos que por su propia naturaleza no se deberían ingerir40. Pero esa
+moderación sería, desde un punto de vista actual, muy relativa, porque los
+médicos, buenos conocedores de la cocina de su época, ofrecían recetas de
+salsas realmente fuertes: la pólvora de que hom dèu fer salça recomendada
+por Arnau de Vilanova, por ejemplo, incluía jengibre blanco, cilantro, carda-
+momo, rasura de vori (raspadura de marfil), clavo, azafrán y canela, junto con
+
+   36
+      J.L. Flandrin lo ha aclarado en varios trabajos suyos, como por ejemplo en Condimenta-
+ción, cocina y dietética, especialmente pp. 624-627.
+   37
+      L. Alcanyís, Regiment preservatiu, p. 144.
+   38
+      P. Freedman, Lo que vino de Oriente, p. 78.
+   39
+      Sobre esta razón véase P. Freedman, Lo que vino de Oriente, y J.L. Flandrin, Condimen-
+tación, cocina y dietética.
+   40
+      P. Gil-Sotres, Regimen sanitatis ad regem aragonum: Introducción, p. 208.
+ANUARIO DE ESTUDIOS MEDIEVALES, 43/1, enero-junio 2013, pp. 115-158
+ISSN 0066-5061, doi:10.3989/aem.2013.43.1.05
+126                           JUAN VICENTE GARCÍA MARSILLA
+
+almendras y vinagre o agraz41. Vemos ya en todo caso como en esta especie de
+“salsa multiusos”, buena para cualquier tipo de alimentos, que aparece en la
+versión de principios del siglo XIV del regiment de Vilanova, está ya ausente
+la pimienta, que había sido la especia por excelencia desde la época romana
+hasta el siglo XIII, cuando aún algunos canónigos de la catedral de Valencia
+exigían cobrar parte de sus rentas en libras de este producto42. Los médicos en
+cambio comenzaron a considerar a la pimienta demasiado cálida y seca, alcan-
+zando el cuarto y máximo grado en ambas cualidades, equivalente al que te-
+nían condimentos locales como el ajo o la mostaza. Por eso Arnau de Vilanova
+proscribía lo que él consideraba fortz salses, como la pebrada o la aylada, y
+los “sabores agudos” como el de la mostaza, a no ser que se atemperasen con
+agua, vinagre, almendras y un poco de canela43. Sin duda había comenzado
+una época de fuerte desprestigio de la pimienta, que haría que en el siglo XV se
+la llegara a considerar un condimento rústico, apropiado sólo para los estóma-
+gos fuertes de los aldeanos, tal y como lo atestiguan tanto los tratados médicos
+más tardíos como los mismos recetarios y hasta la literatura44.
+          El verdadero problema es determinar si ese descenso de la reputación
+de la pimienta se debió a la opinión de los médicos o más bien fue al contrario,
+y en realidad fue la mayor accesibilidad a este condimento, que sobre todo los
+venecianos hacían llegar ya por toneladas a Europa, el que hizo que la pimien-
+ta se apartara tanto de las cocinas de los poderosos como de los consejos de
+sus médicos. La respuesta no es fácil, pero en todo caso las fuentes que nos
+hablan del consumo real de estos productos y de sus precios nos informan por
+ejemplo de que en ámbitos tan supuestamente tutelados por los médicos como
+los hospitales, las compras de pimienta eran habituales. Así, en el Hospital de
+la Reina de Valencia, la salsa que se compraba para uso diario tenía a la pi-
+mienta como elemento más abundante, al que complementaban el jengibre, la
+canela, el azafrán y el clavo, en cantidades menores45. En realidad ese predo-
+
+   41
+      Arnau de Vilanova. Volum II, p. 179-180.
+   42
+      Como Bernat de Vilar, que el 9 de abril de 1256 establecía a Bernat de Camarasa una casa
+en la parroquia de Sant Bartomeu de Valencia, que antes de la conquista cristiana había sido una
+mezquita, por un censo de una libra de pimienta al año a pagar en Pascua (ACV, Pergaminos
+4.636).
+   43
+      Arnau de Vilanova. Volum II, p. 178.
+   44
+      P. Freedman, Lo que vino de Oriente, p. 59. Entre sus fuentes hay incluso una obra apócrifa
+de Arnau de Vilanova, que se remonta en realidad al siglo XV, y que considera la pimienta como
+una especia de rústicos, apta para las habas y los guisantes. Véase también sobre este proceso,
+B. Laurioux, Spices in the Medieval diet, p. 54, y M. Giagnacovo, Mercanti a tavola, p. 267.
+   45
+      Media libra de pimienta, junto con dos onzas de jengibre, una onza de canela, media de
+azafrán y un cuarto de clavo formaban la salsa que se compró el 12 de abril de 1410 a cambio
+de 6 sueldos y 4 dineros (AMV, Hospital de la Reina 346-1, vol. 2, 1410, f. 9v). Poco después se
+compró “salça obs del espitall”, compuesta por media libra de pimienta, dos onzas de jengibre
+y media onza de azafrán por 4 sueldos y 10 dineros (f. 10r), y el 18 de diciembre de ese año la
+ANUARIO DE ESTUDIOS MEDIEVALES, 43/1, enero-junio 2013, pp. 115-158
+ISSN 0066-5061, doi:10.3989/aem.2013.43.1.05
+                 ALIMENTACIÓN Y SALUD EN LA VALENCIA MEDIEVAL                              127
+
+minio de la pimienta se debía a su precio más bajo, porque mientras una libra
+costaba entre 4 y 7 sueldos, la de jengibre valía entre 6 y 8, la de canela 12, la
+de clavo 20 y la de azafrán 3646. En el Hospital d’en Clapers de la misma ciu-
+dad no entraba en el siglo XIV más condimento que la sal, siendo el azúcar o la
+salsa mòlta consideradas directamente en el apartado de las medicinas que se
+compraban al especier, mientras que, ya en el siglo XV, la genérica salsa apa-
+recía entre los alimentos de los días de fiesta47. En la leprosería u Hospital de
+Sant Llàtzer en cambio se compraba específicamente pimienta, junto a hierbas
+locales como el perejil o los brotons, a precios realmente baratos –dos sueldos
+y medio la libra– e incluso podemos encontrar algún plato concreto para el
+que la usaban, como las espinacas y el atún que se sazonaban con ella en 1450.
+La canela en cambio, la otra especia que aparece en las cuentas del lazareto,
+sólo aparece junto con el azúcar para elaborar los granyons o especie de chu-
+rros que se ofrecían a los visitantes ilustres el día del santo patrón48. Por tanto,
+a la hora de confeccionar las salsas de los hospitales valencianos no se tenía
+tanto en cuenta la condición de enfermos de muchos de los que allí residían
+como la de pobres de todos ellos, de manera que la especia menos apreciada
+por los médicos era en cambio la más utilizada, porque era la que estaba más
+al alcance de aquel sector desfavorecido de la sociedad.
+          Pero incluso en las cortes señoriales se observa una pervivencia de la
+denostada pimienta, adquirida, eso sí, a precios más asequibles que las demás
+especias. La misma corona invertía grandes cantidades en ella, aunque no
+fuera ya el condimento principal. En 1399, con motivo de la coronación de
+Martín el Humano en Zaragoza, el futuro rey le envió un memorial a su com-
+prador en Barcelona, Guillem Sarrià, con todo lo que debía adquirir para el
+
+“salça per a l’espitall” la formaban media libra de pimienta, cuatro onzas de jengibre, una de
+azafrán, una de canela y un cuarto de clavos (f. 10v).
+   46
+      El azafrán, pese a ser de producción local, ya era entonces más caro que el oro, debido al
+escaso peso de los estambres. Véase sobre su producción y comercio P. Verdés, Una espècia
+autòctona. El alto precio del clavo o clavell de girofle por su parte se debe también en parte a
+su uso en la confección de perfumes y productos de belleza, como denunciaba Jaume Roig de
+una de sus perversas esposas que “sols clau tenia/ al seu mig cofre/ ple de girofle/ e drogue-
+ries” (J. Roig, Llibre de les dones o Spill, p. 56).
+   47
+      Sobre este hospital en el siglo XIV, A. Rubio Vela, Pobreza, enfermedad y asistencia hos-
+pitalaria; los datos del siglo XV provienen directamente del archivo. Una compra de salsa, junto
+a turrones y miel, se consigna el 17 de marzo de 1427 (AMV, Hospital d’en Clapers 350-2,
+cuaderno 3, f. 42v). La misma indefinición sobre la salsa, comprada ya hecha, la encontramos
+en otras instituciones caritativas como las almoines catedralicias catalanas, véase por ejem-
+plo P. Bertran, El menjador de l’Almoina, pp. 104-105, y M. Echániz, La alimentación de los
+pobres, p. 183.
+   48
+      AMV, Hospital de Sant Llàtzer 353-1, tercer cuaderno, f. 23v. Ese mismo día se compra,
+para los granyons, además de trigo, azúcar y amelló, dos onzas de canela a 6 dineros cada una,
+es decir, a 6 sueldos la libra. Sobre este hospital, C. García Verdeguer, Una meselleria en la
+Valencia del Quinientos.
+ANUARIO DE ESTUDIOS MEDIEVALES, 43/1, enero-junio 2013, pp. 115-158
+ISSN 0066-5061, doi:10.3989/aem.2013.43.1.05
+128                           JUAN VICENTE GARCÍA MARSILLA
+
+evento, incluyendo un quintar de pimienta, por 300 sueldos, quintar y medio
+de jengibre por 900, dos quintars de canela por 1.200, 30 libras de azafrán
+por 1.000, dos arrobas de clavo por 800 y una càrrega de azúcar por 1.72049.
+En la corte de los duques reales de Gandia, por su parte, se compraban con
+frecuencia conjuntamente las tres especias que se consideraban básicas en su
+despensa: la pimienta, el jengibre y la canela, aunque casi siempre estas dos
+últimas tenían un precio que solía duplicar el de la primera50. Incluso en fechas
+bien tempranas, como 1368, se puede ya observar la distinta valoración de
+cada especia cuando los enviados del duque acudían a Valencia para proveer
+su despensa. En junio de ese año compraron en la capital cuatro libras de
+azúcar en panes por 30 sueldos (a 7’5 sueldos la libra), una libra de jengibre
+por 12 sueldos, otra de canela por 6 sueldos y 2 dineros, 2 de pimienta por 9
+sueldos (a 4’5 sueldos cada una) y una de azafrán por 18 sueldos y medio, con
+un gasto total de 75 sueldos y 8 dineros51.
+           Los precios de cada especia iban pues fluctuando, quizá anualmente,
+en función de las cantidades que llegaran en las galeras venecianas y de las
+mismas tendencias del gusto, y, aunque la pimienta siempre era la más barata,
+no por ello dejaba de adquirirse en estos entornos aristocráticos. También en la
+corte de la esposa de Martín el Humano, María de Luna, las cantidades de pi-
+mienta que se compraron en los nueve meses de 1403 que tenemos documenta-
+dos superaron con diferencia a las de otros sazonadores, alcanzando los 32’427
+kg, bastante lejos de la segunda más presente, el jengibre, del que se adquirieron
+13’813 kg52. En las mesas más modestas de los ciudadanos la aparición de espe-
+cias importadas sería en cambio bastante más excepcional, como en la factoría
+Datini de Valencia, donde se cocinaba más bien con hierbas locales, como el
+perejil, el hinojo, el anís o la salvia, de manera que en la anualidad 1404-1405
+sólo se compró jengibre en siete ocasiones, pimienta en cuatro y canela una sola
+vez53, y ello a pesar de que los cargamentos de especias pasaban a menudo en
+grandes cantidades por su tienda, sobre todo los de jengibre y canela54.
+
+   49
+      ACA, Reial Cancelleria 2.240, f. 182v, recogido por D. Girona Llagostera, Itinerari del
+rey en Martí, p. 139. El quintar equivale a 41’5 kg y la arroba a 10’4 kg.
+   50
+      Si la pimienta rondaba entre los 3 sueldos y medio y 6 sueldos la libra en Gandia, el
+jengibre y la canela variaban entre los 7 y los 10 y medio, en cambio en Benavarre, posesión
+pirenaica del duque, los precios se equiparaban, quizá por las dificultades del transporte
+(J.V. García Marsilla, La taula del senyor duc, pp.118-120).
+   51
+      ARV, MR 12.540, f. 11v.
+   52
+      J.V. García Marsilla, La jerarquía de la mesa, pp. 205-206.
+   53
+      J.V. García Marsilla, L’alimentazione in ambito mercantile, pp. 836-837. Desgraciada-
+mente en ningún caso se especifica la cantidad comprada.
+   54
+      El 4 de junio de 1396, por ejemplo, una carta hacía referencia a la recepción de 68 libras
+de pimienta, 100 de jengibre y 100 de canela fina, junto a otras muchas mercancías, como telas,
+cera o colorantes (A. Orlandi, Mercaderies i diners, pp. 304-305).
+ANUARIO DE ESTUDIOS MEDIEVALES, 43/1, enero-junio 2013, pp. 115-158
+ISSN 0066-5061, doi:10.3989/aem.2013.43.1.05
+                 ALIMENTACIÓN Y SALUD EN LA VALENCIA MEDIEVAL                         129
+
+          La progresiva depreciación de la pimienta no supuso pues, ni mucho
+menos, su desaparición de los mercados, pese a todas las prevenciones médi-
+cas, sino todo lo contrario, al ampliarse su consumo a capas más modestas de
+la sociedad. Ello tuvo como consecuencia su creciente rechazo por parte de los
+cocineros de las elites, que sin embargo es más visible en otros países, como
+Francia, que en la Corona de Aragón, porque en los recetarios catalanes, como
+el Llibre de Sent Soví, la pimienta aparece como condimento para los cabritos
+o los lechones asados y en diversas salsas, como el migraust o la camalina,
+aunque no en muchas otras, en las que predominan el jengibre, la canela, el
+azúcar y las nous de xarc o “granos del paraíso”55. En el Llibre del coc, más
+de cien años posterior, la pimienta desaparecería por ejemplo del migraust y
+de otras salsas, mientras que se multiplicaba la presencia del azúcar o de la
+nuez moscada56.
+          Sí se puede ver una cierta influencia de la teoría médica en la forma
+de diluir o destemprar estas salsas, que consistía muchas veces en disolver el
+polvo machacado en el mortero en líquidos de sabor agrio, como el vinagre, el
+agraz o los zumos de limón o naranja, lo que contribuía a “enfriar” su natura-
+leza cálida y a rebajarles también sequedad, añadiendo además con frecuencia
+otras sustancias que podían restar fuerza al potente “curry” de especias que
+constituía la base, como leche de almendras o miga de pan. Si a todo ello le
+añadimos edulcorantes como la miel o el azúcar, más los caldos de carne y
+los sofritos de cebolla e hígado, el resultado eran salsas que proporcionaban
+un gran abanico de sabores, pero que seguramente serían un tanto agresivas
+para los estómagos delicados, lo que hacía que fuera habitual recurrir a cier-
+tas grageas medicinales para acabar los banquetes, como aquella dragea per
+repeembre los fums e per confortar l’estómech e per gitar de mi matex vento-
+sitats qui·s solen levar dins l’om con la que acababa sus banquetes el clérigo
+bon vivant que nos cuenta su opulenta dieta habitual en uno de los exempla de
+Francesc Eiximenis57.
+
+
+                                       2. LO CARO ES SANO
+
+         Dicho clérigo, en el Terç del Crestià, le escribe a un médico para que
+juzgue sus hábitos cotidianos, que constituyen el paradigma de todos los lujos
+gastronómicos del momento, y un ejemplo interesado de la molicie en la que,
+
+   55
+      Como en la salsa de pagó o en la gingebrada (Llibre de Sent Soví, pp. 65-70).
+   56
+      M. Robert, Libre del coch.
+   57
+      F. Eiximenis, Com usar bé de beure e menjar, pp. 43-44.
+ANUARIO DE ESTUDIOS MEDIEVALES, 43/1, enero-junio 2013, pp. 115-158
+ISSN 0066-5061, doi:10.3989/aem.2013.43.1.05
+130                           JUAN VICENTE GARCÍA MARSILLA
+
+según criticaban los franciscanos como el autor, vivían algunos canónigos de
+la época. No vamos a reproducir aquí íntegra la carta por su extensión y por-
+que es de sobra conocida, pero lo que podemos destacar es que su redacción
+intenta acomodarse a las que eran las prescripciones básicas para la dieta de
+los poderosos: comer los mejores y más valorados productos, entre ellos pan
+blanco (pa floret en la carta) y carnes tiernas, variar de aves en función de la
+estación, tomar salsas espesas y hervidas, acabar cada comida con quesos y
+azúcar, comer pescado de tall y no especies pequeñas, beber los mejores vinos
+aromáticos, tomar neules (barquillos) con azúcar, beber refrescos y jarabes en
+verano y hasta bañarse con frecuencia, recibir lavativas o dormirse escuchan-
+do el trino de los pájaros. Nada, por tanto, debería escandalizar por ejemplo
+a un médico de la aristocracia, y sin embargo, la respuesta de este galeno es
+contundente: vostra folla letra he reebuda, qui resposta no mereix, car havets
+perdut lo seny e no sabets on vós sots58. Le siguen despiadadas críticas en las
+que asoma el espíritu de la pobreza mendicante, pero sobre todo el franciscano
+le afea que se haya dado a los lujos, no tanto por su condición de miembro
+tonsurado de la Iglesia, como por su origen campesino, y le espeta que debe
+volver a comer pa d’ordi, e a mengar cebes e aylls, e a vegades un poch de
+carnsalada, e que beguats de la aygua axí com lavors fèyets o del vinagre ben
+amerat.
+          Surge aquí con fuerza otro de los rasgos supuestamente básicos de la
+medicina medieval, muy imbricada con la ideología dominante, como es su
+carácter clasista, su convencimiento de que cada cuerpo necesita de alimentos
+y cuidados distintos en función del estamento al que perteneciera su dueño.
+Sin embargo, hay que decir que la mayor parte de las afirmaciones en este
+sentido no parten de obras médicas, sino de referencias en obras literarias,
+cultas o populares, o hasta de algunos recetarios de cocina, que diseñan dietas
+diferentes en función de la condición social de cada uno, como el de Jean de
+Bockenheim, cocinero del papa Martín V59. Se convirtió por ejemplo práctica-
+mente en un topos literario la historia del campesino que asciende en la escala
+social y comienza a comer manjares que no eran propios de su estatus inicial,
+por lo que enferma gravemente, hasta que muere –en algunas versiones– o
+vuelve a su régimen inicial y sana –en otras. Esa historia la encontramos en
+Francia, donde un campesino casado con una burguesa que le obsequia con
+refinadas viandas debe volver a las judías verdes, los guisantes y las sopas de
+leche para recuperarse60. Aparece también, aunque ya en el siglo XVI, en Italia,
+
+   58
+      Ibidem, p. 46.
+   59
+      B. Laurioux, Le registre de cuisine.
+   60
+      M. Montanari, L’image du paysan, p. 103.
+ANUARIO DE ESTUDIOS MEDIEVALES, 43/1, enero-junio 2013, pp. 115-158
+ISSN 0066-5061, doi:10.3989/aem.2013.43.1.05
+                 ALIMENTACIÓN Y SALUD EN LA VALENCIA MEDIEVAL                                  131
+
+en la historia de Bertoldo, del escritor boloñés Giulio Cesare Croce, donde un
+montañés acostumbrado a comer nabos es adoptado por un rey y cae enfermo.
+Los médicos le administran los mejores alimentos pero él no deja de pedir
+nabos cocidos en ceniza y habas. No le hacen caso y Bertoldo muere. Sobre su
+tumba se fija entonces un epitafio irónico: “El que está acostumbrado a comer
+nabos no debe comer pastel”61. Bastante anterior es el ejemplo catalán, que
+debemos una vez más a Francesc Eiximenis. En este caso es un antiguo rey de
+Rávena, de origen campesino, el que enferma, y no sana de todos sus males
+hasta que vuelve a las gachas y las legumbres con las que se había criado62.
+          ¿Hasta qué punto estas historias habían calado en la población?
+¿Compartían tales ideas realmente los médicos bajomedievales? Debemos en
+primer lugar conocer y comprender la escala jerárquica de los alimentos en
+aquella época, para después comprobar en qué medida se correspondía con la
+alimentación de las distintas clases sociales, y constatar por último si cuando
+se prescribía la dieta de un enfermo se tenían o no en cuenta estas supuestas
+diferencias fisiológicas en función del origen social.
+          Partiendo de nuevo de las ideas de Galeno y de sus cuatro elementos,
+la filosofía natural de la Edad Media establecía lo que se ha dado en llamar la
+“gran cadena del ser”, enunciada entre otros por Ristoro d’Arezzo a finales del
+siglo XIII, y estudiada especialmente por Allen J. Grieco63. Según ésta, Dios
+habría creado de forma similar el mundo natural y el sistema social, siendo
+ambos dos esquemas verticales y jerárquicos. Este orden hacía que el conjun-
+to de la creación estuviera dividido en cuatro segmentos que representaban
+a los cuatro elementos –fuego, aire, agua y tierra– con los que, como hemos
+visto, se relacionaban todas las plantas y los animales. La tierra, siendo el más
+grosero de los cuatro, estaba en la base, y de ella surgían las plantas, los más
+humildes de los alimentos. Pero ni tan siquiera todas las plantas eran iguales,
+porque los bulbos subterráneos, como la cebolla o el ajo, se consideraban las
+más burdas, siendo un poco mejores aquellas de las que se comían las hojas,
+como las lechugas o las espinacas, mientras que las frutas, más alejadas del
+suelo, eran los vegetales de mayor valor, y por tanto los más adecuados para
+
+   61
+       A.J. Grieco, Alimentación y clases sociales, p. 623.
+   62
+       F. Eiximenis, Terç del Crestià, cap. CCXVI, p. 213, citado en J.V. García Marsilla, Alimen-
+tación y diferencias sociales, p. 487.
+    63
+       A.J. Grieco, Alimentación y clases sociales, pp.618-621. En la misma centuria Ramon
+Llull ofrece también en sus obras una clara jerarquía de los alimentos, aunque nunca tan estruc-
+turada. En el Arbre de Sciència, por ejemplo, escribe “les gallines e les perdius e·ls peix grosses,
+qui són pus cares viandes que la carn del bou, el salmó que la sardina”; mientras que en el Llibre
+de contemplació en Déu detalla que “Així com lo cap de pex qui és pus saborós que la coa, e la
+lonsa del moltó qui és pus sàbea que la cuixa, e la ala de la gallina qui és pus saborosa que
+la cuxa” (S. Trias, La cuina lul·liana, p. 855).
+ANUARIO DE ESTUDIOS MEDIEVALES, 43/1, enero-junio 2013, pp. 115-158
+ISSN 0066-5061, doi:10.3989/aem.2013.43.1.05
+132                           JUAN VICENTE GARCÍA MARSILLA
+
+los nobles, no contándose desde luego entre ellas las fresas o los melones,
+criados a ras de tierra. El segundo segmento de esta cadena, asociado al agua,
+era el pescado, que también se organizaba en función de su cercanía al lecho
+marino, estando por ello en principio poco valorados los moluscos y crustá-
+ceos, mientras que los que tenían tendencia a nadar por la superficie, como
+delfines y ballenas –que hoy sabemos que lo necesitan porque son mamíferos–
+eran los más apreciados. Después vendría el elemento aire, con las aves orga-
+nizadas también en función de la altura de su vuelo, y por tanto con los patos
+y las ocas por debajo, los pollos y capones algo por encima y los pájaros en lo
+alto, aunque en la cúspide se situaban las águilas y los halcones, hasta el punto
+de no ser comida habitual por considerarse más bien animales de compañía.
+Los animales cuadrúpedos, entre la tierra y el aire, no se integraban bien en
+este esquema, pero en todo caso quedaban por encima de los vegetales y el
+pescado, y sólo por debajo de las aves. Y sobre todos, como parte del elemento
+fuego, cercano al sol, estaban animales mitológicos como el fénix.
+          A partir de ese diseño vertical se suponía que los componentes de
+aquella sociedad debían tener interiorizada la jerarquía de los alimentos y sa-
+ber cuáles eran más apropiados para cada clase social. En el Tirant lo Blanc,
+por ejemplo, un filósofo que se hospedaba en un hostal en espera de ser reci-
+bido por la infanta de Sicilia había puesto allí a rustir en el fuego común un
+trozo de carne de carnero y fue apartado rudamente de la lumbre por un rufià
+con un conejo que le argumentó: Vós bé veu que jo tinc conill, qui és de major
+estima, e deu preceir al moltó, així com la perdiu preceïx al conill, per què li
+deu ésser feta honor64. ¡Toda una lección de sabiduría galénica en boca de un
+proxeneta! Claro que su lectura de esa teoría era aquí interesada y poco tenía
+que ver con la “calidad” del comensal. Pero si de la literatura vamos ahora a la
+vida real encontramos casos como el de Lapo Mazzei, el notario y confidente
+del famoso mercader toscano Francesco di Marco Datini, que le escribe a su
+amigo diciéndole que no le envíe más perdices porque no es digno de ellas y
+las va a malgastar, dado que ya no es miembro del consejo de Florencia y no
+es su deber comer aves. Años antes Lapo incluso le había contado que le gus-
+taban los “alimentos toscos”, los que le daban fuerza para trabajar, y le había
+sugerido que le enviara un tonel de anchoas saladas65.
+          Todo el mundo debía de estar, pues, al corriente de la valoración de
+cada alimento, y su precio contribuiría sin duda a recordarlo, aunque había
+manjares, como las citadas perdices, un tanto ambivalentes, muy apreciadas y
+
+   64
+      J. Martorell, M.J. de Galba, Tirant lo Blanc, vol. I, p. 201. Sobre la alimentación en el
+Tirant véase L. Tudela, Sistemes d’alimentació i usos de taula, y E. Baile, Repertori d’aliments
+en el Tirant.
+   65
+      A.J. Grieco, Alimentación y clases sociales, pp. 614-615.
+ANUARIO DE ESTUDIOS MEDIEVALES, 43/1, enero-junio 2013, pp. 115-158
+ISSN 0066-5061, doi:10.3989/aem.2013.43.1.05
+                 ALIMENTACIÓN Y SALUD EN LA VALENCIA MEDIEVAL                                 133
+
+al mismo tiempo miradas con recelo por médicos y moralistas. Acabamos de
+comprobar su alta consideración, al ser ave, aunque de vuelo corto, y además
+producto frecuente de la caza, el entretenimiento por excelencia de la nobleza.
+Violant d’Arenós, la esposa del duque de Gandia Alfons el Vell, se permitía
+por ejemplo el antojo un día de 1371 de que le cocinaran una perdiz para al-
+morzar, y ocho años más tarde, en septiembre de 1379, nada más llegar a Ayo-
+ra, en el interior valenciano, compraron para ella 26 de estos animales66. En
+realidad no era un capricho demasiado caro, al menos en la Valencia medieval,
+ya que las ordenanzas sobre los precios de la caza que dictaba el consell mu-
+nicipal en la primera mitad del siglo XIV establecían que no se pagara por una
+perdiz más de entre 5 y 8 dineros según el año67. Eso suponía alrededor de la
+sexta parte del jornal de un maestro artesano, que podría por tanto permitirse
+comprar una de cuando en cuando, pero sólo como un lujo, ya que estaría
+pagando por piezas de menos de 200 g de carne lo mismo que por más de un
+kilo de buey o unos 700 g de carnero68.
+          Pero el prestigio de la perdiz no se traducía sólo en términos econó-
+micos, sino que había en ello también importantes componentes simbólicos.
+Sería por ejemplo relativamente frecuente hasta fechas bien tardías, y en so-
+ciedades ya completamente urbanizadas y mercantilizadas, que el rey exigiera
+como entrada en el establecimiento enfitéutico de alguno de sus monopolios
+un par de perdices, como ocurre por ejemplo cuando en 1417 un tal Garcia lo
+Montanyés recibe el guardianatge del carbó de la ciudad de Valencia, un de-
+recho sobre el control de la importación de este producto69. Entre los médicos
+sin embargo las opiniones estaban divididas: mientras Maino de Manieri las
+consideraba entre las más beneficiosas, por ser las más próximas a la com-
+plexión humana, Arnau de Vilanova desconfiaba de ellas y de las codornices
+por su complexión caliente y seca70. Las perdices guardaban de hecho en el
+imaginario medieval también un lado perverso, porque ya en los bestiarios
+eran consideradas animales lujuriosos, siempre prestas al coito incluso entre
+las del mismo sexo, de ahí que en la pintura, sobre todo de los maestros fla-
+
+    66
+       “A dinar a madona I perdiu de casa”, ARV, MR 9.606. f. 27r, 10 de febrero de 1371; y
+ARV, MR 12.537.
+    67
+       A. Furió, F. Garcia-Oliver (eds.), Llibre d’establiments i ordenacions. En 1307 se fijaba el
+precio en 6 dineros (p. 61), en 1310 en 5 (p. 81), en 1319 en 7 (p. 132), los mismos que en 1323
+(p. 143) y que se mantendría en años sucesivos, hasta 1338, en que sube a 8 dineros (p. 339),
+volviendo a bajar a 7 en 1340 (p. 362).
+    68
+       El precio del buey rondaba los 5 o 6 dineros la libra (de 1.065 g) y el del carnero los 10
+dineros (J.V. García Marsilla, La Sisa de la carn, p. 90).
+    69
+       APPV, Protocolos de Jaume d’Anglesola, 12.319, 3 de agosto de 1417. “Ítem que lo dit en
+Garcia lo Muntanyés done per entrada del dit establiment un parell de perdius”. Se comprome-
+tía además, y esto era lo económicamente significativo, a pagar un censo anual de 500 sueldos.
+    70
+       Regimen sanitatis ad regem aragonum: Introducción, p. 230.
+ANUARIO DE ESTUDIOS MEDIEVALES, 43/1, enero-junio 2013, pp. 115-158
+ISSN 0066-5061, doi:10.3989/aem.2013.43.1.05
+134                           JUAN VICENTE GARCÍA MARSILLA
+
+mencos y sus imitadores, comenzaran a encarnar al diablo o al pecado. Como
+consecuencia de todo ello san Bernardino de Siena aconsejaba a las viudas
+que fueran cuidadosas con su consumo y les decía que no podían ya “hacer lo
+que hacían cuando tenían marido y comían carne de ave”71. La famosa frase
+“fueron felices y comieron perdices” con la que nuestro folklore suele acabar
+muchos cuentos de hadas, podría tener pues un cierto doble sentido, entre el
+lujo señorial y la concupiscencia de la pareja protagonista.
+          Sin embargo, volviendo al tema de la discriminación alimenticia, los
+pocos casos que se pueden hallar en esta época se producen en ambientes
+y momentos muy concretos en los que se deben reunir personas de distinta
+condición social. Es lo que ocurría, por ejemplo, en los barcos, en cuyo arma-
+mento se distinguían los alimentos para la tripulación y aquellos otros reser-
+vados para los oficiales gentilhombres que subieran a bordo. Así, en 1406, en
+una galera armada por el municipio valenciano, se hace referencia a los ajos,
+el queso y el aceite que se habían comprado para la xurma y al vino griego
+que se destinaba al capitán, Vidal de Blanes, y a los hòmens de bé qui ab ell
+en la dita galera muntarien72. De hecho, las ordenanzas navales de la Corona
+de Aragón, recogidas por Antonio de Capmany, diferenciaban también el pan
+o la galleta blancos que se debían comprar para el capitán y los altos cargos
+de la tripulación y los negros que consumía el resto73. Y del cumplimiento de
+estas normativas dan fe las cuentas de abastecimiento de una galera armada
+en la primera mitad del siglo XV que se conservan en el Arxiu del Regne de
+València, donde se registra la compra de 98 cafiços y 4 barcelles de forment
+morisch, es decir, del trigo más oscuro y de peor calidad, para hacer el bescuyt
+o galleta bizcochada para la tripulación74.
+          Igualmente se yuxtaponen dos menús diferentes cuando un hospital
+es visitado por sus benefactores o por altos cargos del municipio y la clerecía
+locales, como ocurre cada año en el de Sant Llàtzer de Valencia con motivo
+de la fiesta del santo patrón. Sólo para esos invitados de honor se compraban
+confites y vino griego, como ocurrió en 140675. Lo mismo se adquirió dos
+años más tarde, aunque como un alarde de generosidad se compró entonces
+
+    71
+       A.J. Grieco, Alimentación y clases sociales, p. 615. Véase I. Malaxecheverría (ed.), Bes-
+tiario medieval, p. 151. Sobre los símbolos de la pintura flamenca, E. Panofsky, Los primitivos
+flamencos.
+    72
+       AMV, Manuals de Consells A-23, f. 56v y 66r, 24 de agosto de 1406.
+    73
+       A. de Capmany, Ordenanzas de las Armadas Navales, p. 101.
+    74
+       ARV, MR 12.279, f. 4v.
+    75
+       “Primo doní als capellans qui foren a les vespres e feren col·lació en la qual comprí una
+lliura de confits de çucre qui costà V s; ítem costà mig quarter de vin grech entre la col·lació e
+la jornada V s” (AMV, Hospital de Sant Llàtzer 353-1, cuaderno 1, f. 24v).
+ANUARIO DE ESTUDIOS MEDIEVALES, 43/1, enero-junio 2013, pp. 115-158
+ISSN 0066-5061, doi:10.3989/aem.2013.43.1.05
+                 ALIMENTACIÓN Y SALUD EN LA VALENCIA MEDIEVAL                135
+
+también pa de rey –pan blanco de la mejor calidad– per a tota la companya76.
+Pero desde luego es en las cortes nobiliarias donde las diferencias en la ali-
+mentación se hacen más patentes en un espacio reducido. Pedro el Ceremo-
+nioso, por ejemplo, se mostraba bastante obsesionado porque sus domésticos
+denant Nós no mengen, y llegaba a establecer en sus Ordinacions la ración
+diaria de cada uno: 30 onzas de pan (887 g); un quarter de vino (3’12 l) para
+cada seis personas, es decir medio litro para cada uno; un carnero para cada
+dieciocho personas, y la cantidad de otras carnes que pudiera conseguir el
+escrivà de ració. Las diferencias parecían aquí expresarse básicamente en la
+cantidad de comida, ya que el monarca exigía que en su plato se pusiera carne
+para ocho personas, en la de sus hijos, otros príncipes, arzobispos y obispos
+para seis; y en la de otros prelados y caballeros para cuatro, cantidades que
+debían duplicarse con motivo de algunas solemnidades77. En la práctica es
+bastante difícil que estas normativas se cumplieran, pero su simple redacción
+es la prueba palpable del interés del monarca por hacer visible la jerarquía a
+través de los alimentos, incluso en su entorno más cercano. Unas diferencias
+que normalmente se notarían mucho más en ciertos detalles sutiles, como se
+ve en la corte de los duques de Gandia, donde se anotan a veces las viandas
+que sólo se destinan a la mesa del señor –alguna perdiz, un capón, langostas,
+vino griego, pan candeal– y las que se dan a la companya o als servidors como
+las sardinas, el pescado de morralla, las coles o las cebollas78.
+          Ahora bien, esa divergencia habitual en la alimentación de ricos y
+pobres, ¿se traducía realmente, como quiere la literatura moralizante, en pau-
+tas dietéticas distintas cuando se caía enfermo? Por lo que se deduce de las
+fuentes de archivo, rotundamente no. En realidad, los alimentos que se con-
+sideraban recomendables para recuperar la salud eran siempre los mismos;
+la diferencia era más bien la capacidad económica para conseguir algunos de
+ellos, sobre todo cuando la enfermedad se prolongaba. Así, se creían buenos
+en todos los casos algunos purés o caldos que serían el equivalente a nuestra
+“dieta blanda” actual, como las farines o el ordiat, este último una papilla de
+cebada hervida que el protagonista del Espill de Jaume Roig añoraba cuando,
+tísico, mare ni tia/ no m’aculliren/ ni mai bulliren/ ordi per mi79. Desde luego,
+aún suponiendo que lo hubieran hecho, los humildes personajes que nos pre-
+senta Roig no hubiesen podido aderezar habitualmente este puré con azúcar
+blanco y leche de almendras como recomienda el Llibre de Sent Soví a unos
+potenciales lectores bastante más adinerados, pero que también concebían el
+
+   76
+      Ibidem, f. 71r.
+   77
+      Ordinacions de la Casa i Cort, pp. 162- 163.
+   78
+      J.V. García Marsilla, La taula del senyor duc.
+   79
+      J. Roig, Llibre de les dones o Spill, p. 34.
+ANUARIO DE ESTUDIOS MEDIEVALES, 43/1, enero-junio 2013, pp. 115-158
+ISSN 0066-5061, doi:10.3989/aem.2013.43.1.05
+136                           JUAN VICENTE GARCÍA MARSILLA
+
+ordiat como un preparado para convalecientes80. Igualmente, todos estaban de
+acuerdo en que el pan blanco era más adecuado para los estómagos delicados
+de los enfermos, aunque los hospitales no podían ofrecérselo con regularidad
+a todos sus internos. En el d’en Clapers, por ejemplo, a finales del siglo XIV se
+compraba pan tierno de moflet especialmente para los veyls malalts, mientras
+que el personal asistencial y los enfermos más fuertes –malalts esforçats– de-
+bían conformarse con el pa de mestall, de trigo mezclado con centeno, sorgo
+o a veces hasta arroz81.
+          El alimento reconstituyente y hasta casi medicinal era, no obstante,
+la carne de ave, y especialmente los pollos y las gallinas, que en ocasiones se
+llegaban a convertir en el componente casi único de la dieta de algunos enfer-
+mos. Desde el rey hasta un humilde artesano, a todos les era recomendado por
+los médicos el consumo de las carnes blancas de la volateria como parte de su
+tratamiento. Incluso existía una cierta tolerancia hacia las aves en los períodos
+de abstinencia, que se puede comprobar prácticamente en toda Europa82. A
+pesar de ello Alfons el Vell, ya anciano, pero temeroso de condenarse, pagaba
+puntualmente a su confesor todos los días de la cuaresma, como compensa-
+ción por haber comido un capón o una gallina, mientras el resto de su corte
+se contentaba con pescado83. En su corte, donde muy raro era el día en el que
+no se consumieran aves, hay numerosas referencias a su carácter de alimen-
+to para enfermos. Violant d’Arenós, por ejemplo, comió durante dos días de
+1371, estando en Benavarre, una gallina y una perdiz perquè no era sana y el
+alcaide del castillo de esta localidad, Ramon Pasqual, cuando cayó enfermo de
+la peste en 1375 se alimentó únicamente de gallinas jóvenes –polles–, caldo
+de gallina y huevos, con escaso éxito, eso sí, porque murió a los pocos días84.
+También la reina María de Luna, otro personaje de complexión enfermiza,
+consumía mucha volatería. Día a día se compraban en su corte gallinas en
+cantidades importantes; por ejemplo, el 26 de abril de 1403, estando en Va-
+lencia, su comprador adquirió quince, de las que II parells a brous, es decir,
+para caldos, que ella bebía con frecuencia, formando parte del instrumental de
+su cocina una prensa para moler los huesos y hacer con ellos dichos caldos85.
+
+   80
+      Así en la receta del ordiat se dice que se le ponga sal “ha hom que no age febre”, y en la
+de las farines se dice que es para “hom levat de malaltia e que tenpren règeu lo ventrell” (Llibre
+de Sent Soví, pp. 79-81).
+   81
+      A. Rubio Vela, Pobreza, enfermedad y asistencia hospitalaria, p.144.
+   82
+      Lo detecta en la corte de los duques de Saboya I. Naso, La cultura del cibo, p. 135, y en la
+de los reyes de Navarra, F. Serrano Larráyoz, La mesa del rey, p. 239.
+   83
+      J.V. García Marsilla, La taula del senyor duc, pp. 57-58.
+   84
+      ARV, MR 9.606, f. 7v-8r y MR 9.620.
+   85
+      ACA, Reial Patrimoni, serie E 24, f. 61r; la cita de la prensa en A. Javierre Mur, María
+de Luna, p. 119.
+ANUARIO DE ESTUDIOS MEDIEVALES, 43/1, enero-junio 2013, pp. 115-158
+ISSN 0066-5061, doi:10.3989/aem.2013.43.1.05
+                 ALIMENTACIÓN Y SALUD EN LA VALENCIA MEDIEVAL                                137
+
+          Las casas nobles, de hecho, aunque recurrían al pollo o al caldo de
+gallina cuando alguno de sus miembros enfermaba, no debían esperar a ello
+para consumir aves casi a diario. Los citados duques de Gandia incluso orga-
+nizaban el abastecimiento de gallinas para su corte en poblaciones de la mon-
+taña alicantina, como Callosa, Finestrat, Castell de Castells o Guadalest, desde
+donde llegaban centenares de aves vivas para los corrales del palacio, algunas
+compradas y otras recibidas como tributo de los vasallos mudéjares de estos
+lugares86. Era éste un lujo que desde luego no todo el mundo se podía permitir.
+En los hospitales, donde evidentemente se tenían muy en cuenta las supuestas
+propiedades terapéuticas de las aves de corral, se hacía lo posible por criarlas
+allí mismo, para así poder suministrárselas cuando fuera necesario a los inter-
+nos más graves. El Hospital d’en Clapers, por ejemplo, tenía corral propio e
+intentaba autoabastecerse, aunque raramente lo conseguía del todo, puesto que
+aún así, lo invertido en gallinas solía triplicar el gasto en medicamentos87. Era
+frecuente incluso dar gallina a algún enfermo concreto y por una razón deter-
+minada: por ejemplo, el 6 de enero de 1427, el hospitalero compró una gallina
+para dos enfermos qui havien presa purga88. También en el Hospital de la Reina
+había un corral, para el que se compraron polles miganceres a obs de criar en
+1410, y más tarde partidas de segó (centeno) y dacça (sorgo) con las que las
+alimentaban89. En ambos establecimientos, y en el de Sant Llàtzer, la única
+especie avícola diferente al pollo que se consumía era la oca, y únicamente un
+día al año, el de san Juan de junio, en lo que parece que era una tradición fes-
+tiva muy arraigada90. Seguramente por su escasa presencia en el mercado eran
+más caras, rondando los tres sueldos la unidad, lo mismo que las gallinas más
+grandes, aunque los ejemplares normales de estas últimas se podían conseguir
+por entre sueldo y medio y dos sueldos la pieza, lo mismo que los pollos.
+          Era un precio caro para las economías domésticas de artesanos o
+pequeños comerciantes, pese a lo cual ante una enfermedad se hacía lo po-
+
+   86
+       J.V. García Marsilla, La taula del senyor duc, pp. 52-54.
+   87
+       En la anualidad 1374-1375 las compras de gallinas alcanzaron los 363 sueldos y 10 dine-
+ros, por sólo 139 sueldos y una mealla las medicinas (A. Rubio Vela, Pobreza, enfermedad y
+asistencia hospitalaria, p. 149).
+    88
+       AMV, Hospital d’en Clapers 350-2, cuadernillo 3, f. 42r.
+    89
+       AMV, Hospital de la Reina 346-1, cuadernillos 2 f. 10r, y 3, f. 54r.
+    90
+       “Ítem comprí a XXI de juny per dar refrescament als pobres hun parell e mig d’oques per
+a la festa de Sent Johan, costaren VIIII s III d”, AMV, Hospital de la Reina 346-1, cuadernillo
+2, 1410, f. 10r; “Un parell de oques per al dia de Sent Johan, per obs de menjar aquelles en lo
+dit hospital per los servicials”, ibidem, cuadernillo 1, 1406, f. 51r. “Un parell de oques per als
+servicials e per alcuns dels malalts de aquells en la dita festa, segons és acostumat - V s VI d”,
+AMV, Hospital d’en Clapers 350-2, cuadernillo 1, 1423, f. 42r.; “Ítem costaren I parell d’oques
+per als malalts per a la festa de Sent Johan - VI sous”, AMV, Hospital de Sant Llàtzer 353-1,
+f 43v. También los frailes de Santa Anna en Barcelona compraban ocas por el día de san Juan
+(T. Vinyoles, El rebost, la taula i la cuina).
+ANUARIO DE ESTUDIOS MEDIEVALES, 43/1, enero-junio 2013, pp. 115-158
+ISSN 0066-5061, doi:10.3989/aem.2013.43.1.05
+138                           JUAN VICENTE GARCÍA MARSILLA
+
+sible por ofrecer a un familiar estos alimentos reconstituyentes. En Sueca,
+en 1426, entre los gastos de la tutela de un niño huérfano, Pere Reguart, su
+tutor, el notario Francesc Benet, anotaba: doní un real al dit pubil perque’s
+compràs un parell de polls, que no era sà - I s VI d91. Carmen García He-
+rrero documenta también en Zaragoza varias mujeres que salen a comprar
+pollos para sus maridos dolientes, mientras que una de ellas, la turolense
+Catalina Muñoz, se queja de que estando ella en cama su marido nunca fue
+para comprarme una gallina92. De hecho se solía también adquirir alguna
+de estas aves para alimentar a las mujeres que acababan de dar a luz, como
+se encargan de detallar algunos retablos en los que se representa el naci-
+miento de la Virgen o de san Juan Bautista, donde sus respectivas madres
+son alimentadas con gallinas –o bien con caldos y huevos–, mientras otras
+mujeres se encargan de los recién nacidos93. El problema se presentaba en
+todo caso cuando la enfermedad se prolongaba –y con ella las compras de
+estos alimentos caros para hacerle frente–, lo que desequilibraba, a veces
+sin remedio, el modesto “presupuesto cotidiano” de las familias humildes.
+Esto es precisamente lo que decía haber padecido un cuchillero de Valencia,
+Domingo Vinyoles, en 1396, en una reclamación ante el justícia criminal
+de la ciudad. Contaba que había sido agredido por un musulmán que le dio
+una cuchillada en una mano, al que le reclamaba no sólo lo que podía haber
+ganado en el mucho tiempo que estuvo sin poder trabajar, sino además los
+gastos en médico y cirujano y
+
+            en dieta de viandes que ha haüt a haver, viandes a ell no acos-
+            tumades, com és [sos] dits galines e sos dits polls, que li costen e
+            costaren, més que no aguera fet ab ses viandes comunes, V florins,
+            poch més o menys94.
+
+         El testimonio, por más que se trate de un litigio en el que es probable
+que el declarante cargue las tintas sobre los daños económicos padecidos, es
+muy revelador tanto del alto coste de esta “dieta de emergencia” como de la
+voluntad, incluso de los sectores más humildes de aquella sociedad, de seguir
+las pautas dictadas por sus médicos.
+
+   91
+       E. Guinot, A. Furió, Un exemple d’economia domèstica, p. 45.
+   92
+       M.C. García Herrero, Pan, vino y companage, p. 559.
+    93
+       P. Beseran, El nodriment d’Elisabet i Anna, parteres. La presencia de los huevos podría
+tener un carácter simbólico, relacionado con la recuperación de la fertilidad, pero también con
+la pronta recuperación de la mujer (I. González Hernando, Una lectura médica, p. 106). Los vi-
+llancicos de la época subrayan en cambio como rasgo de pobreza de la Virgen que recién parida
+“No menjà gallines ni brou destilat” (Cançons nadalenques del segle XV, p. 62).
+    94
+       Es decir, 55 sueldos, ARV, Justícia Criminal 42, 9 de junio de 1396, citado por C. Ferra-
+gud, Medicina i promoció social, p. 567.
+ANUARIO DE ESTUDIOS MEDIEVALES, 43/1, enero-junio 2013, pp. 115-158
+ISSN 0066-5061, doi:10.3989/aem.2013.43.1.05
+                 ALIMENTACIÓN Y SALUD EN LA VALENCIA MEDIEVAL                              139
+
+          Seguramente entre los medicamentos que debió pagar Vinyoles había
+también muchos confeccionados a base de azúcar, puesto que éste hacía furor
+en estos siglos finales de la Edad Media como base de muchos preparados
+que se vendían en las boticas, y más en Valencia, donde desde principios del
+siglo XV su cultivo se expandió por algunas comarcas, exportándose a todas
+las grandes cortes europeas95. Los antidotarios de la época ofrecían muchas
+recetas de jarabes de azúcar y el De materia medica de Dioscórides, auténtico
+libro de cabecera de los boticarios medievales, atribuía al azúcar disuelto en
+agua propiedades curativas contra enfermedades del vientre, el estómago, la
+vejiga y los riñones96. Uno de aquellos boticarios, Francesc Ferrando, tenía,
+a su muerte en 1475, su “farmacia” llena, y entre todas las medicinas las más
+abundantes eran los exarobs de sucre, de los que se contaban dieciséis, valo-
+rados en conjunto por 78 sueldos y 6 dineros, mientras que su colega Ramon
+Amalric poseía bastantes años antes, en 1404, una importante cantidad de
+azúcar almacenada en la despensa de su obrador, casi ciento cincuenta libras,
+que habrían de servir como materia prima para la confección de estas sustan-
+cias curativas97.
+          Por eso a los pasteles y confites, además de su carácter de golosinas,
+se los consideraba también medicamentos y los vendían los mismos botica-
+rios. Otro de ellos, Arnau Bertran, disponía en 1423 en su obrador de la calle
+del Malcuinat de Valencia de una premsa de fust per a obrar confits, una taça
+gran ab sa coha per a obrar confits i dues postetes d’estendre torrons, además
+de media arroba –unos seis litros– de codonyat (dulce de membrillo)98. En for-
+ma de jarabes o de confites, la utilización del azúcar como sustancia terapéu-
+tica se ve corroborada tanto en las cuentas de los personajes de las clases más
+elevadas como en las de los hospitales. En la corte de María de Luna en 1403
+se compró azúcar en más de cien ocasiones, aunque sólo en seis se especifica
+que era çucre a malalts99. Alfons el Vell, por su parte, compraba este producto
+en 1411 por panes recién sacados del trapig, que seguramente comenzaban
+a producirse en la misma comarca de la Safor, y que en las cuentas aparecía
+
+   95
+      Entre las diversas publicaciones que se han hecho sobre el tema destaquemos por ejemplo
+J. Gisbert (ed.), Sucre & Borja, y el monográfico de la revista “Afers” 32 (1999), dirigido por
+F. Garcia-Oliver y titulado Sucre i creixement econòmic a la baixa Edat Mitjana. En concreto
+sobre su consumo véase J.V. García Marsilla, El luxe dels llèpols.
+   96
+      Dioscórides, Plantas y remedios medicinales, vol. I, lib. II, p. 286.
+   97
+      Respectivamente en ARV, Protocols de Joan de Campos junior 442, 29 de agosto de 1475,
+y APPV, Protocols de Guerau de Pont 25.027, 14 de enero de 1404.
+   98
+      ARV, Protocols de Vicent Çaera 2.422, 21 de enero de 1422. La complejidad de los obra-
+dores de los boticarios se comprende perfectamente en C. Vela i Aulesa, L’obrador d’un apo-
+tecari medieval.
+   99
+      ACA, Reial Patrimoni, sèrie E, 24.
+ANUARIO DE ESTUDIOS MEDIEVALES, 43/1, enero-junio 2013, pp. 115-158
+ISSN 0066-5061, doi:10.3989/aem.2013.43.1.05
+140                           JUAN VICENTE GARCÍA MARSILLA
+
+con frecuencia como çucre de casa100. Las monjas del monasterio de la Saï-
+dia, la mayoría provenientes de familias acomodadas, compraron también en
+1488 azúcar o confites en 35 jornadas, mientras que las de la Puritat eran ya
+famosas en 1439 por los dulces y jarabes que elaboraban, como el poncirat,
+la melrosada o la ayguanafa de ros101. En el Hospital de la Reina, en 1410, el
+administrador Pere de Montsant anotaba también en un listado de los medica-
+mentos que había comprado ese año una libra de azúcar blanco por 2 sueldos
+y 3 dineros y media arroba de azúcar candí por otros 5 sueldos102.
+           Los beneficios del azúcar en la alimentación se trataban de aprove-
+char también en la confección de salsas y platos, más incluso en los recetarios
+catalanes que en los de otros países103. Su función era suavizar la fuerza de las
+especias, y ya Arnau de Vilanova lo prefería a la miel para dulcificar salsas que
+podían resultar agrias, como la oruga104. Lo cierto es que cada vez más platos
+incluyeron el azúcar como ingrediente: de 41 en el Llibre de Sent Soví a prin-
+cipios del siglo XIV, lo que no llegaba a ser ni el 17% del conjunto, a 154 de
+un total de 229 recetas –más del 67% del total– en el Llibre del coc, de finales
+del siglo XV105. Aunque esto se debió sobre todo a un cambio en el gusto de las
+elites, la búsqueda de los sabores agridulces era también, de alguna manera, la
+del equilibrio humoral; y lo mismo ocurría con el azúcar y las especias que se
+añadían al vino para formar complejas bebidas espirituosas. El mismo Arnau
+de Vilanova proporcionaba una receta de piment que, pese a su nombre, no
+incluía pimienta, sino canela, jengibre blanco, rosas rojas, clavo, sándalo rojo,
+pelos de espicanardo y miel o azúcar106. En cambio, la clarea que elaboraban
+los monjes de Poblet en 1460 o que compraban ya hecha los de Sant Vicent de
+la Roqueta de Valencia, sí que contenía pimienta de dos variedades (normal y
+larga) y miel en lugar de azúcar, junto a canela, jengibre, clavo, lavanda, gra-
+nos del paraíso y nuez moscada107. Se trataba pues de bebidas reconfortantes
+pero costosas de elaborar y que incluían numerosos ingredientes de un precio
+elevado, lo que las alejaría del alcance de la mayoría de la población. En lugar
+de ello, más a mano estaría para muchos el uso de aguardientes, que debían
+
+
+   100
+       J.V. García Marsilla, La taula del senyor duc, pp. 122-123.
+   101
+       Respectivamente en ARV, Clero 1.726 y 946. Sobre el monasterio de la Saïdia y sus gas-
+tos véase P. Viciano, La gestió econòmica d’un monestir.
+   102
+       AMV, Hospital de la Reina, 346-1, cuadernillo 2, hoja suelta.
+   103
+       En los libros franceses, por ejemplo, el azúcar penetra muy tardíamente, a finales del siglo
+XIV, y nunca perdió su carácter medicinal (B. Laurioux, La cocina medieval, p. 598).
+   104
+       Arnau de Vilanova. Volum II, p. 179.
+   105
+       B. Santich, L’influence italienne, p. 135.
+   106
+       Arnau de Vilanova. Volum II, p. 187.
+   107
+       A. Altisent, Notes sobre postres, vins i fruita. Sobre estos licores y sus usos médicos véase
+M.E. González de Fauve, P. de Forteza, “Del beber con moderación”.
+ANUARIO DE ESTUDIOS MEDIEVALES, 43/1, enero-junio 2013, pp. 115-158
+ISSN 0066-5061, doi:10.3989/aem.2013.43.1.05
+                 ALIMENTACIÓN Y SALUD EN LA VALENCIA MEDIEVAL                              141
+
+estar bastante extendidos si atendemos a la frecuencia con la que aparecen en
+las casas particulares los alambiques, y que los judíos valencianos compraban
+con finalidad médica a sus vecinos cristianos, lo que fue taxativamente con-
+denado por el rabino valenciano refugiado en Argelia Isaac ben Seset Perfet,
+que clamaba contra aquella aigua que diuen aiguardent i que fan els experts
+gentils per usos medicinals de certes essències i mescles de vi impur108.
+          Arnau de Vilanova, Taddeo Alderotti y otros médicos ya escribieron
+sobre las propiedades beneficiosas de estos licores destilados, a los que en
+cierta manera se relacionaba con la alquimia, y Ramon Llull los llegaba a con-
+siderar a medio camino entre lo terrenal y lo espiritual. Los dolores de cabeza,
+la falta de apetito, el dolor de ciática, la gota o los cálculos en la vejiga eran
+algunas de las dolencias contra las que se recomendaba el uso del aguardiente,
+a veces cocido con hierbas como salvia, orégano o cilantro109. Y es indudable
+que esas ideas habían calado en la sociedad y llegado incluso a una cierta
+“cultura popular” que iba mucho más allá de la medicina universitaria, inclu-
+yendo a sanadoras y curanderas, o simplemente a las esposas que atendían a
+sus maridos e improvisaban remedios a partir de las indicaciones médicas110.
+
+
+                                   3. CAER EN LA TENTACIÓN
+
+         Sin embargo, se empleaban también procesos curativos que se situa-
+ban claramente fuera de la medicina culta y que por ello eran más o menos
+perseguidos111, de la misma manera que existían, incluso entre los potentados,
+prácticas alimenticias que se hallaban en abierta contradicción con lo que los
+médicos aconsejaban, pese a lo cual esos consumidores no podían evitar “caer
+en la tentación” de incumplir esos preceptos, ante las delicias gustativas que
+les proporcionaban. Algunos de estos placeres prohibidos se convirtieron en
+auténticos signos de distinción en la cúspide de la sociedad, como algunos
+pescados que alcanzaron renombre a escala continental, a pesar de todos los
+reparos que los galenos mostraban hacia ellos. El caso más conocido es sin
+duda el de la lamprea y de otras especies similares a gigantescas anguilas sin
+escamas en la piel, como el congrio. En general la medicina las miraba con
+mucho recelo, especialmente a la lamprea, por su supuesta naturaleza fría y
+
+   108
+       R. Magdalena, Aspectes de la vida dels jueus valencians, pp. 195-196. Los alambiques
+costaban, con hornillo incluido, entre 3 y 5 sueldos en la Valencia medieval. Véase J.V. García
+Marsilla, La vida de las cosas, p. 25.
+   109
+       R. Cierbide, El aguardiente y el vino.
+   110
+       C. Ferragud, La atención médica doméstica.
+   111
+       R. Narbona, Tras los rastros de la cultura popular.
+ANUARIO DE ESTUDIOS MEDIEVALES, 43/1, enero-junio 2013, pp. 115-158
+ISSN 0066-5061, doi:10.3989/aem.2013.43.1.05
+142                           JUAN VICENTE GARCÍA MARSILLA
+
+húmeda, de manera que incluso en Inglaterra se contaba la historia de que
+el rey Enrique I murió en 1135 después de comer lampreas desafiando los
+consejos de su médico112. Sin embargo, historias como ésta no desanimaron
+a la aristocracia europea, que continuó considerando a este pescado como el
+más distinguido, en una actitud desafiante que en todo caso no se acerca ni
+de lejos al “riesgo lúdico” que se mantiene hoy en ciertos restaurantes japo-
+neses con el pez globo. No hubo de hecho recetario europeo que se preciara
+que no contuviera algún plato basado en la lamprea; en el caso del Llibre de
+Sent Soví en forma de empanadas, para las que el animal podía prepararse
+asado o hervido previamente con vino blanco, aceite, especias, perejil, menta
+y otras hierbas, antes de enrollarlo en una empanada de harina con especias,
+cebolla, agraz y azúcar113. En otros libros de cocina había por ejemplo una
+salsa exclusiva para ella, como en el Du fait de cuisine de Chiquart, con su
+sauce lamproie114. La casa real catalano-aragonesa era también especialmente
+aficionada a ellas, por ejemplo la infanta Mata d’Armagnac, esposa del futuro
+Juan I, para la que era unos de los pescados más estimados, hasta el punto de
+que, en 1377, enviaba cartas a la esposa del batle de Tortosa o hasta al mismo
+obispo de esta localidad, ya que era la zona del Delta del Ebro donde se solían
+hallar las lampreas, para que le mandaran las primeras que se encontraran,
+con la exigencia además de que llegaran vivas, para ser el manjar principal en
+su mesa el día de Jueves Santo115. Sin embargo, también las clases burguesas
+debieron tener acceso a estos pescados –y apreciarlos– cuando el Mesnagier
+de Paris da recomendaciones a su joven esposa sobre cómo sangrar las lam-
+preas y cómo hacer una salsa con dicha sangre añadiéndole vino y agua116, o
+cuando los mercaderes Datini instalados en Pisa disponían de unas especias
+específicamente da lampreda, es decir, apropiadas para la elaboración de este
+pescado de agua dulce117.
+          Sin llegar ni mucho menos al nivel de la lamprea, también se ob-
+serva una cierta contradicción entre el aprecio médico de los mariscos y su
+presencia, a veces hasta estelar, en las mesas señoriales. Como hemos visto,
+la “cadena del ser” las situaba muy abajo entre los productos del mar y Arnau
+
+   112
+       P. Freedman, Lo que vino de Oriente, p. 68.
+   113
+       Llibre de Sent Soví, p. 87.
+   114
+       Receta núm. 27, citada por I. Naso, La cultura del cibo, p. 197.
+   115
+       J. Trenchs, El peix a la taula, pp. 315-317. Recordemos en todo caso también el origen
+francés de esta infanta.
+   116
+       Le Mesnagier de Paris, pp. 693-697. Hay que recordar que en los pocos lugares donde
+este pez sigue siendo popular hoy en día se siguen haciendo preparados similares con su sangre,
+como en Arbo (Pontevedra), donde aún se celebra todos los años una Festa da Lamprea entre
+abril y mayo, o en Burdeos, donde sigue muy viva la receta de la lamproie à la bordelaise.
+   117
+       M. Giagnacovo, Due “alimentazione” del basso Medioevo, p. 825.
+ANUARIO DE ESTUDIOS MEDIEVALES, 43/1, enero-junio 2013, pp. 115-158
+ISSN 0066-5061, doi:10.3989/aem.2013.43.1.05
+                 ALIMENTACIÓN Y SALUD EN LA VALENCIA MEDIEVAL                                143
+
+de Vilanova ni los menciona, aunque el llamado “regimen sanitatis” de los
+Cuatro Maestros llega a recomendar los langostinos entre los frutos del Me-
+diterráneo118. Tampoco el precio del langostino era especialmente alto en las
+tasaciones que hizo la ciudad de Valencia en 1324, pues costaba a 3 dineros
+la libra como muchos otros pescados119. Sin embargo para Alfons el Vell y
+sobre todo para su hijo, Alfons el Jove, aquella era una de las mayores delicias
+que podía probar durante la Cuaresma –e incluso fuera de ella– junto con las
+langostas, de manera que no era difícil encontrar en sus cuentas compras de II
+dotzenes e miga de langostins per al senyor, a unos precios muy por encima
+de los regulados, que llegaban a un dinero la pieza y hasta a 22 dineros la
+langosta120. Otros nobles europeos eran igualmente devotos del marisco y los
+crustáceos, pese a su teórica escasa consideración, como Jean d’Angoulême,
+que en un semestre de 1462 comió cuarenta especies distintas de peces, crus-
+táceos y mariscos diferentes121.
+          Bastante más sospechosos eran la leche y en general los productos
+lácteos, posibles portadores de corrupción y enfermedades en estas épocas an-
+teriores a la pasteurización. Los recetarios durante mucho tiempo hicieron más
+uso de la leche de almendras que de la animal, y Arnau de Vilanova recomen-
+daba “guardarse de la leche”, excepto de mediados de abril a finales de mayo,
+único momento en que según él era profitosa la leche de las cabras, mientras
+que del queso se podía hacer un uso moderado al final de las comidas122. No
+obstante, en zonas de fuerte tradición ganadera, como Navarra, las compras de
+leche de vaca y cabra y de quesos frescos eran frecuentes incluso en las cor-
+tes reales123, mientras que en Aragón ya en el siglo XIII el queso servía como
+condimento de platos muy diversos pero mayoritariamente sencillos, como las
+berzas y otras verduras124. Al final de la Edad Media, sin embargo, el queso,
+mucho más que la leche, fue ganando posiciones en el ranking culinario de
+los alimentos. Esto se debió sobre todo a la mejora en calidad de algunos quesos
+concretos, que fueron adquiriendo fama, primero franceses como el brie o el
+roquefort y más tarde también algunos italianos o, a un nivel más modesto,
+
+   118
+       Regimen sanitatis ad regem aragonum: Introducción, p. 698.
+   119
+       A. Furió, F. Garcia-Oliver (eds.), Llibre d’establiments i ordenacions, p. 148.
+   120
+       J.V. García Marsilla, La taula del senyor duc, p. 65. Si tenemos en cuenta que en una libra
+de langostinos podían entrar entre 20 y 25 según el tamaño, eso supone un precio por libra siete
+u ocho veces superior a lo regulado en Valencia en 1324.
+   121
+       F. Maillard, Les dépenses de l’Hôtel du comte.
+   122
+       Arnau de Vilanova. Volum II, pp. 172-174.
+   123
+       F. Serrano Larráyoz, Medicina y enfermedad, pp. 157-158.
+   124
+       E. Piedrafita, La alimentación en Aragón, especialmente pp. 111 y 119.
+ANUARIO DE ESTUDIOS MEDIEVALES, 43/1, enero-junio 2013, pp. 115-158
+ISSN 0066-5061, doi:10.3989/aem.2013.43.1.05
+144                           JUAN VICENTE GARCÍA MARSILLA
+
+hispanos, como los quesos de Mallorca, Aragón, Castilla o Sant Mateu125. El
+espaldarazo definitivo a las bondades del queso vendría sobre todo de la mano
+del tratado De summa laticinorum del italiano Pantaleone da Confienza, lleva-
+do a la imprenta en Turín en 1477 en homenaje al duque Luís de Saboya, gran
+amante de los quesos, que examinaba las principales variedades de Europa y
+llevaba a cabo una auténtica operación “promocional” de los quesos saboya-
+nos intentando desmantelar la dudosa fama que los lácteos habían tenido hasta
+entonces. Pocas veces, pues, la teoría médica medieval se puso más claramen-
+te al servicio del, por así decirlo, marketing de un producto126.
+          No obstante, si hemos de buscar un tipo de alimentos en el que las
+discordancias entre las prescripciones médicas y el aprecio de los consumido-
+res medievales son mayores, ése es sin duda la fruta. Ya Pedro el Ceremonioso
+entona de alguna manera un mea culpa en sus Ordinacions de Cort cuando
+reconoce que Jacsia que menjar fruytes no sia per meges molt approbat, elles,
+però, per gràcia dels hòmens són perduÿtes a tast humanal y a continuación
+le dedica todo un capítulo a las dichas frutas, estableciendo que se le debe
+dar para su consumo personal –siempre que se pueda– dos piezas antes del
+almuerzo y una antes de la cena, y a veces también al final si no había neules
+ab piment o queso en su lugar127. Nada –ni sus médicos– podía por tanto frenar
+la afición del monarca por unos alimentos que eran de los pocos dulces que
+se podían encontrar entonces de forma natural y que por tanto eran conside-
+rados auténticas golosinas. Ni tan siquiera cuando, unos años más tarde –se
+supone que el núcleo fundamental de las Ordinacions se redactó hacia 1344–
+irrumpió la peste en Europa y los galenos recrudecieron sus amonestaciones
+contra las frutas, esto se tradujo en una menor afición de todos los sectores
+de la sociedad por ellas. En efecto, aún con todas las prevenciones, Arnau de
+Vilanova –que consideraba que las moras causaban epidemias y que decía que
+no era bueno mezclar varios tipos de frutas porque el estómago no podría asi-
+milar al mismo tiempo sus naturalezas distintas– veía aún ciertas ventajas en
+
+
+    125
+        María de Luna compraba con frecuencia quesos de Mallorca, a 6 dineros la libra, y de
+Aragón, a 6’5; mientras que los Datini de Valencia consumían además de queso mallorquín,
+también quesos de Castilla, aragonés y de Sant Mateu (J.V. García Marsilla, La jerarquía de
+la mesa, pp. 203 y 243). El marido de María de Luna, Martín el Humano, pidió ese mismo año
+que el procurador real de Mallorca, Mateu de Loscos, le enviara “tres-centes peces de formatges
+redons de Mallorques en tres cosses de palma cascuna ab I senyal reyal” (D. Girona Llagostera,
+Itinerari del rey en Martí, p. 524). Sobre el queso de Mallorca, véase T. Vinyoles, Notas sobre
+el queso de Mallorca.
+    126
+        I. Naso, Formaggi del Medioevo; véase para la Corona de Aragón A. Riera Melis, Gana-
+dería, quesos y derivados de la leche.
+    127
+        Ordinacions de la Casa i Cort, p. 170. Contradicciones como ésta entre el desprestigio
+médico y la alta estima gastronómica de las frutas son subrayadas por J. Cruz Cruz, Dietética
+medieval, pp. 235-255.
+ANUARIO DE ESTUDIOS MEDIEVALES, 43/1, enero-junio 2013, pp. 115-158
+ISSN 0066-5061, doi:10.3989/aem.2013.43.1.05
+                 ALIMENTACIÓN Y SALUD EN LA VALENCIA MEDIEVAL                              145
+
+comerlas en verano, porque su humedad y su frío podían temprar la sanch128.
+En cambio Lluís Alcanyís llegaba a incluir en su tratado una historia sobre el
+padre de Galeno, que nunca enfermó porque jamás comió fruta fresca, y que
+cuando, una vez muerto su padre, él la probó por primera vez, contrajo febres
+podrides e de altres febres129. Aún así, por mucho que Alcanyís prevenía de
+la fácil corruptibilidad de las frutas en tiempos de peste, atendiendo a la gran
+diversidad de fruta que había en Valencia y a la costumbre de comerla, nunca
+llegó a prohibir su consumo, sino sólo a aconsejar que no se comiesen frutas
+que llegaran de zonas contaminadas por la epidemia130. Por el contrario, exis-
+ten también tratados de vida y costumbres, en este caso castellanos y algo más
+tardíos, del siglo XVI sobre todo, como el de Alonso Enríquez de Guzmán, que
+recomiendan la fruta –e incluso el melón– para curar las fiebres cuartanas131.
+          La abundancia y variedad de frutas que había en todo caso en el
+País Valenciano eran vistas por Francesc Eiximenis como una de sus grandes
+riquezas, como una auténtica bendición divina que hacía a esta tierra superior
+al valle de Hebrón y a la misma Tierra Prometida, que no abunda així en
+tanta fruita estranya ne en arbres fragants e preciosos com aquesta132. De
+hecho seguramente la imagen de las huertas valencianas medievales ocupadas
+mayoritariamente por viñas y cereales debería ser al menos matizada si se
+tienen en cuenta otras fuentes archivísticas hasta ahora no demasiado utiliza-
+das, como por ejemplo los clams o reclamaciones ante los justícies locales,
+muchas de las cuales tienen que ver con robos de fruta o daños causados a los
+árboles que la producían. En efecto, junto con las infracciones causadas por el
+ganado, las relacionadas con los frutales son las más numerosas en cualquier
+año de los libros del justícia de CCC sous de Valencia. En el de 1438, por
+ejemplo, encontramos numerosísimas denuncias en este sentido, algunas de
+las cuales nos hablan especialmente de la importancia y los cuidados que se
+prodigaban a estos árboles. Así el sastre Pasqual Fontova protestaba contra los
+mismos oficiales municipales, los guardians de l’orta, porque li han furtats
+XXVI arbres, dels quals ni havia XIIII empeltats, on havia albercoquers de
+Domàs, preseguers e alberxichs, e prunes de frare. La precisión en las va-
+riedades de frutas descritas y el hecho mismo de que esos árboles estuvieran
+
+
+   128
+       Arnau de Vilanova. Volum II, pp. 226-228.
+   129
+       J. Gunzberg, La alimentación en los tratados, p. 862.
+   130
+       J.V. García Marsilla, La jerarquía de la mesa, pp. 90-91.
+   131
+       T. de Castro, La alimentación en las crónicas castellanas, pp. 234-235.
+   132
+       F. Eiximenis, Regiment de la cosa pública, pp. 24-25. Eiximenis enumera entre las frutas
+propias del país “panses blanques e negres, figues, molt oli, ametles, préssecs. pomes, peres,
+teronges, llimons, llimes, adzebrons, aranges, cireres de diverses sorts, guíndoles, albercocs,
+magranes, gínjols, nous, avellanes, sarmenyes, lledons, garrofes, prunes, nesples, codonys, al-
+bèrxiques, ab molts d’altres”.
+ANUARIO DE ESTUDIOS MEDIEVALES, 43/1, enero-junio 2013, pp. 115-158
+ISSN 0066-5061, doi:10.3989/aem.2013.43.1.05
+146                           JUAN VICENTE GARCÍA MARSILLA
+
+injertados –empeltats– denotan un interés y un grado de conocimiento de la
+fruticultura realmente alto133. Seguramente los frutales formaban parte en la
+mayoría de los casos de los lindes naturales entre las parcelas de que solían
+disponer los campesinos valencianos, como la tancha de tarongers e pomeres
+que estaba colocada en torno al huerto de Miquel Munyoç, mestre d’esgrima,
+y que había sido talada por el ganado del carnicero Mateu Fabregat, según
+Munyoç se quejaba en el mismo año 1438134. Sin embargo en algunos casos
+es ya posible la existencia de lo que entonces se conocía como camps espesos,
+plantados todos ellos de frutales, como podría ser el que Pere Ossinyà, cura
+de Massamagrell, poseía a su muerte en 1411, descrito como un ort e camp on
+ha molts terongers, que és VII fanechades, contigu a la casa del senyor del dit
+loch de Carraxet, en la que es la referencia más antigua a un huerto valenciano
+de naranjos de la que disponemos hasta ahora135.
+          Se habrá notado, en todo caso, que ninguno de los propietarios de
+frutales que hemos citado hasta ahora era propiamente labrador, sino que se tra-
+taba de propietarios urbanos, en su mayoría artesanos o comerciantes, que de-
+dicaban sus pequeños huertos a conseguir las muy preciadas frutas. Lo mismo
+se observa con frecuencia en las muchas alquerías que algunos personajes más
+adinerados de la ciudad, como mercaderes o abogados, poseían y solían arren-
+dar a mitges a campesinos, reservándose en exclusiva para ellos la cosecha
+de manzanas, peras, higos o cerezas que dieran los árboles de la propiedad136.
+También los hospitales disponían de cuidados huertos, cuya producción a
+veces hasta daba para vender en el mercado local. Así en el de la Reina se
+registran en 1416 III dotzenes de poncirs que·s colliren en l’ort de l’espital
+e foren venuts - VII s137. Aunque sin duda el que más datos nos proporciona
+sobre los trabajos en los huertos y su producción es el Hospital de Sant Llàtzer
+o leprosería, propietario de limoneros y poncirers en el camí de Morvedre
+y de numerosas viñas, además de rosales cuyas flores servían para las aguas
+medicinales que allí se preparaban. En enero de 1407 compraron además seis
+árboles para plantar, en què havia dos preseguerets empeltats e IIII magraners
+
+   133
+       ARV, Justícia de 300 sous 1.082, s.f., sábado 11 de enero de 1438. También en las huertas
+del Xúquer abundan estos clams relacionados con los frutales, como demostrara A. Furió, El
+camperolat valencià.
+   134
+       Ibidem, f. 1r, 2 de enero de 1438.
+   135
+       ACV, Protocols de Lluís Ferrer 3.675, 20 de enero de 1411. Habría que aclarar en todo
+caso que éstas serían naranjas amargas, anteriores a la llegada de las dulces que trajeron los
+portugueses de la China a finales del siglo XV. Sobre la difusión de los cítricos con la mediación
+de los musulmanes, véase A. Riera Melis, Las plantas que llegaron de Levante, especialmente
+pp. 832-835.
+   136
+       J.M. Cruselles, Producción y autoconsumo, especialmente pp. 70-71.
+   137
+       AMV, Hospital de la Reina, 346-1 vol. 3, f. 16v.
+ANUARIO DE ESTUDIOS MEDIEVALES, 43/1, enero-junio 2013, pp. 115-158
+ISSN 0066-5061, doi:10.3989/aem.2013.43.1.05
+                 ALIMENTACIÓN Y SALUD EN LA VALENCIA MEDIEVAL                            147
+
+dolços, mientras que en diciembre del mismo año a estos árboles se unieron
+otros IIII magraners dolços, una prunera de frare e I albericoquer138. Com-
+praban de hecho los plantones en el mismo mercado de la ciudad, como nos
+informa el hospitalero Joan Armenguer unos años más tarde, en 1435, cuando
+anota:
+
+            Item comprí en lo mercat II pomeres, dos presegués de Sent Jo-
+            han, dos berxiqués e un magraner dolç e II nespleres, los quals ar-
+            bres plantí en los orts della casa per ço com eren molt despoblats
+            d’arbres, costaren posats en casa – XI s VIIII139.
+
+          La producción frutera, por tanto, debía alcanzar un cierto volumen en
+las huertas valencianas, y su fama era conocida por los monarcas, que a menu-
+do reclamaban que les enviaran algunas piezas para su consumo personal. Ya
+Ramon Muntaner da cuenta del envío de naranjas valencianas a Zaragoza en
+1286 para los juegos acuáticos que se iban a desarrollar sobre el Ebro en honor
+al rey Alfonso el Liberal140. Mucho más tarde, en la década de 1440, Juan II,
+siendo aún infante y rey de Navarra, solicitaba a Orihuela desde Alicante que
+le enviara los mejores melones, duraznos y alberchicos y figos que las podades
+haver141. E incluso es muy probable la implicación de los mismos monarcas
+en la importación de frutales desconocidos hasta el momento en el país, que
+comenzarían a cultivarse en sus huertos del Real de Valencia o del Palau Reial
+Major de Barcelona, como los azarollers (acerolos) que reclamaba Martín el
+Humano a Pere Bertran, quien los tenía que traer desde Sicilia en 1403142.
+          Sin embargo, la mayor parte del consumo de frutas sería, dado su
+carácter perecedero, de ámbito local, y los listados de especies distintas que
+aparecen por ejemplo en la mesa de los duques de Gandia son tan amplios
+que contradicen abiertamente la máxima de Arnau de Vilanova de que no se
+debían comer juntas diferentes frutas. Incluso, lo mismo que los reyes, no
+dudaban en hacer que sus vasallos las transportaran de uno a otro de sus se-
+ñoríos: como las manzanas que, estando Alfons el Jove en Gandia en 1415,
+se hacía traer desde Cortes de Arenoso, a más de 200 km de distancia, lo que
+le costaba, sólo en los gastos del mensajero, 22 sueldos143. Sin embargo, lo
+
+   138
+       AMV, Hospital de Sant Llàtzer 353-1, primer cuaderno, ff. 23v y 69v. Costaron los seis
+primeros árboles 5 sueldos, y los segundos otro tanto.
+   139
+       Ibidem, 2º cuadernillo, f. 29r.
+   140
+       R. Muntaner, Crònica, p. 810, citado por A. Riera Melis, Las plantas que llegaron de
+Levante, pp. 833-834.
+   141
+       J. Hinojosa, Textos para la historia de Alicante, pp. 180-181.
+   142
+       D. Girona Llagostera, Itinerari del rey en Martí, p. 523.
+   143
+       J.V. García Marsilla, La taula del senyor duc, p. 95.
+ANUARIO DE ESTUDIOS MEDIEVALES, 43/1, enero-junio 2013, pp. 115-158
+ISSN 0066-5061, doi:10.3989/aem.2013.43.1.05
+148                           JUAN VICENTE GARCÍA MARSILLA
+
+que más corroía la conciencia de su padre Alfons el Vell era comer cerezas
+en Cuaresma. Le debía parecer un placer tan pecaminoso que pagaba por ello
+a su confesor lo mismo que cuando comía carne en día de abstinencia144. De
+hecho las cerezas eran un verdadero símbolo de la llegada de la primavera,
+diminutas exquisiteces con las que celebraban el buen tiempo hasta los enfer-
+mos mentales del Hospital d’Innocents, que las tomaban por el día del Corpus
+en 1413145. Estos frutos rojos encerraban además un cierto mensaje afectivo o
+hasta erótico, ya que era un regalo habitual entre enamorados y en la pintura
+gótica no faltan los banquetes, especialmente el de Herodes, con el baile de
+Salomé incluido, en que las cerezas no aparezcan diseminadas por la mesa
+como símbolo de lujuria146.
+          Las frutas seguían por tanto situándose en un plano ambivalente, en-
+tre el pecado y la enfermedad por un lado, y el goce y la salud por otro, por
+lo que los médicos buscaron medios para convertirlas en un alimento más
+saludable y algunas fueron ganando reconocimiento por su capacidad para en-
+frentarse a algunas dolencias concretas. A las ciruelas, por ejemplo, Arnau de
+Vilanova les reconocía su capacidad para mol·lificar lo ventre, es decir, para
+combatir el estreñimiento y, con el fin de hacerlas más suaves, en el Hospital
+de la Reina las escaldaban antes de dárselas a los enfermos147. Por el contrario,
+las que Vilanova llamaba fruites pòntiques, qui an natura de costrèyer (estre-
+ñir), se encontraban especialmente indicadas en situaciones como los asedios,
+de manera que en un memorial que Alfonso el Magnánimo envió a todos los
+castillos del reino de Valencia durante la guerra con Castilla de 1429-30, indi-
+cándoles los pertrechos de los que debían disponer, incluía, además de haver
+metge de cirorgia con todos sus ungüentos, tener almacenado codonyat (dulce
+de membrillo) que restreny aquells qui hajen mal de corrença per estar a la
+serena o per beure aigua o vinagre148.
+          Hasta los poco apreciados melones fueron paulatinamente siendo va-
+lorados para algunos casos, especialmente para bajar el calor de la sangre o la
+agudeza de la cólera, cosa que Arnau de Vilanova aconsejaba que se hiciera
+
+   144
+        Ibidem, p. 97.
+   145
+        ADV, Llibres de l’Hospital dels Innocents V I/b, junio de 1413.
+    146
+        Como en la escena representada en el retablo de los Santos Juanes del castillo de Santa
+Coloma de Queralt, obra de Joan de Tarragona de finales del siglo XIV, conservado en el Museu
+Nacional d’Art de Catalunya, cat. 156.
+    147
+        AMV, Hospital de la Reina 346-1 vol. 2, f. 10r: “Comprí lo dia mateix miga rova de
+prunes escaldades obs dels malalts”. Los consejos de Vilanova en Arnau de Vilanova. Volum
+II, p. 145.
+    148
+        ARV, Reial Cancelleria 643, ff. 370r-371r. Agradezco a Jorge Sáiz la noticia sobre este
+documento.
+ANUARIO DE ESTUDIOS MEDIEVALES, 43/1, enero-junio 2013, pp. 115-158
+ISSN 0066-5061, doi:10.3989/aem.2013.43.1.05
+                 ALIMENTACIÓN Y SALUD EN LA VALENCIA MEDIEVAL                  149
+
+bastante antes de la cena149. Con todo, el melón seguía teniendo la reputación
+de ser la fruta más peligrosa, de manera que se fueron introduciendo formas
+de comerlo que contrarrestaran su excesiva humedad. Así comenzó en Italia
+en el siglo XV la costumbre de tomarlo con jamón, algo que parece tan actual
+y que se basa ni más ni menos que en los principios del equilibrio galénico;
+en Francia en el siglo XVI se comenzó a comer sazonado con sal y pimienta y
+bebiendo vino150, e incluso en España viejos refranes aconsejan que “después
+del melón, vino al montón” o “al pepino, vino, y al melón con más razón”.
+También las peras con vino, azúcar y canela comenzaron a imponerse en esta
+época y en general fue una práctica creciente el confitado de las frutas, una cos-
+tumbre tras la que, además de algunas influencias islámicas, se hallaba también
+el deseo médico de moderar la naturaleza agresivamente húmeda de las frutas
+carnosas con el siempre medicinal azúcar o con miel. De ahí que el Llibre de
+totes maneres de confits, el primer tratado de confitería en catalán, que también
+es de mediados del siglo XV, esté compuesto en su mayor parte por recetas de
+mermeladas, jaleas y frutas hervidas con azúcar, canela o miel151.
+
+          Por tanto, y para concluir, el recorrido que hemos realizado confron-
+tando la tradición médica y la culinaria con los documentos generados por las
+prácticas cotidianas del consumo, nos ha llevado a comprobar la complejidad
+de las relaciones entre las tres esferas y ha demostrado que no basta comparar
+los regimina médicos con los recetarios de gastronomía para comprender la
+evolución de la dieta de los europeos de hace quinientos o seiscientos años.
+Ambos corpus no eran, al fin y al cabo, sino construcciones teóricas, por más
+que, evidentemente, tuvieran un cierto influjo sobre las costumbres reales de
+quienes tenían acceso a ellas de una u otra forma. Su función era sobre todo
+ofrecer unas pautas sobre el régimen de vida a seguir, pero en muchas ocasio-
+nes da la impresión de que las teorías no iban ni mucho menos por delante de
+los hábitos de la población, sino que, al contrario, tendían a autorizar, o incluso
+a ensalzar, los comportamientos de unas clases dominantes que a menudo se
+veían incapaces de controlar. Por otro lado, se ha podido comprobar también la
+diferencia palpable entre la ficción generada por los moralistas, que trataban de
+sancionar el orden social establecido concibiendo normas de salud diferentes
+para ricos y pobres, y la realidad, que sólo conocía una valoración de la salubri-
+dad de los alimentos, ampliamente extendida, pero a la que se tenía un mayor
+o menor acceso en función de las posibilidades económicas de cada uno. Los
+
+   149
+       Arnau de Vilanova. Volum II, p. 149.
+   150
+       J.L. Flandrin, Condimentación, cocina y dietética, pp. 637-639.
+   151
+       Llibre de Sent Soví, pp. 242-295.
+ANUARIO DE ESTUDIOS MEDIEVALES, 43/1, enero-junio 2013, pp. 115-158
+ISSN 0066-5061, doi:10.3989/aem.2013.43.1.05
+150                           JUAN VICENTE GARCÍA MARSILLA
+
+tratados médicos o culinarios son pues, por supuesto, excelentes fuentes his-
+tóricas para el estudio de la historia de la alimentación, pero nos proporcionan
+únicamente un marco, a veces incluso bastante parcial, en el que encuadrar los
+comportamientos cotidianos de la población. Es necesario ir más allá, atender
+a otras fuentes y a otras variables que expliquen los cambios y las persistencias
+en las formas de consumo que han ido diseñando nuestros hábitos actuales. Al
+fin y al cabo, esa máxima tan vigente hoy en día de “somos lo que comemos”
+parece extraída de alguna forma de los tratados médicos medievales, pero sigue
+sin bastarnos para saber por qué comemos lo que comemos.
+
+
+                                    4. BIBLIOGRAFÍA CITADA
+
+Agramunt, Jaume d’, Regiment de preservació de la pestilència, Barcelona,
+          Enciclopèdia Catalana, 1998.
+Alcanyís, Lluís, Regiment preservatiu e curatiu de la pestilència, ed. de
+          A. Ferrando e intr. de J.M. López Piñero, Valencia, Ajuntament de Va-
+          lència, 1999.
+Altisent, Agustí, Notes sobre postres, vins i fruita, al segle XV, “Boletín de la
+          Sociedad Castellonense de Cultura” 46/2 (1970), pp. 236-242.
+Arnau de Vilanova. Volum II: obres mèdiques, ed. de M. Batllori, Barcelona,
+          Barcino, 1947.
+Aurell, Jaume; Puigarnau, Alfons, La cultura del mercader en la Barcelona
+          del siglo XV, Barcelona, Omega, 2001.
+Baile, Eduard, Repertori d’aliments en el Tirant. E dinaren-se ab molt gran
+          plaer, en “Tirant” 12 (2009), pp. 5-31.
+Banegas, Ramon Agustí, Europa carnívora. Comprar y comer carne en el
+          mundo urbano bajomedieval, Gijón, Trea, 2012.
+Barrio, Juan Antonio, Finanzas municipales y mercado urbano en Orihuela
+          durante el reinado de Alfonso V (1416-1458), Alicante, Ayuntamien-
+          to de Orihuela - Institut Juan Gil-Albert, 1998.
+Bernard de Gordon, De conservatione vitae humanae, a die nativitatis usque
+          ad ultimam horam mortis, Bratislava, 1570.
+Bertran, Prim, El menjador de l’Almoina de la Catedral de Lleida. Notes sorbe
+          l’alimentació dels pobres lleidatans, “Ilerda” 40 (1979), pp. 89-124.
+Beseran, Pere, El nodriment d’Elisabet i Anna, parteres. Observacions sobre un
+          aspecte iconogràfic dels Naixements de la Verge i el Baptista al Gòtic,
+          en Ier Col·loqui d’Història de l’Alimentació a la Corona d’Aragó, Edat
+          Mitjana, vol. II, Lleida, Institut d’Estudis Ilerdencs, 1995, pp. 871-884.
+Birlouez, Eric, À la table des seigneurs, des moines et des paysans du Moyen
+          Âge, Rennes, Ouest-France, 2009.
+ANUARIO DE ESTUDIOS MEDIEVALES, 43/1, enero-junio 2013, pp. 115-158
+ISSN 0066-5061, doi:10.3989/aem.2013.43.1.05
+                 ALIMENTACIÓN Y SALUD EN LA VALENCIA MEDIEVAL             151
+
+Cançons nadalenques del segle XV, ed. de J. Romeu, Barcelona, Barcino,
+         1949.
+Capmany, Antonio de, Ordenanzas de las Armadas Navales de la Corona
+         de Aragón aprobadas por el rey Pedro IV, Madrid, Imprenta Real,
+         1787.
+Castro, Teresa de, La alimentación en las crónicas castellanas bajomedieva-
+         les, Granada, Universidad de Granada, 1996.
+Cervantes, Miguel de, El ingenioso hidalgo don Quijote de la Mancha, ed. de
+         V. Gaos, Madrid, Gredos, 1987.
+Cierbide, Ramón, El aguardiente y el vino como componentes de remedios
+         medicinales según los manuscritos medievales, “Revista Internacio-
+         nal de Estudios Vascos” 52/1 (2007), pp. 11-79.
+Cifuentes, Lluís, La ciència en català a l’Edat Mitjana i el Renaixement, Bar-
+         celona, Universitat de Barcelona - Palma de Mallorca, Universitat de
+         les Illes Balears, 2002.
+Cipolla, Carlo, Miasmi e umori: ecologia e condizione sanitaria in Toscana
+         nel Seicento, Bolonia, Il Mulino, 1989.
+Cruselles, José María, Producción y autoconsumo en contratos agrarios de
+         la huerta de Valencia (siglos XIV y XV), en Ier Col·loqui d’Història
+         de l’Alimentació a la Corona d’Aragó, Edat Mitjana, vol. II, Lleida,
+         Institut d’Estudis Ilerdencs, 1995, pp. 61-78.
+Cruz Cruz, Juan, Dietética medieval. Apéndice con la versión castellana del
+         “Régimen de Salud” de Arnaldo de Vilanova, Huesca, La Val de On-
+         sera, 1997, pp. 235-255.
+Dioscórides, Plantas y remedios medicinales (De Materia médica), Madrid,
+         Gredos, 1998.
+Echániz, María, La alimentación de los pobres asistidos por la Pía al-
+         moina de la catedral de Barcelona según el libro de cuentas de
+         1283-1284, en Alimentació i societat a la Catalunya medieval,
+         Barcelona, CSIC, 1988, pp. 173-261. (Anuario de Estudios Me-
+         dievales; 20).
+Eiximenis, Francesc, Com usar bé de beure e menjar, selección del Terç del
+         Crestià a cargo de Jorge J.E. Gracia, Barcelona, Curial, 1977.
+Eiximenis, Francesc, Regiment de la cosa pública, ed. de Daniel de Molins de
+         Rei, O.M., Barcelona, Barcino, 1927.
+Eiximenis, Francesc, Terç del Crestià, ed. de Martí de Barcelona y Norbert
+         d’Ordal, Barcelona, Barcino, 1932.
+Ferragud, Carmel, La atención médica doméstica practicada por mujeres en
+         la Valencia bajomedieval, “Dynamis” 27 (2007), pp. 133-155.
+Ferragud, Carmel, Medicina i promoció social a la Baixa Edat Mitjana (Co-
+         rona d’Aragó, 1350-1410), Madrid, CSIC, 2005.
+ANUARIO DE ESTUDIOS MEDIEVALES, 43/1, enero-junio 2013, pp. 115-158
+ISSN 0066-5061, doi:10.3989/aem.2013.43.1.05
+152                           JUAN VICENTE GARCÍA MARSILLA
+
+Flandrin, Jean-Louis, Condimentación, cocina y dietética durante los siglos
+         XIV, XV y XVI, en Flandrin, Jean-Louis; Montanari, Massimo (dirs.),
+         Historia de la Alimentación, Gijón, Trea, 2004 (ed. original en fran-
+         cés en 1996), pp. 623-645.
+Flandrin, Jean-Louis, Diététique et gastronomie, XIVe-XVIe siècles, en
+         Jansen-Sieben, Ria; Daelemans, Frank, Voeding en Geneeskun-
+         de. Alimentatrion et médicine, Actes du colloque de Bruxelles,
+         Bruselas, Archives et Bibliothèques de Bélgique, 1993, pp. 177-
+         192.
+Freedman, Paul, Lo que vino de Oriente. Las especias y la imaginación me-
+         dieval, Valencia, Publicaciones de la Universitat de València, 2010
+         (original en inglés, 2008).
+Furió, Antoni, El camperolat valencià en l’Edat Mitjana: demografia i eco-
+         nomia rural en la Ribera (segles XIII-XVI), Valencia, Universitat de
+         València, 1986, (tesis doctoral inédita).
+Furió, Antoni; Garcia-Oliver, Ferran (eds.), Llibre d’establiments i ordena-
+         cions de la ciutat de València I (1296-1345), Valencia, Publicaciones
+         de la Universitat de València, 2007.
+Gallent, Mercedes, La asistencia sanitaria en Valencia (1400-1512), Valencia,
+         Universitat de València, 1980, (tesis doctoral inédita).
+García Ballester, Luís, La búsqueda de la salud. Sanadores y enfermos en la
+         España medieval, Barcelona, Península, 2001.
+García Herrero, María del Carmen, Pan, vino y companage: apuntes sobre
+         la alimentación en la Baja Edad Media aragonesa, en Ier Col·loqui
+         d’Història de l’Alimentació a la Corona d’Aragó, Edat Mitjana, vol.
+         II, Lleida, Institut d’Estudis Ilerdencs, 1995, pp. 549-563.
+García Marsilla, Juan Vicente, La jerarquía de la mesa. Los sistemas ali-
+         mentarios en la Valencia bajomedieval, Valencia, Centre d’Estudis
+         d’Història Local, 1993.
+García Marsilla, Juan Vicente, Puresa i negoci. El paper dels jueus en la pro-
+         ducció i comercialització de queviures a la Corona d’Aragó, “Revis-
+         ta d’Història Medieval” 4 (1993), pp. 161-182.
+García Marsilla, Juan Vicente, Alimentación y diferencias sociales en la
+         ciudad de Valencia (1390-1415), en Ier Col·loqui d’Història de
+         l’Alimentació a la Corona d’Aragó, Edat Mitjana, vol. II, Lleida,
+         Institut d’Estudis Ilerdencs, 1995, pp. 487-505.
+García Marsilla, Juan Vicente, L’alimentazione in ambito mercantile. I con-
+         ti della Filiale Datini di Valencia (1404-1410), en Cavaciocchi, Si-
+         monetta (ed.), Alimentazione e nutrizione (secc. XIII-XVIII). Atti 28
+         Settimane di Studi dell’Istituto di Storia Economica “F. Datini”, Fi-
+         renze, Le Monnier, 1997, pp. 831-839.
+ANUARIO DE ESTUDIOS MEDIEVALES, 43/1, enero-junio 2013, pp. 115-158
+ISSN 0066-5061, doi:10.3989/aem.2013.43.1.05
+                 ALIMENTACIÓN Y SALUD EN LA VALENCIA MEDIEVAL               153
+
+García Marsilla, Juan Vicente, El luxe dels llèpols. Sucre i costum sumptuari a
+         la València tardomedieval, “Afers” 32 (1999), pp. 83-99.
+García Marsilla, Juan Vicente, La Sisa de la Carn. Ganadería, abastecimiento
+         cárnico y fiscalidad en los municipios valencianos bajomedievales,
+         en Vallejo Pousada, Rafael (ed.), Los tributos de la tierra. Fiscalidad
+         y agricultura en España (siglos XII-XX), Valencia, Publicaciones de la
+         Universitat de València, 2008, pp. 81-101.
+García Marsilla, Juan Vicente, La vida de las cosas. El mercado de objetos de
+         segunda mano en la Valencia medieval, ponencia al congreso Pautes
+         de consum i nivells de vida al món rural medieval, Valencia 18-20 de
+         septiembre de 2008, accesible en la web: www.uv.es/consum/marsi-
+         lla.pdf [consulta: 25/04/2013].
+García Marsilla, Juan Vicente, Diferencia e integración. Las formas de la vida
+         cotidiana entre los mudéjares y moriscos valencianos, en Benítez
+         Sánchez-Blanco, Rafael; García Marsilla, Juan Vicente (eds.), Entre
+         tierra y fe. Los musulmanes en el reino cristiano de Valencia (1238-
+         1609), Valencia, Publicaciones de la Universitat de València - Minis-
+         terio de Cultura - Bancaixa, 2009, pp. 341-361.
+García Marsilla, Juan Vicente, La taula del senyor duc. Alimentació, gastro-
+         nomia i etiqueta a la cort dels Ducs Reials de Gandia, Gandia, CEIC
+         Alfons el Vell, 2010.
+García Marsilla, Juan Vicente; López Gila, M.D.; Rosselló, M., Localització
+         d’unes possibles carnisseries medievals al barri de la Xerea (Valèn-
+         cia), “Qulayra” 2 (2006), pp. 113-138.
+García Verdeguer, Carmen, Una meselleria en la Valencia del Quinientos. El
+         Hospital de Sant Llàtzer, Valencia, Universitat de València, 1990,
+         (tesis de licenciatura inédita).
+Garcia-Oliver, Ferran (dir.), Sucre i creixement econòmic a la baixa Edat Mi-
+         tjana, “Afers” 32 (1999).
+Giagnacovo, Maria, Mercanti a tavola. Prezzi e consumi alimentari dell’azzienda
+         Datini di Pisa (1383-1390), Florencia, Opus Libri, 2002.
+Gil-Sotres, Pedro, Regimen sanitatis ad regem aragonum: Introducción, en
+         García Ballester, Luis; McVaugh, Michael R. (eds.), Regimen sanita-
+         tis ad regem aragonum. Arnaldi de Vilanova Opera Medica Omnia.
+         X.1, Barcelona, Universitat de Barcelona - Fundació Noguera, 1996.
+Girona Llagostera, Daniel, Itinerari del rey en Martí (1396-1402), “Anuari de
+         l’Institut d’Estudis Catalans” (1911-1912), pp. 81-184.
+Gisbert, Josep (ed.), Sucre & Borja. La canyamel dels Ducs: del trapig a la
+         taula, Gandia, CEIC Alfons el Vell, 2000.
+González de Fauve, María Estela; De Forteza, Patricia, “Del beber con mo-
+         deración”. Usos y aplicaciones del vino según los tratados médicos
+ANUARIO DE ESTUDIOS MEDIEVALES, 43/1, enero-junio 2013, pp. 115-158
+ISSN 0066-5061, doi:10.3989/aem.2013.43.1.05
+154                           JUAN VICENTE GARCÍA MARSILLA
+
+         de la España Bajomedieval y de la temprana modernidad, “Historia,
+         Instituciones, Documentos” 32 (2005), pp. 175-191.
+González Hernando, Irene, Una lectura médica de las imágenes medievales
+         del nacimiento, “Anales de Historia del Arte” volumen extraordina-
+         rio (2010), pp. 91-109.
+Grieco, Allen J., Alimentación y clases sociales a finales de la Edad Media y
+         en el Renacimiento, en Flandrin, Jean-Louis; Montanari, Massimo
+         (dirs.), Historia de la Alimentación, Gijón, Trea, 2004 (ed. original
+         en francés en 1996), pp. 611-624.
+Guinot, Enric; Furió, Antoni, Un exemple d’economia domèstica de principis
+         del XVè. L’administració d’una tutela. Sueca 1412-27, “Quaderns de
+         Sueca” 1 (1980), pp. 11-46.
+Gunzberg, Jordi, La alimentación en los tratados de preservación y curación
+         de la peste, en Ier Col·loqui d’Història de l’Alimentació a la Corona
+         d’Aragó, Edat Mitjana, vol. II, Lleida, Institut d’Estudis Ilerdencs,
+         1995, pp. 857-869.
+Hinojosa, José, Textos para la historia de Alicante. Historia Medieval, Alican-
+         te, Institut Juan Gil-Albert - Diputación de Alicante, 1990.
+Jansen-Sieben, Ria, From Food Therapy to Cookery-Book , en Kooper, Erik
+         (ed.) Medieval Dutch literature in European context, Cambridge,
+         Cambridge University Press, (1994), pp. 261-279.
+Javierre Mur, Antonio, María de Luna, reina de Aragón, Madrid, CSIC, 1942.
+Jerez, Felipe, Els còdexs pictòrics del Tacuinum Sanitatis d’Ibn Butlan,
+         “Afers” 41 (2002), pp. 83-98.
+Laudan, Rachel, Origen de la dieta moderna, monográfico sobre “La dieta
+         humana: biología y cultura”, “Investigación y Ciencia (edición espa-
+         ñola de Scientific American)”, 66, (2011), pp. 37-42.
+Laurioux, Bruno, Spices in the Medieval diet; a new approach, “Food and
+         Foodways” 1 (1985), pp. 43-76
+Laurioux, Bruno, Le registre de cuisine de Jean de Bockenheim, cuisinier
+         du Pape Martin V, “Mélanges de l’Ecole Française de Rome” 100
+         (1988), pp. 709-760.
+Laurioux, Bruno, L’histoire de la cuisine: problèmes, sources et mé-
+         thodes. L’exemple du Moyen Âge ( XIIIe - XV e siècles), en Ca-
+         vaciocchi, Simonetta (ed.), Alimentazione e nutrizione secc.
+         XIII - XVIII . Atti delle 27e Settimane di Studi dell’Istituto Inter-
+         nazionale di Storia Economica F. Datini, Firenze, Le Monnier,
+         1997, pp. 463-487.
+Laurioux, Bruno, La cocina medieval (siglos XIV y XV), en Flandrin, Jean-Lo-
+         uis; Montanari, Massimo, Historia de la Alimentación, Gijón, Trea,
+         2004 (ed. original en francés en 1996), pp. 589-609.
+ANUARIO DE ESTUDIOS MEDIEVALES, 43/1, enero-junio 2013, pp. 115-158
+ISSN 0066-5061, doi:10.3989/aem.2013.43.1.05
+                 ALIMENTACIÓN Y SALUD EN LA VALENCIA MEDIEVAL                 155
+
+Laurioux, Bruno, Cuisine et médecine au Moyen Âge: alliées ou enemies?,
+         “Cahiers de Recherches Médiévales” 13 (2006), pp. 223-238.
+Le Mesnagier de Paris, ed. de G.E. Brereton y J.M. Ferrier, París, Le Livre de
+         Poche, 2010.
+Le Régime du corps de maître Aldebrandin de Sienne, ed. de L. Landouzy y
+         R. Pepin, París, H. Champion, 1911.
+Llibre de Sent Soví. Llibre de totes maneres de potatges de menjar, ed. de
+         Rudolf Grewe, revisada por Amadeu-J. Soberanas y Joan Santanach,
+         Llibre de totes maneres de confits, ed. crítica de Joan Santanach i
+         Suñol, Barcelona, Barcino, 2003.
+López Piñero, José María, La medicina como norma de la vida humana en el
+         galenismo y las “Tablas de salud” de Ibn Butlan, en Theatrum sani-
+         tatis: Biblioteca casanatense, Barcelona, Moleiro, 1999, pp. 11-45.
+Magdalena, Ramon, Aspectes de la vida dels jueus valencians a la llum d’unes
+         fonts hebràiques: les respostes de Rabí Yishaq Ben Seset Perfet (se-
+         gona meitat del segle XIV), “Afers” 7 (1988-1989), pp. 189-206.
+Maillard, François, Les dépenses de l’Hôtel du comte Jean d’Angoulême
+         pour le second semestre 1462, en Les problèmes de l’alimentation,
+         “Bulletin philologique et historique du CTHS ” (1971), pp. 119-
+         127.
+Malaxecheverría, Ignacio, (ed.), Bestiario medieval, Madrid, Siruela, 1986.
+Martorell, Joanot; Galba, Martí Joan de, Tirant lo Blanc, ed. de Martí de Ri-
+         quer, Barcelona, Edicions 62 - “La Caixa”, 1983.
+Montanari, Massimo, L’image du paysan et les codes de comportement ali-
+         mentaire, en Boglioni, P., et al. (eds.), Le petit peuple dans l’Occident
+         médiéval: Terminologies, perceptions, réalités, París, Publications
+         de la Sorbonne, 2002, pp. 97-112.
+Muntaner, Ramon, Crònica, “Les quatre Grans Cròniques” ed. de Ferran Sol-
+         devila, Barcelona, Barcino, 1971.
+Narbona, Rafael, Tras los rastros de la cultura popular. Hechicería, supers-
+         ticiones y curanderismo en la Valencia medieval, “Edad Media. Re-
+         vista de Historia” 1 (1998), pp. 91-110.
+Naso, Irma, Formaggi del Medioevo. La “Summa laticinorum” di Panatleona
+         da Confienza, Turín, Il Segnalibro, 1990.
+Naso, Irma, La cultura del cibo. Alimentazione, dietetica, cucina nel basso
+         medioevo, Turín, Paravia Scriptorium, 1999.
+Nicoud, Marilyn, La dietética medieval: textos y lectores, “Minerva. Revista
+         de Filología Clásica” 23 (2010), pp. 15-34.
+Ordinacions de la Casa i Cort de Pere el Cerimoniós, ed. de F.M. Gimeno,
+         D. Gozalbo y J. Trenchs, Valencia, Publicaciones de la Universitat
+         de València, 2009.
+ANUARIO DE ESTUDIOS MEDIEVALES, 43/1, enero-junio 2013, pp. 115-158
+ISSN 0066-5061, doi:10.3989/aem.2013.43.1.05
+156                           JUAN VICENTE GARCÍA MARSILLA
+
+Orlandi, Angela, Mercaderies i diners: la correspondència datiniana entre
+         València i Mallorca (1395-1398), Valencia, Publicaciones de la Uni-
+         versitat de València, 2008.
+Panofsky, Erwin, Los primitivos flamencos, Madrid, Cátedra, 1998 (original
+         en inglés de 1953).
+Patni, Rashmi, L’assaisonnement dans la cuisine française entre le XIVe et
+         le XVIe siècle, Paris, École des Hautes Études en Sciences Sociales,
+         1989, (tesis doctoral inédita).
+Piedrafita, Elena, La alimentación en Aragón en el siglo XIII: el modelo cle-
+         rical y el nobiliario, “Revista de Historia Jerónimo Zurita” 80-81
+         (2005-2006), pp. 99-132.
+Riera i Sans, Jaume, La conflictivitat de l’alimentació dels jueus medievals (se-
+         gles XII-XIV), en Alimentació i societat a la Catalunya medieval, Barce-
+         lona, CSIC, 1988, pp. 295-311. (Anuario de Estudios Medievales; 20).
+Riera Melis, Antoni, Ganadería, quesos y derivados de la leche en el Me-
+         dioevo catalano-aragonés, en Atti del convegno internazionale “Il
+         Caseario, un archetipo alimentari: il latte e la sua metamorfosi”,
+         Bolonia, Il Mulino, 1983, pp. 47-57.
+Riera Melis, Antoni, Las plantas que llegaron de Levante, Acerca del legado
+         alimentario islámico en la Cataluña medieval, “Anuario de Estudios
+         Medievales” 31/2 (2001), pp. 787-841.
+Robert, Mestre, Libre del coch, ed. de Veronika Leimgruber, Barcelona, Cu-
+         rial, 1977.
+Roig, Jaume, Llibre de les dones o Spill, Barcelona, Barcino, 1928.
+Rubio Vela, Agustín, Pobreza, enfermedad y asistencia hospitalaria en la Va-
+         lencia del siglo XIV, Valencia, Institució Alfons el Magnànim, 1984.
+Sanchis Sivera, Josep, Bibliología valenciana medieval, “Anales del Centro
+         de Cultura Valenciana” III (1930), reeditado en Sanchis Sivera,
+         J., Estudis d’Història Cultural, ed. de M. Rodrigo Lizondo, Valen-
+         cia, Institut Interuniversitari de Filologia Valenciana - Barcelona, Pu-
+         blicacions de l’Abadia de Montserrat, 1999.
+Santich, Barbara, L’influence italienne sur l’évolution de la cuisine médiévale
+         catalane, en Manger et boire au Moyen Âge, vol. II, Niza, PFLSHN,
+         1984, pp. 131-140.
+Scully, Terence, Du fait de cuisine par Maistre Chiquart, 1420, “Vallesia” 40
+         (1985), pp. 101-231.
+Scully, Terence, The Opusculum de Saporibus of Magninus Mediolanensis,
+         “Medium Aevum” 54 (1985), pp. 158-207.
+Scully, Terence, Mixing it up in Medieval Kitchen, en Medieval Food and
+         Drink, vol. XXI, Binghampton, Center for Medieval and Early Re-
+         naissance Studies, 1995, pp. 1-26.
+ANUARIO DE ESTUDIOS MEDIEVALES, 43/1, enero-junio 2013, pp. 115-158
+ISSN 0066-5061, doi:10.3989/aem.2013.43.1.05
+                 ALIMENTACIÓN Y SALUD EN LA VALENCIA MEDIEVAL                 157
+
+Scully, Terence, The Art of Cookery in the Middle Ages, Woodbridge, The
+          Boydell Press, 1995.
+Sentieri, Maurizio, Un’indagine sulle ragioni della persistenza della dietetica
+          galenica lungo l’età preindustriale, en Cavaciocchi, Simonetta (ed.),
+          Alimentazione e nutrizione secc. XIII-XVIII. Atti delle 27e Settimane di
+          Studi dell’Istituto Internazionale di Storia Economica “F. Datini”,
+          Firenze, Le Monnier 1997, pp. 787-795.
+Serrano Larráyoz, Fernando, La Mesa del rey. Cocina y régimen alimentario
+          en la corte de Carlos III el Noble de Navarra (1411-1425), Pamplo-
+          na, Gobierno de Navarra, 2002.
+Serrano Larráyoz, Fernando, Medicina y enfermedad en la corte de Carlos III
+          el Noble de Navarra (1387-1425), Pamplona, Gobierno de Navarra,
+          2004.
+Thorndyke, Lynn, A Medieval Sauce-Book, “Speculum” 9 (1934), pp. 183-
+          190.
+Trenchs, Josep, El peix a la taula de la princesa Mata d’Armanyac: els
+          capritxos i gustos d’una infanta, en Ier Col·loqui d’Història de
+          l’Alimentació a la Corona d’Aragó, Edat Mitjana, vol. II, Lleida,
+          Institut d’Estudis Ilerdencs, 1995, pp. 309-328.
+Trias, Sebastià, La cuina lul·liana. Criteris dietètics i nivells socials, en Ier
+          Col·loqui d’Història de l’Alimentació a la Corona d’Aragó, Edat
+          Mitjana, vol. II, Lleida, Institut d’Estudis Ilerdencs, 1995, pp. 845-
+          856.
+Tudela, Lluís; Castells i Puig, Francesc, Sistemes d’alimentació i usos de tau-
+          la al “Tirant lo Blanc”, en Ier Col·loqui d’Història de l’Alimentació
+          a la Corona d’Aragó, Edat Mitjana, vol. II, Lleida, Institut d’Estudis
+          Ilerdencs, 1995, pp. 693-719.
+Vela i Aulesa, Carles, L’obrador d’un apotecari medieval segons el llibre de
+          comptes de Francesc ses Canes (Barcelona, 1378-1381), Barcelona,
+          CSIC, 2003.
+Verdés, Pere, Una espècia autòctona. El comerç del safrà a Catalunya durant
+          el segle XV, “Anuario de Estudios Medievales” 31/2 (2001), pp. 757-
+          785.
+Viciano, Pau, La gestió econòmica d’un monestir cistercenc femení: la Saïdia
+          de València a la fi del segle XV, “Revista d’Història Medieval” 2
+          (1991), pp. 111-132.
+Vinyoles, Teresa, El rebost, la taula i la cuina dels frares barcelonins al 1400,
+          en Alimentació i societat a la Catalunya medieval, Barcelona, CSIC,
+          1988, pp. 137-166. (Anuario de Estudios Medievales; 20).
+Vinyoles, Teresa, Notas sobre el queso de Mallorca, “Bolletí de la Societat
+          Arqueològica Luliana” 47 (1991), pp. 75-88.
+ANUARIO DE ESTUDIOS MEDIEVALES, 43/1, enero-junio 2013, pp. 115-158
+ISSN 0066-5061, doi:10.3989/aem.2013.43.1.05
+158                           JUAN VICENTE GARCÍA MARSILLA
+
+Woolgar, Chris M., Banquetes y ayunos. La comida y el sentido del gusto en
+        la Europa medieval, en Freedman, Paul (ed.), Gastronomía. Historia
+        del paladar, Valencia, Publicaciones de la Universitat de València,
+        2007, pp. 163-195.
+Fecha de recepción del artículo: noviembre 2012
+Fecha de aceptación y versión final: abril 2013
+
+
+
+
+ANUARIO DE ESTUDIOS MEDIEVALES, 43/1, enero-junio 2013, pp. 115-158
+ISSN 0066-5061, doi:10.3989/aem.2013.43.1.05
+

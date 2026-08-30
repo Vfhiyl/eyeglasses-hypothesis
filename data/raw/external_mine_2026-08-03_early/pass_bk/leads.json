@@ -1,0 +1,83 @@
+{
+  "pass": "BK",
+  "date": "2026-08-05",
+  "direction": "structural short-ya45 appendix (Jeake/Leo/Domenichi); no primary change",
+  "primary_unchanged": {
+    "n": 44,
+    "median": 6.0,
+    "ci": [
+      3.0,
+      8.75
+    ],
+    "sesoi5": "PASS_RAW"
+  },
+  "structural_shorts": [
+    {
+      "person_id": "leo_x",
+      "ceil": 1,
+      "T": 1.0,
+      "C": 5.0,
+      "delta": -4.0,
+      "saturated": true
+    },
+    {
+      "person_id": "jeake_samuel",
+      "ceil": 2,
+      "T": 2.0,
+      "C": 7.0,
+      "delta": -5.0,
+      "saturated": true
+    },
+    {
+      "person_id": "domenichi_ludovico",
+      "ceil": 4,
+      "T": 4.0,
+      "C": 6.5,
+      "delta": -2.5,
+      "saturated": true
+    }
+  ],
+  "sensitivity": [
+    {
+      "mode": "primary_freeze",
+      "n": 44,
+      "median": 6.0,
+      "boot95_lo": 3.0,
+      "boot95_hi": 8.75,
+      "sesoi5": "PASS_RAW",
+      "note": "BJ freeze baseline (seed=42)"
+    },
+    {
+      "mode": "drop_post45_ceil_lt_5",
+      "n": 41,
+      "median": 7.0,
+      "boot95_lo": 4.0,
+      "boot95_hi": 10.0,
+      "sesoi5": "PASS_RAW",
+      "note": "drop Jeake/Leo/Domenichi (ceil<5)"
+    },
+    {
+      "mode": "drop_jeake_leo_only",
+      "n": 42,
+      "median": 7.0,
+      "boot95_lo": 3.75,
+      "boot95_hi": 9.5,
+      "sesoi5": "PASS_RAW",
+      "note": "drop worst two structural shorts"
+    },
+    {
+      "mode": "drop_death_before_50",
+      "n": 41,
+      "median": 7.0,
+      "boot95_lo": 4.0,
+      "boot95_hi": 10.0,
+      "sesoi5": "PASS_RAW",
+      "note": "same three wearers as ceil<5 here"
+    }
+  ],
+  "do_not": [
+    "change primary freeze",
+    "invent post-death pins",
+    "reopen soft library stock"
+  ]
+}

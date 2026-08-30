@@ -1,0 +1,8 @@
+person_id,date,event,source,role,note
+sforza_francesco,1462-11-20,third_party_report_uses_young_vision_spectacles,Ilardi_2007_ch3_Tranchedini_to_Simonetta_ASM,wear_onset,"Tranchedini: lords pleased with ochiali; use young/distant not elderly lenses — first evidence duke (age ~61) uses myopia-grade spectacles."
+sforza_francesco,1463-02-24,ducal_letter_pay_tranchedini_stipend,Ilardi_2007_n19_Ferrari_Tranchedini_diary,near_work_documentary,"FROM-duke: letter orders masters of revenue to pay Tranchedini 30 gold ducats/month (from 1 Jan)."
+sforza_francesco,1464-01,oral_order_florentine_spectacles_omne_vista,Ilardi_2007_ch3,near_work_documentary,"While Tranchedini in Milan (Jan 1464), duke orally orders more Florentine eyeglasses (later for gifts / omne vista)."
+sforza_francesco,1464-01-17,letter_to_cosimo_de_medici,Ilardi_2007_n41_ASM_PE_Firenze_cart271,near_work_documentary,"Sforza to Cosimo de' Medici (ASM PE-Firenze cart. 271) — FROM-duke diplomatic near-work."
+sforza_francesco,1464-02-21,spectacle_order_fulfillment_context,Ilardi_2007_n41_Tranchedini_dispatch_BNF,near_work_documentary,"Tranchedini to Sforza (Florence): delay sending ochiali ordered for donare / omne vista — confirms living post-onset order chain."
+sforza_francesco,1464-07-18,ducal_missive_castellano_trezzo,LombardiaBeniCulturali_Registro9_index,near_work_documentary,"Last hard pin: Francesco Sforza to castellano e commissario di Trezzo sull'Adda (Milano). years_after=2 from 1462. Chrono seed: b1_sforza_francesco_reg9_chrono.csv."
+sforza_francesco,1466-03-08,death_terminus,wikidata_Q310536,death,Hard death terminus. Soft survival from onset = +4y. Exclude reg9 ghost 1469-08-31 (after death).

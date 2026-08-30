@@ -1,0 +1,6 @@
+PRIMARY all: {'mode': 'primary', 'subset': 'all_treatments', 'n_pairs_with_delta': 60, 'median_delta': 1.05, 'boot95_lo': -3.0, 'boot95_hi': 4.5, 'n_ge_5': 22, 'n_ge_15': 6, 'sesoi5': 'FAIL_OR_UNAVAILABLE', 'sesoi15': 'FAIL', 'note': 'PASS_RAW requires median≥threshold; sesoi5 also wants boot95_lo≥0'}
+PRIMARY merchant: {'mode': 'primary', 'subset': 'merchant_treatments', 'n_pairs_with_delta': 4, 'median_delta': -3.74, 'boot95_lo': -8.5, 'boot95_hi': 0.0, 'n_ge_5': 0, 'n_ge_15': 0, 'sesoi5': 'FAIL_OR_UNAVAILABLE', 'sesoi15': 'FAIL', 'note': 'PASS_RAW requires median≥threshold; sesoi5 also wants boot95_lo≥0'}
+HIGH only: {'mode': 'high_only', 'subset': 'all_treatments', 'n_pairs_with_delta': 57, 'median_delta': -1.0, 'boot95_lo': -4.5, 'boot95_hi': 5.0, 'n_ge_5': 22, 'n_ge_15': 8, 'sesoi5': 'FAIL_OR_UNAVAILABLE', 'sesoi15': 'FAIL', 'note': 'PASS_RAW requires median≥threshold; sesoi5 also wants boot95_lo≥0'}
+wrote /Users/admin/Desktop/proj/other/eyeglasses-hypothesis/outputs/tables/b1_primary_estimand_pairs.csv
+wrote /Users/admin/Desktop/proj/other/eyeglasses-hypothesis/outputs/tables/b1_primary_estimand_summary.csv
+wrote /Users/admin/Desktop/proj/other/eyeglasses-hypothesis/outputs/tables/b1_primary_estimand_method.md

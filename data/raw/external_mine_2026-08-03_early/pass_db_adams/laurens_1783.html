@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en" class="apde">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Adams Papers Digital Edition - Massachusetts Historical Society</title>
+<link rel="shortcut icon" href="/favicon.ico" />
+<link href='//fonts.googleapis.com/css?family=Libre+Baskerville:400italic,400,700' rel='stylesheet' type='text/css' />
+<link rel="stylesheet" href="/publications/lib/css/basic-2017.css" media="all"/>
+<link rel="stylesheet" href="/publications/adams-papers/css/apde.css" media="all"/>
+<script src="/incl/js/jquery-2.1.1.min.js"></script>
+<script src="/publications/adams-papers/js/apde.js"></script>
+	<link rel="stylesheet" href="/publications/lib/css/tei-display/tei-fragment.css" />
+	<link rel="stylesheet" href="/publications/lib/css/tei-display/tei-display.css" />
+
+	<script src="/lib/ui-library/mhssticky-v3-jq.js"></script>
+	<script src="/publications/lib/js/display2018.js"></script>
+	<script>
+		var page = "0";
+
+		window.addEventListener('DOMContentLoaded', function(){
+			var el;
+			var display = new displayTools();
+
+			//page view only
+			if(page) {
+				display.initPageBasedDisplay(page);
+				display.stickyBar();
+			} else {
+				//still use BTT
+				display.backToTop();
+				display.BTTinit();
+			}
+
+			//to customize, set a global var textSizingSelector;
+			if (typeof textSizingEl == "undefined") {
+				//look for nav
+				el = document.getElementsByTagName("nav");
+				if (el.length > 0) {
+					//look for inner wrapper
+					var tempel = el[0].getElementsByTagName('div');
+					if (tempel.length > 0) el = tempel[0];
+				} else el = el[0];
+			}
+			el = document.querySelector(textSizingSelector);
+
+			if(el != null) {
+				display.initTextSizers(el, "top");
+			}
+
+			display.setupShortTitles();
+			display.setupNotesLinks();
+		});
+
+	</script>
+
+	<script>
+		var linkPrefix = "/publications/adams-papers/index.php/view/";
+		var textSizingSelector = "article .gutter";
+	</script>
+
+
+</head>
+<body class="apde innerPage ADMS-06  document">
+
+		<div style="background: black; margin: 0; padding: 10px 14px 4px 14px; text-align: center;">
+	<a href="/"><img src="/images/banners/mhs_final_horizontal_blk.svg" style="height: 24px; max-width: 100%"/></a>
+</div>
+ 	<header class="siteHeader">
+		<div class="gutter">
+			<h1>Adams Papers <span class='subtitle'>Digital Edition</span></h1>
+		</div>
+
+		<nav>
+			<svg class="hamburger" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 60.000001 60.000001" height="60" width="60"><g transform="translate(0,-992.36216)"><path d="M 5,1000.3622 55,1000.3622 55,1008.3622 5,1008.3622 Z" style="fill-opacity:1;stroke:none" /><path style="fill-opacity:1;stroke:none;" d="M 5,1018.3622 55,1018.3622 55,1026.3622 5,1026.3622 Z" /><path d="M 5,1036.3622 55,1036.3622 55,1044.3622 5,1044.3622 Z" style="fill-opacity:1;stroke:none" /></g></svg>
+			<div class="gutter">
+				<a href="/publications/adams-papers">Home</a>
+				<a href="/publications/adams-papers/index.php/browse">Browse</a>
+				<a href="/publications/adams-papers/index.php/index">Index</a>
+				<a href="/publications/adams-papers/index.php/search">Search</a>
+				<a id="codeNames" href="/publications/adams-papers/views/adams-inits.php"><span class="hideTablet">Adams Family </span>Name Codes</a>
+			</div>
+		</nav>
+	</header>
+
+
+	<div class="navToolsWrapper">
+		<script>
+			var PUB_PREFIX = "APDE-";
+			var linkPrefix = "/publications/adams-papers/index.php/view/";
+			var solrIndexPrefix = "apde-"; //after which rest is the ID
+			var ajaxPrevNextUrl = "/publications/adams-papers/index.php/search-ajax-prevnext";
+
+		</script>
+		<script src="/publications/lib/js/nav-tools.js"></script>
+	</div>
+
+	<article>
+		<div class="gutter">
+			<h1 class="contextualTitle"><a href="/publications/adams-papers/index.php/volume/ADMS-06-15">Papers of John Adams, volume 15</a></h1>
+
+		
+	<div class="prevNextNav">
+		<div>
+					<label>Previous document in volume</label>
+			<a href="/publications/adams-papers/index.php/view/ADMS-06-15-02-0028">
+				<h3>From James Warren</h3>
+	<!--			<span class="who">						-->			</span>
+
+				<span class="date"></span>
+			</a>
+				</div>
+
+		<div>
+					<label>Next document in volume</label>
+			<a href="/publications/adams-papers/index.php/view/ADMS-06-15-02-0030">
+				<h3>To C. W. F. Dumas</h3>
+	<!--			<span class="who">						-->			</span>
+
+				<span class="date"></span>
+			</a>
+				</div>
+	</div>
+
+	<section class="teiFragment">
+		<div id='document'>
+<doc id="ADMS-06-15-02-0029" type="doc">
+            <mapData id="ADMS-06-15-02-0029">
+               <Title>From Henry Laurens, 25 June 1783</Title>
+               <Author>Laurens, Henry</Author>
+               <Recipient>Adams, John</Recipient>
+               <mapDates>
+                  <searchRange from="1783-06-25" to="1783-06-25"> </searchRange>
+                  <dayRange from="1783-06-25" to="1783-06-25"> </dayRange>
+               </mapDates>
+               <pageRange from="ADMS-06-15-02-pb-0055" to="ADMS-06-15-02-pb-0056"> </pageRange>
+            </mapData>
+            <header>From Henry Laurens</header>
+            <div2 type="docbody">
+               <opener>
+                  <salute>Dear Sir,</salute>
+                  <dateline>Bath 25<hi rendition="#super">th</hi> June 1783.</dateline>
+               </opener>
+               <p>I beg leave to refer you to my Letters of the 17<hi rendition="#super">th.</hi> and 20<hi rendition="#super">th.</hi> Instant to the American Ministers.</p>
+               <p>I had very early applied to Ramsden one of the most celebrated opticians in London for the Spectacles which you desired me to <span class="pb" id="pageBreak56">56</span>procure for you he was dilatory in finishing them and occasioned the loss of an excellent opportunity for transmission, they came to me just as I was leaving London in that circumstance I caused them to be packed up with an Article for M<hi rendition="#super">r</hi> Jay, and another for Count Moustier in a little Box directed to yourself and M<hi rendition="#super">r.</hi> Jay which I left in the hands of M<hi rendition="#super">r.</hi> Bridgen to be forwarded by the first proper conveyance, intending to have done what I am now performing by another hand, immediately upon my arrival at Bath.<a xmlns="http://www.tei-c.org/ns/1.0" href="#ADMS-06-15-02-0029-fn-0001" class="note" id="ADMS-06-15-02-0029-fn-0001a">1</a> But I was attacked by a fever on the road and obliged to take to bed as soon as I had alighted, this is the first day I have been able to write and even now I remain in a very feeble State. I directed Ramsden to put up a pair of spare Glasses of a different focus from those fixed in the frame, one or the other ’tis probable will suit your Eye, possibly both. His Bill accompanies the Articles and will shew the cost.</p>
+               <p>I am with great Respect and Regard, / Dear Sir, / Your obedient humble servant,</p>
+               <closer>
+                  <signed>Henry Laurens.</signed>
+               </closer>
+               <postscript>
+                  <p>I had almost omitted to inform you that your two Packets for M<hi rendition="#super">r.</hi> Secretary Livingston and Letter for Arthur Lee Esq<hi rendition="#super">r.</hi> were dispatched under my own cover to the Secretary the 17<hi rendition="#super">th.</hi> Instant by the hands of M<hi rendition="#super">r.</hi> John Vaughan who I suppose is now on his voyage in a Packet from Falmouth to New York—<a xmlns="http://www.tei-c.org/ns/1.0" href="#ADMS-06-15-02-0029-fn-0002" class="note" id="ADMS-06-15-02-0029-fn-0002a">2</a>
+                  </p>
+               </postscript>
+            </div2>
+            <div2 type="docback">
+               <note type="source" id="ADMS-06-15-02-0029-sn">
+                  <p>
+                     <abbr>RC</abbr> (<a href="/publications/adams-papers/index.php/lists/ADMS-06-16-st-001/terms" class="completion" data-type="short-title">Adams Papers</a>); internal address: “His Excellency / John Adams Esquire. / Paris.”</p>
+               </note>
+               <note type="fn" n="1" id="ADMS-06-15-02-0029-fn-0001"><span class="label">1.
+				</span>
+                  <p>
+                     <abbr>JA</abbr>’s spectacles were obtained from the Piccadilly shop of Jesse Ramsden (1735–1800), one of the most celebrated British producers of precision scientific and optical instruments of the eighteenth century (<a href="/publications/adams-papers/index.php/lists/ADMS-06-15-st-019/short-title" class="completion" data-type="short-title">
+                        <hi rendition="#italic">DNB</hi>
+                     </a>). Laurens’ execution of this commission is of particular significance because <abbr>JA</abbr> had long complained about problems with his eyes (<a href="/publications/adams-papers/index.php/lists/ADMS-06-15-st-002/short-title" class="completion" data-type="short-title">
+                        <hi rendition="#italic">AFC</hi>
+                     </a>, <a href="/publications/adams-papers/index.php/view/ADMS-04-05-02-pb-0401" class="docLink" data-type="pageNo">5:401</a>), but this letter and <a href="/publications/adams-papers/index.php/view/ADMS-06-15-02-0054" class="docLink" data-type="document">
+                        <abbr>JA</abbr>’s reply of 12 July</a>, below, contain the first references in any of <abbr>JA</abbr>’s correspondence to date to his obtaining and wearing glasses. In letters to John Jay and Elénore François Elie, Comte de Moustier, of 25 June, Laurens indicated that he had obtained from Ramsden and was sending a “little Pocket-compass” to the former and “a spying Glass” to the latter (<a href="/publications/adams-papers/index.php/lists/APXrep57/repository" class="completion" data-type="repository">NNC</a>:Jay Papers; <a href="/publications/adams-papers/index.php/lists/APXrep75/repository" class="completion" data-type="repository">ScHi</a>:Laurens Papers).</p>
+               </note>
+               <note type="fn" n="2" id="ADMS-06-15-02-0029-fn-0002"><span class="label">2.
+				</span>
+                  <p>The letter to Arthur Lee was likely that of 12 April, <abbr>JA</abbr>’s most recent extant letter to his former colleague (vol. <a href="/publications/adams-papers/index.php/view/ADMS-06-14-02-pb-0397" class="docLink" data-type="pageNo">14:397–399</a>). The content of the packets intended for Robert R. Livingston cannot be determined with certainty, but they were likely sent under cover of <abbr>JA</abbr>’s 2 June letter to Livingston (<a href="/publications/adams-papers/index.php/lists/APXterms36/terms" class="completion" data-type="terms">PCC</a>, No. 84, IV, f. 395). There <abbr>JA</abbr> indicated that he was sending Livingston letters that had been saved and returned to him when the vessel carrying them had been lost. He hoped that the secretary had received the originals of the letters. Congress’ dispatch book indicates that the 2 June letter arrived on 15 Aug. and contained “copies of sundry old letters” (<a href="/publications/adams-papers/index.php/lists/APXterms36/terms" class="completion" data-type="terms">PCC</a>, No. 185, III, f. 75). The packets were carried by Benjamin Vaughan’s brother John (1756–1841). Vaughan had gone to America in 1782, returned to England in early 1783 carrying letters for <abbr>JA</abbr> and his colleagues, and was now returning to the United States where he would settle permanently and serve as the longtime secretary of the American Philosophical Society in Philadelphia (<a href="/publications/adams-papers/index.php/lists/ADMS-06-15-st-049/short-title" class="completion" data-type="short-title">Morris, <hi rendition="#italic">Papers</hi>
+                     </a>, 4:79; vol. <a href="/publications/adams-papers/index.php/view/ADMS-06-14-02-pb-0199" class="docLink" data-type="pageNo">14:199–200</a>; <a href="/publications/adams-papers/index.php/lists/ADMS-06-15-st-030/short-title" class="completion" data-type="short-title">JA, <hi rendition="#italic">D&amp;A</hi>
+                     </a>, <a href="/publications/adams-papers/index.php/view/ADMS-01-03-02-pb-0226" class="docLink" data-type="pageNo">3:226</a>).</p>
+               </note>
+            </div2>
+         </doc>
+
+</div>
+	</section>
+
+		</div>
+	</article>
+
+	<footer>
+	<p><img src="/adams-resources/adams-insignia-blue.png" /></p>
+	<p>Adams Papers Digital Edition</p>
+	<p>&copy; 2026 Massachusetts Historical Society</p>
+</footer>
+<script>
+ 
+ function mhsASSetup(){
+	mhsASobj = new AntiSocial();
+	mhsASobj.findButtons("sharing-icons");
+ }
+ 
+</script>
+<script src="/lib/ui-library/antisocial-v3.js" async="true" onload="mhsASSetup();"></script>
+
+
+<script>
+	var cc_localStorageKey = "TRACKINGCONSENT";
+	var cc_siteUsesGA = true; // to load GA
+	var cc_gaAccountID ='G-1174Q9G3RC';
+</script>
+<script src="/lib/cookie-consent.js?v=2f" async="true"></script>
+<script data-goatcounter="https://www.masshist.org/analytics"
+        async src="/lib/count.js"></script>
+</body>
+</html>

@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<srw:searchRetrieveResponse xmlns:ns6="http://gallica.bnf.fr/namespaces/gallica/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <srw:version>1.2</srw:version>
+    <srw:echoedSearchRetrieveRequest>
+        <srw:query>gallica all "mes lunettes"</srw:query>
+        <srw:version>1.2</srw:version>
+    </srw:echoedSearchRetrieveRequest>
+    <srw:numberOfRecords>84774</srw:numberOfRecords>
+    <srw:extraResponseData>&lt;numberOfRecordsDecollapser&gt;882050&lt;/numberOfRecordsDecollapser&gt;</srw:extraResponseData>
+    <srw:records>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Defer, Jean-Baptiste-Étienne (1812-1873). Auteur du texte</dc:creator>
+                    <dc:date>1853</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>In-8° , 24 p.</dc:format>
+                    <dc:format>Nombre total de vues : 26</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k56246877</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:language>français</dc:language>
+                    <dc:publisher> (Metz)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30309524f</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Sciences et techniques, 8-TE69-90</dc:source>
+                    <dc:subject>Oeil -- Maladies -- Thérapeutique</dc:subject>
+                    <dc:title>Optique oculaire : myopie, presbytie, amblyopie, lunettes, par le Dr Defer,...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>0</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k56246877.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k56246877</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k56246877.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k56246877.medres</medres>
+                <nqamoyen>97.02</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k56246877.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k56246877</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Exposition nationale de l industrie de 1839. Éditeur scientifique</dc:contributor>
+                    <dc:creator>Charrière, Frédéric (1803-1876). Auteur du texte</dc:creator>
+                    <dc:date>1844</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>In-8° , 24 p., fig.</dc:format>
+                    <dc:format>Nombre total de vues : 30</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k5809367x</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:language>français</dc:language>
+                    <dc:publisher> (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30225403g</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Sciences et techniques, 8-TE129-124</dc:source>
+                    <dc:subject>Médecine -- Appareils et matériel</dc:subject>
+                    <dc:title>Exposition nationale de l'industrie de 1839.... Charrière,... Trousses-Agenda, trousses en général, lunettes,... nouvelles modifications de la plupart des instruments qu'on place dans les trousses, etc.</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>1</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k5809367x.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k5809367x</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k5809367x.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k5809367x.medres</medres>
+                <nqamoyen>85.3</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k5809367x.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k5809367x</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Bourgey, Émile (1914-1993). Éditeur scientifique</dc:contributor>
+                    <dc:date>1955</dc:date>
+                    <dc:description>[Vente. Numismatique. 1955-03-03. Paris]</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : VenteMMA</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>Nombre total de vues : 18</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k97785598</dc:identifier>
+                    <dc:identifier>NUMM-9778559</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Emile Bourgey (Paris?)</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb40901040h</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb40901040h</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Monnaies, médailles et antiques, VENTE BOU-1955 (1955-MAR-3)</dc:source>
+                    <dc:title>[Trésor de Saint-Wandrille Monnaies d'or de Louis XV]</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>2</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k97785598.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k97785598</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k97785598.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k97785598.medres</medres>
+                <nqamoyen>98.65</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k97785598.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k97785598</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Weylandt d Hettanges, Nicolas (Dr). Auteur du texte</dc:creator>
+                    <dc:date>1847</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : PACA1</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>In-8° , 31 p.</dc:format>
+                    <dc:format>Nombre total de vues : 34</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k5624527m</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:language>français</dc:language>
+                    <dc:publisher> (Avignon)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31642694p</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Sciences et techniques, 8-TE69-79</dc:source>
+                    <dc:subject>Oeil -- Maladies -- Thérapeutique</dc:subject>
+                    <dc:title>De l'Utilité et du danger de l'usage des lunettes et des circonstances dans lesquelles il faut s'en servir, opuscule destiné principalement à MM. les curés des campagnes qui sont journellement appelés à donner leur avis aux pauvres campagnards sur le choix des lunettes que viennent incessamment leur offrir le juif Philippe et les autres brocanteurs de ce genre... Par N. Weylandt d'Hettanges,...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>3</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k5624527m.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k5624527m</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k5624527m.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k5624527m.medres</medres>
+                <nqamoyen>96.54</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k5624527m.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k5624527m</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Fournier, Prosper. Auteur du texte</dc:creator>
+                    <dc:date>1857</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>Nombre total de vues : 3</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k61237270</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:language>français</dc:language>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb321219913</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Littérature et art, YE-43338</dc:source>
+                    <dc:title>Les Lunettes de Mathieu Laensberg. [Signé : Prosper Fournier.]</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>4</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k61237270.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k61237270</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k61237270.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k61237270.medres</medres>
+                <nqamoyen>93.22</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k61237270.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k61237270</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Bourgey, Émile (1914-1993). Éditeur scientifique</dc:contributor>
+                    <dc:date>1952</dc:date>
+                    <dc:description>[Vente. Numismatique. 1952-05-14 - 1952-05-16. Paris]</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : VenteMMA</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>Nombre total de vues : 22</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k9778063f</dc:identifier>
+                    <dc:identifier>NUMM-9778063</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Emile Bourgey (Paris?)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb40901022k</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Monnaies, médailles et antiques, VENTE BOU-1952 (1952-MAI-14-16)</dc:source>
+                    <dc:title>[Monnaies d'or de Louis XV provenant du Trésor de la rue Mouffetard (Part des héritiers)]</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>5</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k9778063f.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k9778063f</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k9778063f.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k9778063f.medres</medres>
+                <nqamoyen>98.4</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k9778063f.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k9778063f</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Bourgey, Émile (1914-1993). Expert</dc:contributor>
+                    <dc:contributor>Maison Bourgey (Paris). Expert</dc:contributor>
+                    <dc:date>1952</dc:date>
+                    <dc:description>Vendeur : Rheims, Maurice (1910-2003). Vendeur</dc:description>
+                    <dc:description>[Vente. Numismatique. 1952-03-20 - 03-21]</dc:description>
+                    <dc:description>Vendeur : Rheims, Maurice (1910-2003)</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : VenteMMA</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:description>Catalogues de vente</dc:description>
+                    <dc:format>1 vol. (16 p.) ; 24 cm</dc:format>
+                    <dc:format>Nombre total de vues : 32</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k9777971s</dc:identifier>
+                    <dc:identifier>NUMM-9777971</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Emile Bourgey (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb40901020w</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Monnaies, médailles et antiques, VENTE BOU-1952 (1952-MAR-20-21)</dc:source>
+                    <dc:subject>Numismatique</dc:subject>
+                    <dc:title>Monnaies d'or de Louis XV provenant du trésor de la rue Mouffetard : part des inventeurs / Maurice Rheims ; Emile Bourgey</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>6</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k9777971s.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k9777971s</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k9777971s.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k9777971s.medres</medres>
+                <nqamoyen>98.51</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k9777971s.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k9777971s</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Bourgey, Émile (1914-1993). Éditeur scientifique</dc:contributor>
+                    <dc:date>1952</dc:date>
+                    <dc:description>[Vente. Numismatique. 1952-05-14 - 1952-05-15. Paris]</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : VenteMMA</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>Nombre total de vues : 20</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k9777980r</dc:identifier>
+                    <dc:identifier>NUMM-9777980</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Emile Bourgey (Paris?)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb409010217</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Monnaies, médailles et antiques, VENTE BOU-1952 (1952-MAI-14-15)</dc:source>
+                    <dc:title>[Monnaies d'or de Louis XV provenant du trésor de la rue Mouffetard ; (Part de la ville de Paris)]</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>7</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k9777980r.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k9777980r</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k9777980r.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k9777980r.medres</medres>
+                <nqamoyen>98.51</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k9777980r.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k9777980r</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Thomin, Marc. Auteur du texte</dc:creator>
+                    <dc:date>1746</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>130-[2] p. ; in-12</dc:format>
+                    <dc:format>Nombre total de vues : 144</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k9768155z</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:language>français</dc:language>
+                    <dc:publisher>C. Lamesle (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb326604799</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-Z LE SENNE-4401</dc:source>
+                    <dc:title>Instructions sur l'usage des lunettes ou conserves, pour toutes sortes de vues ... Par monsieur Thomin,...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>8</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k9768155z.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k9768155z</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k9768155z.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k9768155z.medres</medres>
+                <nqamoyen>90.84</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k9768155z.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k9768155z</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Pansier, Pierre (1864-1934). Auteur du texte</dc:creator>
+                    <dc:date>1901</dc:date>
+                    <dc:description>Contient une table des matières</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:description>Miscellanées</dc:description>
+                    <dc:format>1 vol. (137 p.) : fig. et pl. ; in-8</dc:format>
+                    <dc:format>Nombre total de vues : 176</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k97739437</dc:identifier>
+                    <dc:identifier>NUMM-9773943</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>A. Maloine (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31055219q</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Sciences et techniques, 8-T21-697</dc:source>
+                    <dc:subject>Médecine</dc:subject>
+                    <dc:title>Histoire des lunettes / par le Dr P. Pansier,...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>9</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k97739437.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k97739437</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k97739437.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k97739437.medres</medres>
+                <nqamoyen>98.75</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k97739437.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k97739437</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Institut national de la statistique et des études économiques (France). Auteur du texte</dc:creator>
+                    <dc:date>1996</dc:date>
+                    <dc:description>Comprend : Autres auteurs : Mormiche, Pierre ; Wirth, Jérome</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BnSP000</dc:description>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:format>Nombre total de vues : 1</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bc6p07039v5</dc:identifier>
+                    <dc:identifier>LNUM-25710</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Insee (Paris)</dc:publisher>
+                    <dc:relation>Périodique lié : INSEE première(ISSN 1950-6252) (Notice : http://catalogue.bnf.fr/ark:/12148/cb40140680m)</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb467801771</dc:relation>
+                    <dc:relation>Première de couverture : 559815</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>BNSP-Insee</dc:source>
+                    <dc:subject>Maladies</dc:subject>
+                    <dc:subject>Catégories socio-professionnelles</dc:subject>
+                    <dc:title>Les lunettes à la loupe : les femmes portent plus souvent des lunettes que les hommes</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                    <dc:type>Document électronique</dc:type>
+                    <dc:type>Digital document</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>10</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bc6p07039v5.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link></link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bc6p07039v5.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bc6p07039v5.medres</medres>
+                <nqamoyen>100.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bc6p07039v5.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bc6p07039v5</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Chevalier, Arthur (1830-1874). Auteur du texte</dc:creator>
+                    <dc:date>1867</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>16 p. ; in-16</dc:format>
+                    <dc:format>Nombre total de vues : 28</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k64623029</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:language>français</dc:language>
+                    <dc:publisher> (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30235057h</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Sciences et techniques, 8-TC14-137</dc:source>
+                    <dc:subject>Hygiène</dc:subject>
+                    <dc:title>Des maladies des yeux causées par les mauvaises lunettes : conseils indispensables à tout le monde / par Arthur Chevalier,...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>11</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k64623029.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k64623029</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k64623029.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k64623029.medres</medres>
+                <nqamoyen>99.45</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k64623029.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k64623029</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Léonard, René (1889-?). Ancien possesseur</dc:contributor>
+                    <dc:date>1920-1929</dc:date>
+                    <dc:description>Numérisation effectuée à partir d'un document original : 2007.113.5.</dc:description>
+                    <dc:description>Appartient à l'ensemble documentaire : MnS000</dc:description>
+                    <dc:description>Appartient à l'ensemble documentaire : MnS006</dc:description>
+                    <dc:description>Contexte : En mai 1923, associé à André Lagache (1885-1938), René Léonard remporte la première édition des 24 Heures du Mans. Ils parcourent 128 tours du circuit de la Sarthe, soit 2 209 km en 24 h à la moyenne de 92,064 km/h. Le casque, la paire de lunettes et le protège tympan furent utilisés lors de cette victoire historique. Les lunettes permettaient de voir sans que le sable et les poussières soulevées par la voiture précédente n’aveuglent le pilote. Ce type de lunettes était utilisé par les canonniers de char en 1914 afin de se protéger de la poussière du tir d'obus. Le protège tympan ou bouchon anti bruit, est un accessoire important pour les pilotes. Il permet de se protéger du bruit assourdissant des moteurs de voitures et ainsi éviter tout risque de surdité.</dc:description>
+                    <dc:description>Léonard, René (1889-?). </dc:description>
+                    <dc:format>Casque. - Résine synthétique;bois;cuir. - 140 x 195 x 250 mm</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b105599596</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:relation>Notice du catalogue : http://archivesetmanuscrits.bnf.fr/ark:/12148/cc1253018/cN134031</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Musée national du sport. 2007.113.5</dc:source>
+                    <dc:subject>Sport automobile</dc:subject>
+                    <dc:subject>Course automobile</dc:subject>
+                    <dc:subject>Vingt-Quatre Heures du Mans (course automobile)</dc:subject>
+                    <dc:title>Collections Musée National du Sport. Collections Tenues et accessoires. Casque d'automobile-Léonard, René-24h du Mans</dc:title>
+                    <dc:type>physical object</dc:type>
+                    <dc:type>objet</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>12</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b105599596.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b105599596</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b105599596.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b105599596.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b105599596.thumbnail</thumbnail>
+                <typedoc>objets</typedoc>
+                <uri>btv1b105599596</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Chevalier, Arthur (1830-1874). Auteur du texte</dc:creator>
+                    <dc:date>1876</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>12 p. ; in-8</dc:format>
+                    <dc:format>Nombre total de vues : 28</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k6462303q</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:language>français</dc:language>
+                    <dc:publisher> (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30235058v</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Sciences et techniques, 8-TC14-137 (A)</dc:source>
+                    <dc:subject>Hygiène</dc:subject>
+                    <dc:title>Des maladies des yeux causées par les mauvaises lunettes : conseils indispensables à tout le monde / par Arthur Chevalier,...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>13</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k6462303q.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k6462303q</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k6462303q.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k6462303q.medres</medres>
+                <nqamoyen>99.83</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k6462303q.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k6462303q</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Thomin, Marc Mitouflet. Auteur du texte</dc:creator>
+                    <dc:date>1746</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>130-[2] p. ; in-12</dc:format>
+                    <dc:format>Nombre total de vues : 148</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k9692094f</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>C. Lamesle (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31463115g</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Littérature et art, V-20555</dc:source>
+                    <dc:title>Instruction sur l'usage des lunettes ou conserves, pour toutes sortes de vues . Marques auxquelles on peut connoître si les vues longues ordinaires ont besoin de conserves ou lunettes, des verres convexes... par Mr Thomin,...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>14</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k9692094f.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k9692094f</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k9692094f.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k9692094f.medres</medres>
+                <nqamoyen>98.22</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k9692094f.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k9692094f</uri>
+            </srw:extraRecordData>
+        </srw:record>
+    </srw:records>
+    <srw:nextRecordPosition>16</srw:nextRecordPosition>
+</srw:searchRetrieveResponse>

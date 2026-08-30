@@ -1,0 +1,32 @@
+{
+  "belluga_pere_apotecari": {
+    "identity": "Pere Belluga, apotecari de València — NOT the jurist Pere Belluga (1392–1468)",
+    "living_pin": "1435-06-14 almoneda: buys «unes ulleres ab son stoig» for 1 s. 2 d. (MedCat doc10557; notary Ambròs Alegret)",
+    "terminus": "1442-03-03 inventari de béns with silver spectacle case + ulleres (MedCat doc10559) — almost certainly death inventari (same notary pattern as Guillem Ferrer 1435), but MedCat only labels fl.1435",
+    "birth": "NONE found",
+    "labor_bar": "FAIL — no birth; will not EST birth from thin fl. window; will not treat 1442 inventari as labor pair without birth",
+    "decision": "HOLD — best Iberian living purchase of Pass G; reopen only with birth (or secure age) citation"
+  },
+  "cusac_thomas": {
+    "update": "Morice death-language scan negative; career to 1455 pay only",
+    "decision": "HOLD"
+  },
+  "cleux_jean": {
+    "update": "Infobretagne/Saint-Nazaire still end at maître d'hôtel 1457; no obit",
+    "decision": "HOLD"
+  },
+  "francesca_romana": {
+    "update": "No pre-1440 dated living pin beyond habitual-use testimony",
+    "decision": "HOLD (ya≈0)"
+  },
+  "piceto": {
+    "update": "Still no termini; do not confuse with Jacopo Piccinino",
+    "decision": "HOLD"
+  },
+  "medcat_other": {
+    "guillem_ferrer": "death inventari 1435 — closed path",
+    "joan_bartomeu_palma": "1470 inventari ownership — thin, no b/d (parallel Lleida Bartomeu)",
+    "antoni_salat": "1491 inventari — death path",
+    "pere_moranta": "1499 inventari — death path / OOW edge"
+  }
+}

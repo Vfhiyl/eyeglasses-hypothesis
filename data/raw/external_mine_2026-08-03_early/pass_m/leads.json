@@ -1,0 +1,58 @@
+{
+  "pass": "M",
+  "date": "2026-08-03",
+  "decision": "no_ingest",
+  "seams": {
+    "heymann_luillier_1473": {
+      "pin": "Comptes Ville de Paris 1473-74: paire lunettes clouants pour Prévost Denis Hasselin",
+      "decision": "SKIP duplicate — already hesselin_denis ey=1474"
+    },
+    "douet_argenterie": {
+      "sources": [
+        "comptesdelargen00dougoog",
+        "nouveaurecueilde00douuoft",
+        "nouveaurecueild02dougoog"
+      ],
+      "result": "béricle items are single reading-stones/crystal (loupe); Charles VI/Jeanne d'Évreux inventory bericle; 1454 garniture pour pièce de béricle à lire = loupe path",
+      "decision": "EXCLUDE loupe/inventory"
+    },
+    "douet_charles_vi_pieces": {
+      "sources": [
+        "choixdepicesin01/02douuoft"
+      ],
+      "result": "No living pair pin; inventory bericle for queen Jeanne arms",
+      "decision": "EXCLUDE"
+    },
+    "ammannati_cherubini_1473": {
+      "result": "Already ilardi+activity ammanti 1473 near+far occhiali",
+      "decision": "SKIP duplicate"
+    },
+    "gonzaga_polirone_1466": {
+      "result": "Abbot Bessarione sends ochialli to Lodovico — already gonzaga_ludovico",
+      "decision": "SKIP duplicate"
+    },
+    "digitarq_oculos": {
+      "result": "All 16c+ (Moser, Lopes Elvas, etc.)",
+      "decision": "OOW"
+    },
+    "spanish_anteojos_ia": {
+      "result": "IA search empty docs",
+      "decision": "dry"
+    },
+    "gaye_asl": {
+      "result": "Architectural lunette false positives only",
+      "decision": "dry"
+    },
+    "welch_piceto": {
+      "result": "Still OA-closed",
+      "decision": "HOLD"
+    },
+    "ilardi_gaps_checked": {
+      "gonzaga_francesco_1483": "death inventory cases — EXCLUDE labor",
+      "sacchetti_1392": "literary depiction not self-wear",
+      "guy_chauliac": "medical mention not personal wear",
+      "orsi_stapeldon_magnavia": "probate inventory ya≈0"
+    }
+  },
+  "new_cleux_bar_promote": null
+}

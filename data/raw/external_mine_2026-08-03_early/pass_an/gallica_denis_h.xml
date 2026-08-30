@@ -1,0 +1,1049 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<srw:searchRetrieveResponse xmlns:ns6="http://gallica.bnf.fr/namespaces/gallica/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <srw:version>1.2</srw:version>
+    <srw:echoedSearchRetrieveRequest>
+        <srw:query>gallica all "Denis Hasselin" or gallica all "Denis Hesselin"</srw:query>
+        <srw:version>1.2</srw:version>
+    </srw:echoedSearchRetrieveRequest>
+    <srw:numberOfRecords>7645</srw:numberOfRecords>
+    <srw:extraResponseData>&lt;numberOfRecordsDecollapser&gt;64742&lt;/numberOfRecordsDecollapser&gt;</srw:extraResponseData>
+    <srw:records>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Jean de Roye (1425?-1495?). Auteur présumé du texte</dc:contributor>
+                    <dc:contributor>Hesselin, Denis. Auteur présumé du texte</dc:contributor>
+                    <dc:date>1496</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>[74] f. ; in-folio</dc:format>
+                    <dc:format>Nombre total de vues : 172</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k8713682f</dc:identifier>
+                    <dc:identifier>NUMM-8713682</dc:identifier>
+                    <dc:language>frm</dc:language>
+                    <dc:publisher>[Michel Topié] (Lyon)</dc:publisher>
+                    <dc:publisher>[circa 1496] (Lyon)</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb312654879</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb312654879</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Réserve des livres rares, RES FOL-LB27-2</dc:source>
+                    <dc:subject>France (1461-1483, Louis XI)</dc:subject>
+                    <dc:title>Les croniques du tres chrestien &amp; tres victorieux Loys de Valoys feu roy de France que dieu absolve unziesme de ce nom avecques plusieurs aultres adventures advenues tant en ce royaulme de France comme es pays voisins depuis l'an mil quatre cens LX jusques en l'an mil quatre cens quatre vingts &amp; trois inclusivement</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>0</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k8713682f.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k8713682f</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k8713682f.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k8713682f.medres</medres>
+                <nqamoyen>12.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k8713682f.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k8713682f</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Crèvecoeur, Robert de (1833-1896). Auteur du texte</dc:creator>
+                    <dc:date>1895</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>24 p. ; in-8°</dc:format>
+                    <dc:format>Nombre total de vues : 38</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k1172086g</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:language>français</dc:language>
+                    <dc:publisher> (Nogent-le-Rotrou)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb34164897q</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LN27-44147</dc:source>
+                    <dc:subject>Hesselin, Louis</dc:subject>
+                    <dc:title>Louis Hesselin : amateur parisien, intendant des plaisirs du roi, 1600 ( ?)-1662 / par R. de Crèvecoeur</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>1</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k1172086g.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k1172086g</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k1172086g.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k1172086g.medres</medres>
+                <nqamoyen>88.62</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k1172086g.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k1172086g</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Flamand-Grétry, Louis-Victor (1764-1843). Auteur du texte</dc:creator>
+                    <dc:date>1840</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : IledeFr1</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BnPlCo00</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BnPlCo02</dc:description>
+                    <dc:description>Contient une table des matières</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>1 vol. (266 p.) : pl., plans ; in-8</dc:format>
+                    <dc:format>Nombre total de vues : 312</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k6448156g</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>A. Bertrand (Paris)</dc:publisher>
+                    <dc:publisher>Delaunay (Saint-Denis)</dc:publisher>
+                    <dc:publisher>Chichereau</dc:publisher>
+                    <dc:publisher>l'auteur</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb321095638</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-Z LE SENNE-8195</dc:source>
+                    <dc:title>Description complète de la ville de Saint-Denis depuis son origine jusqu'à nos jours : de son ancienne abbaye, de l'ile Saint-Denis et la biographie de tous les hommes célèbres morts ou vivants qui les ont illustrées... / par L.-V. Flamand-Grétry,...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>2</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k6448156g.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k6448156g</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k6448156g.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k6448156g.medres</medres>
+                <nqamoyen>99.7</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k6448156g.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k6448156g</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Tisserand, Lazare-Maurice (1822-1893?). Auteur du texte</dc:creator>
+                    <dc:date>1866</dc:date>
+                    <dc:description>Collection : Histoire générale de Paris</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : VilledePa1</dc:description>
+                    <dc:format>1 vol. (223 p.) : figure ; In-fol.</dc:format>
+                    <dc:format>Nombre total de vues : 220</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k241349b</dc:identifier>
+                    <dc:identifier>NUMM-241349</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Imprimerie impériale (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31473033b</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France</dc:source>
+                    <dc:subject>Paris (France) -- Histoire</dc:subject>
+                    <dc:title>Histoire générale de Paris : collection de documents fondée... par M. le Bon Haussman,... : et publiée sous les auspices du Conseil municipal / Introduction [ : Plan de la collection ; précédents historiques. Par L.-M. Tisserand]</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>3</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k241349b.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k241349b</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k241349b.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k241349b.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k241349b.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k241349b</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Robert, Ulysse (1845-1903). Auteur du texte</dc:creator>
+                    <dc:date>1889</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : IledeFr1</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>1 vol. (150 p.) : pl. ; in-18</dc:format>
+                    <dc:format>Nombre total de vues : 168</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k141996k</dc:identifier>
+                    <dc:identifier>NUMM-141996</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>A. Beucher (Saint-Mandé)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31226059c</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LK7-26582</dc:source>
+                    <dc:subject>Saint-Mandé (France)</dc:subject>
+                    <dc:title>Notes historiques sur Saint-Mandé / par Ulysse Robert,...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>4</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k141996k.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k141996k</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k141996k.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k141996k.medres</medres>
+                <nqamoyen>99.81</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k141996k.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k141996k</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1909-1911</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPNOUV</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb32836182j/date</dc:identifier>
+                    <dc:identifier>NUMP-21272</dc:identifier>
+                    <dc:identifier>ISSN 2729191X</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>[s.n.] (Saint-Denis)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb32836182j</dc:relation>
+                    <dc:relation>A pour reproduction : Le Petit Dionysien (Saint-Denis. Reproduction numérique) = ISSN 2669-6711 (https://gallica.bnf.fr/ark:/12148/cb32836182j/date)</dc:relation>
+                    <dc:source>Bibliothèque nationale de France, département Droit, économie, politique, JO-35174</dc:source>
+                    <dc:title>Le Petit Dionysien (Saint-Denis)</dc:title>
+                    <dc:title>Le Petit Dionysien : journal républicain hebdomadaire : organe de défense des intérêts généraux de Saint-Denis et des communes environnantes / rédacteur en chef André Bréaux</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>5</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k95396971.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb32836182j/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k95396971.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k95396971.medres</medres>
+                <nqamoyen>83.57</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k95396971.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k95396971</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Babeau, Albert (1835-1914). Auteur du texte</dc:creator>
+                    <dc:date>1897</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>42 p. : pl. ; in-8</dc:format>
+                    <dc:format>Nombre total de vues : 56</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k940344m</dc:identifier>
+                    <dc:identifier>NUMM-940344</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>impr. P. Nouel (Troyes)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31747139j</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Littérature et art, 8-Z-9840 (14)</dc:source>
+                    <dc:title>Le château de Villacerf et ses seigneurs / par M. Albert Babeau,...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>6</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k940344m.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k940344m</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k940344m.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k940344m.medres</medres>
+                <nqamoyen>88.41</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k940344m.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k940344m</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:description>Contient : Guy Chamillart ; lettre sans signature écrite « de la Hague » ; Joseph-Zongo Ondedei, évêque de Fréjus ; « Tartière » ; « Le Juge » ; « M. de Thourane, sieur de Saint-Genet et La Gaule » ; Constant de « Silvecane » ; de « Sainléon » ; T. de « Serry », officier de marine ; « Laigneau » ; Madame « Boüer Millet » ; J. « Cassagnes » ; E. « d'Aligre », à Paris ; D. « Marin » ; « Du Pin » ; J. « Lambert » ; Fr. « Bellinzani » ; « Rouvière » ; A. « Huchet » ; « la duchesse douairière [M.-F.] d'Angoulême » ; « Ollim » de la Chambre des Comptes de Dijon ; D. de « Ponsainpierre » ; Charles « Colbert » de Croissy ; Madame « veuve de Beaumesnil [et] Louis Hesselin » ; « Le ch[eva]l[ie]r de S[aint]-Laurens » ; G. « Charrier » ; les frères « Chanut », trésoriers de France en Auvergne ; « la m[aréchale] de L'Hospital », Marie-Élisabeth-Aimée Pot ; H. « Hubert » ; G. « d'Almeras » ; « de Quersaleun-Guergeorlay », à la rade de Bréhat ; « Beuf », à Aix ; « Gargant », à Chalons ; Ch. « Tubeuf » ; L. « d'Herbigny » ; B. « de Fortia » ; Henri de Forbin d' « Oppède » ; Philippe « de Beauchamps » ; « Dumolin », à Marseille ; « de La Croix », au Bec ; « l'évesque-duc de Laon », César d'Estrées ; « l'évesque et duc de Langres », Louis Barbier de La Rivière ; « Panier », à Poitiers ; J.-A. « d'Abon » ; « le duc [Alexandre] de Bournonville » ; Aymar, marquis de « Chouppes » ; « d'Aubray d'Offemont » ; « P. Pertuis » ; « Gobert », au Hâvre ; le président « L. Morel » ; « Du Teilloys » ; J. « Barin » de la Galissonnière ; Fr. « Dugué » ; Cl. « Bouchu » ; « N. de Compans » ; « P. Formont » ; Fr. « de Thosse » ; le comte G. « d'Estrades » ; Antoine « Lefebvre de la Barre » ; J.-P. « de Choisy » ; Fr. « Pasquier » ; A. « de Harlay » ; Louis Maslard « d'Ulisse », trésorier général des Ligues suisses ; « Du Fresne » ; « de Cargres », du Parlement de Rennes ; J.-B. « Voysin de la Noiraye » ; « Pecquot » ; « Lemaigre », à Bordeaux ; « Janot », à Middlebourg ; H. « de Séjournant », à Lyon ; J. « Lombard », à Bordeaux ; « le chevalier de Grémonville » ; « les présidens et thrésoriers g[é]né[r]aux de France de Lyon » ; Henri de « Ruvigny » ; François Le Tonnelier de « Breteuil » ; Fr. « Mouslier » ; « Brice » à Limoges ; Ch. « Colbert de Terron » ; N. « Arnoul » ; B. « de Marle » ; L. de « Logerie », gouverneur de Belle-Isle ; Ch. « Chertemps » ; « L.-[H. de Lévis] de Ventadour, é[vesque] de Mirepoix » ; D. « de Cheverry » ; Cl. « Pellot » ; Cl. Bazin « de Besons [et Ch.] Tubeuf » ; Ant. « Coiffier » ; « Le Rossignol », à Carteret ; « de La Touche, ingénieur au Quesnoy ; « Fr. de S[ain]t-Martin » ; « M. Colbert », Madame Desmarets ; « Lévesque », receveur ; Cl. Perrot ; « de Benoist » ; Jehan « Rasse » ; J. « Barentin » ; « P. Chertemps de Seuil » ; Cl. « Brodart », intendant de marine ; « Rycard », lieutenant de l'amirauté à Toulon ; « M[adame] de Voullemin » ; A. Dreux-« d'Aubray » ; « Félix Mori » ; « Gaudais Dupont » ; le marquis R.-G. de « Castries » ; Jacques « de S[ain]t-Victor, lieutenant g[é]né[r]al en l'admiraulté de Dieppe » ; Charles de Sainte-Maure, marquis de « Montausier » ; « P. Formont » ; « Le Vasseur de Beauplan » ; C. « Joly », à Lyon ; L. « d'Infreville » ; L. « Béchameil », greffier au Conseil des finances (lettre signée X) ; « Pachau » ; N. « Nacquart » ; « Dumas », conducteur de chevaux ; Fr. de « Baradat » ; P. de « Maupassant » ; « D. Veson », receveur de l'amirauté de Dieppe ; « Buat », à la Tête de Buch ; « Monnerot » ; « Du Caron » ; de « S[ain]t-Sauveur » ; de « La Motte » ; B. « Bourgeois », à Lyon ; C. « de Silvecane » ; « Hardouin [de Péréfixe de Beaumont], ar[chevesque] de Paris » ; le capitaine Job « Forant » ; Louis de « Matharel », intendant de marine ; « l'abbé de Chambonas » ; G. « Du Metz » ; « J. Salomon de Lalanne », à Bordeaux ; Denis « de La Haye » ; « de Bié » ; de « Lachastaigneraye », à Rouen ; Jean « Bourdon », à Abbeville ; « Macqueron », à Figuières ; Bivel de « Montpesat » ; N. « Arnoul » ; « Derrevin », commissaire de la place de Pignerol ; « de S[ain]t-Mars » ; R. « de Francquetot » ; « de Chambellé », à Dunkerque</dc:description>
+                    <dc:description>Numérisation effectuée à partir d'un document de substitution</dc:description>
+                    <dc:description>Le volume contient en outre les pièces suivantes : Supplique de l'évêque de Fréjus, J. Ondedeï, adressée au Roi contre Mazel (fol. 7). — Supplique, adressée à Colbert, par le comte de Séry, relative à l'achat de la place du Vieux-Marché-aux-Chevaux, près de la porte de Richelieu (fol. 30). — « Mémoire pour Monsieur de Lionne, touchant un ordre du Roi, pour le flotage des bois du marquis de Gardes » (fol. 34). — « Consommation de deux billetz de l'Espargne de l'exercice de M. Jeannin de Castille de l'année 1661 » (fol. 42). — Certificat des commis de la douane au bureau de la Chapelle Saint-Nicolas sur le pont d'Avignon pour la vérification des marchandises, venant de Beaucaire et de Tarascon (fol. 120). — Copie de la lettre écrite par le duc de Nevers à M. du Teilloys, du 22 mai 1666 (fol. 128). — Enquête sur la paroisse d'Arcenant (fol. 135). — Lettre de M. de Certondaus à M. Formont, etc. (fol. 141 et 145). — État des sommes reçues par le commis du trésorier général de la marine du receveur général des finances Le Maigre (fol. 208). — Don aux Jésuites de la maison de Saint-Louis de Paris (fol. 219). — Rapport de David de Cheverry, conseiller du Roi, sur le dessèchement des landes de Bordeaux (fol. 227). — Lettre de Nacquart, adressée à Madame Desmarests (fol. 248). — Arrêt du Conseil, sur les nouvelles manufactures de cuir et de drap (fol. 254). — État des prises, faites par la flotte française et vendues à Toulon en mai 1666 (fol. 272). — Etat des revenus de l'abbaye de « Fonfrède » en Languedoc, (Fontfroide, Aude) (fol. 276). — Requête des intéressés aux navires nommez « la Fortune, le Saint-Pierre, le Prince Henry » (fol. 302). — Constitution de procureurs de Jacques Demaux, Pierre Eustache, etc., pour obtenir la subrogation du sous-traité fait par Pierre de Champagne à Jacques Lambert (fol. 312). — Lettres de Londres, des 3 et 6 juin (fol. 324). — Note sur une saisie faite à Beaucaire (fol. 334). — État des marchandises demandées au sieur du Masa, de Hollande (fol. 351). — Sentence du lieutenant général de l'amirauté de Dieppe, qui diminue l'amende pour les détenteurs de parcs et pêcheries, situées le long de la mer (imprimé) (fol. 371). — Sommation faite à la requête de M. d'Ulisse à M. d'Abon, trésorier général des Ligues suisses, pour ses gages de 1664 (fol. 381 et 382). — Note de Formont sur la flotte anglaise, et extrait d'une lettre de Middlebourg (fol. 414). — Rapport sur la flotte anglaise de la Manche (fol. 416). — Supplique adressée à Colbert, par les pêcheurs de Dieppe (fol. 430). — Arrêt de Jacques de La Houssaye de Saint-Victor, condamnant des propriétaires de parcs et de pêcheries (imprimé et notes manuscrites) (fol. 432). — Requête des propriétaires des parcs de la vallée de la Seine (fol. 434). — Copie de la lettre du « pauvre Akmet pacha » à D. de La Haye (fol. 446). — Copie de la lettre des confédérés des Grisons aux conseils des Cantons (fol. 452). — Rapport de Jean Bourdon, lieutenant en l'amirauté d'Abbeville, sur un navire échoué près de Montreuil (fol. 456). — Note sur « les rations du soldat et du cavalier » (fol. 462). — Lettre de Trubert à N. Arnoul (fol. 477). — Mémoire de Jacques Busiau, de Bayonne, établi à Bruxelles (fol. 504). — « Estat des commissions données par le Roy, soubs les attaches du sieur [Antoine] Coiffier [Ruzé, marquis d'Effiat], grand maître surintendant et general réformateur des mines et minières de France » (fol. 510). — Arrêt du Conseil, commettant le dit A. Coiffier à l'exercice des charges de grand maître surintendant et général des mines (fol. 512).Lettres adressées à Colbert par</dc:description>
+                    <dc:format>512 feuillets</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b10035618k</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:relation>Notice du catalogue : http://archivesetmanuscrits.bnf.fr/ark:/12148/cc95442r/cd0e51</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France. Département des Manuscrits. Mélanges de Colbert 138</dc:source>
+                    <dc:subject>ABON (Jacques-Auguste D')</dc:subject>
+                    <dc:subject>ABON (Jacques-Auguste D')</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>ACHMET-PACHA</dc:subject>
+                    <dc:subject>Lettre</dc:subject>
+                    <dc:subject>AKAKIA (Roger), sr du Fresne</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>ALIGRE (Étienne D')</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>ALMERAS (Guillaume D')</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>ANGLETERRE</dc:subject>
+                    <dc:subject>Flotte</dc:subject>
+                    <dc:subject>ANGOULEME (Françoise de Nargonne, duchesse D')</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>ARCENANT (Côte-d'Or)</dc:subject>
+                    <dc:subject>Enquête sur cette paroisse</dc:subject>
+                    <dc:subject>ARMEE</dc:subject>
+                    <dc:subject>Rations du fantassin et du cavalier</dc:subject>
+                    <dc:subject>ARNOUL (Nicolas et Pierre)</dc:subject>
+                    <dc:subject>Lettres (1666-1668)</dc:subject>
+                    <dc:subject>ARNOUL (Nicolas et Pierre)</dc:subject>
+                    <dc:subject>Lettres à eux adressées</dc:subject>
+                    <dc:subject>AUBRAY (Antoine D'), comte d'Offémont</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>AUBRAY (Denis Dreux D')</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>AVIGNON</dc:subject>
+                    <dc:subject>Certificats des commis de la douane, du bureau de la chapelle Saint-Nicolas</dc:subject>
+                    <dc:subject>BARADAT (François DE)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>BARBIER DE LA RIVIERE (Louis), évêque de Langres</dc:subject>
+                    <dc:subject>Lettre</dc:subject>
+                    <dc:subject>BARENTIN (Jacques-Honoré)</dc:subject>
+                    <dc:subject>Lettres (1667-1675)</dc:subject>
+                    <dc:subject>BARIN DE LA GALISSONNIERE (Jacques)</dc:subject>
+                    <dc:subject>Lettres (1666-1668)</dc:subject>
+                    <dc:subject>BAZIN DE BESONS (Claude)</dc:subject>
+                    <dc:subject>Lettres (1666-1668)</dc:subject>
+                    <dc:subject>BEAUCAIRE (Gard)</dc:subject>
+                    <dc:subject>BEAUCAIRE (Gard)</dc:subject>
+                    <dc:subject>Note sur une saisie faite à Beaucaire</dc:subject>
+                    <dc:subject>BEAUCHAMPS (Philippe DE)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>BEAUMESNIL (Mme DE)</dc:subject>
+                    <dc:subject>Lettre</dc:subject>
+                    <dc:subject>BECHAMEIL (Louis), marquis de Nointel</dc:subject>
+                    <dc:subject>Lettre signée « X »</dc:subject>
+                    <dc:subject>BELLINZANI (François)</dc:subject>
+                    <dc:subject>Lettres (1660-1666)</dc:subject>
+                    <dc:subject>BENOIST (Antoine DE)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>BEUF (J.)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>BIE (M. DE)</dc:subject>
+                    <dc:subject>Lettre</dc:subject>
+                    <dc:subject>BOUCHU (Claude)</dc:subject>
+                    <dc:subject>Lettres (1666-1667)</dc:subject>
+                    <dc:subject>BOUER-MILLET (Mme)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>BOURDON (Jean)</dc:subject>
+                    <dc:subject>Lettre</dc:subject>
+                    <dc:subject>BOURDON (Jean)</dc:subject>
+                    <dc:subject>Rapport</dc:subject>
+                    <dc:subject>BOURGEOIS (B.)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>BOURNONVILLE (Alexandre-Hippolyte-Balthazar, duc DE)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>BRICE (Jean)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>BRODART (Claude)</dc:subject>
+                    <dc:subject>Lettres (1666-1667)</dc:subject>
+                    <dc:subject>BURIAU (Jacques)</dc:subject>
+                    <dc:subject>Rapport</dc:subject>
+                    <dc:subject>CARGRES (Le sr DE)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>CASSAGNES (Abbé Jacques)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>CASTRIES (René-Gaspard de La Croix, marquis DE)</dc:subject>
+                    <dc:subject>Lettres (1666-1676)</dc:subject>
+                    <dc:subject>CAVALERIE</dc:subject>
+                    <dc:subject>Rations du fantassin et du cavalier</dc:subject>
+                    <dc:subject>CERTONDAUS (M. DE) (?)</dc:subject>
+                    <dc:subject>Lettre</dc:subject>
+                    <dc:subject>CHAMBELLE (D. DE)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>CHAMPAGNE (Pierre DE)</dc:subject>
+                    <dc:subject>Traité avec Jacques Lambert</dc:subject>
+                    <dc:subject>CHANUT (Hector-Pierre)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>CHARMOY (J.-P. DE)</dc:subject>
+                    <dc:subject>Lettre</dc:subject>
+                    <dc:subject>CHARRIER (Jacques)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>LA CHASTAIGNERAYE (M. DE), à Rouen</dc:subject>
+                    <dc:subject>Lettre</dc:subject>
+                    <dc:subject>CHERTEMPS (Charles)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>CHEVERRY (David DE)</dc:subject>
+                    <dc:subject>Lettres (1666-1667)</dc:subject>
+                    <dc:subject>CHEVERRY (David DE)</dc:subject>
+                    <dc:subject>Rapport</dc:subject>
+                    <dc:subject>CHOISY (Jean-Paul DE)</dc:subject>
+                    <dc:subject>Lettres (1666-1669)</dc:subject>
+                    <dc:subject>CHOUPPES (Aimar, marquis DE)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>COIFFIER (Ant.)</dc:subject>
+                    <dc:subject>Lettre</dc:subject>
+                    <dc:subject>COLBERT (Charles), marquis de Croissy, frère du ministre</dc:subject>
+                    <dc:subject>Lettres (1665-1666)</dc:subject>
+                    <dc:subject>COLBERT DE TERRON (Charles)</dc:subject>
+                    <dc:subject>Lettres (1666-1667)</dc:subject>
+                    <dc:subject>COLBERT-DESMARETS (Marie)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>COLBERT-DESMARETS (Marie)</dc:subject>
+                    <dc:subject>Lettres à elle adressées</dc:subject>
+                    <dc:subject>COLBERT (Jean-Baptiste)</dc:subject>
+                    <dc:subject>Correspondance</dc:subject>
+                    <dc:subject>COLBERT (Jean-Baptiste)</dc:subject>
+                    <dc:subject>Lettres à lui adressées</dc:subject>
+                    <dc:subject>COLBERT (Jean-Baptiste)</dc:subject>
+                    <dc:subject>Minutes</dc:subject>
+                    <dc:subject>COLBERT (Jean-Baptiste)</dc:subject>
+                    <dc:subject>Placets, suppliques et requêtes à lui adressés</dc:subject>
+                    <dc:subject>COMPANS (Nicolas DE)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>CONSEIL D'ÉTAT</dc:subject>
+                    <dc:subject>Lettres (1665-1666)</dc:subject>
+                    <dc:subject>LA CROIX (Charles DE)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>CUIRS</dc:subject>
+                    <dc:subject>Nouvelles manufactures</dc:subject>
+                    <dc:subject>DEMAUX (Jacques)</dc:subject>
+                    <dc:subject>DIEPPE</dc:subject>
+                    <dc:subject>DIEPPE</dc:subject>
+                    <dc:subject>Supplique des pêcheurs</dc:subject>
+                    <dc:subject>DOUANES</dc:subject>
+                    <dc:subject>Certificat du commis de la douane d'Avignon</dc:subject>
+                    <dc:subject>DRAPS</dc:subject>
+                    <dc:subject>Nouvelles manufactures</dc:subject>
+                    <dc:subject>DU CARON (Fr.)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>DU GUE DE BAGNOLS (François)</dc:subject>
+                    <dc:subject>Lettres (1665-1667)</dc:subject>
+                    <dc:subject>DU METZ (Gédéon Berbier)</dc:subject>
+                    <dc:subject>Lettres (1666-1677)</dc:subject>
+                    <dc:subject>DU PIN (Jean Chaudesolle, sr)</dc:subject>
+                    <dc:subject>Lettres (1665-1675)</dc:subject>
+                    <dc:subject>DU TEILLOYS</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>DU TEILLOYS</dc:subject>
+                    <dc:subject>Lettres à lui adressées</dc:subject>
+                    <dc:subject>DUMAS</dc:subject>
+                    <dc:subject>Lettre</dc:subject>
+                    <dc:subject>DUMAS (V.)</dc:subject>
+                    <dc:subject>Marchandises, qu'il doit faire venir de Hollande</dc:subject>
+                    <dc:subject>DUMOLIN (J.)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>ÉPARGNE (L')</dc:subject>
+                    <dc:subject>Billets de l'Épargne</dc:subject>
+                    <dc:subject>ESTRADES (Godefroy, comte D')</dc:subject>
+                    <dc:subject>Lettres (1666-1667)</dc:subject>
+                    <dc:subject>ESTREES (César, cardinal D'), évêque de Laon</dc:subject>
+                    <dc:subject>Lettres (1605-1672)</dc:subject>
+                    <dc:subject>EUSTACHE (Pierre)</dc:subject>
+                    <dc:subject>FLOTTES</dc:subject>
+                    <dc:subject>Flotte anglaise</dc:subject>
+                    <dc:subject>FONTFROIDE (Abbaye de), dans l'Aude</dc:subject>
+                    <dc:subject>Revenus</dc:subject>
+                    <dc:subject>FORANT (Job)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>FORMONT (Pierre)</dc:subject>
+                    <dc:subject>Lettres (1660-1666)</dc:subject>
+                    <dc:subject>FORMONT (Pierre)</dc:subject>
+                    <dc:subject>Lettres à lui adressées</dc:subject>
+                    <dc:subject>FORMONT (Pierre)</dc:subject>
+                    <dc:subject>Note</dc:subject>
+                    <dc:subject>FORTIA (Bernard DE)</dc:subject>
+                    <dc:subject>Lettres (1666-1667)</dc:subject>
+                    <dc:subject>FORTUNE (La), vaisseau de Dieppe</dc:subject>
+                    <dc:subject>Nom des intéressés</dc:subject>
+                    <dc:subject>LA GARDE DE CHAMBONAS (Charles-Antoine DE), abbé, puis évêque de Lodève</dc:subject>
+                    <dc:subject>Lettres (1663-1667)</dc:subject>
+                    <dc:subject>GARGANT (Pierre)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>GAUDAIS-DUPONT (Charles)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>GOBERT (A.)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>GREMONVILLE (Jacques Bretel, chevalier DE), Dépêche</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>GRISONS (Canton des)</dc:subject>
+                    <dc:subject>Lettre des confédérés</dc:subject>
+                    <dc:subject>GUYENNE</dc:subject>
+                    <dc:subject>Dessèchement des landes</dc:subject>
+                    <dc:subject>LA HAGUE (Calvados)</dc:subject>
+                    <dc:subject>Lettre écrite de La Hague</dc:subject>
+                    <dc:subject>HARLAY (Achille II DE)</dc:subject>
+                    <dc:subject>Lettres (1666-1671)</dc:subject>
+                    <dc:subject>LA HAYE-VENTELET (Denis DE)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>LA HAYE-VENTELET (Denis DE)</dc:subject>
+                    <dc:subject>Lettres à lui adressées</dc:subject>
+                    <dc:subject>HERBIGNY (Henri Lambert, marquis D')</dc:subject>
+                    <dc:subject>Lettres (1666-1667)</dc:subject>
+                    <dc:subject>HESSELIN (Louis)</dc:subject>
+                    <dc:subject>Lettre</dc:subject>
+                    <dc:subject>HUBERT (Hugo)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>HUCHET DE LA BEDOYERE (André)</dc:subject>
+                    <dc:subject>Lettres (1665-1669)</dc:subject>
+                    <dc:subject>JANOT (Louis)</dc:subject>
+                    <dc:subject>Lettres (1666-1667)</dc:subject>
+                    <dc:subject>JEANNIN DE CASTILLE (Nicolas)</dc:subject>
+                    <dc:subject>JESUITES (Compagnie des)</dc:subject>
+                    <dc:subject>Collège de Paris</dc:subject>
+                    <dc:subject>JOLY (C.)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>KERSALAUN-KERGORLAY (Capitaine C. DE)</dc:subject>
+                    <dc:subject>Lettre</dc:subject>
+                    <dc:subject>LAIGNEAU</dc:subject>
+                    <dc:subject>Lettre</dc:subject>
+                    <dc:subject>LAMBERT (Jacques)</dc:subject>
+                    <dc:subject>LAMBERT (Thomas)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>LE JUGE, à Lyon, Lettres</dc:subject>
+                    <dc:subject>LE MAIGRE (Ch.)</dc:subject>
+                    <dc:subject>LE MAIGRE (Ch.)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>LE ROSSIGNOL, à Carteret</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>LE TONNELIER DE BRETEUIL (François)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>LEBESGUE, et non LEVESQUE</dc:subject>
+                    <dc:subject>Lettre</dc:subject>
+                    <dc:subject>LEFEBVRE DE LA BARRE (Antoine)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>LEROUX D'INFREVILLE (Louis)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>LEVASSEUR DE BEAUPLAN (C.)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>LEVIS-VENTADOUR (Louis-Hercule DE), évêque de Mirepoix</dc:subject>
+                    <dc:subject>Lettres (1661-1667)</dc:subject>
+                    <dc:subject>L'HOSPITAL (Marie-Élisabeth-Aimée, maréchale DE)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>LIONNE (Hugues DE)</dc:subject>
+                    <dc:subject>Mémoire à lui adressé</dc:subject>
+                    <dc:subject>LOGERIE (Louis DE)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>LOMBARD (Joseph)</dc:subject>
+                    <dc:subject>Lettres (1666-1667)</dc:subject>
+                    <dc:subject>LONDRES</dc:subject>
+                    <dc:subject>Lettres et nouvelles de Londres</dc:subject>
+                    <dc:subject>LOUIS XIV, roi de France</dc:subject>
+                    <dc:subject>Lettres à lui adressées (1660-1668)</dc:subject>
+                    <dc:subject>LYON</dc:subject>
+                    <dc:subject>Lettres des trésoriers</dc:subject>
+                    <dc:subject>MACQUERON (Charles)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>MANCHE (La)</dc:subject>
+                    <dc:subject>MANCINI-MAZARIN (Philippe-Jules DE), duc de Nevers</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>MARIN (Denis)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>MARIN (Pierre)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>MARINE</dc:subject>
+                    <dc:subject>Sommes reçues par le commis du trésorier-général de la marine</dc:subject>
+                    <dc:subject>MARLE (Bernard-Hector DE)</dc:subject>
+                    <dc:subject>Lettres (1661-1666)</dc:subject>
+                    <dc:subject>MASLARD D'ULISSE (Louis)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>MASLARD D'ULISSE (Louis)</dc:subject>
+                    <dc:subject>Sommations à lui adressées</dc:subject>
+                    <dc:subject>MATHAREL (Louis DE)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>MAUPASSANT (P. DE)</dc:subject>
+                    <dc:subject>Lettres (1664-1669)</dc:subject>
+                    <dc:subject>MAZEL (Le sr)</dc:subject>
+                    <dc:subject>Supplique contre lui</dc:subject>
+                    <dc:subject>MIDDELBOURG (Hollande)</dc:subject>
+                    <dc:subject>Lettres écrites de Middelbourg</dc:subject>
+                    <dc:subject>MINES et minières</dc:subject>
+                    <dc:subject>Documents relatifs aux mines</dc:subject>
+                    <dc:subject>MONNEROT (Nicolas)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>MONTAUSIER (Charles de Sainte-Maure, duc DE)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>MONTPEZAT (Jean-François [et non Bivel] de Trémolet de Bucelli, marquis DE)</dc:subject>
+                    <dc:subject>Lettres (1666-1677)</dc:subject>
+                    <dc:subject>MONTREUIL-SUR-MER (Pas-de-Calais)</dc:subject>
+                    <dc:subject>Rapport sur un navire échoué près de la ville</dc:subject>
+                    <dc:subject>MOREL (L.)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>MORI (Félix)</dc:subject>
+                    <dc:subject>Lettre</dc:subject>
+                    <dc:subject>LA MOTTE, agent de Colbert</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>MOUSLIER (François)</dc:subject>
+                    <dc:subject>Lettres à lui adressées</dc:subject>
+                    <dc:subject>NACQUART père et fils (Nicolas)</dc:subject>
+                    <dc:subject>Lettres (1666-1677)</dc:subject>
+                    <dc:subject>NEVERS (Philippe-Julien Mancini, duc DE)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>NORMANDIE</dc:subject>
+                    <dc:subject>NOUVELLES de Londres</dc:subject>
+                    <dc:subject>OLLIM (N.)</dc:subject>
+                    <dc:subject>Lettre</dc:subject>
+                    <dc:subject>ONDEDEI (Joseph-Zongo), évêque de Fréjus</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>ONDEDEI (Joseph-Zongo), évêque de Fréjus</dc:subject>
+                    <dc:subject>Supplique</dc:subject>
+                    <dc:subject>OPPEDE (Henri de Maynier de Forbin, baron, puis marquis D')</dc:subject>
+                    <dc:subject>Lettres (1666-1668)</dc:subject>
+                    <dc:subject>PACHAU (Nicolas)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>PANIER, à Poitiers</dc:subject>
+                    <dc:subject>Lettre</dc:subject>
+                    <dc:subject>PARCS et pêcheries</dc:subject>
+                    <dc:subject>PARIS</dc:subject>
+                    <dc:subject>Abbayes et couvents. Jésuites</dc:subject>
+                    <dc:subject>PARIS</dc:subject>
+                    <dc:subject>Rues et places. Place du Vieux-Marché-aux-Chevaux</dc:subject>
+                    <dc:subject>PARIS</dc:subject>
+                    <dc:subject>Monuments. Porte de Richelieu</dc:subject>
+                    <dc:subject>PASQUIER (Fr.)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>PAYS-BAS HOLLANDAIS</dc:subject>
+                    <dc:subject>PEAUX et cuirs</dc:subject>
+                    <dc:subject>PECHE</dc:subject>
+                    <dc:subject>Pêcheries en Normandie</dc:subject>
+                    <dc:subject>PECQUOT (Pierre)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>PELLOT (Claude II)</dc:subject>
+                    <dc:subject>Lettres (1666-1667)</dc:subject>
+                    <dc:subject>PEREFIXE (Hardouin de Beaumont DE), évêque de Rodez, puis archevêque de Paris</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>PERROT (C.)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>PERTUIS (P.), à Avignon</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>PONSAINPIERRE (Dominique DE)</dc:subject>
+                    <dc:subject>Lettres (1664-1669)</dc:subject>
+                    <dc:subject>PONSAINPIERRE (Lambert DE)</dc:subject>
+                    <dc:subject>Lettres (1664-1669)</dc:subject>
+                    <dc:subject>PRINCE-HENRI (Le), vaisseau</dc:subject>
+                    <dc:subject>Noms des intéressés</dc:subject>
+                    <dc:subject>PRISES</dc:subject>
+                    <dc:subject>État des prises en mai 1666</dc:subject>
+                    <dc:subject>RASSE (Jean)</dc:subject>
+                    <dc:subject>Lettre</dc:subject>
+                    <dc:subject>RATIONS</dc:subject>
+                    <dc:subject>Rapport sur les rations du soldat</dc:subject>
+                    <dc:subject>RICARD (A.)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>RICHELIEU (Porte de), à Paris</dc:subject>
+                    <dc:subject>ROUVIERE</dc:subject>
+                    <dc:subject>Lettre</dc:subject>
+                    <dc:subject>RUAT (J. Audenge DE)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>RUVIGNY (Henri de Massué, marquis DE)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>RUZE D'EFFIAT (Antoine II Coiffier-), marquis d'Effiat</dc:subject>
+                    <dc:subject>RUZE D'EFFIAT (Antoine II Coiffier-), nommé grand-maître des mines</dc:subject>
+                    <dc:subject>SAINT-LAURENT (Chevalier DE)</dc:subject>
+                    <dc:subject>Lettre</dc:subject>
+                    <dc:subject>SAINT-LEON (Ch. DE)</dc:subject>
+                    <dc:subject>Lettre</dc:subject>
+                    <dc:subject>SAINT-MARS (Bénigne d'Auvergne, sr DE)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>SAINT-PIERRE (Le), vaisseau</dc:subject>
+                    <dc:subject>Noms des intéressés</dc:subject>
+                    <dc:subject>SAINT-SAUVEUR (M. DE), à Honfleur</dc:subject>
+                    <dc:subject>Lettre</dc:subject>
+                    <dc:subject>SAINT-VICTOR (Jacques DE)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>SAINT-VICTOR (Jacques DE)</dc:subject>
+                    <dc:subject>Sentence pour les détenteurs de pêcheries</dc:subject>
+                    <dc:subject>SALOMON DE LALANNE (J.)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>SEINE (La)</dc:subject>
+                    <dc:subject>Requête des propriétaires des parcs, à partir de la vallée de la Seine et le long de la côte</dc:subject>
+                    <dc:subject>SEJOURNANT (H. DE)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>SERRY</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>SERY (François de Beauvillier, comte DE)</dc:subject>
+                    <dc:subject>Supplique</dc:subject>
+                    <dc:subject>SEUIL (Pierre Chertemps DE)</dc:subject>
+                    <dc:subject>Lettres (1665-1677)</dc:subject>
+                    <dc:subject>SILVECANE (Constant DE)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>SIMIANE DE PONTEVES (François DE), marquis de Gordes-Carces</dc:subject>
+                    <dc:subject>Mémoire pour le flottage des bois, qui lui appartiennent</dc:subject>
+                    <dc:subject>SUISSE</dc:subject>
+                    <dc:subject>Lettres adressées aux seigneurs des cantons</dc:subject>
+                    <dc:subject>TARASCON</dc:subject>
+                    <dc:subject>THOSSE (François DE)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>THOURANE (M. DE), sr de Saint-Genet</dc:subject>
+                    <dc:subject>Lettre</dc:subject>
+                    <dc:subject>LA TOUCHE (M. DE), au Quesnoy</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>TOULON</dc:subject>
+                    <dc:subject>TRUBERT (André-François)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>TUBEUF (Charles)</dc:subject>
+                    <dc:subject>Lettres (1666-1667)</dc:subject>
+                    <dc:subject>VENTADOUR (Louis-Hercule de Lévis DE), évêque de Mirepoix</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>VEZOU (Jean)</dc:subject>
+                    <dc:subject>Lettre</dc:subject>
+                    <dc:subject>VOULLEMIN (Marie de Bétoulat-), dame de La Petitière</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:subject>VOYSIN DE LA NOIRAYE (Jean-Baptiste)</dc:subject>
+                    <dc:subject>Lettres (1666-1677)</dc:subject>
+                    <dc:subject>VREVIN (Louis DE)</dc:subject>
+                    <dc:subject>Lettres</dc:subject>
+                    <dc:title>Correspondance de Colbert. Correspondance de Colbert de juin 1666.</dc:title>
+                    <dc:type>manuscript</dc:type>
+                    <dc:type>manuscrit</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>7</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b10035618k.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b10035618k</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b10035618k.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b10035618k.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b10035618k.thumbnail</thumbnail>
+                <typedoc>manuscrits</typedoc>
+                <uri>btv1b10035618k</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Robert, Ulysse (1845-1903). Auteur du texte</dc:creator>
+                    <dc:date>1901</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : IledeFr1</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>In-8°, 170 p. fig. et pl.</dc:format>
+                    <dc:format>Nombre total de vues : 195</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k141997z</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:language>français</dc:language>
+                    <dc:publisher> (Saint-Mandé)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb34129195g</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LK7-26582 (BIS)</dc:source>
+                    <dc:subject>Saint-Mandé (France)</dc:subject>
+                    <dc:title>Notice historique sur Saint-Mandé par Ulysse Robert,... Nouvelle édition</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>8</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k141997z.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k141997z</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k141997z.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k141997z.medres</medres>
+                <nqamoyen>99.83</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k141997z.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k141997z</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>La Caille, Jean de (1645-1723). Auteur du texte</dc:creator>
+                    <dc:date>1689</dc:date>
+                    <dc:description>Ouvrages avant 1800</dc:description>
+                    <dc:format>II-322-[26] p. : fig. ; in-4</dc:format>
+                    <dc:format>Nombre total de vues : 371</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k108967w</dc:identifier>
+                    <dc:identifier>NUMM-108967</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Chez Jean de la Caille (A Paris)</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb32333466j</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb32333466j</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Manuscrits, 4-Z Le Senne 935</dc:source>
+                    <dc:subject>Histoire de l'imprimerie</dc:subject>
+                    <dc:subject>Librairie -- Histoire</dc:subject>
+                    <dc:title>Histoire de l'imprimerie et de la librairie, où l'on voit son origine &amp; son progrès, jusqu'en 1689 : divisée en deux livres / [par J. de la Caille]</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>9</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k108967w.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k108967w</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k108967w.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k108967w.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k108967w.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k108967w</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Ayzac, Félicie d' (1801-1881). Auteur du texte</dc:creator>
+                    <dc:date>1860-1861</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : BnPlCo00</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BnPlCo02</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : CentSev001</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>2 vol. in-8</dc:format>
+                    <dc:format>Nombre total de vues : 599</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k5324274h</dc:identifier>
+                    <dc:identifier>NUMM-5324274</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Impr. impériale (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30043063t</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Archives départementales de la Seine-Saint-Denis, 2019-241185</dc:source>
+                    <dc:subject>Saint-Denis-sur-Seine (France)</dc:subject>
+                    <dc:title>Histoire de l'abbaye de Saint-Denis en France / par Mme Félicie d'Ayzac,...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>10</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k5324274h.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k5324274h</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k5324274h.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k5324274h.medres</medres>
+                <nqamoyen>88.72</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k5324274h.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k5324274h</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1890-193.</dc:date>
+                    <dc:description>Variante(s) de titre : Annuaire universel. Paris-adresses</dc:description>
+                    <dc:description>Variante(s) de titre : Paris-adresses : annuaire universel : toutes les adresses de l'industrie et du commerce... de Paris et des communes du département de la Seine ; classées par professions</dc:description>
+                    <dc:description>Etat de collection : 1896-1898. 1900-1902. 1931 [XLI]</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb326988580/date</dc:identifier>
+                    <dc:identifier>ISSN 26066602</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Ch. Alavoine et cie (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb326988580</dc:relation>
+                    <dc:source>Bibliothèque nationale de France, département Sciences et techniques, 4-V-4045</dc:source>
+                    <dc:title>Paris-adresses : annuaire général de l'industrie et du commerce : corps constitués, administrations, professions libérales, propriétaires, rentiers, etc... de Paris et du département de la Seine</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>11</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k992370w.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb326988580/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k992370w.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k992370w.medres</medres>
+                <nqamoyen>82.86</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k992370w.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k992370w</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1878</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>In-16</dc:format>
+                    <dc:format>Nombre total de vues : 1064</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k8860608</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:language>français</dc:language>
+                    <dc:publisher> (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb33347167c</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Sciences et techniques, 8-V-3989</dc:source>
+                    <dc:title>Dictionnaire de poche des adresses parisiennes</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>12</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k8860608.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k8860608</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k8860608.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k8860608.medres</medres>
+                <nqamoyen>82.85</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k8860608.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k8860608</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Ayzac, Félicie d' (1801-1881). Auteur du texte</dc:creator>
+                    <dc:date>1860-1861</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>Nombre total de vues : 754</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k5324155t</dc:identifier>
+                    <dc:identifier>NUMM-5324155</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb31746279t</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31746279t</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Archives départementales de la Seine-Saint-Denis, 2019-240153</dc:source>
+                    <dc:title>Histoire de l'abbaye de Saint-Denis en France, par Mme Félicie d'Ayzac,.... Tome 1</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>13</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k5324155t.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k5324155t</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k5324155t.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k5324155t.medres</medres>
+                <nqamoyen>88.73</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k5324155t.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k5324155t</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Bottin, Sébastien (1764-1853). Auteur du texte</dc:creator>
+                    <dc:date>1839-1856</dc:date>
+                    <dc:description>Variante(s) de titre : Statistique annuelle de l'industrie. Almanach-Bottin du commerce de Paris...</dc:description>
+                    <dc:description>Variante(s) de titre : Almanach-Bottin du commerce de Paris, des départements de la France et des principales villes du monde...</dc:description>
+                    <dc:description>Etat de collection : 1842 (A45)</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>Nombre total de vues : 7802</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb32686424w/date</dc:identifier>
+                    <dc:identifier>NUMP-1417</dc:identifier>
+                    <dc:identifier>ISSN 17706777</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>bureau de l'Almanach du commerce (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb32686424w</dc:relation>
+                    <dc:relation>A pour reproduction : Almanach-Bottin du commerce de Paris, des départemens de la France et des principales villes du monde (Reproduction numérique) = ISSN 2418-5345 (https://gallica.bnf.fr/ark:/12148/cb32686424w/date)</dc:relation>
+                    <dc:source>Bibliothèque nationale de France, département Fonds du service reproduction, V-27698</dc:source>
+                    <dc:title>Almanach-Bottin du commerce de Paris, des départemens de la France et des principales villes du monde... / par Séb. Bottin,...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>14</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k1427722v.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb32686424w/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k1427722v.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k1427722v.medres</medres>
+                <nqamoyen>84.59</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k1427722v.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k1427722v</uri>
+            </srw:extraRecordData>
+        </srw:record>
+    </srw:records>
+    <srw:nextRecordPosition>16</srw:nextRecordPosition>
+</srw:searchRetrieveResponse>

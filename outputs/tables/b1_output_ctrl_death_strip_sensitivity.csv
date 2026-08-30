@@ -1,0 +1,3 @@
+mode,n,median,boot95_lo,boot95_hi,sesoi5,note
+primary_freeze_repro,44,6.0,3.0,8.75,PASS_RAW,same year-union as script; freeze primary set
+ctrl_strip_death_eq_last,44,11.0,8.0,18.0,PASS_RAW,drop control year if year==death; C shrinks → Δ rises (conservative bias removed)

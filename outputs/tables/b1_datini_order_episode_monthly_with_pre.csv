@@ -1,0 +1,5 @@
+window,span,n_letters,n_months,letters_per_month_mean,source,read
+pre_order,1400-01..06,7,6,1.17,buste 717-721,ASPO; still thin
+pre_broader_1399,1399-01..12,0,12,0.0,buste 717-721,prior year density
+order_quarter,1400-07..09,212,3,70.67,buste 717-721,ochiali orders in 721
+post_order,1400-10..1401-06,576,9,64.0,buste 717-721,continuation

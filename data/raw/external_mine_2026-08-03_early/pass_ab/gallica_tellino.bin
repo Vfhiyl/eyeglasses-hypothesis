@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<srw:searchRetrieveResponse xmlns:ns6="http://gallica.bnf.fr/namespaces/gallica/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <srw:version>1.2</srw:version>
+    <srw:echoedSearchRetrieveRequest>
+        <srw:query>(gallica all "Tellino Dini" or gallica all "Vangelista Dini")</srw:query>
+        <srw:version>1.2</srw:version>
+    </srw:echoedSearchRetrieveRequest>
+    <srw:numberOfRecords>500</srw:numberOfRecords>
+    <srw:extraResponseData>&lt;numberOfRecordsDecollapser&gt;1425&lt;/numberOfRecordsDecollapser&gt;</srw:extraResponseData>
+    <srw:records>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Nolhac, Pierre de (1859-1936). Auteur du texte</dc:creator>
+                    <dc:date>1888</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>1 vol. (104 p.) ; in-4</dc:format>
+                    <dc:format>Nombre total de vues : 124</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k9770339b</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:language>français</dc:language>
+                    <dc:publisher>Impr. Vaticane (Rome)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31023373p</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Littérature et art, 4-Z-469</dc:source>
+                    <dc:title>Les correspondants d'Alde Manuce : matériaux nouveaux d'histoire littéraire (1483-1514) / P. de Nolhac</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>0</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k9770339b.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k9770339b</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k9770339b.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k9770339b.medres</medres>
+                <nqamoyen>98.86</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k9770339b.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k9770339b</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Conilh, Auguste. Éditeur scientifique</dc:contributor>
+                    <dc:date>1903-1945</dc:date>
+                    <dc:description>Etat de collection : Jusqu'à : 1914. 1918-1920. 1938 (n° 1) jusqu'à la fin, inc.</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb32845230j/date</dc:identifier>
+                    <dc:identifier>NUMP-29148</dc:identifier>
+                    <dc:identifier>ISSN 27268225</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>[s.n.] (Marseille)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb32845230j</dc:relation>
+                    <dc:relation>A pour reproduction : La Provence sportive (Reproduction numérique) = ISSN 3075-1187 (https://gallica.bnf.fr/ark:/12148/cb32845230j/date)</dc:relation>
+                    <dc:source>Bibliothèque nationale de France, département Droit, économie, politique, JO-8988</dc:source>
+                    <dc:title>La Provence sportive</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>1</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k7038264b.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb32845230j/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k7038264b.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k7038264b.medres</medres>
+                <nqamoyen>84.81</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k7038264b.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k7038264b</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Legrelle, Arsène (1834-1899). Auteur du texte</dc:creator>
+                    <dc:date>1888-1892</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : MAEDI002</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : MAEDIGen0</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : PHILR000</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : PHILR007</dc:description>
+                    <dc:description>Contient une table des matières</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>4 vol. ; in-8</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k377736p</dc:identifier>
+                    <dc:identifier>NUMM-377736</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>F. Pichon (Paris)</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb30779184b</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30779184b</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LG3-25 (3)</dc:source>
+                    <dc:title>La diplomatie française et la succession d'Espagne. Le premier traité de partage (1659-1697) / par A. Legrelle,...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>2</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k377736p.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k377736p</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k377736p.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k377736p.medres</medres>
+                <nqamoyen>99.82</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k377736p.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k377736p</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1910-1912</dc:date>
+                    <dc:description>Périodicité : Bimensuel ; hebdomadaire (janv.-avr. 1911)</dc:description>
+                    <dc:description>Etat de collection : 1re année, n° 1 (6 nov. 1910)-3e année, n° 6 (10 mars 1912) &lt;inc.&gt;</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG00</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG54</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG54</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb32794297f/date</dc:identifier>
+                    <dc:identifier>NUMP-18117</dc:identifier>
+                    <dc:identifier>ISSN 1966351X</dc:identifier>
+                    <dc:language>ita</dc:language>
+                    <dc:publisher>[s.n.] (Briey)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb32794297f</dc:relation>
+                    <dc:relation>A pour reproduction : L'Italiano (Briey. Reproduction numérique) = ISSN 2645-0747 (https://gallica.bnf.fr/ark:/12148/cb32794297f/date)</dc:relation>
+                    <dc:relation>Première de couverture : 348721</dc:relation>
+                    <dc:source>Bibliothèque nationale de France, département Droit, économie, politique, JO-85667</dc:source>
+                    <dc:title>L'Italiano (Briey)</dc:title>
+                    <dc:title>L'Italiano</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>3</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k23742496.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb32794297f/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k23742496.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k23742496.medres</medres>
+                <nqamoyen>86.51</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k23742496.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k23742496</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1935-1935</dc:date>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb32794304w/date</dc:identifier>
+                    <dc:identifier>NUMP-22168</dc:identifier>
+                    <dc:identifier>ISSN 27783855</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>[s.n.] (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb32794304w</dc:relation>
+                    <dc:relation>A pour reproduction : L'Italiano (Paris. 1935. Reproduction numérique) = ISSN 2778-3847 (https://gallica.bnf.fr/ark:/12148/cb32794304w/date)</dc:relation>
+                    <dc:source>Bibliothèque nationale de France, département Droit, économie, politique, GR FOL-JO-779</dc:source>
+                    <dc:title>L'Italiano (Paris. 1935)</dc:title>
+                    <dc:title>L'Italiano : hebdomadaire d'information des Italiens de France</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>4</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k9375575g.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb32794304w/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k9375575g.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k9375575g.medres</medres>
+                <nqamoyen>87.14</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k9375575g.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k9375575g</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Bartsch, Adam von (1757-1821). Auteur du texte</dc:creator>
+                    <dc:date>1802-1821</dc:date>
+                    <dc:description>[Le peintre-graveur]</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : GTextes1</dc:description>
+                    <dc:description>Contient une table des matières</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>21 vol. : fig. et pl. ; in-8</dc:format>
+                    <dc:format>Nombre total de vues : 472</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k96054629</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>impr. de J. V. Degen (Vienne)</dc:publisher>
+                    <dc:publisher>P. Mechetti (Vienne)</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb300632613</dc:relation>
+                    <dc:relation>Notice d’oeuvre : http://catalogue.bnf.fr/ark:/12148/cb12538514x</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb300632613</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Littérature et art, V-24178</dc:source>
+                    <dc:subject>Le Peintre-Graveur, 1803-1821</dc:subject>
+                    <dc:subject>Bartsch (Adam), 1803-1821</dc:subject>
+                    <dc:title>Le Peintre graveur. Volume 13 / . Par Adam Bartsch</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>5</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k96054629.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k96054629</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k96054629.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k96054629.medres</medres>
+                <nqamoyen>98.5</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k96054629.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k96054629</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Association des amis du cinéma (Paris). Auteur du texte</dc:creator>
+                    <dc:date>1921-1935</dc:date>
+                    <dc:description>Variante(s) de titre : En 1927 [?] absorbe : "Revue (La) cinématographique, Photo-annonces" : "Film (Le)"</dc:description>
+                    <dc:description>Variante(s) de titre : Ciné magazine</dc:description>
+                    <dc:description>Variante(s) de titre : Cinémagazine : la Revue cinématographique, Photo-pratique et Film réunis : organe de l'Association des amis du cinéma</dc:description>
+                    <dc:description>Périodicité : Hebdomadaire (1921-1930) ; Mensuel ; Hebdomadaire</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb32742410k/date</dc:identifier>
+                    <dc:identifier>NUMP-15811</dc:identifier>
+                    <dc:identifier>ISSN 2016677X</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Jean Pascal et Adrien Maitre (Paris)</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb32742410k</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb32742410k</dc:relation>
+                    <dc:relation>A pour reproduction : Cinémagazine (Reproduction numérique) = ISSN 2725-8718 (https://gallica.bnf.fr/ark:/12148/cb32742410k/date)</dc:relation>
+                    <dc:relation>A pour reproduction : Cinémagazine (Reproduction numérique) = ISSN 2725-8718 (http://www.cineressources.net/ressource.php?collection=PERIODIQUES&amp;pk=346)</dc:relation>
+                    <dc:source>Bibliothèque nationale de France, département Arts du spectacle, 4-RK-19727</dc:source>
+                    <dc:title>Cinémagazine : hebdomadaire illustré</dc:title>
+                    <dc:title>Cinémagazine : hebdomadaire illustré</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>6</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k20003398.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb32742410k/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k20003398.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k20003398.medres</medres>
+                <nqamoyen>87.93</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k20003398.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k20003398</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1919-1939</dc:date>
+                    <dc:description>Variante(s) de titre : La Presse libre</dc:description>
+                    <dc:description>Périodicité : Quotidien</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPNOUV</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BNUStr014</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb42485891n/date</dc:identifier>
+                    <dc:identifier>NUMP-21279</dc:identifier>
+                    <dc:identifier>ISSN 21179700</dc:identifier>
+                    <dc:language>ger</dc:language>
+                    <dc:publisher>[s.n.] (Strasbourg)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb42485891n</dc:relation>
+                    <dc:relation>A pour reproduction : Freie Presse (Strasbourg. Reproduction numérique) = ISSN 2728-3003 (https://gallica.bnf.fr/ark:/12148/cb42485891n/date)</dc:relation>
+                    <dc:source>Bibliothèque nationale et universitaire de Strasbourg, M.600.058</dc:source>
+                    <dc:title>Freie Presse (Strasbourg)</dc:title>
+                    <dc:title>Freie Presse : sozialistisches Organ für den Nieder-Rhein und für Lothringen ["puis" sozialistisches Organ für das Département des Nieder-Rheins]</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>7</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k30194839.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb42485891n/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k30194839.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k30194839.medres</medres>
+                <nqamoyen>64.07</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k30194839.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k30194839</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1881-1918</dc:date>
+                    <dc:description>BnF-partenariats, Presse Ancienne RetroNews</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BNUStr017</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : Alsace1</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BNUStr000</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BNUStr014</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPNOUV</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb344460555/date</dc:identifier>
+                    <dc:identifier>NUMP-24447</dc:identifier>
+                    <dc:identifier>ISSN 11605928</dc:identifier>
+                    <dc:language>ger</dc:language>
+                    <dc:publisher>[s.n.] (Hagenau)</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb344460555</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb344460555</dc:relation>
+                    <dc:relation>A pour reproduction : Hagenauer Zeitung (Reproduction numérique) = ISSN 2420-4072 (https://gallica.bnf.fr/ark:/12148/cb344460555/date)</dc:relation>
+                    <dc:relation>A pour reproduction : Hagenauer Zeitung (Reproduction numérique) = ISSN 2420-4072 (http://www.numistral.fr/ark:/12148/cb344460555/date)</dc:relation>
+                    <dc:source>Bibliothèque nationale et universitaire de Strasbourg, M.600.015</dc:source>
+                    <dc:title>Hagenauer Zeitung</dc:title>
+                    <dc:title>Hagenauer Zeitung</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>8</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k94394105.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb344460555/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k94394105.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k94394105.medres</medres>
+                <nqamoyen>81.56</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k94394105.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k94394105</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1871-1895</dc:date>
+                    <dc:description>Périodicité : Quotidien</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG00</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG06</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb328349870/date</dc:identifier>
+                    <dc:identifier>NUMP-20442</dc:identifier>
+                    <dc:identifier>ISSN 20168675</dc:identifier>
+                    <dc:language>ita</dc:language>
+                    <dc:publisher>[s.n.] (Nizza)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb328349870</dc:relation>
+                    <dc:relation>A pour reproduction : Il Pensiero di Nizza (Reproduction numérique) = ISSN 2711-7103 (https://gallica.bnf.fr/ark:/12148/cb328349870/date)</dc:relation>
+                    <dc:relation>A pour reproduction : Il Pensiero di Nizza (Reproduction numérique) = ISSN 2711-7103 (https://recherche.archives.nicecotedazur.org/document/FRAC006088_000000116#tt1-6) ("Il Diritto di Nizza")</dc:relation>
+                    <dc:relation>A pour reproduction : Il Pensiero di Nizza (Reproduction numérique) = ISSN 2711-7103 (http://bibliotecadigitale.regione.liguria.it/ark:/64639/TO00190820)</dc:relation>
+                    <dc:relation>Première de couverture : 433412</dc:relation>
+                    <dc:source>Bibliothèque nationale de France, département Droit, économie, politique, JO-5686</dc:source>
+                    <dc:title>Il Pensiero di Nizza : giornale politico, scientifico e letterario</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>9</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k60435370.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb328349870/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k60435370.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k60435370.medres</medres>
+                <nqamoyen>80.32</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k60435370.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k60435370</uri>
+            </srw:extraRecordData>
+        </srw:record>
+    </srw:records>
+    <srw:nextRecordPosition>11</srw:nextRecordPosition>
+</srw:searchRetrieveResponse>

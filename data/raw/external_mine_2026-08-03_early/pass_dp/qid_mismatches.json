@@ -1,0 +1,277 @@
+[
+  {
+    "qid": "Q103514",
+    "expected": [
+      "Robert Boyle"
+    ],
+    "reason": "P31=Q747074 not human; name WD=\"Berlingo\" vs expected=\"Robert Boyle\"",
+    "wd_label": "Berlingo",
+    "wd_desc": "Italian comune",
+    "wd_b": null,
+    "wd_d": null
+  },
+  {
+    "qid": "Q1235788",
+    "expected": [
+      "John Tillotson"
+    ],
+    "reason": "P31=Q47461344 not human; name WD=\"My Ishmael\" vs expected=\"John Tillotson\"",
+    "wd_label": "My Ishmael",
+    "wd_desc": "novel by Daniel Quinn",
+    "wd_b": null,
+    "wd_d": null
+  },
+  {
+    "qid": "Q1277543",
+    "expected": [
+      "Edward Stillingfleet"
+    ],
+    "reason": "P31=Q476028 not human; name WD=\"Toofaan Harirod F.C.\" vs expected=\"Edward Stillingfleet\"",
+    "wd_label": "Toofaan Harirod F.C.",
+    "wd_desc": "association football club",
+    "wd_b": null,
+    "wd_d": null
+  },
+  {
+    "qid": "Q1342882",
+    "expected": [
+      "Jean Jouffroy"
+    ],
+    "reason": "P31=Q20819922 not human; name WD=\"English National Opera\" vs expected=\"Jean Jouffroy\"",
+    "wd_label": "English National Opera",
+    "wd_desc": "opera company based in London",
+    "wd_b": null,
+    "wd_d": null
+  },
+  {
+    "qid": "Q1347618",
+    "expected": [
+      "William Sancroft"
+    ],
+    "reason": "P31=Q11032 not human; name WD=\"Eppinger Zeitung\" vs expected=\"William Sancroft\"",
+    "wd_label": "Eppinger Zeitung",
+    "wd_desc": "newspaper",
+    "wd_b": null,
+    "wd_d": null
+  },
+  {
+    "qid": "Q1353471",
+    "expected": [
+      "Jean Molinet"
+    ],
+    "reason": "birth WD1900 vs chrono1435; name WD=\"Erich Welter\" vs expected=\"Jean Molinet\"",
+    "wd_label": "Erich Welter",
+    "wd_desc": "German journalist (1900-1982)",
+    "wd_b": 1900,
+    "wd_d": 1982
+  },
+  {
+    "qid": "Q1384321",
+    "expected": [
+      "Henry Compton"
+    ],
+    "reason": "P31=Q174736 not human; name WD=\"USS Decatur\" vs expected=\"Henry Compton\"",
+    "wd_label": "USS Decatur",
+    "wd_desc": "1955 Forrest Sherman-class destroyer",
+    "wd_b": null,
+    "wd_d": null
+  },
+  {
+    "qid": "Q1386883",
+    "expected": [
+      "Thomas Sprat"
+    ],
+    "reason": "P31=Q4167410 not human; name WD=\"Ludwig Wagner\" vs expected=\"Thomas Sprat\"",
+    "wd_label": "Ludwig Wagner",
+    "wd_desc": "Wikimedia disambiguation page",
+    "wd_b": null,
+    "wd_d": null
+  },
+  {
+    "qid": "Q180353",
+    "expected": [
+      "Robert Hooke"
+    ],
+    "reason": "P31=Q11424 not human; name WD=\"Chingaari\" vs expected=\"Robert Hooke\"",
+    "wd_label": "Chingaari",
+    "wd_desc": "2006 film by Kalpana Lajmi",
+    "wd_b": null,
+    "wd_d": null
+  },
+  {
+    "qid": "Q194570",
+    "expected": [
+      "John Bunyan"
+    ],
+    "reason": "P31=Q4167410 not human; name WD=\"Biwabik\" vs expected=\"John Bunyan\"",
+    "wd_label": "Biwabik",
+    "wd_desc": "Wikimedia disambiguation page",
+    "wd_b": null,
+    "wd_d": null
+  },
+  {
+    "qid": "Q196085",
+    "expected": [
+      "Charles II of Navarre"
+    ],
+    "reason": "P31=Q134556 not human; name WD=\"Aozora Kataomoi\" vs expected=\"Charles II of Navarre\"",
+    "wd_label": "Aozora Kataomoi",
+    "wd_desc": "2010 single by SKE48",
+    "wd_b": null,
+    "wd_d": null
+  },
+  {
+    "qid": "Q1990693",
+    "expected": [
+      "Niccol\u00f2 Leonico Tomeo"
+    ],
+    "reason": "name WD=\"Nicholas Leonicus Thomaeus\" vs expected=\"Niccol\u00f2 Leonico Tomeo\"",
+    "wd_label": "Nicholas Leonicus Thomaeus",
+    "wd_desc": "Greek scholar in Venice",
+    "wd_b": 1456,
+    "wd_d": 1531
+  },
+  {
+    "qid": "Q2287594",
+    "expected": [
+      "Simon Patrick"
+    ],
+    "reason": "P31=Q486972 not human; name WD=\"Javorje\" vs expected=\"Simon Patrick\"",
+    "wd_label": "Javorje",
+    "wd_desc": "place in Carinthia, Slovenia",
+    "wd_b": null,
+    "wd_d": null
+  },
+  {
+    "qid": "Q231728",
+    "expected": [
+      "Anne of France (Beaujeu)"
+    ],
+    "reason": "P31=Q234262 not human; name WD=\"Al-Mumtahina\" vs expected=\"Anne of France (Beaujeu)\"",
+    "wd_label": "Al-Mumtahina",
+    "wd_desc": "60th chapter of the Qur'an",
+    "wd_b": null,
+    "wd_d": null
+  },
+  {
+    "qid": "Q310780",
+    "expected": [
+      "John Ray"
+    ],
+    "reason": "P31=Q23038290 not human; name WD=\"Tremarctos floridanus\" vs expected=\"John Ray\"",
+    "wd_label": "Tremarctos floridanus",
+    "wd_desc": "extinct species of North American tremarctine bear",
+    "wd_b": null,
+    "wd_d": null
+  },
+  {
+    "qid": "Q3123685",
+    "expected": [
+      "Guillaume Fillastre the Younger"
+    ],
+    "reason": "birth WD1975 vs chrono1400; name WD=\"Sachiko Ito\" vs expected=\"Guillaume Fillastre the Younger\"",
+    "wd_label": "Sachiko Ito",
+    "wd_desc": "Olympic softball player",
+    "wd_b": 1975,
+    "wd_d": null
+  },
+  {
+    "qid": "Q314333",
+    "expected": [
+      "John Selden"
+    ],
+    "reason": "birth WD1747 vs chrono1584",
+    "wd_label": "John Paul Jones",
+    "wd_desc": "American naval officer (1747\u20131792)",
+    "wd_b": 1747,
+    "wd_d": 1792
+  },
+  {
+    "qid": "Q332481",
+    "expected": [
+      "George Savile, 1st Marquess of Halifax"
+    ],
+    "reason": "birth WD1775 vs chrono1633; name WD=\"Jos\u00e9 Rebolledo de Palafox, 1st Duke of Saragossa\" vs expected=\"George Savile, 1st Marquess of Halifax\"",
+    "wd_label": "Jos\u00e9 Rebolledo de Palafox, 1st Duke of Saragossa",
+    "wd_desc": "Spanish duke and general (1775-1847)",
+    "wd_b": 1775,
+    "wd_d": 1847
+  },
+  {
+    "qid": "Q332513",
+    "expected": [
+      "William Temple"
+    ],
+    "reason": "birth WD1751 vs chrono1628; name WD=\"Gilbert Elliot-Murray-Kynynmound, 1st Earl of Minto\" vs expected=\"William Temple\"",
+    "wd_label": "Gilbert Elliot-Murray-Kynynmound, 1st Earl of Minto",
+    "wd_desc": "Scottish politician (1751\u20131814)",
+    "wd_b": 1751,
+    "wd_d": 1814
+  },
+  {
+    "qid": "Q333610",
+    "expected": [
+      "Philippe de Commynes"
+    ],
+    "reason": "FETCH_FAIL HTTP Error 404: Not Found",
+    "wd_label": null,
+    "wd_desc": null,
+    "wd_b": null,
+    "wd_d": null
+  },
+  {
+    "qid": "Q333922",
+    "expected": [
+      "John Pearson"
+    ],
+    "reason": "birth WD1794 vs chrono1613; name WD=\"William Whewell\" vs expected=\"John Pearson\"",
+    "wd_label": "William Whewell",
+    "wd_desc": "English philosopher and historian of science (1794\u20131866)",
+    "wd_b": 1794,
+    "wd_d": 1866
+  },
+  {
+    "qid": "Q366100",
+    "expected": [
+      "Alain Chartier"
+    ],
+    "reason": "birth WD1905 vs chrono1385; name WD=\"Karl Amadeus Hartmann\" vs expected=\"Alain Chartier\"",
+    "wd_label": "Karl Amadeus Hartmann",
+    "wd_desc": "German composer (1905-1963)",
+    "wd_b": 1905,
+    "wd_d": 1963
+  },
+  {
+    "qid": "Q380262",
+    "expected": [
+      "Thomas Sydenham"
+    ],
+    "reason": "name WD=\"cost curve\" vs expected=\"Thomas Sydenham\"",
+    "wd_label": "cost curve",
+    "wd_desc": "graph of the costs of production as a function of total quantity produced",
+    "wd_b": null,
+    "wd_d": null
+  },
+  {
+    "qid": "Q557566",
+    "expected": [
+      "Antoine de la Sale"
+    ],
+    "reason": "P31=Q110977120 not human; name WD=\"Holzhauser Stra\u00dfe\" vs expected=\"Antoine de la Sale\"",
+    "wd_label": "Holzhauser Stra\u00dfe",
+    "wd_desc": "Berlin U-Bahn station",
+    "wd_b": null,
+    "wd_d": null
+  },
+  {
+    "qid": "Q561567",
+    "expected": [
+      "Georges Chastellain"
+    ],
+    "reason": "P31=Q4167410 not human",
+    "wd_label": "244",
+    "wd_desc": "Wikimedia disambiguation page",
+    "wd_b": null,
+    "wd_d": null
+  }
+]

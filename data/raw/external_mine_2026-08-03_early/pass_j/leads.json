@@ -1,0 +1,36 @@
+{
+  "lorraine_1505_lunettes": {
+    "pin": "Lepage Palais ducal de Nancy: Petit Jehan orfèvre «pour enchâsser des lunettes pour le Roy»",
+    "date": "Comptes trésorier général 1505–1506",
+    "decision": "OOW — evidence_year >1499; do not ingest into early window"
+  },
+  "rene_lecoy_rescan": {
+    "result": "Only known §674 Avignon 1449 personal purchase — already rene_anjou",
+    "decision": "SKIP duplicate"
+  },
+  "pansier_1901": {
+    "gallica_ark": "ark:/12148/bpt6k97739437",
+    "result": "Manifest OK (176 canvases) but page OCR / RequestDigitalElement 403; Wellcome closed stores; not on IA",
+    "decision": "HOLD corpus — reopen when OCR obtainable"
+  },
+  "cleux_jean_genealogy": {
+    "update": "Saint-Nazaire Cleuz page confirms 1433 lunettes + maître d'hôtel 1457; still NO death year for the étrennes recipient (multiple Jean de Cleuz in line)",
+    "decision": "HOLD — Cleux bar unchanged"
+  },
+  "bibbiena_notary_1329": {
+    "pin": "Ilardi: unnamed Bibbiena notary robbed of unum par ochialium returning from Florence",
+    "decision": "EXCLUDE — anonymous; cannot labor"
+  },
+  "bartholomeus_padua": {
+    "update": "Still 'son of a notary' only; no fuller ID in Ilardi",
+    "decision": "HOLD"
+  },
+  "rinaldo_de_lo_duca": {
+    "update": "WD empty; still no bio",
+    "decision": "HOLD"
+  },
+  "new_cleux_bar_promote": {
+    "result": "none this pass",
+    "decision": "none"
+  }
+}

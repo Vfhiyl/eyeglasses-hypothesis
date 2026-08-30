@@ -1,0 +1,519 @@
+
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <link rel="Shortcut Icon" sizes="16x16 24x24 32x32 64x64" href="/Content/images/janus.ico" />
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <meta name="description" content="Riksarkivet bevarar samh&#228;llets arkivinformation och ser till att den kan anv&#228;ndas. S&#246;k i arkiv fr&#229;n statlig f&#246;rvaltning, privata f&#246;retag, f&#246;reningar och personer." />
+    <link rel="schema.DC" href="http://purl.org/DC/elements/1.0/" />
+    <meta name="DC.Identifier" content="http://purl.org/dc/terms/identifier" scheme="URL" />
+    <meta name="DC.Title" content="Riksarkivet - Sök i arkiven" />
+    <meta name="DC.Publisher" content="Riksarkivet" />
+    <meta name="DC.Creator" content="Riksarkivet" />
+    <meta name="DC.Description" content="Riksarkivet bevarar samh&#228;llets arkivinformation och ser till att den kan anv&#228;ndas. S&#246;k i arkiv fr&#229;n statlig f&#246;rvaltning, privata f&#246;retag, f&#246;reningar och personer." />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+    <title>Captcha - Riksarkivet - S&#246;k i arkiven</title>
+
+    <link href="/css/jquery-treeview?v=644zM4jdnDhq7jKznw6J2bPLaaJQ_qLUmt0G-QQF5ak1" rel="stylesheet"/>
+
+    <link href="/css/jquery-ui?v=zPiFf4UMuyv-hO2QGs7JpF3IzYTGyq5IouNsoHwhLuk1" rel="stylesheet"/>
+
+    <link href="/css/bootstrap?v=AsWrfsZqv6AmAhFLb02PbY-WQtOd6gZ2z2_oF1b4Yq01" rel="stylesheet"/>
+
+
+<link href="/css/main-extern?v=EvNES16fVKGLL9VDAiAvgjRnyJZVJgLL7sGv37VXCu81" rel="stylesheet"/>
+
+    <link href="/css/captcha?v=h8C0BIZ4ZIjJYpRgMxfQ768-IW1RkwTI0dgdsAUa6BM1" rel="stylesheet"/>
+
+
+    <link href="/css/print?v=lGAohVUePBkmxN4FJj4wp1koppj2BSDYOiAKy_kEFqY1" rel="stylesheet" type="text/css" media="print" />
+
+
+    
+
+    <script src="/bundles/jquerytools?v=WbK4OvS0aWFLh4boiuI_lq8OVVz5crcu-QtgII8825A1"></script>
+
+    <script src="/bundles/bootstrap?v=8Wq1CneZdFcGhjyygPQaLtRLjSXkOW102Lu53MlPr3g1"></script>
+
+    <script src="/bundles/othertools?v=kltq_hCXCsymODGXgf8qBsiCqFaMj-g2F6BJknVoVlg1"></script>
+
+
+    
+
+    
+</head>
+
+<body data-spy="scroll" data-target=".bs-docs-sidebar">
+        <!-- Matomo Tag Manager -->
+        <script type="text/plain" data-cookiecategory="analytics">
+            var _mtm = window._mtm = window._mtm || [];
+            _mtm.push({'mtm.startTime': (new Date().getTime()), 'event': 'mtm.Start'});
+            (function() {
+            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+            g.async=true; g.src='https://matomo.riksarkivet.se/js/container_d6Ktc4gC.js'; s.parentNode.insertBefore(g,s);
+            })();
+        </script>
+        <!-- End Matomo Tag Manager -->
+    <noscript>
+        <div id="noscript-warning" class="alert hidden-print" style="margin-bottom: 0px;">
+            <div class="container-fluid">
+                Riksarkivets söktjänst fungerar bäst med javaskript påslaget i din webbläsare.
+            </div>
+        </div>
+    </noscript>
+
+    <div id="compatibility_box" class="alert hidden-print" style="margin-bottom:0px;display:none;">
+        <div class="container-fluid">
+            Riksarkivets söktjänst fungerar bäst med kompatibilitetsvy avslagen i din webbläsare.
+        </div>
+    </div>
+
+    
+
+<header class="header">
+    <div class="container-fluid">
+        <div class="header-inner row-fluid">
+            <div class="pull-left span4">
+                <div>
+                    <a accesskey="1" href="/" class="riksarkiveturl">
+                        <img src="/Administration/Images/Layout/logo2.png" />
+                    </a>
+                </div>
+                <div>
+                    <span class="mellanrum-left-stort"><font color="black">S&#246;k i arkiven</font></span>
+                </div>
+            </div>
+            <div id="mobile-panel" class="pull-left visible-phone hidden-print mellanrum-left-tjugo noscript">
+                <script>
+                    $('#mobile-panel').removeClass("noscript");
+                </script>
+                <a id="btn-shortcuts" class="toggle" href="#nav-shortcuts" data-toggle="collapse">Genv&#228;gar <i id="IkonPlusMinus" class="icon-plus icon-white"></i></a>
+                <a id="btn-menu" class="btn btn-primary toggle" href="#nav-collapse" data-toggle="collapse">
+                    MENY
+                    <button id="menyknapp" class="btn btn-navbar" type="button">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </a>
+
+                <a href="https://lasesalsbestallning.riksarkivet.se/" target="riksarkivet-digital-bestallning" class="kundvagn-mobil hidden">
+                    <img src="/Content/images/kundvagn/kundvagn.png" alt="Kundkorg till l&#228;sesal" />
+                    <span class="badge" id="laneorder-antal-mobil">0</span>
+                </a>
+
+                <!--<div class="kundvagn kundvagn-mobil hidden">
+                    <img src="~/Content/images/kundvagn/kundvagn.png" alt="Kundkorg till l&#228;sesal" />
+                    <span class="badge" id="laneorder-antal-mobil">0</span>
+                </div>-->
+
+            </div>
+            <noscript class="visible-phone">
+                <nav>
+                    <div class="span8">
+                        <ul class="nav nav-pills">
+                            <li id="StartItem" class="active navHasNoChildren clickMenu">
+                                <span class="hide">Visas:</span>
+                                <a href="/" title="Till startsidan"><span class="mellanrum-left-tjugo mellanrum-right-tjugo">Start</span></a>
+                            </li>
+
+                            <li id="DfItem" class="navHasNoChildren clickMenu">
+                                <a href="/digitala-forskarsalen" title="Digitala forskarsalen">Digitala forskarsalen</a>
+                            </li>
+
+                            <li id="NadItem" class="navHasNoChildren clickMenu">
+                                <a href="/nad/" title="Nationell Arkivdatabas">Nationell Arkivdatabas</a>
+                            </li>
+                            <li class="menylankar" href="/om-soktjansten/">Om s&#246;ktj&#228;nsten</li>
+                            <li id="OmItems">
+                                
+                            </li>
+                            <li><a href="http://riksarkivet.se" target="_blank" title="Till Riksarkivets hemsida">Riksarkivet</a></li>
+                            <li><a href="http://webbutik.riksarkivet.se" target="_blank" title="Till Riksarkivets webbutik">Webbutiken</a></li>
+                            <ul class="nav nav-pills">
+                                <li><a href="/?Sprak=Engelska">English</a></li>
+                                <li><a href="/?Sprak=Svenska">Svenska</a></li>
+                            </ul>
+                            <li class="visible-phone"><a href="http://riksarkivet.se" target="_blank" title="Till Riksarkivets hemsida">Riksarkivet</a></li>
+                            <li class="visible-phone"><a href="http://webbutik.riksarkivet.se" target="_blank" title="Till Riksarkivets webbutik">Webbutiken</a></li>
+                            
+        <li>
+            <a href="/sv/login?returnUrl=%2Fcaptcha%3FreturnUrl%3D%252F%253Fpostid%253Dsdhk_22493%2526tab%253Dpost&amp;avanceradSok=False" id="LogIn">Logga in</a>
+        </li>
+
+                        </ul>
+                    </div>
+                </nav>
+            </noscript>
+
+            <nav class="span8">
+                <div class="row hidden-print hidden-phone">
+                    <div id="nav-webbutik" class="nav-collapse collapse pull-right">
+                        <ul class="nav nav-pills">
+                            <li><a href="http://riksarkivet.se" target="_blank" title="Till Riksarkivets hemsida">Riksarkivet</a></li>
+                            <li><a href="http://webbutik.riksarkivet.se" target="_blank" title="Till Riksarkivets webbutik">Webbutiken</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="row hidden-print upp">
+                    <div id="nav-shortcuts" class="nav-collapse collapse">
+                        <hr />
+                        <noscript>
+                            <ul class="nav nav-pills">
+                                <li><a href="/?Sprak=Engelska">English</a></li>
+                                <li><a href="/?Sprak=Svenska">Svenska</a></li>
+                            </ul>
+                        </noscript>
+                        <ul class="nav nav-pills">
+                            
+        <li>
+            <a href="/sv/login?returnUrl=%2Fcaptcha%3FreturnUrl%3D%252F%253Fpostid%253Dsdhk_22493%2526tab%253Dpost&amp;avanceradSok=False" id="LogIn">Logga in</a>
+        </li>
+
+                            <li id="otherLanguagesDropBox" class="dropdown hide">
+                                <a class="dropdown-toggle" id="dLabel" role="link" data-toggle="dropdown" data-target="#language" href="/page.html">Other languages<i class="icon-caret-down"></i></a>
+                                <ul class="dropdown-menu" role="menu">
+                                        <li class="active"><span class="selected-language">Svenska <i class="icon-ok"></i></span></li>
+
+                                        <li><a href="/?Sprak=Engelska&amp;returnUrl=https%3A%2F%2Fsok.riksarkivet.se%2Fen%2Fcaptcha%3FreturnUrl%3D%252F%253Fpostid%253Dsdhk_22493%2526tab%253Dpost">English</a></li>
+
+                                </ul>
+
+                                
+                            </li>                          
+                            <li class="visible-phone"><a href="http://riksarkivet.se" target="_blank" title="Till Riksarkivets hemsida">Riksarkivet</a></li>
+                            <li class="visible-phone"><a href="http://webbutik.riksarkivet.se" target="_blank" title="Till Riksarkivets webbutik">Webbutiken</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div>
+                    <div id="laneordrar" class="pull-right hidden">
+                        <ul class="nav nav-pills">
+                            <li>
+
+                                <a href="https://lasesalsbestallning.riksarkivet.se/" target="riksarkivet-digital-bestallning" style="text-decoration: none">
+                                    <div>
+                                        <img src="/Content/images/kundvagn/kundvagn.png" alt="Kundkorg till l&#228;sesal" />
+                                        <span class="badge sokhjalpIkon" title="L&#228;sesal | Klicka p&#229; kundvagnen f&#246;r att best&#228;lla objekt till l&#228;sesal" id="laneorder-antal">0</span>
+                                    </div>
+                                    <span id="lasesaltext">Till l&#228;sesal</span>
+                                </a>
+
+                                <!--<div class="kundvagn" style="text-decoration: none">
+                                    <div>
+                                        <img src="~/Content/images/kundvagn/kundvagn.png" alt="Kundkorg till l&#228;sesal" />
+                                        <span class="badge sokhjalpIkon" title="L&#228;sesal | Klicka p&#229; kundvagnen f&#246;r att best&#228;lla objekt till l&#228;sesal" id="laneorder-antal">0</span>
+                                    </div>
+                                    <span id="lasesaltext">Till l&#228;sesal</span>
+                                </div>-->
+
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </div>
+    <div class="colorbar hidden-print"></div>
+
+    <!--<div id="kundvagn-dialog" style="display:none;padding:0;overflow-y:hidden">
+        
+        <iframe id="kundvagn-frame" src="https://lasesalsbestallning.riksarkivet.se/" style="height:100%;width:100%;border:none"></iframe>
+    </div>-->
+
+    <nav class="navbar navbar-top hidden-print" data-target=".nav-collapse" data-toggle="collapse">
+        <div class="container-fluid navbar-inner">
+            <div id="nav-collapse" class="nav-collapse collapse">
+                <ul class="nav" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+                    <li class="divider-vertical" />
+                    <li id="StartItem" class="active navHasNoChildren clickMenu">
+                        <span class="hide">Visas:</span>
+                        <a href="/" title="Till startsidan"><span class="mellanrum-left-tjugo mellanrum-right-tjugo">Start</span></a>
+                    </li>
+                    <li class="divider-vertical" />
+                    <li id="DfItem" class="navHasNoChildren clickMenu">
+                        <a href="/digitala-forskarsalen" title="Digitala forskarsalen">Digitala forskarsalen</a>
+                    </li>
+                    <li class="divider-vertical" />
+                    <li id="NadItem" class="navHasNoChildren clickMenu">
+                        <a href="/nad/" title="Nationell Arkivdatabas">Nationell Arkivdatabas</a>
+                    </li>
+                    <li class="divider-vertical" />
+                    <li id="OmItem" class="navHasNoChildren clickMenu hidden-phone">
+                        <a href="/om-soktjansten/" title="Om s&#246;ktj&#228;nsten">Om s&#246;ktj&#228;nsten</a>
+                    </li>
+                    <li id="OmItem" class="navHasChildren clickMenu span12 visible-phone">
+                        <span>
+                            <a class="menylankar omSoktjansten" href="/om-soktjansten/">Om s&#246;ktj&#228;nsten</a>
+                            <i id="OmMenyPlusMinus" class="icon-plus icon-white"></i>
+                        </span>
+                        <div id="OmItems" class="hidden-phone">
+                            
+                        </div>
+                    </li>
+                    <li class="divider-vertical" />
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+
+<script type="text/javascript">
+    window.onload = function () {
+        document.getElementById("otherLanguagesDropBox").className = "dropdown";
+    }
+    $(function () {
+        $("#btn-shortcuts").on('click', function (e) {
+            changePlusMinusIcon("#IkonPlusMinus");
+        });
+
+        $("#kundvagn-dialog").dialog({
+            // TODO: fix x on close button
+            title: 'Beställning till läsesal',
+            autoOpen: false,
+            modal: true,
+            height: '800',
+            width: '1000',
+            maxWidth: 'auto',
+            position: { my: 'top', at: 'top', of: $('#nav-collapse') },
+        });
+
+        $('.kundvagn').on('click', function () {
+            // TODO: would be nice to make height dynamic according to iframe height
+            $('#kundvagn-dialog').dialog('open');
+        });
+
+        $('.clickMenu').on('click', function (e) {
+            e.stopPropagation();
+        });
+
+        $("#OmItem").on('click', function (e) {
+            $("#omLankar").removeClass('hidden-phone').addClass('visible-phone');
+            $("#nav-shortcuts").closest('div').addClass('hidden-phone');
+            e.stopPropagation();
+        });
+
+        $("#OmMenyPlusMinus").on('click', function (e) {
+            showHideSubMenu("#OmItems")
+            changePlusMinusIcon("#OmMenyPlusMinus");
+        });
+
+        $("#NadMenyPlusMinus").on('click', function (e) {
+            showHideSubMenu("#NadItems")
+            changePlusMinusIcon("#NadMenyPlusMinus");
+        });
+
+        $("#ForskarsalMenyPlusMinus").on('click', function (e) {
+            showHideSubMenu("#ForskarsalItems");
+            changePlusMinusIcon("#ForskarsalMenyPlusMinus");
+        });
+
+        var showHideSubMenu = function (subMenuId) {
+            if ($(subMenuId).hasClass("hidden-phone")) {
+                $(subMenuId).removeClass('hidden-phone').addClass('visible-phone');
+            }
+            else {
+                $(subMenuId).addClass("hidden-phone")
+            }
+        }
+
+        var changePlusMinusIcon = function (dropdownElement) {
+
+            if ($(dropdownElement).hasClass('icon-plus')) {
+                $(dropdownElement).removeClass("icon-plus");
+                $(dropdownElement).addClass('icon-minus');
+            }
+            else {
+                $(dropdownElement).removeClass('icon-minus');
+                $(dropdownElement).addClass("icon-plus");
+            };
+        }
+
+
+    });
+</script>
+    <main id="homeContainer" class="content container-fluid">
+        <br />
+        <section class="hidden-print"></section>
+        <nav id="tabheader" class="row-fluid hidden-print">
+            
+        </nav>
+        <div id="content">
+            <div id="body-content" class="content row-fluid">
+                
+
+<h2>Verifiera att du &#228;r m&#228;nniska</h2>
+<p>V&#228;nligen kryssa f&#246;r rutan nedan f&#246;r att forts&#228;tta.</p>
+
+<div id="captcha-standalone"></div>
+
+<script>
+    $(document).ready(function () {
+        const returnUrl = '/?postid=sdhk_22493&tab=post';
+        CaptchaHandler.initStandalone('captcha-standalone', returnUrl);
+    });
+</script>
+
+            </div>
+        </div>
+    </main>
+
+
+
+<link href="/css/cookieconsent?v=GMQVUEYzuJ6fVMv5wldPgq2c-EVeDtnyoQIpK42QmUc1" rel="stylesheet"/>
+<script src="/bundles/cookieconsent?v=a9cJy4GKjmLGwXZdi5MU791EOM1kEhzqw-KTU6lVVrY1"></script>
+
+    <script type='text/javascript'>
+        $(document).ready(function () {
+            $(document).on("click", "span.paramTag>img", function () {
+                $(this).parent().remove();
+            });
+
+            $(document).on("click", "input[type='reset'], button[type='reset']", function () {
+                $("span.paramTag").remove();
+            });
+            if ((navigator.userAgent.indexOf("Trident/4") > -1 || navigator.userAgent.indexOf("Trident/5") > -1 || navigator.userAgent.indexOf("Trident/6") > -1 || navigator.userAgent.indexOf("Trident/7") > -1) && navigator.userAgent.indexOf("MSIE 7.0") > -1) {
+                $("#compatibility_box").show();
+            }
+        });
+    </script>
+
+<script type="module" src="/Scripts/altcha.min.js"></script>
+<script>
+    var CaptchaHandler = (function ($) {
+        'use strict';
+
+        const CAPTCHA_API = 'https://altcha.riksarkivet.se/api/captcha';
+
+        function hasCaptchaCookie() {
+            return document.cookie.includes('altcha_verified=');
+        }
+
+        function getCaptchaStrings() {
+            return {
+                label: 'Jag &#228;r inte en robot',
+                verifying: 'Verifierar...',
+                verified: 'Verifierad',
+                error: 'Verifieringen misslyckades'
+            };
+        }
+
+        function createAltchaWidget() {
+            var altcha = document.createElement('altcha-widget');
+            altcha.setAttribute('challengeurl', CAPTCHA_API + '/challenge');
+            altcha.setAttribute('hidelogo', 'true');
+            altcha.setAttribute('strings', JSON.stringify(getCaptchaStrings()));
+            return altcha;
+        }
+
+        function verifyCaptcha(payload, onSuccess, onError) {
+            $.ajax({
+                url: CAPTCHA_API + '/verify',
+                type: 'POST',
+                contentType: 'application/json',
+                data: JSON.stringify({ payload: payload }),
+                xhrFields: { withCredentials: true },
+                success: function (response) {
+                    if (response.success) {
+                        if (onSuccess) onSuccess();
+                    } else {
+                        if (onError) onError('Verifiering misslyckades. V&#228;nligen f&#246;rs&#246;k igen.');
+                    }
+                },
+                error: function (xhr, status, error) {
+                    if (onError) onError('Verifieringen misslyckades');
+                }
+            });
+        }
+
+        function showCaptchaModal($form) {
+            var $dialog = $('<dialog>', {
+                'class': 'captcha-dialog',
+                html: '<article>' +
+                    '<header>' +
+                    '<h2>Verifiera att du &#228;r m&#228;nniska</h2>' +
+                    '</header>' +
+                    '<section>' +
+                    '<p>V&#228;nligen kryssa f&#246;r rutan nedan f&#246;r att forts&#228;tta.</p>' +
+                    '<div class="captcha-container"></div>' +
+                    '</section>' +
+                    '</article>'
+            });
+
+            $('body').append($dialog);
+
+            var altcha = createAltchaWidget();
+            $dialog.find('.captcha-container').append(altcha);
+            $dialog[0].showModal();
+
+            altcha.addEventListener('statechange', function (ev) {
+                if (ev.detail.state === 'verified') {
+                    verifyCaptcha(ev.detail.payload,
+                        function() {
+                            $dialog[0].close();
+                            $dialog.remove();
+                            $form.submit();
+                        },
+                        function(errorMsg) {
+                            alert(errorMsg);
+                            $dialog[0].close();
+                            $dialog.remove();
+                        }
+                    );
+                }
+            });
+        }
+
+        function initFormInterceptor() {
+            $('form:not(.no-captcha)').on('submit', function (e) {
+                var $form = $(this);
+
+                if (hasCaptchaCookie()) {
+                    return true;
+                }
+
+                e.preventDefault();
+                showCaptchaModal($form);
+                return false;
+            });
+        }
+
+        function initStandaloneCaptcha(containerId, returnUrl) {
+            var container = document.getElementById(containerId);
+            if (!container) return;
+
+            var altcha = createAltchaWidget();
+            container.appendChild(altcha);
+
+            altcha.addEventListener('statechange', function (ev) {
+                if (ev.detail.state === 'verified') {
+                    verifyCaptcha(ev.detail.payload,
+                        function() {
+                            window.location.href = returnUrl || '/';
+                        },
+                        function(errorMsg) {
+                            alert(errorMsg);
+                        }
+                    );
+                }
+            });
+        }
+
+        return {
+            hasCaptchaCookie: hasCaptchaCookie,
+            showModal: showCaptchaModal,
+            initFormInterceptor: initFormInterceptor,
+            initStandalone: initStandaloneCaptcha
+        };
+
+    })(jQuery);
+
+    $(document).ready(function () {
+        CaptchaHandler.initFormInterceptor();
+    });
+</script>
+</body>
+</html>

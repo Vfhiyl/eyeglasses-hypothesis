@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<srw:searchRetrieveResponse xmlns:ns6="http://gallica.bnf.fr/namespaces/gallica/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <srw:version>1.2</srw:version>
+    <srw:echoedSearchRetrieveRequest>
+        <srw:query>(gallica all "Cleuz" and gallica all "maître d'hôtel")</srw:query>
+        <srw:version>1.2</srw:version>
+    </srw:echoedSearchRetrieveRequest>
+    <srw:numberOfRecords>730</srw:numberOfRecords>
+    <srw:extraResponseData>&lt;numberOfRecordsDecollapser&gt;4115&lt;/numberOfRecordsDecollapser&gt;</srw:extraResponseData>
+    <srw:records>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Duportal, Alfred Anne (1837-1916). Auteur du texte</dc:creator>
+                    <dc:description>Appartient à l’ensemble documentaire : Bretagn1</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>In-8° , 23 p.</dc:format>
+                    <dc:format>Nombre total de vues : 25</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k6129587f</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:language>français</dc:language>
+                    <dc:publisher>impr. de R. Prud'homme (Saint-Brieuc)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb303820392</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Droit, économie, politique, 8-F PIECE-4546</dc:source>
+                    <dc:title>Un droit féodal dans l'évêché de Dol au XVIIIe siècle. [Signé : A. Anne Duportal.]</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>0</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k6129587f.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k6129587f</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k6129587f.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k6129587f.medres</medres>
+                <nqamoyen>97.04</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k6129587f.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k6129587f</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1890-193.</dc:date>
+                    <dc:description>Variante(s) de titre : Annuaire universel. Paris-adresses</dc:description>
+                    <dc:description>Variante(s) de titre : Paris-adresses : annuaire universel : toutes les adresses de l'industrie et du commerce... de Paris et des communes du département de la Seine ; classées par professions</dc:description>
+                    <dc:description>Etat de collection : 1896-1898. 1900-1902. 1931 [XLI]</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb326988580/date</dc:identifier>
+                    <dc:identifier>ISSN 26066602</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Ch. Alavoine et cie (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb326988580</dc:relation>
+                    <dc:source>Bibliothèque nationale de France, département Sciences et techniques, 4-V-4045</dc:source>
+                    <dc:title>Paris-adresses : annuaire général de l'industrie et du commerce : corps constitués, administrations, professions libérales, propriétaires, rentiers, etc... de Paris et du département de la Seine</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>1</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k1184615c.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb326988580/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k1184615c.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k1184615c.medres</medres>
+                <nqamoyen>84.96</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k1184615c.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k1184615c</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1887-1935</dc:date>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb391150993/date</dc:identifier>
+                    <dc:identifier>NUMP-17988</dc:identifier>
+                    <dc:identifier>ISSN 26062135</dc:identifier>
+                    <dc:language>eng</dc:language>
+                    <dc:publisher>[s.n.] (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb391150993</dc:relation>
+                    <dc:relation>A pour reproduction : The New York herald (European ed. Reproduction numérique) = ISSN 2725-2582 (https://gallica.bnf.fr/ark:/12148/cb391150993/date)</dc:relation>
+                    <dc:relation>A pour reproduction : The New York herald (European ed. Reproduction numérique) = ISSN 2725-2582 (https://www.retronews.fr/ark:/12148/cb391150993/notice)</dc:relation>
+                    <dc:source>Bibliothèque nationale de France, département Droit, économie, politique, GR FOL-PB-1751 (BIS)</dc:source>
+                    <dc:title>The New York herald (European ed.)</dc:title>
+                    <dc:title>The New York herald</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>2</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k47747321.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb391150993/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k47747321.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k47747321.medres</medres>
+                <nqamoyen>80.08</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k47747321.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k47747321</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Aubert, Jean-Louis (1731-1814). Directeur de publication</dc:contributor>
+                    <dc:date>1751-1782</dc:date>
+                    <dc:description>Variante(s) de titre : Annonces et affiches</dc:description>
+                    <dc:description>Variante(s) de titre : Annonces, affiches et avis divers, ou Journal général de France</dc:description>
+                    <dc:description>Périodicité : Deux fois par semaine (jeudi et lundi) ; quotidien (à partir du 22 décembre 1778)</dc:description>
+                    <dc:description>Etat de collection : 1752-1778. janv.-juin 1782</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPNOUV</dc:description>
+                    <dc:format>Nombre total de vues : 3251</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb32695181v/date</dc:identifier>
+                    <dc:identifier>NUMP-612</dc:identifier>
+                    <dc:identifier>ISSN 20214146</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Bureau d'adresse et de rencontre (Paris)</dc:publisher>
+                    <dc:publisher>Bureau d'adresses &amp; de rencontresBureau d'adresses &amp; de rencontres (Paris)</dc:publisher>
+                    <dc:publisher>Bureau des affichesBureau des affiches (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb32695181v</dc:relation>
+                    <dc:relation>A pour reproduction : Annonces, affiches et avis divers (Paris. 1751. Reproduction numérique) = ISSN 2418-6120 (https://gallica.bnf.fr/ark:/12148/cb32695181v/date)</dc:relation>
+                    <dc:source>Bibliothèque nationale de France, département Littérature et art, 8-H-26195</dc:source>
+                    <dc:title>Annonces, affiches et avis divers (Paris. 1751)</dc:title>
+                    <dc:title>Annonces, affiches et avis divers</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>3</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k10445059.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb32695181v/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k10445059.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k10445059.medres</medres>
+                <nqamoyen>81.01</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k10445059.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k10445059</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Association bretonne et Union régionaliste bretonne. Auteur du texte</dc:creator>
+                    <dc:date>1848-1906</dc:date>
+                    <dc:description>Variante(s) de titre : Comptes-rendus et procès-verbaux... (Association bretonne, Archéologie)</dc:description>
+                    <dc:description>Etat de collection : 1e vol. (1849)-46e congrès (3e sér., t. 24, 1906)</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : Bretagn1</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : PaysLoir1</dc:description>
+                    <dc:format>Nombre total de vues : 14048</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb32717093k/date</dc:identifier>
+                    <dc:identifier>NUMP-921</dc:identifier>
+                    <dc:identifier>ISSN 17648084</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>[s.n.] (Rennes)</dc:publisher>
+                    <dc:publisher>R. Prud'hommeR. Prud'homme (Saint-Brieuc)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb32717093k</dc:relation>
+                    <dc:relation>A pour reproduction : Bulletin archéologique de l'Association bretonne (Reproduction numérique) = ISSN 2418-7208 (https://gallica.bnf.fr/ark:/12148/cb32717093k/date)</dc:relation>
+                    <dc:source>Bibliothèque nationale de France</dc:source>
+                    <dc:title>Bulletin archéologique de l'Association bretonne</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>4</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k2074911.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb32717093k/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k2074911.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k2074911.medres</medres>
+                <nqamoyen>97.83</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k2074911.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k2074911</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>21 progr. 41 ff. ; In-8 °</dc:format>
+                    <dc:format>Nombre total de vues : 123</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bd6t5774427s</dc:identifier>
+                    <dc:identifier>NUMS-100774427</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb38678531j</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Arts du spectacle, 4-RF-65999</dc:source>
+                    <dc:title>[Recueil factice de progr. et d'art. de presse sur "l'Enfant-Maître" de Henry Marx]</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>5</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bd6t5774427s.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bd6t5774427s</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bd6t5774427s.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bd6t5774427s.medres</medres>
+                <nqamoyen>81.65</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t5774427s.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bd6t5774427s</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Drevet, Louise (1835-1898). Directeur de publication</dc:contributor>
+                    <dc:date>1864-1956</dc:date>
+                    <dc:description>Variante(s) de titre : Le Dauphiné : littéraire - historique - touristique - commercial : annonces légales et judiciaires, renseignements commerciaux : hebdomadaire régional</dc:description>
+                    <dc:description>Périodicité : Hebdomadaire ; bihebdomadaire (pendant la saison thermale) (du 31 mai au 1er sept. en 1866, du 15 juin au 15 août, de 1867 à 1870, et du 25 juin au 25 août, de 1878 au 2 août 1914)</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG00</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG38</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG05</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG26</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BnGren00</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb32754162p/date</dc:identifier>
+                    <dc:identifier>NUMP-24930</dc:identifier>
+                    <dc:identifier>ISSN 24955337</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>[s.n.] (Grenoble)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb32754162p</dc:relation>
+                    <dc:relation>A pour reproduction : Le Dauphiné (Reproduction numérique) = ISSN 2539-9594 (https://catalogue.bm-lyon.fr/ark:/75584/pf0002891983)</dc:relation>
+                    <dc:relation>A pour reproduction : Le Dauphiné (Reproduction numérique) = ISSN 2539-9594 (https://gallica.bnf.fr/ark:/12148/cb32754162p/date)</dc:relation>
+                    <dc:relation>Première de couverture : 620648</dc:relation>
+                    <dc:source>Bibliothèque municipale de Grenoble, Jd.18</dc:source>
+                    <dc:title>Le Dauphiné : courrier des eaux thermales de la région : revue littéraire et artistique paraissant...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>6</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bd6t5702227x.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb32754162p/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bd6t5702227x.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bd6t5702227x.medres</medres>
+                <nqamoyen>95.06</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t5702227x.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bd6t5702227x</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>La Mésangère, Pierre de (1761-1831). Directeur de publication</dc:contributor>
+                    <dc:contributor>Sellèque, Jean-Baptiste (1767-1801). Directeur de publication</dc:contributor>
+                    <dc:contributor>Dufougerais, Alfred Xavier de La Douëpe (1804-1874). Directeur de publication</dc:contributor>
+                    <dc:contributor>L'Épinay, Marie de (1802-1864). Directeur de publication</dc:contributor>
+                    <dc:date>1797-1839</dc:date>
+                    <dc:description>Variante(s) de titre : Journal des dames</dc:description>
+                    <dc:description>Variante(s) de titre : Gazette des salons, Journal des dames et des modes</dc:description>
+                    <dc:description>Périodicité : Semi-hebdomadaire (20 mars 1797 ; 13-16 oct. 1797) ; hebdomadaire (1er avr.-7 juil. 1797 ; 27 oct. 1797-18 mars 1798 ; 10 nov. 1838-19 janv. 1839) ; trois fois par semaine (9 juil.-8 oct. 1797) ; tous les six jours (25 mars-23 juin 1798) ; tous les cinq jours (28 juin 1798-31 oct. 1838)</dc:description>
+                    <dc:description>Etat de collection : 30 thermidor an VI (1798)-1839</dc:description>
+                    <dc:format>Nombre total de vues : 26474</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb32799510k/date</dc:identifier>
+                    <dc:identifier>NUMP-333</dc:identifier>
+                    <dc:identifier>ISSN 24267821</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>[s.n.] (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb32799510k</dc:relation>
+                    <dc:relation>A pour reproduction : Journal des dames et des modes (Reproduction numérique) = ISSN 2400-4170 (https://gallica.bnf.fr/ark:/12148/cb32799510k/date)</dc:relation>
+                    <dc:source>Bibliothèque nationale de France</dc:source>
+                    <dc:title>Journal des dames et des modes</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>7</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k10438444.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb32799510k/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k10438444.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k10438444.medres</medres>
+                <nqamoyen>87.77</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k10438444.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k10438444</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1920-1931</dc:date>
+                    <dc:description>Variante(s) de titre : L'Éclaireur du dimanche</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG00</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG06</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : PACA1</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb327640738/date</dc:identifier>
+                    <dc:identifier>NUMP-17091</dc:identifier>
+                    <dc:identifier>ISSN 12497649</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>[s.n.] (Nice)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb327640738</dc:relation>
+                    <dc:relation>A pour reproduction : L'Éclaireur du dimanche et "La Vie pratique, Courrier des étrangers" (Reproduction numérique) = ISSN 2592-3102 (https://gallica.bnf.fr/ark:/12148/cb327640738/date)</dc:relation>
+                    <dc:relation>Première de couverture : 276984</dc:relation>
+                    <dc:source>Bibliothèque nationale de France, département Droit, économie, politique, JO-61279</dc:source>
+                    <dc:title>L'Éclaireur du dimanche et "La Vie pratique, Courrier des étrangers" : paraît tous les dimanches</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>8</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k9817063q.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb327640738/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k9817063q.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k9817063q.medres</medres>
+                <nqamoyen>97.82</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k9817063q.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k9817063q</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1762-1792</dc:date>
+                    <dc:description>Variante(s) de titre : Recueil des gazettes de France</dc:description>
+                    <dc:description>Périodicité : Deux fois par semaine ; quotidien (mai-août 1792)</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : MAEDIGen0</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : MAEDI002</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : MAEDI003</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb41265434t/date</dc:identifier>
+                    <dc:identifier>NUMP-2198</dc:identifier>
+                    <dc:identifier>ISSN 12560154</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Imprimerie de la Gazette de France (Paris)</dc:publisher>
+                    <dc:publisher>Imprimerie royaleImprimerie royale (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb41265434t</dc:relation>
+                    <dc:relation>A pour reproduction : Gazette de France (Paris. 1762. Reproduction numérique) = ISSN 2506-3170 (https://gallica.bnf.fr/ark:/12148/cb41265434t/date)</dc:relation>
+                    <dc:relation>A pour reproduction : Gazette de France (Paris. 1762. Reproduction numérique) = ISSN 2506-3170 (https://www.retronews.fr/ark:/12148/cb41265434t/notice)</dc:relation>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 4-LC2-1</dc:source>
+                    <dc:title>Gazette de France (Paris. 1762)</dc:title>
+                    <dc:title>Gazette de France</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>9</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k6246641n.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb41265434t/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k6246641n.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k6246641n.medres</medres>
+                <nqamoyen>98.52</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k6246641n.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k6246641n</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Limouzin, Charles. Directeur de publication</dc:contributor>
+                    <dc:date>1873-1914</dc:date>
+                    <dc:description>Variante(s) de titre : La Vie mondaine</dc:description>
+                    <dc:description>Périodicité : La périodicité varie</dc:description>
+                    <dc:description>Etat de collection : a. 1, n° 1 (1873, 1er oct.)-a. 4, n° 99 (1876, 28 déc.) ; a. 8, n° 276 (1880, 5 déc.)-a. 43, n° 653 (1914, 9 avr.) &lt;inc.&gt;</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG00</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG06</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : PACA1</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb32889161b/date</dc:identifier>
+                    <dc:identifier>NUMP-17664</dc:identifier>
+                    <dc:identifier>ISSN 20211422</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>[s.n.] (Nice)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb32889161b</dc:relation>
+                    <dc:relation>A pour reproduction : La Vie mondaine à Nice (Reproduction numérique) = ISSN 2612-9108 (https://gallica.bnf.fr/ark:/12148/cb32889161b/date)</dc:relation>
+                    <dc:relation>Première de couverture : 303786</dc:relation>
+                    <dc:source>Bibliothèque nationale de France, département Droit, économie, politique, JO-7229</dc:source>
+                    <dc:title>La Vie mondaine à Nice : journal du high-life... publiant la liste complète des étrangers</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>10</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k4582878j.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb32889161b/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k4582878j.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k4582878j.medres</medres>
+                <nqamoyen>84.22</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k4582878j.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k4582878j</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1893-1944</dc:date>
+                    <dc:description>Variante(s) de titre : La Gazette de Bayonne-Biarritz et Saint-Jean-de-Luz</dc:description>
+                    <dc:description>Variante(s) de titre : La Gazette des Pyrénées</dc:description>
+                    <dc:description>Variante(s) de titre : La Gazette illustrée de Biarritz, Saint-Jean-de-Luz et des Pyrénées</dc:description>
+                    <dc:description>Variante(s) de titre : La Gazette illustrée de Biarritz</dc:description>
+                    <dc:description>Variante(s) de titre : La Gazette de Biarritz</dc:description>
+                    <dc:description>Variante(s) de titre : La Gazette de Biarritz et du littoral</dc:description>
+                    <dc:description>Variante(s) de titre : La Gazette de Bayonne-Biarritz et du littoral</dc:description>
+                    <dc:description>Variante(s) de titre : La Gazette de Biarritz et de Bayonne</dc:description>
+                    <dc:description>Variante(s) de titre : La Gazette de Biarritz et du Pays basque</dc:description>
+                    <dc:description>Variante(s) de titre : La Gazette</dc:description>
+                    <dc:description>Variante(s) de titre : Biarritz-gazette</dc:description>
+                    <dc:description>Variante(s) de titre : Biarritz-printemps</dc:description>
+                    <dc:description>Variante(s) de titre : Biarritz-salon</dc:description>
+                    <dc:description>Variante(s) de titre : Biarritz 1914</dc:description>
+                    <dc:description>Périodicité : Hebdomadaire ; quotidien (5 août 1914-)</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG00</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG64</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG64</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb32780235q/date</dc:identifier>
+                    <dc:identifier>NUMP-17399</dc:identifier>
+                    <dc:identifier>ISSN 20220235</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>[s.n.] (Biarritz)</dc:publisher>
+                    <dc:publisher>[s.n.][s.n.] (Biarritz)</dc:publisher>
+                    <dc:publisher>[s.n.][s.n.] (Biarritz)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb32780235q</dc:relation>
+                    <dc:relation>A pour reproduction : La Gazette de Biarritz-Bayonne et Saint-Jean-de-Luz (Reproduction numérique) = ISSN 2592-4370 (https://gallica.bnf.fr/ark:/12148/cb32780235q/date)</dc:relation>
+                    <dc:relation>A pour reproduction : La Gazette de Biarritz-Bayonne et Saint-Jean-de-Luz (Reproduction numérique) = ISSN 2592-4370 (https://www.retronews.fr/ark:/12148/cb32780235q/notice)</dc:relation>
+                    <dc:relation>Première de couverture : 285714</dc:relation>
+                    <dc:source>Bibliothèque nationale de France, département Droit, économie, politique, JO 14930</dc:source>
+                    <dc:title>La Gazette de Biarritz-Bayonne et Saint-Jean-de-Luz : journal républicain indépendant littéraire, mondain et d'intérêt local</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>11</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k1796264t.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb32780235q/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k1796264t.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k1796264t.medres</medres>
+                <nqamoyen>98.51</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k1796264t.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k1796264t</uri>
+            </srw:extraRecordData>
+        </srw:record>
+    </srw:records>
+    <srw:nextRecordPosition>13</srw:nextRecordPosition>
+</srw:searchRetrieveResponse>

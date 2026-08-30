@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<srw:searchRetrieveResponse xmlns:ns6="http://gallica.bnf.fr/namespaces/gallica/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <srw:version>1.2</srw:version>
+    <srw:echoedSearchRetrieveRequest>
+        <srw:query>gallica all "unes lunettes"</srw:query>
+        <srw:version>1.2</srw:version>
+    </srw:echoedSearchRetrieveRequest>
+    <srw:numberOfRecords>85494</srw:numberOfRecords>
+    <srw:extraResponseData>&lt;numberOfRecordsDecollapser&gt;883543&lt;/numberOfRecordsDecollapser&gt;</srw:extraResponseData>
+    <srw:records>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Zysset, C.. Auteur ou responsable intellectuel</dc:creator>
+                    <dc:creator>Villaz, Paul (1923-2010). Auteur ou responsable intellectuel</dc:creator>
+                    <dc:creator>Durban, Georges (1918-1997). Auteur ou responsable intellectuel</dc:creator>
+                    <dc:creator>Villaz, Paul (1923-2010). Interprète</dc:creator>
+                    <dc:date>1962</dc:date>
+                    <dc:description>BnF-Partenariats, Collection sonore - Believe</dc:description>
+                    <dc:description>Contient une table des matières</dc:description>
+                    <dc:format>1 disque : 45 t ; 17 cm</dc:format>
+                    <dc:format>disc</dc:format>
+                    <dc:format>disque microsillon</dc:format>
+                    <dc:format>multipart/mixed</dc:format>
+                    <dc:format>Nombre total de vues : 8</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k88319172</dc:identifier>
+                    <dc:identifier>NUMAUD-8831917</dc:identifier>
+                    <dc:identifier>Numéro commercial : BAM EX290</dc:identifier>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb37791196s</dc:relation>
+                    <dc:rights>conditions spécifiques d'utilisation - BnF-Partenariats, Collection sonore - Believe</dc:rights>
+                    <dc:rights>restricted use</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Audiovisuel, E-23157</dc:source>
+                    <dc:title>Lunettes, lunettes / Villaz (P.), Zysset (C.). L'oiseau qui fait tchak tchak. Les femmes à barbe. Les fleurs à l'envers / Villaz (P.), Durban (G.) ; Villaz (Paul) ; avec Durban (Georges) et son orchestre</dc:title>
+                    <dc:type>sound</dc:type>
+                    <dc:type>document sonore</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>0</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k88319172.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k88319172</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k88319172.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k88319172.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k88319172.thumbnail</thumbnail>
+                <typedoc>sonores</typedoc>
+                <uri>bpt6k88319172</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Defer, Jean-Baptiste-Étienne (1812-1873). Auteur du texte</dc:creator>
+                    <dc:date>1853</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>In-8° , 24 p.</dc:format>
+                    <dc:format>Nombre total de vues : 26</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k56246877</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:language>français</dc:language>
+                    <dc:publisher> (Metz)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30309524f</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Sciences et techniques, 8-TE69-90</dc:source>
+                    <dc:subject>Oeil -- Maladies -- Thérapeutique</dc:subject>
+                    <dc:title>Optique oculaire : myopie, presbytie, amblyopie, lunettes, par le Dr Defer,...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>1</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k56246877.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k56246877</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k56246877.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k56246877.medres</medres>
+                <nqamoyen>97.02</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k56246877.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k56246877</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Exposition nationale de l industrie de 1839. Éditeur scientifique</dc:contributor>
+                    <dc:creator>Charrière, Frédéric (1803-1876). Auteur du texte</dc:creator>
+                    <dc:date>1844</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>In-8° , 24 p., fig.</dc:format>
+                    <dc:format>Nombre total de vues : 30</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k5809367x</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:language>français</dc:language>
+                    <dc:publisher> (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30225403g</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Sciences et techniques, 8-TE129-124</dc:source>
+                    <dc:subject>Médecine -- Appareils et matériel</dc:subject>
+                    <dc:title>Exposition nationale de l'industrie de 1839.... Charrière,... Trousses-Agenda, trousses en général, lunettes,... nouvelles modifications de la plupart des instruments qu'on place dans les trousses, etc.</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>2</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k5809367x.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k5809367x</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k5809367x.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k5809367x.medres</medres>
+                <nqamoyen>85.3</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k5809367x.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k5809367x</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1601-1700</dc:date>
+                    <dc:description>Contient : « De geometrica æquationum planarum et cubicarum resolutione, a domino DE ROBERVAL. — Figures</dc:description>
+                    <dc:description>Numérisation effectuée à partir d'un document de substitution.</dc:description>
+                    <dc:format>Papier. - 172 feuillets. - 315 × 210 mm. - Demi-reliure</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b9009559f</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:relation>Notice du catalogue : http://archivesetmanuscrits.bnf.fr/ark:/12148/cc43464v</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France. Département des Manuscrits. Français 12279</dc:source>
+                    <dc:subject>Diophrique.</dc:subject>
+                    <dc:subject>Roberval, Gilles Personne de.</dc:subject>
+                    <dc:subject>Geometrica aequationum.</dc:subject>
+                    <dc:title>« De la dioptrique, ou des lunettes. — Livre troisiesme, » avec figures.</dc:title>
+                    <dc:type>manuscript</dc:type>
+                    <dc:type>manuscrit</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>3</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b9009559f.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b9009559f</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b9009559f.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b9009559f.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b9009559f.thumbnail</thumbnail>
+                <typedoc>manuscrits</typedoc>
+                <uri>btv1b9009559f</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1701-1800</dc:date>
+                    <dc:description>Numérisation effectuée à partir d'un document de substitution.</dc:description>
+                    <dc:format>Papier. - 125 pages. - 200 × 130 mm. - Cartonné</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b90618320</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:relation>Notice du catalogue : http://archivesetmanuscrits.bnf.fr/ark:/12148/cc45294d</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France. Département des Manuscrits. Français 14735</dc:source>
+                    <dc:subject>Daça de Valdes.</dc:subject>
+                    <dc:subject>Usage des lunettes.</dc:subject>
+                    <dc:subject>Physique.</dc:subject>
+                    <dc:subject>Valdes, Daça Benoît de.</dc:subject>
+                    <dc:subject>Usage des Lunettes.</dc:subject>
+                    <dc:title>« L'Usage des Lunettes pour toutes sortes de veues,... par Benoist DAÇA DE VALDES, licentié et notaire de l'inquisition en la cité de Seville,... traduit d'espagnol en françois, jouxte la coppie imprimée à Seville par Diego Perez, l'an 1623, in-4° ».</dc:title>
+                    <dc:type>manuscript</dc:type>
+                    <dc:type>manuscrit</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>4</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b90618320.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b90618320</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b90618320.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b90618320.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b90618320.thumbnail</thumbnail>
+                <typedoc>manuscrits</typedoc>
+                <uri>btv1b90618320</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>19..</dc:date>
+                    <dc:description>Catalogues de vente</dc:description>
+                    <dc:format>1 vol. (142 p.) : ill. ; 27 cm</dc:format>
+                    <dc:format>Nombre total de vues : 149</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k4452616</dc:identifier>
+                    <dc:identifier>NUMM-445261</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>[s.n.] (Iéna)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb41006561n</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France</dc:source>
+                    <dc:subject>Astronomie -- Instruments</dc:subject>
+                    <dc:title>Instruments astronomiques, optique astronomique, coupoles...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>5</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k4452616.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k4452616</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k4452616.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k4452616.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k4452616.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k4452616</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Bourgey, Émile (1914-1993). Éditeur scientifique</dc:contributor>
+                    <dc:date>1955</dc:date>
+                    <dc:description>[Vente. Numismatique. 1955-03-03. Paris]</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : VenteMMA</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>Nombre total de vues : 18</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k97785598</dc:identifier>
+                    <dc:identifier>NUMM-9778559</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Emile Bourgey (Paris?)</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb40901040h</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb40901040h</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Monnaies, médailles et antiques, VENTE BOU-1955 (1955-MAR-3)</dc:source>
+                    <dc:title>[Trésor de Saint-Wandrille Monnaies d'or de Louis XV]</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>6</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k97785598.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k97785598</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k97785598.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k97785598.medres</medres>
+                <nqamoyen>98.65</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k97785598.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k97785598</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Caron, Stephan (1966- .). Ancien possesseur</dc:contributor>
+                    <dc:coverage>Sofia (Bulgarie)</dc:coverage>
+                    <dc:date>1985</dc:date>
+                    <dc:description>Numérisation effectuée à partir d'un document original : D.86.58.2.</dc:description>
+                    <dc:description>Appartient à l'ensemble documentaire : MnS000</dc:description>
+                    <dc:description>Appartient à l'ensemble documentaire : MnS001</dc:description>
+                    <dc:description>Contexte : Ces lunettes ont été portées par Stephan Caron (1966-) lors de la finale du 100 mètres nage libre des Championnats d’Europe à Sofia (Bulgarie) en 1985, qu’il a remportée en 50’’20. Caron a par ailleurs été médaillé d’argent européen en 1987 et mondial en 1986, et double médaillé de bronze olympique en 1988 et 1992, toujours sur la même distance. Cette paire de lunettes est de marque Arena , créée par Horst Dassler, fils du fondateur d’Adidas, qui en voyant les exploits de Mark Spitz en 1972, a l’idée de créer au sein d’Adidas France une marque spécialisée dans les sports d’eau. Elle commence par produire des maillots de bain pour hommes, avant de s’étendre à la clientèle féminine, puis aux bonnets de bain et aux lunettes de compétition. En se positionnant constamment à la pointe de l’innovation, cela permet à la marque d’être un des équipementiers les plus importants de la natation.</dc:description>
+                    <dc:description>Caron, Stephan (1966- .). </dc:description>
+                    <dc:description>Arena. </dc:description>
+                    <dc:format>Lunettes (paire). - Matière plastique;caoutchouc;mousse synthétique. - 180 x 120 mm</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b10950237t</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:relation>Notice du catalogue : http://archivesetmanuscrits.bnf.fr/ark:/12148/cc1253018/cN78032</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Musée national du sport. D.86.58.2</dc:source>
+                    <dc:subject>Natation</dc:subject>
+                    <dc:subject>Natation -- Championnat d'Europe</dc:subject>
+                    <dc:title>Collections Musée National du Sport. Collections Instruments et matériels. Lunettes (paire)-Caron, Stephan-Championnat d'Europe 1985</dc:title>
+                    <dc:type>physical object</dc:type>
+                    <dc:type>objet</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>7</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b10950237t.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b10950237t</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b10950237t.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b10950237t.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b10950237t.thumbnail</thumbnail>
+                <typedoc>objets</typedoc>
+                <uri>btv1b10950237t</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Chauvelier, Dominique (1956-....). Ancien possesseur</dc:contributor>
+                    <dc:date>1990-1999</dc:date>
+                    <dc:description>Numérisation effectuée à partir d'un document original : 2006.16.7.</dc:description>
+                    <dc:description>Appartient à l'ensemble documentaire : MnS000</dc:description>
+                    <dc:description>Appartient à l'ensemble documentaire : MnS006</dc:description>
+                    <dc:description>Chauvelier, Dominique (1956-....). </dc:description>
+                    <dc:format>Lunettes (paire). - Matière plastique;caoutchouc. - 40 x 150 x 170 mm (dépliées)</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b10559807v</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:relation>Notice du catalogue : http://archivesetmanuscrits.bnf.fr/ark:/12148/cc1253018/cN112907</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Musée national du sport. 2006.16.7</dc:source>
+                    <dc:subject>Athlétisme</dc:subject>
+                    <dc:subject>Marathon</dc:subject>
+                    <dc:subject>Course à pied</dc:subject>
+                    <dc:title>Collections Musée National du Sport. Collections Tenues et accessoires. Lunettes (paire)-Chauvelier, Dominique</dc:title>
+                    <dc:type>physical object</dc:type>
+                    <dc:type>objet</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>8</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b10559807v.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b10559807v</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b10559807v.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b10559807v.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b10559807v.thumbnail</thumbnail>
+                <typedoc>objets</typedoc>
+                <uri>btv1b10559807v</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Weylandt d Hettanges, Nicolas (Dr). Auteur du texte</dc:creator>
+                    <dc:date>1847</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : PACA1</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>In-8° , 31 p.</dc:format>
+                    <dc:format>Nombre total de vues : 34</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k5624527m</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:language>français</dc:language>
+                    <dc:publisher> (Avignon)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31642694p</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Sciences et techniques, 8-TE69-79</dc:source>
+                    <dc:subject>Oeil -- Maladies -- Thérapeutique</dc:subject>
+                    <dc:title>De l'Utilité et du danger de l'usage des lunettes et des circonstances dans lesquelles il faut s'en servir, opuscule destiné principalement à MM. les curés des campagnes qui sont journellement appelés à donner leur avis aux pauvres campagnards sur le choix des lunettes que viennent incessamment leur offrir le juif Philippe et les autres brocanteurs de ce genre... Par N. Weylandt d'Hettanges,...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>9</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k5624527m.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k5624527m</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k5624527m.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k5624527m.medres</medres>
+                <nqamoyen>96.54</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k5624527m.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k5624527m</uri>
+            </srw:extraRecordData>
+        </srw:record>
+    </srw:records>
+    <srw:nextRecordPosition>11</srw:nextRecordPosition>
+</srw:searchRetrieveResponse>

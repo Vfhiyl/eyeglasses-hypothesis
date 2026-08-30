@@ -1,0 +1,40 @@
+{
+  "pass": "BA",
+  "direction": "densify thin primary cells: marzeliere (n_ctrl=1) + hesselin + wolsey",
+  "marzeliere_pierre": {
+    "before": {
+      "n_ctrl": 1,
+      "delta": -13.0,
+      "ctrls": "Q716427 only"
+    },
+    "after": {
+      "n_ctrl": 4,
+      "delta": 5.0,
+      "ctrls": "Q3107535;Q716427;Q461757;Q111210803"
+    },
+    "added": [
+      "Giovanni della Grossa Q3107535",
+      "No\u00ebl de Fribois Q111210803",
+      "Jacques C\u0153ur Q461757 unlocked"
+    ]
+  },
+  "hesselin_denis": {
+    "before_n": 2,
+    "after_n": 7,
+    "delta": "15.5\u219217.0"
+  },
+  "wolsey": {
+    "before_n": 2,
+    "after_n": 7,
+    "delta": "-3\u2192-6"
+  },
+  "primary_summary": {
+    "n": 46,
+    "median_delta": -1.5,
+    "boot95": [
+      -5.0,
+      3.0
+    ],
+    "thin_n_ctrl_lt3": 0
+  }
+}

@@ -1,0 +1,8 @@
+person_id,year,pin_type,amount,text,source,confidence,notes
+bourchier_henry_bath,1643,mending_or_service,0s 4d,my Lord’s spectacles men[d]. 4d,Gray 1996 Pt.2 London Accounts p.119 (local PDF p.183); account window Aug 1643–Mar 1645,medium,Pre-onset densify (ownership/service during Tower period). Not used as onset.
+bourchier_henry_bath,1646,purchase_personal,6s,2 pair of spectacles & a case for my Lord 00 06 00,Gray 1996 Pt.2 London Accounts p.129 (local PDF p.193); Sept 1646–Mar 1646/7 account,high,ONSET living purchase. Primary Gray (was Costume Historian secondary).
+bourchier_henry_bath,1647,frame_purchase,1s 4d,for tortoise shell frame for my Lord’s spectacles 00 01 04,Gray 1996 Pt.2 London Accounts ~p.132 (local PDF p.196); 1647 April sequence,high,Densify.
+bourchier_henry_bath,1647,frame_purchase,3s 6d,2 silver frames for my Lord’s spectacles 00 03 06,Gray 1996 Pt.2 London Accounts p.139 (local PDF p.203); before 1647 March 20 entry,high,Densify.
+bourchier_henry_bath,1647,frame_purchase,8d,2 pair of spectacle frames for my Lord 00 00 08,Gray 1996 Pt.2 London Accounts p.137 (local PDF p.201); 1647 Nov/Dec sequence,high,Densify.
+bourchier_henry_bath,1648,case_purchase,5s 6d,for a tortoise shell spectacle case for my Lord 00 05 06,Gray 1996 Pt.2 London Accounts p.140 (local PDF p.204); 1648 account,high,Densify.
+bourchier_henry_bath,1648,repair,8d,for changing my Lord’s silver spectacles & putting the glasses in 00 00 08,Gray 1996 Pt.2 London Accounts p.140 (local PDF p.204); 1648 account,high,LAST tip pin. Death 1654 ≠ tip.

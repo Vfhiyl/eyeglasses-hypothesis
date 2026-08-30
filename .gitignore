@@ -21,6 +21,12 @@ config/rete_api.local.yaml
 config/wikidata_premium.local.env
 # Digitarq JWT (browser cookie token=…)
 config/digitarq_token.local
+# FamilySearch Full-Text session (Bearer + Cookie from browser)
+config/familysearch_session.local
+config/mia_session.local
+config/ia_session.local
+config/scribd_session.local
+config/*.local
 
 
 # Scraped / local proxy lists & hunt logs (operational; not research outputs)
@@ -90,3 +96,27 @@ data/raw/mmm_data*
 data/raw/lettersampo/*.zip
 data/raw/lettersampo/unpacked/
 !data/raw/lettersampo/README.md
+
+# B1 cited / hunt raw corpora (scans via Git LFS). Last-match wins over data/raw/**.
+!data/raw/ammannati_epistolae/**
+!data/raw/datini_prato/**
+!data/raw/external_mine_2026-08-03_early/**
+!data/raw/filelfo_epistolae/**
+!data/raw/gray_devon_household_1996/**
+!data/raw/lotto_libro/**
+!data/raw/mazzei_datini_letters/**
+!data/raw/origo_merchant_prato/**
+!data/raw/pirckheimer/**
+
+# Live scrape sessions — never commit
+data/raw/**/ia_cookies.txt
+data/raw/**/*cookie*
+data/raw/**/*_token.txt
+data/raw/**/create_token_*.json
+data/raw/**/headers_*.txt
+data/raw/**/mia_login.html
+
+# Local junk (not research)
+/000x
+/*.whl
+/*.whl.base64.txt

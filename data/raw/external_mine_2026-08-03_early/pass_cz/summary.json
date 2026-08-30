@@ -1,0 +1,43 @@
+{
+  "ia_keil_augustus": {
+    "error": "<urlopen error [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1129)>"
+  },
+  "ia_gray_devon": {
+    "status": 200,
+    "n": 1,
+    "docs": [
+      {
+        "identifier": "devonhouseholdac0000unse",
+        "title": "Devon household accounts, 1627-59. Part 2, Henry, fifth Earl of Bath, and Rachel, Countess of Bath, of Tawstock and London, 1637-1655",
+        "year": 1996
+      }
+    ]
+  },
+  "ia_spinelli_yale": {
+    "status": 200,
+    "n": 2,
+    "docs": [
+      {
+        "identifier": "BeineckeMS850_47",
+        "title": "Beinecke MS 850, Liber Taxarum of Tomasso Spinelli.",
+        "year": 1436
+      },
+      {
+        "identifier": "PoetryShow8",
+        "title": "Poetry Show # 8",
+        "year": 2017
+      }
+    ]
+  },
+  "ia_wiesel_august": {
+    "error": "<urlopen error [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1129)>"
+  },
+  "hab_wiesel": {
+    "status": 200,
+    "len": 18019,
+    "spectacle_token": false
+  },
+  "yale_spinelli": {
+    "error": "HTTP Error 403: Forbidden"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "pass": "Y",
+  "date": "2026-08-03",
+  "decision": "no_ingest",
+  "direction": "Cleux-brace death densify (Morice Cusac gaiges) + MedCat 10540–90 rescan + Persée OA + Davidsohn III hunt",
+  "early_stock_unchanged": {
+    "onsetish_n": 34,
+    "labor_delta_n": 28,
+    "labor_delta_median": -0.5
+  },
+  "seams": {
+    "cusac_gaiges_morice": "Living pin densified — Trésorier des gaiges Messire Thomas Cusac Chevalier Angloys + archers; page marker cluster ~1454. Still NO death → HOLD",
+    "jeanne_evreux_1372": "EXCLUDE — compte 1372 posthumous (d.1371); bericle/vericle often loupe",
+    "medcat_10540_10590": "Only known ulleres cluster (10556/57/59/61/67/68) — no new living purchase",
+    "persee_pdf": "docAsPDF 403 this pass",
+    "davidsohn_forschungen_III": "IA has Teil 4 / wrong bub vols — Neri Mici nr.955 not in downloaded OCRs",
+    "candidates_added": [
+      "cusac_thomas",
+      "provost_alain"
+    ]
+  },
+  "new_cleux_bar_promote": null
+}

@@ -1,0 +1,1700 @@
+{
+  "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785940113236",
+  "version": "1x7o",
+  "session_context": {
+    "session_key": "user__alanobrienterry918272@gmail.com",
+    "created": "2026-08-05T14:28:38Z",
+    "client_characterization": {
+      "characterized_by": "asserted_or_authenticated",
+      "preferred_client_ip": null,
+      "client_ip": "23.229.125.197:sra",
+      "preferred_client_useragent": null,
+      "client_useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36:sua",
+      "preferred_client_id": null,
+      "client_id": "alanobrienterry918272@gmail.com:sco"
+    },
+    "username": "alanobrienterry918272@gmail.com",
+    "authentication_method": "cookie",
+    "is_system": false,
+    "is_guest": false,
+    "is_user": true,
+    "is_archive_user": false,
+    "is_qualified": false,
+    "is_archivist": false,
+    "has_universal_privs": false,
+    "has_collection_priv": false,
+    "has_allowed_host_priv": false,
+    "has_vpn_host_priv": false,
+    "has_scan_center_priv": false,
+    "has_any_priv": false,
+    "has_any_priv_permissive": false,
+    "pps": {
+      "is_page_target_owner": false,
+      "contributed_review_on_page": false,
+      "full_text_search_override": false,
+      "sees_sensitive_fields": false
+    },
+    "pps_relevant_user_preferences": {
+      "display__blur_moderated_content": "on"
+    }
+  },
+  "request": {
+    "client_request_parameters": {
+      "client": "page_production_service_endpoint",
+      "user_query": "spectacles AND (Naworth OR Ornsby OR Howard OR \"earl of\" OR \"household\") mediatype:texts",
+      "hits_per_page": 25,
+      "page": 1,
+      "aggregations": [],
+      "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785940113236",
+      "client_url": "https://archive.org/search?query=spectacles+AND+%28Naworth+OR+Ornsby+OR+Howard+OR+%22earl+of%22+OR+%22household%22%29+mediatype%3Atexts"
+    },
+    "backend_requests": {
+      "search": {
+        "root": "(self)",
+        "children": [
+          "collection_title_fetch__629073b4e1ec898834a8ce00c2bb5f86"
+        ],
+        "request_type": "search",
+        "finalized_parameters": {
+          "client": "page_production_service_endpoint",
+          "user_query": "(redacted)",
+          "hits_per_page": 25,
+          "page": 1,
+          "aggregations": [],
+          "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785940113236",
+          "client_url": "https://archive.org/search?query=spectacles+AND+%28Naworth+OR+Ornsby+OR+Howard+OR+%22earl+of%22+OR+%22household%22%29+mediatype%3Atexts",
+          "page_type": "search_results",
+          "fields": [
+            "_tile_"
+          ],
+          "sort": [
+            "_relevance_:desc",
+            "identifier"
+          ],
+          "aggregations_size": 10,
+          "service_backend": "metadata",
+          "scope": "standard",
+          "feature_flags": {
+            "complex_facets": true,
+            "collection_titles": true,
+            "redact_collections": true,
+            "redact_collections_by_privs": false,
+            "redact_empty_collections": true,
+            "redact_admin_collections": true,
+            "protect_flagging_collections": true
+          },
+          "service": "service__metadata__load_balanced"
+        }
+      },
+      "collection_title_fetch__629073b4e1ec898834a8ce00c2bb5f86": {
+        "root": "search",
+        "parent": "search",
+        "request_type": "collection_title_fetch",
+        "finalized_parameters": {
+          "page_type": "document_fetch",
+          "user_query": "(redacted)",
+          "aggregations": [],
+          "caching": null,
+          "fields": [
+            "identifier",
+            "title"
+          ],
+          "search_as_system": true,
+          "page": 1,
+          "hits_per_page": 250,
+          "sort": [
+            "_efficient_"
+          ],
+          "service_backend": "metadata",
+          "scope": "ill,printdisabled_and_music,scancenter",
+          "service": "service__metadata__load_balanced"
+        }
+      }
+    }
+  },
+  "caching": {
+    "search": {
+      "name": "PPS-1x7o-J:US-RT:s~hit-T:sr-Q:615a1a14-H:25-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+      "acceptable_names": [
+        "PPS-1x7o-J:US-RT:s~std-T:sr-Q:615a1a14-H:25-B:mds-RS:sta~CS::P:0+CS:some+BR:1"
+      ],
+      "configuration": {
+        "requested": [],
+        "finalized": {
+          "bypass": false,
+          "recompute": false,
+          "no_compute": false,
+          "ttl_s": 300,
+          "max_age_s": 0,
+          "miss_policy": "none"
+        }
+      },
+      "utilization": {
+        "went_to_cache": true,
+        "alternates_allowed": true,
+        "hit_alternate": false,
+        "hit_canonical": false,
+        "hit": false,
+        "miss": true,
+        "recomputed": true,
+        "stored": true,
+        "acceptable_names_tried": [
+          "PPS-1x7o-J:US-RT:s~std-T:sr-Q:615a1a14-H:25-B:mds-RS:sta~CS::P:0+CS:some+BR:1"
+        ],
+        "elapsed_s": 2.993730068206787
+      },
+      "statsd_bucket": "search.pps.cache.metadata.search_results"
+    },
+    "collection_title_fetch__629073b4e1ec898834a8ce00c2bb5f86": {
+      "name": "PPS-1x7o-J:US-RT:ctf-T:df-Q:f78cb2b8-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1",
+      "acceptable_names": [],
+      "configuration": {
+        "requested": [],
+        "finalized": {
+          "bypass": false,
+          "recompute": false,
+          "no_compute": false,
+          "ttl_s": 300,
+          "max_age_s": 0,
+          "miss_policy": "none"
+        }
+      },
+      "utilization": {
+        "went_to_cache": true,
+        "alternates_allowed": true,
+        "hit_alternate": false,
+        "hit_canonical": false,
+        "hit": false,
+        "miss": true,
+        "recomputed": true,
+        "stored": true,
+        "elapsed_s": 0.11646413803100586
+      },
+      "statsd_bucket": "search.pps.cache.metadata.search_results"
+    },
+    "summary": {
+      "fetched": [],
+      "computed": [
+        "PPS-1x7o-J:US-RT:s~hit-T:sr-Q:615a1a14-H:25-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:US-RT:ctf-T:df-Q:f78cb2b8-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "stored": [
+        "PPS-1x7o-J:US-RT:s~hit-T:sr-Q:615a1a14-H:25-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:US-RT:ctf-T:df-Q:f78cb2b8-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "missed": [
+        "PPS-1x7o-J:US-RT:s~hit-T:sr-Q:615a1a14-H:25-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:US-RT:ctf-T:df-Q:f78cb2b8-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "bypassed": []
+    }
+  },
+  "elapsed_secs": 3.128347158432007,
+  "response": {
+    "header": {
+      "succeeded": true,
+      "query_time": 806,
+      "forensics": {
+        "client_characterization": {
+          "client_ip": "23.229.125.197:sra",
+          "client_id": "alanobrienterry918272@gmail.com:sco",
+          "client_useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36:sua",
+          "preferred_client_ip": null,
+          "preferred_client_id": null,
+          "preferred_client_useragent": null,
+          "application_id": {
+            "session": [
+              "pageproduction"
+            ],
+            "request": []
+          },
+          "client_jurisdiction": "US",
+          "preferred_client_jurisdiction": null,
+          "actionable_jurisdiction": "US",
+          "characterized_by": "asserted_or_authenticated",
+          "ensured": true
+        },
+        "routing": {
+          "backend": "es-prod-metadatasearch-filtered",
+          "backend_server": "es-prod-client-o-01",
+          "routed_to_load_balanced": true,
+          "index_addressed": "prod-o-001"
+        },
+        "backend_request_elapsed_secs": {
+          "search": 2.993730068206787,
+          "collection_title_fetch__629073b4e1ec898834a8ce00c2bb5f86": 0.11646413803100586
+        }
+      },
+      "elapsed_secs_for_backend_requests": 3.110194206237793
+    },
+    "body": {
+      "hits": {
+        "total": 30,
+        "returned": 25,
+        "hits": [
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "patronsperforman0000west",
+              "title": "Patrons and performance : early Tudor household revels",
+              "description": "xv, 264 pages : 23 cm",
+              "subject": [
+                "Theater -- England -- History -- 16th century",
+                "Amateur theater -- England -- History -- 16th century",
+                "Authors and patrons -- England -- History -- 16th century",
+                "Nobility -- England -- History -- 16th century",
+                "Aristocracy (Social class) in literature",
+                "Literary patrons -- Great Britain",
+                "Amateur theater",
+                "Authors and patrons",
+                "Literary patrons",
+                "Nobility",
+                "Theater",
+                "Spectacles et divertissements -- Grande-Bretagne -- 16e siècle",
+                "Théâtre d'amateurs -- Grande-Bretagne -- 16e siècle",
+                "Théâtre -- Grande-Bretagne -- Histoire -- 16e siècle",
+                "Écrivains et mécènes -- Grande-Bretagne",
+                "Aristocratie -- Dans la littérature",
+                "England",
+                "Great Britain",
+                "Grande-Bretagne -- Moeurs et coutumes -- 16e siècle",
+                "England Private theatre, history"
+              ],
+              "creator": [
+                "Westfall, Suzanne R"
+              ],
+              "collection": [
+                "internetarchivebooks"
+              ],
+              "date": "1990-01-01T00:00:00Z",
+              "year": 1990,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 3,
+              "item_size": 601525521,
+              "files_count": 32,
+              "downloads": 78,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_printdisabled",
+              "addeddate": "2020-10-09T03:02:22Z",
+              "source": "removed",
+              "publicdate": "2020-10-06T05:22:43Z"
+            },
+            "highlight": null,
+            "_score": [
+              2197.8005
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "makingofameric00taub",
+              "title": "The making of the American theatre",
+              "description": "385 pages 24 cm",
+              "subject": [
+                "Theater -- United States -- History",
+                "Theater",
+                "Théâtre américain -- Histoire et critique",
+                "United States"
+              ],
+              "creator": [
+                "Taubman, Howard, 1907-1996"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "1965-01-01T00:00:00Z",
+              "year": 1965,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 1308751819,
+              "files_count": 30,
+              "downloads": 8,
+              "week": 1,
+              "month": 2,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_browse",
+              "addeddate": "2018-11-29T13:17:46Z",
+              "publicdate": "2018-11-29T13:17:49Z"
+            },
+            "highlight": null,
+            "_score": [
+              802.92444
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "makingofamerican0000unse_s3h1",
+              "title": "The making of the American theatre",
+              "description": "402 pages 24 cm",
+              "subject": [
+                "University of South Alabama",
+                "Theater -- United States -- History",
+                "Théâtre -- États-Unis -- Histoire",
+                "Theater",
+                "United States",
+                "USA"
+              ],
+              "creator": [
+                "Taubman, Howard, 1907-1996"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "1967-01-01T00:00:00Z",
+              "year": 1967,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 3,
+              "item_size": 1177274344,
+              "files_count": 30,
+              "downloads": 60,
+              "week": 1,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_browse",
+              "addeddate": "2020-12-18T12:02:40Z",
+              "publicdate": "2020-10-28T15:41:55Z"
+            },
+            "highlight": null,
+            "_score": [
+              786.99164
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "adieuvalduchener0000matt",
+              "title": "Adieu, Val-du-Chêne! : roman",
+              "description": "175 pages : 20 cm",
+              "subject": [
+                "Teenagers -- Juvenile fiction",
+                "Moving, Household -- Juvenile fiction",
+                "Adolescents -- Romans, nouvelles, etc. pour la jeunesse",
+                "Déménagement -- Romans, nouvelles, etc. pour la jeunesse",
+                "Moving, Household",
+                "Teenagers",
+                "Littérature pour la jeunesse canadienne de langue française",
+                "Villages -- Romans",
+                "Spectacles et divertissements -- Romans"
+              ],
+              "creator": [
+                "Matteau, Claire, 1952-"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "2005-01-01T00:00:00Z",
+              "year": 2005,
+              "language": [
+                "fre"
+              ],
+              "mediatype": "texts",
+              "item_size": 605221490,
+              "files_count": 33,
+              "downloads": 22,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_browse",
+              "addeddate": "2022-05-05T05:10:00Z",
+              "publicdate": "2022-05-04T01:39:12Z"
+            },
+            "highlight": null,
+            "_score": [
+              522.778
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "pubmed-PMC4030252",
+              "title": "How to help children with neurodevelopmental and visual problems: a scoping review.",
+              "description": "This article is from The British Journal of Ophthalmology , volume 98 . Abstract Children with visual impairment and a condition affecting their neurodevelopment (children with VND) may require extensive and specialised help but evidence on the most effective strategies for visual improvement is lacking. We defined a PICO format (Population, Intervention, Comparator, Outcome) for a scoping review and systematically searched 13 databases. Two reviewers assessed the abstracts for inclusion and a third arbitrated in cases of disagreement. We abstracted data from included studies. We found 4450 abstracts from which we identified 107 papers for inclusion. Of these, 42 related to interventions involving a change in visual input or function: 5 controlled trials, 8 before and after studies and 29 case reports. The strongest evidence supported the provision of spectacles to improve distance or near vision and the use of ultraviolet light as environmental modification for training. Less strong...",
+              "creator": [
+                "Williams, C",
+                "Northstone, K",
+                "Borwick, C",
+                "Gainsborough, M",
+                "Roe, J",
+                "Howard, S",
+                "Rogers, S",
+                "Amos, J",
+                "Woodhouse, J M"
+              ],
+              "collection": [
+                "pubmed",
+                "journals"
+              ],
+              "date": "2013-10-24T00:00:00Z",
+              "year": 2013,
+              "volume": "98",
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 14339338,
+              "files_count": 14,
+              "downloads": 111,
+              "week": 0,
+              "month": 3,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2014-10-21T22:00:15Z",
+              "source": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4030252",
+              "publicdate": "2014-10-21T22:00:15Z"
+            },
+            "highlight": null,
+            "_score": [
+              472.00894
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "NPCM18890829",
+              "title": "China Mail 1889-08-29",
+              "description": "IT is pleasant to find that the view of H.E. the Governor agrees with that of the community with regard to the inadequacy of the storm warnings given in this Colony. THE SANITARY EOARD. MESSRS DANBY AND LEIGH census THE SANITARY SURVEYOR. THE DRAINAGE OF THE PEAK. HISTORICAL. DESCRIPTION OF SEVERS. THE ARREST OF A LADY PASSEN GER ON THE 'CHINGTU.' DISCHARGE AND RE-ARREST OF THE ACCUSED. HONGKONG THROUGH OEYLON SPECTACLES. ADDITIONAL NEWS BY THE AMERICAN MAIL. NOT JACK THE RIPPER. A ROMAN SENSATION. NOT WANTED IN MEXICO. THE LIBERAL LEADER. SEXTON'S OPINION OF THE ENGLISH POSTAL DEPARTMENT. THE CONGO FREE STATE. THE BRITISH PREMIER. ARISTCCRATS DISPLEASED. A SUGAR SWINDLS. MARRIAGE OF THE PRINCESS LOUISE TO THE EARL OF FIFE. ROYAL MARRIAGES. THE PANAMA CANAL. NOT A HOME RULER. MORLEY'S AMENDMENT TO THE ROVAL GRANTS.",
+              "subject": [
+                "德臣西報",
+                "德臣西报",
+                "China Mail"
+              ],
+              "collection": [
+                "china-mail",
+                "newspapers"
+              ],
+              "date": "1889-08-29T00:00:00Z",
+              "year": 1889,
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "item_size": 34171819,
+              "files_count": 16,
+              "downloads": 37,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2023-11-27T11:29:40Z",
+              "publicdate": "2023-11-27T11:29:40Z"
+            },
+            "highlight": null,
+            "_score": [
+              380.24133
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "stagingrenaissan0000unse",
+              "title": "Staging the Renaissance : reinterpretations of Elizabethan and Jacobean drama",
+              "description": "x, 293 pages ; 24 cm",
+              "subject": [
+                "English drama -- 17th century -- History and criticism",
+                "English drama -- Early modern and Elizabethan, 1500-1600 -- History and criticism",
+                "Theater -- England -- History -- 17th century",
+                "Renaissance -- England",
+                "English drama",
+                "English drama -- Early modern and Elizabethan",
+                "Renaissance",
+                "Theater",
+                "Toneelvoorstellingen",
+                "1500-tallet",
+                "1600-tallet",
+                "Engelsk litteratur",
+                "Drama",
+                "Historisk framstilling",
+                "Teatr angielski -- historia -- 16-17 w",
+                "Théâtre (genre littéraire) anglais -- 17e siècle -- Histoire et critique",
+                "Théâtre (genre littéraire) anglais -- 1500-1600 (moderne et élisabéthain) -- Histoire et critique",
+                "Théâtre (genre littéraire) -- Angleterre (GB) -- 17e siècle",
+                "Théâtre anglais -- Histoire et critique -- 17e siècle",
+                "Renaissance -- Angleterre (GB)",
+                "Théâtre -- Histoire -- Angleterre (GB) -- 17e siècle",
+                "England",
+                "English drama History, 1558-1625"
+              ],
+              "collection": [
+                "marygrovecollege",
+                "internetarchivebooks"
+              ],
+              "date": "1991-01-01T00:00:00Z",
+              "year": 1991,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 22,
+              "item_size": 719719590,
+              "files_count": 33,
+              "downloads": 390,
+              "week": 1,
+              "month": 5,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_printdisabled",
+              "addeddate": "2020-02-20T12:00:31Z",
+              "source": "removed",
+              "publicdate": "2020-02-14T14:44:45Z"
+            },
+            "highlight": null,
+            "_score": [
+              221.99641
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "newhistoryofearl0000unse",
+              "title": "A new history of early English drama",
+              "description": "xiv, 565 pages ; 24 cm",
+              "subject": [
+                "Théâtre (genre littéraire) anglais -- 1100-1500 (moyen anglais)",
+                "Théâtre (genre littéraire) anglais -- Renaissance -- histoire et critique",
+                "Théâtre -- Angleterre (GB) -- 17e siècle",
+                "Théâtre anglais -- 16e siècle -- Histoire et critique",
+                "Théâtre anglais -- 1100-1500 (moyen-anglais) -- Histoire et critique",
+                "Anglais (langue) -- 16e siècle -- Histoire et critique",
+                "Renaissance -- Angleterre (GB)",
+                "England",
+                "English drama -- Early modern and Elizabethan, 1500-1600 -- History and criticism",
+                "English drama -- To 1500 -- History and criticism",
+                "Renaissance -- England",
+                "Civilization, Medieval, in literature",
+                "Anglais (Langue) -- 1500-1700 (Moderne) -- Histoire et critique",
+                "Théâtre anglais -- 1100-1500 (Moyen anglais) -- Histoire et critique",
+                "Civilisation médiévale dans la littérature",
+                "Théâtre anglais -- 17e siècle -- Histoire et critique",
+                "Renaissance -- Angleterre",
+                "English drama -- Early modern and Elizabethan",
+                "English drama",
+                "Toneelstukken",
+                "Renaissance",
+                "Drama",
+                "Engels",
+                "Mittelenglisch",
+                "Englisch",
+                "Aufsatzsammlung",
+                "Theater"
+              ],
+              "collection": [
+                "marygrovecollege",
+                "internetarchivebooks"
+              ],
+              "date": "1997-01-01T00:00:00Z",
+              "year": 1997,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 30,
+              "item_size": 1280119854,
+              "files_count": 31,
+              "downloads": 624,
+              "week": 1,
+              "month": 16,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_printdisabled",
+              "addeddate": "2020-02-17T10:02:58Z",
+              "source": "removed",
+              "publicdate": "2020-02-15T04:03:52Z"
+            },
+            "highlight": null,
+            "_score": [
+              206.17833
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "MJT_1898101401",
+              "title": "Moose Jaw times (1898-10-14)",
+              "description": "Page 1: - Mr. Forget Sworn In - Hawkes Gets One Year - The Day Appointed - Estevan Page 2: - Story of Fashoda - Dr. M'Eachran Arrested - The Markets - Winnipeg Markets - Lost in the Lava Beds of Vesuvius - Startling Statement - Seattle Mining Stories - Prehistoric Remains - Stabbed His Cham - Treacherous Indians - Mysterious Robbery - Creamery Vs. Dairy Butter in Manitoba - An Awful Tragedy - Canadian Notes - Revision Ensured - News in Brief - Check Needed a Stamp - What Is - Local News - Professional - An Effective Color Scheme - Red. Waits and Good Enough - What Was Raised - Beyond the Critical Rage - The Worm Ist - Missed All Page 3: - Stage Glints - Horses and Horsemen - The American Way - He Disagreed - Intelligent Instruction - At the Dentist's - They Must Sob - His Lawn - A Gentle Hint - Santiago De Cuba - The Listener - Singular Coincidence - Some Lawyers' Bills - His Inspiration - A Study in Dimensions - Pert Personals Page 4: - Canada's Wheat Area - In Assiniboia - Smallest...",
+              "subject": [
+                "Moose Jaw times"
+              ],
+              "collection": [
+                "peel_newspapers",
+                "peel",
+                "university_of_alberta_libraries"
+              ],
+              "date": "1898-10-14T00:00:00Z",
+              "year": 1898,
+              "genre": [
+                "Newspaper"
+              ],
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "item_size": 122343510,
+              "files_count": 19,
+              "downloads": 215,
+              "week": 1,
+              "month": 6,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2023-11-06T22:45:31Z",
+              "publicdate": "2023-11-06T22:45:31Z"
+            },
+            "highlight": null,
+            "_score": [
+              191.0336
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "IMT_1929112201",
+              "title": "Irma times (1929-11-22)",
+              "description": "Page 1: - Weekly Letter from the Capital - To Train for Bout November 28th - M. D. Battleriver Council Minutes - Local News - Burglars Enter Irma Store - News Items from Kinsella Page 2: - The Problem of Narcotics - Airing a Grievance - Protection for Miners - Local News - Fighting Forest Fires at Night - Power of Sound Waves - Preserving Old Windmills - Exporting Electrieity - Local News - Canada's Economic Conditions - To Honor Pioneer - Local News - Joint Branch Line Programme Announced - A Remarkable Tree - Meetng of Two Seas - Didn't Interest Him - Local News - Local News - Reason Prince Sold Hunters - Canadian Fliers Organize Page 3: - League of Nations Society Accomplishing Good Work, but Handicapped by Lack of Funds - Canada's New Northwest - Had Tried It - Local News - Imperial Farmers' Union - Western Horses Go East - No Introduction Needed - His Explanation - Egyptians Reverence Paim Tree - Local News - Local News - Miracle of Conducting - Evidence of Ancient Custom - Local...",
+              "subject": [
+                "Irma times"
+              ],
+              "collection": [
+                "peel_newspapers",
+                "peel",
+                "university_of_alberta_libraries"
+              ],
+              "date": "1929-11-22T00:00:00Z",
+              "year": 1929,
+              "genre": [
+                "Newspaper"
+              ],
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "item_size": 90161400,
+              "files_count": 19,
+              "downloads": 60,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2022-09-20T23:09:12Z",
+              "publicdate": "2022-09-20T23:09:12Z"
+            },
+            "highlight": null,
+            "_score": [
+              179.67792
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "telethonsspectac0000long",
+              "title": "Telethons : spectacle, disability, and the business of charity",
+              "description": "xix, 326 pages, 10 unnumbered pages of plates : 25 cm",
+              "subject": [
+                "Telethons -- United States",
+                "People with disabilities in mass media",
+                "Disabilities -- Social aspects -- United States",
+                "Sociology of disability -- United States",
+                "HISTORY -- United States -- 20th Century",
+                "HISTORY -- Social History",
+                "SOCIAL SCIENCE -- Media Studies",
+                "Sociology of disability",
+                "Telethons",
+                "Fernsehsendung",
+                "Spendenaufruf",
+                "Behinderter Mensch",
+                "United States",
+                "USA"
+              ],
+              "creator": [
+                "Longmore, Paul K., author"
+              ],
+              "collection": [
+                "internetarchivebooks"
+              ],
+              "date": "2016-01-01T00:00:00Z",
+              "year": 2016,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 4,
+              "item_size": 739018326,
+              "files_count": 30,
+              "downloads": 73,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_printdisabled",
+              "addeddate": "2022-01-01T15:20:58Z",
+              "source": "removed",
+              "publicdate": "2020-11-07T07:46:16Z"
+            },
+            "highlight": null,
+            "_score": [
+              177.47824
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "midwest_ms_theater_programs_os_box_158",
+              "title": "Theater programs, 1863-1974 [box 158]",
+              "description": "Part of the Newberry's collection of programs, playbills, and scrapbooks for theatrical productions, including music recitals, opera, some motion pictures, and other spectacles in addition to drama. Programs from Chicago, New York City, and England make up a large portion of the collection, but there are examples from theaters across the United States and Europe. This box contains programs from: Illinois – Danville – Opera House, 1876 Illinois – Galesburg – Opera House, 1879 Illinois – Naperville – Sleight’s Hall, 1863 Illinois – Quincy – Opera House, 1881 Indiana – Indianapolis – Academy of Music, 1875 Indiana – Indianapolis – Dickson’s Grand Opera House, 1881 Indiana – Indianapolis – Metropolitan Theatre, 1875-1878 Iowa – Des Moines – Foster’s Opera House, 1879 Kentucky – Louisville – Harris’ Theatre, 1890 Kentucky – Louisville – Macauleys Theatre, 1883-1890 Maryland – Baltimore – Ford’s Grand Opera House, 1878 Massachusetts – Boston – Boston Museum, 1882-1885 Massachusetts – Boston...",
+              "subject": [
+                "Theater programs",
+                "Printed ephemera",
+                "Theater",
+                "Illinois",
+                "Indiana",
+                "Iowa",
+                "Kentucky",
+                "Maryland",
+                "Massachusetts",
+                "Michigan",
+                "Missouri",
+                "New Hampshire",
+                "New Jersey",
+                "New York (State)"
+              ],
+              "collection": [
+                "newberry"
+              ],
+              "date": "1863-01-01T00:00:00Z",
+              "year": 1863,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 12,
+              "item_size": 2478244670,
+              "files_count": 17,
+              "downloads": 3895,
+              "week": 149,
+              "month": 603,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2019-08-29T21:32:24Z",
+              "publicdate": "2019-08-29T21:32:24Z"
+            },
+            "highlight": null,
+            "_score": [
+              171.63617
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "cia-readingroom-document-cia-rdp87m00539r002403940025-0",
+              "title": "CIA Reading Room cia-rdp87m00539r002403940025-0: LETTER TO AROL AUGSBURGER FROM (SANITIZED)",
+              "description": "Approved For Release 2009/09/25: CIA-RDP87M00539R002403940025-0 _ 7 3.7 L .\\ v CENTRAL INTELLIGENCE AGENCY WASHINGTON, D. C. 20305 PUBLIC AFFAIRS Phone: (703) 351-7676 8 March 1985 Arol Augsburger, O.D., M.S. Curator, Optometry The Ohio State University Celebrity Eyewear Collection 320 W. 10th Avenue Columbus, OH 43210 Dear Dr. Augsburger: Thank you for writing Director Casey for whom I am responding. Enclosed is a picture of Mr. Casey. We are pleased that you chose Mr. Casey to be included in your collection, however, we are unable to send you a pair of glasses. Your work is certainly very admirable and we wish you all the best. Sincerely, Public Affairs STAT L3 Approved For Release 2009/09/25: CIA-RDP87M00539R002403940025-0 Approved For Release 2009/09/25: CIA-RDP87M00539R002403940025-0 DDCI EXDIR D/PAO AO/DCI C/IPD/OIS ACTION. INITIAL 4 `MAR 192 Approved For Release 2009/09/25: CIA-RDP87M00539R002403940025-0 Approved For Release 2009/09/25: CIA-RDP87M00539R002403940025-0...",
+              "subject": [
+                "CIA Reading Room"
+              ],
+              "creator": [
+                "CIA Reading Room"
+              ],
+              "collection": [
+                "ciareadingroom",
+                "usgovernmentmirrors",
+                "government-documents"
+              ],
+              "date": "1985-03-08T00:00:00Z",
+              "year": 1985,
+              "language": [
+                "english"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 1,
+              "item_size": 2167897,
+              "files_count": 16,
+              "downloads": 26,
+              "week": 0,
+              "month": 2,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2025-04-25T02:04:10Z",
+              "publicdate": "2025-04-25T02:04:10Z"
+            },
+            "highlight": null,
+            "_score": [
+              135.43848
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "NPTG19210409",
+              "title": "Hong Kong Telegraph 1921-04-09",
+              "description": "GRAVE NATIONAL CRISIS \"PRACTICALLY CIVIL WAR.\" ARMY AND NAVY RESERVES CALLED UP TWO MILLION WORKERS INVOLVED IN STRIKE DECISION A FULL TRIPLE ALLIANCE STRIKE TWO MILLION WORKERS INVOLVED OVERTURE TURNED DOWN STRONG GOVERNMENT MEASURES PREMIER'S GRAVE STATEMENT PRACTICALLY CIVIL WAR TURKEY AND AFGHANISTAN GERMANY'S BAD FAITH THE TRADE SLUMP OFFICIAL RETURNS FOR MARCH AGRAVE CRISIS CHINESE AMENDMENT TO COVENANT OF LEAGUE OF NATIONS TRIPLE ALLIANCE TO STRIKE MOTOR SMASH A CHINESE FATALITY ANOTHER WRECK ON THE LAMMOCKS \"MONTEAGLE\" RESCUES THE CREW NEW J.P.'S OVER TWENTY APPOINTED FAMILY LIFE N ENGLAND AND IN FRANCE A DIFFERENCE IN HOUSEHOLD MANNERS SIR HARRY LAUDER ENTERTAINED AT THE HOUSE OF COMMONS ONE OF MY MEMORIES OF LIFE IN ANMCE, IS AN IMCIDENT COMMON ENOUGH ,BUT TO ME ILLUMINATING A SMAOO BOY BIDDING GOOD-BYE TO HIS FATHER ION THE NEW MOTOR LAMP KAYS THROWN WHERE WANTED YAP AND GUAM JAPAN'S GROUNDS OF CLAIM BALL-ROOM DANCING THE MODERN TREN LARGEST STEAMER IN THE WORLD THERE SEEMS...",
+              "subject": [
+                "士蔑西報",
+                "士蔑西报",
+                "Hong Kong Telegraph"
+              ],
+              "collection": [
+                "china-mail",
+                "newspapers"
+              ],
+              "date": "1921-04-09T00:00:00Z",
+              "year": 1921,
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "item_size": 57260412,
+              "files_count": 16,
+              "downloads": 49,
+              "week": 1,
+              "month": 3,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2023-12-12T05:28:51Z",
+              "publicdate": "2023-12-12T05:28:51Z"
+            },
+            "highlight": null,
+            "_score": [
+              128.47482
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "liberatingreform0000degr",
+              "title": "Liberating Reformed theology : a South African contribution to an ecumenical debate",
+              "description": "xviii, 291 pages ; 23 cm",
+              "subject": [
+                "Reformed Church -- Doctrines",
+                "Christian sociology -- Reformed Church",
+                "Reformed Church -- South Africa",
+                "Liberation theology",
+                "Sociologie religieuse -- Église réformée",
+                "Église réformée -- Doctrines",
+                "Église réformée -- Afrique du Sud",
+                "Théologie de la libération",
+                "Reformed Church",
+                "Bevrijdingstheologie",
+                "Reformierte Theologie",
+                "South Africa"
+              ],
+              "creator": [
+                "De Gruchy, John W"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "1991-01-01T00:00:00Z",
+              "year": 1991,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 3,
+              "item_size": 985238789,
+              "files_count": 36,
+              "downloads": 117,
+              "week": 0,
+              "month": 5,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": true,
+              "lending___status": "available_to_browse",
+              "addeddate": "2020-07-08T14:07:05Z",
+              "publicdate": "2020-07-02T08:51:29Z"
+            },
+            "highlight": null,
+            "_score": [
+              125.76503
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "RDM_1906081401",
+              "title": "News (1906-08-14)",
+              "description": "Page 1: - Erratum - C. P. R. Excursion - Rival to Banff Discovered - The Late Jos. M. Smith - Clearview - Sylvan Lake - Markets Page 2: - Culver's Joke - A Typical Hungarian Village - Coster Leaves 20,000 - Heritages - Protection - The Great Desert - A Different Metal - A New Cleary - Horns off the Bull - German Coach Stallion - Care of Lawns - Flaxseed for Horses - Cause of Warm and Cold Periods - Spying out the Land - End of the World by 1931 - Forgot the Name - Bridesmaids for Hire - Nature is Kind - The Real Bookworm - The Weight of the World - Earl of Carrington - Salt on Asparagus - The Barnyard Pigs - Root Feeding on the Rise - Poultry Management - Making Prize Cattle - Methods of Dehorning Calves - The Patient Search - Cause and Effect - Pert Paragraphs - Quaint Presents - The First Spectacles - Quicksilver - What Water-Did - The First Sapphire - Happy Thought - The Strong Point - Safety Lamps - The Confederate Flag - Furlong Page 3: - Famous Fight Recalled - Gladstone's...",
+              "subject": [
+                "News [Red Deer, Alta.]"
+              ],
+              "collection": [
+                "peel_newspapers",
+                "peel",
+                "university_of_alberta_libraries"
+              ],
+              "date": "1906-08-14T00:00:00Z",
+              "year": 1906,
+              "genre": [
+                "Newspaper"
+              ],
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "item_size": 110896075,
+              "files_count": 19,
+              "downloads": 52,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2023-09-07T18:52:31Z",
+              "publicdate": "2023-09-07T18:52:31Z"
+            },
+            "highlight": null,
+            "_score": [
+              124.95399
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "RDM_1906073101",
+              "title": "News (1906-07-31)",
+              "description": "Page 1: - Card of Thanks - Fruitful Country Still Unsettled - Department of Agriculture at the Fairs - More Horses - Macleod Unites with Calgary - Ready to Begin Work on New Farm - Markets Page 2: - Card of Thanks - Fruitful Country Still Unsettled - Department of Agriculture at the Fairs - More Horses - Macleod Unites with Calgary - Ready to Begin Work on New Farm - Markets Page 3: - Cupid in Town - The Carlbon as a Swimmer - The Terrible Cockatrice - Beau of Fort Sheridan - Local News - Rearing the Chicks - Prize Wining Wyandotte - Cooking Food for Fowls - Hens in Winter - Keep Poultry Houses Clean - Feather Pulling - Feeding Damaged Grain - A Costly Fad - Honesty - Selections - A Famous Old Castle - Stoessel's Ordeal - Last of the Millets - The Telemobiloscope - An Emergency Cow - Bails 'Em Out - Bad Arguments - New York Criticized - Splendid, but Bathless - Up in the Air - Against Dynamite - England's Oldest Postmaster - Base Deceiver - Modern Version - Piracy and Proposal - How...",
+              "subject": [
+                "News [Red Deer, Alta.]"
+              ],
+              "collection": [
+                "peel_newspapers",
+                "peel",
+                "university_of_alberta_libraries"
+              ],
+              "date": "1906-07-31T00:00:00Z",
+              "year": 1906,
+              "genre": [
+                "Newspaper"
+              ],
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 1,
+              "item_size": 142926662,
+              "files_count": 19,
+              "downloads": 53,
+              "week": 1,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2023-09-07T18:51:05Z",
+              "publicdate": "2023-09-07T18:51:05Z"
+            },
+            "highlight": null,
+            "_score": [
+              124.282265
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "cia-readingroom-document-cia-rdp73-00475r000402240001-5",
+              "title": "CIA Reading Room cia-rdp73-00475r000402240001-5: FESTIVALS, CIA & ALL THAT JAZZ",
+              "description": "STAT S JN).-Lws Declassified in Part - Sanitized Copy Approved for Release @ 50-Yr 2013/12/19: DIA-RDP73-00475R000402240001-5 FEB 8 1957 77, Eifeciive Couni?er-Eli rw.wa ? LZ C k LA By WALT FRIEDENBERG ? . Scripps-Howard Skiff Writer ? Whatever the . propriety of the Central ,Intelligence Agency's financial aid to student, :organizations, ?these two points stand out: ? ? ? ? ? In view:of the Soviet Union's gigantic post-', ?,-war?effort to influence the world's students and :??.' youth- in favor of communism, ? some American counter -effort has been sorely needed. O In the two cases I know - about?the communist-sponsored World Youth Festival in Vienna in 3959 and the one in Helsinki ' in 1962?the opposition that was partly financed and inspired by:: the CIA was very. effective., ?! The background is this: After World War- II, . in an effort ? to build' up ;;.? , communism's youthful ? ranks- ? in newly', ?:?? independent countries? and to flood neutral.: f. minded future leaders in...",
+              "subject": [
+                "CIA Reading Room"
+              ],
+              "creator": [
+                "CIA Reading Room"
+              ],
+              "collection": [
+                "ciareadingroom",
+                "usgovernmentmirrors",
+                "government-documents"
+              ],
+              "date": "1967-02-18T00:00:00Z",
+              "year": 1967,
+              "language": [
+                "english"
+              ],
+              "mediatype": "texts",
+              "item_size": 1518292,
+              "files_count": 16,
+              "downloads": 10,
+              "week": 0,
+              "month": 6,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2026-05-04T12:12:34Z",
+              "publicdate": "2026-05-04T12:12:34Z"
+            },
+            "highlight": null,
+            "_score": [
+              110.75174
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "oxfordwesternmus00taru",
+              "title": "The Oxford history of Western music",
+              "description": "xxxiii, 1212 pages : 27 cm",
+              "subject": [
+                "Music -- History and criticism",
+                "Music"
+              ],
+              "creator": [
+                "Taruskin, Richard, author"
+              ],
+              "collection": [
+                "internetarchivebooks"
+              ],
+              "date": "2013-01-01T00:00:00Z",
+              "year": 2013,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 129,
+              "item_size": 6559420447,
+              "files_count": 28,
+              "downloads": 9462,
+              "week": 68,
+              "month": 345,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "addeddate": "2021-10-19T20:06:08Z",
+              "source": "removed",
+              "publicdate": "2021-08-11T15:05:48Z"
+            },
+            "highlight": null,
+            "_score": [
+              100.77374
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "CHR_1909031801",
+              "title": "Claresholm review (1909-03-18)",
+              "description": "Page 1: - Why be in the Opposition Ranks - Notes of the Campaign - The Railway Policy Page 2: - The Opal Serpent - Ma Meant Well Anyway - Jurt at the Theater - Dignity of Ownership - A Whistler Dinne - Queen Trunk Problem - Napoleon's Bible - Strategy - Eternal Fitness - The Poor Sheep - Land of the Crossbow - Drank and Remembered - Where Willie Was - Sympathy for the Orphans - Modern Version - The Knocking - The Sunday School Page 3: - Same Old Exception - Local News - Local News - Local News - Local News - Privy Council's Work - The Chamber of Shipping - Indians Suffering - To Work Graham Island - Winnipeg's Growth - Lots of Land Yet - Try This for Your Cough - Briet Conversation - Just So - Local News - How He Managed It - Local News - Local News - The Greyhound - Etruscan Vases - Where the Cost Comes In - Labor Lost - The Rule - Does Not Need a Doctor - Local News - Better than Spanking - Local News - Aged Lions - Encounters with Cabbies - \"The Adonis of the House\" - Self-Made...",
+              "subject": [
+                "Claresholm review"
+              ],
+              "collection": [
+                "peel_newspapers",
+                "peel",
+                "university_of_alberta_libraries"
+              ],
+              "date": "1909-03-18T00:00:00Z",
+              "year": 1909,
+              "genre": [
+                "Newspaper"
+              ],
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "item_size": 98555815,
+              "files_count": 19,
+              "downloads": 59,
+              "week": 1,
+              "month": 3,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2022-09-10T05:17:16Z",
+              "publicdate": "2022-09-10T05:17:16Z"
+            },
+            "highlight": null,
+            "_score": [
+              92.25939
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "friendlyshakespe00norr",
+              "title": "The friendly Shakespeare : a thoroughly painless guide to the best of the bard",
+              "description": "\"A Winokur/Boates book.\"",
+              "subject": [
+                "Shakespeare studies & criticism",
+                "Study and teaching",
+                "Outlines, syllabi, etc",
+                "Literature - Classics / Criticism",
+                "English",
+                "Literary Criticism",
+                "Shakespeare",
+                "Reference / Personal & Practical Guides",
+                "1564-1616",
+                "Shakespeare, William,",
+                "Shakespeare, William, 1564-1616",
+                "Study skills"
+              ],
+              "creator": [
+                "Epstein, Norrie"
+              ],
+              "collection": [
+                "internetarchivebooks"
+              ],
+              "date": "1994-01-01T00:00:00Z",
+              "year": 1994,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 40,
+              "item_size": 864130984,
+              "files_count": 32,
+              "downloads": 581,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_printdisabled",
+              "addeddate": "2012-04-12T16:27:02Z",
+              "source": "removed",
+              "publicdate": "2012-04-12T16:27:05Z"
+            },
+            "highlight": null,
+            "_score": [
+              91.03749
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "cia-readingroom-document-01482404",
+              "title": "CIA Reading Room 01482404: CHRONOLOGICAL RECORD OF WHITE HOUSE SUPPORT (W/ATTACHMENT)",
+              "description": "Approved for Release: 2017/01/18 C01482404 i 0'1 � r ae1..tdva Taegistzy I 1 June 1973 MEMORANDUM FOR: Executive Secretary, CIA Management Committee SUBJECT : Chronological Record of White House Support 1. Attached are two chronologies: one covering, in summary, support given the White House at the request of David R. Young in connection with preparing and furnishing personality profiles on Daniel Ellsberg; the other summarizing general operational support provided E. Howard Runt, and various requests from him. 2. It is noted that the two activities, while conducted separately, actually ran simultaneouslpin point of time. The Ellsberg affair started in mid-July 1971, concluding with a meeting and delivery of the final paper on 12 November 1971. Hunt's requests and the support given him ran from 22 July 1971 until mid-October 1971 when Hunt--apparently through a completely independent and personal channel -received his last help from the Agency. It is noted that Hunt was a participant...",
+              "subject": [
+                "CIA Reading Room"
+              ],
+              "creator": [
+                "CIA Reading Room"
+              ],
+              "collection": [
+                "ciareadingroom",
+                "usgovernmentmirrors",
+                "government-documents"
+              ],
+              "date": "1973-06-01T00:00:00Z",
+              "year": 1973,
+              "language": [
+                "english"
+              ],
+              "mediatype": "texts",
+              "item_size": 6775169,
+              "files_count": 15,
+              "downloads": 14,
+              "week": 0,
+              "month": 5,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2026-03-14T04:24:11Z",
+              "publicdate": "2026-03-14T04:24:11Z"
+            },
+            "highlight": null,
+            "_score": [
+              86.76776
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "cia-readingroom-document-cia-rdp00m01914r001000030017-4",
+              "title": "CIA Reading Room cia-rdp00m01914r001000030017-4: REISSUE(T399.1) TO VIKTOR[I].",
+              "description": "? Declassified in Part - Sanitized Copy Approved for Release 2012/08/31 : CIA-RDPOOM01914R001000030017-4 r.'\"7\"'IN\"7rg OP ? ? From: NEW YORK To: MOSCOW No: 1142 To VIKTOR[i]. Reissue (T399.1) YEN 25X1 25X1 10 August 1944 Your no. 3502[a]. 1. In accordance with a decision of the HOUSEIDOM][ii] ChIZhfiii] and KARLOS[iv] before departure from TYREITIR][v] were instructed in the use of a reciphered[TABLIChNYJ] code which they were to [46 groups unrecoverable] [D% alphabet] and in addition ChIZh was to write in English and KARLOS in Spanish. We cannot establish whether the pads[TABLITsY] for the codes were sent home since they were entered under the heading \"ChIZh's Business\" and \"KARLOS's Business\".[4 groups un-recovered] there are no inventories. From TYRE no enciphered lettefs were sent to[b] Ch. and K. Both codes ended up in ShTOKivi] hands. 2. For correspondence with ARTUR[vii] a book in the Spanish language \"Una Excursion a Los Indios Ranqueles\" was used as a code. 3. For...",
+              "subject": [
+                "CIA Reading Room"
+              ],
+              "creator": [
+                "CIA Reading Room"
+              ],
+              "collection": [
+                "ciareadingroom",
+                "usgovernmentmirrors",
+                "government-documents"
+              ],
+              "date": "1944-08-10T00:00:00Z",
+              "year": 1944,
+              "language": [
+                "english"
+              ],
+              "mediatype": "texts",
+              "item_size": 7201713,
+              "files_count": 16,
+              "downloads": 4,
+              "week": 1,
+              "month": 4,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2026-05-22T16:42:26Z",
+              "publicdate": "2026-05-22T16:42:26Z"
+            },
+            "highlight": null,
+            "_score": [
+              39.441986
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "cia-readingroom-document-cia-rdp82-00457r004900180008-5",
+              "title": "CIA Reading Room cia-rdp82-00457r004900180008-5: REORGANIZATION OF THE CZECH METALWORKING AND MECHANICAL ENGINEERING INDUSTRY",
+              "description": "; r r r)nxl -HUM Declassified in Part - Sanitized Copy Approved for Release 2012/02/21 : CIA-RDP82-00457R004900180008-5 C IF's RAL INTELLIGENCE AGENCY REPORT 9 54 W F WATI 5 COUNTR:? Czechoslovakia P CD NO. SUBJECT Reorganization of the Czech a,:etaln7orking and Lechanical Engineering Industry PLACE ACQUIRED \"')A OF INFO. 'II9lfs OOCUG3EIay CO tAI.d3 IwFO@EIAY&6ra 8{7FEC&IF7G T 3 rtAYIO 43L DL~FErJS@ Ur\"TI:D BTATC8 WIYIIIRI 104 r]EAIUIMO OP Ya9C ESPIOtaA63 ACT 60 S. C., Of AND 38. AS AYiCR036,. IYS L'HAnSUISSIOH O@ SILL' RP:V3tlATIOn 07 KTO COIaTC?JYE ICa ARV MAISPE3 TO AM DwADA2012nzED PE D5013 10 9aej~ !1MYlED BY Law, A3P2ODIICTaX'R O YI`+I8 V03 is P520HIBITD. SUPPLEMENT TO REPORT NO. THaS IS UNEVALUATED INFORMATION DATE DISTR 31 MA so NO. OF PAGES 5 NO. OF ENCLS. (LISTED BELOW) 1? By decree of the r'J4inistry of Industry, reference No. 670, dated 30 April 1949, the Central Directorate of the L1otalworking and ;kechanic l Engineer- ing Industry has been relieved of its control of...",
+              "subject": [
+                "CIA Reading Room"
+              ],
+              "creator": [
+                "CIA Reading Room"
+              ],
+              "collection": [
+                "ciareadingroom",
+                "usgovernmentmirrors",
+                "government-documents"
+              ],
+              "date": "1950-05-31T00:00:00Z",
+              "year": 1950,
+              "language": [
+                "english"
+              ],
+              "mediatype": "texts",
+              "item_size": 7065645,
+              "files_count": 16,
+              "downloads": 7,
+              "week": 3,
+              "month": 7,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2026-05-23T11:03:53Z",
+              "publicdate": "2026-05-23T11:03:53Z"
+            },
+            "highlight": null,
+            "_score": [
+              38.836742
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "cia-readingroom-document-cia-rdp80b01495r000500030007-0",
+              "title": "CIA Reading Room cia-rdp80b01495r000500030007-0: INQUIRY INTO THE ALLEGED INVOLVEMENT OF THE CENTRAL INTELLIGENCE AGENCY IN THE WATERGATE AND ELLSBERG MATTERS - REPORT OF THE SPECIAL SUBCOMMITTEE ON INTELLIGENCE OF THE COMMITTEE ON ARMED SERVICES HOUSE OF REPRESENTATIVES NINETY-THIRD",
+              "description": "f - Approved For Release 2006/10/19: CIA-RDP80B01495R000500030007-0 [H.A. SZ' No. 93-25] INQUIRY INTO THE ALLEGED INVOLVEMENT OF THE CENTRAL INTELLIGENCE AGENCY IN THE WATERGATE AND ELLSBERG MATTERS OF THE SPECIAL SUBCOMMITTEE ON INTELLIGENCE OF THE COMMITTEE ON ARMED SERVICES HOUSE OF REPRESENTATIVES NINETY-THIRD CONGRESS FIRST SESSION OCTOBER 23, 1973 U.S. GOVERNMENT PRINTING OFFICE WASHINGTON : 1973 Approved For Release 2006/10/19: CIA-RDP80BO1495R000500030007-0 Approved For Release 2006/10/19: CIA-RDP80B01495R000500030007-0, HOUSE COMMITTEE ON ARMED SERVICES NINETY-THUD CONGRESS, FIRST SESSION F. EDWARD HFIBERT, MELVIN PRICE, Illinois O. C. FISHER, Texas CHARLES E. BENNETT, Florida SAMUEL S. STRATTON, New Yorl: OTIS G. PIKE, New York RICHARD H. ICHORD, Missouri LUCIEN N. NEDZI, Michigan WILLIAM J. RANDALL, Missouri CHARLES H. WILSON, California ROBERT L. LEGGETT. California FLOYD V. HICKS, Washington RICHARD C. WHITE, Texas BILL NICHOLS, Alabama JACK BRINKLEY, Georgia ROBERT H....",
+              "subject": [
+                "CIA Reading Room"
+              ],
+              "creator": [
+                "CIA Reading Room"
+              ],
+              "collection": [
+                "ciareadingroom",
+                "usgovernmentmirrors",
+                "government-documents"
+              ],
+              "date": "1973-10-23T00:00:00Z",
+              "year": 1973,
+              "language": [
+                "english"
+              ],
+              "mediatype": "texts",
+              "item_size": 27505201,
+              "files_count": 16,
+              "downloads": 0,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2026-07-21T15:02:33Z",
+              "publicdate": "2026-07-21T15:02:33Z"
+            },
+            "highlight": null,
+            "_score": [
+              29.734383
+            ]
+          }
+        ]
+      },
+      "collection_titles": {
+        "journals": "Journals",
+        "government-documents": "Government Documents (Worldwide)",
+        "newberry": "Newberry Library",
+        "peel": "Peel's Prairie Provinces",
+        "peel_newspapers": "Peel's Prairie Provinces - Newspapers",
+        "marygrovecollege": "Marygrove College Library",
+        "university_of_alberta_libraries": "University of Alberta Library",
+        "pubmed": "PubMed Central",
+        "newspapers": "Newspapers",
+        "china-mail": "The China Mail",
+        "usgovernmentmirrors": "US Government Mirrored Documents (Citizen Collection)",
+        "ciareadingroom": "The CIA Reading Room Mirror",
+        "internetarchivebooks": "Internet Archive Books"
+      }
+    },
+    "hit_schema": {
+      "item": {
+        "identifier": {
+          "multivalue": false,
+          "mapping": "string"
+        },
+        "noindex": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "optional": true
+        },
+        "title": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "description": {
+          "multivalue": false,
+          "mapping": "string",
+          "dressing": {
+            "truncate": 1000
+          },
+          "optional": true
+        },
+        "subject": {
+          "multivalue": true,
+          "mapping": "string",
+          "dressing": {
+            "truncate": 1000
+          },
+          "optional": true
+        },
+        "creator": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "collection": {
+          "multivalue": true,
+          "mapping": "string",
+          "comment": "may be a superset of metadata collection field"
+        },
+        "date": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "year": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed from date",
+          "optional": true
+        },
+        "genre": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "volume": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "type": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "language": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "mediatype": {
+          "multivalue": false,
+          "mapping": "string"
+        },
+        "licenseurl": {
+          "multivalue": false,
+          "mapping": "string__url",
+          "optional": true
+        },
+        "num_favorites": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true,
+          "comment": "computed during document construction"
+        },
+        "num_reviews": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true,
+          "comment": "computed during document construction"
+        },
+        "item_size": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "bytes; computed during document construction"
+        },
+        "files_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction"
+        },
+        "item_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction",
+          "optional": true
+        },
+        "displayed_item_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction, may be inferred from item_count",
+          "optional": true
+        },
+        "collection_files_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction, for collection items only",
+          "optional": true
+        },
+        "collection_size": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "bytes; computed during document construction, for collection items only",
+          "optional": true
+        },
+        "downloads": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "total views over item lifetime, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "week": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "views over a seven-day period, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "month": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "views over a month, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "indexflag": {
+          "multivalue": true,
+          "mapping": "string",
+          "comment": "item characterization including noindex status"
+        },
+        "lending___available_to_borrow": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___available_to_browse": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___available_to_waitlist": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___status": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "avg_rating": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true
+        },
+        "addeddate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "issue": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "format varies",
+          "optional": true
+        },
+        "source": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "format varies",
+          "optional": true
+        },
+        "reviewdate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "publicdate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "date_favorited": {
+          "multivalue": false,
+          "mapping": "date",
+          "comment": "not metadata; only present in favorites lists, sourced from Lists API",
+          "optional": true
+        },
+        "reviews_data": {
+          "multivalue": true,
+          "dressing": {
+            "truncate": false
+          },
+          "mapping": "string",
+          "comment": "untruncated JSON encoded data used for Account reviews",
+          "optional": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 37,
+    "params": {
+      "query": "(title:Comptes AND ((text:Lorraine OR text:Lorraine OR text__reviews:Lorraine) OR (text:Barrois OR text:Barrois OR text__reviews:Barrois) OR (text:Nancy OR text:Nancy OR text__reviews:Nancy)) AND ((text:duc OR text:duc OR text__reviews:duc) OR (text:ducs OR text:ducs OR text__reviews:ducs))) mediatype:texts",
+      "qin": "(title:(Comptes) AND (Lorraine OR Barrois OR Nancy) AND (duc OR ducs)) mediatype:texts",
+      "fields": "identifier,title,year",
+      "wt": "json",
+      "rows": 20,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 2,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "journaldegabriel00lema",
+        "title": "Journal de Gabriel Le Marlorat, auditeur en la Chambre du conseil et des comptes de Barrois, 1605 \u00e0 1632",
+        "year": 1892
+      },
+      {
+        "identifier": "IA41547422_0046",
+        "title": "Recherches sur la Chambre des Comptes du Duch\u00e9 de Bar",
+        "year": 1908
+      }
+    ]
+  }
+}

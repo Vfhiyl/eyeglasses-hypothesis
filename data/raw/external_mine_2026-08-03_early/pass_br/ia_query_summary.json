@@ -1,0 +1,164 @@
+[
+  {
+    "i": 1,
+    "query": "identifier:devonhouseholdac0000unse",
+    "exit": 0,
+    "total": 1,
+    "elapsed_s": 5.8,
+    "dump": "data/raw/external_mine_2026-08-03_early/pass_br/ia_search/q01_7a3b0b51d9",
+    "ok": true
+  },
+  {
+    "i": 2,
+    "query": "identifier:businesshousehol0000unse",
+    "exit": 0,
+    "total": 1,
+    "elapsed_s": 6.3,
+    "dump": "data/raw/external_mine_2026-08-03_early/pass_br/ia_search/q02_e94ccb588f",
+    "ok": true
+  },
+  {
+    "i": 3,
+    "query": "title:(\"Devon Household Accounts\")",
+    "exit": 0,
+    "total": 1,
+    "elapsed_s": 10.1,
+    "dump": "data/raw/external_mine_2026-08-03_early/pass_br/ia_search/q03_b843e946a9",
+    "ok": true
+  },
+  {
+    "i": 4,
+    "query": "Gray AND \"household accounts\" AND Devon",
+    "exit": 0,
+    "total": 1,
+    "elapsed_s": 5.6,
+    "dump": "data/raw/external_mine_2026-08-03_early/pass_br/ia_search/q04_bb1743083d",
+    "ok": true
+  },
+  {
+    "i": 5,
+    "query": "Spicksley AND Jeffreys",
+    "exit": 0,
+    "total": 1,
+    "elapsed_s": 6.4,
+    "dump": "data/raw/external_mine_2026-08-03_early/pass_br/ia_search/q05_90ebfb55d6",
+    "ok": true
+  },
+  {
+    "i": 6,
+    "query": "(\"household accounts\" OR \"household book\" OR \"house-book\" OR \"account book\") AND (spectacles OR eyeglasses OR \"spectacle glasses\")",
+    "exit": 0,
+    "total": 1,
+    "elapsed_s": 4.9,
+    "dump": "data/raw/external_mine_2026-08-03_early/pass_br/ia_search/q06_a1634622ef",
+    "ok": true
+  },
+  {
+    "i": 7,
+    "query": "(\"pair of spectacles\" OR \"paire of spectacles\" OR \"pairs of spectacles\") AND (accounts OR household OR disbursed OR paid)",
+    "exit": 0,
+    "total": 7,
+    "elapsed_s": 5.5,
+    "dump": "data/raw/external_mine_2026-08-03_early/pass_br/ia_search/q07_7be896ed0e",
+    "ok": true
+  },
+  {
+    "i": 8,
+    "query": "(\"for my Lord\" OR \"for my lord\" OR \"for my Lady\" OR \"for myself\") AND spectacles AND (account OR paid OR bought)",
+    "exit": 0,
+    "total": 2,
+    "elapsed_s": 5.2,
+    "dump": "data/raw/external_mine_2026-08-03_early/pass_br/ia_search/q08_5606eab3d3",
+    "ok": true
+  },
+  {
+    "i": 9,
+    "query": "spectacles AND (Naworth OR Ornsby OR Howard OR \"earl of\" OR \"household\") mediatype:texts",
+    "exit": 0,
+    "total": 30,
+    "elapsed_s": 8.5,
+    "dump": "data/raw/external_mine_2026-08-03_early/pass_br/ia_search/q09_d6a8ad5c1d",
+    "ok": true
+  },
+  {
+    "i": 10,
+    "query": "\"silver spectacles\" OR \"tortoiseshell\" spectacles OR \"spectacle case\"",
+    "exit": 0,
+    "total": 4257,
+    "elapsed_s": 4.5,
+    "dump": "data/raw/external_mine_2026-08-03_early/pass_br/ia_search/q10_8070f8e1ee",
+    "ok": true
+  },
+  {
+    "i": 11,
+    "query": "(\"paire de lunettes\" OR \"paires de lunettes\" OR \"une paire de lunettes\") AND (comptes OR maison OR d\u00e9pense OR depense)",
+    "exit": 0,
+    "total": 2,
+    "elapsed_s": 4.8,
+    "dump": "data/raw/external_mine_2026-08-03_early/pass_br/ia_search/q11_6842501151",
+    "ok": true
+  },
+  {
+    "i": 12,
+    "query": "(occhiali OR \"un paio di occhiali\") AND (spese OR conti OR inventari) mediatype:texts",
+    "exit": 0,
+    "total": 0,
+    "elapsed_s": 5.0,
+    "dump": "data/raw/external_mine_2026-08-03_early/pass_br/ia_search/q12_9e69e3a3be",
+    "ok": true
+  },
+  {
+    "i": 13,
+    "query": "\"household accounts\" AND (Camden OR Surtees OR \"Record Society\" OR Roxburghe) AND (spectacles OR eyeglasses OR glasses)",
+    "exit": 0,
+    "total": 0,
+    "elapsed_s": 4.7,
+    "dump": "data/raw/external_mine_2026-08-03_early/pass_br/ia_search/q13_cc0f182b35",
+    "ok": true
+  },
+  {
+    "i": 14,
+    "query": "title:(household accounts) AND year:[1800 TO 2020] mediatype:texts",
+    "exit": 0,
+    "total": 20,
+    "elapsed_s": 4.2,
+    "dump": "data/raw/external_mine_2026-08-03_early/pass_br/ia_search/q14_6ab50c3a2f",
+    "ok": true
+  },
+  {
+    "i": 15,
+    "query": "Herle AND (spectacles OR eyeglasses OR Devon OR Gray)",
+    "exit": 0,
+    "total": 1,
+    "elapsed_s": 5.1,
+    "dump": "data/raw/external_mine_2026-08-03_early/pass_br/ia_search/q15_2cda491d39",
+    "ok": true
+  },
+  {
+    "i": 16,
+    "query": "\"lost my spectacles\" OR \"lost spectacles\" OR \"tip for spectacles\"",
+    "exit": 0,
+    "total": 5,
+    "elapsed_s": 7.2,
+    "dump": "data/raw/external_mine_2026-08-03_early/pass_br/ia_search/q16_f25d859188",
+    "ok": true
+  },
+  {
+    "i": 17,
+    "query": "(\"bought a pair of spectacles\" OR \"paid for spectacles\" OR \"for spectacles\") AND year:[1500 TO 1800]",
+    "exit": 0,
+    "total": 2,
+    "elapsed_s": 5.6,
+    "dump": "data/raw/external_mine_2026-08-03_early/pass_br/ia_search/q17_f16adca886",
+    "ok": true
+  },
+  {
+    "i": 18,
+    "query": "mediatype:texts (spectacles) AND (inventory OR \"probate\" OR \"will of\") AND year:[1500 TO 1700]",
+    "exit": 0,
+    "total": 0,
+    "elapsed_s": 4.2,
+    "dump": "data/raw/external_mine_2026-08-03_early/pass_br/ia_search/q18_4bd459addf",
+    "ok": true
+  }
+]

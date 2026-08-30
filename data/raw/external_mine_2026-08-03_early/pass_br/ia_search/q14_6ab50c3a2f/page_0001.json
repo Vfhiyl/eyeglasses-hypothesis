@@ -1,0 +1,1395 @@
+{
+  "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785940144870",
+  "version": "1x7o",
+  "session_context": {
+    "session_key": "user__alanobrienterry918272@gmail.com",
+    "created": "2026-08-05T14:29:08Z",
+    "client_characterization": {
+      "characterized_by": "asserted_or_authenticated",
+      "preferred_client_ip": null,
+      "client_ip": "23.229.125.197:sra",
+      "preferred_client_useragent": null,
+      "client_useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36:sua",
+      "preferred_client_id": null,
+      "client_id": "alanobrienterry918272@gmail.com:sco"
+    },
+    "username": "alanobrienterry918272@gmail.com",
+    "authentication_method": "cookie",
+    "is_system": false,
+    "is_guest": false,
+    "is_user": true,
+    "is_archive_user": false,
+    "is_qualified": false,
+    "is_archivist": false,
+    "has_universal_privs": false,
+    "has_collection_priv": false,
+    "has_allowed_host_priv": false,
+    "has_vpn_host_priv": false,
+    "has_scan_center_priv": false,
+    "has_any_priv": false,
+    "has_any_priv_permissive": false,
+    "pps": {
+      "is_page_target_owner": false,
+      "contributed_review_on_page": false,
+      "full_text_search_override": false,
+      "sees_sensitive_fields": false
+    },
+    "pps_relevant_user_preferences": {
+      "display__blur_moderated_content": "on"
+    }
+  },
+  "request": {
+    "client_request_parameters": {
+      "client": "page_production_service_endpoint",
+      "user_query": "title:(household accounts) AND year:[1800 TO 2020] mediatype:texts",
+      "hits_per_page": 25,
+      "page": 1,
+      "aggregations": [],
+      "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785940144870",
+      "client_url": "https://archive.org/search?query=title%3A%28household+accounts%29+AND+year%3A%5B1800+TO+2020%5D+mediatype%3Atexts"
+    },
+    "backend_requests": {
+      "search": {
+        "root": "(self)",
+        "children": [
+          "collection_title_fetch__81f95780ad32a8700d863da9d21b004a"
+        ],
+        "request_type": "search",
+        "finalized_parameters": {
+          "client": "page_production_service_endpoint",
+          "user_query": "(redacted)",
+          "hits_per_page": 25,
+          "page": 1,
+          "aggregations": [],
+          "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785940144870",
+          "client_url": "https://archive.org/search?query=title%3A%28household+accounts%29+AND+year%3A%5B1800+TO+2020%5D+mediatype%3Atexts",
+          "page_type": "search_results",
+          "fields": [
+            "_tile_"
+          ],
+          "sort": [
+            "_relevance_:desc",
+            "identifier"
+          ],
+          "aggregations_size": 10,
+          "service_backend": "metadata",
+          "scope": "standard",
+          "feature_flags": {
+            "complex_facets": true,
+            "collection_titles": true,
+            "redact_collections": true,
+            "redact_collections_by_privs": false,
+            "redact_empty_collections": true,
+            "redact_admin_collections": true,
+            "protect_flagging_collections": true
+          },
+          "service": "service__metadata__load_balanced"
+        }
+      },
+      "collection_title_fetch__81f95780ad32a8700d863da9d21b004a": {
+        "root": "search",
+        "parent": "search",
+        "request_type": "collection_title_fetch",
+        "finalized_parameters": {
+          "page_type": "document_fetch",
+          "user_query": "(redacted)",
+          "aggregations": [],
+          "caching": null,
+          "fields": [
+            "identifier",
+            "title"
+          ],
+          "search_as_system": true,
+          "page": 1,
+          "hits_per_page": 250,
+          "sort": [
+            "_efficient_"
+          ],
+          "service_backend": "metadata",
+          "scope": "ill,printdisabled_and_music,scancenter",
+          "service": "service__metadata__load_balanced"
+        }
+      }
+    }
+  },
+  "caching": {
+    "search": {
+      "name": "PPS-1x7o-J:US-RT:s~hit-T:sr-Q:029c1a31-H:25-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+      "acceptable_names": [
+        "PPS-1x7o-J:US-RT:s~std-T:sr-Q:029c1a31-H:25-B:mds-RS:sta~CS::P:0+CS:some+BR:1"
+      ],
+      "configuration": {
+        "requested": [],
+        "finalized": {
+          "bypass": false,
+          "recompute": false,
+          "no_compute": false,
+          "ttl_s": 300,
+          "max_age_s": 0,
+          "miss_policy": "none"
+        }
+      },
+      "utilization": {
+        "went_to_cache": true,
+        "alternates_allowed": true,
+        "hit_alternate": false,
+        "hit_canonical": false,
+        "hit": false,
+        "miss": true,
+        "recomputed": true,
+        "stored": true,
+        "acceptable_names_tried": [
+          "PPS-1x7o-J:US-RT:s~std-T:sr-Q:029c1a31-H:25-B:mds-RS:sta~CS::P:0+CS:some+BR:1"
+        ],
+        "elapsed_s": 0.23746490478515625
+      },
+      "statsd_bucket": "search.pps.cache.metadata.search_results"
+    },
+    "collection_title_fetch__81f95780ad32a8700d863da9d21b004a": {
+      "name": "PPS-1x7o-J:US-RT:ctf-T:df-Q:52c2cf8f-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1",
+      "acceptable_names": [],
+      "configuration": {
+        "requested": [],
+        "finalized": {
+          "bypass": false,
+          "recompute": false,
+          "no_compute": false,
+          "ttl_s": 300,
+          "max_age_s": 0,
+          "miss_policy": "none"
+        }
+      },
+      "utilization": {
+        "went_to_cache": true,
+        "alternates_allowed": true,
+        "hit_alternate": false,
+        "hit_canonical": false,
+        "hit": false,
+        "miss": true,
+        "recomputed": true,
+        "stored": true,
+        "elapsed_s": 0.1784060001373291
+      },
+      "statsd_bucket": "search.pps.cache.metadata.search_results"
+    },
+    "summary": {
+      "fetched": [],
+      "computed": [
+        "PPS-1x7o-J:US-RT:s~hit-T:sr-Q:029c1a31-H:25-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:US-RT:ctf-T:df-Q:52c2cf8f-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "stored": [
+        "PPS-1x7o-J:US-RT:s~hit-T:sr-Q:029c1a31-H:25-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:US-RT:ctf-T:df-Q:52c2cf8f-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "missed": [
+        "PPS-1x7o-J:US-RT:s~hit-T:sr-Q:029c1a31-H:25-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:US-RT:ctf-T:df-Q:52c2cf8f-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "bypassed": []
+    }
+  },
+  "elapsed_secs": 0.44085097312927246,
+  "response": {
+    "header": {
+      "succeeded": true,
+      "query_time": 57,
+      "forensics": {
+        "client_characterization": {
+          "client_ip": "23.229.125.197:sra",
+          "client_id": "alanobrienterry918272@gmail.com:sco",
+          "client_useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36:sua",
+          "preferred_client_ip": null,
+          "preferred_client_id": null,
+          "preferred_client_useragent": null,
+          "application_id": {
+            "session": [
+              "pageproduction"
+            ],
+            "request": []
+          },
+          "client_jurisdiction": "US",
+          "preferred_client_jurisdiction": null,
+          "actionable_jurisdiction": "US",
+          "characterized_by": "asserted_or_authenticated",
+          "ensured": true
+        },
+        "routing": {
+          "backend": "es-prod-metadatasearch-filtered",
+          "backend_server": "es-prod-client-o-01",
+          "routed_to_load_balanced": true,
+          "index_addressed": "prod-o-001"
+        },
+        "backend_request_elapsed_secs": {
+          "search": 0.23746490478515625,
+          "collection_title_fetch__81f95780ad32a8700d863da9d21b004a": 0.1784060001373291
+        }
+      },
+      "elapsed_secs_for_backend_requests": 0.41587090492248535
+    },
+    "body": {
+      "hits": {
+        "total": 20,
+        "returned": 20,
+        "hits": [
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "CAT87202624",
+              "title": "Farm household accounts",
+              "description": "11 p. : 23 cm",
+              "subject": [
+                "Agriculture Accounting",
+                "Agriculture -- Accounting"
+              ],
+              "creator": [
+                "Funk, W. C. (Warren Clemmer), 1885-"
+              ],
+              "collection": [
+                "usda-farmersbulletin",
+                "usdanationalagriculturallibrary",
+                "fedlink"
+              ],
+              "date": "1918-01-01T00:00:00Z",
+              "year": 1918,
+              "volume": "no.964",
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 2,
+              "item_size": 4794960,
+              "files_count": 20,
+              "downloads": 247,
+              "week": 0,
+              "month": 7,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2014-08-19T20:03:21Z",
+              "publicdate": "2014-08-19T20:03:21Z"
+            },
+            "highlight": null,
+            "_score": [
+              55.111954
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "CAT31292934",
+              "title": "Farm household accounts",
+              "description": "6 pages : 23 cm",
+              "subject": [
+                "Agriculture Accounting",
+                "Agriculture -- Accounting"
+              ],
+              "creator": [
+                "United States. Department of Agriculture"
+              ],
+              "collection": [
+                "usda-farmersbulletin",
+                "usdanationalagriculturallibrary",
+                "fedlink"
+              ],
+              "date": "1925-01-01T00:00:00Z",
+              "year": 1925,
+              "volume": "no.964",
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 2,
+              "item_size": 4383811,
+              "files_count": 20,
+              "downloads": 192,
+              "week": 1,
+              "month": 11,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2014-08-21T16:01:07Z",
+              "publicdate": "2014-08-21T16:01:07Z"
+            },
+            "highlight": null,
+            "_score": [
+              55.031666
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "howtokeephouseh00haskgoog",
+              "title": "How to Keep Household Accounts: A Manual of Family Finance",
+              "description": "Book digitized by Google from the library of the University of Michigan and uploaded to the Internet Archive by user tpb.",
+              "creator": [
+                "Charles Waldo Haskins"
+              ],
+              "collection": [],
+              "date": "1903-01-01T00:00:00Z",
+              "year": 1903,
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 2,
+              "item_size": 11527955,
+              "files_count": 13,
+              "downloads": 399,
+              "week": 2,
+              "month": 3,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2008-10-21T11:49:04Z",
+              "source": "http://books.google.com/books?id=BMA2AAAAMAAJ&oe=UTF-8",
+              "publicdate": "2008-10-21T11:49:04Z"
+            },
+            "highlight": null,
+            "_score": [
+              38.224686
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "howtokeephouseho00hask_0",
+              "title": "How to keep household accounts : a manual of family finance",
+              "description": "116 p. : 18 cm",
+              "subject": [
+                "Home economics"
+              ],
+              "creator": [
+                "Haskins, Charles Waldo, 1852-1903"
+              ],
+              "collection": [
+                "cookbooks",
+                "bostonpubliclibrary"
+              ],
+              "date": "1903-01-01T00:00:00Z",
+              "year": 1903,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 12,
+              "item_size": 135981009,
+              "files_count": 25,
+              "downloads": 1063,
+              "week": 5,
+              "month": 17,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "addeddate": "2013-07-29T19:25:01Z",
+              "publicdate": "2013-07-29T18:20:09Z"
+            },
+            "highlight": null,
+            "_score": [
+              38.209797
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "howtokeephouseho00hask",
+              "title": "How to keep household accounts [microform]; a manual of family finance",
+              "description": "Microfilm",
+              "subject": [
+                "Home economics"
+              ],
+              "creator": [
+                "Haskins, Charles Waldo, 1852-1903"
+              ],
+              "collection": [
+                "transcluding",
+                "ColumbiaUniversityLibraries",
+                "microfilm"
+              ],
+              "date": "1903-01-01T00:00:00Z",
+              "year": 1903,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 106464549,
+              "files_count": 23,
+              "downloads": 356,
+              "week": 0,
+              "month": 7,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "addeddate": "2013-04-22T19:17:22Z",
+              "publicdate": "2013-04-22T19:17:25Z"
+            },
+            "highlight": null,
+            "_score": [
+              36.70565
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "householdaccount00bens",
+              "title": "Household accounts : working-class family economie in the interwar United States",
+              "description": "xii, 233 p",
+              "subject": [
+                "Households -- Economic aspects -- United States -- History -- 20th century",
+                "Families -- Economic aspects -- United States -- History -- 20th century",
+                "Working class -- United States -- History -- 20th century",
+                "Consumption (Economics) -- United States -- History -- 20th century",
+                "United States -- Economic conditions -- 1918-1945"
+              ],
+              "creator": [
+                "Benson, Susan Porter, 1943-2005"
+              ],
+              "collection": [
+                "cornelluniversitypress"
+              ],
+              "date": "2007-01-01T00:00:00Z",
+              "year": 2007,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 3,
+              "item_size": 597835155,
+              "files_count": 31,
+              "downloads": 71,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_printdisabled",
+              "addeddate": "2019-02-11T17:19:14Z",
+              "source": "removed",
+              "publicdate": "2019-02-11T16:20:13Z"
+            },
+            "highlight": null,
+            "_score": [
+              36.658215
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "businesshousehol0000unse",
+              "title": "The business and household accounts of Joyce Jeffreys, spinster of Hereford, 1638-1648",
+              "description": "xxviii, 413 p., [10] p. of plates : 24 cm",
+              "subject": [
+                "Jeffreys, Joyce, -1650",
+                "Single women -- England -- Hereford -- History -- 17th century -- Sources",
+                "Single women -- England -- Hereford -- Economic conditions -- 17th century -- Sources",
+                "Home economics -- England -- Hereford -- History -- 17th century -- Sources"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "2012-01-01T00:00:00Z",
+              "year": 2012,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 5,
+              "item_size": 1135979067,
+              "files_count": 30,
+              "downloads": 83,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": true,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_borrow",
+              "addeddate": "2021-10-27T00:06:38Z",
+              "publicdate": "2021-10-25T08:44:29Z"
+            },
+            "highlight": null,
+            "_score": [
+              34.135185
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "durhamhousehold00raingoog",
+              "title": "The Durham household book: or, The accounts of the bursar of the monastery ...",
+              "description": "Book digitized by Google from the library of University of California and uploaded to the Internet Archive by user tpb.",
+              "creator": [
+                "Durham Cathedral , James Raine"
+              ],
+              "collection": [],
+              "date": "1844-01-01T00:00:00Z",
+              "year": 1844,
+              "language": [
+                "Latin"
+              ],
+              "mediatype": "texts",
+              "item_size": 538289040,
+              "files_count": 13,
+              "downloads": 1276,
+              "week": 0,
+              "month": 6,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2009-06-27T19:47:41Z",
+              "source": "http://books.google.com/books?id=GgBbAAAAIAAJ&oe=UTF-8",
+              "publicdate": "2009-06-27T19:47:41Z"
+            },
+            "highlight": null,
+            "_score": [
+              34.131718
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "durhamhousehold00unkngoog",
+              "title": "The Durham household book: or, The accounts of the bursar of the monastery ...",
+              "description": "Book digitized by Google from the library of New York Public Library and uploaded to the Internet Archive by user tpb.",
+              "creator": [
+                "Durham Cathedral, James Raine"
+              ],
+              "collection": [],
+              "date": "1844-01-01T00:00:00Z",
+              "year": 1844,
+              "language": [
+                "Latin"
+              ],
+              "mediatype": "texts",
+              "item_size": 505063035,
+              "files_count": 13,
+              "downloads": 514,
+              "week": 0,
+              "month": 3,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2009-06-27T19:06:21Z",
+              "source": "http://books.google.com/books?id=pjwQAAAAYAAJ&oe=UTF-8",
+              "publicdate": "2009-06-27T19:06:21Z"
+            },
+            "highlight": null,
+            "_score": [
+              34.131718
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "mccl_10.1016_j.jclepro.2019.04.160",
+              "title": "A detailed household carbon footprint analysis using expenditure accounts – Case of Flanders (Belgium)",
+              "description": "Within national carbon footprints, households are responsible for bulk of the overall direct and indirect carbon emissions. Also, the wide spread in household characteristics (e.g. size, income, age)leads not only to different carbon footprints, but also includes an underlying difference in the contributions of the consumption domains. Therefore, it is essential that policies focussing on climate change mitigation should be customized to take into account these differences. In this study we quantify which socio-economic household characteristics are associated with a higher than average per capita carbon footprint and which consumption domains trigger this higher than average carbon footprint. The results are quantified for the regional case study of Flanders (Belgium). To obtain a better estimate of direct and indirect emissions we draw upon the EXIOBASE2 multi-region input-output dataset combined with the regional input-output data and detailed regional household budget survey data....",
+              "subject": [
+                "Carbon footprint",
+                "Household budget survey",
+                "Household consumption",
+                "Input-output analysis"
+              ],
+              "creator": [
+                "Maarten Christis",
+                "Koen Breemersch",
+                "An Vercalsteren",
+                "Evelien Dils"
+              ],
+              "collection": [
+                "mendeley_climate_change_library",
+                "folkscanomy_academic",
+                "folkscanomy"
+              ],
+              "date": "2019-01-01T00:00:00Z",
+              "year": 2019,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 10691494,
+              "files_count": 12,
+              "downloads": 524,
+              "week": 1,
+              "month": 19,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2019-07-06T10:17:42Z",
+              "publicdate": "2019-07-06T10:17:42Z"
+            },
+            "highlight": null,
+            "_score": [
+              33.976307
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "householdaccount00spaurich",
+              "title": "Household accounts; a simple manner of recording and computing your family living expenses",
+              "description": "[24] p. incl. tables. 23 cm",
+              "subject": [
+                "Home economics -- Accounting"
+              ],
+              "creator": [
+                "Spaulding, H. C"
+              ],
+              "collection": [
+                "cdl"
+              ],
+              "date": "1896-01-01T00:00:00Z",
+              "year": 1896,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 3,
+              "item_size": 136893463,
+              "files_count": 26,
+              "downloads": 926,
+              "week": 5,
+              "month": 19,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2006-10-31T23:28:32Z",
+              "publicdate": "2006-10-31T16:28:42Z"
+            },
+            "highlight": null,
+            "_score": [
+              33.736286
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "householdaccount17roka",
+              "title": "Household accounts and budgets : excerpts from 1930 annual reports of state and county extension agents",
+              "description": "11 leaves ; 27 cm",
+              "creator": [
+                "Rokahr, Mary"
+              ],
+              "collection": [
+                "usda-extensionservicecircular",
+                "usdanationalagriculturallibrary",
+                "fedlink"
+              ],
+              "date": "1931-01-01T00:00:00Z",
+              "year": 1931,
+              "volume": "no.171",
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 74891393,
+              "files_count": 24,
+              "downloads": 233,
+              "week": 1,
+              "month": 9,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2013-07-16T11:55:52Z",
+              "publicdate": "2013-07-16T10:39:15Z"
+            },
+            "highlight": null,
+            "_score": [
+              31.972136
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "householdaccount0000unse",
+              "title": "Household accounts and disbursement books of Robert Dudley, Earl of Leicester, 1558-1561, 1584-1586",
+              "description": "xiv, 520 p. ; 23 cm",
+              "subject": [
+                "Leicester, Robert Dudley, Earl of, 1532?-1588 -- Manuscripts",
+                "Finance, Personal -- England -- History -- 16th century -- Sources",
+                "Households -- England -- History -- 16th century -- Sources",
+                "Nobility -- England -- History -- 16th century -- Sources",
+                "Great Britain -- History -- Elizabeth, 1558-1603 -- Sources"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "1995-01-01T00:00:00Z",
+              "year": 1995,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 4,
+              "item_size": 1117220488,
+              "files_count": 33,
+              "downloads": 55,
+              "week": 0,
+              "month": 3,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_browse",
+              "addeddate": "2023-02-16T00:17:25Z",
+              "publicdate": "2023-01-31T18:18:13Z"
+            },
+            "highlight": null,
+            "_score": [
+              31.48051
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "householdaccount0006unse",
+              "title": "Household accounts and disbursement books of Robert Dudley, Earl of Leicester, 1558-1561, 1584-1586",
+              "description": "xiv, 520 p. ; 23 cm",
+              "subject": [
+                "Leicester, Robert Dudley, Earl of, 1532?-1588 -- Manuscripts",
+                "Finance, Personal -- England -- History -- 16th century -- Sources",
+                "Households -- England -- History -- 16th century -- Sources",
+                "Nobility -- England -- History -- 16th century -- Sources",
+                "Great Britain -- History -- Elizabeth, 1558-1603 -- Sources"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "1995-01-01T00:00:00Z",
+              "year": 1995,
+              "volume": "6",
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 9,
+              "item_size": 1507453488,
+              "files_count": 34,
+              "downloads": 214,
+              "week": 1,
+              "month": 5,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_browse",
+              "addeddate": "2023-02-15T20:27:47Z",
+              "publicdate": "2023-02-04T02:57:11Z"
+            },
+            "highlight": null,
+            "_score": [
+              31.48051
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "housewifesexpens00gallrich",
+              "title": "Housewife's expense book, \"Housewife's red book\", rev. and improved. A simple system of keeping household accounts ..",
+              "description": "[72] p. incl. tables. 21 cm",
+              "subject": [
+                "Home economics -- Accounting"
+              ],
+              "creator": [
+                "Gallagher, M. C., Mrs"
+              ],
+              "collection": [
+                "cdl"
+              ],
+              "date": "1912-01-01T00:00:00Z",
+              "year": 1912,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 8,
+              "item_size": 275118540,
+              "files_count": 28,
+              "downloads": 1503,
+              "week": 12,
+              "month": 21,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2006-10-31T23:27:11Z",
+              "publicdate": "2006-10-31T16:27:35Z"
+            },
+            "highlight": null,
+            "_score": [
+              30.605179
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "durhamhousehold00cathgoog",
+              "title": "The Durham household book, or, The accounts of the bursar of the monastery of Durham: or, The ...",
+              "description": "Book digitized by Google from the library of the University of Michigan and uploaded to the Internet Archive by user tpb.",
+              "creator": [
+                "Durham Cathedral"
+              ],
+              "collection": [],
+              "date": "1844-01-01T00:00:00Z",
+              "year": 1844,
+              "language": [
+                "Latin"
+              ],
+              "mediatype": "texts",
+              "item_size": 78960459,
+              "files_count": 13,
+              "downloads": 1289,
+              "week": 1,
+              "month": 7,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2008-10-18T03:35:28Z",
+              "source": "http://books.google.com/books?id=H_MQAAAAMAAJ&oe=UTF-8",
+              "publicdate": "2008-10-18T03:35:28Z"
+            },
+            "highlight": null,
+            "_score": [
+              29.91589
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "householdexpense00chap",
+              "title": "Household expenses accounts journal, presumably recorded by Helen Collings Chapman and Ella B. Wright, 1935-1946 [ANS Chapman brothers collection]",
+              "description": "17.5 cubic feet (19 boxes)",
+              "subject": [
+                "Chapman, Henry, 1859-1935",
+                "Chapman, S.H. (Samuel Hudson), 1869-1949",
+                "S.H. & H. Chapman",
+                "Coin dealers -- United States",
+                "Coins -- Collectors and collecting"
+              ],
+              "creator": [
+                "Chapman, Helen Collings",
+                "Ella B. Wright"
+              ],
+              "collection": [
+                "americannumismaticsociety",
+                "newmannumismatic",
+                "wustl",
+                "globallibraries"
+              ],
+              "date": "1869-01-01T00:00:00Z",
+              "year": 1869,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 3,
+              "item_size": 88525892,
+              "files_count": 25,
+              "downloads": 227,
+              "week": 1,
+              "month": 13,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "addeddate": "2020-11-13T00:06:33Z",
+              "publicdate": "2020-11-11T19:11:34Z"
+            },
+            "highlight": null,
+            "_score": [
+              27.500233
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "durhamhousehold01raingoog",
+              "title": "The Durham household book; or, The accounts of the bursar of the monastery of Durham. From Pentecost 1530 to Pentecost 1534",
+              "description": "Book digitized by Google and uploaded to the Internet Archive by user tpb.",
+              "subject": [
+                "English language -- Early modern, 1500-1700 -- Glossaries, vocabularies, etc",
+                "English language -- Early modern"
+              ],
+              "creator": [
+                "Durham Cathedral"
+              ],
+              "collection": [],
+              "date": "1844-01-01T00:00:00Z",
+              "year": 1844,
+              "language": [
+                "lat",
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 143616910,
+              "files_count": 20,
+              "downloads": 1286,
+              "week": 6,
+              "month": 22,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2009-03-01T08:48:49Z",
+              "source": "http://books.google.com/books?id=VVQJAAAAIAAJ&oe=UTF-8",
+              "publicdate": "2009-03-01T08:48:49Z"
+            },
+            "highlight": null,
+            "_score": [
+              26.619228
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "devonhouseholdac0000unse",
+              "title": "Devon household accounts, 1627-59. Part 2, Henry, fifth Earl of Bath, and Rachel, Countess of Bath, of Tawstock and London, 1637-1655",
+              "description": "liv,341p.,(8)p. of plates : 23 cm",
+              "subject": [
+                "Bourchier family -- History -- Sources",
+                "Nobility -- England -- Devon -- History -- 17th century -- Sources",
+                "Households -- England -- Devon -- History -- 17th century -- Sources",
+                "Finance, Personal -- England -- Devon -- Sources",
+                "England -- Social life and customs -- 17th century",
+                "England -- Economic conditions -- 17thcentury",
+                "Devon (England) -- Social life and customs",
+                "Devon (England) -- Economic conditions"
+              ],
+              "collection": [
+                "internetarchivebooks"
+              ],
+              "date": "1996-01-01T00:00:00Z",
+              "year": 1996,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 1,
+              "item_size": 1296553524,
+              "files_count": 30,
+              "downloads": 93,
+              "week": 0,
+              "month": 2,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_printdisabled",
+              "addeddate": "2022-03-30T19:38:57Z",
+              "source": "removed",
+              "publicdate": "2022-03-28T15:21:41Z"
+            },
+            "highlight": null,
+            "_score": [
+              25.474075
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "63360780R.nlm.nih.gov",
+              "title": "The American cyclopaedia of domestic medicine and household surgery : a reliable guide for every family, containing, in the plainest language, full descriptions of the various parts of the human body, accounts of the numerous diseases to which man is subject, their causes, symptoms, treatment, and prevention, with plain directions how to act in case of accidents and emergencies of every kind : also, full descriptions of the different articles used in medicine and explanations of medical and scientific terms",
+              "description": "Condition reviewed",
+              "subject": [
+                "Medicine"
+              ],
+              "creator": [
+                "Ford, Samuel Payne, 1840-"
+              ],
+              "collection": [
+                "usnationallibraryofmedicine",
+                "medicineintheamericas",
+                "medicalheritagelibrary",
+                "medicallibrary"
+              ],
+              "date": "1879-01-01T00:00:00Z",
+              "year": 1879,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 2,
+              "item_size": 2453951539,
+              "files_count": 16,
+              "downloads": 696,
+              "week": 2,
+              "month": 23,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2014-01-18T00:15:11Z",
+              "publicdate": "2014-01-18T00:15:11Z"
+            },
+            "highlight": null,
+            "_score": [
+              12.628669
+            ]
+          }
+        ]
+      },
+      "collection_titles": {
+        "cornelluniversitypress": "Cornell University Press",
+        "usda-farmersbulletin": "Farmers' bulletin (United States. Dept. of Agriculture)",
+        "cookbooks": "Boston Public Library Cookbook Collection",
+        "usda-extensionservicecircular": "Extension service circular",
+        "usnationallibraryofmedicine": "US National Library of Medicine",
+        "americannumismaticsociety": "The American Numismatic Society",
+        "fedlink": "FEDLINK - United States Federal Collection",
+        "microfilm": "Microfilm",
+        "transcluding": "a Collection of Transcluding Items",
+        "folkscanomy_academic": "Folkscanomy: General Academic Papers",
+        "bostonpubliclibrary": "Boston Public Library",
+        "mendeley_climate_change_library": "Mendeley Climate Change Library",
+        "globallibraries": "Global Libraries",
+        "cdl": "California Digital Library",
+        "medicineintheamericas": "NLM Medicine in the Americas",
+        "wustl": "Washington University Libraries",
+        "usdanationalagriculturallibrary": "National Agricultural Library",
+        "ColumbiaUniversityLibraries": "Columbia University Libraries",
+        "newmannumismatic": "Newman Numismatic Portal",
+        "medicalheritagelibrary": "Medical Heritage Library",
+        "internetarchivebooks": "Internet Archive Books",
+        "medicallibrary": "Medical Library",
+        "folkscanomy": "Folkscanomy: A Library of Books"
+      }
+    },
+    "hit_schema": {
+      "item": {
+        "identifier": {
+          "multivalue": false,
+          "mapping": "string"
+        },
+        "noindex": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "optional": true
+        },
+        "title": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "description": {
+          "multivalue": false,
+          "mapping": "string",
+          "dressing": {
+            "truncate": 1000
+          },
+          "optional": true
+        },
+        "subject": {
+          "multivalue": true,
+          "mapping": "string",
+          "dressing": {
+            "truncate": 1000
+          },
+          "optional": true
+        },
+        "creator": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "collection": {
+          "multivalue": true,
+          "mapping": "string",
+          "comment": "may be a superset of metadata collection field"
+        },
+        "date": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "year": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed from date",
+          "optional": true
+        },
+        "genre": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "volume": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "type": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "language": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "mediatype": {
+          "multivalue": false,
+          "mapping": "string"
+        },
+        "licenseurl": {
+          "multivalue": false,
+          "mapping": "string__url",
+          "optional": true
+        },
+        "num_favorites": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true,
+          "comment": "computed during document construction"
+        },
+        "num_reviews": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true,
+          "comment": "computed during document construction"
+        },
+        "item_size": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "bytes; computed during document construction"
+        },
+        "files_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction"
+        },
+        "item_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction",
+          "optional": true
+        },
+        "displayed_item_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction, may be inferred from item_count",
+          "optional": true
+        },
+        "collection_files_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction, for collection items only",
+          "optional": true
+        },
+        "collection_size": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "bytes; computed during document construction, for collection items only",
+          "optional": true
+        },
+        "downloads": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "total views over item lifetime, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "week": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "views over a seven-day period, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "month": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "views over a month, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "indexflag": {
+          "multivalue": true,
+          "mapping": "string",
+          "comment": "item characterization including noindex status"
+        },
+        "lending___available_to_borrow": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___available_to_browse": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___available_to_waitlist": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___status": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "avg_rating": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true
+        },
+        "addeddate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "issue": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "format varies",
+          "optional": true
+        },
+        "source": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "format varies",
+          "optional": true
+        },
+        "reviewdate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "publicdate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "date_favorited": {
+          "multivalue": false,
+          "mapping": "date",
+          "comment": "not metadata; only present in favorites lists, sourced from Lists API",
+          "optional": true
+        },
+        "reviews_data": {
+          "multivalue": true,
+          "dressing": {
+            "truncate": false
+          },
+          "mapping": "string",
+          "comment": "untruncated JSON encoded data used for Account reviews",
+          "optional": true
+        }
+      }
+    }
+  }
+}

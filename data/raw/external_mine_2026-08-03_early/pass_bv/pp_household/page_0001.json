@@ -1,0 +1,3035 @@
+{
+  "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785953599722",
+  "version": "1x7o",
+  "session_context": {
+    "session_key": "user__alanobrienterry918272@gmail.com",
+    "created": "2026-08-05T18:13:25Z",
+    "client_characterization": {
+      "characterized_by": "asserted_or_authenticated",
+      "preferred_client_ip": null,
+      "client_ip": "216.26.246.177:sra",
+      "preferred_client_useragent": null,
+      "client_useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36:sua",
+      "preferred_client_id": null,
+      "client_id": "alanobrienterry918272@gmail.com:sco"
+    },
+    "username": "alanobrienterry918272@gmail.com",
+    "authentication_method": "cookie",
+    "is_system": false,
+    "is_guest": false,
+    "is_user": true,
+    "is_archive_user": false,
+    "is_qualified": false,
+    "is_archivist": false,
+    "has_universal_privs": false,
+    "has_collection_priv": false,
+    "has_allowed_host_priv": false,
+    "has_vpn_host_priv": false,
+    "has_scan_center_priv": false,
+    "has_any_priv": false,
+    "has_any_priv_permissive": false,
+    "pps": {
+      "is_page_target_owner": false,
+      "contributed_review_on_page": false,
+      "full_text_search_override": false,
+      "sees_sensitive_fields": false
+    },
+    "pps_relevant_user_preferences": {
+      "display__blur_moderated_content": "on"
+    }
+  },
+  "request": {
+    "client_request_parameters": {
+      "client": "page_production_service_endpoint",
+      "user_query": "(spectacles OR spectacle OR \"pair of spectacles\" OR spectakles) AND (household OR accounts OR disbursements OR \"account book\" OR privy OR wardrobe)",
+      "hits_per_page": 50,
+      "page": 1,
+      "aggregations": [],
+      "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785953599722",
+      "client_url": "https://archive.org/search?query=%28spectacles+OR+spectacle+OR+%22pair+of+spectacles%22+OR+spectakles%29+AND+%28household+OR+accounts+OR+disbursements+OR+%22account+book%22+OR+privy+OR+wardrobe%29"
+    },
+    "backend_requests": {
+      "search": {
+        "root": "(self)",
+        "children": [
+          "collection_title_fetch__3a67f780b21f0932ad9e0aefd6da68b5"
+        ],
+        "request_type": "search",
+        "finalized_parameters": {
+          "client": "page_production_service_endpoint",
+          "user_query": "(redacted)",
+          "hits_per_page": 50,
+          "page": 1,
+          "aggregations": [],
+          "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785953599722",
+          "client_url": "https://archive.org/search?query=%28spectacles+OR+spectacle+OR+%22pair+of+spectacles%22+OR+spectakles%29+AND+%28household+OR+accounts+OR+disbursements+OR+%22account+book%22+OR+privy+OR+wardrobe%29",
+          "page_type": "search_results",
+          "fields": [
+            "_tile_"
+          ],
+          "sort": [
+            "_relevance_:desc",
+            "identifier"
+          ],
+          "aggregations_size": 10,
+          "service_backend": "metadata",
+          "scope": "standard",
+          "feature_flags": {
+            "complex_facets": true,
+            "collection_titles": true,
+            "redact_collections": true,
+            "redact_collections_by_privs": false,
+            "redact_empty_collections": true,
+            "redact_admin_collections": true,
+            "protect_flagging_collections": true
+          },
+          "service": "service__metadata__load_balanced"
+        }
+      },
+      "collection_title_fetch__3a67f780b21f0932ad9e0aefd6da68b5": {
+        "root": "search",
+        "parent": "search",
+        "request_type": "collection_title_fetch",
+        "finalized_parameters": {
+          "page_type": "document_fetch",
+          "user_query": "(redacted)",
+          "aggregations": [],
+          "caching": null,
+          "fields": [
+            "identifier",
+            "title"
+          ],
+          "search_as_system": true,
+          "page": 1,
+          "hits_per_page": 250,
+          "sort": [
+            "_efficient_"
+          ],
+          "service_backend": "metadata",
+          "scope": "ill,printdisabled_and_music,scancenter",
+          "service": "service__metadata__load_balanced"
+        }
+      }
+    }
+  },
+  "caching": {
+    "search": {
+      "name": "PPS-1x7o-J:US-RT:s~hit-T:sr-Q:6fd97249-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+      "acceptable_names": [
+        "PPS-1x7o-J:US-RT:s~std-T:sr-Q:6fd97249-B:mds-RS:sta~CS::P:0+CS:some+BR:1"
+      ],
+      "configuration": {
+        "requested": [],
+        "finalized": {
+          "bypass": false,
+          "recompute": false,
+          "no_compute": false,
+          "ttl_s": 300,
+          "max_age_s": 0,
+          "miss_policy": "none"
+        }
+      },
+      "utilization": {
+        "went_to_cache": true,
+        "alternates_allowed": true,
+        "hit_alternate": false,
+        "hit_canonical": false,
+        "hit": false,
+        "miss": true,
+        "recomputed": true,
+        "stored": true,
+        "acceptable_names_tried": [
+          "PPS-1x7o-J:US-RT:s~std-T:sr-Q:6fd97249-B:mds-RS:sta~CS::P:0+CS:some+BR:1"
+        ],
+        "elapsed_s": 1.1641581058502197
+      },
+      "statsd_bucket": "search.pps.cache.metadata.search_results"
+    },
+    "collection_title_fetch__3a67f780b21f0932ad9e0aefd6da68b5": {
+      "name": "PPS-1x7o-J:US-RT:ctf-T:df-Q:7fc2797c-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1",
+      "acceptable_names": [],
+      "configuration": {
+        "requested": [],
+        "finalized": {
+          "bypass": false,
+          "recompute": false,
+          "no_compute": false,
+          "ttl_s": 300,
+          "max_age_s": 0,
+          "miss_policy": "none"
+        }
+      },
+      "utilization": {
+        "went_to_cache": true,
+        "alternates_allowed": true,
+        "hit_alternate": false,
+        "hit_canonical": false,
+        "hit": false,
+        "miss": true,
+        "recomputed": true,
+        "stored": true,
+        "elapsed_s": 0.2667078971862793
+      },
+      "statsd_bucket": "search.pps.cache.metadata.search_results"
+    },
+    "summary": {
+      "fetched": [],
+      "computed": [
+        "PPS-1x7o-J:US-RT:s~hit-T:sr-Q:6fd97249-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:US-RT:ctf-T:df-Q:7fc2797c-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "stored": [
+        "PPS-1x7o-J:US-RT:s~hit-T:sr-Q:6fd97249-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:US-RT:ctf-T:df-Q:7fc2797c-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "missed": [
+        "PPS-1x7o-J:US-RT:s~hit-T:sr-Q:6fd97249-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:US-RT:ctf-T:df-Q:7fc2797c-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "bypassed": []
+    }
+  },
+  "elapsed_secs": 1.48881196975708,
+  "response": {
+    "header": {
+      "succeeded": true,
+      "query_time": 549,
+      "forensics": {
+        "client_characterization": {
+          "client_ip": "216.26.246.177:sra",
+          "client_id": "alanobrienterry918272@gmail.com:sco",
+          "client_useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36:sua",
+          "preferred_client_ip": null,
+          "preferred_client_id": null,
+          "preferred_client_useragent": null,
+          "application_id": {
+            "session": [
+              "pageproduction"
+            ],
+            "request": []
+          },
+          "client_jurisdiction": "US",
+          "preferred_client_jurisdiction": null,
+          "actionable_jurisdiction": "US",
+          "characterized_by": "asserted_or_authenticated",
+          "ensured": true
+        },
+        "routing": {
+          "backend": "es-prod-metadatasearch-filtered",
+          "backend_server": "es-prod-client-n-04",
+          "routed_to_load_balanced": true,
+          "index_addressed": "prod-n-001"
+        },
+        "backend_request_elapsed_secs": {
+          "search": 1.1641581058502197,
+          "collection_title_fetch__3a67f780b21f0932ad9e0aefd6da68b5": 0.2667078971862793
+        }
+      },
+      "elapsed_secs_for_backend_requests": 1.430866003036499
+    },
+    "body": {
+      "hits": {
+        "total": 346,
+        "returned": 50,
+        "hits": [
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "thingiverse-2025498",
+              "title": "spectacle holder (2025498)",
+              "description": "Because I always forget where I leave my glasses. Easy printable",
+              "subject": [
+                "stl",
+                "glasses",
+                "household",
+                "holder",
+                "spectacles",
+                "Accessories",
+                "thingiverse"
+              ],
+              "creator": [
+                "eloy hensen (DeGrazendeSlak)"
+              ],
+              "collection": [
+                "thingiverse"
+              ],
+              "date": "2017-01-09T00:00:00Z",
+              "year": 2017,
+              "mediatype": "data",
+              "licenseurl": "https://creativecommons.org/licenses/by/4.0/",
+              "item_size": 170845,
+              "files_count": 5,
+              "downloads": 31,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2021-04-30T16:17:25Z",
+              "publicdate": "2021-04-30T16:17:25Z"
+            },
+            "highlight": null,
+            "_score": [
+              4071.7896
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "thingiverse-3407283",
+              "title": "spectacle holder tape mount (3407283)",
+              "description": "Just did a quick patch because I wanted to mount the holder with adesive tape. so I closed the screw hole (you can drill it open from the back if needed) and made a notch in the back to compensate for the thick tape I used. Probably a mounting glue or acrylic or silicone could also be used. Worked great.",
+              "subject": [
+                "Household",
+                "thingiverse",
+                "stl",
+                "eyeglasses",
+                "sunglasses",
+                "sunglasses_holder",
+                "spectacles",
+                "holder",
+                "glasses_holder",
+                "glasses",
+                "storage"
+              ],
+              "creator": [
+                "Felix Kolk (FeKo)"
+              ],
+              "collection": [
+                "thingiverse"
+              ],
+              "date": "2019-02-05T00:00:00Z",
+              "year": 2019,
+              "mediatype": "data",
+              "licenseurl": "https://creativecommons.org/licenses/by/4.0/",
+              "item_size": 76460,
+              "files_count": 5,
+              "downloads": 27,
+              "week": 0,
+              "month": 2,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2021-04-20T13:55:53Z",
+              "publicdate": "2021-04-20T13:55:53Z"
+            },
+            "highlight": null,
+            "_score": [
+              3478.4575
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "maledancerbodies0000burt_t0y7",
+              "title": "The male dancer : bodies, spectacle, sexualities",
+              "description": "x, 224 pages : 24 cm",
+              "subject": [
+                "Mannelijkheid",
+                "Dansers",
+                "Ballett",
+                "Seksualiteit",
+                "Männlichkeit",
+                "Männlichkeit Motiv",
+                "Tanz",
+                "Tänzer",
+                "Sexualité dans la danse",
+                "Theorie",
+                "Danse -- Anthropologie",
+                "Men Dancing",
+                "Masculinité (psychologie)",
+                "Male dancers",
+                "Sex in dance",
+                "Dance -- Anthropological aspects",
+                "Dance -- Sociological aspects",
+                "Masculinity",
+                "Danseurs",
+                "Danse -- Sociologie"
+              ],
+              "creator": [
+                "Burt, Ramsay, 1953-"
+              ],
+              "collection": [
+                "marygrovecollege",
+                "internetarchivebooks"
+              ],
+              "date": "1995-01-01T00:00:00Z",
+              "year": 1995,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 16,
+              "item_size": 574732457,
+              "files_count": 33,
+              "downloads": 420,
+              "week": 7,
+              "month": 12,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_printdisabled",
+              "addeddate": "2020-02-11T14:04:03Z",
+              "source": "removed",
+              "publicdate": "2020-02-06T08:06:27Z"
+            },
+            "highlight": null,
+            "_score": [
+              2693.4336
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "telethonsspectac0000long",
+              "title": "Telethons : spectacle, disability, and the business of charity",
+              "description": "xix, 326 pages, 10 unnumbered pages of plates : 25 cm",
+              "subject": [
+                "Telethons -- United States",
+                "People with disabilities in mass media",
+                "Disabilities -- Social aspects -- United States",
+                "Sociology of disability -- United States",
+                "HISTORY -- United States -- 20th Century",
+                "HISTORY -- Social History",
+                "SOCIAL SCIENCE -- Media Studies",
+                "Sociology of disability",
+                "Telethons",
+                "Fernsehsendung",
+                "Spendenaufruf",
+                "Behinderter Mensch",
+                "United States",
+                "USA"
+              ],
+              "creator": [
+                "Longmore, Paul K., author"
+              ],
+              "collection": [
+                "internetarchivebooks"
+              ],
+              "date": "2016-01-01T00:00:00Z",
+              "year": 2016,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 4,
+              "item_size": 739018326,
+              "files_count": 30,
+              "downloads": 73,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_printdisabled",
+              "addeddate": "2022-01-01T15:20:58Z",
+              "source": "removed",
+              "publicdate": "2020-11-07T07:46:16Z"
+            },
+            "highlight": null,
+            "_score": [
+              2456.1467
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "gentlemanswardro0000keer",
+              "title": "A gentleman's wardrobe : classic clothes and the modern man",
+              "description": "117 pages : 21 cm",
+              "subject": [
+                "Men's clothing",
+                "Grooming for men",
+                "Mode",
+                "Kleding",
+                "Great Britain Gentlemen Costume"
+              ],
+              "creator": [
+                "Keers, Paul"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "1987-01-01T00:00:00Z",
+              "year": 1987,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 52,
+              "item_size": 334280273,
+              "files_count": 30,
+              "downloads": 1220,
+              "week": 6,
+              "month": 19,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": true,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_borrow",
+              "addeddate": "2020-12-18T22:10:15Z",
+              "publicdate": "2020-11-19T12:23:09Z"
+            },
+            "highlight": null,
+            "_score": [
+              2443.194
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "ERIC_EJ1119283",
+              "title": "ERIC EJ1119283: Putting Political Spectacle to Work: Understanding Local Resistance to the Common Core",
+              "description": "In the fall of 2013, a parents' group formed to protest the new Common Core based mathematics textbook recently adopted by their school district. Quickly allying with teachers, the new coalition began to, \"hammer,\" the district to drop the Common Core and return to more traditional texts and pedagogies. They did so by speaking at Governing Board meetings, participating in interviews with local newspapers, appearing on a local radio talk show, and forming social media accounts. This intrinsically motivated case study uses qualitative media analysis to examine the texts produced from these and other public declarations to better understand local policy formation through the mechanics of \"political spectacle.\" Political spectacle theory suggests that policy may be formed through dramatic public displays and that policy formed from such spectacles often undemocratically reinforces existing inequalities. The study analyzes the parent, teacher and administration policy actors' use of...",
+              "subject": [
+                "ERIC Archive",
+                "Common Core State Standards",
+                "Resistance to Change",
+                "Politics of Education",
+                "Local Issues",
+                "Activism",
+                "Advocacy",
+                "Mathematics Education",
+                "Textbook Content",
+                "Textbook Selection",
+                "Textbook Standards",
+                "Community Attitudes",
+                "Community Action",
+                "Theory Practice Relationship",
+                "Case Studies",
+                "Media Selection",
+                "Program Implementation",
+                "Conflict",
+                "Meetings",
+                "School Community Relationship",
+                "Mass Media Use",
+                "Szolowicz, Michael"
+              ],
+              "creator": [
+                "ERIC"
+              ],
+              "collection": [
+                "ericarchive",
+                "usgovernmentmirrors",
+                "government-documents"
+              ],
+              "date": "2016-11-07T00:00:00Z",
+              "year": 2016,
+              "language": [
+                "english"
+              ],
+              "mediatype": "texts",
+              "item_size": 25551232,
+              "files_count": 11,
+              "downloads": 128,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2018-10-09T00:33:36Z",
+              "publicdate": "2018-10-09T00:33:36Z"
+            },
+            "highlight": null,
+            "_score": [
+              2218.7107
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "fromtravelingsho0000unse_x1d8",
+              "title": "From traveling show to vaudeville : theatrical spectacle in America, 1830-1910",
+              "description": "xii, 384 pages : 24 cm",
+              "subject": [
+                "Performing arts -- United States -- History -- 19th century",
+                "Performing arts -- United States -- History -- 20th century"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "2003-01-01T00:00:00Z",
+              "year": 2003,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 11,
+              "item_size": 970359658,
+              "files_count": 34,
+              "downloads": 104,
+              "week": 1,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_browse",
+              "addeddate": "2023-05-13T18:15:24Z",
+              "publicdate": "2023-05-12T01:30:09Z"
+            },
+            "highlight": null,
+            "_score": [
+              2215.4575
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "patronsperforman0000west",
+              "title": "Patrons and performance : early Tudor household revels",
+              "description": "xv, 264 pages : 23 cm",
+              "subject": [
+                "Theater -- England -- History -- 16th century",
+                "Amateur theater -- England -- History -- 16th century",
+                "Authors and patrons -- England -- History -- 16th century",
+                "Nobility -- England -- History -- 16th century",
+                "Aristocracy (Social class) in literature",
+                "Literary patrons -- Great Britain",
+                "Amateur theater",
+                "Authors and patrons",
+                "Literary patrons",
+                "Nobility",
+                "Theater",
+                "Spectacles et divertissements -- Grande-Bretagne -- 16e siècle",
+                "Théâtre d'amateurs -- Grande-Bretagne -- 16e siècle",
+                "Théâtre -- Grande-Bretagne -- Histoire -- 16e siècle",
+                "Écrivains et mécènes -- Grande-Bretagne",
+                "Aristocratie -- Dans la littérature",
+                "England",
+                "Great Britain",
+                "Grande-Bretagne -- Moeurs et coutumes -- 16e siècle",
+                "England Private theatre, history"
+              ],
+              "creator": [
+                "Westfall, Suzanne R"
+              ],
+              "collection": [
+                "internetarchivebooks"
+              ],
+              "date": "1990-01-01T00:00:00Z",
+              "year": 1990,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 3,
+              "item_size": 601525521,
+              "files_count": 32,
+              "downloads": 78,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_printdisabled",
+              "addeddate": "2020-10-09T03:02:22Z",
+              "source": "removed",
+              "publicdate": "2020-10-06T05:22:43Z"
+            },
+            "highlight": null,
+            "_score": [
+              2207.9548
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "virtuesofvicious0000gand",
+              "title": "The virtues of the vicious : Jacob Riis, Stephen Crane, and the spectacle of the slum",
+              "description": "viii, 206 pages : 25 cm",
+              "subject": [
+                "Villes -- Dans la littérature",
+                "Didactic literature, American",
+                "Influence (Literary, artistic, etc.)",
+                "Slums -- Historiography",
+                "New York (State) -- New York",
+                "USA",
+                "Logement insalubre -- États-Unis",
+                "Logement insalubre -- New York (N.Y.)",
+                "Riis, Jacob A. (Jacob August), 1849-1914. How the other half lives",
+                "Crane, Stephen, 1871-1900. Maggie, a girl of the streets",
+                "Riis, Jacob A. (Jacob August), 1849-1914",
+                "Riis, Jacob A. (Jacob August), 1849-1914 -- Influence",
+                "Riis, Jacob August, (1849-1914) -- Critique et interprétation",
+                "Crane, Stephen, (1871-1900) -- Critique et interprétation",
+                "Crane, Stephen. Maggie, a girl of the streets",
+                "Riis, Jacob A. How the other half lives",
+                "Riis, Jacob A., 1849-1914. How the other half lives",
+                "Alltag",
+                "Verelendung (Motiv)",
+                "Maggie, a girl of the streets (Crane, Stephen)",
+                "How the other half lives (Riis, Jacob A.)",
+                "Didactic literature, American -- History and criticism",
+                "American prose literature -- 19th century -- History and criticism",
+                "City and town life in literature",
+                "Slums -- New York (State) -- New York -- Historiography",
+                "Slums in literature",
+                "Social ethics in literature",
+                "American prose literature",
+                "Spectacular, The",
+                "Morale sociale -- Dans la littérature",
+                "Littérature didactique -- Histoire et critique",
+                "Slum (Motiv)",
+                "Roman",
+                "Geschichte",
+                "Slum",
+                "Littérature américaine -- Histoire et critique -- 19e siècle",
+                "Vie urbaine -- Dans la littérature"
+              ],
+              "creator": [
+                "Gandal, Keith"
+              ],
+              "collection": [
+                "marygrovecollege",
+                "internetarchivebooks"
+              ],
+              "date": "1997-01-01T00:00:00Z",
+              "year": 1997,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 12,
+              "item_size": 459454999,
+              "files_count": 33,
+              "downloads": 123,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_printdisabled",
+              "addeddate": "2020-03-07T07:03:12Z",
+              "source": "removed",
+              "publicdate": "2020-03-04T05:14:12Z"
+            },
+            "highlight": null,
+            "_score": [
+              1857.7131
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "63-ijels-103202662-performing",
+              "title": "Performing Authenticity in the Age of Feeds: Irony, Conspiracy, and the Fragmented Self in Lauren Oyler’s Fake Accounts",
+              "description": "Lauren Oyler’s Fake Accounts (2021) offers a sharp metafictional exploration of digital subjectivity, irony fatigue, and the commodification of authenticity in the age of social media. The unnamed narrator discovers that her boyfriend, Felix, secretly operates a popular conspiracy-theory Instagram account. This revelation triggers a meditation on deception—both interpersonal and epistemic—within a culture dominated by feeds, curated identities, and algorithmic visibility. This paper argues that Fake Accounts stages authenticity as performance. The narrator’s hyper-analytic voice, oscillating between detachment and vulnerability, reflects a generational condition marked by skepticism toward sincerity and exhaustion with ideological spectacle. Social media platforms function as laboratories of self-construction, where political belief, aesthetic identity, and moral stance are constantly curated, revised, and monetized. In this environment, conspiracy thinking and ironic self-awareness...",
+              "subject": [
+                "digital subjectivity",
+                "platform modernity",
+                "authenticity as performance",
+                "irony fatigue",
+                "conspiracy thinking",
+                "fragmented self",
+                "metafiction",
+                "social media deception"
+              ],
+              "collection": [
+                "journals_contributions",
+                "journals"
+              ],
+              "mediatype": "texts",
+              "item_size": 4847751,
+              "files_count": 15,
+              "downloads": 48,
+              "week": 0,
+              "month": 5,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2026-04-13T03:49:50Z",
+              "publicdate": "2026-04-13T03:49:50Z"
+            },
+            "highlight": null,
+            "_score": [
+              1487.8206
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "thingiverse-4717156",
+              "title": "Glasses stand: easyprint and parametric, for single or multiple pairs and smaller or larger pairs of glasses (4717156)",
+              "description": "A minimalistic easy-print glasses stand. Parametric file allows for changes to capacity for any amount of pairs of glasses, and for either smaller or bulkier designs. Uses very little material, prints fairly quickly. A redesign inspired by: https://www.thingiverse.com/thing:3929028 (Remix option currently down on Thingiverse.) Use of glue stick or tape recommended for proper adhesion. Makes, likes and tips are always appreciated!",
+              "subject": [
+                "spectacles",
+                "glasses",
+                "parametric",
+                "thingiverse",
+                "Household",
+                "holder",
+                "stand",
+                "stl",
+                "easy"
+              ],
+              "creator": [
+                "Friso (FrisoHD)"
+              ],
+              "collection": [
+                "thingiverse"
+              ],
+              "date": "2021-01-10T00:00:00Z",
+              "year": 2021,
+              "mediatype": "data",
+              "licenseurl": "https://creativecommons.org/licenses/by-sa/3.0/",
+              "item_size": 406816,
+              "files_count": 5,
+              "downloads": 23,
+              "week": 0,
+              "month": 2,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2021-01-16T04:20:12Z",
+              "publicdate": "2021-01-16T04:20:12Z"
+            },
+            "highlight": null,
+            "_score": [
+              980.56055
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "adieuvalduchener0000matt",
+              "title": "Adieu, Val-du-Chêne! : roman",
+              "description": "175 pages : 20 cm",
+              "subject": [
+                "Teenagers -- Juvenile fiction",
+                "Moving, Household -- Juvenile fiction",
+                "Adolescents -- Romans, nouvelles, etc. pour la jeunesse",
+                "Déménagement -- Romans, nouvelles, etc. pour la jeunesse",
+                "Moving, Household",
+                "Teenagers",
+                "Littérature pour la jeunesse canadienne de langue française",
+                "Villages -- Romans",
+                "Spectacles et divertissements -- Romans"
+              ],
+              "creator": [
+                "Matteau, Claire, 1952-"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "2005-01-01T00:00:00Z",
+              "year": 2005,
+              "language": [
+                "fre"
+              ],
+              "mediatype": "texts",
+              "item_size": 605221490,
+              "files_count": 33,
+              "downloads": 22,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_browse",
+              "addeddate": "2022-05-05T05:10:00Z",
+              "publicdate": "2022-05-04T01:39:12Z"
+            },
+            "highlight": null,
+            "_score": [
+              728.999
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "dohokeypokey0000mcdo",
+              "title": "Do the hokey pokey",
+              "description": "112 pages : 22 cm",
+              "subject": [
+                "Schools -- Juvenile fiction",
+                "Mothers and sons -- Juvenile fiction",
+                "Moving, Household -- Juvenile fiction",
+                "Schools -- Fiction",
+                "Mothers and sons -- Fiction",
+                "Moving, Household -- Fiction",
+                "Mothers and sons",
+                "Moving, Household",
+                "Schools",
+                "Mother-son relationship -- Fiction",
+                "Moving -- Fiction",
+                "School stories"
+              ],
+              "creator": [
+                "McDonough, Alison, 1948-"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "2001-01-01T00:00:00Z",
+              "year": 2001,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 2,
+              "item_size": 372120547,
+              "files_count": 29,
+              "downloads": 37,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": true,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_borrow",
+              "addeddate": "2018-10-11T16:18:41Z",
+              "publicdate": "2018-10-11T16:19:09Z"
+            },
+            "highlight": null,
+            "_score": [
+              696.0928
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "NPCM19090913",
+              "title": "China Mail 1909-09-13",
+              "description": "KAISER WILHELM AND THE CZECHS. BITTER CONDEMNATION OF ANTI-POLISM POLICY. Imperial Train Held Up. PEARY ANNEXES THE POLE. HOISTING OF THE STARS AND STRIPES OFFICIALLY NOTIFIED. HARDSHIPS OF POLAR EXPLORATION. PEARY'S CREW A GRUESOME SPECTACLE. LORD ROSEBERY'S FUTURE. HAS HE JOINED THE TORIES? JAPAN'S FOREIGN TRADE. RAILWAY DISBURSEMENTS. INTERNATIONAL COURTESIES. RESIGNATION FOLLOWING ON FAILURE. NEW GRAND COUNCILLOR.",
+              "subject": [
+                "德臣西報",
+                "德臣西报",
+                "China Mail"
+              ],
+              "collection": [
+                "china-mail",
+                "newspapers"
+              ],
+              "date": "1909-09-13T00:00:00Z",
+              "year": 1909,
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "item_size": 71118106,
+              "files_count": 16,
+              "downloads": 86,
+              "week": 0,
+              "month": 2,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2023-11-30T11:40:34Z",
+              "publicdate": "2023-11-30T11:40:34Z"
+            },
+            "highlight": null,
+            "_score": [
+              618.34265
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "britishmuseumcon0000rama",
+              "title": "The British Museum concise introduction to ancient Rome",
+              "description": "192 p. : 25 cm",
+              "subject": [
+                "Civilization, Western -- Roman influences",
+                "Rome -- Civilization",
+                "Rome -- Antiquities"
+              ],
+              "creator": [
+                "Ramage, Nancy H., 1942-"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "2008-01-01T00:00:00Z",
+              "year": 2008,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 2,
+              "item_size": 584930449,
+              "files_count": 30,
+              "downloads": 45,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": true,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_borrow",
+              "addeddate": "2021-12-22T07:06:06Z",
+              "publicdate": "2021-12-15T11:28:21Z"
+            },
+            "highlight": null,
+            "_score": [
+              528.1304
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "fantasyfilmpost90000phea",
+              "title": "Fantasy film post 9/11",
+              "description": "viii, 211 pages : 23 cm",
+              "subject": [
+                "Fantasy films -- History and criticism",
+                "September 11 Terrorist Attacks, 2001 -- Influence"
+              ],
+              "creator": [
+                "Pheasant-Kelly, Frances, 1960-"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "nationaluniversity"
+              ],
+              "date": "2013-01-01T00:00:00Z",
+              "year": 2013,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 1,
+              "item_size": 810917358,
+              "files_count": 34,
+              "downloads": 46,
+              "week": 0,
+              "month": 3,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_printdisabled",
+              "addeddate": "2023-05-31T06:36:48Z",
+              "source": "removed",
+              "publicdate": "2023-05-29T05:25:51Z"
+            },
+            "highlight": null,
+            "_score": [
+              492.5287
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "mediaevalstage0001unse",
+              "title": "The mediaeval stage",
+              "description": "2 volumes : 23 cm",
+              "subject": [
+                "Theater -- History -- Medieval, 500-1500",
+                "Drama, Medieval -- History and criticism",
+                "Drama, Medieval",
+                "Theater -- Medieval"
+              ],
+              "creator": [
+                "Chambers, E. K. (Edmund Kerchever), 1866-1954"
+              ],
+              "collection": [
+                "marygrovecollege",
+                "internetarchivebooks"
+              ],
+              "date": "1903-01-01T00:00:00Z",
+              "year": 1903,
+              "volume": "1",
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 4,
+              "item_size": 1121802471,
+              "files_count": 26,
+              "downloads": 2545,
+              "week": 50,
+              "month": 232,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2020-11-10T23:39:22Z",
+              "publicdate": "2020-02-11T03:54:49Z"
+            },
+            "highlight": null,
+            "_score": [
+              467.06262
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "wrestlingbabylon0000much",
+              "title": "Wrestling Babylon : piledriving tales of drugs, sex, death and scandal",
+              "description": "1 online resource (xxi, 152 pages) :",
+              "subject": [
+                "Wrestling",
+                "Wrestling -- Social aspects",
+                "Wrestlers",
+                "Lutte",
+                "Lutte -- Aspect social",
+                "Lutteurs",
+                "SPORTS & RECREATION -- Wrestling"
+              ],
+              "creator": [
+                "Muchnick, Irvin"
+              ],
+              "collection": [
+                "internetarchivebooks"
+              ],
+              "date": "2007-01-01T00:00:00Z",
+              "year": 2007,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 15,
+              "item_size": 475584796,
+              "files_count": 30,
+              "downloads": 358,
+              "week": 3,
+              "month": 5,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_printdisabled",
+              "addeddate": "2022-01-07T07:08:44Z",
+              "source": "removed",
+              "publicdate": "2021-12-22T10:32:34Z"
+            },
+            "highlight": null,
+            "_score": [
+              424.02914
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "gatheringsofange0000unse_o7n5",
+              "title": "Gatherings of angels : migrating birds and their ecology",
+              "description": "xi, 193 pages, 24 unnumbered pages of plates : 24 cm",
+              "subject": [
+                "Birds -- Migration",
+                "Birds -- Ecology",
+                "Oiseaux -- Migration",
+                "Oiseaux -- Écologie",
+                "Vogeltrek",
+                "Ecologie"
+              ],
+              "collection": [
+                "internetarchivebooks"
+              ],
+              "date": "1999-01-01T00:00:00Z",
+              "year": 1999,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 1,
+              "item_size": 779612770,
+              "files_count": 34,
+              "downloads": 31,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_printdisabled",
+              "addeddate": "2021-03-30T19:05:59Z",
+              "source": "removed",
+              "publicdate": "2021-03-26T04:17:03Z"
+            },
+            "highlight": null,
+            "_score": [
+              401.86658
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "travellerscompan0000unse_g7o1",
+              "title": "A traveller's companion to London",
+              "description": "li, 410 pages : 20 cm",
+              "subject": [
+                "Travel",
+                "London (England) -- History -- Sources",
+                "London (England) -- Description and travel",
+                "England -- London",
+                "London"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "2004-01-01T00:00:00Z",
+              "year": 2004,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 5,
+              "item_size": 1120068765,
+              "files_count": 32,
+              "downloads": 71,
+              "week": 0,
+              "month": 3,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_browse",
+              "addeddate": "2020-01-09T00:42:11Z",
+              "publicdate": "2020-01-03T08:33:48Z"
+            },
+            "highlight": null,
+            "_score": [
+              306.8363
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "morocco0000thom",
+              "title": "Morocco",
+              "description": "324 pages : 23 cm",
+              "subject": [
+                "Guidebooks",
+                "Morocco -- Guidebooks",
+                "Morocco"
+              ],
+              "creator": [
+                "Thomas, Gavin, author"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "2017-01-01T00:00:00Z",
+              "year": 2017,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 5,
+              "item_size": 1097703169,
+              "files_count": 30,
+              "downloads": 69,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_browse",
+              "addeddate": "2023-01-12T13:04:17Z",
+              "publicdate": "2022-01-05T06:30:34Z"
+            },
+            "highlight": null,
+            "_score": [
+              297.10297
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "NPCM19140806",
+              "title": "China Mail 1914-08-06",
+              "description": "QUEER SIDE OF LONDON. Strange Facts Revealed by Figures. 10,000,000 POUNDS IN CHARITIES. 140,000 THEATRE SEATS. ATLANTIC FLIGHT. LIEUT. PORTE'S CHANCES OF SUCCESS. The Air-Boat and Her Load. THE PRINCIPAL RISKS. BOMBS FOR THE TSAR. Lady Doctor's Ordeal. THEORIES OF THE POLICE. THE EFFECT OF MARTIAL LAW. WHAT THE GOVERNMENT MAY DO. MUTINY IN A PRISON. PLUCKY WOMAN OFFICIAL. DEATH OF MR. JOHN GRANT SMITH. THE BANK CONSPIRACY CHARGE. CASE ADJOURNED THROUGH MILITARY OPEHATIONS. THE \"CANNON\" CASE. APPEALING TO THE PRIVY COUNCIL. THE LOSS BY EMIGRATION. Comparison With Last Year's Figures. GREAT BRITAIN AND GERMANY AT WAR. THE DECLARATION OF WAR. THE BRITISH NAVY. ADMIRAL JELLICOE IN SUPREME COMMAND. BRITAIN'S INSPECTOR GENERAL. SIR JOHN FRENCH APPOINTED. EARL KITCHENER. ADDITIONS TO BRITAIN'S NAVY. A STATE OF WAR. A BONAPARTE OFFERS TO FIGHT. GERMANY REJECTS BRITAIN'S REQUEST. THE BELGIAN MINISTRY. ENTHUSIASM IN LONDON. MOVEMENTS OF GERMAN TROOPS. H.M. THE KING AND THE DOMINIONS. MARTIAL...",
+              "subject": [
+                "德臣西報",
+                "德臣西报",
+                "China Mail"
+              ],
+              "collection": [
+                "china-mail",
+                "newspapers"
+              ],
+              "date": "1914-08-06T00:00:00Z",
+              "year": 1914,
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "item_size": 49695409,
+              "files_count": 16,
+              "downloads": 42,
+              "week": 0,
+              "month": 2,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2023-12-01T05:41:48Z",
+              "publicdate": "2023-12-01T05:41:48Z"
+            },
+            "highlight": null,
+            "_score": [
+              281.56723
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "WWS_1940031301",
+              "title": "The Wainwright star (1940-03-13)",
+              "description": "Page 1: - Council Session Routine in Nature - Facetious Comedy \"Midnight\"-in Paris - His Majesty Inspects Aircraft Factory - Carsell Appointed Chairman School Bd - Woud Wed Soldier by Radio - Successful Power Farming Show - Thrilling Spectacle in Technicolor - Results of Recent Theory Examinations - Newest Dictator - Local News - Local News - Hospital Board to Remodel Kitchen - Swedish Town Bombed - Liberal Rally at Wainwright - Canada's War Purchases - Local News - School Concert Well Received Page 2: - Nobel, the Prize Giver Page 3: - Our Farm News Letter - On R. C. A. F. Staff - The Choice of Forage Crop Seed for Spring Page 4: - Merely a Sign of Change - The Dial Review - Home Town Philosopher - Beauty for You - Local News Page 5: - Among the Old-Timers - Fifteen Years Ago - Passchendale - Heath - Sydenham - Sheepskin Flats - Greenshields - Gasoline Robot - Local News Page 6: - Hills of Destiny - Swedish King May Abdicate over Aid to Finns Page 7: - Hints for the Household - The...",
+              "subject": [
+                "Wainwright star"
+              ],
+              "collection": [
+                "peel_newspapers",
+                "peel",
+                "university_of_alberta_libraries"
+              ],
+              "date": "1940-03-13T00:00:00Z",
+              "year": 1940,
+              "genre": [
+                "Newspaper"
+              ],
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "item_size": 96554339,
+              "files_count": 19,
+              "downloads": 33,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2024-01-24T03:51:56Z",
+              "publicdate": "2024-01-24T03:51:56Z"
+            },
+            "highlight": null,
+            "_score": [
+              280.51752
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "oapen-20.500.12657-29802",
+              "title": "Chapter 3 Visible Prowess?: Reading Men’s Head and Face Wounds in Early Medieval Europe to 1000 CE",
+              "description": "The spectacle of the wounded body figured prominently in the Middle Ages, from images of Christ’s wounds on the cross, to the ripped and torn bodies of tortured saints who miraculously heal through divine intervention, to graphic accounts of battlefield and tournament wounds—evidence of which survives in the archaeological record—and literary episodes of fatal (or not so fatal) wounds. This volume offers a comprehensive look at the complexity of wounding and wound repair in medieval literature and culture, bringing together essays from a wide range of sources and disciplines including arms and armaments, military history, medical history, literature, art history, hagiography, and archaeology across medieval and early modern Europe. Contributors are Stephen Atkinson, Debby Banham, Albrecht Classen, Joshua Easterling, Charlene M. Eska, Carmel Ferragud, M.R. Geldof, Elina Gertsman, Barbara A. Goodman, Máire Johnson, Rachel E. Kellett, Ilana Krug, Virginia Langum, Michael Livingston, Iain...",
+              "subject": [
+                "chapter"
+              ],
+              "collection": [
+                "oapen-library",
+                "patron-library-collection"
+              ],
+              "date": "2015-01-01T00:00:00Z",
+              "year": 2015,
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 2,
+              "item_size": 13185692,
+              "files_count": 15,
+              "downloads": 61,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2024-05-30T17:58:14Z",
+              "publicdate": "2024-05-30T17:58:14Z"
+            },
+            "highlight": null,
+            "_score": [
+              271.79163
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "elizabethicompet0000frye",
+              "title": "Elizabeth I : the competition for representation",
+              "description": "1 online resource (xii, 228 pages) :",
+              "subject": [
+                "Elizabeth I, Queen of England, 1533-1603",
+                "Spenser, Edmund, 1552?-1599. Faerie queene",
+                "Faerie queene (Spenser, Edmund)",
+                "Visits of state -- England -- Kenilworth -- History -- 16th century",
+                "Pageants -- England -- Kenilworth -- History -- 16th century",
+                "Coronations -- Great Britain -- History -- 16th century",
+                "Patriarchy -- Great Britain -- History -- 16th century",
+                "Women -- England -- History -- Renaissance, 1450-1600",
+                "Chastity in literature",
+                "Queens in literature",
+                "Visites officielles -- Angleterre -- Kenilworth -- Histoire -- 16e siècle",
+                "Spectacles historiques -- Angleterre -- Kenilworth -- Histoire -- 16e siècle",
+                "Couronnements -- Grande-Bretagne -- Histoire -- 16e siècle",
+                "Patriarcat (Sociologie) -- Grande-Bretagne -- Histoire -- 16e siècle",
+                "Femmes -- Angleterre -- Histoire -- 1450-1600 (Renaissance)",
+                "Chasteté dans la littérature",
+                "HISTORY",
+                "Coronations",
+                "Pageants",
+                "Patriarchy",
+                "Visits of state",
+                "Women -- Renaissance",
+                "Great Britain -- History -- Elizabeth, 1558-1603",
+                "Grande-Bretagne -- Histoire -- 1558-1603 (Élisabeth Ire)",
+                "England",
+                "England -- Kenilworth",
+                "Great Britain"
+              ],
+              "creator": [
+                "Frye, Susan, 1952-"
+              ],
+              "collection": [
+                "internetarchivebooks"
+              ],
+              "date": "1996-01-01T00:00:00Z",
+              "year": 1996,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 6,
+              "item_size": 952667205,
+              "files_count": 33,
+              "downloads": 153,
+              "week": 1,
+              "month": 5,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_printdisabled",
+              "addeddate": "2022-06-02T14:34:09Z",
+              "source": "removed",
+              "publicdate": "2022-05-30T22:47:14Z"
+            },
+            "highlight": null,
+            "_score": [
+              265.03333
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "digitalperforman0000dixo",
+              "title": "Digital performance : a history of new media in theater, dance, performance art, and installation",
+              "description": "xv, 809 pages : 24 cm",
+              "subject": [
+                "Technology and the arts",
+                "Digital media",
+                "Arts, Modern -- 20th century",
+                "Performing arts -- History -- 20th century",
+                "Arts, Modern",
+                "Performing arts",
+                "Aktionskunst",
+                "Installation Kunst",
+                "Mixed media",
+                "Neue Medien",
+                "Performance Künste",
+                "Tanz",
+                "Theater",
+                "Modern konst -- historia -- 1900-talet",
+                "Digitala medier",
+                "Scenisk konst -- historia -- 1900-talet",
+                "Otraditionella konstformer",
+                "Art and Design"
+              ],
+              "creator": [
+                "Dixon, Steve, 1956- author"
+              ],
+              "collection": [
+                "internetarchivebooks"
+              ],
+              "date": "2007-01-01T00:00:00Z",
+              "year": 2007,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 40,
+              "item_size": 2322713102,
+              "files_count": 29,
+              "downloads": 1319,
+              "week": 7,
+              "month": 38,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_printdisabled",
+              "addeddate": "2022-01-27T10:07:09Z",
+              "source": "removed",
+              "publicdate": "2022-01-24T06:47:02Z"
+            },
+            "highlight": null,
+            "_score": [
+              261.86115
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "psbeeleven0000will",
+              "title": "P.S. Be eleven",
+              "description": "[8], 274 pages ; 22 cm",
+              "subject": [
+                "New York (State) -- New York -- Bedford-Stuyvesant",
+                "Brooklyn (New York, N.Y.) -- Fiction",
+                "Nineteen sixties -- Fiction",
+                "Bedford-Stuyvesant (New York, N.Y.) -- Juvenile fiction",
+                "Bedford-Stuyvesant (New York, N.Y.) -- History -- 20th century -- Fiction",
+                "Brooklyn (New York, N.Y.) -- History -- 20th century -- Fiction",
+                "Families -- Juvenile fiction",
+                "Sisters -- Juvenile fiction",
+                "Letters -- Juvenile fiction",
+                "African Americans -- Juvenile fiction",
+                "Conduct of life -- Juvenile fiction",
+                "Mothers -- Juvenile fiction",
+                "Sisters -- Fiction",
+                "Girls -- Conduct of life -- Juvenile fiction",
+                "African Americans -- Fiction",
+                "Family life -- New York (State) -- New York -- Fiction",
+                "Conduct of life",
+                "African Americans",
+                "Girls -- Conduct of life",
+                "Families",
+                "Mothers",
+                "Letters",
+                "Sisters",
+                "Parent-child relationship -- Fiction"
+              ],
+              "creator": [
+                "Williams-Garcia, Rita, author"
+              ],
+              "collection": [
+                "internetarchivebooks"
+              ],
+              "date": "2013-01-01T00:00:00Z",
+              "year": 2013,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 8,
+              "item_size": 644682922,
+              "files_count": 33,
+              "downloads": 724,
+              "week": 2,
+              "month": 8,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_printdisabled",
+              "addeddate": "2019-11-25T05:01:42Z",
+              "source": "removed",
+              "publicdate": "2019-11-25T05:01:53Z"
+            },
+            "highlight": null,
+            "_score": [
+              254.62175
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "WWS_1925110401",
+              "title": "The Wainwright star (1925-11-04)",
+              "description": "Page 1: - spencer, M. P. Retains His Seat as Result of Federal Election - Botanical Mounts for Schools - Local News - Edgerton Loses by Death of Mr. W. J. Hardy - Grain Exhibits for Chicago Show - Have You? - Dr. W. Fgbert is Appointed as Governor - Prov. Schools of Agriculture Open - \"Sinners in Heaven\" Glorifies Dancing Girls - Wainwright High Starts Literary & Athletic Assoc - Local News - Mrs. A. Alexander Passes to Reward following Operation - Local News - Vale M. D. Hold Busy Session at Monthly Meeting - Alberta Product Scores Triumph in London Show - Local News - Thanksgiving at United Ch. To be Fittingly Observed - Several Fire Calls in Town and Country - Mr. P. Monahan Passes Away after Serious Illness - Local Notes - Privy Council Will Decide Alberta Cases - Halloween Farewell for Mrs W. Suckling - D. W. Griffiths' Biggest Film Spectacle Coming - More Music, Less Strife Page 2: - The Limited Mail - Loading Two Grain Cars a Minute in Record Canadian National Move Page 3: -...",
+              "subject": [
+                "Wainwright star"
+              ],
+              "collection": [
+                "peel_newspapers",
+                "peel",
+                "university_of_alberta_libraries"
+              ],
+              "date": "1925-11-04T00:00:00Z",
+              "year": 1925,
+              "genre": [
+                "Newspaper"
+              ],
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "item_size": 77716799,
+              "files_count": 19,
+              "downloads": 36,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2024-01-16T21:35:05Z",
+              "publicdate": "2024-01-16T21:35:05Z"
+            },
+            "highlight": null,
+            "_score": [
+              252.28159
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "btvma-Solar_Eclipse_Experience_at_Bridgewater_State_University_2017_Witnessing_Celestial_Wonders",
+              "title": "Solar Eclipse Experience at Bridgewater State University 2017 - Witnessing Celestial Wonders 🌞🌑",
+              "description": "🌟 Experience the magic of a partial solar eclipse with us at Bridgewater State University! 🌟 Join us as we delve into the incredible phenomenon where 70% of the sun vanished from our sky, leaving spectators in awe. Over 1500 attendees gathered outside the Math and Science Center, coming from far and wide to witness this celestial spectacle. From homemade viewers to shared eclipse glasses, the excitement was palpable as the community united to experience this rare event. Inside, eager visitors queued up for a chance to catch a closer glimpse from the observatory's viewing deck, marveling at the sight through telescopes. Witness firsthand accounts of the breathtaking views and the anticipation as the eclipse unfolded before their eyes. For many, including first-time viewers, this was an unforgettable moment, igniting a passion for exploration and discovery. As educators, we cherish every opportunity to spark curiosity and nurture young minds towards a love for science and higher...",
+              "subject": [
+                "Massachusetts",
+                "Bridgewater",
+                "Bridgewater TV Access",
+                "BTVAccess",
+                "Public Access TV",
+                "Community Media",
+                "PEG",
+                "Youtube",
+                "Bridgewater State University",
+                "2024"
+              ],
+              "creator": [
+                "BTVAccess"
+              ],
+              "collection": [
+                "btvma",
+                "community_media",
+                "newsandpublicaffairs"
+              ],
+              "date": "2024-04-03T00:00:00Z",
+              "year": 2024,
+              "language": [
+                "English"
+              ],
+              "mediatype": "movies",
+              "num_favorites": 1,
+              "item_size": 83940184,
+              "files_count": 18,
+              "downloads": 27,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "uncurated"
+              ],
+              "addeddate": "2024-04-04T14:38:47Z",
+              "publicdate": "2024-04-04T14:38:47Z"
+            },
+            "highlight": null,
+            "_score": [
+              250.06439
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "rolandbarthescin0000watt",
+              "title": "Roland Barthes' cinema",
+              "description": "xxviii, 185 pages ; 23 cm",
+              "subject": [
+                "Barthes, Roland -- Criticism and interpretation",
+                "Motion pictures -- Philosophy"
+              ],
+              "creator": [
+                "Watts, Philip, 1961-2013"
+              ],
+              "collection": [
+                "internetarchivebooks"
+              ],
+              "date": "2016-01-01T00:00:00Z",
+              "year": 2016,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 8,
+              "item_size": 589570242,
+              "files_count": 30,
+              "downloads": 180,
+              "week": 1,
+              "month": 9,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_printdisabled",
+              "addeddate": "2024-02-13T00:53:57Z",
+              "source": "removed",
+              "publicdate": "2023-11-07T10:56:58Z"
+            },
+            "highlight": null,
+            "_score": [
+              244.4467
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "NPCM19021007",
+              "title": "China Mail 1902-10-07",
+              "description": "Arbitration. Breaking the London Tea Bonding 'Ring.' Lord Roberts on Musketry Training. The Recruiting of Volunteers. The Lucknow Soldiers' Home. The Metric System for India. Large Cargo of Coolies. The Welch Fusiliers' Reliefs. A Successful Cricketer. Preparing to Fleece the Foreigner. Concerning Cucumber. Doctor Commits Suicide. Dewey goes to Sea. A General's Baggage. Man Electrocuted in Bangkok. Bangkok St Andrew's Society. The Transport Cachar. Bangkok Trade. Freemasons. Hongkong Gun Club. Royal Hongkong Yacht Club. King of Siam Unwell. For Hanoi. Death of Captain Nichol. Serious Frauds in Manila. The Kiss of Fealty. THE STRIKE OF U. S. COAL MINERS. THE NEW JAPANESE LOAN. THE FUNERAL OF M. ZOLA. THE MARTIAL LAW COMMISSION. RAILWAY ACCIDENT. CYCLONE AT MODICA. THREATENED STRIKE OF MINERS. FIGHTING IN THE PHILIP PINES. Expedition Against the Moros. THE FIRE AT AMOY. Latest Particulars. An Ashen Spectacle. Evans Chasing Rumors. Officer Commits Suicide. Secretary Root to Retire. U.S....",
+              "subject": [
+                "德臣西報",
+                "德臣西报",
+                "China Mail"
+              ],
+              "collection": [
+                "china-mail",
+                "newspapers"
+              ],
+              "date": "1902-10-07T00:00:00Z",
+              "year": 1902,
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "item_size": 47178846,
+              "files_count": 16,
+              "downloads": 58,
+              "week": 1,
+              "month": 4,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2023-11-29T11:04:59Z",
+              "publicdate": "2023-11-29T11:04:59Z"
+            },
+            "highlight": null,
+            "_score": [
+              242.53403
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "citiesgrandtourb0000swee",
+              "title": "Cities and the grand tour : the British in Italy, c.1690-1820",
+              "description": "xii, 329 pages : 24 cm",
+              "subject": [
+                "British -- Travel -- Italy -- History -- 18th century",
+                "Travelers -- Great Britain -- History -- 18th century",
+                "Travelers' writings, British -- 18th century",
+                "British -- Travel -- Europe -- History -- 18th century",
+                "HISTORY / Europe / General",
+                "Italy -- Description and travel"
+              ],
+              "creator": [
+                "Sweet, Rosemary"
+              ],
+              "collection": [
+                "internetarchivebooks"
+              ],
+              "date": "2012-01-01T00:00:00Z",
+              "year": 2012,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 35,
+              "item_size": 916425934,
+              "files_count": 30,
+              "downloads": 399,
+              "week": 4,
+              "month": 12,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_printdisabled",
+              "addeddate": "2022-02-08T09:07:07Z",
+              "source": "removed",
+              "publicdate": "2022-01-22T07:44:12Z"
+            },
+            "highlight": null,
+            "_score": [
+              237.69131
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "dandystyle250yea0000unse",
+              "title": "Dandy style : 250 years of British men's fashion",
+              "description": "167 pages : 27 cm",
+              "subject": [
+                "Men's clothing -- Great Britain -- History -- Exhibitions",
+                "Dandies -- Great Britain -- History -- Exhibitions",
+                "Fashion -- Great Britain -- History -- Exhibitions",
+                "SOCIAL SCIENCE / Customs & Traditions",
+                "Dandies",
+                "Fashion",
+                "Men's clothing",
+                "Great Britain"
+              ],
+              "collection": [
+                "internetarchivebooks"
+              ],
+              "date": "2021-01-01T00:00:00Z",
+              "year": 2021,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 58,
+              "item_size": 445868265,
+              "files_count": 30,
+              "downloads": 363,
+              "week": 4,
+              "month": 8,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "addeddate": "2023-07-26T04:41:04Z",
+              "source": "removed",
+              "publicdate": "2021-09-27T03:58:26Z"
+            },
+            "highlight": null,
+            "_score": [
+              234.26125
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "british-museum-egypt-sudan-collection",
+              "title": "1450 BC SEQUENTIAL ART IN PRE CINEMA EGYPTIAN SEQUENTIAL PICTURES",
+              "description": "1450 BC SEQUENTIAL ART IN PRE CINEMA EGYPTIAN SEQUENTIAL PICTURES That sequencing of the image is essential to cinematography goes without saying. Motion storytelling therefore requires a visual sequence if it is to stand. The Egyptian 'Book of the Dead' starring lead actor Hunefer is a perfect example of sequential art in pre cinema, a modern storyboard if you will. American master cartoonist Will Eisner thinks we’re on to something.  EGYPTIAN SEQUENTIAL PICTURES This image from the 'Book of the Dead' depicts three separate ‘shot’s, within a scene, edited together, all in sequence, to tell the story of Hunefer’s heart being weighed in the balance. Images the British Museum. The scene begins on our left. In the first ‘shot’(Image Book of the Dead, c. 1375 BC Egypt Scene 1 Image British Museum) we see Hunefer outfitted by the wardrobe department in white, being led by Anubis (wearing the jackal’s head) to the judgment hall where his heart will be judged. The storyboard continues . . ....",
+              "subject": [
+                "EGYPTIAN SEQUENTIAL PICTURES"
+              ],
+              "creator": [
+                "THE HISTORY OF THE DISCOVERY OF CINEMATOGRAPHY"
+              ],
+              "collection": [
+                "History-of-the-Discovery-of-Cinematography",
+                "patron-library-collection"
+              ],
+              "mediatype": "image",
+              "num_favorites": 2,
+              "item_size": 8908041,
+              "files_count": 31,
+              "downloads": 673,
+              "week": 9,
+              "month": 54,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2023-01-11T22:15:41Z",
+              "publicdate": "2023-01-11T22:15:41Z"
+            },
+            "highlight": null,
+            "_score": [
+              227.99884
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "prgb72dt8jc2lr3s9v7cccy4cxsuqqrcjur500jx",
+              "title": "How easy is it to get into the housing market? Why aren't people focusing on saving anymore? How did the NHL ruin outdoor games? What is the most searched thing on Google in Canada?",
+              "description": "This could be a great time to be getting into the housing market if you're looking to buy. That's because the rate of growth for the price of homes is growing a lot slower than it has in the past but that isn't so good for those looking to sell their homes. Are you finding it challenging to sell your home?Guest: Rob Golfi, Hamilton Realtor-Canadian's are at a recording setting high of debt per household. We currently owe 171.1% of debt to disposable income and when we put this into perspective, when the US went into a recession, the average American had about 166% debt owed to disposable income. What would happen if interest rates went up by 1%? Why aren't people focusing on saving anymore?Guest: Scott Hannah, President of the Credit Councilling Society-There was a time when outdoor NHL games were a spectacle to see and everyone was sure to have the outdoor games marked on their calendars. Now it seems like even hockey fans don't know and in some cases don't care about outdoor games....",
+              "subject": [
+                "Podcast"
+              ],
+              "creator": [
+                "Scott Radley Show"
+              ],
+              "collection": [
+                "podcasts_mirror_bobarchives",
+                "podcasts_mirror"
+              ],
+              "date": "2017-12-15T00:00:00Z",
+              "year": 2017,
+              "mediatype": "audio",
+              "item_size": 51156392,
+              "files_count": 8,
+              "downloads": 2,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2024-01-22T09:27:57Z",
+              "publicdate": "2024-01-22T09:27:57Z"
+            },
+            "highlight": null,
+            "_score": [
+              222.12212
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "WWS_1940030601",
+              "title": "The Wainwright star (1940-03-06)",
+              "description": "Page 1: - Odd Fellows Give Everyone Good Time - Local Notes - Aviation Spectacle Offered in Color - Britain's Long Range Bombers - Vale Council Reports at Ratepayers' Meet - New Air Line Film is Popular - Britain's First War Heroes Decorated - Scene Memorializes Late Church Worker - How to Make Sure You Are on the Voters' List - Local Notes - Guns Shoot Eight Miles - Local News - Possible Gov.-General - Will Immunize Alberta Horses - Now Gone Forever! - Greenshields Thespians Give Enjoyable Play - \"up the River\" is Side-Splitting - Nearly Half Million Voters' Names - Torpedoes Travel Fast - Important How Their Mail is Addressed Page 2: - Dale Carnegie - Bruce Barton Says - Beauty for You - The World of Wheat Page 3: - Our Farm News Letter - General Advantages and Objects in Planting Prairie Farm Shelterbelts - Homemakers' Exchange - This Small Home Will be Popular Everywhere - Winged Feet Take to Air Page 4: - Canadian Educator Honored at Temple - Good Government (?) - Warn...",
+              "subject": [
+                "Wainwright star"
+              ],
+              "collection": [
+                "peel_newspapers",
+                "peel",
+                "university_of_alberta_libraries"
+              ],
+              "date": "1940-03-06T00:00:00Z",
+              "year": 1940,
+              "genre": [
+                "Newspaper"
+              ],
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "item_size": 92846673,
+              "files_count": 19,
+              "downloads": 38,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2024-01-24T03:50:29Z",
+              "publicdate": "2024-01-24T03:50:29Z"
+            },
+            "highlight": null,
+            "_score": [
+              220.84444
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "greeksportsocial0000gold",
+              "title": "Greek sport and social status",
+              "description": "xvi, 214 p. ; 23 cm",
+              "subject": [
+                "Athletics -- Greece -- History",
+                "Athletics -- Social aspects -- Greece"
+              ],
+              "creator": [
+                "Golden, Mark, 1948-"
+              ],
+              "collection": [
+                "internetarchivebooks"
+              ],
+              "date": "2008-01-01T00:00:00Z",
+              "year": 2008,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 2,
+              "item_size": 454135393,
+              "files_count": 34,
+              "downloads": 68,
+              "week": 0,
+              "month": 2,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_printdisabled",
+              "addeddate": "2023-05-12T04:18:17Z",
+              "source": "removed",
+              "publicdate": "2023-05-11T01:33:42Z"
+            },
+            "highlight": null,
+            "_score": [
+              202.37448
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "newhistoryofearl0000unse",
+              "title": "A new history of early English drama",
+              "description": "xiv, 565 pages ; 24 cm",
+              "subject": [
+                "Théâtre (genre littéraire) anglais -- 1100-1500 (moyen anglais)",
+                "Théâtre (genre littéraire) anglais -- Renaissance -- histoire et critique",
+                "Théâtre -- Angleterre (GB) -- 17e siècle",
+                "Théâtre anglais -- 16e siècle -- Histoire et critique",
+                "Théâtre anglais -- 1100-1500 (moyen-anglais) -- Histoire et critique",
+                "Anglais (langue) -- 16e siècle -- Histoire et critique",
+                "Renaissance -- Angleterre (GB)",
+                "England",
+                "English drama -- Early modern and Elizabethan, 1500-1600 -- History and criticism",
+                "English drama -- To 1500 -- History and criticism",
+                "Renaissance -- England",
+                "Civilization, Medieval, in literature",
+                "Anglais (Langue) -- 1500-1700 (Moderne) -- Histoire et critique",
+                "Théâtre anglais -- 1100-1500 (Moyen anglais) -- Histoire et critique",
+                "Civilisation médiévale dans la littérature",
+                "Théâtre anglais -- 17e siècle -- Histoire et critique",
+                "Renaissance -- Angleterre",
+                "English drama -- Early modern and Elizabethan",
+                "English drama",
+                "Toneelstukken",
+                "Renaissance",
+                "Drama",
+                "Engels",
+                "Mittelenglisch",
+                "Englisch",
+                "Aufsatzsammlung",
+                "Theater"
+              ],
+              "collection": [
+                "marygrovecollege",
+                "internetarchivebooks"
+              ],
+              "date": "1997-01-01T00:00:00Z",
+              "year": 1997,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 30,
+              "item_size": 1280119854,
+              "files_count": 31,
+              "downloads": 624,
+              "week": 1,
+              "month": 16,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_printdisabled",
+              "addeddate": "2020-02-17T10:02:58Z",
+              "source": "removed",
+              "publicdate": "2020-02-15T04:03:52Z"
+            },
+            "highlight": null,
+            "_score": [
+              200.07416
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "WWS_1936093001",
+              "title": "The Wainwright star (1936-09-30)",
+              "description": "Page 1: - C. Dunning Hints Tax Increases Drouth Result - Industrial Development in Western Canada - Rev. C. N. Bateman Presides at Meeting of Deanery - Local Notes - Swine Breeders' Field Day, Lacombe, Oct.17 - Credit-Ers Plan to Seek Edmonton Civic Votes - Local News - Government Estimate of Grain Crops - Britain Seeks to Revive Trade by Tariff Cuts - Lew Ayers Starring in Radio Mystery Picture - Manning Exhorts Edmonton to Sign up for Dividend - Here & There - Local News - Former Townsman Praises Scrip Issue - Sask. Gov. to Cancel 75 Million Dollar Debts - Local Notes - Local News - Hobo King of America Quits Throne for Job - Yield Estimated to be 43 Million Bus. Less - France Devalues Money by One-Third - Local News - Local News - Harvest Festival Services at St. Thomas' Church - Local News - Raymond Factory Begin Run Sept. 28 - Sate Crackers Visit Heath Store --Take $50 - St. Thomas' W. A. Hold Initial Whist Drive Page 2: Page 3: - Assist Live Stock in Drought Area - Fall...",
+              "subject": [
+                "Wainwright star"
+              ],
+              "collection": [
+                "peel_newspapers",
+                "peel",
+                "university_of_alberta_libraries"
+              ],
+              "date": "1936-09-30T00:00:00Z",
+              "year": 1936,
+              "genre": [
+                "Newspaper"
+              ],
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "item_size": 93903543,
+              "files_count": 19,
+              "downloads": 35,
+              "week": 1,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2024-01-18T19:25:16Z",
+              "publicdate": "2024-01-18T19:25:16Z"
+            },
+            "highlight": null,
+            "_score": [
+              191.23645
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "MJT_1898101401",
+              "title": "Moose Jaw times (1898-10-14)",
+              "description": "Page 1: - Mr. Forget Sworn In - Hawkes Gets One Year - The Day Appointed - Estevan Page 2: - Story of Fashoda - Dr. M'Eachran Arrested - The Markets - Winnipeg Markets - Lost in the Lava Beds of Vesuvius - Startling Statement - Seattle Mining Stories - Prehistoric Remains - Stabbed His Cham - Treacherous Indians - Mysterious Robbery - Creamery Vs. Dairy Butter in Manitoba - An Awful Tragedy - Canadian Notes - Revision Ensured - News in Brief - Check Needed a Stamp - What Is - Local News - Professional - An Effective Color Scheme - Red. Waits and Good Enough - What Was Raised - Beyond the Critical Rage - The Worm Ist - Missed All Page 3: - Stage Glints - Horses and Horsemen - The American Way - He Disagreed - Intelligent Instruction - At the Dentist's - They Must Sob - His Lawn - A Gentle Hint - Santiago De Cuba - The Listener - Singular Coincidence - Some Lawyers' Bills - His Inspiration - A Study in Dimensions - Pert Personals Page 4: - Canada's Wheat Area - In Assiniboia - Smallest...",
+              "subject": [
+                "Moose Jaw times"
+              ],
+              "collection": [
+                "peel_newspapers",
+                "peel",
+                "university_of_alberta_libraries"
+              ],
+              "date": "1898-10-14T00:00:00Z",
+              "year": 1898,
+              "genre": [
+                "Newspaper"
+              ],
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "item_size": 122343510,
+              "files_count": 19,
+              "downloads": 215,
+              "week": 1,
+              "month": 6,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2023-11-06T22:45:31Z",
+              "publicdate": "2023-11-06T22:45:31Z"
+            },
+            "highlight": null,
+            "_score": [
+              189.05759
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "NPCM19340102",
+              "title": "China Mail 1934-01-02",
+              "description": "LONDING BANKING FIGURES. Many Encouraging Increases. CLEARING-HOUSE STATEMENT. NEW SYSTEM IN U.S. BANKING. R.F.C. To Borrow From Banks. ANOTHER PLAN. 90 Per Cent Of Banks Eligible. LOCAL DOLLAR UNCHANGED. CHINESE CHAMBER OF COMMERCE. WALL STREET ANTICIPATES MONEY FLOW. Deluge of Returning Funds From Abroad. THE DOLLAR DEBACLE. SIAMESE PEOPLE'S ASSEMBLY OPENED. President Elected. RESIGNATION OF CABINET ANNOUNCED. TEA PRODUCTION IN AUSTRALIA. Tests Now Proceeding In Queensland. FINE FLAVOUR POSSIBLE. CLAIM FOR REVIEW OF ORDER. Well-known Chinese in Maintenance Case. $1,000 PAID INTO COURT. WELCOMING THE NEW YEAR. Carnivals And Dances. POLICE RESERVE. Orders for the Current Week. PRETTY WEDDING ON SATURDAY. Member of Hong Kong Police Married. HARRIS - MITCHELL. GERALD LAMMERT LAID TO REST. Funeral On Sunday. Mr. E. L. Pinquet Leaves $3,100. RI\\IBBED BY FRIEND. Cook's Mean Theft When Visiting. ARTICLES RECOVERED THIEF GAOLED. PRISONNER'S DEATH IN GAOL. Inquest To-day. VERDICT OF DEATH...",
+              "subject": [
+                "德臣西報",
+                "德臣西报",
+                "China Mail"
+              ],
+              "collection": [
+                "china-mail",
+                "newspapers"
+              ],
+              "date": "1934-01-02T00:00:00Z",
+              "year": 1934,
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "item_size": 83863837,
+              "files_count": 16,
+              "downloads": 44,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2023-12-04T01:38:32Z",
+              "publicdate": "2023-12-04T01:38:32Z"
+            },
+            "highlight": null,
+            "_score": [
+              188.80843
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "recordsofearlyen0000unse_l3w4",
+              "title": "Records of early English drama. Ecclesiastical London",
+              "description": "cxxxv, 483 pages : 26 cm",
+              "subject": [
+                "Catholic Church -- England -- London -- Liturgy -- History",
+                "St. Paul's Cathedral (London, England)",
+                "Église catholique -- Angleterre -- Londres -- Coutumes et pratiques -- Histoire -- Sources",
+                "Église catholique. Diocese of London (Angleterre) -- Histoire -- Sources",
+                "Catholic Church",
+                "Performing arts -- England -- London -- History -- Sources",
+                "Theater -- England -- London -- History -- Sources",
+                "Christian drama, English (Middle) -- History and criticism",
+                "Mysteries and miracle-plays",
+                "Boy bishops -- England -- London",
+                "Boys' choirs -- England -- London",
+                "Church music -- England -- London -- History -- Sources",
+                "Arts du spectacle -- Angleterre -- Londres -- Histoire -- Sources",
+                "Théâtre -- Angleterre -- Londres -- Histoire -- Sources",
+                "Musique d'église -- Angleterre -- Londres -- Histoire -- Sources",
+                "Musique d'église -- Église catholique -- Histoire -- Sources",
+                "Liturgics",
+                "Christian drama, English (Middle)",
+                "Boys' choirs",
+                "Boy bishops",
+                "Church music",
+                "Church music -- Catholic Church",
+                "Performing arts",
+                "Theater",
+                "Darstellende Kunst",
+                "London (England) -- Church history -- Sources",
+                "Londres (Angleterre) -- Histoire religieuse -- Sources",
+                "Londres (Angleterre) -- Histoire -- Sources",
+                "England -- London",
+                "London"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "2008-01-01T00:00:00Z",
+              "year": 2008,
+              "language": [
+                "eng",
+                "enm",
+                "lat"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 3,
+              "item_size": 1238643011,
+              "files_count": 29,
+              "downloads": 152,
+              "week": 0,
+              "month": 3,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": true,
+              "lending___status": "available_to_browse",
+              "addeddate": "2021-10-30T18:05:35Z",
+              "publicdate": "2021-10-29T07:40:42Z"
+            },
+            "highlight": null,
+            "_score": [
+              180.65659
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "carnivalotherchr0000harr_p9z7",
+              "title": "Carnival and other Christian festivals : folk theology and folk performance",
+              "description": "xi, 282 pages : 24 cm",
+              "subject": [
+                "Fasts and feasts",
+                "Carnivals",
+                "Festivals",
+                "Christentum",
+                "Fest",
+                "Karneval"
+              ],
+              "creator": [
+                "Harris, Max, 1949-"
+              ],
+              "collection": [
+                "claremont_school_of_theology",
+                "internetarchivebooks"
+              ],
+              "date": "2003-01-01T00:00:00Z",
+              "year": 2003,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 5,
+              "item_size": 749341850,
+              "files_count": 31,
+              "downloads": 73,
+              "week": 1,
+              "month": 4,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_printdisabled",
+              "addeddate": "2021-03-19T10:05:44Z",
+              "source": "removed",
+              "publicdate": "2021-03-09T08:33:18Z"
+            },
+            "highlight": null,
+            "_score": [
+              179.32501
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "NPDP19291129",
+              "title": "Hong Kong Daily Press 1929-11-29",
+              "description": "TWO MORE ROYAL LOVE ROMANCES. PRINCE HUMBERTO TO WED PRINCESS MARIE JOSE. RUMOUR HINGTS AT SPANISH - ENGLISH BETROTHAL AS WELL. INFANTA'S NAME COUPLED WITH DUKE OF NORFOLK'S Young Playmates. A Fairy Prince. Duke of Norfolk. A Wealthy Peer. An Outdoor Princess. REINFORCEMENTS ARRIVE IN KWANGTUNG? \"IRONSIDES\" CHANGE THEIR OBJECTIVE. AN ELECTRFIED WIRE BARRIER. CANTON'S RENEWED CONFIDENCE. NANKING DIVISION REACHES SHIUKWAN. TO WELCOME NANKING TROOPS. SHIUHING IN DANGERS. CANTON QUIET. NANKIG REINFROCEMENTS. ARRIVAL BY SEA. \"IRONSIDES\" CHANGE OF PLAN. ATTACK ON YINGTAK ABANDONED. PEI CHUNG HIS. CHINESE CHAMBR OF COMMERCE. LOCAL BANKNOTES IN GREAT DEMAND. MORE WANTED FOR BUSINESS. THE LEGISLATIVE COUNCIL. NEW BILLS PASS FIRST READING. STAMP DUTY AND LIQUOR. NEWSPAPER LIBEL. DEFENDANTS CONSENT TO JUDGEMNT. APOLOGIES AND WITH DRAWLALS. THE HARBOUR PIPE LINE. MATERIAL FROM HOME DELAYED. DATE OF COMPLETION NOT POSTPONED. TRAFFIC IN YOUNG GIRLS. \"DECOY\" SENTENCED TO SIX MONTHS. \"CHINA WILL...",
+              "subject": [
+                "孖剌西報",
+                "孖剌西报",
+                "Hong Kong Daily Press"
+              ],
+              "collection": [
+                "china-mail",
+                "newspapers"
+              ],
+              "date": "1929-11-29T00:00:00Z",
+              "year": 1929,
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "item_size": 74665351,
+              "files_count": 16,
+              "downloads": 56,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2023-12-08T15:10:24Z",
+              "publicdate": "2023-12-08T15:10:24Z"
+            },
+            "highlight": null,
+            "_score": [
+              176.82753
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "IMT_1929112201",
+              "title": "Irma times (1929-11-22)",
+              "description": "Page 1: - Weekly Letter from the Capital - To Train for Bout November 28th - M. D. Battleriver Council Minutes - Local News - Burglars Enter Irma Store - News Items from Kinsella Page 2: - The Problem of Narcotics - Airing a Grievance - Protection for Miners - Local News - Fighting Forest Fires at Night - Power of Sound Waves - Preserving Old Windmills - Exporting Electrieity - Local News - Canada's Economic Conditions - To Honor Pioneer - Local News - Joint Branch Line Programme Announced - A Remarkable Tree - Meetng of Two Seas - Didn't Interest Him - Local News - Local News - Reason Prince Sold Hunters - Canadian Fliers Organize Page 3: - League of Nations Society Accomplishing Good Work, but Handicapped by Lack of Funds - Canada's New Northwest - Had Tried It - Local News - Imperial Farmers' Union - Western Horses Go East - No Introduction Needed - His Explanation - Egyptians Reverence Paim Tree - Local News - Local News - Miracle of Conducting - Evidence of Ancient Custom - Local...",
+              "subject": [
+                "Irma times"
+              ],
+              "collection": [
+                "peel_newspapers",
+                "peel",
+                "university_of_alberta_libraries"
+              ],
+              "date": "1929-11-22T00:00:00Z",
+              "year": 1929,
+              "genre": [
+                "Newspaper"
+              ],
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "item_size": 90161400,
+              "files_count": 19,
+              "downloads": 60,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2022-09-20T23:09:12Z",
+              "publicdate": "2022-09-20T23:09:12Z"
+            },
+            "highlight": null,
+            "_score": [
+              175.0179
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "opiumwarsaddicti0000hane",
+              "title": "The opium wars : the addiction of one empire and the corruption of another",
+              "description": "xii, 334 pages : 24 cm",
+              "subject": [
+                "China -- History -- Opium War, 1840-1842",
+                "China -- History -- Foreign intervention, 1857-1861",
+                "China"
+              ],
+              "creator": [
+                "Hanes, William Travis, 1954-"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "2005-01-01T00:00:00Z",
+              "year": 2005,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 19,
+              "num_reviews": 1,
+              "item_size": 1024650604,
+              "files_count": 34,
+              "downloads": 535,
+              "week": 1,
+              "month": 11,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_browse",
+              "avg_rating": 0,
+              "addeddate": "2022-06-01T17:21:18Z",
+              "reviewdate": "2026-06-26T02:36:01Z",
+              "publicdate": "2022-05-30T23:39:11Z"
+            },
+            "highlight": null,
+            "_score": [
+              170.12772
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "NPCM19260918",
+              "title": "China Mail 1926-09-18",
+              "description": "NEW WAR DECLARED. CHANG AS \"A SLAVE TO LABOUR.\" Sun Chuan-fang's Ultimatum. LIQUID FIRE TERROPS THREAT TO BURN OUT WUCHANG. WAR ON TRAITORS. Alliance Possible Now. Liquid Fire Terrors. Reds Surrender. REPORTS BY MAIL. Truce Before Bombardment of Wuchang. Chinese Civilians Murdered. Wu Pei-fu Falls Back. Foreign Missions Safety. DAIRY FARM CO. CHANGES OF FINANCIAE YEAR. DIVIDEND FACTS. INTERPORT CRICKET. WANHSIEN SEQUEL. 2nd Naval Expedition's Secrecy. YANG SEN SHOWS FIGHT. Will negotiations or Reprisals be Next Step? Prediction Borne Out. Expedition Unavoidable. Southerners Again. PRISON HEALTH. COMMERCE AND FINANCE. LOCAL SHARES. MOXON AND TAYLOR'S REPORT. WEEK'S REVIEW. GULA KULUMPONG DIVIDENG. KUALA LUMPUR SHARE MARKET. LONDON BULLION. WINNING GOOD-WILL. BACK FROM U. S. P. L. JUDGE PASSES THROUGH HONGKONG. INDEPENDENCE VIEWS. MONDAY'S CONCERT. LOCAL ARTISTES FOR HOSPITALS. ALIOCE MEMORIAL PLAN. Indefatigable Helpers. Appeal to Public. THE INSTITUTE. GOOD SERVICE TO INTERNATINALE...",
+              "subject": [
+                "德臣西報",
+                "德臣西报",
+                "China Mail"
+              ],
+              "collection": [
+                "china-mail",
+                "newspapers"
+              ],
+              "date": "1926-09-18T00:00:00Z",
+              "year": 1926,
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "item_size": 71025339,
+              "files_count": 16,
+              "downloads": 43,
+              "week": 1,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2023-12-02T22:01:59Z",
+              "publicdate": "2023-12-02T22:01:59Z"
+            },
+            "highlight": null,
+            "_score": [
+              169.20212
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "IMT_1924041101",
+              "title": "Irma times (1924-04-11)",
+              "description": "Page 1: - Province Seeks Nat'l Resources - Lots of Moisture in Irma District - Avonglen News. - Market Report - Heirs Wanted. - Easter Dawn - Irma Tennis Club Meeting - Liquor Store at Wainwright - Oil Refinery for Edmonton - Two Holidays. - Jarrow Jots. - Eradication of Wild Oats - Six Men Injured in Gas Explosion at Holden Sunday - Two Alberta Branch Lines - In other Towns. Page 2: - Immigration Policies - All Wanted to See the Eclipse - 686 Put to Death - Will Carry Parachutes - Movement Across Border - U. S. Buys Our Farm Products - Influence of Tobacco - Local News - A Fallen Planet? - Will Lend Assistance - Will Supply Farm Help - Lower Taxation Campaign Progressing - Local News - Mirror of 55 B. C. Found - Not Afraid of Knockers. - Airplane Service to India - Local News Page 3: - Mineral Resources of Canada Are Shown to be among Our Greatest National Assets - Increase in Gold Exports - Farm Values Drop - Japs Build Lumber Mill - No Excitement - Local News - Local News -...",
+              "subject": [
+                "Irma times"
+              ],
+              "collection": [
+                "peel_newspapers",
+                "peel",
+                "university_of_alberta_libraries"
+              ],
+              "date": "1924-04-11T00:00:00Z",
+              "year": 1924,
+              "genre": [
+                "Newspaper"
+              ],
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "item_size": 89828871,
+              "files_count": 19,
+              "downloads": 65,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2022-09-20T20:58:04Z",
+              "publicdate": "2022-09-20T20:58:04Z"
+            },
+            "highlight": null,
+            "_score": [
+              165.52155
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "isbn_9780754664109",
+              "title": "The idea of work in Europe from antiquity to modern times",
+              "description": "xv, 368 p. : 25 cm",
+              "subject": [
+                "Work -- Social aspects -- Europe -- History"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "nationaluniversity"
+              ],
+              "date": "2009-01-01T00:00:00Z",
+              "year": 2009,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 4,
+              "item_size": 987852745,
+              "files_count": 32,
+              "downloads": 95,
+              "week": 0,
+              "month": 4,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_printdisabled",
+              "addeddate": "2023-07-14T00:46:03Z",
+              "source": "removed",
+              "publicdate": "2023-07-07T01:40:36Z"
+            },
+            "highlight": null,
+            "_score": [
+              162.62201
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "dickenseuropenew0000unse",
+              "title": "Dickens, Europe, and the new worlds",
+              "description": "xix, 307 pages ; 23 cm",
+              "subject": [
+                "Dickens, Charles, 1812-1870 -- Knowledge -- Europe -- Congresses",
+                "Dickens, Charles, 1812-1870 -- Knowledge -- America -- Congresses",
+                "Dickens, Charles, 1812-1870 -- Knowledge -- Foreign countries -- Congresses",
+                "Dickens, Charles, 1812-1870 -- Knowledge and learning -- Congresses",
+                "Dickens, Charles, 1812-1870 -- Influence -- Congresses",
+                "Dickens, Charles 1812-1870",
+                "Dickens, Charles, (1812-1870) -- Influence -- Congrès",
+                "Dickens, Charles, (1812-1870) -- Et l'Europe -- Congrès",
+                "Dickens, Charles, (1812-1870) -- Et l'Amérique -- Congrès",
+                "Dickens, Charles",
+                "Dickens, Charles, 1812-1870",
+                "English literature -- European influences -- Congresses",
+                "English literature -- American influences -- Congresses",
+                "Geschichte",
+                "Kulturkontakt",
+                "Rezeption",
+                "Europe dans la littérature",
+                "Amérique dans la littérature",
+                "Kongress",
+                "English literature -- American influences",
+                "English literature -- European influences",
+                "Influence (Literary, artistic, etc.)",
+                "Learning and scholarship",
+                "Literature",
+                "Foreign countries",
+                "America -- In literature -- Congresses",
+                "Europe -- In literature -- Congresses",
+                "Europe -- Dans la littérature -- Congrès",
+                "Amérique -- Dans la littérature -- Congrès",
+                "America",
+                "Europe"
+              ],
+              "collection": [
+                "internetarchivebooks"
+              ],
+              "date": "1999-01-01T00:00:00Z",
+              "year": 1999,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 8,
+              "item_size": 657702054,
+              "files_count": 32,
+              "downloads": 101,
+              "week": 1,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_printdisabled",
+              "addeddate": "2020-09-20T10:01:33Z",
+              "source": "removed",
+              "publicdate": "2020-09-15T11:56:47Z"
+            },
+            "highlight": null,
+            "_score": [
+              162.50792
+            ]
+          }
+        ]
+      },
+      "collection_titles": {
+        "History-of-the-Discovery-of-Cinematography": "The History of the Discovery of Cinematography",
+        "btvma": "Bridgewater TV Access",
+        "peel_newspapers": "Peel's Prairie Provinces - Newspapers",
+        "journals_contributions": "Miscellaneous Contributed Journals and Academic Newsletters",
+        "usgovernmentmirrors": "US Government Mirrored Documents (Citizen Collection)",
+        "nationaluniversity": "National University",
+        "peel": "Peel's Prairie Provinces",
+        "marygrovecollege": "Marygrove College Library",
+        "oapen-library": "OAPEN Library of Open-Access Materials",
+        "university_of_alberta_libraries": "University of Alberta Library",
+        "journals": "Journals",
+        "claremont_school_of_theology": "Claremont School of Theology Library Donation",
+        "ericarchive": "Education Resources Information Center (ERIC) Archive",
+        "china-mail": "The China Mail",
+        "community_media": "Community Media Archive",
+        "patron-library-collection": "Patron Libraries (Libraries from Patrons)",
+        "podcasts_mirror_bobarchives": "Podcasts Mirror (administered by bobarchives)",
+        "podcasts_mirror": "Podcasts Mirror",
+        "newsandpublicaffairs": "News & Public Affairs",
+        "newspapers": "Newspapers",
+        "government-documents": "Government Documents (Worldwide)",
+        "thingiverse": "Thingiverse Archive",
+        "internetarchivebooks": "Internet Archive Books"
+      }
+    },
+    "hit_schema": {
+      "item": {
+        "identifier": {
+          "multivalue": false,
+          "mapping": "string"
+        },
+        "noindex": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "optional": true
+        },
+        "title": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "description": {
+          "multivalue": false,
+          "mapping": "string",
+          "dressing": {
+            "truncate": 1000
+          },
+          "optional": true
+        },
+        "subject": {
+          "multivalue": true,
+          "mapping": "string",
+          "dressing": {
+            "truncate": 1000
+          },
+          "optional": true
+        },
+        "creator": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "collection": {
+          "multivalue": true,
+          "mapping": "string",
+          "comment": "may be a superset of metadata collection field"
+        },
+        "date": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "year": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed from date",
+          "optional": true
+        },
+        "genre": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "volume": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "type": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "language": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "mediatype": {
+          "multivalue": false,
+          "mapping": "string"
+        },
+        "licenseurl": {
+          "multivalue": false,
+          "mapping": "string__url",
+          "optional": true
+        },
+        "num_favorites": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true,
+          "comment": "computed during document construction"
+        },
+        "num_reviews": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true,
+          "comment": "computed during document construction"
+        },
+        "item_size": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "bytes; computed during document construction"
+        },
+        "files_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction"
+        },
+        "item_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction",
+          "optional": true
+        },
+        "displayed_item_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction, may be inferred from item_count",
+          "optional": true
+        },
+        "collection_files_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction, for collection items only",
+          "optional": true
+        },
+        "collection_size": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "bytes; computed during document construction, for collection items only",
+          "optional": true
+        },
+        "downloads": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "total views over item lifetime, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "week": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "views over a seven-day period, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "month": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "views over a month, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "indexflag": {
+          "multivalue": true,
+          "mapping": "string",
+          "comment": "item characterization including noindex status"
+        },
+        "lending___available_to_borrow": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___available_to_browse": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___available_to_waitlist": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___status": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "avg_rating": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true
+        },
+        "addeddate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "issue": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "format varies",
+          "optional": true
+        },
+        "source": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "format varies",
+          "optional": true
+        },
+        "reviewdate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "publicdate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "date_favorited": {
+          "multivalue": false,
+          "mapping": "date",
+          "comment": "not metadata; only present in favorites lists, sourced from Lists API",
+          "optional": true
+        },
+        "reviews_data": {
+          "multivalue": true,
+          "dressing": {
+            "truncate": false
+          },
+          "mapping": "string",
+          "comment": "untruncated JSON encoded data used for Account reviews",
+          "optional": true
+        }
+      }
+    }
+  }
+}

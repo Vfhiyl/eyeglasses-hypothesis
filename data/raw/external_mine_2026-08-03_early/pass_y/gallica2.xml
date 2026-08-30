@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<srw:searchRetrieveResponse xmlns:ns6="http://gallica.bnf.fr/namespaces/gallica/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <srw:version>1.2</srw:version>
+    <srw:echoedSearchRetrieveRequest>
+        <srw:query>(gallica all "Thomas Cusac")</srw:query>
+        <srw:version>1.2</srw:version>
+    </srw:echoedSearchRetrieveRequest>
+    <srw:numberOfRecords>1070</srw:numberOfRecords>
+    <srw:extraResponseData>&lt;numberOfRecordsDecollapser&gt;4399&lt;/numberOfRecordsDecollapser&gt;</srw:extraResponseData>
+    <srw:records>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Oliver, Vere Langford. Auteur du texte</dc:creator>
+                    <dc:date>1894-1899</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>3 vol. in-fol., fig., pl., portr. et cartes en noir et en coul.</dc:format>
+                    <dc:format>Nombre total de vues : 506</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bd6t57808542</dc:identifier>
+                    <dc:identifier>NUMS-100780854</dc:identifier>
+                    <dc:language>eng</dc:language>
+                    <dc:publisher>Mitchell and Hughes (London)</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb310345323</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb310345323</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, FOL-NT-2574 (1)</dc:source>
+                    <dc:title>The History of the island of Antigua, one of the Leeward Caribbees in the West Indies... by Vere Langford Oliver,.... Volume 1</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>0</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bd6t57808542.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bd6t57808542</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bd6t57808542.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bd6t57808542.medres</medres>
+                <nqamoyen>88.27</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t57808542.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bd6t57808542</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:description>Numérisation effectuée à partir d'un document original.</dc:description>
+                    <dc:description>Cuesta, Francisco de Paulo . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugieux, Jean-Baptiste-Vincent-François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuginaud, Nicolas . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnac, Armand-Louis-Simon-Claude (comte de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnac, Louis-Philippe (marquis de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnac (chevalier de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnac de l'Orme, François de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnat . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnet, Clovis . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnet, Pierre-Hermann . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnet . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnet de Montarlot, Claude-François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnet de Montarlot, Claude-François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnet de Montarlot, Claude-François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnet de Montarlot, Claude-François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnet de Montarlot, Claude-François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnet de Montarlot, Claude-François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnet de Montarlot, Claude-François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnet de Montarlot, Claude-François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnet de Montarlot, Claude-François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugniard . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnot, Etienne . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnot, Etienne . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnot, Etienne-Jules . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnot . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnot . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnot d'Aubigny, Nicolas . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnot de l'Epinay, Armand-Thomas . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnot l'Epinay, Clément de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnot de Romenelle, Come-Jean . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuignet, Bernard-François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuillé . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuiller . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuillerier, Charles . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuillier, Ernest . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuiné . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuinet, François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuinet, Louis-Constantin . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuinet . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuisenier, Claude-Joseph-Charles . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuisi . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuisinier, Jules . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuisinier . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuisinier . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuisinier-Boutrou . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuisinier de Lisle, Gustave . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuissart . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuizenet, Jean-Claude . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cujas, Léonard . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cujas, Pierre . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Culdorge . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Culembourg, Louis . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Culhiat de Coreil, Jacques-Philippe . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Culhiat de Coreil, Jacques-Philippe . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Culhat de Coreil . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Culié, Louis . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Culié, père, Louis-Victor . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Culié, fils, Louis-Victor . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Culié . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cullant, Charles de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cullant, Charles de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cullant, Charles de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cullar . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description> Cullerier, dit Roux, Auguste . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cullerier, François-Guillaume-Aimé . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cullerier . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cullet . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cullo, François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cullon, Claude-Armand de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Culloz . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cully, César (comte de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Culminoin de Tayac . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Culot, Désiré . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Culot, Guillaume . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Culot, Guillaume . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Culot . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Culot, fils . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Culoteau, Florand . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cultet . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Culty, de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Culty, de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cumane, Dijon de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cumberland, de (duc, comte de Dublin) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cumbiaso . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cumenal, Pierre . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cumenal, Pierre . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cumenge, Jean-Auguste . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cumes (marquis de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cumier . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cumin, Désiré . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuminet, Charles . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cummings, James . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cummings, William-Haymabb . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cumond, de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cumond, de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cumont, Nicolas de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cunat, Charles . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuneaux de Blancmirel . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuneo d'Ornano, François-Antoine . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuneo d'Ornano . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuneo d'Ornano, Jean-Baptiste . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuneo d'Ornano . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cunha, Ant.-Caetano . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cunha Reis, Basilien . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cunier, David-Charles-Henry . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cunier, David-Charles-Henry . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cunier . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cunier . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cunier, fils, Hippolyte-Louis-Amour . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cunier, Philippe-Vincent . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cunier, Pierre-Louis-Joseph . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cunier, Pierre-Louis-Joseph . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cunier . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cunier . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cunietti, Léopold . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cunietti . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cunieux, Marie-Adrien Dalmais (baron de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuniez . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cunin Gridaine . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cunissi . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cunissy . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cunka (chevalier de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cunliffe, Foster . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cunninghame (sic) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuno, Frédéric . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cunou . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuny, Armand . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuny, Auguste . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuny . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuny . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuny, Charles . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuny, Claude-François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuny, Eugène . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuny, Jean-Louis-Camille . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuny, Jean-Nicolas . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuny, Louis-Joseph . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuny, Pierre . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuny, Pierre-Etienne . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuny, Victor . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuny . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuny . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuny de Beaumont, Charles-Joseph . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cupers, Claude . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cupidon, Jean-Louis . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cupillard, Claude-Joseph . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuppé, Mathurin . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuprun, Edouard-Joseph . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description> Cuq, dit Valance, Jean-Claude . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuq . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuquemelle, Louis-François-Benjamin . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuquemelle, Louis-François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuquemelle, B. . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curali, Jean-Baptiste . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curat, Claude-André . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curcier, aîné, André . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cure, Gustave . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curé, Jacques-Charles . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curé . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curé . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curé . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curé, fils . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cure-Lacroix, Joseph . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curel, François de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curel, François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curel, Jean-Baptiste . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curel, Joseph-Antoine . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curel, aîné, Louis-Lazare-Martin . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curel . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curel . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curelier, Claude-François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curet, Jean-Baptiste-Augustin . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curet, J.-B.-A. . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curet, Louis . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curet . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curet, Victor-Aimé . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curet . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curial, Jacques-Auguste . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curial, Philibert-Jean-Baptiste-François (comte) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curial, Jean-Baptiste . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curial . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curie, Ferdinand . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curie, Paul . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curie, Paul . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curie, Pierre-Etienne . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curie . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curien, J. . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curien, Jean-Nicolas . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curien, Nicolas . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curillon, Claude . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curione, Benoît . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curlo, Jean-Pierre . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curmer, Alexandre . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curmer . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curmer de Saint Saer . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curnest, frères . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curnex, Paul-David-Ferdinand . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curnier, François-Théodore de Pilvert (chevalier) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curnier, I.-P. . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curnier, Marie-Pierre-Laurent-Jean-Charles . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curnier, Marie-Pierre-Laurent-Jean-Charles . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curnier . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curnieu (comtesse de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curnieu (comtesse de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curnieux, Marie-Adrien Dalmais (baron de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curnillon, Antoine . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curo, Jacques . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curo . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curquet . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Currac, Ant. . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Currat, Claude-André . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Currat . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cursay, Etienne-Simon (ou Joseph-Etienne) de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cursay, de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curt, François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curt, François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curt, de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curt (chevalier de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curt (chevalier de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curt Saint Antoine . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curtat, Antoine . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curtelin, Pierre . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curten, Maximilien-Auguste . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curten, Auguste-Maximilien . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curten (chevalier) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curtet, Michel . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curti, Eloy . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description> Curtil, dit Vinière . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curtillet, Joseph . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curtine, Guillaume . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curto, Jean-Paul . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curto, Jean-Paul . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curton, Alexandre . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curton, Pierre-François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curtos, Pierre . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curutchet, François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curvalle, Louis . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cury, Thomas . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curys, de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curzay, Etienne-Simon (chevalier de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cusac, Jean . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cusarque . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cusenier, Charles . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cusenier, Eugène . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cusenier, Jean-Etienne . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cusin, Claude . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cusin, Pierre-Nicolas . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cusinet, François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuspin . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cussa, Franco-Nashri (Pacha) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cussart . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cussas . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cussé de Boisgelin . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cusserots . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cusset, Camille . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cusset, Camille . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cusset, Joseph . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cussol, Honoré . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cusson, Jean . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cusson . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cusson, Joseph . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cusson, ayné . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cusson, aîné . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cusson, aîné . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cusson . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cusson . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cussy, Auguste de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cussy, Gabriel de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cussy, Gabriel de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cussy, Gabriel de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cussy, J. de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cussy, Léonor de (baron (de l'emp.), chevalier, marquis de Jucoville) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cussy, Léonor de (baron (de l'emp.), chevalier, marquis de Jucoville) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cussi, Marie-Léonor-Ambroise (marquis de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cussy, Marie-Léonor-Ambroise de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cussy (marquis de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cussy (baron de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cussy (baron de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cussy, Marie-Léonor-Louis-Ambroise de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cussy (marquis de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cussy, Louis de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cussy, de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cussy, de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cussy . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cussy Vouilly, de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Custaud . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Custine, Adam-Philippe (comte de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Custines, Armand (comte de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Custines (comte de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Custine (comte de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Custine, Philippe (vicomte de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Custine (vicomte de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Custine . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Custot, Henry . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Custot, Henry . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Custot, Joseph-Amand . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Custot . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Custot . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Custot, Arnaud . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cutty, de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuve . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier, Alexis-François-Joseph . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier, André-Servais . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier, Bernard-Joseph . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier, Bonaventure . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier, aîné, François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier, François-Xavier . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier, Jacques . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier, Jacques-Joseph . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier, Joseph-Henry . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier, Jean . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier de Trie, Jean-Guillaume-Augustin . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier de Trie, Jean-Guillaume-Augustin . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier de Trie, Jean-Guillaume-Auguste . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier de Trie, Jean-Guillaume-Auguste . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier de Trie . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier de Trie . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier de Trie . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier de Trie . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier de Trie, F.-G.-Antoine . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier de Trie, F.-G.-Antoine . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier de Trye, Jean-Guillaume-Augustin . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier de Trye, Jean-Guillaume-Augustin . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier de Trie . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvellier, Camille . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvellier, Louis-Camille . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvellier de Cuverville, Jacques-François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuverville, Louis-Gabriel de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvet, Adolphe . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuviglié, Jean-Baptiste . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvilier, Joseph-Eugène . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvillier, Bernard-Joseph . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvillier, Florent . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvillier, Fr. . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvillier, François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvillier, Louis de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvillier, Pierre-G.-Ferdinand . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvillier, Pierre-Joseph . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvillier . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvilliez . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvinelle . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuyper, François de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuyper, de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuzen, Benoist . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuzent, Gilbert . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuzent, Gilbert-Henri . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuzent, fils, Gilbert-Henri . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuzent, Henri-René . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuzent, père, René . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuzent . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuzent . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuzieu, Denis de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuzieux . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuzin, Claude-Guillaume . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuzon . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuzin, François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cyallis, Guillaume . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cyberns, Louis-Alexandre Cholier (chevalier de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cy Estebe . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cyeth . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cymon de Souville, Joseph-Pascal-Léon (chevalier de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cymon de Fonville, de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cypierre de Chevilly (baron de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cypierre de Chevilly, Perrin de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cypierre, de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cyr . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cyrème de Banville . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cyreme de Banville . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cysternes, Pierre de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cytey, de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cyvoct . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Czacki . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Czarnecki . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Czarnecki . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Czarnowski, Gérard . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Czarnowski, Gérard . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Czarnomski, Jacob . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Czartorysky, Adam-Casimir (prince) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Czartorysky, Adam . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Czartorysky, Adam . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Czeptowski, Charles . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Czernichowski, Léon . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Czernichowski, Léon . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Czernischef, Grégoire de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Czerwinski, Jean . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Czinski, Jean . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Czynski, Jean . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Czinski . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Daage . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Daamen, Gérard . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabadie, Baptiste . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabadie, Joachim . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabadie, Pierre . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabadie . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabancourt, René . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabas . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabasse, Pierre . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabasse, jeune, Pierre-Jean . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabat . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabat . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabat . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabat . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabaud . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabaut, Antoine . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabbaché . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabbadie, Jean-Joseph . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabbadie, Joseph . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabbadie . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabbené . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabedeilhe, Louis . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Daben . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabert, Nicolas-Jean-Georges . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabescot, Jean . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabescot, Jean . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dablain, K. . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dableville, Langlois . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabon, Constant . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabos . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabos . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabouin . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabouin . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Daboval, Jacques-Nicolas . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabren . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Daburon de Mantelon, Pierre-Jean-François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabut . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dachar, François-Alexis . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Daché . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Daché . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacher, Jean-Jacques-Dominique-Marie . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacher de Toranche, Gilbert . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacheux, Louis-Victor . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacheux, Louis-Victor . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacheux . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacheux . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacheux . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacheux . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacier, Bon-Joseph . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacier, Edmé-Claude . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacier . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Daclain . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Daclin, Antoine-Louis . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Daclin, Antoine-Louis . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Daclin, Antoine-Louis . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Daclin . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Daclin . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Daclin . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Daclin, Jean-François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Daclin, Léon . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Daclin, Mathias . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Daclin . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Daclin . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacosta, Aaron-Gonier . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacosta, Charles-Jacques . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacosta, Ch.-Jacques . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacosta, père, E. . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacosta, François-Jean . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacosta, G. . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Da Costa, Gaston . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Da Costa, Gaston . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Da Costa, Hippolyte-Joseph, esq. . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Da Costa, Hippolyte-Joseph, esq. . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Da Costa, H.-J. . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Da Costa, Isaac . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Da Costa, Jacob-Mendez . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacosta, Jean-Ferrier . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacosta, Jean-Franco . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacosta, Jean-Franco . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacosta, Jean-Xavier-Tuburce-Laite . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacosta, cadet, Joseph-Yves . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Da Costa, Mendès Adolphe Auguste . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Da Costa, Raphaël-Mendès . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacosta, aîné, René-Julien . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacosta, Samuel . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacosta, aîné . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacosta . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacosta . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacosta . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacosta . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacosta . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Da Costa-Cuelho, José-Mendès . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Bulletin de Recherches . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Da Costa Jessurun, Is. . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacosta de La Fleuriais . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacosta de La Seronnière . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacosta-Mendès . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacosta-Pimenta, Jean . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Da Costa E Sampajo . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacqué, L.-Th. . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacquin, Jacques-Joseph . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacquin, aîné, Julien . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacquin, Julien . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacquin, jeune, Louis-Joseph . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacquin . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacrux, Francisco-José . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Da Cruz Mac-Cowan, Francis . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dadin, Jean-Baptiste . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dadou . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Daën, Charles-Etienne . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Daën, Florian . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Daffi, Maurice . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Daffringues . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dagallier, François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dagallier, Marc . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dagallier . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dagallier . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dagame, F. . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dagand . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dagassies, Athanase . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dagault, Martin . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dage . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dagel Desgeanges, Charles-Hardouin . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dager, Rodolphe . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dagero, Dominique . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dagerson . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dages, Domenico . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dageville . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dageville, Jacques-Gabriel . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dageville, Louis . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dageville, fils . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dageville . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dagge . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dagier, Auguste . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dagna, Dominique-Alfred . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dagnan, fils . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dagnaux . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dagne . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dagneaux, Louis-Auguste . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dagneaux, Louis-Auguste . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuesta, Francisco de Paulo . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugieux, Jean-Baptiste-Vincent-François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuginaud, Nicolas . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnac, Armand-Louis-Simon-Claude (comte de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnac, Louis-Philippe (marquis de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnac (chevalier de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnac de l'Orme, François de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnat . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnet, Clovis . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnet, Pierre-Hermann . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnet . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnet de Montarlot, Claude-François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnet de Montarlot, Claude-François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnet de Montarlot, Claude-François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnet de Montarlot, Claude-François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnet de Montarlot, Claude-François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnet de Montarlot, Claude-François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnet de Montarlot, Claude-François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnet de Montarlot, Claude-François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnet de Montarlot, Claude-François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugniard . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnot, Etienne . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnot, Etienne . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnot, Etienne-Jules . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnot . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnot . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnot d'Aubigny, Nicolas . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnot de l'Epinay, Armand-Thomas . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnot l'Epinay, Clément de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cugnot de Romenelle, Come-Jean . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuignet, Bernard-François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuillé . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuiller . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuillerier, Charles . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuillier, Ernest . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuiné . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuinet, François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuinet, Louis-Constantin . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuinet . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuisenier, Claude-Joseph-Charles . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuisi . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuisinier, Jules . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuisinier . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuisinier . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuisinier-Boutrou . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuisinier de Lisle, Gustave . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuissart . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuizenet, Jean-Claude . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cujas, Léonard . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cujas, Pierre . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Culdorge . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Culembourg, Louis . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Culhiat de Coreil, Jacques-Philippe . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Culhiat de Coreil, Jacques-Philippe . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Culhat de Coreil . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Culié, Louis . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Culié, père, Louis-Victor . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Culié, fils, Louis-Victor . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Culié . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cullant, Charles de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cullant, Charles de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cullant, Charles de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cullar . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description> Cullerier, dit Roux, Auguste . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cullerier, François-Guillaume-Aimé . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cullerier . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cullet . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cullo, François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cullon, Claude-Armand de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Culloz . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cully, César (comte de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Culminoin de Tayac . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Culot, Désiré . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Culot, Guillaume . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Culot, Guillaume . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Culot . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Culot, fils . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Culoteau, Florand . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cultet . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Culty, de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Culty, de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cumane, Dijon de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cumberland, de (duc, comte de Dublin) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cumbiaso . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cumenal, Pierre . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cumenal, Pierre . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cumenge, Jean-Auguste . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cumes (marquis de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cumier . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cumin, Désiré . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuminet, Charles . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cummings, James . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cummings, William-Haymabb . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cumond, de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cumond, de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cumont, Nicolas de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cunat, Charles . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuneaux de Blancmirel . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuneo d'Ornano, François-Antoine . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuneo d'Ornano . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuneo d'Ornano, Jean-Baptiste . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuneo d'Ornano . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cunha, Ant.-Caetano . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cunha Reis, Basilien . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cunier, David-Charles-Henry . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cunier, David-Charles-Henry . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cunier . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cunier . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cunier, fils, Hippolyte-Louis-Amour . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cunier, Philippe-Vincent . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cunier, Pierre-Louis-Joseph . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cunier, Pierre-Louis-Joseph . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cunier . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cunier . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cunietti, Léopold . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cunietti . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cunieux, Marie-Adrien Dalmais (baron de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuniez . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cunin Gridaine . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cunissi . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cunissy . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cunka (chevalier de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cunliffe, Foster . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cunninghame (sic) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuno, Frédéric . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cunou . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuny, Armand . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuny, Auguste . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuny . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuny . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuny, Charles . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuny, Claude-François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuny, Eugène . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuny, Jean-Louis-Camille . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuny, Jean-Nicolas . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuny, Louis-Joseph . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuny, Pierre . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuny, Pierre-Etienne . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuny, Victor . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuny . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuny . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuny de Beaumont, Charles-Joseph . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cupers, Claude . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cupidon, Jean-Louis . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cupillard, Claude-Joseph . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuppé, Mathurin . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuprun, Edouard-Joseph . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description> Cuq, dit Valance, Jean-Claude . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuq . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuquemelle, Louis-François-Benjamin . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuquemelle, Louis-François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuquemelle, B. . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curali, Jean-Baptiste . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curat, Claude-André . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curcier, aîné, André . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cure, Gustave . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curé, Jacques-Charles . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curé . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curé . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curé . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curé, fils . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cure-Lacroix, Joseph . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curel, François de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curel, François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curel, Jean-Baptiste . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curel, Joseph-Antoine . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curel, aîné, Louis-Lazare-Martin . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curel . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curel . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curelier, Claude-François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curet, Jean-Baptiste-Augustin . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curet, J.-B.-A. . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curet, Louis . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curet . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curet, Victor-Aimé . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curet . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curial, Jacques-Auguste . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curial, Philibert-Jean-Baptiste-François (comte) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curial, Jean-Baptiste . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curial . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curie, Ferdinand . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curie, Paul . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curie, Paul . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curie, Pierre-Etienne . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curie . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curien, J. . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curien, Jean-Nicolas . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curien, Nicolas . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curillon, Claude . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curione, Benoît . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curlo, Jean-Pierre . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curmer, Alexandre . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curmer . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curmer de Saint Saer . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curnest, frères . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curnex, Paul-David-Ferdinand . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curnier, François-Théodore de Pilvert (chevalier) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curnier, I.-P. . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curnier, Marie-Pierre-Laurent-Jean-Charles . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curnier, Marie-Pierre-Laurent-Jean-Charles . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curnier . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curnieu (comtesse de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curnieu (comtesse de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curnieux, Marie-Adrien Dalmais (baron de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curnillon, Antoine . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curo, Jacques . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curo . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curquet . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Currac, Ant. . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Currat, Claude-André . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Currat . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cursay, Etienne-Simon (ou Joseph-Etienne) de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cursay, de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curt, François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curt, François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curt, de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curt (chevalier de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curt (chevalier de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curt Saint Antoine . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curtat, Antoine . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curtelin, Pierre . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curten, Maximilien-Auguste . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curten, Auguste-Maximilien . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curten (chevalier) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curtet, Michel . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curti, Eloy . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description> Curtil, dit Vinière . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curtillet, Joseph . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curtine, Guillaume . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curto, Jean-Paul . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curto, Jean-Paul . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curton, Alexandre . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curton, Pierre-François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curtos, Pierre . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curutchet, François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curvalle, Louis . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cury, Thomas . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curys, de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Curzay, Etienne-Simon (chevalier de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cusac, Jean . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cusarque . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cusenier, Charles . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cusenier, Eugène . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cusenier, Jean-Etienne . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cusin, Claude . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cusin, Pierre-Nicolas . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cusinet, François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuspin . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cussa, Franco-Nashri (Pacha) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cussart . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cussas . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cussé de Boisgelin . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cusserots . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cusset, Camille . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cusset, Camille . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cusset, Joseph . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cussol, Honoré . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cusson, Jean . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cusson . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cusson, Joseph . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cusson, ayné . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cusson, aîné . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cusson, aîné . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cusson . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cusson . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cussy, Auguste de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cussy, Gabriel de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cussy, Gabriel de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cussy, Gabriel de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cussy, J. de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cussy, Léonor de (baron (de l'emp.), chevalier, marquis de Jucoville) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cussy, Léonor de (baron (de l'emp.), chevalier, marquis de Jucoville) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cussi, Marie-Léonor-Ambroise (marquis de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cussy, Marie-Léonor-Ambroise de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cussy (marquis de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cussy (baron de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cussy (baron de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cussy, Marie-Léonor-Louis-Ambroise de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cussy (marquis de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cussy, Louis de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cussy, de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cussy, de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cussy . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cussy Vouilly, de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Custaud . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Custine, Adam-Philippe (comte de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Custines, Armand (comte de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Custines (comte de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Custine (comte de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Custine, Philippe (vicomte de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Custine (vicomte de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Custine . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Custot, Henry . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Custot, Henry . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Custot, Joseph-Amand . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Custot . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Custot . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Custot, Arnaud . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cutty, de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuve . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier, Alexis-François-Joseph . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier, André-Servais . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier, Bernard-Joseph . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier, Bonaventure . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier, aîné, François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier, François-Xavier . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier, Jacques . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier, Jacques-Joseph . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier, Joseph-Henry . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier, Jean . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier de Trie, Jean-Guillaume-Augustin . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier de Trie, Jean-Guillaume-Augustin . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier de Trie, Jean-Guillaume-Auguste . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier de Trie, Jean-Guillaume-Auguste . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier de Trie . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier de Trie . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier de Trie . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier de Trie . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier de Trie, F.-G.-Antoine . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier de Trie, F.-G.-Antoine . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier de Trye, Jean-Guillaume-Augustin . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier de Trye, Jean-Guillaume-Augustin . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvelier de Trie . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvellier, Camille . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvellier, Louis-Camille . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvellier de Cuverville, Jacques-François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuverville, Louis-Gabriel de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvet, Adolphe . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuviglié, Jean-Baptiste . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvilier, Joseph-Eugène . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvillier, Bernard-Joseph . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvillier, Florent . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvillier, Fr. . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvillier, François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvillier, Louis de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvillier, Pierre-G.-Ferdinand . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvillier, Pierre-Joseph . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvillier . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvilliez . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuvinelle . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuyper, François de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuyper, de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuzen, Benoist . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuzent, Gilbert . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuzent, Gilbert-Henri . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuzent, fils, Gilbert-Henri . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuzent, Henri-René . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuzent, père, René . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuzent . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuzent . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuzieu, Denis de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuzieux . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuzin, Claude-Guillaume . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuzon . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cuzin, François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cyallis, Guillaume . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cyberns, Louis-Alexandre Cholier (chevalier de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cy Estebe . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cyeth . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cymon de Souville, Joseph-Pascal-Léon (chevalier de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cymon de Fonville, de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cypierre de Chevilly (baron de) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cypierre de Chevilly, Perrin de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cypierre, de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cyr . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cyrème de Banville . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cyreme de Banville . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cysternes, Pierre de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cytey, de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Cyvoct . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Czacki . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Czarnecki . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Czarnecki . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Czarnowski, Gérard . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Czarnowski, Gérard . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Czarnomski, Jacob . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Czartorysky, Adam-Casimir (prince) . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Czartorysky, Adam . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Czartorysky, Adam . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Czeptowski, Charles . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Czernichowski, Léon . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Czernichowski, Léon . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Czernischef, Grégoire de . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Czerwinski, Jean . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Czinski, Jean . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Czynski, Jean . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Czinski . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Daage . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Daamen, Gérard . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabadie, Baptiste . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabadie, Joachim . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabadie, Pierre . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabadie . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabancourt, René . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabas . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabasse, Pierre . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabasse, jeune, Pierre-Jean . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabat . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabat . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabat . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabat . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabaud . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabaut, Antoine . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabbaché . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabbadie, Jean-Joseph . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabbadie, Joseph . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabbadie . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabbené . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabedeilhe, Louis . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Daben . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabert, Nicolas-Jean-Georges . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabescot, Jean . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabescot, Jean . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dablain, K. . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dableville, Langlois . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabon, Constant . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabos . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabos . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabouin . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabouin . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Daboval, Jacques-Nicolas . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabren . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Daburon de Mantelon, Pierre-Jean-François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dabut . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dachar, François-Alexis . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Daché . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Daché . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacher, Jean-Jacques-Dominique-Marie . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacher de Toranche, Gilbert . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacheux, Louis-Victor . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacheux, Louis-Victor . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacheux . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacheux . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacheux . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacheux . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacier, Bon-Joseph . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacier, Edmé-Claude . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacier . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Daclain . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Daclin, Antoine-Louis . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Daclin, Antoine-Louis . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Daclin, Antoine-Louis . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Daclin . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Daclin . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Daclin . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Daclin, Jean-François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Daclin, Léon . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Daclin, Mathias . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Daclin . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Daclin . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacosta, Aaron-Gonier . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacosta, Charles-Jacques . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacosta, Ch.-Jacques . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacosta, père, E. . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacosta, François-Jean . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacosta, G. . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Da Costa, Gaston . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Da Costa, Gaston . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Da Costa, Hippolyte-Joseph, esq. . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Da Costa, Hippolyte-Joseph, esq. . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Da Costa, H.-J. . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Da Costa, Isaac . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Da Costa, Jacob-Mendez . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacosta, Jean-Ferrier . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacosta, Jean-Franco . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacosta, Jean-Franco . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacosta, Jean-Xavier-Tuburce-Laite . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacosta, cadet, Joseph-Yves . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Da Costa, Mendès Adolphe Auguste . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Da Costa, Raphaël-Mendès . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacosta, aîné, René-Julien . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacosta, Samuel . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacosta, aîné . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacosta . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacosta . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacosta . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacosta . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacosta . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Da Costa-Cuelho, José-Mendès . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Bulletin de Recherches . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Da Costa Jessurun, Is. . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacosta de La Fleuriais . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacosta de La Seronnière . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacosta-Mendès . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacosta-Pimenta, Jean . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Da Costa E Sampajo . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacqué, L.-Th. . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacquin, Jacques-Joseph . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacquin, aîné, Julien . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacquin, Julien . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacquin, jeune, Louis-Joseph . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacquin . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dacrux, Francisco-José . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Da Cruz Mac-Cowan, Francis . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dadin, Jean-Baptiste . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dadou . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Daën, Charles-Etienne . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Daën, Florian . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Daffi, Maurice . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Daffringues . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dagallier, François . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dagallier, Marc . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dagallier . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dagallier . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dagame, F. . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dagand . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dagassies, Athanase . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dagault, Martin . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dage . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dagel Desgeanges, Charles-Hardouin . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dager, Rodolphe . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dagero, Dominique . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dagerson . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dages, Domenico . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dageville . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dageville, Jacques-Gabriel . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dageville, Louis . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dageville, fils . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dageville . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dagge . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dagier, Auguste . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dagna, Dominique-Alfred . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dagnan, fils . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dagnaux . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dagne . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dagneaux, Louis-Auguste . Visualiser la fiche correspondante. </dc:description>
+                    <dc:description>Dagneaux, Louis-Auguste . Visualiser la fiche correspondante. </dc:description>
+                    <dc:format>500 fiches</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b100000767</dc:identifier>
+                    <dc:relation>Notice du catalogue : http://archivesetmanuscrits.bnf.fr/ark:/12148/cc994095</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France. Département des Manuscrits. FM Fichier Bossu (77)</dc:source>
+                    <dc:title>Cuesta-Dagneaux</dc:title>
+                    <dc:type>manuscript</dc:type>
+                    <dc:type>manuscrit</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>1</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b100000767.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b100000767</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b100000767.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b100000767.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b100000767.thumbnail</thumbnail>
+                <typedoc>manuscrits</typedoc>
+                <uri>btv1b100000767</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1892-1914</dc:date>
+                    <dc:description>Variante(s) de titre : Photographie et les Annales photographiques et vélocipédiques réunies</dc:description>
+                    <dc:description>Variante(s) de titre : Photographie et la Revue des sciences photographiques...</dc:description>
+                    <dc:description>Variante(s) de titre : Photographie. La Photographie des couleurs et la Revue des sciences photographiques...</dc:description>
+                    <dc:description>Périodicité : Quotidien</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb32839529x/date</dc:identifier>
+                    <dc:identifier>NUMP-21183</dc:identifier>
+                    <dc:identifier>ISSN 20247834</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>[s.n.] (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb32839529x</dc:relation>
+                    <dc:relation>A pour reproduction : La Photographie (Paris. 1892. Reproduction numérique) = ISSN 2728-2511 (https://gallica.bnf.fr/ark:/12148/cb32839529x/date)</dc:relation>
+                    <dc:source>Bibliothèque nationale de France, département Sciences et techniques, 8-V-25075</dc:source>
+                    <dc:title>La Photographie (Paris. 1892)</dc:title>
+                    <dc:title>La Photographie : applications scientifiques, artistiques et industrielles</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>2</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k9542102x.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb32839529x/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k9542102x.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k9542102x.medres</medres>
+                <nqamoyen>88.54</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k9542102x.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k9542102x</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1882-1894</dc:date>
+                    <dc:description>Périodicité : Trihebdomadaire ; quotidien ; trihebdomadaire</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG00</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG77</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb32708499s/date</dc:identifier>
+                    <dc:identifier>NUMP-20382</dc:identifier>
+                    <dc:identifier>ISSN 21215421</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>[s.n.] (Melun)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb32708499s</dc:relation>
+                    <dc:relation>A pour reproduction : L'Avenir de Seine-et-Marne (Reproduction numérique) = ISSN 2711-6263 (https://gallica.bnf.fr/ark:/12148/cb32708499s/date)</dc:relation>
+                    <dc:relation>Première de couverture : 433380</dc:relation>
+                    <dc:source>Bibliothèque nationale de France, département Droit, économie, politique, JO-4135</dc:source>
+                    <dc:title>L'Avenir de Seine-et-Marne : journal républicain, démocratique..., annonces commerciales, annonces judiciaires ["puis" journal quotidien, républicain, démocratique]</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>3</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k71947068.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb32708499s/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k71947068.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k71947068.medres</medres>
+                <nqamoyen>85.68</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k71947068.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k71947068</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1874-1944</dc:date>
+                    <dc:description>Variante(s) de titre : Le Républicain</dc:description>
+                    <dc:description>Périodicité : Semi hebdomadaire ou hebdomadaire</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG00</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG11</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG11</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb328524688/date</dc:identifier>
+                    <dc:identifier>NUMP-26604</dc:identifier>
+                    <dc:identifier>ISSN 21363501</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>[s.n.] (Narbonne)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb328524688</dc:relation>
+                    <dc:relation>A pour reproduction : Le Républicain de Narbonne (Reproduction numérique) = ISSN 3000-4683 (https://gallica.bnf.fr/ark:/12148/cb328524688/date)</dc:relation>
+                    <dc:relation>Première de couverture : 810281</dc:relation>
+                    <dc:source>Archives départementales de l'Aude, 524 PER</dc:source>
+                    <dc:title>Le Républicain de Narbonne : journal politique, littéraire, commercial, agricole et d'annonces</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>4</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bd6t53551213s.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb328524688/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bd6t53551213s.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bd6t53551213s.medres</medres>
+                <nqamoyen>64.04</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t53551213s.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bd6t53551213s</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1863-1942</dc:date>
+                    <dc:description>Variante(s) de titre : La Petite gazette de Bagnères-de-Bigorre</dc:description>
+                    <dc:description>Variante(s) de titre : La Petite gazette politique, thermale, littéraire &amp; sportive de l'arrondissement de Bagnères-de-Bigorre</dc:description>
+                    <dc:description>Variante(s) de titre : La Petite gazette de l'arrondissement de Bagnères-de-Bigorre</dc:description>
+                    <dc:description>Variante(s) de titre : La Petite gazette thermale, littéraire, sportive de Bagnères-de-Bigorre</dc:description>
+                    <dc:description>Variante(s) de titre : La Petite gazette politique, thermale, littéraire &amp; sportive de Bagnères-de-Bigorre</dc:description>
+                    <dc:description>Variante(s) de titre : La Petite gazette (thermale, littéraire, sportive &amp; d'informations) de l'arrondissement de Bagnères-de-Bigorre</dc:description>
+                    <dc:description>Périodicité : Bihebdomadaire ou hebdomadaire (25 juin 1863-25 déc. 1865) ; six fois par mois (1er janv. 1866-16 sept. 1871) ; hebdomadaire ou hebdomadaire irrégulier (23 sept. 1871-19 janv. 1941) ; bimensuel (26 janv. 1941-mai 1942) ; hebdomadaire (juin-août 1942)</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG00</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG65</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG65</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb32837836j/date</dc:identifier>
+                    <dc:identifier>NUMP-27082</dc:identifier>
+                    <dc:identifier>ISSN 2274987X</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>[s.n.] (Bagnères-de-Bigorre)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb32837836j</dc:relation>
+                    <dc:relation>A pour reproduction : Petite gazette (Bagnères-de-Bigorre. Reproduction numérique) = ISSN 2705-9197 (https://gallica.bnf.fr/ark:/12148/cb32837836j/date)</dc:relation>
+                    <dc:relation>Première de couverture : 480321</dc:relation>
+                    <dc:source>Médiathèque intercommunale de la Haute-Bigorre, PGZT</dc:source>
+                    <dc:title>Petite gazette (Bagnères-de-Bigorre)</dc:title>
+                    <dc:title>Petite gazette : journal de Bagnères-de-Bigorre et des établissements thermaux des Pyrénées : littéraire, scientifique, industriel, agricole et d'annonces</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>5</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bd6t53616009w.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb32837836j/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bd6t53616009w.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bd6t53616009w.medres</medres>
+                <nqamoyen>51.07</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t53616009w.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bd6t53616009w</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Meyer, Paul (1840-1917). Directeur de publication / Directrice de publication</dc:contributor>
+                    <dc:contributor>Havet, Louis (1849-1925). Directeur de publication / Directrice de publication</dc:contributor>
+                    <dc:contributor>Darmesteter, James (1849-1894). Directeur de publication / Directrice de publication</dc:contributor>
+                    <dc:contributor>Chuquet, Arthur (1853-1925). Directeur de publication / Directrice de publication</dc:contributor>
+                    <dc:contributor>Morel, Charles (rédacteur au Journal de Genève). Directeur de publication / Directrice de publication</dc:contributor>
+                    <dc:contributor>Paris, Gaston (1839-1903). Directeur de publication / Directrice de publication</dc:contributor>
+                    <dc:contributor>Zotenberg, Hermann (1834-1909). Directeur de publication / Directrice de publication</dc:contributor>
+                    <dc:contributor>Bréal, Michel (1832-1915). Directeur de publication / Directrice de publication</dc:contributor>
+                    <dc:contributor>Monod, Gabriel (1844-1912). Directeur de publication / Directrice de publication</dc:contributor>
+                    <dc:contributor>La Berge, Camille de (1837-1878). Directeur de publication / Directrice de publication</dc:contributor>
+                    <dc:contributor>Guyard, Stanislas (1846-1884). Directeur de publication / Directrice de publication</dc:contributor>
+                    <dc:contributor>Graux, Charles (1852-1882). Directeur de publication / Directrice de publication</dc:contributor>
+                    <dc:date>1866-1935</dc:date>
+                    <dc:description>Périodicité : Hebdomadaire (1866-1917) ; Bimensuel (1918-1927) ; Mensuel (1928-1933) ; Annuel (1934-1935)</dc:description>
+                    <dc:description>Etat de collection : Année 1, semestre 1 (1866)-Année 69, N.s., T. 102 (1935)</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>Nombre total de vues : 61036</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb32856716t/date</dc:identifier>
+                    <dc:identifier>NUMP-475</dc:identifier>
+                    <dc:identifier>ISSN 11559632</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Libr. A. Franck (Paris)</dc:publisher>
+                    <dc:publisher>E. LerouxE. Leroux (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb32856716t</dc:relation>
+                    <dc:relation>A pour reproduction : Revue critique d'histoire et de littérature (Reproduction numérique) = ISSN 2419-3658 (https://gallica.bnf.fr/ark:/12148/cb32856716t/date)</dc:relation>
+                    <dc:source>Bibliothèque nationale de France</dc:source>
+                    <dc:title>Revue critique d'histoire et de littérature / publiée sous la direction de MM. P. Meyer, Ch. Morel, G. Paris, H. Zotenberg</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>6</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k929432.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb32856716t/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k929432.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k929432.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k929432.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k929432</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Geoffroy de Paris (12..-13.. ; chroniqueur). Auteur du texte</dc:creator>
+                    <dc:creator>Geoffroy de Paris (12..-13.. ; chroniqueur). Auteur du texte</dc:creator>
+                    <dc:date>1827</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>2 parties en 1 vol. (522 p.) ; in-8°</dc:format>
+                    <dc:format>Nombre total de vues : 540</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bd6t5405229w</dc:identifier>
+                    <dc:identifier>NUMS-100405229</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Verdière (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30517293h</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-L45-11 (9)</dc:source>
+                    <dc:title>Chronique métrique de Godefroy de Paris. suivie de la Taille de Paris en 1313 / publiées pour la première fois... par J. A. Buchon</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>7</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bd6t5405229w.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bd6t5405229w</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bd6t5405229w.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bd6t5405229w.medres</medres>
+                <nqamoyen>85.68</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t5405229w.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bd6t5405229w</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Société académique de l'Oise. Auteur du texte</dc:creator>
+                    <dc:date>1847</dc:date>
+                    <dc:description>Etat de collection : t. 1 (1847)-t. 29 (1937)</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : Picardi1</dc:description>
+                    <dc:description>Périodiques</dc:description>
+                    <dc:format>Nombre total de vues : 18106</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb32813221g/date</dc:identifier>
+                    <dc:identifier>NUMP-1300</dc:identifier>
+                    <dc:identifier>ISSN 12805343</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Société académique d'archéologie, sciences et arts du département de l'Oise (Beauvais)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb32813221g</dc:relation>
+                    <dc:relation>A pour reproduction : Mémoires de la Société académique d'archéologie, sciences et arts du département de l'Oise (Reproduction numérique) = ISSN 2534-1979 (https://gallica.bnf.fr/ark:/12148/cb32813221g/date)</dc:relation>
+                    <dc:source>Bibliothèque nationale de France</dc:source>
+                    <dc:subject>Oise (France) -- Histoire</dc:subject>
+                    <dc:title>Mémoires de la Société académique d'archéologie, sciences et arts du département de l'Oise</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>8</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k414709q.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb32813221g/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k414709q.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k414709q.medres</medres>
+                <nqamoyen>91.49</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k414709q.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k414709q</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Cholet, Paul-François-Étienne (1814-1867). Éditeur scientifique</dc:contributor>
+                    <dc:date>1868</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : PoitouCh1</dc:description>
+                    <dc:description>Contient une table des matières</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>1 vol. (XXXIII-382 p.) ; in-4</dc:format>
+                    <dc:format>Nombre total de vues : 438</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k65598559</dc:identifier>
+                    <dc:identifier>NUMM-6559855</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>L. Clouzot (Niort)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb36482608f</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèques de l'Université de Poitiers, 2013-315098</dc:source>
+                    <dc:subject>Baignes-Sainte-Radegonde (Charente, France)</dc:subject>
+                    <dc:subject>Baigne (France)</dc:subject>
+                    <dc:title>Cartulaire de l'Abbaye de Saint-Etienne de Baigne (en Saintonge) / publié par l'abbé Cholet,...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>9</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k65598559.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k65598559</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k65598559.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k65598559.medres</medres>
+                <nqamoyen>99.93</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k65598559.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k65598559</uri>
+            </srw:extraRecordData>
+        </srw:record>
+    </srw:records>
+    <srw:nextRecordPosition>11</srw:nextRecordPosition>
+</srw:searchRetrieveResponse>

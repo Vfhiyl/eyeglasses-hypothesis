@@ -1,0 +1,17 @@
+person_id,control_qid,control_name,reason
+barbara_brandenburg,Q3876500,Nicoletto Vernia,Pass BN: reverse lifespan (d.@79 vs Barbara d.@59)
+barbara_brandenburg,Q711964,Cristoforo Landino,Pass BN: reverse lifespan (d.@74 vs Barbara d.@59)
+ammannati,Q3876500,Nicoletto Vernia,Pass BN: reverse lifespan (d.@79 vs Ammannati d.@57)
+ammannati,Q711964,Cristoforo Landino,Pass BN: reverse lifespan (d.@74 vs Ammannati d.@57)
+pius_ii,Q299446,Bessarion,Pass BN: reverse lifespan (d.@69 vs Pius d.@59); keep for Sforza
+august_brunswick_wolfenbuettel,Q6555592,"Lionel Cranfield, 1st Earl of Middlesex",Pass BY: drop england birth_only matches from hre ruler cell (keep Andreae/Buchner overlays).
+august_brunswick_wolfenbuettel,Q333098,"Sir Robert Cotton, 1st Baronet, of Connington",Pass BY: drop england birth_only matches from hre ruler cell (keep Andreae/Buchner overlays).
+bourchier_henry_bath,Q1101373,"William Cavendish, 1st Duke of Newcastle",Pass BZ: reverse lifespan (d.@84 vs Bourchier d.@67); keep Selden textual peer. BN-style midneg rebalance.
+philippe_le_hardi,Q744014,Nicholas of Clamanges,Pass CA: reverse densify — ctrl years to 1437 vs Philippe death 1404 (age@death 74 vs 62); keep Montreuil/Gerson.
+tye_thomas,Q3471265,Samuel Whitbread,Pass CA: reverse lifespan densify (d.@76 span45≈22 vs Tye d.@70 T=9); keep Davison/Beckford.
+wolsey,Q6259279,John Stokesley,Pass CB: post-death densify (years to 1539 vs Wolsey death 1530; age 64 vs 57).
+wolsey,Q1788686,Edward Lee,Pass CB: post-death densify (years to 1544 vs Wolsey death 1530; age 62 vs 57).
+tye_thomas,Q6900893,Monkhouse Davison,Pass CB: reverse lifespan (d.@80 vs Tye d.@70); keep Beckford + Hanbury overlay.
+philippe_le_hardi,Q281179,Jean Gerson,Pass CC: post-death densify (all pins 1408/1418/1429 after Philippe death 1404; age@death 66 vs 62); keep Montreuil.
+nicolas_de_baye,Q1237886,Jean de Montreuil,Pass CC: reverse lifespan (d.@64 vs Nicolas d.@55; span45≈19 vs T=9); keep Premierfait (age-matched translator peer).
+jeake_samuel,Q7787846,Thomas Brattle,Pass CC: reverse lifespan densify (d.@56 span45≈11 vs Jeake d.@47 T=2); keep Haistwell/Heathcote.

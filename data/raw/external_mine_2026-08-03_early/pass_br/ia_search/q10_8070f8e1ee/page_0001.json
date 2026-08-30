@@ -1,0 +1,1564 @@
+{
+  "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785940122597",
+  "version": "1x7o",
+  "session_context": {
+    "session_key": "user__alanobrienterry918272@gmail.com",
+    "created": "2026-08-05T14:28:45Z",
+    "client_characterization": {
+      "characterized_by": "asserted_or_authenticated",
+      "preferred_client_ip": null,
+      "client_ip": "23.229.125.197:sra",
+      "preferred_client_useragent": null,
+      "client_useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36:sua",
+      "preferred_client_id": null,
+      "client_id": "alanobrienterry918272@gmail.com:sco"
+    },
+    "username": "alanobrienterry918272@gmail.com",
+    "authentication_method": "cookie",
+    "is_system": false,
+    "is_guest": false,
+    "is_user": true,
+    "is_archive_user": false,
+    "is_qualified": false,
+    "is_archivist": false,
+    "has_universal_privs": false,
+    "has_collection_priv": false,
+    "has_allowed_host_priv": false,
+    "has_vpn_host_priv": false,
+    "has_scan_center_priv": false,
+    "has_any_priv": false,
+    "has_any_priv_permissive": false,
+    "pps": {
+      "is_page_target_owner": false,
+      "contributed_review_on_page": false,
+      "full_text_search_override": false,
+      "sees_sensitive_fields": false
+    },
+    "pps_relevant_user_preferences": {
+      "display__blur_moderated_content": "on"
+    }
+  },
+  "request": {
+    "client_request_parameters": {
+      "client": "page_production_service_endpoint",
+      "user_query": "\"silver spectacles\" OR \"tortoiseshell\" spectacles OR \"spectacle case\"",
+      "hits_per_page": 25,
+      "page": 1,
+      "aggregations": [],
+      "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785940122597",
+      "client_url": "https://archive.org/search?query=%22silver+spectacles%22+OR+%22tortoiseshell%22+spectacles+OR+%22spectacle+case%22"
+    },
+    "backend_requests": {
+      "search": {
+        "root": "(self)",
+        "children": [
+          "collection_title_fetch__64e322496dd689dfd86cbab600fa5ace"
+        ],
+        "request_type": "search",
+        "finalized_parameters": {
+          "client": "page_production_service_endpoint",
+          "user_query": "(redacted)",
+          "hits_per_page": 25,
+          "page": 1,
+          "aggregations": [],
+          "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785940122597",
+          "client_url": "https://archive.org/search?query=%22silver+spectacles%22+OR+%22tortoiseshell%22+spectacles+OR+%22spectacle+case%22",
+          "page_type": "search_results",
+          "fields": [
+            "_tile_"
+          ],
+          "sort": [
+            "_relevance_:desc",
+            "identifier"
+          ],
+          "aggregations_size": 10,
+          "service_backend": "metadata",
+          "scope": "standard",
+          "feature_flags": {
+            "complex_facets": true,
+            "collection_titles": true,
+            "redact_collections": true,
+            "redact_collections_by_privs": false,
+            "redact_empty_collections": true,
+            "redact_admin_collections": true,
+            "protect_flagging_collections": true
+          },
+          "service": "service__metadata__load_balanced"
+        }
+      },
+      "collection_title_fetch__64e322496dd689dfd86cbab600fa5ace": {
+        "root": "search",
+        "parent": "search",
+        "request_type": "collection_title_fetch",
+        "finalized_parameters": {
+          "page_type": "document_fetch",
+          "user_query": "(redacted)",
+          "aggregations": [],
+          "caching": null,
+          "fields": [
+            "identifier",
+            "title"
+          ],
+          "search_as_system": true,
+          "page": 1,
+          "hits_per_page": 250,
+          "sort": [
+            "_efficient_"
+          ],
+          "service_backend": "metadata",
+          "scope": "ill,printdisabled_and_music,scancenter",
+          "service": "service__metadata__load_balanced"
+        }
+      }
+    }
+  },
+  "caching": {
+    "search": {
+      "name": "PPS-1x7o-J:US-RT:s~hit-T:sr-Q:5e6d2066-H:25-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+      "acceptable_names": [
+        "PPS-1x7o-J:US-RT:s~std-T:sr-Q:5e6d2066-H:25-B:mds-RS:sta~CS::P:0+CS:some+BR:1"
+      ],
+      "configuration": {
+        "requested": [],
+        "finalized": {
+          "bypass": false,
+          "recompute": false,
+          "no_compute": false,
+          "ttl_s": 300,
+          "max_age_s": 0,
+          "miss_policy": "none"
+        }
+      },
+      "utilization": {
+        "went_to_cache": true,
+        "alternates_allowed": true,
+        "hit_alternate": false,
+        "hit_canonical": false,
+        "hit": false,
+        "miss": true,
+        "recomputed": true,
+        "stored": true,
+        "acceptable_names_tried": [
+          "PPS-1x7o-J:US-RT:s~std-T:sr-Q:5e6d2066-H:25-B:mds-RS:sta~CS::P:0+CS:some+BR:1"
+        ],
+        "elapsed_s": 0.7316229343414307
+      },
+      "statsd_bucket": "search.pps.cache.metadata.search_results"
+    },
+    "collection_title_fetch__64e322496dd689dfd86cbab600fa5ace": {
+      "name": "PPS-1x7o-J:US-RT:ctf-T:df-Q:2f24b206-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1",
+      "acceptable_names": [],
+      "configuration": {
+        "requested": [],
+        "finalized": {
+          "bypass": false,
+          "recompute": false,
+          "no_compute": false,
+          "ttl_s": 300,
+          "max_age_s": 0,
+          "miss_policy": "none"
+        }
+      },
+      "utilization": {
+        "went_to_cache": true,
+        "alternates_allowed": true,
+        "hit_alternate": false,
+        "hit_canonical": false,
+        "hit": false,
+        "miss": true,
+        "recomputed": true,
+        "stored": true,
+        "elapsed_s": 0.1887950897216797
+      },
+      "statsd_bucket": "search.pps.cache.metadata.search_results"
+    },
+    "summary": {
+      "fetched": [],
+      "computed": [
+        "PPS-1x7o-J:US-RT:s~hit-T:sr-Q:5e6d2066-H:25-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:US-RT:ctf-T:df-Q:2f24b206-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "stored": [
+        "PPS-1x7o-J:US-RT:s~hit-T:sr-Q:5e6d2066-H:25-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:US-RT:ctf-T:df-Q:2f24b206-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "missed": [
+        "PPS-1x7o-J:US-RT:s~hit-T:sr-Q:5e6d2066-H:25-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:US-RT:ctf-T:df-Q:2f24b206-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "bypassed": []
+    }
+  },
+  "elapsed_secs": 0.9416489601135254,
+  "response": {
+    "header": {
+      "succeeded": true,
+      "query_time": 372,
+      "forensics": {
+        "client_characterization": {
+          "client_ip": "23.229.125.197:sra",
+          "client_id": "alanobrienterry918272@gmail.com:sco",
+          "client_useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36:sua",
+          "preferred_client_ip": null,
+          "preferred_client_id": null,
+          "preferred_client_useragent": null,
+          "application_id": {
+            "session": [
+              "pageproduction"
+            ],
+            "request": []
+          },
+          "client_jurisdiction": "US",
+          "preferred_client_jurisdiction": null,
+          "actionable_jurisdiction": "US",
+          "characterized_by": "asserted_or_authenticated",
+          "ensured": true
+        },
+        "routing": {
+          "backend": "es-prod-metadatasearch-filtered",
+          "backend_server": "es-prod-client-o-01",
+          "routed_to_load_balanced": true,
+          "index_addressed": "prod-o-001"
+        },
+        "backend_request_elapsed_secs": {
+          "search": 0.7316229343414307,
+          "collection_title_fetch__64e322496dd689dfd86cbab600fa5ace": 0.1887950897216797
+        }
+      },
+      "elapsed_secs_for_backend_requests": 0.9204180240631104
+    },
+    "body": {
+      "hits": {
+        "total": 4257,
+        "returned": 25,
+        "hits": [
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "thingiverse-2109036",
+              "title": "Personalized spectacle case (2109036)",
+              "description": "This customized case is made for my sunglasses. If you want me to alter the design for your glasses you can send me a message.",
+              "subject": [
+                "thingiverse",
+                "stl",
+                "boogaert",
+                "sunglasses",
+                "spectacles",
+                "mathijs",
+                "Containers",
+                "customized",
+                "personalized",
+                "design",
+                "case",
+                "glasses",
+                "spectacle case"
+              ],
+              "creator": [
+                "Mathijs Boogaert (Mathi_)"
+              ],
+              "collection": [
+                "thingiverse"
+              ],
+              "date": "2017-02-14T00:00:00Z",
+              "year": 2017,
+              "mediatype": "data",
+              "licenseurl": "https://creativecommons.org/licenses/by/4.0/",
+              "item_size": 964325,
+              "files_count": 8,
+              "downloads": 48,
+              "week": 1,
+              "month": 8,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2021-01-09T17:47:04Z",
+              "publicdate": "2021-01-09T17:47:04Z"
+            },
+            "highlight": null,
+            "_score": [
+              5747.7803
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "thingiverse-2634952",
+              "title": "Spectacle-case (2634952)",
+              "description": "The spectacle case consists of 2 symmetrical parts, which past together with superglue. Filament: PLA temp190/40",
+              "subject": [
+                "Glasses",
+                "stl",
+                "thingiverse"
+              ],
+              "creator": [
+                "Dmitriy Light (7Light)"
+              ],
+              "collection": [
+                "thingiverse"
+              ],
+              "date": "2017-11-09T00:00:00Z",
+              "year": 2017,
+              "mediatype": "data",
+              "licenseurl": "https://creativecommons.org/licenses/by/4.0/",
+              "item_size": 854817,
+              "files_count": 5,
+              "downloads": 31,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2021-01-17T04:52:33Z",
+              "publicdate": "2021-01-17T04:52:33Z"
+            },
+            "highlight": null,
+            "_score": [
+              5403.087
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "mma_spectacle_case_168391",
+              "title": "Spectacle case",
+              "subject": [
+                "North and Central America",
+                "Glass, linen",
+                "Linen",
+                "1830–60",
+                "Metropolitan Museum of Art",
+                "United States",
+                "Glass",
+                "American",
+                "Cases"
+              ],
+              "collection": [
+                "metropolitanmuseumofart-gallery"
+              ],
+              "date": "1830-01-01T00:00:00Z",
+              "year": 1830,
+              "mediatype": "image",
+              "item_size": 1224756,
+              "files_count": 8,
+              "downloads": 64,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2014-02-25T01:02:38Z",
+              "publicdate": "2014-02-25T01:02:38Z"
+            },
+            "highlight": null,
+            "_score": [
+              5259.612
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "tortoiseshellbut0000bail",
+              "title": "Tortoiseshell butterflies",
+              "subject": [
+                "Butterflies"
+              ],
+              "creator": [
+                "Bailey, Donna"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "1989-01-01T00:00:00Z",
+              "year": 1989,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 56062127,
+              "files_count": 30,
+              "downloads": 18,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_browse",
+              "addeddate": "2021-05-07T11:00:45Z",
+              "publicdate": "2021-04-30T13:23:13Z"
+            },
+            "highlight": null,
+            "_score": [
+              4690.2505
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "thingiverse-2892509",
+              "title": "Spectacles (2892509)",
+              "description": "These are Spectacles.",
+              "subject": [
+                "spectacles",
+                "thingiverse",
+                "Eyewear",
+                "Eyeglasses",
+                "Toys & Games",
+                "Glasses",
+                "stl"
+              ],
+              "creator": [
+                "Matthew (Matthewkaye)"
+              ],
+              "collection": [
+                "thingiverse"
+              ],
+              "date": "2018-05-04T00:00:00Z",
+              "year": 2018,
+              "mediatype": "data",
+              "licenseurl": "https://creativecommons.org/licenses/by/4.0/",
+              "item_size": 62375,
+              "files_count": 5,
+              "downloads": 28,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2021-01-19T18:58:03Z",
+              "publicdate": "2021-01-19T18:58:03Z"
+            },
+            "highlight": null,
+            "_score": [
+              4592.7793
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "blackspectacles0000unse",
+              "title": "The Black Spectacles",
+              "creator": [
+                "The black spectacles"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "1947-01-01T00:00:00Z",
+              "year": 1947,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 671889336,
+              "files_count": 28,
+              "downloads": 9,
+              "week": 2,
+              "month": 3,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_browse",
+              "addeddate": "2026-03-16T04:11:08Z",
+              "publicdate": "2024-07-09T17:25:59Z"
+            },
+            "highlight": null,
+            "_score": [
+              4542.08
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "jstor-2456125",
+              "title": "The Tortoiseshell Cat",
+              "description": "\"The Tortoiseshell Cat\" is an article from The American Naturalist, Volume 49 . View more articles from The American Naturalist . View this article on JSTOR . View this article's JSTOR metadata . You may also retrieve all of this items metadata in JSON at the following URL: https://archive.org/metadata/jstor-2456125",
+              "creator": [
+                "Whiting, Phineas W."
+              ],
+              "collection": [
+                "jstor_amernatu",
+                "jstor_ejc",
+                "journals"
+              ],
+              "date": "1915-08-01T00:00:00Z",
+              "year": 1915,
+              "volume": "49",
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 2,
+              "item_size": 2440258,
+              "files_count": 16,
+              "downloads": 286,
+              "week": 1,
+              "month": 5,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2013-03-11T22:10:36Z",
+              "source": "http://www.jstor.org/stable/10.2307/2456125",
+              "publicdate": "2013-03-11T22:10:36Z"
+            },
+            "highlight": null,
+            "_score": [
+              4376.6484
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "courrierdesspect00dese",
+              "title": "Courrier des spectacles",
+              "description": "Prospectus for \"Courrier des spectacles,\" which began publication in 1797",
+              "subject": [
+                "Courrier des spectacles",
+                "Booksellers and bookselling",
+                "Periodicals"
+              ],
+              "creator": [
+                "Desenne, Victor, bookseller",
+                "Vente, Louis, 1765-1853, bookseller",
+                "Huet, L.-C., fl. 1792-1807, bookseller",
+                "Mercier de Compiègne, Claude-François-Xavier, 1763-1800, bookseller"
+              ],
+              "collection": [
+                "newberryfrenchpamphlets",
+                "newberry"
+              ],
+              "date": "1797-01-01T00:00:00Z",
+              "year": 1797,
+              "language": [
+                "fre"
+              ],
+              "mediatype": "texts",
+              "item_size": 26397729,
+              "files_count": 24,
+              "downloads": 204,
+              "week": 0,
+              "month": 7,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "addeddate": "2017-06-28T19:51:38Z",
+              "publicdate": "2017-06-28T18:53:39Z"
+            },
+            "highlight": null,
+            "_score": [
+              4288.0264
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "clevelandart-2020.177-black-glazed-tea-bow",
+              "title": "Teabowl with Tortoiseshell Glaze",
+              "description": "Teabowl with Tortoiseshell Glaze, 1100s–1200s. China, Jiangxi Province, Southern Song dynasty (1127-1279). Brown-glazed stoneware with \"tortoiseshell\" pattern, Jizhou ware; overall: 5.9 x 11.5 cm (2 5/16 x 4 1/2 in.). The Cleveland Museum of Art, Nancy F. and Joseph P. Keithley Collection Gift 2020.177",
+              "subject": [
+                "Chinese Art"
+              ],
+              "collection": [
+                "clevelandart"
+              ],
+              "date": "2024-08-06T23:52:08Z",
+              "year": 2024,
+              "mediatype": "image",
+              "licenseurl": "https://creativecommons.org/publicdomain/zero/1.0/",
+              "num_favorites": 1,
+              "item_size": 49591589,
+              "files_count": 9,
+              "downloads": 152,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2022-06-13T18:50:47Z",
+              "publicdate": "2020-03-11T13:43:14Z"
+            },
+            "highlight": null,
+            "_score": [
+              4229.457
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "clevelandart-1940.246-spectacles",
+              "title": "Spectacles",
+              "description": "Spectacles, c. 1816–1820. John Peirce (American). Silver; overall: 11.8 cm (4 5/8 in.). The Cleveland Museum of Art, Gift of Hollis French 1940.246",
+              "subject": [
+                "Decorative Art and Design"
+              ],
+              "creator": [
+                "John Peirce (American)"
+              ],
+              "collection": [
+                "clevelandart"
+              ],
+              "date": "1816-01-01T00:00:00Z",
+              "year": 1816,
+              "mediatype": "image",
+              "licenseurl": "https://creativecommons.org/publicdomain/zero/1.0/",
+              "num_favorites": 2,
+              "item_size": 42295827,
+              "files_count": 9,
+              "downloads": 277,
+              "week": 0,
+              "month": 3,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2019-01-20T16:08:53Z",
+              "publicdate": "2019-01-20T16:08:53Z"
+            },
+            "highlight": null,
+            "_score": [
+              4227.235
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "pub_spectacles",
+              "title": "Spectacles",
+              "description": "Spectacles is a historical journal published in United States focused on Historical Periodical. This collection contains microfilm published in 1807.",
+              "subject": [
+                "Historical Periodical"
+              ],
+              "collection": [
+                "periodicals",
+                "sim_microfilm",
+                "texts"
+              ],
+              "date": "1807-01-01T00:00:00Z",
+              "year": 1807,
+              "language": [
+                "English"
+              ],
+              "mediatype": "collection",
+              "item_size": 71651,
+              "files_count": 7,
+              "item_count": 3,
+              "collection_files_count": 57,
+              "collection_size": 54554763,
+              "downloads": 178,
+              "week": 1,
+              "month": 3,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "collections"
+              ],
+              "addeddate": "2021-07-14T11:19:04Z",
+              "publicdate": "2021-07-14T11:19:04Z"
+            },
+            "highlight": null,
+            "_score": [
+              4152.703
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "eyesspectacles00rohruoft",
+              "title": "Eyes and spectacles;",
+              "description": "14",
+              "subject": [
+                "Spectacles"
+              ],
+              "creator": [
+                "Rohr, Moritz von, 1868-"
+              ],
+              "collection": [
+                "gerstein",
+                "university_of_toronto"
+              ],
+              "date": "1912-01-01T00:00:00Z",
+              "year": 1912,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 361520442,
+              "files_count": 26,
+              "downloads": 1169,
+              "week": 4,
+              "month": 14,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2007-04-10T15:00:52Z",
+              "publicdate": "2007-04-10T15:01:34Z"
+            },
+            "highlight": null,
+            "_score": [
+              4148.035
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "clevelandart-2020.177-tea-bowl-with-tortoi",
+              "title": "Teabowl with Tortoiseshell Glaze",
+              "description": "Teabowl with Tortoiseshell Glaze, 1100s–1200s. China, Jiangxi Province, Southern Song dynasty (1127-1279). Brown-glazed stoneware with \"tortoiseshell\" pattern, Jizhou ware; overall: 5.9 x 11.5 cm (2 5/16 x 4 1/2 in.). The Cleveland Museum of Art, Nancy F. and Joseph P. Keithley Collection Gift 2020.177",
+              "subject": [
+                "Chinese Art"
+              ],
+              "collection": [
+                "clevelandart"
+              ],
+              "date": "2024-08-06T23:52:12Z",
+              "year": 2024,
+              "mediatype": "image",
+              "licenseurl": "https://creativecommons.org/publicdomain/zero/1.0/",
+              "num_favorites": 1,
+              "item_size": 49620165,
+              "files_count": 9,
+              "downloads": 123,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2022-06-13T18:50:47Z",
+              "publicdate": "2021-07-08T09:06:59Z"
+            },
+            "highlight": null,
+            "_score": [
+              4136.922
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "littlecalicotort0000tayl",
+              "title": "The little calico & tortoiseshell cat book",
+              "description": "[57] p. : 18 cm",
+              "subject": [
+                "Calico cats",
+                "Tortoiseshell cats"
+              ],
+              "creator": [
+                "Taylor, David, 1934-2013"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "1990-01-01T00:00:00Z",
+              "year": 1990,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 207406778,
+              "files_count": 33,
+              "downloads": 26,
+              "week": 0,
+              "month": 2,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_browse",
+              "addeddate": "2022-05-05T06:09:58Z",
+              "publicdate": "2022-05-03T23:38:32Z"
+            },
+            "highlight": null,
+            "_score": [
+              4071.8777
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "jstor-41326836",
+              "title": "ON HORN AND TORTOISESHELL",
+              "description": "\"ON HORN AND TORTOISESHELL\" is an article from Transactions of the Society, Instituted at London, for the Encouragement of Arts, Manufactures, and Commerce, Volume 52 . View more articles from Transactions of the Society, Instituted at London, for the Encouragement of Arts, Manufactures, and Commerce . View this article on JSTOR . View this article's JSTOR metadata . You may also retrieve all of this items metadata in JSON at the following URL: https://archive.org/metadata/jstor-41326836",
+              "collection": [
+                "jstor_transoclon",
+                "jstor_ejc",
+                "journals"
+              ],
+              "date": "1838-01-01T00:00:00Z",
+              "year": 1838,
+              "volume": "52",
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 2,
+              "item_size": 8009702,
+              "files_count": 16,
+              "downloads": 190,
+              "week": 1,
+              "month": 6,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2013-04-08T21:54:57Z",
+              "source": "http://www.jstor.org/stable/10.2307/41326836",
+              "publicdate": "2013-04-08T21:54:57Z"
+            },
+            "highlight": null,
+            "_score": [
+              4033.8726
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "thingiverse-3931095",
+              "title": "Etui - Spectacle Case | living hinge | folding 3D-Print (3931095)",
+              "description": "Super intuitive spectacle-cases This model doesn't need springs, active hinges, or magnets to work. Neither is it printed with flexible materials - just regular brittle PLA. ---- Attention: Very easy to print --- To achieve this behavior, I applied an common engineering technique from wood-design. The \"Living-Hinge\" Cut Pattern. And it worked out like a charm.",
+              "subject": [
+                "stl",
+                "pen_case",
+                "spectacle_case",
+                "pencil_case",
+                "thingiverse",
+                "living_hinge",
+                "organiser",
+                "easy_to_print",
+                "sleeve",
+                "etui",
+                "Accessories",
+                "eyeglasses",
+                "case"
+              ],
+              "creator": [
+                "Soenke Tenckhoff (sotenck)"
+              ],
+              "collection": [
+                "thingiverse"
+              ],
+              "date": "2019-10-22T00:00:00Z",
+              "year": 2019,
+              "mediatype": "data",
+              "licenseurl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+              "item_size": 5790784,
+              "files_count": 5,
+              "downloads": 22,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2021-03-25T20:39:36Z",
+              "publicdate": "2021-03-25T20:39:36Z"
+            },
+            "highlight": null,
+            "_score": [
+              4025.9907
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "pygmalionsspecta22893gut",
+              "title": "Pygmalion's Spectacles",
+              "description": "Book from Project Gutenberg: Pygmalion's Spectacles",
+              "creator": [
+                "Weinbaum, Stanley Grauman, 1902-1935"
+              ],
+              "collection": [
+                "gutenberg"
+              ],
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "licenseurl": "http://www.gnu.org/licenses/gpl.html",
+              "item_size": 358027,
+              "files_count": 19,
+              "downloads": 471,
+              "week": 1,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2011-07-17T18:35:39Z",
+              "source": "http://www.gutenberg.org/ebooks/22893",
+              "publicdate": "2011-07-17T18:35:39Z"
+            },
+            "highlight": null,
+            "_score": [
+              3992.7026
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "spectacles0000beat",
+              "title": "Spectacles",
+              "description": "37 pages : 24 cm",
+              "subject": [
+                "Grandmothers -- Fiction",
+                "Old age -- Fiction",
+                "Eyeglasses -- Fiction",
+                "Eyeglasses",
+                "Grandmothers",
+                "Old age"
+              ],
+              "creator": [
+                "Beattie, Ann"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "1985-01-01T00:00:00Z",
+              "year": 1985,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 92557232,
+              "files_count": 30,
+              "downloads": 35,
+              "week": 0,
+              "month": 4,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": true,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_borrow",
+              "addeddate": "2020-12-20T15:06:32Z",
+              "publicdate": "2020-10-27T01:23:42Z"
+            },
+            "highlight": null,
+            "_score": [
+              3816.9243
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "jstor-41326838",
+              "title": "ON HORN, TORTOISESHELL, AND BONE",
+              "description": "\"ON HORN, TORTOISESHELL, AND BONE\" is an article from Transactions of the Society, Instituted at London, for the Encouragement of Arts, Manufactures, and Commerce, Volume 52 . View more articles from Transactions of the Society, Instituted at London, for the Encouragement of Arts, Manufactures, and Commerce . View this article on JSTOR . View this article's JSTOR metadata . You may also retrieve all of this items metadata in JSON at the following URL: https://archive.org/metadata/jstor-41326838",
+              "collection": [
+                "jstor_transoclon",
+                "jstor_ejc",
+                "journals"
+              ],
+              "date": "1838-01-01T00:00:00Z",
+              "year": 1838,
+              "volume": "52",
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "item_size": 6298911,
+              "files_count": 16,
+              "downloads": 215,
+              "week": 3,
+              "month": 6,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2013-04-08T21:53:54Z",
+              "source": "http://www.jstor.org/stable/10.2307/41326838",
+              "publicdate": "2013-04-08T21:53:54Z"
+            },
+            "highlight": null,
+            "_score": [
+              3801.3167
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "spectacles0000mazz",
+              "title": "Spectacles",
+              "description": "190 p. : 18x18 cm",
+              "subject": [
+                "Eyeglasses in art"
+              ],
+              "creator": [
+                "Mazza, Samuele, 1960-"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "1996-01-01T00:00:00Z",
+              "year": 1996,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 1,
+              "item_size": 494674371,
+              "files_count": 31,
+              "downloads": 61,
+              "week": 0,
+              "month": 4,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_browse",
+              "addeddate": "2024-02-13T04:01:26Z",
+              "publicdate": "2023-12-19T19:31:36Z"
+            },
+            "highlight": null,
+            "_score": [
+              3783.7158
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "spectacles0000leme",
+              "title": "Spectacles",
+              "description": "282 pages ; 21 cm",
+              "creator": [
+                "Lemercier, Valérie, 1964- author"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "2015-01-01T00:00:00Z",
+              "year": 2015,
+              "language": [
+                "fre"
+              ],
+              "mediatype": "texts",
+              "item_size": 517997285,
+              "files_count": 32,
+              "downloads": 14,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_browse",
+              "addeddate": "2024-02-13T04:01:27Z",
+              "publicdate": "2023-08-10T07:20:38Z"
+            },
+            "highlight": null,
+            "_score": [
+              3780.95
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "spectacles0000elle",
+              "title": "Spectacles",
+              "creator": [
+                "Ellen Raskin"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "1968-01-01T00:00:00Z",
+              "year": 1968,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 9,
+              "item_size": 132718828,
+              "files_count": 31,
+              "downloads": 62,
+              "week": 0,
+              "month": 2,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_browse",
+              "addeddate": "2023-03-17T22:04:34Z",
+              "publicdate": "2023-03-08T15:05:06Z"
+            },
+            "highlight": null,
+            "_score": [
+              3776.7896
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "spectacles00rask",
+              "title": "Spectacles",
+              "description": "A nearsighted little girl talks about and shows some of the unusual things she saw before being fitted with glasses",
+              "subject": [
+                "Eye",
+                "Eyeglasses"
+              ],
+              "creator": [
+                "Raskin, Ellen"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "1968-01-01T00:00:00Z",
+              "year": 1968,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 13,
+              "item_size": 95730755,
+              "files_count": 28,
+              "downloads": 174,
+              "week": 0,
+              "month": 4,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": true,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_borrow",
+              "addeddate": "2012-01-11T19:06:36Z",
+              "publicdate": "2012-01-11T19:06:40Z"
+            },
+            "highlight": null,
+            "_score": [
+              3774.3508
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "jstor-1631475",
+              "title": "Concerning Spectacles",
+              "description": "\"Concerning Spectacles\" is an article from Science, Volume 20 . View more articles from Science . View this article on JSTOR . View this article's JSTOR metadata . You may also retrieve all of this items metadata in JSON at the following URL: https://archive.org/metadata/jstor-1631475",
+              "creator": [
+                "C. R. E."
+              ],
+              "collection": [
+                "jstor_science",
+                "jstor_ejc",
+                "journals"
+              ],
+              "date": "1904-08-05T00:00:00Z",
+              "year": 1904,
+              "volume": "20",
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 1451172,
+              "files_count": 16,
+              "downloads": 163,
+              "week": 0,
+              "month": 5,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2013-03-12T11:07:57Z",
+              "source": "http://www.jstor.org/stable/10.2307/1631475",
+              "publicdate": "2013-03-12T11:07:57Z"
+            },
+            "highlight": null,
+            "_score": [
+              3768.5115
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "thingiverse-2555539",
+              "title": "Snapchat Spectacles - Safety Side Shields (2555539)",
+              "description": "Convert your Snapchat Spectacles into Protective Shop Glasses! Works better than converted standard eyeglass protectors, guaranteed. I recommend Printing them vertically for best resolution, though printing them on the flat side is faster and you get cleaner notches for rubber O-Rings, which is what I used to attach mine to my glasses.",
+              "subject": [
+                "spectacles",
+                "snapchat",
+                "specs",
+                "thingiverse",
+                "Safety",
+                "Snapchat_Spectacles",
+                "Glasses_protector",
+                "DIY",
+                "snap",
+                "stl"
+              ],
+              "creator": [
+                "Louis Weisz (WeiszCracks)"
+              ],
+              "collection": [
+                "thingiverse"
+              ],
+              "date": "2017-10-03T00:00:00Z",
+              "year": 2017,
+              "mediatype": "data",
+              "licenseurl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+              "item_size": 140460,
+              "files_count": 5,
+              "downloads": 29,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2021-01-16T13:52:35Z",
+              "publicdate": "2021-01-16T13:52:35Z"
+            },
+            "highlight": null,
+            "_score": [
+              3761.7708
+            ]
+          }
+        ]
+      },
+      "collection_titles": {
+        "jstor_science": "JSTOR Early Journal Content, Science",
+        "jstor_amernatu": "JSTOR Early Journal Content, The American Naturalist",
+        "newberryfrenchpamphlets": "Newberry French Pamphlet Collection",
+        "jstor_ejc": "JSTOR Early Journal Content",
+        "newberry": "Newberry Library",
+        "university_of_toronto": "University of Toronto",
+        "sim_microfilm": "Serials in Microfilm",
+        "journals": "Journals",
+        "periodicals": "Periodicals",
+        "gerstein": "University of Toronto - Gerstein Science Information Centre",
+        "jstor_transoclon": "JSTOR Early Journal Content, Transactions of the Society, Instituted at London, for the Encouragement of Arts, Manufactures, and Commerce",
+        "thingiverse": "Thingiverse Archive",
+        "texts": "eBooks and Texts",
+        "clevelandart": "Cleveland Museum of Art",
+        "internetarchivebooks": "Internet Archive Books",
+        "metropolitanmuseumofart-gallery": "Metropolitan Museum of Art - Gallery Images",
+        "gutenberg": "Project Gutenberg"
+      }
+    },
+    "hit_schema": {
+      "item": {
+        "identifier": {
+          "multivalue": false,
+          "mapping": "string"
+        },
+        "noindex": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "optional": true
+        },
+        "title": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "description": {
+          "multivalue": false,
+          "mapping": "string",
+          "dressing": {
+            "truncate": 1000
+          },
+          "optional": true
+        },
+        "subject": {
+          "multivalue": true,
+          "mapping": "string",
+          "dressing": {
+            "truncate": 1000
+          },
+          "optional": true
+        },
+        "creator": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "collection": {
+          "multivalue": true,
+          "mapping": "string",
+          "comment": "may be a superset of metadata collection field"
+        },
+        "date": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "year": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed from date",
+          "optional": true
+        },
+        "genre": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "volume": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "type": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "language": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "mediatype": {
+          "multivalue": false,
+          "mapping": "string"
+        },
+        "licenseurl": {
+          "multivalue": false,
+          "mapping": "string__url",
+          "optional": true
+        },
+        "num_favorites": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true,
+          "comment": "computed during document construction"
+        },
+        "num_reviews": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true,
+          "comment": "computed during document construction"
+        },
+        "item_size": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "bytes; computed during document construction"
+        },
+        "files_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction"
+        },
+        "item_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction",
+          "optional": true
+        },
+        "displayed_item_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction, may be inferred from item_count",
+          "optional": true
+        },
+        "collection_files_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction, for collection items only",
+          "optional": true
+        },
+        "collection_size": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "bytes; computed during document construction, for collection items only",
+          "optional": true
+        },
+        "downloads": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "total views over item lifetime, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "week": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "views over a seven-day period, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "month": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "views over a month, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "indexflag": {
+          "multivalue": true,
+          "mapping": "string",
+          "comment": "item characterization including noindex status"
+        },
+        "lending___available_to_borrow": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___available_to_browse": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___available_to_waitlist": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___status": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "avg_rating": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true
+        },
+        "addeddate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "issue": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "format varies",
+          "optional": true
+        },
+        "source": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "format varies",
+          "optional": true
+        },
+        "reviewdate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "publicdate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "date_favorited": {
+          "multivalue": false,
+          "mapping": "date",
+          "comment": "not metadata; only present in favorites lists, sourced from Lists API",
+          "optional": true
+        },
+        "reviews_data": {
+          "multivalue": true,
+          "dressing": {
+            "truncate": false
+          },
+          "mapping": "string",
+          "comment": "untruncated JSON encoded data used for Account reviews",
+          "optional": true
+        }
+      }
+    }
+  }
+}

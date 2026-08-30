@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<srw:searchRetrieveResponse xmlns:ns6="http://gallica.bnf.fr/namespaces/gallica/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <srw:version>1.2</srw:version>
+    <srw:echoedSearchRetrieveRequest>
+        <srw:query>(gallica all "Forschungen zur Geschichte von Florenz")</srw:query>
+        <srw:version>1.2</srw:version>
+    </srw:echoedSearchRetrieveRequest>
+    <srw:numberOfRecords>978</srw:numberOfRecords>
+    <srw:extraResponseData>&lt;numberOfRecordsDecollapser&gt;5996&lt;/numberOfRecordsDecollapser&gt;</srw:extraResponseData>
+    <srw:records>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Hagmann, Johann Georg. Auteur du texte</dc:creator>
+                    <dc:date>1883</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>1 vol. (67 p.) ; in-8</dc:format>
+                    <dc:format>Nombre total de vues : 74</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k1421663k</dc:identifier>
+                    <dc:identifier>NUMM-1421663</dc:identifier>
+                    <dc:language>ger</dc:language>
+                    <dc:publisher>Druck von F. Steiner (Rapperswil)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30568554q</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Sciences et techniques, 8-THETA LPZ PH-192</dc:source>
+                    <dc:title>Ueber Voltaire's "Essai sur les moeurs" : Inaugural-Dissertation... / Joh. Georg Hagmann,...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>0</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k1421663k.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k1421663k</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k1421663k.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k1421663k.medres</medres>
+                <nqamoyen>88.67</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k1421663k.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k1421663k</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Schubring, Paul. Auteur du texte</dc:creator>
+                    <dc:date>1919</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>Nombre total de vues : 310</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bd6t57749034</dc:identifier>
+                    <dc:identifier>NUMS-100774903</dc:identifier>
+                    <dc:language>ger</dc:language>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb32618799n</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Sciences et techniques, 4-V-14659</dc:source>
+                    <dc:title>Die italienische Plastik des Quattrocento , von... Paul Schubring,... 6.-8. Tausend</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>1</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bd6t57749034.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bd6t57749034</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bd6t57749034.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bd6t57749034.medres</medres>
+                <nqamoyen>88.98</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t57749034.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bd6t57749034</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1909</dc:date>
+                    <dc:description>[Vente. Livres. 1909-02-24 - 1909-02-27. Leipzig]</dc:description>
+                    <dc:description>[Vente. Autographes. 1909-02-24 - 1909-02-27. Leipzig]</dc:description>
+                    <dc:description>[Collection. Livres. Hewett. 1909]</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>135 p.-[4] p. de pl. : ill. ; 25 cm</dc:format>
+                    <dc:format>Nombre total de vues : 146</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bd6t54187694j</dc:identifier>
+                    <dc:identifier>NUMS-104187694</dc:identifier>
+                    <dc:language>ger</dc:language>
+                    <dc:publisher>C. G. Boerner (Leipzig)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb387894923</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Manuscrits, CV-822</dc:source>
+                    <dc:title>Bibliothek Professor Hewett, Ithaka-New York : Deutsche Literatur, Originalsilhouetten, Autographen, Stammbücher aus Privatbesitz : [Versteigerung Mittwoch, den 24., bis Sonnabend, den 27. Februar 1909, durch C. G. Boerner, Leipzig]</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>2</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bd6t54187694j.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bd6t54187694j</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bd6t54187694j.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bd6t54187694j.medres</medres>
+                <nqamoyen>89.16</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t54187694j.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bd6t54187694j</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Laloy, Émile (1863-1938). Directeur de publication / Directrice de publication</dc:contributor>
+                    <dc:contributor>Roman d'Amat, Jean-Charles (1887-1976). Directeur de publication / Directrice de publication</dc:contributor>
+                    <dc:creator>Bibliothèque nationale (France). Auteur du texte / Autrice du texte</dc:creator>
+                    <dc:date>1882-1924</dc:date>
+                    <dc:description>Etat de collection : 1882-1888</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb32737988w/date</dc:identifier>
+                    <dc:identifier>NUMP-31308</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>C. Klincksieck (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb32737988w</dc:relation>
+                    <dc:source>Bibliothèque nationale de France, département Littérature et art, 8-Q-777</dc:source>
+                    <dc:title>Catalogue des dissertations et écrits académiques provenant des échanges avec les universités étrangères et reçus par la Bibliothèque nationale...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>3</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k1224840q.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb32737988w/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k1224840q.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k1224840q.medres</medres>
+                <nqamoyen>86.97</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k1224840q.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k1224840q</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Club vosgien. Auteur du texte</dc:creator>
+                    <dc:date>1873-1917</dc:date>
+                    <dc:description>Variante(s) de titre : Mitteilungen aus dem Vogesenclub</dc:description>
+                    <dc:description>Périodicité : Annuel (irrégulier)</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BNUStrSoc</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : Alsace1</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BNUStr000</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb34422709j/date</dc:identifier>
+                    <dc:identifier>ISSN 11413026</dc:identifier>
+                    <dc:language>ger</dc:language>
+                    <dc:publisher>Vogesenclub (Strassburg)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb34422709j</dc:relation>
+                    <dc:relation>A pour reproduction : Mittheilungen aus dem Vogesenclub (Reproduction numérique) = ISSN 2725-3023 (https://gallica.bnf.fr/ark:/12148/cb34422709j/date)</dc:relation>
+                    <dc:source>Bibliothèque nationale et universitaire de Strasbourg, M.1341</dc:source>
+                    <dc:title>Mittheilungen aus dem Vogesenclub</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>4</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k96226950.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb34422709j/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k96226950.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k96226950.medres</medres>
+                <nqamoyen>100.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k96226950.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k96226950</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Spengler, Oswald (1880-1936). Auteur du texte</dc:creator>
+                    <dc:date>1920-1922</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>2 vol. (XV-615 p.-[1] f. de dépl., 635 p.) ; 24 cm</dc:format>
+                    <dc:format>Nombre total de vues : 654</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k991042d</dc:identifier>
+                    <dc:identifier>NUMM-991042</dc:identifier>
+                    <dc:language>ger</dc:language>
+                    <dc:publisher>C. H. Beck (München)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb37699610c</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, Z KOJEVE-1669</dc:source>
+                    <dc:subject>Orient et Occident</dc:subject>
+                    <dc:subject>Civilisation occidentale -- Histoire</dc:subject>
+                    <dc:title>Der Untergang des Abendlandes : Umrisse einer Morphologie der Weltgeschichte / von Oswald Spengler</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>5</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k991042d.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k991042d</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k991042d.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k991042d.medres</medres>
+                <nqamoyen>89.14</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k991042d.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k991042d</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Hopf, Carl (02). Auteur du texte</dc:creator>
+                    <dc:date>1858-1866</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>2 vol. : armoiries ; in-fol.</dc:format>
+                    <dc:format>Nombre total de vues : 400</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k854196m</dc:identifier>
+                    <dc:identifier>NUMM-854196</dc:identifier>
+                    <dc:language>ger</dc:language>
+                    <dc:publisher>F. A. Perthes (Gotha)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb306159903</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, FOL-M-114 (1)</dc:source>
+                    <dc:title>Historisch-genealogischer Atlas seit Christi Geburt bis auf unsere Zeit / von Dr. Karl Hopf</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>6</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k854196m.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k854196m</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k854196m.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k854196m.medres</medres>
+                <nqamoyen>83.26</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k854196m.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k854196m</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Klaproth, Julius von (1783-1835). Auteur du texte</dc:creator>
+                    <dc:date>1824</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>In-8° , 116 p., carte et pl.</dc:format>
+                    <dc:format>Nombre total de vues : 152</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bd6t542064045</dc:identifier>
+                    <dc:identifier>NUMS-104206404</dc:identifier>
+                    <dc:language>ger</dc:language>
+                    <dc:publisher>Dondey-Dupré, Vater und Sohn (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb306836384</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-O2-277</dc:source>
+                    <dc:title>Beleuchtung und Widerlegung der Forschungen über die Geschichte der mittelasiatischen Völker des Herrn J. J. Schmidt,... von J. Klaproth...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>7</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bd6t542064045.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bd6t542064045</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bd6t542064045.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bd6t542064045.medres</medres>
+                <nqamoyen>85.53</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t542064045.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bd6t542064045</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Mündel, Curt (1852-1906). Éditeur scientifique</dc:contributor>
+                    <dc:contributor>Euting, Julius (1839-1913). Éditeur scientifique. Collaborateur</dc:contributor>
+                    <dc:creator>Schricker, August (1838-1912). Auteur du texte</dc:creator>
+                    <dc:date>1881</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>XVI-288 p. : cartes et pl. en noir et en coul., fig. ; in-16</dc:format>
+                    <dc:format>Nombre total de vues : 344</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bd6t5413469k</dc:identifier>
+                    <dc:identifier>NUMS-100413469</dc:identifier>
+                    <dc:language>ger</dc:language>
+                    <dc:publisher>K. J. Trübner (Strassburg)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb313304509</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LK1-178</dc:source>
+                    <dc:title>Die Vogesen : ein Handbuch für Touristen (2te Auflage) / auf Grundlage von Schrickers Vogesenführer ; neu bearbeitet von Curt Mündel ; unter Mitwirkung von... Julius Euting,... und Dr. August Schricker..</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>8</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bd6t5413469k.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bd6t5413469k</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bd6t5413469k.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bd6t5413469k.medres</medres>
+                <nqamoyen>88.76</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t5413469k.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bd6t5413469k</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Leupold, Edward. Auteur du texte</dc:creator>
+                    <dc:date>1892</dc:date>
+                    <dc:description>Numérisé par le partenaire</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BNUStr068</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>1 vol. (179 p.) ; in-8</dc:format>
+                    <dc:format>Nombre total de vues : 183</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k91175875</dc:identifier>
+                    <dc:identifier>NUMM-9117587</dc:identifier>
+                    <dc:language>ger</dc:language>
+                    <dc:publisher>K. J. Trübner (Strassburg)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb47465761q</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale et universitaire de Strasbourg, M.39.016,31,1882,LEUPOLD</dc:source>
+                    <dc:subject>Buchegg, Berthold de</dc:subject>
+                    <dc:title>Berthold von Buchegg, Bischof von Strassburg, ein Beitrag zur Geschichte des Elsass und des Reichs im XIV. Jahrhundert : Inaugural-Disertation... / von Dr. Edward Leupold</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>9</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k91175875.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k91175875</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k91175875.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k91175875.medres</medres>
+                <nqamoyen>89.53</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k91175875.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k91175875</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Schonack, Wilhelm. Auteur du texte</dc:creator>
+                    <dc:date>1912</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:description>Ouvrages de référence</dc:description>
+                    <dc:format>XII-96 p. ; in-8°</dc:format>
+                    <dc:format>Nombre total de vues : 116</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bd6t54351564v</dc:identifier>
+                    <dc:identifier>NUMS-104351564</dc:identifier>
+                    <dc:language>ger</dc:language>
+                    <dc:publisher>G. Fischer (Jena)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31327654q</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Sciences et techniques, 8-TE146-230</dc:source>
+                    <dc:subject>Pharmacie</dc:subject>
+                    <dc:subject>Pharmacopée</dc:subject>
+                    <dc:title>Die Rezeptsammlung des Scribonius Largus : eine kritische Studie / von Dr. phil. Wilhelm Schonack</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>10</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bd6t54351564v.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bd6t54351564v</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bd6t54351564v.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bd6t54351564v.medres</medres>
+                <nqamoyen>88.56</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t54351564v.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bd6t54351564v</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Seubert, Adolf Friedrich. Auteur du texte</dc:creator>
+                    <dc:date>1878-1879</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>3 vol. ; in-8</dc:format>
+                    <dc:format>Nombre total de vues : 666</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k11818065</dc:identifier>
+                    <dc:language>ger</dc:language>
+                    <dc:publisher>Ebner et Seubert (Stuttgart)</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb365726777</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb365726777</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Sciences et techniques, 8-V-2391 (2)</dc:source>
+                    <dc:title>Algemeines Künstlerlexicon oder Leben und Werke der Berühmtesten Bildenden Künstler. Volume 2 / umgearbeitet un ergaäntz von A. Seubert</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>11</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k11818065.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k11818065</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k11818065.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k11818065.medres</medres>
+                <nqamoyen>88.54</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k11818065.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k11818065</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Bieder, Th. Auteur du texte</dc:creator>
+                    <dc:date>1909</dc:date>
+                    <dc:description>Collection : Beiträge zur Raseenkunde ; 7</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>49 p. ; in-8</dc:format>
+                    <dc:format>Nombre total de vues : 58</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k990769n</dc:identifier>
+                    <dc:identifier>NUMM-990769</dc:identifier>
+                    <dc:language>ger</dc:language>
+                    <dc:publisher>Thüringische Verlags-Anstalt (Hildburghausen)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31815104z</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-G-8829 (7)</dc:source>
+                    <dc:title>Beiträge zur Geschichte der Rassenforschung und der Theorie der Germanen-Heimat / von Th. Bieder</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>12</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k990769n.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k990769n</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k990769n.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k990769n.medres</medres>
+                <nqamoyen>89.37</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k990769n.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k990769n</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Wilhelm, Louis. Éditeur scientifique</dc:contributor>
+                    <dc:contributor>Marckwald, Ernst. Éditeur scientifique</dc:contributor>
+                    <dc:contributor>Mentz, Ferdinand. Éditeur scientifique</dc:contributor>
+                    <dc:creator>Bibliothèque nationale et universitaire (Strasbourg). Section des alsatiques. Auteur du texte</dc:creator>
+                    <dc:date>1908-1929</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : BNUStr000</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BNUStr011</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BNUStr063</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>4 vol. in-4° : portr.</dc:format>
+                    <dc:format>Nombre total de vues : 722</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k32165569</dc:identifier>
+                    <dc:identifier>NUMM-3216556</dc:identifier>
+                    <dc:language>ger</dc:language>
+                    <dc:publisher>Selbstverlag der Bibliothek (Strassburg i. E.)</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb316507909</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb316507909</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale et universitaire de Strasbourg, 2019-115964</dc:source>
+                    <dc:title>Katalog der Kaiserlichen Universitäts- und Landesbibliothek Strassburg : Katalog der Elsass-Lothringischen Abteilung</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>13</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k32165569.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k32165569</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k32165569.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k32165569.medres</medres>
+                <nqamoyen>82.2</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k32165569.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k32165569</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Wölfflin, Heinrich (1864-1945). Auteur du texte</dc:creator>
+                    <dc:date>1899</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>Gr. in-8° , XII-279 p., fig.</dc:format>
+                    <dc:format>Nombre total de vues : 295</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bd6t57729026</dc:identifier>
+                    <dc:identifier>NUMS-100772902</dc:identifier>
+                    <dc:language>ger</dc:language>
+                    <dc:publisher>F. Bruckmann (München)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31665300t</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Sciences et techniques, 4-V-4698</dc:source>
+                    <dc:title>Die klassische Kunst, eine Einführung in die italienische Renaissance von Heinrich Wölfflin...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>14</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bd6t57729026.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bd6t57729026</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bd6t57729026.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bd6t57729026.medres</medres>
+                <nqamoyen>89.72</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t57729026.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bd6t57729026</uri>
+            </srw:extraRecordData>
+        </srw:record>
+    </srw:records>
+    <srw:nextRecordPosition>16</srw:nextRecordPosition>
+</srw:searchRetrieveResponse>

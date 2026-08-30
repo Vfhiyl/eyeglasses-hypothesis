@@ -1,0 +1,961 @@
+{
+  "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785941234780",
+  "version": "1x7o",
+  "session_context": {
+    "session_key": "user__alanobrienterry918272@gmail.com",
+    "created": "2026-08-05T14:47:19Z",
+    "client_characterization": {
+      "characterized_by": "asserted_or_authenticated",
+      "preferred_client_ip": null,
+      "client_ip": "216.122.131.107:sra",
+      "preferred_client_useragent": null,
+      "client_useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36:sua",
+      "preferred_client_id": null,
+      "client_id": "alanobrienterry918272@gmail.com:sco"
+    },
+    "username": "alanobrienterry918272@gmail.com",
+    "authentication_method": "cookie",
+    "is_system": false,
+    "is_guest": false,
+    "is_user": true,
+    "is_archive_user": false,
+    "is_qualified": false,
+    "is_archivist": false,
+    "has_universal_privs": false,
+    "has_collection_priv": false,
+    "has_allowed_host_priv": false,
+    "has_vpn_host_priv": false,
+    "has_scan_center_priv": false,
+    "has_any_priv": false,
+    "has_any_priv_permissive": false,
+    "pps": {
+      "is_page_target_owner": false,
+      "contributed_review_on_page": false,
+      "full_text_search_override": false,
+      "sees_sensitive_fields": false
+    },
+    "pps_relevant_user_preferences": {
+      "display__blur_moderated_content": "on"
+    }
+  },
+  "request": {
+    "client_request_parameters": {
+      "client": "page_production_service_endpoint",
+      "user_query": "title:(Northumberland) AND (household OR accounts) mediatype:texts",
+      "hits_per_page": 30,
+      "page": 1,
+      "aggregations": [],
+      "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785941234780",
+      "client_url": "https://archive.org/search?query=title%3A%28Northumberland%29+AND+%28household+OR+accounts%29+mediatype%3Atexts"
+    },
+    "backend_requests": {
+      "search": {
+        "root": "(self)",
+        "children": [
+          "collection_title_fetch__2c5abd90097e2aa6e9d0f908671400df"
+        ],
+        "request_type": "search",
+        "finalized_parameters": {
+          "client": "page_production_service_endpoint",
+          "user_query": "(redacted)",
+          "hits_per_page": 30,
+          "page": 1,
+          "aggregations": [],
+          "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785941234780",
+          "client_url": "https://archive.org/search?query=title%3A%28Northumberland%29+AND+%28household+OR+accounts%29+mediatype%3Atexts",
+          "page_type": "search_results",
+          "fields": [
+            "_tile_"
+          ],
+          "sort": [
+            "_relevance_:desc",
+            "identifier"
+          ],
+          "aggregations_size": 10,
+          "service_backend": "metadata",
+          "scope": "standard",
+          "feature_flags": {
+            "complex_facets": true,
+            "collection_titles": true,
+            "redact_collections": true,
+            "redact_collections_by_privs": false,
+            "redact_empty_collections": true,
+            "redact_admin_collections": true,
+            "protect_flagging_collections": true
+          },
+          "service": "service__metadata__load_balanced"
+        }
+      },
+      "collection_title_fetch__2c5abd90097e2aa6e9d0f908671400df": {
+        "root": "search",
+        "parent": "search",
+        "request_type": "collection_title_fetch",
+        "finalized_parameters": {
+          "page_type": "document_fetch",
+          "user_query": "(redacted)",
+          "aggregations": [],
+          "caching": null,
+          "fields": [
+            "identifier",
+            "title"
+          ],
+          "search_as_system": true,
+          "page": 1,
+          "hits_per_page": 250,
+          "sort": [
+            "_efficient_"
+          ],
+          "service_backend": "metadata",
+          "scope": "ill,printdisabled_and_music,scancenter",
+          "service": "service__metadata__load_balanced"
+        }
+      }
+    }
+  },
+  "caching": {
+    "search": {
+      "name": "PPS-1x7o-J:US-RT:s~hit-T:sr-Q:7876cfec-H:30-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+      "acceptable_names": [
+        "PPS-1x7o-J:US-RT:s~std-T:sr-Q:7876cfec-H:30-B:mds-RS:sta~CS::P:0+CS:some+BR:1"
+      ],
+      "configuration": {
+        "requested": [],
+        "finalized": {
+          "bypass": false,
+          "recompute": false,
+          "no_compute": false,
+          "ttl_s": 300,
+          "max_age_s": 0,
+          "miss_policy": "none"
+        }
+      },
+      "utilization": {
+        "went_to_cache": true,
+        "alternates_allowed": true,
+        "hit_alternate": false,
+        "hit_canonical": false,
+        "hit": false,
+        "miss": true,
+        "recomputed": true,
+        "stored": true,
+        "acceptable_names_tried": [
+          "PPS-1x7o-J:US-RT:s~std-T:sr-Q:7876cfec-H:30-B:mds-RS:sta~CS::P:0+CS:some+BR:1"
+        ],
+        "elapsed_s": 0.4164290428161621
+      },
+      "statsd_bucket": "search.pps.cache.metadata.search_results"
+    },
+    "collection_title_fetch__2c5abd90097e2aa6e9d0f908671400df": {
+      "name": "PPS-1x7o-J:US-RT:ctf-T:df-Q:e280b906-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1",
+      "acceptable_names": [],
+      "configuration": {
+        "requested": [],
+        "finalized": {
+          "bypass": false,
+          "recompute": false,
+          "no_compute": false,
+          "ttl_s": 300,
+          "max_age_s": 0,
+          "miss_policy": "none"
+        }
+      },
+      "utilization": {
+        "went_to_cache": true,
+        "alternates_allowed": true,
+        "hit_alternate": false,
+        "hit_canonical": false,
+        "hit": false,
+        "miss": true,
+        "recomputed": true,
+        "stored": true,
+        "elapsed_s": 0.12428092956542969
+      },
+      "statsd_bucket": "search.pps.cache.metadata.search_results"
+    },
+    "summary": {
+      "fetched": [],
+      "computed": [
+        "PPS-1x7o-J:US-RT:s~hit-T:sr-Q:7876cfec-H:30-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:US-RT:ctf-T:df-Q:e280b906-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "stored": [
+        "PPS-1x7o-J:US-RT:s~hit-T:sr-Q:7876cfec-H:30-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:US-RT:ctf-T:df-Q:e280b906-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "missed": [
+        "PPS-1x7o-J:US-RT:s~hit-T:sr-Q:7876cfec-H:30-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:US-RT:ctf-T:df-Q:e280b906-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "bypassed": []
+    }
+  },
+  "elapsed_secs": 0.5865969657897949,
+  "response": {
+    "header": {
+      "succeeded": true,
+      "query_time": 167,
+      "forensics": {
+        "client_characterization": {
+          "client_ip": "216.122.131.107:sra",
+          "client_id": "alanobrienterry918272@gmail.com:sco",
+          "client_useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36:sua",
+          "preferred_client_ip": null,
+          "preferred_client_id": null,
+          "preferred_client_useragent": null,
+          "application_id": {
+            "session": [
+              "pageproduction"
+            ],
+            "request": []
+          },
+          "client_jurisdiction": "US",
+          "preferred_client_jurisdiction": null,
+          "actionable_jurisdiction": "US",
+          "characterized_by": "asserted_or_authenticated",
+          "ensured": true
+        },
+        "routing": {
+          "backend": "es-prod-metadatasearch-filtered",
+          "backend_server": "es-prod-client-o-07",
+          "routed_to_load_balanced": true,
+          "index_addressed": "prod-o-001"
+        },
+        "backend_request_elapsed_secs": {
+          "search": 0.4164290428161621,
+          "collection_title_fetch__2c5abd90097e2aa6e9d0f908671400df": 0.12428092956542969
+        }
+      },
+      "elapsed_secs_for_backend_requests": 0.5407099723815918
+    },
+    "body": {
+      "hits": {
+        "total": 10,
+        "returned": 10,
+        "hits": [
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "bwb_KU-996-366_93",
+              "title": "the household papers of henry percy ninth earl of northumberland 1564-1632",
+              "creator": [
+                "g.r. batho"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "1962-01-01T00:00:00Z",
+              "year": 1962,
+              "volume": "93",
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 661456158,
+              "files_count": 27,
+              "downloads": 2,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_browse",
+              "addeddate": "2026-03-25T02:52:06Z",
+              "publicdate": "2025-06-26T09:42:42Z"
+            },
+            "highlight": null,
+            "_score": [
+              1632.9332
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "householdpaperso0000grba",
+              "title": "the household papers of henry percy ninth earl of northumberland (1564-1632)",
+              "creator": [
+                "g.r. batho, m.a., f.r.hist.s."
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "1962-01-01T00:00:00Z",
+              "year": 1962,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 1,
+              "item_size": 670280479,
+              "files_count": 30,
+              "downloads": 127,
+              "week": 1,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_browse",
+              "addeddate": "2022-10-26T04:10:24Z",
+              "publicdate": "2022-10-07T00:13:27Z"
+            },
+            "highlight": null,
+            "_score": [
+              1619.6033
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "regulationsestab00nort",
+              "title": "The regulations and establishment of the household of Henry Algernon Percy, the fifth earl of Northumberland [microform] : at his castles of Wressle and Leckonfield in Yorkshire : begun anno domini MDXII",
+              "description": "Preface signed: T.P. [i.e. Thomas Percy]",
+              "subject": [
+                "Home economics",
+                "Prices"
+              ],
+              "creator": [
+                "Northumberland, Henry Algernon Percy, Earl of, 1478-1527",
+                "Percy, Thomas, 1729-1811"
+              ],
+              "collection": [
+                "transcluding",
+                "ColumbiaUniversityLibraries",
+                "microfilm"
+              ],
+              "date": "1905-01-01T00:00:00Z",
+              "year": 1905,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 406553484,
+              "files_count": 23,
+              "downloads": 1335,
+              "week": 12,
+              "month": 29,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "addeddate": "2013-02-25T18:37:18Z",
+              "publicdate": "2013-02-25T18:37:21Z"
+            },
+            "highlight": null,
+            "_score": [
+              1206.1649
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "regulationsande02percgoog",
+              "title": "The regulations and establishment of the household of Henry Algernon Percy, the fifth earl of Northumberland : at his castles of Wressle and Leckonfield in Yorkshire : begun anno domini MDXII",
+              "description": "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+              "subject": [
+                "Home economics -- England",
+                "Prices -- History",
+                "Home economics",
+                "Manners and customs",
+                "Prices",
+                "England -- Social life and customs",
+                "England"
+              ],
+              "creator": [
+                "Northumberland, Henry Algernon Percy, Earl of, 1478-1527"
+              ],
+              "collection": [],
+              "date": "1905-01-01T00:00:00Z",
+              "year": 1905,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 2,
+              "item_size": 104559274,
+              "files_count": 21,
+              "downloads": 819,
+              "week": 1,
+              "month": 7,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2008-03-31T14:49:47Z",
+              "source": "http://books.google.com/books?id=H0YEAAAAYAAJ&oe=UTF-8",
+              "publicdate": "2008-03-31T14:49:47Z"
+            },
+            "highlight": null,
+            "_score": [
+              1203.8206
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "regulationsesta00nort",
+              "title": "The regulations and establishment of the household of Henry Algernon Percy, the fifth Earl of Northumberland, at his castles of Wresill and Lekinfield in Yorkshire, begun anno domini M.D.XII",
+              "description": "Preface signed: T.P. [i.e. Thomas Percy]",
+              "subject": [
+                "Home economics",
+                "Prices"
+              ],
+              "creator": [
+                "Northumberland, Henry Algernon Percy, 5th earl of, 1478-1527",
+                "Percy, Thomas, 1729-1811"
+              ],
+              "collection": [
+                "pimslibrary",
+                "university_of_toronto"
+              ],
+              "date": "1827-01-01T00:00:00Z",
+              "year": 1827,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 10,
+              "item_size": 819581594,
+              "files_count": 23,
+              "downloads": 1798,
+              "week": 9,
+              "month": 35,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2011-07-14T22:44:27Z",
+              "publicdate": "2011-07-14T22:44:32Z"
+            },
+            "highlight": null,
+            "_score": [
+              951.9182
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "regulationsestab00nortuoft",
+              "title": "The regulations and establishment of the household of Henry Algernon Percy, the fifth Earl of Northumberland, at his castles of Wressle and Lekonfield in Yorkshire, begun anno domini MDXII",
+              "description": "31",
+              "subject": [
+                "Domestic economy -- England",
+                "Prices -- History",
+                "England -- Social life and customs"
+              ],
+              "creator": [
+                "Northumberland, Henry Algernon Percy, Earl of, 1478-1527",
+                "Percy, Thomas, 1729-1811"
+              ],
+              "collection": [
+                "kellylibrary",
+                "university_of_toronto"
+              ],
+              "date": "1905-01-01T00:00:00Z",
+              "year": 1905,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 4,
+              "item_size": 669588990,
+              "files_count": 23,
+              "downloads": 2407,
+              "week": 10,
+              "month": 30,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2006-12-19T19:39:13Z",
+              "publicdate": "2006-12-19T11:39:38Z"
+            },
+            "highlight": null,
+            "_score": [
+              935.9866
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "treatiseoncoalmi00holmrich",
+              "title": "A treatise on the coal mines of Durham and Northumberland : with information relative to the stratifications of the two counties: and containing accounts of the explosions from fire-damp, which have occurred therein for the last twenty years; their causes, and the means proposed for their remedy, and for the general improvements of the mining system, by new methods of ventilation, &c.",
+              "description": "xxii, 259 p. : 24 cm",
+              "subject": [
+                "Coal mines and mining -- England"
+              ],
+              "creator": [
+                "Holmes, J. H. H"
+              ],
+              "collection": [
+                "cdl"
+              ],
+              "date": "1816-01-01T00:00:00Z",
+              "year": 1816,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 2,
+              "item_size": 691267541,
+              "files_count": 22,
+              "downloads": 1143,
+              "week": 1,
+              "month": 19,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2007-03-02T18:41:23Z",
+              "publicdate": "2007-03-02T10:41:27Z"
+            },
+            "highlight": null,
+            "_score": [
+              485.825
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "northumberlandpo0000beer",
+              "title": "Northumberland : the political career of John Dudley, Earl of Warwick and Duke of Northumberland",
+              "description": "xi, 235 pages : 24 cm",
+              "subject": [
+                "Great Britain -- History -- Tudors, 1485-1603",
+                "Great Britain -- Politics and government -- 1547-1553",
+                "Grande-Bretagne -- Politique et gouvernement -- 1509-1547",
+                "England -- Civilization -- 16th century",
+                "England",
+                "Grande-Bretagne -- Politique et gouvernement -- 1547-1553",
+                "Great Britain",
+                "Henry VIII, King of England, 1491-1547 -- Relations with nobility",
+                "Northumberland, John Dudley, Duke of, 1502-1553",
+                "Henry VIII, King of England, 1491-1547",
+                "Northumberland, John Dudley, (1502-1553",
+                "Duke of)",
+                "Politics and government",
+                "Civilization",
+                "Great Britain -- Politics and government -- 1509-1547",
+                "Relations with nobility"
+              ],
+              "creator": [
+                "Beer, Barrett L"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "1974-01-01T00:00:00Z",
+              "year": 1974,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 11,
+              "item_size": 828366072,
+              "files_count": 30,
+              "downloads": 197,
+              "week": 0,
+              "month": 3,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": true,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_borrow",
+              "addeddate": "2019-09-19T06:18:55Z",
+              "publicdate": "2019-09-19T06:19:19Z"
+            },
+            "highlight": null,
+            "_score": [
+              133.76749
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "regulationsestab00nort_0",
+              "title": "The regulations and establishment of the houshold of Henry Algernon Percy, the fifth earl of Northumberland : at his castles of Wresill and Lekinfield in Yorkshire : begun anno Domini M.D. XII",
+              "description": "xxvi, [2], x, 464, [4] pages ; 23 cm (8vo)",
+              "subject": [
+                "Northumberland, Henry Algernon Percy, Earl of, 1478-1527",
+                "Home economics -- England",
+                "Prices -- History",
+                "Home economics",
+                "Manners and customs",
+                "Prices",
+                "England -- Social life and customs",
+                "England"
+              ],
+              "creator": [
+                "Northumberland, Henry Algernon Percy, Earl of, 1478-1527"
+              ],
+              "collection": [
+                "getty"
+              ],
+              "date": "1770-01-01T00:00:00Z",
+              "year": 1770,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 5,
+              "item_size": 1411718868,
+              "files_count": 25,
+              "downloads": 335,
+              "week": 2,
+              "month": 11,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "addeddate": "2020-01-29T09:18:46Z",
+              "publicdate": "2020-01-23T17:37:53Z"
+            },
+            "highlight": null,
+            "_score": [
+              24.60286
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "regulationsande01percgoog",
+              "title": "The regulations and establishment of the houshold [sic] of Henry Algernon Percy, the fifth earl of Northumberland : at his castles of Wresill and Lekinfield in Yorkshire. Begun anno Domini M.D. XII",
+              "description": "Book digitized by Google from the library of the New York Public Library and uploaded to the Internet Archive by user tpb.",
+              "subject": [
+                "Home economics -- England",
+                "Prices -- History",
+                "Home economics",
+                "Manners and customs",
+                "Prices",
+                "England -- Social life and customs",
+                "England"
+              ],
+              "creator": [
+                "Northumberland, Henry Algernon Percy, Earl of, 1478-1527"
+              ],
+              "collection": [],
+              "date": "1770-01-01T00:00:00Z",
+              "year": 1770,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 3,
+              "item_size": 155002588,
+              "files_count": 22,
+              "downloads": 1898,
+              "week": 1,
+              "month": 2,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2009-05-10T20:58:49Z",
+              "source": "http://books.google.com/books?id=kW4DAAAAYAAJ&oe=UTF-8",
+              "publicdate": "2009-05-10T20:58:49Z"
+            },
+            "highlight": null,
+            "_score": [
+              23.608091
+            ]
+          }
+        ]
+      },
+      "collection_titles": {
+        "cdl": "California Digital Library",
+        "getty": "Getty Research Institute",
+        "kellylibrary": "University of Toronto - John M. Kelly Library",
+        "pimslibrary": "PIMS - University of Toronto",
+        "microfilm": "Microfilm",
+        "transcluding": "a Collection of Transcluding Items",
+        "ColumbiaUniversityLibraries": "Columbia University Libraries",
+        "university_of_toronto": "University of Toronto",
+        "internetarchivebooks": "Internet Archive Books"
+      }
+    },
+    "hit_schema": {
+      "item": {
+        "identifier": {
+          "multivalue": false,
+          "mapping": "string"
+        },
+        "noindex": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "optional": true
+        },
+        "title": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "description": {
+          "multivalue": false,
+          "mapping": "string",
+          "dressing": {
+            "truncate": 1000
+          },
+          "optional": true
+        },
+        "subject": {
+          "multivalue": true,
+          "mapping": "string",
+          "dressing": {
+            "truncate": 1000
+          },
+          "optional": true
+        },
+        "creator": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "collection": {
+          "multivalue": true,
+          "mapping": "string",
+          "comment": "may be a superset of metadata collection field"
+        },
+        "date": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "year": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed from date",
+          "optional": true
+        },
+        "genre": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "volume": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "type": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "language": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "mediatype": {
+          "multivalue": false,
+          "mapping": "string"
+        },
+        "licenseurl": {
+          "multivalue": false,
+          "mapping": "string__url",
+          "optional": true
+        },
+        "num_favorites": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true,
+          "comment": "computed during document construction"
+        },
+        "num_reviews": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true,
+          "comment": "computed during document construction"
+        },
+        "item_size": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "bytes; computed during document construction"
+        },
+        "files_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction"
+        },
+        "item_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction",
+          "optional": true
+        },
+        "displayed_item_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction, may be inferred from item_count",
+          "optional": true
+        },
+        "collection_files_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction, for collection items only",
+          "optional": true
+        },
+        "collection_size": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "bytes; computed during document construction, for collection items only",
+          "optional": true
+        },
+        "downloads": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "total views over item lifetime, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "week": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "views over a seven-day period, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "month": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "views over a month, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "indexflag": {
+          "multivalue": true,
+          "mapping": "string",
+          "comment": "item characterization including noindex status"
+        },
+        "lending___available_to_borrow": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___available_to_browse": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___available_to_waitlist": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___status": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "avg_rating": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true
+        },
+        "addeddate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "issue": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "format varies",
+          "optional": true
+        },
+        "source": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "format varies",
+          "optional": true
+        },
+        "reviewdate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "publicdate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "date_favorited": {
+          "multivalue": false,
+          "mapping": "date",
+          "comment": "not metadata; only present in favorites lists, sourced from Lists API",
+          "optional": true
+        },
+        "reviews_data": {
+          "multivalue": true,
+          "dressing": {
+            "truncate": false
+          },
+          "mapping": "string",
+          "comment": "untruncated JSON encoded data used for Account reviews",
+          "optional": true
+        }
+      }
+    }
+  }
+}

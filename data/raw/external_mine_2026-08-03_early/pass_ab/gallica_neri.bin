@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<srw:searchRetrieveResponse xmlns:ns6="http://gallica.bnf.fr/namespaces/gallica/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <srw:version>1.2</srw:version>
+    <srw:echoedSearchRetrieveRequest>
+        <srw:query>(gallica all "ochialium" or gallica all "Neri Mici")</srw:query>
+        <srw:version>1.2</srw:version>
+    </srw:echoedSearchRetrieveRequest>
+    <srw:numberOfRecords>3314</srw:numberOfRecords>
+    <srw:extraResponseData>&lt;numberOfRecordsDecollapser&gt;8356&lt;/numberOfRecordsDecollapser&gt;</srw:extraResponseData>
+    <srw:records>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Serrano, Luciano (1879-1944). Auteur du texte</dc:creator>
+                    <dc:date>1910</dc:date>
+                    <dc:description>Collection : Fuentes para la historia de Castilla ; III</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>1 vol. (XLVII-417 p.) ; in-8</dc:format>
+                    <dc:format>Nombre total de vues : 470</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k932190h</dc:identifier>
+                    <dc:identifier>NUMM-932190</dc:identifier>
+                    <dc:language>spa</dc:language>
+                    <dc:publisher>P. Procurador (Silos (Burgos))</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb313548963</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-OL-1693 (3)</dc:source>
+                    <dc:title>Becerro gótico de Cardeña / por el R. P. Don Luciano Serrano</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>0</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k932190h.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k932190h</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k932190h.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k932190h.medres</medres>
+                <nqamoyen>84.53</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k932190h.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k932190h</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1947-1951</dc:date>
+                    <dc:description>Variante(s) de titre : But &amp; Club</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb45254683p/date</dc:identifier>
+                    <dc:identifier>NUMP-19935</dc:identifier>
+                    <dc:identifier>ISSN 25540548</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>[s.n.] (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb45254683p</dc:relation>
+                    <dc:relation>A pour reproduction : But et Club (Reproduction numérique) = ISSN 2711-5089 (http://gallicaintramuros.bnf.fr/ark:/12148/cb45254683p/date)</dc:relation>
+                    <dc:source>Bibliothèque nationale de France, département Droit, économie, politique, FOL-JO-3800</dc:source>
+                    <dc:title>But et Club</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>1</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k51784802.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb45254683p/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k51784802.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k51784802.medres</medres>
+                <nqamoyen>76.99</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k51784802.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k51784802</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1910-1912</dc:date>
+                    <dc:description>Périodicité : Bimensuel ; hebdomadaire (janv.-avr. 1911)</dc:description>
+                    <dc:description>Etat de collection : 1re année, n° 1 (6 nov. 1910)-3e année, n° 6 (10 mars 1912) &lt;inc.&gt;</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG00</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG54</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG54</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb32794297f/date</dc:identifier>
+                    <dc:identifier>NUMP-18117</dc:identifier>
+                    <dc:identifier>ISSN 1966351X</dc:identifier>
+                    <dc:language>ita</dc:language>
+                    <dc:publisher>[s.n.] (Briey)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb32794297f</dc:relation>
+                    <dc:relation>A pour reproduction : L'Italiano (Briey. Reproduction numérique) = ISSN 2645-0747 (https://gallica.bnf.fr/ark:/12148/cb32794297f/date)</dc:relation>
+                    <dc:relation>Première de couverture : 348721</dc:relation>
+                    <dc:source>Bibliothèque nationale de France, département Droit, économie, politique, JO-85667</dc:source>
+                    <dc:title>L'Italiano (Briey)</dc:title>
+                    <dc:title>L'Italiano</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>2</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k23742763.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb32794297f/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k23742763.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k23742763.medres</medres>
+                <nqamoyen>86.63</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k23742763.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k23742763</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>8 ff. n. ch. : fig. gr. au titre ; In-16</dc:format>
+                    <dc:format>Nombre total de vues : 16</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bd6t5922824j</dc:identifier>
+                    <dc:identifier>NUMS-100922824</dc:identifier>
+                    <dc:language>ita</dc:language>
+                    <dc:publisher>alle Scale di Badia (Bologna)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb386922530</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Arts du spectacle, 16-RE-2942</dc:source>
+                    <dc:title>Commedia pastorale di Lilia e Crotolo, nuovamente rivista e ricorretta</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>3</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bd6t5922824j.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bd6t5922824j</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bd6t5922824j.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bd6t5922824j.medres</medres>
+                <nqamoyen>76.56</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t5922824j.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bd6t5922824j</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Phạm-Văn-Thình. Auteur du texte</dc:creator>
+                    <dc:date>1929</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : FrVtm0</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>In-8° , 51 p.</dc:format>
+                    <dc:format>Nombre total de vues : 56</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k42298182</dc:identifier>
+                    <dc:publisher> (Saïgon)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb310994250</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Littérature et art, 8-INDOCH-883</dc:source>
+                    <dc:title>Phạm-văn Thình. Lục-Vn̆-Tiên</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>4</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k42298182.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k42298182</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k42298182.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k42298182.medres</medres>
+                <nqamoyen>74.35</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k42298182.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k42298182</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Phạm-Văn-Duyêt. Auteur du texte</dc:creator>
+                    <dc:date>1923</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : FrVtm0</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>In-8°</dc:format>
+                    <dc:format>Nombre total de vues : 50</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k42278549</dc:identifier>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb310994010</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Littérature et art, 8-INDOCH-113</dc:source>
+                    <dc:title>Phạm-văn Duyệt. Hát ả-đao...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>5</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k42278549.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k42278549</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k42278549.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k42278549.medres</medres>
+                <nqamoyen>72.87</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k42278549.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k42278549</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Nguyêñ, Kim Ðính (18..-19.. ; romancier). Auteur du texte</dc:creator>
+                    <dc:date>1929</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : FrVtm0</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>5 fasc. in-8°</dc:format>
+                    <dc:format>Nombre total de vues : 44</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k42307349</dc:identifier>
+                    <dc:publisher> (Gia-định)</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb31013535g</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31013535g</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Littérature et art, 8-INDOCH-1124</dc:source>
+                    <dc:title>Tam hạ Nam-Ðuờn̛g. Numéro 1</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>6</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k42307349.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k42307349</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k42307349.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k42307349.medres</medres>
+                <nqamoyen>74.92</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k42307349.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k42307349</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Nguyễn, Tử Lăng. Préfacier</dc:contributor>
+                    <dc:creator>Lê, Hũư Ðồng. Auteur du texte</dc:creator>
+                    <dc:date>1927</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : FrVtm0</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>20 fasc. (320 p.) : couv. ill.</dc:format>
+                    <dc:format>Nombre total de vues : 20</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k4228791j</dc:identifier>
+                    <dc:publisher> (Nam Ðịnh)</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb357545897</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb357545897</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Littérature et art, 8-INDOCH-412</dc:source>
+                    <dc:title>Châu chầu dá xe.... Numéro 4 / tác giả Tàn Ngô Lê Hũư Ðồng ; [tụa̛ cuả Nguyễn Tủ ̛Lăng]</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>7</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k4228791j.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k4228791j</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k4228791j.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k4228791j.medres</medres>
+                <nqamoyen>63.74</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k4228791j.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k4228791j</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Lý, Ngọc Hung. Auteur du texte</dc:creator>
+                    <dc:date>1922-1954</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : FrVtm0</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>In-8°</dc:format>
+                    <dc:format>Nombre total de vues : 20</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k4230811n</dc:identifier>
+                    <dc:publisher>impr. de Long-Quang (Hanoi)</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb30849697m</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30849697m</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Littérature et art, 8-INDOCH-629</dc:source>
+                    <dc:title>Phi-tiên thiên bäo,... Ly-Ngọc-Hu'ng, dichthuat. Numéro 25</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>8</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k4230811n.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k4230811n</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k4230811n.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k4230811n.medres</medres>
+                <nqamoyen>73.29</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k4230811n.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k4230811n</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Vê Sanh Ðuờn̛g (Nhà thuốc). Auteur du texte</dc:creator>
+                    <dc:date>1922-1954</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : FrVtm0</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>184 p.-[1] f. de pl. : front., couv. ill.</dc:format>
+                    <dc:format>Nombre total de vues : 190</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k42305492</dc:identifier>
+                    <dc:publisher>impr. Man Sanh (Chọ ̛Lón̛)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb357604118</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Littérature et art, 8-INDOCH-1370</dc:source>
+                    <dc:title>Vê Sanh Ðuờn̛g</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>9</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k42305492.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k42305492</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k42305492.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k42305492.medres</medres>
+                <nqamoyen>69.39</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k42305492.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k42305492</uri>
+            </srw:extraRecordData>
+        </srw:record>
+    </srw:records>
+    <srw:nextRecordPosition>11</srw:nextRecordPosition>
+</srw:searchRetrieveResponse>

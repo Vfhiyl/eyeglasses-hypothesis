@@ -1,0 +1,38 @@
+{
+  "pass": "AJ",
+  "direction": "Pivot OFF Brittany Cleux brace OA densify; Courcy Nobiliaire Cleuz lemma + MedCat/Dorn/Persée scout for fresh Cleux-bar living",
+  "verdict": "no_promote",
+  "findings": [
+    {
+      "seam": "Courcy Nobiliaire et armorial de Bretagne (IA NobiliaireEtArmorialDeBretagneI djvu.txt)",
+      "result": "Lemma Cleuz (de) Saint-Nazaire/Marzain/Guérande: montres 1426–1536; Perrine dame de Marzain m.~1430 Thibaut Malor; NO Jean de Cleux/Cleuz death year. Cleuz (du) Gage: Olivier Hermines 1454 ≠ wearer Jean. Cleuziou (du) Louargat distinct."
+    },
+    {
+      "seam": "MedCat ulleres 10550–10570",
+      "result": "Only known: Belluga living 10557 HOLD (no birth); inventaris Ferrer/Belluga/Bartomeu/Salat/Moranta — no new living purchase"
+    },
+    {
+      "seam": "Dorn Croatia OCR",
+      "result": "Only Sloradis 1388 probate EXCLUDE; Vitko 1450 theft HOLD; Rikard 1482 trade EXCLUDE — no fresh Cleux-bar named living"
+    },
+    {
+      "seam": "Persée Jean de Cleuz / Rulon Marzelière",
+      "result": "No useful title hits for Cleuz obit; Rulon not surfaced as OA article"
+    },
+    {
+      "seam": "Bartholomeus Padua / Egidio / Magnia",
+      "result": "Already on panel with years_after=0; OA Zecchin/Gargan closed — no b–d densify"
+    },
+    {
+      "seam": "Brittany Cleux brace (Cleux/Cusac/Provost)",
+      "result": "PERMANENT OA-close for Cleux-bar promote this hunt: Jones Guinot I+II + Morice + Infobretagne + Dictionnaire + Courcy Combat + Courcy Nobiliaire — living pins only; no hard death for Jean Cleux / Cusac / Alain Provost"
+    }
+  ],
+  "ingest": false,
+  "early_stock": {"onsetish": 34, "labor_n": 28, "median_delta": -0.5},
+  "next_roi": [
+    "Archival / user PDF only: Rulon 1959 Association bretonne; Kerhervé Catalogue; Welch JWCI Piceto; Rhodes 1982; ARV Belluga birth; HAD Vitko; ASF Mercanzia 1047 Neri",
+    "Do not reopen Brittany Cleux brace OA densify for promote",
+    "Optional: fresh Ilardi-adjacent living only if new primary OA text appears"
+  ]
+}

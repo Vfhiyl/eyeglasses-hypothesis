@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<srw:searchRetrieveResponse xmlns:ns6="http://gallica.bnf.fr/namespaces/gallica/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <srw:version>1.2</srw:version>
+    <srw:echoedSearchRetrieveRequest>
+        <srw:query>gallica all "Kerhervé" and gallica all "Chambre des comptes" and gallica all "Catalogue"</srw:query>
+        <srw:version>1.2</srw:version>
+    </srw:echoedSearchRetrieveRequest>
+    <srw:numberOfRecords>603</srw:numberOfRecords>
+    <srw:extraResponseData>&lt;numberOfRecordsDecollapser&gt;5789&lt;/numberOfRecordsDecollapser&gt;</srw:extraResponseData>
+    <srw:records>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Kerhervé, Jean (1946-....). Auteur du texte</dc:creator>
+                    <dc:date>1987</dc:date>
+                    <dc:description>Contient une table des matières</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>2 vol. (1078 p.) : ill. ; 25 cm</dc:format>
+                    <dc:format>Nombre total de vues : 568</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k3325367m</dc:identifier>
+                    <dc:identifier>NUMM-3325367</dc:identifier>
+                    <dc:identifier>ISBN 2224017030</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Maloine (Paris)</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb34968871c</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb34968871c</dc:relation>
+                    <dc:rights>conditions spécifiques d'utilisation - Projet de numérisation des indisponibles</dc:rights>
+                    <dc:rights>restricted use</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 4-LK2-11266 (1)</dc:source>
+                    <dc:subject>Politique fiscale -- Bretagne (France) -- Moyen âge</dc:subject>
+                    <dc:subject>Institutions politiques -- Bretagne (France) -- XIVe siècle</dc:subject>
+                    <dc:subject>Institutions politiques -- Bretagne (France) -- XVe siècle</dc:subject>
+                    <dc:subject>Administration -- Bretagne (France) -- XIVe siècle</dc:subject>
+                    <dc:subject>Administration -- Bretagne (France) -- XVe siècle</dc:subject>
+                    <dc:title>L'État breton aux 14e et 15e siècles : les ducs, l'argent et les hommes. Tome 1 / Jean Kerhervé...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>0</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k3325367m.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k3325367m</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k3325367m.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k3325367m.medres</medres>
+                <nqamoyen>99.37</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k3325367m.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k3325367m</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>2006</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : RhoneAlp1</dc:description>
+                    <dc:description>Contient une table des matières</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>546p ; 17.5cmX24cm</dc:format>
+                    <dc:format>Nombre total de vues : 548</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k9798342v</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:language>français</dc:language>
+                    <dc:publisher> (Annecy)</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb45323550r</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb45323550r</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Académie salésienne (Annecy), 2017-181052</dc:source>
+                    <dc:title>L'Apanage de Genevois aux XVIe et XVIIe siècles : pouvoirs, institutions et société. Tome 1 / Laurent Perrillat</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>1</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k9798342v.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k9798342v</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k9798342v.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k9798342v.medres</medres>
+                <nqamoyen>99.63</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k9798342v.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k9798342v</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1891-1940</dc:date>
+                    <dc:description>Variante(s) de titre : Le Républicain</dc:description>
+                    <dc:description>Variante(s) de titre : Le Républicain (1891)</dc:description>
+                    <dc:description>Périodicité : Paraît de deux à six fois par semaine</dc:description>
+                    <dc:description>Etat de collection : |1re année, n° 1 (16 sept. 1891)-50e année, 2e s., n° 8161 (13/14 mai 1940) &lt;inc.&gt;</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG00</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG51</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG51</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb328523518/date</dc:identifier>
+                    <dc:identifier>NUMP-27783</dc:identifier>
+                    <dc:identifier>ISSN 2136284X</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>[s.n.] (Vitry-le-François)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb328523518</dc:relation>
+                    <dc:relation>A pour reproduction : Le Républicain de l'arrondissement de Vitry-le-François (Reproduction numérique) = ISSN 3036-7034 (https://gallica.bnf.fr/ark:/12148/cb328523518/date)</dc:relation>
+                    <dc:relation>Première de couverture : 865206</dc:relation>
+                    <dc:source>Bibliothèque nationale de France, département Droit, économie, politique, JO-88959</dc:source>
+                    <dc:title>Le Républicain de l'arrondissement de Vitry-le-François : journal politique, littéraire, commercial et agricole : paraissant les mercredi et samedi...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>2</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bd6t514686344.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb328523518/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bd6t514686344.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bd6t514686344.medres</medres>
+                <nqamoyen>83.14</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t514686344.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bd6t514686344</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1946-1958</dc:date>
+                    <dc:description>Variante(s) de titre : Qui ? Détective</dc:description>
+                    <dc:description>Variante(s) de titre : Qui ? : l'hebdomadaire des secrets du monde</dc:description>
+                    <dc:description>Périodicité : Hebdomadaire</dc:description>
+                    <dc:description>Etat de collection : n. 28 (1947)-n. 611 (1958)</dc:description>
+                    <dc:format>Nombre total de vues : 9174</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb34428971z/date</dc:identifier>
+                    <dc:identifier>NUMP-12239</dc:identifier>
+                    <dc:identifier>ISSN 11493690</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>[s.n.] (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb34428971z</dc:relation>
+                    <dc:relation>A pour reproduction : Qui ? (Paris. 1946. Reproduction numérique) = ISSN 2420-2010 (https://gallica.bnf.fr/ark:/12148/cb34428971z/date)</dc:relation>
+                    <dc:relation>A pour reproduction : Qui ? (Paris. 1946. Reproduction numérique) = ISSN 2420-2010 (https://www.retronews.fr/ark:/12148/cb34428971z/notice)</dc:relation>
+                    <dc:source>Bibliothèque nationale de France, département Droit, économie, politique, FOL-JO-3923</dc:source>
+                    <dc:title>Qui ? (Paris. 1946)</dc:title>
+                    <dc:title>Qui ? : le magazine de l'énigme et de l'aventure</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>3</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k966745c.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb34428971z/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k966745c.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k966745c.medres</medres>
+                <nqamoyen>87.46</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k966745c.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k966745c</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1894-1899</dc:date>
+                    <dc:description>Etat de collection : Jusqu'à : 15 oct. 1899 (n° 641), inc.</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : MAEDIGen0</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : MAEDI013</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb327724853/date</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>[s.n.] (Hanoï)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb327724853</dc:relation>
+                    <dc:source>Bibliothèque nationale de France, département Droit, économie, politique, JO-6992</dc:source>
+                    <dc:title>L'Extrême-Orient (Hanoï)</dc:title>
+                    <dc:title>L'Extrême-Orient : paraissant le jeudi et le dimanche</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>4</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k45268695.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb327724853/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k45268695.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k45268695.medres</medres>
+                <nqamoyen>85.83</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k45268695.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k45268695</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Maître, Léon (1840-1926). Rédacteur</dc:contributor>
+                    <dc:contributor>Loire-Atlantique. Archives départementales. Éditeur scientifique</dc:contributor>
+                    <dc:date>1902</dc:date>
+                    <dc:description>Collection : Collection des inventaires sommaires des archives départementales antérieures à 1790, publiées sous la direction du ministre de l'Instruction publique</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>1 vol. (XIV-478 p.) ; in-fol.</dc:format>
+                    <dc:format>Nombre total de vues : 522</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k920138p</dc:identifier>
+                    <dc:identifier>NUMM-920138</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>E. Grimaud (Nantes)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb308637417</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, FOL-L43-12 (LOIRE-ATL,B,ART 1-1952)</dc:source>
+                    <dc:title>Inventaire sommaire des archives départementales antérieures à 1790. Loire-Inférieure. Tome Ier, Archives civiles, série B, Chambres des comptes de Bretagne, art. B.1-B. 1952 / rédigé par M. Léon Maître</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>5</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k920138p.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k920138p</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k920138p.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k920138p.medres</medres>
+                <nqamoyen>88.33</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k920138p.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k920138p</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Musée Condé (Chantilly, Oise). Auteur du texte</dc:creator>
+                    <dc:date>1971</dc:date>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb343963953/date</dc:identifier>
+                    <dc:identifier>NUMP-25030</dc:identifier>
+                    <dc:identifier>ISSN 07677243</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Musée Condé ; 60500 (Chantilly)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb343963953</dc:relation>
+                    <dc:relation>A pour reproduction : Musée Condé (Reproduction numérique) = ISSN 2825-7928 (https://gallica.bnf.fr/ark:/12148/cb343963953/date)</dc:relation>
+                    <dc:source>Bibliothèque du musée Condé, château de Chantilly, 2022-39242</dc:source>
+                    <dc:title>Musée Condé : bulletin</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>6</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bd6t5334075q.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb343963953/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bd6t5334075q.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bd6t5334075q.medres</medres>
+                <nqamoyen>89.3</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t5334075q.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bd6t5334075q</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Institut national de la statistique et des études économiques (France). Département de la coordination statistique et comptable. Auteur du texte</dc:creator>
+                    <dc:date>1987</dc:date>
+                    <dc:description>Comprend : Autres auteurs : Tamisier, Marie-Hélène ; Arkhipoff, Oleg ; Viennet, Henri ; Kiffer, Josiane ; Griffin, Tom ; Fouquet, Annie ; Charraud, Alain ; Aouizerate, Thierry ; Morel, Bernard ; Volkoff, Serge ; de Saboulin, Michel ; Marpsat, Maryse ; Devouassoux, Jacqueline ; Cristofari, Marie-France ; Rubel, Nicolas ; Affichard, Joëlle ; Temam, Daniel ; Benedetti, Alain ; Gourio, Françoise ; Tranap, Alain - Pour une histoire de la statistique / Joëlle Affichard - Données sociales édition 1987 / Annie Fouquet, Maryse Marpsat - Ecrire pour être lu / Alain Charraud, Daniel Temam - Writing Statistical Articles for Publication / Tom Griffin - Une aide au diagnostic conjoncturel : les indices de stocks en valeur / Marie-Hélène Tamisier - La rénovation des enquêtes de branche dans l'industrie / Thierry Aouizerate - Les travaux du Conseil national de la comptabilité en 1986 / Alain Benedetti - Le Comité lorrain de l'information économique et sociale / Josiane Kiffer - Une approche de la santé intégrée à l'étude des conditions de vie / Jacqueline Devouassoux, Bernard Morel - Aides au logement, le système TRIAL / Françoise Gourio - Les créations d'entreprises / Henri Viennet - Les risques professionnels / Marie-France Cristofari, Serge Volkoff - Commission de statistiques de l'ONU : 22e session / Alain Tranap - Deuxième congrès de comptabilité nationale / 0leg Arkhipoff - Séminaire de l'OCDE sur les statistiques de l'innovation / Nicolas Rubel - Réunion régionale de l'ONU sur la population et le développement / Michel de Saboulin - La Méthodologie des séries publiées au BMS en trois suppléments / Michel Boeda</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BnSP000</dc:description>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:format>Nombre total de vues : 1</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bc6p06z99n9</dc:identifier>
+                    <dc:identifier>LNUM-12526</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Insee (Paris)</dc:publisher>
+                    <dc:relation>Périodique lié : Courrier des statistiques (Ed. française)(ISSN 0151-9514) (Notice : http://catalogue.bnf.fr/ark:/12148/cb34351189k)</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb46749030f</dc:relation>
+                    <dc:relation>Première de couverture : 539271</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>BNSP-Insee</dc:source>
+                    <dc:subject>Administration</dc:subject>
+                    <dc:subject>Organisation statistique</dc:subject>
+                    <dc:title>Courrier des statistiques d'avril 1987</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                    <dc:type>Document électronique</dc:type>
+                    <dc:type>Digital document</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>7</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bc6p06z99n9.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link></link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bc6p06z99n9.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bc6p06z99n9.medres</medres>
+                <nqamoyen>100.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bc6p06z99n9.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bc6p06z99n9</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Laverrière, Stanislas (Abbé). Directeur de publication</dc:contributor>
+                    <dc:creator>Oeuvre pontificale missionnaire de la Propagation de la foi. Auteur du texte</dc:creator>
+                    <dc:date>1868-1964</dc:date>
+                    <dc:description>Périodicité : Hebdomadaire (1868-1927) ; bimensuel (1928-) ; mensuel (1941-)</dc:description>
+                    <dc:description>Etat de collection : 1868 (t. 1er, n° 1, 26 juin )-1932 (t. 64e, n° 3170, 16 déc.)</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : FranceJp0</dc:description>
+                    <dc:format>Nombre total de vues : 39925</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb328169156/date</dc:identifier>
+                    <dc:identifier>NUMP-756</dc:identifier>
+                    <dc:identifier>ISSN 20214243</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Oeuvre de la propagation de la foi (Lyon)</dc:publisher>
+                    <dc:publisher>Challamel (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb328169156</dc:relation>
+                    <dc:relation>A pour reproduction : Les Missions catholiques (Reproduction numérique) = ISSN 2390-7401 (https://gallica.bnf.fr/ark:/12148/cb328169156/date)</dc:relation>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 4-H-13</dc:source>
+                    <dc:title>Les Missions catholiques : bulletin hebdomadaire de l'Oeuvre de la propagation de la foi / directeur-gérant Stanislas Laverrière</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>8</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k105615n.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb328169156/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k105615n.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k105615n.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k105615n.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k105615n</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1884-1905</dc:date>
+                    <dc:description>Variante(s) de titre : L'Express du Nord et du Pas-de-Calais, La Colonne et L'Express réunis</dc:description>
+                    <dc:description>Périodicité : Quotidien</dc:description>
+                    <dc:description>Etat de collection : 1er mars 1886-29 juin 1905, inc.</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG00</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG59</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG62</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG62</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb32772372g/date</dc:identifier>
+                    <dc:identifier>NUMP-18325</dc:identifier>
+                    <dc:identifier>ISSN 21277494</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>[s.n.] (Boulogne-sur-Mer)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb32772372g</dc:relation>
+                    <dc:relation>A pour reproduction : L'Express du Nord et du Pas-de-Calais (Reproduction numérique) = ISSN 2645-1530 (https://gallica.bnf.fr/ark:/12148/cb32772372g/date)</dc:relation>
+                    <dc:relation>Première de couverture : 372203</dc:relation>
+                    <dc:source>Bibliothèque nationale de France, département Droit, économie, politique, JO-14631</dc:source>
+                    <dc:title>L'Express du Nord et du Pas-de-Calais : ancien journal La Colonne</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>9</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k32979247.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb32772372g/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k32979247.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k32979247.medres</medres>
+                <nqamoyen>84.76</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k32979247.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k32979247</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Rosmorduc, Georges Le Gentil (18..-1941 ; comte de). Éditeur scientifique</dc:contributor>
+                    <dc:date>1896-1905</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : Bretagn1</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : PaysLoir1</dc:description>
+                    <dc:format>4 vol. ; in-4</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k5660428j</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Imprimé pour l'auteur (Saint-Brieuc)</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb34209286j</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb34209286j</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Réserve des livres rares, RES 4-LM2-325 (4)</dc:source>
+                    <dc:subject>Bretagne (France) -- Généalogie</dc:subject>
+                    <dc:title>La noblesse de Bretagne devant la chambre de la réformation, 1668-1671 : arrêts de maintenue de noblesse. Tome 4 / recueillis et publiés par M. le Comte de Rosmorduc</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>10</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k5660428j.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k5660428j</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k5660428j.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k5660428j.medres</medres>
+                <nqamoyen>92.52</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k5660428j.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k5660428j</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1932-1937</dc:date>
+                    <dc:description>Périodicité : Hebdomadaire</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG00</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG29</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG29</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : Bretagn1</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : GMBrst001</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb32880803x/date</dc:identifier>
+                    <dc:identifier>NUMP-14782</dc:identifier>
+                    <dc:identifier>ISSN 21390142</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>[s.n.] (Morlaix)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb32880803x</dc:relation>
+                    <dc:relation>A pour reproduction : La Tribune (Morlaix. Reproduction numérique) = ISSN 2462-067X (https://recherche.archives.finistere.fr/document/FRAD029_0004MI075)</dc:relation>
+                    <dc:relation>A pour reproduction : La Tribune (Morlaix. Reproduction numérique) = ISSN 2462-067X (https://gallica.bnf.fr/ark:/12148/cb32880803x/date)</dc:relation>
+                    <dc:relation>Première de couverture : 220691</dc:relation>
+                    <dc:source>Bibliothèque nationale de France, département Droit, économie, politique, JO-95772</dc:source>
+                    <dc:title>La Tribune (Morlaix)</dc:title>
+                    <dc:title>La Tribune : journal républicain de Morlaix et de l'arrondissement</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>11</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k989688w.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb32880803x/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k989688w.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k989688w.medres</medres>
+                <nqamoyen>87.32</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k989688w.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k989688w</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1947-1954</dc:date>
+                    <dc:description>Etat de collection : a. 3, n° 64 (1947, 13 avr.)-a. 9, n° 412 (1954, 3 sept.) &lt;inc.&gt;</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb328117817/date</dc:identifier>
+                    <dc:identifier>NUMP-4573</dc:identifier>
+                    <dc:identifier>ISSN 08513414</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Imprimeries Réunies (Casablanca)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb328117817</dc:relation>
+                    <dc:source>Bibliothèque nationale de France, département Droit, économie, politique, FOL-JO-4145</dc:source>
+                    <dc:title>Maroc monde : hebdomadaire catholique d'information marocaine et mondiale</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>12</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k5115599x.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb328117817/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k5115599x.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k5115599x.medres</medres>
+                <nqamoyen>88.84</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k5115599x.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k5115599x</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1876-1879</dc:date>
+                    <dc:description>Périodicité : Bi-hebdomadaire</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG00</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG29</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG29</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb32820147c/date</dc:identifier>
+                    <dc:identifier>NUMP-20896</dc:identifier>
+                    <dc:identifier>ISSN 21325944</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>[s.n.] (Morlaix)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb32820147c</dc:relation>
+                    <dc:relation>A pour reproduction : Le Morlaisien (Morlaix. Reproduction numérique) = ISSN 2726-4440 (https://gallica.bnf.fr/ark:/12148/cb32820147c/date)</dc:relation>
+                    <dc:relation>Première de couverture : 450028</dc:relation>
+                    <dc:source>Bibliothèque nationale de France, département Droit, économie, politique, JO-2309</dc:source>
+                    <dc:title>Le Morlaisien (Morlaix)</dc:title>
+                    <dc:title>Le Morlaisien : journal politique</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>13</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k8353249k.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb32820147c/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k8353249k.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k8353249k.medres</medres>
+                <nqamoyen>87.78</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k8353249k.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k8353249k</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>183.-186.</dc:date>
+                    <dc:description>Variante(s) de titre : L'Indicateur des mariages de Paris</dc:description>
+                    <dc:description>Variante(s) de titre : L'Indicateur des mariages : relevés des mariages affichés dans les 20 mairies de Paris</dc:description>
+                    <dc:description>Variante(s) de titre : L'Indicateur des mariages de Paris : première publication du ... au ... de tous les mariages des 20 arrondissements</dc:description>
+                    <dc:description>Variante(s) de titre : L'Indicateur des mariages de Paris : publication hebdomadaire de tous les mariages affichés</dc:description>
+                    <dc:description>Périodicité : Hebdomadaire</dc:description>
+                    <dc:description>Etat de collection : 1859-1869 [XXI-XXIX]</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>Nombre total de vues : 1462</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb32790511r/date</dc:identifier>
+                    <dc:identifier>ISSN 25571664</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>[s.n.] (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb32790511r</dc:relation>
+                    <dc:relation>A pour reproduction : L'Indicateur des mariages (Reproduction numérique) = ISSN 2547-457X (https://gallica.bnf.fr/ark:/12148/cb32790511r/date)</dc:relation>
+                    <dc:source>Bibliothèque nationale de France, département Littérature et art, V-3797</dc:source>
+                    <dc:title>L'Indicateur des mariages : relevé des mariages affichés dans les mairies</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>14</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k54817835.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb32790511r/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k54817835.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k54817835.medres</medres>
+                <nqamoyen>90.31</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k54817835.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k54817835</uri>
+            </srw:extraRecordData>
+        </srw:record>
+    </srw:records>
+    <srw:nextRecordPosition>16</srw:nextRecordPosition>
+</srw:searchRetrieveResponse>

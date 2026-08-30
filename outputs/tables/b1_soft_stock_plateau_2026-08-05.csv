@@ -1,0 +1,18 @@
+person_id,name,evidence_year,years_after_evidence,n_dated,confidence,occupation_class,gate_status
+hesselin_denis,Denis Hesselin (Hasselin) Prevot des Marchands de Paris,1474,32,3,high,city_receveur_clerk,HARD_OA_CLOSED_library_comptes
+unwin_mary,Mary Unwin,1786,10,3,medium,gentlewoman_letter_writer,THIRD_PARTY_only_low_pin
+bourchier_henry_bath,"Henry Bourchier, 5th Earl of Bath",1646,8,4,high,earl_ruler,LIBRARY_Gray_IA_borrow_BUT_PassBV_output_primary_delta_neg9.5
+rene_ii_lorraine,Rene II Duke of Lorraine,1504,4,3,high,duke_ruler,HARD_OA_CLOSED_BUT_PassBW_output_primary_delta_plus2
+jeffreys_joyce,Joyce Jeffreys,1639,11,6,high,moneylender_spinster,HARD_PassBT_plus_BU_output_primary_delta_neg1.5
+wyatt_henry,Henry Wyatt,1527,3.0,5.0,high,treasurer_courtier,SOFT_labor_HARD_output_ok
+wolsey,Thomas Wolsey,1527,3.0,2.0,high,cardinal_statesman,SHORT_WINDOW_structural
+arduino_baiso,Arduino da Baiso,1451,3,1,high,woodcarver_artisan,HARD_OA_CLOSED_artisan
+henry_viii,Henry VIII,1545,2,2,high,king_ruler,SHORT_WINDOW_structural
+nuno_fernandes,Nuno Fernandes,1459,1.0,1.0,medium,portuguese_client,PERMANENT_close_thin
+voiture_vincent,Vincent Voiture,1647,1,2,high,humanist_scholar,SHORT_WINDOW_CLOSED
+spinelli_benedetto,Benedetto di Guaspare Spinelli,1534,0.03,2,medium,merchant,TO_him_only_ya0ish
+bartholomeus_padua,Magister Bartholomeus (Padua),1318,0,1,medium,notary_family_elderly,YA0_single_pin
+jacopo_magnia_friar,Fra Iacopo della Magnia,1488,0,1,medium,friar,YA0_single_pin
+egidio_piacenza,Fra Egidio da Piacenza,1488,0,1,medium,friar,YA0_single_pin
+vangelista,Suora Vangelista,1402,0,1,medium,nun,YA0_single_pin
+neri_mici,Ser Neri Mici da Bibbiena,1329,0,1,medium,notary,YA0_single_pin

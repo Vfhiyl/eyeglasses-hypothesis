@@ -1,0 +1,774 @@
+Notariorum Itinera
+VII
+Collana diretta da Antonella Rovere
+
+SOCIETÀ LIGURE DI STORIA PATRIA
+
+Liber sententiarum
+potestatis Mediolani
+(1385)
+Storia, diritto, diplomatica
+e quadri comparativi
+
+*
+a cura di
+Alessandra Bassani, Marta Calleri e Marta Luigina Mangini
+
+GENOVA 2021
+
+Referees: i nomi di coloro che hanno contribuito al processo di peer review sono inseriti
+nell’elenco, regolarmente aggiornato, leggibile all’indirizzo:
+http://www.storiapatriagenova.it/Ref_ast.aspx
+Referees: the list of the peer reviewers is regularly updated at URL:
+http://www.storiapatriagenova.it/Ref_ast.aspx
+
+Il volume è stato sottoposto in forma anonima ad almeno un revisore.
+This volume have been anonymously submitted at least to one reviewer.
+
+Notariorum Itinera. VII/1, 2021
+ISBN 978-88-97099-68-0 (a stampa) / 978-88-97099-70-3 (digitale)
+ISSN 2421-2377 (a stampa) / 2499-8109 (digitale)
+DOI 10.5281/zenodo.4464969
+
+Selezione e circolazione dei giudici ai malefici nel dominio
+visconteo fra Tre e Quattrocento
+Fabrizio Pagnoni
+fabrizio.pagnoni@unimi.it
+
+La campagna di studi promossa da Alessandra Bassani, Marta Calleri e Marta
+Mangini in direzione del Liber sententiarum potestatis Mediolani del 1385 rappresenta
+un’occasione importante per accendere i riflettori su un intero corpus documentario
+certamente noto (soprattutto grazie alle indagini di Ettore Verga, oltre un secolo fa)
+ma assai di rado oggetto di analisi puntuali e ricognizioni specifiche 1. Vere e proprie
+miniere di informazioni utili da una pluralità di angolature differenti (dalla storia delle
+istituzioni alla storia sociale della giustizia, dalle indagini sulle trasformazioni della
+prassi giudiziaria a quelle su tecniche e processi redazionali), i libri delle sentenze milanesi costituiscono al tempo stesso importanti serbatoi ai quali attingere per ricostruire carriere e profili dell’officialità a vario titolo impegnata nell’amministrazione della
+giustizia. Podestà (e proprio a costoro il Verga dedicava, in chiusura del suo saggio,
+una puntuale disamina, ricostruendone una cronotassi dettagliata per gli anni 13831436), ma anche giudici ai malefici, notai, ufficiali minori.
+Nelle pagine che seguono, vorrei pertanto valorizzare questo patrimonio informativo per articolare alcune riflessioni intorno a un tema che ha goduto di grandi
+attenzioni nella recente storiografia, quello della selezione e circolazione del personale tecnico e politico all’interno dello spazio politico visconteo. Come è noto, sulla
+scorta dei pionieristici studi di Giorgio Chittolini e delle indagini avviate dalla comunalistica attorno al Duemila, gli storici hanno intrapreso importanti ricerche sui
+meccanismi di reclutamento dell’officialità maggiore, sul controllo della nomina di
+podestà e capitani da parte dei signori di Milano, sul profilo dei reclutati (con le
+conseguenti indagini su canali di mobilità, circolazione, rapporto fra carriere e status
+sociale); rispetto a questo quadro molto articolato, assai più limitate sono state invece le attenzioni rivolte ai componenti della familia podestarile 2.
+———————
+1 VERGA 1901, ma v. anche SANTORO 1969 e PADOA SCHIOPPA 1996. Una panoramica recente sulla
+documentazione giudiziaria in area lombarda in COVINI 2012; sulle pratiche di redazione e conservazione
+dei Libri sententiarum milanesi v. ora MANGINI 2021.
+2 Punti di partenza imprescindibili sono ovviamente CHITTOLINI 1988; Podestà dell’Italia comunale
+2000 (e, per un bilancio recente, CASTELNUOVO 2012). Con riferimento al dominio visconteo, bastino
+
+– 61 –
+
+Particolarmente sfumate, soprattutto in considerazione del ruolo svolto, a fianco
+del podestà, nell’amministrazione della giustizia penale, appaiono ad esempio le figure
+dei giudici ai malefici: ben poco si conosce del profilo di questi ufficiali, del contesto
+sociale e culturale di provenienza, delle carriere, del legame fiduciario costruito con il
+rettore o con il contesto geografico nel quale si trovavano a operare. Si tratta, in effetti, di questioni tutt’altro che irrilevanti, poiché si pongono all’intersezione di una
+pluralità di problemi differenti: dal concreto funzionamento della giustizia basso
+medievale, alla circolazione di tecniche e saperi, ai rapporti fra potere centrale e
+istituzioni locali. Se un’analisi esaustiva del peso specifico rivestito dai giudici in
+questi fenomeni è ancora, almeno in parte, prematura, un approccio prosopografico
+alle fonti giudiziarie lombarde della seconda metà del Trecento consente però di delineare, in maniera piuttosto chiara, un profilo articolato dei magistrati in criminalibus,
+delle logiche che sottendevano alla loro selezione e circolazione all’interno dello
+spazio politico visconteo.
+1. La selezione: il quadro normativo
+Messe a confronto con l’abbondanza di norme concernenti l’amministrazione e
+la gestione della giustizia penale, le informazioni ricavabili dagli statuti trecenteschi
+di area lombarda in materia di selezione e reclutamento dei giudici ai malefici sono
+decisamente più scarne. Al pari degli altri componenti della familia, la scelta di questi
+ufficiali spettava al podestà entrante: in genere, le disposizioni in argomento si limitavano a fissare il numero massimo di giudici che il rettore doveva avere al seguito,
+determinando poi che uno di loro fosse « ad malleficia deputatus » 3. Talvolta, le
+compilazioni statutarie intervenivano sulle dinamiche di selezione, impedendo ad
+esempio la reiterazione dell’incarico a breve distanza temporale, come è attestato a
+Parma e Cremona (dove si impediva al podestà di « tenere in familia sua aliquem qui
+stetit officialis in officio a quinque annis citra »), in Riviera del Garda (dove il periodo di incompatibilità era determinato in quattro anni dalla scadenza del mandato) e
+———————
+per ora i rimandi a GRILLO 2010a; GRILLO 2010b; GAMBERINI 2003 e GAMBERINI 2018. Maggiore attenzione per le dinamiche e i meccanismi di reclutamento dell’officialità ‘minore’ o comunque facente parte
+la familia vicariale è stata espressa nell’ambito delle indagini sull’eterogeneo spazio politico angioino: v.
+almeno RAO 2006; BONNAUD 2007, pp. 130-146; RAO 2016; ROSSO 2013-2017; TERENZI 2019, pp. 210-214.
+Sulla familia podestarile in età comunale, importante la messa a punto di VALLERANI 2010.
+3 Rarissimi sono i documenti di nomina sopravvissuti alla dispersione archivistica. Fra i pochi attestati, quello dell’agosto del 1372 con cui il podestà di Reggio Giuliano Spinola elesse a proprio giudice
+dei malefici il parmense Stefano de Fero: Reggio, Archivio di Stato (ASRe), Archivio del Comune, Provvigioni del Consiglio generale, vol. 1372-91 (1372 agosto 29).
+
+– 62 –
+
+a Milano (tre anni) 4. Oltre ai meccanismi di turnazione, potevano tuttavia trovare
+spazio norme che si riflettevano più direttamente sui canali di reclutamento dei giudici: gli statuti cremonesi del 1339 vietavano al podestà di assumere ufficiali provenienti
+« de civitate seu terra confinante cum territorio … Cremone », ma al contempo deliberavano che il reclutamento fosse effettuato fra le città e i territori sottoposti alla dominazione di Giovanni e Luchino Visconti 5. A Brescia, la riforma statutaria effettuata
+nel 1355 intervenne a stabilire che nessuno fra i sei giudici del podestà dovesse provenire da Cremona, « cum inter ipsos cremonenses et comunem Brixie continue
+controversia moveatur »: una norma assente nella precedente compilazione del 1316
+e introdotta quasi certamente a seguito dei contrasti fra le due città sul controllo
+dell’Oglio, esplosi con grande intensità proprio attorno alla metà del secolo 6.
+Su questo impianto normativo agile e in ogni caso piuttosto eterogeneo, occorre
+registrare nella seconda metà del Trecento l’intervento della legislazione viscontea: il
+decreto emanato nel 1377 da Bernabò, con cui il dominus intese regolare la presenza
+degli ufficiali signorili nelle città suddite secondo il principio dell’equilibrio fra le fazioni, prevedeva ad esempio che
+« si potestas fuerat gibellinus, vicarii et iudices maleficiorum qui cum eo ire debebunt ad dictum
+officium sint et esse debeant guelfi, et sic e converso si potestas fuerit guelfus, vicarii et iudices
+maleficiorum sint et esse debeant gibellini » 7.
+
+Più pervasiva, e improntata su una logica di tipo territoriale, fu l’azione di Gian Galeazzo, il quale nel 1391 vietò ai rettori di tutte le giurisdizioni dotate di mero e misto
+imperio di avere al seguito ufficiali provenienti dal medesimo territorio in cui essi si trovavano a operare, disponendo altresì che non avrebbero potuto scegliere i propri collaboratori neppure dai territori immediatamente confinanti e che fra il luogo di residenza
+dell’ufficiale e quello di destinazione ci fosse almeno « una iurisdictio intermedia » 8.
+Incisivo (e più noto) fu poi l’intervento del primo duca rispetto alla sola capitale
+del dominio: già nel 1385, disponendo la ridefinizione giurisdizionale del contado di
+———————
+4 Statuta communis Parmae, p. 9; Statuta et ordinamenta Cremonae, p. 14; BETTONI 1880, IV, p.
+132; Statuta iurisdictionum Mediolani, col. 992. Sulle norme regolanti l’operato del podestà e della familia in ambito visconteo, STORTI STORCHI 1984.
+5 Statuta et ordinamenta Cremonae, p. 14.
+6 PAGNONI 2013, pp. 92-97, 103.
+7 Ibidem, p. 126. Sull’inquadramento costituzionale delle fazioni all’interno del dominio visconteo, v. almeno Guelfi e ghibellini 2005; GAMBERINI 2016, pp. 210-219.
+8 Antiqua Ducum, pp. 162-163. Sul decreto anche SANTORO 1968, p. 72.
+
+– 63 –
+
+Milano, Gian Galeazzo aveva stabilito che il numero dei giudici ai malefici della città
+ambrosiana venisse portato da due a tre, affinché uno fosse deputato esclusivamente
+alla giurisdizione sul contado milanese 9. La norma fu probabilmente abrogata pochi
+anni dopo, ma gli statuti del 1396 registrano un’altra importante innovazione, forse
+conseguente all’ottenimento del titolo ducale da parte di Gian Galeazzo: l’avocazione
+al principe del potere di nominare uno dei due giudici ai malefici dipendenti dal podestà di Milano 10.
+2. La selezione: i canali
+A fronte di una cornice normativa come si è visto poco loquace, l’analisi incrociata delle cronotassi di podestà e magistrati in criminalibus si rivela al contrario ricca di indicazioni circa le logiche sottese alla selezione e circolazione dei giudici ai
+malefici. Sul piano metodologico, ho optato per un’indagine su ampia scala, che trascendesse il singolo contesto urbano per mettere a frutto (attraverso una prospettiva di tipo comparativo) i dati provenienti da diverse città del dominio visconteo.
+Non solo Milano dunque, ma anche Vercelli, Reggio e Brescia, tre città la cui documentazione (pur assai difforme per qualità e quantità) consente di ricostruire una
+serie piuttosto precisa dei giudici ai malefici succedutisi fra l’ultimo quarto del Trecento e gli anni Dieci del Quattrocento, permettendo una comparazione puntuale
+con le indicazioni fornite dai libri sententiarum ambrosiani 11.
+Il primo elemento di riflessione sollecitato dal confronto fra queste liste di ufficiali riguarda i rapporti professionali instaurati da podestà e giudici ai malefici nel
+corso della propria carriera di funzionari itineranti. Se la scelta dei magistrati in cri———————
+9 Sulla riforma del 1385 VERGA 1901, pp. 100-102; GAMBERINI 2005, pp. 177-179.
+10 Statuta iurisdictionum Mediolani, coll. 991-993. Nei registri delle sentenze milanesi, in effetti, la
+
+distinzione fra giudice ai malefici del podestà e giudice ai malefici di nomina ducale (« pro prelibato domino nostro ») è attestata a partire dal liber del 1397: v. Milano, Archivio Storico Civico e Biblioteca
+Trivulziana (BTMi), Cimeli, Sentenze del podestà, ms. 148, ff. 17r, 65r. Una cronotassi di questi ufficiali
+è ricavabile da Registri dell’ufficio di Provvisione, passim, oltre che da SANTORO 1968, pp. 118-121.
+11 Per la ricchissima documentazione giudiziaria vercellese ho potuto avvalermi della preziosa collaborazione di Luca Campisi, che sta attualmente conducendo una ricerca dottorale sui libri condempnationum e
+i libri inquisitionum di quella città (v. anche CAMPISI 2018, oltre al contributo di Antonio OLIVIERI 2021 nel
+presente volume). Alla cortesia di Andrea Gamberini debbo l’avermi messo a disposizione le sue schedature
+delle fonti reggiane (in particolare libri delle provvisioni, registri criminali e carteggio del reggimento). Per
+Brescia, dove le fonti comunali anteriori al Quattrocento sono quasi completamente perdute, ho potuto ricostruire una cronotassi sufficientemente ampia dei giudici ai malefici attraverso l’abbondante documentazione notarile conservata presso il locale Archivio di Stato (soprattutto nei fondi dell’Ospedale Maggiore).
+
+– 64 –
+
+minalibus ricadeva, come si è visto, fra le competenze del rettore designato, ci si
+aspetterebbe di riscontrare un qualche grado di corrispondenza fra le carriere itineranti dei podestà e i percorsi professionali dei loro giudici. I dati ricavabili dalle cronotassi forniscono in proposito indicazioni decisamente contrarie: se era sempre
+possibile che un rettore, anche a distanza di diverso tempo, scegliesse di avvalersi
+delle prestazioni di un giudice con il quale aveva già collaborato in precedenza, nella
+norma gli itinerari professionali di podestà e magistrati in criminalibus divergevano
+sensibilmente 12. Del tutto eccezionali appaiono dunque casi come quello di Balzarolo da Baggio il quale, nel corso delle sue due podesterie bresciane (1381 e 1389), si
+avvalse della collaborazione del medesimo giudice, il vigevanese Gerardo Colli 13.
+Anche Giacomo Pio da Carpi, da podestà di Lodi (1373) e Piacenza (1393) si fece
+affiancare dal giudice parmense Giovanni Balducchini, mentre nel 1378 a Brescia
+ebbe al seguito un altro parmense, Giovanni de Corviago 14.
+Normalmente, invece, il rapporto fiduciario che poteva costruirsi fra un podestà e
+il proprio giudice non costituiva una leva decisiva nei meccanismi di arruolamento del
+personale tecnico all’interno delle familiae podestarili 15. Scarsamente attestate appaiono anche altre tipologie di raccordo, come ad esempio quelle dettate dalla provenienza
+territoriale: anche in questo caso, i podestà ricorrevano assai raramente alla collaborazione di personalità scelte fra il ceto giuridico delle località d’origine 16.
+Più che i legami personali con il podestà, a incidere sulla scelta del giudice poteva essere l’esperienza vantata da quest’ultimo rispetto al contesto di destinazione:
+è un dato difficilmente misurabile, ma che viene indirettamente suggerito da tutti
+quei casi di magistrati scelti, a distanza di anni, per ricoprire l’incarico di giudici ai
+malefici nelle sedi dove avevano già operato diverso tempo prima. Si tratta di esperienze numericamente abbastanza contenute, ma comunque significative: nel 1390 il
+———————
+12 Un fenomeno già osservato, per il Duecento, da VALLERANI 2010.
+13 Brescia, Archivio di Stato (ASBs), Ospedale Maggiore, b. 1057, perg. 52 (1381 aprile 6); Milano,
+Biblioteca Ambrosiana (BAMi), ms. G 198 suss. (1389 febbraio 10). Va tuttavia rilevato che nel suo incarico vercellese (1390-1391) Balzarolo ebbe al seguito un altro giudice ai malefici, Giovanni de Michelis
+(Vercelli, Archivio Storico Civico, [ASCVc], Atti Giudiziali, Liber inquisitionum B-250, f. 1r).
+14 ASBs, Ospedale Maggiore, b. 353, perg. 1 (1370 ottobre 27). Sugli altri incarichi v. p. 68.
+15 Su un totale di 85 incarichi esaminati (15 a Brescia, 19 a Milano, 25 a Vercelli e 26 a Reggio), solo in
+
+sei casi si può verificare la ricorrenza della medesima coppia giudice-podestà (v. la tavola 1 in appendice).
+16 Nel 1396 ad esempio il podestà di Brescia, Spinetta Malaspina, marchese di Villafranca, aveva al
+
+seguito quale proprio giudice ai malefici Maffeo da Mulazzo, località compresa entro i domini del marchese: ASBs, Ospedale Maggiore, b. 1350, perg. n. 65 (1396, novembre 16).
+
+– 65 –
+
+podestà di Milano Prendiparte della Mirandola scelse come proprio giudice il soncinate
+Franceschino Meli, che tornava in città dopo aver servito il rettore Carlo Zeno cinque
+anni prima, nel 1385. A Brescia nel 1393 lo stesso Prendiparte scelse di affiancarsi il
+lodigiano Giovanni de Bordonaciis, che aveva in curriculum già una presenza bresciana,
+nel 1388. Per ben tre volte, invece, il vigevanese Antonio Cochi fu selezionato come
+giudice a Vercelli: dopo esservi stato una prima volta nel 1382 a fianco del podestà Castellino Beccaria, fu richiamato in città altre due volte, nel 1387 (dal podestà Spinetta
+della Mirandola) e nel 1395 (dal podestà Aliolo Rusca) 17.
+3. Provenienze e profili: le élite urbane
+Se i meccanismi di selezione dei magistrati in criminalibus restano ancora in
+larga parte sfuggenti, l’analisi dei bacini di reclutamento fornisce spunti molto utili
+per ricostruire un profilo complessivo dell’officialità deputata all’amministrazione
+della giustizia penale. Le cronotassi relative alle città e alla forbice cronologica esaminate mostrano con molta chiarezza come i banchi di giustizia costituissero un
+terreno di caccia riservato, quasi esclusivamente, a ufficiali provenienti dal bacino
+geografico lombardo-padano. Un dato che non sorprende, alla luce non solo
+dell’abbondanza di professionisti del diritto che caratterizzava in maniera marcata
+proprio i centri padani, ma anche della robusta tradizione vantata dalle città lombarde ed emiliane quali esportatrici di personale politico e tecnico all’interno dei circuiti di reclutamento dell’Italia comunale 18.
+Il consolidamento dell’edificio politico visconteo contribuì probabilmente ad
+accentuare il carattere del reclutamento in senso ancor più favorevole ai sudditi del
+dominio: su 85 incarichi esaminati, infatti, assolutamente preponderante è la presenza
+di giudici provenienti dai territori inclusi entro i confini della dominazione milanese.
+Minoritarie (sei in tutto) al contrario le presenze estranee al dominio e del tutto marginali risultano in particolare quelle legate a centri storicamente dotati di una forte
+tradizione in termini di esportazione dell’officialità (maggiore e minore), come ad
+esempio Bologna 19; nel complesso, si può rilevare come gli spazi della giustizia locale
+———————
+17 Su Franceschino Meli v. BTMi, Cimeli, Sentenze del podestà, ms. 146, f. 1r e ibidem, ms. 148, f.
+
+1r. Su Giovanni de Bordonaciis v. BAMi, ms. G 197 suss. (1388 maggio 13) e LONATI 1935, p. 106.
+18 Proprio con riferimento al personale tecnico-giuridico al seguito dei rettori, è stato rilevato co-
+
+me già a cavallo fra XIII e XIV secolo un « reclutamento esclusivamente padano » caratterizzasse non
+solo le città lombardo-emiliane, ma anche in larga parte i principali centri subalpini del Piemonte: RAO
+2006, pp. 246-247; ROSSO 2013-2017.
+19 Su questa tradizione, almeno MAIRE VIGUEUR 2000, pp. 997-998.
+
+– 66 –
+
+non fossero del tutto preclusi a carriere esogene rispetto ai confini dello stato, ma
+queste esperienze appaiono limitate a percorsi singoli, piuttosto eccezionali e difficilmente inquadrabili entro consolidati circuiti di reclutamento professionale 20.
+A fare la parte del leone erano dunque i sudditi del dominio e, in particolare, gli
+esponenti delle élite urbane: poco più della metà degli incarichi esaminati (44 su 85)
+risultano infatti ricoperti da uomini provenienti dalle città sottoposte al controllo
+dei signori di Milano. Sappiamo bene come, in ambito visconteo, lo status sociale
+rappresentasse una condizione essenziale nel determinare e orientare le carriere
+all’interno dell’officialità, specialmente per quanto riguarda gli uffici periferici. Se
+podesterie e capitanati nelle città del dominio erano di fatto riservati alla grande aristocrazia territoriale, i membri delle élite urbane potevano ambire a uffici di minor
+prestigio: vicariati nei centri minori e nei borghi rurali, o incarichi all’interno delle
+familiae podestarili 21. I gruppi dirigenti cittadini (e spesso gli esponenti di famiglie
+bene inserite nei circuiti dell’officialità viscontea 22) rappresentavano dunque il principale serbatoio che riforniva di personale tecnico le magistrature criminali dei territori sottoposti al controllo visconteo.
+L’analisi delle cronotassi, tuttavia, mostra come i ceti dirigenti di alcune città
+fossero molto più attivi rispetto ad altri in questi circuiti funzionariali. Assai rilevante appare ad esempio il ruolo dei giudici di Parma e Pavia: nell’epoca considerata,
+quasi la metà degli ufficiali ai malefici di estrazione urbana (20 su 44) era infatti
+espressa dalle due città, mentre il resto degli incarichi appare suddiviso abbastanza
+equamente fra i giuristi provenienti da altri centri del dominio 23. Si tratta ovviamente di un dato da valutare con prudenza (giacché è sempre possibile che questi
+numeri fossero in qualche modo condizionati dall’esistenza di legami preferenziali
+———————
+20 Nel Quattrocento gli incarichi presso le magistrature criminali appaiono un poco più aperti alla
+presenza di forestieri: COVINI 2016, pp. 316-317.
+21 GAMBERINI 2018, pp. 147-149.
+22 Oltre ai casi citati in queste pagine, mette conto menzionare anche i cremonesi Schizzi (con
+Giovanni, giudice a Vercelli nel 1390 e a Milano tre anni più tardi: ASRe, Archivio del Comune, Carteggio del reggimento, 1393 marzo 19) o gli alessandrini Ottabelli (con Domenico, giudice ai malefici a Bergamo nel 1382: BAMi, ms. D 59 suss., f. 72r, a Vercelli nel 1388 e nel 1391: ROSSO 2010, p. 230). Vale la
+pena sottolineare che proprio gli Ottabelli avevano probabilmente maturato un expertise famigliare negli
+uffici inerenti all’amministrazione in criminalibus, testimoniata ad esempio dalla presenza di un altro
+esponente della famiglia, Giovanni, a Milano nel 1385 con l’incarico di notaio dei giudici ai malefici (si v.
+il contributo di Marta Mangini in questo volume).
+23 Per i dati complessivi, v. la tavola 2 in appendice. Sul coinvolgimento di un ampio numero di famiglie pavesi negli uffici del dominio, v. le pionieristiche ricognizioni effettuate da ROVEDA 1992a, pp. 67-70.
+
+– 67 –
+
+fra luoghi di origine e di provenienza dei funzionari 24), ma non va dimenticato che
+proprio queste due città vantavano una consolidata tradizione in qualità di centri
+esportatori di tecnici ed esperti del diritto, come attestano le indagini condotte sul
+personale politico nell’ambito delle dominazioni angioine 25.
+L’importanza di Pavia e Parma quali centri di reclutamento dei giudici impone
+inoltre qualche riflessione circa il rapporto fra formazione universitaria, pratica giuridica e carriere itineranti all’interno del dominio visconteo. A causa della fitta nube
+di incertezze che avvolge la storia dello studium parmense prima del Quattrocento,
+è assai arduo stabilire quale parte abbia avuto la città emiliana nella formazione dei
+ceti funzionariali del dominio 26. Più di un indizio induce tuttavia a ritenere che si
+trattasse di un ruolo assai debole anche prima della definitiva consacrazione dello
+studium pavese, se è vero che alcuni dei giudici parmensi meglio inseriti nei circuiti
+funzionariali del dominio si formarono lontano dalla città natale. È questo ad esempio
+il caso di Giovanni Balducchini, uno dei più attivi giudici itineranti della seconda metà
+del Trecento, laureatosi a Padova all’inizio degli anni Sessanta e in seguito vero e proprio collezionista di incarichi, sia in qualità di vicario (a Cannobbio, nel 1363), sia in
+qualità di giudice ai malefici (nel 1364 a Cremona, nel 1372 a Reggio, nel 1373 a Lodi,
+nel 1393 a Piacenza e infine nel 1402 a Milano, come giudice di nomina ducale) 27.
+La centralità assunta invece da Pavia quale luogo di formazione dei magistrati
+in criminalibus è perfettamente in linea con il percorso di consolidamento dello studium, ormai avviato alla fine del Trecento a costituire la vera e propria fucina
+dell’officialità del dominio visconteo 28. Accanto a questo suo eminente ruolo for———————
+24 Se ad esempio gli incarichi dei giudici pavesi sono redistribuiti, in maniera assai equilibrata, in
+tutti i centri esaminati (2 incarichi a Milano, 2 a Brescia, 2 a Vercelli e 3 a Reggio), i loro colleghi parmensi trovavano più frequentemente impiego a Reggio (soprattutto prima del decreto di Gian Galeazzo
+del 1391) e Milano, mentre sono attestati di rado sulle piazze vercellese e bresciana (4 incarichi a Milano, 1
+a Brescia, 5 a Reggio e 1 a Vercelli). Sul decreto di Gian Galeazzo, che introdusse un criterio territoriale
+nella selezione degli ufficiali, v. p. 63.
+25 A questa tradizione fanno riferimento sia VALLERANI 2010 (per l’età comunale) sia ROSSO 2013-
+
+2017 (per lo spazio politico angioino). I dati forniti dal Database prosopografico sugli studi angioini
+(all’url https://angevine-europe.huma-num.fr/ea/fr/base-officiers-angevins) consentono, limitatamente
+ai primi decenni del Trecento, di ricostruire l’ampio orizzonte geografico in cui iudices et assessores delle
+due città trovarono impiego al fianco dei rettori angioini.
+26 Sulla « realtà intermittente » dello studium parmense v. almeno PETTI BALBI 1996, GRECI 2001.
+27 Sul Balducchini v. RAPONI 1963. Per un inquadramento complessivo delle parabole accademiche e
+professionali fra Parma e Pavia nel periodo considerato, SILANOS 2006, in particolare pp. 286-289, 306-307.
+28 CROTTI 2012.
+
+– 68 –
+
+mativo, l’università appare funzionare quale polo gravitazionale attorno a cui potevano
+consolidarsi vere e proprie dinastie famigliari costruite sull’insegnamento del diritto e
+sull’esercizio della pratica giuridica all’interno delle magistrature criminali del dominio.
+Protagonisti di simili parabole erano in primo luogo, ovviamente, i Pavesi: basti pensare agli Ingegneri, famiglia già molto vicina alla corte viscontea nella prima metà del
+Trecento (ad esempio con Sagino, dottore in utroque e vicario del podestà a Piacenza e
+Brescia fra gli anni Trenta e gli anni Quaranta) e che nella seconda metà del secolo appare ben radicata tanto nello studium, quanto nell’officialità signorile. Guglielmo e il
+figlio Antonio ebbero una lunga carriera di giudici itineranti, mentre Giovanni Ingegneri nel 1403 ricoprì l’incarico di lettore nell’università della città natale 29.
+Traiettorie similari furono però percorse anche dai ceti dirigenti di altre città del
+dominio, come ad esempio i reggiani Cambiatori: oltre a essere un giurisperito
+molto impegnato nell’attività di giudice ai malefici e vicario del podestà (di lui si ricordano incarichi a Vercelli, Brescia, Vigevano, Pavia), Guido Cambiatori era anche
+cognato di Pinotto Pinotti, famoso professore di diritto allo studium ticinense. Il figlio Tommaso fu proiettato a una carriera similare: laureatosi a Pavia all’inizio del
+Quattrocento proprio sotto la direzione dello zio Pinotto, i suoi incarichi, complice
+anche la frammentazione politica che interessò il ducato dopo la morte di Gian Galeazzo, travalicarono però di gran lunga i confini del dominio visconteo 30.
+4. Provenienze e profili: i ‘provinciali’
+Al di là del cospicuo contributo fornito dai ceti dirigenti cittadini alle magistrature criminali del dominio, il dato forse più interessante che si apprende dall’analisi delle
+cronotassi è la presenza di un folto gruppo di giudici di estrazione non urbana, in larga
+misura provenienti dai grossi borghi e dalle ‘quasi città’ del dominio. Centri quali
+Crema, Vigevano, Soncino, Mondovì, Pontremoli, fornirono tra la fine del Trecento e
+———————
+29 Sulla forte vocazione agli studi e alla pratica giuridica del ceto dirigente pavese, v. da ultimo
+COVINI 2016, pp. 305-309. Quanto agli Ingegneri: su Sagino FUGAZZA 2009, p. 398 (Piacenza); BTMi,
+ms. Trivulziano 1511, f. 36v (Brescia). Su Guglielmo Chronicon Bergomense, p. 63 (Bergamo, 1396);
+BAMi, ms. D 59 suss., f. 71v (Bergamo, senza data); ASBs, Codice Diplomatico, b. 9 (1377 marzo 8:
+Brescia); Statuta civitatis Cremonae, p. 207 (Cremona, 1388). Su Antonio, giudice dei malefici a Vercelli
+nel 1401-1402, v. anche Cremona, Archivio di Stato, Fondo Notarile, Pergamene, perg. 156 (1401 luglio
+6: Cremona, ma con riferimento a una sentenza di Antonio emessa l’anno precedente, quando era in carica); Chronicon Bergomense, p. 116 (Bergamo, 1403). Su Giovanni infine Codice diplomatico, II, p. 39.
+Per altri incarichi ottenuti dai membri della famiglia nel corso del Trecento v. ROVEDA 1992a, p. 68.
+30 Su Guido ASBs, Ospedale Maggiore, b. 146, perg. 17 (1362 luglio 11); COLOMBO 1901, p. 331;
+GAMBERINI 2003, p. 277. Su Tommaso, GORNI 1974.
+
+– 69 –
+
+i primi anni del Quattrocento una ventina di ufficiali, quantificabili dunque in poco
+meno di un quarto (il 23%) degli incarichi complessivi considerati: una presenza
+non occasionale, che appare a tutti gli effetti il frutto di un coinvolgimento strutturale dei ceti eminenti borghigiani nei circuiti di reclutamento in questione 31.
+Il caso di Crema è forse il più eloquente in tal senso. Nella seconda metà del
+XIV secolo, almeno quattro famiglie del borgo lombardo (Gambazochi, Pogliani,
+Bernardi, Zurla) fornivano personale alle magistrature criminali del dominio 32. Fra
+queste, i più attivi erano indubbiamente i Bernardi, per i quali l’ottenimento di incarichi assunse la dimensione di un vero e proprio affare parentale: almeno tre (Graziolo, Bartolomeo, Tommaso) furono infatti gli esponenti della famiglia che, fra gli
+anni Settanta e i primi anni Novanta, operarono in qualità di vicari e giudici ai malefici su un orizzonte geografico assai eterogeneo, che comprendeva centri minori
+(Voghera, Pontremoli) ma anche città (Reggio, Vercelli, Milano) 33.
+La vicenda dei Bernardi suggerisce peraltro un altro aspetto interessante circa
+l’attività dei giudici di estrazione non urbana, e cioè che il loro impiego in qualità di
+ufficiali ai malefici non si risolveva esclusivamente entro contesti di medesima taglia
+rispetto alla località di origine, ma comprendeva anche la possibilità di ottenere incarichi nelle città del dominio. Ciò è confermato da carriere di altri ‘provinciali’, quali
+il soncinese Franceschino Meli (giudice a Borgo San Donnino nel 1376, per ben due
+volte a Milano, nel 1385 e nel 1390 e a Reggio nel 1401) o i vigevanesi Antonio Co———————
+31 Va in ogni caso rilevato che il coinvolgimento dei borghigiani nei circuiti del funzionariato inte-
+
+ressò in maniera molto diversa i ceti eminenti dei rispettivi centri: ai casi, decisamente vivaci, menzionati in queste pagine, occorre giustapporre perlomeno quello di Voghera, il cui gruppo dirigente (nel
+Trecento) fu meno interessato a trovare impiego nel campo dell’amministrazione dello stato: GRILLO
+2003, pp. 207-209.
+32 Venturino Gambazochi fu giudice ai malefici dei podestà di Reggio nel 1371 e di Milano nel
+
+1374 (ASRe, Archivi privati, Turri, b. 39, 1371 dicembre 24; FOIS 2010, p. 248). Giuseppe Zurla e
+Ludovico Pogliani sono attestati a Vercelli rispettivamente nel 1385 e nel 1397 (ASCVc, Atti Giudiziali, Liber inquisitionum B-267, prima carta non numerata; ibidem, Liber inquisitionum B-7059, f.
+1r). Su queste famiglie e sulla loro partecipazione ai vertici della vita politica cremasca, riferimenti in
+BENVENUTI 1859, I, pp. 155, 218, 230-231; la ricostruzione del profilo istituzionale trecentesco del borgo nel XIV in ALBINI 2005.
+33 Graziolo fu giudice ai malefici a Reggio nel 1372 (ASRe, Archivio del Comune, Provvigioni del
+
+Consiglio generale, vol. 1372-91, 1372 aprile 17). Tommaso fu giudice a Vercelli nel 1381 e Voghera nel
+1386 (ASCVc, Atti Giudiziali, Liber inquisitionum B-263, prima carta non numerata; CASALIS 1854, p.
+261). Bartolomeo ricoprì incarichi a Vercelli nel 1380 (ASCVc, Atti Giudiziali, Liber inquisitionum B264, f. 19r) a Pontremoli nel 1387 (Pontremuli statutorum, p. 140), a Voghera nel 1388 e nel 1398
+(CASALIS 1854, pp. 264, 276) e a Milano nel 1390 (BTMi, Cimeli, Sentenze del podestà, ms. 147, f. 1r).
+
+– 70 –
+
+chi (a Voghera nel 1379, a Vercelli nel 1382, 1387 e 1395, in Valtellina nel 1392) e
+Gerardo Colli (giudice a Brescia nel 1381 e nel 1389) 34. L’officialità di taglia minore,
+insomma, appare uno spazio un poco più aperto rispetto a quanto rilevato per gli incarichi maggiori (podesterie e capitanati), riservati di fatto agli esponenti della grande
+aristocrazia del dominio: pur rimanendo precluso l’accesso alle podesterie nei centri
+maggiori, giudici e giuristi provenienti dal contado potevano arrivare a ricoprire incarichi in contesti di grande prestigio, arrivando fino alla capitale dello stato.
+Allo stato attuale delle ricerche, è difficile stabilire fino a che punto questa vivace
+mobilità dei borghigiani nelle magistrature criminali dipese (o fu influenzata) dal consolidamento del dominio visconteo. Alcuni borghi potevano di certo vantare una tradizione risalente (e in alcuni casi decisamente illustre) nell’esportazione di ufficiali minori (è ad esempio il caso di Crema), ma l’impressione che si coglie dalle fonti è che la
+formazione di uno spazio politico omogeneo fornì ai ‘provinciali’ la possibilità di inserirsi in maniera organica nei circuiti funzionariali, agendo al contempo a perimetrare
+questa mobilità entro confini più definiti 35. Non si trattava, beninteso, di un fenomeno esclusivamente lombardo: anche i ceti eminenti di alcuni centri minori piemontesi
+fra Due e Trecento furono assai attivi nel campo dell’officialità itinerante nell’ambito
+delle dominazioni alternatesi nel quadrante nord occidentale della Penisola. In quel caso,
+però, la partecipazione al funzionariato tendeva ad aprire canali di migrazione famigliare
+che innescavano dinamiche di scollamento rispetto alle terre di origine 36.
+Per le élite borghigiane lombarde, invece, la possibilità di mettere a frutto le
+proprie competenze nelle magistrature periferiche costituì un veicolo attraverso cui
+consolidare parabole ascendenti e certificare la propria distinzione all’interno dei rispettivi centri di provenienza. L’impiego, più o meno costante, nelle magistrature
+itineranti si affiancava spesso alla ininterrotta presenza nelle istituzioni del borgo,
+agli investimenti fondiari e talvolta anche al mantenimento di robusti raccordi locali
+———————
+34 Su Francesco Meli v. nota 16, oltre a PEZZANA 1837, p. 115 e ASRe, Archivio del Comune, Libri
+dei memoriali, vol. 1397/98 - 1401/1402 (1401 dicembre 23). Su Antonio Cochi v. ASCVc, Atti Giudiziali, Liber inquisitionum B-262, prima carta non numerata, oltre a Voghera, Archivio Storico Civico,
+Fondo Diplomatico, b. 564, perg. 601.4 (1379 ottobre 13) e Grosio, Archivio Comunale, Fondo Pergamenaceo, perg. 48 (1392 settembre 2). Su Gerardo Colli v. nota 12.
+35 A questo proposito, vale la pena ricordare che proprio da Crema proveniva Alberto da Gandino,
+notissimo autore del Tractatus de maleficiis, protagonista di una brillante carriera itinerante (come assessore
+e giudice ai malefici) che lo condusse, fra Duecento e primo Trecento, nelle principali città dell’Italia centro
+settentrionale: v. almeno QUAGLIONI 1999, VALLERANI 2009. Sul debole ruolo ricoperto dai centri minori padani nell’esportazione di personale politico e tecnico in età comunale, ALBINI 2000, pp. 161-162.
+36 RAO 2018, pp. 145-146.
+
+– 71 –
+
+di tipo fazionario. I casi che si potrebbero menzionare sono numerosi: alcuni meno
+conosciuti, come i cremaschi Bernardi e Zurla, altri notissimi, come i vigevanesi Cochi e Colli 37. Proprio la parabola vissuta dai Colli, fra i principali proprietari fondiari
+di Vigevano, ben inseriti nel consiglio del borgo, assidui frequentatori dello studium
+pavese e diligenti accumulatori di uffici, dimostra come per i più intraprendenti e
+abili il coinvolgimento nel funzionariato potesse aprire (magari nel volgere di alcune
+generazioni) le porte di un differente livello di impiego, presso la corte e le più alte
+magistrature ducali: una sfera il cui accesso era regolato non solo dall’esperienza
+tecnica e professionale, ma soprattutto dal favore concesso dal principe 38.
+5. Note conclusive
+Come ho cercato di mostrare in queste pagine, sul finire del Trecento quello
+delle magistrature criminali delle città lombarde era un palcoscenico popolato da
+giudici di estrazione sociale e levatura professionale assai variegate. Accanto a giuristi di prestigio, dotati di un qualche addentellato presso lo studium pavese e di una
+solida preparazione universitaria, anche tanti professionisti di media condizione,
+praticanti del diritto, piccoli ufficiali protagonisti di carriere magari vivaci, ma comunque condotte entro un orizzonte funzionariale piuttosto limitato. Nadia Covini, del resto, ha bene evidenziato come incarichi di questo tipo, che di fatto costituivano il «grado zero» degli impieghi amministrativi riservati agli uomini di legge,
+fossero frequentemente intercettati da persone dotate di preparazione giuridica ma
+spesso sprovviste del titolo dottorale 39. Le stesse compilazioni statutarie delle città
+lombarde (mediamente molto evasive sulle qualità professionali richieste ai giudici
+che si apprestavano a ricoprire incarichi all’interno della familia podestarile) lasciano
+trasparire un’attenzione particolare per alcuni requisiti ‘pratici’, come l’esperienza
+maturata sul campo o l’appartenenza ai collegia delle città di provenienza, rispetto a
+quelli forniti da un’elevata formazione universitaria 40.
+———————
+37 Sul ruolo politico rivestito a Crema dai Bernardi e dagli Zurla nella prima metà del Quattrocento, v. BETTONI 2014, pp. 102-103, 113, 117.
+38 Sulla vicenda tre-quattrocentesca dei Colli, protagonisti della vita politica di Vigevano e al contempo di una scalata alle magistrature più importanti del ducato, v. almeno OCCHIPINTI 1992; ROVEDA
+1992b, pp. 56, 91-95; COVINI 2000; ROVEDA 2015; COVINI 2016, pp. 309-311.
+39 COVINI 2007, pp. 52-53; COVINI 2016. Dinamiche analoghe sono state riscontrate anche nello
+spazio politico angioino: si veda ad esempio ROSSO 2013-2017.
+40 Così ad esempio gli statuti comaschi del 1335, dove si stabiliva che i giudici del podestà « exercitati sint et steterint et exercerint officium et in officio advocarie per quinque annos ad minus quilibet
+eorum postquam reddierit a scolis, pro sapientibus » (Statuti di Como 1335, p. 31). A Cremona doveva-
+
+– 72 –
+
+Assai diversi, per formazione, status e provenienza, erano dunque i protagonisti
+che si muovevano su questo palcoscenico, e differenti forse anche gli obbiettivi e le
+ambizioni che li guidavano. Come suggeriscono le cronotassi analizzate, in pochissimi casi l’incarico di giudice ai malefici diventava oggetto di vere e proprie carriere
+specializzate e condotte su un arco temporale esteso. Per molti uomini di legge,
+specialmente (ma non esclusivamente, come si è visto) i giuristi provenienti dalle
+famiglie più in vista dell’oligarchia cittadina e quanti potevano vantare una solida
+rete di relazioni e legami clientelari, uffici di questo tipo rappresentavano un mezzo
+per diversificare l’attività professionale, ma soprattutto il primo gradino di un cursus
+honorum che li proiettava ben presto verso incarichi di maggior livello 41. Molto più
+interessati e disponibili ad accaparrarsi, con continuità, i posti offerti dalle magistrature criminali erano invece giuristi e giudici di media condizione, spesso di
+estrazione borghigiana, per i quali una carriera itinerante in questo tipo di uffici rappresentava essenzialmente un buon investimento e un’utile risorsa attraverso cui
+corroborare la propria distinzione a livello locale, e solo di rado un canale di promozione verso posizioni più ambite.
+
+———————
+no essere « boni et experti in iure periti » e provenire « de collegio iudicum civitatum suarum » (Statuta
+et ordinamenta Cremonae 1952, p. 13), a Parma « legales et probi » e maggiori di trent’anni (Statuta
+communis Parmae, p. 4), a Brescia e in Riviera del Garda semplicemente di « boni et idonei »,
+« sufficientes et experti » (Statuti di Brescia, col. 1589; BETTONI 1880, IV, p. 132).
+41 COVINI 2007, pp. 56-57.
+
+– 73 –
+
+Appendice
+
+Tavola 1 - (in nero le ricorrenze della medesima coppia giudice-podestà, in bianco
+gli altri incarichi)
+
+– 74 –
+
+Tavola 2
+
+– 75 –
+
+FONTI
+BRESCIA, ARCHIVIO DI STATO (ASBs)
+– Codice diplomatico, b. 9.
+– Ospedale Maggiore, bb. 146, 353, 1057, 1350.
+CREMONA, ARCHIVIO DI STATO
+– Fondo Notarile, Pergamene, perg. n. 156.
+GROSIO, ARCHIVIO COMUNALE
+– Fondo Pergamenaceo, perg. 48.
+MILANO, BIBLIOTECA AMBROSIANA (BAMi)
+– ms. D 59 suss., ms. G 197 suss., ms. G 198 suss.
+MILANO, ARCHIVIO STORICO CIVICO E BIBLIOTECA TRIVULZIANA (BTMi)
+– Cimeli, Sentenze del podestà, ms. 147 (1390-1392), ms. 148 (1397-1399).
+– ms. Trivulziano 1511.
+REGGIO EMILIA, ARCHIVIO DI STATO (ASRe)
+– Archivio del Comune, Carteggio del reggimento, b. anno 1393.
+– Archivio del Comune, Libri dei memoriali, vol. 1397/98 - 1401/1402.
+– Archivio del Comune, Provvigioni del Consiglio generale, vol. 1372-91.
+– Archivi privati, Turri, b. 39.
+VERCELLI, ARCHIVIO STORICO CIVICO (ASCVc)
+– Atti giudiziali, Liber inquisitionum B-250, Liber inquisitionum B-262, Liber inquisitionum B-263,
+Liber inquisitionum B-264, Liber inquisitionum B-267, Liber inquisitionum B-7059.
+VOGHERA, ARCHIVIO STORICO CIVICO
+– Fondo Diplomatico, b. 564.
+– Registro I.
+
+BIBLIOGRAFIA
+ALBINI 2000 = G. ALBINI, I podestà delle “quasi-città” dell’Italia padana, tra aspirazione all’autonomia e volontà di controllo. Reclutamento e circolazione, in I podestà dell’Italia comunale 2000,
+I, pp. 147-165.
+ALBINI 2005 = G. ALBINI, Crema tra XII e XIV secolo: il quadro politico-istituzionale, in Crema nel Trecento. Conoscenza e controllo del territorio, Crema 2005, pp. 13-44.
+
+– 76 –
+
+Antiqua Ducum = Antiqua Ducum Mediolani Decreta, Mediolani, in Regio Palatio, apud Io. Baptistam,
+& Iulium-Caesarem fratres Malatestas regio-camerales typographos, 1654.
+BENVENUTI 1859 = F.S. BENVENUTI, Storia di Crema, Milano 1859.
+BETTONI 2014 = B. BETTONI, Storia di Crema, a cura di M. SANGALETTI, Crema 2014.
+BETTONI 1880 = F. BETTONI, Storia della Riviera di Salò, I-IV, Brescia 1880.
+BONNAUD 2007 = J.-L. BONNAUD, Un État en Provence. Les officiers locaux du comte de Provence au
+XIVe siècle (1309-1382), Rennes 2007.
+CAMPISI 2018 = L. CAMPISI, Prassi giudiziaria a Vercelli nel XIV secolo, in « Studi di storia medioevale e
+di diplomatica », n.s., II (2018), pp. 131-150.
+CASALIS 1854 = G. CASALIS, Dizionario geografico storico-statistico-commerciale degli Stati di S. M. il Re
+di Sardegna, XXVI, Torino 1854.
+CASTELNUOVO 2012 = G. CASTELNUOVO, Offices and officials, in The Italian Renaissance State, ed. by
+A. GAMBERINI - I. LAZZARINI, Cambridge 2012, pp. 368-384.
+CHITTOLINI 1988 = G. CHITTOLINI, L’onore dell’officiale, in Florence and Milan. Comparisons and Relations, ed. by C.H. SMYTH - G.C. GARFAGNINI, Firenze 1988, pp. 101-133.
+Chronicon Bergomense = Chronicon Bergomense guelpho ghibellinum, a cura di C. CAPASSO, Bologna
+1926-1940 (Rerum Italicarum Scriptores, 2a ed., XVI/2).
+Codice diplomatico = Codice diplomatico dell’Università di Pavia, a cura di R. MAIOCCHI, Pavia
+1905-1915.
+COLOMBO 1901 = A. COLOMBO, Bianca Visconti di Savoia e la sua signoria in Vigevano, in « Bollettino
+della Società Pavese di Storia Patria », I (1901), pp. 282-352.
+COVINI 2000 = M.N. COVINI, Vigevano «quasi-città» e la corte di Ludovico il Moro, in Piazza ducale
+e i suoi restauri. Cinquecento anni di storia, a cura di L. GIORDANO - R. TARDITO, Pisa 2000,
+pp. 10-47.
+COVINI 2007 = M.N. COVINI, « La balanza drita ». Pratiche di governo, leggi e ordinamenti nel ducato
+sforzesco, Milano 2007 (Storia. Studi e ricerche, 368).
+COVINI 2012 = N. COVINI, Assenza o abbondanza? La documentazione giudiziaria lombarda nei fondi
+notarili e nelle carte ducali (Stato di Milano, XIV-XV secolo), in La documentazione degli organi giudiziari nell’Italia tardo-medievale e moderna. Atti del convegno di studi, Siena, Archivio di Stato,
+15-17 settembre 2008, a cura di A. GIORGI - S. MOSCADELLI - C. ZARRILLI, Roma 2012 (Pubblicazioni degli Archivi di Stato. Saggi, 109), pp. 483-499.
+COVINI 2016 = N. COVINI, Professione legale e distinzione sociale: casi lombardi fra Tre e Quattrocento,
+in La mobilità sociale nel Medioevo italiano. Competenze, conoscenze e saperi tra professioni e ruoli
+sociali (secc. XII-XV), a cura di L. TANZINI - S. TOGNETTI, Roma 2016 (I libri di Viella, 220), pp.
+299-323.
+CROTTI 2012 = R. CROTTI, L’istituzione dello Studium generale, in Almum Studium Papiense. Storia
+dell’Università di Pavia. I, Dalle origini all’età spagnola, a cura di D. MANTOVANI, Pavia 2012,
+pp. 237-280.
+Database prosopografico sugli studi angioini (all’url https://angevine-europe.huma-num.fr/ea/fr/baseofficiers-angevins )
+
+– 77 –
+
+FOIS 2010 = L. FOIS, Documenti milanesi dei secoli XIV-XV nella Bibliothèque nationale de France di
+Parigi, in « Archivio storico lombardo », CXXXVI (2010), pp. 225-258.
+FUGAZZA 2009 = E. FUGAZZA, Diritto, istituzioni e giustizia in un comune dell’Italia padana. Piacenza e i
+suoi statuti (1135 - 1323), Padova 2009 (Studi nelle scienze giuridiche e sociali, 134).
+GAMBERINI 2003 = A. GAMBERINI, La città assediata. Poteri e identità politiche a Reggio in età viscontea,
+Roma 2003 (I libri di Viella, 35).
+GAMBERINI 2005 = A. GAMBERINI, Il contado di Milano nel Trecento. Aspetti politici e giurisdizionali, in
+ID. Lo Stato Visconteo. Linguaggi politici e dinamiche costituzionali, Milano 2005 (Storia. Studi e ricerche, 351), pp. 153-199.
+GAMBERINI 2016 = A. GAMBERINI, La legittimità contesa. Costruzione statale e culture politiche (Lombardia, XII-XV sec.), Roma 2016 (La storia. Temi 54).
+GAMBERINI 2018 = A. GAMBERINI, Officialdom in the Early Renaissance State. A Channel of Social Mobility? Hints from the Case of Lombardy under the Visconti and the Sforza, in Social mobility in medieval Italy (1100-1500), ed. by S. CAROCCI - I. LAZZARINI, Roma 2018 (Viella Historical Research,
+8), pp. 139-150.
+GORNI 1974 = G. GORNI, Cambiatori, Tommaso, in Dizionario Biografico degli Italiani, XVII, Roma
+1974, pp. 131-132.
+GRECI 2001 = R. GRECI, L’Archivio dell’Università di Parma, in « Annali di storia pavese », 29 (2001),
+pp. 37-40.
+GRILLO 2003 = P. GRILLO, Istituzioni e società fra XII e XV secolo, in Storia di Voghera. I, Dalla preistoria all’età viscontea, a cura di E. CAU - P. PAOLETTI - A.A. SETTIA, Voghera 2003, pp. 165-224.
+GRILLO 2010a = P. GRILLO, Istituzioni e personale politico sotto la dominazione viscontea (1335-1402),
+in Vercelli nel secolo XIV. Atti del quinto congresso storico vercellese, Vercelli, Aula Magna
+dell’Università A. Avogadro, Basilica di S. Andrea, 28-30 novembre 2008, a cura di A. BARBERO - R.
+COMBA, Vercelli 2010, pp. 79-116 (Biblioteca della Società storica vercellese).
+GRILLO 2010b = P. GRILLO, La selezione del personale politico: podestà e vicari nelle signorie sovracittadine a cavallo fra Due e Trecento, in Tecniche di potere nel tardo Medioevo: regimi comunali e signorie
+in Italia, a cura di M. VALLERANI, Roma 2010 (I libri di Viella, 114), pp. 25-51.
+Guelfi e ghibellini 2005 = Guelfi e ghibellini nell’Italia del Rinascimento, a cura di M. GENTILE, Roma
+2005 (I libri di Viella, 52).
+Liber sententiarum 2021 = Liber sententiarum potestatis Mediolani (1385). Storia, diritto, diplomatica e
+quadri comparativi, a cura di A. BASSANI - M. CALLERI - M.L. MANGINI, Genova 2021 (Notariorum
+Itinera, VII/1).
+LONATI 1935 = G. LONATI, Stato Totalitario alla fine del secolo XIV. Illustrazione storica di un codice
+bresciano di decreti viscontei, Toscolano 1935.
+MAIRE VIGUEUR 2000 = J.-C. MAIRE VIGUEUR, Flussi, circuiti e profili, in Podestà dell’Italia comunale
+2000, I, pp. 897-1099.
+MANGINI 2021 = M.L. MANGINI, Il principio dell’iceberg. Scritture ad banchum iuris malleficiorum, Milano, secoli XIII-XIV, in Liber sententiarum 2021, pp. 33-60.
+
+– 78 –
+
+OCCHIPINTI 1992 = E. OCCHIPINTI, Le relazioni tra Vigevano e Milano nel corso del Trecento, in Metamorfosi di un borgo. Vigevano in età visconteo-sforzesca, a cura di G. CHITTOLINI, Milano 1992 (Storia. Studi e ricerche, 155), pp. 31-42.
+OLIVIERI 2021 = A. OLIVIERI, La giustizia e i suoi riflessi fiscali nella documentazione giudiziaria Vercellese della fine del Trecento: iter amministrativi e tecniche notarili, in Liber sententiarum 2021,
+pp. 327-356.
+PAGNONI 2013 = F. PAGNONI, Brescia viscontea (1337-1403). Organizzazione territoriale, identità cittadina e politiche di governo negli anni della prima dominazione milanese, Milano 2013 (Storia Lombarda. Studi e ricerche, 26).
+PADOA SCHIOPPA 1996 = A. PADOA SCHIOPPA, La giustizia milanese nella prima età viscontea (12771300), in Ius Mediolani. Studi di storia del diritto milanese offerti dagli allievi a Giulio Vismara, Milano 1996 (Università degli Studi di Milano. Facoltà di Giurisprudenza. Pubblicazioni dell’Istituto
+di Storia del Diritto Italiano, 20), pp. 1-49; anche in ID., Giustizia medievale italiana dal Regnum ai
+Comuni, Spoleto 2015 (Biblioteca del « Centro per il collegamento degli studi medievali e umanistici in Umbria », 28), pp. 299-344.
+PETTI BALBI 1996 = G. PETTI BALBI, Felix Studium viguit: l’organizzazione degli studenti e dei dottori a
+Parma nel Quattrocento, in Il pragmatismo degli intellettuali. Origini e primi sviluppi dell’istituzione
+universitaria, a cura di R. GRECI, Torino 1996 (I florilegi, 5), pp. 201-212.
+PEZZANA 1837 = A. PEZZANA, Storia della città di Parma, I, Parma 1837.
+Podestà dell’Italia comunale 2000 = I podestà dell’Italia comunale. Reclutamento e circolazione degli ufficiali forestieri (fine XII sec. metà XIV sec.), a cura di J.C. MAIRE VIGUEUR, Roma 2000 (Collection
+de l’École française de Rome, 268).
+Pontremuli statutorum = Pontremuli statutorum ac decretorum volumen, Parmae, apud Seth Viottum,
+1571.
+QUAGLIONI 1999 = D. QUAGLIONI, Gandino, Alberto, in Dizionario Biografico degli Italiani, LII, Roma
+1999, pp. 147-152.
+RAO 2006 = R. RAO, La circolazione degli ufficiali nei comuni dell’Italia nord-occidentale durante le dominazioni angioine del Trecento. Una prima messa a punto, in Gli Angiò nell’Italia nord-occidentale
+(1259-1382), a cura di R. COMBA, Milano 2006 (Testi e studi, 195), pp. 229-290.
+RAO 2016 = R. RAO, Introduzione. I grandi ufficiali nei territori angioini. Dal bilancio storiografico alle
+prospettive di ricerca, in Les grands officiers dans les territoires angevins - I grandi ufficiali nei territori
+angioini, dir. par R. RAO, Roma 2016 ( Collection de l’École française de Rome, 518).
+RAO 2018 = R. RAO, Dinamiche sociali nei centri di fondazione del Piemonte sud-occidentale (XIII-XIV
+secolo), in I centri minori italiani nel tardo medioevo. Cambiamento sociale, crescita economica, processi di ristrutturazione (secoli XIII-XVI). Atti del XV Convegno di studi organizzato dal Centro di
+studi sulla civiltà del tardo medioevo, San Miniato, 22- 24 settembre 2016, a cura di F. LATTANZIO G.M. VARANINI, Firenze, 2018, pp. 133-147.
+RAPONI 1963 = N. RAPONI, Balducchini, Giovanni, in Dizionario Biografico degli Italiani, V, Roma
+1963, pp. 532-533.
+Registri dell’ufficio di Provvisione = I registri dell’ufficio di Provvisione e dell’ufficio dei sindaci sotto la
+dominazione viscontea, a cura di C. SANTORO, Milano 1929.
+
+– 79 –
+
+ROSSO 2010 = P. ROSSO, Università e sapientes iuris a Vercelli nel Trecento, in Vercelli nel secolo XIV.
+Atti del quinto congresso storico vercellese, Vercelli, Aula Magna dell’Università A. Avogadro, Basilica di S. Andrea, 28-30 novembre 2008, a cura di A. BARBERO - R. COMBA, Vercelli 2010, pp. 169244 (Biblioteca della Società storica vercellese).
+ROSSO 2013-2017 = P. ROSSO, Strategie di reclutamento e profili intellettuali dell’ufficialità locale angioina nell’Italia nord-occidentale (1259-1382), in « Mémoire des princes angevins » 10 (2013-2017).
+ROVEDA 1992a = E. ROVEDA, Le istituzioni e la società in età visconteo-sforzesca, in Storia di Pavia. III,
+Dal libero comune alla fine del principato indipendente 1024-1535, 1, Società, istituzioni, religione
+nelle età del Comune e della Signoria, Pavia 1992, pp. 55-115.
+ROVEDA 1992b = E. ROVEDA, Istituzioni politiche e gruppi sociali nel Quattrocento, in Metamorfosi di un
+borgo. Vigevano in età visconteo-sforzesca, a cura di G. CHITTOLINI, Milano 1992 (Storia. Studi e ricerche, 155), pp. 55-107.
+ROVEDA 2015 = E. ROVEDA, Un officiale sforzesco tra politica e diritto: Gerardo Colli, Milano 2015
+(Lombardia nel Rinascimento, 1).
+SANTORO 1968 = C. SANTORO, Gli offici del comune di Milano e del dominio Visconteo-Sforzesco (12161515), Milano 1968.
+SANTORO 1969 = C. SANTORO, Per la storia dell’amministrazione della giustizia a Milano, in EAD., Scritti
+rari e inediti, Milano 1969, pp. 251-254.
+SILANOS 2006 = P.M. SILANOS, Percorsi accademici e carriere professionali tra Parma e Pavia. Un aspetto
+della politica universitaria in età visconteo-sforzesca, in « Annali di storia delle università italiane », 10
+(2006), pp. 281-307.
+Statuta civitatis Cremonae = Statuta civitatis Cremonae accuratius quam antea excusa, et cum archetypo
+collata, Cremonae MDLXXVIII.
+Statuta communis Parmae = Statuta communis Parmae anni MCCCXLVII accedunt leges vicecomitum
+Parmae imperantium usque ad annum MCCCLXXIV, Parma 1860.
+Statuta et ordinamenta Cremonae = Statuta et ordinamenta Comunis Cremonae facta et compilata currente anno domini 1339, a cura di U. GUALAZZINI, Milano 1952.
+Statuta iurisdictionum Mediolani = Statuta iurisdictionum Mediolani, in Leges Municipales, II/1, Augustae Taurinorum 1876 (Historiae Patriae Monumenta, XVI).
+Statuti di Brescia 1313 = Statuti di Brescia dell’anno MCCCXIII, a cura di F. ODORICI, in Leges Municipales, II, pars altera, Augustae Taurinorum 1876 (Historiae Patriae Monumenta, XVI).
+Statuti di Como 1335 = Statuti di Como del 1335. Volumen magnum, a cura di G. MANGANELLI, Como,
+Narni, 1936-1981.
+STORTI STORCHI 1984 = C. STORTI STORCHI, Statuti viscontei di Bergamo, in Statuti rurali e statuti di
+valle. La provincia di Bergamo nei secoli XIII-XVIII. Atti del convegno, Bergamo, 5 marzo 1983, a
+cura di M. CORTESI, Bergamo 1984, pp. 51-92.
+TERENZI 2019 = P. TERENZI, Gli Angiò in Italia centrale. Potere e relazioni politiche in Toscana e nelle
+terre della Chiesa (1263-1335), Roma 2019 (Italia comunale e signorile, 13).
+VALLERANI 2009 = M. VALLERANI, Il giudice e le sue fonti. Note su inquisitio e fama nel tractatus de maleficiis di Alberto da Gandino, in « Rechtsgeschichte. Zeitschrift des Max-Planck-Instituts fu r Europäische Rechtsgeschichte », 14 (2009), pp. 40-61.
+
+– 80 –
+
+VALLERANI 2010 = M. VALLERANI, La familia du podestat. À propos de la mobilité des officiers et de la
+culture juridique dans l’Italie communale, in Des sociétés en mouvement. Migrations et mobilité au
+Moyen Âge. 40e Congrès de la SHMESP, Nice, 4-7 juin 2009, Paris 2010 (Histoire ancienne et
+médiévale, 104), pp. 325-336.
+VERGA 1901 = E. VERGA, Le sentenze criminali dei podestà milanesi (1385-1429). Appunti per la storia
+della giustizia punitiva in Milano, in « Archivio storico lombardo », XXVIII (1901), pp. 96-142.
+
+Sommario e parole significative - Abstract and keywords
+Questo contributo è dedicato alla ricostruzione dei meccanismi di reclutamento e alle carriere dei
+giudici ai malefici all’interno del dominio visconteo fra Tre e Quattrocento. La comparazione fra i dati
+provenienti da diversi contesti cittadini consente di formulare importanti riflessioni relative alle provenienze e ai profili di questi ufficiali minori.
+Parole significative: Lombardia, Ducato visconteo, Secoli XIV-XV, Giudici; Carriere.
+This paper investigates the channel of recruitment and the careers of the criminal judges in the
+State of Milan between the 14th and the 15th century. The comparison between different city-cases allow
+us to formulate important remarks on these petty officials, with particular regard to their social and
+cultural profile and provenance.
+Keywords: Lombardy, Duchy of Milan, 14th-15th centuries, Judges, Career paths.
+
+– 81 –
+
+INDICE
+Presentazione
+
+pag.
+
+5
+
+Claudia Storti, 1385: un anno tra politica e giustizia a Milano
+
+»
+
+7
+
+Marta Luigina Mangini, Il principio dell’iceberg. Scritture ad banchum iuris malleficiorum, Milano, secoli XIII-XIV
+
+»
+
+33
+
+Fabrizio Pagnoni, Selezione e circolazione dei giudici ai malefici nel
+dominio visconteo fra Tre e Quattrocento
+
+»
+
+61
+
+Beatrice Del Bo, Tutte le donne (del registro) del podestà fra cliché e
+novità
+
+»
+
+83
+
+Marina Gazzini, Animali, colpa e castigo. Prodromo per nuove ricerche sull’area italiana
+
+»
+
+107
+
+Chiara Valsecchi, « per viam inquisicionis ». Note sul processo criminale a Milano in un’età di transizione
+
+»
+
+127
+
+Alessandra Bassani, Le assoluzioni nel Liber comunis potestatis
+Mediolani: riflessioni sull’ipotesi di una giustizia giusta
+
+»
+
+177
+
+Roberto Isotton, La repressione dei reati di furto e rapina nel Liber sententiarum potestatis Mediolani del 1385: acquisizioni e questioni aperte
+
+»
+
+205
+
+Raffaella Bianchi Riva, Iniuria e insultus tra diritto e politica. Le offese alle magistrature comunali nella legislazione statutaria e nella
+prassi giudiziaria in età viscontea
+
+»
+
+239
+
+Marta Calleri, Savona 1250. Il Cartularium del podestà
+
+»
+
+265
+
+Maddalena Modesti, Le carte di corredo del podestà di Bologna
+(prima metà XIV sec.). Percorsi diplomatistici
+
+»
+
+285
+
+Antonio Olvieri, La giustizia e i suoi riflessi fiscali nella documentazione giudiziaria vercellese della fine del Trecento: iter amministrativi
+e tecniche notarili
+
+»
+
+327
+
+Corinna Drago Tedeschini, Echi di giustizia criminale in documenti
+pugliesi del XIV secolo
+
+»
+
+357
+
+Giovanni Minnucci, Intorno al Liber sententiarum potestatis Mediolani e ad altre fonti giudiziarie. Alcune note conclusive
+
+»
+
+373
+
+NOTARIORUM ITINERA
+DIRETTORE
+Antonella Rovere
+COMITATO SCIENTIFICO
+Michel Balard - Marco Bologna - Francesca Imperiale - Grado Giovanni Merlo - Antonio Padoa Schioppa - Vito Piergiovanni - Gian Maria Varanini
+COORDINAMENTO SCIENTIFICO
+Giuliana Albini - Laura Balletto - Alessandra Bassani - Ezio Barbieri - Marina Benedetti Roberta Braccia - Marta Calleri - Giuliana Capriolo - Cristina Carbonetti - Pasquale Cordasco - Maura Fortunati - Maria Galante - Stefano Gardini - Mauro Giacomini - Paola Guglielmotti - Sandra Macchiavello - Maddalena Modesti - Antonio Olivieri - Paolo Pirillo - Antonella Rovere - Lorenzo Sinisi - Claudia Storti - Marco Vendittelli
+COORDINAMENTO EDITORIALE
+Marta Calleri - Sandra Macchiavello - Antonella Rovere - Marco Vendittelli
+COORDINAMENTO SITO
+Stefano Gardini - Mauro Giacomini
+RESPONSABILE EDITING
+Fausto Amalberti
+notariorumitinera@gmail.com
+Direzione e amministrazione: P.zza Matteotti, 5 - 16123 Genova
+http://www.storiapatriagenova.it
+
+ISBN - 978-88-97099-68-0 (ed. a stampa)
+
+ISSN 2421-2377 (ed. a stampa)
+
+ISBN - 978-88-97099-70-3 (ed. digitale)
+
+ISSN 2499-8109 (ed. digitale)
+
+finito di stampare febbraio 2021
+
+C.T.P. service s.a.s - Savona
+
+

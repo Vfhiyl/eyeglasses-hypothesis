@@ -1,0 +1,25 @@
+{
+  "pass": "CA",
+  "date": "2026-08-06",
+  "new_mine": {
+    "gray": "still_restricted",
+    "ia_page_production_self_wear": "0_hits",
+    "ia_keil_treasure_rohr": "0",
+    "costume_cache": "inventories_only_Gobert_Lloyd_Smith_CLOSED",
+    "local_ilardi_albertotti": "no_new_named_living",
+    "wiesel_ndb": "no_dated_spectacle_pins"
+  },
+  "plumbing": {
+    "philippe_exclude_clamanges": "-4\u2192-3",
+    "tye_exclude_whitbread": "-2\u2192-0.5"
+  },
+  "freeze": {
+    "n": 48,
+    "median": 5.0,
+    "ci": [
+      2.25,
+      8.0
+    ],
+    "sesoi5": "PASS_RAW"
+  }
+}

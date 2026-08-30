@@ -1,0 +1,1488 @@
+{
+  "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785941971991",
+  "version": "1x7o",
+  "session_context": {
+    "session_key": "user__alanobrienterry918272@gmail.com",
+    "created": "2026-08-05T14:59:35Z",
+    "client_characterization": {
+      "characterized_by": "asserted_or_authenticated",
+      "preferred_client_ip": null,
+      "client_ip": "182.10.99.211:sra",
+      "preferred_client_useragent": null,
+      "client_useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36:sua",
+      "preferred_client_id": null,
+      "client_id": "alanobrienterry918272@gmail.com:sco"
+    },
+    "username": "alanobrienterry918272@gmail.com",
+    "authentication_method": "cookie",
+    "is_system": false,
+    "is_guest": false,
+    "is_user": true,
+    "is_archive_user": false,
+    "is_qualified": false,
+    "is_archivist": false,
+    "has_universal_privs": false,
+    "has_collection_priv": false,
+    "has_allowed_host_priv": false,
+    "has_vpn_host_priv": false,
+    "has_scan_center_priv": false,
+    "has_any_priv": false,
+    "has_any_priv_permissive": false,
+    "pps": {
+      "is_page_target_owner": false,
+      "contributed_review_on_page": false,
+      "full_text_search_override": false,
+      "sees_sensitive_fields": false
+    },
+    "pps_relevant_user_preferences": {
+      "display__blur_moderated_content": "on"
+    }
+  },
+  "request": {
+    "client_request_parameters": {
+      "client": "page_production_service_endpoint",
+      "user_query": "(Ilardi OR Rosen OR \"Vincent Ilardi\" OR \"spectacles and eyeglasses\") AND (accounts OR household OR lunettes) mediatype:texts",
+      "hits_per_page": 20,
+      "page": 1,
+      "aggregations": [],
+      "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785941971991",
+      "client_url": "https://archive.org/search?query=%28Ilardi+OR+Rosen+OR+%22Vincent+Ilardi%22+OR+%22spectacles+and+eyeglasses%22%29+AND+%28accounts+OR+household+OR+lunettes%29+mediatype%3Atexts"
+    },
+    "backend_requests": {
+      "search": {
+        "root": "(self)",
+        "children": [
+          "collection_title_fetch__867ef659a3e7cf197bf5005c45979e58"
+        ],
+        "request_type": "search",
+        "finalized_parameters": {
+          "client": "page_production_service_endpoint",
+          "user_query": "(redacted)",
+          "hits_per_page": 20,
+          "page": 1,
+          "aggregations": [],
+          "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785941971991",
+          "client_url": "https://archive.org/search?query=%28Ilardi+OR+Rosen+OR+%22Vincent+Ilardi%22+OR+%22spectacles+and+eyeglasses%22%29+AND+%28accounts+OR+household+OR+lunettes%29+mediatype%3Atexts",
+          "page_type": "search_results",
+          "fields": [
+            "_tile_"
+          ],
+          "sort": [
+            "_relevance_:desc",
+            "identifier"
+          ],
+          "aggregations_size": 10,
+          "service_backend": "metadata",
+          "scope": "standard",
+          "feature_flags": {
+            "complex_facets": true,
+            "collection_titles": true,
+            "redact_collections": true,
+            "redact_collections_by_privs": false,
+            "redact_empty_collections": true,
+            "redact_admin_collections": true,
+            "protect_flagging_collections": true
+          },
+          "service": "service__metadata__load_balanced"
+        }
+      },
+      "collection_title_fetch__867ef659a3e7cf197bf5005c45979e58": {
+        "root": "search",
+        "parent": "search",
+        "request_type": "collection_title_fetch",
+        "finalized_parameters": {
+          "page_type": "document_fetch",
+          "user_query": "(redacted)",
+          "aggregations": [],
+          "caching": null,
+          "fields": [
+            "identifier",
+            "title"
+          ],
+          "search_as_system": true,
+          "page": 1,
+          "hits_per_page": 250,
+          "sort": [
+            "_efficient_"
+          ],
+          "service_backend": "metadata",
+          "scope": "ill,printdisabled_and_music,scancenter",
+          "service": "service__metadata__load_balanced"
+        }
+      }
+    }
+  },
+  "caching": {
+    "search": {
+      "name": "PPS-1x7o-J:ID-RT:s~hit-T:sr-Q:a28c4e40-H:20-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+      "acceptable_names": [
+        "PPS-1x7o-J:ID-RT:s~std-T:sr-Q:a28c4e40-H:20-B:mds-RS:sta~CS::P:0+CS:some+BR:1"
+      ],
+      "configuration": {
+        "requested": [],
+        "finalized": {
+          "bypass": false,
+          "recompute": false,
+          "no_compute": false,
+          "ttl_s": 300,
+          "max_age_s": 0,
+          "miss_policy": "none"
+        }
+      },
+      "utilization": {
+        "went_to_cache": true,
+        "alternates_allowed": true,
+        "hit_alternate": false,
+        "hit_canonical": false,
+        "hit": false,
+        "miss": true,
+        "recomputed": true,
+        "stored": true,
+        "acceptable_names_tried": [
+          "PPS-1x7o-J:ID-RT:s~std-T:sr-Q:a28c4e40-H:20-B:mds-RS:sta~CS::P:0+CS:some+BR:1"
+        ],
+        "elapsed_s": 1.748793125152588
+      },
+      "statsd_bucket": "search.pps.cache.metadata.search_results"
+    },
+    "collection_title_fetch__867ef659a3e7cf197bf5005c45979e58": {
+      "name": "PPS-1x7o-J:ID-RT:ctf-T:df-Q:fed7322e-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1",
+      "acceptable_names": [],
+      "configuration": {
+        "requested": [],
+        "finalized": {
+          "bypass": false,
+          "recompute": false,
+          "no_compute": false,
+          "ttl_s": 300,
+          "max_age_s": 0,
+          "miss_policy": "none"
+        }
+      },
+      "utilization": {
+        "went_to_cache": true,
+        "alternates_allowed": true,
+        "hit_alternate": false,
+        "hit_canonical": false,
+        "hit": false,
+        "miss": true,
+        "recomputed": true,
+        "stored": true,
+        "elapsed_s": 0.22207188606262207
+      },
+      "statsd_bucket": "search.pps.cache.metadata.search_results"
+    },
+    "summary": {
+      "fetched": [],
+      "computed": [
+        "PPS-1x7o-J:ID-RT:s~hit-T:sr-Q:a28c4e40-H:20-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:ID-RT:ctf-T:df-Q:fed7322e-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "stored": [
+        "PPS-1x7o-J:ID-RT:s~hit-T:sr-Q:a28c4e40-H:20-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:ID-RT:ctf-T:df-Q:fed7322e-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "missed": [
+        "PPS-1x7o-J:ID-RT:s~hit-T:sr-Q:a28c4e40-H:20-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:ID-RT:ctf-T:df-Q:fed7322e-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "bypassed": []
+    }
+  },
+  "elapsed_secs": 2.028062105178833,
+  "response": {
+    "header": {
+      "succeeded": true,
+      "query_time": 1377,
+      "forensics": {
+        "client_characterization": {
+          "client_ip": "182.10.99.211:sra",
+          "client_id": "alanobrienterry918272@gmail.com:sco",
+          "client_useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36:sua",
+          "preferred_client_ip": null,
+          "preferred_client_id": null,
+          "preferred_client_useragent": null,
+          "application_id": {
+            "session": [
+              "pageproduction"
+            ],
+            "request": []
+          },
+          "client_jurisdiction": "ID",
+          "preferred_client_jurisdiction": null,
+          "actionable_jurisdiction": "ID",
+          "characterized_by": "asserted_or_authenticated",
+          "ensured": true
+        },
+        "routing": {
+          "backend": "es-prod-metadatasearch-filtered",
+          "backend_server": "es-prod-client-n-02",
+          "routed_to_load_balanced": true,
+          "index_addressed": "prod-n-001"
+        },
+        "backend_request_elapsed_secs": {
+          "search": 1.748793125152588,
+          "collection_title_fetch__867ef659a3e7cf197bf5005c45979e58": 0.22207188606262207
+        }
+      },
+      "elapsed_secs_for_backend_requests": 1.97086501121521
+    },
+    "body": {
+      "hits": {
+        "total": 110,
+        "returned": 20,
+        "hits": [
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "rosenwm1919ansch00rose",
+              "title": "Rosen, W.M., 1919 [ANS Chapman brothers business correspondence]",
+              "description": "17.5 cubic feet (19 boxes)",
+              "subject": [
+                "Chapman, Henry, 1859-1935",
+                "Chapman, S.H. (Samuel Hudson), 1869-1949",
+                "S.H. & H. Chapman",
+                "Coin dealers -- United States",
+                "Coins -- Collectors and collecting"
+              ],
+              "creator": [
+                "Rosen, W.M."
+              ],
+              "collection": [
+                "americannumismaticsociety",
+                "newmannumismatic",
+                "wustl",
+                "globallibraries"
+              ],
+              "date": "1869-01-01T00:00:00Z",
+              "year": 1869,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 1,
+              "item_size": 3658851,
+              "files_count": 26,
+              "downloads": 129,
+              "week": 7,
+              "month": 9,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "addeddate": "2020-10-02T21:28:59Z",
+              "publicdate": "2020-10-01T13:33:47Z"
+            },
+            "highlight": null,
+            "_score": [
+              3352.485
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "illustratedcatal1896amer",
+              "title": "Illustrated catalogue of spectacles and eyeglasses : in 8-K, 10-K and 14-K gold, platinum, silver, alumnico, Roman alloy, German silver, filled gold, steel, frameless, etc., lenses, trial sets and material",
+              "description": "A reissue of the 1894 catalog with the 28-page \"1896 Supplement.\"",
+              "subject": [
+                "Eyeglasses",
+                "Catalogs, Commercial",
+                "Lunettes",
+                "Catalogs",
+                "Catalogs (Documents)"
+              ],
+              "creator": [
+                "American Optical Company"
+              ],
+              "collection": [
+                "jacobedwardslibrary",
+                "regionaldigitizationmass"
+              ],
+              "date": "1896-01-01T00:00:00Z",
+              "year": 1896,
+              "volume": "1896",
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 4,
+              "item_size": 179653575,
+              "files_count": 21,
+              "downloads": 88,
+              "week": 0,
+              "month": 4,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "addeddate": "2024-05-25T18:14:16Z",
+              "publicdate": "2024-05-08T13:15:21Z"
+            },
+            "highlight": null,
+            "_score": [
+              3182.0889
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "empiricalfoundat0000unse",
+              "title": "Empirical foundations of household taxation",
+              "description": "ix, 289 pages : 24 cm",
+              "subject": [
+                "Umschulungswerkstatten fur Siedler und Auswanderer Bitterfeld",
+                "Taxation -- United States -- Statistics",
+                "Households -- Economic aspects -- United States -- Statistics",
+                "Tax incentives -- United States -- Statistics",
+                "Income tax -- United States -- Statistics",
+                "Labor supply -- Effect of taxation on -- United States -- Statistics",
+                "Taxation -- Law and legislation -- United States",
+                "Impot -- Etats-Unis -- Statistiques",
+                "Menages (Statistique) -- Aspect economique -- Etats-Unis -- Statistiques",
+                "Encouragements fiscaux -- Etats-Unis -- Statistiques",
+                "Impot sur le revenu -- Etats-Unis -- Statistiques",
+                "Marche du travail, Effets de l'impot sur le -- Etats-Unis -- Statistiques",
+                "Societes -- Impots -- Droit -- Etats-Unis",
+                "Households -- Economic aspects",
+                "Income tax",
+                "Labor supply -- Effect of taxation on",
+                "Tax incentives",
+                "Taxation",
+                "Taxation -- Law and legislation",
+                "Belastinghervormingen",
+                "Inkomstenbelasting",
+                "Huishoudingen",
+                "Einkommensteuer",
+                "Steuer",
+                "Menages (statistiques) -- Aspect economique -- Etats-Unis",
+                "Marche du travail -- Effets de l'impot sur le -- Etats-Unis -- Statistiques",
+                "Kongress",
+                "United States",
+                "USA"
+              ],
+              "collection": [
+                "internetarchivebooks"
+              ],
+              "date": "1996-01-01T00:00:00Z",
+              "year": 1996,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 3,
+              "item_size": 1062656375,
+              "files_count": 30,
+              "downloads": 49,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_printdisabled",
+              "addeddate": "2018-07-01T05:24:12Z",
+              "source": "removed",
+              "publicdate": "2018-07-01T05:24:59Z"
+            },
+            "highlight": null,
+            "_score": [
+              2678.6733
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "healtheconomicde0000unse",
+              "title": "Health, economic development and household poverty : from understanding to action",
+              "description": "xx, 276 p. : 24 cm",
+              "subject": [
+                "Medical economics -- Developing countries",
+                "Economic development -- Health aspects -- Developing countries",
+                "Poverty -- Health aspects -- Developing countries",
+                "Health services accessibility -- Developing countries",
+                "Medical policy -- Developing countries",
+                "Medical care -- Developing countries",
+                "Delivery of Health Care -- economics",
+                "Developing Countries",
+                "Health Policy -- economics",
+                "Poverty"
+              ],
+              "collection": [
+                "internetarchivebooks"
+              ],
+              "date": "2008-01-01T00:00:00Z",
+              "year": 2008,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 1,
+              "item_size": 686850533,
+              "files_count": 32,
+              "downloads": 28,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "addeddate": "2020-08-12T15:16:57Z",
+              "source": "removed",
+              "publicdate": "2020-08-04T15:30:32Z"
+            },
+            "highlight": null,
+            "_score": [
+              1980.2161
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "chasernovelinema0000rose",
+              "title": "ChaseR : a novel in emails",
+              "description": "152 pages ; 18 cm",
+              "subject": [
+                "Moving, Household -- Fiction",
+                "Adjustment (Psychology) -- Fiction",
+                "Adjustment (Psychology)",
+                "Moving, Household"
+              ],
+              "creator": [
+                "Rosen, Michael J., 1954-"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "2002-01-01T00:00:00Z",
+              "year": 2002,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 449085570,
+              "files_count": 34,
+              "downloads": 32,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_browse",
+              "addeddate": "2020-06-09T10:28:43Z",
+              "publicdate": "2020-06-04T14:04:10Z"
+            },
+            "highlight": null,
+            "_score": [
+              1421.8813
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "smartsavingsfina0000moon",
+              "title": "Smart savings and financial planning",
+              "description": "p. cm",
+              "subject": [
+                "Finance, Personal",
+                "Savings accounts"
+              ],
+              "creator": [
+                "Mooney, Carla, 1970-"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "2013-01-01T00:00:00Z",
+              "year": 2013,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 170589636,
+              "files_count": 29,
+              "downloads": 43,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_browse",
+              "addeddate": "2020-01-24T12:00:59Z",
+              "publicdate": "2020-01-21T15:51:49Z"
+            },
+            "highlight": null,
+            "_score": [
+              1408.0107
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "moving0000rose",
+              "title": "Moving",
+              "description": "1 volume (unpaged) : 30 cm",
+              "subject": [
+                "Moving, Household -- Juvenile fiction",
+                "Cats -- Fiction",
+                "Moving, Household -- Fiction",
+                "Moving, Household",
+                "English fiction Children's stories"
+              ],
+              "creator": [
+                "Rosen, Michael, 1946-"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "1993-01-01T00:00:00Z",
+              "year": 1993,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 7,
+              "item_size": 200290859,
+              "files_count": 30,
+              "downloads": 96,
+              "week": 3,
+              "month": 5,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": true,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_borrow",
+              "addeddate": "2018-11-19T02:28:23Z",
+              "publicdate": "2018-11-19T02:28:44Z"
+            },
+            "highlight": null,
+            "_score": [
+              1374.0752
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "copingwithmoving0000gree",
+              "title": "Coping with moving",
+              "description": "vii, 133 p. ; 23 cm",
+              "subject": [
+                "Moving, Household"
+              ],
+              "creator": [
+                "Greenwald, Dorothy"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "1987-01-01T00:00:00Z",
+              "year": 1987,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 3,
+              "item_size": 405726538,
+              "files_count": 34,
+              "downloads": 19,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_browse",
+              "addeddate": "2023-03-06T23:17:49Z",
+              "publicdate": "2023-03-01T09:36:27Z"
+            },
+            "highlight": null,
+            "_score": [
+              1351.2316
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "balticodysseywar0000vonr",
+              "title": "A Baltic odyssey : war and survival",
+              "description": "1 online resource (xix, 320 pages) :",
+              "subject": [
+                "Von Rosen, Jürgen, 1907-1954",
+                "Von Rosen, Martha, 1904-",
+                "World War, 1939-1945 -- Personal narratives, German",
+                "Immigrants -- Canada -- Biography",
+                "Guerre mondiale, 1939-1945 -- Récits personnels allemands",
+                "Immigrants -- Canada -- Biographies",
+                "BIOGRAPHY & AUTOBIOGRAPHY -- Personal Memoirs",
+                "Immigrants",
+                "Weltkrieg 1939-1945",
+                "Erlebnisbericht",
+                "Canada",
+                "Esten"
+              ],
+              "creator": [
+                "Von Rosen, Martha, 1904-"
+              ],
+              "collection": [
+                "internetarchivebooks"
+              ],
+              "date": "1995-01-01T00:00:00Z",
+              "year": 1995,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 4,
+              "item_size": 917852703,
+              "files_count": 34,
+              "downloads": 51,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_printdisabled",
+              "addeddate": "2023-04-14T06:11:14Z",
+              "source": "removed",
+              "publicdate": "2023-03-28T11:06:35Z"
+            },
+            "highlight": null,
+            "_score": [
+              1334.8789
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "managingyourmone0000lind",
+              "title": "Managing your money : understanding math operations involving decimals and integers",
+              "description": "32 pages : 23 cm",
+              "subject": [
+                "Decimal fractions -- Juvenile literature",
+                "Numbers, Natural -- Juvenile literature",
+                "Budgets, Personal -- Juvenile literature",
+                "Decimal fractions",
+                "Numbers, Natural",
+                "Budgets, Personal",
+                "Bank accounts",
+                "Budgets. Persoonal"
+              ],
+              "creator": [
+                "Linde, Barbara M"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "2007-01-01T00:00:00Z",
+              "year": 2007,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 1,
+              "item_size": 152197097,
+              "files_count": 32,
+              "downloads": 37,
+              "week": 1,
+              "month": 5,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": true,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_borrow",
+              "addeddate": "2020-10-07T04:04:02Z",
+              "publicdate": "2020-10-02T04:44:45Z"
+            },
+            "highlight": null,
+            "_score": [
+              1301.0142
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "etiquetteathome0000nagl",
+              "title": "Etiquette at home",
+              "description": "48 pages : 24 cm",
+              "subject": [
+                "Etiquette for children and teenagers",
+                "Etiquette"
+              ],
+              "creator": [
+                "Nagle, Jeanne, author"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "2017-01-01T00:00:00Z",
+              "year": 2017,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 7,
+              "item_size": 105395613,
+              "files_count": 30,
+              "downloads": 48,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_browse",
+              "addeddate": "2023-01-12T14:13:07Z",
+              "publicdate": "2020-10-20T18:19:51Z"
+            },
+            "highlight": null,
+            "_score": [
+              1182.9176
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "socialnetworkpow0000rauf",
+              "title": "Social network-powered investing & saving opportunities",
+              "description": "80 pages : 24 cm",
+              "subject": [
+                "Finance, Personal -- Juvenile literature",
+                "Teenagers -- Finance, Personal -- Juvenile literature",
+                "Savings accounts -- Juvenile literature",
+                "Saving and investment -- Juvenile literature",
+                "Online social networks -- Juvenile literature"
+              ],
+              "creator": [
+                "Rauf, Don"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "2014-01-01T00:00:00Z",
+              "year": 2014,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 2,
+              "item_size": 144435478,
+              "files_count": 31,
+              "downloads": 22,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_browse",
+              "addeddate": "2021-05-22T13:00:34Z",
+              "publicdate": "2021-05-19T04:36:44Z"
+            },
+            "highlight": null,
+            "_score": [
+              1176.3197
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "chasernovelinema00rose",
+              "title": "ChaseR : a novel in e-mails",
+              "description": "When his parents decide to move to an old house in the country, Chase uses email to his friends back in Columbus, Ohio, and to his sister in college to help him deal with cicadas, deer hunters, and other changes in his life",
+              "subject": [
+                "Country life",
+                "Moving, Household",
+                "Email",
+                "Electronic mail messages"
+              ],
+              "creator": [
+                "Rosen, Michael J., 1954-"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "2002-01-01T00:00:00Z",
+              "year": 2002,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 1,
+              "item_size": 172213136,
+              "files_count": 32,
+              "downloads": 53,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": true,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_borrow",
+              "addeddate": "2010-12-07T21:57:24Z",
+              "publicdate": "2010-12-07T21:57:31Z"
+            },
+            "highlight": null,
+            "_score": [
+              1175.4618
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "teenstalkaboutle0000unse",
+              "title": "Teens talk about leadership and activism",
+              "description": "1 online resource",
+              "subject": [
+                "Leadership",
+                "Leadership in adolescents -- Juvenile literature",
+                "Leadership chez l'adolescent -- Ouvrages pour la jeunesse",
+                "JUVENILE NONFICTION -- Social Science -- General",
+                "Leadership in adolescents"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "2017-01-01T00:00:00Z",
+              "year": 2017,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 288647039,
+              "files_count": 33,
+              "downloads": 60,
+              "week": 0,
+              "month": 2,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_browse",
+              "addeddate": "2023-01-12T03:14:30Z",
+              "publicdate": "2022-11-20T00:41:36Z"
+            },
+            "highlight": null,
+            "_score": [
+              1160.8058
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "criticalperspect0000unse_h1e1",
+              "title": "Critical perspectives on the Vietnam War",
+              "description": "176 pages ; 23 cm",
+              "subject": [
+                "Vietnam War (1961-1975)",
+                "Vietnam War, 1961-1975",
+                "Vietnam War, 1961-1975 -- Sources",
+                "Guerre du Viêt-nam, 1961-1975",
+                "Guerre du Viêt-nam, 1961-1975 -- Sources",
+                "Guerre du Viet-nam, 1961-1975",
+                "Guerre du Viet-nam, 1961-1975 -- Sources"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "2005-01-01T00:00:00Z",
+              "year": 2005,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 3,
+              "item_size": 417064040,
+              "files_count": 32,
+              "downloads": 63,
+              "week": 1,
+              "month": 3,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_browse",
+              "addeddate": "2019-11-13T05:57:50Z",
+              "publicdate": "2019-11-13T05:58:01Z"
+            },
+            "highlight": null,
+            "_score": [
+              1157.2437
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "lovelyoldroly0000rose",
+              "title": "Lovely old Roly",
+              "description": "1 volume (unpaged) : 28 cm",
+              "subject": [
+                "Pets -- Death -- Pictorial works -- Juvenile fiction",
+                "Pets -- Death -- Fiction",
+                "Cats -- Fiction",
+                "Pets -- Fiction",
+                "Pets -- Death"
+              ],
+              "creator": [
+                "Rosen, Michael, 1946-"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "2002-01-01T00:00:00Z",
+              "year": 2002,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 4,
+              "item_size": 158173108,
+              "files_count": 30,
+              "downloads": 44,
+              "week": 1,
+              "month": 2,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": true,
+              "lending___status": "available_to_browse",
+              "addeddate": "2021-02-06T08:00:55Z",
+              "publicdate": "2021-02-04T02:52:26Z"
+            },
+            "highlight": null,
+            "_score": [
+              1141.3468
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "moneysmarts0000sant",
+              "title": "Money smarts",
+              "description": "48 pages : 25 cm",
+              "subject": [
+                "Finance, Personal -- Juvenile literature",
+                "Finance, Personal"
+              ],
+              "creator": [
+                "Santamaria, Peggy"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "1992-01-01T00:00:00Z",
+              "year": 1992,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 2,
+              "item_size": 135442423,
+              "files_count": 32,
+              "downloads": 27,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": true,
+              "lending___status": "available_to_browse",
+              "addeddate": "2019-12-09T11:21:05Z",
+              "publicdate": "2019-12-09T11:21:23Z"
+            },
+            "highlight": null,
+            "_score": [
+              1113.0394
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "closeencountersw0000silv",
+              "title": "Close encounters with aliens",
+              "description": "48 pages : 23 cm",
+              "subject": [
+                "Human-alien encounters -- Juvenile literature",
+                "Alien abduction -- Juvenile literature",
+                "Alien abduction",
+                "Human-alien encounters",
+                "Extraterrestrial beings",
+                "Unidentified flying objects"
+              ],
+              "creator": [
+                "Silverstein, Janna"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "2002-01-01T00:00:00Z",
+              "year": 2002,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 4,
+              "item_size": 207844623,
+              "files_count": 32,
+              "downloads": 128,
+              "week": 0,
+              "month": 3,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": true,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_borrow",
+              "addeddate": "2019-11-07T03:36:37Z",
+              "publicdate": "2019-11-07T03:36:55Z"
+            },
+            "highlight": null,
+            "_score": [
+              1104.6088
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "drugsyourparents0000mcfa",
+              "title": "Drugs and your parents",
+              "description": "64 pages : 24 cm",
+              "subject": [
+                "Children of alcoholics",
+                "Children of drug addicts",
+                "Parent and teenager"
+              ],
+              "creator": [
+                "McFarland, Rhoda"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "1993-01-01T00:00:00Z",
+              "year": 1993,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 157263790,
+              "files_count": 31,
+              "downloads": 20,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": true,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_borrow",
+              "addeddate": "2020-12-10T20:16:29Z",
+              "publicdate": "2020-10-30T04:10:23Z"
+            },
+            "highlight": null,
+            "_score": [
+              1102.5902
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "divorceyourfeeli0000jone",
+              "title": "Divorce and your feelings",
+              "description": "pages cm",
+              "subject": [
+                "Children of divorced parents -- Juvenile literature",
+                "Emotions -- Juvenile literature"
+              ],
+              "creator": [
+                "Jones, Viola, author"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "2017-01-01T00:00:00Z",
+              "year": 2017,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 244192702,
+              "files_count": 33,
+              "downloads": 25,
+              "week": 0,
+              "month": 4,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_browse",
+              "addeddate": "2023-01-29T05:09:50Z",
+              "publicdate": "2023-01-16T13:15:42Z"
+            },
+            "highlight": null,
+            "_score": [
+              1097.1167
+            ]
+          }
+        ]
+      },
+      "collection_titles": {
+        "americannumismaticsociety": "The American Numismatic Society",
+        "wustl": "Washington University Libraries",
+        "jacobedwardslibrary": "Jacob Edwards Library",
+        "globallibraries": "Global Libraries",
+        "regionaldigitizationmass": "Regional Digitization in Massachusetts, administered by the Boston Public Library",
+        "newmannumismatic": "Newman Numismatic Portal",
+        "internetarchivebooks": "Internet Archive Books"
+      }
+    },
+    "hit_schema": {
+      "item": {
+        "identifier": {
+          "multivalue": false,
+          "mapping": "string"
+        },
+        "noindex": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "optional": true
+        },
+        "title": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "description": {
+          "multivalue": false,
+          "mapping": "string",
+          "dressing": {
+            "truncate": 1000
+          },
+          "optional": true
+        },
+        "subject": {
+          "multivalue": true,
+          "mapping": "string",
+          "dressing": {
+            "truncate": 1000
+          },
+          "optional": true
+        },
+        "creator": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "collection": {
+          "multivalue": true,
+          "mapping": "string",
+          "comment": "may be a superset of metadata collection field"
+        },
+        "date": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "year": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed from date",
+          "optional": true
+        },
+        "genre": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "volume": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "type": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "language": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "mediatype": {
+          "multivalue": false,
+          "mapping": "string"
+        },
+        "licenseurl": {
+          "multivalue": false,
+          "mapping": "string__url",
+          "optional": true
+        },
+        "num_favorites": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true,
+          "comment": "computed during document construction"
+        },
+        "num_reviews": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true,
+          "comment": "computed during document construction"
+        },
+        "item_size": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "bytes; computed during document construction"
+        },
+        "files_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction"
+        },
+        "item_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction",
+          "optional": true
+        },
+        "displayed_item_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction, may be inferred from item_count",
+          "optional": true
+        },
+        "collection_files_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction, for collection items only",
+          "optional": true
+        },
+        "collection_size": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "bytes; computed during document construction, for collection items only",
+          "optional": true
+        },
+        "downloads": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "total views over item lifetime, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "week": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "views over a seven-day period, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "month": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "views over a month, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "indexflag": {
+          "multivalue": true,
+          "mapping": "string",
+          "comment": "item characterization including noindex status"
+        },
+        "lending___available_to_borrow": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___available_to_browse": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___available_to_waitlist": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___status": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "avg_rating": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true
+        },
+        "addeddate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "issue": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "format varies",
+          "optional": true
+        },
+        "source": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "format varies",
+          "optional": true
+        },
+        "reviewdate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "publicdate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "date_favorited": {
+          "multivalue": false,
+          "mapping": "date",
+          "comment": "not metadata; only present in favorites lists, sourced from Lists API",
+          "optional": true
+        },
+        "reviews_data": {
+          "multivalue": true,
+          "dressing": {
+            "truncate": false
+          },
+          "mapping": "string",
+          "comment": "untruncated JSON encoded data used for Account reviews",
+          "optional": true
+        }
+      }
+    }
+  }
+}

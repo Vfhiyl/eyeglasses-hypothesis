@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<srw:searchRetrieveResponse xmlns:ns6="http://gallica.bnf.fr/namespaces/gallica/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <srw:version>1.2</srw:version>
+    <srw:echoedSearchRetrieveRequest>
+        <srw:query>dc.title all "Comptes" and dc.title all "Lorraine"</srw:query>
+        <srw:version>1.2</srw:version>
+    </srw:echoedSearchRetrieveRequest>
+    <srw:numberOfRecords>328</srw:numberOfRecords>
+    <srw:extraResponseData>&lt;numberOfRecordsDecollapser&gt;397&lt;/numberOfRecordsDecollapser&gt;</srw:extraResponseData>
+    <srw:records>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:coverage>France</dc:coverage>
+                    <dc:creator>Roussel, Claude (1655?-172.?). Auteur du texte</dc:creator>
+                    <dc:date>1690</dc:date>
+                    <dc:description>Échelle(s) : Echelles, 20 Grandes Lieues de France [=Om. 064 ; 1:1 750 000 ca]</dc:description>
+                    <dc:format>1 flle ; 235 x 360</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 2</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b8494643m</dc:identifier>
+                    <dc:identifier>IFN-8494643</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>[s.n.]</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb406145211</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Cartes et plans, GE D-16989</dc:source>
+                    <dc:subject>France -- Est</dc:subject>
+                    <dc:title>La Carte de l'Alsace, de la Lorraine, des Pays Réunis, de la Franche Comté et de la Bresse / Roussel sculpsit</dc:title>
+                    <dc:type>map</dc:type>
+                    <dc:type>carte</dc:type>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>0</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b8494643m.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b8494643m</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b8494643m.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b8494643m.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b8494643m.thumbnail</thumbnail>
+                <typedoc>cartes</typedoc>
+                <uri>btv1b8494643m</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:description>Contient : Bretagne (1306-1479) ; Lorraine et Bar (1409-1508) ; Catalogne : Urgel (969-1215)</dc:description>
+                    <dc:description>Numérisation effectuée à partir d'un document de substitution.</dc:description>
+                    <dc:format>292 feuillets</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b10035100p</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:relation>Notice du catalogue : http://archivesetmanuscrits.bnf.fr/ark:/12148/cc97702q/cd0e155</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France. Département des Manuscrits. Languedoc Doat 161</dc:source>
+                    <dc:subject>BAR</dc:subject>
+                    <dc:subject>BRETAGNE</dc:subject>
+                    <dc:subject>CATALOGNE</dc:subject>
+                    <dc:subject>LORRAINE</dc:subject>
+                    <dc:subject>URGEL</dc:subject>
+                    <dc:title>« Recueil de pièces concernant la Bretaigne, la Lorraine, et les comtés d'Urgel et de Vic (en Catalogne),... les royaumes de Castille, d'Aragon et de Maïorque » (969-1527). I</dc:title>
+                    <dc:type>manuscript</dc:type>
+                    <dc:type>manuscrit</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>1</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b10035100p.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b10035100p</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b10035100p.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b10035100p.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b10035100p.thumbnail</thumbnail>
+                <typedoc>manuscrits</typedoc>
+                <uri>btv1b10035100p</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:description>Contient : Catalogne : Urgel (suite, 1231-1428) ; Vich (1224-1398)</dc:description>
+                    <dc:description>Numérisation effectuée à partir d'un document de substitution.</dc:description>
+                    <dc:format>309 feuillets</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b100351014</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:relation>Notice du catalogue : http://archivesetmanuscrits.bnf.fr/ark:/12148/cc97702q/cd0e198</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France. Département des Manuscrits. Languedoc Doat 162</dc:source>
+                    <dc:subject>CATALOGNE</dc:subject>
+                    <dc:subject>URGEL</dc:subject>
+                    <dc:title>« Recueil de pièces concernant la Bretaigne, la Lorraine, et les comtés d'Urgel et de Vic (en Catalogne),... les royaumes de Castille, d'Aragon et de Maïorque » (969-1527). II</dc:title>
+                    <dc:type>manuscript</dc:type>
+                    <dc:type>manuscrit</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>2</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b100351014.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b100351014</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b100351014.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b100351014.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b100351014.thumbnail</thumbnail>
+                <typedoc>manuscrits</typedoc>
+                <uri>btv1b100351014</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1401-1700</dc:date>
+                    <dc:description>Contient : Pièces relatives au Béarn, et principalement à la réunion du Béarn à la Couronne de France (f. 1), — et au pays de Soule (f. 45). — Navarre, etc. : Supplique orig. des députés des Trois États de la Basse-Navarre (f. 77) ; Pièces diverses, comptes, etc., concernant le domaine de Navarre, notamment : « Estat des sommes que le Roy veult et entend estre doresnavant paiées aux gens de son Conseil d'Estat et privé de ses maison et finances de Navarre et ancien domaine...», 1607 ; « Advis de ce qui se peult faire pour la réduction des officiers de la maison de Navarre et Béarn... » ; Baux du domaine de Navarre ; Pièces relatives aux revenus ecclésiastiques du Béarn ; « Estat de la recepte et despence du domaine de la maison de Navarre, pour l'année 1619 » ; « Mémoire du nomé Du BOURG, touchant les forests de l'antien domaine de Navarre, au resort de Thoulouze » ; Copies d'actes de Henri IV ; Mémoire orig., signé Hurault « de Maisse », concernant une adjudication de l'ancien domaine de Navarre ; Pièces relatives à Bayonne (f. 218), — à Tartas (f. 222), — à Saint-Béat (f. 224), — à Blaye (f. 226). — Dauphiné : « Extrait d'un Registre aux archifs de la Chambre des Comptes et Cour des Finances du Dauphiné, institué [intitulé] Homagia Chalançonis , 1489 et 1490 » (f. 250) ; Pièces relatives à la Bresse (f. 260). — Bourgogne : « Du duché de Bourgogne, et de ceux qui l'ont tenue et possédée... » (f. 282). — Lorraine : « Mémoire au Roy..., des choses qui ce sont passées au gouvernement et ville de Toul » [contre le sieur de Vannes], orig. signé « Vuiry » (f. 294) ; « Remonstrances qu'il fault faire au Roy, pour conserver la ville de Toul en son obéissance... » ; Copie d'un acte de Charles-Quint, 1521 ; Pièces relatives à l'évêché de Metz (f. 316), — notamment, actes orig. de Georges de Bade, évêque de Metz, 1473 (f. 318 et 351) ; « Articles proposez au nom du Roy par Mr [Louis] d'Auzance à Mr le cardinal de Lorraine, pour le suject de la ville et ecclésiastiques de Metz, avec les responses dudict cardinal..., 1565 » ; « Mémoire pour la ville de Verdun, et comme elle est venue souz l'obéissance du Roy... » ; Pièce concernant Épinal, 1463 (f. 349). — Ponthieu : Extraits relatifs à l'abbaye de Sain t-Josse-aux-Bois (f. 352) ; Prisée du comté de Boulogne, 1477 (f. 356). — Normandie : Copie d'un arrêt du Parlement de Rouen, 1643 (f. 374). — Berry : Copie d'un acte de Charles VII pour Issoudun, 1423 (f. 440)</dc:description>
+                    <dc:description>Numérisation effectuée à partir d'un document original.</dc:description>
+                    <dc:description>Copies et originaux.Un dépouillement de ce volume, de la main du président Achille III de Harlay, se trouve dans le manuscrit français 17015, f. 233-236.</dc:description>
+                    <dc:format>Papier. - 443 feuillets. - 370 × 250 mm. - Reliure veau gr., aux armes de Harlay</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b52502004t</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:relation>Notice du catalogue : http://archivesetmanuscrits.bnf.fr/ark:/12148/cc46498v</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France. Département des Manuscrits. Français 16668</dc:source>
+                    <dc:subject>Auzances, Louis d'.</dc:subject>
+                    <dc:subject>Articles proposés au cardinal de Lorraine.</dc:subject>
+                    <dc:subject>Bade, Georges de, évêque de Metz.</dc:subject>
+                    <dc:subject>Actes.</dc:subject>
+                    <dc:subject>Bayonne.</dc:subject>
+                    <dc:subject>Notes, pièces et recueils divers.</dc:subject>
+                    <dc:subject>Béarn.</dc:subject>
+                    <dc:subject>Réunion à la Trance.</dc:subject>
+                    <dc:subject>Berry.</dc:subject>
+                    <dc:subject>Charles VII, acte (1423).</dc:subject>
+                    <dc:subject>Blaye.</dc:subject>
+                    <dc:subject>Boulogne, Comté de.</dc:subject>
+                    <dc:subject>Prisée (1477).</dc:subject>
+                    <dc:subject>Bresse.</dc:subject>
+                    <dc:subject>Notes et pièces diverses.</dc:subject>
+                    <dc:subject>Charles V, ou Charles-Quint, empereur d'Allemagne.</dc:subject>
+                    <dc:subject>Actes et lettres.</dc:subject>
+                    <dc:subject>Charles VII, roi de France.</dc:subject>
+                    <dc:subject>Actes, lettres et mandements.</dc:subject>
+                    <dc:subject>Dauphiné.</dc:subject>
+                    <dc:subject>Chambre des Comptes, extrait du registre « Homagia Chalançoni ».</dc:subject>
+                    <dc:subject>Du Bourg.</dc:subject>
+                    <dc:subject>Mémoire sur les forêts de Navarre.</dc:subject>
+                    <dc:subject>Épinal.</dc:subject>
+                    <dc:subject>Notes et pièces diverses.</dc:subject>
+                    <dc:subject>Forêts.</dc:subject>
+                    <dc:subject>Navarre.</dc:subject>
+                    <dc:subject>Guise, Charles de Lorraine, cardinal de, dit le cardinal de Lorraine.</dc:subject>
+                    <dc:subject>Articles du roi pour Metz.</dc:subject>
+                    <dc:subject>Henri IV, roi de France.</dc:subject>
+                    <dc:subject>Actes et lettres.</dc:subject>
+                    <dc:subject>Hurault de Maisse, Paul.</dc:subject>
+                    <dc:subject>Domaine de Navarre.</dc:subject>
+                    <dc:subject>Issoudun.</dc:subject>
+                    <dc:subject>Pièces diverses.</dc:subject>
+                    <dc:subject>Lorraine.</dc:subject>
+                    <dc:subject>Recueils.</dc:subject>
+                    <dc:subject>Metz.</dc:subject>
+                    <dc:subject>Évêché.</dc:subject>
+                    <dc:subject>Navarre.</dc:subject>
+                    <dc:subject>Recueils.</dc:subject>
+                    <dc:subject>Navarre, Basse-.</dc:subject>
+                    <dc:subject>États.</dc:subject>
+                    <dc:subject>Normandie.</dc:subject>
+                    <dc:subject>Pièces diverses.</dc:subject>
+                    <dc:subject>Ponthieu.</dc:subject>
+                    <dc:subject>Notes et pièces diverses.</dc:subject>
+                    <dc:subject>Rouen.</dc:subject>
+                    <dc:subject>Parlement, arrêts.</dc:subject>
+                    <dc:subject>Saint-Béat, Hte-Garonne.</dc:subject>
+                    <dc:subject>Saint-Josse-au-Bois, Abbaye de, Pas-de-Calais.</dc:subject>
+                    <dc:subject>Soule, Pays de.</dc:subject>
+                    <dc:subject>Tartas, Landes.</dc:subject>
+                    <dc:subject>Verdun.</dc:subject>
+                    <dc:subject>Notes et pièces diverses.</dc:subject>
+                    <dc:title>Recueil de pièces, manuscrites et imprimées, mémoires, actes royaux, comptes, suppliques, etc., concernant le Béarn, la Navarre, le pays de Soule, le Dauphiné, la Bresse, la Bourgogne, la Lorraine, le Ponthieu, la Normandie et le Berry.</dc:title>
+                    <dc:type>manuscript</dc:type>
+                    <dc:type>manuscrit</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>3</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b52502004t.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b52502004t</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b52502004t.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b52502004t.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b52502004t.thumbnail</thumbnail>
+                <typedoc>manuscrits</typedoc>
+                <uri>btv1b52502004t</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:coverage>Allemagne</dc:coverage>
+                    <dc:creator>Robert de Vaugondy, Gilles (1688-1766). Cartographe</dc:creator>
+                    <dc:creator>Sanson, Nicolas (1600-1667). Auteur adapté</dc:creator>
+                    <dc:creator>Sanson, Guillaume (1633-1703). Auteur adapté</dc:creator>
+                    <dc:creator>Delahaye, Guillaume-Nicolas (1727-1802). Graveur</dc:creator>
+                    <dc:date>1746</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : AnvilEur</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : MAEDI008</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : MAEDIGen0</dc:description>
+                    <dc:format>1 carte : limites en coul. ; 70,5 x 54,5 cm</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 1</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b53039179j</dc:identifier>
+                    <dc:identifier>IFN-53039179</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>l'Auteur (Paris)</dc:publisher>
+                    <dc:relation>Notice de recueil : http://catalogue.bnf.fr/ark:/12148/cb40577015h</dc:relation>
+                    <dc:relation>Appartient à : Collection d'Anville ; 04052 B</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb40660802n</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Cartes et plans, GE DD-2987 (4052 B)</dc:source>
+                    <dc:subject>Gueldre, Duché de</dc:subject>
+                    <dc:subject>Luxembourg, Duché du</dc:subject>
+                    <dc:subject>Limbourg, Duché de</dc:subject>
+                    <dc:subject>Juliers, Duché de</dc:subject>
+                    <dc:subject>Berg, Duché de</dc:subject>
+                    <dc:subject>Westphalie, Duché de</dc:subject>
+                    <dc:subject>Deux-Ponts, Duché des</dc:subject>
+                    <dc:subject>Haut-Rhin, Cercle du -- Divisions politiques et administratives</dc:subject>
+                    <dc:subject>Bas-Rhin, Cercle du -- Divisions politiques et administratives</dc:subject>
+                    <dc:title>Le cercle électoral du Rhin, les duchés de Gueldre, de Limbourg, de Juliers, de Luxembourg, de Berg, de Westphalie, de 2 Ponts etc. les comtés de la Marck, de Waldeck, de Witgenstein, etc. les landgraviats de Hesse-Cassel, de Darmstat, les seignries. de l'évêché de Spire, des abbayes de Fulde, d'Hirchfelt etc., partie des evêchés de Munster, de Paderborn, des duchés de Cleves et de Brunswick, de la Thuringe, de Franconie, de Lorraine, etc. dressé sur les cartes des Srs Sanson et rectifié sur des cartes gravées et manuscrites du pays / par le Sr. Robert ; gravé par G.N. Delahaye</dc:title>
+                    <dc:type>map</dc:type>
+                    <dc:type>carte</dc:type>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>4</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b53039179j.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b53039179j</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b53039179j.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b53039179j.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b53039179j.thumbnail</thumbnail>
+                <typedoc>cartes</typedoc>
+                <uri>btv1b53039179j</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1768</dc:date>
+                    <dc:description>A la fin : "Table des matières". - Index</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : FrancComt1</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : ChArdenn1</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : Alsace1</dc:description>
+                    <dc:description>Ouvrages avant 1800</dc:description>
+                    <dc:format>58 f. mss.</dc:format>
+                    <dc:format>Nombre total de vues : 114</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k103049s</dc:identifier>
+                    <dc:identifier>NUMM-103049</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb373086175</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, NAF-18902</dc:source>
+                    <dc:subject>Sciences naturelles -- France</dc:subject>
+                    <dc:subject>Récits de voyages -- France (est) -- XVIIIe siècle</dc:subject>
+                    <dc:subject>France (est) -- Géologie</dc:subject>
+                    <dc:title>Coup d'oeil rapide sur la ligne qui forme les frontières des provinces de Champagne, de Lorraine, d'Alsace et de Franche-Comté que des observations phisiques [sic] et minéralogiques sur différentes eaux minérales, mines métalliques et autres objets d'histoire naturelle, formant la relation d'un voyage du 16 au 27 juin 1768</dc:title>
+                    <dc:type>manuscript</dc:type>
+                    <dc:type>manuscrit</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>5</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k103049s.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k103049s</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k103049s.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k103049s.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k103049s.thumbnail</thumbnail>
+                <typedoc>manuscrits</typedoc>
+                <uri>bpt6k103049s</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Louis XVI (1754-1793 ; roi de France). Auteur du texte</dc:creator>
+                    <dc:creator>France. Conseil d'État (13..-1791). Auteur du texte</dc:creator>
+                    <dc:date>1775</dc:date>
+                    <dc:description>[Acte. 1775-11-09. Fontainebleau]</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : FrancComt1</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : Alsace1</dc:description>
+                    <dc:description>Actes royaux</dc:description>
+                    <dc:description>Ouvrages avant 1800</dc:description>
+                    <dc:format>1 vol. (12 p.) ; In-4</dc:format>
+                    <dc:format>Nombre total de vues : 12</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b86188714</dc:identifier>
+                    <dc:identifier>IFN-8618871</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>s.n. (S. l.)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb33701845d</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Droit, économie, politique, F-21191 (42)</dc:source>
+                    <dc:subject>Tabac -- Droit -- Alsace (France) -- Frontières -- XVIIIe siècle</dc:subject>
+                    <dc:subject>Tabac -- Droit -- France (est) -- XVIIIe siècle</dc:subject>
+                    <dc:title>Arrêt du Conseil d'État du Roi qui fixe l'étendue des trois lieues d'Alsace, limitrophes aux trois évêchés, à la Lorraine, à la Franche-Comté et au Montbéliard, et le nombre des marchands auxquels il permet un approvisionnement de mille livres de tabac à la fois pour la consommation des habitans de ces trois lieues. Du 9 novembre 1775. Extrait des registres du Conseil d'État</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>6</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b86188714.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b86188714</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b86188714.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b86188714.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b86188714.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>btv1b86188714</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Louis XVI (1754-1793 ; roi de France). Auteur du texte</dc:creator>
+                    <dc:creator>France. Conseil d'État (13..-1791). Auteur du texte</dc:creator>
+                    <dc:date>1776</dc:date>
+                    <dc:description>[Acte. 1774-10-23. Fontainebleau]</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : Alsace1</dc:description>
+                    <dc:description>Actes royaux</dc:description>
+                    <dc:description>Ouvrages avant 1800</dc:description>
+                    <dc:format>1 vol. (11 p.) ; In-4</dc:format>
+                    <dc:format>Nombre total de vues : 12</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b8614917f</dc:identifier>
+                    <dc:identifier>IFN-8614917</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb33701561t</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Droit, économie, politique, F-21188 (92)</dc:source>
+                    <dc:subject>Tabac -- Droit -- Alsace (France) -- Frontières -- XVIIIe siècle</dc:subject>
+                    <dc:subject>Tabac -- Droit -- France (est) -- XVIIIe siècle</dc:subject>
+                    <dc:title>Arrêt du conseil d'Etat du Roi qui suspend en Alsace, l'exécution de la déclaration du 4 mai 1749, et ordonne celle de l'article XXIII de la déclaration du 1er août 1721, dans les trois lieues de cette province, limitrophes aux Trois évêchés, à la Lorraine, à la Franche-Comté et au Montbéliard ; et portant réglement pour la police desdites trois lieues relativement à la vente et à la consommation du tabac. Du 23 octobre 1774. Extrait des registres du Conseil d'État</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>7</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b8614917f.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b8614917f</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b8614917f.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b8614917f.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b8614917f.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>btv1b8614917f</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1501-1600</dc:date>
+                    <dc:description>Numérisation effectuée à partir d'un document de substitution.</dc:description>
+                    <dc:description>Publié par H. Lepage (Nancy, 1870, in-8°).</dc:description>
+                    <dc:format>Papier. - IV et 149 feuillets. - 210 × 165 mm. - Couverture parchemin</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b90096732</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:relation>Notice du catalogue : http://archivesetmanuscrits.bnf.fr/ark:/12148/cc45070p</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France. Département des Manuscrits. Français 14517</dc:source>
+                    <dc:subject>Alix, Thierry.</dc:subject>
+                    <dc:subject>Démembrement du duché de Lorraine (1594).</dc:subject>
+                    <dc:subject>Lorraine.</dc:subject>
+                    <dc:subject>Démembrement du duché (1594).</dc:subject>
+                    <dc:title>Dénombrement du duché de Lorraine, en 1594, par Thierry ALIX, président en la Chambre des comptes de Lorraine.</dc:title>
+                    <dc:type>manuscript</dc:type>
+                    <dc:type>manuscrit</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>8</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b90096732.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b90096732</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b90096732.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b90096732.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b90096732.thumbnail</thumbnail>
+                <typedoc>manuscrits</typedoc>
+                <uri>btv1b90096732</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Institut national de la statistique et des études économiques (France). Direction régionale (Lorraine). Auteur du texte</dc:creator>
+                    <dc:date>2013</dc:date>
+                    <dc:description>Comprend : Autres auteurs : Bischoff, Justin</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BnSP000</dc:description>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:format>Nombre total de vues : 1</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bc6p06zkx1w</dc:identifier>
+                    <dc:identifier>LNUM-16262</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Insee Lorraine (Paris)</dc:publisher>
+                    <dc:relation>Périodique lié : Économie Lorraine (En ligne)(ISSN 2117-6469) (Notice : http://catalogue.bnf.fr/ark:/12148/cb424767546)</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb467585643</dc:relation>
+                    <dc:relation>Première de couverture : 545144</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>BNSP-Insee</dc:source>
+                    <dc:subject>Finances locales -- Comptabilité</dc:subject>
+                    <dc:subject>Valeur ajoutée</dc:subject>
+                    <dc:subject>Produit intérieur brut</dc:subject>
+                    <dc:subject>Comptes régionaux</dc:subject>
+                    <dc:title>Les comptes régionaux en 2009 : la Lorraine, première région économique du Grand Est</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                    <dc:type>Document électronique</dc:type>
+                    <dc:type>Digital document</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>9</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bc6p06zkx1w.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link></link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bc6p06zkx1w.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bc6p06zkx1w.medres</medres>
+                <nqamoyen>100.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bc6p06zkx1w.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bc6p06zkx1w</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1219-1420</dc:date>
+                    <dc:date>1301-1400</dc:date>
+                    <dc:date>121911</dc:date>
+                    <dc:date>123907</dc:date>
+                    <dc:date>1401-1500</dc:date>
+                    <dc:date>12600625</dc:date>
+                    <dc:date>12700426</dc:date>
+                    <dc:date>12791122</dc:date>
+                    <dc:date>129809</dc:date>
+                    <dc:date>12940608</dc:date>
+                    <dc:date>12840501</dc:date>
+                    <dc:date>129602</dc:date>
+                    <dc:date>1301-1400</dc:date>
+                    <dc:date>1301-1400</dc:date>
+                    <dc:date>13090915</dc:date>
+                    <dc:date>14161105</dc:date>
+                    <dc:date>13220617</dc:date>
+                    <dc:date>13261105</dc:date>
+                    <dc:date>13270206</dc:date>
+                    <dc:date>13280514</dc:date>
+                    <dc:date>13400427</dc:date>
+                    <dc:date>13400515</dc:date>
+                    <dc:date>1401-1500</dc:date>
+                    <dc:date>1301-1500</dc:date>
+                    <dc:date>1358</dc:date>
+                    <dc:date>13560621</dc:date>
+                    <dc:date>1301-1500</dc:date>
+                    <dc:date>13600720</dc:date>
+                    <dc:date>13570813</dc:date>
+                    <dc:date>13631108</dc:date>
+                    <dc:date>13900301</dc:date>
+                    <dc:date>13630302</dc:date>
+                    <dc:date>13630302</dc:date>
+                    <dc:date>13620714</dc:date>
+                    <dc:date>13710218</dc:date>
+                    <dc:date>13700807</dc:date>
+                    <dc:date>13820319</dc:date>
+                    <dc:date>13841212</dc:date>
+                    <dc:date>13991109</dc:date>
+                    <dc:date>13991228</dc:date>
+                    <dc:date>1391-1411</dc:date>
+                    <dc:date>14080615</dc:date>
+                    <dc:date>14110909</dc:date>
+                    <dc:date>14030219</dc:date>
+                    <dc:date>14151019</dc:date>
+                    <dc:date>14150807</dc:date>
+                    <dc:date>14190720</dc:date>
+                    <dc:date>14200519</dc:date>
+                    <dc:date>14090408</dc:date>
+                    <dc:date>1420</dc:date>
+                    <dc:date>14200913</dc:date>
+                    <dc:date>14200915</dc:date>
+                    <dc:date>14200915</dc:date>
+                    <dc:description>Contient : Renvoi au portefeuille « Porte-Monnoie » sur les monnaies de Bar ; Rôle du service de la garde de Bar-le-Duc : « ce sunt ceulz qui doivent la garde à Bar » ; Obligation d'Henri II comte de Bar pour 1000 l. dues à son neveu Thiébaut Ier duc de Lorraine son plège ; Lettre (testament ?) d'Henri II comte de Bar : parti en croisade, il règle pour le salut de son âme les dettes qu'il a contracté ; Copie moderne sur papier de la pièce f. 8 : « copie sur l'original en parchemin dont la moitié était tout entièrement effacée » ; Copie collationnée d'une lettre du 2 août 1262 de Thiébaut II comte de Bar : ratification de Warnier Dornon à Comtesse sa fille des dîmes de Lihéville et Rigecourt ; Quittance de Marguerite comtesse de Flandres et de Hainaut pour son gendre Thiébaut II comte de Bar. Ed. in de Wailly n° 71 ; Lettre de Nicole abbé de l'Isle-en-Barrois de l'ordre de Cîteaux, Dreux abbé de Jeand'Heures de l'ordre des Prémontrés et Nicole doyen des chanoines de Bar-le-Duc : ils ont été envoyés à Saint-Dizier par Thiébaut II comte de Bar auprès du comte de Flandres pour lui rappeler leur traité d'alliance mais celui-ci nie et affirme qu'il ne concerne que sa mère ; Extrait moderne sur papier du cartulaire du Barrois ; Lettre de Jean abbé de Mureaux et Pierre prévôt des chanoines de la Mothe : Jehennés dit Bergoingnons a vendu à Annelet sa femme fille d'Alexandre d'Ambonville ce qu'il avait d'abord vendu à Thiébaut II comte de Bar à Clinchamps ; Lettre de Jean Rocignon prévôt de Bar : il reçoit l'héritage de Jean de Burey et Leucheron sa femme fille de feu Hue de Bar. Analyse au f. 21 ; Lettre d'Henri III comte de Bar sur une dette de sa tante Jeanne comtesse de Chiny ; Lettre de Philippe seigneur de Sorcy en partie qui reconnaît que le fief de Nonsart tenu de lui par Joffroy le Petit de Mousson est un arrière-fief de Thiébaut II comte de Bar ; Lettre de Rodolphe de Habsbourg roi des Romains à Henri III comte de Bar sur l'hommage de Conflans en Bourgogne ; Extrait des clauses du mariage d'Henri IV comte de Bar et de Yolande de Flandres en 1338 ; Copie de l'accord sur le douaire de Jeanne de Dreux comtesse de Roucy ; Lettre de Jean de Bar seigneur de Puisaye mainbourg d'Edouard I comte de Bar : il reçoit en son nom la garde des vassaux de l'abbaye de Janvillers à Nant-le-Grand et Nant-le-Petit ; Vidimus sous le scel de la Cour de Nancy d'une lettre du 30 mai 1322 d'Edouard I comte de Bar : Ferry IV duc de Lorraine ne peut pas lui nuire pendant sa guerre contre le roi de Bohême, il lui a prêté hommage pour les terres tenues de lui entre Meuse et Moselle par Pierre de Bar ; Lettre de Robert abbé de Saint-Mihiel et Saintes prieur de Saint-Mihiel de Metz : Poincignon oncle de Poince des Chenges citain de Metz reconnaît avoir reçu plusieurs obligations d'Edouard I comte de Bar ; Lettre de Jean roi de Bohême et comte de Luxembourg et d'Edouard I comte de Bar : ils jurent de ne pas aider Louis comte de Looz et de Chiny dans sa guerre contre Ferry IV duc de Lorraine ; Quittance de Richard Diz abbé de Trois Fontaines à Edouard I comte de Bar pour le prix de la vente viagère de la grange du Chesne ; Lettre sous le sceau de l'official de Verdun : des habitants de Gruimaulcourt, Domremy-aux-Bois et Evecourt, de l'évêché de Toul, se mettent sous la juridiction de celui de Verdun et s'engagent à payer 2 d. t. annuels à Edouard I comte de Bar pour ce qu'ils tiennent à Triconville et Cousances ; XIVe siècle, lettre de Joffroy seigneur d'Apremont fils de feu Gobert seigneur d'Apremont ; Lettre de créance d'Henri IV comte de Bar pour Huart de Beauffremont qui s'en va auprès de Raoul duc de Lorraine ; Lettre d'Henri IV comte de Bar : don de rentes annuelles sur la sénéchaussée de la Mothe à Jean de Gironcourt ; Copie d'une lettre du 24 décembre 1348 d'Henri de Bar seigneur de Pierrefort et Huguenin son frère : paix avec Joffroy seigneur d'Apremont et quittance pour la prise du seigneur d'Apremont qui avait donné les gagières d'Aulnois et Vertuzey à feu son père Pierre de Bar ; Copie d'une obligation du 6 décembre 1352 de Jeanne de Bar comtesse de Warren envers les frères Jean et Thiébaut de Toulon voués de Nomény pour leur service dans sa guerre contre Yolande de Flandres et Jean d'Apremont ; Acte illisible « pour Mons. le comte, à la relation de Mons. d'Apremont » ; Obligation de Robert duc de Bar pour 1500 petits florins de Florence dus à Waleran comte de Deux-Ponts ; Notice : 1357-1360, renvoi à Metz Cité 3 n° 73-74 ; Compte illisible ; Compte de Baudoin de la Tour et de Guillaume de la Mothe chapelains de Robert duc de Bar pour une journée tenue à Metz chez Isabelle femme de Loyet de Saint-Arnoul sur la menace d'une invasion anglaise ; Mandement de Robert duc de Bar à Isabelle dite « belle Hostesse » pour qu'elle accueille Guillaume de la Mothe. (cf. pièce précédente) ; Comptes de la Chambre des Comptes de Bar de ce que le duc de Bourgogne doit à Robert duc de Bar ; Copie sous le scel de Jean Perrins, doyen de Saint-Maxe de Bar d'un vidimus du 12 décembre 1389 sous le sceau du duché de Bar d'un instrument public du 11 avril 1359 : accord entre le duc de Bar et le comte de la Petite-Pierre sur l'héritage d'Henriette de Bar à Erize-Saint-Dizier ; Quittance de Simon comte de Deux-Ponts seigneur de Bitche pour Yolande de Flandres et Robert duc de Bar pour ce qu'ils lui devaient pour son service dans la guerre contre Verdun ; Lettre de Robert duc de Bar : accord avec Simon comte de Deux-Ponts sur ses dettes ; Commission de Robert duc de Bar à Robert des Armoises et à Gérard de Sérocourt bailli de Bassigny pour reprendre possession la Mothe prise par le seigneur de Blâmont, que celui-ci doit restituer d'après leur accord ; Compte des gages donnés à Hennequin de Tournai par Robert duc de Bar, cf. Metz Cité 3 n° 97-98 ; Lettre d'Hennequin de Tournai, changeur demeurant à Metz : ses prêts à Robert duc de Bar et à Marie de France duchesse de Bar ont été gagés sur de la vaisselle d'or et d'argent ; Commission de Robert duc de Bar à un sergent ; Traité de paix de Robert duc de Bar et d'Erart comte de Deux-Ponts ; Quittance de Robert duc de Bar pour 250 francs reçus des « amoissoneurs » de la saline de Château-Salins, Liébaut du Châtelet, Gérard d'Haraucourt, Henri d'Ogervillers et Jean de Bouxières ; Quittance de Robert duc de Bar pour 100 francs reçus de Jean de Bouxières gouverneur de la saline de Château-Salins, sur 250 dus au total ; Compte de 1398-1399 de Jean Thevenon procureur de Robert duc de Bar pour ses voyages à Auxerre pour toucher les termes dus au duc sur le quart de la rivière d'Yonne ; Fragment du compte du siège de Dudelange : dettes de Robert duc de Bar à Amé I de Sarrebrück ; Lettre du pape Benoît XIII à Robert duc de Bar ; Compte des gages des compagnons de Wanchelin de la Tour qui se sont battus contre le comte de Wernemburg au service de Robert duc de Bar ; Missive d'Edouard III duc de Bar à Jean de Xonville son bourgeois de la Chaussée : il lui demande de venir toutes affaires cessantes ; Quittance de Marie de Bar la Jeune, dame de Coucy et d'Oisy comtesse de Soissons pour un terme de son douaire versé par Robert duc de Bar ; Mandement de Jean sans Peur au châtelain de Pommard de donner chaque année 60 muids de vin à Edouard III duc de Bar ; Lettre d'Edouard III duc de Bar à Charles II duc de Lorraine : les habitants de Liverdun, sous la garde héréditaire du duc de Lorraine se sont plaints à lui de la rupture des trêves, mais les responsables ne sont pas sujets de Bar ; Obligation de Louis cardinal duc de Bar pour 98 écus dus à Henri de la Tour ; Quittance de Louis cardinal duc de Bar à Robert de Baudricourt et Robert I de Sarrebrück pour la prise de Gauthier de Ruppes ambassadeur de Philippe le Bon et de Jean de Saint-Loup bailli de Bassigny ; Analyse de 29 pièces de 1420, Etats Généraux de Bar, n° 11 ; Lettre sous le scel de la prévôté de Paris : Robert de Bar seigneur d'Oisy fils d'Henri de Bar et petit-fils de Robert duc de Bar, reconnaît que le don des terres de Bournan et de Roddes à lui fait par traité par Robert duc de Bar et Edouard marquis du Pont et saisies par commission de la Cour de Gand implique peut-être de payer la somme de 1001 francs réclamée en justice par des marchands flamands dépouillés par le comte de Nassau-Sarrebrück ; Affaire de Jacob de Mailley, cf. 85 f. 48 et 94 f. 5-6 et 8 ; Lettre de Jean de Vergy seigneur de Fouvent et de Vignory, sénéchal de Bourgogne : il réfute les accusations portées contre Jacob de Mailley qui aurait trahi Louis cardinal duc de Bar à son profit ; Lettre de Jean de Chauffour seigneur de Maral : il réfute les accusations portées contre Jacob de Mailley qui aurait trahi Louis cardinal duc de Bar à son profit ; Lettre d'Amé du Fay : il réfute les accusations portées contre Jacob de Mailley qui aurait trahi Louis cardinal duc de Bar à son profit</dc:description>
+                    <dc:description>Numérisation effectuée à partir d'un document original : Lorraine 348.</dc:description>
+                    <dc:description>Appartient à l'ensemble documentaire : ActSig1</dc:description>
+                    <dc:format>70 feuillets, 55 pièces originales</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b52527260m</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:language>lat</dc:language>
+                    <dc:relation>Notice du catalogue : http://archivesetmanuscrits.bnf.fr/ark:/12148/cc95301h</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France. Département des Manuscrits. Lorraine 348</dc:source>
+                    <dc:title>Lorraine IV : « Comtes et ducs de Bar ».</dc:title>
+                    <dc:type>manuscript</dc:type>
+                    <dc:type>manuscrit</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>10</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b52527260m.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b52527260m</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b52527260m.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b52527260m.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b52527260m.thumbnail</thumbnail>
+                <typedoc>manuscrits</typedoc>
+                <uri>btv1b52527260m</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Alsace-Lorraine. Délégation. Auteur du texte</dc:creator>
+                    <dc:date>187.-18..</dc:date>
+                    <dc:description>Variante(s) de titre : Imprimés de la Délégation d'Alsace-Lorraine</dc:description>
+                    <dc:description>Variante(s) de titre : Compte-rendu officiel... session (Landesausschuss d'Alsace-Lorraine)</dc:description>
+                    <dc:description>Etat de collection : 1879(janv)-1881/82(déc/févr)</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb34543451b/date</dc:identifier>
+                    <dc:identifier>NUMP-25051</dc:identifier>
+                    <dc:identifier>ISSN 1277832X</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Délégation d'Alsace-Lorraine (Strasbourg)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb34543451b</dc:relation>
+                    <dc:relation>A pour reproduction : Compte-rendu officiel... session (Délégation d'Alsace-Lorraine. Reproduction numérique) = ISSN 2825-810X (https://gallica.bnf.fr/ark:/12148/cb34543451b/date)</dc:relation>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 4-LK2-3456</dc:source>
+                    <dc:title>Compte-rendu officiel... session (Délégation d'Alsace-Lorraine)</dc:title>
+                    <dc:title>Compte-rendu officiel... session / Délégation d'Alsace-Lorraine</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>11</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bd6t53749866.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb34543451b/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bd6t53749866.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bd6t53749866.medres</medres>
+                <nqamoyen>89.15</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t53749866.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bd6t53749866</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Gaultier, Léonard (1561?-1635?). Graveur</dc:creator>
+                    <dc:date>1622</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : PrnS001</dc:description>
+                    <dc:format>Burin ; Feuille entière H. en cm 5,3; L. en cm 3</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 1</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b10581133t</dc:identifier>
+                    <dc:identifier>IFN-10581133</dc:identifier>
+                    <dc:language>Sans contenu linguistique</dc:language>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb44947834m</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Musée national du château de Pau, P.587.B-12</dc:source>
+                    <dc:subject>début du 17e siècle</dc:subject>
+                    <dc:title>Loys de Lorraine, Comte de Vaudemont / Gaultier, Léonard</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                    <dc:type>estampe</dc:type>
+                    <dc:type>engraving</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>12</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b10581133t.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b10581133t</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b10581133t.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b10581133t.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b10581133t.thumbnail</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>btv1b10581133t</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Badonviller (France ; atelier monétaire). Atelier monétaire</dc:creator>
+                    <dc:date>1626-1626</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : MonnFeo</dc:description>
+                    <dc:format>1 monnaie (8,47 g)</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 2</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b11328249j</dc:identifier>
+                    <dc:language>lat</dc:language>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb44986598m</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Monnaies, médailles et antiques, F 6009 (FEO-15097)</dc:source>
+                    <dc:subject>Numismatique médiévale</dc:subject>
+                    <dc:subject>Lorraine (France)</dc:subject>
+                    <dc:title>[monnaie : Lorraine, Comté de Salm, François II, gros, 1626]</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>object</dc:type>
+                    <dc:type>physical object</dc:type>
+                    <dc:type>monnaie</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>13</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b11328249j.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b11328249j</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b11328249j.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b11328249j.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b11328249j.thumbnail</thumbnail>
+                <typedoc>objets</typedoc>
+                <uri>btv1b11328249j</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Badonviller (France ; atelier monétaire). Atelier monétaire</dc:creator>
+                    <dc:date>1631-1631</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : MonnFeo</dc:description>
+                    <dc:format>1 monnaie (9,06 g)</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 2</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b113282555</dc:identifier>
+                    <dc:language>lat</dc:language>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb44986601p</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Monnaies, médailles et antiques, 1967.336 (FEO-15100)</dc:source>
+                    <dc:subject>Numismatique médiévale</dc:subject>
+                    <dc:subject>Lorraine (France)</dc:subject>
+                    <dc:title>[monnaie : Lorraine, Comté de Salm, François II, gros, 1631]</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>object</dc:type>
+                    <dc:type>physical object</dc:type>
+                    <dc:type>monnaie</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>14</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b113282555.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b113282555</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b113282555.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b113282555.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b113282555.thumbnail</thumbnail>
+                <typedoc>objets</typedoc>
+                <uri>btv1b113282555</uri>
+            </srw:extraRecordData>
+        </srw:record>
+    </srw:records>
+    <srw:nextRecordPosition>16</srw:nextRecordPosition>
+</srw:searchRetrieveResponse>

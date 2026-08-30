@@ -1,0 +1,618 @@
+M é m o i r e s
+ de la Société d’Histoire et d’Archéologie de
+
+
+                            Bretagne
+                             T o m e          X C i V   •    2 0 1 6
+
+
+
+
+       ACTES DU CONGRÈS
+     DE MONTFORT-sur-meu
+
+
+                                    Michael Jones
+
+                   La forêt dans les comptes ducaux,
+                          vers 1260-vers 1360
+
+
+
+
+M ONT F ORT ET SON P A Y S – L A F OR Ê T EN B RETAGNE
+C O M P TES REN D U S  B i B L IOGRA P H I Q U ES
+C H RONI Q U E  D ES SO C IÉTÉS  H ISTORI Q U ES
+  S o c i é t é   d ’ H i s t o i r e   e t    d ’ A r c h é o l o g i e   d e   B r e t a g n e
+La forêt dans les comptes ducaux bretons,
+vers 1260-vers 1360
+
+
+      Des incidents relatés dans les vies de saints bretons et le don par Salomon
+Britonum rex de trente peaux de daim au pape Hadrien II en 871 laissent penser que
+les souverains bretons du haut Moyen Âge partageaient la passion répandue dans
+l’aristocratie européenne pour la chasse au gros gibier vivant habituellement dans les
+bois1. Bien qu’il soit maintenant clair que la province n’était pas à la période post-
+romaine aussi densément boisée que le pensaient La Borderie et ses contemporains
+et que la déforestation se développait un peu partout depuis la Préhistoire2, il y
+restait de vastes étendues de bois anciens, spécialement dans la Bretagne centrale
+et occidentale3. À la suite des souverains mérovingiens et carolingiens, une grande
+
+
+1. Cassard, Jean-Christophe, « Suscinio et les chasses des ducs de Bretagne », dans Alain Salamagne,
+    Jean Kerhervé et Gérard Danet (dir.), Châteaux et modes de vie au temps des ducs de Bretagne xiiie-
+    xvie siècle, Rennes-Tours, Presses universitaires de Rennes/Presses universitaires François-Rabelais,
+    2012, p. 122 pour ces exemples.
+2. Tonnerre, Noël-Yves, Naissance de la Bretagne. Géographie historique et structures sociales de la
+    Bretagne méridionale (Nantais et Vannetais) de la fin du viiie à la fin du xiie siècle, Angers, Presses de
+    l’université d’Angers, 1994, p. 111-118 ; Astill, Grenville et Davies, Wendy, A Breton Landscape,
+    Londres, UCL Press, 1997, p. 35, qui, citant d’autres références modernes, commentent : « De nos
+    jours, il y a environ une douzaine de petites forêts, mais les terres arborées occupent à peine 10 % de la
+    surface des cinq départements – moins que la moitié de la moyenne française […]. En fait une récente
+    étude environnementale suggère fortement que les défrichements ont été le fait de la Préhistoire (très
+    tôt le long des côtes) et qu’il n’y avait pas de forêts très étendues à la période historique. »
+3. Meuret, Jean-Claude, « De l’ancienneté et de l’immutabilité des massifs forestiers : le cas de la forêt
+    de La Guerche (Ille-et-Vilaine) », dans Vincent Bernard, François Favory et Jean-Luc Fiches (dir.),
+    Silva et saltus en Gaule romaine : dynamique et gestion des forêts et des zones rurales marginales,
+    actes du viie colloque AGER, Rennes, 27-28 octobre 2004, Besançon, Presses universitaires de Franche-
+    Comté, 2014, p. 227-244, pour une analyse irréfutable de la manière dont un « espace occupé, cultivé
+    et pâturé pendant la Protohistoire et l’Antiquité, devenant un massif compact au cours du haut Moyen
+    Âge, puis une forêt châtelaine au xie s. », coexiste avec une « probable forêt primitive sans occupation
+    ancienne, relevant du baron de Craon au xie s., et devenant un territoire totalement voué à l’agriculture
+    au xiie s. » (p. 242). Cette étude développe la thèse pionnière de Jean-Claude Meuret dans laquelle il
+    examine minutieusement dans la longue durée l’histoire de la forêt sur la marche entre la Bretagne et
+    l’Anjou : Meuret, Jean-Claude, Peuplement, pouvoir et paysage sur la marche Anjou-Bretagne (des
+    origines au Moyen Age), Laval, Société d’archéologie et d’histoire de la Mayenne, 1993.
+362                                          Michael Jones
+
+partie en était considérée au début du xie siècle comme une forêt, foresta, une terre
+bénéficiant d’un statut légal privilégié, réservé à l’usage exclusif des souverains de
+la province pour la chasse4, bien sûr, mais aussi pour la valeur des autres ressources
+naturelles – la flore, la faune et les minerais – que l’on trouvait dans la forêt.
+      À partir du règne d’Alain III (1008-1040), le témoignage des chartes nous
+permet de tracer les grandes lignes de l’utilisation des forêts et le fonctionnement
+de l’administration forestière des ducs5. On y trouve aussi quelques indications
+quant aux revenus financiers qui pouvaient en être obtenus, spécialement quand
+les défrichements dans la forêt fournirent de nouvelles surfaces à la pâture, que
+des métairies furent établies et que des fourrés et des breuils, contenant les bois de
+charpente de plus grande valeur et le gibier, furent délimités au sein de la forêt par
+des clôtures, des fossés et des barrières.
+      On en trouve des témoignages principalement d’abord dans les concessions faites
+par Alain III et ses successeurs aux établissements monastiques qu’ils favorisent à une
+époque de vigoureuse réforme religieuse et de reconstruction. Localement, dans le comté
+de Rennes, par exemple, les abbayes de Saint-Méen de Gaël et de Saint-Georges de Rennes
+bénéficièrent de la générosité d’Alain, cette dernière recevant jusqu’au droit de prendre
+du bois de chauffage et de construction dans n’importe quelle forêt ducale, ainsi que des
+droits plus spécifiques de pâture pour ses animaux et l’autorisation de lever des rentes
+et autres paiements à des dates fixes chaque année, par exemple, entre le 29 septembre
+et le 30 novembre à Tanouarn, dans la paroisse de Dingé6. Ce schéma se généralisa et
+beaucoup d’autres abbayes bénédictines, ainsi que des établissements des nouveaux
+ordres monastiques et militaires comme les cisterciens et les templiers, reçurent des
+bienfaits similaires au cours des deux siècles suivants. Parfois, quelque détail est ajouté
+selon les circonstances locales, ce qui nous en dit plus sur l’exploitation saisonnière
+des ressources de la forêt. Quand Conan II (1040-1066), à une date entre 1055 et 1066,
+confirme la donation de Livré accordée par son père et son grand-père à l’important
+monastère angevin de Saint-Florent-lès-Saumur pour y fonder un prieuré, qui permettait
+aux moines de prendre du bois de chauffage et de construction et de faire pâturer leurs
+troupeaux, il leur interdit de pénétrer dans les zones boisées pendant six semaines au
+
+
+4. Petit-Dutaillis, Charles, « De la signification du mot « Forêt » à l’époque Franque », Bibliothèque de
+    l’École des chartes, t. lxxvi, 1915, p. 97-152, article classique cité avec approbation par Guillotel,
+    Hubert, « Administration et finances ducales sous le règne de Conan III », Mémoires de la Société
+    d’histoire et d’archéologique de Bretagne, t. lxviii, 1991, p. 25.
+5. Jusqu’à ce que Jean II devienne pair de France en 1297, il faut noter que la plupart des ducs s’intitulent
+    eux-mêmes « comtes de Bretagne », titre que la chancellerie royale française utilise aussi normalement,
+    mais pour éviter toute confusion avec d’autres comtes bretons, j’utiliserai « duc/ducal » tout au long
+    de cet article.
+6. Guillotel, Hubert, Actes des ducs de Bretagne (944-1148), éd. Philippe Charon, Philippe Guigon,
+    Cyprien Henry, Michael Jones, Katharine Keats-Rohan et Jean-Claude Meuret, Rennes, Presses
+    universitaires de Rennes/Société d’histoire et d’archéologie de Bretagne, 2014, nos 26, 33 et 44.
+                        La forêt dans les comptes ducaux bretons…                                        363
+
+printemps (entre la mi-avril et la fin de mai) et émet des restrictions sur le nombre de
+porcs appartenant à des « étrangers » et pouvant profiter du panage (droit de manger
+les fruits des arbres forestiers), exigeant que les porcs soient enfermés la nuit, mesure
+visant clairement à préserver les jeunes pousses7.
+      L’administration au quotidien des forêts ducales reposait principalement entre les
+mains des forestiers mais leur activité n’est pas bien documentée dans les premières
+chartes8. Dans la donation en 1155 d’une terre dans la forêt de Rennes à l’abbaye de
+Savigny, le « duc » Eudes (Eudon II, vicomte de Porhoët, deuxième mari de Berthe,
+duchesse de Bretagne) mentionne le consentement de « forestarii mei, Guido, scilicet
+de Mosterbeton & Radulphus de Buxeria & Guillelmus de Desercel9 », membres de
+familles de statut chevaleresque ou y accédant, comme Michel Brand’honneur l’a
+montré dans une étude minutieuse de la motte désertée de Dézerseul située à la lisière
+de la forêt encore existante de Saint-Pierre dans la paroisse de Gosné10. Un siècle plus
+tôt, Hervé, « forestarius/foristarius », qui est témoin dans trois chartes en compagnie
+de Conan II, peut aussi avoir été un forestier de Rennes, mais ce n’est pas certain11.
+Quand, en 1128, Conan III (1113/6-1148) confirme différents privilèges à l’abbaye
+de Saint-Melaine dans toutes les forêts ducales, y compris l’exemption des taxes de
+panage, herbage et pacage pour son gros et petit bétail, le duc promet que ses forestiers
+ne dérangeront pas les moines dans la jouissance de ces droits12.
+      Pour lors, les forestiers avaient commencé à apparaître également dans le
+service des autres seigneurs parce qu’à la fin du xie siècle et au début du xiie, selon
+un schéma que l’on observe aussi dans les provinces voisines comme le Maine13,
+
+
+7. Id., ibid., no 62.
+8. Planiol, Marcel, Histoire des institutions de la Bretagne, 5 vol., Mayenne, Association pour la
+    publication du manuscrit de M. Planiol, 1981-1984, t. iv, p. 273-278 donne le premier un état des
+   forêts ducales et seigneuriales en Bretagne et de leur administration à partir de la fin du xie siècle.
+    Meuret, Peuplement, pouvoir et paysage…, op. cit., p. 461-468 étudie d’une manière extrêmement
+   instructive « le problème des forestiers du xie au xiiie siècle » et leur probable origine carolingienne.
+9. Morice, Pierre-Hyacinthe, dom, Mémoires pour servir de preuves à l’histoire ecclésiastique et civile
+    de Bretagne, 3 vol., Paris, Osmont, 1742-1746, t. I, col. 623.
+10. Elle constitue l’un des trois éléments de la foresta Rhedonensis médiévale. Brand’honneur, Michel,
+     « L’habitat chevaleresque du xie-xiiie siècles. L’exemple du site de Dézerseul dans la comté de Rennes »,
+     Mémoires de la Société d’histoire et d’archéologie de Bretagne, t. lxix, 1992, p. 77-93. Pour une charte
+     ultérieure (après le 2 février 1162) du forestier Gui accordant Champfleuri (en Liffré) et la fougeraie de
+     Beauchêne (toponyme non identifié) à l’abbaye de Savigny, voir Guillotel, Hubert, « Administration
+     et finances de Conan III… », art. cit., p. 40-41 d’après l’original, Arch. nat., L 968 no 290.
+11. Guillotel, Hubert, Actes des ducs de Bretagne (944-1148)…, op. cit., no 50, 54 et 57.
+12. Id., ibid., no. 133.
+13. Barton, Richard E., Lordship in the County of Maine, c.890-1160, Woodbridge, The Boydell Press,
+     2004, p. 133-136. Les comtes d’Anjou ont apparemment eu plus de succès à maintenir leurs droits
+     sur les forêts au cours de cette période, Guillot, Olivier, Le comte d’Anjou et son entourage au
+     xie siècle, 2 vol., Paris, A. & J. Picard, 1972, t. i, p. 391-394.
+364                                         Michael Jones
+
+le monopole ducal sur les forêts (si tant est qu’il ait jamais existé en pratique) avait
+commencé à se fissurer, alors que les autres nobles étaient arrivés à posséder et
+exploiter leurs propres bois. Ceux-ci étaient de plus en plus appelés forêts, suivant le
+modèle ducal, et leurs possesseurs faisaient exactement le même type de concession
+pour leur exploitation à des religieux ou à des laïcs et jouissaient du même type
+de droits, tout en se réservant en général le droit de chasse. Ainsi quand en 1121
+Guillaume Ier, seigneur de La Guerche, résout finalement un long conflit avec les
+moines de Saint-Melaine, il concède à leur prieuré de Saint-Nicolas à La Guerche
+le libre usage de sa forêt pour leur besoin et pour le pâturage de leurs porcs, afin
+qu’à l’instar de ses hommes ils n’aient pas à payer le panage14.
+      Dans une série de chartes données aux environs de 1145 à l’abbaye de La
+Vieuville, Jean, seigneur de Dol, et sa mère Noga, se réfère indistinctement à leur
+bois ou forêt de Borgoth (« nemoris de Borgoth […] forestam meum de Borgoth »),
+situé dans la paroisse de Lanrigan15. En 1152, Eudon II, vicomte de Porhoët, dote
+sa nouvelle abbaye de Lantenac de l’usuel bois vif ou mort (pour la construction
+et le chauffage), d’herbage pour le foin et de droits de pâture16. Tout à fait à la
+même époque, Henri, seigneur de Fougères, fait la même donation à l’abbaye de
+Savigny, se réservant les droits de fauconnerie17, tandis que Guillaume Ier, seigneur
+de Montfort, fondant semblablement l’abbaye de Saint-Jacques de Montfort, donne
+aux moines la « decimam forestae de Colum », et autres terres « juxta forestam
+de Tremelin » près d’Iffendic et « juxta forestam » de Talensac et que Pierre, fils
+d’Urvoy, chasseur (venatoris), leur concède des terres et des droits à Mauron18.
+Parmi les forêts seigneuriales bretonnes, se trouve près de Montfort-sur-Meu la
+
+
+14. Morice, Pierre-Hyacinthe, dom, Mémoires pour servir de preuves…, op. cit., t. i, col. 529-530,
+    « Forestam quoque concessit idem Guillermus libere ad quantamque monachorum necessitatem et
+    pascendum porcos suos sine pasnagio sicut porcos ipsius domini ». Voir aussi Meuret, Jean-Claude,
+     « Au cœur de la marche bretonne, l’ascension et le démantèlement d’une grande châtellenie, La
+     Guerche-Pouancé (milieu xie-milieu xiiie siècle) », dans Joëlle Quaghebeur et Sylvain Soleil (dir.),
+     Le pouvoir et la foi au Moyen Âge en Bretagne et dans l’Europe de l’Ouest. Mélanges en mémoire
+     du professeur Hubert Guillotel, Rennes, Presses universitaires de Rennes, 2010, p. 639-684 (p. 644).
+15. Morice, Pierre-Hyacinthe, dom, Mémoires pour servir de preuves…, op. cit., t. i, col. 596. Pour
+     l’identification de Borgoth, voir Banéat, Paul, Le département d’Ille-et-Vilaine. Histoire, Archéologie,
+     Monuments, 4 vol., Rennes, J. Larcher, 1927-1929, réimp., Mayenne, Éditions régionales de l’Ouest,
+     1994, t. ii, p. 277.
+16. Morice, Pierre-Hyacinthe, dom, Mémoires pour servir de preuves…, op. cit., t. i, col. 604-605, « in
+     foresta dedi […] manentibus quantum necesse fuerit de viride et sicco et de herba quantum libuerit
+     ad fenum faciendum et ad animalia pascenda pascua […] ».
+17. Id., ibid., t. i, col. 605-606, « forestam de Marchiis cum omnibus pertinentibus suis et consuetudinibus
+     excepta area accipitrum ».
+18. Id., ibid., t. i, col. 613-615. La forêt de Coulon qui s’étend immédiatement au sud de Montfort et au-
+     delà du faubourg de Coulon, et celle de Trémelin en Iffendic faisaient toutes deux partie de Brécilien
+     et sont souvent mentionnées dans les Usemens de 1467 (voir note suivante).
+                       La forêt dans les comptes ducaux bretons…                                     365
+
+très célèbre forêt de Brocéliande (jadis Brécilien), dont les Usemens et coutumes
+médiévaux sont connus par un document datant de 146719 ; plus tôt, en 1260, à la
+suite d’une division entre Guillaume, seigneur de Lohéac, et Eudon de Montfort,
+seigneur de Gaël, de leurs droits respectifs, ceux-ci reconnaissent aussi ceux dont
+l’évêque de Saint-Malo jouissait dans Brécilien20.
+      Même si l’on trouve encore dans d’autres chartes presque contemporaines des
+précisions spécifiant quels droits étaient donnés21, et même si l’on peut rencontrer
+les mêmes concessions à des établissements religieux ou à des laïcs à propos de
+telle ou telle forêt au-delà des anciens comtés carolingiens de Rennes, Nantes et
+Vannes – principalement dans le Penthièvre, le Goëlo et le Trégor au nord et vers
+l’ouest dans la Cornouaille où de nombreux nouveaux monastères et prieurés étaient
+établis22 –, les revenus qui pouvaient provenir des forêts, qu’elles soient encore aux
+mains du duc ou non, nous restent largement inconnus jusqu’au milieu du xiiie siècle.
+En effet, les archives financières que l’on pourrait s’attendre à trouver en nombre
+significatif, n’existent pas avant cette date en Bretagne, preuve d’un retard breton,
+par rapport à la couronne ou à d’autres grands fiefs.
+      Mais nous conservons des fragments de comptes ducaux, essentiellement à
+partir de 1260, certaines bribes postérieures incluant des rôles de 1300 et 1303, des
+documents produits par les exécuteurs des testaments de Jean Ier et Jean II (qu’on
+mit plusieurs années à exécuter) et les comptes rendus pour la châtellenie de Touffou
+pour 1348-1352 et 1366 qui, malgré leur caractère inégal, constituent les premiers
+documents sérieux pour combler cette lacune.
+
+
+19. Publié initialement dans Courson, Aurélien de, Le Cartulaire de l’abbaye de Redon en Bretagne,
+     Paris, Imprimerie nationale, 1863, « Éclaircissements », p. ccclxxii-cccxci. Voir aussi Bellamy,
+     Félix, La Forêt de Bréchéliant, la fontaine de Bérenton, quelques lieux d’alentour, les principaux
+     personnages qui s’y rapportent, 2 vol, Rennes, J. Plihon & L. Hervé, 1896 et Duval, Michel, La
+     forêt de Brécilien et ses très anciens usages, Rennes, 1952.
+20. Archives du château de la Grandville en Bringolo, Côtes-d’Armor, charte de Raoul, archidiacre de
+     Porhoët, Mathieu de Lieu, official de Saint-Malo, Raoul, prieur de Guer et Jean, prieur de Saint-
+     Pierre de Bedée, 19 mai 1262, confirmant qu’ils ont vu la charte de Guillaume, seigneur de Lohéac,
+     accordant à l’évêque de Saint-Malo « usagium suum in tota foresta de Brecelin tam in parte nostra
+     quam in parte domine Eudonis de Monteforti, domini de Gael prout antecessores dicti episcopi
+     consueverunt percipere […] non obstante divisione dicte foreste facta inter nos et predictum Eudonem
+     […] », 1260. Cette donation est aussi citée dans les Usemens de 1467.
+21. Morice, Pierre-Hyacinthe, dom, Mémoires pour servir de preuves…, op. cit., t. i, col. 776-777,
+     André II, seigneur de Vitré, confirme une donation vers 1200 par Jean de Champeaux à Savigny de
+     « omne jus quod habebat in foresta mea, videlicet herbagium, pasturam, boscum mortuum, cocagium,
+     septimagium et fanagium ». Cocagium = droit d’extirper et d’utiliser les racines ; septimagium = droit
+     de ramasser des choses dans la forêt (d’après Du Cange).
+22. Id., ibid., t. i, col. 724-725, par exemple la charte d’Alain « juvenis de Rohan » et de sa femme
+     Mabila en faveur de Bonrepos, ou la charte de fondation de l’abbaye de Beauport par Alain, comte
+     de Goëlo, 1202 (Id., ibid., t. iii, col. 1768-1769).
+366                                       Michael Jones
+
+      En 1946, Barthélemy-Amédée Pocquet du Haut-Jussé publia dans un important
+article deux fragments d’un registre de comptes (chacun consistant en une feuille de
+parchemin pliée en deux pour former deux feuillets) contenant les comptes ducaux
+les plus anciens connus23. Les feuilles avaient été découvertes dans la reliure d’un
+registre d’état civil conservé dans la commune de La Marne (canton de Machecoul,
+Loire-Atlantique), mais se trouvaient certainement auparavant dans les archives de ce
+qui deviendrait au xive siècle la Chambre des comptes de Bretagne, d’abord installée
+à Vannes, puis à Nantes. Ces archives avaient été dispersées dans de dramatiques
+circonstances pendant la Révolution24, et ce qu’il en restait avait certainement été
+utilisé pour relier de tels registres jusqu’au milieu des années 1850 quand une partie
+d’entre elles fut sauvée providentiellement par La Borderie et son ami le baron
+de Wismes, comme ce dernier le raconte dans un article passionnant 25. En ce qui
+concerne Pocquet, les documents nouvellement découverts comprenaient cinquante-
+six articles (trente et un sur la première feuille et vingt-cinq sur la deuxième, certains
+ne comportant pas plus d’une ligne). L’analyse de leur contenu montre que ces
+comptes sommaires dataient des années 1262-1267. Ils apportent des informations
+émanant des receveurs, des fermiers des recettes et d’autres officiers de nombreux
+lieux du duché ainsi que des indications pour les domaines de Montfaucon en Anjou
+et pour les « brefs de mer » vendus à La Rochelle et Bordeaux. En ce qui concerne
+les recettes des forêts ducales, on y trouve des détails pour celles de Rennes, du
+Gâvre, de Rhuys et de Châteaulin sur lesquels nous reviendrons.
+      Quelques années plus tard, treize autres feuilles séparées similaires (certaines
+plutôt sévèrement endommagées et chacune comportant entre vingt et un et trente-
+trois articles) qui provenaient vraisemblablement du même volume de comptes, furent
+découvertes aux Archives départementales de Loire-Atlantique par Yves Renaudin26.
+Bien que ces comptes, ce qui est frustrant, restent de périodes indéterminées et souvent
+ne comportent pas de date, ce qui rend problématique tout ordre chronologique, ils
+apportent néanmoins assez d’informations qui indiquent qu’ils couvrent les mêmes
+années 1262-1267. Renaudin en édita la plus grande partie (mais pas tous les articles)
+en pièces justificatives dans sa thèse d’École des chartes sur « Les domaines des ducs
+
+
+
+23. Pocquet du Haut-Jussé, Barthélemy-Amédée, « Le plus ancien rôle des comptes du duché, 1262.
+     Document inédit », Mémoires de la Société d’histoire et d’archéologie de Bretagne, t. xxvi, 1946,
+     p. 49-68, maintenant Arch. dép. Loire-Atlantique, 1 J 194.
+24. Cf. Berranger, Henri de, Guide des Archives de la Loire-Atlantique, 2 vol., Nantes, 1962-1964, t. i,
+     p. 20-22 ; bien que de nombreux documents de la Chambre des comptes aient été perdus, le Trésor
+     des chartes des ducs de Bretagne a heureusement été sauvé.
+25. Wismes, baron de, « Le trésor de la rue des Caves à Nantes », Revue de Bretagne et de Vendée, t. v,
+    1859, p. 152-161 et 311-335.
+26. Maintenant Arch. dép. Loire-Atlantique, 104 J 1. Je remercie Jean-François Caraës de m’avoir
+     envoyé des photographies numériques de ces documents.
+                        La forêt dans les comptes ducaux bretons…                                         367
+
+de Bretagne27 ». Malgré l’importance de cette découverte pour le début de l’histoire
+des finances ducales, la thèse de Renaudin n’a jamais été publiée et reste largement
+négligée28 ; mais une nouvelle édition complète de ces pièces justificatives, ainsi
+que celle d’autres comptes anciens, est actuellement bien avancée29.
+      Ces documents apportent de nouveaux renseignements sur les forêts, en particulier
+celles de Carnoët, Dein de Corps (en Hédé, Ille-et-Vilaine), Fouesnant, Forêt Conan
+(en Laustenc, Morbihan), Fréau (en Poullaouen, Finistère), Indret (Loire-Atlantique),
+Lanvaux, Liffré, Minibriac (Côtes-d’Armor), Moncontour, Nantes, Saint-Aubin-
+du-Cormier, Touffou et Tournemine (Côtes-d’Armor), ainsi que des indications
+supplémentaires concernant les quatre forêts mentionnées dans les fragments de
+Pocquet. Parmi les receveurs, on trouve les forestiers de Carnoët30, Châteaulin, Liffré,
+Moncontour, Rhuys et Touffou, les sénéchaux de Cornouaille, Nantes et Tréguier,
+le châtelain de Saint-Aubin-du-Cormier et divers clercs, l’un d’entre eux au moins
+agissant comme « vendeur des bois ». Certains d’entre eux rendent aussi séparément
+des comptes à d’autres occasions pour les revenus de bois ou de parcs qui étaient entre
+les mains du duc de façon permanente ou temporaire, comme Coatloc’h (ou Coatlou)
+près de Scaër, Duault et Morlaix, ainsi que les bois de Carnoët, Châteaulin et Rhuys
+qui s’étendaient à l’intérieur des limites de forêts plus vastes31.
+
+
+27. Renaudin, Yves, Les domaines des ducs de Bretagne. Leur administration du xiiie au xve siècle,
+     dactyl., thèse École des chartes, 1957, t. ii, p. 278-411, dont on peut trouver des exemplaires aux
+     Archives départementales d’Ille-et-Vilaine et de Loire-Atlantique et au Centre de recherche bretonne
+     et celtique à Brest.
+28. Récemment des étudiants de l’université de Bretagne occidentale ont commencé à s’intéresser au
+     travail de Renaudin et il a été abondamment utilisé dans Coativy, Yves, Servir le duc de Bretagne
+     (1213-1341), dactyl., dossier d’habilitation à diriger des recherches, Sarrazin, Jean-Luc (dir.),
+    Université de Bretagne occidentale, 19 novembre 2012, 401 p. et « Annexes », t. iii, et Corpus des
+    serviteurs des ducs de Bretagne (1213-1341), 190 p., mais sans remarquer que Renaudin avait
+    délibérément omis un nombre considérable d’articles, en particulier ceux relatifs aux brefs de mer
+    et aux sujets monétaires, de telle sorte que cette tentative (p. 89 et cf. 96-97) d’évaluer la totalité des
+    revenus ducaux d’après les recettes des baillies entre 1263 et 1267 aboutit à un résultat incomplet.
+29. Jones, Michael et Charon, Philippe (éd.), Comptes ducaux bretons, t. i, Les Comptes, inventaires
+     et exécution des testaments ducaux, 1262-1352 (à paraître dans la collection « Sources médiévales
+     de l’histoire de Bretagne »), où ces treize fragments sont édités comme II-V, VII-XVI (le chiffre
+     du document étant en gras et chaque article étant numéroté séparément). Je remercie M. Renaudin
+     de ses encouragements pour la nouvelle édition de ces documents et Philippe Charon pour son aide
+     précieuse dans la relecture des originaux.
+30. Guillou, forestier ducal de Carnoët, a livré 100 livres de la part de l’abbé de Saint-Mathieu de Fine-Terre
+     au duc Jean Ier avant le 7 juin 1254, mais il n’est pas certain que l’argent soit provenu des revenus de
+    la forêt de Carnoët, Lémeillat, Marjolaine, Actes de Jean Ier, duc de Bretagne (1237-1286), Rennes,
+    Presses universitaires de Rennes/Société d’histoire et d’archéologie de Bretagne, 2014, p. 146 no 70.
+31. Cassard, Jean-Christophe, « Suscinio et les chasses des ducs… », art. cit., p. 124 fait remarquer que
+    Jean Ier avait établi des parcs à Carnoët, Châteaulin, Duault et l’Isle près La Roche-Bernard, et note
+     les dépenses pour l’entretien de ceux de Carnoët, Duault, Morlaix et Coatloch en 1306-1307, en
+368                                           Michael Jones
+
+      Si l’on analyse les comptes particuliers des officiers administrant les forêts,
+qui apportent pour certains un bon nombre de renseignements, c’est peut-être sans
+surprise que les ventes de bois et les recettes du panage constituent la source majeure
+de revenus, mais les montants fluctuent considérablement d’un compte à l’autre. Les
+recettes provenant des plaintes devant les cours des forêts (explecta), sur lesquelles
+curieusement nous ne connaissons pas grand-chose par ailleurs, constituent un
+revenu assez régulier, mais modeste en général ; certaines amendes spécifiques
+sont mentionnées. Certains receveurs payaient aussi en espèces (des bovins sont
+assez souvent mentionnés, ainsi que des porcs ou des quartiers de porcs)32. Mais
+la manière de détailler les articles des comptes individuels est inégale et empêche
+une comparaison systématique entre les comptes successifs, même s’ils sont rendus
+par le même receveur. Les recettes sont aussi contrebalancées par les dépenses (y
+compris les gages et les habits, « robes ») ; de telles dépenses sont rarement aussi
+détaillées que les recettes, même si occasionnellement elles s’élèvent presque à la
+même somme, si bien que le profit net à la fin du processus comptable est souvent
+modeste. Il y a aussi le problème des arriérés des comptes précédents (« de veteri
+aresto ») qui s’élèvent parfois à bien plus que les revenus de la période considérée
+et laissent le receveur gravement endetté envers le duc33.
+      Bien que des sommes considérables, 100 livres et plus, soient occasionnellement
+reçues de certaines forêts, le contenu de ces comptes fragmentaires révèle que de
+manière régulière les forêts de Rennes et Nantes/Touffou étaient les plus rentables,
+avec Moncontour et Montfaucon (Maine-et-Loire) qui rapportaient aussi des sommes
+respectables34. Les ventes de bois de Rennes, par exemple, pouvaient excéder 250 livres
+pour une période comptable, alors que celles de Touffou, la forêt pour laquelle les
+
+
+     citant Arch. dép. Loire-Atlantique, E 215 no 1, édité dans Le Corre, Kevin, Arthur II (1305-1312),
+     duc de Bretagne, dactyl., mémoire de master I, Brest, 2007, p. 170-81, document qui sera aussi
+     publié dans Jones, Michael et Charon, Philippe (éd.), Les Comptes…, op. cit., XXV. Pour une
+     réflexion utile sur la forêt dont les 750 hectares qui existent encore sont toujours appelés le Bois-
+     du-Duc, voir Coativy, Yves, « Le château et la châtellenie de Carnoët au Moyen Âge », dans Yves
+     Coativy et Fañch Postic (dir.), La forêt de Carnoët (Quimperlé). Archéologie, histoire, traditions et
+     légendes, Quimperlé/Brest, Société d’histoire du Pays de Kemperlé/Centre de recherche bretonne
+     et celtique, 2014, p. 87-111.
+32. Coativy, Yves, Servir le duc…, op. cit., t. iii, note 1337, p. 315 pense que les « latare venanciones »
+     mentionnés dans les comptes de 1262-1267 sont peut-être des travers de sanglier.
+33. Alain Gastinel compte pour les recettes de Touffou 258 livres 3 sous 6 deniers, plus un arriéré de
+    242 livres 5 sous et des dépenses de 306 livres 6 deniers et doit ainsi au duc 194 livres 8 sous à une
+    occasion, et à une autre pour un revenu de 157 livres 5 sous 6 deniers, un arriéré de 454 livres et des
+    dépenses de 318 livres 12 sous 6 deniers, devant ainsi 292 livres 14 sous (Jones, Michael et Charon,
+    Philippe (éd.), Comptes…, op. cit., IV, 9 et XV, 9), tandis que Pierre de Crana rend compte de ventes
+    dans la forêt de Rennes pour 91 livres alors qu’il a des dépenses de 264 livres 13 sous (Id., ibid., XVI, 8).
+34. Cf. Coativy, Yves, Servir le duc…, op. cit., t. iii, p. 312-317 pour les forestiers ducaux dans les
+     comptes de 1263 (sic)-1267, avec un tableau des revenus p. 314.
+                        La forêt dans les comptes ducaux bretons…                                           369
+
+renseignements sont les plus abondants, atteignirent à une occasion 468 livres et
+413 livres à une autre35, sommes qui excédent le total des recettes de certains sénéchaux.
+      Deux autres feuillets de parchemin, provenant presque certainement du même
+registre que ceux découverts par Pocquet et Renaudin, avaient été publiés par La
+Borderie en 1888, apportant 144 nouveaux articles pour 1264-126536. Plus tôt
+encore, dom Lobineau avait eu accès à « un vieux registre de comptes qui est au
+chasteau de Nantes parmi les papiers non inventoriez », qui apportait pour 1267-
+1275 des détails sur d’autres comptes, comportant quelque 144 articles dans notre
+prochaine édition, qu’il avait brièvement résumés37. Ceux-ci montrent que les
+pratiques comptables commençaient à évoluer (par exemple, on donne plus de
+dates), mais la plupart des articles sont très abrégés, peut-être parce qu’ils l’étaient
+ainsi dans le registre, mais plus vraisemblablement parce que Lobineau, comme
+c’était son habitude avec les documents financiers, a réduit les informations dans
+ses notes avant de les abréger encore dans la publication de ses Pièces. En effet,
+ses notes se réduisent souvent à des listes de noms, nous laissant regretter, à cause
+de la perte du document original, ce qu’il a négligé de transcrire38. Comme pour
+les fragments de La Borderie, le résumé de Lobineau du registre perdu n’ajoute
+pas d’information importante sur les forêts ducales dans la deuxième moitié du
+règne de Jean Ier. À cette époque, d’autres documents montrent qu’il faisait parfois
+peu de cas des droits de ses sujets, puisque ses exécuteurs testamentaires durent
+par la suite rendre aux habitants du Gâvre leurs usages dans la forêt du Gâvre,
+spécialement les droits de pâture et de bois mort qui leur avaient été accordés à
+l’origine en dehors des breuils par Pierre Mauclerc39, et pareillement aux moines
+de Saint-Gildas de Rhuys qui avaient été exclus de la forêt de Rhuys par les
+clôtures érigées par les officiers ducaux40.
+      Les comptes des exécuteurs testamentaires de Jean Ier et Jean II ainsi que les rôles
+résumant les comptes présentés à Muzillac en 1300 et 1303 et à Vannes en 1306-1307
+apportent un certain nombre d’informations hétéroclites sur l’exploitation des forêts,
+
+
+
+35. Jones, Michael et Charon, Philippe (éd.), Les Comptes…, op. cit., IX, 3 et XII, 3, 4.
+36. La Borderie, Arthur de, Recueil des actes inédits des ducs et princes de Bretagne (xie, xiie, xiiie siècles),
+     Rennes, 1888 (publié à l’origine dans le Bulletin et mémoires de la Société archéologique d’Ille-et-
+     Vilaine, t. 17, 1885, p. 1-87 et 341-436, t. 19, 1887, p. 155-285), p. 216-223, no cxxxvi, Arch. dép.
+     Ille-et-Vilaine, 1 F 1109.
+37. Lobineau, Gui-Alexis, dom, Histoire de Bretagne, 2 vol., Paris 1707, t. ii, col. 410-413, repris dans
+     Morice, Pierre-Hyacinthe, dom, Mémoires pour servir de preuves…, op. cit., t. i, col. 1006-1010.
+38. Jones, Michael, « Les comptes d’Auffroy Guinot, trésorier et receveur général de Bretagne, 1430-
+    1436 », Journal des Savants, 2010, p. 22-24 sur les méthodes de travail de Lobineau.
+39. Lémeillat, Marjolaine, Actes de Jean Ier…, op. cit., p. 343, 3 B. L’original de la donation de Pierre
+    Mauclerc ne semble pas avoir été conservé
+40. Id., ibid., p. 348, 6 B.
+370                                        Michael Jones
+
+bois et parcs ducaux au tournant du xive siècle. La plupart des documents originaux
+conservés ont été publiés par La Borderie dans son Recueil des actes inédits des ducs
+et princes de Bretagne et son Nouveau recueil…41, bien qu’il ait omis parfois certains
+articles. Ces éditions ont été largement utilisées par des chercheurs plus récents, par
+exemple, par notre très regretté ami Jean-Christophe Cassard dans l’un de ses meilleurs
+articles – mais hélas presque le dernier – sur « Suscinio et les chasses des ducs de
+Bretagne42 ». Mais on peut encore en tirer davantage, ainsi que de quelques comptes
+originaux datant de 1308, qui n’ont pas encore été publiés (sur l’emplacement des bois
+aux mains des ducs, sur les ventes et les prix du bois de charpente, la cession à bail
+de terres boisées ou de biens à l’intérieur des forêts, la fluctuation dans le nombre de
+têtes de bétail, l’existence de pratiques particulières comme celle de mettre ensemble
+des porcs domestiques et des sangliers sauvages)43.
+      Là où on trouvait dans les fragments les plus anciens des détails sur les revenus de
+la seigneurie angevine de Montfaucon44, nous avons ici quelques rares renseignements
+sur les terres de Jean II dans le Perche et à L’Aigle, bien que ce qui provient des ventes
+de bois soit malheureusement réuni avec d’autres formes de revenu. Néanmoins, les
+sommes totales sont considérables, avec le châtelain de Montigny-le-Chartif (Eure-
+et-Loir), comptant pour plus de 850 livres et le receveur d’autres terres du Perche
+pour près de 7 400 livres sur une période non précisée, probablement plus d’une
+année, tandis que L’Aigle (Orne), valait presque 700 livres de rente annuelle. Dans
+une récapitulation qu’il est difficile de faire concorder avec les éléments du rôle, il est
+noté que les recettes « de Pertico et de Aquila » atteignent la somme de 16 212 livres
+11 deniers en monnaie faible qui valait alors environ un tiers de bonne monnaie45.
+      Il y a aussi une fois de plus des preuves de la conduite arbitraire des officiers
+ducaux, parfois semble-t-il en connivence avec le duc, envers ceux qui avaient des
+droits héréditaires dans les forêts ducales, des contrats délibérément rompus et des
+violences physiques contre à la fois les biens et les personnes46. Il est aussi donné
+des indications sur l’approvisionnement en venaison de la maison du duc (absentes
+
+
+
+41. Publié à l’origine sous le titre « Nouveau recueil d’actes inédits des ducs et princes de Bretagne »,
+     Bulletin et mémoires de la Société archéologique d’Ille-et-Vilaine, t. 21, 1892, p. 91-193 et t. 22,
+     1893, p. 181-286, puis séparément, Rennes, Imprimerie Eugène Prost, 1902.
+42. Voir ci-dessus note 1.
+43. Arch. dép. Loire-Atlantique, E 20 no 12, à paraître dans Jones, Michael et Charon, Philippe (éd.), Les
+    Comptes…, op. cit., xix.
+44. Id., ibid., IV, 21 ; XII, 25 ; XV, 1 et 25.
+45. Id., ibid., XXVII, 135-138.
+46. Id., ibid., XXIX, 53, 59, 64, 84, 141, 244 et 252 (d’après Arch. dép. Loire-Atlantique, E 20 no 16,
+     dépenses de Rolland Le Lombart pour l’exécution du testament du duc Jean II, 1307-1311) : les
+     compensations totalisent 146 livres pour diverses actions violentes commises par les agents ducaux
+     dans les forêts de Forêt Conan, Le Gâvre, Minibriac, Moncontour et Rennes.
+                         La forêt dans les comptes ducaux bretons…                                              371
+
+de manière surprenante des comptes plus anciens) ou d’autres maisons comme celle
+d’Aliénor, abbesse de Fontevrault, troisième fille de Jean II, avec des mentions sur
+certains chasseurs du duc, y compris son spécialiste de la chasse à la perdrix, Geoffroi
+le Pedriour le bien nommé, ainsi que sur les pêcheurs qui fournissaient la table ducale47.
+      Comme mentionné précédemment, les comptes ducaux conservés pour la fin
+du xiiie siècle fournissent une quantité limitée de renseignements sur les revenus de
+chaque forêt ducale et excluent une analyse comparée dans les détails. Ceux concernant
+la forêt de Touffou constituent en partie une exception. Parfois aussi appelée dans
+nos comptes forêt de Nantes, malgré les défrichements et la colonisation du milieu
+du Moyen Âge, elle couvrait encore de vastes étendues de terres à l’intérieur de la
+châtellenie de Touffou qui s’étendait elle-même sur plus de 15 000 hectares et sur
+onze paroisses. « Les trois quarts de la paroisse du Bignon, une grande partie des
+Sorinières étaient alors exclusivement forestiers », écrit Noël-Yves Tonnerre, qui
+montre comment la forêt s’étendait alors sur plusieurs kilomètres dans toutes les
+directions au-delà des restes importants qui subsistent encore aujourd’hui dans la
+commune du Bignon48. Six comptes présentés par Alain Gastinel, parfois appelé
+forestier de Touffou, parfois rendant des comptes pour la forêt de Nantes, dans les
+années 1260, le montre manipulant des sommes plutôt élevées (une fois plus de
+500 livres, une autre fois plus de 600 livres et encore une autre fois jusqu’à 1 567 livres,
+des comptes comparables ou excédant même ceux rendus par plusieurs sénéchaux
+ducaux ou par les principaux châtelains)49. Ce sont les ventes de bois qui sont le plus
+souvent mentionnées et sont habituellement un des éléments principaux, comme
+nous l’avons déjà noté. Mais les revenus du panage montent à plus de 100 livres
+dans un compte (ce qui est comparable aux 90 livres levées sur la prairie de La Bièce
+située immédiatement au sud de Nantes et aux presque 130 livres des usagers de la
+garenne de Pirmil dans d’autres comptes50), tandis qu’un autre compte de Touffou
+montre qu’on a levé le panage sur plus de 1 000 porcs un automne51.
+      Presque un siècle plus tard, les comptes d’Alain Guillemot, châtelain de Touffou
+de 1348 à 1352 pour Charles de Blois et Jeanne de Penthièvre, confirme l’importance
+
+
+47. Jones, Michael et Charon, Philippe (éd.), Les Comptes…, op. cit., XXII, 11 et 26 d’après Arch. dép. Loire-
+     Atlantique, E 20 no 14, deux fragments des comptes d’Aubéri de Baudement pour l’hôtel du duc Jean II,
+     1305, publiés premièrement dans La Borderie, Arthur de, « Derniers jours et obsèques de Jean II, duc de
+     Bretagne (1305) », Bulletin et mémoires de la Société archéologique d’Ille-et-Vilaine, t. 14, 1880, p. 28-
+     64, réimp. ibid., t. 22, 1893, 184-208 et dans Nouveau recueil […], p. 108-132) ; XXIV, 48, 63 (d’après
+     Morice, Pierre-Hyacinthe, dom, Mémoires pour servir de preuves…, op. cit., t. i, col. 1193-1200, un rôle
+     perdu détaillant les divers legs ducaux et leur paiements par les exécuteurs) ; XXV, 3, 5, 23, 29 ; XXVII, 78.
+48. Tonnerre, Noël-Yves, Naissance de la Bretagne…, op. cit., p. 412.
+49. Jones, Michael et Charon, Philippe (éd.), Les Comptes…, op. cit., IV, 9 ; VIII, 9 ; IX, 23 et 31 ; XII, 4 ; XV, 9.
+50. Pocquet du Haut-Jussé, Barthélemy-Amédée, « Le plus ancien compte… », art. cit., p. 61 no 35 = Jones,
+     Michael et Charon, Philippe (éd.), Les Comptes…, op. cit., XIII, 1.
+51. Id., ibid., XII, 4.
+372                                                     Michael Jones
+
+des recettes provenant des bovins et chevaux pâturant, peut-être aussi des moutons,
+ainsi que du panage des porcs à l’intérieur de la châtellenie52. Le tarif était pour les
+« bestes » de 2 sous par animal pour une année entière, 12 deniers pour six mois, et
+de 4 sous chacun pour les « beux et chevaux », tandis que les porcs adultes étaient
+taxés à 18 deniers chacun pour le panage ; ceux qui sont décrit comme « marcais »
+(élevé dans les marais ?) payaient 9 deniers chacun et les jeunes porcs qui avaient
+le droit de divaguer (« porceaux estrianz ») 4 deniers obole.
+      Comme le montre le tableau 1, les chiffres (donc les revenus) fluctuent de manière
+significative d’année en année, de juste en dessous de 300 livres en 1350 à plus de 560 livres
+en 1351 quand le panage est payé pour plus de 3 000 porcs. En 1366, le panage est perçu sur
+plus de 1 800 porcs, 946 « bestes » ont pâturé pour l’année à 2 sous chaque, 382 pour la moitié
+de l’année à 12 deniers chaque et 4 sous ont été perçus sur 392 « bœufs53 ». Pour simplifier
+les calculs, il a aussi été décidé que pour certaines taxes, un gros porc, deux porcelets ou trois
+moutons valaient l’équivalent d’un bœuf. Sur le bétail seul, en cette année presque 800 livres
+furent levées dans la châtellenie de Touffou54, ce qui laisse penser que l’accroissement de ces
+revenus que l’on remarque dans les comptes de 1349-1351 a continué pendant les premières
+années du règne de Jean IV. Il n’y a pas non plus dans ce cas de Touffou d’indication que
+la Peste noire ait eu un impact significatif55, mais c’est ouvrir une discussion beaucoup plus
+large, et ce n’est pas pour cette fois !
+                                        1349                   1350                    1351                    1352                   1366
+ « Affiage1 » à 2 s.     60 l. 16 s.            62 l. 12 s.             49 l.                   49 l.                  94 l. 12 s.
+ mi-affiage à 12 d.      33 l. 17 s.            34 l.   3 s.            10 l.   3 s.             9 l.   3 s.           19 l.   9 s.
+ grant affiage à 4 s.    59 l.   9 s.           46 l. 12 s.             41 l.   8 s.            47 l. 16 s.            76 l.   8 s.
+ pannage à 18 d.        123 l. 10 s.            66 l.                  331 l.                                         191 l.   7 s.
+ pannage (porcs
+                         14 l.   5 s.    9 d.    8 l.   0 s.    6 d.    25 l. 10 s.
+ marcais) à 9 d.
+ pannage (porcs
+                         10 l. 11 s. 10½ d.      4 l. 12 s.     3 d.    16 l. 19 s.     6 d.
+ estrianz) à 4½ d.
+ amendes/taux            93 l. 18 s.            69 l. 11 s.             90 l. 11 s.             89 l.   9 s.          140 l.   6 s.
+ Total                  396 l.   7 s. 7½ d.     29 l. 10 s.     9 d.   564 l. 11 s.     6 d.   195 l.   8 s.          522 l.   2 s.
+
+Tableau 1 – Le châtellenie de Touffou, recettes des animaux 1349-1352 et 1366
+
+Note tableau 1
+1. Le mot ne figure pas dans les dictionnaires de moyen français, sans doute doit-on le comprendre
+    comme proche d’affouage.
+
+
+
+52. Arch. dép. Loire-Atlantique, E 211 no 4, un rôle de vingt-sept peaux ; Jones, Michael et Charon,
+     Philippe (éd.), Les Comptes…, op. cit., XXXXIX.
+53. Ibid., E 211/13, une feuille de parchemin.
+54. Ne sont pas inclus dans le tableau 1 les recettes correspondant à 131 « bœufs fictifs », l’équivalent
+     de 131 « pors mis en la venage de la dite forest », quatre-vingts bœufs correspondant à 160 « petiz
+     porceaux » et 168 bœufs correspondant à 444 « oveilles misses en pasture en la dite forest ».
+55. Il est à noter qu’entre 1348 et 1352 seul un tènement se trouve avoir changé de mains à la suite d’un décès.
+                       La forêt dans les comptes ducaux bretons…                                    373
+
+      On peut dire en conclusion que les documents financiers analysés ici sont un
+infime vestige des comptes qui furent rassemblés pour le domaine ducal depuis
+au moins le milieu du xiiie siècle56, pratique que les grands seigneurs avaient dû
+imiter pour le début du xive siècle57. Mais on peut tirer assez d’informations de ces
+fragments pour montrer que les ressources de la forêt étaient reconnues comme
+un capital financier de valeur, de plus en plus contrôlé et exploité par les ducs
+successifs et leur administration qui devenait plus bureaucratique, professionnelle
+et exigeante. Après la coupure de la guerre civile, la nouvelle dynastie des Montforts
+continuera-t-elle d’accorder un intérêt marqué pour ses forêts ? Quelques réponses
+sont apportées par Marjolaine Lémeillat dans sa communication58.
+
+                                                                             Michael Jones
+                                           professeur émérite à l’université de Nottingham
+
+
+
+Résumé
+      Les preuves d’une exploitation de droits forestiers par les ducs de Bretagne commencent
+à s’accumuler dès le début du xie siècle. Les origines lointaines de leur autorité souveraine
+remontent aux Mérovingiens quand de grandes étendues de terre, le plus souvent boisées,
+furent soustraites à l’usage général, les rois s’en réservant la jouissance entre autres pour
+chasser et pêcher (cf. Guillotel). Alain III, Conan II, Alain IV et Conan III accordèrent à
+leurs abbayes favorites et aux religieux le droit de prendre du bois pour leurs constructions
+et pour leur chauffage, ou de faire paître leurs animaux selon la saison ou tout au long de
+l’année, ainsi que d’utiliser d’autres produits de la forêt, parfois moyennant une redevance.
+Mais c’est seulement à partir de 1260 que nous pouvons étudier de manière plus précise
+comment Jean Ier et ses successeurs ont utilisé ces ressources forestières, grâce aux fragments
+des premiers comptes ducaux qui nous sont parvenus.
+
+
+
+
+56. La forme des comptes les plus anciens indique qu’ils ne sont pas les premiers à avoir été tenus,
+     comme le prouve les références à des arriérés.
+57. Arch. dép. Ille-et-Vilaine, 1 F 1535 et 1549, pour des fragments de comptes des années 1310-1311,
+     1314-1315 et 1337-1338 pour les seigneurs de Vitré, et 1 F 1542 pour leur seigneurie de Châtillon-
+    en-Vendelais en 1340-1342. Les comptes les plus anciens et les plus détaillés concernant une forêt
+    particulière se trouvent être ceux pour Brécilien rendus à la comtesse de Laval ayant la garde de
+     Monseigneur de Gâvre et de Montfort, son fils : une recette impressionnante de 1 734 livres 2 sous
+    6 deniers fut perçue en 1419 et pas moins de 3 200 livres 13 sous 9 deniers en 1420, l’Estourbeillon,
+     Régis de, marquis, « Les revenus de la forêt de Brocéliande aux xve et xvie siècles », Bulletin de la
+     Société polymathique du Morbihan, 1893, p. 121-133.
+58. Voit la contribution de Marjolaine Lémeillat dans ce volume. Je suis redevable, encore une fois, à
+     Catherine Laurent pour la gentillesse avec laquelle elle a fait la traduction de cette communication.
+

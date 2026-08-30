@@ -1,0 +1,12 @@
+person_id,date,event,source,role,note
+pius_ii,1461-06-02,purchase_crystal_reading_pieces,Muntz_Les_arts_cour_papes_I_p316,wear_onset,"Simone aurifex Florentine: 11 cameral florins for three crystal pieces for pope’s personal use ad legendum (Ilardi: magnifying crystals for reading)."
+pius_ii,1461-06-19,purchase_crystal_flasks_silver_ship,Muntz_I,near_work_documentary,"Cameral payment to Pietro Archangelo: crystal flasks + silver-gilt ship for pope."
+pius_ii,1461-11-23,purchase_silver_gilt_paten_jewels,Muntz_I,near_work_documentary,"Florentine merchants: patena argenti deaurati with jewels for pope."
+pius_ii,1462-02-01,pay_simone_sword_chapel_ampullae,Muntz_I,near_work_documentary,"Simone goldsmith: Nativity sword, chapel ampullae, knives for pope."
+pius_ii,1462-04-28,pay_simone_golden_rose,Muntz_I,near_work_documentary,"Simone: gold + sapphire + manufacture of golden rose."
+pius_ii,1462-12-31,comandamento_pay_gems,Muntz_I_T_S,near_work_documentary,"«di comandamento di S. S.» — pay Simone for balas rubies/sapphires bought for His Holiness."
+pius_ii,1463-05-27,pay_simone_palace_plate_fountain,Muntz_I,near_work_documentary,"Simone: silver plate for apostolic palace + fountain chapel in pope’s garden."
+pius_ii,1463-11-04,comandamento_cross_to_burgundy,Muntz_I,near_work_documentary,"«di comandamento di Sua S.» — cross purchased to send to Duke of Burgundy."
+pius_ii,1464-02-04,comandamento_pienza_silver_figures,Muntz_I,near_work_documentary,"«di comandamento di S. S.» — gilding/silver figures of St John & Madonna for Pienza."
+pius_ii,1464-08-08,pay_simone_bull_seal_stamp,Muntz_I,near_work_documentary,"Last hard pin: Simone paid for new stamp to seal papal bulls. years_after=3 from 1461; death 1464-08-14."
+pius_ii,1464-08-14,death_terminus,wikidata_Q162600,death,Hard death terminus (Ancona). Soft survival from onset = +3y.

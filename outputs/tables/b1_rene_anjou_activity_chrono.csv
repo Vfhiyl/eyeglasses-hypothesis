@@ -1,0 +1,16 @@
+person_id,date,event,source,role,note
+rene_anjou,1449-06-19,spectacle_purchase_avignon,Lecoy_Extraits_comptes_roi_Rene_1873_IA_§674,wear_onset,"A maistre Guillaume Tourneville … achat de deux paires de lunettes en Avignon pour ledit seigneur (P 1334* 2e partie f° 82 v°)."
+rene_anjou,1450-11-07,princely_mandement,Lecoy_§92,near_work_documentary,"«René, etc. A nostre bien amé maistre Jehan Vercle…» — FROM-René admin act (+1y)."
+rene_anjou,1454-01-14,lettre_de_par_le_roy,Lecoy_§15,near_work_documentary,"«De par le roy de Secile…» to comptes: inspect ouvraiges/jardrins Anjou; Escript à Albe; Ainsi signé René (OCR)."
+rene_anjou,1454-02-09,lettre_de_par_le_roy,Lecoy_§16,near_work_documentary,"«De par le roy de Secile…» Escript en nostre cité d'Aix — FROM-René."
+rene_anjou,1454-06-17,lettre_de_par_le_roy_signed,Lecoy_§99,near_work_documentary,"«De par le roy de Secile…» signed René cluster."
+rene_anjou,1455-11-15,lettre_de_par_le_roy_signed,Lecoy_§105,near_work_documentary,"13–15 novembre 1455 «De par le roy de Sicile…» signed (Mortifiement era)."
+rene_anjou,1456-11-29,lettre_de_par_le_roy_signed,Lecoy_§29,near_work_documentary,"«Nos amez et féaulx, Nous escrivons à Pierre Desbans…» Escript aux Sables d'Allonne."
+rene_anjou,1458-06-08,mandement_jardin_aix,Lecoy_§36,near_work_documentary,"«en nostre jardin d'Aix» — Mandement de René ordonnant paiement 320 l."
+rene_anjou,1461-01-26,lettre_de_par_le_roy_signed,Lecoy_§432,near_work_documentary,"«Nous avons entendu que noz naves…» signed René."
+rene_anjou,1464-04-08,lettre_close_bar,Lecoy_§42,near_work_documentary,"Bar: Lettre close de René mandant (admin)."
+rene_anjou,1466-12-16,lettre_de_par_le_roy_signed,Lecoy_§76,near_work_documentary,"«De par le roy de Sicile» signed."
+rene_anjou,1473-01-25,lettre_aix_ordonne,Lecoy_§55,near_work_documentary,"Aix: Lettre de René ordonnant réparations (fenestres etc.)."
+rene_anjou,1477-07-29,lettre_de_par_le_roy_signed,Lecoy_§327,near_work_documentary,"«De par le roy de Sicile» signed René."
+rene_anjou,1479-08-06,lettre_de_par_le_roy_halles,Lecoy_§200,near_work_documentary,"Last hard pin: orders repair of halles Angers/Baugé/Saumur/Loudun/Mouliherne. years_after=30 from 1449."
+rene_anjou,1480-07-10,death,wikidata_Q170353,death,Hard death terminus. Survival from onset = +31y.

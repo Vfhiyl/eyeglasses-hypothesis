@@ -1,0 +1,415 @@
+
+===== PAGE 1 =====
+Deac Rossell
+The use and mis-use of technological argument
+in media history
+With the very useful and revealing attention given in media history studies in recent
+years to accounts that emphasize reception, exhibition, cultural contexts, psycho -
+logy, screen language and economic concepts, there has been very little new work
+done from the perspective of technology. Even worse, an approach to film historythrough technology has recently been strongly criticized by several leading scho -
+lars. Charles Musser, in dismissing an account that suggests »a kind of technologi -
+cal determinism in which film language is a product of technology and film artexists within the framework of that language«,
+1substitutes instead an account ba-
+sed on »cultural practise«, or one that places the cinema »within a larger context ofwhat we shall call the history of screen practise«,
+2a practise where there is a techno-
+logical component, but one that is not determinative. Richard Brown, who arguesfor a business and economics-based historical account of early cinema practise inhis study of the Biograph Company, is even more blunt: »While considerable at-tention has been given over many years to charting the technical development of ci-nematography... [after 1896] ... Technical aspects were simply variations on a themealready established; not surprisingly, this function, whilst important, moved froman active to a passive or supportive role.«
+3After all, for both Musser and Brown,
+and many others, the technological approach to early cinema is one that we allknow very well, and one which we know leads to eternal arguments about the pre -
+cise origin and meaning of specific forms of intermittent movements, shutters, ge -
+ars and motors. As Musser wrote about the intimidating technical scholar of early
+American film inventors, Gordon Hendricks, »Hendricks’s knowledge and erudi -
+tion were not only indisputable, they were virtually unfathomable … [He] not
+only defined the field, he made it a sterile one.«
+4
+2211 Charles Musser, The Emergence of Cinema. The American Screen to 1907 (New York, 1990:
+Charles Scribner’s Sons), S. 16.
+2 Ebd., S. 15.3 Richard Brown, Barry Anthony, A Victorian Film Enterprise. The History of the British Mu -
+toscope and Biograph Company, 1897-1915 (Trowbridge, 1999: Flicks Books), S. 6
+4 Charles Musser, Edison Motion Pictures 1890-1900, An Annotated Filmography (Washington,
+D.C./Pordenone, 1997: Smithsonian Institution Press/Le Giornate del Cinema Muto), S.20-21.
+
+===== PAGE 2 =====
+Sadly, although my own work comes principally from a technological perspec -
+tive, I can only agree with my colleagues quoted above. But the problems they, and
+others, describe resides for me not in taking a technological approach to media his -
+tory, but in using a kind of methodology for the history of technology that is both
+outmoded and discredited, one that is no longer used by contemporary technicalhistorians in any other field, whether studies of the technological evolution of bicy -
+cles or of guided missiles. Worse, while they add new and important material to our
+understanding of early cinema from a cultural or economic perspective, my goodcolleagues – and others – have left the basic story of the development and first ap -
+pearance of moving pictures wholly intact. For the basic outline of whom, of what
+companies, of what materials, were significant in the discovery and presentation ofmoving pictures – of screen practise – has remained unchanged. And this outlinewas delivered by precisely those historians who took a narrow and technologicallydeterminative approach to the material.
+5Although technical historians published
+from early in the 20thcentury, the scarcity of work from this perspective has meant
+that several key books were republished or re-issued, extending the methodologyand information of even the earliest historians well into the present day: in the firstgeneration Henry Hopwood,
+6Carl Forch,7David Hulfish8and F. Paul Liesegang9;
+in the middle generation Martin Quigley, Jr.,10C. W. Ceram,11Friedrich von Zglini-
+cki12and Joseph H. North13; more recently Jacques Deslandes14, H. Mark Gosser15
+222Deac Rossell
+5 That is to say, apart from those (many) historians who were exclusively supporting only a nar-
+row nationalistic viewpoint towards the invention of moving pictures. The period c. 1880-1900was one of remarkable international experiment and accomplishment, and very few historianshave adequately researched across borders to integrate developments which were, at the time,almost without exception transmitted quickly from country to country through personal con -
+tact, patent publication, and technical journals.
+6 Henry V. Hopwood, Living Pictures. Their history, photo-production and practical working .
+London, 1899: The Optician & Photographic Trades Review); reprinted New York, 1970: TheArno Press.
+7 Carl Forch, Der Kinematograph und das sich bewegende Bild (Wien und Leipzig, 1913: A.
+Hartleben’s Verlag).
+8 David S. Hulfish, Motion Picture Work (Chicago, 1913: American School of Correspondence);
+reprinted New York, 1970: The Arno Press.
+9 Franz Paul Liesegang, Zahlen und Quellen: zur Geschichte der Projektionskunst und Kinema -
+tographie (Berlin, 1926: Deutsches Druck- und Verlagshaus); reprinted as Dates and Sources. A
+contribution to the history of the art of projection and to cinematography , translated and edited
+by Hermann Hecht (London, 1986: The Magic Lantern Society of Great Britain).
+10 Martin Quigley, Jr., Magic Shadows: The Story of the Origin of the Motion Picture (Washing -
+ton, D.C., 1948: Georgetown University Press).
+11 C. W. Ceram [Kurt Wilhelm Marek], Archaeology of the Cinema (New York, 1965: Harcourt,
+Brace & Co.).
+12 Friedrich von Zglinicki, Der Weg des Films (Berlin, o. J. [1956]); reprinted Hildesheim/New
+York, 1979: Olms Presse.
+13 Joseph H. North, The Early Development of the Motion Picture: 1887-1909 [Ph. D., Cornell
+Univerisity, 1949] (New York, The Arno Press, 1973).
+
+===== PAGE 3 =====
+and Virgilio Tosi16. From these writers we have received a basic story of the appea -
+rance of modern-day media which in one way or another fails to reflect the vigorous
+international activity of the late 19thcentury, which valorizes or distorts the work of
+certain figures like Étienne-Jules Marey, the Lumière brothers, Oskar Messter, orRobert Paul and which simultaneously ignores or undervalues others such as Otto -
+mar Anschütz, Birt Acres, George William de Bedts, and Herman Casler. Not only
+is the historical map as defined nearly a hundred years ago still unaltered, so are the
+arguments which issue from it: as early as September, 1896 Der Komet published an
+article with the headline »Edison oder Lumière?«,
+17and the argument, if not always
+the evidence, is still familiar and active today, which is hardly a recommendation ofintellectual progress in the field.
+The dangers of relying on a century-old received story of the origins and
+evolution of the cinema are twofold. First, by using an antiquated historical pat -
+tern a number of myths are built into the accepted account of film history from
+the beginning, myths that obscure and dilute even the most fulsomely resear -
+ched later work that leaps over technological matters and adds new and useful
+cultural, business, or aesthetic information to the story. New theoretical con-structs built on such a shaky foundation must a priori be considered unreliable.
+Second, the survival of many technological artifacts and accounts still have agreat deal to contribute to better understanding of how media came to play acentral role in the modern world. The proper re-examination and re-deploy-ment of this information from an age in which so many films, so many first-handrecollections, and so many business records have been lost is an urgent task thatcan enhance every area of media studies.
+I have written extensively elswhere on how a reformed technological history
+of the origins of cinema might be usefully begun.
+18What I would like to do today
+is to look at a specific article of F. Paul Liesegang and examine how he used histechnological information, and see if an alternative technological methodologymight bring more interesting and more useful perspective to bear on the subject.
+223The use and mis-use of technological argument in media history
+14 Jacques Deslandes, Histoire comparée du cinéma (Tournai, 1966: Casterman).
+15 H. Mark Gosser, Selected Attempts at Stereoscopic Moving Pictures and their Relationship to
+the Development of Motion Picture Technology, 1852-1903 [M. A., Temple University, 1975]
+(New York, 1977: The Arno Press).
+16 Virgilio Tosi, El Cine antes de Lumiere [2nd, enlarged edition] (México City, 1993: Universidad
+Nacional Autónoma de México).
+17 Theodor Bläser, »Edison oder Lumière?«, in: Der Komet , Nr. 601, 26.9.1896, S. 2.
+18 See Deac Rossell, »Die soziale Konstruktion früher technischer Systeme der Filmprojektion«,
+in:KINtop-Jahrbuch zur Erforschung des frühen Films , Nr. 8 (1999), S. 53-81; Deac Rossell,
+Living Pictures. The Origins of the Movies (Albany, 1998: State University of New York
+Press); Deac Rossell, »Double Think: The Cinema and Magic Lantern Culture«, in: Celebra -
+ting 1895. The Centenery of the Cinema , edited by John Fullerton (Sydney, 1998: John Libbey
+& Co. Ltd.), S. 27-36.
+
+===== PAGE 4 =====
+In doing so, I now go back not to early cinema, but to the history of the origins of
+the magic lantern.
+In 1919, F. Paul Liesegang published an article about the earliest reports on
+the magic lantern in Germany,19an article which has been a cornerstone of the
+history of the magic lantern and has been used by all subsequent writers on thetopic in Germany.
+20The article considers three figures, more or less in chronolo -
+gical order: Johann Franz Griendel, who Liesegang identifies only as a magic
+lantern maker and showman during the time he spent in Nürnberg between1670 and 1677; Johann Christoph Sturm, who demonstrated the magic lanternin December 1672 during a course of lectures at the University of Altdorf; andJohannes Zahn, who published a splendid compendium on optics, Oculus artifi -
+cialis teledioptricus sive telescopium in 1685/86 that included a dozen different
+models of magic lantern and a full explanation of their workings. Liesegang’ssources for this article were works of Johann Gabriel Doppelmayr,
+21Johann
+Christoph Kohlhans22and Georg Andreas Will23, plus the books of Sturm24and
+Zahn.25Liesegang’s article opens with a brief review of the invention of the ma-
+gic lantern by Christiaan Huygens around 1659, and of the activities of ThomasWalgenstein in the 1660s. He reproduces a sketch of the optical system of Wal-genstein’s lantern from Claude François Milliet Dechales,
+26and another sketch
+224Deac Rossell
+19 Franz Paul Liesegang, »Die ältesten Nachrichten über die Zauberlaterne aus Deutschland«, in:
+Central-Zeitung für Optik und Mechanik , Jg. 1919, Nr. 8 & 9. My copy of this article, from the
+Bibliothek of the Deutsches Museum, München, is a Sonder-Abdruck from the Cen-
+tral-Zeitung , and is pagenated only 1- 6.
+20 Liesegang’s article, for example, has been used by Friedrich von Zglinicki, Der Weg des Films
+(Hildesheim/New York, 1970: Oms Presse); Jürgen Berger, »Die Projektion. Anmerkungenzur Geschichte der Laterna Magica«, in: Almut Junker, et. al., Laterna Magica – Vergnügen,
+Belehrung, Unterhaltung. Der Projektionskünstler Paul Hoffmann (1829-1888) [Ausstel -
+lungskatalog] (Frankfurt/M. 1981: Historisches Museum Frankfurt), S. 29-54; Winfried Ran -
+ke, »Magia naturalis, physique amusante und aufgeklärte Wissenschaft«, in: Detlef Hoffman
+und Almut Junker, Laterna Magica. Lichtbilder aus Menschenwelt und Götterwelt (Berlin,
+1982: Frölich & Kaufmann GmbH); and is annotated in Hermann Hecht, Pre-Cinema Histo -
+ry. An Encyclopedia and Annotated Bibliography of the Moving Image Before 1896 (Lon -
+don/Melbourne/Munich/New Jersey, 1993: Bowker/Saur), Nr. 505, S. 346. This article was
+published in Liesegang’s most fertile period: eight articles on aspects of the origin of the magiclantern or camera obscura appeared in 1919, and nine more the following year.
+21 Johann Gabriel Doppelmayr, Historische Nachricht von den Nürnbergischen Mathematicis
+und Künstlern (Nürnberg, 1730: Peter Conrad Monath).
+22 Johann Christoph Kohlhans, Neu-erfundene mathematische und optische Kuriositäten (Leip -
+zig, 1677: Friedrich Lanckischen sel. Erben).
+23 Georg Andreas Will, Nürnberger Gelehrten-Lexicon, oder Beschreibung aller Nürnbergischen
+Gelehrten … (Nürnberg und Altdorf, 1755: Lorenz Schüpfel).
+24 Johann Christoph Sturm, Collegium experimentale, sive Curiosum (Nürnberg, 1676: Wolf -
+gang Maurit Endter & Johann Andreas Endter).
+25 Johannes Zahn, Oculus artificialis teledioptricus sive telescopium ... (Herbipoli, 1685/86: Heyl).
+26 Claude François Milliet Dechales, Cursus seu Mundus mathematicus (Lyon, 1674: Ex officiana
+Anissoniana).
+
+===== PAGE 5 =====
+from Sturm, and considered that since both lantern systems used two biconvex
+lenses, no technological progress had been made in Germany since the opticalsystem was the same as that of Walgenstein and Huygens from the previous de -
+cade. In making this judgement, Liesegang is following his lifelong habit, andthe habit of many of his contemporaries and followers, including Carl Forch and
+Hans Kökke, in considering that technological innovation comes only withchange – and better, an advance – in the fundamental operating principles of anapparatus. This juncture where technology is abstracted and expressed as scien -
+tific principle is common in older technical historians, and particularly so inGermany, where the idea that only an innovation that demonstrated a new prin -
+ciple was of value was even written into the patent laws. Unlike either Great Bri -
+tain or America, the German patent office reserved the separate category of»Gebrauchsmuster« for lesser patents that showed an innovation ›only‹ in de -
+sign or construction, but not in an instrument’s basic operation. Secure in theidea that only fundamental principles, scientific principles, were of value, the pa -
+tent office in Berlin then threw out all of the documentation of their Gebrauchs-muster in the early 1930s when they needed more space, thereby extinguishing asignificant resource for media history.
+Liesegang, then, made a conservative and common conclusion about the first
+reports of the magic lantern in Germany, if an abstract and narrow one: it wasnothing new, nothing special, his historical sources were just the next chronolo-gical step in the story of the magic lantern. He did not even note that Sturm’s il-lustration presented »for the first time a practical model of the whole instru-ment«, as John Barnes did writing in 1970.
+27But a consideration of his three figu-
+res, Griendel, Sturm and Zahn, from a slightly different technological perspecti-ve, one that is not so narrowly abstract, begins to show the limits of Liesegang’smethodology, and new questions also arise when his sources are re-examinedfrom this perspective.
+Sturm’s illustration of the magic lantern has an important difference from the
+rough sketches that were published earlier: the lantern is in the form of a hori -
+zontal cylinder held well aloft by a flared metal base, and the slide is inserted intothe lantern through slots cut into the barrel of this cylinder itself. [Figure 1] Pre-
+vious depictions of the lantern, by Petit in 1664,
+28[Figure 2] and by Dechales in
+1674,29[Figure 3] show a lantern with a vertical cylindrical body that itself supp -
+225The use and mis-use of technological argument in media history
+27 John Barnes, Barnes Museum of Cinematography. Catalogue of the Collection, Part 2: Optical
+Projection (St. Ives, Cornwall, 1970: Barnes Museum of Cinematography), S. 14.
+28 Drawn in a letter to Christiaan Huygens of 28 November 1664. Sociéte Hollandaise des Scien -
+ces, eds: Oeuvres complètes de Christiaan Huygens. Le Haye, 1888-1950: Martinus Nijhoff. V.
+4, p. 266. Note that in this volume the letter is incorrectly dated to 1662, a date used by several
+secondary sources; see correction in V. 13, p. 161.
+29 Illustrated in Dechales, Cursus seu Mundus mathematicus, Bd. II, S. 655.
+
+===== PAGE 6 =====
+orts an extended tube for the lenses about half-way up; slides are placed in slots
+at the beginning of this lens tube. The lantern illustrated by Sturm is, then, of adecidedly different construction and design than that of Walgenstein, or, assu-medly, Huygens and others in the west of Europe. Lanterns of similar construc-tion were built only for about 50 years or less, and only in southern central Eu-rope. This horizontal cylinder form, often elevated on a flared cone, and alwayswith the slide stage in either the barrel of the lantern housing itself or in themiddle of the first (and largest diameter) lens tube, but never at the junction bet-ween the lantern body and its lens protrusion, are illustrated in works by Zahn
+30
+(1685/86), [Figure s4&5 ] Müller31(1704), [Figure 6] Rhaenus32(1713), [Figure
+7]and verified by three surviving lanterns bought in southern Germany proba -
+bly in 1699. [Figure 8] By around 1715 the form seems to have disappeared; a
+surviving lantern from an unidentified maker which I date around 1720-30 [Fi-
+gure 9] is clearly a transitional design moving towards the kind of vertical lamp -
+house or square lantern design that was a parallel construction made throughout
+the period and which would become the standard lantern shape.33
+226Deac Rossell
+Figure 1-3
+30 Zahn, Oculus artificialis .
+31 Matthaeus Christianus Müller, De Laterna Magica (Jena, 1704).
+32 Samuel Johann Rhaenus, Novum et Curiosum Laternae Magicae Augmentum (Jena, 1713).
+33 The horizontal cylindrical lantern was also illustrated in Stéphane Chauvin, Lexicon Philoso -
+phicum secundis (Leoverdiae, 1713); Chauvin based his illustration on Sturm. A few decorative
+horizontal cylindrical lanterns were produced in Nürnberg in the 1890s, particularly by JeanSchoenner, Ernst Planck and Georges Carrette, as manufacturers there issued toy lanterns inhighly decorative designs including lanterns in every conceivable shape such as the Eiffel To -
+
+===== PAGE 7 =====
+So we have here a particular lantern construction which exists for a limited time
+in a specific geographical area. Should this construction be admitted as a part of thetechnological evolution of the magic lantern? Or should we remain with Liesegangand his reliance on the abstract principles of its optical system, with its two biconvexlenses? To quote John Staudemeier, a »contextual history of technology affirms as acentral insight that the specific designs chosen by individuals and institutions neces-sarily embody specific values.«
+34The design is crucial here, especially as it exists in a
+limited time and place, and its first appearance is with Liesegang’s three central figu-res. In this particular case, in contrast to the lanterns being built in Paris, London,and Amsterdam, the all-metal construction and very elaborate flared base indicatesa maker who had access to the highly skilled Nürnberg metalworkers, who couldturn out such fancy shapes with-out appreciably adding to the cost or time of ma -
+nufacture. This was a practical and economically viable resource that was not easily
+available elsewhere. Incorporating the horizontal cylinder design into the technicaldescription of this lantern, then, let us return to Liesegang’s article for two furthertasks. First, an attempt to sort out the chronology between his three figures, withspecial reference to the activities of the mysterious Griendel and to his relationshipto Sturm; and second, an application to these figures of a recent methodologydrawn from principles used by historians working with the sociology of the historyof technology.
+Liesegang quotes extensively from the description of a lantern show given by
+Griendel that is reported by Kohlhans in 1677, but fails to recognize that Kohl -
+hans is repeating a description previously published in 1673. Griendel’s show
+227The use and mis-use of technological argument in media history
+Figure 4-5
+wer, an automobile, a log cabin, Buddha, and other curious shapes.
+34 John M. Staudemaier, S. J., Technology’s Storytellers. Reweaving the Human Fabric (Cam -
+bridge/London, 1989: MIT Press/Society for the History of Technology), S. 165-166.
+
+===== PAGE 8 =====
+was actually seen not by Kohlhans, but by a travelling medical doctor from Pa -
+ris, Charles Patin.35In continuing, I do want to let the estimable historian Liese -
+gang off the hook here a little bit. He is, after all, serving only as an example of a
+tendency in technical historical methodology, and not at all as an example of aninadequate historian. We owe much to him and to his pioneering work.
+36If he
+knew that Kohlhans was using Patin’s 1673 description of Griendel’s lantern ex-hibition, or if he had found this non-technical source himself, I think he wouldhave had further thoughts about the relationship between Griendel and Sturm, atopic which he examined closely in his article, and which clearly interested him.
+37
+Two further facts now complete this part of the case. First, Charles Patin was
+in Nürnberg in early July 1672,38and it was at that time that he saw Griendel’s
+magic lantern exhibition. This is five months before Sturm demonstrates a magiclantern as a »Neuheit« in his lectures, and surely would have caught Liesegang’sattention. Second, we now know that Griendel sent a list of some 25 different
+228Deac Rossell
+Figure 6 -7
+35 Charles Patin, Quatre Relations Historiques , (Basle, 1673). A problem here which is pertinent
+to the topic is that Liesegang was very little interested in exhibition, and may not have botheredto trace Kohlhans’s source any further. His habitual disregard of matters which are not »tech -
+nical« is also found in his unpublished biography of Ottomar Anschütz of 1940 (manuscript at
+the Agfa-Foto-Historama, Museum Ludwig, Köln), which is full of carefully (often mathema -
+tically) worked out material on lenses and shutter timings, but is relatively dismissive of An -
+schütz’s exhibitions of the Schnellseher. Here, I am not trying to suggest that exhibition is also
+a part of technical history, but in this particular case tracing the exhibition, as we shall see, is away of determining an accurate chronology of Griendel’s activity, something which Liesegangwould, I think, very much have appreciated.
+36 At the same time, it does seem to me that later authors who used Liesegang’s work could have
+taken a more careful look at it and at his sources and come to some of my same conclusions.
+37 Here, Liesegang is also led into a direct error. In the middle of his description of Griendel’s ma -
+gic lantern show, Kohlhans uses the phrase, »wie der Autor schreibet«, and Liesegang takes this
+to mean »daß Griendel eine Schrift über seine ›optische Latern‹ herausgeben habe, die uns lei -
+der nicht bekannt geworden ist.« (Liesegang, Die ältesten Nachrichten über die Zauberlaterne,
+S. 3.) But Kohlhans is referring to Patin’s 1673 Basle publication (Patin, Quatre Rela -
+tions-Historiques ), or its later 1674 edition published in Lyon.
+38 Julius Pirson, »Die Beziehungen des Pariser Arztes Charles Patin zu Nürnberger Freunden
+und Gönnern«, in: Mitteilungen des Vereins für Geschichte der Stadt Nürnberg , Bd. 49 (1959),
+S. 274-338, esp. S. 278-282.
+
+===== PAGE 9 =====
+optical instruments that he was making
+in Nürnberg to Gottfried Wilhelm Leib-niz on 30 December 1671, and that thislist included:
+16. Ein optische Latern, weliche
+alles, waß man will, figuren, gemählder, Brustbilder, conterfeit,Jaggereyen, ja ein ganze Comedia mit allen lebhjafften Farben,aber risens grösse in einem finstern gemach oder Saal auf eine weis-se wand, oder weisses Duch presentiert, man kans so groß machen,daß ein reiniges Bild von undten biß oben die wandt eines hohenSaal einnimbt, ist ein Curios und högst verwunderliches gereth.
+39
+So now that it has been established Griendel’s activity is not, as Liesegang re -
+ports, »aus dessen Nürnberger Zeit.[...], die von 1670 bis 1677 läuft,«40but was
+well established by the end of 1671, it is clear that the assumption might well bemade that Sturm got his magic lantern, demonstrated as a »Neuheit«, fromGriendel. In fact, Liesegang pursues this point specifically, and shows thatSturm and Griendel knew each other,
+41and further that there was some tension
+229The use and mis-use of technological argument in media history
+Figure 8-9
+39 Ernst Gerland, Leibnizens nachgelassene Schriften physikalischen, mechanischen und techni -
+schen Inhalts (Leipzig, 1926), Bd. 1, S. 201-204, Brief Nr. 99. The list of instruments Griendel
+sent to Leibniz is not reproduced with this letter, although its existence is noted. I am deeply in -
+debted to Inge Keil for bringing this material to my attention, and for a copy of the list of instru -
+ments prepared by the late Dr. Albert Heinekamp of the Leibniz Archiv, Niedersächische Lan -
+desbibliothek, Hannover.
+40 Liesegang, »Die ältesten Nachrichten über die Zauberlaterne«, S. 3.
+
+===== PAGE 10 =====
+between them,42but in the end he states only the possibility of a relationship be -
+cause he cannot quite determine the precise chronology of Griendel’s activities.
+One step that would have helped Liesegang with his task would have been to
+look for what Michael Callon has called an »actor network«. That is, a networkof scientists, engineers, institutions and workers which describes »heterogene -
+ous associations and the mechanisms of their transformation and consolidati -
+on.«
+43Such a network, in the words of Ruth Schwarz Cowan, for any individual
+»limits and controls the technological choices that she or he is capable of ma -
+king.«44And, indeed, there is just such an »actor network« in Nürnberg at the
+time, one that centered around Johann Georg Volckamer (the Elder). Volcka -
+mer was a distinguished figure of the Enlightenment, a prominent member and
+president from 1686 until his death of the Academia naturae curiosorum , later
+called the ›Leopoldina‹. Volckamer, who was Patin’s host and who recommen -
+ded Griendel’s lantern show to his visitor, kept a renowned salon for the exchan -
+ge of scientific information: »Ja, sein Haus war selbst eine kleine Akademie, wo
+so wol einheimische, als auch fremde Gelehrte und Standespersonen öffters zu-sammen gekommen sind, die fürtnefl. Unterredungen dieses grund gelehrtenund erfahrnen Mannes mit Nutzen anzuhören, auch in wichtigen Fällen undmißlichen Zuständen klugen Rath einzuholen.«
+45Along with Griendel, the
+230Deac Rossell
+41 Liesegang is convinced that the second »Neuheit« that Sturm demonstrated in his lecture at
+Altdorf, a reflex camera obscura, came from Griende l – a point with which I fully agree.
+42 Liesegang hints that it was a »Spannung« between Sturm and Griendel that kept Sturm from
+acknowledging Griendel as the source of his portable camera obscura. Indeed, Sturm refers atone place to »ein Nürnberger Mechaniker, der sich reichlich kühn den Namen eines Nürnber-ger Mathematikers anmaßt«, whom Liesegang properly identifies as a reference to Griendel.Griendel had no university diploma, which was perhaps one reason that Sturm thought he wastaking liberties with his position as a newcomer to Nürnberg, but there may be yet anothercompetition between the two men over their principal professions as architects of defensivemilitary fortifications. When Sturm’s son, Leonhard Christoph Sturm, published a work onmilitary architecture in 1702, he was highly critical of the quality of the drawings in Griendel’smilitary books, although he clearly felt he had to include no less than 6 »Manieren« designed byGriendel in the work. See Leonhard Christoph Sturm, Architectura militaris hypothetico eclec -
+tica(Nürnberg, 1702), p. 41. The author’s father’s commitment to his first profession is clear in
+this work, since he made »improvements« to many of the fortification designs collected by hisson for publication, although not to Griendel’s.
+43 Michael Callon, »Society in the Making: The Study of Technology as a Tool for Sociological
+Analysis«, in: Wiebe E. Bijker, Thomas P. Hughes, and Trevor Pinch, eds., The Social Con -
+struction of Technological Systems. New Directions in the Sociology and History of Technology
+(Cambridge/London, 1987: MIT Press), S. 93. Callon is actually quite radical in his concept ofan actor network, and his controversial views have been hotly debated in recent years. He in -
+cludes as an »actor« in his concept inanimate objects and institutions as well as various groups
+of people. For him, the task is nothing less than to »transform academic sociology into a socio -
+logy capable of following technology through its elaboration« (S. 99) and actor networks are
+themselves the proper object of such a study because it is actor networks that »simultaneouslygive rise to society and to technology.« (S. 99).
+44 Ruth Cowan Schwarz, »The Consumption Junction: A Proposal for Research Strategies in the
+Sociology of Technology«, in: ebd, S. 262.
+
+===== PAGE 11 =====
+Nürnberg engraver and astronomer
+Georg Christoph Eimmert and the Pro -
+fessor of Mathematics and Physics from
+nearby Altdorf, Johann Christian Sturmwere a part of Volckamer’s close circle;
+46
+Eimmert engraved the only known por -
+trait of Griendel while he was in Nurem -
+berg. [Figure 10] With this local network
+in place, it is inconceivable then thatSturm, who as Liesegang says was nothimself an instrument builder, got hismagic lantern from anyone other thanGriendel.
+Turning just very briefly to the third
+figure in Liesegang’s article, JohannesZahn, it turns out that Zahn, a Canon ofthe Premonstrate Order in Würzburg,also had a longstanding and close rela-tionship with Griendel, most likely da-ting from the time that they were bothmonks in Würzburg, well before Grien-del moved to Nürnberg. At one point intheOculus artificialis , Zahn calls Griendel his »former teacher of practical Tele-
+dioptrics.«
+47Zahn also devotes an entire chapter of the work to Griendel’s mi-
+croscope,48and at the end of Griendel’s 1687 book Micrographia nova , Griendel
+recommends Zahn’s book in strong language: »Hochgeehrter Leser/ich recom -
+mandire allen und jeden der Optik, und Gläser-Kunst Liebhabern/das edle
+Werck Reverendissimi Patris Joannis Zahn, Ordinis Praemonstratensis undProfessi in Ober-Zell bey Würzburg in Francken gelegen/und zwar den drittenTheil Oculus artificialis , welcher allen Kunst-Verständigen in der Welt grosse
+Satisfaction geben wird.«
+49
+231The use and mis-use of technological argument in media history
+Figure 10
+45 Will, Nürnberger Gelehrten-Lexicon , Vol. 4, S. 122.
+46 Inge Keil, Augustanus Opticus. Johann Wiesel (1583-1662) und 200 Jahre optisches Handwerk
+in Augsburg. Berlin 2000 .(= Colloquia Augustana, Bd. 12.) S. 163.
+47 Zahn, Oculus artificialis , Vol. 3, S. 234.
+48 Ebd., S. 234.49 Johann Franz Griendel, Micrographia nova (Nürnberg, 1687: In Verlegung Johann Zie -
+gers/Büchhandlers), p. 64. Further, we could also cite here again Liesegang’s source Georg An -
+dreas Will, who noted in the Nürnberger Gelehrten-Lexicon that after Griendel took up his en -
+gineering responsibilities in Vienna, he »dabey noch den Liebhabern in der Dioptrik
+Information gab. Von dergleichen Liebhabern, die es hierinnen bey ihm weit gebracht haben,nennt Hr. Doppelmayr, D. Joh. Georg Volckammern, P. Joh. Zahn, und B. Benzen.«
+
+===== PAGE 12 =====
+We can now definitively reorganize the precise chronology of Liesegang’s
+article: Griendel, appearing in Nürnberg in 1670, began manufacturing opticalinstruments the next year, including the magic lantern. Sturm clearly knew themagic lantern and Griendel through their mutual fellowship through Volcka -
+mer, and exhibited one of Griendel’s lanterns in his lecture at Altdorf, which was
+then illustrated in his Collegium curiosum . Johannes Zahn, the most significant
+reporter on the lantern up to 1686, also got much of his information and material(we do not really know yet just which elements) from Griendel.
+50At this point,
+we have not only brought Griendel into the foreground as the most significantof the three figures whom Liesegang discusses in terms of the history of the ma -
+gic lantern, but can also identify Griendel as the probable source of a separate
+tradition of lantern construction, the horizontal cylindrical lantern, that origi -
+nated in southern Germany early in the 1670s and lasted for just under half a
+century.
+This reorganization raises some interesting new questions. If the tradition of
+lantern building that Griendel began was one that faded from the repertoire ofinstrument makers by the 1720s, when did it begin? Kohlhans calls Griendel theinventor of the magic lantern, a statement that Liesegang is quick to dismiss. Lie-segang had, after all, recently published major articles on the discovery of themagic lantern, its early exhibition, and its relationship to shadow plays and thecamera obscura.
+51But Liesegang also carefully proves in his article that the magic
+lantern was clearly a new instrument in southern Germany in the 1670s, and alsoeffectively proves that Walgenstein never exhibited his lantern in Germany. WasKohlhans correct in naming Griendel as the inventor of the magic lantern, atleast in so far as he made an independent, if somewhat later, discovery than Huy-
+232Deac Rossell
+50 It is perhaps worth mentioning here that Griendel is noted throughout Zahn’s work (see, for
+example, the comments and references at Bd. 3, S. 40, 134, 200) while Sturm is not: either Zahnthought he had all of the necessary information from his friend and former teacher, or he tookGriendel’s side of whatever argument lay between Griendel and Sturm. To Zahn, Sturm is cle -
+arly only a bystander and not significantly involved with the magic lantern.
+51 See, for example, F. Paul Liesegang, »Die ältesten Projektionsanordnungen«, in: Central-
+Zeitung für Optik und Mechanik, Elektrotechnik und verwandte Berufszweige (Berlin, 1918),
+Bd. 39, No. 35, S. 345-7 und No. 36, S. 355-6; F. Paul Liesegang, »Die Laterna Magica bei Eschi -
+nardi: Projektionstechnische Erörterungen vor 250 Jahren«, in: Photogrpahische Korrespon -
+denz (Wien & Leipzig, 1918 [November]), No. 698, S. 348-52; F. Paul Liesegang, »Die Bezie -
+hung des Schattenspiels zur Erfindung der Laterna Magica«, in: Illustrierte Wochenschrift über
+die Fortschritte in Gewerbe, Industrie und Wissenschaft (Leipzig, 1919), Bd. 30, No. 1553, S.
+345-48; F. Paul Liesegang, »Christian Huygens und die Erfindung der Zauberlaterne. 1, Die äl -
+testen Nachrichten über die Laterna magica; 2, Die Vorgeschichte«, in: Deutsche Optische Wo -
+chenschrift . (Berlin, 1919), S. 152-54 & S. 165-67; F. Paul Liesegang, »Der älteste Projektions -
+vortrag«, in: Photographische Industrie (Berlin, 1919) No. 4, S. 39-40; F. Paul Liesegang,
+»Schaustellungen mittels der Kamera obscura in früheren Zeiten«, in: Optische Rundschau(Neukölln, 1919), Bd. 10, S. 385-86, 401-2, 413-14; F. Paul Liesegang, »Laterna Magica undBlendlaterne: Eine geschichtliche Studie«, in: Rundschau für Installations- Beleuchtungs- undBlechindustrie (1919), Nr. 1.
+
+===== PAGE 13 =====
+gens and Walgenstein? It is clear from the fact that Griendel could send Leibniz a
+list of some 25 optical instruments at the end of 1671 that he brought hisknowledge of optics, and much practical experience, with him to that city whenhe arrived in 1670. Where did Griendel acquire his skills? When he was a Capu -
+cine monk bearing the name Father Ladislaus and moving between monasteries
+at Salzburg, Würzburg, Kitzingen, and Munich? What was Griendel’s contribu -
+tion to the work of Zahn? Was there some other figure in southern Germany
+who passed on the magic lantern to Griendel?
+It is possible that there was. And that there could be some even earlier ac -
+counts of the magic lantern yet to be found. Although it is not especially expres -
+sed in this particular article, Liesegang based his idea of the origin of the magic
+lantern on a sequence that involved the evolution of mirror and lens projectionfrom Kircher’s mirror arrangements through the camera obscura.
+52Liesegang
+resists considering any other material, a limitation that provides him with hisown technological »black box« and turns his historical account into one of thosehistories where »tracing minute changes in clock escapements or cast-iron belldesigns over time ...[is] ...too neat, too enclosed and abstracted from history’sturbulence.«
+53One result of Liesegang’s consciously chosen limitation is that
+there is very little discussion in any of the magic lantern literature of the historyof lamps, lighting, and illumination. So I leave you now with a glimpse of onevery tantalising object made in southern Germany sometime between 1637 and1640, by the eminent Augsburg instrument maker Johann Wiesel (1583-1662).This is a ship’s lantern made by Wiesel for the King Chrisitian IV of Denmark,and survives at the Schloß Rosenborg, Copenhagen.
+54Built as a horizontal cylin-
+der, with a concave mirror at the back and a single biconvex lens at the front, italso has the rosette or »crinkle-top« chimney that became a standard magic lan -
+tern design, and a fixture for the placement of a candle mid-way between the
+mirror and the lens. Wiesel was the preeminent instrument maker of his genera -
+tion in Augsburg, but unfortunately despite a modern and thorough scholarly
+study of his work,
+55there is no evidence that he made magic lanterns. There is,
+however, evidence that he was interested in optical projections and effects, andevidence as well that he was interested in multiple lens instruments, since he pro -
+bably produced the first microscope with a field lens about 1650.
+56Would it real -
+233The use and mis-use of technological argument in media history
+52 Here, see the articles above in Anm. 51, and also Herman Hecht’s comments on Liesegang in
+hisPre-Cinema History (Anm. 20), No. 15F, S. 12-13.
+53 John M. Staudemaier, »Rationality versus Contingency in the History of Technology«, in:
+Merrett Roe Smith and Leo Marx, eds, Does Technology Drive History? The Dilemma of Tech -
+nological Determinism (Cambridge, 1994: MIT Press), S. 261-262.
+54 Photographs of this ship’s lantern are in Inge Keil, Augustanus Opticus , Abb. 14, S. 392 and
+Abb. 29, S. 402.
+55 Ebd.
+
+===== PAGE 14 =====
+ly take twenty years or more for this instrument to acquire one more lens and be
+transformed into a magic lantern? There has been little work done on this type ofship’s lantern, so relevant in design and even partly in function to the horizontalcylinder lantern of southern Germany. »No technology is ever completely un -
+derstood«, wrote John Staudenmaier. »Technological knowledge is only a parti -
+al understanding of the characteristics of real-life artifacts and processes.«
+57
+Thank you.
+234Deac Rossell
+56 In a letter of 22 September 1628 Wiesel wrote to Prince August of Anhalt that »Also hierauff
+daß ich einen modum erfunden, die Landschafften in ain Zimmer sehr groß zue reflectieren v.fürzustellen«, most likely referring to a romm-sized camera obscura, and later in the same letternotes that he also offers a » grossen Proportionalspiegel gar schon lustig v. Gerad aufsteendt anaine gegenvbersteende Weiß wandtt oder ainer großen Tafel Pappier Zum Abreißen oder Mah -
+len werffen kan, so sehr nutzlich Diese beeden grossen stugk so beisammen sein müessen, Ist
+der nechste kauff 30 Taler.« See ebd., S. 455.
+57 Staudenmaier, Technology’s Storytellers , S. 107.

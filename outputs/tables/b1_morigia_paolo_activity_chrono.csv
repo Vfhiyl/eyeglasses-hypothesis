@@ -1,0 +1,4 @@
+person_id,date,kind,note,source
+morigia_paolo,1596-01-01,portrait_hold_pin,Fede Galizia portrait 1596 Ambrosiana: Morigia aet. 72 holds convex spectacles. Soft onset of the portrait pin.,Ilardi 2007 Appendix III; WD painting Q29654663
+morigia_paolo,1604-01-01,dated_book,Historia degli uomini illustri che furono Gesuati (Venice 1604). it.wikipedia Opere principali. LABOR TIP years_after=8 from 1596.,it.wikipedia.org/wiki/Paolo_Morigia (parsed 2026-08-30); WD person Q3894287
+morigia_paolo,1604-01-01,death_terminus_not_ya,Died Milan 1604 (same year as the Gesuati history). Death is not a second tip.,it.wikipedia / WD Q3894287

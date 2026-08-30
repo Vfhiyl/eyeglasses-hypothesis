@@ -1,0 +1,30 @@
+{
+  "pass": "BY",
+  "date": "2026-08-06",
+  "new_mine": {
+    "gray_metadata": "OK_access_restricted",
+    "gray_borrow": "still_gated",
+    "local_ilardi_remine": "Duke_August_Wiesel_1630_PROMOTED",
+    "elector_augustus_saxony": "SKIP_luxury_fashion_only",
+    "appiani_mother": "SKIP_gift_not_self"
+  },
+  "promote": {
+    "person_id": "august_brunswick_wolfenbuettel",
+    "qid": "Q61963",
+    "evidence_year": 1630,
+    "ya": 13,
+    "hard": false,
+    "output_years": "1630;1643;1644;1650",
+    "delta": 12.0,
+    "peers": "Q60854;Q761023;Q99371"
+  },
+  "freeze": {
+    "n": 48,
+    "median": 5.0,
+    "ci": [
+      2.25,
+      8.0
+    ],
+    "sesoi5": "PASS_RAW"
+  }
+}

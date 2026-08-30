@@ -1,0 +1,16 @@
+{
+  "pass": "AL",
+  "judgment": "EARLY_WINDOW_OA_PLATEAU for new Cleux-bar named living. Pivot recommended.",
+  "scout_results": {
+    "ilardi_living_windows": "Lapino/Franciesco 1415 = trade EXCLUDE; Beatrice secretary 1473 unnamed gift; bulk Sforza orders already rostered",
+    "downloads_unused": "Skoed 1968 heraldry EXCLUDE; Quaderni 'oculos francischos'=carved furniture eyes EXCLUDE; Fernando Martins no spectacles; OpenAlex Rhodes/Iberian/Brille = modern noise",
+    "digitarq": "404 on search URL",
+    "gallica_lunettes": "SRU unstable/empty this pass"
+  },
+  "stock": {"onsetish_early_panel": 31, "hard_dated": 15, "soft_dated": 16, "labor_n": 28, "median_delta": -0.5},
+  "decision": {
+    "stop": "New named-living OA hunt under Cleux bar (Brittany + Ilardi residuals + MedCat + Dorn)",
+    "next": "Either (A) harden soft early labor series (Hesselin/René/Marzelière/Charles d'Orléans/Philippe le Hardi) to raise hard=True share, OR (B) wait for library PDFs (Rulon/Welch/Kerhervé/Rhodes) / archival imaging (Belluga/Vitko/Neri)"
+  },
+  "ingest": false
+}

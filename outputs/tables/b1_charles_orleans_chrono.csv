@@ -1,4 +1,16 @@
-person_id,date,event,source,note
-charles_orleans,1454,spectacle_case_purchase_lunettes,laborde_glossaire_J_ducs_bourgogne_6789,estuy de lunectes pour Monseigneur le Duc d Orleans.
-charles_orleans,1454,fine_besicle_lunettes_with_cases,laborde_glossaire_J_ducs_bourgogne_6805,lunectes de besicle fines avec ij estuys (same year cluster).
-charles_orleans,1465-01-05,death_terminus,wikidata_Q310146,Death. Soft years_after=11.
+person_id,date,event,source,role,note
+charles_orleans,1454,spectacle_case_purchase_lunettes,Laborde_glossaire_J_ducs_bourgogne_6789,wear_onset,"estuy de lunectes pour Monseigneur le Duc d'Orléans (year pin)."
+charles_orleans,1454,fine_besicle_lunettes_with_cases,Laborde_glossaire_J_ducs_bourgogne_6805,wear_onset_cluster,"lunectes de besicle fines avec ij estuys (same-year cluster)."
+charles_orleans,1454-05-24,ducal_ordonnance_finances,Champion_Vie_1911_IA_viedecharlesdorl00cham,near_work_documentary,"Jean le Flament named général des finances; «le duc d'Orléans rendait une ordonnance sur le fait de ses finances»."
+charles_orleans,1455-02-09,conference_la_charite_with_burgundy,Champion_Vie_1911,near_work_documentary,"9–11 Feb 1455: Charles d'Orléans with Burgundy chancellor at La Charité; then to Mehun-sur-Yèvre to solicit royal embassy."
+charles_orleans,1457-10-17,ducal_entry_orleans_with_court,Champion_Vie_1911,near_work_documentary,"Charles to Orléans with whole court; lodged at Châtelet."
+charles_orleans,1457-12-23,orders_payment_valois_receveur,Champion_Vie_1911,near_work_documentary,"Charles to Regnault le Père (receveur du Valois): pay panetier Jean de la Fontaine 200 écus for pledged ruby."
+charles_orleans,1458-01-31,mandement_pay_ecuyer_tranchant,Champion_Vie_1911,near_work_documentary,"«le duc mandait à Jean Viart, receveur de son domaine» — pay Gilles des Ormes 30 l."
+charles_orleans,1458-05-17,mandement_blois_dated,Champion_Vie_1911_P_orig_1099,near_work_documentary,"Mandement de Charles d'Orléans dated Blois 17 May 1458 (voyage devers le roy de Sicille / horse compensation)."
+charles_orleans,1460-07-17,ducal_visit_orleans_family,Champion_Vie_1911,near_work_documentary,"Charles, duchess, and Marie enter Orléans (Marie’s first joyous entry)."
+charles_orleans,1460-08-12,mande_pay_physician,Champion_Vie_1911,near_work_documentary,"«le duc Charles mandait» pay 60 écus for care of duchess in gésine."
+charles_orleans,1461-08-31,paris_mourning_charles_vii,Champion_Vie_1911,near_work_documentary,"Duke remains in Paris in mourning for Charles VII; declines to meet Louis XI that day."
+charles_orleans,1461-09-30,enters_orleans_with_louis_xi,Champion_Vie_1911,near_work_documentary,"Charles enters Orléans with Louis XI; city gifts 2000 l. each."
+charles_orleans,1463-12-28,gift_choir_saint_sauveur,Champion_Vie_1911,near_work_documentary,"Innocents’ Day: duke gives to Saint-Sauveur Blois choir boys for their bishop feast."
+charles_orleans,1464-05-14,mande_pension_pierre_de_refuge,Champion_Vie_1911,near_work_documentary,"Last hard pin: «le duc mandait à Pierre de Refuge» pay annual pension 300 écus. years_after=10 from 1454."
+charles_orleans,1465-01-05,death_terminus,wikidata_Q310146,death,"Death (WD +1465-01-04 / roster 1465-01-05). Soft survival +11y from onset."

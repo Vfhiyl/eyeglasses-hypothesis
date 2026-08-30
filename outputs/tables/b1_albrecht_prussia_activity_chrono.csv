@@ -1,0 +1,14 @@
+person_id,date,event,source,role,note
+albrecht_prussia,1542-01-01,spectacle_order_personal_use,Bieganowski_2017_Mallkek_Ostpreussische_Folianten_68,wear_onset,"Königsberg→Gdańsk mayor Jan von Werden: broken ocularia; order replacement + identical pairs with clearer left lens."
+albrecht_prussia,1544-02-25,letter_to_camerarius,Voigt_Briefwechsel_1841_IA,near_work_documentary,"Schreiben des Herzogs Albrecht an Camerarius, Königsberg 25 Feb 1544."
+albrecht_prussia,1544-05-23,letter_to_veit_dietrich,Voigt_Briefwechsel_1841_IA,near_work_documentary,"Schreiben des Herzogs an B. Dietrich, Königsberg 23 May 1544."
+albrecht_prussia,1544,university_albertina_foundation,standard_historiography,near_work_documentary,"Founded University of Königsberg (Albertina) 1544 — patronage/near-work continuum."
+albrecht_prussia,1546-12-29,letter_to_bugenhagen,Voigt_Briefwechsel_1841_IA,near_work_documentary,"Schreiben des Herzogs Albrecht an Joh. Bugenhagen, Königsberg 29 Dec 1546."
+albrecht_prussia,1549-01-04,letter_to_veit_dietrich,Voigt_Briefwechsel_1841_IA,near_work_documentary,"Schreiben des Herzogs Albrecht an Veit Dietrich, 4 Jan 1549."
+albrecht_prussia,1551-01-15,letter_to_christoph_wuerttemberg,Voigt_Briefwechsel_1841_IA,near_work_documentary,"Schreiben des Herzogs Albrecht an Herzog Christoph v. Württemberg, 15 Jan 1551."
+albrecht_prussia,1559-02-01,letter_to_brenz,Voigt_Briefwechsel_1841_IA,near_work_documentary,"Schreiben des Herzogs Albrecht an Johann Brentius, Königsberg 1 Feb 1559."
+albrecht_prussia,1561-07-28,letter_to_mordelsen_ragnit,Voigt_Briefwechsel_1841_IA,near_work_documentary,"Schreiben des Herzogs Albrecht an Dr. Ulrich Mordelsen, Ragnit 28 July 1561."
+albrecht_prussia,1563-06-12,letter_to_paul_eber,Voigt_Briefwechsel_1841_IA,near_work_documentary,"Schreiben des Herzogs Albrecht an P. Eber, 12 June 1563."
+albrecht_prussia,1565-09-17,letter_to_strigel,Voigt_Briefwechsel_1841_IA,near_work_documentary,"Schreiben des Herzogs Albrecht an Victorin Strigel, 17 Sept 1565."
+albrecht_prussia,1567-01-31,letter_to_braunschweig_rat,Voigt_Briefwechsel_1841_IA,near_work_documentary,"Last hard pin: Schreiben des Herzogs Albrecht an den Rath von Braunschweig, 31 Jan 1567. years_after=25 from 1542."
+albrecht_prussia,1568-03-20,death_terminus,wikidata_Q40433,death,Death at Tapiau. Soft survival from onset = +26y.

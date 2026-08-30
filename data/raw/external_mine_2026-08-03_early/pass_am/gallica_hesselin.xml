@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<srw:searchRetrieveResponse xmlns:ns6="http://gallica.bnf.fr/namespaces/gallica/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <srw:version>1.2</srw:version>
+    <srw:echoedSearchRetrieveRequest>
+        <srw:query>gallica all "Hasselin" or gallica all "Hesselin"</srw:query>
+        <srw:version>1.2</srw:version>
+    </srw:echoedSearchRetrieveRequest>
+    <srw:numberOfRecords>10855</srw:numberOfRecords>
+    <srw:extraResponseData>&lt;numberOfRecordsDecollapser&gt;96015&lt;/numberOfRecordsDecollapser&gt;</srw:extraResponseData>
+    <srw:records>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Jean de Roye (1425?-1495?). Auteur présumé du texte</dc:contributor>
+                    <dc:contributor>Hesselin, Denis. Auteur présumé du texte</dc:contributor>
+                    <dc:date>1496</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>[74] f. ; in-folio</dc:format>
+                    <dc:format>Nombre total de vues : 172</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k8713682f</dc:identifier>
+                    <dc:identifier>NUMM-8713682</dc:identifier>
+                    <dc:language>frm</dc:language>
+                    <dc:publisher>[Michel Topié] (Lyon)</dc:publisher>
+                    <dc:publisher>[circa 1496] (Lyon)</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb312654879</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb312654879</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Réserve des livres rares, RES FOL-LB27-2</dc:source>
+                    <dc:subject>France (1461-1483, Louis XI)</dc:subject>
+                    <dc:title>Les croniques du tres chrestien &amp; tres victorieux Loys de Valoys feu roy de France que dieu absolve unziesme de ce nom avecques plusieurs aultres adventures advenues tant en ce royaulme de France comme es pays voisins depuis l'an mil quatre cens LX jusques en l'an mil quatre cens quatre vingts &amp; trois inclusivement</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>0</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k8713682f.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k8713682f</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k8713682f.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k8713682f.medres</medres>
+                <nqamoyen>12.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k8713682f.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k8713682f</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Crèvecoeur, Robert de (1833-1896). Auteur du texte</dc:creator>
+                    <dc:date>1895</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>24 p. ; in-8°</dc:format>
+                    <dc:format>Nombre total de vues : 38</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k1172086g</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:language>français</dc:language>
+                    <dc:publisher> (Nogent-le-Rotrou)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb34164897q</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LN27-44147</dc:source>
+                    <dc:subject>Hesselin, Louis</dc:subject>
+                    <dc:title>Louis Hesselin : amateur parisien, intendant des plaisirs du roi, 1600 ( ?)-1662 / par R. de Crèvecoeur</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>1</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k1172086g.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k1172086g</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k1172086g.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k1172086g.medres</medres>
+                <nqamoyen>88.62</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k1172086g.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k1172086g</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Treslon-Cauchon, Louis (1602-1662). Autorité émettrice de monnaie</dc:creator>
+                    <dc:date>13..-19..</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : MonnJet</dc:description>
+                    <dc:format>1 jeton</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 2</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b113384411</dc:identifier>
+                    <dc:language>lat</dc:language>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb44977553p</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Monnaies, médailles et antiques, JEF-911 (JET-919)</dc:source>
+                    <dc:subject>Jetons</dc:subject>
+                    <dc:subject>Picardie (France)</dc:subject>
+                    <dc:subject>France -- Régions</dc:subject>
+                    <dc:title>[Jeton : Série des familles, Hesselin, Picardie]</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>object</dc:type>
+                    <dc:type>physical object</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>2</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b113384411.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b113384411</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b113384411.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b113384411.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b113384411.thumbnail</thumbnail>
+                <typedoc>objets</typedoc>
+                <uri>btv1b113384411</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Treslon-Cauchon, Louis (1602-1662). Autorité émettrice de monnaie</dc:creator>
+                    <dc:date>1630</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : MonnJet</dc:description>
+                    <dc:format>1 jeton</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 2</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b11338440k</dc:identifier>
+                    <dc:language>lat</dc:language>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb44977552b</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Monnaies, médailles et antiques, JEF-910 (JET-918)</dc:source>
+                    <dc:subject>Jetons</dc:subject>
+                    <dc:subject>Picardie (France)</dc:subject>
+                    <dc:subject>France -- Régions</dc:subject>
+                    <dc:title>[Jeton : Série des familles, Hesselin, Picardie]</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>object</dc:type>
+                    <dc:type>physical object</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>3</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b11338440k.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b11338440k</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b11338440k.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b11338440k.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b11338440k.thumbnail</thumbnail>
+                <typedoc>objets</typedoc>
+                <uri>btv1b11338440k</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Treslon-Cauchon, Louis (1602-1662). Autorité émettrice de monnaie</dc:creator>
+                    <dc:date>1630</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : MonnJet</dc:description>
+                    <dc:format>1 jeton</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 2</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b11338444c</dc:identifier>
+                    <dc:language>lat</dc:language>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb44977556q</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Monnaies, médailles et antiques, JEF-914 (JET-922)</dc:source>
+                    <dc:subject>Jetons</dc:subject>
+                    <dc:subject>Picardie (France)</dc:subject>
+                    <dc:subject>France -- Régions</dc:subject>
+                    <dc:title>[Jeton : Série des familles, Hesselin, Picardie]</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>object</dc:type>
+                    <dc:type>physical object</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>4</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b11338444c.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b11338444c</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b11338444c.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b11338444c.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b11338444c.thumbnail</thumbnail>
+                <typedoc>objets</typedoc>
+                <uri>btv1b11338444c</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Treslon-Cauchon, Louis (1602-1662). Autorité émettrice de monnaie</dc:creator>
+                    <dc:date>13..-19..</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : MonnJet</dc:description>
+                    <dc:format>1 jeton</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 2</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b11338438r</dc:identifier>
+                    <dc:language>lat</dc:language>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb44977550n</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Monnaies, médailles et antiques, JEF-908 (JET-916)</dc:source>
+                    <dc:subject>Jetons</dc:subject>
+                    <dc:subject>France -- Régions</dc:subject>
+                    <dc:title>[Jeton : Série des familles, Hesselin]</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>object</dc:type>
+                    <dc:type>physical object</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>5</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b11338438r.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b11338438r</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b11338438r.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b11338438r.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b11338438r.thumbnail</thumbnail>
+                <typedoc>objets</typedoc>
+                <uri>btv1b11338438r</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Treslon-Cauchon, Louis (1602-1662). Autorité émettrice de monnaie</dc:creator>
+                    <dc:date>1630</dc:date>
+                    <dc:description>Ancien possesseur : Rouyer, Jules (1820-1898). Ancien possesseur</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : MonnJet</dc:description>
+                    <dc:format>1 jeton</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 2</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b113384396</dc:identifier>
+                    <dc:language>lat</dc:language>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb449775510</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Monnaies, médailles et antiques, Rouyer.3066</dc:source>
+                    <dc:subject>Jetons</dc:subject>
+                    <dc:subject>Picardie (France)</dc:subject>
+                    <dc:subject>France -- Régions</dc:subject>
+                    <dc:title>[Jeton : Série des familles, Hesselin, Picardie]</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>object</dc:type>
+                    <dc:type>physical object</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>6</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b113384396.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b113384396</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b113384396.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b113384396.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b113384396.thumbnail</thumbnail>
+                <typedoc>objets</typedoc>
+                <uri>btv1b113384396</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1656</dc:date>
+                    <dc:format>In-4°. Pièce</dc:format>
+                    <dc:format>Nombre total de vues : 20</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k1521697m</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:language>français</dc:language>
+                    <dc:publisher> (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb33578759m</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Réserve des livres rares, RES-YF-2391</dc:source>
+                    <dc:title>Relation de ce qui s'est passé à l'arrivée de la reine Christine de Suède, à Essaune en la maison de M. Hesselin, ensemble la description particulière du ballet qui y a esté dansé le 6 Septembre 1656, et un panégyrique latin sur l'entrée de cette princesse à Paris. Avec l'explication en françois</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>7</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k1521697m.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k1521697m</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k1521697m.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k1521697m.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k1521697m.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k1521697m</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Treslon-Cauchon, Louis (1602-1662). Autorité émettrice de monnaie</dc:creator>
+                    <dc:date>1630</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : MonnJet</dc:description>
+                    <dc:format>1 jeton</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 2</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b11338442g</dc:identifier>
+                    <dc:language>lat</dc:language>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb449775541</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Monnaies, médailles et antiques, JEF-912 (JET-920)</dc:source>
+                    <dc:subject>Jetons</dc:subject>
+                    <dc:subject>Picardie (France)</dc:subject>
+                    <dc:subject>France -- Régions</dc:subject>
+                    <dc:title>[Jeton : Série des familles, Hesselin, Picardie]</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>object</dc:type>
+                    <dc:type>physical object</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>8</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b11338442g.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b11338442g</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b11338442g.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b11338442g.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b11338442g.thumbnail</thumbnail>
+                <typedoc>objets</typedoc>
+                <uri>btv1b11338442g</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Treslon-Cauchon, Louis (1602-1662). Autorité émettrice de monnaie</dc:creator>
+                    <dc:date>1630</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : MonnJet</dc:description>
+                    <dc:format>1 jeton</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 2</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b113384379</dc:identifier>
+                    <dc:language>lat</dc:language>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb44977549f</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Monnaies, médailles et antiques, JEF-907 (JET-915)</dc:source>
+                    <dc:subject>Jetons</dc:subject>
+                    <dc:subject>Picardie (France)</dc:subject>
+                    <dc:subject>France -- Régions</dc:subject>
+                    <dc:title>[Jeton : Série des familles, Hesselin, Picardie]</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>object</dc:type>
+                    <dc:type>physical object</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>9</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b113384379.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b113384379</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b113384379.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b113384379.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b113384379.thumbnail</thumbnail>
+                <typedoc>objets</typedoc>
+                <uri>btv1b113384379</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Treslon-Cauchon, Louis (1602-1662). Autorité émettrice de monnaie</dc:creator>
+                    <dc:date>1634</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : MonnJet</dc:description>
+                    <dc:format>1 jeton</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 2</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b11338443x</dc:identifier>
+                    <dc:language>lat</dc:language>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb44977555c</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Monnaies, médailles et antiques, JEF-913 (JET-921)</dc:source>
+                    <dc:subject>Jetons</dc:subject>
+                    <dc:subject>Picardie (France)</dc:subject>
+                    <dc:subject>France -- Régions</dc:subject>
+                    <dc:title>[Jeton : Série des familles, Hesselin, Picardie]</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>object</dc:type>
+                    <dc:type>physical object</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>10</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b11338443x.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b11338443x</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b11338443x.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b11338443x.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b11338443x.thumbnail</thumbnail>
+                <typedoc>objets</typedoc>
+                <uri>btv1b11338443x</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Treslon-Cauchon, Louis (1602-1662). Autorité émettrice de monnaie</dc:creator>
+                    <dc:date>13..-19..</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : MonnJet</dc:description>
+                    <dc:format>1 jeton</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 2</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b11338436v</dc:identifier>
+                    <dc:language>lat</dc:language>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb449775483</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Monnaies, médailles et antiques, JEF-906 (JET-914)</dc:source>
+                    <dc:subject>Jetons</dc:subject>
+                    <dc:subject>Picardie (France)</dc:subject>
+                    <dc:subject>France -- Régions</dc:subject>
+                    <dc:title>[Jeton : Série des familles, Hesselin, Picardie]</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>object</dc:type>
+                    <dc:type>physical object</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>11</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b11338436v.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b11338436v</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b11338436v.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b11338436v.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b11338436v.thumbnail</thumbnail>
+                <typedoc>objets</typedoc>
+                <uri>btv1b11338436v</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>La Mare, Nicolas de (1639-1723). Producteur d'un fonds d'archives</dc:creator>
+                    <dc:date>1501-1800</dc:date>
+                    <dc:description>Contient : Luxe : Lettre de Joly de Fleury et réponse de Le Clerc Du Brillet ; Habillements (1368-1678) ; Permission accordée en 1563 à Me Paris Hesselin, maître des comptes, de porter soie sur soie ; Diamants, pierres précieuses ; Ouvrages d'or et d'argent (1690-1720) ; Ameublements (1679-1708) ; Luxe des carrosses (1646-1711) ; Orfèvres, procès-verbaux de visites chez les orfèvres de la Cité (1687, 1689 et 1700) : lettres de La Reynie et Delamare</dc:description>
+                    <dc:description>Numérisation effectuée à partir d'un document de substitution.</dc:description>
+                    <dc:format>262 feuillets</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b9063622j</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:relation>Notice du catalogue : http://archivesetmanuscrits.bnf.fr/ark:/12148/cc57393q/cd0e8014</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France. Département des Manuscrits. Français 21626</dc:source>
+                    <dc:subject>Administration.</dc:subject>
+                    <dc:subject>Recueils et mélanges : Ancien Régime.</dc:subject>
+                    <dc:subject>Ameublements, 1679-1708.</dc:subject>
+                    <dc:subject>Carrosses.</dc:subject>
+                    <dc:subject>Costume.</dc:subject>
+                    <dc:subject>Delamare, Nicolas.</dc:subject>
+                    <dc:subject>Collection sur l'administration et la police.</dc:subject>
+                    <dc:subject>Delamare, Nicolas.</dc:subject>
+                    <dc:subject>Lettres.</dc:subject>
+                    <dc:subject>Hesselin, Paris.</dc:subject>
+                    <dc:subject>Joly de Fleury, Guillaume-François, procureur général au Parlement de Paris.</dc:subject>
+                    <dc:subject>Lettres.</dc:subject>
+                    <dc:subject>Joyaux.</dc:subject>
+                    <dc:subject>La Reynie, Nicolas-Gabriel de.</dc:subject>
+                    <dc:subject>Lettres.</dc:subject>
+                    <dc:subject>Lecler du Brillet, A., procureur du roi à l'Amirauté.</dc:subject>
+                    <dc:subject>Lettres.</dc:subject>
+                    <dc:subject>Luxe.</dc:subject>
+                    <dc:subject>Meubles.</dc:subject>
+                    <dc:subject>Ameublements (1679-1708).</dc:subject>
+                    <dc:subject>Orfèvrerie.</dc:subject>
+                    <dc:subject>Notes et pièces diverses.</dc:subject>
+                    <dc:subject>Paris. Administration et institutions.</dc:subject>
+                    <dc:subject>Police, collection Delamare.</dc:subject>
+                    <dc:subject>Paris. Métiers.</dc:subject>
+                    <dc:subject>Orfèvres.</dc:subject>
+                    <dc:subject>Police.</dc:subject>
+                    <dc:subject>Delamare.</dc:subject>
+                    <dc:title>Collection formée par Nicolas DELAMARE sur l'administration et la police de Paris et de la France. LXXXII-LXXXIII Luxe. LXXXII.</dc:title>
+                    <dc:type>manuscript</dc:type>
+                    <dc:type>manuscrit</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>12</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b9063622j.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b9063622j</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b9063622j.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b9063622j.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b9063622j.thumbnail</thumbnail>
+                <typedoc>manuscrits</typedoc>
+                <uri>btv1b9063622j</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>L'Escalopier, Nicolas (16..-1666). Auteur du texte</dc:creator>
+                    <dc:date>1656</dc:date>
+                    <dc:description>Ballet</dc:description>
+                    <dc:format>13 p. ; in-fol.</dc:format>
+                    <dc:format>Nombre total de vues : 16</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k15182106</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>par R. Ballard (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb362967312</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Arsenal, FOL-BL-831 (9)</dc:source>
+                    <dc:subject>France (1643-1715, Louis XIV)</dc:subject>
+                    <dc:title>Relation de ce qui s'est passé à l'arrivée de la reine Christine de Suède, à Essaune en la maison de Monsieur Hesselin . Ensemble la description particulière du ballet qui y a esté dansé, le sixiesme septembre 1656.</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>13</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k15182106.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k15182106</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k15182106.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k15182106.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k15182106.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k15182106</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Philidor, André (1652?-1730). Éditeur scientifique</dc:contributor>
+                    <dc:contributor>Benserade, Isaac de (1613-1691). Auteur du texte</dc:contributor>
+                    <dc:creator>L'Escalopier, Nicolas (16..-1666). Auteur du texte</dc:creator>
+                    <dc:creator>Benserade, Isaac de (1613-1691). Auteur du texte</dc:creator>
+                    <dc:creator>Buti, Francesco (1604-1682). Auteur du texte</dc:creator>
+                    <dc:date>1705</dc:date>
+                    <dc:description>Comprend : Sur l'Entrée // de la Reine de Suede // Christine // a Paris // Par Monsieur Lescalopier, // Conseiller Aumonier &amp; // Predicateur ordinaire du // Roy. // Recueilli par Philidor l'Aîné // ordinaire de la musique du Roy // et garde de sa bibliotecque de // Musique l'an 1705 ; Ballet // de Psyché // ou de la Puissance // de l'Amour. // Dansé par sa Majesté le 16. // jour de janvier 1656. // Recueilli par Philidor l'Aîné // ordinaire de la musique du Roy et // garde de sa Bibliothecque de Musique // l'an 1705 ; Amour malade // Ballet // du Roy // Dansé par sa Majesté, le 17 jour // de Janvier 1657. // Recueilli par Philidor l'aîné // ordinaire de la musique du Roy, // et garde de sa Bibliothecque de // Musique l'an 1705</dc:description>
+                    <dc:description>Titre restitué d'après la table. - Contient aussi : "Sur l'Entrée de la Reine de Suede Christine a Paris Par Monsieur Lescalopier, Conseiller Aumonier &amp; Predicateur ordinaire du Roy". - Ne contient que les textes (en français et latin) et les livrets. - Nombreux noms d'interprètes mentionnés. - Aux f. 1-2, table. - Reliure de veau brun ; au dos, pièces de titre de maroquin rouge portant : "Anciens ballets" et "To. IV // 1656". - Bien que coté à la suite de la Collection Philidor, ce volume n'appartient pas à cette collection telle que l'abbé Roze l'a décrite</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : Philidor0</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : RISM2</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : RISMMss</dc:description>
+                    <dc:format>[2] f.-204 p. ; 39 x 26,5 cm</dc:format>
+                    <dc:format>Nombre total de vues : 196</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k103683r</dc:identifier>
+                    <dc:identifier>NUMM-103683</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:language>lat</dc:language>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb39758790h</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, RES-F-535</dc:source>
+                    <dc:title>[Ballet Relation de ce qui c'est passé a l'arrivée de la Reine Christine de Suede A Essaune en la maison de Monsieur Hesselin avec un Panegyrique Latin sur l'entrée de cette Princesse. A Paris l'an 1656. Ballet de Psyché ou de la Puissance de l'Amour dansé par sa Majesté l'an 1656 / [texte d'Isaac de Benserade]. Ballet de l'Amour Malade dansé par sa Majesté l'an 1657 / [textes de Francesco Buti et d'Isaac de Benserade]]</dc:title>
+                    <dc:type>manuscript</dc:type>
+                    <dc:type>manuscrit</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>14</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k103683r.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k103683r</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k103683r.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k103683r.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k103683r.thumbnail</thumbnail>
+                <typedoc>manuscrits</typedoc>
+                <uri>bpt6k103683r</uri>
+            </srw:extraRecordData>
+        </srw:record>
+    </srw:records>
+    <srw:nextRecordPosition>16</srw:nextRecordPosition>
+</srw:searchRetrieveResponse>

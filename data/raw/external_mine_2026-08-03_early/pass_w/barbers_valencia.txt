@@ -1,0 +1,1526 @@
+                                                        ANUARIO DE ESTUDIOS MEDIEVALES (AEM)
+                                                                       41/1, enero-junio de 2011
+                                                                                       pp. 31-57
+                                                                                ISSN 0066-5061
+
+
+
+ELS BARBERS DE LA CIUTAT DE VALÈNCIA DURANT EL SEGLE XV
+      A TRAVÉS DELS LLIBRES DEL JUSTÍCIA CRIMINAL1
+
+  THE BARBERS OF THE CITY OF VALENCIA DURING THE 15TH CENTURY
+            THROUGH THE BOOKS OF CRIMINAL JUSTICE
+
+                                                                            CARMEL FERRAGUD
+                                                             Universitat Miguel Hernández d’Elx
+
+                                                                  “o si ta afaytes
+                                                                  [podràs] ser bon barber,
+                                                                  cantant cançons
+                                                                  ballant als sons
+                                                                  de les tisores
+                                                                  tots jorns dos hores
+                                                                  prou guanyaràs”
+
+                                                                  Jaume Roig, Espill, vv. 884-891
+
+Resum: Durant el segle XV, la ciutat de Va-                Abstract: During the 15th century, the
+lència augmentà considerablement la seua                   city of Valencia increased considerably in
+població gràcies a una forta immigració.                   population thanks to a strong immigration.
+Les oportunitats que oferia la capital del                 The opportunities that the capital of the
+regne eren innombrables i molts practicants                kingdom offered were numberless and
+de la medicina veieren un mercat que podia                 many medical assistants saw a market
+satisfer els seus interessos, en un temps on               that could satisfy their interests, in a time
+la medicina i els seus practicants eren con-               where medicine and its practitioners were
+siderats imprescindibles. Al mateix temps,                 considered indispensable. At the same
+la formació com a barber degué convertir-                  time, the training as a barber must have
+se en un al·licient i via per a la integració              become an incentive and a way for the
+social. Tanmateix, l’augment permanent de                  social integration. However, the permanent
+barbers va dificultar la seua integració en                increase of barbers caused difficulties in
+el mercat laboral i això es traduí en odis i               integrating themselves in the labour market.
+enfrontaments amb una base econòmica i                     That turned into hatred and confrontations
+professional, per tal d’aconseguir guanyar                 with the economical and professional bases,
+un lloc en el competitiu mercat urbà. Un                   in order to obtain a place in the competitive
+escenari on la salut i la malaltia havien es-              urban market. A stage where health and
+devingut una mercaderia més, i la medici-                  illness had become a merchandise, and
+na una bona forma de guanyar-se la vida i                  medicine a good way of earning a living and
+promocionarse socialment.                                  promoting oneself socially.
+Paraules clau: barber; barberia; cirurgia;                 Keywords: barber; barber workshop; surgery;
+violència; ferida; dessospitació; bandosi-                 violence; injure; dessospitació (medical
+tats; cort de justícia.                                    injures examination); factions; court.
+    1
+      Aquest article s’emmarca dins el projecte de recerca finançat pel Ministeri de Ciència i Innovació
+“Sciència.cat: cap a un corpus digital de la ciència i de la tècnica en català en el context romànic durant
+l’Edat Mitjana i el Renaixement” (FFI 2008-02163/FISO, 2009-2011); i en el grup de recerca consolidat per
+la Generalitat de Catalunya 2009 SGR 1452 “La Corona catalanoaragonesa, l’Islam i el món mediterrani”.
+    Abreviatures utilitzades: ACA = Arxiu de la Corona d’Aragó; ARV = Arxiu del Regne de
+València; C = Cancelleria reial; JC = Justícia Criminal.
+32                                      CARMEL FERRAGUD
+
+                                                  SUMARI
+Introducció.- 1. Una organització primerenca, de la caritat a la professió.- 2. Un col·lectiu cada
+vegada més nombrós.- 3. Difícil accés al mercat matrimonial.- 4. Els espais de la pràctica de la
+barberia.- 5. Una activitat mèdica emergent en un microunivers de violència.- 6. Cercant un lloc
+en la societat, per força: enfrontaments i bandositats.- 7. Conclusions.
+
+
+                                             INTRODUCCIÓ
+
+           Fa vint-i-dos anys, Luis García Ballester i Michael McVaugh publicaven
+un article sobre els barbers de València, en el qual ambdós magnífics historiadors
+de la medicina anunciaven el que després constatarien posteriors estudis: el barber
+esdevingué durant la baixa Edat Mitjana la cèl·lula bàsica i primària de l’organització
+sanitària –ja bastant complexa a inicis dels anys 30 del segle XIV–, l’autèntic
+paraigua sanitari de la societat valenciana (i podríem afegir, que de la societat
+catalanoaragonesa i Occidental en general).2 Es tractava del col·lectiu de practicants
+de la medicina més nombrós, el més visible arreu de la geografia de la Corona, això
+sí, amb proporcions variables segons les ciutats i àrees estudiades. En el cas concret
+de la ciutat de València, però també dels municipis de la resta del regne, fou amb
+diferència el grup més nombrós entre els guaridors, segons les dades aportades pels
+mateixos historiadors. La presència del barber amb funcions mèdico-quirúrgiques, i
+per descomptat les higièniques que ja practicava convencionalment, és una realitat en
+tot nucli urbà baixmedieval valencià en el primer terç del segle XIV.3
+           Amb tot, les fonts immenses que custodien els arxius valencians han
+continuat proporcionant-nos dades precises sobre els barbers. Especialment em
+vull referir a la magnífica aportació de dades al respecte que ha suposat el buidatge
+dels Llibres de cedes (o cèdules, notificacions) de la sèrie del Justícia Criminal de
+València, conservats a l’Arxiu del Regne de València.4 És aquesta una font que vaig
+utilitzar anteriorment però a partir dels testimonis aportats durant el desenvolupament
+dels processos, que ja resultà ser una via fecunda per a tractar la història social i la
+pràctica de la medicina. La presència abundant de barbers entre els seus folis crida
+l’atenció poderosament, però mereix tractar-se amb cautela. En cas contrari podríem
+incórrer en postures esbiaixades. Així, doncs, són aquests Llibres de cedes els que
+
+    2
+      Luis GARCIA BALLESTER i Michael R. MCVAUGH, Nota sobre el control de la actividad médica
+y quirúrgica de los barberos (barbers, barbitonsorcs) en los Furs de Valencia de 1329, in Homenaje
+al doctor Sebastià Garcia Martínez, València, 1988, pp. 73-88. A aquest treball seguiren, ja per
+separat, nous articles i, sobretot, monografies on s’encabien aquests practicants de la medicina en el
+context social i professional on estaven inserits. Vegeu Lluís GARCIA BALLESTER, La medicina a la
+València medieval. Medicina i societat en un país medieval mediterrani, València, 1989, pp. 57-62.
+Michael R. MCVAUGH, Medicine before the plague. Practitioners and their patients in the Crown
+of Aragon, 1285-1345, Cambridge, 1993, pp. 123-127, amb moltes altres referències disperses en el
+llibre.
+    3
+      Els autors indiquen que els barbers serien vers 1330 un terç del total, i la meitat de la totalitat dels
+practicants si es descompten els apotecaris. Sobre els primers practicants de la medicina en la ciutat
+i regne de València, i concretament per als primers barbers, vegeu Carmel FERRAGUD, Medicina per
+a un nou regne. Els practicants de la medicina en el naixement del regne de València, Alzira, 2008,
+pp. 77-86.
+    4
+      Sobre el justícia criminal, el funcionament d’aquesta cort i la naturalesa de la font, vegeu Rafael
+NARBONA, El Justicia Criminal. Una corte medieval valenciana, un procedimiento judicial, “Estudis
+Castellonencs”, 3 (1986), pp. 287-310 i Pablo PÉREZ, La comparsa de los malhechores. Valencia
+1479-1518, València, 1990.
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 41/1, enero-junio 2011, pp. 31-57. ISSN 0066-5061
+         ELS BARBERS DE LA CIUTAT DE VALÈNCIA DURANT EL SEGLE XV                                    33
+
+constitueixen la font bàsica en la qual se sosté aquest estudi, si bé no deixaré a banda
+la incorporació d’algunes dades procedents d’altres fonts, i en el seu moment tractaré
+de situar-les i interpretar-les convenientment.
+           Reprenc en aquest estudi, per tant, alguns dels aspectes ja estudiats sobre
+els barbers i la seua pràctica, i sobre els que jo mateix ja m’he referit en altres
+llocs. Tanmateix, incidiré especialment en alguns trets derivats del seu particular
+comportament social com a grup, el seu nombre, així com les perspectives de la seua
+atenció mèdica fins ara menys coneguts i estudiats. Valga aquest estudi per continuar
+aprofundint en el coneixement d’un col·lectiu tan fonamental pel pes que tingué en
+la pràctica de la medicina a l’Edat Mitjana com són els barbers, i a la vegada com a
+reconeixement a ambdós mestres de la història de la medicina abans esmentats.
+
+          1. UNA ORGANIZACIÓ PRIMERENCA, DE LA CARITAT A LA PROFESSIÓ
+            Els barbers foren un dels primers 15 oficis organitzats a València en forma
+de confraria o almoina durant l’any 1283. Per aquell temps, ja trobem als escassos
+protocols notarials conservats el nom de cinc barbers, i el seu nombre no deixarà de
+créixer incessantment, constituint-se així en un dels trets distintius de la ciutat i regne
+de València, açò és, la gran proporció de barbers enfront de la resta dels practicants
+de la medicina. Encara que Jaume II suprimiria aquesta corporació, juntament amb
+altres, l’almoina dels barbers fou refundada en 1311 pel mateix monarca, dotant-la de
+finalitats religioses i beneficoassistencials.5
+            Símptoma evident de la força i la presència social dels barbers des de ben
+aviat fou la seua incorporació al Consell municipal. Arran de la data ja citada de
+1283, el Consell municipal de València es va organitzar entorn als consellers de
+parròquies de ciutadans, peça determinant en el control del govern del municipi, ja
+que foren els que gràcies a la maquinària electoral podien determinar la provisió de
+llocs de govern, especialment els jurats. Aquesta mateixa reforma va regular també
+els oficis que formarien part de la corporació. Aquells 15 oficis organitzats, entre
+els quals figuraven els barbers, havien de triar quatre representants que s’integrarien
+al Consell.6 Durant aquest període, 81 barbers exerciren de consellers, una o més
+vegades. Alguns com els Gençor, nissaga de barbers de la primera meitat del XIV,
+ostentaren 24 conselleries entre cinc membres de la família. Aquestes dades ens
+mostren la importància sociopolítica dels barbers en la ciutat de València ben aviat.
+Contràriament, en altres ciutats, com ara Barcelona, els barbers tardarien bastant en
+incorporar-se al Consell de Cent.
+            Durant les primeres dècades del segle XIV els barbers consolidaren la seua
+dedicació a l’activitat mèdica, o més aviat convindria dir quirúrgica. Tant és així, que
+Alfons el Benigne hagué de regular mitjançant els Furs de 1329 alguns aspectes tècnics
+relatius a la pràctica mèdica en la qual s’incloïa explícitament als barbers. A aquests se’ls
+
+    5
+      Haig d’advertir que anteriorment he datat erròniament aquest document, ja que l’any correcte
+és 1311. Carmel FERRAGUD, Medicina i promoció social a la Baixa Edat Mitjana. Corona d’Ara-
+gó 1348-1410, Madrid, pp. 178-180, on he reconstruït l’evolució d’aquesta almoina cap a “art” en
+el segle XV. La transcripció, també amb l’errada de datació, en L. GARCIA BALLESTER i M. R.
+MCVAUGH, Medicine before the plague, Apèndix 1. La continuació evolutiva de l’almoina durant tot
+el segle XV, amb la seua transformació definitiva com a element regulat des del col·legi de cirurgians,
+la creació d’una escola de cirurgia i una facultat pròpia, vegeu Mercè GALLENT, El gremi de cirurgi-
+ans de València: procés de constitució (1310-1499), “Afers”, 1 (1985), pp. 249-269.
+    6
+      Per a la presència dels barbers en el Consell municipal durant el segle XIV i les primeries del
+XV, vegeu C. FERRAGUD, Medicina i promoció, pp. 498-500 i el Quadre 34 (V).
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 41/1, enero-junio 2011, pp. 31-57. ISSN 0066-5061
+34                                     CARMEL FERRAGUD
+
+exigia, com a físics i cirurgians, passar per un procés d’examinació que garantís la seua
+competència. La flebotomia, una de les activitats més habituals en el repertori terapèutic
+dels barbers, hagué de ser una de les accions més vigilades, després de la preocupació
+manifestada en 1333 per Alfons el Benigne a les autoritats de València dels problemes
+esdevinguts pels desconeixedors de la forma i, especialment el temps adequat, en què
+s’havia de practicar la sagnia terapèutica.7 La sensibilitat de la monarquia en el tema de
+la salut i la seua utilitat era ja suficientment elevada com per a què no s’establiren uns
+mecanismes adequats que preservaren els seus súbdits d’una mala praxi.
+            En 1392, l’elemosina barbitunsorum Valentie rebé altra vegada confirmació
+i noves regulacions per banda de Joan I, a petició dels majorals representants de la
+benemèrita institució. Quedava ben clar al preàmbul del document que es tractava
+encara d’una organització de caire religiós:
+            Et nunc ad Dei laudem et corone nostre servicium ac animarum vestrarum
+            etiam salvamentum, considerato per vos quod ab adolescentia est parva
+            et labilis vita hominis ex sui fragilitate et alia ad peccandum et fidelibus
+            christianis paravit creatoris clemencia opera caritatis et misteria divina
+            per que eorum valeant et eam delere et ad paradisum ex ispsis caritatis
+            operibus pervenire.
+
+           Era així com els barbers podrien realitzar les obres de misericòrdia del
+gust del creador, per porgar els seus pecats i redimir les seues ànimes. I és així,
+efectivament, com les clàusules posaven de manifest que l’almoina no regulava en
+absolut cap aspecte tocant a la tasca professional dels barbers, almenys explícitament.
+Les qüestions que quedaren regulades aquell final de segle foren les següents: a. El
+nombre de majorals escollits anualment s’incrementaria en dos més, símptoma del
+creixement del nombre d’afiliats; b. Aquests podrien convocar els barbers membres “en
+algun loch honest” per tal de “parlar e rahonar de aquelles coses les quals necessàries
+seran e pertanyeran justament, rahonable e honesta a aquesta almoyna, e fer qualsevol
+provisions e ordinacions, axí de paraula com per scrit, justes emperò e honestes”;8
+c. Aquestes reunions s’haurien de fer “a conexença, consentiment e ab ferma del
+portantveus de governador del regne de València o de son lochtinent”; d. L’almoina
+tindria els símbols propis que decidiren (draps, ciris, llits per als difunts), fonamentals
+per distingir-se de la resta en processons, desfilades i altres esdeveniments públics;
+e. Es limitava el nombre d’integrants a 100 barbers, detall que ens fa pensar en el
+nombre elevat que estava assolint el col·lectiu i, possiblement, la dada siga indicativa
+sobre la necessitat o previsió de limitar-lo; f. Els confrares acudirien a les noces dels
+membres o dels seus fills, amb una pena de dues lliures d’oli si no ho feien. Igualment,
+
+    7
+      Transcripció en L. GARCIA BALLESTER i M. R. MCVAUGH, Medicine before the plague, Apèndix
+2. Sobre la importància de la sagnia i el context mèdic en el que cal entendre-la, així com les habilitats
+necessàries per als seus practicants, vegeu Pedro GIL SOTRES, Los evacuantes particulares: vento-
+sas, escarificaciones, sanguijuelas y cauterios en la terapéutica medieval, “Medicina e historia”, 34
+(1990), pp. 1-28. IDEM, Derivation and revulsion: the theory and practice of medieval phlebotomy,
+in Practical medicine from Salerno to the Black Death (L. GARCIA-BALLESTER, R. FRENCH, J. ARRI-
+ZABALAGA i A. CUNNINGHAM, eds.), Cambridge, 1994, pp. 110-155.
+    8
+      Efectivament, l’almoina no tenia una seu pròpia per tal de fer les seues reunions. Val a dir que
+l’elecció de la capella de Santa Maria de la Mercè és comuna al cas dels barbers mallorquins. En una
+reunió de 1416, de la qual parlarem tot seguit, els barbers passegen pel claustre mentre esperen a la
+resta de companys. Aquest era el seu lloc habitual per trobar-se des de feia molt de temps. El caràcter
+religiós de l’almoina suggereix que aquests espais consagrats foren els escollits, per bé que, conei-
+xent els costums d’aquells barbers –clients assidus de tavernes i bordells– la seua elecció hagués estat
+una altra molt més “entretinguda”.
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 41/1, enero-junio 2011, pp. 31-57. ISSN 0066-5061
+         ELS BARBERS DE LA CIUTAT DE VALÈNCIA DURANT EL SEGLE XV                                  35
+
+haurien d’assistir als sepelis dels barbers o dels seus familiars. Això sí, seguint un
+rigor estricte que els obligava a no abandonar la cerimònia fins rebre consentiment
+dels majorals. Haurien d’anar abillats amb un vestit blau i, cas que els familiars no
+portaren capiró que garantís un dol suficientment lluït (“condigna honor exhibir e
+donar a aquella sepultura”), haurien de ser 10 els barbers que s’encapironaren amb
+aquesta missió; g. Els majorals ordenarien una col·lecta quan fóra necessària “per
+sustentació d’una làntea la qual crema contínuament davant l’altar de la capella de la
+benaventurada Santa Maria de la Mercè de València”, com també per altres obres de
+caritat o qüestions diverses; h. L’almoina disposaria d’un missatger o “andador” per
+avisar tots els confrares de les reunions i actes oportuns d’obligat compliment; i. Per
+últim, l’almoina podria disposar d’un petit arxiu (“caxa”) on conservar totes les cartes i
+privilegis que els foren atorgats, així com per conservar els fons dels quals disposava.9
+           Les circumstàncies en la pràctica i regulació de l’almoina i la seua transició
+envers la regulació professional mèdica canviarien progressivament conforme avançava
+el segle XV. En 1416, el procurador fiscal del rei acusava els majorals, consellers i escrivà
+de l’Art i Ofici dels Barbers de la ciutat, d’haver-se reunit a l’església de Sant Domènec
+o Santa Maria de la Mercè sense haver demanat llicència. En aquella ocasió, els barbers
+ja donaren mostra d’una actitud que veurem freqüentment durant aquest segle XV: els
+enfrontaments personals entre els membres de l’ofici.10 Vicent Guàrdia, notari procurador
+dels barbers, recordà que ja es reunien a la Mercè des de feia molt de temps “per tractar
+e parlar de lur offici, e sobre lurs ordinacions, les quals han necessàries en llur offici per
+saber lo compte de la luna, o per les sagnies que els cové a fer entre l’any, per los dies
+canicolars, e los que són abciachs, e per lo ple e contorn de la luna, e altres semblants
+coses”. I és que entre 1392 i 1416 l’almoina havia passat de mer “ofici” a “art”, tot
+assumint així competències tècniques molt evidents.11 També, en 1418, una sentència de
+Joan de Navarra, lloctinent del regne, confirmaria els seus privilegis i, segurament pel
+malentés produït dos anys abans, se’ls permetria la reunió sense haver de demanar cap
+permís al representant del rei.
+           Un punt d’inflexió força significatiu arribà en 1433. Aquell any, els majorals
+demanaren una reforma per al col·legi en què s’havia convertit l’art dels barbers.
+Els 12 capítols sol·licitats i aprovats regulaven aspectes religiosos, però, sobretot,
+els de caire professional. Així, es controlava el procés d’aprenentatge (cinc o sis
+anys d’afermament amb un mestre, amb la possibilitat d’allargar-se si es considerava
+convenient), l’obligatorietat de fer un examen amb els quatre majorals de l’art de
+cirurgia com a tribunal; també es regulaven mesures per a evitar abusos, infraccions i
+la competència, com també l’obertura i tancament d’obradors; l’exigència de practicar
+bons costums, evitant el joc, la relació amb prostitutes, etc.12
+           Després d’algunes reformes en l’articulat del col·legi propiciades en 1451, en
+1458 s’esdevindria, en temps d’Alfons el Magnànim, que els majorals Joan Ferrando,
+Miquel Llopis, Bartomeu Vida i Bernat Guerau, considerats barbers-cirurgians,
+demanarien la lliure reunió per tractar els seus assumptes sense haver de demanar
+llicència, apel·lant als privilegis anteriors i també amb l’aportació testimonial de nou
+barbers-cirurgians, símptoma inequívoc del signe professional i la categoria que havia
+
+   9
+     ACA, C, reg. 1904, ff. 200r-20 v (20-12-1392).
+   10
+      C. FERRAGUD, Medicina i promoció, pp. 182-183.
+   11
+      Durant el segle XV, especialment durant la segona meitat, les confraries de barbers estaven ex-
+perimentant transformacions semblants a tota la Corona d’Aragó. Vegeu Antonio CONTRERAS MAS,
+La formación profesional de los cirujanos y barberos en Mallorca durante los siglos XIV i XV, “Me-
+dicina e Historia”, 43 (1992), pp. 1-18.
+   12
+      M. GALLENT, El gremi de cirurgians, p. 259.
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 41/1, enero-junio 2011, pp. 31-57. ISSN 0066-5061
+36                                     CARMEL FERRAGUD
+
+pres ja la barberia a València.13 Possiblement, conflictes recents, com l’assalt a la
+moreria de 1455, obligaven altra vegada les autoritats a voler controlar les reunions
+en les que participaven els oficis, i això havia suscitat noves reaccions dels barbers.
+            El 28 de maig de 1462, els barbers-cirurgians feren un pas definitiu en la seua
+consolidació com a professió mèdica de prestigi. Aquell dia demanaren al Consell una
+reglamentació dels estudis de cirurgia, conscients de la importància d’assolir una formació
+lletrada que mancava a molts. Allò culminà amb la provisió d’un lector de cirurgia que
+cobraria 15 lliures anuals, i que fou mantinguda per Lluís Dalmau en primer lloc. El suport
+donat a aquella iniciativa per individus de prestigi com Lluís Alcanyís i Pere Pintor fou
+definitiva per consolidar els estudis de cirurgia.14 Aquell procés tingué una culminació
+en 1478 quan, a petició dels barbers i per recomanació del Consell municipal, Joan II
+concedia un privilegi que fou clau en el procés d’ascens social i científic dels barbers-
+cirurgians i que desembocarà en la incorporació dels estudis de cirurgia a l’Estudi General.
+Molts barbers eren conscients de l’honor i la posició que els garantia homologar-se als
+cirurgians (“desigosos de haver major grau de honor”). Finalment, quedava explicitat el
+punt definitiu que ja era palés de feia temps: “los qui usen del dit offici de barber... sien
+declarats, intitulats e nomenats cirurgians, e que sien vists entre les gents arts, no offici”. Al
+mateix temps, es va sol·licitar que el rei autoritzara “donar e liurar als majorals de la dita
+art hun cos de home o dona que sien morts sentenciats cascun any... perquè de aquell se
+puixa fer notomia”. Es feia una alta valoració de la possibilitat de practicar disseccions per
+poder aprendre “vehent los cosos en les parts dedins com estan organizats, e han imposat
+vocables e noms propis a cascú de aquells, dels quals no pot haver vera notícia per la
+llectura, ni per lo que entendre se pot de aquella, tant quan farien los hulls corporals”.15
+            Les posteriors intervencions ja només feren que perfilar millor i regular,
+amb alguns canvis, alguns articles dels seus estatuts que els integrants del gremi
+consideraven que calia modificar. I és que el procés havia estat llarg, els canvis socials,
+polítics i econòmics del segle transcendents i, per tot plegat, calia ajustar-se millor als
+temps que corrien. Per exemple, sol·licitaven en 1481 el ser dispensats de ballar amb
+motiu de la vinguda dels reis. Els barbers que, com veurem, sempre havien mostrat
+aquesta afecció per la dansa i el cant, especialment quan eren mossos, no podien
+consentir ara de mantenir una actitud tan poc adient a la seua nova consideració
+d’artistes, ja per fi consolidada per boca del rei.
+
+
+                      2. UN COL·LECTIU CADA VEGADA MÉS NOMBRÓS
+
+           Durant el segle XV, València es va convertir en la ciutat més important de la
+Corona d’Aragó i en una de les majors de la Mediterrània. Independentment dels debats
+entorn al volum demogràfic real, relacionats sobretot amb la difícil interpretació de les
+escasses fonts amb què comptem, generalment de base fiscal, que s’han traduït en propostes
+més conservadores, a la baixa, o les que donen una població bastant més considerable,
+
+   13
+      La transcripció d’aquests documents en Jaume CASTILLO i Luis Pablo MARTÍNEZ, Els gremis
+medievals en les fonts oficials. El fons de Governació del regne de València en temps d’Alfons el
+Magnànim (1417-1458), València, 1999, Apèndix V i XLI.
+   14
+      L. GARCÍA BALLESTER, La medicina a la València medieval, pp. 57-62.
+   15
+      Luis GARCÍA BALLESTER, El privilegio concedido en 1478 a los cirujanos de Valencia para
+disecar cadáveres, dins III Congreso Nacional de Historia de la Medicina, vol. II, Madrid, 1971, pp.
+73-76. Vegeu transcripció completa a partir de les diferents còpies que es conserven d’aquest impor-
+tant document, a Epistolari de la València Medieval (II), introducció, edició, notes i apèndix a cura
+d’A. RUBIO VELA, València/Barcelona, 1998, doc. 59.
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 41/1, enero-junio 2011, pp. 31-57. ISSN 0066-5061
+         ELS BARBERS DE LA CIUTAT DE VALÈNCIA DURANT EL SEGLE XV                                      37
+
+resulta evident que el creixement de la ciutat fou espectacular, producte, sobretot, d’una
+forta immigració d’origen ben divers. Els cronistes i els viatgers s’admiraven d’aquesta
+circumstància i deixaren constància d’aquella allau humana que els havia sorprés.16
+             Qualsevol ciutat esdevenia en aquell temps el centre d’un hinterland rural
+que exercia una forta influència i es convertia en un fort pol d’atracció. Així, el segle
+d’or va convertir l’urbs valenciana en un espai econòmic força dinàmic i amb una
+creixent expansió demogràfica. Lògicament, en un context de valoració constant de la
+medicina com a eina per assolir el benestar social, indispensable per al funcionament
+de la cosa pública, l’augment de la població anava a portar necessàriament a un
+augment dels guaridors.
+             Un problema evident és intentar una aproximació a la ràtio entre població
+i practicants de la medicina. Aquesta seria una dada que ens permetria veure el grau
+d’assistència, així com la seua qualitat, que rebia la població en un moment donat.
+Si per al segle XIV els estudis exhaustius de les fonts d’arxiu de García Ballester
+i McVaugh, especialment els protocols notarials, ens han proporcionat dades per
+aproximar-nos, no sense gran prudència, al nombre dels practicants de la medicina en
+diverses viles i ciutats d’arreu de la Corona d’Aragó, la multiplicació dels registres
+conservats als arxius per al segle XV impossibilita una tasca semblant, almenys
+en l’actualitat. Si bé aproximacions cada vegada més exhaustives, amb buidatges
+sistemàtics de la documentació, ens podran aportar més dades, ara per ara resulta una
+quimera intentar un càlcul dels practicants de la medicina que hi podia haver en una
+ciutat com València durant el Quatre-cents, especialment perquè no comptem amb
+registres seriats, com ara els fiscals, que ens permeten arribar a algunes consideracions
+més o menys generals, fins l’any 1510. Amb tot, els problemes que es deriven de
+la utilització de fonts diverses, com també les pròpies característiques dels registres
+fiscals, d’on s’exclouen un nombre important d’individus, resulten irresolubles.
+             Així és el cas en els barbers. Les dades recollides per McVaugh, basades
+sobretot en el buidatge de protocols notarials i registres de la Cancelleria, ens mostren
+que a València treballaren entre 1310 i 1329 un total de 63 barbers (i 23 cirurgians),
+sent el 1320 amb 27 barbers (a més de 6 cirurgians), l’any que es registra un major
+nombre d’aquests practicants, just quan la població rondava els 25.000 habitants. Uns
+anys després, en 1345, només en recollí 6 (a més de 7 cirurgians), quan la població
+encara es trobava en creixement.17 Aquest fet només pot ser atribuïble a la manca de
+conservació i, fins i tot, la qualitat informativa de les fonts. En el nostre cas, només els
+tres Llibres de cedes del justícia criminal dels anys 1422, 1435 i 1445 ens aporten un
+total de 57 barbers, per a una població que devia doblar la de feia un segle.18 En canvi,
+la llista fiscal de 1510, elaborada arran de les Corts de Montsó en temps de Ferran el
+Catòlic, ens dóna una xifra de 41 barbers-cirurgians per a un total d’11.560 focs, d’ells
+9.879 intramurs, el que vindrien a ser uns 45.000 habitants. Fet i fet, l’evolució numèrica
+del col·lectiu professional no es correspon en absolut amb el que seria d’esperar pel
+
+   16
+      Una postura amb un còmput molt a la baixa, a Agustín RUBIO VELA, La población de Valencia
+en la Baja Edad Media, “Hispania”, LV/190 (1995), pp. 495-525. Per a 1355-1361 proposa entre
+25.000 i 28.000 habitants; per a 1489 proposa 40.000. Fent una crítica al respecte a partir de la con-
+sideració de fonts diverses, Enrique CRUSELLES, La población en la ciudad de Valencia en los siglos
+XIV y XV, “Revista d’Història Medieval”, 10 (1999), pp. 45-85. Segons aquest, els anteriors càlculs
+són insuficients i caldria aproximar-se a una realitat en torn de 60.000 ànimes com a mínim, a les
+acaballes del segle XV, si no més.
+   17
+      M. R. MCVAUGH, Medicine before the plague, pp. 44 i 67.
+   18
+      Val a dir que realitzar un buidatge sistemàtic de la documentació notarial, tal com s’ha fet per al
+segle XIV, és una tasca titànica que requeriria l’esforç ingent de molts historiadors.
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 41/1, enero-junio 2011, pp. 31-57. ISSN 0066-5061
+38                                      CARMEL FERRAGUD
+
+creixement demogràfic. Però menys encara si ho comparem amb altres grans ciutats,
+com ara Barcelona o Mallorca. Per a la ciutat de Mallorca comptem amb una talla fiscal
+molt pròxima a la de València en el temps, 1512, i que ens dóna un total de 38 barbers
+i cirurgians, per a un cens fiscal de 3.419 contribuents dins la ciutat (15.000 habitants).
+Però el desajust major es produeix amb Barcelona, on comptem amb un registre elaborat
+entre 1445-1467 per a poder participar en l’elecció de representants a Consell de Cent,
+on hi figuren 60 barbers, per a una població d’uns 25.000 habitants.19
+           Efectivament, cal ponderar convenientment aquestes xifres, ja que estem
+parlant de l’obtenció de dades a partir de fonts ben diferents, i amb un estat de conservació
+irregular en el temps.20 Mentre que a les cèdules del justícia criminal es recullen tots els
+assumptes que a diari es varen denunciar davant aquesta cort i que en molts casos mai
+arribarien a derivar en un procés, els protocols necessiten d’un cert nivell econòmic dels
+individus per a ser capaços de formalitzar contractes i satisfer els honoraris notarials.
+És per això que molts individus de condició humil mai hi apareixeran, a diferència
+del que es pot esdevenir en els llibres judicials. És en aquests Llibres de cedes que hi
+apareixen nombrosos personatges, en assentaments generalment molt breus. També cal
+dir que mentre als protocols poden quedar registrats molts més assumptes i personatges
+de molt diversa consideració, en la font utilitzada en el nostre cas només apareixen els
+crims de sang, amb els agredits i els agressors, però, no ho oblidem, també la gent que
+està implicada només perquè dóna avals per altres acusats. En conseqüència aquestes
+dades s’han de prendre amb molta precaució i, en tot cas veure-les, com tendències.21
+Amb tot, la xifra que podem donar per als registres que es conserven dels Llibres de
+cedes de la primera meitat del segle (1401, 1402, 1403, 1407, 1422, 1435, 1440, 1445
+i 1449) és bastant reveladora. Aquests nou volums ens aporten un total de 146 barbers
+operant durant aquells 48 anys, sense que ens siga possible dir quants d’ells coincidiren
+treballant al mateix temps, i sent el registre més elevat el que ens proporciona 1422,
+amb 33 barbers registrats. Finalment, la consideració exclusiva de les fonts fiscals no pot
+ser més significativa en quant a la distorsió real de les dades.
+           Amb tot, resulta evident que un creixement demogràfic tan espectacular
+com l’experimentat per la ciutat de València, ben diferent de la resta de les grans
+ciutats de la Corona, havia d’anar acompanyat d’un contingent de guaridors que els
+pogués donar assistència. Ara bé, què va fer que aquest augment de barbers cresqués
+en una proporció tan notable durant la primera meitat del segle XV?
+
+    19
+       Entre 1386-1395 a Mallorca (tant a la ciutat com a la part forana, amb una població de 2.220
+focs per a 1451, uns 10.000 habitants) hi havia 36 barbers. Recollit a Luis GARCÍA BALLESTER, La
+medicina, dins Historia de España (R. MENÉNDEZ PIDAL, dir.), vol. XVI [La época del gótico en la
+cultura española (c. 1220- c. 1480)], Madrid, 1994, Cuadro 1. Sobre la talla de 1512, vegeu Maria
+BARCELÓ, La talla de la ciutat de Mallorca, 1512, Palma de Mallorca, 2002. Per a Barcelona, Carme
+BATLLE I GALLART, La crisis social y económica de Barcelona a mediados del siglo XV, Barcelona,
+1973, pp. 580-603. Les dades de València, a El cens de 1510. Relació dels focs valencians ordenada
+per les corts de Montsó (R. VALLDECABRES, ed.), València, 2002, pp. 139-140.
+    20
+       El problema de les fonts a l’hora de comptabilitzar practicants de la medicina ha estat analitzat per a
+la ciutat de París, precisament referent al nombre de barbers. Si en el període 1250-1299 s’han recollit 156
+barbers, per al 1300-1349 la xifra havia baixat a 112, quan la població devia rondar els 100.000 habitants,
+i encara en la segona meitat del segle només es comptabilitzen 27. El problema rau en què les talles de les
+quals han estat tretes aquestes dades registraven els individus amb criteris ben diferents, deixant fora molts
+contribuents. Danielle JACQUART, Medical practice in Paris in the first half of the fourteenth century, in
+Practical medicine from Salerno to the Black Death (L. GARCÍA BALLESTER, R. FRENCH, J. ARRIZABALA-
+GA & A. CUNNINGHAM, eds.), Cambridge, 1994, pp. 186-206, especialment p. 205. Més qüestions sobre el
+problema de les fonts i les ràtios en M. R. MCVAUGH, Medicine before the plague, p. 67.
+    21
+       Vull agrair els comentaris que m’ha suggerit Rafael Narbona a propòsit de l’ús de les fonts
+judicials i fiscals que he fet en aquest article.
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 41/1, enero-junio 2011, pp. 31-57. ISSN 0066-5061
+         ELS BARBERS DE LA CIUTAT DE VALÈNCIA DURANT EL SEGLE XV                                      39
+
+           Una primera explicació per a aquest augment està relacionada amb l’arribada
+de practicants foranis, ja siga de dins la Corona d’Aragó o bé d’altres indrets peninsulars.
+Com s’ha remarcat, la ciutat de València fou un pol d’atracció per a gent de molts distints
+oficis i molt variada condició. Ara bé, poc s’ha parlat dels desplaçaments de practicants
+de la medicina cap a la major urbs del regne.22 Segons els Llibres d’aveïnament de la
+ciutat, entre 1400 i 1450 arribaren a València set barbers, tres d’ells procedien de ciutats
+catalanes, un altre era toledà i els altres eren oriünds de viles del regne. Juntament amb
+aquests hi arribà en 1410 Bernat de Cotlliure, un cirurgià procedent de Llíria.23 Altres
+barbers nouvinguts, arribats amb les seues famílies o bé simplement enviats pels seus
+pares, segurament es formaren a València. De Barcelona arribaren Manuel Garcia i
+Bernat, el seu assassí, enregistrats el 1422. Cap dels dos estava aveïnat ja que residien
+el primer a casa del barber Manuel Blasco i, el segon en la del també barber Antoni
+Caro.24 Altres procedeixen segurament de la corona castellana, cas de Martín i Juan de
+Toledo (1445, 1449), Pedro de Aranda, barber macip de Joan de Besora (1422), o el
+sevillà Joan Alfagem (1400).25 Els noms d’alguns delaten la seua procedència. Mestre
+Angelo no és ben bé un barber, sinó un queixaler.26 Documentat en 1401, és molt
+possible que hagués deixat un fill que practicava el mateix ofici. Aquest seria Angelo
+de Florença, citat en 1479. De semblant procedència devia ser Pino, lo barber. Altres
+noms semblen indicar-nos un origen també llunyà. Així seria el cas de Llorenç de
+Flandes (1422) o Guillem de Còrsega (1449).27 Quantificar aquesta arribada de barbers
+a València resulta ara per ara impossible. Però no hi ha dubte que aquest fou un factor
+que féu créixer el nombre de practicants de la medicina considerablement.28
+
+   22
+      Respecte als metges immigrants, m’hi he referit a C. FERRAGUD, Medicina i promoció, pp. 166-
+171. No és, tanmateix, València l’única ciutat en rebre barbers immigrants. Joan Fuster era un barber
+de Tortosa que vivia a Xàtiva al servei de la casa de mossèn Esteve Pons de Fenollar. ARV, JC, núm.
+51, ff. 76v–77r (9-8-1408).
+   23
+       1416, Bernat Fontanils; 1424, Francesc Portella (L’Arboç); 1425, Salvador Saurí (Castelló
+d’Empúries); 1433, Jaime Climent (Toledo); 1433, Fraun Roger (Sant Feliu de Guíxols); 1445, Pere
+Domingo (Torrent); 1448, Pere Fuster (Granollers). Vegeu Leopoldo PILES ROS, La población de
+Valencia a través de los “Llibres de avehinament”. 1400-1449, València, 1978.
+   24
+      ARV, JC, núm. 19, mà 7 (20-7-1422). Manuel Garcia havia estat empresonat anteriorment a ins-
+tància de Pere Nadal, l’hostaler del bordell, acusat de furtar roba en companyia d’una dona. Ibidem,
+núm. 19, mà 2 (7-2-1422).
+   25
+       Ibidem, núm. 22, mà 2 (1-2-1445); núm. 23, mà 3 (12-8-1449); núm. 19, mà 7 (15-6-1422);
+núm. 50, mà 1 (2-2-1400). Lluís Cifuentes ha mostrat la utilitat que tingueren les traduccions quirúr-
+giques catalanes en la formació dels barbers immigrants instal·lats a les ciutats de la Corona d’Aragó,
+amb l’exemple de la traducció de la Chirurgia magna de Lanfranc de Milà, documentada circulant
+entre barbers castellans a Barcelona o a València; i al contrari, el possible paper dels barbers i cirur-
+gians valencians emigrats a Andalusia en la traducció castellana de l’obra impresa a Sevilla el 1495.
+Lluís CIFUENTES, Las traducciones catalanas y castellanas de la Chirurgia magna de Lanfranco de
+Milán: un ejemplo de intercomunicación cultural y científica a finales de la Edad Media, dins Essays
+on Medieval Translation in the Iberian Peninsula (T. MARTÍNEZ i R. RECIO, eds.) Castelló de la
+Plana-Omaha, 2001, pp. 95-127.
+   26
+      Algunes notícies sobre els “queixalers” a Josep RAHOLA I SASTRE, Els odontòlegs dels segles
+XIV i XV a Barcelona, dins Actes del I Congrés Internacional d’Història de la Medicina Catalana,
+vol. I, Barcelona, 1970, pp. 203-300. Les mencions explícites a aquest tipus de practicant de la me-
+dicina són escasses. El que sí sembla confirmar-se és la procedència de terres italianes de tots els que
+coneixem practicant a la Corona d’Aragó. Així és el cas del més famós, vinculat a la casa reial, Simó
+Virgili –arribat a València en 1346 procedent de Florència– i Pere de Pàdua. Vegeu M. R. MCVAUGH,
+Medicine before the plague, p. 161.
+   27
+      ARV, JC, núm. 19, mà 6 (9-5-1422); núm. 23, mà 5 (18-9-1449).
+   28
+      Sobre la varietat i condició dels immigrants a la València medieval vegeu Germán NAVARRO,
+David IGUAL i Joaquín APARICI, Los inmigrantes y sus formas de inserción social en el sistema urba-
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 41/1, enero-junio 2011, pp. 31-57. ISSN 0066-5061
+40                                     CARMEL FERRAGUD
+
+            A banda del creixement accelerat de la demanda assistencial, és molt
+possible que hi hagués un altre factor afegit, aquesta vegada per banda de l’oferta:
+la reducció del nombre de metges jueus arran dels fets d’acaballes del segle XIV.
+Efectivament, el pogrom jueu de 1391 es traduí en l’assalt i devastació de les jueries
+de la Corona d’Aragó, també la valenciana, el maltractament de béns i persones i
+portà a la conversió de molts per evitar mals majors, quan no la fugida irremeiable.
+Culminava un procés que s’havia anat forjant tot al llarg del segle XIV, gràcies a la
+pressió de les elits eclesiàstiques i les prèdiques iracundes dels dominicans, traduïdes
+cada vegada més en pragmàtiques que pressionaven el col·lectiu jueu. Una de les
+obsessions fou aconseguir l’aïllament, la segregació absoluta que evités el contacte
+físic amb els seguidors de Jahvé. I, en aquest sentit, la presència de fra Vicent Ferrer
+la Quaresma de 1413 no feia sinó accentuar una situació molt tibant, que encara
+s’extremaria arran de la butla promulgada per Benet XIII aquell mateix any, en la
+qual es prohibia als jueus exercir nombrosos oficis, fent esment als metges, físics,
+cirurgians i apotecaris. Així, el mateix sant Vicent apel·là a la por, fent referència a la
+llegenda del metge jueu enverinador de cristians.29
+            Durant el segle XIV, no existí un lloc habitat per jueus, amb aljama constituïda
+o no, per petit o major que fos el call, on no s’hi trobés algun practicant de la medicina
+d’aquesta religió, generalment físic o cirurgià, amb una bona reputació. Obligats
+després per la pressió a acudir a la conversió, alguns hi continuarien establerts. Així,
+de metges conversos en tenim molt prompte notícia. Aquest seria el cas de l’il·lustre
+Omar Tahuell i la seua família. Aquest s’hagué d’ocultar en casa de Pere d’Artés quan
+l’assalt a la jueria, per guardar la seua vida, i d’ell prendria el nom quan fou forçat a la
+conversió.30 Continuaria la seua clientela cristiana cercant la seua atenció com abans?
+És possible que les predicacions de fra Vicent haguessen fet suficient efecte com perquè
+la gent deixés d’acudir als metges hebreus? La conversió va fer dubtar o no d’aquests
+personatges? En aquest sentit, la lluita de fra Vicent per aconseguir la integració del
+segment convers fou molt forta. Encara que les dades no deixen de manifestar que
+la reputació del metge jueu no es va arruïnar,31 les fonts no ens permeten calibrar la
+permanència o no d’un nombre considerable de practicants hebreus o conversos (cal
+recordar que aquests havien arribat a suposar més del 10% dels habitants a la ciutat)
+i menys encara si els cristians en feien ús. Crec que malgrat el que s’ha afirmat per
+algun autor, la destrucció de la jueria i la diàspora de jueus, o bé la conversió forçosa,
+degueren minvar l’enorme presència i importància en la pràctica de la medicina que
+
+
+no del Reino de Valencia (siglos XIV-XVI), “Revista d’Història Medieval”, 10 (1999), pp. 161-199.
+Val a dir que també apareixen registrats entre els aveïnats un metge i sis apotecaris. Vegeu L. PILES
+ROS, La población, les entrades “apotecaris”, “especiers” i “metges” a l’índex.
+    29
+       La bibliografia sobre fra Vicent Ferrer i el vessant antisemita –exaltat per uns autors i menystin-
+gut per altres– de les seues prèdiques és bastant prolixa. En tot cas, resulten de gran interés els estudis
+i edicions de Pedro M. CÁTEDRA, Sermón, sociedad y literatura en la Edad Media. San Vicente
+Ferrer en Castilla (1411-1412), Salamanca, 1994, pp. 241-251; Adolfo ROBLES, Obras y escritos de
+San Vicente Ferrer, València, 1996, pp. 455-574, amb la bibliografia citada.
+    30
+       José HINOJOSA, En el nombre de Yahvé. La judería de Valencia en la Edad Media, València,
+2009, p. 90. Els Tahuell tenien un altre problema afegit a la seua condició hebraica: eren especi-
+alment odiats per la seua dedicació al préstec. Vegeu C. FERRAGUD, Medicina i promoció social,
+pp. 351-352.
+    31
+       Així ho posaria de manifest que Joan II cridà en 1466 els metges saguntins rabí Alfangí i rabí
+Samuel per tal de guarir l’infant Alfons, que patia dels ronyons. Vegeu José HINOJOSA, Los judíos
+del reino de Valencia durant el siglo XV, “Anales de la Universidad de Alicante. Historia medieval”,
+3 (1984), p. 174.
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 41/1, enero-junio 2011, pp. 31-57. ISSN 0066-5061
+         ELS BARBERS DE LA CIUTAT DE VALÈNCIA DURANT EL SEGLE XV                                    41
+
+havien tingut el segle anterior.32 Cal recordar també que els jueus no apareixen mai com
+a barbers, sinó com a físics i cirurgians. No obstant això, una reducció presumible de
+personal mèdic hauria afavorit la incorporació de més metges o barbers cristians. Siga
+com siga, la presència jueva fou quan més anava el segle més esporàdica, amb només
+uns quants individus forasters que romanien poc temps per qüestions de negocis.
+           Hi ha però factors inherents a la pràctica mèdica que mereixen considerar-
+se, més enllà dels factors generals que exercien l’atracció dels diferents grups de
+menestrals. En primer lloc, convindria recordar la ràpida implantació i llarga tradició
+que tenia en el regne de València l’ofici de barber. Consolidat i ben establert i regulat
+en les seues actuacions mèdiques ja des de les primeres dècades del segle XIV, com
+ja s’ha vist, i amb una organització pionera, devia ser una ocupació ben considerada.
+No s’ha d’oblidar tampoc que dins el món de la medicina, l’ofici de barber era el més
+assequible d’assolir a les butxaques dels valencians de la classe mitjana. La formació
+s’aconseguia pel sistema obert d’aprenentatge, cosa que no costava diners a la família
+(lluny de l’assistència a l’Estudi General fora de València, la compra de llibres, etc.),
+sinó més aviat un bon estalvi i la transmissió d’un ofici que garantís l’arribada al món
+adult amb condicions per a reeixir i crear una família en una nova llar i, fins i tot, de
+vegades amb alguns petits ingressos suplementaris. Al marge d’això, la barberia s’havia
+anat convertint progressivament en una via de promoció social interessant, sobretot
+a mesura que el barber s’aproximava significativament al cirurgià, com s’ha vist
+anteriorment. Cal remarcar el paper fonamental que tingué en aquest camí de progrés
+i promoció continuada d’aquests pràctics la formació lletrada, en llibres quirúrgics, i
+més concretament en els escrits o traduïts al vulgar.33 Un dels primers i, en aquest sentit,
+més representatius textos quirúrgics traduïts al català fou la Chirurgia de Teodoric
+Borgognoni, amic d’Andreu d’Albalat, bisbe de València, que de València estant va
+insistir perquè elaborés l’original. La traducció catalana fou realitzada per Guillem
+Corretger, un cirurgià mallorquí instal·lat més tard a València, responent a la demanda
+de textos quirúrgics d’aquest tipus que ell bé coneixia entre cirurgians i barbers.34
+           És molt possible que molts pares veieren en aquesta tasca un bon futur
+per als seus fills. Pot ser, pel que sembla, fins i tot ho pensaren massa progenitors.35
+
+    32
+       Aquesta és l’opinió de José Hinojosa per a qui les imposicions eclesiàstiques no es feren efec-
+tives, com en altres camps, i no s’aconseguí evitar que els jueus continuaren tractant els cristians.
+Ara bé, una cosa és el que ocorregué durant el segle XIV i una altra ben distinta el que s’esdevindria
+durant el XV. Vegeu José HINOJOSA, La inserció de la minoria hebrea en la formació social valen-
+ciana, “Revista d’Història Medieval”, 4 (1993), pp. 45-64, especialment pp. 49-50. Per a aquesta
+època no comptem amb estudis sobre la pràctica mèdica dels jueus semblant als que tenim per a les
+centúries anteriors. Només posteriors recerques aclariran en quina mesura afectaren els fets de finals
+de segle a la pràctica mèdica dels jueus. L’estudi més complet de la jueria valenciana i el seu devenir
+el trobarem a J. HINOJOSA, En el nombre de Yahveh. Malgrat la reconstrucció posterior del call en un
+recinte més petit, el ben cert és que tot allò culminà en fracàs ja que no hi hagué un retorn de jueus
+suficientment significatiu, tal com el rei preveia. A més a més, les autoritats municipals no veien ja
+amb bons ulls la presència de jueus.
+    33
+       Lluís CIFUENTES, La literatura quirúrgica baixmedieval en romanç a la Corona d’Aragó: esco-
+la, pont i mercat, dins Literatura i cultura a la Corona d’Aragó (s. XIII-XV): actes del III Col·loqui
+internacional “Problemes i mètodes de literatura catalana antiga” (Girona, 5-8 de juliol de 2000)
+(L. BADIA, M. CABRÉ, S. MARTÍ, eds.), Barcelona, 2002, pp. 321-335.
+    34
+       Lluís CIFUENTES, Vernacularization as an intellectual and social bridge: the Catalan transla-
+tions of Teodorico’s Chirurgia and of Arnau de Vilanova’s Regimen sanitatis, “Early Science and
+Medicine”, 4 (1999), pp. 127-148.
+    35
+       Sobre l’aprenentatge de la barberia vegeu C. FERRAGUD, Medicina i promoció, pp. 110-122.
+L’epígraf que dedicà Garcia Ballester als barbers en la seua monografia sobre València era ben clari-
+ficador: “El dinamisme d’uns grups socials: els barbers i els cirurgians”. A La medicina, part II, punt
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 41/1, enero-junio 2011, pp. 31-57. ISSN 0066-5061
+42                                     CARMEL FERRAGUD
+
+Amb tot, s’ha de posar de manifest que, com en qualsevol altre grup, les diferències
+econòmiques entre uns i altres individus eren notables, com ho mostren els seus
+inventaris de béns. Molts barbers, com també d’altres professionals de la medicina,
+hagueren de cercar la forma d’assolir més ingressos en activitats complementàries,
+quan no simplement veieren en aquestes una forma de fer fructificar els ingressos
+assolits amb la pràctica mèdica.36
+          Fet i fet, tants factors que afavorien l’atracció i formació de nous barbers per
+cobrir tan àmplies expectatives, acabà per portar a confrontacions, ja que a València
+es produí una confluència de practicants de la barberia bastant significativa, la qual
+costaria d’assimilar i integrar.
+          A aquestes incorporacions de barbers en el mercat valencià cal fer una
+observació. Un nombre molt elevat dels individus que tenim documentats i que
+treballaven a València havien passat per alguna raó per la cort del justícia criminal.
+Això vol dir que, majoritàriament, aquesta era la part del col·lectiu més marginal, la
+immigrant, la que havia quedat en la cuneta del progrés somiat, o bé la que tractava per
+mitjans violents d’integrar-se i guanyar un lloc en aquesta competitiva societat, i que
+en absolut podrien considerar-se delinqüents. Les conseqüències d’aquesta situació
+marginal anaven a complicar bastant la vida d’aquests personatges i les seues famílies.
+
+
+                         3. DIFÍCIL ACCÉS AL MERCAT MATRIMONIAL
+           La marginalitat d’alguns d’aquests individus i les dificultats per inserir-se en
+el mercat matrimonial es posen de manifest en els diversos casos que hem documentat
+de barbers, els quals busquen satisfacció a les pulsions sexuals en relacions externes
+al matrimoni. Així, són diversos els que mantenen contactes més o menys habituals
+amb prostitutes, amb les quals acaben amistançant-se, o aquells que han de buscar
+companyia femenina en esclaves o en les dones dels altres.
+           Acabats d’arribar a la metròpoli procedents de l’exterior, o bé mirant
+d’insertar-se en el mercat laboral després d’un període d’afermament, es fa bastant
+complicat assolir un dot suficient, i les conseqüències són la recerca d’alternatives
+al matrimoni. Són joves que esperen el seu moment, quan rebran una herència o els
+pares tindran un colp de sort que ajude a introduir majors emoluments per assolir la
+suma del dot, o bé immigrants que es troben instal·lats en obradors d’altres barbers,
+incapacitats per obrir un negoci propi i construir una família. Tot plegat els mena a la
+frontera de la marginalitat, a unes relacions amb “fembres públiques” moltes d’elles
+també de fora de València, com els seus noms bé ens indiquen, quan no s’especifica
+als documents. Dones maltractades per aquests joves ardorosos, amb qui el compromís
+és lax i la indefensió absoluta, però que no s’estan d’acudir al justícia per reclamar
+els abusos. Miquel Moliner serà acusat per Violant de Múrcia, “fembra del bordell”,
+d’haver-li furtat objectes de la seua casa; Àgueda, una siciliana que viu al bordell, es
+queixava del barber Pino, segurament també amb un origen pròxim a ella, atenent al
+
+
+3. Exemples concrets d’aquesta promoció per al cas barceloní, idèntic al valencià, sens dubte, a Lluís
+CIFUENTES, La promoció intel·lectual dels barbers-cirurgians a la Barcelona medieval: l’obrador, la
+biblioteca i els béns de Joan Vicenç (fl. 1431-1464), “Arxiu de Textos Catalans Antics”, 19 (2000),
+pp. 427-479; Joseph M. ROCA, Un cirurgià barber barcelonés de la XV centúria, “Boletín de la Real
+Academia de Buenas Letras de Barcelona”, 81 (1923), pp. 145-164.
+    36
+       Carmel FERRAGUD, Los oficios relacionados con la medicina durante la Baja Edad Media
+en la Corona de Aragón y su proyección social, “Anuario de Estudios Medievales”, 37/1 (2007),
+pp. 107-137.
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 41/1, enero-junio 2011, pp. 31-57. ISSN 0066-5061
+         ELS BARBERS DE LA CIUTAT DE VALÈNCIA DURANT EL SEGLE XV                              43
+
+nom, el qual habitava en casa del barber Carbonell, per les bastonades, puntades de peu
+i esgarrapades que li havia fet a la cara.37 El cas de Caterina de Cardona mereix una
+atenció especial per la seua relació dissortada amb els barbers. En setembre de 1456 es
+presentà davant el justícia per denunciar l’agressió de Joanot Valero en el mateix bordell,
+el qual “li ha donat diverses bocinades e colps e la ha naffrada en la cara squexant-li
+la boqua, de la qual li ixqué molta sanch”, i que, no conforme amb això, “li squexà los
+draps de seda que portava al cap”. Joan Vidal assegurà la dona davant el justícia un dia
+després, delatant la seua condició d’amants. Dissortadament, tots dos, Vidal i Caterina,
+hagueren de fer una promesa al justícia: “prometeren e voluntàriament se obligaren en
+poder del dit honorable justícia que no usaran carnalment ne desonesta ne seran en hun
+cubert, exceptat en forn, sglésia, ostal o loch públich, e açò a pena de vint morabatins. E
+si pagar no poran, córrer la vila açots axí com si per justícia hi fossen condempnats”.38
+            D’alguns barbers no podem assegurar que només siguen clients de prostitutes,
+sense relacions més estretes. D’altres, pot ser compadits, les asseguren davant el justícia,
+ja que aquestes no poden fer front a les despeses de judicis, a les multes a les que es
+poden enfrontar, i a més, són dones que no tenen entitat pròpia per a participar en judicis
+sinó és tutelades per un home. Aquell inici de segle ens proporciona exemples freqüents.
+Així, en l’any 1402, Esteve Martí assegurà Caterina, natural del Castell de Garcimuñoz,
+que solia estar al bordell, i Joan Queralt farà el mateix amb Catalina de Sevilla. En 1445,
+Vicent Martí assegurarà la persona i els béns de dues prostitutes, Agnès de Cardona i
+Caterina d’Oviedo, i el mateix farà en 1449 amb una tal Caterina.39 Alguns individus
+estan ben acostumats a aquests ambients sòrdids, els freqüenten, juguen als naips, fan
+travesses, beuen a la taverna i es veuen envoltats de gresca i també de delinqüència.
+Alguns delinqueixen plegats, com ara el barber Safont i Elvira, “fembra pública de
+l’hostal de Johan, el Coso”, que atacaran plegats Lluís de Rotllanes.40 El justícia ha
+d’intervenir i prevenir mals majors, sobretot si l’implicat és fill d’una família respectable.
+Així ho farà el juliol de 1422 amb Pere Font, barber fill de notari. Què empeny, en aquest
+cas, un individu procedent d’una família semblant a la barberia? La decisió paterna,
+sempre meditada, pot ser producte de la visió que la barberia és un ofici no gens mal
+considerat que pot augurar bones perspectives de futur com a via de promoció a través
+de l’estudi. Pot ser dins de les opcions, limitades, el pare ha vist que no en queda altra.
+Pere haurà d’evitar les seues afeccions si no vol acabar pagant 100 florins i passejant nu
+per la ciutat per a escarni propi i de la família. I, en tot cas, si entra al bordell ho haurà de
+fer per la seua feina “per via de adobar o curar algun hom o fembra”.41
+            Alguns han construït un lligam ferm amb alguna prostituta a la que visiten
+massa freqüentment, fins convertir-la en la seua amant i mantinguda. L’agost de 1402,
+Miquel Cristòfol ha de capllevar el seu fill, barber homònim, perquè ha estat sorprés
+per un dels empleats del justícia que ha constatat la seua relació amb Elvireta de
+Guadalajara, del bordell.42 Fins i tot, algun la té gairebé com a esposa, tot i que a
+aquesta no li siga fàcil abandonar la seua antiga ocupació. A Violant se la considera
+esposa de Joan Ferrer, i no obstant això se la cataloga de “fembra de vila”. El justícia
+l’obligarà a no usar carnalment d’home algun sinó amb el dit barber.43
+
+   37
+     ARV, JC, núm. 16, mà 9, f. 2r (21-8-1402); ibid, núm. 17, mà 1, f. 2v (27-2-1403).
+   38
+     Ibidem, núm. 24, mà 4 (16, 17-9-1456).
+  39
+      Ibidem, núm. 16, mà 7, f. 1r (9-6-1402); Ibidem, núm. 17, mà 4, f. 26r (15-3-1403); Ibidem,
+núm. 22, mà 1 (3-1-1445), mà 4 (2-8-1445); Ibidem, núm. 23, mà 1 (16-1-1449).
+  40
+     Ibidem, núm. 22, mà 3 (8-4-1445).
+  41
+     Ibidem, núm. 19, mà 7 (1-7-1422).
+  42
+     Ibidem, núm. 16, mà 8, f. 19r (30-8-1402).
+  43
+     Ibidem, núm. 24, mà 1 (13-1-1456).
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 41/1, enero-junio 2011, pp. 31-57. ISSN 0066-5061
+44                                     CARMEL FERRAGUD
+
+           No tots buscaran però en el món de la prostitució satisfer les ardors de la
+carn. Violant, l’esposa d’Ausiàs Roig, de Benetússer, acusarà el barber Ausiàs de les
+Coves d’haver-la forçat. De les Coves es refugia queixant-se dels seus insults. Aquest
+mateix dia, el barber es queixarà de Nicolau Asensi, un altre barber, que l’ha atacat
+amb una espasa en la seua pròpia casa. Res de nou, com veurem, ja que aquesta mena
+de bregues entre barbers esdevindrà el pa de cada dia.44 Evidentment, quan fracassa
+l’estratègia matrimonial, la caça del dot, quan la competència per la feina és dura, cal
+acudir a altres mitjans fora de la legalitat.
+           En definitiva, difícil fou iniciar una activitat laboral en aquest marc hostil
+que és la gran ciutat. Les estratègies i la fortuna de cadascú faran possible reeixir
+i iniciar una tasca professional, ja siga independent, en el marc d’un obrador propi
+i una nova llar, després de contraure matrimoni, o bé simplement treballant per
+altre, mentre no existesquen més oportunitats.
+
+                       4. ELS ESPAIS DE LA PRÀCTICA DE LA BARBERIA
+            La barberia fou un espai fàcilment accessible i localitzable en l’entramat urbà,
+sobretot per la seua ubicació estratègica. És un lloc on es podia acudir o des d’on es
+desplaçava el barber amb rapidesa al domicili o indret al qual havia estat reclamat. En
+un estudi anterior, vaig situar sobre el plànol de València alguns dels practicants de la
+medicina dels quals teníem notícia vers 1373, atenent a la seua adscripció parroquial.45
+Ara estem en disposició d’afinar encara més la seua ubicació sobre la trama urbana a
+partir de les dades recollides en els volums del justícia criminal. Efectivament, les dades,
+per bé que escasses, vénen a confirmar que, si bé es pot parlar d’una dispersió de barbers
+i sanadors en general per tota la ciutat, hi ha uns indrets preferents per establir la barberia:
+les places. Això fou així per diverses raons. En primer lloc, per constituir-se en espais
+oberts, fàcilment transitables i més saludables i airejats, on la pràctica de les activitats
+higiènicosanitàries pròpies de la barberia eren més factibles. En segon lloc, per ser el
+centre de sociabilitat per excel·lència del món medieval, rural i urbà. Eren els espais
+més dinàmics de la ciutat des del punt de vista dels intercanvis, sobretot la plaça del
+Mercat, però també d’altres places menors amb una especialització evident. El trànsit
+de vianants per aquests llocs era molt important, car era on es podien trobar notaris,
+on estaven emplaçades les institucions públiques, els negocis més variats o per ser
+espais d’encontre festius. Tenir ací una parada oberta al públic constituïa una publicitat
+impagable i una atracció segura de clientela. En tercer lloc, com més anava el temps, la
+plaça va esdevenir el lloc residencial de major prestigi, el lloc escollit a tot arreu pels
+membres de les cada vegada més prestigioses professions liberals. Tenir-hi casa era
+símptoma de prestigi ja que era ací on millor es podia manifestar l’aparença i el poder,
+cada vegada més important entre els practicants de la medicina, sobretot l’estament dels
+físics, cirurgians i apotecaris de major patrimoni i influència.46 Si en aquest darrer quart
+del segle XIV se situava quatre barberies a la plaça del Mercat, durant el segle XV podem
+esmentar les d’Alfonso Sánxez, Joan de Riba, Antoni Alcanyís, Jaume Climent, Fraun
+Rogers i Pere Domingo. Igualment, la de Joan de Morella, a la plaça de l’Herba, i Bernat
+Soler a la plaça de la Figuera.
+            Els portals de la ciutat també foren un espai privilegiat per a la pràctica de la
+barberia. Aquests eren llocs d’entrada i eixida que devien ser aprofitats per endreçar-se
+
+     44
+        Ibidem, núm. 22, mà 2 (4-3-1445).
+     45
+        C. FERRAGUD, Medicina i promoció, p. 547.
+     46
+        Ibidem, pp. 543-544.
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 41/1, enero-junio 2011, pp. 31-57. ISSN 0066-5061
+         ELS BARBERS DE LA CIUTAT DE VALÈNCIA DURANT EL SEGLE XV                                 45
+
+quan s’arribava d’un viatge feixuc o bé quan s’havia de fer una visita de compromís,
+o bé simplement pel fet fortuït de passar-hi enfront. Sabem, per exemple, d’un barber
+que tenia la barberia al portal de Serrans. Fet i fet, hom pot suposar una dispersió per tot
+l’entramat urbà, cosa lògica per altra banda, sense descurar que la presència de barbers
+podia augmentar on major era la densitat de població. Així ho semblaria indicar el fet
+de la seua concentració en les parròquies més poblades d’aquella època, Sant Joan del
+Mercat i Sant Martí, on s’establiren entre 1387 i 1449 uns 9.000 nouvinguts, segons els
+llibres d’aveïnament. De fet, quatre dels aveïnats s’establiren al Mercat, concretament
+dos al carrer dels Arrossers, un al de Sant Vicent (prop de l’hostal de N’Amorós) i un altre
+al portal del Coixo. Un altre s’establiria a la parròquia de Sant Martí a un indret de nom
+ben suggeridor: “prop lo pou de la sanitat”.47
+           El paisatge urbà de les ciutats tardomedievals es caracteritza per la
+realització d’un munt d’activitats productives i comercials a l’aire lliure. La pràctica
+de la barberia no en fou una excepció. La vivenda del barber s’obria al carrer a través
+de l’obrador, que a l’inventari també és referit com a “entrada”.48 Els barbers havien
+de proveir-se d’una mena de tela que enganxada a uns pals formava una vela que
+protegia del sol, a la vegada que permetia realitzar activitats sanitàries, com ara
+les habituals sagnies, en un ambient airejat i lluminós. La separació pròpiament de
+l’espai interior de l’obrador i la casa es feia a través d’una cortina que podia ser de
+diferents colors –vermella, blava–, element identificatiu que, fins i tot, donava nom
+al dret a obrir una barberia (“tenir cortina”). En aquests obradors hi havia diverses
+cadires o bancs per a la clientela que esperava el seu torn. Per descomptat, en diferents
+armaris s’hi localitzaven els objectes per a la pràctica de l’ofici: tovalloles, de vegades
+penjades en la cortina, mandils diversos, espills, raors, tisores, l’estoig de cinta del
+barber –on devien estar els instruments adequats per a practicar sagnies i operacions
+quirúrgiques o extraccions dentals, preparats per a possibles desplaçaments– taules
+anatòmiques, bacins metàl·lics, de llautó o coure, escalfadores, pedres d’esmolar i
+poals per a transportar l’aigua. En algun cas es pot trobar fins i tot un senzill llit,
+pot ser per a algun aprenent que dorm a la zona de l’obrador. Finalment, les armes
+(espases, llances, dards, etc.), ja que cal estar prest a qualsevol urgència, la defensa
+de la integritat i del patrimoni, o bé la crida del patró del bàndol al que un pertany.
+A alguns poden trobar-se presents objectes per a l’entreteniment de la clientela. Així
+seria el cas de taulers per a practicar diversos jocs, com ara els escacs o les taules, i
+algun instrument musical, sovint un llaüt per amenitzar les estones d’oci i les festes.
+Segurament que aquests aprenents de barber (macips afermats) havien de tenir també
+aquesta comesa mentre el seu amo i, en ocasions algun que altre empleat, tallaven
+cabells i feien les tasques terapèutiques demandades.
+           Però l’obrador estava lluny de ser l’únic espai on els barbers exercien la seua
+tasca. Les places no eren els únics llocs que transitava la gent amb freqüència. Hi havia
+altres on la sociabilitat bullia, sobretot a les nits. Els hostals, les tavernes i els bordells,
+eren espais on molta gent de pas per la ciutat –quincallaires, mercaders i traginers,
+bergants, tafurs, delinqüents de tota mena, viatjants de tot tipus dels quals els perillosos
+
+   47
+     L. PILES ROS, La población, p. 325.
+   48
+     M’he referit anteriorment a l’estructura de les barberies de la Corona d’Aragó a C. FERRAGUD,
+Medicina i promoció, pp. 556-557. Aquelles suposicions fetes a partir de pocs inventaris es confir-
+men ara després de les escripcions de béns que he pogut localitzar: obrador de Joan Pons i Bartomeu
+Ballester; ARV, JC, núm. 16, mà 9, f. 11v (21-8-1402). Joan de Morella; núm. 18, mà 4 (9-5-1407).
+Jaume Olreu; núm. 19, mà 1 (26-12-1422). Antoni Viana; núm. 19, mà 6 (5-5-1422). Joan Llopis;
+núm. 22, mà 4 (17-9-1445). Val a dir que entre els béns no se solen contemplar els objectes amb
+aplicacions mèdiques i tampoc els llibres de medicina, en català, això sí, ben excepcionals i propis
+d’aquells que han anat progressant en els coneixements tècnics del seu ofici.
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 41/1, enero-junio 2011, pp. 31-57. ISSN 0066-5061
+46                                     CARMEL FERRAGUD
+
+camins n’estaven plens–, anaven a parar-hi, i se sumaven a la caterva de joves i no tan
+joves inquilins dels espais més criticats per predicadors com fra Vicent Ferrer. Lluny
+de la seguretat de la llar emmalalteixen, i han de ser assistits. Els barbers hi acudien a
+guarir hostes de pas amb problemes de salut arran dels seus fatigosos itineraris. Això
+ens parlaria, per tant, d’un espai on la pràctica de la medicina es féu força habitual.49
+De vegades serà el mateix personal de l’hostal el qui ajude al malalt. Quan les coses es
+compliquen, però, convé acudir als entesos. Amb una no gens mal pensada estratègia
+algun es va decidir a compartir dues ocupacions. Com ara, el gener de 1422, trobem la
+referència de Jaume Vila, hostaler o barber, segons resa a la documentació.50
+           Efectivament, el bordell també fou un lloc on la pràctica de la medicina es
+féu present. Temps a venir, fins i tot els metges haurien de certificar l’estat de salut
+de les prostitutes per prevenir el contagi de malalties venèries.51 Pel moment, els seus
+habitants, sobretot aquelles dones, emmalalteixen i es fa necessari sol·licitar atenció.
+Agredides amb freqüència han ser ateses de les nafres. Cal recordar la prohibició a
+Pere Font d’entrar al bordell, excepte en els casos en què hagués d’anar-hi per atendre
+algun home o alguna dona. Semblantment s’ha d’entendre que Joan “lo barber”, tinga
+el seu obrador en la “crohellada del Bordell”.
+           Finalment, un altre lloc on es féu evident l’activitat dels barbers fou a bord dels
+vaixells. També la pressió demogràfica i la competència obligà, sobretot als joves que
+no tenien obrador, a embarcar-se com a metge-barber en naus comercials i de guerra.52
+
+     5. UNA ACTIVITAT MÈDICA EMERGENT EN UN MICROUNIVERS DE VIOLÈNCIA
+           L’experiència dels barbers a l’hora d’intervenir a individus ferits sembla
+inqüestionable. En nombrosos casos el justícia va a trobar algun desgraciat que ha patit
+les escomeses més o menys intencionades d’un enemic, els rampells de la violència
+propiciada per excessos etílics, o bé el resultat d’una antiga refrega veïnal mal resolta,
+i que hi resta a casa d’un barber on ha estat atés. Cal advertir que la racionalització del
+tractament de les ferides vingué donada pel tractament ampli del tema als diferents i
+influents tractats que sorgiren durant els segles XIII i XIV.53 Intervenir sobre una ferida
+implicava tota una sèrie d’operacions que s’anaren reflexionant i deixant per escrit
+
+    49
+       Als hostals era freqüent la presència d’uns altres practicants de la medicina, en aquest cas l’equi-
+na, els menescals. Aquests atenien les cavalcadures que hi arribaven, i fins i tot he pogut documentar la
+possessió d’un llibre de menescalia en l’inventari d’un hostal, pot ser un llibre pràctic per ser utilitzat
+en moments concrets. Es tracta de l’inventari de la casa-taverna-hostal de Domingo Conill. En aquest
+inventari s’esmenten diversos llibres i quaderns. A banda d’alguns llibres d’oracions i molts quaderns
+de comptes, mereix destacar-se: “Ítem, un libre vell qui comença: Pelagius propi mular”; “Ítem, un
+libre de paper de medecines de bèsties”. Un altre element interessant per a la història de la ciència que
+apareix inventariat és: “Ítem, una carta de navegar ab un libre de compàs xich e un compaset petit”.
+També una ampolla amb contingut medicinal: “Ítem, una ampola ab una pocha d’ayganafa”. ARV, JC,
+núm. 19, mà 1, f. 42r (5-1-1422). La pràctica de la menescalia en els hostals a Carmel FERRAGUD,
+La cura dels animals. Menescals i menescalia a la València medieval, Catarroja, 2009, p. 88.
+    50
+       Carmel FERRAGUD, La atención médica doméstica practicada por mujeres en la Valencia bajo-
+medieval, “Dynamis”, 27 (2007), pp. 133-155, especialment p. 153.
+    51
+       Amparo NOGALES ESPERT, La sanidad municipal en la Valencia foral moderna: 1479-1707,
+València, 1997, pp. 274-276.
+    52
+       Lluís CIFUENTES, La medicina en las galeras de la Corona de Aragón a finales de la Edad Me-
+dia: la caja del barbero y sus libros, “Medicina & Historia”, 4 (2000), pp. 1-15. IDEM, La medicina
+medieval i els viatges per mar, “Mot So Razo”, 3 (2004), pp. 35-44
+    53
+       Michael R. MCVAUGH, The Rational Surgery of the Middle Ages, Tavarnuzze, 2006. Sobre la
+circulació de traduccions catalanes d’aquests textos, vegeu Lluís CIFUENTES, La ciència en català a
+l’Edat Mitjana i el Renaixement, 2a. ed., Barcelona-Palma de Mallorca, 2006, pp. 38-49.
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 41/1, enero-junio 2011, pp. 31-57. ISSN 0066-5061
+         ELS BARBERS DE LA CIUTAT DE VALÈNCIA DURANT EL SEGLE XV                               47
+
+convenientment, moltes vegades a partir de l’experiència que els tractadistes havien
+viscut en el seu treball quotidià. Tot un seguit de processos relatius als tipus de ferides i
+la seua cura es podien resseguir des de l’articulació d’un concepte de ferida com detenir
+l’hemorràgia, la sutura, l’embenatge, l’alleujament del dolor, l’adequació de la dieta.
+Junt amb això s’indicava com realitzar operacions de gran envergadura i complexitat,
+com ara la reintroducció dels intestins i la reconstrucció dels teixits després d’una ferida.
+            Així, per exemple, i entre molts altres casos, en setembre de 1384 apareixerà
+nafrat en casa de Ramon Julià, habitant en l’Exerea. En Pere Amorós, veí de València
+resident en aquell mateix barri; en 1401, en casa de Ramon Coto apareix nafrat el
+llaurador Domingo Ferrández, veí de Quart; en casa d’Antoni Negre jau el bainer
+Antoni Guerau ferit “de II colps de spaa la I en lo cap, prop en mig del cap, e l’altre
+en lo braç esquerre”; en febrer de 1422, “fon atrobat nafrat dins la casa alberch o
+habitació de N’Alfonso Morera” Lluís Folques, el qual havia rebut uns colps. El
+mateix dia és trobat mort dins la casa de Bernat Soler, barber qui està a la plaça de
+la Figuera, un escuder amb diverses ferides d’espasa, una a la cara; en maig de 1449
+apareix nafrat en casa de Pere Alemany “per hun colp de copagorga en los pits, en
+la part squerra”, el seu fill Joan, també barber, ferit pel company d’ofici Bartomeu
+Gassó.54 Encara que no és la barberia l’únic lloc on els barbers atenen ferits, ja que
+aquesta atenció també es podia donar als hospitals on ells mateixos treballaven, espais
+que actuaren en ocasions com a sales d’urgència,55 tot ens indica, tanmateix, que
+existeix una preferència per l’obrador de barberia quan un individu és ferit. Això és
+així òbviament per la proximitat. Efectivament, els obradors són fàcils de trobar en les
+places i es troben dispersos per tot el clos emmurallat.
+            Els exemples que podríem citar d’aquesta intervenció d’urgència,
+immediata, són nombrosos. Valguen a tall d’exemple els dos següents. El llaurador
+Domingo Alsamora havia estat ferit de dos esgarrapades en la galta esquerra. Per
+guarir-se d’aquestes ferides acudí al barber Saidó, major de dies, qui estava a prop
+l’Almodí, i manifestà “que·l barber li havia adobat, e que diu que li havia restanyat ab
+lo dit rahor la dita barba”. Semblantment, quan Joan de Castelló, un bevedor empedreït
+que s’inflava d’alcohol fins a perdre el coneixement, es donà un dia una coltellada
+accidentalment acudí ràpidament a un barber del mercat anomenat Pere Gros.56
+            El barber és un practicant de la medicina avesat a tractar amb ferides de coltell,
+espasa i llança. Ells mateixos en són usuaris d’un arsenal personal i coneixen la forma
+d’aturar hemorràgies i posar sutura a les ferides. El 29 d’abril de 1407 fou trobat degollat
+el notari Jaume Vives en casa del blanquer Joan Simon, el seu gendre. El justícia i el
+seu saig examinaren el cos del difunt notari que jeia en una cambra a la vora d’un llit i
+sol·licitaren informació per banda d’alguns parents. Les coses havien anat de la següent
+manera: en veure arribar Vives ferit, el seu sogre “de continent, trameté per lo confessor
+e per metge, et que vench un barber apellat En Thomàs, qui stà davant la speciayressa,
+qui stà en lo carrer de Sent Berthomeu, davant lo carrer de Roterros”. Magnífics apunts
+que ens situen davant diversos aspectes remarcables per al nostre tema. Com es veu, serà
+el barber el primer a acudir, confirmant les nostres sospites que la seua fou la primera
+actuació terapèutica d’urgència de forma habitual. Juntament amb ell ha de venir el
+
+   54
+      ARV, JC, núm. 15, mà 3, (23-3-1401); mà 4, f. 19r (12-4-1401); Ibidem, núm. 19, mà 3 (11-2-
+1422); Ibidem, núm. 23 (27-5-1449).
+   55
+      Vegeu Carmel FERRAGUD, La introducció dels practicants de la medicina en els hospitals del
+regne de València (ss. XIII-XIV), dins Ciutat i hospital a l’Occident Europeu (T. HUGUET i P. VER-
+DÉS, eds.), Lleida, 2011, en premsa.
+   56
+      ARV, JC, núm. 49 (3-6-1399) i núm. 42 (7-11-1396).
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 41/1, enero-junio 2011, pp. 31-57. ISSN 0066-5061
+48                                     CARMEL FERRAGUD
+
+confessor, ja que s’albira que el pitjor pot arribar, atés l’abast de la ferida.57 Tanmateix, el
+barber, ben conscient de les limitacions dels seus coneixements, i veient la gravetat de la
+ferida, féu cridar un metge. En un altre sentit, es dóna la magnífica referència de l’obrador
+d’una dona dedicada a l’especiaria, fenomen, el de la regència d’un obrador d’especieria
+per banda de les dones, que hem pogut documentar en altres llocs per aquell temps.58
+           El metge cridat en aquest cas fou Lluís Gil, cirurgià ciutadà de València, que
+donà també testimoni:
+            stant ara dijous proppassat en casa sua, hora de seny appellat del ladra o
+            quaix, li vench a dir son fill d’En Johan Simó, blanquer, que plegàs entrò
+            a casa de son pare. Et qu·ell, dit testimoni, anà a la casa del dit En Johan
+            Simó e muntant dalt en la dita casa, que dins una cambra de la dita casa
+            trobà al dit En Jacme Vives que stave asegut sobre un banch que·ll tenia
+            un barber. Et que de continent ell, dit testimoni, metgà e apuntà al dit En
+            Jacme Vives la nafra, la qual tenia en la golla.
+
+          El testimoni del barber Tomàs Nadal resulta extraordinari i no ens estarem
+de transcriure les seues paraules:
+            vengueren a casa d’él, dit testimoni, dos moços d’En Johan Simó, blanquer, a
+            cridar-lo dient que anàs tost ell, dit testimoni, a la casa del dit En Johan Simó
+            per un nafrat que y havia, no dient-li qui era ni qui no. Et que, de continent,
+            él, dit testimoni, anà a la dita casa del dit En Johan Simó e que muntà dalt en
+            una cambra de la dita casa et que trobà aquí, dins aquella, En Jacme Vives,
+            notari, sogre del dit En Johan Simó, qui stava asegut a sos vigares sobre
+            recolzadors a la vora de un llit, e que tenia una tovallola e tovalló posada
+            al coll e que vehia que del coll li exia molta sanch. Et aquell, dit testimoni,
+            demanà lum per veure la naffra, e que haüda lum ell, dit testimoni, descobrí
+            lo col al dit En Jacme Vives e trobà que aquell tenia en la colla un gran tall.
+            Et qu·ell, dit testimoni, veén la dita naffra que era perilosa no y volch tochar
+            entrò que aguessen altre metge. Et que, de continent, tornaren la dita tovalla
+            al dit coll del dit En Jacme Vives. Et que a fort poch instant, vench aquí En
+            Loís Gill, metge, e que abduys metjaren e apuntaren la dita nafrra del dit coll.
+
+          Els testimonis ens manifesten noves característiques de les actuacions
+mèdiques d’aquests barbers. Efectivament, en aquest cas podem trobar la col·laboració
+entre un cirurgià i un barber a l’hora de guarir i posar sutura en una ferida complicada.
+És també símptoma de la necessitat d’acudir a un individu que té majors coneixements
+mèdics i quirúrgics, no debades Gil havia estat examinador de cirurgians els anys
+1429 i 1437. La pràctica basada en l’ús de les seues mans hàbils, avesades al tracte
+d’aquest tipus d’intervencions tan freqüents en aquell temps, no era suficient i el barber
+reconeixia la necessitat d’un individu amb majors coneixements.59 Per això el barber
+
+    57
+       L’obligatorietat de la confessió abans d’iniciar un tractament mèdic, per iniciativa pròpia o bé
+per exigència del metge, es va fer realitat a València amb els Furs de 1329, tot seguint l’esperit del
+dret canònic de l’època. Vegeu L. GARCIA BALLESTER, M. R. MCVAUGH i A. RUBIO VELA, Medical
+licensing and learning in Fourteenth-Century Valencia, dins Transactions of the American Philoso-
+phical Society, vol. 79, part 6, Philadelphia, 1989, pp. 42-44.
+    58
+       C. FERRAGUD, Medicina i promoció, p. 76. Carles VELA I AULESA, L’obrador d’un apotecari
+medieval segons el llibre de comptes de Francesc ses Canes (Barcelona, 1378-1381), Barcelona,
+2003, pp. 28-29.
+    59
+       Tot l’assumpte en ARV, JC, núm. 18, mà 4, ff. 15v-16r i ss. (29-4-1407; 30-4-1407). Sobre
+Lluís Gil, vegeu Archivo Rodrigo Pertegás. Siglos XI-XV (J. L. FRESQUET, Mª L. LÓPEZ, J. CATALÁ,
+J. MICÓ, eds.), [CD-Rom], València, 2002.
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 41/1, enero-junio 2011, pp. 31-57. ISSN 0066-5061
+         ELS BARBERS DE LA CIUTAT DE VALÈNCIA DURANT EL SEGLE XV                                 49
+
+tractarà cada vegada més de fonamentar la seua tasca en els continguts doctrinals
+traslladats des de molt aviat a la llengua romanç.60
+            El març de 1440, el llançament de taronges entre un grup de joves acabarà
+dramàticament quan les pedres, projectils molt més contundents, entren en joc. L’esclau
+del mercader Daniel Barceló és l’inculpat de trencar-li el cap a Peret Andreu: “que lo
+dit colp de pedra per lo dit Loís Barceló fet al dit Peret Andreu rompé lo test del cap del
+dit Peret Andreu, e axí és stat despuix vist e trobat per diverses metges e altres persones,
+e fonch colp mortal, com li enclotàs lo test del cap dins lo cervell del cap de aquell e
+li rompés lo tel o pramacer del dit cervell”. Com sol ser habitual, el justícia criminal
+recull testimonis referents al cas, també de caire tècnic, com s’intueix en el vocabulari
+emprat. Però l’amo de l’esclau, que es tem que, com a mínim, haurà de pagar una bona
+indemnització recorre a un argument ben interessant: el de la competència o perícia
+professional. Barceló diu: “que ha hoÿt dir als seus jóvens que lo barber que tenia lo
+dit fadrí en cura, lo dit fadrí era stat mort a gran culpa de la mare e dels parents de
+aquell, per ço com lo tragueren de poder dels metges com la cosa no fos res”. Siga o
+no un subterfugi, la qüestió és que tothom sap de les limitacions del paper mèdic que
+pot desenvolupar el barber. Els seus coneixements són molt limitats. Més enllà d’unes
+cures externes, aquest no pot donar un pronòstic massa encertat de l’evolució d’una
+ferida i l’estat de salut d’un ferit. Si més no, necessitarà sempre de la participació del
+metge. Efectivament, el barber és conscient de les seues limitacions, del que els seus
+escassos coneixements li permeten fer en matèria mèdica.61
+            Una altra activitat mèdica de gran importància en la qual trobarem vinculats
+els barbers serà la dessospitació. Des de les acaballes del segle XIII, i molt clarament
+a inicis del segle XIV, els cirurgians començaren a tenir un paper destacat en el
+peritatge dels ferits que acudien a les corts judicials. Al regne de València aquesta
+acció tècnica s’introduí ben aviat davant les necessitats de control i organització
+del nou espai conquistat i colonitzat, i, al mateix temps, gràcies a les facilitats per
+a introduir novetats tècniques d’aquesta mena. Es tractava del pronunciament sobre
+l’estat de sanitat d’un ferit i el pronòstic de pèrdua d’un òrgan, mutilació o disfunció
+per culpa, exclusivament, de la lesió ocasionada. Sense aquest peritatge no es procedia
+a donar un veredicte i pena, ni es concedia una manlleuta a l’acusat. Amb el temps,
+l’ofici de dessospitador va tendir a estabilitzar-se perquè els beneficis econòmics que
+reportava eren substanciosos, tot i els esforços dels municipis per controlar les sumes
+exigides pels metges. Efectivament, des que a mitjan segle XV el rei decidí nomenar
+directament dessospitadors oficials per actuar en tots els casos que es presentaven
+davant la cort, aquest individu sembla que podia elegir un o dos barbers o cirurgians
+que l’ajudaren en la tasca d’efectuar el peritatge oportú.62 A mitjan de segle és molt
+possible que els barbers haguessen obtingut uns coneixements mèdics, o almenys
+alguns d’ells, que els feren creditors de la confiança per tenir una opinió ferma en els
+peritatges. Així, Joan Ferragut, batxiller en medicina, beneficiat durant el 1456 amb
+aquest càrrec, va comptar amb la col·laboració dels barbers Bartomeu Vidal, Jaume
+Ros, Domingo Daidia, Miquel Coves, Joan Sanxis i Antoni Adsuara. Instats per
+diversos individus, acudiren a verificar l’estat dels ferits a dessospitar i també donaren
+
+   60
+       L. CIFUENTES, La ciència en català, pp. 44-49.
+   61
+       ARV, JC, núm. 97, mà 1 (15-3-1440).
+    62
+       Sobre la dessospitació vegeu M. R. MCVAUGH, Medicine before the plague, pp. 215-216. Mer-
+cedes GALLENT, Precedentes medievales de la medicina legal: la dessospitació en el reino de Va-
+lencia, “Saitabi”, 50 (2000), pp. 11-28. Actualment treballe, en col·laboració amb la doctora María
+Luz López Terrada, en un estudi sobre la pràctica de la dessospitació en el regne de València durant
+l’època foral (ss. XIII-XVII).
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 41/1, enero-junio 2011, pp. 31-57. ISSN 0066-5061
+50                                     CARMEL FERRAGUD
+
+pronòstics sobre la seua evolució. El tenor documental es trobava ja en aquell temps
+plenament estandarditzat en un formulari que presentava, si fa no fa, el següent relat:
+            Lo honorable mestre Joan Ferragut, bacheller en medicina, als actes e
+            desospitacions per lo molt alt senyor rey specialment elet e diputat, e En
+            Barthomeu Vidal, barber, a instància de Vicent Erau, notari, procurador
+            de Mateu Marco, de N’Anthoni Marquo e de Matheu Marquo, menor, e
+            d’En Johan lo Portugués, havien vist e visitat a·n Martí Pujol, cirurgià, lo
+            qual han atrobat nafrat de una nafra en lo cap a la part dreta, la qual nafra
+            han atrobat mundificada, encarnada e per major part cicatrizada.63
+
+           Fet i fet, per aquell temps del tercer quart del segle XV, barbers i cirurgians
+havien aproximat d’una forma molt estreta les seues activitats i a finals de la centúria
+serien ja indestriables les tasques realitzades per uns i altres. La confiança en la seua
+actuació era indiscutible i qualsevol en el seu judici hi hagués acudit ràpidament davant
+d’una eventual ferida, independentment del tipus i la gravetat. Així ho manifestava
+sant Vicent en un dels seus sermons castellans:
+            E non es ome de nosotros que, sy tovyesse una cochillada por la cabeça,
+            que non andodiesse buscar çirurgiano por toda la tierra, e despendería
+            todo quanto toviesse por guaresçer.64
+
+           Però totes aquelles ferides que estaven acostumades a tractar els barbers no els
+eren alienes, ans al contrari, les patien i les infligien amb summa freqüència, com veurem.
+
+6. CERCANT UN LLOC EN LA SOCIETAT, PER FORÇA: ENFRONTAMENTS I BANDOSITATS
+           Pere el Cerimoniós va narrar amb minuciositat a la seua crònica un episodi
+que el va marcar profundament durant la revolta de la Unió, quan, a poc d’haver-se
+casat, s’havia desplaçat a València. El poble revoltat acudí al Real per retenir-lo, i un
+dels avalotadors, que capitanejava la gentada, el barber anomenat Gonçalbo, tingué
+l’atreviment d’obligar a ballar la parella reial. Això li valgué la venjança cruel del
+monarca, una vegada sufocada la revolta.65 Valga aquest conegut episodi per posar
+de manifest les nombroses ocasions en què els barbers mostraren la seua propensió a
+participar en bregues i aldarulls de tota mena.
+           El fet és que als inicis del segle XV el col·lectiu dels barbers es trobava
+bastant mal avingut i que els mecanismes de solidaritat i regulació propis dels oficis
+distaven de funcionar convenientment. D’això n’és una bona mostra el procés obert
+durant l’estiu de 1416 pel governador del regne de València contra els majorals
+(Bernat Soler i Pere Alfonso) i consellers (Gabriel Garcia i Bernat Alguaire) de
+l’”Art e Offici dels Barbers”. La causa fou haver convocat a una reunió o capítol als
+membres de la corporació sense el seu consentiment, i l’aldarull que es va suscitar.
+Efectivament, aquella convocatòria a capítol el dia de sant Joan a l’església de la
+Mercè, punt d’encontre habitual dels membres de l’almoina, propicià un enfrontament
+entre diversos barbers, especialment, segons els testimonis, entre Gabriel Garcia i
+Bernat Martí, a propòsit de la conveniència i legalitat d’aquella reunió. Tot allò acabà
+
+  63
+     ARV, JC, núm. 24, mà 1 (12-1-1456). Les altres dessospitacions practicades per Joan Ferragut
+amb els barbers esmentats, en mà 1 (7-2-1456); mà 3 (9-7-1456 i 12-7-1456); i mà 4 (14-9-1456).
+  64
+     P. M. CÁTEDRA, Sermón, sociedad y literatura, p. 422.
+  65
+     Ferran SOLDEVILA, Les Quatre Grans Cròniques, Barcelona, 1983, pp. 1103 i 1109.
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 41/1, enero-junio 2011, pp. 31-57. ISSN 0066-5061
+         ELS BARBERS DE LA CIUTAT DE VALÈNCIA DURANT EL SEGLE XV                                    51
+
+amb la intervenció de les autoritats i l’empresonament de quatre barbers. I és ací on
+sembla raure la preocupació del governador. En uns anys marcats per les bandositats,
+on els enfrontaments violents i els ferits i morts als carrers de València eren una realitat
+força eloqüent, calia posar ordre i regular aquell caos. Per això, un dels descàrrecs en
+favor dels acusats fou que la reunió no tenia cap objectiu vinculat amb la defensa
+d’interessos polítics a través de les armes (“que los dits denunciants ni alguns altres
+del dit Offici de Barbers en lo dit dia de sent Johan ni algun altre se sien ajustats per fer
+onions o col·ligacions ni per alguns actes il·lícits ni reprobats a ells no permesos”).66
+            Que aquella benemèrita institució no funcionava massa bé eren proves
+les escasses convocatòries anuals, així com el poc èxit en l’afluència de membres i
+la necessitat d’intimidar amb una pena de dues lliures d’oli als que no acudien.
+Efectivament, Ramon Muntanyana, un dels testimonis del plet, afirmava que durant
+l’any que fou majoral “és bé ver que en tot lo seu any no s’ajustaren”, i Pere Alfonso, un
+dels majorals, afirmà que no pogueren decidir res en la convocatòria del conflicte “car
+solament hi vingueren qualsque deu o dotze”, això malgrat que es reconeixia que tots
+els barbers de València formaven part de l’almoina. Però també la motivació que havia
+servit d’avinentesa per reunir-los aquell any ens parla del poc cas que feien els barbers a
+les seues obligacions confraternals: “Per ço que los barbers de la almoyna servien mal la
+dita almoyna, e axí en bodes com en altres coses, e volien-o metre en regla, que sots certa
+pena fessen les honors acostumades fer a confrares en bodes, esponsalles, sepultures e
+semblants coses”. El mateix majoral Bernat Soler havia posat com a condició al seu
+nomenament el fer una reforma i cridar l’ordre als seus companys d’ofici. Era possible
+mantenir una solidaritat semblant quan el grup havia crescut d’una forma tan notable,
+fins i tot amb molts elements procedents de fora de la ciutat, als quals ja costava fins i tot
+de reconéixer o recordar el nom?67 Pel que sembla, era ja una quimera.
+            Al capdavall, aquells esdeveniments només corroboren una realitat que feia
+anys es mostrava com evident: els barbers eren un col·lectiu amb greus problemes
+d’interrelació socioprofessional. No és, en absolut, infreqüent trobar enfrontaments
+entre barbers, i d’aquests amb altres practicants de la medicina, com són els cirurgians,
+els quals comparteixen interessos professionals, en aquella València del Quatre-cents.
+El 21 d’agost de 1402, el cirurgià Gabriel Amat acusà els barbers Bartomeu Ballester
+i Joan Pons que l’havien pretés matar, i l’havien agredit i ferit en la mà esquerra, i
+fins i tot havien intentat matar el seu fill. El cirurgià sol·licità l’empresonament dels
+agressors. Com era preceptiu, el justícia procedí a registrar els béns d’aquests barbers
+(“fer escripció de béns”), els quals potser treballaven plegats, fet que no era inusual,
+ja que els trobem inventariats junts. En realitat es tracta d’unes poques peces de roba
+i alguns dels instruments de l’obrador.68
+            El mateix dia era Bartomeu Ballester el que posava clam contra el cirurgià
+davant el justícia. Segons el barber, Amat havia entrat al seu obrador, ubicat en
+la cantonada de la plaça de la Figuera, “armat a combatre-li lo alberch, e ultra lo
+combatiment lo à nafrat a ell, dit clamant, en lo toç d’un colp de pedra, lo qual colp
+és vingut a gran effusió de sanch, requirent que aquell dit Gabriel sia pres, e los
+béns li sien scrits”. El justícia féu escripció dels béns. Tanmateix, ara la relació de
+béns és molt més breu i ens mostra un luxe inexistent en la casa dels barbers. Així,
+mereix ressenyar-se “un drap figurat ab certes figures a les spatles del menjador”.
+Ramon Tolosa i Guillem Amat –aquest darrer germà de l’acusat–, ambdós notaris,
+
+   66
+      Per als continguts del plet vegeu la nota 13.
+   67
+      D’un dels barbers implicats es diu que s’estava al portal de Serrans i se’l reconeixia perquè era
+“porcellanós”. D’altres individus ni tan sols es podia donar cap referència en el procés.
+   68
+      Tot el desenvolupament del cas en ARV, JC, núm. 16, mà 9, ff. 11v, 12v i 17r.
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 41/1, enero-junio 2011, pp. 31-57. ISSN 0066-5061
+52                                     CARMEL FERRAGUD
+
+capllevaren tants béns com calgueren per valor de 500 morabatins. Val a dir que com
+a testimonis acudiren un altre cirurgià, Guillem Vives, i el notari Bartomeu Tolosa.
+Amb les fiances dipositades ambdós, Amat i Ballester, romandrien arrestats, el primer
+en la seua casa, i el segon en la de Francesc Seder, fins que el justícia els ho indicàs.
+           Uns dies després, Guillem Amat, capllevà el germà, ara detingut en la presó,
+a instància del procurador fiscal del rei, per aquella acusació d’agressió a Ballester
+–i ara s’indicava també a un tal Jaume–, ja que hauria ferit ambdós a la cara i el
+dors. Una acció violenta, doncs, havia implicat barbers enfrontats a un cirurgià, algú
+d’una categoria superior, sense que puguem saber si al darrere s’amagava l’odi entre
+individus que podien xocar per tenir els mateixos interessos professionals o si bé es
+tractava d’una lluita per la clientela.
+           Un segon cas d’aquesta naturalesa el trobem en febrer de 1403. El saig es
+queixà que Camarell Barber, en casa de Guillem lo Barber, li havia donat una bastonada
+i havia bufetejat la seua dona en casa de Mestre de la Roxella, també barber. Fet i fet,
+la intersecció de barbers confrontats en aquesta brega no pot resultar més eloqüent.69
+           Aquests odis i enfrontaments poden, fins i tot, haver vingut de molt lluny. El
+20 de juliol de 1422 fou trobat mort en l’hostal d’Alfonso de Silla, en el camí de Quart,
+el barber Manuel Garcia, natural de Barcelona, ferit d’una estocada en el pols, a la part
+esquerra. Garcia treballava amb el barber Manuel Blasco. L’acusat fou un tal Bernat,
+barber nadiu de Barcelona, que, al seu torn, treballava en l’obrador del barber Antoni
+Caro, situat al Mercat.70 La situació ens parla aquesta vegada de barbers immigrants.
+Estem davant el cas d’individus que es traslladaren per millorar la seua situació,
+pot ser, fins i tot, d’afermats en barberies valencianes procedents de Barcelona. Fa
+l’efecte que Manuel i Bernat es podien conéixer del seu passat barceloní, quan tots
+dos emigraren per buscar una situació millor en una València esplendorosa, quan la
+ciutat de Barcelona feia temps que havia entrat en una crisi irremeiable i havia estat
+substituïda en la Corona d’Aragó per la rutilant capital del Túria quatre-centista. El
+fet de trobar-se en un hostal suposa noves incògnites sobre l’acte violent. Podien
+haver acudit per guarir algun client o bé serien hostes en aquell lloc i la coincidència
+desfermà antigues passions contingudes.
+           No sempre, però, les agressions són producte d’odis viscerals i de la
+premeditació. També la rauxa i la fogositat juvenil en són la causa principal. Són ben
+coneguts els excessos que eren proclius a cometre els joves quan s’aplegaven per
+divertir-se amb els seus jocs i cants que, de vegades, acabaven amb aldarulls i baralles
+sagnants. Així, en maig de 1402, als set o vuit joves “los quals staven e anaven sonant un
+laüt e tamboret e cridant e fahent rimats” els criden l’atenció els que estan fent la guàrdia
+nocturna, tot intentant treure’ls els instruments perquè no facen soroll. Entre la colla
+hi ha “un barber qui stà al trench de la Spaseria, prop la habitació de mossèn Vidal de
+Vilanova”. De vegades, aquests no es conformaven amb la reprimenda de les autoritats.
+El trompeta Pere Rojals es queixà que Joan de Morella, barber menor de dies, el va
+ferir amb dues punyalades, l’una a cada galta de la cara. Això ocorria el mateix dia que
+els fets anteriors, i pot ser es tracte del mateix barber que participava en la companyia
+nocturna. De fet, ambdós, Pere i Joan, signaven més endavant una pau i treva.71
+
+
+     69
+       Ibidem, núm. 17, mà 6, f. 6r (27-2-1403).
+     70
+       Ibidem, núm 19, mà 7 (20-7-1422).
+    71
+       Ibidem, núm. 18, mà 4 (9-5-1407). Pau i treva Ibidem, mà 6, f. 24r (2-6-1407). Sobre aquestes
+actituds habituals en els joves, vegeu R. NARBONA, Pueblo, poder y sexo. Valencia medieval (1306-
+1420), València, 1991, pp. 52-54. En un altre lloc ja m’he referit a aquesta peculiaritat que tenen els
+barbers de fer sonar instruments i cantar per animar vetlades. C. FERRAGUD, Medicina i promoció,
+pp. 229 i 261-263.
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 41/1, enero-junio 2011, pp. 31-57. ISSN 0066-5061
+         ELS BARBERS DE LA CIUTAT DE VALÈNCIA DURANT EL SEGLE XV                                53
+
+           Ni els propis mestres es podran lliurar de la fúria dels seus treballadors. El
+cirurgià Joan del Mas fou nafrat per Joan d’Almenar, “jove e obrer seu”. Almenar
+havia trobat el seu lloc com a assalariat a l’ombra d’un individu de major prestigi.
+I és en aquesta situació, quan està cobrant la soldada de la setmana anterior, quan es
+desenvolupen els fets: “dins casa sua donant diners al dit Johan d’Almenar, jove seu,
+de la semana proppassada, aquell dit Johan d’Almenar, rebent aquells dits diners de
+poder del dit seu mestre, sens causa alguna saltem justa, li donà e féu les dites dues
+nafres, la una en lo coll e l’altra en lo cap de la orella, fort poques, de les quals afermà
+ésser exida molta sanch”.72 El mestre demanarà que s’actue amb tota la força de la
+llei, com correspon al cas. Joana, la dona del barber acusat, es queixarà el mateix dia
+del mestre cirurgià a qui acusà d’haver intervingut en una brega del seu marit amb un
+altre individu. Del Mas, segons la dona, acabà injuriant-lo i dient-li “cabró, cornut”.
+Almenar prometrà, finalment, anar a la casa del cirurgià Francesc Trepat –una altra
+mostra de solidaritats–, on quedarà arrestat fins nova ordre.
+           Altres vegades els enemics no són barbers, ni cirurgians, sinó artesans,
+camperols, gent d’oficis diversos, pròxims en categoria social. Les raons d’aquestes
+bregues i de les seues conseqüències fatals, no semblen a priori massa clares i
+mereixen una anàlisi detinguda. Així, el 4 de febrer de 1401, fou trobat el cos sense
+vida del barber Antoni Agulladós enmig d’unes cases en estat ruïnós, a prop del fossar
+dels cristians nous.73 Sens dubte, Agulladós havia patit una emboscada que li havia
+costat la vida. El seu cadàver jeia degollat, cosit d’estocades, colps i ferides d’armes
+diverses; un total de vuit. Les nafres es repartien pel pit, l’esquena, els ronyons, la
+cama i l’aixella, el que demostrava que havia estat rodejat i assassinat despietadament.
+Ara bé, cal parar esment que Agulladós portava la cervellera al cap i l’espasa i el
+broquer cenyits, o el que és el mateix, el barber anava armat i preparat per al combat.
+Pot ser havia estat separat d’un grup d’altres homes companys seus, que estaven
+enfrontats amb els que finalment perpetraren el crim?
+           Uns mesos després, l’11 d’abril, el justícia criminal de la ciutat acudia a casa
+del barber N’Alguaire, acompanyat del seu saig Françoi.74 En això, trobaren enfront
+de la barberia d’En Riera una dotzena d’homes armats, dels quals tres penetraren a
+l’obrador. El saig fou comminat pel justícia a esclarir que estava ocorrent-hi. Llavors,
+Françoi alçà la cortina de l’obrador perquè el justícia pogués veure des de la seua
+cavalcadura qui eren aquells homes. El justícia, potser excessivament confiat del
+poder que la seua autoritat li confegia, ordenà al saig desarmar aquella gent. Aquells
+no estaven disposats a lliurar l’armament i el justícia perdé la paciència i ordenà dues
+vegades més la deposició d’armes. Llavors se sumà un altre saig anomenat Jordi a les
+accions ordenades pel justícia i pogueren desarmar dos dels assaltants. Un tal Pere
+Prats aconseguí esmunyir-se, i llavors el justícia decidí intervenir personalment. Amb
+la mula que cavalcava aconseguí d’arraconar-lo, però Prats es defensà amb els braços
+colpejant la cara de la mula. Aquell fugí i el justícia el perseguí, ara amb l’espasa
+desembeinada, però Prats de nou agredí la mula, de tal forma que el justícia anà a
+parar a terra, en doblar l’animal les potes del darrera. La situació, quasi a la fi còmica,
+no deixa de tenir els seus tints de dramatisme. Qui eren aquells homes que anaven a
+
+   72
+       ARV, JC, núm. 24, mà 2 (20 i 22-3-1456).
+   73
+       Ibidem, núm. 15, mà 2 (4-2-1401).
+    74
+       Les tasques que implicaven la presència dels barbers com a representants de l’autoritat no
+els eren estranyes. Bernat d’Alguaire, curiosament el barber que anava a visitar el justícia crimi-
+nal, desconeixem si per qüestions higièniques, estètiques o sanitàries, o que tenien a veure amb
+el seu ofici al servei del municipi, actuà de capdeguaita l’any 1401. ARV, JC, núm. 15, mà 1
+(15-2-1401).
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 41/1, enero-junio 2011, pp. 31-57. ISSN 0066-5061
+54                                     CARMEL FERRAGUD
+
+l’assalt de l’obrador d’un barber? Quina devia ser la seua condició que no deposen les
+seues armes fàcilment davant d’una autoritat a València com era el justícia criminal?
+Aquests dos esdeveniments violents que implicaren barbers en aquell inici de segle
+XV, foren casuals? Quina relació hi podem trobar?
+           La resposta la trobem en altres circumstàncies en què les coses esdevenen
+explícites, amb tota la contundència i la claredat que aporten els registres de la
+Cancelleria reial. Vint anys abans del període que ací ens ocupa, en 1382, s’enfrontaran
+a la plaça de Sant Llorenç dos bàndols armats, amb resultats desastrosos. Pere
+Eiximenis, escuder del bisbe Ferran d’Osca, canceller del rei, morirà a mans de Joan
+Bonfill, barber del bisbe esmentat.75 Vuit anys després, sota el sol abrusador de juliol,
+serà condemnat a morir penjat en la forca el barber Francesc de la Plaça, acusat
+d’un assassinat motivat per diners, segons el testimoni del reu. Ara bé, el testimoni
+desesperat d’aquest home a les portes del patíbul es capgira. Ja no es pot estar de
+confessar els motius d’un assassinat: la pertinença a un bàndol patrici enfrontat pel
+poder polític a d’altres.76
+           Les raons i dinàmiques que feren implicar els membres dels oficis en
+aquestes bandositats foren diverses. En primer lloc, la reduïda presència dels oficis
+en el govern municipal va fer necessari buscar la forma per tal d’integrar-se i de fer
+valer els seus interessos polítics com a col·lectiu. Aquesta forma no fou altra que el
+posicionament al costat d’un partit patrici. Ambdós grups, per tant, els membres del
+patriciat urbà que ostentaven el poder i els membres dels oficis, es veien així afavorits
+mútuament en el seus interessos. La pertinença al bàndol identifica a les persones i
+crea uns forts vincles d’amistat i col·laboracionisme. Altercats, baralles i revenges
+no són més que la plasmació d’insults, amenaces, enemistats heretades, que en fer-se
+extensibles i estructurar-se a través de les famílies es tradueixen en greus problemes
+d’ordre públic, que les autoritats miren infructuosament d’apaivagar. Amics i valedors
+se sumen als interessos personals i familiars amb facilitat; els clans prenen gran força
+en la ciutat tardomedieval. A aquesta conflictivitat vinculada als sentiments i a la forta
+solidaritat del grup, se sumen els enfrontaments amb rerefons econòmic.77
+           Ara bé, tampoc es va menysprear l’oportunitat de prendre part en atacs i
+saqueigs que ocasionalment eren perpetrats contra les minories religioses. El pogrom
+de 1391, amb l’assalt a la jueria, les destruccions i assassinats de jueus, comptà entre
+els seus protagonistes amb algun barber. Així fou el cas de Francesc Mestre, un dels
+20 homes considerats de major culpabilitat en aquell aldarull.78
+           Certament, de ben preparats n’estaven aquells individus per protagonitzar
+baralles i altercats sagnants, com ho demostren els seus inventaris de béns.
+Efectivament, des del barber més humil al físic o cirurgià més ric posseïen armes,
+tant ofensives com defensives, especialment útils quan per causa de l’ofici feien
+desplaçaments. Això sí, el nombre i qualitat d’aquestes, així com la utilització que
+en podien fer era ben diversa. Per a alguns podia ser merament testimonial, fins i
+tot estètica, per altres el seu ús era gairebé quotidià ja fóra en alteració de l’ordre
+públic, com s’ha vist, o bé per contribuir-hi a mantenir-lo. Així, la participació dels
+barbers en la milícia ciutadana, l’ofici de capdeguaita i en l’exèrcit, fou bastant
+habitual, com també ho fou en la resta d’oficis artesanals, fet que demostra que
+
+     75
+       C. FERRAGUD, Medicina i promoció, p. 237.
+     76
+       Ibidem, p. 239.
+    77
+       Vegeu per a la ciutat de Valencia els treballs de Rafael NARBONA, Malhechores, violencia y
+justicia ciudadana en la Valencia bajomedieval (1360-1399), València, 1990, pp. 108-123; IDEM,
+Pueblo, poder y sexo, pp. 38-64.
+    78
+       Eliseo VIDAL BELTRÁN, Valencia en la época de Juan I, València, 1974, p. 66.
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 41/1, enero-junio 2011, pp. 31-57. ISSN 0066-5061
+         ELS BARBERS DE LA CIUTAT DE VALÈNCIA DURANT EL SEGLE XV                                   55
+
+estaven familiaritzats amb la possessió i l’ús de les armes i no els suposava cap
+problema haver-les d’utilitzar.79
+           Per als barbers immigrants la situació era especialment complicada i quan
+sobreviure del seu treball no era possible quedava el recurs al furt. La capital no
+donava massa oportunitats, era un espai amb un gran nombre d’arraconats, d’individus
+que quedaven en situació de desprotecció. Per això, el municipi hagué de generar un
+bon nombre de mecanismes assistencials per fer front a les necessitats de tants homes
+i dones, vídues, orfes i infants, que vivien en estat miserable. En febrer de 1400, el
+justícia incoà un procés contra diversos individus, tot seguint una pragmàtica reial, als
+quals acusava de furts perpetrats en la ciutat i els seus termes. Un dels processats era
+el barber sevillà Joan Alfagem, qui vivia en Castell de Garcimuñoz i s’havia instal·lat
+a València des de feia tres setmanes per tal de comprar “bacins e raors e tisores e
+altres coses de son ofici”. Alfagem havia estat sorprés en un parell d’ocasions jugant a
+cartes a la tafureria de la moreria. Val a dir, que la resta dels denunciats són individus
+immigrants, d’ocupacions diverses i amb uns antecedents penals gens menyspreables.
+No sembla ser exactament el cas del barber sevillà que confessà haver acudit a
+València a comprar material necessari per al seu treball. Siga o no veritat, el ben cert
+és que obtenir instrumental per a practicar la cirurgia i la barberia –i també llibres–, en
+els encants de les ciutats era una pràctica habitual en aquell temps. Permetia assolir-ho
+a uns preus baixos i recanviar-ho o ampliar-ho amb facilitat.80
+           Siga com siga, el tarannà violent d’alguns d’aquests barbers sembla
+innegable. Disposats a arriscar les seues vides s’introdueixen en unes dinàmiques de
+violència que contagien la família. Els mètodes emprats per a cobrar un deute, ni que
+siga mínim, ens indiquen el caràcter d’aquests i les seues famílies, proclius a bregues
+i enfrontaments, a invasions de llars alienes sense mirament. El corredor Pere Alberg
+denuncià la dona de Cristòfol lo barber, i el seu fill, afirmant que aquests havien anat a
+la seua casa per demanar-li dos sous restants de tres, los quals afirmaven que els devia.
+No es conformaren amb paraules per cobrar una xifra tan irrisòria, ja que havien anat
+de forma violenta, tot amenaçant-lo amb un punyal.81
+           Hi ha, fins i tot, agressions que se situen en el terreny d’una violència ferotge,
+patològica gosem dir. Un llaurador de Massanassa, anomenat Pasqual Frides, es veié
+sorprés una nit, quan s’havia alçat a orinar, pel barber Joan Ferrer, amb qui tenia
+signada una pau i treva. Ni la signatura d’un compromís davant el justícia criminal li
+valgué d’aturador a aquest barber que, com veiem en les paraules de Frides, actuà amb
+una violència inusitada, mossegant-lo en la cara i perseguint-lo a la casa del metge de
+València, on anà a guarir-se:
+            li ha robada la casa e l’ha volgut matar, car stant lo dit Johan Ferrer
+            amagat dins casa d’ell, clamant, li és exit ab una spasa treta e tirà una
+            stoquada a ell, clamant, qui s’era levat a orinar, e com ab la spasa no·l
+
+
+   79
+      Vinculats al Centenar de la Ploma trobem els barbers Bernat Ramon i Guillem Ivorra. Vegeu
+C. FERRAGUD, Medicina i promoció, p. 228. Exerciren ofici de capdeguaita: Bernat d’Alguaire
+(1401) i Miquel Fortuny (1422).
+   80
+      El cas del barber, a R. NARBONA, Pueblo, poder y sexo, p. 44. La compra en encants, a C.
+FERRAGUD, Medicina i promoció, pp. 140-143. Sobre inventaris i encants de llibres a València, vegeu
+María Luz MANDINGORRA, Leer en la Valencia del Trescientos. El libro y la lectura en Valencia a
+través de la documentación notarial (1300-1410), tesi doctoral de la Universitat de València, 2 vols.,
+1989 [ed. en microfitxes, València, 1990]; M. Rosario FERRER, La lectura en Valencia (1416-1474):
+una aproximación histórica, tesi doctoral de la Universitat de València, 1993 [ed. en microfitxes,
+València, 1990].
+   81
+      ARV, JC, núm. 16, mà 12, f. 17v (25-10-1402).
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 41/1, enero-junio 2011, pp. 31-57. ISSN 0066-5061
+56                                     CARMEL FERRAGUD
+
+            pogués haver e ell, clamant, se fos abraçat ab aquell e li tingués la mà de
+            la spasa, lo dit Johan li donà hun gran mos en la galta squerra que tota la
+            cara li ha squinçada e a punyades li ha mogudes totes les dents davant. Et
+            com ell, clamant, se’n vengués a la present ciutat per curar, stant en casa
+            del metge, lo dit Johan Ferrer vengué a la dita casa ab hun guadandart e
+            volgué matar a ell, clamant.
+
+           Per què un barber va a cercar a un llaurador de l’horta a sa casa i el sorprèn
+en un acte íntim, amb les mans ocupades, evidentment per ferir-lo de mort, reacciona
+com un psicòpata i encara és capaç de continuar la seua persecució fins les últimes
+conseqüències? Alguna mena d’alienació mental es podrà adduir en aquests casos,
+o potser alguna circumstància que puga provocar una reacció enfurismada, com ara
+l’endeutament pertinaç que persegueix els valencians d’aquell temps i fa odiar usurers
+sense escrúpols.82
+           Sembla, en definitiva, que la concentració de barbers va propiciar
+confrontacions habituals entre els membres de l’ofici dins la ciutat. Ni la mateixa
+solidaritat pretesa per la corporació que els devia mantenir units en els mateixos
+interessos servia a aquest fi pacificador. De fet, per tal de començar la sessió de
+l’almoina tothom havia de conciliar-se, símptoma inequívoc de l’ambient de tensió
+permanent que vivien aquells barbers. La lluita per la supervivència els va fer utilitzar
+totes les eines al seu abast. Només així es pot explicar aquesta concurrència de barbers
+en els folis dels registres judicials. Però aquesta no podia ser sempre la seua vida. Els
+perfils violents que hem vist no ens han d’enganyar. Hem de valorar els temps i els
+ritmes de les vides d’aquells individus, que per damunt de tot viuen, o així ho pretenen
+fer, d’un ofici.
+           Val a dir, finalment, que la gent dels oficis valencians es trobava immersa
+en una conflictivitat permanent de signe divers. Això ens indica que el col·lectiu
+dels barbers no era ni més ni menys agressiu que qualsevol altre i que el recurs a
+la violència, per defensar o atacar interessos de grup, es constituí en una estratègia
+molt estesa, amb la qual fer el major mal possible a l’enemic. Ells formaven part de
+les coalicions suprafamiliars i professionals típiques del moment, sempre propícies
+perquè qualsevol espurna pogués fer iniciar la brega. Uns enfrontaments aquests que,
+tot aprofitant la situació de desavantatge de l’enemic, culminaven en greus ferides,
+quan no amb la mort d’algun dels contrincants. Els conflictes laborals i econòmics
+derivats del sistema, doncs, no els afectaven de forma exclusiva. Aquesta violència
+permanent no és al capdavall sinó el reflex d’una competitivitat social producte del
+desequilibri econòmic.83
+
+                                           7. CONCLUSIONS
+         Des dels inicis del segle XV es va fer evident l’augment considerable del
+nombre de barbers que treballaven a la ciutat de València. Aquesta afluència vindrà
+provocada pels reclams i al·licients econòmics de l’urbs més poblada de la Corona
+d’Aragó, així com pel prestigi social de la medicina i el rol desenvolupat pels seus
+
+     82
+      Ibidem, núm 23, mà 1 (31-12-1449).
+      R. NARBONA, Malhechores, violencia, pp. 114-120. Sobre la variabilitat de les formes i la ju-
+     83
+
+risdicció i atenció a aquesta violència en les viles, vegeu IDEM, Malos hombres, malos usos, malas
+costumbres, “Canelobre”, 52 (2007), pp. 102-117, i IDEM, La deuda de parentesco en la Valencia tre-
+centista. Obligaciones de reciprocidad, socorro y consejo en la sociabilidad urbana bajomedieval.
+Agraesc a l’autor que m’haja permès consultar aquest treball inèdit.
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 41/1, enero-junio 2011, pp. 31-57. ISSN 0066-5061
+         ELS BARBERS DE LA CIUTAT DE VALÈNCIA DURANT EL SEGLE XV                          57
+
+practicants durant el segle XV. Les oportunitats de progrés social per als practicants
+de la medicina i les seues famílies en aquell context foren molt evidents, especialment
+per als barbers, l’autèntic paraigua sanitari des de les primeres dècades d’existència
+del regne, després de la seua conquesta en 1238. Prompte el col·lectiu va assolir uns
+privilegis, els quals es poden observar en la institucionalització corporativa religiosa i
+professional de l’ofici ja des del segle XIII i culminat a mitjan del XV.
+           Totes aquestes bones perspectives provocaren l’increment accelerat
+d’aquests practicants de la medicina i va posar en dificultats la convivència de tants
+individus dedicats a aquesta labor. És per això que, davant les dificultats econòmiques
+dels joves barbers, bastants d’ells nouvinguts a la ciutat, s’evidencia la necessitat
+de buscar una eixida laboral en àmbits diversos, i treballant i convivint amb altres
+barbers. Són aquests els individus que ens apareixeran a les fonts judicials i que quasi
+mai ho farien a la resta dels registres escrits.
+           La violència de signe divers de la qual participaren nombrosos barbers és
+un testimoni de les grans dificultats per sobreviure en un ambient urbà hostil en el
+que només els que utilitzen millor les seues armes, i teixeixen millor les estratègies,
+els més forts i també els més afortunats, podien sobreviure. Els productes d’aquesta
+violència, les habituals nafres que els grups de menestrals s’infligien als carrers, foren
+al mateix temps una de les raons d’existir el nodrit grup de barbers valencians.
+Fecha de recepción del artículo: Septiembre 2010
+Fecha de aceptación y versión final: Enero 2011
+
+
+
+
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 41/1, enero-junio 2011, pp. 31-57. ISSN 0066-5061
+

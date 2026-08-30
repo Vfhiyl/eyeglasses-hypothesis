@@ -1,0 +1,7 @@
+spec,n_pairs,median_delta,boot95_lo,boot95_hi,n_ge_5,n_ge_15,sesoi5,sesoi15,note
+primary_all,37,-2.97,-4,2,11,2,FAIL_OR_UNAVAILABLE,FAIL,
+drop_T_eq_0,34,0.3,-3,2.5,11,2,FAIL_OR_UNAVAILABLE,FAIL,
+drop_artisan,35,-3,-7,2,10,2,FAIL_OR_UNAVAILABLE,FAIL,
+drop_T0_and_artisan,32,-1.485,-3.5,3,10,2,FAIL_OR_UNAVAILABLE,FAIL,
+merchant_matched_primary,4,-5.735,-15,0,0,0,FAIL_OR_UNAVAILABLE,FAIL,
+merchant_pooled_italy_curated,4,-9.5,-18.47,5.5,1,0,FAIL_OR_UNAVAILABLE,FAIL,pooled_C_median=24.5; n_curated_merchantish=12

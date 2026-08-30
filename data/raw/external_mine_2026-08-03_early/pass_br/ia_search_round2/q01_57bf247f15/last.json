@@ -1,0 +1,1879 @@
+{
+  "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785941216113",
+  "version": "1x7o",
+  "session_context": {
+    "session_key": "user__alanobrienterry918272@gmail.com",
+    "created": "2026-08-05T14:47:00Z",
+    "client_characterization": {
+      "characterized_by": "asserted_or_authenticated",
+      "preferred_client_ip": null,
+      "client_ip": "152.110.192.251:sra",
+      "preferred_client_useragent": null,
+      "client_useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36:sua",
+      "preferred_client_id": null,
+      "client_id": "alanobrienterry918272@gmail.com:sco"
+    },
+    "username": "alanobrienterry918272@gmail.com",
+    "authentication_method": "cookie",
+    "is_system": false,
+    "is_guest": false,
+    "is_user": true,
+    "is_archive_user": false,
+    "is_qualified": false,
+    "is_archivist": false,
+    "has_universal_privs": false,
+    "has_collection_priv": false,
+    "has_allowed_host_priv": false,
+    "has_vpn_host_priv": false,
+    "has_scan_center_priv": false,
+    "has_any_priv": false,
+    "has_any_priv_permissive": false,
+    "pps": {
+      "is_page_target_owner": false,
+      "contributed_review_on_page": false,
+      "full_text_search_override": false,
+      "sees_sensitive_fields": false
+    },
+    "pps_relevant_user_preferences": {
+      "display__blur_moderated_content": "on"
+    }
+  },
+  "request": {
+    "client_request_parameters": {
+      "client": "page_production_service_endpoint",
+      "user_query": "title:(\"household book\" OR \"household books\") mediatype:texts",
+      "hits_per_page": 30,
+      "page": 1,
+      "aggregations": [],
+      "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785941216113",
+      "client_url": "https://archive.org/search?query=title%3A%28%22household+book%22+OR+%22household+books%22%29+mediatype%3Atexts"
+    },
+    "backend_requests": {
+      "search": {
+        "root": "(self)",
+        "children": [
+          "collection_title_fetch__a4deef916e5c8cdefaef8a6bad4542ca"
+        ],
+        "request_type": "search",
+        "finalized_parameters": {
+          "client": "page_production_service_endpoint",
+          "user_query": "(redacted)",
+          "hits_per_page": 30,
+          "page": 1,
+          "aggregations": [],
+          "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785941216113",
+          "client_url": "https://archive.org/search?query=title%3A%28%22household+book%22+OR+%22household+books%22%29+mediatype%3Atexts",
+          "page_type": "search_results",
+          "fields": [
+            "_tile_"
+          ],
+          "sort": [
+            "_relevance_:desc",
+            "identifier"
+          ],
+          "aggregations_size": 10,
+          "service_backend": "metadata",
+          "scope": "standard",
+          "feature_flags": {
+            "complex_facets": true,
+            "collection_titles": true,
+            "redact_collections": true,
+            "redact_collections_by_privs": false,
+            "redact_empty_collections": true,
+            "redact_admin_collections": true,
+            "protect_flagging_collections": true
+          },
+          "service": "service__metadata__load_balanced"
+        }
+      },
+      "collection_title_fetch__a4deef916e5c8cdefaef8a6bad4542ca": {
+        "root": "search",
+        "parent": "search",
+        "request_type": "collection_title_fetch",
+        "finalized_parameters": {
+          "page_type": "document_fetch",
+          "user_query": "(redacted)",
+          "aggregations": [],
+          "caching": null,
+          "fields": [
+            "identifier",
+            "title"
+          ],
+          "search_as_system": true,
+          "page": 1,
+          "hits_per_page": 250,
+          "sort": [
+            "_efficient_"
+          ],
+          "service_backend": "metadata",
+          "scope": "ill,printdisabled_and_music,scancenter",
+          "service": "service__metadata__load_balanced"
+        }
+      }
+    }
+  },
+  "caching": {
+    "search": {
+      "name": "PPS-1x7o-J:XX-RT:s~hit-T:sr-Q:184a1fef-H:30-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+      "acceptable_names": [
+        "PPS-1x7o-J:XX-RT:s~std-T:sr-Q:184a1fef-H:30-B:mds-RS:sta~CS::P:0+CS:some+BR:1"
+      ],
+      "configuration": {
+        "requested": [],
+        "finalized": {
+          "bypass": false,
+          "recompute": false,
+          "no_compute": false,
+          "ttl_s": 300,
+          "max_age_s": 0,
+          "miss_policy": "none"
+        }
+      },
+      "utilization": {
+        "went_to_cache": true,
+        "alternates_allowed": true,
+        "hit_alternate": false,
+        "hit_canonical": true,
+        "hit": true,
+        "miss": true,
+        "recomputed": false,
+        "stored": false,
+        "acceptable_names_tried": [
+          "PPS-1x7o-J:XX-RT:s~std-T:sr-Q:184a1fef-H:30-B:mds-RS:sta~CS::P:0+CS:some+BR:1"
+        ],
+        "elapsed_s": 0.006456851959228516
+      },
+      "statsd_bucket": "search.pps.cache.metadata.search_results"
+    },
+    "collection_title_fetch__a4deef916e5c8cdefaef8a6bad4542ca": {
+      "name": "PPS-1x7o-J:XX-RT:ctf-T:df-Q:751f1f6e-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1",
+      "acceptable_names": [],
+      "configuration": {
+        "requested": [],
+        "finalized": {
+          "bypass": false,
+          "recompute": false,
+          "no_compute": false,
+          "ttl_s": 300,
+          "max_age_s": 0,
+          "miss_policy": "none"
+        }
+      },
+      "utilization": {
+        "went_to_cache": true,
+        "alternates_allowed": true,
+        "hit_alternate": false,
+        "hit_canonical": true,
+        "hit": true,
+        "miss": false,
+        "recomputed": false,
+        "stored": false,
+        "elapsed_s": 0.00925588607788086
+      },
+      "statsd_bucket": "search.pps.cache.metadata.search_results"
+    },
+    "summary": {
+      "fetched": [
+        "PPS-1x7o-J:XX-RT:s~hit-T:sr-Q:184a1fef-H:30-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:XX-RT:ctf-T:df-Q:751f1f6e-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "computed": [],
+      "stored": [],
+      "missed": [],
+      "bypassed": []
+    }
+  },
+  "elapsed_secs": 0.03519320487976074,
+  "response": {
+    "header": {
+      "succeeded": true,
+      "query_time": 54,
+      "forensics": {
+        "client_characterization": {
+          "client_ip": "212.47.145.211:sra",
+          "client_id": "alanobrienterry918272@gmail.com:sco",
+          "client_useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36:sua",
+          "preferred_client_ip": null,
+          "preferred_client_id": null,
+          "preferred_client_useragent": null,
+          "application_id": {
+            "session": [
+              "pageproduction"
+            ],
+            "request": []
+          },
+          "client_jurisdiction": "AZ",
+          "preferred_client_jurisdiction": null,
+          "actionable_jurisdiction": "XX",
+          "characterized_by": "asserted_or_authenticated",
+          "ensured": true
+        },
+        "routing": {
+          "backend": "es-prod-metadatasearch-filtered",
+          "backend_server": "es-prod-client-o-07",
+          "routed_to_load_balanced": true,
+          "index_addressed": "prod-o-001"
+        },
+        "backend_request_elapsed_secs": {
+          "search": 0.006456851959228516,
+          "collection_title_fetch__a4deef916e5c8cdefaef8a6bad4542ca": 0.00925588607788086
+        }
+      },
+      "elapsed_secs_for_backend_requests": 0.015712738037109375
+    },
+    "body": {
+      "hits": {
+        "total": 68,
+        "returned": 30,
+        "hits": [
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "christianaawdrys0000awdr",
+              "title": "Christiana Awdry's household book",
+              "description": "126 p. : 22 cm",
+              "subject": [
+                "Cooking, British -- History -- 18th century",
+                "Home economics -- Great Britain -- History",
+                "Great Britain -- Social life and customs -- 18th century"
+              ],
+              "creator": [
+                "Awdry, Christiana"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "1995-01-01T00:00:00Z",
+              "year": 1995,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 326733906,
+              "files_count": 31,
+              "downloads": 35,
+              "week": 0,
+              "month": 5,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_browse",
+              "addeddate": "2024-02-23T19:24:35Z",
+              "publicdate": "2023-09-05T15:04:34Z"
+            },
+            "highlight": null,
+            "_score": [
+              42.380665
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "mrsbeetonshouseh0000beet_t0l9",
+              "title": "Mrs Beeton's household book",
+              "description": "287 p. : 25 cm",
+              "subject": [
+                "Home economics -- Handbooks, manuals, etc"
+              ],
+              "creator": [
+                "Beeton, Mrs. (Isabella Mary), 1836-1865"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "2007-01-01T00:00:00Z",
+              "year": 2007,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 14,
+              "item_size": 629638352,
+              "files_count": 34,
+              "downloads": 100,
+              "week": 1,
+              "month": 4,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_browse",
+              "addeddate": "2023-02-12T07:13:42Z",
+              "publicdate": "2023-02-08T06:11:44Z"
+            },
+            "highlight": null,
+            "_score": [
+              42.258476
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "bwb_C0-BNZ-598_r1h3",
+              "title": "Woman's Home Companion: Household Book",
+              "creator": [
+                "Henry Humphrey"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "1948-01-01T00:00:00Z",
+              "year": 1948,
+              "mediatype": "texts",
+              "num_favorites": 1,
+              "item_size": 2776408967,
+              "files_count": 27,
+              "downloads": 2,
+              "week": 1,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_browse",
+              "addeddate": "2026-03-16T04:45:30Z",
+              "publicdate": "2025-09-06T06:17:19Z"
+            },
+            "highlight": null,
+            "_score": [
+              39.87279
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "householdbookofp04dana",
+              "title": "The household book of poetry",
+              "description": "xxxii, 862 p. 23 x 20 cm",
+              "subject": [
+                "English poetry",
+                "American poetry"
+              ],
+              "creator": [
+                "Dana, Charles A. (Charles Anderson), 1819-1897, ed"
+              ],
+              "collection": [
+                "library_of_congress"
+              ],
+              "date": "1903-01-01T00:00:00Z",
+              "year": 1903,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 1547766428,
+              "files_count": 23,
+              "downloads": 1704,
+              "week": 3,
+              "month": 8,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2011-06-17T15:29:41Z",
+              "publicdate": "2011-06-17T15:29:46Z"
+            },
+            "highlight": null,
+            "_score": [
+              39.87279
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "householdbookofp0000char",
+              "title": "The household book of poetry",
+              "creator": [
+                "Charles A. Dana"
+              ],
+              "collection": [
+                "internetarchivebooks"
+              ],
+              "date": "1866-01-01T00:00:00Z",
+              "year": 1866,
+              "mediatype": "texts",
+              "num_favorites": 1,
+              "item_size": 1533628824,
+              "files_count": 26,
+              "downloads": 105,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "addeddate": "2025-07-23T00:25:53Z",
+              "publicdate": "2025-07-18T19:22:58Z"
+            },
+            "highlight": null,
+            "_score": [
+              39.765427
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "householdbookofp06dana",
+              "title": "The household book of poetry",
+              "description": "xxvii, 816 p. 21 cm",
+              "subject": [
+                "English poetry",
+                "American poetry"
+              ],
+              "creator": [
+                "Dana, Charles Anderson, 1819-1897, [from old catalog] comp"
+              ],
+              "collection": [
+                "library_of_congress"
+              ],
+              "date": "1882-01-01T00:00:00Z",
+              "year": 1882,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 1,
+              "item_size": 1697073789,
+              "files_count": 23,
+              "downloads": 1259,
+              "week": 1,
+              "month": 5,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2011-06-17T15:32:10Z",
+              "publicdate": "2011-06-17T15:32:12Z"
+            },
+            "highlight": null,
+            "_score": [
+              39.741894
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "householdbookofp00danauoft",
+              "title": "The household book of poetry",
+              "description": "26",
+              "subject": [
+                "English poetry -- Collections"
+              ],
+              "creator": [
+                "Dana, Charles A. (Charles Anderson), 1819-1897"
+              ],
+              "collection": [
+                "robarts",
+                "university_of_toronto"
+              ],
+              "date": "1868-01-01T00:00:00Z",
+              "year": 1868,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 3,
+              "item_size": 1277054884,
+              "files_count": 23,
+              "downloads": 1328,
+              "week": 5,
+              "month": 25,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2007-09-29T01:06:50Z",
+              "publicdate": "2007-09-29T01:06:54Z"
+            },
+            "highlight": null,
+            "_score": [
+              39.71062
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "householdbookofp07dana",
+              "title": "The household book of poetry",
+              "description": "2 p. l, [vii]-xxvi, 798 p. 25 cm",
+              "subject": [
+                "English poetry",
+                "American poetry"
+              ],
+              "creator": [
+                "Dana, Charles A. (Charles Anderson), 1819-1897, comp"
+              ],
+              "collection": [
+                "library_of_congress"
+              ],
+              "date": "1859-01-01T00:00:00Z",
+              "year": 1859,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 1516274346,
+              "files_count": 23,
+              "downloads": 1461,
+              "week": 4,
+              "month": 42,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2011-06-30T16:48:04Z",
+              "publicdate": "2011-06-30T16:48:11Z"
+            },
+            "highlight": null,
+            "_score": [
+              39.71062
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "householdbookpo00danagoog",
+              "title": "The household book of poetry",
+              "description": "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+              "subject": [
+                "English poetry",
+                "American poetry"
+              ],
+              "creator": [
+                "Dana, Charles A. (Charles Anderson), 1819-1897, comp"
+              ],
+              "collection": [],
+              "date": "1970-01-01T00:00:00Z",
+              "year": 1970,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 600015699,
+              "files_count": 20,
+              "downloads": 3925,
+              "week": 2,
+              "month": 12,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2009-03-09T09:36:42Z",
+              "source": "http://books.google.com/books?id=bx03898RUUwC&oe=UTF-8",
+              "publicdate": "2009-03-09T09:36:42Z"
+            },
+            "highlight": null,
+            "_score": [
+              39.71062
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "householdbookpo01danagoog",
+              "title": "The household book of poetry",
+              "description": "Book digitized by Google from the library of the University of Michigan and uploaded to the Internet Archive by user tpb.",
+              "subject": [
+                "English poetry",
+                "American poetry"
+              ],
+              "creator": [
+                "Charles Anderson Dana"
+              ],
+              "collection": [],
+              "date": "1970-01-01T00:00:00Z",
+              "year": 1970,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 410591050,
+              "files_count": 21,
+              "downloads": 1598,
+              "week": 5,
+              "month": 19,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2008-05-19T12:42:11Z",
+              "source": "http://books.google.com/books?id=mJ4nAAAAMAAJ&oe=UTF-8",
+              "publicdate": "2008-05-19T12:42:11Z"
+            },
+            "highlight": null,
+            "_score": [
+              39.71062
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "householdbookpo00unkngoog",
+              "title": "The household book of poetry",
+              "description": "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+              "subject": [
+                "English poetry",
+                "American poetry"
+              ],
+              "creator": [
+                "Dana, Charles A. (Charles Anderson), 1819-1897, comp"
+              ],
+              "collection": [],
+              "date": "1970-01-01T00:00:00Z",
+              "year": 1970,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 397407559,
+              "files_count": 20,
+              "downloads": 4071,
+              "week": 58,
+              "month": 318,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2008-05-27T23:55:48Z",
+              "source": "http://books.google.com/books?id=SPdIYnMubjwC&oe=UTF-8",
+              "publicdate": "2008-05-27T23:55:48Z"
+            },
+            "highlight": null,
+            "_score": [
+              39.668446
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "womanshomecompan0000na",
+              "title": "Woman's Home Companion Household Book",
+              "creator": [
+                "n/a"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "1950-01-01T00:00:00Z",
+              "year": 1950,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 1,
+              "item_size": 1985490169,
+              "files_count": 28,
+              "downloads": 5,
+              "week": 0,
+              "month": 2,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_browse",
+              "addeddate": "2026-03-24T15:01:30Z",
+              "publicdate": "2024-02-18T00:57:06Z"
+            },
+            "highlight": null,
+            "_score": [
+              39.668446
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "bwb_C0-CEH-376",
+              "title": "Woman's Home Companion Household Book",
+              "creator": [
+                "Henry Humpherey"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "1948-01-01T00:00:00Z",
+              "year": 1948,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 1911558123,
+              "files_count": 27,
+              "downloads": 1,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_browse",
+              "addeddate": "2026-03-16T04:54:09Z",
+              "publicdate": "2025-05-22T10:10:33Z"
+            },
+            "highlight": null,
+            "_score": [
+              39.635693
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "householdbookofp05dana",
+              "title": "The household book of poetry..",
+              "description": "1 v",
+              "creator": [
+                "Dana, Charles A., [from old catalog] ed"
+              ],
+              "collection": [
+                "library_of_congress"
+              ],
+              "date": "1883-01-01T00:00:00Z",
+              "year": 1883,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 1700984125,
+              "files_count": 23,
+              "downloads": 528,
+              "week": 1,
+              "month": 9,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2011-06-17T15:30:11Z",
+              "publicdate": "2011-06-17T15:30:14Z"
+            },
+            "highlight": null,
+            "_score": [
+              39.62802
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "householdbookofp0000dana",
+              "title": "The household book of poetry",
+              "description": "xxxii, 862 p. 21 cm",
+              "subject": [
+                "English poetry",
+                "American poetry"
+              ],
+              "creator": [
+                "Dana, Charles A. (Charles Anderson), 1819-1897, comp"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "1970-01-01T00:00:00Z",
+              "year": 1970,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 2658852388,
+              "files_count": 33,
+              "downloads": 16,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": true,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_borrow",
+              "addeddate": "2022-04-19T17:12:47Z",
+              "publicdate": "2022-04-13T01:29:48Z"
+            },
+            "highlight": null,
+            "_score": [
+              39.56177
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "householdbookofp03dana",
+              "title": "The household book of poetry",
+              "description": "1 p. l., [v]-xxvii, 816 p. 25 cm",
+              "subject": [
+                "English poetry",
+                "American poetry"
+              ],
+              "creator": [
+                "Dana, Charles A. (Charles Anderson), 1819-1897, comp"
+              ],
+              "collection": [
+                "library_of_congress"
+              ],
+              "date": "1869-01-01T00:00:00Z",
+              "year": 1869,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 1176271572,
+              "files_count": 22,
+              "downloads": 685,
+              "week": 1,
+              "month": 6,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2009-10-20T15:34:30Z",
+              "publicdate": "2009-10-20T15:35:12Z"
+            },
+            "highlight": null,
+            "_score": [
+              39.56177
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "householdbookofp01dana",
+              "title": "The household book of poetry",
+              "description": "xxvii, 816 p. ; 25 cm",
+              "subject": [
+                "English poetry",
+                "American poetry"
+              ],
+              "creator": [
+                "Dana, Charles Anderson, 1819-1897, comp. [from old catalog]"
+              ],
+              "collection": [
+                "library_of_congress"
+              ],
+              "date": "1867-01-01T00:00:00Z",
+              "year": 1867,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 1067299599,
+              "files_count": 22,
+              "downloads": 1352,
+              "week": 1,
+              "month": 6,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2009-10-20T15:04:40Z",
+              "publicdate": "2009-10-20T15:05:20Z"
+            },
+            "highlight": null,
+            "_score": [
+              39.55851
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "householdbookofp02dana",
+              "title": "The household book of poetry",
+              "description": "xxvii, 816 p. 22 cm",
+              "subject": [
+                "English poetry",
+                "American poetry"
+              ],
+              "creator": [
+                "Dana, Charles Anderson, 1819-1897, [from old catalog] comp"
+              ],
+              "collection": [
+                "library_of_congress"
+              ],
+              "date": "1875-01-01T00:00:00Z",
+              "year": 1875,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 1280957362,
+              "files_count": 22,
+              "downloads": 1227,
+              "week": 2,
+              "month": 8,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2009-10-20T15:34:03Z",
+              "publicdate": "2009-10-20T15:34:07Z"
+            },
+            "highlight": null,
+            "_score": [
+              39.511856
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "poetryhouse00dana",
+              "title": "The household book of poetry",
+              "description": "xxvii, 816 p., [11] leaves of plates : 30 cm",
+              "subject": [
+                "English poetry",
+                "American poetry"
+              ],
+              "creator": [
+                "Dana, Charles A. (Charles Anderson), 1819-1897"
+              ],
+              "collection": [
+                "cdl"
+              ],
+              "date": "1866-01-01T00:00:00Z",
+              "year": 1866,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 4945005190,
+              "files_count": 24,
+              "downloads": 2122,
+              "week": 0,
+              "month": 12,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2008-01-25T01:39:45Z",
+              "publicdate": "2008-01-25T01:40:20Z"
+            },
+            "highlight": null,
+            "_score": [
+              39.511856
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "cu31924013288364",
+              "title": "The household book of poetry",
+              "description": "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions.",
+              "subject": [
+                "English poetry"
+              ],
+              "creator": [
+                "Dana, Charles A. (Charles Anderson), 1819-1897"
+              ],
+              "collection": [
+                "cornell"
+              ],
+              "date": "1865-01-01T00:00:00Z",
+              "year": 1865,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 2,
+              "item_size": 1278662301,
+              "files_count": 21,
+              "downloads": 1457,
+              "week": 6,
+              "month": 41,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2009-10-28T17:35:31Z",
+              "publicdate": "2009-11-01T03:33:38Z"
+            },
+            "highlight": null,
+            "_score": [
+              39.446552
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "householdbookofp00dana",
+              "title": "The household book of poetry",
+              "description": "xxxii, 862 p. 23 x 20 cm",
+              "creator": [
+                "Dana, Charles A. (Charles Anderson), 1819-1897"
+              ],
+              "collection": [
+                "cdl"
+              ],
+              "date": "1882-01-01T00:00:00Z",
+              "year": 1882,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 1,
+              "item_size": 5435694318,
+              "files_count": 23,
+              "downloads": 2095,
+              "week": 1,
+              "month": 13,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2008-01-25T01:38:02Z",
+              "publicdate": "2008-01-25T01:41:16Z"
+            },
+            "highlight": null,
+            "_score": [
+              39.446552
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "householdbookofp00dana_0",
+              "title": "The household book of poetry",
+              "description": "xxxii, 862 p. 23 x 20 cm",
+              "subject": [
+                "English poetry",
+                "American poetry"
+              ],
+              "creator": [
+                "Dana, Charles A. (Charles Anderson), 1819-1897"
+              ],
+              "collection": [
+                "university_of_illinois_urbana-champaign"
+              ],
+              "date": "1898-01-01T00:00:00Z",
+              "year": 1898,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 1,
+              "item_size": 1353887901,
+              "files_count": 22,
+              "downloads": 285,
+              "week": 2,
+              "month": 13,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2016-06-15T17:18:38Z",
+              "publicdate": "2016-06-15T16:10:29Z"
+            },
+            "highlight": null,
+            "_score": [
+              39.40915
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "ahouseholdbooke00ddgoog",
+              "title": "a household book of english poetry",
+              "description": "Book digitized by Google from the library of Oxford University and uploaded to the Internet Archive by user tpb.",
+              "subject": [
+                "thy",
+                "thee",
+                "household",
+                "english",
+                "doth",
+                "sweet",
+                "hath",
+                "book",
+                "vain",
+                "heaven",
+                "household book",
+                "sir walter",
+                "hotisehold book",
+                "thy nature",
+                "public domain",
+                "sir william",
+                "nae mair",
+                "hear thy",
+                "thy love",
+                "love thee"
+              ],
+              "creator": [
+                "richard chenevix trench, d.d."
+              ],
+              "collection": [
+                "europeanlibraries"
+              ],
+              "date": "1870-01-01T00:00:00Z",
+              "year": 1870,
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "item_size": 55884808,
+              "files_count": 13,
+              "downloads": 695,
+              "week": 1,
+              "month": 4,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2008-04-22T10:26:00Z",
+              "source": "http://books.google.com/books?id=4mcCAAAAQAAJ&oe=UTF-8",
+              "publicdate": "2008-04-22T10:26:00Z"
+            },
+            "highlight": null,
+            "_score": [
+              37.66387
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "householdbookofa00varg",
+              "title": "The household book of animal medicine",
+              "description": "Includes index",
+              "subject": [
+                "Pets",
+                "Veterinary medicine"
+              ],
+              "creator": [
+                "Vargoshe, Richard",
+                "Steinberg, Peter, joint author"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "1980-01-01T00:00:00Z",
+              "year": 1980,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 1,
+              "item_size": 286700455,
+              "files_count": 29,
+              "downloads": 57,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_browse",
+              "addeddate": "2011-09-28T15:55:13Z",
+              "publicdate": "2011-09-28T15:55:16Z"
+            },
+            "highlight": null,
+            "_score": [
+              37.66387
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "ahouseholdbooke01trengoog",
+              "title": "A Household Book of English Poetry",
+              "description": "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+              "subject": [
+                "thy",
+                "thee",
+                "household",
+                "english",
+                "doth",
+                "sweet",
+                "hath",
+                "book",
+                "heaven",
+                "vain",
+                "household book",
+                "sir walter",
+                "thy nature",
+                "public domain",
+                "percy bysshe",
+                "sir william",
+                "nae mair",
+                "hear thy",
+                "thy love",
+                "life doth"
+              ],
+              "creator": [
+                "Richard Chenevix Trench"
+              ],
+              "collection": [],
+              "date": "1870-01-01T00:00:00Z",
+              "year": 1870,
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "item_size": 57621794,
+              "files_count": 13,
+              "downloads": 382,
+              "week": 1,
+              "month": 3,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2008-04-22T12:03:52Z",
+              "source": "http://books.google.com/books?id=ToqLTRWOhlgC&oe=UTF-8",
+              "publicdate": "2008-04-22T12:03:52Z"
+            },
+            "highlight": null,
+            "_score": [
+              37.53781
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "ahouseholdbooke02trengoog",
+              "title": "A Household Book of English Poetry",
+              "description": "Book digitized by Google from the library of Oxford University and uploaded to the Internet Archive by user tpb.",
+              "subject": [
+                "thy",
+                "thee",
+                "household",
+                "english",
+                "doth",
+                "sweet",
+                "hath",
+                "book",
+                "vain",
+                "going",
+                "household book",
+                "sir walter",
+                "hotisehold book",
+                "thy nature",
+                "sir william",
+                "public domain",
+                "percy bysshe",
+                "nae mair",
+                "hear thy",
+                "thy love"
+              ],
+              "creator": [
+                "Richard Chenevix Trench"
+              ],
+              "collection": [
+                "europeanlibraries"
+              ],
+              "date": "1870-01-01T00:00:00Z",
+              "year": 1870,
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 1,
+              "item_size": 50250949,
+              "files_count": 13,
+              "downloads": 524,
+              "week": 0,
+              "month": 6,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2008-07-21T02:35:54Z",
+              "source": "http://books.google.com/books?id=S8kNAAAAQAAJ&oe=UTF-8",
+              "publicdate": "2008-07-21T02:35:54Z"
+            },
+            "highlight": null,
+            "_score": [
+              37.53781
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "TheHouseholdBookOfIrishEloquence",
+              "title": "The Household book of Irish eloquence:",
+              "description": "Digitized by Google.",
+              "subject": [
+                "Speeches",
+                "Speeches, addresses, etc., English -- Irish authors",
+                "Speeches, addresses, etc., English",
+                "English prose literature",
+                "English prose literature -- Irish authors"
+              ],
+              "creator": [
+                "Member of the New York bar"
+              ],
+              "collection": [
+                "folkscanomy_miscellaneous",
+                "folkscanomy"
+              ],
+              "date": "1889-01-01T00:00:00Z",
+              "year": 1889,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
+              "item_size": 1044178699,
+              "files_count": 20,
+              "downloads": 327,
+              "week": 0,
+              "month": 4,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2016-02-29T16:05:37Z",
+              "publicdate": "2016-02-29T16:05:37Z"
+            },
+            "highlight": null,
+            "_score": [
+              37.53781
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "foodfreedomhouse00purd",
+              "title": "Food and freedom; a household book",
+              "description": "Contains \"References.\"",
+              "subject": [
+                "Food conservation",
+                "Cookery",
+                "cbk"
+              ],
+              "creator": [
+                "Purdy, Mabel Dulon"
+              ],
+              "collection": [
+                "newyorkpubliclibrary"
+              ],
+              "date": "1918-01-01T00:00:00Z",
+              "year": 1918,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 4,
+              "item_size": 1625577702,
+              "files_count": 25,
+              "downloads": 1141,
+              "week": 6,
+              "month": 18,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2007-10-15T15:41:05Z",
+              "publicdate": "2007-10-15T15:41:09Z"
+            },
+            "highlight": null,
+            "_score": [
+              37.51859
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "householdbookofi02newy",
+              "title": "The Household book of Irish eloquence:",
+              "description": "vi p., 1 l., 24 cm",
+              "subject": [
+                "Speeches, addresses, etc., English",
+                "English prose literature"
+              ],
+              "collection": [
+                "library_of_congress"
+              ],
+              "date": "1889-01-01T00:00:00Z",
+              "year": 1889,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 1,
+              "item_size": 1023206084,
+              "files_count": 23,
+              "downloads": 427,
+              "week": 0,
+              "month": 3,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2011-06-09T15:09:12Z",
+              "publicdate": "2011-06-09T15:09:16Z"
+            },
+            "highlight": null,
+            "_score": [
+              37.442947
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "householdbookofi00newy",
+              "title": "The Household book of Irish eloquence:",
+              "description": "vi p., 1 l., 23 cm",
+              "subject": [
+                "Speeches, addresses, etc., English",
+                "English prose literature"
+              ],
+              "creator": [
+                "New York, bar, Member of the. [from old catalog]"
+              ],
+              "collection": [
+                "library_of_congress"
+              ],
+              "date": "1871-01-01T00:00:00Z",
+              "year": 1871,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 1133326318,
+              "files_count": 23,
+              "downloads": 401,
+              "week": 0,
+              "month": 5,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2011-06-09T15:01:46Z",
+              "publicdate": "2011-06-09T15:01:49Z"
+            },
+            "highlight": null,
+            "_score": [
+              37.367302
+            ]
+          }
+        ]
+      },
+      "collection_titles": {
+        "cdl": "California Digital Library",
+        "europeanlibraries": "European Libraries",
+        "robarts": "University of Toronto - Robarts Library",
+        "internetarchivebooks": "Internet Archive Books",
+        "university_of_illinois_urbana-champaign": "University of Illinois Urbana-Champaign",
+        "library_of_congress": "The Library of Congress",
+        "newyorkpubliclibrary": "New York Public Library",
+        "university_of_toronto": "University of Toronto",
+        "folkscanomy_miscellaneous": "Folkscanomy Miscellaneous",
+        "folkscanomy": "Folkscanomy: A Library of Books",
+        "cornell": "Cornell University Library"
+      }
+    },
+    "hit_schema": {
+      "item": {
+        "identifier": {
+          "multivalue": false,
+          "mapping": "string"
+        },
+        "noindex": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "optional": true
+        },
+        "title": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "description": {
+          "multivalue": false,
+          "mapping": "string",
+          "dressing": {
+            "truncate": 1000
+          },
+          "optional": true
+        },
+        "subject": {
+          "multivalue": true,
+          "mapping": "string",
+          "dressing": {
+            "truncate": 1000
+          },
+          "optional": true
+        },
+        "creator": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "collection": {
+          "multivalue": true,
+          "mapping": "string",
+          "comment": "may be a superset of metadata collection field"
+        },
+        "date": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "year": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed from date",
+          "optional": true
+        },
+        "genre": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "volume": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "type": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "language": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "mediatype": {
+          "multivalue": false,
+          "mapping": "string"
+        },
+        "licenseurl": {
+          "multivalue": false,
+          "mapping": "string__url",
+          "optional": true
+        },
+        "num_favorites": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true,
+          "comment": "computed during document construction"
+        },
+        "num_reviews": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true,
+          "comment": "computed during document construction"
+        },
+        "item_size": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "bytes; computed during document construction"
+        },
+        "files_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction"
+        },
+        "item_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction",
+          "optional": true
+        },
+        "displayed_item_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction, may be inferred from item_count",
+          "optional": true
+        },
+        "collection_files_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction, for collection items only",
+          "optional": true
+        },
+        "collection_size": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "bytes; computed during document construction, for collection items only",
+          "optional": true
+        },
+        "downloads": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "total views over item lifetime, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "week": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "views over a seven-day period, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "month": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "views over a month, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "indexflag": {
+          "multivalue": true,
+          "mapping": "string",
+          "comment": "item characterization including noindex status"
+        },
+        "lending___available_to_borrow": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___available_to_browse": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___available_to_waitlist": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___status": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "avg_rating": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true
+        },
+        "addeddate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "issue": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "format varies",
+          "optional": true
+        },
+        "source": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "format varies",
+          "optional": true
+        },
+        "reviewdate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "publicdate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "date_favorited": {
+          "multivalue": false,
+          "mapping": "date",
+          "comment": "not metadata; only present in favorites lists, sourced from Lists API",
+          "optional": true
+        },
+        "reviews_data": {
+          "multivalue": true,
+          "dressing": {
+            "truncate": false
+          },
+          "mapping": "string",
+          "comment": "untruncated JSON encoded data used for Account reviews",
+          "optional": true
+        }
+      }
+    }
+  }
+}

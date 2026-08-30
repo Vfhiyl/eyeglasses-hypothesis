@@ -1,0 +1,47 @@
+{
+  "pass": "U",
+  "date": "2026-08-03",
+  "direction": "Manfredo termini densify; Rhodes 1416 will via citers; Castilian anteojos; René/Labarte/Douët/Baye densify; Ilardi-book OA citers; Belluga WD identity check; local living-purchase rescan",
+  "ingest": null,
+  "results": {
+    "manfredo_1316": {
+      "decision": "HOLD — living expense pair; WD empty; OA/IA no birth/death"
+    },
+    "rhodes_1416_will": {
+      "decision": "CLOSED this pass — Rhodes 1982 still paywalled; no named 1416/1423 testator"
+    },
+    "castilian_anteojos": {
+      "decision": "DRY"
+    },
+    "rene_lecoy": {
+      "decision": "SKIP — Tourneville agent for René (Pass T)"
+    },
+    "labarte_charles_v": {
+      "decision": "EXCLUDE — lunettes de myroer = mirror disks"
+    },
+    "douet_charles_vi": {
+      "decision": "DRY"
+    },
+    "baye_journal": {
+      "decision": "SKIP — only Nicolas self-report already onsetish"
+    },
+    "belluga_wd": {
+      "qid_checked": [
+        "Q6072225",
+        "Q84569928"
+      ],
+      "decision": "HOLD — jurist ≠ apotecari; birth still missing"
+    },
+    "ilardi_book_citers": {
+      "openalex": "W2011343584",
+      "decision": "DRY for Cleux-bar"
+    },
+    "local_living_rescan": {
+      "decision": "DRY — noise only"
+    },
+    "piceto_rinaldo": {
+      "decision": "HOLD — no OA termini/bio"
+    }
+  },
+  "new_cleux_bar_promote": null
+}

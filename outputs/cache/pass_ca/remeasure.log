@@ -1,0 +1,5 @@
+strict control overlays applied: +71 links; per-wearer excludes: 8
+control curated output pins: 171; elig_true=171 elig_false=114
+B1-Output: treatments with QID=47; SPARQL=False; proxy=http://127.0.0.1:12309
+wearer years written: 62; with dated works=61
+SUMMARY span n=48 med=5.0 CI=[2.25,8.0] sesoi5=PASS_RAW sesoi15=FAIL_OR_UNAVAILABLE

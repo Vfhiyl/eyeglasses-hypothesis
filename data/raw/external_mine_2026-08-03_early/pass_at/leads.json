@@ -1,0 +1,25 @@
+{
+  "pass": "AT",
+  "goal": "Arduino soft→hard; pivot Pius if thin",
+  "arduino_baiso": {
+    "result": "HARD OA-CLOSED",
+    "evidence": "Cittadella relative: 1454 Joannes filius quondam et heres Magistri Arduini (death). DBI: 1454 studio saldo + Modena Battuti only as secondary paraphrase — no day-dated multi-point post-1451 workshop series in OA Cittadella OCR.",
+    "soft_years_after": 3,
+    "hard_dated_series": false
+  },
+  "promoted_hard": [
+    "pius_ii"
+  ],
+  "pius_ii": {
+    "onset": "1461-06-02 Müntz crystal pieces ad legendum",
+    "years_after": 3,
+    "last_hard_pin": "1464-08-08 Simone bull-seal stamp",
+    "death": "1464-08-14",
+    "n_dated_near_work": 10,
+    "source": "Müntz Les arts à la cour des papes I (local OCR)",
+    "chrono": "outputs/tables/b1_pius_ii_activity_chrono.csv",
+    "hard_dated_series": true,
+    "caveat": "onset = reading crystals/magnifiers not rivet spectacles; hard flag is post-wear papal activity densify"
+  },
+  "ingest_labor_n": "unchanged"
+}

@@ -1,0 +1,567 @@
+{
+  "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785940127908",
+  "version": "1x7o",
+  "session_context": {
+    "session_key": "user__alanobrienterry918272@gmail.com",
+    "created": "2026-08-05T14:28:51Z",
+    "client_characterization": {
+      "characterized_by": "asserted_or_authenticated",
+      "preferred_client_ip": null,
+      "client_ip": "23.229.125.197:sra",
+      "preferred_client_useragent": null,
+      "client_useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36:sua",
+      "preferred_client_id": null,
+      "client_id": "alanobrienterry918272@gmail.com:sco"
+    },
+    "username": "alanobrienterry918272@gmail.com",
+    "authentication_method": "cookie",
+    "is_system": false,
+    "is_guest": false,
+    "is_user": true,
+    "is_archive_user": false,
+    "is_qualified": false,
+    "is_archivist": false,
+    "has_universal_privs": false,
+    "has_collection_priv": false,
+    "has_allowed_host_priv": false,
+    "has_vpn_host_priv": false,
+    "has_scan_center_priv": false,
+    "has_any_priv": false,
+    "has_any_priv_permissive": false,
+    "pps": {
+      "is_page_target_owner": false,
+      "contributed_review_on_page": false,
+      "full_text_search_override": false,
+      "sees_sensitive_fields": false
+    },
+    "pps_relevant_user_preferences": {
+      "display__blur_moderated_content": "on"
+    }
+  },
+  "request": {
+    "client_request_parameters": {
+      "client": "page_production_service_endpoint",
+      "user_query": "(\"paire de lunettes\" OR \"paires de lunettes\" OR \"une paire de lunettes\") AND (comptes OR maison OR dépense OR depense)",
+      "hits_per_page": 25,
+      "page": 1,
+      "aggregations": [],
+      "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785940127908",
+      "client_url": "https://archive.org/search?query=%28%22paire+de+lunettes%22+OR+%22paires+de+lunettes%22+OR+%22une+paire+de+lunettes%22%29+AND+%28comptes+OR+maison+OR+d%C3%A9pense+OR+depense%29"
+    },
+    "backend_requests": {
+      "search": {
+        "root": "(self)",
+        "children": [
+          "collection_title_fetch__efcfd7c377144f2851a883c06ffe89ae"
+        ],
+        "request_type": "search",
+        "finalized_parameters": {
+          "client": "page_production_service_endpoint",
+          "user_query": "(redacted)",
+          "hits_per_page": 25,
+          "page": 1,
+          "aggregations": [],
+          "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785940127908",
+          "client_url": "https://archive.org/search?query=%28%22paire+de+lunettes%22+OR+%22paires+de+lunettes%22+OR+%22une+paire+de+lunettes%22%29+AND+%28comptes+OR+maison+OR+d%C3%A9pense+OR+depense%29",
+          "page_type": "search_results",
+          "fields": [
+            "_tile_"
+          ],
+          "sort": [
+            "_relevance_:desc",
+            "identifier"
+          ],
+          "aggregations_size": 10,
+          "service_backend": "metadata",
+          "scope": "standard",
+          "feature_flags": {
+            "complex_facets": true,
+            "collection_titles": true,
+            "redact_collections": true,
+            "redact_collections_by_privs": false,
+            "redact_empty_collections": true,
+            "redact_admin_collections": true,
+            "protect_flagging_collections": true
+          },
+          "service": "service__metadata__load_balanced"
+        }
+      },
+      "collection_title_fetch__efcfd7c377144f2851a883c06ffe89ae": {
+        "root": "search",
+        "parent": "search",
+        "request_type": "collection_title_fetch",
+        "finalized_parameters": {
+          "page_type": "document_fetch",
+          "user_query": "(redacted)",
+          "aggregations": [],
+          "caching": null,
+          "fields": [
+            "identifier",
+            "title"
+          ],
+          "search_as_system": true,
+          "page": 1,
+          "hits_per_page": 250,
+          "sort": [
+            "_efficient_"
+          ],
+          "service_backend": "metadata",
+          "scope": "ill,printdisabled_and_music,scancenter",
+          "service": "service__metadata__load_balanced"
+        }
+      }
+    }
+  },
+  "caching": {
+    "search": {
+      "name": "PPS-1x7o-J:US-RT:s~hit-T:sr-Q:46fe7cf7-H:25-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+      "acceptable_names": [
+        "PPS-1x7o-J:US-RT:s~std-T:sr-Q:46fe7cf7-H:25-B:mds-RS:sta~CS::P:0+CS:some+BR:1"
+      ],
+      "configuration": {
+        "requested": [],
+        "finalized": {
+          "bypass": false,
+          "recompute": false,
+          "no_compute": false,
+          "ttl_s": 300,
+          "max_age_s": 0,
+          "miss_policy": "none"
+        }
+      },
+      "utilization": {
+        "went_to_cache": true,
+        "alternates_allowed": true,
+        "hit_alternate": false,
+        "hit_canonical": false,
+        "hit": false,
+        "miss": true,
+        "recomputed": true,
+        "stored": true,
+        "acceptable_names_tried": [
+          "PPS-1x7o-J:US-RT:s~std-T:sr-Q:46fe7cf7-H:25-B:mds-RS:sta~CS::P:0+CS:some+BR:1"
+        ],
+        "elapsed_s": 0.9525980949401855
+      },
+      "statsd_bucket": "search.pps.cache.metadata.search_results"
+    },
+    "collection_title_fetch__efcfd7c377144f2851a883c06ffe89ae": {
+      "name": "PPS-1x7o-J:US-RT:ctf-T:df-Q:15298ccf-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1",
+      "acceptable_names": [],
+      "configuration": {
+        "requested": [],
+        "finalized": {
+          "bypass": false,
+          "recompute": false,
+          "no_compute": false,
+          "ttl_s": 300,
+          "max_age_s": 0,
+          "miss_policy": "none"
+        }
+      },
+      "utilization": {
+        "went_to_cache": true,
+        "alternates_allowed": true,
+        "hit_alternate": false,
+        "hit_canonical": false,
+        "hit": false,
+        "miss": true,
+        "recomputed": true,
+        "stored": true,
+        "elapsed_s": 0.11698102951049805
+      },
+      "statsd_bucket": "search.pps.cache.metadata.search_results"
+    },
+    "summary": {
+      "fetched": [],
+      "computed": [
+        "PPS-1x7o-J:US-RT:s~hit-T:sr-Q:46fe7cf7-H:25-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:US-RT:ctf-T:df-Q:15298ccf-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "stored": [
+        "PPS-1x7o-J:US-RT:s~hit-T:sr-Q:46fe7cf7-H:25-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:US-RT:ctf-T:df-Q:15298ccf-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "missed": [
+        "PPS-1x7o-J:US-RT:s~hit-T:sr-Q:46fe7cf7-H:25-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:US-RT:ctf-T:df-Q:15298ccf-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "bypassed": []
+    }
+  },
+  "elapsed_secs": 1.1019718647003174,
+  "response": {
+    "header": {
+      "succeeded": true,
+      "query_time": 568,
+      "forensics": {
+        "client_characterization": {
+          "client_ip": "23.229.125.197:sra",
+          "client_id": "alanobrienterry918272@gmail.com:sco",
+          "client_useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36:sua",
+          "preferred_client_ip": null,
+          "preferred_client_id": null,
+          "preferred_client_useragent": null,
+          "application_id": {
+            "session": [
+              "pageproduction"
+            ],
+            "request": []
+          },
+          "client_jurisdiction": "US",
+          "preferred_client_jurisdiction": null,
+          "actionable_jurisdiction": "US",
+          "characterized_by": "asserted_or_authenticated",
+          "ensured": true
+        },
+        "routing": {
+          "backend": "es-prod-metadatasearch-filtered",
+          "backend_server": "es-prod-client-o-01",
+          "routed_to_load_balanced": true,
+          "index_addressed": "prod-o-001"
+        },
+        "backend_request_elapsed_secs": {
+          "search": 0.9525980949401855,
+          "collection_title_fetch__efcfd7c377144f2851a883c06ffe89ae": 0.11698102951049805
+        }
+      },
+      "elapsed_secs_for_backend_requests": 1.0695791244506836
+    },
+    "body": {
+      "hits": {
+        "total": 2,
+        "returned": 2,
+        "hits": [
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "chinatown-1974-by-robert-towne-1973.10.09",
+              "title": "Chinatown (1974)",
+              "description": "Chinatown Scénario de Robert Towne Dans les années 1930, Los Angeles est en pleine sécheresse. Evelyn Mulwray engage le détective privé Jake Gittes pour suivre son mari, ingénieur haut placé au département des eaux de la ville et soupçonné d'adultère. Hollis Mulwray s'oppose à la construction d'un barrage hydraulique, qui permettrait d'alimenter les cultures et les élevages en eau potable. Gittes finit par prendre Hollis en photo avec une autre femme. Un article racontant l'infidélité parait dans le journal, et Evelyn Mulwray vient se plaindre auprès de Gittes. Il s'avère que la personne qui l'avait engagé n'était pas la vraie Evelyn Mulwray. Peu de temps après, Hollis est retrouvé mort, noyé. Mécontent d'avoir été trompé par quelqu'un, Gittes enquête sur la mort d'Hollis et se rend compte qu'il a été assassiné pour avoir découvert que de l'eau potable est régulièrement rejetée dans la mer, ce qui accentue la sécheresse. Il découvre également que le père d'Evelyn est l'ancien associé...",
+              "subject": [
+                "Scenario",
+                "Movie",
+                "American Film",
+                "Script",
+                "Screenplay",
+                "Black Film",
+                "Police Film",
+                "Robert Towne"
+              ],
+              "creator": [
+                "Robert Towne"
+              ],
+              "collection": [
+                "folkscanomy_bookbin",
+                "folkscanomy"
+              ],
+              "date": "1973-10-09T00:00:00Z",
+              "year": 1973,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 18,
+              "item_size": 47741080,
+              "files_count": 17,
+              "downloads": 736,
+              "week": 4,
+              "month": 21,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2022-01-08T21:57:24Z",
+              "publicdate": "2022-01-08T21:57:24Z"
+            },
+            "highlight": null,
+            "_score": [
+              519.3709
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "youtube-xxUX-DT1hAs",
+              "title": "Le CIC, Seb la frite et...des lunettes révolutionnaires ! (non)",
+              "description": "Cette vidéo est sponsorisée par les abonnés, bisous à eux, vous pouvez les rejoindre ici : 👍 Pour me soutenir sur Tipeee : https://fr.tipeee.com/g-milgram 🤙 Pour me soutenir sur Patreon : https://www.patreon.com/GMilgram 🕵️‍♂️ Le discord des abonnés (autogéré!) : https://discord.gg/Ds7MeFAvTf 🖐 Ma chaine secondaire (musiques et vidéos à la cool) : https://www.youtube.com/channel/UCggOl0IoeNDOfFgJ8VkwqJQ ✉️ Contact pro : gmilgram.contact@gmail.com 🟢 Mon twitter : https://twitter.com/GGmilgram 🟦 Je suis aussi sur Bluesky @gmilgram.bsky.social 🔵 Ma page Facebook : https://www.facebook.com/GGMilgram Un abonné m'a contacté au sujet d'une vidéo publiée par le CIC et en partenariat avec le youtubeur Seb la frite. Cette vidéo, qui a fait plus de 4 millions de vues en quelques semaines, fait la promotion d'une paire de lunettes « révolutionnaire ». Je me suis donc intéressé à ce nouveau produit MIRACLE commercialisé par Atol. 📺 Les extraits utilisés sont tirées de ces vidéos Youtube (dans...",
+              "subject": [
+                "Youtube",
+                "video",
+                "Science & Technology",
+                "Lexilens",
+                "Abeye",
+                "dyslexie",
+                "débunk",
+                "science",
+                "enquête",
+                "arnaque"
+              ],
+              "creator": [
+                "G Milgram"
+              ],
+              "collection": [
+                "mirrortube",
+                "social-media-video",
+                "additional_collections_video"
+              ],
+              "date": "2025-03-21T00:00:00Z",
+              "year": 2025,
+              "mediatype": "movies",
+              "item_size": 494829667,
+              "files_count": 28,
+              "downloads": 19,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2025-03-21T16:19:38Z",
+              "publicdate": "2025-03-21T16:19:38Z"
+            },
+            "highlight": null,
+            "_score": [
+              375.93735
+            ]
+          }
+        ]
+      },
+      "collection_titles": {
+        "folkscanomy_bookbin": "Folkscanomy: Book Bin (Unsorted and Incoming)",
+        "additional_collections_video": "Additional Collections - Video",
+        "folkscanomy": "Folkscanomy: A Library of Books",
+        "social-media-video": "Social Media Videos",
+        "mirrortube": "Mirrortube: Mirrored YouTube Videos"
+      }
+    },
+    "hit_schema": {
+      "item": {
+        "identifier": {
+          "multivalue": false,
+          "mapping": "string"
+        },
+        "noindex": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "optional": true
+        },
+        "title": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "description": {
+          "multivalue": false,
+          "mapping": "string",
+          "dressing": {
+            "truncate": 1000
+          },
+          "optional": true
+        },
+        "subject": {
+          "multivalue": true,
+          "mapping": "string",
+          "dressing": {
+            "truncate": 1000
+          },
+          "optional": true
+        },
+        "creator": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "collection": {
+          "multivalue": true,
+          "mapping": "string",
+          "comment": "may be a superset of metadata collection field"
+        },
+        "date": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "year": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed from date",
+          "optional": true
+        },
+        "genre": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "volume": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "type": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "language": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "mediatype": {
+          "multivalue": false,
+          "mapping": "string"
+        },
+        "licenseurl": {
+          "multivalue": false,
+          "mapping": "string__url",
+          "optional": true
+        },
+        "num_favorites": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true,
+          "comment": "computed during document construction"
+        },
+        "num_reviews": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true,
+          "comment": "computed during document construction"
+        },
+        "item_size": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "bytes; computed during document construction"
+        },
+        "files_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction"
+        },
+        "item_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction",
+          "optional": true
+        },
+        "displayed_item_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction, may be inferred from item_count",
+          "optional": true
+        },
+        "collection_files_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction, for collection items only",
+          "optional": true
+        },
+        "collection_size": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "bytes; computed during document construction, for collection items only",
+          "optional": true
+        },
+        "downloads": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "total views over item lifetime, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "week": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "views over a seven-day period, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "month": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "views over a month, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "indexflag": {
+          "multivalue": true,
+          "mapping": "string",
+          "comment": "item characterization including noindex status"
+        },
+        "lending___available_to_borrow": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___available_to_browse": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___available_to_waitlist": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___status": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "avg_rating": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true
+        },
+        "addeddate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "issue": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "format varies",
+          "optional": true
+        },
+        "source": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "format varies",
+          "optional": true
+        },
+        "reviewdate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "publicdate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "date_favorited": {
+          "multivalue": false,
+          "mapping": "date",
+          "comment": "not metadata; only present in favorites lists, sourced from Lists API",
+          "optional": true
+        },
+        "reviews_data": {
+          "multivalue": true,
+          "dressing": {
+            "truncate": false
+          },
+          "mapping": "string",
+          "comment": "untruncated JSON encoded data used for Account reviews",
+          "optional": true
+        }
+      }
+    }
+  }
+}

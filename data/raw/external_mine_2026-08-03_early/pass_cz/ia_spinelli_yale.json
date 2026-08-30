@@ -1,0 +1,16 @@
+{
+  "status": 200,
+  "n": 2,
+  "docs": [
+    {
+      "identifier": "BeineckeMS850_47",
+      "title": "Beinecke MS 850, Liber Taxarum of Tomasso Spinelli.",
+      "year": 1436
+    },
+    {
+      "identifier": "PoetryShow8",
+      "title": "Poetry Show # 8",
+      "year": 2017
+    }
+  ]
+}

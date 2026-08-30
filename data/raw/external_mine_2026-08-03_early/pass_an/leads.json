@@ -1,0 +1,26 @@
+{
+  "pass": "AN",
+  "goal": "soft→hard densify (Hesselin / René / Orléans / Philippe)",
+  "promoted_hard": [
+    "rene_anjou"
+  ],
+  "rene_anjou": {
+    "onset": "1449-06-19 Avignon 2 pairs Lecoy §674",
+    "years_after": 30,
+    "last_hard_pin": "1479-08-06 De par le roy — halles repair Lecoy §200",
+    "death": "1480-07-10",
+    "n_dated_near_work": 14,
+    "source": "Lecoy de la Marche Extraits des comptes et memoriaux du roi René (1873) IA",
+    "chrono": "outputs/tables/b1_rene_anjou_activity_chrono.csv",
+    "hard_dated_series": true,
+    "literary_wd_bonus_not_required": {
+      "Mortifiement": "P571 1455 Q15877749",
+      "Tournament_Book": "P571 1462 Q3257257"
+    },
+    "from_him_candidate_pool": 57
+  },
+  "hesselin_denis": "CLOSED this pass for OA hard — still office-ceiling soft (Pattou 1500/1506); no day-dated FROM-him Paris comptes 1475–1506 OA",
+  "charles_orleans": "scout pending / thin chrono still soft unless literary post-1454 densify",
+  "philippe_le_hardi": "still soft — only 2 spectacle pins + death 1404; short window",
+  "ingest_labor_n": "unchanged (already in labor series); hard flag upgraded only"
+}

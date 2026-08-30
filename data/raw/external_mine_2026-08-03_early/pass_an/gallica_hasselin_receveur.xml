@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<srw:searchRetrieveResponse xmlns:ns6="http://gallica.bnf.fr/namespaces/gallica/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <srw:version>1.2</srw:version>
+    <srw:echoedSearchRetrieveRequest>
+        <srw:query>gallica all "Hasselin" and gallica all "receveur"</srw:query>
+        <srw:version>1.2</srw:version>
+    </srw:echoedSearchRetrieveRequest>
+    <srw:numberOfRecords>4636</srw:numberOfRecords>
+    <srw:extraResponseData>&lt;numberOfRecordsDecollapser&gt;33506&lt;/numberOfRecordsDecollapser&gt;</srw:extraResponseData>
+    <srw:records>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Marchal, Ad.. Rédacteur</dc:contributor>
+                    <dc:creator>Meuse. Archives départementales. Auteur du texte</dc:creator>
+                    <dc:date>1875</dc:date>
+                    <dc:description>Collection : Collection des inventaires-sommaires des archives départementales antérieures à 1790</dc:description>
+                    <dc:description>Collection : Collection des inventaires-sommaires des archives départementales antérieures à 1790</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : Lorr1</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>1 vol. ([11]-455 p.) ; 33 cm</dc:format>
+                    <dc:format>Nombre total de vues : 497</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k851262j</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:language>français</dc:language>
+                    <dc:publisher> (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb416672693</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Arsenal, 4-NF-17228 (B)</dc:source>
+                    <dc:title>Inventaire-sommaire des archives départementales antérieures à 1790. Meuse. Tome premier, Archives civiles, série B, articles 1 à 3160 / rédigé par... Ad. Marchal,...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>0</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k851262j.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k851262j</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k851262j.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k851262j.medres</medres>
+                <nqamoyen>88.35</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k851262j.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k851262j</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Auteur du texte / Autrice du texte</dc:creator>
+                    <dc:creator>France. Ministère des postes. Auteur du texte / Autrice du texte</dc:creator>
+                    <dc:date>1878</dc:date>
+                    <dc:description>Variante(s) de titre : Bulletin mensuel des postes ou des télégraphes</dc:description>
+                    <dc:description>Variante(s) de titre : Bulletin des postes ou des télégraphes</dc:description>
+                    <dc:description>Variante(s) de titre : Bulletin mensuel des postes, des télégraphes et des téléphones</dc:description>
+                    <dc:description>Variante(s) de titre : Bulletin des postes, des télégraphes et des téléphones</dc:description>
+                    <dc:description>Variante(s) de titre : Bulletin officiel des postes, des télégraphes et des téléphones</dc:description>
+                    <dc:description>Variante(s) de titre : Bulletin officiel du Ministère des postes, télégraphes et téléphones</dc:description>
+                    <dc:description>Variante(s) de titre : Bulletin officiel des P. T. T.</dc:description>
+                    <dc:description>Variante(s) de titre : Bulletin officiel des Postes, Télégraphes, Téléphones</dc:description>
+                    <dc:description>Etat de collection : 1878-1936</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>Nombre total de vues : 87412</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb32730626t/date</dc:identifier>
+                    <dc:identifier>NUMP-3837</dc:identifier>
+                    <dc:identifier>ISSN 12728152</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>PTT (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb32730626t</dc:relation>
+                    <dc:relation>A pour reproduction : Bulletin... - Postes, Télégraphes, Téléphones (Reproduction numérique) = ISSN 2418-8174 (https://gallica.bnf.fr/ark:/12148/cb32730626t/date)</dc:relation>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, Histoire, Sciences de l'homme, 8-LC5-80</dc:source>
+                    <dc:title>Bulletin... - Postes, Télégraphes, Téléphones</dc:title>
+                    <dc:title>Bulletin mensuel des postes et télégraphes</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>1</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k55071229.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb32730626t/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k55071229.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k55071229.medres</medres>
+                <nqamoyen>81.49</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k55071229.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k55071229</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Roman, Joseph (1840-1924). Auteur du texte</dc:creator>
+                    <dc:date>1909</dc:date>
+                    <dc:description>Collection : Collection de documents inédits sur l'histoire de France. Troisième série, Archéologie</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:description>Catalogues</dc:description>
+                    <dc:format>1 vol. (V-943 p.) ; 27 cm</dc:format>
+                    <dc:format>Nombre total de vues : 984</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k6225205j</dc:identifier>
+                    <dc:identifier>NUMM-6225205</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Impr. nationale (Paris)</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb373514843</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb375658314</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 4-L45-32 (S,1)</dc:source>
+                    <dc:subject>Sceaux -- France</dc:subject>
+                    <dc:subject>Bibliothèque nationale de France. Département des manuscrits</dc:subject>
+                    <dc:title>Inventaire des sceaux de la collection des pièces originales du Cabinet des titres à la Bibliothèque nationale. Tome premier. Tome 1 / parJ. Roman,...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>2</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k6225205j.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k6225205j</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k6225205j.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k6225205j.medres</medres>
+                <nqamoyen>98.5</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k6225205j.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k6225205j</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Tisserand, Lazare-Maurice (1822-1893?). Auteur du texte</dc:creator>
+                    <dc:date>1866</dc:date>
+                    <dc:description>Collection : Histoire générale de Paris</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : VilledePa1</dc:description>
+                    <dc:format>1 vol. (223 p.) : figure ; In-fol.</dc:format>
+                    <dc:format>Nombre total de vues : 220</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k241349b</dc:identifier>
+                    <dc:identifier>NUMM-241349</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Imprimerie impériale (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31473033b</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France</dc:source>
+                    <dc:subject>Paris (France) -- Histoire</dc:subject>
+                    <dc:title>Histoire générale de Paris : collection de documents fondée... par M. le Bon Haussman,... : et publiée sous les auspices du Conseil municipal / Introduction [ : Plan de la collection ; précédents historiques. Par L.-M. Tisserand]</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>3</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k241349b.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k241349b</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k241349b.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k241349b.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k241349b.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k241349b</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1867</dc:date>
+                    <dc:description>[Vente (Livres). 1867-03-18 - 1867-03-23. Paris]</dc:description>
+                    <dc:description>[Collection (Livres). M. de M.. 1867]</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>In-8 °, 240 p.</dc:format>
+                    <dc:format>Nombre total de vues : 262</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bd6t542071513</dc:identifier>
+                    <dc:identifier>NUMS-104207151</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>J. Charavay aîné (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb365527026</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Manuscrits, CV-1124</dc:source>
+                    <dc:title>Catalogue analytique des chartes, documents historiques, titres nobiliaires et pièces généalogiques... de M. de M. Paris : Vente, Paris, salle Sylvestre les lundis 18 mars 1867 et cinq jours suivants / commissaire-priseur : M. Henri Lechat</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>4</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bd6t542071513.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bd6t542071513</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bd6t542071513.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bd6t542071513.medres</medres>
+                <nqamoyen>88.85</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t542071513.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bd6t542071513</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Académie des inscriptions et belles-lettres (France). Auteur du texte</dc:creator>
+                    <dc:date>1843-1888</dc:date>
+                    <dc:description>Variante(s) de titre : Mémoires présentés par divers savants à l'Académie des inscriptions et belles-lettres de l'Institut de France. 2e série, Antiquités de la France</dc:description>
+                    <dc:description>Variante(s) de titre : Mémoires présentés par divers savants à l'Académie royale des inscriptions et belles-lettres de l'Institut de France. Deuxième série, Antiquités de la France</dc:description>
+                    <dc:description>Variante(s) de titre : Mémoires présentés par divers savants à l'Académie des inscriptions et belles-lettres de l'Institut national de France. Deuxième série, Antiquités de la France</dc:description>
+                    <dc:description>Variante(s) de titre : Mémoires présentés par divers savants à l'Académie des inscriptions et belles-lettres de l'Institut impérial de France. Deuxième série, Antiquités de la France</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb424024319/date</dc:identifier>
+                    <dc:identifier>NUMP-29139</dc:identifier>
+                    <dc:identifier>ISSN 12679003</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Imprimerie royale (Paris)</dc:publisher>
+                    <dc:publisher>Imprimerie impérialeImprimerie impériale (Paris)</dc:publisher>
+                    <dc:publisher>Imprimerie nationaleImprimerie nationale (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb424024319</dc:relation>
+                    <dc:relation>A pour reproduction : Mémoires présentés par divers savants à l'Académie des inscriptions et belles-lettres de l'Institut de France. Deuxième série, Antiquités de la France (Reproduction numérique) = ISSN 2546-910X (http://www.persee.fr/collection/mesav)</dc:relation>
+                    <dc:relation>A pour reproduction : Mémoires présentés par divers savants à l'Académie des inscriptions et belles-lettres de l'Institut de France. Deuxième série, Antiquités de la France (Reproduction numérique) = ISSN 2546-910X (https://catalog.hathitrust.org/Record/000524711)</dc:relation>
+                    <dc:relation>A pour reproduction : Mémoires présentés par divers savants à l'Académie des inscriptions et belles-lettres de l'Institut de France. Deuxième série, Antiquités de la France (Reproduction numérique) = ISSN 2546-910X (https://gallica.bnf.fr/ark:/12148/cb424024319/date)</dc:relation>
+                    <dc:relation>A pour reproduction : Mémoires présentés par divers savants à l'Académie des inscriptions et belles-lettres de l'Institut de France. Deuxième série, Antiquités de la France (Reproduction numérique) = ISSN 2546-910X (https://catalog.hathitrust.org/Record/100162884)</dc:relation>
+                    <dc:relation>A pour reproduction : Mémoires présentés par divers savants à l'Académie des inscriptions et belles-lettres de l'Institut de France. Deuxième série, Antiquités de la France (Reproduction numérique) = ISSN 2546-910X (https://catalog.hathitrust.org/Record/011986399)</dc:relation>
+                    <dc:source>Bibliothèque nationale de France, département Manuscrits, P-24</dc:source>
+                    <dc:title>Mémoires présentés par divers savants à l'Académie des inscriptions et belles-lettres de l'Institut de France. Deuxième série, Antiquités de la France</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>5</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bd6t541988883.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb424024319/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bd6t541988883.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bd6t541988883.medres</medres>
+                <nqamoyen>88.38</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t541988883.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bd6t541988883</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>France. Administration des contributions indirectes. Auteur du texte</dc:creator>
+                    <dc:date>1891-1941</dc:date>
+                    <dc:description>Périodicité : Bimensuel ; Bimestriel</dc:description>
+                    <dc:description>Numérisé par le partenaire</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb32725962h/date</dc:identifier>
+                    <dc:identifier>NUMP-28180</dc:identifier>
+                    <dc:identifier>ISSN 16261739</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>[Direction générale des contributions indirectes] (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb32725962h</dc:relation>
+                    <dc:relation>A pour reproduction : Bulletin des contributions indirectes (Paris. 1891. Reproduction numérique) = ISSN 3039-063X (https://gallica.bnf.fr/ark:/12148/cb32725962h/date)</dc:relation>
+                    <dc:source>Ministère de l'Economie et des Finances, 62 BCI</dc:source>
+                    <dc:title>Bulletin des contributions indirectes (Paris. 1891)</dc:title>
+                    <dc:title>Bulletin des contributions indirectes</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>6</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k9125421q.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb32725962h/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k9125421q.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k9125421q.medres</medres>
+                <nqamoyen>81.35</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k9125421q.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k9125421q</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Hautes-Alpes. Auteur du texte</dc:creator>
+                    <dc:date>1893-1914</dc:date>
+                    <dc:description>Etat de collection : 1894-1914 &lt;inc.&gt;</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : PACA1</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb32696813j/date</dc:identifier>
+                    <dc:identifier>ISSN 24905909</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher> (Gap)</dc:publisher>
+                    <dc:publisher>Imprimerie A. Vollaire et Cie (Gap)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb32696813j</dc:relation>
+                    <dc:source>Archives départementales des Hautes-Alpes, 2015-192078</dc:source>
+                    <dc:title>Annuaire départemental des Hautes-Alpes / publié sous les auspices du Conseil général</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>7</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k9679015f.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb32696813j/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k9679015f.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k9679015f.medres</medres>
+                <nqamoyen>98.5</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k9679015f.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k9679015f</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Chappée, Julien (1862-1957). Préfacier / Préfacière</dc:contributor>
+                    <dc:contributor>Préfacier / Préfacière</dc:contributor>
+                    <dc:contributor>Société historique de la province du Maine. Préfacier / Préfacière</dc:contributor>
+                    <dc:creator>Chambois, Émile Louis (1861-1948). Auteur du texte / Autrice du texte</dc:creator>
+                    <dc:date>1928</dc:date>
+                    <dc:description>[Archives du Cogner (J. Chappée-Le Mans). Fonds de Caix (français)]</dc:description>
+                    <dc:description>Collection : Archives du Cogner</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>1 volume 502 p ; 25 cm</dc:format>
+                    <dc:format>Nombre total de vues : 528</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bd6t5371344c</dc:identifier>
+                    <dc:identifier>NUMS-100371344</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Honoré Champion (Paris)</dc:publisher>
+                    <dc:relation>Notice d’oeuvre : http://catalogue.bnf.fr/ark:/12148/cb82258739f</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb319253235</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Manuscrits, 8-IMPR-1060 (A)</dc:source>
+                    <dc:subject>Caix de Saint-Aymour, Amédée de (1843-1921) -- Archives</dc:subject>
+                    <dc:subject>Le Cogner</dc:subject>
+                    <dc:title>Archives du Cogner (J. Chappée-Le Mans). Fonds de Caix / publié avec le concours de l'abbé Em. Louis Chambois</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>8</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bd6t5371344c.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bd6t5371344c</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bd6t5371344c.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bd6t5371344c.medres</medres>
+                <nqamoyen>89.15</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t5371344c.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bd6t5371344c</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Gollard, E.. Auteur du texte</dc:creator>
+                    <dc:date>1869</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : NordPdeC1</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>In-8° , 18 p. et annexes</dc:format>
+                    <dc:format>Nombre total de vues : 38</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k63657365</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:language>français</dc:language>
+                    <dc:publisher>impr. de L. Crépin (Douai)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb305202006</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LN27-24907</dc:source>
+                    <dc:subject>Gollard, E.</dc:subject>
+                    <dc:title>A S. M. l'Empereur. [Mémoire de E. Gollard, sur sa gestion de la recette des finances de Cambrai.]</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>9</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k63657365.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k63657365</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k63657365.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k63657365.medres</medres>
+                <nqamoyen>99.96</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k63657365.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k63657365</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Hunger, Victor-René (1856-1935). Auteur du texte</dc:creator>
+                    <dc:date>1909-1911</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>3 t. en 1 vol. (153-VI-146-VI-152 p.) ; gr. in-8</dc:format>
+                    <dc:format>Nombre total de vues : 160</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bd6t5395620p</dc:identifier>
+                    <dc:identifier>NUMS-100395620</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Impr. Champon et Pailhé (Paris)</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb341029769</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb341029769</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 4-LK2-5982</dc:source>
+                    <dc:subject>Normandie</dc:subject>
+                    <dc:title>Quelques actes normands des XIVe, XVe et XVIe siècles. Fascicule 2 / recueillis et publiés par V. Hunger,...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>10</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bd6t5395620p.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bd6t5395620p</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bd6t5395620p.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bd6t5395620p.medres</medres>
+                <nqamoyen>87.61</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t5395620p.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bd6t5395620p</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Douët d'Arcq, Louis (1808-1883). Éditeur scientifique</dc:contributor>
+                    <dc:date>1865</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : CentSev001</dc:description>
+                    <dc:description>Contient une table des matières</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>1 vol. (XLII-439 p.) ; in-8</dc:format>
+                    <dc:format>Nombre total de vues : 502</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k65605565</dc:identifier>
+                    <dc:identifier>NUMM-6560556</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Vve de J. Renouard (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb34064644d</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LF7-10</dc:source>
+                    <dc:subject>France (Ancien Régime)</dc:subject>
+                    <dc:title>Comptes de l'hôtel des rois de France aux XIVe et XVe siècles / publiés pour la société de l'histoire de France par M. L. Douët-d'Arcq</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>11</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k65605565.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k65605565</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k65605565.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k65605565.medres</medres>
+                <nqamoyen>99.93</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k65605565.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k65605565</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Souchon, Joseph (1861-1933). Rédacteur</dc:contributor>
+                    <dc:contributor>Aisne. Archives départementales. Éditeur scientifique</dc:contributor>
+                    <dc:date>1906</dc:date>
+                    <dc:description>Collection : Collection des inventaires sommaires des archives départementales antérieures à 1790</dc:description>
+                    <dc:description>Collection : Collection des inventaires sommaires des archives départementales antérieures à 1790</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:description>Catalogues</dc:description>
+                    <dc:format>1 vol. (XX-414-114 p.) ; 32 cm</dc:format>
+                    <dc:format>Nombre total de vues : 578</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k889307m</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:language>français</dc:language>
+                    <dc:publisher> (Laon)</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb423706816</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb340166367</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, FOL-L43-12 (AISNE, E Suppl., 5)</dc:source>
+                    <dc:subject>Aisne (France) -- Histoire -- Sources</dc:subject>
+                    <dc:subject>Aisne. Archives départementales</dc:subject>
+                    <dc:title>Inventaire sommaire des archives départementales antérieures à 1790. Aisne. tome V : archives civiles : série E - supplément [articles E suppl. 1 - 909] : cantons d'Anizy-le-Château, Aubenton, Bohain, Braine, Charly, Château-Thierry, Chauny, Condé-en-Brie, Coucy-le-Château / [Archives départementales de l'Aisne] ; rédigé par M. J. Souchon,...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>12</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k889307m.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k889307m</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k889307m.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k889307m.medres</medres>
+                <nqamoyen>88.04</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k889307m.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k889307m</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Madagascar. Auteur du texte</dc:creator>
+                    <dc:date>1896-1958</dc:date>
+                    <dc:description>Variante(s) de titre : Journal officiel de Madagascar</dc:description>
+                    <dc:description>Périodicité : Hebdomadaire (la périodicité varie)</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : RfnOci1</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : MAEDIGen0</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : MAEDI014</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : RfnAfc1</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : RfnHisg1</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG00</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : MAEDI013</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : RfnEns0</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG976</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>Nombre total de vues : 94347</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb34425284n/date</dc:identifier>
+                    <dc:identifier>NUMP-11201</dc:identifier>
+                    <dc:identifier>ISSN 10172173</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:language>mlg</dc:language>
+                    <dc:publisher>Imprimerie nationale (Tananarive)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb34425284n</dc:relation>
+                    <dc:relation>A pour reproduction : Journal officiel de Madagascar et dépendances (En ligne) = ISSN 2662-8236 (https://nrs.harvard.edu/urn-3:HLS.LIBR:32306820) (14 janv. 1928-15 juin 1929)</dc:relation>
+                    <dc:relation>A pour reproduction : Journal officiel de Madagascar et dépendances (En ligne) = ISSN 2662-8236 (https://gallica.bnf.fr/ark:/12148/cb34425284n/date)</dc:relation>
+                    <dc:relation>Première de couverture : 228626</dc:relation>
+                    <dc:source>Bibliothèque Interuniversitaire Cujas, 2012-252722</dc:source>
+                    <dc:title>Journal officiel de Madagascar et dépendances</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>13</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k6481999x.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb34425284n/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k6481999x.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k6481999x.medres</medres>
+                <nqamoyen>99.94</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k6481999x.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k6481999x</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1921-1926</dc:date>
+                    <dc:description>Etat de collection : 1921 ; 1924 ; 1926</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb471979192/date</dc:identifier>
+                    <dc:identifier>NUMP-2330</dc:identifier>
+                    <dc:identifier>ISSN 29711916</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>[s.n.] (Carcassonne)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb471979192</dc:relation>
+                    <dc:relation>A pour reproduction : Annuaire de l'Aude (Carcassonne. Reproduction numérique) = ISSN 2971-1908 (https://gallica.bnf.fr/ark:/12148/cb471979192/date) (1921, 1924, 1926)</dc:relation>
+                    <dc:source>Archives départementales de l'Aude, 18PER</dc:source>
+                    <dc:title>Annuaire de l'Aude (Carcassonne)</dc:title>
+                    <dc:title>Annuaire de l'Aude : administratif, commercial, industriel, agricole, viticole, touristique</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>14</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bd6t510455758.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb471979192/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bd6t510455758.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bd6t510455758.medres</medres>
+                <nqamoyen>99.37</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t510455758.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bd6t510455758</uri>
+            </srw:extraRecordData>
+        </srw:record>
+    </srw:records>
+    <srw:nextRecordPosition>16</srw:nextRecordPosition>
+</srw:searchRetrieveResponse>

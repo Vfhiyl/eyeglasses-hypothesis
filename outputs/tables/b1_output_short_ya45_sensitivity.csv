@@ -1,0 +1,5 @@
+mode,n,median,boot95_lo,boot95_hi,sesoi5,note
+primary_freeze,44,6.0,3.0,8.75,PASS_RAW,BJ freeze baseline (seed=42)
+drop_post45_ceil_lt_5,41,7.0,4.0,10.0,PASS_RAW,drop Jeake/Leo/Domenichi (ceil<5)
+drop_jeake_leo_only,42,7.0,3.75,9.5,PASS_RAW,drop worst two structural shorts
+drop_death_before_50,41,7.0,4.0,10.0,PASS_RAW,same three wearers as ceil<5 here

@@ -1,7 +1,8 @@
 person_id,date,kind,note,source
-cederni,1454-06-20,spectacle_order_personal,"Caccini→Cederni: sent 6 pairs (3 near, 3 distant) for him",Ilardi 2007 quoting Corti-Kent pp.94-96
-cederni,1454-07-05,spectacle_receipt_followup,Caccini: received box; ordering 3 more pairs for him,Ilardi 2007 n.78
-cederni,1454-07-17,spectacle_satisfaction,Caccini: Cederni pleased with ochiali quality,Ilardi 2007 n.79
+cederni,1454-06-20,spectacle_order_shipped,"Caccini→Cederni: schatola with 6 pairs (3 da presso, 3 da lungha) for personal use",Ilardi 2007 quoting Corti-Kent pp.94-96 (letter of 30 Jun referring to 20 Jun send)
+cederni,1454-07-05,spectacle_unfit_return,"Caccini: received back box with 3 unsatisfactory pairs; masters remaking 3 'belli e buoni'",Ilardi 2007 n.78 (ASF Badia F.314 f.585)
+cederni,1454-07-12,spectacle_replacement_ok,"Cederni letter (cited 17 Jul): received replacement box; ochiali 'essere buoni'",Ilardi 2007 n.79 (Caccini 17 Jul cites Cederni of 12 Jul)
+cederni,1454-07-17,spectacle_ack_by_supplier,Caccini acknowledges Cederni satisfaction,Ilardi 2007 n.79
 cederni,1456-01-01,tomb_commission,Badia tomb commission ~1456,Sepoltuario IATH 4794
 cederni,1461-08-17,altarpiece_commission,Neri di Bicci Trinity altarpiece commission,Sepoltuario IATH memorial 31962 / Neri ricordanze
 cederni,1473-11-01,civic_office_prior,Priore (Tre Maggiori) Nov–Dec 1473,Sepoltuario IATH 4794; Priorista Mariani

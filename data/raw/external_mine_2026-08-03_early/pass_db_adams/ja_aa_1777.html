@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en" class="apde">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Adams Papers Digital Edition - Massachusetts Historical Society</title>
+<link rel="shortcut icon" href="/favicon.ico" />
+<link href='//fonts.googleapis.com/css?family=Libre+Baskerville:400italic,400,700' rel='stylesheet' type='text/css' />
+<link rel="stylesheet" href="/publications/lib/css/basic-2017.css" media="all"/>
+<link rel="stylesheet" href="/publications/adams-papers/css/apde.css" media="all"/>
+<script src="/incl/js/jquery-2.1.1.min.js"></script>
+<script src="/publications/adams-papers/js/apde.js"></script>
+	<link rel="stylesheet" href="/publications/lib/css/tei-display/tei-fragment.css" />
+	<link rel="stylesheet" href="/publications/lib/css/tei-display/tei-display.css" />
+
+	<script src="/lib/ui-library/mhssticky-v3-jq.js"></script>
+	<script src="/publications/lib/js/display2018.js"></script>
+	<script>
+		var page = "0";
+
+		window.addEventListener('DOMContentLoaded', function(){
+			var el;
+			var display = new displayTools();
+
+			//page view only
+			if(page) {
+				display.initPageBasedDisplay(page);
+				display.stickyBar();
+			} else {
+				//still use BTT
+				display.backToTop();
+				display.BTTinit();
+			}
+
+			//to customize, set a global var textSizingSelector;
+			if (typeof textSizingEl == "undefined") {
+				//look for nav
+				el = document.getElementsByTagName("nav");
+				if (el.length > 0) {
+					//look for inner wrapper
+					var tempel = el[0].getElementsByTagName('div');
+					if (tempel.length > 0) el = tempel[0];
+				} else el = el[0];
+			}
+			el = document.querySelector(textSizingSelector);
+
+			if(el != null) {
+				display.initTextSizers(el, "top");
+			}
+
+			display.setupShortTitles();
+			display.setupNotesLinks();
+		});
+
+	</script>
+
+	<script>
+		var linkPrefix = "/publications/adams-papers/index.php/view/";
+		var textSizingSelector = "article .gutter";
+	</script>
+
+
+</head>
+<body class="apde innerPage ADMS-04  document">
+
+		<div style="background: black; margin: 0; padding: 10px 14px 4px 14px; text-align: center;">
+	<a href="/"><img src="/images/banners/mhs_final_horizontal_blk.svg" style="height: 24px; max-width: 100%"/></a>
+</div>
+ 	<header class="siteHeader">
+		<div class="gutter">
+			<h1>Adams Papers <span class='subtitle'>Digital Edition</span></h1>
+		</div>
+
+		<nav>
+			<svg class="hamburger" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 60.000001 60.000001" height="60" width="60"><g transform="translate(0,-992.36216)"><path d="M 5,1000.3622 55,1000.3622 55,1008.3622 5,1008.3622 Z" style="fill-opacity:1;stroke:none" /><path style="fill-opacity:1;stroke:none;" d="M 5,1018.3622 55,1018.3622 55,1026.3622 5,1026.3622 Z" /><path d="M 5,1036.3622 55,1036.3622 55,1044.3622 5,1044.3622 Z" style="fill-opacity:1;stroke:none" /></g></svg>
+			<div class="gutter">
+				<a href="/publications/adams-papers">Home</a>
+				<a href="/publications/adams-papers/index.php/browse">Browse</a>
+				<a href="/publications/adams-papers/index.php/index">Index</a>
+				<a href="/publications/adams-papers/index.php/search">Search</a>
+				<a id="codeNames" href="/publications/adams-papers/views/adams-inits.php"><span class="hideTablet">Adams Family </span>Name Codes</a>
+			</div>
+		</nav>
+	</header>
+
+
+	<div class="navToolsWrapper">
+		<script>
+			var PUB_PREFIX = "APDE-";
+			var linkPrefix = "/publications/adams-papers/index.php/view/";
+			var solrIndexPrefix = "apde-"; //after which rest is the ID
+			var ajaxPrevNextUrl = "/publications/adams-papers/index.php/search-ajax-prevnext";
+
+		</script>
+		<script src="/publications/lib/js/nav-tools.js"></script>
+	</div>
+
+	<article>
+		<div class="gutter">
+			<h1 class="contextualTitle"><a href="/publications/adams-papers/index.php/volume/ADMS-04-02">Adams Family Correspondence, volume 2</a></h1>
+
+		
+	<div class="prevNextNav">
+		<div>
+					<label>Previous document in volume</label>
+			<a href="/publications/adams-papers/index.php/view/ADMS-04-02-02-0119">
+				<h3>John Adams to Abigail Adams</h3>
+	<!--			<span class="who">						-->			</span>
+
+				<span class="date"></span>
+			</a>
+				</div>
+
+		<div>
+					<label>Next document in volume</label>
+			<a href="/publications/adams-papers/index.php/view/ADMS-04-02-02-0121">
+				<h3>John Adams to Abigail Adams</h3>
+	<!--			<span class="who">						-->			</span>
+
+				<span class="date"></span>
+			</a>
+				</div>
+	</div>
+
+	<section class="teiFragment">
+		<div id='document'>
+<doc old-id="AFC02d121" id="ADMS-04-02-02-0120" type="doc">
+            <mapData id="ADMS-04-02-02-0120">
+               <bibl default="false" status="draft">
+                  <title>John Adams to Abigail Adams, 20 February 1777</title>
+                  <author>JA</author>
+                  <name type="recip" full="yes" instant="false">AA</name>
+                  <h3 xmlns="http://www.tei-c.org/ns/1.0">1777-02-20</h3>
+               </bibl>
+               <Title>John Adams to Abigail Adams, 20 February 1777</Title>
+               <mapDates>
+                  <searchRange from="1777-02-20" to="1777-02-20"> </searchRange>
+                  <dayRange from="1777-02-20" to="1777-02-20"> </dayRange>
+               </mapDates>
+               <Author>Adams, John</Author>
+               <Recipient>Adams, Abigail</Recipient>
+               <pageRange from="ADMS-04-02-02-pb-0164" to="ADMS-04-02-02-pb-0165"> </pageRange>
+            </mapData>
+            <header>John Adams to Abigail Adams</header>
+            <div2 type="docbody" part="N" org="uniform" sample="complete">
+               <opener>
+                  <dateline>Baltimore <date when="1777-02-20" instant="false">Feb. 20th. 1777</date>
+                  </dateline>
+               </opener>
+               <p part="N">This Morning I received yours of the 26th. Ult. It is the first I have received from you, and except one from Gen. Palmer of the 28th.<a xmlns="http://www.tei-c.org/ns/1.0" href="#AFC02d121n1" class="note" id="AFC02d121n1a">1</a> it is the first I have received from our State.</p>
+               <p part="N">Yours made me very happy. Dont be uneasy about my Waiter. He behaves very well to me, and he has not the least Appearance of a Spy or a Deserter. He has not Curiosity, nor Activity nor sense enough for such a Character. He does his Duty extreamly well however in his station. But if he was a Spy he would learn nothing from me. He knows no more, from me, than the Horse he rides, nor shall he know. . . .<a xmlns="http://www.tei-c.org/ns/1.0" href="#AFC02d121n2" class="note" id="AFC02d121n2a">2</a> I <span class="pb" id="pageBreak165">165</span>have no Conversation with him upon Politicks, nor shall he come to the Sight of Papers.</p>
+               <p part="N">I hope our Soldiers for the new Army will be all inoculated at Home before they begin their March. The Small Pox is so thick in the Country that there is no Chance of escaping it in the natural Way. Gen. Washington has been obliged to inoculate his whole Army. We are inocculating soldiers here and at Philadelphia.</p>
+            </div2>
+            <div2 type="docback" part="N" org="uniform" sample="complete">
+               <note type="source" id="AFC02d121sn1" anchored="true">
+                  <p part="N">
+                     <bibl type="docSource" default="false" status="draft">
+                        <rs type="dType">
+                           <abbr>RC</abbr>
+                        </rs> (<a href="/publications/adams-papers/index.php/lists/APXterms1/terms" class="completion" data-type="terms">Adams Papers</a>); addressed: “Mrs. Adams at Mr. John Adams's Braintree”; docketed in pencil by <abbr>AA</abbr>.</bibl>
+                  </p>
+               </note>
+               <note n="1" type="fn" id="AFC02d121n1" anchored="true"><span class="label">1.
+				</span>
+                  <p part="N">In <a href="/publications/adams-papers/index.php/lists/APXterms1/terms" class="completion" data-type="terms">Adams Papers</a>. <abbr>JA</abbr>'s <a href="/publications/adams-papers/index.php/view/PJA05d051" class="docLink" data-type="document">reply</a>, of the present date, is in <a href="/publications/adams-papers/index.php/lists/APXrep56/repository" class="completion" data-type="repository">NN</a> and is printed in part in <a href="/publications/adams-papers/index.php/lists/ADMSst123/short-title" class="completion" data-type="short-title">Burnett, ed., <hi rendition="#italic">Letters of Members</hi>
+                     </a>, 2:268.</p>
+               </note>
+               <note n="2" type="fn" id="AFC02d121n2" anchored="true"><span class="label">2.
+				</span>
+                  <p part="N">Suspension points in <abbr>MS</abbr>.</p>
+               </note>
+            </div2>
+         </doc>
+
+</div>
+	</section>
+
+		</div>
+	</article>
+
+	<footer>
+	<p><img src="/adams-resources/adams-insignia-blue.png" /></p>
+	<p>Adams Papers Digital Edition</p>
+	<p>&copy; 2026 Massachusetts Historical Society</p>
+</footer>
+<script>
+ 
+ function mhsASSetup(){
+	mhsASobj = new AntiSocial();
+	mhsASobj.findButtons("sharing-icons");
+ }
+ 
+</script>
+<script src="/lib/ui-library/antisocial-v3.js" async="true" onload="mhsASSetup();"></script>
+
+
+<script>
+	var cc_localStorageKey = "TRACKINGCONSENT";
+	var cc_siteUsesGA = true; // to load GA
+	var cc_gaAccountID ='G-1174Q9G3RC';
+</script>
+<script src="/lib/cookie-consent.js?v=2f" async="true"></script>
+<script data-goatcounter="https://www.masshist.org/analytics"
+        async src="/lib/count.js"></script>
+</body>
+</html>

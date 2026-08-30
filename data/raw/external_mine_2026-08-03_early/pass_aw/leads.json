@@ -1,0 +1,22 @@
+{
+  "pass": "AW",
+  "scouted_then_skipped": {
+    "unwin_mary": "third-party Hesketh wear only; no FROM-her OA letter series (Gear/Hesketh letters)",
+    "jeffreys_joyce": "Spicksley IA borrow-restricted 403",
+    "rene_ii_lorraine": "Laborde 1504 single lunettes pin; no OA multi-point Comptes densify 1504\u201308",
+    "bourchier_henry_bath": "still Gray IA borrow-restricted (AV)"
+  },
+  "promoted_hard": [
+    "dexter_samuel"
+  ],
+  "choice_rationale": "Highest remaining soft ya=25; McCaffrey CSM OA essay cites day-dated FROM-him Commonplace pins spanning 1788\u20131809.",
+  "dexter_samuel": {
+    "onset": "ca.1785 MHS gold temple spectacles (soft year)",
+    "years_after": 25,
+    "last_hard_pin": "1809-03 birthday gratitude Commonplace p.332",
+    "n_dated_post_wear": 8,
+    "hard_dated_series": true,
+    "chrono": "outputs/tables/b1_dexter_samuel_activity_chrono.csv",
+    "caveat": "onset year soft; pins via McCaffrey citation of MHS Commonplace (not full OA ms)"
+  }
+}

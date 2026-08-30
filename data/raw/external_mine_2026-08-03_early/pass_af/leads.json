@@ -1,0 +1,33 @@
+{
+  "pass": "AF",
+  "direction": "Cleux Dictionnaire/Courcy/Gallica + Pansier user PDF + Vangelista nun PDFs + Piceto Unpaywall + Dorn Vitko",
+  "cleux": {
+    "dictionnaire_noblesse": "No CLEUZ family article across IA lach/aube C-range vols; Boessiere-Cleuz arms only",
+    "gallica_tome3": "ark:/12148/bpt6k318669c — texteBrut shell; RequestDigitalElement 403",
+    "courcy_combat_trente": "Later Cleuz du Gage / Cleuzdon / Rédillac — not 1433 étrennes wearer",
+    "saint_nazaire": "m.~1433 + maître d'hôtel ~1457 confirmed; still NO death",
+    "decision": "HOLD Cleux-bar"
+  },
+  "pansier_1901_user_pdf": {
+    "source": "Downloads Histoire_des_lunettes Pansier bpt6k97739437.pdf",
+    "result": "Fulltext mined; only known early pins (Bullet 1282 OOW, Spina maker, inventaires). No new Cleux-bar named living 1300–1499",
+    "decision": "corpus densified; no promote"
+  },
+  "piceto": {
+    "doi": "10.2307/751345",
+    "unpaywall": "is_oa=false",
+    "decision": "CLOSED OA"
+  },
+  "vangelista": {
+    "tognetti_nun_pdfs": "Paradiso nuns eyeglasses manufacture = maker EXCLUDE; no Tellino/Vangelista b–d",
+    "bncf_1093": "reproduction quote only",
+    "decision": "HOLD"
+  },
+  "vitko": {
+    "dorn": "1450-07-01 theft claim only",
+    "decision": "HOLD"
+  },
+  "friar_william_ilardi": "Eco fiction — EXCLUDE",
+  "bartholomeus_padua": "IA/Zecchin still OA-miss; HOLD",
+  "new_cleux_bar_promote": null
+}

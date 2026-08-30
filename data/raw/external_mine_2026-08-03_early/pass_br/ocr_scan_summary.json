@@ -1,0 +1,277 @@
+[
+  {
+    "id": "privypurseexpen01nicogoog",
+    "title": "Privy purse expenses of Elizabeth of York: wardrobe accounts of Edward the Fourth. With a memoir of Elizabeth of York, and notes",
+    "year": "1830",
+    "ok": true,
+    "chars": 691514,
+    "counts": {
+      "spectacle": 0,
+      "eyeglass": 0,
+      "lunette": 0,
+      "occhiali": 0,
+      "looking.?glass": 0
+    },
+    "snippets": [],
+    "file": "data/raw/external_mine_2026-08-03_early/pass_br/ocr_scan/privypurseexpen01nicogoog_djvu.txt"
+  },
+  {
+    "id": "privypurseexpens00nicorich",
+    "title": "Privy purse expenses of Elizabeth of York : wardrobe accounts of Edward the Fourth : with a memoir of Elizabeth of York, and notes",
+    "year": "1830",
+    "ok": true,
+    "chars": 794612,
+    "counts": {
+      "spectacle": 0,
+      "eyeglass": 0,
+      "lunette": 0,
+      "occhiali": 0,
+      "looking.?glass": 0
+    },
+    "snippets": [],
+    "file": "data/raw/external_mine_2026-08-03_early/pass_br/ocr_scan/privypurseexpens00nicorich_djvu.txt"
+  },
+  {
+    "id": "privypurseexpens00mary",
+    "title": "Privy purse expenses of the Princess Mary, daughter of King Henry the Eighth, afterwards Queen Mary : with a memoir of the princess, and notes",
+    "year": "1831",
+    "ok": true,
+    "chars": 884291,
+    "counts": {
+      "spectacle": 0,
+      "eyeglass": 0,
+      "lunette": 0,
+      "occhiali": 0,
+      "looking.?glass": 0
+    },
+    "snippets": [],
+    "file": "data/raw/external_mine_2026-08-03_early/pass_br/ocr_scan/privypurseexpens00mary_djvu.txt"
+  },
+  {
+    "id": "privypurseexpens00maddrich",
+    "title": "Privy purse expenses of the Princess Mary, daughter of King Henry the Eighth, afterwards Queen Mary [electronic resource] : with a memoir of the princess, and notes",
+    "year": "1831",
+    "ok": true,
+    "chars": 885181,
+    "counts": {
+      "spectacle": 0,
+      "eyeglass": 0,
+      "lunette": 0,
+      "occhiali": 0,
+      "looking.?glass": 0
+    },
+    "snippets": [],
+    "file": "data/raw/external_mine_2026-08-03_early/pass_br/ocr_scan/privypurseexpens00maddrich_djvu.txt"
+  },
+  {
+    "id": "madden-frederic-privy-purse-expenses-of-the-princess-mary-1831",
+    "title": "Madden, Frederic - Privy Purse Expenses Of The Princess Mary (1831)",
+    "year": "1831",
+    "ok": true,
+    "chars": 738467,
+    "counts": {
+      "spectacle": 0,
+      "eyeglass": 0,
+      "lunette": 0,
+      "occhiali": 0,
+      "looking.?glass": 0
+    },
+    "snippets": [],
+    "file": "data/raw/external_mine_2026-08-03_early/pass_br/ocr_scan/madden-frederic-privy-purse-expenses-of-the-princess-mary-1831_djvu.txt"
+  },
+  {
+    "id": "cu31924027939861",
+    "title": "Household books of John duke of Norfolk, and Thomas earl of Surrey ; temp. 1481-1490",
+    "year": "1844",
+    "ok": true,
+    "chars": 1057909,
+    "counts": {
+      "spectacle": 0,
+      "eyeglass": 0,
+      "lunette": 0,
+      "occhiali": 0,
+      "looking.?glass": 0
+    },
+    "snippets": [],
+    "file": "data/raw/external_mine_2026-08-03_early/pass_br/ocr_scan/cu31924027939861_djvu.txt"
+  },
+  {
+    "id": "bib_fict_4117142",
+    "title": "Household books of John Duke of Norfolk, and Thomas Earl of Surrey, from the original manuscripts in the library of the Society of Antiquaries, London.",
+    "year": "1844",
+    "ok": true,
+    "chars": 915271,
+    "counts": {
+      "spectacle": 0,
+      "eyeglass": 0,
+      "lunette": 0,
+      "occhiali": 0,
+      "looking.?glass": 0
+    },
+    "snippets": [],
+    "file": "data/raw/external_mine_2026-08-03_early/pass_br/ocr_scan/bib_fict_4117142_djvu.txt"
+  },
+  {
+    "id": "householdbooksof0000roxb",
+    "title": "Household Books of John Duke of Norfolk, and Thomas Earl of Surrey: Temp. 1481-1490...",
+    "restricted": "true",
+    "txts": [
+      "householdbooksof0000roxb_djvu.txt"
+    ],
+    "ok": false,
+    "why": "restricted_or_no_txt"
+  },
+  {
+    "id": "derbyhouseholdb00ffargoog",
+    "title": "The Derby Household Books: Comprising an Account of the Household Regulations and Expenses of ...",
+    "year": "1853",
+    "ok": true,
+    "chars": 730436,
+    "counts": {
+      "spectacle": 0,
+      "eyeglass": 0,
+      "lunette": 0,
+      "occhiali": 0,
+      "looking.?glass": 0
+    },
+    "snippets": [],
+    "file": "data/raw/external_mine_2026-08-03_early/pass_br/ocr_scan/derbyhouseholdb00ffargoog_djvu.txt"
+  },
+  {
+    "id": "derbyhouseholdb01ffargoog",
+    "title": "The Derby Household Books: Comprising an Account of the Household Regulations and Expenses of ...",
+    "year": "1853",
+    "ok": true,
+    "chars": 739263,
+    "counts": {
+      "spectacle": 0,
+      "eyeglass": 0,
+      "lunette": 0,
+      "occhiali": 0,
+      "looking.?glass": 0
+    },
+    "snippets": [],
+    "file": "data/raw/external_mine_2026-08-03_early/pass_br/ocr_scan/derbyhouseholdb01ffargoog_djvu.txt"
+  },
+  {
+    "id": "stanleypapers663manc",
+    "title": "Stanley papers.",
+    "year": "1853",
+    "ok": true,
+    "chars": 477681,
+    "counts": {
+      "spectacle": 4,
+      "eyeglass": 0,
+      "lunette": 0,
+      "occhiali": 0,
+      "looking.?glass": 0
+    },
+    "snippets": [
+      "interest year after year the curious spectacle of law, politics ",
+      "weakness. The spectacle exhibited was injurious to the laws ",
+      "that terrible engagement, Bolton presented a spectacle well ",
+      "a spectacle of a righteous Government, professing to repre- "
+    ],
+    "file": "data/raw/external_mine_2026-08-03_early/pass_br/ocr_scan/stanleypapers663manc_djvu.txt"
+  },
+  {
+    "id": "regulationsestab00nort",
+    "title": "The regulations and establishment of the household of Henry Algernon Percy, the fifth earl of Northumberland [microform] : at his castles of Wressle and Leckonfield in Yorkshire : begun anno domini MDXII",
+    "year": "1905",
+    "ok": true,
+    "chars": 849561,
+    "counts": {
+      "spectacle": 0,
+      "eyeglass": 0,
+      "lunette": 0,
+      "occhiali": 0,
+      "looking.?glass": 0
+    },
+    "snippets": [],
+    "file": "data/raw/external_mine_2026-08-03_early/pass_br/ocr_scan/regulationsestab00nort_djvu.txt"
+  },
+  {
+    "id": "regulationsestab00nortuoft",
+    "title": "The regulations and establishment of the household of Henry Algernon Percy, the fifth Earl of Northumberland, at his castles of Wressle and Lekonfield in Yorkshire, begun anno domini MDXII",
+    "year": "1905",
+    "ok": true,
+    "chars": 807054,
+    "counts": {
+      "spectacle": 0,
+      "eyeglass": 0,
+      "lunette": 0,
+      "occhiali": 0,
+      "looking.?glass": 0
+    },
+    "snippets": [],
+    "file": "data/raw/external_mine_2026-08-03_early/pass_br/ocr_scan/regulationsestab00nortuoft_djvu.txt"
+  },
+  {
+    "id": "regulationsande02percgoog",
+    "title": "The regulations and establishment of the household of Henry Algernon Percy, the fifth earl of Northumberland : at his castles of Wressle and Leckonfield in Yorkshire : begun anno domini MDXII",
+    "year": "1905",
+    "ok": true,
+    "chars": 805762,
+    "counts": {
+      "spectacle": 0,
+      "eyeglass": 0,
+      "lunette": 0,
+      "occhiali": 0,
+      "looking.?glass": 0
+    },
+    "snippets": [],
+    "file": "data/raw/external_mine_2026-08-03_early/pass_br/ocr_scan/regulationsande02percgoog_djvu.txt"
+  },
+  {
+    "id": "regulationsesta00nort",
+    "title": "The regulations and establishment of the household of Henry Algernon Percy, the fifth Earl of Northumberland, at his castles of Wresill and Lekinfield in Yorkshire, begun anno domini M.D.XII",
+    "year": "1827",
+    "ok": true,
+    "chars": 776136,
+    "counts": {
+      "spectacle": 0,
+      "eyeglass": 0,
+      "lunette": 0,
+      "occhiali": 0,
+      "looking.?glass": 0
+    },
+    "snippets": [],
+    "file": "data/raw/external_mine_2026-08-03_early/pass_br/ocr_scan/regulationsesta00nort_djvu.txt"
+  },
+  {
+    "id": "householdpaperso0000grba",
+    "title": "the household papers of henry percy ninth earl of northumberland (1564-1632)",
+    "restricted": "true",
+    "txts": [
+      "householdpaperso0000grba_djvu.txt"
+    ],
+    "ok": false,
+    "why": "restricted_or_no_txt"
+  },
+  {
+    "id": "bwb_KU-996-366_93",
+    "title": "the household papers of henry percy ninth earl of northumberland 1564-1632",
+    "restricted": "true",
+    "txts": [
+      "bwb_KU-996-366_93_djvu.txt"
+    ],
+    "ok": false,
+    "why": "restricted_or_no_txt"
+  },
+  {
+    "id": "durhamhouseholdb18surtuoft",
+    "title": "The Durham Household Book; or, The Accounts of the Bursar of the Monastery of Durham.",
+    "year": null,
+    "ok": true,
+    "chars": 916571,
+    "counts": {
+      "spectacle": 0,
+      "eyeglass": 0,
+      "lunette": 0,
+      "occhiali": 0,
+      "looking.?glass": 0
+    },
+    "snippets": [],
+    "file": "data/raw/external_mine_2026-08-03_early/pass_br/ocr_scan/durhamhouseholdb18surtuoft_djvu.txt"
+  }
+]

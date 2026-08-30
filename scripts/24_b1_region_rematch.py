@@ -256,18 +256,221 @@ def macro_region(country_qids: list[str], fallback: str = "unknown") -> str:
 
 # Controls whose WD P27/P19 mix misassigns macro-region (e.g. Venice-born French careers)
 CTRL_REGION_OVERRIDE = {
+    "Q104914": "hre",  # Johannes Marienwerder — Pass DJ knut_bosson peer
+    "Q95506": "hre",  # Nikolaus von Dinkelsbühl — Pass DJ knut_bosson peer
+    "Q55133937": "hre",  # Ulrich Grünleder — Pass DJ knut_bosson peer
+    "Q522346": "hre",  # Jöns Gerekesson — Nordic archbishop peer as HRE/Baltic densify
     "Q234816": "france",  # Christine de Pizan: Venice birth → Italy; adult career France
     "Q160341": "england",  # Edward IV: WD mix can mis-map to france
     "Q239337": "france",  # Philip the Good: WD citizenship often blank/unknown in our fetch
     "Q1379932": "france",  # Gilbert of Montpensier
     "Q1313351": "france",  # Louis II de la Trémoille
     "Q728786": "france",  # Charles of Valois, Duke of Berry (d.1472)
+    "Q3170939": "france",  # Jean Bourré
+    "Q2823945": "france",  # Adam Fumée
+    "Q42027400": "france",  # Jean III Robertet
+    "Q3170994": "france",  # Jean Briçonnet
+    "Q288378": "france",  # Olivier le Daim
+    # England densify / Scottish scholars WD often blank → england cell
+    "Q579194": "england",  # John Mair
+    "Q5541813": "england",  # George Lokert
+    "Q2428137": "england",  # Thomas White
+    "Q294435": "england",  # Thomas Cromwell
+    "Q337635": "england",  # Charles Brandon
+    "Q503816": "england",  # Thomas Howard 3rd Norfolk
+    "Q675493": "england",  # Henry VII
+    "Q137906": "england",  # James IV (already maps; pin)
+    "Q548613": "england",  # Edmund Dudley
+    "Q317149": "england",  # John Fisher
+    "Q711801": "england",  # Arthur Prince of Wales
+    "Q536316": "england",  # Richard Empson
+    "Q726243": "england",  # Edward Stafford, 3rd Duke of Buckingham
+    "Q136487101": "hre",  # Johann von Lübeck
+    "Q27909297": "hre",  # Nikolaus Straub
+    "Q957527": "england",  # John Colet
+    "Q725592": "england",  # Cuthbert Tunstall
+    "Q1237886": "france",  # Jean de Montreuil
+    "Q1685601": "france",  # Jean Jouvenel des Ursins (jurist)
+    "Q679093": "france",  # Laurent de Premierfait (Baye densify)
+    "Q3110583": "france",  # Gontier Col (Baye densify)
+    "Q3990688": "england",  # Thomas Manners, 1st Earl of Rutland
+    "Q7287908": "england",  # Ralph Neville, 4th Earl of Westmorland
+    "Q5540308": "england",  # George Hastings, 1st Earl of Huntingdon
+    "Q518521": "england",  # Henry Courtenay, Marquess of Exeter
+    "Q744845": "england",  # William Warham
+    "Q2476399": "england",  # Thomas Docwra
+    # Wood densify (1630s England humanist peers; B1_SPARQL=0 safe)
+    "Q9353": "england",  # John Locke
+    "Q103514": "england",  # Robert Boyle
+    "Q180353": "england",  # Robert Hooke
+    "Q310780": "england",  # John Ray
+    "Q213355": "england",  # John Dryden
+    "Q1386883": "england",  # Thomas Sprat
+    "Q332513": "england",  # William Temple
+    "Q194570": "england",  # John Bunyan
+    "Q380262": "england",  # Thomas Sydenham
+    "Q332481": "england",  # George Savile Halifax
+    "Q170373": "england",  # Christopher Wren
+    "Q1277543": "england",  # Edward Stillingfleet
+    "Q1235788": "england",  # John Tillotson (Lynnet cleric densify)
+    "Q1384321": "england",  # Henry Compton
+    "Q2287594": "england",  # Simon Patrick
+    "Q1347618": "england",  # William Sancroft
+    "Q8014632": "england",  # William Lloyd (bishop of Worcester)
+    "Q333922": "england",  # John Pearson
+    # Wolsey densify (2026-08-02; B1_SPARQL=0 safe)
+    "Q5534459": "england",  # Geoffrey Blythe
+    "Q6259279": "england",  # John Stokesley
+    "Q2258968": "england",  # Christopher Bainbridge
+    "Q1788686": "england",  # Edward Lee
+    "Q299663": "italy",  # Piero di Cosimo de' Medici (ardingelli merchant densify)
+    # Richardson jr densify (1708 England humanist; B1_SPARQL=0 safe)
+    "Q903246": "england",  # William Lewis
+    "Q556043": "england",  # Thomas Birch
+    "Q1232397": "england",  # John Fothergill
+    "Q330036": "england",  # William Heberden
+    "Q713821": "england",  # John Armstrong
+    "Q1291915": "england",  # Richard Pococke
+    "Q379902": "england",  # David Hartley
+    "Q208452": "england",  # Thomas Bayes
+    "Q1525570": "italy",  # Giorgio Valla
+    "Q604460": "italy",  # Georgius Merula
+    "Q326037": "italy",  # Niccolò Perotti
+    "Q66791624": "iberia",  # Jordi de Centelles
+    "Q18745304": "iberia",  # Vasco de Lucena
+    "Q3104075": "italy",  # Gerino da Pistoia
+    "Q1054349": "italy",  # Francesco Torbido
+    "Q1522152": "italy",  # Giacomo Pacchiarotti
+    "Q1978080": "italy",  # Francesco de Tatti
+    "Q28004827": "hre",  # Nikolaus Apel
+    "Q338876": "hre",  # Matthias Qualle
+    "Q1168956": "hre",  # Jodocus Trutfetter
+    "Q44668811": "hre",  # Lorenz Heidenreich
+    "Q34486127": "italy",  # Agostino Balbani
+    "Q110421536": "italy",  # Giovanni Bernardini
+    "Q111149269": "italy",  # Pietro Antonio Mattei
+    "Q312304": "italy",  # Alfonso V — Naples career for Sforza cell
+    "Q170353": "italy",  # René of Anjou — Naples/Italy orbit
+    "Q447535": "italy",  # Louis III of Naples
+    "Q348961": "france",  # Louis I of Anjou
+    "Q48407068": "italy",  # Niccolò da Casola
+    "Q112684597": "italy",  # Bonaventura Monachi
+    "Q1056171": "italy",  # Domenico Colombo
+    "Q208125": "italy",  # Ghiberti career Italy
+    "Q311082": "italy",  # Pisanello Italy
+    "Q299446": "italy",  # Bessarion Italian/curial career
+    "Q154751": "italy",  # Cusa: curial/Italian activity for Pius cell
+    "Q1217669": "italy",  # Cicco Simonetta
+    "Q41568767": "italy",
+    "Q61472794": "italy",
+    "Q4993282": "france",  # Marie of Blois
+    "Q196085": "france",  # Charles II Navarre France-orbit
+    "Q231728": "france",  # Anne of France
+    "Q1367895": "france",
+    "Q315880": "france",
+    "Q681622": "italy",  # Lodovico Gritti
+    "Q125867220": "italy",  # Leonardo Frescobaldi
+    "Q3768494": "italy",  # Giovanni Rucellai
+    "Q1236780": "italy",  # Francesco Sassetti
+    "Q1646308": "italy",  # Tommaso Portinari
+    # Stonley densify (1519 England clerk; B1_SPARQL=0 safe) — EXTERNAL mine 2026-08-02
+    "Q965811": "england",  # Roger Ascham
+    "Q3525572": "england",  # Thomas Smith
+    "Q354309": "england",  # William Cecil Burghley
+    "Q608866": "england",  # Nicholas Bacon
+    "Q2336478": "england",  # Thomas Wilson
+    # Albrecht of Prussia treatment/control orbit
+    "Q40433": "hre",  # Albert Duke of Prussia (Polish fief / WD mix → force HRE)
+    # External mine2 densify 2026-08-02
+    "Q37388": "england",  # Francis Bacon
+    "Q1035378": "england",  # Henry Spelman
+    "Q333098": "england",  # Robert Cotton
+    "Q1101373": "england",  # Newcastle
+    "Q2701696": "england",  # Essex
+    "Q336091": "england",  # Strafford
+    "Q236236": "england",  # Goldsmith (Irish-born London literary)
+    "Q165792": "england",  # Burke (Anglo-Irish London career)
+    "Q161841": "england",  # Gibbon
+    "Q335060": "england",  # Boswell (London literary orbit)
+    # External mine3 densify 2026-08-02
+    "Q3852414": "england",  # Maurice Abbot (Jeffreys merchant)
+    "Q6555592": "england",  # Lionel Cranfield (Jeffreys merchant)
+    "Q1289573": "england",  # William Cockayne
+    "Q183266": "england",  # Samuel Johnson (Franklin)
+    "Q37160": "england",  # David Hume (Scottish → Anglo densify cell)
+    "Q34190": "england",  # Henry Fielding
+    # External mine4 densify 2026-08-02
+    "Q313498": "england",  # Benjamin West (Peale artisan)
+    "Q316016": "england",  # John Singleton Copley
+    "Q371280": "england",  # George Romney
+    "Q123098": "england",  # Angelica Kauffmann (Swiss-born London/Rome RA orbit)
+    "Q159636": "england",  # Joseph Priestley (Jefferson humanist)
+    # External mine5 densify 2026-08-02
+    "Q334978": "france",  # Jean Chapelain (Voiture)
+    "Q1248124": "france",  # Guez de Balzac
+    "Q1451213": "france",  # Tristan l'Hermite
+    "Q9381": "england",  # Adam Smith (Scottish → Anglo densify for Dexter)
+    # External mine6 densify 2026-08-02
+    "Q6900893": "england",  # Monkhouse Davison (Tye merchant)
+    "Q3471265": "england",  # Samuel Whitbread
+    "Q333240": "england",  # William Beckford (Lord Mayor)
+    # External mine7 densify 2026-08-02
+    "Q7788650": "england",  # Thomas Coutts (Jackson merchant)
+    "Q3809383": "england",  # John Julius Angerstein
+    "Q5565890": "england",  # Francis Baring
+    # External mine8 densify 2026-08-02
+    "Q206384": "england",  # Joseph Addison (Blundell)
+    "Q333148": "england",  # Richard Steele
+    "Q41166": "england",  # Jonathan Swift (Anglo-Irish → england cell)
+    "Q1256302": "england",  # Matthew Prior
+    "Q2277355": "england",  # Thomas Pitt (Jeake merchant)
+    "Q514846": "england",  # Elihu Yale (Anglo densify)
+    "Q3525181": "england",  # Thomas Guy
+    # Marzelière densify (Brittany/France courtier cell; birth ~1390)
+    "Q461757": "france",  # Jacques Cœur
+    "Q716427": "france",  # Jean Juvénal des Ursins
+    "Q3403106": "france",  # Prigent VII de Coëtivy
 }
 
 # Force occupation bucket when WD scholar cohort under-classifies clerics/rulers
 CTRL_BUCKET_OVERRIDE = {
     "Q380652": "cleric",  # Giles of Viterbo (Augustinian cardinal)
     "Q435853": "cleric",  # Thomas Cajetan (Dominican cardinal)
+    # HRE humanists used as friar/cleric densify for jacopo_magnia cell
+    "Q77715": "cleric",  # Albrecht von Eyb
+    "Q1259240": "cleric",  # Johannes Knebel
+    "Q809389": "cleric",  # Bartholomäus van der Lake
+    "Q136487101": "cleric",  # Johann von Lübeck
+    "Q27909297": "cleric",  # Nikolaus Straub
+    "Q3172160": "clerk",  # Jean Fusoris: instrument-maker/astronomer → clerk stratum for Baye
+    "Q679093": "clerk",  # Laurent de Premierfait: Paris humanist translator / court-adjacent clerc → Baye clerk densify
+    "Q744845": "clerk",  # Warham: archbishop but Master of Rolls / chancellor admin peer for Wyatt
+    "Q2476399": "clerk",  # Docwra: Hospitaller prior with heavy diplomatic admin docs
+    "Q299446": "cleric",
+    "Q154751": "cleric",
+    "Q1217669": "clerk",
+    "Q208125": "artisan",
+    "Q311082": "artisan",
+    # Stonley densify: Tudor secretaries/keepers as clerk stratum
+    "Q354309": "clerk",  # Burghley
+    "Q608866": "clerk",  # Nicholas Bacon
+    "Q2336478": "clerk",  # Thomas Wilson (rhetoric + secretary)
+    "Q1101373": "ruler",  # Newcastle
+    "Q2701696": "ruler",  # Essex
+    "Q336091": "ruler",  # Strafford
+    # External mine3: keep Cranfield in merchant cell for Jeffreys
+    "Q6555592": "merchant",  # Cranfield: merchant→earl; peer as merchant for Jeffreys
+    "Q3852414": "merchant",  # Maurice Abbot
+    "Q1289573": "merchant",  # Cockayne
+    # External mine4 artisan densify for Peale
+    "Q313498": "artisan",  # West
+    "Q316016": "artisan",  # Copley
+    "Q371280": "artisan",  # Romney
+    "Q123098": "artisan",  # Kauffmann
+    # Marzelière densify: finance/jurist/admiral as clerk/admin peers
+    "Q461757": "clerk",  # Jacques Cœur: Argentier / royal finance admin
+    "Q716427": "clerk",  # Jean Juvénal: parlement/jurist/historian documentary
+    "Q3403106": "admin",  # Prigent VII de Coëtivy: Breton admiral/courtier
 }
 
 
@@ -297,10 +500,35 @@ TREAT_REGION_OVERRIDE = {
     "domenichi_ludovico": "italy",
     "spataro_giovanni": "italy",
     "spinelli_benedetto": "italy",
+    "pedro_toledo": "italy",  # Spanish-born; Naples viceroy / Medici orbit (Pass EY)
+    "vinta_belisario": "italy",  # Medici secretary; Florence (Pass EZ)
     "pirckheimer": "hre",
     "wolsey": "england",
     "wyatt_henry": "england",
     "henry_viii": "england",
+    "wood_anthony": "england",
+    "lynnet_william": "england",
+    "richardson_richard_jr": "england",
+    "stonley_richard": "england",
+    "pepys_samuel": "england",
+    "howard_william_naworth": "england",
+    "bourchier_henry_bath": "england",
+    "cowper_william": "england",
+    "jeffreys_joyce": "england",
+    "franklin_benjamin": "england",  # Anglo densify (Philadelphia/London/Paris orbit)
+    "peale_charles_willson": "england",  # Anglo densify (Philadelphia painter / West orbit)
+    "jefferson_thomas": "england",  # Anglo densify (republic-of-letters cell)
+    "adams_john": "england",  # Anglo densify (Paris/London/US letter cell; cf. Franklin/Jefferson)
+    "washington_george": "england",  # Anglo densify (Founders/republic-of-letters cell; cf. Adams/Franklin)
+    "voiture_vincent": "france",
+    "dexter_samuel": "england",  # Anglo densify (Dedham/Boston republic-of-letters)
+    "tye_thomas": "england",
+    "jackson_ralph": "england",
+    "unwin_mary": "england",
+    "blundell_nicholas": "england",
+    "jeake_samuel": "england",
+    "albrecht_prussia": "hre",
+    "august_brunswick_wolfenbuettel": "hre",
     "azevedo_joao_porto": "iberia",
     "nuno_fernandes": "iberia",
     "neri_mici": "italy",
@@ -309,6 +537,13 @@ TREAT_REGION_OVERRIDE = {
     "philippe_le_hardi": "france",
     "charles_orleans": "france",
     "rene_ii_lorraine": "france",
+    "rene_anjou": "france",  # Anjou/Provence court; Lecoy 1449 Avignon purchase
+    "hesselin_denis": "france",
+    "marzeliere_pierre": "france",  # Brittany ducal chamberlain; Nantes étrennes 1433
+    "cleux_jean": "france",  # Brittany maître d'hôtel; Nantes étrennes 1433
+    "egidio_piacenza": "italy",  # Fra Egidio da Piacenza; age-band order Florence
+    "jacopo_magnia_friar": "hre",  # della Magnia / Germany Franciscan context (candidates note)
+    "knut_bosson": "hre",  # Nordic bishop Linköping; peer to HRE ruler_cleric densify (Pass DJ)
 }
 
 

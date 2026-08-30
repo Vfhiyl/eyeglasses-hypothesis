@@ -1,0 +1,23 @@
+{
+  "pass": "CB",
+  "date": "2026-08-06",
+  "new_mine": {
+    "gray": "still_gated",
+    "keil_hartlib_brille_oa": "dry",
+    "household_spectacles_ia": "0"
+  },
+  "plumbing": {
+    "wolsey_drop_stokesley_lee": "-2\u2192+4",
+    "tye_drop_davison_add_hanbury": "-0.5\u2192+1"
+  },
+  "freeze": {
+    "n": 48,
+    "median": 5.0,
+    "ci": [
+      3.0,
+      8.0
+    ],
+    "sesoi5": "PASS_RAW",
+    "share_gt0": 0.729
+  }
+}

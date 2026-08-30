@@ -1,0 +1,68 @@
+person_id,name,birth_year,occupation_bucket,macro_region,years_alive_after_45_t,years_after_evidence_t,n_matched_controls,median_years_alive_after_45_c,delta_ya45,match_status,match_level,matched_control_qids,control_regions
+neri_mici,Ser Neri Mici da Bibbiena,1300,clerk,italy,,0.0,4,9.0,,matched,occ+birth+region,Q3623797;Q3713292;Q48407068;Q112684597,italy
+petrarch,Francesco Petrarca,1304,humanist,italy,25.0,10.0,7,12.0,13.0,matched,occ+birth+region,Q1399161;Q1248865;Q146994;Q17279924;Q10818169;Q1402;Q439050,italy
+philippe_le_hardi,Philippe II le Hardi Duke of Burgundy,1342,ruler,france,17.0,14.0,8,2.0,15.0,matched,occ+birth+region,Q917090;Q346761;Q348961;Q4993282;Q517044;Q451995;Q358374;Q43082,france
+datini,Francesco di Marco Datini,1335,merchant,italy,30.0,10.0,5,18.0,12.0,matched,occ_relaxed+region,Q18945675;Q809391;Q93113;Q1296705;Q508702,italy
+nicolas_de_baye,Nicolas de Baye (greffier du Parlement de Paris),1364,clerk,france,10.0,2.0,5,19.0,-9.0,matched,occ+birth+region,Q3172160;Q1685601;Q679093;Q3110583;Q1237886,france
+marzeliere_pierre,Pierre de la Marzelière (seigneur du Fretay),1390,admin,france,27.0,24.0,4,26.5,0.5,matched,occ+birth+region,Q3107535;Q716427;Q461757;Q111210803,france
+joris_van_der_paele,Joris (Canon) van der Paele,1370,other,unknown,28.0,,12,25.0,3.0,matched,occ+birth+region,Q119313;Q1697559;Q2598830;Q43977;Q6728408;Q737756;Q102183661;Q2064265;Q314488;Q2857327;Q286599;Q1394460,hre;italy;other
+rene_anjou,René of Anjou (René I),1409,ruler,france,26.0,30.0,2,11.5,14.5,matched,occ+birth+region,Q133372;Q692291,france
+ardingelli_bese,Bese di Giovanni Ardingelli,1408,merchant,italy,23.0,16.0,6,28.0,-5.0,matched,occ+birth+region,Q3768494;Q299663;Q721857;Q10946745;Q1056171;Q659093,italy
+arduino_baiso,Arduino da Baiso,1385,artisan,italy,24.0,3.0,4,25.5,-1.5,matched,occ+birth+region,Q37562;Q318117;Q208125;Q311082,italy
+cederni,Bartolomeo Cederni,1416,clerk,italy,21.0,24.0,4,27.5,-6.5,matched,occ+birth+region,Q3619484;Q55228138;Q1217669;Q18945418,italy
+charles_orleans,Charles I Duke of Orléans,1394,ruler,france,26.0,10.0,5,13.0,13.0,matched,occ+birth+region,Q454053;Q239337;Q454013;Q692291;Q133372,france
+filelfo,Francesco Filelfo,1398,humanist,italy,38.0,25.0,12,18.5,19.5,matched,occ+birth+region,Q1042297;Q1234681;Q166519;Q809500;Q526613;Q599858;Q182046;Q101437;Q651013;Q1433395;Q30900642;Q712032,italy
+gonzaga_ludovico,Ludovico III Gonzaga,1412,ruler,italy,21.0,13.0,5,13.0,8.0,matched,occ+birth+region,Q715054;Q506640;Q1125744;Q447535;Q435501,italy
+policastro,Iacobo de Policastro,1410,admin,italy,23.0,17.0,5,34.0,-11.0,matched,occ+birth+region,Q1217669;Q55228138;Q41568767;Q61472794;Q3619484,italy
+pius_ii,Pope Pius II,1405,ruler_cleric,italy,14.0,3.0,3,16.0,-2.0,matched,occ+birth+region,Q299446;Q5392534;Q3118498,italy
+bianca_maria,Bianca Maria Visconti,1425,ruler,italy,0.0,6.0,4,16.5,-16.5,matched,occ+birth+region,Q435501;Q1125744;Q1348708;Q506640,italy
+sforza_francesco,Francesco I Sforza,1401,ruler,italy,20.0,2.0,4,7.0,13.0,matched,occ+birth+region,Q447535;Q312304;Q430565;Q289285,italy
+tranchedini,Nicodemo Tranchedini,1411,humanist,italy,25.0,17.0,12,12.5,12.5,matched,occ+birth+region,Q21545248;Q983263;Q455252;Q1372875;Q214115;Q535676;Q101437;Q651013;Q182046;Q275044;Q3876500;Q5659931,italy
+strozzi_filippo,Filippo Strozzi the Elder,1428,merchant,italy,18.0,25.0,8,24.0,-6.0,matched,occ+birth+region,Q1646308;Q94784301;Q1236780;Q3388274;Q16586697;Q3904063;Q1056171;Q659093,italy
+alessandra_strozzi,Alessandra Macinghi Strozzi,1406,letter_writer,italy,20.0,5.0,12,12.0,8.0,matched,occ+birth+region,Q101437;Q1372875;Q214115;Q651013;Q182046;Q21545248;Q983263;Q166519;Q809500;Q455252;Q1042297;Q535676,italy
+barbara_brandenburg,Barbara of Brandenburg,1422,ruler,italy,14.0,13.0,5,15.0,-1.0,matched,occ+birth+region,Q435501;Q1125744;Q506640;Q1348708;Q715054,italy
+ammannati,Iacopo Ammannati Piccolomini,1422,humanist,italy,12.0,6.0,12,18.0,-6.0,matched,occ+birth+region,Q669640;Q3876500;Q547873;Q5659931;Q711964;Q75962786;Q275044;Q523923;Q1240697;Q535676;Q18945471;Q41569391,italy
+hesselin_denis,Denis Hesselin (Hasselin) Prevot des Marchands de Paris,1425,clerk,france,36.0,32.0,5,27.0,9.0,matched,occ+birth+region,Q3170939;Q288378;Q2823945;Q3170994;Q42027400,france
+azevedo_joao_porto,João de Azevedo Bishop of Porto,1430,cleric,iberia,42.0,17.0,4,30.5,11.5,matched,occ+birth+region,Q66791624;Q18745304;Q342392;Q5672208,iberia
+lorenzo_medici,Lorenzo de' Medici (il Magnifico),1449,other,italy,0.0,11.0,12,12.0,-12.0,matched,occ+birth+region,Q105015363;Q105044982;Q26263533;Q3635366;Q55227773;Q106832905;Q164823;Q3749759;Q48861610;Q1236821;Q18945713;Q3071870,italy
+sixtus_iv,Pope Sixtus IV (Francesco della Rovere),1414,ruler_cleric,italy,25.0,2.0,4,13.5,11.5,matched,occ+birth+region,Q3118498;Q5392534;Q1531207;Q4942038,italy
+egidio_piacenza,Fra Egidio da Piacenza,1433,cleric,italy,,0.0,12,18.0,,matched,occ+birth+region,Q18945373;Q1525570;Q3766135;Q3839095;Q3850247;Q59628954;Q604460;Q326037;Q2821863;Q4394728;Q18945522;Q4942038,italy
+jacopo_magnia_friar,Fra Iacopo della Magnia,1423,cleric,hre,,0.0,5,23.0,,matched,occ+birth+region,Q77715;Q809389;Q136487101;Q27909297;Q1259240,hre
+rene_ii_lorraine,Rene II Duke of Lorraine,1451,ruler,france,12.0,4.0,6,4.0,8.0,matched,occ+birth+region,Q315880;Q1367895;Q728786;Q1379932;Q1313351;Q232801,france
+leo_x,Pope Leo X (Giovanni de Medici),1475,ruler_cleric,italy,1.0,8.0,9,20.0,-19.0,matched,occ+birth+region,Q682478;Q83159;Q334188;Q823002;Q380652;Q435853;Q133001;Q728931;Q113031057,italy
+pirckheimer,Willibald Pirckheimer,1470,humanist,hre,15.0,9.0,7,14.0,1.0,matched,occ+birth+region,Q28004827;Q338876;Q70053;Q43499;Q137856789;Q1168956;Q44668811,hre
+wolsey,Thomas Wolsey,1473,ruler_cleric,england,12.0,3.0,7,17.0,-5.0,matched,occ+birth+region,Q725592;Q6259279;Q5534459;Q317149;Q957527;Q1788686;Q2258968,england
+wyatt_henry,Henry Wyatt,1460,clerk,england,32.0,3.0,4,23.5,8.5,matched,occ+birth+region,Q548613;Q2476399;Q536316;Q744845,england
+spataro_giovanni,Giovanni Spataro,1458,humanist,italy,38.0,1.6,12,11.0,27.0,matched,occ+birth+region,Q686423;Q130351;Q1990693;Q19985001;Q59357715;Q673596;Q318787;Q42909548;Q106833324;Q1236821;Q182128;Q3071870,italy
+spinelli_benedetto,Benedetto di Guaspare Spinelli,1483,merchant,italy,19.0,0.03,8,7.5,11.5,matched,occ+birth+region,Q34486127;Q125867220;Q110421536;Q55228599;Q681622;Q708954;Q111149269;Q55226104,italy
+lotto,Lorenzo Lotto,1480,artisan,italy,31.0,16.0,6,19.0,12.0,matched,occ+birth+region,Q3104075;Q1054349;Q983352;Q470846;Q1522152;Q1978080,italy
+albrecht_prussia,Albert Duke of Prussia (Albrecht von Brandenburg-Ansbach),1490,ruler,hre,33.0,25.0,4,16.5,16.5,matched,occ+birth+region,Q67712;Q61814;Q32500;Q95239,hre
+henry_viii,Henry VIII,1491,ruler,england,11.0,2.0,6,6.5,4.5,matched,occ+birth+region,Q3990688;Q5540308;Q711801;Q7287908;Q337635;Q518521,england
+maurolico_francesco,Francesco Maurolico,1494,humanist,italy,36.0,21.0,12,17.0,19.0,matched,occ+birth+region,Q20172498;Q3565998;Q669191;Q3845887;Q395722;Q16621758;Q1798685;Q18224490;Q3561345;Q17427425;Q261554;Q352573,italy
+domenichi_ludovico,Lodovico (Ludovico) Domenichi,1515,humanist,italy,4.0,9.0,12,13.5,-9.5,matched,occ+birth+region,Q104099062;Q19818775;Q3778928;Q523931;Q21545214;Q3638733;Q18945465;Q1946977;Q3742149;Q112999011;Q3766049;Q114567134,italy
+jacques_moser,Jacques Moser (Mouser / Jaques Moses?),1522,other,unknown,,,12,23.5,,matched,occ+birth+region,Q121850;Q16855222;Q1368501;Q136891128;Q21209115;Q114567134;Q1177367;Q1239049;Q15549989;Q18576555;Q1949189;Q20164863,england;hre;iberia;italy;other
+stonley_richard,Richard Stonley,1519,clerk,england,36.0,5.0,3,24.0,12.0,matched,occ+birth+region,Q354309;Q2336478;Q608866,england
+howard_william_naworth,Lord William Howard of Naworth,1563,humanist,england,32.0,23.0,3,20.0,12.0,matched,occ+birth+region,Q1035378;Q37388;Q333098,england
+august_brunswick_wolfenbuettel,"Augustus the Younger, Duke of Brunswick-Lüneburg (August der Jüngere)",1579,ruler,hre,42.0,13.0,2,20.0,22.0,matched,birth_only,Q6555592;Q333098,england
+jeffreys_joyce,Joyce Jeffreys,1575,merchant,england,30.0,11.0,2,28.5,1.5,matched,occ+birth+region,Q6555592;Q3852414,england
+bourchier_henry_bath,"Henry Bourchier, 5th Earl of Bath",1587,ruler,england,22.0,8.0,3,10.0,12.0,matched,occ+birth+region,Q2701696;Q1101373;Q336091,england
+voiture_vincent,Vincent Voiture,1597,humanist,france,6.0,1.0,3,12.0,-6.0,matched,occ+birth+region,Q1248124;Q334978;Q1451213,france
+pepys_samuel,Samuel Pepys,1633,clerk,england,25.0,34.0,11,23.0,2.0,matched,occ_relaxed+region,Q335280;Q170373;Q4216692;Q267683;Q46830;Q213355;Q108206;Q2248538;Q43393;Q316949;Q559213,england
+lynnet_william,William Lynnet,1623,cleric,england,32.0,28.0,6,33.5,-1.5,matched,occ+birth+region,Q7519488;Q8014632;Q767960;Q676049;Q2347142;Q333922,england
+wood_anthony,Anthony Wood,1632,humanist,england,18.0,19.0,11,23.0,-5.0,matched,occ+birth+region,Q170373;Q213355;Q335280;Q4216692;Q267683;Q46830;Q108206;Q2248538;Q43393;Q316949;Q559213,england
+jeake_samuel,Samuel Jeake the Younger,1652,merchant,england,2.0,23.0,3,28.0,-26.0,matched,occ+birth+region,Q2277355;Q514846;Q3525181,england
+blundell_nicholas,Nicholas Blundell,1669,humanist,england,23.0,15.0,4,12.5,10.5,matched,occ+birth+region,Q333148;Q41166;Q206384;Q1256302,england
+jackson_ralph,Ralph Jackson,1736,merchant,england,9.0,30.0,3,42.0,-33.0,matched,occ+birth+region,Q7788650;Q3809383;Q5565890,england
+tye_thomas,Thomas Tye,1713,merchant,england,25.0,22.0,3,31.0,-6.0,matched,occ+birth+region,Q6900893;Q333240;Q3471265,england
+richardson_richard_jr,Richard Richardson the younger (Bierley),1708,humanist,england,28.0,3.3,11,20.0,8.0,matched,occ+birth+region,Q903246;Q713821;Q183266;Q34190;Q330036;Q379902;Q556043;Q37160;Q1232397;Q1291915;Q208452,england
+adams_john,John Adams,1735,humanist,england,46.0,14.0,3,10.0,36.0,matched,occ+birth+region,Q161841;Q335060;Q236236,england
+washington_george,George Washington,1732,humanist,england,22.0,13.0,4,11.0,11.0,matched,occ+birth+region,Q236236;Q161841;Q335060;Q9381,england
+franklin_benjamin,Benjamin Franklin,1706,humanist,england,39.0,6.0,11,20.0,19.0,matched,occ+birth+region,Q379902;Q556043;Q34190;Q1291915;Q903246;Q713821;Q183266;Q208452;Q330036;Q37160;Q1232397,england
+dexter_samuel,Samuel Dexter,1726,humanist,england,39.0,25.0,2,11.5,27.5,matched,occ+birth+region,Q236236;Q9381,england
+cowper_william,William Cowper,1731,humanist,england,24.0,14.0,4,11.0,13.0,matched,occ+birth+region,Q236236;Q161841;Q9381;Q335060,england
+unwin_mary,Mary Unwin,1724,letter_writer,england,27.0,10.0,2,11.5,15.5,matched,occ+birth+region,Q9381;Q236236,england
+peale_charles_willson,Charles Willson Peale,1741,artisan,england,41.0,39.0,4,27.5,13.5,matched,occ+birth+region,Q123098;Q313498;Q316016;Q371280,england
+burke_edmund,Edmund Burke,1729,other,england,23.0,,3,12.0,11.0,matched,occ+birth+region,Q236236;Q9381;Q161841,england
+priestley_joseph,Joseph Priestley,1733,other,england,26.0,,4,11.0,15.0,matched,occ+birth+region,Q161841;Q236236;Q335060;Q9381,england
+jefferson_thomas,Thomas Jefferson,1743,humanist,england,38.0,20.0,2,11.0,27.0,matched,occ+birth+region,Q335060;Q161841,england
+knut_bosson,"Knut Bosson (Natt och Dag), Bishop of Linköping",1360,ruler_cleric,hre,31.0,19.0,1,26.0,5.0,matched,occ+birth+region,Q55133937,hre

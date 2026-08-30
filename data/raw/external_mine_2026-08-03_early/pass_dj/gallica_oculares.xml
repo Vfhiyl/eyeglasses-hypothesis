@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<srw:searchRetrieveResponse xmlns:ns6="http://gallica.bnf.fr/namespaces/gallica/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <srw:version>1.2</srw:version>
+    <srw:echoedSearchRetrieveRequest>
+        <srw:query>(gallica all "paire de lunettes") and (dc.date &gt;= "1400") and (dc.date &lt;= "1650")</srw:query>
+        <srw:version>1.2</srw:version>
+    </srw:echoedSearchRetrieveRequest>
+    <srw:numberOfRecords>291</srw:numberOfRecords>
+    <srw:extraResponseData>&lt;numberOfRecordsDecollapser&gt;327&lt;/numberOfRecordsDecollapser&gt;</srw:extraResponseData>
+    <srw:records>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1501-1600</dc:date>
+                    <dc:description>Contient : 1 « Rondeau de Nostre Dame en ryme couronnée... par Mc GUILLAUME DU PUYS, et se peult lyre en plusieurs manieres ». Refrain : « Par mon filz qui me fist, je suys regente, gente » ; 2 « Ballade latine de Nostre Dame... par Dom NICOLLE LESCARRE ». Refrain : « Flos producens fructum vite » ; 3 « Triolet de Nostre Dame, en latin... par Mc NICOLLE TURBOT » (fol. 2). Refrain : « Ora pro peccatore » ; 4 « Oratio composita per magistrum NICOLAUM SELLARII, secundum litteras alphabeti » ; 5 « Triolet de Nostre Dame » (fol. 4). Refrain : « Et me gardez de tribulation » ; 6 « Syzain » ; 7 « Rondeau ». Refrain : « Souveraine fleur, emperiere des cieulx » ; 8 « Oraison à Nostre Dame » ; 9 « Huytain de la Conception » ; 10 « Rondeau de Nostre Dame, ryme annexée ». Refrain : « Je te supply, gloricuse pucelle » ; 11 « Ballade de la Conception Nostre Dame ». Refrain : « De l'humaine redemption » ; 12 « Chant royal de Nostre Dame, en dyalogue » (fol. 6). Refrain : « Impassible, plain de gloire assouvie » ; 13 « Ballade de Nostre Dame » (fol. 7). Refrain : « Mere de Dieu, que veult on plus ? » ; 14 « Chant royal de Nostre Dame » (fol. 8). Refrain : « Seulle d'Adam exempte de macule » ; 15 « Rondeau de la Vierge Marie » (fol. 9). Refrain : « L'humble Marie » ; 16 Quatrain sur le mystère de l'Incarnation (fol. 10). Premier vers : « Je suys ce que j'estoye, en tous temps vierge pure » ; 17 Distique sur le même sujet. Premier vers : « Partus et integritas discordes tempore longo » ; 18 « Chant royal de Nostre Dame, par CRETIN ». Refrain : « L'ost triumphant de l'armée invincible » ; 19 « Ballade de Nostre Dame » (fol. 12) : « En ame et corps glorifiée » ; 20 « Oraison à Nostre Dame, où est compris Ave Maria ». Premier vers : « Salut, bien vivre et paix » ; 21 « Huitain de Nostre Dame » (fol. 13). Premier vers : « Tres haulte dame et humble ancelle » ; 22 « Oraison à Nostre Dame ». Refrain : « Vierge enfantant oultre loy de nature » ; 23 « [C]hant royal [de] Nostre Dame » (fol. 14). Refrain : « Le salut d'or, empraint de coing de grace » ; 24 « Rondeau double de Nostre Dame » (fol. 16). Refrain : « Royne des cyeulx » ; 25 « Ballade de [la] Vierge Marie ». Refrain : « Des triumphantes la dame souveraine » ; 26 « Chant royal de Nostre Dame » (fol. 17). Refrain : « Le restaurant qui pour mort rend la vie » ; 27 « Chant royal de Nostre Dame. Jugement de Salomon moralisé » (fol. 18). Refrain : « La digne mere au Filz de Dieu le Pere » ; 28 « Chant royal de Nostre Dame : Ecce ancilla » (fol. 20). Refrain : « Humble ancelle, du haut Seigneur prevcue » ; 29 « Ballade de Nostre Dame » (fol. 21.) Refrain : « Chair qui n'est chair ny esprit » ; 30 « Chant royal de Nostre Dame. Laudate eum in cordis et organo » (fol. 22). Refrain : « L'accord parfaict entre Dieu et les hommes » ; 31 « Ballade de deux papegaulx » (fol. 23). Refrain : « Pour voler plus hault que les cieulx » ; 32 « Rondeau » (fol. 24). Refrain : « En terre et ciel » ; 33 « Aultre Rondeau ». Refrain : « Pure je suys » ; 34 « Chant royal de Nostre Dame » (fol. 25). Refrain : « Source d'eau doulce au parmy de la mer » ; 35 « Chant royal de Nostre Dame » (fol. 26). Refrain : « Au grand tresor de la bancque de grace » ; 36 « Chant royal de Nostre Dame » (fol. 27). Refrain : « D'ung pauvre ver triumphante vesture » ; 37 « Aultre Chant royal de Nostre Dame » (fol. 28). Refrain : « L'humble bergere au piege a le loup pris » ; 38 « Aultre Chant royal de Nostre Dame, en oraison et ryme double » (fol. 29). Refrain : « Noble advocate en concept pure et saincte » ; 39 « Chant royal de Nostre Dame » (fol. 31). Refrain : « Fille de roy es lyons approuvée » ; 40 « Chant royal des vignes fallyes » (fol. 32). Refrain : « La belle grappe apportant nouveau moust » ; 41 « Oraison de Nostre Dame, en forme de ballade » (fol. 34). Refrain : « Vivre en vertus et en foy bien mourir » ; 42 « Rondeau ». Refrain : « En unité sont par la trinité » ; 43 « Chant royal de Nostre Dame, par Me ANDRY DE LA VIGNE » (fol. 35). Refrain : « Royne des cieulx et princesse des anges » ; 44 « Chant royal faict du grand exces promeu contre la saincte Vierge par Belial d'enfer », par « Me GUILLAUME THIBAULT » (fol. 36). Refrain : « De la grand loy Marie est exemptée » ; 45 « Chant royal, par GUIGUART, apoticaire » (fol. 37). Refrain : « Forte amazone aux tournoys courageuse » ; 46 « Chant royal, par BUSQUET » (fol. 39). Refrain : « Exemption de tache originelle » ; 47 « Chant royal, par GRIGNON, de Dieppe » (fol. 40). Refrain : « Le beau vaisseau plain de bon vin de grace » ; 48 « Chantroyal, par Me INNOCENT TOURMENTE » (fol. 41). Refrain : « Le desyré en fin or de salut » ; 49 « Chant royal » (fol. 43). Refrain : « Conception plus divine qu'humaine » ; 50 « Chant royal », par « Me JACQUES DU PARC » (fol. 44). Refrain : « D'ung filz tout beau la mere toute belle » ; 51 « Aultre Chant royal » (fol. 45). Refrain : « Pour le tout beau la plus belle du monde » ; 52 « Chant royal, par Don NICOLE LESCARRE » (fol. 47). Refrain : « Le droict baston rendant force à viellesse » ; 53 « Chant royal, faict en dyalogue », entre « Sathan » et « Rayson », par « Me PIERRE LE LIE » (fol. 48). Refrain : « Saincte cyté contre Sathan fermée » ; 54 « Ballade de Nostre Dame », par « NICOLLE LESCARRE » (fol. 49). Refrain : « Fonde qui rend au roy victoire » ; 55 « Chant royal de Nostre Dame » (fol. 50). Refrain : « La digne couche où le roy reposa » ; 56 « Aultre Chant royal » (fol. 51). Refrain : « Aux bons Françoys l'auriflamme royalle » ; 57 « Aultre Chant royal de Nostre Dame » (fol. 52). Refrain : « La pomme d'or à la plus belle dame » ; 58 « Ballade de Nostre Dame » (fol. 53). Refrain : « Autant que amour sa force estand » ; 59 « Aultre Ballade de Nostre Dame » (fol. 54). Refrain : « Sans avoir quelque vice infaict » ; 60 « Chant royal de Nostre Dame ». Refrain : « Carte parfaicte, au vray rond accordée » ; 61 « Chant royal » (fol. 56). Refrain : « De pur fourment la granche toute pleyne » ; 62 « Aultre Chant royal de Nostre Dame » (fol. 58). Refrain : « Sans lesyon a passé par les picques » ; 63 « Cant royal en motz rechiproques » (fol. 59). Refrain : « Jamais ne fut de sy belle espousaye » ; 64 « Aultre Chant royal de Nostre Dame ». Refrain : « La torche au poing pour amende honorable » ; 65 « Aultre Chant royal de Nostre Dame » (fol. 62). Refrain : « Harnoys d'espreuve au puissant roy de gloire » ; 66 « Autre Chant royal de Nostre Dame » (fol. 63). Refrain : « Le beau daulp[h]in qui ne fut jamais pris » ; 67 « Serventoys de Nostre Dame » ; 68 « Aultre Chant royal de Nostre Dame » (fol. 65). Refrain : « Du Filz de Dieu la robe inconsutile » ; 69 « Aultre Chant royal de Nostre Dame » (fol. 66). Refrain : « La table ronde en honneur triumphante » ; 70 « Aultre Chant royal de Nostre Dame » (fol. 68). Refrain : « Motet exquis, chef d'oeuvre de nature » ; 71 « Aultre Chant royal de Nostre Dame » (fol. 69). Refrain : « Pourpre excellant pour vestir le grand roy » ; 72 « Aultre Chant royal de Nostre Dame » (fol. 70). Refrain : « La belle saine à tous pescheurs propice » ; 73 « Aultre Chant royal de Nostre Dame » (fol. 71). Refrain : « Sa dextre main de vertu toute pleine » ; 74 « Aultre Chant royal de Nostre Dame » (fol. 73). Refrain : « La forte nef toute pleine de grace » ; 75 « Chant royal de Nostre Dame » (fol. 74). Refrain : « Corps triumphant sur tous les benoistz anges » ; 76 « Aultre Chant royal de Nostre Dame » (fol. 75). Refrain : « Le bien d'amour et le moyen de grace » ; 77 « Aultre Chant royal de Nostre Dame » (fol. 76). Refrain : « Vaisseau d'honneur, remply de toute grace » ; 78 « Aultre Chant royal de Nostre Dame » (fol. 78). Refrain : « Ung post si fort que onc ne fut ung post tel » ; 79 « Aultre Chant royal de Nostre Dame, par Me PIERRE AVRIL » (fol. 79). Refrain : « La noble court rendente à tous justice » ; 80 « Chant royal » (fol. 80). Refrain : « Romme où se tient le sainct pape Innocent » ; 81 « Aultre Chant royal de Nostre Dame » (fol. 81). Refrain : « Le paradis enrousé d'eau de grace » ; 82 « Chant royal, par Me PIERRE AVRIL » (fol. 82). Refrain : « De viel boys mort oyseau vif pur et munde » ; 83 « Chant royal, par Me FLORENT COPPIN » (fol. 84). Refrain : « Conceue au gré de divine pensée » ; 84 « Chant royal, par Me FRANÇOIS SAGON » (fol. 85). Refrain : « Sans vice infect l'effect parfaict est faict » ; 85 « Chant royal de Nostre Dame » (fol. 87). Refrain : « Le grand decret d'auctorité divine » ; 86 « Aultre Chant royal » (fol. 88). Refrain : « La riche perle où Dieu print forme humaine » ; 87 « Ballade balladant » (fol. 89). Refrain : « Dieu tout puissant, verité, voye et vie » ; 88 « Chant royal » (fol. 90). Refrain : « Herpe rendant souveraine armonye » ; 89 « Ballade des abuz du monde » (fol. 91). Refrain : « Des grans abus que l'on faict en ce monde » ; 90 « Dicton » (fol. 92). Premier vers : « Rien dire ne debvez sans faire » ; 91 « Dicton ». Premier vers : « Si tu as maistre, sers le bien » ; 92 « Exposition de Missus est Gabriel, en rime » (fol. 93). Premier vers : « Ou temps auquel Dieu avoya » ; 93 « Exposition de Stabat mater, en ryme » (fol. 94). Premier vers : « Pres de la croix moult douloureuse » ; 94 « Les Vers de sainct BERNARD, translatez en ryme » (fol. 96). Premier vers : « Tres doulx Jesu Crist, roy de gloire » ; 95 « Ballade de charité » (fol. 97). Refrain : « Rien ne faisons, s'il n'y a charité » ; 96 « Ballade de pertinacité » (fol. 98). Refrain : « Mais gouverner ne nous voulons par luy » ; 97 « Ballade de la paix » (fol. 99). Refrain : « Heureuse paix ou triumphante victoire » ; 98 « Ballade de tous estatz » (fol. 100). Refrain : « Il fault aller ou à Dieu ou au diable » ; 99 « Ballade à ce propoz, en dyalogue ». Refrain : « Qu'en aurons nous ? Grande persecution » ; 100 « Ballade du temps qui court » (fol. 101). Refrain : « C'est la façon du temps qui court » ; 101 « Ballade du bon temps qui reviendra ». Refrain : « Alors le bon temps reviendra » ; 102 « Ballade de noz adversitez » (fol. 102). Refrain : « Tout cela vient de noz deffaulx » ; 103 « Ballade pour les mondains » (fol. 103). Refrain : « Ainsy que l'escrevice va » ; 104 « Ballade à ce propoz ». Refrain : « Pour aussy vray que Dieu est moyne gris » ; 105 « Ballade contre les amoureux » (fol. 104). Refrain : « Mais c'est la mort que d'aymer sans partye » ; 106 « Ballade contre les mondains ». Refrain : « On dict tres bien, mais on faict le contraire » ; 107 « Aultre Ballade, contre les amoureux » (fol. 105). Refrain : « Car en amours n'a foy ne loyaulté » ; 108 « Balade concluante pour les amoureux » (fol. 106). Refrain : « Qui est chaste, continent et pudicque » ; 109 « Balade ». Befrain ; 110 « La + de par Dieu des nobles et vertueux, composée pour monseigneur le Daulphin » (fol. 107), série de vingt-sept quatrains, suivant l'ordre alphabétique. Premier vers : « + de par Dieu les ennemys estonne » ; 111 « Rondeau à ce propos » (fol. 109). Refrain : « Pour parvenir au ranc des vertueux » ; 112 « Rondeau du maulvais conseil » (fol. 110). Refrain : « C'est le viel jeu de croire ung villart saige » ; 113 « Ballade sur la Passion Nostre Seigneur ». Refrain : « Le pellican qui pour les siens se tue » ; 114 « Les saiges Remonstrances que faict le bon pere à son filz » (fol. 111). Premier vers : « Sy tu veulx vivre longuement » ; 115 Notes chronologiques ; 116 « Rondeau de Jesu Crist » (fol. 112). Refrain : « Le chef enclin et les bras estenduz » ; 117 « Double de la sentence et condempnation de Nostre Saulveur Jhesus Crist, translatée de latin en françois » ; 118 « Dictons sur les.VII. pechez mortelz ». Premier vers : « Qui feist Sathan cheoir comme fouldre ? » ; 119 « Le Loyer de peché » (fol. 113). Premier vers : « D'abres planter on a du fruict » ; 120 « Du Jour du vendredy ». Vers latins ; 121 « De la tres excellante et parfaicte Beaulté du precieux corps Nostre Seigneur Jhesu Crist » (fol. 114). Premier vers : « On treuve es histoires escript » ; 122 « Chant royal du sainct sacrement, composé par Frere MATHIEU DE LANDA » (fol. 115). Refrain : « Le sacré corps du Redempteur du monde » ; 123 « Dixain contre avarice » (fol. 117). Premier vers : « Sy Judas n'eust tant aymé la pecune » ; 124 « Huictain à ce propos ». Premier vers : « Le riche en corps on voit fleurir » ; 125 « Ballade contre les abuz du monde ». Refrain : « Car peu est qui pour aultruy veille » ; 126 « Aultre à ce propos » (fol. 118). Refrain : « On voit tout et ne voit on goutte » ; 127 « Aultre Ballade ». Refrain : « Tost est deffaict qui aultruy veult deffaire » ; 128 « Dicton profitable » (fol. 119). Premier vers : « Souffrir devons prendre à plaisir » ; 129 « Dicté joyeux ». Premier vers : « Dieu nous gard d'ung tour de Breton » ; 130 « Le Nom de tous les nez ». Premier vers : « Aminadab qui procrea Naason » ; 131 « Sermon d'ung Jacobin aux advanturiers de France » (fol. 120). Premier vers : « Vous ressemblez entre vous gens de guerre » ; 132 « Dicton ». Premier vers : « Prendre l'aultruy devant qu'il soit perdu » ; 133 « De cometa ». Premier vers : « Tu steriles agros et inania vota coloni » ; 134 « Ballade » en langage macaronique. Réfrain : « Refloruit caro mea » ; 135 Vers latins sur la cour de Rome. Premier vers : « Pauperibus sua dat gratis nec munera curat » ; 136 « Au Cadran des cordeliers de Rageuse oultre Venise » ; 137 « Sur le Portail d'une eglise à Venise, Abel et Caïn » ; 138 Rébus, devises, énigmes ; 139 Vers sur quelques événements de l'histoire de France, au XVe et au XVIe siècle ; 140 Énigmes, rébus, « dictons pour paindre » ; 141 « Epitaphe des Poetevins » ; 142 « Ballade en dyalogue de.II. Escossoys ». Refrain : « Moy conseil point entry hors du ream » ; 143 « Ballade pour congnoistre ung cheval » (fol. 129). Refrain : « Fier et puissant, c'est pour le roy de France » ; 144 « Epitaphe de la royne Anne. 1513, 9a januarii » (fol. 130). Premier vers : « Anna sum que nuper vivoye en grand renom » ; 145 « Rondeau pour bien mourir ». Refrain : « Pour bien mourir, sans jeu ne fable » ; 146 « Ballade de la mort » (fol. 131). Refrain : « Aux mal vivans la fin est miserable » ; 147 « Ballade du temps qui court ». Refrain : « Se bonne paix n'est en France trouvée » ; 148 « Dicton » (fol. 132). Premier vers : « Que vault homme qui muse et se promaine ? » ; 149 « Les Epitaphes des neuf preuses ». Premier vers : « Thomyris fuz en armes bien habillée » ; 150 « Rebus » ; 151 « Ballade des miseres du monde » (fol. 134). Refrain : « C'est grant pitié des miseres du monde » ; 152 « Ave Maria joyeux sur le temps de maintenant ». Premier vers : « Ave Maria Nostre Dame » ; 153 « Ballade, aux Lunettes des princes » [par JEAN MESCHINOT] (fol. 135). Refrain : « Qu'on ne pert rien, qui ne pert Dieu » ; 154 « Ballade sur l'estat de labeur, prinse aux Lunettes des princes » [par JEAN MESCHINOT] (fol. 136). Refrain : « Car il convient à Jesus rendre compte » ; 155 « Ballade des Lunettes des princes » [par JEAN MESCHINOT]. Refrain : « Car ce seroit pire que sang espandre » ; 156 « Aultre Ballade dudict livre » (fol. 137). Refrain : « Pour ce que l'oeuvre en est desnaturelle » ; 157 « Aultre Ballade consolative, prins aux dictes Lunettes » [par JEAN MESCHINOT] (fol. 138). Refrain : « Et hayt tous ceulx dont digne est la memoire » ; 158 « Ballade pour les princes, desdictes Lunettes » [par JEAN MESCHINOT] (fol. 139). Refrain : « Et de salut desire à estre quitte » ; 159 « Aultre Ballade des Lunettes des princes » [par JEAN MESCHINOT] (fol. 140). Refrain : « N'est pas bien sain ne de noble nature » ; 160 « Aultre Ballade à ce propos » (fol. 141). Refrain : « Et dont luy propre il mauldira sa teste » ; 161 « Aultre Ballade pour les princes » [par JEAN] « MESCHINOT » (fol. 142). Refrain : « Ne que le ciel luy preste umbre ne voye » ; 162 « Extraict du Breviere des nobles, composé par Me ALAIN » [CHARTIER] ; 1 « Foy, premiere vertu. Ballade » (fol. 143). Refrain : « Pour foy garder et pour vivre en justice » ; 2 « Loyaulté, seconde vertu ». Ballade (fol. 144). Refrain : « Servir leur roy et leurs subjectz deffendre » ; 3 « Honneur,.IIIe. vertu. Ballade ». Refrain : « Car c'est le bien qui les aultres surmonte » ; 4 « Droicture,.IIIIe. vertu. Envoy prins sur la ballade » (fol. 145). Refrain : « A chascun son loyal droict » ; 5 « Prouesse,.Ve. vertu. Ballade ». Refrain : « Honneste mort plus que vivre en vergongne » ; 6 « Amour,.VIe. vertu. Envoy prys sur la ballade » (fol. 147). Refrain : « Qui n'a amour et amys, il n'a rien » ; 7 « Couvoitise,.VIIe. vertu. Envoy prys sur la ballade dudict Breviere ». Refrain : « En faictz et en dictz » ; 8 « Diligence,.VIIIe. vertu. Sustance de la ballade ». Refrain : « Diligence qui les vertus esveille » ; 9 « Netteté,.IXe. vertu. Summaire de netteté ». Refrain : « Celuy où tous prennent garde » ; 10 « Largesse,.Xe. vertu. Ballade » (fol. 148). Refrain : « C'est l'enseigne des vertus en ce monde » ; 11 « Sobrieté,.XIe. vertu. Partye de la ballade ». Refrain : « Garde de corps et consierge de vie » ; 12 « Perseverance,.XIIe. vertu. Envoy de la ballade » (fol. 149). Refrain : « Puys que la fin faict les oeuvres louer » ; 163 Extraits du « Psaultier des villains » ; 1 « Envoy premier pris au Psaultier des villains ». Refrain : « Ceulx sont villains qui font les villannyes » ; 2 « Envoy de gentillesse ». Refrain : « Qui ayme honneur et craint villainie, honte » ; 3 « Envoy de noble vertu ». Refrain : « Cueur et vouloir de bien faire en tous temps » ; 4 « Bonté de cuer. Envoy de la ballade ». Refrain : « Car on ne doibt l'ung dire et l'aultre faire » ; 5 « Franchise. Envoy ». Refrain : « Comme à son faict appartient » ; 6 « Sens. Envoy ». Refrain : « C'est le chemyn à quoy on doibt tirer » ; 7 « Envoy de memoire » (fol. 150). Refrain : « Raison le veult et Dieu dict qu'il ce face » ; 8 « Couplet de debonnaire, principal dicton » (fol. 150). Refrain : « Du hault et du bas » ; 9 « Ballade de vaillance ». Refrain : « Pauvre prouesse et petitte vaillance » ; 10 « Ballade de hardiesse » (fol. 151). Refrain : « Folye n'est pas vasselage » ; 11 « Ballade de preudhommye ». Refrain : « Ne faire à soy plus grande villennye » ; 12 « Envoy de la ballade d'honnesteté » (fol. 152). Refrain : « Le gratieux estat de gentillesse » ; 13 « Ballade de bonne renommée ». Refrain : « La fin de tout est vraye experience » ; 164 « Extraict d'ung tableau pour congnoistre de qui vient noblesse » (fol. 153). Premier vers : « Adam fut faict et formé gentilhomme » ; 165 « Extraict abregé prys aux Nouvelles de l'aultre monde, quant on leva.VIM. hommes, nommezles.VIM. dyables » (fol. 155). Premier vers : « Sainct Pierre donc prevoiant les grans maulx » ; 166 « Des grans Eaues de sainct Marceau ». Premier vers : « L'an mil.VC. vingt et sept » ; 167 « La Pater de la paix » (fol. 156). Premier vers : « Pater Noster, nostre creance » ; 168 « Dicton de Calays, faict par les Angloys » (fol. 157). Vers latins et français ; 169 « De la Prinse de Calais. Imprimé à Venise, 1557 ». Vers latins ; 170 « De pace recens facta, mense aprili, 1559 » (fol. 158). Vers latins ; 171 « Orationum accentus » ; 172 « Oraison des armes de la Passion de Nostre Redempteur Jhesus » (fol. 159). Premier vers : « Dignes armes de Jhesu Crist » ; 173 « Passio sancti Dionisii » (fol. 160). Premier vers : « Monseigneur sainct Denys, tresor de sapience » ; 174 « De sancto Johanne Baptista » (fol. 161). Premier vers : « Sainct Jehan precurseur, delivre nous d'erreur » ; 175 « Du Sainct Sacrement » (fol. 162). Premier vers : « Gloyre, triumphe, avec tout honneur » ; 176 « Aultre du Sainct Sacrement » (fol. 163). Premier vers : « En ce sainct lieu, en toute humilité » ; 177 « Dudict Sainct Sacrement ». Premier vers : « Devotes gens, contemples ceste hystoire » ; 178 Méthodes pour trouver le jour de Pâques, en latin ; 179 « Tabula pro festis mobilibus inveniendis » ; 180 « Chant royal qui fut mys au may de la Saincte Chapelle ». Refrain : « Santé au corps et paradis à l'ame » ; 181 Neuf dictons ; 182 « Barbara lexis ». Premiers vers ; 183 Dictons, rimes couronnées, barbarae lexeis, triolets, rondeau en lymosin, énigmes, épitaphes ; 184 « Ballade contre ceulx qui mectent de l'eau au vin ». Refrain : « Qui nous a mys de l'eau en nostre vin » ; 185 « Le Blason du bon vin » ; 186 « Ballade pour ceulx qui ayment le vin ». Refrain : « Tout le monde seroit saulvé » ; 187 « Ballade à ce propoz » (fol. 180). Refrain : « Kahu, kaha, faict on finance » ; 188 « Ballade pour ceulx qui doibvent argent ». Refrain : « Gens sans argent ressemblent corps sans ame » ; 189 « Aultre Ballade à ce propos » (fol. 181). Refrain : « Ou pour jouer les peines sainct Guedas » ; 190 « Ballade pour France ». Refrain : « Qui mal vouldroict au royaulme de France » ; 191 « Ballade contre ceulx qui disent mal d'aultruy » (fol. 182). Refrain : « Qui aultruy blasme sans raison » ; 192 « Ballade de jeunesse » (fol. 183.) Refrain : « Le baston dont il est batu » ; 193 « Ballade pour viellesse » (fol. 184). Refrain : « C'est tres bien dict, mais querez qui le face » ; 194 « Ballade à ce propos ». Refrain : « Qui vaille honneur et veritable bouche » ; 195 « Aultre Balade » (fol. 185). Refrain : « Car aussy tost meurent jeunes que vieulx » ; 196 « Dictons, rime annexée, vers enchaînés, vers entrelacés, vers couronnés, rymes en toutes sortes » ; 197 « Rondeau » (fol. 189). Refrain : « Monsieur, je suys sy bas percé » ; 198 « Triolet ». Refrain : « Sy je n'ay du pain de chapitre » ; 199 « Rethorique nommée fatras ». Refrain : « Où gendarmes logez sont » ; 200 « La Requeste faicte par Me JEHAN DU PONTALAYS au prevost de Paris La Barre » (fol. 190). Premier vers : « Noble prevost, de Paris gouverneur » ; 201 « Aultre Requeste par ledict à Messieurs de la cour ». Premier vers : « Prudent senat, duquel afflue justice » ; 202 « Ryme en equivoque, par MAROT » (fol. 191). Premier vers : « Sy je m'esbas, faisant rondeaux et ryme » ; 203 « Ryme leonine, par le dict MAROT au roy F[rançoys] ». Premier vers : « Roy des Françoys, plein de toutes bontez » ; 204 « Dicton dudict MAROT en ryme croisée » (fol. 193). Premier vers : « Sus, quatre vers, partez en haste » ; 205 « Le Mariage de Zephirus et de Flora moralisé ». Refrain : « Pour decorer la joyeuse Flourette » ; 206 « L'Arrest et la louenge de la dame sans per et sans sy » (fol. 195). Refrain : « Seulle, sans per, la plus belle des belles » ; 207 « Les Noms des douze pers de France, et apres des ducz et comtes d'icelluy royaulme, le tout par ordre » ; 208 « Les Dictz des.XII. moys » (fol. 198). Premier vers : « Je me fais janvier appeller » ; 209 « Les Jeunes de l'Eglise » ; 210 Dictons ; 211 « Le Mirouer du monde ». Premier vers : « Se mon regard ne vous vient à plaisir » ; 212 « L'Assault de la mort et de l'homme mondain, extraict des Lunettes des princes » [par JEAN MESCHINOT] (fol. 202). Refrain : « Car je ne sçay meilleur trouver » ; 213 « Le Fol qui contrefaict le saige » (fol. 203). Premier vers : « Vous qui notez ma pourtraicture » ; 214 « Dicton profitable. Ung fol qui tient des mouches » (fol. 205). Premier vers : « Si au regard des dames as fiance » ; 215 « Les Esbahis au monde. Principal extraict ». Premier vers : « S'esbahis sommes au monde, sans confort » ; 216 « Chant royal mys au may de Nostre Dame de Paris, 1556 » (fol. 209). Refrain : « De longue treve une paix immortelle » ; 217 « Chant royal de Nostre Dame, par le jeu des eschectz », par « Me N. TURBOT » (fol. 211). Refrain : « La royne fut exempte d'estre prise » ; 218 « Aultre Chant royal » (fol. 212). Refrain : « La brebiette et l'aigneau sans macule » ; 219 « Aultre », par « Dom NICOLLE LESCARRE » (fol. 214). Refrain : « Le chevallier à la forte bombarde » ; 220 « Les Graces de CRETIN, tresorier du boys de Viciennes ». Premier vers : « Le Cretin rend graces à celle » ; 221 « Chant royal faict par le dict CRETIN » (fol. 215). Refrain : « Sans blasme aulcun de coulpe originelle » ; 222 « Chant royal, par ledict CRETIN » (fol. 216). Refrain : « La fleur de liz preservée entre espines » ; 223 « Chant royal de Nostre Dame », par « Me RICHARD BONNE ANNEE » (fol. 217). Refrain : « Pour son plaisir Dieu la fist toute belle » ; 224 « Aultre Chant royal de Nostre Dame », par « Me NICOLLE TURBOT » (fol. 219). Refrain : « La franche terre appartenant au roy » ; 225 « Aultre Chant royal de Nostre Dame », par « Me JEHAN MAROT » (fol. 220). Refrain : « L'humanité joincte à divinité » ; 226 « Aultre Chant royal », par « GUILLAUME THIBAULT » (fol. 221). Refrain : « Du hault seigneur la coulumne tres forte » ; 227 « Chant royal » (fol. 222). Refrain : « Le regne franc de la loy tributaire » ; 228 « Aultre Chant royal de Nostre Dame », par « Me NICOLLE TURBOT » (fol. 223). Refrain : « Le laurier verd tout beau par excellence » ; 229 « Chant royal », par « PICOT » (fol. 225). Refrain : « La saincte salle où Dieu prend nourriture » ; 230 Paraphrase du « Salve Regina ». Premier vers : « Royne d'amour et de misericorde » ; 231 « Ballade de Nostre Dame ». Refrain : « L'arbre portant le fruict de vie » ; 232 « Ballade », par « BUSQUET » (fol. 227). Refrain : « La loy receupt exception » ; 233 « Ballade de Nostre Dame », par « JACQUES FILLASTER » (fol. 228). Refrain : « Tant ayma l'honneur de sa mere » ; 234 « Aultre Ballade de Nostre Dame », par « Me GUILLAUME THIBAULT ». Refrain : « La terre rendant blé de grace » ; 235 « Rondeau », par « Frere GUILLAUME ALEXIS, prieur de Bussy » (fol. 229). Refrain : « Veuillent ou non tous mauldictz envyeux » ; 236 « Rondeau », par « Me GUILLAUME THIBAULT ». Refrain : « Par mon cher filz, qui si forte m'a faicte » ; 237 « Rondeau, par CRETIN » (fol. 230). Refrain : « Au jour prefix fut Marie apperceue » ; 238 « Aultre Rondeau de Nostre Dame », par « ARNOULD CHAPPERON ». Refrain : « Pauvres humains, cessez toutes voz larmes » ; 239 « Aultre Rondeau », par « Dom NICOLLE LESCARRE ». Refrain : « Juge infernal, tu n'oseroys plus dire » ; 240 « Ballade de Nostre Dame, par Me PIERRE AVRIL » (fol. 231). Refrain : « La fontaine d'humilité » ; 241 « Bon couplet ». Premier vers : « Pour les grans dons et les prerogatives » ; 242 « Ode ad divam Virginem », par « MAIGNART » (fol. 232). Refrain : « Tota pulchra es, amica mea » ; 243 « Epigramma de beata [Maria], per MICHAELEM DES ARPENS ». Premier vers : « Fecerat expertus tota pro parte rotundum » ; 244 « Chant royal de Nostre Dame » (fol. 233). Refrain : « Le cierge ardant qui la nuict extermine » ; 245 « Aultre Chant royal de Nostre Dame » (fol. 235). Refrain : « L'arche Noé qui saulva les humains » ; 246 « Chant royal », par « FRANÇOYS SAGON » (fol. 236). Refrain : « La fleur du thym preparée à la mouche » ; 247 « Rondeau à syre Germain de Merle, 1524, par TOUBEL » (fol. 238). Refrain : « Pour ton hault bruyt florir et augmenter » ; 248 « Ballade du patriarche TOUBEL, envoyé au deffraieur Germain de Merle, general de la monnoye. 1524 ». Refrain : « Tout bel acueil à tous faict ce jourd'huy » ; 249 « Ryme doublée en maniere de servantoys pour inviter les suppotz de venir en l'isle, 1524 » (fol. 239). Premier vers : « Pour recreer en mille petitz saultz » ; 250 « Lettres envoyés par le dict patriarche aux prebstres et clercs de la confrarie St Nicolas, pour le clerc St Eustace, nommé Du Chesnet, lequel reffusa le doyenné » (fol. 240). Premier vers : « Sy contraint suys vers vous faire mes plaintz » ; 251 Rébus, dictons, « JO. HANGI problema » ; 252 « Chant royal presenté au may de Nostre Dame de Paris, 1562 » (fol. 242). Refrain : « Ung Dieu, ung roy, une foy, une loy » ; 253 « Complaincte et querymonie des pauvres » (fol. 243). Premier vers : « O Dieu, que nul ne peult desdire » ; 254 « Oraison presentée pour le roy à Nostre Dame de Clery » (fol. 245). Premier vers : « Vierge du ciel, vierge en terre honnorée » ; 255 « Cantique de la victoire de Metz, 1552 » (fol. 246). Premier vers : « In exitu Caroli de populo barbaro » ; 256 « Petite Traduction de deux ou troys notables passaiges » tirés des « psal. 102,78 » (fol. 247), — « Oraison à Dieu quant on se lieve au matin », — Paraphrase en vers du verset 10 du psaume LXX, — « Veni, Creator Spiritus, en ryme » (fol. 248), — « Item du Sainct Esperit » ; 257 « Chant royal sus la Nativité Nostre Seigneur » (fol. 249). Refrain : « Le vray pasteur des sainctz cieulx descendit » ; 258 « Rondeau de la croix Jhesu Crist » (fol. 250). Refrain : « O noble croix de liqueur arrousée » ; 259 « Rondeau ». Refrain : « Le cueur à Dieu, l'affection au monde » ; 260 « Dizain sur sainct Mathieu,.VE. chapitre » (fol. 251). Premier vers : « Quiconque voit femme par couvoitise » ; 261 « De la Resurrection Nostre Seigneur Jhesu Crist », — « Oraison de monseigneur sainct Germain », — « De monseigneur sainct Clair, archevesque et martyr » (fol. 252), — Oraisons diverses en vers, — « Exortation composée sur Ave Maria » (fol. 255), — « Le Cantique virginal Magnificat, paraphrasé par Me CHARLES SEVIN, chanoine de Agen, envoyé à sa niepce Marie, religieuse, 1546 » (fol. 256), — Paraphrase en vers de « Tota pulchra es, amica mea » (fol. 257)</dc:description>
+                    <dc:description>Numérisation effectuée à partir d'un document de substitution.</dc:description>
+                    <dc:description>Commençant par : « Ce rondeau à double couronne Est faict à troys couppes planieres... » et finissant par : « Et de le tenir viz à viz De moy, pour toute recompense » .</dc:description>
+                    <dc:format>Papier</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b107208130</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:relation>Notice du catalogue : http://archivesetmanuscrits.bnf.fr/ark:/12148/cc487603</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France. Département des Manuscrits. Français 2206</dc:source>
+                    <dc:subject>Alexis, Guillaume.</dc:subject>
+                    <dc:subject>Rondeau.</dc:subject>
+                    <dc:subject>Ave Maria, en français.</dc:subject>
+                    <dc:subject>Ave Maria joyeux sur le temps de maintenant.</dc:subject>
+                    <dc:subject>Ave Maria, en français.</dc:subject>
+                    <dc:subject>Exhortation sur l'Ave Maria.</dc:subject>
+                    <dc:subject>Avril, Pierre.</dc:subject>
+                    <dc:subject>Poésies.</dc:subject>
+                    <dc:subject>Ballades.</dc:subject>
+                    <dc:subject>Bernard, S.</dc:subject>
+                    <dc:subject>Vers latins traduits en vers français.</dc:subject>
+                    <dc:subject>Bible. Bibles en français modernes.</dc:subject>
+                    <dc:subject>Psaumes.</dc:subject>
+                    <dc:subject>Bonne-Année, Richard.</dc:subject>
+                    <dc:subject>Poésie.</dc:subject>
+                    <dc:subject>Busquet, Isambert.</dc:subject>
+                    <dc:subject>Ballade.</dc:subject>
+                    <dc:subject>Calais.</dc:subject>
+                    <dc:subject>Notes et pièces diverses.</dc:subject>
+                    <dc:subject>Chants Royaux.</dc:subject>
+                    <dc:subject>Chapperon, Arnould.</dc:subject>
+                    <dc:subject>Rondeau.</dc:subject>
+                    <dc:subject>Chartier, Alain.</dc:subject>
+                    <dc:subject>Bréviaire des nobles.</dc:subject>
+                    <dc:subject>Comput.</dc:subject>
+                    <dc:subject>Coppin, Florent.</dc:subject>
+                    <dc:subject>Poésies.</dc:subject>
+                    <dc:subject>Crétin, Guillaume.</dc:subject>
+                    <dc:subject>Poésies.</dc:subject>
+                    <dc:subject>Denis l'Aréopagite, St.</dc:subject>
+                    <dc:subject>Vie.</dc:subject>
+                    <dc:subject>Des Arpens, Michel, Épigramme.</dc:subject>
+                    <dc:subject>Diables.</dc:subject>
+                    <dc:subject>Six mille diables.</dc:subject>
+                    <dc:subject>Du Parc, Jacques.</dc:subject>
+                    <dc:subject>Chant royal.</dc:subject>
+                    <dc:subject>Du Pontalays, Jehan.</dc:subject>
+                    <dc:subject>Requêtes au prévôt de Paris.</dc:subject>
+                    <dc:subject>Du Puys, Guillaume.</dc:subject>
+                    <dc:subject>Rondeau de Notre-Dame.</dc:subject>
+                    <dc:subject>Écossais, Ballade de deux.</dc:subject>
+                    <dc:subject>Eucharistie.</dc:subject>
+                    <dc:subject>Poèmes.</dc:subject>
+                    <dc:subject>Fillastre, Jacques.</dc:subject>
+                    <dc:subject>Ballade.</dc:subject>
+                    <dc:subject>Grignon, de Dieppe.</dc:subject>
+                    <dc:subject>Chant royal.</dc:subject>
+                    <dc:subject>Guiguart, apothicaire.</dc:subject>
+                    <dc:subject>Chant royal.</dc:subject>
+                    <dc:subject>Guillaume Alexis, Le Fr., prieur de Bussy.</dc:subject>
+                    <dc:subject>Rondeau.</dc:subject>
+                    <dc:subject>Jacobins, Religieux.</dc:subject>
+                    <dc:subject>Sermon d'un Jacobin.</dc:subject>
+                    <dc:subject>Jésus-Christ.</dc:subject>
+                    <dc:subject>Passion, oraison des armes de la Passion.</dc:subject>
+                    <dc:subject>Jésus-Christ.</dc:subject>
+                    <dc:subject>Passion, rondeau et poésies.</dc:subject>
+                    <dc:subject>La Vigne, André de.</dc:subject>
+                    <dc:subject>Chant royal de Notre-Dame.</dc:subject>
+                    <dc:subject>Le Lié, Pierre.</dc:subject>
+                    <dc:subject>Chant royal.</dc:subject>
+                    <dc:subject>Lescarre, Nicole.</dc:subject>
+                    <dc:subject>Poésies.</dc:subject>
+                    <dc:subject>Maignart, Charles.</dc:subject>
+                    <dc:subject>Ode.</dc:subject>
+                    <dc:subject>Marie, Vierge. A. B. C.</dc:subject>
+                    <dc:subject>Poésies en son honneur.</dc:subject>
+                    <dc:subject>Marie, Vierge. A. B. C.</dc:subject>
+                    <dc:subject>Poésies en son honneur, ballades.</dc:subject>
+                    <dc:subject>Marie, Vierge. A. B. C.</dc:subject>
+                    <dc:subject>Poésies en son honneur, chants royaux.</dc:subject>
+                    <dc:subject>Marie, Vierge. A. B. C.</dc:subject>
+                    <dc:subject>Poésies en son honneur, rondeaux.</dc:subject>
+                    <dc:subject>Marot, Clément.</dc:subject>
+                    <dc:subject>Poésies diverses.</dc:subject>
+                    <dc:subject>Marot, Jean.</dc:subject>
+                    <dc:subject>Poésies.</dc:subject>
+                    <dc:subject>Matthieu de Landa.</dc:subject>
+                    <dc:subject>Chant royal.</dc:subject>
+                    <dc:subject>Meschinot, Jean.</dc:subject>
+                    <dc:subject>Poésies.</dc:subject>
+                    <dc:subject>Michel des Arpens.</dc:subject>
+                    <dc:subject>Epigramma de beata Maria.</dc:subject>
+                    <dc:subject>Miroir du monde.</dc:subject>
+                    <dc:subject>Noblesse.</dc:subject>
+                    <dc:subject>De qui vient noblesse.</dc:subject>
+                    <dc:subject>Palinods.</dc:subject>
+                    <dc:subject>Poésies.</dc:subject>
+                    <dc:subject>Pater.</dc:subject>
+                    <dc:subject>Patenôtre, de la paix.</dc:subject>
+                    <dc:subject>Picot.</dc:subject>
+                    <dc:subject>Chant royal.</dc:subject>
+                    <dc:subject>Poitevins.</dc:subject>
+                    <dc:subject>Épitaphe.</dc:subject>
+                    <dc:subject>Psautier des vilains.</dc:subject>
+                    <dc:subject>Raguse.</dc:subject>
+                    <dc:subject>Cordeliers.</dc:subject>
+                    <dc:subject>Rébus, dictons, etc.</dc:subject>
+                    <dc:subject>Richard Bonne-Année.</dc:subject>
+                    <dc:subject>Poésie.</dc:subject>
+                    <dc:subject>Rome, Cour de.</dc:subject>
+                    <dc:subject>Vers latins.</dc:subject>
+                    <dc:subject>S. Clair.</dc:subject>
+                    <dc:subject>Vie.</dc:subject>
+                    <dc:subject>S. Germain.</dc:subject>
+                    <dc:subject>Prières.</dc:subject>
+                    <dc:subject>S. Jean-Baptiste.</dc:subject>
+                    <dc:subject>Vie.</dc:subject>
+                    <dc:subject>S. Marcel.</dc:subject>
+                    <dc:subject>Vie.</dc:subject>
+                    <dc:subject>S. Mathieu.</dc:subject>
+                    <dc:subject>Dizain.</dc:subject>
+                    <dc:subject>Sagon, François.</dc:subject>
+                    <dc:subject>Chant royal.</dc:subject>
+                    <dc:subject>Sellier, Nicole.</dc:subject>
+                    <dc:subject>Oratio.</dc:subject>
+                    <dc:subject>Sermons.</dc:subject>
+                    <dc:subject>Sevin, Charles.</dc:subject>
+                    <dc:subject>Paraphrase du Magnificat.</dc:subject>
+                    <dc:subject>Thibaut, Guillaume.</dc:subject>
+                    <dc:subject>Chants royaux.</dc:subject>
+                    <dc:subject>Toubel.</dc:subject>
+                    <dc:subject>Poésies.</dc:subject>
+                    <dc:subject>Tourmente, Innocent.</dc:subject>
+                    <dc:subject>Chants royaux.</dc:subject>
+                    <dc:subject>Turbot, Nicole.</dc:subject>
+                    <dc:subject>Chant royal.</dc:subject>
+                    <dc:subject>Turbot, Nicole.</dc:subject>
+                    <dc:subject>Rondeaux.</dc:subject>
+                    <dc:subject>Turbot, Nicole.</dc:subject>
+                    <dc:subject>Triolet de Notre-Dame.</dc:subject>
+                    <dc:subject>Venise.</dc:subject>
+                    <dc:subject>Notes et pièces diverses.</dc:subject>
+                    <dc:subject>Vin.</dc:subject>
+                    <dc:subject>Poésies.</dc:subject>
+                    <dc:title>Recueil de rondeaux, ballades, chants royaux en l'honneur de la Vierge, et autres pièces.</dc:title>
+                    <dc:type>manuscript</dc:type>
+                    <dc:type>manuscrit</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>0</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b107208130.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b107208130</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b107208130.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b107208130.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b107208130.thumbnail</thumbnail>
+                <typedoc>manuscrits</typedoc>
+                <uri>btv1b107208130</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1649</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>In-4°. Pièce cartonnée</dc:format>
+                    <dc:format>Nombre total de vues : 16</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k57215913</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:language>français</dc:language>
+                    <dc:publisher>C. Huot (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb335276681</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Littérature et art, YE-3855</dc:source>
+                    <dc:title>Le Passe-temps de Ville-Juif. En vers burlesques</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>1</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k57215913.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k57215913</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k57215913.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k57215913.medres</medres>
+                <nqamoyen>84.99</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k57215913.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k57215913</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Des Périers, Bonaventure (15..?-1543). Auteur du texte</dc:creator>
+                    <dc:date>1561</dc:date>
+                    <dc:description>[Nouvelles récréations et joyeux devis (français moyen)]</dc:description>
+                    <dc:format>239 p. ; in-4</dc:format>
+                    <dc:format>Nombre total de vues : 249</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k791287</dc:identifier>
+                    <dc:identifier>NUMM-79128</dc:identifier>
+                    <dc:language>frm</dc:language>
+                    <dc:publisher>par Guillaume Rouille (Lyon)</dc:publisher>
+                    <dc:relation>Notice d’oeuvre : http://catalogue.bnf.fr/ark:/12148/cb11953530x</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb37284630w</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque municipale de Lyon, Rés. A 489170</dc:source>
+                    <dc:title>Les nouvelles récréations et joyeux devis / de feu Bonaventure Des Périers</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>2</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k791287.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k791287</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k791287.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k791287.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k791287.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k791287</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Ouville, Antoine d' (1590?-1656?). Auteur du texte</dc:creator>
+                    <dc:date>1643</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : GTextes1</dc:description>
+                    <dc:description>Contient une table des matières</dc:description>
+                    <dc:format>[32]-543 p. ; in-8</dc:format>
+                    <dc:format>Nombre total de vues : 572</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k85935z</dc:identifier>
+                    <dc:identifier>NUMM-85935</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>T. Quinet (Paris)</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb310458869</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb310458869</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Littérature et art, Y2-57547</dc:source>
+                    <dc:title>Les contes aux heures perdues du sieur d'Ouville ou Le recueil de tous les bons mots, réparties, équivoques</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>3</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k85935z.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k85935z</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k85935z.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k85935z.medres</medres>
+                <nqamoyen>21.18</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k85935z.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k85935z</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1628</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>In-8°. Pièce cartonnée</dc:format>
+                    <dc:format>Nombre total de vues : 16</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k176495r</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>F. Jacquin (Paris)</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb334483393</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb334483393</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Médiathèque Michel-Crépeau / La Rochelle, Rés. 763 C</dc:source>
+                    <dc:title>Les lamentations du Jérémie Rochelois</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>4</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k176495r.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k176495r</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k176495r.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k176495r.medres</medres>
+                <nqamoyen>99.53</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k176495r.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k176495r</uri>
+            </srw:extraRecordData>
+        </srw:record>
+    </srw:records>
+    <srw:nextRecordPosition>6</srw:nextRecordPosition>
+</srw:searchRetrieveResponse>

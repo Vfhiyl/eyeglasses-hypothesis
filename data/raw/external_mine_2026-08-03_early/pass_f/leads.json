@@ -1,0 +1,34 @@
+{
+  "francesca_romana": {
+    "qid": "Q235849",
+    "birth": 1384,
+    "death": 1440,
+    "evidence": "Two canonization witnesses (1440, 1451) that she habitually read Office/scriptures cum ocularibus while living (Lugano 1945 pp.55,279; Ilardi 2007 ch.5 n.49)",
+    "labor_bar": "FAIL — evidence is habitual living wear attested at/after death; no dated onset → ya≈0; do not invent age-45 onset",
+    "decision": "HOLD named-living only; do not labor-promote; do not pad onsetish"
+  },
+  "cusac_thomas": {
+    "evidence": "Nantes 1433 living gold/beryl lunettes (Morice Preuves II OCR Thomas Cufâc)",
+    "career": "Chevalier Angloys in Breton service; embassy England ~1452; retained Mar 1451–Jul 1455 with English archers",
+    "death": "NONE found — last pay 1455 ≠ death (Cleux rule)",
+    "decision": "HOLD"
+  },
+  "estouteville": {
+    "qid": "Q656131",
+    "birth": 1403,
+    "death": 1483,
+    "evidence": "1483 death inventory crystal reading lenses (Müntz III p.290; Ilardi n.116) — loupes not pairs; death path CLOSED",
+    "decision": "EXCLUDE"
+  },
+  "piceto": {
+    "evidence": "Galeazzo fresco instructions ca 1471: Piceto a cavalo che guardi con li ochiali (Welch 1990; Ilardi n.50)",
+    "bio": "Giacomo del Piccio / Piceto seneschal — no secure birth/death OA this pass",
+    "decision": "HOLD"
+  },
+  "barberino": {
+    "decision": "EXCLUDE — mirrors/optical theory not spectacle wear"
+  },
+  "1419_oeillez": {
+    "decision": "EXCLUDE — dust-ride eye protectors for riding, not near-work spectacles"
+  }
+}

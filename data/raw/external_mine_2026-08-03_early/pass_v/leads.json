@@ -1,0 +1,49 @@
+{
+  "pass": "V",
+  "date": "2026-08-03",
+  "decision": "no_ingest",
+  "direction": "Dijon 1403–04 platine primary; Belluga birth; Rhodes/Welch OA; Prost OCR; Cleux death; Pansier/Datini densify",
+  "early_stock_unchanged": {
+    "onsetish_n": 34,
+    "labor_delta_n": 28,
+    "labor_delta_median": -0.5
+  },
+  "seams": {
+    "dijon_1403_platine": {
+      "secondary": "Rouyer/Laborde/Heymann: Archives de Dijon, platine for duke's lunettes",
+      "prost_primary": "inventairesmobiliersetextra1/2 + inventairesmobi00prosgoog — no 1403 platine text; only §3240 Philippe 1389 estuy",
+      "decision": "HOLD — still secondary; wearer = duc de Bourgogne (Philippe alive 1403) already rostered at 1389, not new Cleux-bar name"
+    },
+    "belluga_apotecari": {
+      "medcat": "10557 living buy fl.1435; 10559 inventari; still no birth/age/fill-de",
+      "wd": "Q6072225 jurist ≠ apothecary",
+      "decision": "HOLD"
+    },
+    "welch_rhodes_carrere": {
+      "decision": "CLOSED this pass — still no OA fulltext; Unpaywall 422"
+    },
+    "cleux_brace_death": {
+      "morice": "Jeanne de la Chapelle Dame de Cleuz safeguard — not wearer Jean death",
+      "decision": "HOLD — no obit"
+    },
+    "pansier": {
+      "hits": "Jeanne d'Évreux 1372 vericle=loupe/testament; Villon literary; Meschinot title metaphor",
+      "decision": "EXCLUDE / SKIP"
+    },
+    "datini_origo": {
+      "decision": "SKIP — Datini self already onsetish; Ruspi gift already EXCLUDE"
+    },
+    "testamenta_eboracensia_rescan": {
+      "vols": [
+        "02",
+        "03",
+        "08"
+      ],
+      "decision": "DRY for spectacles"
+    },
+    "arcimboldi_oa": {
+      "decision": "DRY — no Piceto/ochiali"
+    }
+  },
+  "new_cleux_bar_promote": null
+}

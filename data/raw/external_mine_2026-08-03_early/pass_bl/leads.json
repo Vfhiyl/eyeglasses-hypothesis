@@ -1,0 +1,33 @@
+{
+  "pass": "BL",
+  "date": "2026-08-05",
+  "direction": "control death==last strip sensitivity + soft-stock plateau catalog; no primary change",
+  "oa_scout": {
+    "openalex": "429 rate limit",
+    "gallica": "403 via proxy",
+    "new_promote": null
+  },
+  "ctrl_death_strip": [
+    {
+      "mode": "primary_freeze_repro",
+      "n": 44,
+      "median": 6.0,
+      "boot95_lo": 3.0,
+      "boot95_hi": 8.75,
+      "sesoi5": "PASS_RAW",
+      "note": "same year-union as script; freeze primary set"
+    },
+    {
+      "mode": "ctrl_strip_death_eq_last",
+      "n": 44,
+      "median": 11.0,
+      "boot95_lo": 8.0,
+      "boot95_hi": 18.0,
+      "sesoi5": "PASS_RAW",
+      "note": "drop control year if year==death; C shrinks \u2192 \u0394 rises (conservative bias removed)"
+    }
+  ],
+  "interpretation": "Control death termini inflate C (against claim). Strip \u2192 higher median; PASS not an artifact of control death inflation favoring T.",
+  "soft_stock_n": 17,
+  "primary_unchanged": true
+}

@@ -1,0 +1,819 @@
+{
+  "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785955613825",
+  "version": "1x7o",
+  "session_context": {
+    "session_key": "user__alanobrienterry918272@gmail.com",
+    "created": "2026-08-05T18:47:07Z",
+    "client_characterization": {
+      "characterized_by": "asserted_or_authenticated",
+      "preferred_client_ip": null,
+      "client_ip": "181.49.216.89:sra",
+      "preferred_client_useragent": null,
+      "client_useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36:sua",
+      "preferred_client_id": null,
+      "client_id": "alanobrienterry918272@gmail.com:sco"
+    },
+    "username": "alanobrienterry918272@gmail.com",
+    "authentication_method": "cookie",
+    "is_system": false,
+    "is_guest": false,
+    "is_user": true,
+    "is_archive_user": false,
+    "is_qualified": false,
+    "is_archivist": false,
+    "has_universal_privs": false,
+    "has_collection_priv": false,
+    "has_allowed_host_priv": false,
+    "has_vpn_host_priv": false,
+    "has_scan_center_priv": false,
+    "has_any_priv": false,
+    "has_any_priv_permissive": false,
+    "pps": {
+      "is_page_target_owner": false,
+      "contributed_review_on_page": false,
+      "full_text_search_override": false,
+      "sees_sensitive_fields": false
+    },
+    "pps_relevant_user_preferences": {
+      "display__blur_moderated_content": "on"
+    }
+  },
+  "request": {
+    "client_request_parameters": {
+      "client": "page_production_service_endpoint",
+      "user_query": "(spectacles OR spectacle OR specktacles) AND (household OR accounts) AND (Herle OR Bourchier OR Gray)",
+      "hits_per_page": 8,
+      "page": 1,
+      "aggregations": [],
+      "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785955613825",
+      "client_url": "https://archive.org/search?query=%28spectacles+OR+spectacle+OR+specktacles%29+AND+%28household+OR+accounts%29+AND+%28Herle+OR+Bourchier+OR+Gray%29"
+    },
+    "backend_requests": {
+      "search": {
+        "root": "(self)",
+        "children": [
+          "collection_title_fetch__d2b2b822c57bf8a3df685646cddc1fdd"
+        ],
+        "request_type": "search",
+        "finalized_parameters": {
+          "client": "page_production_service_endpoint",
+          "user_query": "(redacted)",
+          "hits_per_page": 8,
+          "page": 1,
+          "aggregations": [],
+          "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785955613825",
+          "client_url": "https://archive.org/search?query=%28spectacles+OR+spectacle+OR+specktacles%29+AND+%28household+OR+accounts%29+AND+%28Herle+OR+Bourchier+OR+Gray%29",
+          "page_type": "search_results",
+          "fields": [
+            "_tile_"
+          ],
+          "sort": [
+            "_relevance_:desc",
+            "identifier"
+          ],
+          "aggregations_size": 10,
+          "service_backend": "metadata",
+          "scope": "standard",
+          "feature_flags": {
+            "complex_facets": true,
+            "collection_titles": true,
+            "redact_collections": true,
+            "redact_collections_by_privs": false,
+            "redact_empty_collections": true,
+            "redact_admin_collections": true,
+            "protect_flagging_collections": true
+          },
+          "service": "service__metadata__load_balanced"
+        }
+      },
+      "collection_title_fetch__d2b2b822c57bf8a3df685646cddc1fdd": {
+        "root": "search",
+        "parent": "search",
+        "request_type": "collection_title_fetch",
+        "finalized_parameters": {
+          "page_type": "document_fetch",
+          "user_query": "(redacted)",
+          "aggregations": [],
+          "caching": null,
+          "fields": [
+            "identifier",
+            "title"
+          ],
+          "search_as_system": true,
+          "page": 1,
+          "hits_per_page": 250,
+          "sort": [
+            "_efficient_"
+          ],
+          "service_backend": "metadata",
+          "scope": "ill,printdisabled_and_music,scancenter",
+          "service": "service__metadata__load_balanced"
+        }
+      }
+    }
+  },
+  "caching": {
+    "search": {
+      "name": "PPS-1x7o-J:XX-RT:s~hit-T:sr-Q:5aad4395-H:8-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+      "acceptable_names": [
+        "PPS-1x7o-J:XX-RT:s~std-T:sr-Q:5aad4395-H:8-B:mds-RS:sta~CS::P:0+CS:some+BR:1"
+      ],
+      "configuration": {
+        "requested": [],
+        "finalized": {
+          "bypass": false,
+          "recompute": false,
+          "no_compute": false,
+          "ttl_s": 300,
+          "max_age_s": 0,
+          "miss_policy": "none"
+        }
+      },
+      "utilization": {
+        "went_to_cache": true,
+        "alternates_allowed": true,
+        "hit_alternate": false,
+        "hit_canonical": false,
+        "hit": false,
+        "miss": true,
+        "recomputed": true,
+        "stored": true,
+        "acceptable_names_tried": [
+          "PPS-1x7o-J:XX-RT:s~std-T:sr-Q:5aad4395-H:8-B:mds-RS:sta~CS::P:0+CS:some+BR:1"
+        ],
+        "elapsed_s": 0.8424441814422607
+      },
+      "statsd_bucket": "search.pps.cache.metadata.search_results"
+    },
+    "collection_title_fetch__d2b2b822c57bf8a3df685646cddc1fdd": {
+      "name": "PPS-1x7o-J:XX-RT:ctf-T:df-Q:121768f6-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1",
+      "acceptable_names": [],
+      "configuration": {
+        "requested": [],
+        "finalized": {
+          "bypass": false,
+          "recompute": false,
+          "no_compute": false,
+          "ttl_s": 300,
+          "max_age_s": 0,
+          "miss_policy": "none"
+        }
+      },
+      "utilization": {
+        "went_to_cache": true,
+        "alternates_allowed": true,
+        "hit_alternate": false,
+        "hit_canonical": false,
+        "hit": false,
+        "miss": true,
+        "recomputed": true,
+        "stored": true,
+        "elapsed_s": 0.13589882850646973
+      },
+      "statsd_bucket": "search.pps.cache.metadata.search_results"
+    },
+    "summary": {
+      "fetched": [],
+      "computed": [
+        "PPS-1x7o-J:XX-RT:s~hit-T:sr-Q:5aad4395-H:8-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:XX-RT:ctf-T:df-Q:121768f6-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "stored": [
+        "PPS-1x7o-J:XX-RT:s~hit-T:sr-Q:5aad4395-H:8-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:XX-RT:ctf-T:df-Q:121768f6-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "missed": [
+        "PPS-1x7o-J:XX-RT:s~hit-T:sr-Q:5aad4395-H:8-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:XX-RT:ctf-T:df-Q:121768f6-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "bypassed": []
+    }
+  },
+  "elapsed_secs": 1.0132949352264404,
+  "response": {
+    "header": {
+      "succeeded": true,
+      "query_time": 341,
+      "forensics": {
+        "client_characterization": {
+          "client_ip": "181.49.216.89:sra",
+          "client_id": "alanobrienterry918272@gmail.com:sco",
+          "client_useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36:sua",
+          "preferred_client_ip": null,
+          "preferred_client_id": null,
+          "preferred_client_useragent": null,
+          "application_id": {
+            "session": [
+              "pageproduction"
+            ],
+            "request": []
+          },
+          "client_jurisdiction": "CO",
+          "preferred_client_jurisdiction": null,
+          "actionable_jurisdiction": "XX",
+          "characterized_by": "asserted_or_authenticated",
+          "ensured": true
+        },
+        "routing": {
+          "backend": "es-prod-metadatasearch-filtered",
+          "backend_server": "es-prod-client-n-04",
+          "routed_to_load_balanced": true,
+          "index_addressed": "prod-n-001"
+        },
+        "backend_request_elapsed_secs": {
+          "search": 0.8424441814422607,
+          "collection_title_fetch__d2b2b822c57bf8a3df685646cddc1fdd": 0.13589882850646973
+        }
+      },
+      "elapsed_secs_for_backend_requests": 0.9783430099487305
+    },
+    "body": {
+      "hits": {
+        "total": 22,
+        "returned": 8,
+        "hits": [
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "gd91-06-28.sbd.miller.11706.sbeok.shnf",
+              "title": "Grateful Dead Live at Mile High Stadium on 1991-06-28",
+              "description": "Touch Of Gray, Greatest Story Ever Told, Mississippi Half Step, Wang Dang Doodle, Peggy-O, Black Throated Wind, Iko Iko, Cassidy, Don't Ease Me In Eyes Of The World, Picasso Moon, Crazy Fingers, Saint Of Circumstance-> Drums-> Jam*-> I Need A Miracle-> Wharf Rat-> Throwing Stones-> Not Fade Away, E: Box Of Rain",
+              "subject": [
+                "Live concert"
+              ],
+              "creator": [
+                "Grateful Dead"
+              ],
+              "collection": [
+                "GratefulDead",
+                "etree"
+              ],
+              "date": "1991-06-28T00:00:00Z",
+              "year": 1991,
+              "type": "sound",
+              "mediatype": "etree",
+              "num_favorites": 44,
+              "num_reviews": 27,
+              "item_size": 1325543642,
+              "files_count": 133,
+              "downloads": 32077,
+              "week": 11,
+              "month": 67,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "avg_rating": 3,
+              "addeddate": "2004-05-11T11:22:01Z",
+              "source": "SBD> Dat> Samplitude> CD, Seed Supplied By David Gans",
+              "reviewdate": "2020-08-06T03:53:33Z",
+              "publicdate": "2004-05-12T22:55:05Z"
+            },
+            "highlight": null,
+            "_score": [
+              214.29446
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "NPCM19400321",
+              "title": "China Mail 1940-03-21",
+              "description": "Facts About The Hong Kong Border Situation. NAZI-SOVIET DIPLOMACY. \"NEW ORDER IN EUROPE\". REYNAUD APPROVED. JAPANESE LAND & LEAVE AGAIN COAST SHELLED. REFUGEES GROSS SORDER. \"ALL HELL LOOSE\". ONE WHO HAS NOT RESIGNED. PORTUGUESE LAND ON WANTSAI. RESULTS OF MACDONALD VISIT TO PARIS. LAHORE NOW NORMAL. COMMUNIST TRIAL IN PARIS. BRITISH REPLY TO ITALIAN NOTE ON COAL BLOCKADE. MEETING WISHES. CONTRABAND LIST. BRITAIN'S RESOLVE. DUTCH SHIP SUNK: SIX MISSING. PROTECTION OF LIGHTHOUSE VESSELS. SPAIN THANKED. Official Story Of Yesterday's Raid On Sylt. SIR KINGSLEY WOOD'S STATEMENT IN COMMONS. WARMING UP OF WAR EXPECTED. REICH AND HOLY SEE IN NEGOTIATIONS. TONS OF BOMBS. GENERA ADMIRATION. HUNDRED BOMBS DROPPED. ATTACK IN THE NIGHT. \"MAURETANIA\" TO BE ARMED AS TROOPER. CHARTERED BANK'S DIVIDEND. FALSE PRETENCES CHARGE. RANDALL GOULD AND COMMUNISTS. M. Reynaud Entrusted With Formation Of New Cabinet. DALADIER ASKING FOR FULL REPORT OF SECRET SESSION TO BE PUBLISHED. HARP RECITAL. KEPT ROM HIS...",
+              "subject": [
+                "德臣西報",
+                "德臣西报",
+                "China Mail"
+              ],
+              "collection": [
+                "china-mail",
+                "newspapers"
+              ],
+              "date": "1940-03-21T00:00:00Z",
+              "year": 1940,
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "item_size": 105933996,
+              "files_count": 16,
+              "downloads": 58,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2023-12-05T04:17:56Z",
+              "publicdate": "2023-12-05T04:17:56Z"
+            },
+            "highlight": null,
+            "_score": [
+              178.33444
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "FATWAA_DR_SHEIKH_MUSSAA_SU_AALAA-christian_talk_that_rocks_with_richie_l_ep_12_1",
+              "title": "Christian Talk That Rocks with Richie L. Ep. 12/13/2022",
+              "description": "On today's show, 1:06pm CT, 2:06pm ET: Polling America: Gallup says Government remains Americans' top problem in 2022 - Poll says 71% say accurate reporting of Hunter’s Laptop could have altered 2020 Election - Newsweek Poll shows 58 percent of voters don't want Biden to run again - Pew Research claims massive number of Americans say the Bible's 'end times' are NOW! - we'll analyze. The Big Bird: Elon Musk warns America MUST defeat the 'woke mind virus' - Pro-free-speech Christian rapper Bryson Gray, permanently suspended from Twitter, but not told why - Twitter reinstates two esteemed doctors who had been banned for COVID 'misinformation' - we'll explore. Plus, Fired Loudoun superintendent faces criminal charges over handling of sex assaults involving skirt-wearing biological boy. And, El Paso, TX shelters overwhelmed, illegal migrant violence hits outside bus station. https://www.spreaker.com/show/christian-talk-that-rocks http://christiantalkthatrocks.net or...",
+              "subject": [
+                "reason and sound thinking"
+              ],
+              "creator": [
+                "FATWAA DR SHEIKH MUSSAA SU'AALAA"
+              ],
+              "collection": [
+                "audio_sermons",
+                "audio_religion"
+              ],
+              "date": "2022-12-13T19:05:40Z",
+              "year": 2022,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "audio",
+              "num_favorites": 1,
+              "item_size": 117628872,
+              "files_count": 8,
+              "downloads": 92,
+              "week": 3,
+              "month": 4,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2023-12-09T22:46:40Z",
+              "publicdate": "2023-12-09T22:46:40Z"
+            },
+            "highlight": null,
+            "_score": [
+              124.41372
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "limitsofart0000unse",
+              "title": "The limits of art : poetry and prose chosen by ancient and modern critics",
+              "description": "xliv, 1473 pages ; 23 cm",
+              "subject": [
+                "Literature -- Collections",
+                "Criticism",
+                "Anthologies",
+                "Littérature -- Histoire et critique",
+                "Literature"
+              ],
+              "collection": [
+                "marygrovecollege",
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "1948-01-01T00:00:00Z",
+              "year": 1948,
+              "language": [
+                "eng",
+                "mul"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 131,
+              "item_size": 2488839016,
+              "files_count": 33,
+              "downloads": 1292,
+              "week": 5,
+              "month": 15,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_browse",
+              "addeddate": "2020-04-07T21:03:13Z",
+              "publicdate": "2020-02-06T05:20:49Z"
+            },
+            "highlight": null,
+            "_score": [
+              59.53576
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "theprematureburial_201910",
+              "title": "The Premature Burial",
+              "description": "   The Premature Burial by: Edgar Allan Poe (1809-1849) THERE are certain themes of which the interest is all-absorbing, but which are too entirely horrible for the purposes of legitimate fiction. These the mere romanticist must eschew, if he do not wish to offend or to disgust. They are with propriety handled only when the severity and majesty of Truth sanctify and sustain them. We thrill, for example, with the most intense of \"pleasurable pain\" over the accounts of the Passage of the Beresina, of the Earthquake at Lisbon, of the Plague at London, of the Massacre of St. Bartholomew, or of the stifling of the hundred and twenty-three prisoners in the Black Hole at Calcutta. But in these accounts it is the fact -- it is the reality -- it is the history which excites. As inventions, we should regard them with simple abhorrence. I have mentioned some few of the more prominent and august calamities on record; but in these it is the extent, not less than the character of the calamity,...",
+              "subject": [
+                "Edgar Allan Poe",
+                "Burial",
+                "Horror"
+              ],
+              "creator": [
+                "Wes Robert Ward"
+              ],
+              "collection": [
+                "mad-hatter-gallery",
+                "patron-library-collection"
+              ],
+              "date": "2019-10-08T00:00:00Z",
+              "year": 2019,
+              "language": [
+                "english-handwritten"
+              ],
+              "mediatype": "image",
+              "num_favorites": 6,
+              "item_size": 576357,
+              "files_count": 6,
+              "downloads": 685,
+              "week": 9,
+              "month": 28,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2019-10-09T01:37:09Z",
+              "publicdate": "2019-10-09T01:37:09Z"
+            },
+            "highlight": null,
+            "_score": [
+              24.718264
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "github.com-serhii-londar-open-source-mac-os-apps_-_2021-02-14_15-30-07",
+              "title": "github.com-serhii-londar-open-source-mac-os-apps_-_2021-02-14_15-30-07",
+              "description": "🚀 Awesome list of open source applications for macOS. https://t.me/opensourcemacosapps Awesome macOS open source applications List of awesome open source applications for macOS. This list contains a lot of native, and cross-platform apps. The main goal of this repository is to find free open source apps and start contributing. Feel free to contribute to the list, any suggestions are welcome! To receive all new or popular applications you can join our telegram chanel . Support Hey friend! Help me out for a couple of :beers:! Languages You can see in which language an app is written. Currently there are following languages: ![c_icon] - C language. ![cpp_icon] - C++ language. ![c sharp icon] - C# language. ![clojure_icon] - Clojure language. ![coffee script icon] - CoffeeScript language. ![css_icon] - CSS language. ![go_icon] - Go language. ![elm_icon] - Elm language. ![haskell_icon] - Haskell language. ![javascript_icon] - JavaScript language. ![lua_icon] - Lua language. ![objective c...",
+              "subject": [
+                "GitHub",
+                "code",
+                "software",
+                "git"
+              ],
+              "creator": [
+                "serhii-londar"
+              ],
+              "collection": [
+                "github_narabot_mirror"
+              ],
+              "date": "2021-02-14T00:00:00Z",
+              "year": 2021,
+              "mediatype": "software",
+              "num_favorites": 2,
+              "item_size": 5914529,
+              "files_count": 8,
+              "downloads": 1085,
+              "week": 9,
+              "month": 36,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2021-02-14T23:14:52Z",
+              "publicdate": "2021-02-14T23:14:52Z"
+            },
+            "highlight": null,
+            "_score": [
+              21.281622
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "github.com-serhii-londar-open-source-mac-os-apps_-_2021-02-12_10-16-38",
+              "title": "github.com-serhii-londar-open-source-mac-os-apps_-_2021-02-12_10-16-38",
+              "description": "🚀 Awesome list of open source applications for macOS. https://t.me/opensourcemacosapps Awesome macOS open source applications List of awesome open source applications for macOS. This list contains a lot of native, and cross-platform apps. The main goal of this repository is to find free open source apps and start contributing. Feel free to contribute to the list, any suggestions are welcome! To receive all new or popular applications you can join our telegram chanel . Support Hey friend! Help me out for a couple of :beers:! Languages You can see in which language an app is written. Currently there are following languages: ![c_icon] - C language. ![cpp_icon] - C++ language. ![c sharp icon] - C# language. ![clojure_icon] - Clojure language. ![coffee script icon] - CoffeeScript language. ![css_icon] - CSS language. ![go_icon] - Go language. ![elm_icon] - Elm language. ![haskell_icon] - Haskell language. ![javascript_icon] - JavaScript language. ![lua_icon] - Lua language. ![objective c...",
+              "subject": [
+                "GitHub",
+                "code",
+                "software",
+                "git"
+              ],
+              "creator": [
+                "serhii-londar"
+              ],
+              "collection": [
+                "github_narabot_mirror"
+              ],
+              "date": "2021-02-12T00:00:00Z",
+              "year": 2021,
+              "mediatype": "software",
+              "num_favorites": 3,
+              "item_size": 5783096,
+              "files_count": 8,
+              "downloads": 1117,
+              "week": 13,
+              "month": 37,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2021-02-13T22:55:31Z",
+              "publicdate": "2021-02-13T22:55:31Z"
+            },
+            "highlight": null,
+            "_score": [
+              21.256601
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "github.com-serhii-londar-open-source-mac-os-apps_-_2021-02-14_10-51-44",
+              "title": "github.com-serhii-londar-open-source-mac-os-apps_-_2021-02-14_10-51-44",
+              "description": "🚀 Awesome list of open source applications for macOS. https://t.me/opensourcemacosapps Awesome macOS open source applications List of awesome open source applications for macOS. This list contains a lot of native, and cross-platform apps. The main goal of this repository is to find free open source apps and start contributing. Feel free to contribute to the list, any suggestions are welcome! To receive all new or popular applications you can join our telegram chanel . Support Hey friend! Help me out for a couple of :beers:! Languages You can see in which language an app is written. Currently there are following languages: ![c_icon] - C language. ![cpp_icon] - C++ language. ![c sharp icon] - C# language. ![clojure_icon] - Clojure language. ![coffee script icon] - CoffeeScript language. ![css_icon] - CSS language. ![go_icon] - Go language. ![elm_icon] - Elm language. ![haskell_icon] - Haskell language. ![javascript_icon] - JavaScript language. ![lua_icon] - Lua language. ![objective c...",
+              "subject": [
+                "GitHub",
+                "code",
+                "software",
+                "git"
+              ],
+              "creator": [
+                "serhii-londar"
+              ],
+              "collection": [
+                "github_narabot_mirror"
+              ],
+              "date": "2021-02-14T00:00:00Z",
+              "year": 2021,
+              "mediatype": "software",
+              "num_favorites": 1,
+              "item_size": 5917118,
+              "files_count": 8,
+              "downloads": 1123,
+              "week": 6,
+              "month": 36,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2021-02-14T11:05:23Z",
+              "publicdate": "2021-02-14T11:05:23Z"
+            },
+            "highlight": null,
+            "_score": [
+              21.054312
+            ]
+          }
+        ]
+      },
+      "collection_titles": {
+        "audio_religion": "Spirituality & Religion",
+        "mad-hatter-gallery": "Mad Hatter Gallery",
+        "marygrovecollege": "Marygrove College Library",
+        "GratefulDead": "Grateful Dead",
+        "etree": "Live Music Archive",
+        "newspapers": "Newspapers",
+        "audio_sermons": "Sermons & Religious Lectures",
+        "china-mail": "The China Mail",
+        "patron-library-collection": "Patron Libraries (Libraries from Patrons)",
+        "github_narabot_mirror": "Github Mirror by Narabot",
+        "internetarchivebooks": "Internet Archive Books"
+      }
+    },
+    "hit_schema": {
+      "item": {
+        "identifier": {
+          "multivalue": false,
+          "mapping": "string"
+        },
+        "noindex": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "optional": true
+        },
+        "title": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "description": {
+          "multivalue": false,
+          "mapping": "string",
+          "dressing": {
+            "truncate": 1000
+          },
+          "optional": true
+        },
+        "subject": {
+          "multivalue": true,
+          "mapping": "string",
+          "dressing": {
+            "truncate": 1000
+          },
+          "optional": true
+        },
+        "creator": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "collection": {
+          "multivalue": true,
+          "mapping": "string",
+          "comment": "may be a superset of metadata collection field"
+        },
+        "date": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "year": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed from date",
+          "optional": true
+        },
+        "genre": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "volume": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "type": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "language": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "mediatype": {
+          "multivalue": false,
+          "mapping": "string"
+        },
+        "licenseurl": {
+          "multivalue": false,
+          "mapping": "string__url",
+          "optional": true
+        },
+        "num_favorites": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true,
+          "comment": "computed during document construction"
+        },
+        "num_reviews": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true,
+          "comment": "computed during document construction"
+        },
+        "item_size": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "bytes; computed during document construction"
+        },
+        "files_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction"
+        },
+        "item_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction",
+          "optional": true
+        },
+        "displayed_item_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction, may be inferred from item_count",
+          "optional": true
+        },
+        "collection_files_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction, for collection items only",
+          "optional": true
+        },
+        "collection_size": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "bytes; computed during document construction, for collection items only",
+          "optional": true
+        },
+        "downloads": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "total views over item lifetime, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "week": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "views over a seven-day period, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "month": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "views over a month, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "indexflag": {
+          "multivalue": true,
+          "mapping": "string",
+          "comment": "item characterization including noindex status"
+        },
+        "lending___available_to_borrow": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___available_to_browse": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___available_to_waitlist": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___status": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "avg_rating": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true
+        },
+        "addeddate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "issue": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "format varies",
+          "optional": true
+        },
+        "source": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "format varies",
+          "optional": true
+        },
+        "reviewdate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "publicdate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "date_favorited": {
+          "multivalue": false,
+          "mapping": "date",
+          "comment": "not metadata; only present in favorites lists, sourced from Lists API",
+          "optional": true
+        },
+        "reviews_data": {
+          "multivalue": true,
+          "dressing": {
+            "truncate": false
+          },
+          "mapping": "string",
+          "comment": "untruncated JSON encoded data used for Account reviews",
+          "optional": true
+        }
+      }
+    }
+  }
+}

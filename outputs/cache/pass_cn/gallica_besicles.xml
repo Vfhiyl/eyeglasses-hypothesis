@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<srw:searchRetrieveResponse xmlns:ns6="http://gallica.bnf.fr/namespaces/gallica/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <srw:version>1.2</srw:version>
+    <srw:echoedSearchRetrieveRequest>
+        <srw:query>gallica all "besicles" and dc.date &gt;= "1400" and dc.date &lt;= "1600"</srw:query>
+        <srw:version>1.2</srw:version>
+    </srw:echoedSearchRetrieveRequest>
+    <srw:numberOfRecords>1</srw:numberOfRecords>
+    <srw:extraResponseData>&lt;numberOfRecordsDecollapser&gt;1&lt;/numberOfRecordsDecollapser&gt;</srw:extraResponseData>
+    <srw:records>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Thevet, André (1516-1592). Auteur du texte</dc:creator>
+                    <dc:date>1575</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : GTextes1</dc:description>
+                    <dc:description>Ouvrages avant 1800</dc:description>
+                    <dc:format>4 tomes en 2 vol., 1025 ff. : fig., portr. et cartes, marques typogr. aux titres ; in-fol.</dc:format>
+                    <dc:format>Nombre total de vues : 995</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k109341b</dc:identifier>
+                    <dc:identifier>NUMM-109341</dc:identifier>
+                    <dc:language>frm</dc:language>
+                    <dc:publisher>G. Chaudière (Paris)</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb31454037j</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31454037j</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Réserve des livres rares, G-450</dc:source>
+                    <dc:subject>Afrique</dc:subject>
+                    <dc:subject>Asie</dc:subject>
+                    <dc:subject>Europe</dc:subject>
+                    <dc:title>La cosmographie universelle d'André Thevet. Afrique / ,... illustrée de diverses figures des choses plus remarquables veuës par l'auteur... Tome 1er [-4e]</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>0</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k109341b.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k109341b</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k109341b.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k109341b.medres</medres>
+                <nqamoyen>63.02</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k109341b.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k109341b</uri>
+            </srw:extraRecordData>
+        </srw:record>
+    </srw:records>
+    <srw:nextRecordPosition>6</srw:nextRecordPosition>
+</srw:searchRetrieveResponse>

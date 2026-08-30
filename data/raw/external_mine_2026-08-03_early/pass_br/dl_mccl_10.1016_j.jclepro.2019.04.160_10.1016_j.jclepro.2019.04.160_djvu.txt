@@ -1,0 +1,1539 @@
+Journal of Cleaner Production 228 (2019) 1167-1175 
+
+
+
+ELSEVIER 
+
+
+Contents lists available at ScienceDirect 
+
+Journal of Cleaner Production 
+
+journal homepage: www.elsevier.com/locate/jclepro 
+
+
+
+A detailed household carbon footprint analysis using expenditure r 
+
+accounts — Case of Flanders (Belgium) sag 
+
+Maarten Christis , Koen Breemersch, An Vercalsteren, Evelien Dils 
+
+VITO NV, Flemish Institute for Technological Research, 200 Boeretang, Mol, 2400, Belgium 
+
+
+ARTICLE INFO 
+
+
+ABSTRACT 
+
+
+Article history: 
+
+Received 25 April 2018 
+Received in revised form 
+9 April 2019 
+Accepted 14 April 2019 
+Available online 29 April 2019 
+
+
+Keywords: 
+
+Household consumption 
+Household budget survey 
+Input-output analysis 
+Carbon footprint 
+
+
+Within national carbon footprints, households are responsible for bulk of the overall direct and indirect 
+carbon emissions. Also, the wide spread in household characteristics (e.g. size, income, age) leads not 
+only to different carbon footprints, but also includes an underlying difference in the contributions of the 
+consumption domains. Therefore, it is essential that policies focussing on climate change mitigation 
+should be customized to take into account these differences. In this study we quantify which socio¬ 
+economic household characteristics are associated with a higher than average per capita carbon foot¬ 
+print and which consumption domains trigger this higher than average carbon footprint. The results are 
+quantified for the regional case study of Flanders (Belgium). To obtain a better estimate of direct and 
+indirect emissions we draw upon the EXIOBASE2 multi-region input-output dataset combined with the 
+regional input-output data and detailed regional household budget survey data. From our analysis, it is 
+also clear that the decomposition of the carbon footprint into the relevant consumption domains reveals 
+insights that are absent when comparing total carbon footprints. Overall we find that there is a clear link 
+between the income distribution and the carbon footprint of consumption, a finding that returns 
+frequently in literature for both developed and developing countries. However, this income distribution 
+is closely related to several underlying other socio-economic categories (e.g. level of education and 
+household size) which do provide further insights useful for policy as they reveal important socio¬ 
+economic aspect which needs to be considered. 
+
+© 2019 Elsevier Ltd. All rights reserved. 
+
+
+1. Introduction 
+
+While average national carbon footprints are an indication of 
+the required efforts individual countries must undergo in reducing 
+carbon emissions, there can be considerable differences in carbon 
+footprints depending on socio-economic disparities in society. 
+With individual households are responsible for the bulk of overall 
+direct and indirect carbon emissions (Baiocchi et al„ 2010; Ivanova 
+et al., 2016), policies customized to take into account these 
+household differences in carbon footprints are essential. In this 
+respect, the increase in inequality and aging of the baby-boom 
+generation are two important patterns that not only affect the 
+fabric of our society, but are also inextricably linked to changes in 
+consumption patterns and the associated carbon footprints. A 
+better understanding of the composition of overall carbon foot¬ 
+prints is thus fundamental to implement the required policies to 
+
+
+* Corresponding author. 
+
+E-mail address: maarten.christis@vito.be (M. Christis). 
+
+https://doi.org/10.1016/jjdepro.2019.04.160 
+0959-6526/© 2019 Elsevier Ltd. All rights reserved. 
+
+
+reducing the overall footprint. 
+
+In this light, several studies have looked at the importance of 
+household characteristics when disaggregating carbon emissions 
+according to the relevant socio-economic constituents (Baiocchi 
+et al., 2010; Buchs and Schnepf, 2013; Druckman et al., 2011; 
+Druckman and Jackson, 2009; Kerkhof et al., 2009; Reynolds 
+et al., 2015; Weber and Matthews, 2008; Wiedenhofer et al., 
+2016; Wier et al., 2001). Several of these studies have found sub¬ 
+stantial disparities in the carbon footprint associated with con¬ 
+sumption between the different types of households. For instance, 
+Weber and Matthews (2008), Druckman and Jackson (2009) and 
+Wiedenhofer et al. (2016) all reported large differences in carbon 
+footprints when comparing the households with the lowest and the 
+highest footprint. Kerkhof et al. (2009) found that the environ¬ 
+mental impact increased with household expenditure. While the 
+environmental impact rose more than proportionally for some 
+measures such as smog formation, it increased less than propor¬ 
+tionally for other such as climate change. Rather than exploring the 
+discrepancies of carbon footprints associated with consumption, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1168 
+
+
+M. Christis et al. / Journal of Cleaner Production 228 (2019) 1167-1175 
+
+
+Biichs and Schnepf (2013) analysed the income elasticity of UK 
+households relative to several types of emissions. While a rise in 
+household income is always associated with increasing emissions, 
+transport and indirect emissions react more than proportionately 
+to income changes, whereas emissions related to housing are 
+generally less elastic. This implies that carbon taxes will affect 
+diverse socio-economic groups disparately. Wiedenhofer et al. 
+(2016) add to differences in the household carbon footprint due 
+to income inequality the difference in carbon footprint between 
+urban and rural residents for China. There results show that urban 
+residents, 53% of the Chinese population, induce 75% of the national 
+household carbon footprint in 2012. 
+
+The literature has thus made significant headway in improving 
+our understanding of national carbon footprints. Nevertheless, 
+there are still a number of ways in which one can improve upon the 
+existing estimates. One important aspect is to make use of more 
+detailed and country-specific data to account for the increasing role 
+of international trade. Druckman and Jackson (2009) found a rising 
+foreign contribution to indirect household carbon emissions over 
+time, showing the merit of more accurately accounting for this 
+foreign production chain that produces consumption goods. How¬ 
+ever, the availability of data at the time restricted the number of 
+foreign regions that could be taken up in the analysis. Recently, the 
+availability of environmentally extended multi-region input output 
+tables (EEMRIO) has greatly expanded the analytic possibilities. In 
+this paper, we draw upon the EXIOBASE2 MRIO dataset (Tukker 
+et al., 2013; Wood et al., 2015) to obtain a better estimate of 
+direct and indirect emissions. Ivanova et al. (2016) also applied the 
+EXIOBASE2 dataset to analyse the material-use, land-use, water- 
+use and greenhouse gas emissions linked to household expendi¬ 
+ture. However, the focus of their paper was on estimating the 
+elasticity of expenditure with respect to the average environmental 
+impact in a sample that contains a large cross-section of countries. 
+
+Steen-Olsen et al. (2016) are closest in set-up to our paper. They 
+combined the Norwegian consumer expenditure survey with 
+EXIOBASE2. However, while their focus is on the evolution of the 
+carbon footprint and on the relation between different income 
+groups and the carbon footprint, we exploit the full detail of the 
+Flemish household budget survey to further decompose the carbon 
+footprint according to different socio-economic categories. In this 
+way, we obtain greater insight into how the carbon footprint varies 
+according to different characteristics of households such as 
+employment status of the household reference person, the age of 
+the household reference person, the size of the household, the 
+residential ownership status, etc. This is particularly pertinent for 
+policy purposes as varying consumption patterns across different 
+socio-economic groups form relevant parameters that need to be 
+considered in the formulation of effective and socially acceptable 
+climate policy. 
+
+We also perform our analysis on a regional rather than a na¬ 
+tional level. This improves the accuracy of our calculations as the 
+use of a regional dataset increases the level of disaggregation to 
+fully reflect the Flemish economic characteristics. Moreover, using 
+more disaggregated data also allows us to control for socio¬ 
+demographic differences that may exist within countries and that 
+could be particularly relevant for determining the carbon emissions 
+associated to consumption (Baiocchi et al., 2010). By linking this 
+regional dataset to a global model we also account for global pro¬ 
+duction networks. Moreover, the case of a small open economy, 
+such as Flanders in which trade is an important economic charac¬ 
+teristic, is testament to the added value a detailed regionalised 
+MRIO can bring to environmentally related policy analysis. 
+
+The main research question of this paper is stated as follows: 
+“Which socio-economic household characteristics are associated with 
+a higher than average per capita carbon footprint and which 
+
+
+consumption domains trigger this higher than average carbon foot¬ 
+print?". To analyse this question we compare the average carbon 
+footprint of a household according to different household charac¬ 
+teristics (size, age, number of children, etc.). Based on the outcome 
+we then define those factors that are associated with a higher 
+average per person or per household carbon footprint. Next, the 
+consumption domains are analysed to understand the underlying 
+expenditures resulting in the higher than average carbon footprint. 
+
+The next section describes the methodology and the data that 
+we use. Then, we report the results and analyse the differences 
+between different socio-economic groups. In the discussion, we 
+address the relevance of these results for policy purposes and, 
+finally, relevant conclusions are drawn that follow from the 
+analysis. 
+
+2. Method and data 
+
+In the following paragraphs we define and explain the concept 
+of the carbon footprint, the input-output methodology applied to 
+calculate it, the expenditures of households and the different types 
+of households. The results encompass the global warming potential 
+based on the 1PCC guidelines (IPCC, 2014) and are expressed in ton 
+CC> 2 -eq. per household or per person per year, depending on the 
+household characteristic under consideration. 
+
+The carbon footprint measures the global greenhouse gas 
+emissions emitted in value chains linked to products consumed by 
+domestic final demand in one year. The footprint includes direct 
+emissions by households, indirect or embodied flows across pro¬ 
+duction networks including imports, and excludes exports and 
+associated indirect flows of exports. Following the emission ty¬ 
+pology of Lebel et al. (2007), these footprints include direct emis¬ 
+sions and deemed emissions (i.e. embodied emission of imported 
+products), but exclude responsible and logistic emissions (i.e. 
+embodied emissions of exported products). The exclusion of ex¬ 
+ports (i.e. responsible and logistic emissions) puts the focus on the 
+consumption perspective: local emissions related to exported 
+products are not taken into account, while deemed emissions are 
+included. 
+
+The computation of the carbon footprint is based on input- 
+output analysis (IOA). This analysis approximates the emissions 
+resulting from final demand expenditures along its entire preced¬ 
+ing network of value chains. The general formula that we apply in 
+this paper to compute carbon footprints, CF, is based on the Leontief 
+inverse and can be represented as (Matthews et al., 2008): 
+
+CF = g^E coe fLf + direct) 
+
+where 
+
+- g is a row vector of GWPioo-values: 1 for carbon dioxide, 28 for 
+methane, 265 for nitrous oxide and 0 for all non-greenhouse gas 
+emissions: 
+
+- E coef is a matrix with emission coefficients, rows indicating the 
+different emissions types and columns indicating the sectors; 
+
+- L is the Leontief-inverse, L = (I - A) -1 , where A is the matrix 
+product of a matrix Z containing the interindustry deliveries and 
+the inverse of the diagonalized output vector q, A = Z q 1 , and I 
+is an identity matrix; 
+
+- f is the final demand column vector including household con¬ 
+sumption expenditures; and 
+
+
+1 GWP is calculated as GHG emissions including carbon dioxide (impact factor 1), 
+methane (impact factor 28) and nitrous oxide (impact factor 265) (based on the 
+GWPioo-values). 
+
+
+
+M. Christis et al. / Journal of Cleaner Production 228 (2019) 1167-1175 
+
+
+1169 
+
+
+- e HH direct is a column vector of the direct household greenhouse 
+
+gas related emissions. 
+
+Here, we restrict f from the IO-database to household con¬ 
+sumption (so excluding consumption by non-profit institutions, 
+governmental consumption, investments and changes in inventories 
+and valuables), which is later further specified by consumption do¬ 
+mains (COlCOP-classification ). Also, the extension scalar of direct 
+household emissions is later specified per consumption domain. To 
+calculate the footprint of households in Flanders, this paper applies 
+an IOA (Eurostat, 2008). Specifically, we use a regional input-output 
+table for Flanders and link this via the import to a globally covered 
+multi-region input-output table: if Flanders imports a product, the 
+production chain of this product is traced back in the multi-region 
+input-output table. In this way, we are able to link the final de¬ 
+mand in Flanders to the entire production network preceding it. The 
+method applied for the integration of the regional Flemish database 
+in a world input-output model is described in Christis et al. (2017). 
+Both the regional model for Flanders and the multi-region model are 
+used in their full detail without modification. Only the import and 
+export of Flanders are linked to the producing or consuming actor in 
+the multi-region model. The method is closely related to the multi¬ 
+scale multi-region input-output model by Bachmann et al. (2015). 
+The difference is that the methodology of Christis et al. adds a sub- 
+region to an existing MRIO, while Bachmann et al. replace a nation 
+with its sub-regions. However, both methodologies are similar as 
+they both account for different sectoral representations. The com¬ 
+bination of a local input-output model and a multi-region input- 
+output model allows for an analysis based on available local data, 
+adapted to the local economic characteristics and including global 
+sectoral data. This is particularly relevant for determining the foot¬ 
+prints of non-autarchic economy carbon footprints which are 
+determined both by local and global specific characteristics. The 
+main shortcomings of the IOA for this type of application is the level 
+of sector aggregation. Aggregated sectors present the ‘average’ pro¬ 
+duction structure which can differ substantially from the production 
+structure of a specific product, resulting in under- or overestimations 
+of the carbon footprints. Therefore, the results are restricted to 
+estimation for the macro-economic products (product groups) and 
+provide no details on microlevel products. 
+
+For the methodology described above we use the Flemish EE- 
+RIO table (2010 data) which is part of the interregional input- 
+output database of Belgium. It contains 124 sectors, nine final de¬ 
+mand categories, interregional and international trade, and six 
+value added categories. Environmental data in the extension tables 
+comprise the emissions data necessary to calculate the carbon 
+footprint. In the input-output model of Flanders, consumption is 
+defined according to the residential (national) concept i.e. house¬ 
+hold expenditure of all residents in Flanders and abroad. The input- 
+output tables follow the ESA95 rules. 
+
+We then link this Flemish IO table via the trade link to EXIO- 
+BASE2 (2007 data; industry-by-industry tables). EXIOBASE2 is a 
+global EE-MRIO database produced in the context of the project 
+‘Compiling and Refining of Economic and Environmental Accounts’ 
+(CREEA). The database covers 200 products and 163 industries for 
+43 countries and 5 rest-of-world regions. The extension tables 
+include 15 land use types, employment broken down into three 
+skill levels, 48 types of raw materials and 172 types of water use. 
+Flanders is indirectly included in the EXIOBASE2 database via 
+Belgium (Tukker et al., 2013; Wood et al„ 2014). 
+
+
+2 Classification of individual consumption by purpose. 
+
+3 The European System of Accounts is the system of national accounting used 
+within the European Union. It has now been succeeded by the ESA2010 framework. 
+
+
+This study compiles a final demand matrix for households in 
+Flanders for each household characteristic. This matrix describes 
+for a given household characteristic the expenditures of households 
+at a detailed level based on the COICOP-classification. These 
+matrices are compiled from the original final demand vector 
+available in the input-output model, but reconstructed for each 
+household characteristic using the household budget survey. The 
+datasets and procedure are explained below. 
+
+The basis for the expansion of the final demand vector of Flemish 
+households is the household final consumption expenditure ac¬ 
+count, which is part of the national accounts and covers expendi¬ 
+tures incurred by households to acquire consumption goods and 
+services. It excludes expenditures devoted by households to the 
+acquisition of dwellings, which constitute an investment in fixed 
+assets, and those devoted to the acquisition of valuables' (Eurostat, 
+2008). The accounts use the COICOP-classification: a classification of 
+individual consumption expenditures incurred by households ac¬ 
+cording to their purpose. The household consumption expenditures 
+are classified in 12 domains (level 1), which can be further dis¬ 
+aggregated into more detailed COICOP levels 2 and 3. 
+
+The household budget surveys (HBS; see Eurostat (2003)) are 
+the main source behind the compilation of the household final 
+consumption expenditure in national accounts. HBS for Belgium are 
+available both at a national level and at the level of the three re¬ 
+gions (Flanders, Wallonia and Brussels). The surveys mainly focus 
+on consumption expenditure and describe the expenditure struc¬ 
+ture of different types of households (i.e. household characteristics) 
+at a detailed COICOP-level. For the case of Flanders we use the HBS 
+provided by Statistics Belgium that contains consumption data for 
+different household characteristics. Specifically, the HBS reports 
+average expenditure per household and per year by: 
+
+- the income groups using deciles; 
+
+- the number of elderly (>65) per household (household with no 
+elderly, households with only elderly and mixed households); 
+
+- the number of children (<16) per household (households with 
+children and households without children); 
+
+- the number of active people per household (households with 0, 
+1 or 2 and more active people); 
+
+- the statute owner or renter; 
+
+- the age of the reference person (households with a reference 
+person younger than 30 years old, between 30 and 39, 40—49, 
+50—59 or older than 60 years); 
+
+- type of household (single, 2 adults, 3 or more adults, single with 
+dependent child(ren), 2 adults with dependent child(ren) or 3 or 
+more adults with dependent child(ren)); 
+
+- the size of the household (single, 2,3,4, 5 or 6 or more persons); 
+
+- the employee statute of the reference person (self-employed, 
+employee, unemployed, pensioner or other non-active); and 
+
+- the age of the oldest person in the household (the oldest person 
+is younger than 65 years, between 65 and 74 years or above 75 
+years old). 
+
+Often, statistical agencies divide households in different cate¬ 
+gories by defining a reference person. Here, the reference person is 
+defined as the person contributing the most to the financial income 
+of the household. In the case where two people have equal 
+
+
+4 Valuables are stores of value that cannot be used for production or consump¬ 
+tion, such as works of art, precious stones and metals, jewels. 
+
+5 For the construction of the national accounts, dividing households into groups 
+based on the overall income of the household is preferred over the use of a 
+household reference person. However, practical limitations in data assembly can 
+necessitate the use of a reference person approach. 
+
+
+
+
+1170 
+
+
+M. Christis et al. / Journal of Cleaner Production 228 (2019) 1167-1175 
+
+
+contributions to the financial income of the household, the oldest of 
+these two people is defined as the reference person. 
+
+However, the data from the household budget survey is not 
+directly transferable to the household expenditures in the input- 
+output tables format. Data in household budget surveys is 
+defined in purchasers prices inclusive non-deductible VAT. While, 
+the 10-tables are expressed in basic prices (separating taxes and 
+subsidies), and as such distinguish between the trade margins and 
+product value for the products purchased by households. It means 
+that trade margins are allocated to the trade sectors and the 
+product value is allocated to the sector (or sectors in case of mul¬ 
+tiple products) producing the product. In order to match the two, 
+allocation tables are available. These tables allocate the final de¬ 
+mand vector of households in different consumption categories e.g. 
+food, housing, and as such links the consumption categories (COI- 
+COP-classification) and the purchases from sectors (NACE-classifi- 
+cation), both domestic purchases and imports. Allocation tables 
+link the trade margins to the value of the product and combine the 
+purchases of products of different sectors into one COlCOP-category 
+(e.g. bread and cereals (01.1.1) is a combination of products of 
+different sectors). The allocation of product (or product groups) to 
+consumption domains is based on the definitions of the COICOP- 
+domains as described by the UNSD (UNSD, 2003). 
+
+An important drawback of the applied methodology is that the 
+IOA provides only uses one carbon footprint intensity per product 
+group. Although households can consume different products 
+within the same product group, the IOA allows not to reflect this 
+different in consumption pattern within one product group into the 
+carbon footprints. For example, higher income households may 
+consume higher quality meat product compared to lower income 
+households. However, as the model only provides one (average) 
+carbon footprint intensity per euro of meat products, this difference 
+in consumption pattern is not translated into a difference in carbon 
+footprint. The increasing quality orientation of households with 
+rising income is neglected using our methodology (Girod and De 
+Haan, 2010). This results in an overestimation of the carbon foot¬ 
+print for the households systematically choosing for higher quality 
+products, but also underestimates the impact of households sys¬ 
+tematically choosing for cheaper low quality products. 
+
+Allocation tables for Flanders are developed (via a bottom-up 
+approach) by the Federal Planning Bureau and are structured in 
+different consumption categories (40 according to COICOP 3-digit 
+division for 2010) and assigned to industries that are identified by 
+the NACE-classification conform the IO-tables. In a next step, the 
+consumption categories are extended to 59 categories according to 
+COICOP 3-digit classification, based on the allocation tables for 2003 
+that distinguish 387 COICOP categories. The allocation tables for 
+2003 were also developed by the Federal Planning Bureau, based on 
+the Household Budget Enquiry (HBE) for Belgium (Bilsen et al., 2010). 
+
+The attribution of direct emissions from households (e HH direct 
+from the carbon footprint equation) to the COICOP-consumption 
+domains of housing (fuel use for heating and cocking) and trans¬ 
+port (fuel use for road transport). The attribution is based on a 
+bottom up analysis, using regional energy statistics (energy bal¬ 
+ance). These direct emission coefficients (defined per euro expen¬ 
+diture of the corresponding consumption domain) are linked to 
+household categories based on expenditures. 
+
+In conclusion, the results in the manuscripts are based on input- 
+output analysis using a input-output model compiled from: 
+
+- household expenditure data from the household budget survey 
+data for the year 2010; 
+
+- a regional input-output model for Flanders of data year 2010; 
+
+- a multiregional input-output model Exiobase v.2 for data year 
+2007. 
+
+
+3. Results 
+
+The results are structured according to the different household 
+characteristics that are available in HBS and presented in Fig. 1. The 
+average household in Flanders consists of 2.378 persons including 
+on average 0.446 children (<18y). 39% of the households have 
+children, on average 1.742. The yearly expenditures of the average 
+household sum up to 36,737.22 EUR and our analysis reveals that 
+average household expenditure is linked to a carbon footprint of 
+33.1 ton C02-eq/yr. Based on estimates in the literature, we can 
+make a direct comparison with other European countries. UK 
+households have been found to emit on average 20.18 tons CC> 2 -eq./ 
+yr over the period 2006—2009 (Biichs and Schnepf, 2013) and 21.5 
+tons C02-eq./yr in 2004 (Druckman and Jackson, 2009). Norwegian 
+households emitted 22.3 tons C02-eq./yr per average household in 
+2012 (Steen-Olsen et al., 2016). Of these studies, only the latter 
+applies EXIOBASE2. The reported numbers of Biichs and Schnepf 
+(2013) and Druckman and Jackson (2009) likely differ strongly 
+from our estimates for Flemish households as we apply the EXIO- 
+BASE2 MRIO while they use different and less extensive I/O models 
+to calculate the total average C02-eq./yr embodied by consumption. 
+Indeed, using the EXIOBASE2 dataset, Ivanova et al. (2016) found 
+that the average per capita footprint of UK citizens is higher than 
+that of Belgian citizens possibly indicating that the UK household 
+carbon footprints are lower bound estimates of the actual carbon 
+footprint. In contrast, Wiedenhofer et al. (2016) show that Chinese 
+households only have an average per capita carbon footprint of 1.7 
+tons CC> 2 -eq./yr in 2012 (however, very rich urban dwellers have a 
+carbon footprint of 6.4 tons C02-eq.). 
+
+Fig. 2 panel (a) reveals that the three COICOP-categories with 
+the highest carbon footprint are housing, water, electricity, gas and 
+other fuels (04; 36%), transport (07; 21%) and food and non¬ 
+alcoholic beverages (01; 16%). Although the order of the cate¬ 
+gories contributing most varies, the importance of these three 
+categories in the average household carbon footprint has been re¬ 
+ported elsewhere in the literature as well (Steen-Olsen et al., 2016). 
+
+In what follows we will report on each of the household char¬ 
+acteristics individually and discuss our general findings. Although 
+we also performed the carbon footprint calculations based on the 
+number of children in a household and the age of the oldest person 
+of the household, these will not be further discussed in the text as 
+they overlap with some of the other household subdivisions that 
+are already included in our discussion. 
+
+3.1. Income deciles 
+
+The average income per decile varies between 10.890 EUR per 
+year for the lowest income decile to 84.146 EUR per year for the 
+highest income decile. The increase in the carbon footprint is not 
+proportional to this rise in income. For the lowest income decile the 
+
+
+
+Fig. 1 . The carbon footprint estimations are based on IOA using a regional and mul¬ 
+tiregion input-output model in which regional household demand is extended using 
+HBS-data. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a) average household (b) income deciles 
+
+per household per household 
+
+
+30 
+
+
+20 
+
+
+10 
+
+
+33.07 
+
+
+
+6.85 
+
+
+11.83 
+
+
+5.31 
+
+
+1 20 
+
+C 
+
+E 
+
+
+0 
+
+
+19.82 20.76 
+
+
+
+inc. dec. inc. dec. 
+
+0 - 10 % 10 - 20 % 
+
+
+(c) employee status of the reference person 
+
+per person 
+
+
+24.30 
+
+
+
+inc. dec. 
+20 - 30 % 
+
+
+27.02 
+
+
+
+inc. dec. 
+30 - 40 % 
+
+
+29.80 
+
+
+
+inc. dec. 
+40 - 50 % 
+
+
+36.12 3739 
+
+
+
+inc. dec. inc. dec. 
+
+50 - 60 % 60 - 70 % 
+
+
+(d)type of household 
+
+per household 
+
+
+41.21 
+
+
+
+inc. dec. 
+7080 % 
+
+
+
+inc. dec. 
+80 - 90 % 
+
+
+50.00 
+
+
+
+9.05 
+
+
+inc. dec. 
+90 - 100 % 
+
+
+
+
+employee unemployed pensioner 
+
+
+12.51 
+
+
+
+ohter 
+
+non-active 
+
+
+
+single, no 2 adults, 
+children no 
+
+children 
+
+
+
+3 adults, 
+no 
+
+children 
+
+
+single, 2 adults 3 adults 
+
+with with or more, 
+
+child(ren) child(ren) with 
+
+child(ren) 
+
+
+dif. with 
+and 
+
+without 
+
+children 
+
+
+(e) size of the household 
+
+per person 
+
+
+(f) number of active and elderly persons per household 
+
+per person 
+
+
+
+single 
+
+
+2 persons 3 persons 4 persons 
+
+
+5 persons 
+
+
+6 persons 
+or more 
+
+
+
+0 active 
+
+
+1 active 2 active 
+
+
+no 65+ 
+
+
+persons person persons or persons 
+more 
+
+
+
+
+only 65+ mixture of 
+persons 65+ and 
+65- 
+
+
+(g) status owner/renter 
+
+per person 
+
+
+15 
+
+
+10 
+
+
+13.58 
+
+
+2.85 
+
+
+4.68 
+
+
+13.29 
+
+
+2.57 
+
+
+5.55 
+
+
+renter 
+
+
+(h) age of the reference person 
+
+per person 
+
+
+
+legend 
+
+| 12 miscellaneous goods and services 
+1 11 hotels and restaurants 
+■ 10 education 
+I 09 recreation and culture 
+M 08 communication 
+| 07 transport 
+| 06 health 
+
+| 05 furnishings, household equipment and routin.. 
+3t 04 housing, water, electricity, gas and other fuels 
+| 03 clothing and footwear 
+
+02 alcoholic beverages, tobacco and narcotics 
+| 01 food and non-alcoholic beverages 
+
+
+Fig. 2. Summary of the results of the household carbon footprint per COICOP-domain for Flanders (2010). The average household carbon footprint (a) is further detailed across 
+household characteristics (b—h). Note that panels (a), (b), and (d) provide footprints per person, while panels (c), (e), (f), (g) and (h) provide footprints per household. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1172 
+
+
+M. Christis et at / Journal of Cleaner Production 228 (2019) 1167-1175 
+
+
+carbon footprint equals 19.8 ton CC> 2 -eq./yr per household. It then 
+rises monotonically across the deciles to 50.0 ton C02-eq./yr per 
+household for the highest income decile. Hence, while there is a 
+factor 7.7 difference in average income between the lowest and 
+highest income decile, we only observe a factor 2.5 difference in 
+carbon footprint between these household categories. This is evi¬ 
+dence of the ‘relative decoupling’ effect (Sommer and Kratena, 
+2017). 
+
+The carbon footprint of each COICOP category increases in tan¬ 
+dem with the rise in income of the household (Fig. 2, panel (b)). The 
+COICOP category contributing most to the carbon footprint for all 
+income deciles is housing, water, electricity, gas and other fuels 
+(04). However, the absolute increase in the carbon footprint of this 
+COICOP from the lowest to the highest income decile (with a factor 
+of 1.6) masks that the relative contribution of this category to the 
+overall carbon footprint gradually erodes over the different income 
+deciles. The largest absolute increase between the lowest and 
+highest income decile is found for COICOP categories transport 
+(07; +7.4 ton C02-eq.), food and non-alcoholic beverages (01; +7.4 
+ton C02-eq.) and housing, water, electricity, gas and other fuels (04; 
+4.1 ton C02-eq.). These three categories are thus not only the most 
+important contributors to the overall average carbon footprint, but 
+they also account for 60% of the total difference in the carbon 
+footprint between the lowest and highest income category. 
+
+
+3.2. Employee status of the reference person 
+
+While there has been considerable focus in the literature on the 
+disparate consumption patterns of different income classes and 
+their associated carbon footprints (e.g. Sommer and Kratena (2017); 
+Birchs and Schnepf (2013); Girod and De Haan (2010)), much less 
+has been reported on carbon footprint differences for other socio¬ 
+economic indicators. However, from a policy perspective these 
+are equally interesting as income deciles are made up of hetero¬ 
+geneous population groups. One other socio-economic factor 
+influencing consumption-based carbon footprints is the employee 
+status of the household reference person, to which we turn our 
+attention now (Fig. 2, panel (c)). 
+
+The total carbon footprint per person of a household for the 
+different employee statuses of the reference person is comparable 
+across the household categories, except when the reference person 
+of the household is retired as they have a higher per person carbon 
+footprint of 16.6 tons CC> 2 -eq./yr per capita. On the other side of the 
+spectrum, the self-employed category shows the lowest per person 
+carbon footprint of 12.2 ton C02-eq./yr per capita. The other three 
+categories are comparable to the self-employed category with 12.5 
+ton C02-eq./yr per person in the other non-active category, 12.9 ton 
+C0 2 -eq./yr in the employed person category and 13.0 ton C02-eq./yr 
+in the unemployed person category. The expenditures per person 
+are comparable across the categories, varying between 12.581 EUR 
+to 14.559 EUR per person per year, except for the pensioner cate¬ 
+gory having an average expenditure of 18.107 EUR per person per 
+year. The size of the average household, varying between 1.6 and 
+1.7, is comparable between the categories unemployed, pensioner 
+and other non-active, but is higher for the employee (2.7) and self- 
+employed (3.3) categories. The average high carbon footprint of the 
+pensioners category results from relatively high expenditures per 
+person and a lower average household size. The higher average 
+carbon footprint is mainly related to housing, water, electricity, gas 
+and other fuels (04) and to a lesser extent to food and non-alcoholic 
+beverages (01). Aside from the smaller composition of the house¬ 
+hold, the large contribution of housing, water, electricity, gas and 
+other fuels can likely also be assigned to the greater amount of time 
+spent indoors by pensioners. 
+
+
+3.3. Type of the household 
+
+When we divide the households into types according to the 
+number of adults and children, one would anticipate considerable 
+discrepancies in carbon footprints between the different types. This 
+is indeed what we observe (Fig. 2, panel (d)). One clear takeaway 
+from our results is that the carbon footprint rises with the number 
+of adults in the household. Also, households with children have a 
+higher carbon footprint compared to the same household without 
+children. Given these facts, households with one single adult and 
+no children have the lowest carbon footprint of 20.9 ton C02-eq./yr 
+and households with 3 or more adults and children are at the other 
+end of the spectrum with a carbon footprint of 42.9 ton C02-eq./yr. 
+Adding children to the average households results in a higher car¬ 
+bon footprint: on average + 9592 ton C02-eq./yr per household 
+or +5506 ton C02-eq./yr per child. However, it is clear that the 
+increase in the carbon footprint is not proportional to the number 
+of persons. It is thus interesting to note that while transport (07) 
+and housing, water, electricity, gas and other fuels (04) are the 
+predominant consumption factors driving the increase in the car¬ 
+bon footprint across household types, the latter factor constitutes a 
+much larger fraction of the overall carbon footprint of single adults 
+compared to households with three adults or more with children. 
+
+3.4. Size of the household 
+
+Fig. 2 panel (e) takes a closer look at the effects of the size of a 
+household on the carbon footprint. Note that this part shows results 
+per capita rather than per household as was the case for the type of 
+the household. One can see that while an increase in the size of the 
+household can be linked to an increasing carbon footprint, the 
+average carbon footprint per person decreases with an increasing 
+household size. A household consisting out of a single adult 
+without children has an average carbon footprint of 20.9 ton CO 2 - 
+eq./yr, while this is only 6.8 ton C02-eq./yr per person in a house¬ 
+hold of six or more persons. The per person carbon footprint de¬ 
+creases with 23% from a single to a household composed of two 
+people, with 21% from a two to three persons household, with 16% 
+from a three to four persons household and with 14% from a four to 
+five persons household. These results suggest that there are certain 
+‘economies of scale’ and advantages of sharing that eventually 
+result in a lower per person carbon footprint when household size 
+increases. The two consumption domains that are mainly driving 
+this result again are housing, water, electricity, gas and other fuels 
+(04) and transport (07). While the carbon footprint resulting from 
+food and non-alcoholic beverages (01), clothing and footwear (03) 
+and recreation and culture (09), hotels and restaurant (11) also 
+show minor signs of decreasing, they are overall fairly independent 
+of the household size. 
+
+3.5. Number of elderly (>65 year) and number of active people per 
+household 
+
+The number of elderly (>65y) and the number of active people 
+per household are combined in a single panel in Fig. 2 panel (f), 
+because these categories largely overlap. This results from the fact 
+that the official retirement age in Flanders is set at 65. Therefore, 
+households consisting only of persons over the age of 65 are fully 
+integrated into the ‘no active persons’ household category. How¬ 
+ever, households without active persons can consist of people 
+younger than 65 years old. The group of households in category ‘2 
+active persons’ are mainly part of the group of households in the 
+category no 65 + persons (except for the small group of households 
+with 3 or more adult persons with 2 active persons and at least one 
+person with an age older than 65). Our results show that the per 
+
+
+M. Christis et al. / Journal of Cleaner Production 228 (2019) 1167-1175 
+
+
+1173 
+
+
+person carbon footprint of the average household with no active 
+persons or only 65 + persons are the categories with the highest 
+carbon footprint of respectively 16.3 and 16.5 ton C02-eq./yr. 
+
+When analysing the differences between the households, it is 
+remarkable that only one consumption domain is responsible for 
+the higher carbon footprint of the average household in categories 
+‘no active persons’ and ‘only 65 + persons’: housing, water, elec¬ 
+tricity, gas and other fuel (04). Also, the per person carbon footprint 
+of food and non-alcoholic beverages (01) and transport (07) 
+diverge, but less substantially so. For these household categories 
+the per person carbon footprint is higher for food and non-alcoholic 
+beverages (01) and lower for transport (07). The per person carbon 
+footprint of all other consumption domains is similar across the 
+different categories. 
+
+3.6. Ownership status of residence of a household 
+
+In Fig. 2 panel (g) we divide households into groups according to 
+whether they are the lawful proprietor or the renter of their current 
+residence. The fact of whether a household is owner or renter of the 
+dwelling where they are currently residing, results on average in a 
+similar carbon footprint of respectively 13.6 and 13.3 ton C02-eq./ 
+yr. However, the underlying consumption domains reveal a differ¬ 
+ence in the composition. The per person carbon footprint of a 
+household that owns the house is earmarked by a lower contri¬ 
+bution to the carbon footprint from housing, water, electricity, gas 
+and other fuels (04; -0.9 ton C02-eq./yr), but a higher contribution 
+from transport (07; +0.3 ton C02-eq./yr) and food and non¬ 
+alcoholic beverages (01; +0.3 ton C02-eq./yr). 
+
+
+3.7. Age of the reference person of the household 
+
+Finally, we look at the age of the reference person in panel (h) of 
+Fig. 2. The age of the reference person has a clear influence on the 
+per person carbon footprint of the household. The lowest per person 
+carbon footprint, 10.9 ton C02-eq./yr, is found for the average 
+household with a reference person between 30 and 39 years old; 
+the highest per person carbon footprint, 16.7 ton CC> 2 -eq./yr, is 
+found for the average household with a reference person older than 
+60 years old. Part of the difference is explained by the household 
+size. For example, the carbon footprint per household resulting from 
+housing, water, electricity, gas and other fuels (04) is comparable in 
+size across the different households (not reported in the figures). 
+However, there is a remarkable difference in the per person carbon 
+footprint resulting from food and non-alcoholic beverages (01). The 
+categories where the age of the reference person is below 30 years, 
+between 30 and 39 or 40—49 years have similar carbon footprint of 
+respectively 2.0,1.7 and 1.9 ton CC> 2 -eq./yr per capita. Nevertheless, 
+this is higher for the two other age categories of 50—59 years and 
+above 60 years with respectively 2.5 and 2.7 ton C02-eq./yr. 
+
+Looking into detail at the food and non-alcoholic beverages (01) 
+in panel (b) of Fig. 3 shows which underlying product group is 
+responsible for the difference. The expenditures on this category 
+are comparable on a per person basis for the first three age cate¬ 
+gories although a bit lower for the 30—39 age category, varying 
+between 1690 and 1996 EUR per year. The age groups of 50—59 and 
+older than 60 spend more on this category, respectively 2433 and 
+2682 EUR per year. The higher expenditures result in a higher 
+carbon footprint. This effect is amplified by a higher share of 
+
+
+(a) income deciles 
+per household 
+
+10 
+
+
+
+§ 
+
+c 2.56 
+
+
+
+inc. dec. 
+
+0 lO'.'n 
+
+
+
+(b) age of the reference person 
+per person 
+
+
+
+legend 
+
+| non-alcoholic beverages (01.2) 
+
+| food products n.e.c. (01.1.9) 
+
+| sugar, jam, honey, chocolate and confectionery (01.1.8) 
+| vegetables (01.1.7) 
+
+■ fruit (01.1.6) 
+
+H oils and fats (01.1.5) 
+
+| milk, cheese and eggs (01.1.4) 
+
+■ fish (01.1.3) 
+
+■ meat (01.1.2) 
+
+| bread and cereals (01.1.1) 
+
+
+Fig. 3. Summary of the results of the household carbon footprint on the detailed (4-digit) consumption domain food and non-alcoholic beverages (01) of Flanders (2010). The 
+average household carbon footprint for food consumption is further detailed across the income deciles (panel a) and the age of the reference person (panel b). Note that part a 
+provides footprints per household, while part b provides footprints per person. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1174 
+
+
+M. Christis et al. / Journal of Cleaner Production 228 (2019) 1167-1175 
+
+
+expenditures on meat products (01.1.2; high carbon footprint per 
+euro) and a lower share of expenditures on food products n.e.c. b 
+(01.1.9; low carbon footprint per euro). 
+
+4. Discussion 
+
+Thus far we have mostly focused on the observed trends in the 
+different socio-economic categories. However, several of these 
+findings are relevant from a policy perspective targeting climate 
+change mitigation. Indeed, Baiocchi et al. (2010) finds that around 
+74 percent of total climate emissions in the UK can be linked to UK 
+households, making private households a particularly potent target 
+group in the fight against climate change. For comparison, this is 68 
+percent in Flanders. 
+
+One important conclusion from our results is that climate pol¬ 
+icies also have an important socio-economic aspect which needs to 
+be considered, as also found by Btichs and Schnepf (2013) and 
+discussed by Gough (2013). Housing, water, electricity, gas and 
+other fuels make up the largest component of the household 
+footprint irrespective of the income decile in which the household 
+is situated. Nevertheless, aggressive policies that penalize house¬ 
+holds for the carbon footprint associated to this consumption 
+category risk aggravating existing socio-economic inequality. 
+Housing and related utilities makes up the bulk of the household 
+carbon budget of low income households, but a much smaller 
+fraction for high-income households. Hence, for policy to be so¬ 
+cially tenable and ultimately effective a clear understanding of such 
+sensitivities is required prior to the establishment of policy. Our 
+results indicate that the GHG emission intensity per monetary unit 
+of expenditure decreases with rising income (see also Kerkhof et al. 
+(2009)), making pure carbon taxation based on the carbon foot¬ 
+print of households regressive in nature. 
+
+We also find that the per person carbon footprint decreases with 
+rising household size as consumption domains like housing and 
+related utilities and transport are distributed over an increasing 
+number of household members, thereby lowering the per person 
+impact. However, the ‘scale economies’ and benefits of sharing seem 
+to be mostly limited to these consumption domains. The promotion 
+of a sharing economy could be particularly helpful in combatting 
+household related carbon emissions with respect to transport. 
+Overall food consumption, the carbon footprint of which declines 
+with the size of the household, seems to be mostly insensitive to the 
+number of household members. Addressing the carbon footprint of 
+this category will thus require a different approach. More specif¬ 
+ically, it is particularly interesting that the carbon footprint of food 
+consumption is strongly driven by meat consumption and con¬ 
+sumption of animal products (e.g. milk). We find that the con¬ 
+sumption of meat is an important factor in determining carbon 
+footprint differences related to food consumption between income 
+deciles and age groups. Yet, caution is also warranted in interpreting 
+this result. Girod and De Haan (2010) show that household expen¬ 
+diture data also cover up all quality differences within a certain 
+consumption domain. Particularly, higher income households and 
+older households might consume higher priced meats, so that the 
+average GHG emission intensity of meat consumption hides a lower 
+intensity for higher income groups, thereby overestimating the 
+carbon footprint for high income households and underestimating 
+the impact for low impact households. 
+
+From our analysis, it is also clear that the decomposition of the 
+carbon footprint into the relevant consumption domains reveals 
+insights that are absent when comparing total carbon footprints. 
+For instance, renters and dwelling owners have similar average per 
+
+
+6 Not elsewhere classified. 
+
+
+person carbon footprints. However, decomposing their carbon 
+footprint reveals intrinsic differences that are essential from a 
+policy perspective. 
+
+Overall we find that there is a clear link between the income 
+distribution and the carbon footprint of consumption, a finding that 
+returns frequently for both developed (e.g. Steen-Olsen et al. (2016) 
+and Sommer and Kratena (2017)) and developing countries (e.g. 
+Han et al. (2015)) alike. However, the income distribution is closely 
+related to several underlying other socio-economic categories. 
+Richer households will most likely also be older, while older 
+households are in turn increasingly more likely to consist of fewer 
+individuals and thus have higher per person footprints. While we 
+have not addressed these clusters of population groups, these are 
+also worth considering when formulating policy. 
+
+5. Conclusion 
+
+This paper analyses the carbon footprint of the consumption of 
+Flanders (Belgium) taking into account different household char¬ 
+acteristics. It uses the EXIOBASE2 MRIO which has been extended 
+to include this region particularly and integrates the household 
+budget surveys that were carried out at the Flemish regional level. 
+By applying the analysis at the regional rather than the national 
+level we are able to obtain a detailed account of the carbon foot¬ 
+print of a more homogenous socio-demographic group of con¬ 
+sumers. Moreover, applying the EXIOBASE2 dataset to a small open 
+economy of Flanders exploits the full power of this dataset in 
+obtaining better estimates for the indirect footprint related to 
+consumption. 
+
+Overall, we find that the Flemish households have an average 
+carbon footprint of 33.1 ton CO 2 eq./yr per household or 14.0 ton 
+C0 2 eq./yr per person. This carbon footprint increases mono- 
+tonically with the income decile in which the family is situated. 
+However, different consumption categories contribute differently 
+to this increase to the carbon footprint. While housing, water, 
+electricity, gas and other fuels generally make up more than half of 
+the total carbon footprint of households in the lowest income 
+decile, it constitutes less than a third of the total average carbon 
+footprint of top income decile households. The low average 
+household size and apparent larger heating requirements cause 
+households where the main income comes from a pension to have a 
+carbon footprint that is around 30 percent higher per person than 
+other households. We also find that the carbon footprint does not 
+rise proportionately to the number of people that are present in the 
+household. When one looks at the per person carbon footprint of 
+larger households, there are certain ‘economies of scale’ and ad¬ 
+vantages of sharing household consumption, particularly with 
+respect to housing and related utilities. Remarkably, while the 
+actual composition of the carbon footprint of consumption differs 
+between renters and statute owners of residences, their carbon 
+footprint is similar on average. 
+
+Policies generally attempt to directly limit the carbon emissions 
+that result from consumption through several types of in¬ 
+terventions. However, this creates shifts in consumption patterns 
+that will offset (part of) the carbon emissions which the policy 
+attempted to reduce. Given its importance in the efficacy of miti¬ 
+gating the climate impact of consumption, we intend to look closer 
+into this rebound effect in future research (Bjelle et al., 2018; 
+Chitnis et al., 2014; Druckman et al., 2011). It is clear that even 
+within a more homogenous socio-demographic region such as 
+Flanders there are still large socio-economic differences within the 
+population that need to be considered in policy design. Moreover, 
+rebound effects are likely to differ strongly between these groups 
+and across different consumption domains, making it a particularly 
+important topic for gaining further insights. 
+
+
+
+M. Christis et al. / Journal of Cleaner Production 228 (2019) 1167—1175 
+
+
+1175 
+
+
+References 
+
+Bachmann, C., Roorda, M.J., Kennedy, C., 2015. Developing a multi-scale multi-re¬ 
+gion input-output model. Econ. Syst. Res. 27 (2), 172-193. 
+
+Baiocchi, G., Minx, J., Hubacek, K., 2010. The impact of social factors and consumer 
+behavior on carbon dioxide emissions in the United Kingdom. J. Ind. Ecol. 14 (1), 
+50-72. 
+
+Bilsen, V., Vercalsteren, C.,V., Linden, V.d., Geerken, Moorkens, I., Vangeel, S., Dils, 
+Vandille, G., Avonds, L., 2010. Het Vlaams Uitgebreid Milieu Input-Outputmodel. 
+OVAM. 
+
+Bjelle, E.L., Steen-Olsen, K., Wood, R., 2018. Climate change mitigation potential of 
+Norwegian households and the rebound effect. J. Clean. Prod. 172, 208—217. 
+
+Btichs, M., Schnepf, S.V., 2013. Who emits most? Associations between socio¬ 
+economic factors and UK households’ home energy, transport, indirect and 
+total C02 emissions. Ecol. Econ. 90,114-123. 
+
+Chitnis, M., Sorrell, S., Druckman, A., Firth, S.K., Jackson, T., 2014. Who rebounds 
+most? Estimating direct and indirect rebound effects for different UK socio¬ 
+economic groups. Ecol. Econ. 106,12—32. 
+
+Christis, M., Geerken, T., Vercalsteren, A., Vrancken, K.C., 2017. Improving footprint 
+calculations of small open economies: combining local with multi-regional 
+input-output tables. Econ. Syst. Res. 29 (1), 25-47. 
+
+Druckman, A., Jackson, T., 2009. The carbon footprint of UK households 1990—2004: 
+a socio-economically disaggregated, quasi-multi-regional input—output model. 
+Ecol. Econ. 68 (7), 2066-2077. 
+
+Druckman, A., Chitnis, M., Sorrell, S., Jackson, T., 2011. Missing carbon reductions? 
+Exploring rebound and backfire effects in UK households. Energy Policy 39 (6), 
+3572-3581. 
+
+Eurostat, 2003. Household Budget Surveys in the EU. European Communities, 
+Luxembourg. 
+
+Eurostat, 2008. Eurostat Manual of Supply, Use and Input-Output Tables. Office for 
+Official Publications of the European Communities, Luxembourg. 
+
+Girod, B., De Haan, P., 2010. More or better? A model for changes in household 
+greenhouse gas emissions due to higher income. J. Ind. Ecol. 14 (1), 31-49. 
+
+Gough, I., 2013. Carbon mitigation policies, distributional dilemmas and social 
+policies. J. Soc. Policy 42 (2), 191—213. 
+
+Han, L., Xu, X., Han, L., 2015. Applying quantile regression and Shapley decompo¬ 
+sition to analyzing the determinants of household embedded carbon emissions: 
+evidence from urban China. J. Clean. Prod. 103, 219—230. 
+
+IPCC, 2014. Climate Change: Mitigation of Climate Change. Contribution of Working 
+Group III to the Fifth Assessment Report of the Intergovernmental Panel on 
+Climate Change. Cambridge University Press, Cambridge, UK (chapter 8). 
+
+Ivanova, D., Stadler, K., Steen-Olsen, K„ Wood, R., Vita, G., Tukker, A., Hertwich, E.G., 
+2016. Environmental impact assessment of household consumption. J. Ind. Ecol. 
+
+
+20 (3), 526-536. 
+
+Kerkhof, A.C., Nonhebel, S., Moll, H.C., 2009. Relating the environmental impact of 
+consumption to household expenditures: an input—output analysis. Ecol. Econ. 
+68 (4), 1160-1170. 
+
+Lebel, L, Garden, P., Banaticla, M.R.N., Lasco, R.D., Contreras, A., Mitra, A.P., 
+Sharma, C., Nguyen, H.T., Ooi, G.L., Sari, A., 2007. Integrating carbon manage¬ 
+ment into the development strategies of urbanizing regions in Asia - implica¬ 
+tions of urban function, form, and role. J. Ind. Ecol. 11 (2), 61—81. 
+
+Matthews, H., Scott, Weber, C., Hendrickson, C., 2008. Estimating carbon footprints 
+with input-output models. In: Paper Presented at the International Input- 
+Output Conference, Seville. http://www.upo.es/econ/IIOMME08. 
+
+Reynolds, C.J., Piantadosi, J., Buckley, J.D., Weinstein, P., Boland, J., 2015. Evaluation 
+of the environmental impact of weekly food consumption in different socio¬ 
+economic households in Australia using environmentally extended 
+input—output analysis. Ecol. Econ. Ill, 58-64. 
+
+Steen-Olsen, K„ Wood, R., Hertwich, E.G., 2016. The carbon footprint of Norwegian 
+household consumption 1999—2012. J. Ind. Ecol. 20 (3), 582—592. 
+
+Sommer, M., Kratena, K., 2017. The carbon footprint of European households and 
+income distribution. Ecol. Econ. 136, 62—72. 
+
+Tukker, A., de Koning, A., Wood, R., Hawkins, T., Lutter, S., Acosta, J., Rueda 
+Cantuche, J.M., Bouwmeester, M., Oosterhaven, J., Drosdowski, T., 2013. EXIO- 
+POL—development and illustrative analyses of a detailed global MR EE SUT/IOT. 
+Econ. Syst. Res. 25 (1), 50—70. 
+
+UNSD, 2003. Classifications of Expenditure According to Purpose: Classification of 
+the Functions of Government (COFOG); Classification of Individual Consump¬ 
+tion According to Purpose (COICOP); Classification of the Purposes of Non-profit 
+Institutions Serving Households (COPNI); Classification of the Outlays of Pro¬ 
+ducers According to Purpose (COPP). 
+
+Weber, C.L., Matthews, H.S., 2008. Quantifying the global and distributional aspects 
+of American household carbon footprint. Ecol. Econ. 66 (2—3), 379—391. 
+
+Wiedenhofer, D., Guan, D., Liu, Z., Meng, J., Zhang, N., Wei, Y.-M., 2016. Unequal 
+household carbon footprints in China. Nat. Clim. Change 7, 75. 
+
+Wier, M., Lenzen, M., Munksgaard, J., Smed, S., 2001. Effects of household con¬ 
+sumption patterns on C02 requirements. Econ. Syst. Res. 13 (3), 259—274. 
+
+Wood, R., Stadler, K., Bulavskaya, T., Lutter, S., Giljum, S., de Koning, A., Kuenen, J., 
+Schiitz, H., Acosta-Fernandez, J., Usubiaga, A., 2014. Global sustainability 
+accounting—developing EXIOBASE for multi-regional footprint analysis. Sus¬ 
+tainability 7 (1), 138—163. 
+
+Wood, R., Stadler, K., Bulavskaya, T., Lutter, S., Giljum, S., de Koning, A., Kuenen, J., 
+Schiitz, H., Acosta-Fernandez, J., Usubiaga, A., Simas, M., Ivanova, O., 
+Weinzettel, J., Schmidt, J.H., Merciai, S., Tukker, A., 2015. Global sustainability 
+accounting-developing EXIOBASE for multi-regional footprint analysis. Sus¬ 
+tainability 7 (1), 138-163. 
+
+

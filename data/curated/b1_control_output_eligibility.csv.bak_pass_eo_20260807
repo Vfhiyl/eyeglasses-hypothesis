@@ -1,0 +1,298 @@
+qid,name,birth_year,death_year,first_nearwork_year,last_nearwork_year,activity_proxy,output_eligible,eligibility_reason,use_in_primary
+Q101437,Pius II (Enea Silvio Piccolomini),1405,1464,1440,1464,humanist_pope_commentary,False,Pass CY: treatment alias of pius_ii (roster Q162600); never output-eligible as control.,False
+Q102272,Jan van Eyck,1390,1441,1415,1441,painter_sculptor_dated_commissions,False,non_textual_or_admin,True
+Q43393,Robert Boyle,1627,1691,1660,1691,natural_philosopher_publishing_to_death,True,textual_authorship_proxy,True
+Q104099062,Francesco Visdomini,1516,1573,1550,1573,jesuit_preaching_orations,False,Pass BI: Visdomini/Tomitano long densify vs Domenichi ya45=4; keep Grataroli/Robortello.,True
+Q1042297,Carlo Marsuppini,1398,1453,1444,1453,chancellor_florence_humanist,True,textual_authorship_proxy,True
+Q1054349,Francesco Torbido (il Moro),1483,1562,1510,1560,painter_verona_commissions,False,non_textual_or_admin,True
+Q106832905,Pietro Trapolino,1451,1509,1480,1509,padua_philosophy_teaching,True,textual_authorship_proxy,True
+Q10818169,Donato Velluti,1313,1370,1360,1370,cronica_domestica_and_civic_docs,True,textual_authorship_proxy,True
+Q10946745,Andrea Barbarigo,1399,1449,1430,1449,merchant_account_books_and_lane_career,True,Pass AZ: unlock matched peer for thin italy cells (was False).,True
+Q1125744,William VIII Montferrat,1420,1483,1464,1483,marquess_administrative_rule,False,non_textual_or_admin,True
+Q112684597,Bonaventura Monachi,1290,1348,1320,1348,florentine_clerk_documentary,False,unclassified_exclude_from_output_fallback,True
+Q113031057,Giovanni Battista Memmo,1466,1535,1500,1535,venetian_mathematical_humanism,False,Pass BD: Memmo long fallback mismatch Leo X; replaced.,True
+Q1168956,Jodocus Trutfetter,1460,1519,1490,1519,erfurt_scholastic_teaching_publishing,True,textual_authorship_proxy,True
+Q1217669,Cicco Simonetta,1410,1480,1450,1480,sforza_chancery_secretary,False,Pass BF: Simonetta long densify (span45≈25) mismatches Cederni ya45=21; retired.,True
+Q1232397,John Fothergill,1712,1780,1740,1780,physician_naturalist_docs,False,unclassified_exclude_from_output_fallback,True
+Q1234681,Giannozzo Manetti,1396,1459,1439,1459,humanist_orations_and_treatises_to_death,True,textual_authorship_proxy,True
+Q676049,John Tillotson,1630,1694,1664,1694,archbishop_sermons_and_theology,True,textual_authorship_proxy,True
+Q1236780,Francesco Sassetti,1421,1490,1450,1490,medici_bank_general_manager_docs,True,Pass AZ: unlock matched peer for thin italy cells (was False).,True
+Q1237886,Jean de Montreuil,1354,1418,1384,1418,royal_secretary_humanist_correspondence,True,textual_authorship_proxy,True
+Q1240697,Donato Acciaioli,1429,1478,1460,1478,statesman_scholar_embassy_to_death,True,textual_authorship_proxy,True
+Q1248865,Leontios Pilatus,1310,1365,1335,1365,humanist_literary_activity,True,textual_authorship_proxy,True
+Q1259240,Johannes Knebel,1413,1481,1470,1481,basel_chronicler_diarist,True,textual_authorship_proxy,True
+Q4216692,Edward Stillingfleet,1635,1699,1662,1697,scholar_divine_polemical_publishing,True,textual_authorship_proxy,True
+Q1291915,Richard Pococke,1704,1765,1737,1763,travel_writer_antiquary,False,unclassified_exclude_from_output_fallback,True
+Q1296705,Giovanni Dondi dell'Orologio,1330,1388,1364,1388,astronomical_medical_treatises,True,textual_authorship_proxy,True
+Q130351,Marcantonio Zimara,1460,1532,1505,1532,aristotelian_commentaries,True,textual_authorship_proxy,True
+Q1313351,Louis II de la Tremoille,1460,1525,1483,1525,french_military_princely_admin_docs,False,non_textual_or_admin,True
+Q133001,Pope Paul III,1468,1549,1534,1549,papal_briefs_and_council_docs,False,unclassified_exclude_from_output_fallback,True
+Q133372,Charles VII of France,1403,1461,1422,1461,royal_administrative_documentary_rule,False,non_textual_or_admin,True
+Q592641,Jean Jouffroy,1412,1473,1450,1473,cardinal_humanist_orator,True,textual_authorship_proxy,True
+Q767960,William Sancroft,1617,1693,1660,1690,archbishop_admin_and_nonjuring_docs,False,unclassified_exclude_from_output_fallback,True
+Q1348708,Ercole I d'Este,1431,1505,1471,1505,ducal_ferrara_admin_patronage,False,non_textual_or_admin,True
+Q136487101,Johann von Lubeck,1430,1502,1460,1502,clerical_university_teaching,False,unclassified_exclude_from_output_fallback,True
+Q1372875,Maffeo Vegio,1407,1458,1432,1458,humanist_documentary,True,textual_authorship_proxy,True
+Q1379932,Gilbert Count of Montpensier,1443,1496,1486,1496,montpensier_viceregal_naples_admin,False,non_textual_or_admin,True
+Q2347142,Henry Compton,1632,1713,1674,1710,bishop_london_admin_and_polemic,False,unclassified_exclude_from_output_fallback,True
+Q267683,Thomas Sprat,1635,1713,1667,1710,rs_historian_bishop_writings,False,unclassified_exclude_from_output_fallback,True
+Q1399161,Fazio degli Uberti,1305,1367,1345,1367,dittamondo_poem_composition,False,unclassified_exclude_from_output_fallback,True
+Q1402,Giovanni Boccaccio,1313,1375,1333,1373,humanist_literary_corpus_to_late_life,True,textual_authorship_proxy,True
+Q1433395,Giovanni Arcolani,1390,1458,1420,1458,surgeon_academic_texts,False,unclassified_exclude_from_output_fallback,True
+Q146994,Zanobi da Strada,1312,1361,1355,1361,poet_laureate_and_chancery,True,textual_authorship_proxy,True
+Q1522152,Giacomo Pacchiarotti,1474,1540,1500,1540,sienese_painter_activity,False,non_textual_or_admin,True
+Q1525570,Giorgio Valla,1430,1499,1460,1499,humanist_philology_teaching_venice,True,textual_authorship_proxy,True
+Q1531207,Nicolò Malermi,1422,1481,1471,1481,italian_bible_translation,True,textual_authorship_proxy,True
+Q154751,Nicholas of Cusa,1401,1464,1431,1464,cardinal_scholar_treatises,False,Pass CX DEMOTED: Mantese 1962 inventory capseta cum ocularis; known soft wearer (cusanus). Contaminates pius_ii/sforza cells.,False
+Q163420,Albert van Ouwater,1415,1475,1440,1470,early_netherlandish_painter_commissions,False,non_textual_or_admin,True
+Q1646308,Tommaso Portinari,1427,1501,1465,1497,medici_bank_bruges_manager_docs,False,Pass BF: Tommaso Portinari long densify (span45≈25) mismatches Strozzi (ya45=18); retired.,True
+Q164823,Girolamo Savonarola,1452,1498,1490,1498,preaching_and_treatises_to_execution,True,textual_authorship_proxy,True
+Q1685601,Jean Jouvenel des Ursins,1360,1431,1389,1431,parlement_avocat_jurist_docs,False,unclassified_exclude_from_output_fallback,True
+Q170353,René of Anjou,1409,1480,1435,1480,anjou_naples_provence_court_docs,False,Pass CX: flipped_to_treatment_rene_anjou — output_eligible must stay False (was True residual).,False
+Q170373,Christopher Wren,1632,1723,1666,1711,architect_savilian_design_docs,False,unclassified_exclude_from_output_fallback,True
+Q17279924,Iacopo Bussolari,1312,1380,1337,1380,humanist_literary_activity,True,textual_authorship_proxy,True
+Q1788686,Edward Lee,1482,1544,1531,1544,archbishop_york_admin_docs,True,Pass BA: england cleric peer for wolsey; was unclassified_exclude.,True
+Q1798685,Vincenzo Maggi,1498,1564,1540,1564,aristotelian_commentator_teaching,False,unclassified_exclude_from_output_fallback,True
+Q46830,Robert Hooke,1635,1703,1665,1700,rs_curator_scientific_writing,False,unclassified_exclude_from_output_fallback,True
+Q182046,Leon Battista Alberti,1404,1472,1430,1472,humanist_architect_treatises_to_death,True,textual_authorship_proxy,True
+Q18224490,Tiberio Russiliano,1490,1560,1525,1560,philosopher_publishing,True,textual_authorship_proxy,True
+Q18745304,Vasco de Lucena,1435,1512,1460,1510,portuguese_translator_historiography,True,textual_authorship_proxy,True
+Q18945373,Giorgio Summaripa,1435,1497,1470,1497,veronese_humanist_poetry,True,textual_authorship_proxy,True
+Q18945418,Giovanni Battista Refrigerio,1424,1499,1460,1499,bolognese_notary_humanist_docs,False,Pass BE: Refrigerio long densify (span45≈30) mismatches Cederni; retired.,True
+Q18945465,Girolamo Borro,1512,1592,1550,1590,pisa_natural_philosophy_teaching,False,Pass BD: Borro long densify (span45≈33) mismatch Domenichi; retired.,True
+Q18945713,Paolo Attavanti,1445,1499,1470,1499,servite_preacher_writer,True,textual_authorship_proxy,True
+Q108206,John Bunyan,1628,1688,1666,1688,religious_writer_to_death,False,unclassified_exclude_from_output_fallback,True
+Q43082,Charles II of Navarre,1332,1387,1350,1387,navarre_france_royal_admin,False,non_textual_or_admin,True
+Q1978080,Francesco de Tatti,1470,1532,1500,1532,lombard_painter_activity,False,non_textual_or_admin,True
+Q1990693,Niccolò Leonico Tomeo,1456,1531,1497,1531,padua_greek_teaching_and_treatises,True,textual_authorship_proxy,True
+Q208125,Lorenzo Ghiberti,1378,1455,1403,1455,painter_sculptor_dated_commissions,False,non_textual_or_admin,True
+Q208452,Thomas Bayes,1702,1761,1731,1761,mathematician_clergyman_essays,True,textual_authorship_proxy,True
+Q213355,John Dryden,1631,1700,1660,1700,poet_critic_publishing_to_death,False,Pass BH: Dryden long densify (span45≈24) mismatches Pepys hardened t45=22; retired.,True
+Q214115,Lorenzo Valla,1407,1457,1431,1457,humanist_treatises_to_death,True,textual_authorship_proxy,True
+Q21545214,Giovanni Battista Rasario,1517,1578,1550,1578,hellenist_medical_translations,False,Pass BD: Rasario no hand output pins; nearwork death-endpoint fallback mismatches Domenichi short post-45.,True
+Q21545248,Giovanni Marcanova,1410,1467,1435,1467,humanist_documentary,True,textual_authorship_proxy,True
+Q2258968,Christopher Bainbridge,1464,1514,1508,1514,cardinal_diplomat_rolls_admin_docs,True,Pass BA: england cleric peer for wolsey; was unclassified_exclude.,True
+Q2266954,Francesco Accolti,1416,1488,1450,1488,jurist_consilia_teaching,False,unclassified_exclude_from_output_fallback,True
+Q7519488,Simon Patrick,1626,1707,1662,1704,bishop_commentary_publishing,False,Pass BE: Patrick long fallback mismatches Lynnet output cell; replaced with hand-pinned divines.,True
+Q232801,Anne of France (Beaujeu),1461,1522,1483,1504,regent_and_enseignements_author,True,Pass BW: unlock rene_ii peer — Anne of France authored Enseignements à sa fille (~1504); was non_textual_or_admin.,True
+Q234816,Christine de Pizan,1364,1430,1405,1429,vernacular_didactic_and_political_works,False,unclassified_exclude_from_output_fallback,True
+Q239337,Philip the Good,1396,1467,1419,1467,burgundy_ducal_administrative_docs,False,non_textual_or_admin,True
+Q2428137,Thomas White,1492,1567,1532,1567,merchant_benefactor_civic_docs,False,non_textual_or_admin,True
+Q2476399,Thomas Docwra,1450,1527,1499,1527,hospitaller_prior_diplomatic_admin,False,unclassified_exclude_from_output_fallback,True
+Q2579348,Jean Pelerin,1445,1524,1505,1524,perspective_treatise_and_diplomacy,True,textual_authorship_proxy,True
+Q26263533,Lionello de' Vittori,1450,1520,1480,1520,physician_writer,False,unclassified_exclude_from_output_fallback,True
+Q275044,Isotta Nogarola,1418,1466,1438,1466,humanist_letters_dialogue,True,textual_authorship_proxy,True
+Q27909297,Nikolaus Straub,1415,1499,1450,1499,clerical_scholarly_docs,True,textual_authorship_proxy,True
+Q28004827,Nikolaus Apel,1470,1537,1500,1537,leipzig_theologian_publishing,False,Pass BH: Apel death-fallback (span45≈22) mismatches Pirckheimer; retired.,True
+Q281179,Jean Gerson,1363,1429,1408,1429,paris_chancellor_and_exile_treatises,True,textual_authorship_proxy,True
+Q2823945,Adam Fumee,1430,1494,1461,1494,royal_physician_chancellor_docs,True,Pass BA: france clerk peer for hesselin; was non_textual_or_admin.,True
+Q288378,Olivier le Daim,1428,1484,1461,1484,royal_favourite_admin_docs,True,Pass BA: france clerk peer for hesselin; was non_textual_or_admin.,True
+Q289285,Filippo Maria Visconti,1392,1447,1412,1447,ducal_milan_administrative_docs,False,non_textual_or_admin,True
+Q294435,Thomas Cromwell,1485,1540,1514,1540,tudor_secretary_admin_docs,False,unclassified_exclude_from_output_fallback,True
+Q299446,Bessarion,1403,1472,1433,1472,cardinal_scholar_treatises,True,textual_authorship_proxy,True
+Q299663,Piero di Cosimo de' Medici,1416,1469,1461,1469,medici_bank_heir_florence_governance_docs,True,Pass AZ: unlock matched peer for thin italy cells (was False).,True
+Q30900642,Sante Ardoini,1390,1450,1420,1450,physician_writer,False,unclassified_exclude_from_output_fallback,True
+Q3104075,Gerino da Pistoia,1480,1529,1504,1529,painter_dated_commissions,False,non_textual_or_admin,True
+Q316949,John Ray,1627,1705,1660,1704,naturalist_publishing_late,False,Pass BF: Ray long densify (span45≈32) mismatches Pepys output cell; retired.,True
+Q3110583,Gontier Col,1355,1418,1388,1418,royal_secretary_diplomat_docs,False,non_textual_or_admin,True
+Q311082,Pisanello,1395,1455,1420,1455,painter_sculptor_dated_commissions,False,non_textual_or_admin,True
+Q3118498,Gregory Tifernas,1414,1462,1456,1462,greek_teaching_and_translation,True,textual_authorship_proxy,True
+Q312304,Alfonso V of Aragon,1396,1458,1416,1458,naples_aragon_royal_admin_docs,False,non_textual_or_admin,True
+Q1388943,Guillaume Fillastre the Younger,1400,1473,1450,1473,diplomat_cleric_letters_treatises,False,Pass BH: Fillastre long densify (span45≈28) mismatches Charles d'Orléans; retired. Pass BX tried rene_anjou unlock → med 5→4 SESOI FAIL; reverted.,True
+Q3170939,Jean Bourre,1424,1506,1461,1506,royal_finance_angevin_admin_docs,True,Pass BA: france clerk peer for hesselin; was non_textual_or_admin.,True
+Q3170994,Jean Briconnet,1420,1493,1460,1493,general_des_finances_admin_docs,True,Pass BA: france clerk peer for hesselin; was unclassified_exclude.,True
+Q317149,John Fisher,1469,1535,1504,1535,bishop_theological_writings,False,Pass BF: Fisher death-fallback (span45≈21) mismatches Wolsey short post-45; retired.,True
+Q3172160,Jean Fusoris,1365,1436,1400,1436,astronomer_instrument_maker_treatises,False,Pass BE: Fusoris long fallback (span45≈26) mismatches Baye short post-45 (ya45=10); retired.,True
+Q318117,Masolino da Panicale,1383,1447,1424,1435,painter_dated_fresco_cycles,False,non_textual_or_admin,True
+Q326037,Niccolò Perotti,1429,1480,1455,1480,humanist_bishop_cornucopiae,True,textual_authorship_proxy,True
+Q330036,William Heberden,1710,1801,1740,1790,physician_clinical_writing,False,unclassified_exclude_from_output_fallback,True
+Q335280,"George Savile, 1st Marquess of Halifax",1633,1695,1680,1695,political_essayist_to_death,False,unclassified_exclude_from_output_fallback,True
+Q2248538,William Temple,1628,1699,1668,1695,essayist_diplomat_memoirs,False,unclassified_exclude_from_output_fallback,True
+Q676560,John Pearson,1613,1686,1659,1686,bishop_exposition_creed_scholarship,False,unclassified_exclude_from_output_fallback,True
+Q334188,Pietro Bembo,1470,1547,1505,1547,cardinal_humanist_prose,False,Pass BD: long post-45 Bembo fallback mismatch Leo X; replaced.,True
+Q337635,Charles Brandon Duke of Suffolk,1484,1545,1515,1545,tudor_ducal_military_admin_docs,False,non_textual_or_admin,True
+Q3388274,Pigello Portinari,1421,1468,1455,1468,medici_bank_bruges_manager,True,Pass AZ: unlock matched peer for thin italy cells (was False).,True
+Q338876,Matthias Qualle,1470,1518,1500,1518,humanist_theologian_activity,True,textual_authorship_proxy,True
+Q342392,Francisco Jiménez de Cisneros,1436,1517,1495,1517,cardinal_regent_polyglot_bible,True,textual_authorship_proxy,True
+Q346761,John Duke of Berry,1340,1416,1360,1416,princely_patronage_and_admin_docs,False,unclassified_exclude_from_output_fallback,True
+Q352573,Marius Nizolius,1488,1567,1535,1567,ciceronian_thesaurus_and_philosophy,True,textual_authorship_proxy,True
+Q3561345,Vittore Trincavelli,1496,1568,1530,1568,medical_humanist_editions_teaching,True,textual_authorship_proxy,True
+Q356513,Jacques Lefevre d Etaples,1450,1536,1492,1536,humanist_biblical_scholarship,True,textual_authorship_proxy,True
+Q3565998,Matteo Tafuri,1492,1582,1530,1580,philosopher_astrologer_publishing,True,textual_authorship_proxy,True
+Q3619484,Antonio D'Alessandro,1420,1498,1460,1498,neapolitan_jurist_administrative_docs,False,Pass BE: D'Alessandro long densify (span45≈33) mismatches Cederni; retired.,True
+Q3638733,Bernardino Tomitano,1517,1576,1545,1576,padua_rhetoric_medicine_publishing,False,Pass BI: Visdomini/Tomitano long densify vs Domenichi ya45=4; keep Grataroli/Robortello.,True
+Q982038,Alain Chartier,1385,1430,1415,1429,poet_diplomat_literary_corpus,True,textual_authorship_proxy,True
+Q3713292,Domenico da Gravina,1300,1355,1333,1350,notary_chronicon_1333_1350,True,textual_authorship_proxy,True
+Q3742149,Felice Figliucci,1518,1595,1550,1590,dominican_philosophy_translations,False,Pass BD: Figliucci long densify (span45≈27) mismatch Domenichi; retired.,True
+Q3749759,Francesco Cattani da Diacceto,1446,1522,1500,1522,ficinian_philosopher_teaching,True,textual_authorship_proxy,True
+Q37562,Donatello,1386,1466,1406,1460,sculptor_dated_commissions,False,non_textual_or_admin,True
+Q3766135,Giovan Marco Cinico,1430,1503,1465,1500,naples_court_scribe_copyist,True,textual_authorship_proxy,True
+Q3768494,Giovanni di Paolo Rucellai,1403,1481,1430,1481,merchant_builder_zibaldone_docs,True,textual_authorship_proxy,True
+Q3778928,Guglielmo Grataroli,1516,1568,1550,1568,medical_alchemical_publishing,True,textual_authorship_proxy,True
+Q379902,David Hartley,1705,1757,1749,1757,physician_philosopher_observations,True,textual_authorship_proxy,True
+Q559213,Thomas Sydenham,1624,1689,1666,1686,medical_author_observationes,True,textual_authorship_proxy,True
+Q380652,Giles of Viterbo,1469,1532,1503,1532,augustinian_cardinal_oratory_treatises,False,Pass BD: long post-45 Giles of Viterbo fallback mismatch Leo X; replaced.,True
+Q3839095,Ludovico Carbone,1430,1482,1460,1482,ferrara_humanist_orations,True,textual_authorship_proxy,True
+Q3845887,Marcantonio Genua,1491,1563,1530,1563,padua_philosophy_teaching,True,textual_authorship_proxy,True
+Q3850247,Martino Filetico,1430,1490,1460,1490,humanist_teaching_treatises,True,textual_authorship_proxy,True
+Q3876500,Nicoletto Vernia,1420,1499,1465,1499,padua_philosopher_teaching_to_death,True,textual_authorship_proxy,True
+Q395722,Agostino Steuco,1497,1548,1530,1548,vatican_librarian_theology,True,textual_authorship_proxy,True
+Q3990688,"Thomas Manners, 1st Earl of Rutland",1492,1543,1525,1543,peer_court_military_admin_docs,False,unclassified_exclude_from_output_fallback,True
+Q41568767,Raffaele de' Cerchi,1401,1475,1426,1475,italian_clerk_documentary,True,Pass AZ: unlock matched peer for thin italy cells (was False).,True
+Q42027400,Jean III Robertet,1430,1492,1467,1492,royal_secretary_notarial_docs,True,Pass BA: france clerk peer for hesselin; was non_textual_or_admin.,True
+Q42544,Thomas More,1478,1535,1516,1535,humanist_statesman_writings_to_execution,True,textual_authorship_proxy,True
+Q430565,Gianfrancesco I Gonzaga,1395,1444,1407,1444,mantua_marquis_administrative_docs,False,non_textual_or_admin,True
+Q43499,Desiderius Erasmus,1466,1536,1500,1536,continuous_humanist_publishing,True,textual_authorship_proxy,True
+Q435501,Federico da Montefeltro,1422,1482,1444,1482,ducal_administrative_and_patronage_docs,False,non_textual_or_admin,True
+Q435853,Thomas Cajetan,1469,1534,1507,1534,dominican_cardinal_scholastic_commentaries,False,Pass BD: long post-45 Cajetan fallback mismatch Leo X; replaced.,True
+Q4394728,Alamanno Rinuccini,1426,1504,1460,1500,florentine_humanist_dialogue_civic,True,textual_authorship_proxy,True
+Q44668811,Lorenz Heidenreich,1480,1557,1510,1555,german_cleric_humanist_activity,False,Pass BH: Heidenreich death-fallback (span45≈30) mismatches Pirckheimer; retired.,True
+Q451995,Amadeus VI Count of Savoy,1334,1383,1343,1383,savoy_comital_administrative_rule,False,non_textual_or_admin,True
+Q454013,John V of Brittany,1389,1442,1399,1442,brittany_ducal_administrative_docs,False,non_textual_or_admin,True
+Q454053,Arthur III of Brittany,1393,1458,1415,1458,brittany_constable_ducal_docs,False,non_textual_or_admin,True
+Q455252,Catherine of Bologna,1413,1463,1438,1463,humanist_documentary,True,textual_authorship_proxy,True
+Q470846,Amico Aspertini,1475,1552,1510,1540,bolognese_painter_activity,False,non_textual_or_admin,True
+Q48407068,Niccolò da Casola,1300,1380,1330,1380,bolognese_notary_chronicler,True,textual_authorship_proxy,True
+Q48861610,Pietro Leoni,1452,1516,1485,1516,physician_philosopher_activity,True,textual_authorship_proxy,True
+Q4942038,Bonino Mombrizio,1424,1478,1460,1478,sanctuarium_philology,True,textual_authorship_proxy,True
+Q4993282,"Marie of Blois, Duchess of Anjou",1345,1404,1365,1404,duchess_regent_admin_docs,False,unclassified_exclude_from_output_fallback,True
+Q503816,Thomas Howard 3rd Duke of Norfolk,1473,1554,1513,1547,tudor_ducal_military_admin_docs,False,non_textual_or_admin,True
+Q504016,Thomas Elyot,1490,1546,1531,1546,humanist_governor_and_treatises,True,textual_authorship_proxy,True
+Q506640,Sigismondo Pandolfo Malatesta,1417,1468,1432,1468,rimini_lord_administrative_documentary,False,non_textual_or_admin,True
+Q508702,Filippo Villani,1325,1407,1380,1405,chronicler_liber_de_origine,True,textual_authorship_proxy,True
+Q523931,Girolamo Zoppio,1516,1591,1550,1590,bolognese_humanist_poetics,False,Pass BD: Zoppio long densify (span45≈29) mismatch Domenichi (d.@49); retired.,True
+Q526613,Giovanni Fontana,1395,1455,1420,1455,engineer_treatises,True,textual_authorship_proxy,True
+Q536316,Richard Empson,1450,1510,1491,1509,tudor_council_finance_admin,False,non_textual_or_admin,True
+Q5392534,Ermolao Barbaro the Elder,1410,1471,1443,1471,bishop_humanist_papal_service,True,textual_authorship_proxy,True
+Q548613,Edmund Dudley,1462,1510,1491,1509,tudor_council_finance_admin,False,non_textual_or_admin,True
+Q55227773,Antonio Fracanzani,1450,1506,1480,1506,padua_medical_philosophy,True,textual_authorship_proxy,True
+Q55228138,Gherardo del Ciriagio,1412,1472,1440,1470,florentine_professional_scribe_dated_mss,True,textual_authorship_proxy,True
+Q55228599,Iacopo Guicciardini,1480,1552,1510,1552,florentine_patrician_political_correspondence,False,unclassified_exclude_from_output_fallback,True
+Q5534459,Geoffrey Blythe,1470,1530,1503,1528,bishop_coventry_lichfield_admin_docs,True,Pass BA: england cleric peer for wolsey; was unclassified_exclude.,True
+Q5540308,"George Hastings, 1st Earl of Huntingdon",1488,1544,1529,1544,peer_court_admin_docs,False,unclassified_exclude_from_output_fallback,True
+Q5541813,George Lokert,1485,1547,1520,1547,scottish_paris_theologian_teaching,True,textual_authorship_proxy,True
+Q556043,Thomas Birch,1705,1766,1732,1766,historian_biographer_publishing,True,textual_authorship_proxy,True
+Q587247,Antoine de la Sale,1385,1460,1440,1460,prose_writer_Petit_Jehan,False,Pass BH: La Sale long densify (span45≈30) mismatches Charles; retired.,True
+Q558074,Ciriaco de' Pizzicolli (Ancona),1391,1452,1435,1452,antiquarian_travel_epigraphy,True,textual_authorship_proxy,True
+Q957427,Georges Chastellain,1405,1475,1450,1475,burgundian_chronicler_poet,False,Pass BH: Chastellain long densify (span45≈25) mismatches Charles; retired. Pass BX tried rene_anjou unlock → med 5→4 SESOI FAIL; reverted.,True
+Q5659931,Agostino Dati,1420,1478,1450,1478,epistolae_rhetoric_to_death,True,textual_authorship_proxy,True
+Q5672208,Ambrosio Montesino,1440,1514,1485,1512,franciscan_poet_translator,True,textual_authorship_proxy,True
+Q579194,John Mair (Major),1467,1550,1521,1549,scholastic_historia_and_teaching,True,Pass BI: restore Mair for Wyatt with trimmed mid pins (no 1550 death terminus).,True
+Q599858,Antonio Beccadelli (Panormita),1394,1471,1425,1471,humanist_court_poet_and_secretary,True,textual_authorship_proxy,True
+Q604460,Georgius Merula,1430,1494,1460,1494,humanist_philology_milan_venice,True,textual_authorship_proxy,True
+Q61472794,Paolo Boncambio,1401,1470,1426,1470,italian_clerk_documentary,True,Pass AZ: unlock matched peer for thin italy cells (was False).,True
+Q6259279,John Stokesley,1475,1539,1520,1539,bishop_london_diplomatic_admin_docs,True,Pass BA: england cleric peer for wolsey; was unclassified_exclude.,True
+Q651013,Roberto Valturio,1405,1475,1455,1472,de_re_militari_treatise,True,textual_authorship_proxy,True
+Q652097,Hector Boece,1465,1536,1527,1536,historia_scotorum_and_aberdeen_principal,True,textual_authorship_proxy,True
+Q659093,Benedetto Dei,1418,1492,1456,1492,merchant_letters_and_cronica_1473,False,Pass BF: Benedetto Dei long densify (span45≈29) mismatches Strozzi; retired.,True
+Q66791624,Jordi de Centelles,1430,1496,1460,1496,catalan_poet_translator_court,True,textual_authorship_proxy,True
+Q669191,Simone Porzio,1496,1554,1538,1554,naples_pisa_medical_philosophy,True,textual_authorship_proxy,True
+Q673596,Hieronymus Balbus (Girolamo Balbi),1460,1535,1490,1535,humanist_bishop_poetry_diplomacy,True,textual_authorship_proxy,True
+Q675493,Henry VII of England,1457,1509,1485,1509,royal_administrative_documentary_rule,False,non_textual_or_admin,True
+Q679093,Laurent de Premierfait,1370,1418,1400,1418,translator_humanist_paris,True,textual_authorship_proxy,True
+Q681622,Lodovico Gritti,1480,1534,1505,1534,merchant_documentary,False,unclassified_exclude_from_output_fallback,True
+Q682478,Jacopo Sadoleto,1477,1547,1513,1547,cardinal_humanist_epistolary,False,Pass BD: long post-45 Sadoleto fallback mismatch Leo X (d.@46); replaced lifespan-matched.,True
+Q692291,Charles I of Bourbon,1401,1456,1434,1456,bourbon_ducal_administrative_docs,False,non_textual_or_admin,True
+Q70053,Konrad Mutian,1470,1526,1509,1526,erfurt_humanist_epistolaries,True,textual_authorship_proxy,True
+Q708954,Filippo Strozzi the Younger,1489,1538,1510,1538,patrician_banker_political_docs,False,non_textual_or_admin,True
+Q711964,Cristoforo Landino,1424,1498,1458,1498,humanist_commentary_teaching_to_death,True,textual_authorship_proxy,True
+Q712032,Francesco Barbaro,1390,1454,1415,1454,venetian_humanist_diplomat,True,textual_authorship_proxy,True
+Q713821,John Armstrong,1709,1779,1744,1770,physician_poet_publishing,True,textual_authorship_proxy,True
+Q715054,Borso d'Este,1413,1471,1450,1471,ducal_administrative_documentary_rule,False,non_textual_or_admin,True
+Q725592,Cuthbert Tunstall,1474,1559,1511,1559,bishop_diplomat_admin_docs,False,Pass BF: Tunstall death-terminus densify (span45≈40) mismatches Wolsey (ya45=12); retired.,True
+Q7287908,"Ralph Neville, 4th Earl of Westmorland",1497,1549,1525,1549,peer_council_border_admin_docs,False,unclassified_exclude_from_output_fallback,True
+Q728931,Gasparo Contarini,1483,1542,1510,1542,venetian_cardinal_reform_treatises,False,Pass BD: Contarini post-45 mismatch Leo X (d.@46); replaced.,True
+Q744014,Nicholas of Clamanges,1363,1437,1408,1437,humanist_epistolary_and_reform_treatises,True,textual_authorship_proxy,True
+Q744845,William Warham,1450,1532,1488,1532,archbishop_chancery_humanist_docs,True,Pass BI: unlock Warham for Wyatt lifespan-matched England cleric (archbishop docs); was unclassified_exclude.,True
+Q77715,Albrecht von Eyb,1420,1475,1459,1475,german_humanist_margarita_poetica,True,textual_authorship_proxy,True
+Q7791615,Thomas Kytson the Elder,1485,1540,1512,1540,merchant_adventurer_documentary,False,non_textual_or_admin,True
+Q8014632,William Lloyd,1627,1717,1668,1710,bishop_historical_theological_writing,False,Pass BE: Lloyd mega-lifespan fallback (ya45≈45) mismatches Lynnet; replaced.,True
+Q809389,Bartholomäus van der Lake,1420,1468,1450,1468,soest_chronicler,True,textual_authorship_proxy,True
+Q809500,Bartolomeo Facio,1400,1457,1445,1457,humanist_historian_naples,True,textual_authorship_proxy,True
+Q823002,Bernardo Dovizi (Bibbiena),1470,1520,1513,1520,cardinal_playwright_diplomatic_docs,True,Pass BD: lifespan-matched Leo X peer (cardinal/playwright; age@death≈50).,True
+Q83159,Pope Clement VII,1478,1534,1523,1534,papal_administrative_docs,False,non_textual_or_admin,True
+Q903246,William Lewis,1708,1781,1740,1780,chemist_physician_publishing,True,textual_authorship_proxy,True
+Q917090,"Joan of Valois, Queen of Navarre",1343,1373,1360,1373,royal_correspondence,False,Pass BM: death@30 before age 45 — post-45 output span undefined (was deflating Philippe C med).,False
+Q93113,Coluccio Salutati,1331,1406,1375,1406,chancellor_epistolario_to_death,True,textual_authorship_proxy,True
+Q957527,John Colet,1467,1519,1497,1519,dean_st_paul_humanist_sermons,True,textual_authorship_proxy,True
+Q967051,Giosafat Barbaro,1413,1494,1436,1492,merchant_diplomat_travel_and_civic_office,False,non_textual_or_admin,True
+Q983263,Masuccio Salernitano,1410,1475,1435,1475,humanist_documentary,True,textual_authorship_proxy,True
+Q983352,Il Pordenone (Giovanni Antonio Licinio),1484,1539,1515,1538,fresco_campaigns_to_death,False,non_textual_or_admin,True
+Q965811,Roger Ascham,1515,1568,1545,1568,humanist_didactic_publishing,True,textual_authorship_proxy,True
+Q3525572,Thomas Smith (diplomat),1513,1577,1548,1577,scholar_diplomat_publishing,True,textual_authorship_proxy,True
+Q354309,"William Cecil, 1st Baron Burghley",1520,1598,1550,1598,secretary_state_admin_docs,True,admin_documentary_proxy,True
+Q608866,Nicholas Bacon,1510,1579,1558,1579,lord_keeper_admin_docs,True,admin_documentary_proxy,True
+Q2336478,Thomas Wilson,1524,1581,1553,1581,rhetoric_secretary_publishing,True,textual_authorship_proxy,True
+Q61814,"Joachim I Nestor, Elector of Brandenburg",1484,1535,1499,1535,elector_brandenburg_admin_docs,True,Pass AY: HRE princely admin/diplomatic documentary continuum (textual governance peer for albrecht_prussia output estimand).,True
+Q67712,John II of Simmern,1492,1557,1509,1557,count_palatine_admin_docs,True,Pass AY: HRE princely admin/diplomatic documentary continuum (textual governance peer for albrecht_prussia output estimand).,True
+Q32500,"Charles V, Holy Roman Emperor",1500,1558,1516,1556,imperial_state_papers_abdication,True,Pass AY: HRE princely admin/diplomatic documentary continuum (textual governance peer for albrecht_prussia output estimand).,True
+Q95239,Maria of Jever,1500,1575,1517,1575,jever_regency_admin_docs,True,Pass AY: HRE princely admin/diplomatic documentary continuum (textual governance peer for albrecht_prussia output estimand).,True
+Q37388,Francis Bacon,1561,1626,1597,1625,essayist_statesman_publishing,True,textual_authorship_proxy,True
+Q1035378,Henry Spelman,1564,1641,1606,1641,antiquary_publishing,True,textual_authorship_proxy,True
+Q333098,"Sir Robert Cotton, 1st Baronet, of Connington",1571,1631,1600,1631,cotton_library_antiquary,True,textual_authorship_proxy,True
+Q1101373,"William Cavendish, 1st Duke of Newcastle",1592,1676,1649,1667,cavalier_general_literary_works,True,Pass BV: unlock Bourchier england ruler peer — Newcastle authored plays/horsemanship treatises (was non_textual_or_admin).,True
+Q2701696,"Robert Devereux, 3rd Earl of Essex",1591,1646,1625,1646,earl_military_parliament,False,non_textual_or_admin,True
+Q336091,"Thomas Wentworth, 1st Earl of Strafford",1593,1641,1628,1641,statesman_admin_docs,False,non_textual_or_admin,True
+Q236236,Oliver Goldsmith,1728,1774,1759,1774,poet_playwright_publishing,True,textual_authorship_proxy,True
+Q165792,Edmund Burke,1729,1797,1756,1797,political_writer_publishing,False,Pass CR DEMOTED: contemporary portraits wearing spectacles (Brown/Ridley 1796); was Anglo densify peer.,False
+Q161841,Edward Gibbon,1737,1794,1761,1794,historian_decline_fall,True,textual_authorship_proxy,True
+Q335060,James Boswell,1740,1795,1763,1795,biographer_johnson,True,textual_authorship_proxy,True
+Q6900893,Monkhouse Davison,1713,1793,1738,1793,london_grocer_importer_docs,True,Pass AZ: tye_thomas england merchant densify (Davison). Was elig=False.,True
+Q3471265,Samuel Whitbread,1720,1796,1742,1796,london_brewer_business_docs,True,Pass AZ: tye_thomas england merchant densify (Whitbread). Was elig=False.,True
+Q333240,William Beckford,1709,1770,1747,1770,london_merchant_mayor_political_docs,True,Pass AZ: tye_thomas england merchant densify (Beckford). Was elig=False.,True
+Q7788650,Thomas Coutts,1735,1822,1761,1822,london_banker_coutts_docs,False,Pass BC: Coutts banker lifespan/survival pins (d.87) mismatch Jackson provincial merchant output cell; replaced.,True
+Q3809383,John Julius Angerstein,1735,1823,1770,1823,lloyds_underwriter_merchant_docs,False,Pass BC: Angerstein long-lifespan Lloyds densify mismatch Jackson output cell; replaced.,True
+Q5565890,Francis Baring,1740,1810,1762,1810,baring_merchant_banker_docs,False,Pass BC: Baring merchant-banker long post-45 span mismatch Jackson output cell; replaced.,True
+Q206384,Joseph Addison,1672,1719,1699,1719,spectator_essay_publishing,True,textual_authorship_proxy,True
+Q333148,Richard Steele,1671,1729,1701,1729,tatler_spectator_publishing,True,textual_authorship_proxy,True
+Q41166,Jonathan Swift,1667,1745,1704,1729,satire_clerical_publishing,True,textual_authorship_proxy,True
+Q1256302,Matthew Prior,1664,1721,1688,1721,poet_diplomat_publishing,True,textual_authorship_proxy,True
+Q2277355,Thomas Pitt,1653,1726,1674,1726,eic_merchant_governor_docs,False,Pass BC: Pitt EIC long post-45 (d.73) mismatch Jeake short post-45; replaced.,True
+Q514846,Elihu Yale,1649,1721,1671,1721,eic_merchant_admin_docs,False,Pass BC: Yale EIC long post-45 mismatch Jeake; replaced.,True
+Q3525181,Thomas Guy,1644,1724,1668,1724,bookseller_merchant_philanthropy_docs,False,Pass BC: Guy long post-45 philanthropy span mismatch Jeake; replaced.,True
+Q461757,Jacques Cœur,1395,1456,1427,1451,royal_argentier_finance_admin_docs,True,Pass BA: france admin peer for marzeliere; finance/admin documentary continuum (was non_textual_or_admin).,True
+Q716427,Jean Juvénal des Ursins,1388,1473,1413,1473,parlement_bishop_historian_docs,False,Pass BH: Juvénal mega densify (span45≈40) mismatches Marzelière; retired.,True
+Q3403106,Prigent VII de Coëtivy,1399,1450,1425,1450,breton_admiral_courtier_docs,False,non_textual_or_admin,True
+Q9381,Adam Smith,1723,1790,1759,1790,moral_philosophy_wealth_nations,True,Pass AY: published philosophy/political economy to death; dexter england humanist peer.,True
+Q159636,Joseph Priestley,1733,1804,1761,1804,natural_philosophy_publishing,False,Pass CR DEMOTED: Royal Society MOB/035 personal spectacles artefact; was Anglo densify peer.,False
+Q123098,Angelica Kauffmann,1741,1807,1762,1807,densify_external_mine4_2026-08-02,True,Pass AZ: peale england artisan densify (Kauffmann) — appendix only. Added missing elig row.,True
+Q313498,Benjamin West,1738,1820,1760,1820,densify_external_mine4_2026-08-02,True,Pass AZ: peale england artisan densify (West) — appendix only. Added missing elig row.,True
+Q316016,John Singleton Copley,1738,1815,1755,1815,densify_external_mine4_2026-08-02,True,Pass AZ: peale england artisan densify (Copley) — appendix only. Added missing elig row.,True
+Q371280,George Romney,1734,1802,1757,1799,densify_external_mine4_2026-08-02,True,Pass AZ: peale england artisan densify (Romney) — appendix only. Added missing elig row.,True
+Q3107535,Giovanni della Grossa,1388,1464,1420,1461,corsican_chronicle_writing,False,Pass BH: Grossa long densify (span45≈28) mismatches Marzelière post-BG t45=22; retired.,True
+Q111210803,Noël de Fribois,1400,1467,1459,1461,royal_historiographer_abrege,True,Pass BA: add missing matched peer for marzeliere; Abrégé des Chroniques ~1459–61.,True
+Q18917181,Osgood Hanbury,1731,1784,1758,1784,quaker_tobacco_merchant_bank_docs,True,Pass BC: lifespan-matched england merchant for jackson_ralph (age@death≈53).,True
+Q18530776,Richard Champion,1743,1791,1766,1791,bristol_merchant_porcelain_docs,True,Pass BC: lifespan-matched england merchant for jackson_ralph (age@death≈48).,True
+Q18576880,Richard Oliver,1735,1784,1758,1784,west_india_merchant_mp_docs,True,Pass BC: lifespan-matched england merchant for jackson_ralph (age@death≈49).,True
+Q18810672,Edward Haistwell,1658,1709,1677,1709,london_quaker_merchant_frs_docs,True,Pass BC: lifespan-matched england merchant for jeake_samuel (age@death≈51).,True
+Q41784687,Samuel Heathcote,1656,1708,1691,1708,london_merchant_docs,True,Pass BC: lifespan-matched england merchant for jeake_samuel (age@death≈52).,True
+Q7787846,Thomas Brattle,1657,1713,1676,1713,boston_merchant_harvard_treasurer_docs,True,Pass BC: Anglo-Atlantic merchant peer for jeake_samuel (age@death≈56); textual 1692 letter + treasurer continuum.,True
+Q211133,Baldassarre Castiglione,1478,1529,1508,1528,courtier_author_diplomatic_docs,True,Pass BD: lifespan-matched Leo X peer (Courtier author; age@death≈50).,True
+Q1751281,Francesco Robortello,1516,1567,1548,1567,humanist_rhetoric_publishing,True,Pass BD: lifespan-matched Domenichi peer (humanist; age@death≈50).,True
+Q1236821,Ermolao Barbaro the Younger,1453,1493,1471,1493,castigationes_diplomat_patriarch,False,Pass BM: death@40 before age 45 — ya45=0; was deflating Spataro C med via match leak.,False
+Q3852414,Maurice Abbot,1565,1642,1600,1642,eic_governor_mayor_merchant_docs,True,Pass BU: unlock Jeffreys england merchant peer (Abbot); curated years were gated by missing elig row.,True
+Q6555592,"Lionel Cranfield, 1st Earl of Middlesex",1575,1645,1605,1645,merchant_finance_minister_docs,True,Pass BU: unlock Jeffreys england merchant peer (Cranfield); curated years were gated by missing elig row.,True
+Q1248124,Jean-Louis Guez de Balzac,1597,1654,1624,1654,epistolary_essays_publishing,True,Pass BU: unlock Voiture france humanist peer (Balzac); missing elig row.,True
+Q1451213,François Tristan l'Hermite,1601,1655,1636,1655,dramatist_poet_publishing,True,Pass BU: unlock Voiture france humanist peer (Tristan); missing elig row.,True
+Q334978,Jean Chapelain,1595,1674,1623,1674,academician_poet_correspondence,True,Pass BU: unlock Voiture france humanist peer (Chapelain); missing elig row.,True
+Q183266,Samuel Johnson,1709,1784,1738,1784,dictionary_essayist_publishing,True,Pass BU: unlock Franklin/Richardson england humanist peer (Johnson); missing elig row.,True
+Q34190,Henry Fielding,1707,1754,1730,1754,novelist_playwright_publishing,True,Pass BU: unlock Franklin/Richardson england humanist peer (Fielding); missing elig row.,True
+Q37160,David Hume,1711,1776,1739,1776,philosopher_historian_publishing,True,Pass BU: unlock Franklin/Richardson england humanist peer (Hume); missing elig row.,True
+Q735697,John Selden,1584,1654,1614,1650,jurist_antiquary_publications,True,Pass BV: textual peer overlay for bourchier_henry_bath (england ruler cell).,True
+Q437423,Philippe de Commynes,1447,1511,1490,1498,memoirist_diplomat_memoires,True,Pass BW overlay textual peer for rene_ii_lorraine (france ruler).,True
+Q2466849,Jean Molinet,1435,1507,1475,1500,rhetoriqueur_chronicler_poet,True,Pass BW overlay textual peer for rene_ii_lorraine (france ruler).,True
+Q60854,Johannes Valentinus Andreae,1586,1654,1616,1649,theologian_rosicrucian_publications,True,Pass BY: textual peer overlay for august_brunswick_wolfenbuettel (hre ruler cell).,True
+Q761023,August Buchner,1591,1661,1616,1650,german_poet_rhetoric_professor,True,Pass BY: textual peer overlay for august_brunswick_wolfenbuettel (hre ruler cell).,True
+Q99371,Christopher Besoldus,1577,1638,1614,1636,jurist_political_theology_pubs,True,Pass BY: textual peer overlay for august_brunswick_wolfenbuettel (hre ruler cell).,True
+Q259132,Robert Burton,1577,1640,1621,1628,anatomy_of_melancholy_editions,True,Pass BZ: textual peer overlay for bourchier after Newcastle reverse-lifespan exclude.,True
+Q3531264,Tommaso Inghirami (Fedra),1470,1516,1510,1516,vatican_librarian_orator_humanist,True,Pass CD: lifespan-matched Leo X curial humanist (age@death≈46).,True
+Q1257744,Ortensio Lando (Landi),1512,1560,1545,1560,satirist_translator_paradox_essays,True,Pass CF: lifespan-matched Domenichi peer (italy humanist; age@death≈48).,True
+Q570021,Honoré Bonet (Bouvet),1350,1410,1387,1398,chivalric_legal_treatises_schism_tracts,True,Pass CG: lifespan-near France textual peer for philippe_le_hardi (age@death≈60).,True
+Q457915,Eustache Deschamps,1340,1406,1392,1404,court_poet_ballades_art_de_dictier,True,Pass CG: France textual peer for philippe_le_hardi (dies 1406≈Philippe 1404).,True
+Q1413816,Filippo Beroaldo the Younger,1472,1518,1498,1516,humanist_editor_vatican_librarian,True,Pass CL: lifespan-matched Leo X curial humanist (age@death≈46; dies mid-pontificate 1518).,True
+Q1996629,Pedro Martínez de Osma,1427,1480,1463,1479,salamanca_theology_textual,True,textual_authorship_proxy,True
+Q11940951,Pere Daguí,1435,1500,1482,1497,lullist_printings,True,textual_authorship_proxy,True
+Q104914,Johannes Marienwerder,1343,1417,1388,1417,pass_dj_knut_bosson_peer,True,Pass DL: HRE/Baltic cleric peer output-eligible for knut_bosson densify,True
+Q95506,Nikolaus von Dinkelsbühl,1366,1433,1411,1433,pass_dj_knut_bosson_peer,True,Pass DL: HRE/Baltic cleric peer output-eligible for knut_bosson densify,True
+Q55133937,Ulrich Grünleder,1350,1421,1395,1421,pass_dj_knut_bosson_peer,True,Pass DL: HRE/Baltic cleric peer output-eligible for knut_bosson densify,True
+Q522346,Jöns Gerekesson (Johannes Gerechini),1378,1433,1423,1433,pass_dj_knut_bosson_peer,True,Pass DL: HRE/Baltic cleric peer output-eligible for knut_bosson densify,True

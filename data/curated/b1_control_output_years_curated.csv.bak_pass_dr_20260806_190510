@@ -1,0 +1,155 @@
+qid,name,birth_year,death_year,years,n_pins,source,confidence,notes
+Q43393,Robert Boyle,1627,1691,1661;1666;1686;1691,4,Sceptical_Chymist_1661;RS_publishing;death_1691,high,Natural-philosophy publishing to death (Wood cell).
+Q104099062,Francesco Visdomini,1516,1573,1550;1565;1573,3,Jesuit_orations_printed;death_1573,medium,Published preaching/orations to death.
+Q1042297,Carlo Marsuppini,1398,1453,1444;1452;1453,3,Bruni_funeral_oration_1444;Iliad_tr_for_Nicholas_V_c1452;death_1453,high,Florentine chancellor-humanist; dated literary/official humanist output endpoints (not admin-only).
+Q1234681,Giannozzo Manetti,1396,1459,1439;1452;1455;1459,4,standard_bio_De_dignitate_c1452;biblical_tr_Nicholas_V_1450s;death_Naples_1459,high,Orations/treatises/biblical translation into final Naples years.
+Q676049,John Tillotson,1630,1694,1664;1680;1691;1694,4,sermon_publishing;Archbishop_1691-94;death_1694,high,Sermon/theological publishing (Lynnet cell).
+Q1237886,Jean de Montreuil,1354,1418,1384;1408;1418,3,humanist_correspondence_chancery;death_1418,high,Epistolography to death (Baye France pool).
+Q4216692,Edward Stillingfleet,1635,1699,1662;1680;1691,3,pass_bh_2026-08-05,medium,Pass BH pepys: Origenes Sacrae/polemic continuum to archbishop 1691; drop 1697–99 late inflation.
+Q130351,Marcantonio Zimara,1460,1532,1518;1523;1532,3,Aristotelian_commentaries_prints;death_1532,medium,Commentary publishing (textual).
+Q592641,Jean Jouffroy,1412,1473,1450;1460;1473,3,standard_literary_chronology,high,French cardinal-humanist orations
+Q146994,Zanobi da Strada,1312,1361,1349;1355;1361,3,poet_laureate_Petrarch_circle;death_1361,medium,Petrarch-circle literary (Petrarch cell densify).
+Q154751,Nicholas of Cusa,1401,1464,1440;1453;1464,3,De_docta_ignorantia;death_1464,high,Philosopher-cardinal
+Q170353,René of Anjou,1409,1480,1441;1455;1470;1480,4,Mortifiement_c1455;court_poetry_treatises;death_1480,high,Literary duke: Mortifiement de vaine plaisance etc.; textual peer for Gonzaga/Sforza cells
+Q182046,Leon Battista Alberti,1404,1472,1435;1452;1460;1472,4,De_pictura_1435;architecture_treatises;death_1472,high,Italy humanist treatises
+Q18945418,Giovanni Battista Refrigerio,1424,1499,1460;1480;1499,3,Bolognese_notary_humanist_docs;death_1499,medium,Notary-humanist documentary to death.
+Q18945465,Girolamo Borro,1512,1592,1560;1580;1590,3,Pisa_natural_philosophy_teaching_publishing;last_conservative_1590,medium,Teaching/publishing; last conservative 1590.
+Q213355,John Dryden,1631,1700,1667;1681;1687;1700,4,Annus_Mirabilis_etc;Absalom_1681;Fables_1700,high,Supplement/overlap with WD P50; Fables 1700 last pin.
+Q21545248,Giovanni Marcanova,1410,1467,1445;1460;1467,3,Collectanea_antiquarian_humanist;death_1467,medium,Antiquarian/humanist documentary; endpoint pins.
+Q234816,Christine de Pizan,1364,1430,1405;1412;1429,3,Cite_dames_1405;Livre_paix_1412;Ditie_1429,high,Vernacular authorship pins already in nearwork notes.
+Q275044,Isotta Nogarola,1418,1466,1438;1451;1461;1466,4,King_Rabil_letters;Dialogue_Adam_Eve_c1451;corpus_to_death,high,Letter corpus + Dialogue; literary activity to death 1466.
+Q281179,Jean Gerson,1363,1429,1408;1418;1429,3,conciliar_treatises_exile;death_1429,high,Theological writing to death (Baye pool).
+Q299446,Bessarion,1403,1472,1440;1463;1472,3,theological_philosophical_works;cardinal;death_1472,high,Greek humanist cardinal
+Q316949,John Ray,1627,1705,1660;1691;1703;1704,4,naturalist_publishing;Wisdom_of_God_editions;late_works,high,Naturalist publishing into final years (Wood densify).
+Q1388943,Guillaume Fillastre the Younger,1400,1473,1458;1470,2,standard_literary_chronology,high,Burgundian diplomat-cleric writings; Pass DQ: align labor — 1458 Prologue + 1470 Toison; strip death 1473.
+Q3638733,Bernardino Tomitano,1517,1576,1545;1560;1576,3,Padua_rhetoric_medicine_orations;death_1576,medium,Studio teaching + published works to death.
+Q982038,Alain Chartier,1385,1430,1415;1422;1429,3,standard_literary_chronology,high,Belle Dame sans mercy etc.; France peer for Charles Orléans
+Q3742149,Felice Figliucci,1518,1595,1549;1570;1590,3,Dominican_Aristotelian_translations;late_pins_conservative,medium,Philosophy translations; last conservative 1590.
+Q3768494,Giovanni di Paolo Rucellai,1403,1481,1457;1473;1481,3,Zibaldone_Perosa;building_docs;death_1481,medium,Zibaldone + documentary near-work to death (merchant-writer).
+Q3778928,Guglielmo Grataroli,1516,1568,1553;1561;1568,3,Basel_De_memoria_etc;medical_alchemical_prints;death_1568,medium,Basel publications into 1560s.
+Q3876500,Nicoletto Vernia,1420,1499,1480;1492;1499,3,Padua_Aristotelian_teaching_publishing;death_1499,medium,Teaching/publishing pins; exact treatise years sparse on WD.
+Q4394728,Alamanno Rinuccini,1426,1499,1460;1480;1499,3,Florentine_humanist_letters_orations,medium,Italy humanist
+Q455252,Catherine of Bologna,1413,1463,1438;1450;1463,3,Sette_armi_spirituali;death_1463,high,Nun-writer letters/treatise
+Q523931,Girolamo Zoppio,1516,1591,1560;1580;1590,3,Bolognese_poetics_academy;late_16c;death_1591,medium,Poetic/academic activity; last pin conservative 1590.
+Q526613,Giovanni Fontana,1395,1455,1420;1440;1455,3,Bellicorum_instrumentorum;engineer_physician_treatises;death_c1455,medium,Treatise activity mid-15c; death ~1455.
+Q5392534,Ermolao Barbaro the Elder,1410,1471,1440;1460;1471,3,Venetian_humanist_translations,medium,Italy humanist
+Q55228138,Gherardo del Ciriagio,1412,1472,1450;1460;1470,3,signed_dated_Florentine_MSS_paleography;death_c1472,medium,Professional scribe dated MSS (textual production).
+Q587247,Antoine de la Sale,1385,1460,1440;1456;1460,3,standard_literary_chronology,high,Réconfort / Petit Jehan de Saintré; France literary
+Q957427,Georges Chastellain,1405,1475,1450;1460;1475,3,standard_literary_chronology,high,Indiciaire Burgundy; France/Burgundy literary peer
+Q5659931,Agostino Dati,1420,1478,1460;1471;1478,3,Elegantiolae_early_prints_Gallica;Siena_teacher;death_1478,medium,Epistolae/Elegantiolae tradition; mid/late pins conservative.
+Q579194,John Mair (Major),1467,1550,1509;1520;1530,3,pass_bi_2026-08-05,medium,Pass BI wyatt: Historia Majoris Britanniae / Paris teaching continuum; drop 1550 death terminus.
+Q599858,Antonio Beccadelli (Panormita),1394,1471,1425;1451;1471,3,Hermaphroditus_1425;Alfonso_court_secretary_historian;death_1471,high,Court poet/secretary literary-documentary to death.
+Q652097,Hector Boece,1465,1536,1520;1527;1533,3,pass_bh_2026-08-05,medium,Pass BH wyatt: Scotorum Historia continuum; drop 1536 death terminus.
+Q659093,Benedetto Dei,1418,1492,1456;1473;1492,3,Barducci_Cronica_1984;letter_corpus_1456-1492,high,Cronica 1473; letters continue to death.
+Q711964,Cristoforo Landino,1424,1498,1460;1481;1498,3,Camaldulensian_disputations;Dante_comm;death_1498,high,Florentine humanist
+Q712032,Francesco Barbaro,1390,1454,1415;1433;1454,3,De_re_uxoria_1415;Venetian_humanist_diplomat;death_1454,high,Early treatise + career to death.
+Q744014,Nicholas of Clamanges,1363,1437,1408;1420;1437,3,Opera_epistolary_reform;death_1437,high,Humanist treatises/letters (Baye pool).
+Q809500,Bartolomeo Facio,1400,1457,1446;1455;1457,3,De_viris_illustribus;Naples_humanist;death_1457,high,Italy humanist
+Q917090,"Joan of Valois, Queen of Navarre",1343,1373,1360;1370;1373,3,royal_correspondence_corpus,medium,Epistolary output pins for Philippe le Hardi France cell
+Q957527,John Colet,1467,1519,1496;1510;1519,3,Dean_St_Paul_lectures_letters;death_1519,high,English humanist divine
+Q965811,Roger Ascham,1515,1568,1545;1563;1568,3,densify_stonley_external_2026-08-02,high,Densify stonley_richard england humanist/clerk. ya45=8.
+Q3525572,Thomas Smith (diplomat),1513,1577,1548;1565;1577,3,densify_stonley_external_2026-08-02,high,Densify stonley_richard england clerk/humanist. ya45=19.
+Q354309,"William Cecil, 1st Baron Burghley",1520,1598,1550;1572;1598,3,densify_stonley_external_2026-08-02,high,Densify stonley_richard england clerk. ya45=33.
+Q608866,Nicholas Bacon,1510,1579,1558;1579,2,densify_stonley_external_2026-08-02,high,Densify stonley_richard england clerk. ya45=24.
+Q2336478,Thomas Wilson,1524,1581,1553;1570;1581,3,densify_stonley_external_2026-08-02,high,Densify stonley_richard
+Q37388,Francis Bacon,1561,1626,1597;1620;1625,3,densify_external_mine2_2026-08-02,high,Densify howard_william_naworth england humanist. ya45=20.
+Q1035378,Henry Spelman,1564,1641,1606;1641,2,densify_external_mine2_2026-08-02,high,Densify howard_william_naworth england humanist. ya45=32.
+Q333098,"Sir Robert Cotton, 1st Baronet, of Connington",1571,1631,1600;1631,2,densify_external_mine2_2026-08-02,high,Densify howard_william_naworth england humanist. ya45=15.
+Q236236,Oliver Goldsmith,1728,1774,1759;1766;1774,3,densify_external_mine2_2026-08-02,high,Densify cowper_william england humanist. ya45=1.
+Q165792,Edmund Burke,1729,1797,1756;1770;1797,3,densify_external_mine2_2026-08-02,high,Densify cowper_william england humanist. ya45=23.
+Q161841,Edward Gibbon,1737,1794,1761;1776;1794,3,densify_external_mine2_2026-08-02,high,Densify cowper_william england humanist. ya45=12.
+Q335060,James Boswell,1740,1795,1763;1791;1795,3,densify_external_mine2_2026-08-02,high,Densify cowper_william england humanist. ya45=10.
+Q3852414,Maurice Abbot,1565,1642,1600;1638;1642,3,densify_external_mine3_2026-08-02,medium,Densify jeffreys_joyce england merchant. ya45=32.
+Q6555592,"Lionel Cranfield, 1st Earl of Middlesex",1575,1645,1605;1621;1645,3,densify_external_mine3_2026-08-02,medium,Densify jeffreys_joyce england merchant. ya45=25.
+Q183266,Samuel Johnson,1709,1784,1738;1755;1781,3,densify_external_mine3_2026-08-02,high,Densify franklin_benjamin england humanist. ya45=30.
+Q37160,David Hume,1711,1776,1739;1754;1776,3,densify_external_mine3_2026-08-02,high,Densify franklin_benjamin england humanist. ya45=20.
+Q34190,Henry Fielding,1707,1754,1730;1749;1754,3,densify_external_mine3_2026-08-02,high,Densify franklin_benjamin england humanist. ya45=2.
+Q313498,Benjamin West,1738,1820,1760;1792;1820,3,densify_external_mine4_2026-08-02,high,Densify peale england artisan. ya45=37.
+Q316016,John Singleton Copley,1738,1815,1755;1778;1815,3,densify_external_mine4_2026-08-02,high,Densify peale england artisan. ya45=32.
+Q371280,George Romney,1734,1802,1757;1780;1799,3,densify_external_mine4_2026-08-02,high,Densify peale england artisan. ya45=20.
+Q123098,Angelica Kauffmann,1741,1807,1762;1768;1807,3,densify_external_mine4_2026-08-02,high,Densify peale england artisan. ya45=21.
+Q159636,Joseph Priestley,1733,1804,1761;1774;1804,3,densify_external_mine4_2026-08-02,high,Densify jefferson england humanist. ya45=26.
+Q334978,Jean Chapelain,1595,1674,1623;1656;1674,3,densify_external_mine5_2026-08-02,high,Densify voiture france humanist. ya45=34.
+Q1248124,Jean-Louis Guez de Balzac,1597,1654,1624;1644;1654,3,densify_external_mine5_2026-08-02,high,Densify voiture france humanist. ya45=12.
+Q1451213,François Tristan l'Hermite,1601,1655,1636;1645;1655,3,densify_external_mine5_2026-08-02,high,Densify voiture france humanist. ya45=9.
+Q9381,Adam Smith,1723,1790,1759;1776;1790,3,densify_external_mine5_2026-08-02,high,Densify dexter england humanist. ya45=22.
+Q6900893,Monkhouse Davison,1713,1793,1738;1769,2,pass_bc_death_terminus_strip_2026-08-05,medium,Pass BC: drop death 1793 terminus for output; mid pins only (tye densify).
+Q3471265,Samuel Whitbread,1720,1796,1742;1787,2,pass_bc_death_terminus_strip_2026-08-05,medium,Pass BC: drop death 1796 terminus for output; mid pins only (tye densify).
+Q333240,William Beckford,1709,1770,1747;1762,2,pass_bc_death_terminus_strip_2026-08-05,medium,Pass BC: drop death 1770 terminus for output; mid pins only (tye densify).
+Q7788650,Thomas Coutts,1735,1822,1761;1800;1822,3,densify_external_mine7_2026-08-02,medium,Densify jackson_ralph england merchant. ya45=42.
+Q3809383,John Julius Angerstein,1735,1823,1770;1806;1823,3,densify_external_mine7_2026-08-02,medium,Densify jackson_ralph england merchant. ya45=43.
+Q5565890,Francis Baring,1740,1810,1762;1793;1810,3,densify_external_mine7_2026-08-02,medium,Densify jackson_ralph england merchant. ya45=25.
+Q206384,Joseph Addison,1672,1719,1699;1711;1719,3,densify_external_mine8_2026-08-02,medium,Densify blundell england humanist.
+Q333148,Richard Steele,1671,1729,1701;1711;1729,3,densify_external_mine8_2026-08-02,medium,Densify blundell england humanist.
+Q41166,Jonathan Swift,1667,1745,1704;1726;1729,3,densify_external_mine8_2026-08-02,medium,Densify blundell england humanist.
+Q1256302,Matthew Prior,1664,1721,1688;1718;1721,3,densify_external_mine8_2026-08-02,medium,Densify blundell england humanist.
+Q2277355,Thomas Pitt,1653,1726,1674;1698;1726,3,densify_external_mine8_2026-08-02,medium,Densify jeake england merchant.
+Q514846,Elihu Yale,1649,1721,1671;1699;1721,3,densify_external_mine8_2026-08-02,medium,Densify jeake england merchant.
+Q3525181,Thomas Guy,1644,1724,1668;1721;1724,3,densify_external_mine8_2026-08-02,medium,Densify jeake england merchant.
+Q61814,"Joachim I Nestor, Elector of Brandenburg",1484,1535,1499;1535,2,densify_pass_ay_2026-08-05,medium,Densify albrecht_prussia hre ruler. Elector from 1499; admin/diplomatic docs to death. ya45=6.
+Q67712,John II of Simmern,1492,1557,1509;1557,2,densify_pass_ay_2026-08-05,medium,Densify albrecht_prussia hre ruler. Count Palatine admin continuum to death. ya45=20.
+Q32500,"Charles V, Holy Roman Emperor",1500,1558,1516;1545;1556,3,densify_pass_ay_2026-08-05,high,Densify albrecht_prussia hre ruler. King Spain 1516; imperial governance; abdication 1556. ya45=11.
+Q95239,Maria of Jever,1500,1575,1517;1575,2,densify_pass_ay_2026-08-05,medium,Densify albrecht_prussia hre ruler. Jever regency admin docs to death. ya45=30.
+Q3619484,Antonio D'Alessandro,1420,1498,1460;1498,2,densify_pass_az_2026-08-05,medium,Pass AZ: nearwork endpoints → output pins for thin italy cells. Densify cederni/policastro clerk-admin Italy. ya45=33.
+Q1217669,Cicco Simonetta,1410,1480,1450;1480,2,densify_pass_az_2026-08-05,high,Pass AZ: nearwork endpoints → output pins for thin italy cells. Densify policastro round2. ya45=25. | QID corrected R8-followup: Q1089042→Q12176
+Q41568767,Raffaele de' Cerchi,1401,1475,1426;1475,2,densify_pass_az_2026-08-05,medium,Pass AZ: nearwork endpoints → output pins for thin italy cells. Densify policastro round2. ya45=29.
+Q61472794,Paolo Boncambio,1401,1470,1426;1470,2,densify_pass_az_2026-08-05,medium,Pass AZ: nearwork endpoints → output pins for thin italy cells. Densify policastro round2. ya45=24.
+Q299663,Piero di Cosimo de' Medici,1416,1469,1461;1469,2,densify_pass_az_2026-08-05,high,Pass AZ: nearwork endpoints → output pins for thin italy cells. Densify ardingelli_bese italy merchant (Medici bank / civic docs). Short ya45=8.
+Q10946745,Andrea Barbarigo,1399,1449,1430;1449,2,densify_pass_az_2026-08-05,high,Pass AZ: nearwork endpoints → output pins for thin italy cells. Dense accounts 1430-34; Lane mercantile career to death. ya45=5.
+Q1646308,Tommaso Portinari,1427,1501,1465;1497,2,densify_pass_az_2026-08-05,high,Pass AZ: nearwork endpoints → output pins for thin italy cells. P2R2 densify strozzi. last pin conservative 1497. ya45=25.
+Q1236780,Francesco Sassetti,1421,1490,1450;1490,2,densify_pass_az_2026-08-05,high,Pass AZ: nearwork endpoints → output pins for thin italy cells. P2R2 densify strozzi_filippo. ya45=24.
+Q3388274,Pigello Portinari,1421,1468,1455;1468,2,densify_pass_az_2026-08-05,high,Pass AZ: nearwork endpoints → output pins for thin italy cells. ya45=2. | P2R2: confidence→high (Medici Bruges manager).
+Q461757,Jacques Cœur,1395,1456,1427;1451,2,densify_pass_ba_2026-08-05,medium,Pass BA densify. Pass BA: france admin peer for marzeliere; finance/admin documentary continuum (was non_textual_or_admin).
+Q3107535,Giovanni della Grossa,1388,1464,1420;1461,2,densify_pass_ba_2026-08-05,medium,Pass BA densify. Pass BA: add missing matched peer for marzeliere; chronicler/writer textual pins.
+Q111210803,Noël de Fribois,1400,1467,1459;1461,2,densify_pass_ba_2026-08-05,medium,Pass BA densify. Pass BA: add missing matched peer for marzeliere; Abrégé des Chroniques ~1459–61.
+Q3170939,Jean Bourré,1424,1506,1461;1506,2,densify_pass_ba_2026-08-05,medium,Pass BA densify. Pass BA: france clerk peer for hesselin; was non_textual_or_admin.
+Q288378,Olivier le Daim,1428,1484,1461;1484,2,densify_pass_ba_2026-08-05,medium,Pass BA densify. Pass BA: france clerk peer for hesselin; was non_textual_or_admin.
+Q2823945,Adam Fumée,1430,1494,1461;1494,2,densify_pass_ba_2026-08-05,medium,Pass BA densify. Pass BA: france clerk peer for hesselin; was non_textual_or_admin.
+Q3170994,Jean Briçonnet,1420,1493,1460;1493,2,densify_pass_ba_2026-08-05,medium,Pass BA densify. Pass BA: france clerk peer for hesselin; was unclassified_exclude.
+Q42027400,Jean III Robertet,1430,1492,1467;1492,2,densify_pass_ba_2026-08-05,medium,Pass BA densify. Pass BA: france clerk peer for hesselin; was non_textual_or_admin.
+Q725592,Cuthbert Tunstall,1474,1559,1511;1559,2,densify_pass_ba_2026-08-05,medium,Pass BA densify. Pass BA: england cleric peer for wolsey; was unclassified_exclude.
+Q6259279,John Stokesley,1475,1539,1520;1539,2,densify_pass_ba_2026-08-05,medium,Pass BA densify. Pass BA: england cleric peer for wolsey; was unclassified_exclude.
+Q5534459,Geoffrey Blythe,1470,1530,1503;1528,2,densify_pass_ba_2026-08-05,medium,Pass BA densify. Pass BA: england cleric peer for wolsey; was unclassified_exclude.
+Q1788686,Edward Lee,1482,1544,1531;1544,2,densify_pass_ba_2026-08-05,medium,Pass BA densify. Pass BA: england cleric peer for wolsey; was unclassified_exclude.
+Q2258968,Christopher Bainbridge,1464,1514,1508;1514,2,densify_pass_ba_2026-08-05,medium,Pass BA densify. Pass BA: england cleric peer for wolsey; was unclassified_exclude.
+Q716427,Jean Juvénal des Ursins,1388,1473,1413;1450;1473,3,densify_pass_ba_2026-08-05,high,Densify marzeliere france admin. Parlement/bishop/historian continuum. ya45=40.
+Q18917181,Osgood Hanbury,1731,1784,1758;1770;1784,3,pass_bc_lifespan_match_2026-08-05,medium,Pass BC jackson: inherit/continue tobacco after father d.1758; Hanbury bank 1770; d.1784. span45≈8.
+Q18530776,Richard Champion,1743,1791,1766;1774;1791,3,pass_bc_lifespan_match_2026-08-05,medium,Pass BC jackson: independent merchant ~1766; porcelain buyout 1774; d.1791 SC. span45≈3.
+Q18576880,Richard Oliver,1735,1784,1758;1770;1784,3,pass_bc_lifespan_match_2026-08-05,medium,Pass BC jackson: marriage/counting-house 1758; MP/alderman 1770; d.at sea 1784. span45≈4.
+Q18810672,Edward Haistwell,1658,1709,1677;1698,2,pass_bc_lifespan_match_2026-08-05,medium,Pass BC jeake: Fox amanuensis diary 1677–78; FRS 1698. Pass CM: drop death tip 1709 (only post-45 pin; symmetric Jeake death-tip drop). span45≈0.
+Q41784687,Samuel Heathcote,1656,1708,1691;1697,2,pass_bc_lifespan_match_2026-08-05,medium,Pass BC jeake: marriage 1691; 1697 merchant-company letter. Pass CM: drop death tip 1708 (only post-45 pin; symmetric Jeake). span45≈0.
+Q7787846,Thomas Brattle,1657,1713,1676;1692;1713,3,pass_bc_lifespan_match_2026-08-05,medium,Pass BC jeake: Harvard AB 1676; Salem letter 1692; treasurer to death 1713. span45≈11.
+Q823002,Bernardo Dovizi (Bibbiena),1470,1520,1513;1517;1520,3,pass_bd_lifespan_match_2026-08-05,medium,Pass BD leo_x: cardinal 1513; Urbino command 1517; d.1520. span45≈5.
+Q211133,Baldassarre Castiglione,1478,1529,1508;1528;1529,3,pass_bd_lifespan_match_2026-08-05,medium,Pass BD leo_x: early diplomatic/letter continuum; Courtier pub 1528; d.1529. span45≈6.
+Q1751281,Francesco Robortello,1516,1567,1548;1560;1567,3,pass_bd_lifespan_match_2026-08-05,medium,Pass BD domenichi: rhetoric/philology teaching+publishing; return Padua 1560; d.1567. span45≈6.
+Q66791624,Jordi de Centelles,1430,1496,1460;1480;1490,3,pass_be_iberia_hand_pins_2026-08-05,medium,Pass BE azevedo: Catalan court poet/translator mid pins (drop death-fallback).
+Q18745304,Vasco de Lucena,1435,1512,1460;1480;1495,3,pass_be_iberia_hand_pins_2026-08-05,medium,Pass BE azevedo: Portuguese translator/historiography mid pins.
+Q342392,Francisco Jiménez de Cisneros,1436,1517,1495;1507,2,pass_be_iberia_hand_pins_2026-08-05,medium,Pass BE azevedo: Cisneros reform/cardinal mid pins (drop late polyglot/death inflation).
+Q5672208,Ambrosio Montesino,1440,1514,1485;1500,2,pass_be_iberia_hand_pins_2026-08-05,medium,Pass BE azevedo: Montesino vernacular/translator mid pins (drop late death-adjacent).
+Q679093,Laurent de Premierfait,1370,1418,1400;1410;1418,3,pass_be_baye_premierfait_pins_2026-08-05,medium,Pass BE baye: Des cas / translation continuum to d.1418; short post-45.
+Q559213,Thomas Sydenham,1624,1689,1666;1676;1683,3,pass_bh_2026-08-05,medium,Pass BH pepys: Observationes Medicae continuum; mid pins (not death-fallback).
+Q43499,Desiderius Erasmus,1466,1536,1500;1511;1524,3,pass_bh_2026-08-05,medium,Pass BH pirckheimer: Adagia/Enchiridion/Praise of Folly era to Colloquia; drop death 1536 terminus.
+Q70053,Konrad Mutian,1471,1526,1509;1515;1521,3,pass_bh_2026-08-05,medium,Pass BH pirckheimer: Mutianus Rufus letter/humanist continuum; mid pins.
+Q1168956,Jodocus Trutfetter,1460,1519,1490;1504;1515,3,pass_bh_2026-08-05,medium,Pass BH pirckheimer: Erfurt logic/theology publishing mid pins.
+Q338876,Matthias Qualle,1470,1518,1500;1510;1518,3,pass_bh_2026-08-05,medium,Pass BH pirckheimer: short-lived humanist peer hand pins.
+Q744845,William Warham,1450,1532,1504;1515;1527,3,pass_bi_2026-08-05,medium,Pass BI wyatt: archbishop 1504; humanist/chancery continuum; mid pin 1527 (not d.1532).
+Q1101373,"William Cavendish, 1st Duke of Newcastle",1592,1676,1649;1658;1667,3,pass_bv_newcastle_literary_pins,medium,Pass BV densify bourchier: Country Captain 1649; Methode dresser chevaux 1658; New Method horses 1667. ya45=30.
+Q735697,John Selden,1584,1654,1614;1635;1650,3,pass_bv_selden_textual_pins,high,Pass BV overlay for bourchier england ruler/textual peer: Titles of Honor 1614; Mare Clausum 1635; De Synedriis 1650. ya45=21.
+Q232801,Anne of France (Beaujeu),1461,1522,1483;1504,2,pass_bw_anne_france_enseignements,high,Pass BW densify rene_ii: regency continuum + Enseignements ~1504. ya45=8.
+Q437423,Philippe de Commynes,1447,1511,1490;1498,2,pass_bw_rene_ii_textual_peers,high,Pass BW: Mémoires composition ~1490–98. ya45=6.
+Q2466849,Jean Molinet,1435,1507,1475;1493;1500,3,pass_bw_rene_ii_textual_peers,high,Pass BW: Burgundian chronicler/poet activity into 1500. ya45=20.
+Q60854,Johannes Valentinus Andreae,1586,1654,1616;1642;1649,3,pass_by_hre_textual_pins,high,Pass BY overlay for august hre ruler/textual peer. ya45=28.
+Q99371,Christopher Besoldus (Christoph Besold),1577,1638,1614;1630;1636,3,pass_by_hre_textual_pins,high,Pass BY overlay for august: Tübingen jurist pubs; drop death tip. ya45≈14.
+Q761023,August Buchner,1591,1661,1638;1650,2,pass_by_hre_textual_pins,high,Pass BY: Wittenberg rhetoric/poetry pins; drop death tip 1661. ya45≈14.
+Q259132,Robert Burton,1577,1640,1621;1628;1638,3,pass_bz_burton_anatomy_pins,high,Pass BZ overlay for bourchier: Anatomy of Melancholy 1621 + later living eds; drop death tip. ya45≈16.
+Q3531264,Tommaso Inghirami (Fedra),1470,1516,1510;1513;1516,3,WP_Vatican_Library_prefect_1510;conclave_secretary_1513;death_1516,high,Pass CD leo_x: Vatican librarian/orator; age@death≈46; span45≈1.
+Q1257744,Ortensio Lando (Landi),1512,1560,1545;1552;1560,3,WP_Paradossi_1545;Dialogo_1552;death_WD_1560,high,Pass CF domenichi: Milanese satirist/translator; age@death≈48; span45≈3.
+Q570021,Honoré Bonet (Bouvet),1350,1410,1387;1394;1398,3,Arbre_des_batailles_c1387;Somnium_Apparicion_1394;Valentine_Visconti_presentation_c1398,high,Pass CG philippe: Provençal Benedictine legal-chivalric author; drop death tip 1410. span45≈3.
+Q457915,Eustache Deschamps,1340,1406,1392;1400;1404,3,Art_de_dictier_1392;late_ballades_c1400;living_tip_1404,high,Pass CG philippe: court poet; Art de dictier 1392; drop death tip 1406 (post-Philippe). span45≈19.
+Q1413816,Filippo Beroaldo the Younger,1472,1518,1498;1515;1516,3,Bologna_teaching_1498;Tacitus_Annales_ed_1515;Vatican_librarian_1516,high,Pass CL leo_x: age@death≈46; Tacitus ed. 1515 + Vatican Library 1516; drop death tip 1518. span45≈0.
+Q1996629,Pedro Martínez de Osma,1427,1480,1463;1468;1479,3,pass_de_azevedo_iberia_2026-08-06,medium,Pass DE: theology chair 1463; Disputatio ~1468; De confessione 1479.
+Q11940951,Pere Daguí,1435,1500,1482;1491;1497,3,pass_de_azevedo_iberia_2026-08-06,medium,Pass DE: Janua artis 1482;1491;1497.
+Q104914,Johannes Marienwerder,1343,1417,1388;1400;1417,3,Teutonic theologian writing continuum; pins from nearwork first/mid/death.,medium,Pass DL output peer for knut_bosson
+Q95506,Nikolaus von Dinkelsbühl,1366,1433,1411;1420;1433,3,Vienna theologian / Constance orbit; scholarly continuum to death.,medium,Pass DL output peer for knut_bosson
+Q55133937,Ulrich Grünleder,1350,1421,1395;1410;1421,3,HRE theologian scholarly continuum to death.,medium,Pass DL output peer for knut_bosson
+Q522346,Jöns Gerekesson (Johannes Gerechini),1378,1433,1423;1430;1433,3,Uppsala archbishop admin continuum to 1433.,medium,Pass DL output peer for knut_bosson

@@ -1,7 +1,10 @@
-mode,subset,n_pairs_with_delta,median_delta,boot95_lo,boot95_hi,n_ge_5,n_ge_15,sesoi5,sesoi15,note
-primary,all_treatments,36,-0.75,-3.0,3.3,11,2,FAIL_OR_UNAVAILABLE,FAIL,PASS_RAW requires median≥threshold; sesoi5 also wants boot95_lo≥0
-primary,merchant_treatments,4,-1.5,-9.47,0.5,0,0,FAIL_OR_UNAVAILABLE,FAIL,PASS_RAW requires median≥threshold; sesoi5 also wants boot95_lo≥0
-all_curated,all_treatments,36,-0.25,-3.0,4.25,11,2,FAIL_OR_UNAVAILABLE,FAIL,PASS_RAW requires median≥threshold; sesoi5 also wants boot95_lo≥0
-all_curated,merchant_treatments,4,-4.74,-13.0,0.0,0,0,FAIL_OR_UNAVAILABLE,FAIL,PASS_RAW requires median≥threshold; sesoi5 also wants boot95_lo≥0
-high_only,all_treatments,31,-2.0,-5.0,3.0,9,4,FAIL_OR_UNAVAILABLE,FAIL,PASS_RAW requires median≥threshold; sesoi5 also wants boot95_lo≥0
-high_only,merchant_treatments,3,-3.0,-13.0,0.0,0,0,FAIL_OR_UNAVAILABLE,FAIL,PASS_RAW requires median≥threshold; sesoi5 also wants boot95_lo≥0
+mode,subset,n_pairs_with_delta,n_clusters,median_delta,boot95_lo,boot95_hi,n_ge_5,n_ge_15,share_delta_gt_0,sesoi5,sesoi15,note
+primary,all_treatments,60,42,3.0,-2.0,9.0,28,10,0.583,FAIL_OR_UNAVAILABLE,FAIL,cluster bootstrap over shared-control components; PASS_RAW requires median>=threshold and boot95_lo>=0 (sesoi5)
+primary,frozen_roster_2026_07_31,34,26,1.0,-3.0,5.6,11,2,0.5,FAIL_OR_UNAVAILABLE,FAIL,cluster bootstrap over shared-control components; PASS_RAW requires median>=threshold and boot95_lo>=0 (sesoi5)
+primary,merchant_treatments,4,3,-3.74,-6.5,0.0,0,0,0.0,FAIL_OR_UNAVAILABLE,FAIL,cluster bootstrap over shared-control components; PASS_RAW requires median>=threshold and boot95_lo>=0 (sesoi5)
+all_curated,all_treatments,61,43,4.0,-2.0,9.0,30,10,0.607,FAIL_OR_UNAVAILABLE,FAIL,cluster bootstrap over shared-control components; PASS_RAW requires median>=threshold and boot95_lo>=0 (sesoi5)
+all_curated,frozen_roster_2026_07_31,34,26,2.0,-3.0,6.0,12,2,0.529,FAIL_OR_UNAVAILABLE,FAIL,cluster bootstrap over shared-control components; PASS_RAW requires median>=threshold and boot95_lo>=0 (sesoi5)
+all_curated,merchant_treatments,4,3,-5.24,-11.0,0.0,0,0,0.0,FAIL_OR_UNAVAILABLE,FAIL,cluster bootstrap over shared-control components; PASS_RAW requires median>=threshold and boot95_lo>=0 (sesoi5)
+high_only,all_treatments,56,41,2.5,-3.75,10.0,26,10,0.518,FAIL_OR_UNAVAILABLE,FAIL,cluster bootstrap over shared-control components; PASS_RAW requires median>=threshold and boot95_lo>=0 (sesoi5)
+high_only,frozen_roster_2026_07_31,33,27,-3.0,-5.0,5.0,12,3,0.424,FAIL_OR_UNAVAILABLE,FAIL,cluster bootstrap over shared-control components; PASS_RAW requires median>=threshold and boot95_lo>=0 (sesoi5)
+high_only,merchant_treatments,3,2,-4.5,-6.5,0.0,0,0,0.0,FAIL_OR_UNAVAILABLE,FAIL,cluster bootstrap over shared-control components; PASS_RAW requires median>=threshold and boot95_lo>=0 (sesoi5)

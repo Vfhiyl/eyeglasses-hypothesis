@@ -1,0 +1,7 @@
+wearer_person_id,wearer_name,wearer_qid,control_qid,control_name,evidence_type,labor_use_in_primary,output_eligible,match_mode,severity
+cusanus,Nicholas of Cusa (Niccolò Cusano),Q154751,Q154751,Nicholas of Cusa,death_inventory_ownership,False,False,exact_qid,INACTIVE_ALIAS_NOTED
+pius_ii,Pope Pius II (Enea Silvio Piccolomini),Q162600,Q101437,Pius II (Enea Silvio Piccolomini),purchase_reading_lenses,False,False,name_exact,INACTIVE_ALIAS_NOTED
+locke_john,John Locke,Q9353,Q9353,John Locke,third_party_supply_letter,False,False,exact_qid,INACTIVE_ALIAS_NOTED
+rene_anjou,René of Anjou (René I),Q170353,Q170353,René of Anjou,purchase_personal_use,False,False,exact_qid,INACTIVE_ALIAS_NOTED
+priestley_joseph,Joseph Priestley,Q159636,Q159636,Joseph Priestley,surviving_personal_spectacles_artefact,False,False,exact_qid,INACTIVE_ALIAS_NOTED
+burke_edmund,Edmund Burke,Q165792,Q165792,Edmund Burke,portrait_wearing_spectacles,False,False,exact_qid,INACTIVE_ALIAS_NOTED

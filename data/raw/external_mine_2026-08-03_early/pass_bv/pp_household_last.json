@@ -1,0 +1,2824 @@
+{
+  "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785953607843",
+  "version": "1x7o",
+  "session_context": {
+    "session_key": "user__alanobrienterry918272@gmail.com",
+    "created": "2026-08-05T18:13:33Z",
+    "client_characterization": {
+      "characterized_by": "asserted_or_authenticated",
+      "preferred_client_ip": null,
+      "client_ip": "216.26.246.177:sra",
+      "preferred_client_useragent": null,
+      "client_useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36:sua",
+      "preferred_client_id": null,
+      "client_id": "alanobrienterry918272@gmail.com:sco"
+    },
+    "username": "alanobrienterry918272@gmail.com",
+    "authentication_method": "cookie",
+    "is_system": false,
+    "is_guest": false,
+    "is_user": true,
+    "is_archive_user": false,
+    "is_qualified": false,
+    "is_archivist": false,
+    "has_universal_privs": false,
+    "has_collection_priv": false,
+    "has_allowed_host_priv": false,
+    "has_vpn_host_priv": false,
+    "has_scan_center_priv": false,
+    "has_any_priv": false,
+    "has_any_priv_permissive": false,
+    "pps": {
+      "is_page_target_owner": false,
+      "contributed_review_on_page": false,
+      "full_text_search_override": false,
+      "sees_sensitive_fields": false
+    },
+    "pps_relevant_user_preferences": {
+      "display__blur_moderated_content": "on"
+    }
+  },
+  "request": {
+    "client_request_parameters": {
+      "client": "page_production_service_endpoint",
+      "user_query": "(spectacles OR spectacle OR \"pair of spectacles\" OR spectakles) AND (household OR accounts OR disbursements OR \"account book\" OR privy OR wardrobe)",
+      "hits_per_page": 50,
+      "page": 2,
+      "aggregations": [],
+      "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785953607843",
+      "client_url": "https://archive.org/search?query=%28spectacles+OR+spectacle+OR+%22pair+of+spectacles%22+OR+spectakles%29+AND+%28household+OR+accounts+OR+disbursements+OR+%22account+book%22+OR+privy+OR+wardrobe%29"
+    },
+    "backend_requests": {
+      "search": {
+        "root": "(self)",
+        "children": [
+          "collection_title_fetch__77f9e8cef8c5fe173a8e5afbed12595c"
+        ],
+        "request_type": "search",
+        "finalized_parameters": {
+          "client": "page_production_service_endpoint",
+          "user_query": "(redacted)",
+          "hits_per_page": 50,
+          "page": 2,
+          "aggregations": [],
+          "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785953607843",
+          "client_url": "https://archive.org/search?query=%28spectacles+OR+spectacle+OR+%22pair+of+spectacles%22+OR+spectakles%29+AND+%28household+OR+accounts+OR+disbursements+OR+%22account+book%22+OR+privy+OR+wardrobe%29",
+          "page_type": "search_results",
+          "fields": [
+            "_tile_"
+          ],
+          "sort": [
+            "_relevance_:desc",
+            "identifier"
+          ],
+          "aggregations_size": 10,
+          "service_backend": "metadata",
+          "scope": "standard",
+          "feature_flags": {
+            "complex_facets": true,
+            "collection_titles": true,
+            "redact_collections": true,
+            "redact_collections_by_privs": false,
+            "redact_empty_collections": true,
+            "redact_admin_collections": true,
+            "protect_flagging_collections": true
+          },
+          "service": "service__metadata__load_balanced"
+        }
+      },
+      "collection_title_fetch__77f9e8cef8c5fe173a8e5afbed12595c": {
+        "root": "search",
+        "parent": "search",
+        "request_type": "collection_title_fetch",
+        "finalized_parameters": {
+          "page_type": "document_fetch",
+          "user_query": "(redacted)",
+          "aggregations": [],
+          "caching": null,
+          "fields": [
+            "identifier",
+            "title"
+          ],
+          "search_as_system": true,
+          "page": 1,
+          "hits_per_page": 250,
+          "sort": [
+            "_efficient_"
+          ],
+          "service_backend": "metadata",
+          "scope": "ill,printdisabled_and_music,scancenter",
+          "service": "service__metadata__load_balanced"
+        }
+      }
+    }
+  },
+  "caching": {
+    "search": {
+      "name": "PPS-1x7o-J:US-RT:s~hit-T:sr-Q:6fd97249-P:2-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+      "acceptable_names": [
+        "PPS-1x7o-J:US-RT:s~std-T:sr-Q:6fd97249-P:2-B:mds-RS:sta~CS::P:0+CS:some+BR:1"
+      ],
+      "configuration": {
+        "requested": [],
+        "finalized": {
+          "bypass": false,
+          "recompute": false,
+          "no_compute": false,
+          "ttl_s": 300,
+          "max_age_s": 0,
+          "miss_policy": "none"
+        }
+      },
+      "utilization": {
+        "went_to_cache": true,
+        "alternates_allowed": true,
+        "hit_alternate": false,
+        "hit_canonical": false,
+        "hit": false,
+        "miss": true,
+        "recomputed": true,
+        "stored": true,
+        "acceptable_names_tried": [
+          "PPS-1x7o-J:US-RT:s~std-T:sr-Q:6fd97249-P:2-B:mds-RS:sta~CS::P:0+CS:some+BR:1"
+        ],
+        "elapsed_s": 1.3464610576629639
+      },
+      "statsd_bucket": "search.pps.cache.metadata.search_results"
+    },
+    "collection_title_fetch__77f9e8cef8c5fe173a8e5afbed12595c": {
+      "name": "PPS-1x7o-J:US-RT:ctf-T:df-Q:3ba7db6b-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1",
+      "acceptable_names": [],
+      "configuration": {
+        "requested": [],
+        "finalized": {
+          "bypass": false,
+          "recompute": false,
+          "no_compute": false,
+          "ttl_s": 300,
+          "max_age_s": 0,
+          "miss_policy": "none"
+        }
+      },
+      "utilization": {
+        "went_to_cache": true,
+        "alternates_allowed": true,
+        "hit_alternate": false,
+        "hit_canonical": false,
+        "hit": false,
+        "miss": true,
+        "recomputed": true,
+        "stored": true,
+        "elapsed_s": 0.3458130359649658
+      },
+      "statsd_bucket": "search.pps.cache.metadata.search_results"
+    },
+    "summary": {
+      "fetched": [],
+      "computed": [
+        "PPS-1x7o-J:US-RT:s~hit-T:sr-Q:6fd97249-P:2-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:US-RT:ctf-T:df-Q:3ba7db6b-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "stored": [
+        "PPS-1x7o-J:US-RT:s~hit-T:sr-Q:6fd97249-P:2-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:US-RT:ctf-T:df-Q:3ba7db6b-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "missed": [
+        "PPS-1x7o-J:US-RT:s~hit-T:sr-Q:6fd97249-P:2-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:US-RT:ctf-T:df-Q:3ba7db6b-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "bypassed": []
+    }
+  },
+  "elapsed_secs": 1.7256028652191162,
+  "response": {
+    "header": {
+      "succeeded": true,
+      "query_time": 657,
+      "forensics": {
+        "client_characterization": {
+          "client_ip": "216.26.246.177:sra",
+          "client_id": "alanobrienterry918272@gmail.com:sco",
+          "client_useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36:sua",
+          "preferred_client_ip": null,
+          "preferred_client_id": null,
+          "preferred_client_useragent": null,
+          "application_id": {
+            "session": [
+              "pageproduction"
+            ],
+            "request": []
+          },
+          "client_jurisdiction": "US",
+          "preferred_client_jurisdiction": null,
+          "actionable_jurisdiction": "US",
+          "characterized_by": "asserted_or_authenticated",
+          "ensured": true
+        },
+        "routing": {
+          "backend": "es-prod-metadatasearch-filtered",
+          "backend_server": "es-prod-client-n-04",
+          "routed_to_load_balanced": true,
+          "index_addressed": "prod-n-001"
+        },
+        "backend_request_elapsed_secs": {
+          "search": 1.3464610576629639,
+          "collection_title_fetch__77f9e8cef8c5fe173a8e5afbed12595c": 0.3458130359649658
+        }
+      },
+      "elapsed_secs_for_backend_requests": 1.6922740936279297
+    },
+    "body": {
+      "hits": {
+        "total": 346,
+        "returned": 50,
+        "hits": [
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "NPCM19290503",
+              "title": "China Mail 1929-05-03",
+              "description": "LORDS AND THE BALFOUR MEMO. LONG DEBATE. LORD BIRKENHEAD ON ITS \"REPUDIATION\". LABOUR AMENDMENT LOST. Revision Required. \"Slightly Better\". Affecting a Generation. Material and Moral. A Question. Labour Party's Attitude. Congratulations! MOTOR TAXATION. WHOLESALE CONDEMNATION IN THE COLONY. APPEAL TO A.A.? \"A Disgrace\". \"Shameful\". \"KAU SING\" FINDS A SUPPORTER. EXPERT OPINION. 'EXCELLENT FOR THE PURPOSE' OF RESCUE. WANTED --- A MAN! An Opposite View. Tug Master Required. 31 Out Of 33. Suicidal to Sell. HISTORICAL VASE FOR SALE. GREAT TREASURE. 29,000 GUINEAS BID IN 35 SECONDS. SIR J. BUTLER, M.P. PASSES AWAY AT A LONDON NURSING HOME. AN ACTIVE CAREER. DUKE OF GLOUCESTER IN JAPAN. REACHES TOKYO. HAS A WONDERFUL WELCOME FROM ALL CLASSES. PRESENTATION OF GARTER. The Duke's Thanks. Presentation of Garter. Splendid Assemblage. COURT MARTIAL. A K.O.S.B. CORPORAL IN COURT. CAPT. DOBBIE'S EVIDENCE. Corporals' Mess Payments. \"Duty and \"Employment\". \"Wait & See\". \"Not The Colonel\". Ignorant of...",
+              "subject": [
+                "德臣西報",
+                "德臣西报",
+                "China Mail"
+              ],
+              "collection": [
+                "china-mail",
+                "newspapers"
+              ],
+              "date": "1929-05-03T00:00:00Z",
+              "year": 1929,
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "item_size": 75701213,
+              "files_count": 16,
+              "downloads": 61,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2023-12-03T08:39:32Z",
+              "publicdate": "2023-12-03T08:39:32Z"
+            },
+            "highlight": null,
+            "_score": [
+              159.63623
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "vhsaa-154",
+              "title": "Unknown German program; History and Memory: For Akiko and Takashige (1991); Compilation of Shorts, \"Through the Lens 5\" (1995); Daily News, France 2 News (1995)",
+              "description": "Timestamps: 00:00:00 -- unknown German program (unknown year) 00:07:36 -- History and Memory: For Akiko and Takashige (1991) 00:39:50 -- Compilation of Shorts, \"Through the Lens 5\" (1995) 01:06:25 -- Daily News, France 2 News (1995) Note: There are English subtitles where French is spoken. Unknown German program (unknown year) Please contact us if you know anything about this program! History and Memory: For Akiko and Takashige (1991) Groundbreaking and haunting, this film is a poetic composition of recorded history and non-recorded memory. Filmmaker Rea Tajiri’s family was among the 120,000 Japanese and Japanese Americans who were imprisoned in internment camps after the attack on Pearl Harbor. And like so many who were in the camps, Tajiri’s family wrapped their memories of that experience in a shroud of silence and forgetting. Ruminating on the difficult nature of representing the past – especially a past that exists outside traditional historic accounts – Tajiri blends interviews,...",
+              "subject": [
+                "war",
+                "race and culture",
+                "World War II",
+                "France",
+                "television",
+                "Japanese American",
+                "family",
+                "gender"
+              ],
+              "creator": [
+                "Tajiri, Rea",
+                "Gilbert, Charlene"
+              ],
+              "collection": [
+                "vhs-activism-archive",
+                "lgbtcenterofny_202604",
+                "community-webs"
+              ],
+              "date": "1991-01-01T00:00:00Z",
+              "year": 1991,
+              "language": [
+                "English",
+                "French",
+                "German"
+              ],
+              "mediatype": "movies",
+              "item_size": 2404915903,
+              "files_count": 80,
+              "downloads": 0,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2026-06-29T03:50:36Z",
+              "publicdate": "2026-06-29T03:50:36Z"
+            },
+            "highlight": null,
+            "_score": [
+              153.99707
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "alivsinokiforgot0000gros",
+              "title": "Ali vs. Inoki : the forgotten fight that inspired mixed martial arts and launched sports entertainment",
+              "description": "1 online resource",
+              "subject": [
+                "Ali, Muhammad, 1942-2016",
+                "Inoki, Antonio",
+                "Boxing",
+                "Boxing matches",
+                "Mixed martial arts",
+                "BIOGRAPHY & AUTOBIOGRAPHY -- Sports",
+                "SPORTS & RECREATION -- Martial Arts & Self-Defense",
+                "SPORTS & RECREATION -- Boxing",
+                "SPORTS & RECREATION -- History",
+                "GAMES -- Gambling -- Sports",
+                "SPORTS & RECREATION -- Business Aspects",
+                "SPORTS & RECREATION -- Essays",
+                "SPORTS & RECREATION -- Reference",
+                "TRAVEL -- Special Interest -- Sports"
+              ],
+              "creator": [
+                "Gross, Josh"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "2016-01-01T00:00:00Z",
+              "year": 2016,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 23,
+              "item_size": 542546663,
+              "files_count": 31,
+              "downloads": 162,
+              "week": 3,
+              "month": 7,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_browse",
+              "addeddate": "2022-01-01T14:29:09Z",
+              "publicdate": "2021-09-30T18:53:37Z"
+            },
+            "highlight": null,
+            "_score": [
+              152.87534
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "The_Emperors_New_Healing_How_Charismatic_Leaders_Fake_Miracles__Chino_Ross__Podcast_Episode_357",
+              "title": "The Emperor’s New Healing: How Charismatic Leaders Fake Miracles - Chino Ross - Podcast Episode 357",
+              "description": "John and Chino discuss the long-running charismatic healing ritual known as leg lengthening, using the life of Hobart Freeman as a case study in contradiction. Despite Freeman’s teachings that God could lengthen limbs through faith, he lived with a visibly shortened leg from childhood polio and wore orthopedic shoes throughout his life. The hosts explore the irony and inconsistency of his ministry, sharing personal stories, scriptural comparisons, and insights into the psychological manipulation often used in faith healing services. The discussion spans both personal experience and public spectacle, unpacking the difference between genuine belief and deceptive theatrics. They examine the roots of these practices in the Latter Rain and Charismatic movements, comparing them to biblical healing accounts and exposing common tricks used by ministers to manufacture the illusion of miracles. Legends, stagecraft, and emotionally charged testimonies are critically analyzed alongside humorous...",
+              "subject": [
+                "williambranham",
+                "pentecostal",
+                "nar",
+                "latterrain",
+                "wof",
+                "cult",
+                "evangelical"
+              ],
+              "creator": [
+                "John Collins"
+              ],
+              "collection": [
+                "podcasts-video"
+              ],
+              "mediatype": "movies",
+              "item_size": 1297668275,
+              "files_count": 70,
+              "downloads": 27,
+              "week": 0,
+              "month": 3,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2025-07-09T02:14:47Z",
+              "publicdate": "2025-07-09T02:14:47Z"
+            },
+            "highlight": null,
+            "_score": [
+              149.78485
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "rgclkiqr5nmrwqdjtypwbqftadtp2gr7xag96myl",
+              "title": "Rational Security: The \"Alan and the Owl\" Edition",
+              "description": "This week on Rational Security, Lawfare Managing Editor Tyler McBrien joined Alan, Quinta, and Scott to discuss the week's big national security news, including:\\\"Operation Humbled Drop.\\\" After months of unsuccessfully pushing the Israeli government to allow more aid into besieged Gaza, the Biden administration has taken matters into its own hands and begun airlifting it in itself. But are its efforts just for show, or a sign that it is abandoning its \\\"bear hug\\\" approach to Israeli Prime Minister Bibi Netanyahu? And what will it mean for the flow of U.S. assistance to Israel, especially given legal restrictions Israel's actions arguably violate? \\\"Sound (Legal Reasoning) and Fury(ous Agreement).\\\" This week, the Supreme Court surprised no one by unanimously reversing the Colorado Supreme Court and holding that former President Trump cannot be kept off the 2024 ballot there for having committed insurrection through his involvement in Jan. 6-a move the justices had strongly...",
+              "subject": [
+                "Podcast",
+                "nationalsecurity",
+                "law",
+                "intelligence",
+                "terrorism",
+                "ruleoflaw",
+                "military",
+                "history",
+                "foreignpolicy",
+                "internationalrelations",
+                "internationallaw",
+                "currentevents",
+                "diplomacy",
+                "constitutionallaw"
+              ],
+              "creator": [
+                "The Lawfare Podcast"
+              ],
+              "collection": [
+                "podcasts_mirror_bobarchives",
+                "podcasts_mirror"
+              ],
+              "date": "2024-03-10T00:00:00Z",
+              "year": 2024,
+              "mediatype": "audio",
+              "item_size": 77613139,
+              "files_count": 10,
+              "downloads": 1,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2024-03-30T06:17:52Z",
+              "publicdate": "2024-03-30T06:17:52Z"
+            },
+            "highlight": null,
+            "_score": [
+              149.53716
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "CHR_1909031801",
+              "title": "Claresholm review (1909-03-18)",
+              "description": "Page 1: - Why be in the Opposition Ranks - Notes of the Campaign - The Railway Policy Page 2: - The Opal Serpent - Ma Meant Well Anyway - Jurt at the Theater - Dignity of Ownership - A Whistler Dinne - Queen Trunk Problem - Napoleon's Bible - Strategy - Eternal Fitness - The Poor Sheep - Land of the Crossbow - Drank and Remembered - Where Willie Was - Sympathy for the Orphans - Modern Version - The Knocking - The Sunday School Page 3: - Same Old Exception - Local News - Local News - Local News - Local News - Privy Council's Work - The Chamber of Shipping - Indians Suffering - To Work Graham Island - Winnipeg's Growth - Lots of Land Yet - Try This for Your Cough - Briet Conversation - Just So - Local News - How He Managed It - Local News - Local News - The Greyhound - Etruscan Vases - Where the Cost Comes In - Labor Lost - The Rule - Does Not Need a Doctor - Local News - Better than Spanking - Local News - Aged Lions - Encounters with Cabbies - \"The Adonis of the House\" - Self-Made...",
+              "subject": [
+                "Claresholm review"
+              ],
+              "collection": [
+                "peel_newspapers",
+                "peel",
+                "university_of_alberta_libraries"
+              ],
+              "date": "1909-03-18T00:00:00Z",
+              "year": 1909,
+              "genre": [
+                "Newspaper"
+              ],
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "item_size": 98555815,
+              "files_count": 19,
+              "downloads": 59,
+              "week": 1,
+              "month": 3,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2022-09-10T05:17:16Z",
+              "publicdate": "2022-09-10T05:17:16Z"
+            },
+            "highlight": null,
+            "_score": [
+              148.2441
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "holiday-v-01-n-01-1946-03",
+              "title": "Holiday v01 n01 [1946-03]",
+              "description": "Holiday v01 n01 [1946-03] CONTENTS:   Places to Go ROUND THE WORLD. . .You’ll have more time for fun than the air trail blazers                      Frederick C. Othman 19 SAN FRANCISCO. .War has made changes, but the Bay area has lost none of its charm               Frank J. Taylor 23 MAGNET OF MIDDLE AMERICA   Discerning trav­elers are eying Guatemala               Thurston Hatcher 40 THE WORLD TO CHOOSE FROM . . Explorer Andrews suggests some vacation places               Richard L. Field 44 LAKE MAKERS. . Reclamation projects are creating play areas where Nature fumbled               Lars Morris 46 ROADS TO TOMORROW. . How modern highway design will ease long-distance traffic jams       William Carter 58 CLIFF DWELLERS               The riddle of a vanished people awaits exploration           Oren Arnold 67 MARDI GRAS MAGIC . . . Hints on a compact wardrobe for a gala week in New Orleans               Cecile Nation 91   Things to Do SAIL THE SOUND IN DINGHIES. This versatile craft...",
+              "subject": [
+                "Holiday",
+                "travel",
+                "magazine",
+                "1946"
+              ],
+              "collection": [
+                "travelmagazinesmisc",
+                "travelmagazines",
+                "magazine_rack"
+              ],
+              "date": "1946-03-01T00:00:00Z",
+              "year": 1946,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 1,
+              "item_size": 667482379,
+              "files_count": 16,
+              "downloads": 1098,
+              "week": 9,
+              "month": 48,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2021-01-01T11:54:38Z",
+              "publicdate": "2021-01-01T11:54:38Z"
+            },
+            "highlight": null,
+            "_score": [
+              147.19293
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "isbn_9780007974344",
+              "title": "Catastrophe 1914 : Europe goes to war",
+              "description": "xxxvii, 628 pages : 25 cm",
+              "subject": [
+                "World War, 1914-1918 -- Causes",
+                "HISTORY -- Military -- World War I",
+                "HISTORY -- Europe -- General",
+                "HISTORY -- Modern -- 20th Century",
+                "War -- Causes",
+                "Kriegsbeginn",
+                "Weltkrieg 1914-1918",
+                "Europe -- History -- July Crisis, 1914",
+                "Europe",
+                "Europe -- History"
+              ],
+              "creator": [
+                "Hastings, Max"
+              ],
+              "collection": [
+                "internetarchivebooks"
+              ],
+              "date": "2013-01-01T00:00:00Z",
+              "year": 2013,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 8,
+              "item_size": 1380891187,
+              "files_count": 32,
+              "downloads": 155,
+              "week": 2,
+              "month": 6,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "addeddate": "2020-12-15T12:01:28Z",
+              "source": "removed",
+              "publicdate": "2020-06-03T03:56:41Z"
+            },
+            "highlight": null,
+            "_score": [
+              147.1542
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "NPDP19320721",
+              "title": "Hong Kong Daily Press 1932-07-21",
+              "description": "THE FIVE DAY WEEK. AMERICAN PLAN FOR SHARING OUT WORK. BETTER THAN DISPENSING CHARITY TO UNEMPLOYED. Fear of \"Dole.\" TOKYO SUICIDE RECORD. AVERAGE DAILY DEATH RATE OF 5.8. A Constructive Proposal. DIARY OF LOCAL EVENTS. Depression's Effect. COMMUNIST SUPPESSION. MANCHU METHODS TO BE ADOPTED. Civil Volunteer Corps. POSTAL SERVICE IN MANCHURIA. SPECULATION ON ATTITUDE OF EMPLOYEES. JAPAN'S INFLUENCE INCREASES. Japanese Advisers. MEMORIAL SERVICE TO SILK WORMS. IDEA ORIGINATED WITH TOKYO JAPANESE BUSINESSMAN. UNCLAIMED TELEGRAMS. AT THE GREAT NORTHERN TELEGRAPH CO,. LTD. HONG KONG STOCK MARKET. YESATERDAY'S OFFICIAL QUOTATIONS. EX-ENEMIES MEET AS FRIENDS. GERMAN AIR \"ACES\" IN ENGLAND. SEARCH FOR BRITISH \"SPORTSMAN\". SERVICES BILLARDS. DATES OF FINAL MATCHES. OLDEST POEMS OF ENGLAND. FACSIMILE EDITIONS OF EXETER BOOK TO BE REPRODUCED. THE TRAGEDY OF POCHOW. VICTIM OF LOOTING AND FAMINE. BOMBS SENT TO COAL DEALERS. \"PRESENTS\" DELIVERED BY SAME MESSENGER. MYSTERIOUS AFFAIR IN SHANGHAI. More...",
+              "subject": [
+                "孖剌西報",
+                "孖剌西报",
+                "Hong Kong Daily Press"
+              ],
+              "collection": [
+                "china-mail",
+                "newspapers"
+              ],
+              "date": "1932-07-21T00:00:00Z",
+              "year": 1932,
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "item_size": 76317837,
+              "files_count": 16,
+              "downloads": 52,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2023-12-09T01:54:34Z",
+              "publicdate": "2023-12-09T01:54:34Z"
+            },
+            "highlight": null,
+            "_score": [
+              139.98605
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "NPDP19230918",
+              "title": "Hong Kong Daily Press 1923-09-18",
+              "description": "THE EARTHQUAKE IN JAPAN. MORE STORIES BY SURVIVORS. A NARRATIVE BY CAPTAIN W. E. KENT. A LIST OF SURVIVORS. HOW THE \"EMPRESS OF AUSTRALIA\" SAVED. A THRILLING NARRATIVE BY CAPTAIN KENT. EVERYTHING BLOTTED OUT. THE \"AUSTRALIA\" HELPLESS. THE PIER ON FIRE. BARES ABLAZE. AN APPALLING SPECTACLE. FRESH DANGER. PRAISE FOR THE \"NDRE LEBON.\" WOMANLY PRESENCE OF MIND. THE DEATH OF THE FRENCH CONSUL. A CITY IN FLAMES. EXPERIENCES AT MIYAROSHITA. THE INITIAL SHOCK. A NIGHT IN THE OPEN. MIYANOSHITA TO HAKONE. NKW HOTEL DEMOLISHED. LATEST LIST OF AMERICAN DEAD. FOREIGN SURVIVORS ON EMPRESS OF CANADA. THE LOONG SANG. THE PROSPECTS OF SALVAGE. JAPANESE SARTHQUAKE DISASTER. HONGKONG RELIEF FUND COMMITTEE. MINUTES. ACCOUNTS. CORRESPONDENCE WITH THE JAPANESE CONSUL-GENERAL. SITUATION REVIEWED. FIEUZAL GLASSES. THE \"LOONG SANG\" ENQUIRY. WEDDIN. PEOPLES-SIMPSON. MRS. T. MCREYNOLDS. HIGHWAY ROBBERY. DARING AFFAIR IN STURBS ROAD. TAXIS ON THE STREETS. TROUBLE IN THE BALKSNS? OMINOUS CONCENTRATION TO TROOPS....",
+              "subject": [
+                "孖剌西報",
+                "孖剌西报",
+                "Hong Kong Daily Press"
+              ],
+              "collection": [
+                "china-mail",
+                "newspapers"
+              ],
+              "date": "1923-09-18T00:00:00Z",
+              "year": 1923,
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "item_size": 65658197,
+              "files_count": 16,
+              "downloads": 57,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2023-12-10T13:12:06Z",
+              "publicdate": "2023-12-10T13:12:06Z"
+            },
+            "highlight": null,
+            "_score": [
+              139.19449
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "cambridgehistory0000unse_w0g5",
+              "title": "The Cambridge history of modernism",
+              "description": "xxxiii, 929 pages : 24 cm",
+              "subject": [
+                "Modernism (Literature)",
+                "Literature, Modern -- 20th century -- History and criticism",
+                "Literature, Modern -- 19th century -- History and criticism",
+                "Modernism (Aesthetics)",
+                "Modernism (Art)",
+                "Modernism (Music)",
+                "Modern movement (Architecture)",
+                "Arts and society -- History -- 20th century",
+                "Arts and society",
+                "Literature, Modern",
+                "Ästhetik",
+                "Künste",
+                "Literatur",
+                "Moderne",
+                "Literature"
+              ],
+              "collection": [
+                "internetarchivebooks"
+              ],
+              "date": "2016-01-01T00:00:00Z",
+              "year": 2016,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 78,
+              "item_size": 2437231177,
+              "files_count": 30,
+              "downloads": 1099,
+              "week": 3,
+              "month": 11,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_printdisabled",
+              "addeddate": "2022-01-24T15:02:37Z",
+              "source": "removed",
+              "publicdate": "2022-01-20T04:47:11Z"
+            },
+            "highlight": null,
+            "_score": [
+              135.81923
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "TheVistaGroup-RomeVaticanCatacombsIn90Minutes",
+              "title": "1980s VHS • Rome, Vatican, Catacombs, in 90 Minutes 60 FPS",
+              "description": "Rome, Vatican, Catacombs in 90 Minutes is a documentary tour of Rome's major monuments organized around the city's historic fountains as connecting landmarks. The program opens with ancient accounts of Rome's water abundance from Cassiodorus, Frontinus, and the younger Pliny, and proceeds through Hadrian's Villa at Tivoli, the Roman Forum, the Palatine Hill, the Colosseum, the ancient aqueducts and the Castel Sant'Angelo, the Pantheon, the Piazza del Campidoglio and Michelangelo's design, and Renaissance fountain works by Giacomo della Porta. The second half covers St. Peter's Basilica and Bernini's colonnade, the Raphael Rooms in the Vatican, the Sistine Chapel, Piazza Navona and Bernini's Four Rivers Fountain, the Circus Maximus, Piazza di Spagna and the Spanish Steps, the four great basilicas, the Villa Borghese and its gallery, the Appian Way and its consular tombs, and the Catacombs of San Callisto and Santa Domitilla, with commentary on early Christian art, the Crypt of the...",
+              "subject": [
+                "vhs"
+              ],
+              "creator": [
+                "The Vista Group®"
+              ],
+              "collection": [
+                "the-vista-group-video",
+                "vhsvault"
+              ],
+              "date": "1980-01-01T00:00:00Z",
+              "year": 1980,
+              "language": [
+                "English"
+              ],
+              "mediatype": "movies",
+              "num_favorites": 13,
+              "item_size": 8658240698,
+              "files_count": 85,
+              "downloads": 719,
+              "week": 10,
+              "month": 27,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2019-07-28T04:28:55Z",
+              "publicdate": "2019-07-28T04:28:55Z"
+            },
+            "highlight": null,
+            "_score": [
+              133.34357
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "childhoodconsume0000unse",
+              "title": "Childhood and consumer culture",
+              "description": "xiii, 266 pages ; 23 cm",
+              "subject": [
+                "Child consumers",
+                "Consumption (Economics) -- Sociological aspects"
+              ],
+              "collection": [
+                "internetarchivebooks"
+              ],
+              "date": "2014-01-01T00:00:00Z",
+              "year": 2014,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 3,
+              "item_size": 865299618,
+              "files_count": 30,
+              "downloads": 46,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_printdisabled",
+              "addeddate": "2022-03-29T00:34:55Z",
+              "source": "removed",
+              "publicdate": "2022-03-22T19:35:41Z"
+            },
+            "highlight": null,
+            "_score": [
+              129.14786
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "NPCM19261122",
+              "title": "China Mail 1926-11-22",
+              "description": "\"SUNNING\" PIRACY. Accused Men Before Court. STRANGE SPECTACLE. Coolies With Bloodstained Clothing. Wording of the Charge. ROYAL VISITORS. Sweden's Crown Prince Here. IMPRESSIONS OF HONG KONG. \"But it Is Indeed a Beauty Spot.\" \"ONE OF MY BOYS.\" DET. SERGEANT AND A WAIF. WIFE'S PROPERTY? Bailiffs And Tenant's Rent. TO-DAY'S FULL COURT. European In Important Proceedings. Wife's Affidavit. Property Exempt. OBITUARY. MATRON OF SINGAPORE HOSPITAL. MAKING MISCHIEF. Latest Red Russian Propaganda. \"IMPERIALIST TERRORISM.\" Plans to Exploit Trouble in China. Red Money for Java. ENORMOUS TIGER. \"NIBBLING\" AT GOLF CADDIES. WUCHOW EXCITEMENT. Huge Wild Boar. \"INGENIOUS.\" EXCUSE THAT AMUSED MAGISTRATE. MORE MINERS BACK. Fifty Thousand Last Week. TOTAL NOW 370,000. Still More to Return This Week? EARLIER MESSAGES. Profit Sharing. Notts Agreement. LOCAL IMPORTS. CHAMBER'S FORTNIGHTLY REPORT. PIECE GOODS NOTES. JAPAN'S BUDGET. SINO-JAPANESE TRADE. MANDATES. VIEWS OF BRITAIN AND THE DOMINIONS. DRUG...",
+              "subject": [
+                "德臣西報",
+                "德臣西报",
+                "China Mail"
+              ],
+              "collection": [
+                "china-mail",
+                "newspapers"
+              ],
+              "date": "1926-11-22T00:00:00Z",
+              "year": 1926,
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "item_size": 71948744,
+              "files_count": 16,
+              "downloads": 67,
+              "week": 1,
+              "month": 3,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2023-12-02T22:42:51Z",
+              "publicdate": "2023-12-02T22:42:51Z"
+            },
+            "highlight": null,
+            "_score": [
+              128.3882
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "catastropheeurop0000hast",
+              "title": "Catastrophe : Europe goes to war 1914",
+              "description": "xxxvii, 628 pages, 32 unnumbered pages of plates : 24 cm",
+              "subject": [
+                "July Crisis (Europe : 1914)",
+                "World War, 1914-1918 -- Causes",
+                "Photographie de guerre",
+                "Art et guerre",
+                "Guerre mondiale, 1914-1918 -- Causes",
+                "Mil neuf cent quatorze",
+                "Guerre mondiale, 1914-1918 -- Histoire diplomatique",
+                "War -- Causes",
+                "Warfare and Defence",
+                "Europe -- History -- July Crisis, 1914",
+                "Europe"
+              ],
+              "creator": [
+                "Hastings, Max, author"
+              ],
+              "collection": [
+                "internetarchivebooks"
+              ],
+              "date": "2013-01-01T00:00:00Z",
+              "year": 2013,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 26,
+              "item_size": 1729059663,
+              "files_count": 31,
+              "downloads": 955,
+              "week": 4,
+              "month": 17,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_printdisabled",
+              "addeddate": "2020-06-15T09:02:41Z",
+              "source": "removed",
+              "publicdate": "2020-06-01T22:33:12Z"
+            },
+            "highlight": null,
+            "_score": [
+              127.59428
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "catastropheeurop0940hast_has311",
+              "title": "Catastrophe : Europe goes to war 1914",
+              "description": "xxxvii, 628 pages, 32 unnumbered pages of plates : 24 cm",
+              "subject": [
+                "World War, 1914-1918 -- Causes",
+                "Photographie de guerre",
+                "Art et guerre",
+                "Guerre mondiale, 1914-1918 -- Causes",
+                "Mil neuf cent quatorze",
+                "Guerre mondiale, 1914-1918 -- Histoire diplomatique",
+                "War -- Causes",
+                "Warfare and Defence",
+                "Europe -- History -- July Crisis, 1914",
+                "Europe"
+              ],
+              "creator": [
+                "Hastings, Max, author"
+              ],
+              "collection": [
+                "internetarchivebooks"
+              ],
+              "date": "2013-01-01T00:00:00Z",
+              "year": 2013,
+              "volume": "940",
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 9,
+              "item_size": 1842298071,
+              "files_count": 31,
+              "downloads": 266,
+              "week": 2,
+              "month": 6,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_printdisabled",
+              "addeddate": "2020-09-03T22:00:49Z",
+              "source": "removed",
+              "publicdate": "2020-08-28T22:50:11Z"
+            },
+            "highlight": null,
+            "_score": [
+              126.70247
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "SCC_1907060701",
+              "title": "The Strathcona chronicle (1907-06-07)",
+              "description": "Page 1: - City Council - Banqueted Popular Man - Medicine Hat's Courtesies to Calgary - Sanh Lime Brick Works - Cutting down Expenses Page 2: - Beverly of Graustark - The Old Fashioned [Illegible] Girl - webster's Compliment - The Snob - The Letter A - Bacheler [Illegible] - Old Bookmarks - Then She Got [Illegible] - Getting Hack at him - Sugar - The Etruscans - When 6 Remedies Had Failed - No Difference - Local News - Local News - Alexander's Epitaph - A Fearful Duel - Mustered The - Why He Wanted an Autograph - Reasonable Request - The Combination - Famous Gamblers - He Died Fighting - Some Old Wills - A Problem is Life - Good and Oagood - Man is Blame - Let the as Grow In - Caviare - Rheumatic Agony - Confused the Elevator Man - Drink More, Eat Less - A Puzzled Author - Local News - Local News - Local News - Local News Page 3: - Two Losses, Plus - A Lost Play - Auts That Kili Snakes - Always Flashing - The Art of Budding - Floor for a Sheep Pen - Connemara's Ireland - Large Hog...",
+              "subject": [
+                "Strathcona chronicle"
+              ],
+              "collection": [
+                "peel_newspapers",
+                "peel",
+                "university_of_alberta_libraries"
+              ],
+              "date": "1907-06-07T00:00:00Z",
+              "year": 1907,
+              "genre": [
+                "Newspaper"
+              ],
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "item_size": 81148667,
+              "files_count": 19,
+              "downloads": 86,
+              "week": 0,
+              "month": 4,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2023-02-24T17:44:50Z",
+              "publicdate": "2023-02-24T17:44:50Z"
+            },
+            "highlight": null,
+            "_score": [
+              125.30743
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "RDM_1906073101",
+              "title": "News (1906-07-31)",
+              "description": "Page 1: - Card of Thanks - Fruitful Country Still Unsettled - Department of Agriculture at the Fairs - More Horses - Macleod Unites with Calgary - Ready to Begin Work on New Farm - Markets Page 2: - Card of Thanks - Fruitful Country Still Unsettled - Department of Agriculture at the Fairs - More Horses - Macleod Unites with Calgary - Ready to Begin Work on New Farm - Markets Page 3: - Cupid in Town - The Carlbon as a Swimmer - The Terrible Cockatrice - Beau of Fort Sheridan - Local News - Rearing the Chicks - Prize Wining Wyandotte - Cooking Food for Fowls - Hens in Winter - Keep Poultry Houses Clean - Feather Pulling - Feeding Damaged Grain - A Costly Fad - Honesty - Selections - A Famous Old Castle - Stoessel's Ordeal - Last of the Millets - The Telemobiloscope - An Emergency Cow - Bails 'Em Out - Bad Arguments - New York Criticized - Splendid, but Bathless - Up in the Air - Against Dynamite - England's Oldest Postmaster - Base Deceiver - Modern Version - Piracy and Proposal - How...",
+              "subject": [
+                "News [Red Deer, Alta.]"
+              ],
+              "collection": [
+                "peel_newspapers",
+                "peel",
+                "university_of_alberta_libraries"
+              ],
+              "date": "1906-07-31T00:00:00Z",
+              "year": 1906,
+              "genre": [
+                "Newspaper"
+              ],
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 1,
+              "item_size": 142926662,
+              "files_count": 19,
+              "downloads": 53,
+              "week": 1,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2023-09-07T18:51:05Z",
+              "publicdate": "2023-09-07T18:51:05Z"
+            },
+            "highlight": null,
+            "_score": [
+              123.99512
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "Miracles_or_Cheap_Magic_Examining_Words_of_Knowledge__Chino_Ross__Podcast_Episode_295",
+              "title": "Miracles or Cheap Magic: Examining Words of Knowledge - Chino Ross - Podcast Episode 295",
+              "description": "Support the show: https://www.patreon.com/branham Available on Spotify, Google, and Apple Podcasts: https://william-branham.org/podcast Weaponized Religion: From Christian Identity to the NAR: Paperback: https://www.amazon.com/dp/1735160962 Kindle: https://www.amazon.com/dp/B0DCGGZX3K Chino's YouTube Channel: https://www.youtube.com/@chinodross John and Chino discuss the historical and theological implications of faith healing movements, focusing on figures like William Branham and Hobart Freeman. They explore how these ministries employed practices such as “words of knowledge” and faith-based healing, often in ways that raised questions about transparency and authenticity. The conversation highlights the critical role of discernment, demythologizing charismatic movements, and the importance of comparing such practices to biblical accounts of healing. They analyze the famous “halo photograph” of Branham, debunking its supernatural claims by explaining the photographic effect...",
+              "subject": [
+                "williambranham",
+                "pentecostal",
+                "nar",
+                "latterrain",
+                "wof",
+                "cult",
+                "evangelical"
+              ],
+              "creator": [
+                "John Collins"
+              ],
+              "collection": [
+                "podcasts-video"
+              ],
+              "mediatype": "movies",
+              "item_size": 964131464,
+              "files_count": 63,
+              "downloads": 120,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2025-03-24T13:08:10Z",
+              "publicdate": "2025-03-24T13:08:10Z"
+            },
+            "highlight": null,
+            "_score": [
+              123.72072
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "NPCM19400321",
+              "title": "China Mail 1940-03-21",
+              "description": "Facts About The Hong Kong Border Situation. NAZI-SOVIET DIPLOMACY. \"NEW ORDER IN EUROPE\". REYNAUD APPROVED. JAPANESE LAND & LEAVE AGAIN COAST SHELLED. REFUGEES GROSS SORDER. \"ALL HELL LOOSE\". ONE WHO HAS NOT RESIGNED. PORTUGUESE LAND ON WANTSAI. RESULTS OF MACDONALD VISIT TO PARIS. LAHORE NOW NORMAL. COMMUNIST TRIAL IN PARIS. BRITISH REPLY TO ITALIAN NOTE ON COAL BLOCKADE. MEETING WISHES. CONTRABAND LIST. BRITAIN'S RESOLVE. DUTCH SHIP SUNK: SIX MISSING. PROTECTION OF LIGHTHOUSE VESSELS. SPAIN THANKED. Official Story Of Yesterday's Raid On Sylt. SIR KINGSLEY WOOD'S STATEMENT IN COMMONS. WARMING UP OF WAR EXPECTED. REICH AND HOLY SEE IN NEGOTIATIONS. TONS OF BOMBS. GENERA ADMIRATION. HUNDRED BOMBS DROPPED. ATTACK IN THE NIGHT. \"MAURETANIA\" TO BE ARMED AS TROOPER. CHARTERED BANK'S DIVIDEND. FALSE PRETENCES CHARGE. RANDALL GOULD AND COMMUNISTS. M. Reynaud Entrusted With Formation Of New Cabinet. DALADIER ASKING FOR FULL REPORT OF SECRET SESSION TO BE PUBLISHED. HARP RECITAL. KEPT ROM HIS...",
+              "subject": [
+                "德臣西報",
+                "德臣西报",
+                "China Mail"
+              ],
+              "collection": [
+                "china-mail",
+                "newspapers"
+              ],
+              "date": "1940-03-21T00:00:00Z",
+              "year": 1940,
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "item_size": 105933996,
+              "files_count": 16,
+              "downloads": 58,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2023-12-05T04:17:56Z",
+              "publicdate": "2023-12-05T04:17:56Z"
+            },
+            "highlight": null,
+            "_score": [
+              123.72072
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "NPTG19210409",
+              "title": "Hong Kong Telegraph 1921-04-09",
+              "description": "GRAVE NATIONAL CRISIS \"PRACTICALLY CIVIL WAR.\" ARMY AND NAVY RESERVES CALLED UP TWO MILLION WORKERS INVOLVED IN STRIKE DECISION A FULL TRIPLE ALLIANCE STRIKE TWO MILLION WORKERS INVOLVED OVERTURE TURNED DOWN STRONG GOVERNMENT MEASURES PREMIER'S GRAVE STATEMENT PRACTICALLY CIVIL WAR TURKEY AND AFGHANISTAN GERMANY'S BAD FAITH THE TRADE SLUMP OFFICIAL RETURNS FOR MARCH AGRAVE CRISIS CHINESE AMENDMENT TO COVENANT OF LEAGUE OF NATIONS TRIPLE ALLIANCE TO STRIKE MOTOR SMASH A CHINESE FATALITY ANOTHER WRECK ON THE LAMMOCKS \"MONTEAGLE\" RESCUES THE CREW NEW J.P.'S OVER TWENTY APPOINTED FAMILY LIFE N ENGLAND AND IN FRANCE A DIFFERENCE IN HOUSEHOLD MANNERS SIR HARRY LAUDER ENTERTAINED AT THE HOUSE OF COMMONS ONE OF MY MEMORIES OF LIFE IN ANMCE, IS AN IMCIDENT COMMON ENOUGH ,BUT TO ME ILLUMINATING A SMAOO BOY BIDDING GOOD-BYE TO HIS FATHER ION THE NEW MOTOR LAMP KAYS THROWN WHERE WANTED YAP AND GUAM JAPAN'S GROUNDS OF CLAIM BALL-ROOM DANCING THE MODERN TREN LARGEST STEAMER IN THE WORLD THERE SEEMS...",
+              "subject": [
+                "士蔑西報",
+                "士蔑西报",
+                "Hong Kong Telegraph"
+              ],
+              "collection": [
+                "china-mail",
+                "newspapers"
+              ],
+              "date": "1921-04-09T00:00:00Z",
+              "year": 1921,
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "item_size": 57260412,
+              "files_count": 16,
+              "downloads": 49,
+              "week": 1,
+              "month": 3,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2023-12-12T05:28:51Z",
+              "publicdate": "2023-12-12T05:28:51Z"
+            },
+            "highlight": null,
+            "_score": [
+              122.850235
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "cia-readingroom-document-cia-rdp90-00965r000100140001-8",
+              "title": "CIA Reading Room cia-rdp90-00965r000100140001-8: U.S.-ISRAELI STRATEGY FOUGHT BY PENTAGON",
+              "description": "g~ Declassified in Part -Sanitized Copy Approved for Release 2012/01/03 :CIA-RDP90-009658000100140001-8 ~ I R\". T ` ^ LE APPEARED Ot~ PAGE I.S.-Israeli Strategy Fought By Peiltagori President Reagan's new Lebanon stratetry seems to have been mis- placed somewhere in the Pentagon's thousands of look-alike cubbyholes. He wants to tighten U. S. ties to Is- rael and confront Syria with an Is- rae'.i-American military threat. .This is the best way to get a settlement out of the Syrians, he now apparent- ly believes. So on Oct. 29 keagan signed a se- cret 1\\'ational Security Decision Di- rective calling ibr closer strategic coordinatier. with Israel. This .was followed, according to confidential documents, by a call for \"combined planning,\" \"joint exercises\" and \"pre- positioninb of U.S. military equip- ment in Israel.\" But a directive can get mislaid in the Pentagon-if it propounds a pot- icy the generals don't like. Few, of course, would risk openly defying the commander-in-chief's...",
+              "subject": [
+                "CIA Reading Room"
+              ],
+              "creator": [
+                "CIA Reading Room"
+              ],
+              "collection": [
+                "ciareadingroom",
+                "usgovernmentmirrors",
+                "government-documents"
+              ],
+              "date": "1983-12-20T00:00:00Z",
+              "year": 1983,
+              "language": [
+                "english"
+              ],
+              "mediatype": "texts",
+              "item_size": 1576780,
+              "files_count": 16,
+              "downloads": 0,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2026-05-31T05:13:05Z",
+              "publicdate": "2026-05-31T05:13:05Z"
+            },
+            "highlight": null,
+            "_score": [
+              116.060745
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "NPCM19320416",
+              "title": "China Mail 1932-04-16",
+              "description": "SUNDAY'S MEETING AT KWANTI. \"WOMBAT\"ANTICIPATES CLOSE FINISHES. AN INTERESTING AFTERNOON FOR ENTHUSIASTS. BRITISHER IN TROUBLE WITH JAPANESE. For Going to Rescue Of a Captured Chinese. ARRESTED BUT SINCE RELEASED. (From Our Own Correpondent.) JAPANESE NOTES TO SETTLEMENT AUTHORITIES. Assaults On Japanese Citizens. NOTED PHILANTHROPLST DEAD. WOMAN MISSIONARY MURDERED. In Mission Hall in Poland. HORRIFYING SPECTACLE. WAIT UNTIL THE BUS STOPS! One Fatal Accident Yesterday. SIR JOHN SIMON RETURNS TO GENEVA. SHANGHAI PEACE NEGOTIATIONS. JAPAN'S VIEWS ON THEIR FAILURE. CHINA RESPONSIBLE? WILL NOT ADVANCE DEFINITE DATE FOR WITHDRAWAL OF TROOPS. THE TRANCE MEDIUM CASE. Journalist's Evidence. COUNSEL'S CONTENTION. (Reuter's Special Service.) London, Yesterday. SENSATIONAL PAYROLL ROBBERY. At Wing On Mill. PENY4,000 LOOTED. Shanghai, To-day. COMPANY DIRECTORS ARRESTED. Echo of Kreugerf Affair. FALSIFCATION OF ACCOUNTS. Stockholm, Yesterday . NEW SHAKESPEARE MEMORIAL THEATRE. Next Saturday's...",
+              "subject": [
+                "德臣西報",
+                "德臣西报",
+                "China Mail"
+              ],
+              "collection": [
+                "china-mail",
+                "newspapers"
+              ],
+              "date": "1932-04-16T00:00:00Z",
+              "year": 1932,
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "item_size": 83920061,
+              "files_count": 16,
+              "downloads": 55,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2023-12-03T19:21:31Z",
+              "publicdate": "2023-12-03T19:21:31Z"
+            },
+            "highlight": null,
+            "_score": [
+              115.093765
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "cia-readingroom-document-cia-rdp82-00457r006100170003-7",
+              "title": "CIA Reading Room cia-rdp82-00457r006100170003-7: RENITENCE OF CHINESE COMMUNISTS TOWARD PARTICIPATION IN INTERNATIONAL WAR",
+              "description": "Approved For Releas CLASSIFICATION 177AIr7R006100170003-~ CENTRAL INTELLIGENCE AGENCY IN OR ATO REPORT COUNTRY China SUBJECT Renitence of Chinese Ce?nunists Tarard Participation in International rear 25X1A REPORT N CD NO. DATE DISTR. 19 Oct. 1950 NO. OF PAGES 2 PLACE NO. OF ENCLS. ACQUIRE w ;, tus\"EO eEl-owl 25X1A DATE OF 25X1XSUPPLEMENT TO INFO. REPORT NO. At the meetings of Molotov and MAO Tse-tung in September Llolotov urged MAO to send Chinese Communist troops to Korea.* MAO refused on the grounds that China's wealth, power, and culture are concentrated in the cities of Peiping, Tientsin,, Hankow, Nanking, Shanghais and Cantons and if China entered the war the United States would bomb these cities, destroying the heart of everything the Chinese Communist Party has been trying to build up. 2. According to LAO the Chinese Comfmmist leaders are dissatisfied with the treat- ment the North Koreans have received from the Soviet Union. They have not liked to see the Soviets begin a...",
+              "subject": [
+                "CIA Reading Room"
+              ],
+              "creator": [
+                "CIA Reading Room"
+              ],
+              "collection": [
+                "ciareadingroom",
+                "usgovernmentmirrors",
+                "government-documents"
+              ],
+              "date": "1950-10-19T00:00:00Z",
+              "year": 1950,
+              "language": [
+                "english"
+              ],
+              "mediatype": "texts",
+              "item_size": 1998570,
+              "files_count": 17,
+              "downloads": 42,
+              "week": 0,
+              "month": 4,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2023-11-19T23:21:25Z",
+              "publicdate": "2023-11-19T23:21:25Z"
+            },
+            "highlight": null,
+            "_score": [
+              114.8891
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "1913-october-27-atlanta-journal-16-pages-georgia",
+              "title": "1913 October 27 Atlanta Journal 16 Pages Georgia",
+              "description": "PDF PAGE 1, COLUMN 3 “DORSEY COERCED      JURY BY FEAR OF               MOB VIOLENCE” So Declares Attorney Reuben          R. Arnold, Who Was Still          Speaking When Court Ad-     journed at 12:30 o’Clock “CONLEY PROTECTED BY SOLICITOR,” ARNOLD SAYS          With additional excoriation of the solicitor general, Hugh M. Dorsey, for his methods in conducting the state’s case at the trial of Leo M. Frank for the murder of Mary Phagan, and with additional attacks upon the evidence which the state marshalled against Frank to secure his conviction, Attorney R. R. Arnold, of counsel for Frank, occupied the morning session Monday of the new trial hearing in Frank’s behalf before Judge L. S. Roan.          Mr. Arnold began his speech about non last Friday, and spoke at the Friday afternoon session again, and continued at both sessions of the court Saturday. When adjournment was taken for lunch, at 12:30 o’clock Monday afternoon, Mr. Arnold said that with about fifteen minutes more at the...",
+              "subject": [
+                "police Bodeker",
+                "Birmingham",
+                "Chief Beavers",
+                "Atlanta",
+                "reception",
+                "vice",
+                "war",
+                "conviction",
+                "sans",
+                "judgement",
+                "sans judgement",
+                "business",
+                "regret",
+                "Leo Max Frank",
+                "Leo",
+                "Max",
+                "Frank",
+                "Leo Frank",
+                "jail",
+                "cases",
+                "atom",
+                "fairness",
+                "theater",
+                "Dorsey",
+                "Solicitor",
+                "lawyer",
+                "Conley",
+                "recorded staement",
+                "record",
+                "Marion Jackson",
+                "meeting",
+                "YMCA",
+                "Henslee",
+                "judge",
+                "incident",
+                "introduced",
+                "Mary Anne Phagan",
+                "Mary Phagan",
+                "little Mary Anne Phagan",
+                "little Mary Phagan",
+                "Anne",
+                "Mary",
+                "Phagan",
+                "trial",
+                "accounts",
+                "news agency",
+                "prosecuting",
+                "character",
+                "reputation",
+                "hearsay",
+                "testimony",
+                "negro",
+                "Jim Conley",
+                "witnesses",
+                "defense",
+                "host",
+                "boys",
+                "description",
+                "prosecution",
+                "bill",
+                "indictment",
+                "negro cook",
+                "cook",
+                "solicitor",
+                "clock",
+                "morning",
+                "seize",
+                "idea",
+                "suggestions",
+                "fear",
+                "community",
+                "consideration",
+                "crime",
+                "evidence",
+                "advantage",
+                "questions",
+                "newspaper",
+                "men",
+                "speech",
+                "statement",
+                "murmur",
+                "assistance",
+                "monkey",
+                "indignation",
+                "butler",
+                "witness",
+                "jury",
+                "juror"
+              ],
+              "creator": [
+                "Atlanta Journal"
+              ],
+              "collection": [
+                "newspapers_miscellaneous",
+                "newsstand",
+                "newspapers"
+              ],
+              "date": "1913-10-27T00:00:00Z",
+              "year": 1913,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "licenseurl": "https://creativecommons.org/publicdomain/mark/1.0/",
+              "num_favorites": 1,
+              "item_size": 128239734,
+              "files_count": 27,
+              "downloads": 121,
+              "week": 0,
+              "month": 7,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2024-07-28T05:21:01Z",
+              "publicdate": "2024-07-28T05:21:01Z"
+            },
+            "highlight": null,
+            "_score": [
+              111.38262
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "rui-revista-estudos-feministas",
+              "title": "Rui Revista Estudos FeministasAcademic Articles & Scholarship — “O activismo estético feminista de Nikki Craft” by Rui Pedro Fonseca, Revista Estudos Feministas, 2010",
+              "description": "This item contains a screenshot and/or archival reference for Rui Pedro Fonseca’s academic article “O activismo estético feminista de Nikki Craft,” published in Revista Estudos Feministas, Florianópolis, volume 18, issue 3, pages 765–787, September–December 2010. The article’s translated English title is “Nikki Craft’s Aesthetic Feminist Activism.” The full article is in Portuguese, with an English abstract available through SciELO and other indexing services. Portuguese SciELO article page: https://www.scielo.br/j/ref/a/m4dHQQGHsH3LQ7KBTkzr5Xc/?lang=pt English abstract page: https://www.scielo.br/j/ref/a/m4dHQQGHsH3LQ7KBTkzr5Xc/abstract/?lang=en The article analyzes Nikki Craft’s feminist aesthetic activism in relation to misogynist cultural production, radical feminism, representation, art, beauty institutions, and the pornography industry. The abstract states that the study examines campaigns developed by Craft, a radical North American feminist who organized and/or led public...",
+              "subject": [
+                "Nikki Craft",
+                "radical feminism",
+                "feminist activism",
+                "civil disobedience",
+                "Academic Articles & Scholarship",
+                "Rui Pedro Fonseca",
+                "Revista Estudos Feministas",
+                "SciELO",
+                "O activismo estético feminista de Nikki Craft",
+                "Nikki Craft’s Aesthetic Feminist Activism",
+                "Keywords"
+              ],
+              "creator": [
+                "Nikki Craft"
+              ],
+              "collection": [
+                "nikki-craft-archival-project",
+                "patron-library-collection"
+              ],
+              "date": "2026-07-07T00:00:00Z",
+              "year": 2026,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 11663224,
+              "files_count": 15,
+              "downloads": 0,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2026-07-07T09:48:00Z",
+              "publicdate": "2026-07-07T09:48:00Z"
+            },
+            "highlight": null,
+            "_score": [
+              110.2625
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "NPDP19280405",
+              "title": "Hong Kong Daily Press 1928-04-05",
+              "description": "\"IF THE WASH IS HARNESSED.\" BIG LINCOLNSHIRE SCHEME. INVENTOR'S CLAIMS. 130,000 Acres Available. 700 Tides A Year. Value Of The Product. SOBERING-UP STATION. ON GALIFORNIAN BORDER. FOR GOOD PROHIBITIONISTS. SILK STOCKINGS SCAKED WITH AMMON. STARTLING GAG ATTACK ON A YOUNG WOMAN. HONG KONG VOLUNTEER DEFENCE CORPS. AMERICAN SAILORS AND RUSSIAN DANCERS. MANY MARRIAGES IN SHANGHAI. BRITISH SERVICE MEN HARDER TO CATCH. NAVAL COURT MARTIAL. COMMANDER DANIEL \"GUILTY.\" Speech For The Defence. Quilty. Remains On Half Pay. In Good Falth. Past Incidents. NEW WEST AFRICAN HARBOUR. OPENED BY MR. THOMAS. VISCOUNT'S MOTOR CRASH. SERIOUS CONDITION. LANCASHIRE COTTON TRADE. ITS ONLY SALVATION. INTEREST IN THE COMBINE. THE NANKING SETTLEMENT. Textile Corporation. Traditional Friendship. Working Capital. Opportunity For Revision. WOMAN INSPIRER OF EX-BURGLARS. FORTY CROOKS TAUGHT TO RUN STRAIGHT. \"BOUNDLESS FAITH.\" An Exclusive Set. HONG KONG'S BRICKS. THEIR BAKING AND ORIGIN DESCRIBED. BUILDING DISPUTE...",
+              "subject": [
+                "孖剌西報",
+                "孖剌西报",
+                "Hong Kong Daily Press"
+              ],
+              "collection": [
+                "china-mail",
+                "newspapers"
+              ],
+              "date": "1928-04-05T00:00:00Z",
+              "year": 1928,
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "item_size": 78015362,
+              "files_count": 16,
+              "downloads": 78,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2023-12-08T09:13:58Z",
+              "publicdate": "2023-12-08T09:13:58Z"
+            },
+            "highlight": null,
+            "_score": [
+              99.065125
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "NPTG19291209",
+              "title": "Hong Kong Telegraph 1929-12-09",
+              "description": "HAICHING PIRACY EPIC: FULL STORY. THE BRIDGE CITADEL. WOUNDED CHIEF MATE'S TALE OF HORROR. THE PASSENGERS PANIC-STRICKEN WHILE BATTLE RAGED. MR.WOODWARD'S DEATH. HOW MR.PERRY WAS WOUNDED. Unassuming Hero. Shot Pirate Dead. Pirates In Two Parties. CAPTAIN FARRAR'S STORY. FIERCE FIRING FOR HALF AN HOUR. BOATS LOWERED WHEN FIRE WAS AT HEIGHT. PRAISE FOR THE NAVY. Sharp Skirmish. Boats Lowered. Praise For Navy. DEATH-ROLL BELIEVED CONSIDERABLE. Total Casualties May Be Nearly Eighty LIFEBOAT MYSFERY. CHIEF ENGINEER'S GRAPHIC STORY. THREE DISTINCT RUSHES BY PIRATES. DESPERATE BATTLE. Guard's Heroic Fight. \"Fired at Everything.\" SCENES OF UTTER DESTRUCTION. THE HAICHING AFTER THE BLAZE. SUPERSTRUCTURE A MASS OF TANGLED IRON. GRUESOME AFFAIR. Bridge Destroyed. Mass of Tangled Iron. Saloon Intact. ADMIRAL GOES ABOARD. TERRIFYING ORDEAL. THREE AMERICAN LADY PASSENGERS. WONDERFUL FORTITUDE OF OLD LADY OF 70 YEARS. SHOCKING SPECTACLES. All Asleep. Lights go Out. Lifeboat Tragedy. Youth Killed....",
+              "subject": [
+                "士蔑西報",
+                "士蔑西报",
+                "Hong Kong Telegraph"
+              ],
+              "collection": [
+                "china-mail",
+                "newspapers"
+              ],
+              "date": "1929-12-09T00:00:00Z",
+              "year": 1929,
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "item_size": 83941004,
+              "files_count": 16,
+              "downloads": 47,
+              "week": 0,
+              "month": 2,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2023-12-10T20:11:24Z",
+              "publicdate": "2023-12-10T20:11:24Z"
+            },
+            "highlight": null,
+            "_score": [
+              98.699585
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "NPDP19330605",
+              "title": "Hong Kong Daily Press 1933-06-05",
+              "description": "VIGILANCE FANCIED FOR TYTAM HANDICAP \"A\" CLASS: NOW'S THE TIME DANGEROUS. SADKO SHOULD WIN WHITSUN PLATE KING'S JUSTICE NOT FANCIED. WOTIN SELECTED FOR AUSTRALIAN RACE. Hay and Corn Stakes. Juling Handicap. Whitsun Plate. Tytam Handicap \"A\" Class. Walisend Handicap. Second Tytam Handicap. Yangtsze Stakes. Hwang Ho Stakes. CARD GAMES IN SIAM. MR. STOBART'S PARROT. COVENT GARDEN OPERA. HOW PUBLIC BENEFITS. LESSON SERMON. FIRST CHURCH OF CHRIST, SCIENTIST HONG KONG. LADY SIMON ON SLAVERY. Five Millions in the World To-day. \"HOMAN CHATTELS SOME OF THE MANACLED\" Sir John Simon's Address. 22 WICKETS FALL FOR 168. DERBY AND YORKSHIRE COLLAPSE. Mitchell Saves Champions. SCOTLAND'S TRADE MISSION SHIP. Voyage to Northern Ports. 3,598 MILES ITINERARY TO SEVEN CITIES. Pro-Scottish Sentiment. Pipe Band Accompaniment. POLITICAL UNREST IN JAPAN. Seiyukai Party Want Office. SAITO MINISTRY'S FATE IN BALANCE. Fear of Disturbances. JAPANESE NATIONAL BONDS. HALF THE DOMESTIC ISSUE OWNED BY BANKS. AIR...",
+              "subject": [
+                "孖剌西報",
+                "孖剌西报",
+                "Hong Kong Daily Press"
+              ],
+              "collection": [
+                "china-mail",
+                "newspapers"
+              ],
+              "date": "1933-06-05T00:00:00Z",
+              "year": 1933,
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "item_size": 94098927,
+              "files_count": 16,
+              "downloads": 51,
+              "week": 1,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2023-12-09T05:20:34Z",
+              "publicdate": "2023-12-09T05:20:34Z"
+            },
+            "highlight": null,
+            "_score": [
+              98.19817
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "NPTG19340523",
+              "title": "Hong Kong Telegraph 1934-05-23",
+              "description": "EPOCH-MAKING PLAN FOR BIMETALISM OF A SOP? VIOLATION OF COVENANT. SALVADOR MAY BE CALLED TO ORDER. RECOGNITION OFMANCHUKUO. SALVADOR'S PLSITION. COMPLICATED SITUATION. SOVIET AMBASSADOR RECALLED. Changes in London and Tokyo Likely. WOMEN POLICE FOR CANTON. FIFTY TO BE GIVEN TRAINING. ANOTHER CHICAGO DISASTER. Water Tank Wrecks Building. CRACK PLANE FOR THE EAST. FROM SINGAPORE TO AUSTRALIA. AT 175 M.P.H. SAFETY FIRST. POLICE OFFICIAL BEREAVED. LITTLE DAUGHTER'S DEATH. Roosevelt Silver Message Accorded Mixed Reception. A RATIO POLICY MANDATORY. BUT NO TIME LIMIT SET FOR FULFILMENT. PRESIDENT'S INTENTION NOT CLEAR. FEATURFS OF MESSAGE TO CONGRESS. JUST COMPENSATION. LECISLATION THIS SESSION. \"AUTHORISED AND DIRECTED.\" 1,300,000,0000 LUNCES NEEDED. THE PRESIDENT'S AIM. Finance journal's Belief. UNSUITABLE. MISS BATTEN ON LAST LAP. HOPS OFF FOR PORT DARWIN. WOMAN'S RECORD IN SIGHT. NEW TELEVISION COMPANY. MARCONI AND E. M. I. INTERESTS. VILLAGER FOUND MURDERED. MAN AND WOMAN DETAINED....",
+              "subject": [
+                "士蔑西報",
+                "士蔑西报",
+                "Hong Kong Telegraph"
+              ],
+              "collection": [
+                "china-mail",
+                "newspapers"
+              ],
+              "date": "1934-05-23T00:00:00Z",
+              "year": 1934,
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "item_size": 135263795,
+              "files_count": 16,
+              "downloads": 65,
+              "week": 0,
+              "month": 2,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2023-12-11T12:13:38Z",
+              "publicdate": "2023-12-11T12:13:38Z"
+            },
+            "highlight": null,
+            "_score": [
+              95.458664
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "szfpn66j72ioysvfep0oelzmosznwynfopbtylta",
+              "title": "Episode 08 Anita Sarkeesian Tropes Dopes, Hillary Clinton Still Can Can't, and Stephen Colbert Dicks Around Trump",
+              "description": "Can you believe we've made it to Safe Spaces Episode Eight? And with hardly a scratch, too! In a week jam-packed full of incidental cultural delights as far-ranging as Cinco de Mayo and Star Wars Day (May the 4th Be With You!), there's nothing stopping our co-hosts from taking on a healthy mix of the biggest, smallest, and most livid banalities our culture has to offer.A brief return to last week's major topic, Bill Nye \\\"the science guy\\\" and his deranged new show about science and climate change, Bill Nye Saves the World. Perhaps you missed the show's less-discussed ice cream orgy (yep)? We also learn that, following the chromosomal controversy about gender fluidity and hideous butt stuff hysterics, Netflix decided to clip the early sequence from Nye's original children's show purporting to use actual science - opposed to feelings - that demonstrated an entirely different lesson on gender dynamics. Why be scientifically correct when it's easier just to push the delete button?Also on...",
+              "subject": [
+                "Podcast"
+              ],
+              "creator": [
+                "The Safe Spaces Podcast / safepodcast.com"
+              ],
+              "collection": [
+                "podcasts_mirror_bobarchives",
+                "podcasts_mirror"
+              ],
+              "date": "2017-05-06T00:00:00Z",
+              "year": 2017,
+              "mediatype": "audio",
+              "item_size": 71442669,
+              "files_count": 11,
+              "downloads": 17,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2022-01-18T22:52:18Z",
+              "publicdate": "2022-01-18T22:52:18Z"
+            },
+            "highlight": null,
+            "_score": [
+              92.877396
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "R3DiGfXJgCXrkJmtvHivCPAaCANfP9",
+              "title": "\"MORE THAN MEETS THE EYE\" 1950 NBC NETWORK PROMO FILM 30 ROCK / RADIO CITY STUDIO BUILDING XD8252",
+              "description": "“More Than Meets The Eye” (1950) is a rare b&w NBC promo film that takes the viewer behind the scenes as NBC embarked on its expansion program to keep up with TV’s growing popularity. As TV was taking off during the 1950s, NBC and other networks struggled to find studio space in New York. Narrated by NBC’s first TV news anchorman John Cameron Swayze, this film details what those efforts looked like inside the famous “Radio City” 30 Rock building (30 Rockefeller Plaza is a skyscraper that forms the centerpiece of Rockefeller Center) but also at the International, Center, and Hudson Theaters and NBC’s Uptown Studios at 106th Street. The film also depicts the NBC Kinescope department and NBC Television Central Shop. Opening credits play over different angles of 30 Rockefeller Center skyscrapers (0:07). Lobby of 30 Rock, guests walk around lobby, check-in at desk for NBC radio (0:26). Behind-the-scenes look at television studio, cameras rolling recording dance spectacle (0:35). NBC TV...",
+              "subject": [
+                "Howdy Doody",
+                "More Than Meets The Eye",
+                "New York",
+                "John Cameron Swayze",
+                "Radio City",
+                "Rockefeller Plaza",
+                "Rockefeller Center",
+                "Hudson Theaters",
+                "Uptown Studios",
+                "Television Central Shop",
+                "Stock Footage",
+                "Periscope Film"
+              ],
+              "collection": [
+                "PeriscopeFilm",
+                "ephemera"
+              ],
+              "mediatype": "movies",
+              "num_favorites": 2,
+              "item_size": 227606353,
+              "files_count": 27,
+              "downloads": 273,
+              "week": 0,
+              "month": 2,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2024-02-29T21:54:45Z",
+              "publicdate": "2024-02-29T21:54:45Z"
+            },
+            "highlight": null,
+            "_score": [
+              88.45227
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "GeorgeSPattonManUnderMars",
+              "title": "General George S. Patton, Jr., Man Under Mars",
+              "description": "1946 biography of General Patton. Preface: \"THIS book is not an official biography of General George Smith Patton, Jr.; it is an interpretative study of an American who typifies in his career and personality a phase of history which has just ended with the last of what we may come to know as the \"Gunpowder Wars.\" So far, Patton has been written about almost exclusively under the title of \"Old Blood and Guts,\" though no one associated with him or his armies ordinarily calls him by that name. The impression given by newspaper and magazine accounts is of a brilliant and impetuous general who makes war as exciting and colorful a spectacle as an epic in glorious technicolor. Whatever Patton did, he seems to have had a label slapped on him. The labels are many, including among the more complimentary, Buck Rogers, Flash Gordon, The Man from Mars, The Green Hornet, Iron Pants, and, of course, Old Blood and Guts. After the \"slapping\" incident in Sicily, he was known as \"the man 50,000 G.I.s...",
+              "subject": [
+                "WWII",
+                "Patton, George S. (George Smith), 1885-1945",
+                "World War, 1939-1945",
+                "World War II",
+                "Generals -- United States -- Biography"
+              ],
+              "creator": [
+                "Wellard, James Howard, 1909-"
+              ],
+              "collection": [
+                "wwIIarchive",
+                "folkscanomy_history",
+                "folkscanomy"
+              ],
+              "date": "1946-01-01T00:00:00Z",
+              "year": 1946,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
+              "num_favorites": 14,
+              "item_size": 213844723,
+              "files_count": 18,
+              "downloads": 3940,
+              "week": 2,
+              "month": 14,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2013-07-28T21:57:48Z",
+              "publicdate": "2013-07-28T21:57:48Z"
+            },
+            "highlight": null,
+            "_score": [
+              87.351776
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "GeorgeSPattonManUnderMars-nsia",
+              "title": "General George S. Patton, Man Under Mars",
+              "description": "1946 biography of General Patton. Preface: \"THIS book is not an official biography of General George Smith Patton, Jr.; it is an interpretative study of an American who typifies in his career and personality a phase of history which has just ended with the last of what we may come to know as the \"Gunpowder Wars.\" So far, Patton has been written about almost exclusively under the title of \"Old Blood and Guts,\" though no one associated with him or his armies ordinarily calls him by that name. The impression given by newspaper and magazine accounts is of a brilliant and impetuous general who makes war as exciting and colorful a spectacle as an epic in glorious technicolor. Whatever Patton did, he seems to have had a label slapped on him. The labels are many, including among the more complimentary, Buck Rogers, Flash Gordon, The Man from Mars, The Green Hornet, Iron Pants, and, of course, Old Blood and Guts. After the \"slapping\" incident in Sicily, he was known as \"the man 50,000 G.I.s...",
+              "subject": [
+                "WWII,Patton, George S. (George Smith), 1885-1945,World War, 1939-1945,World War II,Generals -- United States -- Biography,genealogy"
+              ],
+              "creator": [
+                "Wellard, James"
+              ],
+              "collection": [
+                "nsia_contributions",
+                "nationalsecurityarchive",
+                "usgovernmentmirrors",
+                "government-documents"
+              ],
+              "date": "1946-01-01T00:00:00Z",
+              "year": 1946,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
+              "num_favorites": 9,
+              "item_size": 767488516,
+              "files_count": 15,
+              "downloads": 1620,
+              "week": 30,
+              "month": 195,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2015-11-08T04:45:14Z",
+              "publicdate": "2015-11-08T04:45:14Z"
+            },
+            "highlight": null,
+            "_score": [
+              87.02525
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "cia-readingroom-document-cia-rdp90-00965r000100440008-8",
+              "title": "CIA Reading Room cia-rdp90-00965r000100440008-8: BACK IN THE HILL'S DOGHOUSE",
+              "description": "Sl Declassified in Part - Sanitized Copy Approved for Release 2011/12/28: CIA-RDP90-00965R000100440008-8 D r'N a&' 2. L T ARNOLD BEICHMAN Back in the Hill's doghouse Good news for the Soviet KGB. Once more the CIA is in the congressional doghouse. a victim this time of White House plots and counterplots which have yet to be explained in any rational fashion. What is so disheartening about the present CIA crisis is that it does not seem to be one of its own making as was the previous crisis in the mid-19-0s, when one could talk about the intelligence agency's self- inflicted wounds. At the time, the Senate Church committee and the House Pike committee went after the CIA hammer and tong and really brought out some gamey misadven- tures. These exposes were followed by restrictions on CIA activities, espe- cially on covert action and the instal- lation of two congressional Select Oversight Committees. The two oversight committees were a great improvement over the eight panels which...",
+              "subject": [
+                "CIA Reading Room"
+              ],
+              "creator": [
+                "CIA Reading Room"
+              ],
+              "collection": [
+                "ciareadingroom",
+                "usgovernmentmirrors",
+                "government-documents"
+              ],
+              "date": "1987-02-25T00:00:00Z",
+              "year": 1987,
+              "language": [
+                "english"
+              ],
+              "mediatype": "texts",
+              "item_size": 1419977,
+              "files_count": 16,
+              "downloads": 0,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2026-05-31T11:48:59Z",
+              "publicdate": "2026-05-31T11:48:59Z"
+            },
+            "highlight": null,
+            "_score": [
+              84.50835
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "cia-readingroom-document-cia-rdp99-01448r000301270025-9",
+              "title": "CIA Reading Room cia-rdp99-01448r000301270025-9: BACK IN THE HILL'S DOGHOUSE",
+              "description": "Declassified and Approved For Release 2013/06/05: CIA-RDP99-01448R000301270025-9 ;7 ~RNOLDKB:EIC Back in the Hill's doghouse Good news for the Soviet KGB. Once more the CIA is in the congressional doghouse. a victim this time of White House plots and counterplots which have yet to be explained in any rational fashion. What a so disheartening about the present CIA crisis is that it does not seem to be one of its own making as was the previous crisis in the mid-19-0s. when one could talk about the intelligence agency's self- inflicted wounds. At the time. the Senate Church committee and the House Pike committee went after the CIA hammer and tong and really brought out some gamey misadven- tures. These exposes were followed by restrictions on CIA activities. espe- ciall% on covert action and the instal- !auon of two congressional Select Oversight Committees. The two oversight committees were a great improvement over the eight panels .which previously had asserted their richt to oversee...",
+              "subject": [
+                "CIA Reading Room"
+              ],
+              "creator": [
+                "CIA Reading Room"
+              ],
+              "collection": [
+                "ciareadingroom",
+                "usgovernmentmirrors",
+                "government-documents"
+              ],
+              "date": "1987-02-25T00:00:00Z",
+              "year": 1987,
+              "language": [
+                "english"
+              ],
+              "mediatype": "texts",
+              "item_size": 1435076,
+              "files_count": 16,
+              "downloads": 9,
+              "week": 0,
+              "month": 2,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2026-04-07T06:44:06Z",
+              "publicdate": "2026-04-07T06:44:06Z"
+            },
+            "highlight": null,
+            "_score": [
+              82.89674
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "cia-readingroom-document-cia-rdp99-01448r000301270028-6",
+              "title": "CIA Reading Room cia-rdp99-01448r000301270028-6: BACK IN THE HILL'S DOGHOUSE",
+              "description": "Declassified and Approved For Release 2013/06/05: CIA-RDP99-01448R000301270028-6 AiAHINUiUN 11ME 7 ARNOLD BEICHMAN 25 February 1987 Back in the Hill's doghouse Good news for the Soviet KGB. Once more the CIA is in the congressional doghouse, a ' victim this time of White House plots and counterplots which have yet to be explained in any rational fashion., What _ is so disheartening about the present CIA crisis is that it does not seem to be one of its own making as was the previous crisis in the ? mid-1970s, when one could _ talk about the intelligence agency's self-inflicted wounds. At the time. the Senate Church. committee and the House Pike committee went after the CIA hammer and tong and really brought out some gamey misadven-tures. . -These exposes were followed by restrictions on CIA activities, espe-cially on covert action and the instal-lation of two congressional Select Oversight Committees. The two oversight committees were a great improvement over the eight panels which...",
+              "subject": [
+                "CIA Reading Room"
+              ],
+              "creator": [
+                "CIA Reading Room"
+              ],
+              "collection": [
+                "ciareadingroom",
+                "usgovernmentmirrors",
+                "government-documents"
+              ],
+              "date": "1987-02-25T00:00:00Z",
+              "year": 1987,
+              "language": [
+                "english"
+              ],
+              "mediatype": "texts",
+              "item_size": 1494315,
+              "files_count": 16,
+              "downloads": 10,
+              "week": 0,
+              "month": 2,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2026-04-07T05:24:48Z",
+              "publicdate": "2026-04-07T05:24:48Z"
+            },
+            "highlight": null,
+            "_score": [
+              82.89674
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "cia-readingroom-document-cia-rdp99-01448r000301270029-5",
+              "title": "CIA Reading Room cia-rdp99-01448r000301270029-5: BACK IN THE HILL'S DOGHOUSE",
+              "description": "ARTNAI APEUPEP Declassified and Approved For Release 2013/06/05 : CIA-RDP99-01448R06036i270029-5 ARNOLD BEICHMAN 25 February 1987 Back in the Hill's doghouse Good news for the Soviet KGB. Once more the CIA is in the congressional doghouse, a victim this time of White House plots and counterplots which have yet to be explained in any rational fashion. What is so disheartening about the present CIA crisis is that it does not seem to be one of its own making as was the previous crisis in the mid-1970s, when one could talk about the intelligence agency's self-inflicted wounds. At the time, the Senate Church committee and the House Pike committee went after the CIA hammer and tong and really brought out some gamey misadven-tures. . These exposes were followed by restrictions on CIA activities, espe-cially on covert action and the instal-lation of two congressional Select Oversight Committees. The two oversight committees were a great improvement over the eight panels which previously had...",
+              "subject": [
+                "CIA Reading Room"
+              ],
+              "creator": [
+                "CIA Reading Room"
+              ],
+              "collection": [
+                "ciareadingroom",
+                "usgovernmentmirrors",
+                "government-documents"
+              ],
+              "date": "1987-02-25T00:00:00Z",
+              "year": 1987,
+              "language": [
+                "english"
+              ],
+              "mediatype": "texts",
+              "item_size": 1500510,
+              "files_count": 16,
+              "downloads": 8,
+              "week": 0,
+              "month": 2,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2026-04-07T06:43:19Z",
+              "publicdate": "2026-04-07T06:43:19Z"
+            },
+            "highlight": null,
+            "_score": [
+              82.41341
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "cia-readingroom-document-cia-rdp91-00561r000100050010-5",
+              "title": "CIA Reading Room cia-rdp91-00561r000100050010-5: THE LIBYA LEAK",
+              "description": "S1 Declassified in Part - Sanitized Copy Approved for Release 2012/02/09: CIA-RDP91-00561 R000100050010-5 pt.TIC-L'; APPEA.nED Machiavellian foreign policy calcula- tions played no part in the public dis- semination of intelligence reports that Libyan hit squads were after the presi- dentYOn the contrary, what happened is that Washington- once again proved i its inability to keep?a secret When Cot. Muammar Qaddafi the\" attacked President Reagan on national television, the administratiun found it, self eyeball to eyeball with an oppu- nerib' of incomparable uiipupularity. ? Th& conirontation was, then inflated for-political purposes---but with results far l good than some imagined. As'Aa foreign policy. matter; Qaddafi is no' joke. He has-made Libya avail-'- able-to the Soviet-Union as a storage base for a fearsome collection of mis- siles, planes. tanks and other weapons. By - ! combination of bribery and ter- ror,-he has played havoc with moderate regimes in the Middle East,. the...",
+              "subject": [
+                "CIA Reading Room"
+              ],
+              "creator": [
+                "CIA Reading Room"
+              ],
+              "collection": [
+                "ciareadingroom",
+                "usgovernmentmirrors",
+                "government-documents"
+              ],
+              "date": "1981-12-10T00:00:00Z",
+              "year": 1981,
+              "language": [
+                "english"
+              ],
+              "mediatype": "texts",
+              "item_size": 1895134,
+              "files_count": 16,
+              "downloads": 0,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2026-06-02T22:23:26Z",
+              "publicdate": "2026-06-02T22:23:26Z"
+            },
+            "highlight": null,
+            "_score": [
+              78.25781
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "minnov8-gang-385-phils-booth",
+              "title": "Minnov8 Gang episode 385",
+              "description": "﻿Minnov8 Gang 385 - Phil's Booth Author Steve Borsch Date 2016-12-03 11:16:52 Categories Minnov8 Gang Podcast Phil is our resident superhero and his Cool Thing of the Week is a classic phone booth for his team at the wide-open and cavernous Minneapolis BuzzFeed office. While he claims it's for them to have privacy for phone calls, Tim and I know the real reason he bought it and it's depicted in this week's show cover art.  ;-) Hosts: Steve Borsch, Tim Elliott and Phil Wilson Music: Down in the Hole by DJ Ecklectic Mick under a CC by 3.0 License The Podcast https://media.blubrry.com/minnov8/minnov8.com/site/wp-content/uploads/podcasts/20161203_M8_Gang_385.mp3 Podcast: Download (Duration: 57:07 — 34.2MB) Subscribe: RSS Past Week’s Top Minnesota Stories · Fantasy Sports Startup SportsHub Technologies Announces Two Acquisitions · The Wild are wild for new, camera-equipped Snapchat Spectacles · Minnesotans Spent $250M On Cyber Monday Other Top Tech Stories · This Cyber Monday was the...",
+              "collection": [
+                "minnov8",
+                "podcasts"
+              ],
+              "date": "2016-12-03T00:00:00Z",
+              "year": 2016,
+              "language": [
+                "English"
+              ],
+              "mediatype": "data",
+              "item_size": 66449498,
+              "files_count": 10,
+              "downloads": 28,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2022-10-25T14:25:40Z",
+              "publicdate": "2022-10-25T14:25:40Z"
+            },
+            "highlight": null,
+            "_score": [
+              46.594337
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "churchinromeinfi0000edmu",
+              "title": "The church in Rome in the first century, an examination of various controverted questions relating to its history, chronology, literature and traditions; eight lectures preached before the University of Oxford in the year 1913 on the foundation of the late Rev. John Bampton",
+              "description": "xiii, 296 pages 24 cm",
+              "subject": [
+                "Church history -- Primitive and early church, ca. 30-600",
+                "Church history -- Primitive and early church",
+                "Christendom",
+                "Rome (Italy) -- Church history",
+                "Italy -- Rome"
+              ],
+              "creator": [
+                "Edmundson, George, 1848-1930"
+              ],
+              "collection": [
+                "claremont_school_of_theology",
+                "internetarchivebooks"
+              ],
+              "date": "1913-01-01T00:00:00Z",
+              "year": 1913,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 22,
+              "item_size": 558066308,
+              "files_count": 29,
+              "downloads": 913,
+              "week": 2,
+              "month": 16,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2021-03-26T00:21:30Z",
+              "publicdate": "2021-03-09T02:03:33Z"
+            },
+            "highlight": null,
+            "_score": [
+              43.200287
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "cia-readingroom-document-cia-rdp90-00965r000707060036-6",
+              "title": "CIA Reading Room cia-rdp90-00965r000707060036-6: MORE HIGH-LEVEL OUSTERS IN WHITE HOUSE SOUGHT AS CONTROVERSY WIDENS",
+              "description": "Declassified in Part - Sanitized Copy Approved for Release 2011/12/19 : CIA-RDP90-00965R000707060036-6 ARTICLE APPEARED ON PACE 3 Pressure Rises for Congress Probe, Special Prosecutor in Iran Scandal More High-Level Ousters In White House Sought As Controversy Widens By J0Hrr WAzc TT And ANDY PASZTQB Staff Reporters of THE WALL STREET JOURNAL WASHINGTON-The Reagan adminis- tration's Iranian crisis is coming to a boil with the almost certain appointment of a special prosecutor and a Watergate-style congressional investigating committee, amid renewed calls for more high-level ousters. Yesterday, Senate Republican leader Robert Dole of Kansas said President Rea- gan this week should call a special session of Congress to form a special House-Senate committee to investigate the mushrooming Iranian scandal. Senate Democratic leader Robert Byrd of West Virginia also called at least for a Senate select committee, al- though he said he didn't like the idea of a special session and would prefer...",
+              "subject": [
+                "CIA Reading Room"
+              ],
+              "creator": [
+                "CIA Reading Room"
+              ],
+              "collection": [
+                "ciareadingroom",
+                "usgovernmentmirrors",
+                "government-documents"
+              ],
+              "date": "1986-12-01T00:00:00Z",
+              "year": 1986,
+              "language": [
+                "english"
+              ],
+              "mediatype": "texts",
+              "item_size": 4915471,
+              "files_count": 16,
+              "downloads": 0,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2026-06-01T09:25:50Z",
+              "publicdate": "2026-06-01T09:25:50Z"
+            },
+            "highlight": null,
+            "_score": [
+              40.681973
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "cia-readingroom-document-cia-rdp90-00965r000605050017-1",
+              "title": "CIA Reading Room cia-rdp90-00965r000605050017-1: PRESSURE RISES FOR CONGRESS PROBE, SPECIAL PROSECUTOR IN IRAN SCANDAL",
+              "description": "~~ Declassified and Approved For Release 2013/02/19 :CIA-RDP90-009658000605050017-1 )..r \"\"\"`~ AkTrClE APPEARED 1 December 1986 ON PA6 3 - Pressure Rises for Congress Probe, Special Prosecutor in Iran Scandal More High-Level Ousters In White House Sought As Controversy Widens By JOHN_ W,ucoTr And._A7VDY`_`P_AS_ Z_TO_R-~ SfUJfREpoTtCTJ OjTHE WALL STREET JOURNAL WASHINGTON-The Reagan adminis- tration's Iranian crisis is coming to a boil with the almost-certain appointment of a special prosecutor and a Watergate-style congressional investigating committee, amid renewed calls for more high-level ousters. Yesterday, Senate Republican leader Robert Dole of Kansas said President Rea- gan this week should call a special session of Congress to form a special House-Senate committee to investigate the mushrooming Iranian scandal. Senate Democratic leader Robert Byrd of West Virginia also called at least for a Senate select committee, al- though he said he didn't like the idea of a special...",
+              "subject": [
+                "CIA Reading Room"
+              ],
+              "creator": [
+                "CIA Reading Room"
+              ],
+              "collection": [
+                "ciareadingroom",
+                "usgovernmentmirrors",
+                "government-documents"
+              ],
+              "date": "1986-12-01T00:00:00Z",
+              "year": 1986,
+              "language": [
+                "english"
+              ],
+              "mediatype": "texts",
+              "item_size": 4864919,
+              "files_count": 16,
+              "downloads": 42,
+              "week": 0,
+              "month": 19,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2026-04-13T18:59:02Z",
+              "publicdate": "2026-04-13T18:59:02Z"
+            },
+            "highlight": null,
+            "_score": [
+              40.364292
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "cia-readingroom-document-cia-rdp90-00965r000403730012-5",
+              "title": "CIA Reading Room cia-rdp90-00965r000403730012-5: PRESSURE RISES FOR CONGRESS PROBE, SPECIAL PROSECUTOR IN IRAN SCANDAL",
+              "description": "-J. Declassified and Approved For Release 2012/03/09_: CIA-RDP90-00965R000403730012-5 ARTICLE APPEARED 1- December 1986 ON PAGE .~ _ Pressure Rises for Congress Probe, Special Prosecutor in Iran Scandal More High-Level Ousters In White House Sought As Controversy Widens By JOHN WALCOIT And ANDY PASZTQR WASHINGTON-The Reagan adminis- tration's Iranian crisis is coming to a boil with the almost certain appointment of a special prosecutor and a Watergate-style congressional investigating committee, amid renewed calls for more high-level ousters. Yesterday, Senate Republican leader Robert Dole of Kansas said President Rea- gan this week should call a special session of Congress to form a special House-Senate committee to investigate the mushrooming Iranian scandal. Senate Democratic leader Robert Byrd of West Virginia also called at least for a Senate select committee, al- though he said he didn't like the idea of a special session and would prefer for the se- lect panel to begin in...",
+              "subject": [
+                "CIA Reading Room"
+              ],
+              "creator": [
+                "CIA Reading Room"
+              ],
+              "collection": [
+                "ciareadingroom",
+                "usgovernmentmirrors",
+                "government-documents"
+              ],
+              "date": "1986-12-01T00:00:00Z",
+              "year": 1986,
+              "language": [
+                "english"
+              ],
+              "mediatype": "texts",
+              "item_size": 4844304,
+              "files_count": 16,
+              "downloads": 0,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2026-06-03T18:28:32Z",
+              "publicdate": "2026-06-03T18:28:32Z"
+            },
+            "highlight": null,
+            "_score": [
+              39.842793
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "dtns20220323",
+              "title": "DTNS 20220323",
+              "description": "Driverless Taxis Are Everywhere - DTNS 4238 Arizona became the first US state to support driver’s licenses and state IDs in the Apple Watch and iPhone Wallet app. The Next Web posts a write-up on where in the world you can catch an autonomous taxi. And Sony announced a Variable Refresh Rate feature for the PS5 in the “coming months.” Starring Tom Merritt, Sarah Lane, Scott Johnson, Roger Chang, Joe. Link to the Show Notes . Quick Hits: https://www.reuters.com/business/media-telecom/us-judge-rules-favor-chinas-zte-ending-probation-2022-03-23/ https://www.theverge.com/2022/3/23/22991667/snap-buys-nextmind-brain-computer-interface-spectacles-ar-glasses https://www.reuters.com/technology/okta-says-up-366-customers-have-potentially-been-impacted-by-hacker-attack-2022-03-23/ https://techcrunch.com/2022/03/23/microsoft-lapsus-hack-source-code/ https://www.theverge.com/2022/3/23/22992424/nothing-phone-1-smartphone-carl-pei-apple-ecosystem?scrolla=5eb6d68b7fedc32c19ef33b4...",
+              "subject": [
+                "DTNS",
+                "Daily Tech News Show",
+                "Tech News"
+              ],
+              "creator": [
+                "Tom Merritt"
+              ],
+              "collection": [
+                "dtns",
+                "podcasts_mirror",
+                "podcasts"
+              ],
+              "date": "2022-03-23T00:00:00Z",
+              "year": 2022,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "movies",
+              "licenseurl": "https://creativecommons.org/licenses/by-nd/4.0/",
+              "item_size": 669710262,
+              "files_count": 38,
+              "downloads": 45,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2022-03-23T21:41:06Z",
+              "publicdate": "2022-03-23T21:41:06Z"
+            },
+            "highlight": null,
+            "_score": [
+              38.076492
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "cia-readingroom-document-cia-rdp00m01914r001000030017-4",
+              "title": "CIA Reading Room cia-rdp00m01914r001000030017-4: REISSUE(T399.1) TO VIKTOR[I].",
+              "description": "? Declassified in Part - Sanitized Copy Approved for Release 2012/08/31 : CIA-RDPOOM01914R001000030017-4 r.'\"7\"'IN\"7rg OP ? ? From: NEW YORK To: MOSCOW No: 1142 To VIKTOR[i]. Reissue (T399.1) YEN 25X1 25X1 10 August 1944 Your no. 3502[a]. 1. In accordance with a decision of the HOUSEIDOM][ii] ChIZhfiii] and KARLOS[iv] before departure from TYREITIR][v] were instructed in the use of a reciphered[TABLIChNYJ] code which they were to [46 groups unrecoverable] [D% alphabet] and in addition ChIZh was to write in English and KARLOS in Spanish. We cannot establish whether the pads[TABLITsY] for the codes were sent home since they were entered under the heading \"ChIZh's Business\" and \"KARLOS's Business\".[4 groups un-recovered] there are no inventories. From TYRE no enciphered lettefs were sent to[b] Ch. and K. Both codes ended up in ShTOKivi] hands. 2. For correspondence with ARTUR[vii] a book in the Spanish language \"Una Excursion a Los Indios Ranqueles\" was used as a code. 3. For...",
+              "subject": [
+                "CIA Reading Room"
+              ],
+              "creator": [
+                "CIA Reading Room"
+              ],
+              "collection": [
+                "ciareadingroom",
+                "usgovernmentmirrors",
+                "government-documents"
+              ],
+              "date": "1944-08-10T00:00:00Z",
+              "year": 1944,
+              "language": [
+                "english"
+              ],
+              "mediatype": "texts",
+              "item_size": 7201713,
+              "files_count": 16,
+              "downloads": 3,
+              "week": 3,
+              "month": 3,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2026-05-22T16:42:26Z",
+              "publicdate": "2026-05-22T16:42:26Z"
+            },
+            "highlight": null,
+            "_score": [
+              36.089188
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "cia-readingroom-document-cia-rdp82-00457r004900180008-5",
+              "title": "CIA Reading Room cia-rdp82-00457r004900180008-5: REORGANIZATION OF THE CZECH METALWORKING AND MECHANICAL ENGINEERING INDUSTRY",
+              "description": "; r r r)nxl -HUM Declassified in Part - Sanitized Copy Approved for Release 2012/02/21 : CIA-RDP82-00457R004900180008-5 C IF's RAL INTELLIGENCE AGENCY REPORT 9 54 W F WATI 5 COUNTR:? Czechoslovakia P CD NO. SUBJECT Reorganization of the Czech a,:etaln7orking and Lechanical Engineering Industry PLACE ACQUIRED \"')A OF INFO. 'II9lfs OOCUG3EIay CO tAI.d3 IwFO@EIAY&6ra 8{7FEC&IF7G T 3 rtAYIO 43L DL~FErJS@ Ur\"TI:D BTATC8 WIYIIIRI 104 r]EAIUIMO OP Ya9C ESPIOtaA63 ACT 60 S. C., Of AND 38. AS AYiCR036,. IYS L'HAnSUISSIOH O@ SILL' RP:V3tlATIOn 07 KTO COIaTC?JYE ICa ARV MAISPE3 TO AM DwADA2012nzED PE D5013 10 9aej~ !1MYlED BY Law, A3P2ODIICTaX'R O YI`+I8 V03 is P520HIBITD. SUPPLEMENT TO REPORT NO. THaS IS UNEVALUATED INFORMATION DATE DISTR 31 MA so NO. OF PAGES 5 NO. OF ENCLS. (LISTED BELOW) 1? By decree of the r'J4inistry of Industry, reference No. 670, dated 30 April 1949, the Central Directorate of the L1otalworking and ;kechanic l Engineer- ing Industry has been relieved of its control of...",
+              "subject": [
+                "CIA Reading Room"
+              ],
+              "creator": [
+                "CIA Reading Room"
+              ],
+              "collection": [
+                "ciareadingroom",
+                "usgovernmentmirrors",
+                "government-documents"
+              ],
+              "date": "1950-05-31T00:00:00Z",
+              "year": 1950,
+              "language": [
+                "english"
+              ],
+              "mediatype": "texts",
+              "item_size": 7065645,
+              "files_count": 16,
+              "downloads": 4,
+              "week": 4,
+              "month": 4,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2026-05-23T11:03:53Z",
+              "publicdate": "2026-05-23T11:03:53Z"
+            },
+            "highlight": null,
+            "_score": [
+              34.59782
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "lawful-mutilation-torture-medieval-anglo-code",
+              "title": "Medieval Torture & Anglo Law (Mutiliation): License to Torture",
+              "description": "\"Torture, and horrific bodily mutilation as a living testimony to royal power, and the futility of rebellion,\" ---- Barron, William RJ. \"The penalties for treason in medieval life and literature.\" Journal of medieval history 7.2 (1981): 187-202. [ \"Treason appears to have fascinated the Middle Ages. At the most fundamental felony, it struck at the roots of feudal society through a complex of crimes: compassing or plotting the death of the sovereign, betraying his realm to an enemy, counterfeiting his coinage, or falsifying his signature, seducing his wife or the wife of his son and heir. The basis of the felony was the same — betrayal of trust by an attack on the security of the state, its administrative or economic validity, or the legitimacy of the succession. Whether directed against the king or some lesser liege lord, the law made no absolute distinction between high and petty treason. Both demanded exemplary punishment, with methods such as drawing, hanging, emasculation,...",
+              "subject": [
+                "Dominican Republic",
+                "Haiti",
+                "Torture",
+                "Anglo Law",
+                "England",
+                "Genocide",
+                "Treason",
+                "Loyalty",
+                "Fielty",
+                "Punishment",
+                "Mutiliation",
+                "Cruelty",
+                "Emergency Powers",
+                "War Powers",
+                "Patriot Act",
+                "AUMF"
+              ],
+              "creator": [
+                "John McGuffin"
+              ],
+              "collection": [
+                "journals_contributions",
+                "journals"
+              ],
+              "date": "1897-01-01T00:00:00Z",
+              "year": 1897,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 8,
+              "item_size": 1055085589,
+              "files_count": 205,
+              "downloads": 1195,
+              "week": 30,
+              "month": 63,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2023-12-23T03:47:39Z",
+              "publicdate": "2023-12-23T03:47:39Z"
+            },
+            "highlight": null,
+            "_score": [
+              33.852222
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "iwasthereselecte0000terr",
+              "title": "I was there : selected dance reviews and articles--1936-1976",
+              "description": "xv, 692 pages, 11 unnumbered leaves of plates : 24 cm",
+              "subject": [
+                "Dance -- United States",
+                "Modern dance -- Reviews",
+                "Ballet -- Reviews",
+                "Danse -- États-Unis -- Collections",
+                "Ballet",
+                "Dance",
+                "Modern dance",
+                "United States",
+                "Danse -- Etats-Unis -- Collections"
+              ],
+              "creator": [
+                "Terry, Walter"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "1978-01-01T00:00:00Z",
+              "year": 1978,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 45,
+              "item_size": 1705598552,
+              "files_count": 32,
+              "downloads": 712,
+              "week": 12,
+              "month": 30,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": true,
+              "lending___status": "available_to_browse",
+              "addeddate": "2020-01-07T03:32:14Z",
+              "publicdate": "2020-01-07T03:32:14Z"
+            },
+            "highlight": null,
+            "_score": [
+              31.286217
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "zu-warriors-from-the-magic-mountain-export-and-original-dvdrip-super-cut",
+              "title": "俠新蜀山劍 Zu Warriors From The Magic Mountain ( Export & Original DVDRIP SuperCut) (Dubbed & Subtitled)",
+              "description": "Zu Warriors from the Magic Mountain  ( Chinese :  俠 新蜀山劍) is a 1983 Hong Kong  supernatural   xianxia   fantasy film  directed by  Tsui Hark  and based on the  xianxia novel   Legend of the Swordsmen of the Mountains of Shu  by  Huanzhulouzhu . Premise During the  Sixteen Kingdoms  period,  Qiao Shu  [ zh ]  army deserter Dik Ming-kei is being pursued by vampires in the mountain of Zu and is rescued by Master Ding Yan and then becomes his pupil. When they are ambushed by the Blood Devil, devil chaser Siu Yu and his pupil Yat Jan come to their assistance. They manage to hold off the Blood Devil, but they need to find the Dual Swords to destroy him. Master Ding takes the wounded Siu Yu to Celestial Fort and seeks help from the Mistress, but he is poisoned by the Blood Devil and surrenders to the Dark Force. Will Ming-kei and Yat Jan find the Dual Swords and destroy the Blood Devil? Cast Sammo Hung  as Chang Mei / Red Army soldier Yuen Biao  as Di Ming-qi / Dik Ming-kei Brigitte Lin  as...",
+              "subject": [
+                "Zu"
+              ],
+              "creator": [
+                "KonCATIII"
+              ],
+              "collection": [
+                "feature_films_unsorted",
+                "feature_films",
+                "moviesandfilms"
+              ],
+              "date": "2026-03-19T00:00:00Z",
+              "year": 2026,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "movies",
+              "licenseurl": "https://creativecommons.org/licenses/by/4.0/",
+              "num_favorites": 13,
+              "item_size": 4303900518,
+              "files_count": 200,
+              "downloads": 497,
+              "week": 28,
+              "month": 119,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2026-03-20T02:04:02Z",
+              "publicdate": "2026-03-20T02:04:02Z"
+            },
+            "highlight": null,
+            "_score": [
+              29.729298
+            ]
+          }
+        ]
+      },
+      "collection_titles": {
+        "newspapers_miscellaneous": "Miscellaneous Newspapers",
+        "wwIIarchive": "WWII Archive",
+        "journals_contributions": "Miscellaneous Contributed Journals and Academic Newsletters",
+        "travelmagazinesmisc": "Miscellaneous Travel Magazines",
+        "travelmagazines": "Travel and Region Magazines",
+        "the-vista-group-video": "The Vista Group® Video",
+        "usgovernmentmirrors": "US Government Mirrored Documents (Citizen Collection)",
+        "china-mail": "The China Mail",
+        "peel": "Peel's Prairie Provinces",
+        "nationalsecurityarchive": "National Security Internet Archive (NSIA)",
+        "ciareadingroom": "The CIA Reading Room Mirror",
+        "university_of_alberta_libraries": "University of Alberta Library",
+        "nsia_contributions": "Unsorted NSIA Contributions",
+        "folkscanomy_history": "Folkscanomy History: Books of a Historical Nature",
+        "ephemera": "Ephemeral Films",
+        "peel_newspapers": "Peel's Prairie Provinces - Newspapers",
+        "journals": "Journals",
+        "minnov8": "Minnov8 Podcast",
+        "internetarchivebooks": "Internet Archive Books",
+        "nikki-craft-archival-project": "Nikki Craft Archival Project",
+        "lgbtcenterofny_202604": "LGBT Center of New York",
+        "newspapers": "Newspapers",
+        "podcasts_mirror": "Podcasts Mirror",
+        "community-webs": "Community Webs",
+        "podcasts_mirror_bobarchives": "Podcasts Mirror (administered by bobarchives)",
+        "podcasts-video": "Video Podcasts",
+        "dtns": "Daily Tech News Show",
+        "vhs-activism-archive": "VHS Activism Archive",
+        "claremont_school_of_theology": "Claremont School of Theology Library Donation",
+        "newsstand": "The News Stand: Contributed Newspapers, Weeklies and Broadsheets",
+        "PeriscopeFilm": "PeriscopeFilm",
+        "podcasts": "Podcasts",
+        "government-documents": "Government Documents (Worldwide)",
+        "feature_films_unsorted": "Miscellaneous Feature Films",
+        "moviesandfilms": "Movies",
+        "feature_films": "Feature Films",
+        "patron-library-collection": "Patron Libraries (Libraries from Patrons)",
+        "vhsvault": "The VHS Vault",
+        "magazine_rack": "The Magazine Rack",
+        "folkscanomy": "Folkscanomy: A Library of Books"
+      }
+    },
+    "hit_schema": {
+      "item": {
+        "identifier": {
+          "multivalue": false,
+          "mapping": "string"
+        },
+        "noindex": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "optional": true
+        },
+        "title": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "description": {
+          "multivalue": false,
+          "mapping": "string",
+          "dressing": {
+            "truncate": 1000
+          },
+          "optional": true
+        },
+        "subject": {
+          "multivalue": true,
+          "mapping": "string",
+          "dressing": {
+            "truncate": 1000
+          },
+          "optional": true
+        },
+        "creator": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "collection": {
+          "multivalue": true,
+          "mapping": "string",
+          "comment": "may be a superset of metadata collection field"
+        },
+        "date": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "year": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed from date",
+          "optional": true
+        },
+        "genre": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "volume": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "type": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "language": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "mediatype": {
+          "multivalue": false,
+          "mapping": "string"
+        },
+        "licenseurl": {
+          "multivalue": false,
+          "mapping": "string__url",
+          "optional": true
+        },
+        "num_favorites": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true,
+          "comment": "computed during document construction"
+        },
+        "num_reviews": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true,
+          "comment": "computed during document construction"
+        },
+        "item_size": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "bytes; computed during document construction"
+        },
+        "files_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction"
+        },
+        "item_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction",
+          "optional": true
+        },
+        "displayed_item_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction, may be inferred from item_count",
+          "optional": true
+        },
+        "collection_files_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction, for collection items only",
+          "optional": true
+        },
+        "collection_size": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "bytes; computed during document construction, for collection items only",
+          "optional": true
+        },
+        "downloads": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "total views over item lifetime, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "week": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "views over a seven-day period, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "month": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "views over a month, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "indexflag": {
+          "multivalue": true,
+          "mapping": "string",
+          "comment": "item characterization including noindex status"
+        },
+        "lending___available_to_borrow": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___available_to_browse": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___available_to_waitlist": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___status": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "avg_rating": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true
+        },
+        "addeddate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "issue": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "format varies",
+          "optional": true
+        },
+        "source": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "format varies",
+          "optional": true
+        },
+        "reviewdate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "publicdate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "date_favorited": {
+          "multivalue": false,
+          "mapping": "date",
+          "comment": "not metadata; only present in favorites lists, sourced from Lists API",
+          "optional": true
+        },
+        "reviews_data": {
+          "multivalue": true,
+          "dressing": {
+            "truncate": false
+          },
+          "mapping": "string",
+          "comment": "untruncated JSON encoded data used for Account reviews",
+          "optional": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,4 @@
+person_id,date,kind,note,source
+quevedo_francisco,1632-01-01,portrait_wear_pin,Velázquez portrait ca.1631–35: Quevedo wears large-lens spectacles. Soft onset year of the portrait pin.,Ilardi 2007 Appendix III
+quevedo_francisco,1634-01-01,dated_book,La cuna y la sepultura (WD Q3821987). LABOR TIP years_after=2 from 1632.,Wikidata P50 Q201315 / Q3821987 P577
+quevedo_francisco,1645-09-08,death_terminus_not_ya,Died 8 Sep 1645. Survival bound only — do not use as labor tip.,Wikidata Q201315 P570

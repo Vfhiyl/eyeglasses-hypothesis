@@ -1,0 +1,1809 @@
+{
+  "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785941221491",
+  "version": "1x7o",
+  "session_context": {
+    "session_key": "user__alanobrienterry918272@gmail.com",
+    "created": "2026-08-05T14:47:05Z",
+    "client_characterization": {
+      "characterized_by": "asserted_or_authenticated",
+      "preferred_client_ip": null,
+      "client_ip": "152.110.192.251:sra",
+      "preferred_client_useragent": null,
+      "client_useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36:sua",
+      "preferred_client_id": null,
+      "client_id": "alanobrienterry918272@gmail.com:sco"
+    },
+    "username": "alanobrienterry918272@gmail.com",
+    "authentication_method": "cookie",
+    "is_system": false,
+    "is_guest": false,
+    "is_user": true,
+    "is_archive_user": false,
+    "is_qualified": false,
+    "is_archivist": false,
+    "has_universal_privs": false,
+    "has_collection_priv": false,
+    "has_allowed_host_priv": false,
+    "has_vpn_host_priv": false,
+    "has_scan_center_priv": false,
+    "has_any_priv": false,
+    "has_any_priv_permissive": false,
+    "pps": {
+      "is_page_target_owner": false,
+      "contributed_review_on_page": false,
+      "full_text_search_override": false,
+      "sees_sensitive_fields": false
+    },
+    "pps_relevant_user_preferences": {
+      "display__blur_moderated_content": "on"
+    }
+  },
+  "request": {
+    "client_request_parameters": {
+      "client": "page_production_service_endpoint",
+      "user_query": "title:(\"privy purse\") mediatype:texts",
+      "hits_per_page": 30,
+      "page": 1,
+      "aggregations": [],
+      "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785941221491",
+      "client_url": "https://archive.org/search?query=title%3A%28%22privy+purse%22%29+mediatype%3Atexts"
+    },
+    "backend_requests": {
+      "search": {
+        "root": "(self)",
+        "children": [
+          "collection_title_fetch__8df029a3a7dbff1cdad81ff64c3b598d"
+        ],
+        "request_type": "search",
+        "finalized_parameters": {
+          "client": "page_production_service_endpoint",
+          "user_query": "(redacted)",
+          "hits_per_page": 30,
+          "page": 1,
+          "aggregations": [],
+          "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785941221491",
+          "client_url": "https://archive.org/search?query=title%3A%28%22privy+purse%22%29+mediatype%3Atexts",
+          "page_type": "search_results",
+          "fields": [
+            "_tile_"
+          ],
+          "sort": [
+            "_relevance_:desc",
+            "identifier"
+          ],
+          "aggregations_size": 10,
+          "service_backend": "metadata",
+          "scope": "standard",
+          "feature_flags": {
+            "complex_facets": true,
+            "collection_titles": true,
+            "redact_collections": true,
+            "redact_collections_by_privs": false,
+            "redact_empty_collections": true,
+            "redact_admin_collections": true,
+            "protect_flagging_collections": true
+          },
+          "service": "service__metadata__load_balanced"
+        }
+      },
+      "collection_title_fetch__8df029a3a7dbff1cdad81ff64c3b598d": {
+        "root": "search",
+        "parent": "search",
+        "request_type": "collection_title_fetch",
+        "finalized_parameters": {
+          "page_type": "document_fetch",
+          "user_query": "(redacted)",
+          "aggregations": [],
+          "caching": null,
+          "fields": [
+            "identifier",
+            "title"
+          ],
+          "search_as_system": true,
+          "page": 1,
+          "hits_per_page": 250,
+          "sort": [
+            "_efficient_"
+          ],
+          "service_backend": "metadata",
+          "scope": "ill,printdisabled_and_music,scancenter",
+          "service": "service__metadata__load_balanced"
+        }
+      }
+    }
+  },
+  "caching": {
+    "search": {
+      "name": "PPS-1x7o-J:XX-RT:s~hit-T:sr-Q:7855f802-H:30-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+      "acceptable_names": [
+        "PPS-1x7o-J:XX-RT:s~std-T:sr-Q:7855f802-H:30-B:mds-RS:sta~CS::P:0+CS:some+BR:1"
+      ],
+      "configuration": {
+        "requested": [],
+        "finalized": {
+          "bypass": false,
+          "recompute": false,
+          "no_compute": false,
+          "ttl_s": 300,
+          "max_age_s": 0,
+          "miss_policy": "none"
+        }
+      },
+      "utilization": {
+        "went_to_cache": true,
+        "alternates_allowed": true,
+        "hit_alternate": false,
+        "hit_canonical": true,
+        "hit": true,
+        "miss": true,
+        "recomputed": false,
+        "stored": false,
+        "acceptable_names_tried": [
+          "PPS-1x7o-J:XX-RT:s~std-T:sr-Q:7855f802-H:30-B:mds-RS:sta~CS::P:0+CS:some+BR:1"
+        ],
+        "elapsed_s": 0.0042340755462646484
+      },
+      "statsd_bucket": "search.pps.cache.metadata.search_results"
+    },
+    "collection_title_fetch__8df029a3a7dbff1cdad81ff64c3b598d": {
+      "name": "PPS-1x7o-J:XX-RT:ctf-T:df-Q:e0cbd168-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1",
+      "acceptable_names": [],
+      "configuration": {
+        "requested": [],
+        "finalized": {
+          "bypass": false,
+          "recompute": false,
+          "no_compute": false,
+          "ttl_s": 300,
+          "max_age_s": 0,
+          "miss_policy": "none"
+        }
+      },
+      "utilization": {
+        "went_to_cache": true,
+        "alternates_allowed": true,
+        "hit_alternate": false,
+        "hit_canonical": true,
+        "hit": true,
+        "miss": false,
+        "recomputed": false,
+        "stored": false,
+        "elapsed_s": 0.0010612010955810547
+      },
+      "statsd_bucket": "search.pps.cache.metadata.search_results"
+    },
+    "summary": {
+      "fetched": [
+        "PPS-1x7o-J:XX-RT:s~hit-T:sr-Q:7855f802-H:30-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:XX-RT:ctf-T:df-Q:e0cbd168-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "computed": [],
+      "stored": [],
+      "missed": [],
+      "bypassed": []
+    }
+  },
+  "elapsed_secs": 0.022346019744873047,
+  "response": {
+    "header": {
+      "succeeded": true,
+      "query_time": 68,
+      "forensics": {
+        "client_characterization": {
+          "client_ip": "212.47.145.211:sra",
+          "client_id": "alanobrienterry918272@gmail.com:sco",
+          "client_useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36:sua",
+          "preferred_client_ip": null,
+          "preferred_client_id": null,
+          "preferred_client_useragent": null,
+          "application_id": {
+            "session": [
+              "pageproduction"
+            ],
+            "request": []
+          },
+          "client_jurisdiction": "AZ",
+          "preferred_client_jurisdiction": null,
+          "actionable_jurisdiction": "XX",
+          "characterized_by": "asserted_or_authenticated",
+          "ensured": true
+        },
+        "routing": {
+          "backend": "es-prod-metadatasearch-filtered",
+          "backend_server": "es-prod-client-o-07",
+          "routed_to_load_balanced": true,
+          "index_addressed": "prod-o-001"
+        },
+        "backend_request_elapsed_secs": {
+          "search": 0.0042340755462646484,
+          "collection_title_fetch__8df029a3a7dbff1cdad81ff64c3b598d": 0.0010612010955810547
+        }
+      },
+      "elapsed_secs_for_backend_requests": 0.005295276641845703
+    },
+    "body": {
+      "hits": {
+        "total": 30,
+        "returned": 30,
+        "hits": [
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "privypurseexpen02nicogoog",
+              "title": "The Privy Purse Expences of King Henry the Eighth: From November MDXXIX, to ...",
+              "description": "Book digitized by Google from the library of the University of California and uploaded to the Internet Archive by user tpb.",
+              "creator": [
+                "Nicholas Harris Nicolas"
+              ],
+              "collection": [],
+              "date": "1827-01-01T00:00:00Z",
+              "year": 1827,
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 1,
+              "item_size": 66357811,
+              "files_count": 13,
+              "downloads": 1492,
+              "week": 1,
+              "month": 17,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2008-08-17T00:09:36Z",
+              "source": "http://books.google.com/books?id=it1CAAAAIAAJ&oe=UTF-8",
+              "publicdate": "2008-08-17T00:09:36Z"
+            },
+            "highlight": null,
+            "_score": [
+              39.83894
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "privypurseexpen00nico",
+              "title": "Privy purse expenses of Elizabeth of York : wardrobe accounts of Edward the Fourth",
+              "description": "Includes index",
+              "subject": [
+                "Elizabeth, Queen, consort of Henry VII, King of England, 1465-1503",
+                "Edward IV, King of England, 1442-1483",
+                "Prices",
+                "Royal households"
+              ],
+              "creator": [
+                "Nicolas, Nicholas Harris, Sir, 1799-1848"
+              ],
+              "collection": [
+                "pimslibrary",
+                "university_of_toronto"
+              ],
+              "date": "1830-01-01T00:00:00Z",
+              "year": 1830,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 6,
+              "item_size": 611174074,
+              "files_count": 25,
+              "downloads": 1507,
+              "week": 1,
+              "month": 5,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2011-07-19T01:09:20Z",
+              "publicdate": "2011-07-19T01:09:27Z"
+            },
+            "highlight": null,
+            "_score": [
+              39.06075
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "op1242934-1001",
+              "title": "Account of Sums paid from Treasury of Ireland into H.M. Privy Purse, 1800-09",
+              "description": "In: Parliamentary Papers, Session 1810-11, Vol. VI, p.1115 Cockton Parliamentary papers vol. barcode: 00381696 1 Explore this and other items from our digitised collections on the University of Southampton Digital Library.",
+              "subject": [
+                "Finance,Public - Ireland",
+                "Financial institutions - Ireland",
+                "Irish papers - national finance"
+              ],
+              "collection": [
+                "britishparliamentarypublications",
+                "universityofsouthamptonlibrary",
+                "patron-library-collection"
+              ],
+              "date": "1811-01-01T00:00:00Z",
+              "year": 1811,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "licenseurl": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+              "item_size": 11123365,
+              "files_count": 17,
+              "downloads": 107,
+              "week": 0,
+              "month": 5,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2016-02-02T22:32:43Z",
+              "publicdate": "2016-02-02T22:32:43Z"
+            },
+            "highlight": null,
+            "_score": [
+              38.1346
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "theprivypurseexp46009gut",
+              "title": "The Privy Purse Expenses of King Henry VIII from November MDXXIX, to December MDXXXII",
+              "description": "Book from Project Gutenberg: The Privy Purse Expenses of King Henry VIII from November MDXXIX, to December MDXXXII",
+              "subject": [
+                "Prices -- Great Britain",
+                "DA",
+                "Henry VIII, King of England, 1491-1547",
+                "Royal households -- Great Britain"
+              ],
+              "creator": [
+                "Nicholas Harris, Sir Nicolas"
+              ],
+              "collection": [
+                "gutenberg"
+              ],
+              "language": [
+                "en"
+              ],
+              "mediatype": "texts",
+              "item_size": 17094327,
+              "files_count": 26,
+              "downloads": 321,
+              "week": 6,
+              "month": 25,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2018-08-01T17:19:10Z",
+              "source": "https://www.gutenberg.org/ebooks/46009",
+              "publicdate": "2018-08-01T17:19:10Z"
+            },
+            "highlight": null,
+            "_score": [
+              37.726368
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "privypurseexpen00maddgoog",
+              "title": "Privy Purse Expenses of the Princess Mary, Daughter of King Henry the Eighth, Afterwards Queen ...",
+              "description": "Book digitized by Google and uploaded to the Internet Archive by user tpb.",
+              "creator": [
+                "Frederic Madden"
+              ],
+              "collection": [],
+              "date": "1831-01-01T00:00:00Z",
+              "year": 1831,
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 1,
+              "item_size": 287129018,
+              "files_count": 13,
+              "downloads": 3327,
+              "week": 1,
+              "month": 22,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2008-07-13T08:30:13Z",
+              "source": "http://books.google.com/books?id=FG0JAAAAIAAJ&oe=UTF-8",
+              "publicdate": "2008-07-13T08:30:13Z"
+            },
+            "highlight": null,
+            "_score": [
+              37.254486
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "privypurseexpen00nicogoog",
+              "title": "The privy purse expences of King Henry the Eighth, from November MDXXIX, to December MDXXXII:",
+              "description": "Book digitized by Google from the library of the University of Michigan and uploaded to the Internet Archive by user tpb.",
+              "subject": [
+                "Henry VIII, King of England, 1491-1547",
+                "Royal households",
+                "Prices"
+              ],
+              "creator": [
+                "Nicolas, Nicholas Harris, Sir, 1799-1848"
+              ],
+              "collection": [],
+              "date": "1827-01-01T00:00:00Z",
+              "year": 1827,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 3,
+              "item_size": 66625917,
+              "files_count": 16,
+              "downloads": 2070,
+              "week": 1,
+              "month": 27,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2008-07-04T19:57:08Z",
+              "source": "http://books.google.com/books?id=q1EDAAAAMAAJ&oe=UTF-8",
+              "publicdate": "2008-07-04T19:57:08Z"
+            },
+            "highlight": null,
+            "_score": [
+              36.76621
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "privypurseexpen01maddgoog",
+              "title": "Privy Purse Expenses of the Princess Mary, Daughter of King Henry the Eighth, Afterwards Queen ...",
+              "description": "Book digitized by Google from the library of the University of Michigan and uploaded to the Internet Archive by user tpb.",
+              "creator": [
+                "Frederic Madden"
+              ],
+              "collection": [],
+              "date": "1831-01-01T00:00:00Z",
+              "year": 1831,
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 1,
+              "item_size": 72689887,
+              "files_count": 13,
+              "downloads": 1328,
+              "week": 0,
+              "month": 5,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2008-07-13T10:24:05Z",
+              "source": "http://books.google.com/books?id=2cIgAAAAMAAJ&oe=UTF-8",
+              "publicdate": "2008-07-13T10:24:05Z"
+            },
+            "highlight": null,
+            "_score": [
+              36.402695
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "privypurseexpe00nico",
+              "title": "The privy purse expenses of King Henry the Eighth, from November 1529, to December 1532",
+              "description": "Includes index",
+              "subject": [
+                "Henry VIII, King of England, 1491-1547",
+                "Prices",
+                "Royal households"
+              ],
+              "creator": [
+                "Nicolas, Nicholas Harris, Sir, 1799-1848"
+              ],
+              "collection": [
+                "pimslibrary",
+                "university_of_toronto"
+              ],
+              "date": "1827-01-01T00:00:00Z",
+              "year": 1827,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 2,
+              "item_size": 763123142,
+              "files_count": 25,
+              "downloads": 1193,
+              "week": 0,
+              "month": 10,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2011-07-14T22:42:31Z",
+              "publicdate": "2011-07-14T22:42:34Z"
+            },
+            "highlight": null,
+            "_score": [
+              36.371212
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "privypurseexpen00unkngoog",
+              "title": "The privy purse expences of king Henry the eighth, from November mdxxix, to December mdxxxii ...",
+              "description": "Book digitized by Google from the library of Oxford University and uploaded to the Internet Archive by user tpb.",
+              "creator": [
+                "Nicholas Harris Nicolas"
+              ],
+              "collection": [
+                "europeanlibraries"
+              ],
+              "date": "1827-01-01T00:00:00Z",
+              "year": 1827,
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "item_size": 74678063,
+              "files_count": 13,
+              "downloads": 989,
+              "week": 0,
+              "month": 13,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2008-07-04T19:54:05Z",
+              "source": "http://books.google.com/books?id=_q2T14ZpStEC&oe=UTF-8",
+              "publicdate": "2008-07-04T19:54:05Z"
+            },
+            "highlight": null,
+            "_score": [
+              36.21293
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "privypurseexpen03maddgoog",
+              "title": "Privy purse expenses of the Princess Mary, daughter of King Henry the Eighth, afterwards Queen Mary",
+              "description": "Book digitized by Google from the library of the New York Public Library and uploaded to the Internet Archive by user tpb.",
+              "subject": [
+                "Mary I, Queen of England, 1516-1558"
+              ],
+              "creator": [
+                "Madden, Frederic, 1801-1873, editor"
+              ],
+              "collection": [],
+              "date": "1831-01-01T00:00:00Z",
+              "year": 1831,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 3,
+              "item_size": 113604598,
+              "files_count": 21,
+              "downloads": 2172,
+              "week": 6,
+              "month": 17,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2008-07-13T12:20:31Z",
+              "source": "http://books.google.com/books?id=ItsuAAAAMAAJ&oe=UTF-8",
+              "publicdate": "2008-07-13T12:20:31Z"
+            },
+            "highlight": null,
+            "_score": [
+              35.519093
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "privypurseexpen02maddgoog",
+              "title": "Privy purse expenses of the Princess Mary, daughter of King Henry the Eighth, afterwards Queen Mary",
+              "description": "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+              "subject": [
+                "Mary I, Queen of England, 1516-1558"
+              ],
+              "creator": [
+                "Madden, Frederic, 1801-1873, editor"
+              ],
+              "collection": [],
+              "date": "1831-01-01T00:00:00Z",
+              "year": 1831,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 1,
+              "item_size": 120892608,
+              "files_count": 21,
+              "downloads": 2381,
+              "week": 4,
+              "month": 21,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2008-07-13T10:37:06Z",
+              "source": "http://books.google.com/books?id=K2ELAAAAYAAJ&oe=UTF-8",
+              "publicdate": "2008-07-13T10:37:06Z"
+            },
+            "highlight": null,
+            "_score": [
+              35.49986
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "10064302bsb",
+              "title": "Memoirs of William Knighton, Keeper of the privy purse during the reign of King George IV.",
+              "description": "Paris : Galignani 1838 Location/Holding institution: München, Bayerische Staatsbibliothek -- Biogr. 581 k",
+              "creator": [
+                "Knighton, Dorothea"
+              ],
+              "collection": [
+                "german-online-libraries",
+                "booksbylanguage_german",
+                "booksbylanguage"
+              ],
+              "date": "1838-01-01T00:00:00Z",
+              "year": 1838,
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "item_size": 403780929,
+              "files_count": 16,
+              "downloads": 87,
+              "week": 1,
+              "month": 17,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2026-03-16T08:12:26Z",
+              "publicdate": "2026-03-16T08:12:26Z"
+            },
+            "highlight": null,
+            "_score": [
+              35.308517
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "henryprivypurse00nicouoft",
+              "title": "The privy purse expenses of King Henry the Eighth, from November 1529, to December 1532 : with introductory remarks and illustrative notes",
+              "description": "26",
+              "subject": [
+                "Henry VIII, King of England, 1491-1547",
+                "Prices -- Great Britain",
+                "Royal households -- Great Britain"
+              ],
+              "creator": [
+                "Nicolas, Nicholas Harris, Sir, 1799-1848"
+              ],
+              "collection": [
+                "robarts",
+                "university_of_toronto"
+              ],
+              "date": "1827-01-01T00:00:00Z",
+              "year": 1827,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 12,
+              "item_size": 666780772,
+              "files_count": 25,
+              "downloads": 7329,
+              "week": 19,
+              "month": 101,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2007-01-15T14:31:21Z",
+              "publicdate": "2007-01-15T06:31:25Z"
+            },
+            "highlight": null,
+            "_score": [
+              30.502523
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "privypurseexpens00nicouoft",
+              "title": "Privy purse expenses of Elizabeth of York : wardrobe accounts of Edward the Fourth. With a memoir of Elizabeth of York, and notes",
+              "description": "26",
+              "subject": [
+                "Elizabeth, Queen, consort of Henry VII, King of England, 1465-1503",
+                "Edward IV, King of England, 1442-1483",
+                "Prices -- Great Britain",
+                "Royal households -- Great Britain"
+              ],
+              "creator": [
+                "Nicolas, Nicholas Harris, Sir, 1799-1848"
+              ],
+              "collection": [
+                "robarts",
+                "university_of_toronto"
+              ],
+              "date": "1830-01-01T00:00:00Z",
+              "year": 1830,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 14,
+              "item_size": 449198173,
+              "files_count": 23,
+              "downloads": 7733,
+              "week": 13,
+              "month": 104,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2007-01-15T14:29:31Z",
+              "publicdate": "2007-01-15T06:29:34Z"
+            },
+            "highlight": null,
+            "_score": [
+              29.534082
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "privypurseexpen03nicogoog",
+              "title": "Privy purse expenses of Elizabeth of York: wardrobe accounts of Edward the Fourth. With a memoir of Elizabeth of York, and notes",
+              "description": "Book digitized by Google from the library of the University of California and uploaded to the Internet Archive by user tpb.",
+              "subject": [
+                "Elizabeth, Queen, consort of Henry VII, King of England, 1465-1503",
+                "Edward IV, King of England, 1442-1483",
+                "Prices",
+                "Royal households"
+              ],
+              "creator": [
+                "Nicolas, Nicholas Harris, Sir, 1799-1848"
+              ],
+              "collection": [],
+              "date": "1830-01-01T00:00:00Z",
+              "year": 1830,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 4,
+              "item_size": 108298285,
+              "files_count": 16,
+              "downloads": 1258,
+              "week": 1,
+              "month": 7,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2009-08-07T13:17:02Z",
+              "source": "http://books.google.com/books?id=p91CAAAAIAAJ&oe=UTF-8",
+              "publicdate": "2009-08-07T13:17:02Z"
+            },
+            "highlight": null,
+            "_score": [
+              29.522282
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "privypurseexpen01nicogoog",
+              "title": "Privy purse expenses of Elizabeth of York: wardrobe accounts of Edward the Fourth. With a memoir of Elizabeth of York, and notes",
+              "description": "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+              "subject": [
+                "Elizabeth, Queen, consort of Henry VII, King of England, 1465-1503",
+                "Edward IV, King of England, 1442-1483",
+                "Prices",
+                "Royal households"
+              ],
+              "creator": [
+                "Nicolas, Nicholas Harris, Sir, 1799-1848"
+              ],
+              "collection": [],
+              "date": "1830-01-01T00:00:00Z",
+              "year": 1830,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 2,
+              "item_size": 71868040,
+              "files_count": 16,
+              "downloads": 1550,
+              "week": 0,
+              "month": 5,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2008-07-12T16:37:17Z",
+              "source": "http://books.google.com/books?id=ulkLAAAAYAAJ&oe=UTF-8",
+              "publicdate": "2008-07-12T16:37:17Z"
+            },
+            "highlight": null,
+            "_score": [
+              29.041992
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "privypurseexpens00nicorich",
+              "title": "Privy purse expenses of Elizabeth of York : wardrobe accounts of Edward the Fourth : with a memoir of Elizabeth of York, and notes",
+              "description": "civ, 265, p. 22 cm",
+              "subject": [
+                "Elizabeth, Queen, consort of Henry VII, King of England, 1465-1503",
+                "Edward IV King of England, 1442-1483",
+                "Prices -- Great Britain",
+                "Royal households -- Great Britain"
+              ],
+              "creator": [
+                "Nicolas, Nicholas Harris, Sir, 1799-1848",
+                "American Institute of Wine & Food, former owner"
+              ],
+              "collection": [
+                "cdl"
+              ],
+              "date": "1830-01-01T00:00:00Z",
+              "year": 1830,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 3,
+              "item_size": 631391609,
+              "files_count": 25,
+              "downloads": 2181,
+              "week": 6,
+              "month": 24,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2007-05-25T22:23:27Z",
+              "publicdate": "2007-05-25T22:23:39Z"
+            },
+            "highlight": null,
+            "_score": [
+              29.041992
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "bub_gb_qxBPxJgK9mgC",
+              "title": "Privy Purse Expenses of Elizabeth of York Wardrobe Accounts of Edward the Fourth with a Memoir of Elizabeth of York and Notes",
+              "subject": [
+                "bub_upload"
+              ],
+              "creator": [
+                "Nicholas Harris Nicolas"
+              ],
+              "collection": [
+                "europeanlibraries"
+              ],
+              "date": "1830-01-01T00:00:00Z",
+              "year": 1830,
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
+              "item_size": 216798942,
+              "files_count": 14,
+              "downloads": 181,
+              "week": 1,
+              "month": 5,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2016-01-07T12:50:18Z",
+              "source": "http://books.google.com/books?id=qxBPxJgK9mgC&hl=&source=gbs_api",
+              "publicdate": "2016-01-07T12:50:18Z"
+            },
+            "highlight": null,
+            "_score": [
+              29.034422
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "memoirskeeperofp00knig",
+              "title": "Memoirs, Keeper of the Privy Purse during the reign of His Majesty King George the Fourth, including his correspondence with many distinguished persons",
+              "description": "26",
+              "creator": [
+                "Knighton, William, Sir, 1776-1836",
+                "Knighton, Dorothea"
+              ],
+              "collection": [
+                "robarts",
+                "university_of_toronto"
+              ],
+              "date": "1838-01-01T00:00:00Z",
+              "year": 1838,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 828073298,
+              "files_count": 23,
+              "downloads": 477,
+              "week": 1,
+              "month": 5,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2013-03-05T18:56:48Z",
+              "publicdate": "2013-03-05T18:56:51Z"
+            },
+            "highlight": null,
+            "_score": [
+              28.412363
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "privypurseexpens00mary",
+              "title": "Privy purse expenses of the Princess Mary, daughter of King Henry the Eighth, afterwards Queen Mary : with a memoir of the princess, and notes",
+              "description": "27",
+              "subject": [
+                "Mary I, Queen of England, 1516-1558"
+              ],
+              "creator": [
+                "Mary I, Queen of England, 1516-1558",
+                "Madden, Frederic, 1801-1873"
+              ],
+              "collection": [
+                "pimslibrary",
+                "university_of_toronto"
+              ],
+              "date": "1831-01-01T00:00:00Z",
+              "year": 1831,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 3,
+              "item_size": 586619395,
+              "files_count": 23,
+              "downloads": 2139,
+              "week": 8,
+              "month": 24,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2011-07-14T22:39:52Z",
+              "publicdate": "2011-07-14T22:40:02Z"
+            },
+            "highlight": null,
+            "_score": [
+              27.686903
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "memoirsofsirwill02knig_0",
+              "title": "Memoirs of Sir William Knighton, bart., G. C. H., keeper of the privy purse during the reign of His Majesty King George the Fourth",
+              "description": "2 v. 22 cm",
+              "creator": [
+                "Knighton, William, Sir, 1776-1836",
+                "Knighton, Lady"
+              ],
+              "collection": [
+                "getty"
+              ],
+              "date": "1838-01-01T00:00:00Z",
+              "year": 1838,
+              "volume": "v.2",
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 668396061,
+              "files_count": 23,
+              "downloads": 316,
+              "week": 1,
+              "month": 5,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "addeddate": "2015-02-24T22:35:29Z",
+              "publicdate": "2015-02-24T21:40:29Z"
+            },
+            "highlight": null,
+            "_score": [
+              27.668962
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "memoirsofsirwill01knig_0",
+              "title": "Memoirs of Sir William Knighton, bart., G. C. H., keeper of the privy purse during the reign of His Majesty King George the Fourth",
+              "description": "2 v. 22 cm",
+              "creator": [
+                "Knighton, William, Sir, 1776-1836",
+                "Knighton, Lady"
+              ],
+              "collection": [
+                "getty"
+              ],
+              "date": "1838-01-01T00:00:00Z",
+              "year": 1838,
+              "volume": "v.1",
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 627726673,
+              "files_count": 25,
+              "downloads": 674,
+              "week": 3,
+              "month": 22,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "addeddate": "2015-02-24T22:35:24Z",
+              "publicdate": "2015-02-24T21:40:28Z"
+            },
+            "highlight": null,
+            "_score": [
+              27.51441
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "privypurseexpens00maddrich",
+              "title": "Privy purse expenses of the Princess Mary, daughter of King Henry the Eighth, afterwards Queen Mary [electronic resource] : with a memoir of the princess, and notes",
+              "description": "Electronic reproduction",
+              "subject": [
+                "Mary I, Queen of England, 1516-1558",
+                "Great Britain -- Royal household Appropriations and expenditures"
+              ],
+              "creator": [
+                "Madden, Frederic, 1801-1873"
+              ],
+              "collection": [
+                "cdl"
+              ],
+              "date": "1831-01-01T00:00:00Z",
+              "year": 1831,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 9,
+              "item_size": 512352256,
+              "files_count": 24,
+              "downloads": 3891,
+              "week": 23,
+              "month": 122,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2008-04-30T22:32:37Z",
+              "publicdate": "2008-04-30T22:32:41Z"
+            },
+            "highlight": null,
+            "_score": [
+              26.477789
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "b3348806x_0002",
+              "title": "Memoirs of Sir William Knighton, bart., G.C.H., keeper of the privy purse during the reign of His Majesty King George the Fourth. Including his correspondence with many distinguished personages",
+              "description": "2 volumes : (8vo)",
+              "creator": [
+                "Knighton, William, Sir, 1776-1836"
+              ],
+              "collection": [
+                "wellcomelibrary",
+                "ukmhl",
+                "medicalheritagelibrary",
+                "europeanlibraries",
+                "medicallibrary"
+              ],
+              "date": "1838-01-01T00:00:00Z",
+              "year": 1838,
+              "volume": "Vol. 2",
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 1156573081,
+              "files_count": 27,
+              "downloads": 37,
+              "week": 0,
+              "month": 2,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "addeddate": "2025-05-02T07:58:41Z",
+              "publicdate": "2025-04-14T11:05:07Z"
+            },
+            "highlight": null,
+            "_score": [
+              24.815365
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "memoirssirwilli01kniggoog",
+              "title": "Memoirs of Sir William Knighton, bart., G. C. H., keeper of the privy purse during the reign of His Majesty King George the Fourth. Including his correspondence with many distinguished personages",
+              "description": "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+              "creator": [
+                "Knighton, William, Sir, bart., 1776-1836",
+                "Knighton, Dorothea (Hawker), lady"
+              ],
+              "collection": [],
+              "date": "1838-01-01T00:00:00Z",
+              "year": 1838,
+              "volume": "1",
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 81641382,
+              "files_count": 16,
+              "downloads": 507,
+              "week": 1,
+              "month": 8,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2009-06-13T11:50:54Z",
+              "source": "http://books.google.com/books?id=tA0MAAAAYAAJ&oe=UTF-8",
+              "publicdate": "2009-06-13T11:50:54Z"
+            },
+            "highlight": null,
+            "_score": [
+              23.727709
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "memoirssirwilli02kniggoog",
+              "title": "Memoirs of Sir William Knighton, Bart., G. C. H. : keeper of the privy purse during the reign of His Majesty King George the Fourth : including his correspondence with many distinguished personages",
+              "description": "Book digitized by Google from the library of the New York Public Library and uploaded to the Internet Archive by user tpb.",
+              "subject": [
+                "Knighton, William, Sir, 1776-1836"
+              ],
+              "creator": [
+                "Knighton, William, Sir, 1776-1836",
+                "Knighton, Lady"
+              ],
+              "collection": [],
+              "date": "1838-01-01T00:00:00Z",
+              "year": 1838,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 131917376,
+              "files_count": 16,
+              "downloads": 662,
+              "week": 1,
+              "month": 8,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2009-08-01T22:49:29Z",
+              "source": "http://books.google.com/books?id=3sQEAAAAYAAJ&oe=UTF-8",
+              "publicdate": "2009-08-01T22:49:29Z"
+            },
+            "highlight": null,
+            "_score": [
+              23.527086
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "memoirssirwilli03kniggoog",
+              "title": "Memoirs of Sir William Knighton, bart., G. C. H., keeper of the privy purse during the reign of His Majesty King George the Fourth. Including his correspondence with many distinguished personages",
+              "description": "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+              "creator": [
+                "Knighton, William, Sir, bart., 1776-1836",
+                "Knighton, Dorothea (Hawker), lady"
+              ],
+              "collection": [],
+              "date": "1838-01-01T00:00:00Z",
+              "year": 1838,
+              "volume": "2",
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 1,
+              "item_size": 121454004,
+              "files_count": 22,
+              "downloads": 484,
+              "week": 0,
+              "month": 5,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2009-08-02T00:14:04Z",
+              "source": "http://books.google.com/books?id=Vg0MAAAAYAAJ&oe=UTF-8",
+              "publicdate": "2009-08-02T00:14:04Z"
+            },
+            "highlight": null,
+            "_score": [
+              23.459347
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "memoirsofsirwill02knig",
+              "title": "Memoirs of Sir William Knighton, bart., G. C. H. : keeper of the privy purse during the reign of His Majesty King George the Fourth. Including his correspondence with many distinguished personages",
+              "description": "2 v. : 22 cm",
+              "subject": [
+                "Great Britain -- History -- George IV, 1820-1830"
+              ],
+              "creator": [
+                "Knighton, William, Sir, 1776-1836",
+                "Knighton, Lady"
+              ],
+              "collection": [
+                "university_pittsburgh"
+              ],
+              "date": "1838-01-01T00:00:00Z",
+              "year": 1838,
+              "volume": "2",
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 522339500,
+              "files_count": 23,
+              "downloads": 635,
+              "week": 1,
+              "month": 6,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "addeddate": "2009-07-17T13:08:31Z",
+              "publicdate": "2009-07-17T13:08:37Z"
+            },
+            "highlight": null,
+            "_score": [
+              23.344954
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "memoirsofsirwill01knig",
+              "title": "Memoirs of Sir William Knighton, bart., G. C. H., keeper of the privy purse during the reign of His Majesty King George the Fourth. Including his correspondence with many distinguished personages",
+              "description": "2 v. 23 cm",
+              "creator": [
+                "Knighton, William, Sir, bart., 1776-1836",
+                "Knighton, Lady"
+              ],
+              "collection": [
+                "cdl"
+              ],
+              "date": "1838-01-01T00:00:00Z",
+              "year": 1838,
+              "volume": "1",
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 2351834037,
+              "files_count": 26,
+              "downloads": 1091,
+              "week": 2,
+              "month": 9,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2008-01-09T19:39:00Z",
+              "publicdate": "2008-01-09T19:41:20Z"
+            },
+            "highlight": null,
+            "_score": [
+              23.110065
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "madden-frederic-privy-purse-expenses-of-the-princess-mary-1831",
+              "title": "Madden, Frederic - Privy Purse Expenses Of The Princess Mary (1831)",
+              "description": "Madden, Frederic - Privy Purse Expenses Of The Princess Mary, Daughter Of King Henry The Eighth, Afterwards Queen Mary: With A Memoir Of The Princess, And Notes (London: William Pickering, 1831). \"From December MDXXXVI [1536], To December MDXLIV [1544].\"",
+              "subject": [
+                "England",
+                "History",
+                "Princess Mary"
+              ],
+              "creator": [
+                "Frederic Madden"
+              ],
+              "collection": [
+                "opensource"
+              ],
+              "date": "1831-01-01T00:00:00Z",
+              "year": 1831,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "licenseurl": "https://creativecommons.org/publicdomain/mark/1.0/",
+              "item_size": 171031345,
+              "files_count": 15,
+              "downloads": 56,
+              "week": 1,
+              "month": 4,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "uncurated"
+              ],
+              "addeddate": "2024-05-29T22:29:03Z",
+              "publicdate": "2024-05-29T22:29:03Z"
+            },
+            "highlight": null,
+            "_score": [
+              44.348408
+            ]
+          }
+        ]
+      },
+      "collection_titles": {
+        "pimslibrary": "PIMS - University of Toronto",
+        "universityofsouthamptonlibrary": "University of Southampton Library",
+        "university_pittsburgh": "University of Pittsburgh Library System",
+        "ukmhl": "UK Medical Heritage Library",
+        "cdl": "California Digital Library",
+        "booksbylanguage": "Books by Language",
+        "robarts": "University of Toronto - Robarts Library",
+        "getty": "Getty Research Institute",
+        "wellcomelibrary": "Wellcome Library",
+        "europeanlibraries": "European Libraries",
+        "britishparliamentarypublications": "British Parliamentary Publications",
+        "german-online-libraries": "German Online Libraries",
+        "booksbylanguage_german": "German : Books by Language",
+        "patron-library-collection": "Patron Libraries (Libraries from Patrons)",
+        "medicalheritagelibrary": "Medical Heritage Library",
+        "university_of_toronto": "University of Toronto",
+        "medicallibrary": "Medical Library",
+        "gutenberg": "Project Gutenberg",
+        "opensource": "Community Texts"
+      }
+    },
+    "hit_schema": {
+      "item": {
+        "identifier": {
+          "multivalue": false,
+          "mapping": "string"
+        },
+        "noindex": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "optional": true
+        },
+        "title": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "description": {
+          "multivalue": false,
+          "mapping": "string",
+          "dressing": {
+            "truncate": 1000
+          },
+          "optional": true
+        },
+        "subject": {
+          "multivalue": true,
+          "mapping": "string",
+          "dressing": {
+            "truncate": 1000
+          },
+          "optional": true
+        },
+        "creator": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "collection": {
+          "multivalue": true,
+          "mapping": "string",
+          "comment": "may be a superset of metadata collection field"
+        },
+        "date": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "year": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed from date",
+          "optional": true
+        },
+        "genre": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "volume": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "type": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "language": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "mediatype": {
+          "multivalue": false,
+          "mapping": "string"
+        },
+        "licenseurl": {
+          "multivalue": false,
+          "mapping": "string__url",
+          "optional": true
+        },
+        "num_favorites": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true,
+          "comment": "computed during document construction"
+        },
+        "num_reviews": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true,
+          "comment": "computed during document construction"
+        },
+        "item_size": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "bytes; computed during document construction"
+        },
+        "files_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction"
+        },
+        "item_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction",
+          "optional": true
+        },
+        "displayed_item_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction, may be inferred from item_count",
+          "optional": true
+        },
+        "collection_files_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction, for collection items only",
+          "optional": true
+        },
+        "collection_size": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "bytes; computed during document construction, for collection items only",
+          "optional": true
+        },
+        "downloads": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "total views over item lifetime, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "week": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "views over a seven-day period, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "month": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "views over a month, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "indexflag": {
+          "multivalue": true,
+          "mapping": "string",
+          "comment": "item characterization including noindex status"
+        },
+        "lending___available_to_borrow": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___available_to_browse": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___available_to_waitlist": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___status": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "avg_rating": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true
+        },
+        "addeddate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "issue": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "format varies",
+          "optional": true
+        },
+        "source": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "format varies",
+          "optional": true
+        },
+        "reviewdate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "publicdate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "date_favorited": {
+          "multivalue": false,
+          "mapping": "date",
+          "comment": "not metadata; only present in favorites lists, sourced from Lists API",
+          "optional": true
+        },
+        "reviews_data": {
+          "multivalue": true,
+          "dressing": {
+            "truncate": false
+          },
+          "mapping": "string",
+          "comment": "untruncated JSON encoded data used for Account reviews",
+          "optional": true
+        }
+      }
+    }
+  }
+}

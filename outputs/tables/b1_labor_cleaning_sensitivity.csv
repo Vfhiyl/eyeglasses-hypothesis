@@ -1,0 +1,6 @@
+estimand,mode,n_pairs,median_delta,boot95_lo,boot95_hi,sesoi5,sesoi15,n_ge_5,share_delta_gt_0,note
+labor_work_after_45,dirty_max,63,4.5,-1.0,10.5,FAIL_OR_UNAVAILABLE,FAIL,31,0.587,force use_in_primary on all chronos (contamination upper bound)
+labor_work_after_45,raw_match,62,2.0,-1.5,8.3,FAIL_OR_UNAVAILABLE,FAIL,28,0.565,no overlays/excludes; demotions respected
+labor_work_after_45,overlay_exclude_layer,60,10.0,8.3,11.0,PASS_RAW,FAIL,57,0.967,DEPRECATED outcome-aware layer on restored data; skip_death_before_45=2; skip_T<=0=1
+labor_work_after_45,corrected_primary,60,3.0,-2.0,9.0,FAIL_OR_UNAVAILABLE,FAIL,28,0.583,from b1_primary_estimand_summary.csv (script 25 corrected path)
+output_span_after_45,corrected_output,44,3.75,-2.0,8.0,FAIL_OR_UNAVAILABLE,FAIL_OR_UNAVAILABLE,21,0.545,from b1_output_estimand_summary.csv (script 27 corrected path)

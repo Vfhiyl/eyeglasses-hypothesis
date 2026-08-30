@@ -1,0 +1,2 @@
+[["= ; Jeffreys : 7 Howse al : Hereforel Plate 3. An impression of Joyce\u2019s rented house on Widemarsh Street, c. 1860s. This pen and ink drawing, inserted into The Antiquarian Notebook of Henry Jeffreys, 1695-1709 \u2014 most probably by Sir T.", [1396, 974, 1750, 895], [1420, 1054, 1729, 981], [1452, 1130, 1712, 1049], [203, 1614, 1812, 1576], [204, 1663, 1812, 1626], [203, 1714, 507, 1676]], ["E. Winnington \u2014 offers an idea of how the house would have looked in the seventeenth century", [524, 1713, 9223372036854775807, -1], [204, 1763, 538, 1726]]]
+

@@ -1,0 +1,9 @@
+arm,n_pairs,n_clusters,median_delta,boot95_lo,boot95_hi,n_ge_5,share_delta_gt_0,sesoi5,sesoi15
+corrected_baseline,60,42,3.0,-2.0,9.0,28,0.583,FAIL_OR_UNAVAILABLE,FAIL
+hard_series_wearers,47,32,6.0,-2.0,11.25,25,0.596,FAIL_OR_UNAVAILABLE,FAIL
+density_floor_3_sym,36,25,4.65,-9.0,12.5,18,0.583,FAIL_OR_UNAVAILABLE,FAIL
+drop_todeath_sym,17,14,0.5,-9.0,9.0,6,0.529,FAIL_OR_UNAVAILABLE,FAIL
+pre1500_evidence_invention_era,26,17,1.0,-3.0,9.0,10,0.5,FAIL_OR_UNAVAILABLE,FAIL
+pre1600_evidence,39,30,2.0,-2.5,7.0,15,0.538,FAIL_OR_UNAVAILABLE,FAIL
+post1600_evidence,21,12,8.3,-6.0,14.25,13,0.667,FAIL_OR_UNAVAILABLE,FAIL
+pre1600_hard_density,16,14,-6.75,-10.5,8.5,5,0.438,FAIL_OR_UNAVAILABLE,FAIL

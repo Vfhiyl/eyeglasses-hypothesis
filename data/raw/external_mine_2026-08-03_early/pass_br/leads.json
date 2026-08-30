@@ -1,0 +1,38 @@
+{
+  "pass": "BR",
+  "date": "2026-08-05",
+  "tool": "scripts/ia_page_production_search.py",
+  "queries_ok": 30,
+  "new_promote": false,
+  "primary_changed": false,
+  "findings": [
+    {
+      "identifier": "businesshousehol0000unse",
+      "title": "Spicksley Jeffreys household accounts",
+      "status": "loaned_lcp_epub_local",
+      "decrypt": "key_check_fail_with_cookie_email",
+      "next": "Thorium Reader with IA email passphrase"
+    },
+    {
+      "identifier": "devonhouseholdac0000unse",
+      "status": "borrow_unavailable"
+    },
+    {
+      "identifier": "householdaccount0000unse",
+      "title": "Dudley Leicester household accounts",
+      "status": "borrow_unavailable_new_lead"
+    },
+    {
+      "cluster": "OA_household_books",
+      "result": "dry_no_spectacle_pins",
+      "scanned": [
+        "privy purse Elizabeth/Mary/HenryVIII",
+        "Norfolk-Surrey 1481-1490",
+        "Derby household books",
+        "Percy regulations",
+        "Durham bursar",
+        "Stanley papers metaphorical only"
+      ]
+    }
+  ]
+}

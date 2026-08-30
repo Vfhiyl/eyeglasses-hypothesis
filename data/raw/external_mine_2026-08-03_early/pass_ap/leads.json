@@ -1,0 +1,25 @@
+{
+  "pass": "AP",
+  "goal": "soft→hard: philippe_le_hardi via Prost mandements",
+  "choice_rationale": "Best remaining soft ruler with local Prost OCR; Hesselin still library-gated; Baye window only +2y.",
+  "promoted_hard": [
+    "philippe_le_hardi"
+  ],
+  "philippe_le_hardi": {
+    "onset": "1389-08-14 Prost §8240 estuy à bericles",
+    "years_after": 14,
+    "last_hard_pin": "1403 Laborde F book plate for lunettes",
+    "death": "1404-04-27",
+    "n_dated_near_work": 9,
+    "sources": [
+      "Prost inventaires t.2 IA",
+      "Laborde Notice des émaux glossaire"
+    ],
+    "chrono": "outputs/tables/b1_philippe_le_hardi_chrono.csv",
+    "hard_dated_series": true,
+    "caveat": "Prost comptes dense through 1390 only; 1391–1402 mid-gap; late anchor is 1403 spectacle-adjacent plate"
+  },
+  "nicolas_de_baye": "scouted — Journal OA present; post-1416 window only ~2y to proscription; deferred (lower ya ROI)",
+  "hesselin_denis": "still library-gated",
+  "ingest_labor_n": "unchanged"
+}

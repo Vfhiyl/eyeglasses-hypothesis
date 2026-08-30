@@ -1,0 +1,16 @@
+{
+  "pass": "AM",
+  "goal": "soft→hard densify already-promoted early wearers",
+  "promoted_hard": ["marzeliere_pierre"],
+  "marzeliere_pierre": {
+    "onset": "1433-01-01 lunettes étrennes (Morice/Jones)",
+    "years_after": 24,
+    "last_hard_pin": "1457-10-03 Capitaine de Hedé institution (Morice)",
+    "death": "1462-08-25",
+    "sources": ["Jones Guinot IX§5 gaiges", "Blanchard Lettres Jean V IA", "Morice Preuves II"],
+    "chrono": "outputs/tables/b1_marzeliere_pierre_activity_chrono.csv",
+    "hard_dated_series": true
+  },
+  "hesselin_denis": "not upgraded this pass — still office-ceiling soft; need day-dated FROM-him Paris comptes 1475–1506 OA",
+  "ingest_labor_n": "unchanged (already in labor series); hard flag upgraded only"
+}

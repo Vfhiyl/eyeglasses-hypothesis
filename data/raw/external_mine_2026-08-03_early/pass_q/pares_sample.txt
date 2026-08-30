@@ -1,0 +1,129 @@
+
+<!-- %@ page session="true" language="java" contentType="text/html; charset=ISO-8859-15"
+    pageEncoding="ISO-8859-15"% -->
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PTGT9SJ');</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P3XK6W8');</script>
+<!-- End Google Tag Manager -->
+      <title>PARES | Archivos Españoles</title>
+       
+      	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+       	<meta http-equiv="Expires" content="no-cache"/>
+       	<meta http-equiv="X-UA-Compatible" content="IE=7,8,9" />
+       	
+       	<meta property="og:title" content="anteojos"/>
+		<meta property="og:type" content="website"/>
+		<meta property="og:url" content="https://pares.mcu.es:443/ParesBusquedas20/catalogo/find?idTipoDocumento=TITULO&texto=anteojos&exact=OFF"/>
+		<meta property="og:image" content="http://pares.mcu.es/ParesBusquedas20/img/logoParesCuadrado.png"/>
+		<meta property="og:site_name" content="PARES"/>
+		<meta property="fb:admins" content="ArchivosEst"/>
+		<meta property="og:description" content="Resultados de la búsqueda con el texto: anteojos"/>
+		<meta property="og:locale" content="es_ES" />
+
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:site" content="@ArchivosEst" />
+		<meta name="twitter:creator" content="@ArchivosEst" />
+		<meta name="twitter:title" content="anteojos" />
+		<meta name="twitter:description" content="Resultados de la búsqueda con el texto: anteojos" />
+		<meta name="twitter:image" content="http://pares.mcu.es/ParesBusquedas20/img/logoParesTw.png" />
+	   
+      	<!-- <script type="text/javascript" src="/ParesBusquedas20/js/jquery-1.6.2.min.js"></script>-->
+      	<script type="text/javascript" src="/ParesBusquedas20/js/jquery.js"></script>
+	   <script type="text/javascript" src="/ParesBusquedas20/js/jquery-ui-1.8.6.custom.min.js"></script>
+	   <script type="text/javascript" src="/ParesBusquedas20/js/paresBusquedas.js"></script>
+	   <script type="text/javascript" src="/ParesBusquedas20/js/jquery.formalize.js" ></script>
+	   <script type="text/javascript" src="/ParesBusquedas20/js/resultados.js" ></script>
+	   <script type="text/javascript" src="/ParesBusquedas20/js/calendario.js"></script>
+	   	   	   
+	   	<link href="/ParesBusquedas20/css/estilo.css" rel="stylesheet" type="text/css" />
+		<link href="/ParesBusquedas20/css/formalize.css" rel="stylesheet" type="text/css" media="all" />
+		<link href="/ParesBusquedas20/css/calendario.css" rel="stylesheet" type="text/css" />  	
+		<!-- /////////////////////////////ESTADÍSTICAS PARES/////////////////////////////////// -->
+		<!--  script type="text/javascript" src="http://pares.mcu.es/ParesBusquedas20/funciones/estadisticas_pares.js" ></script -->
+		<!--  script type="text/javascript" src="/ParesBusquedas20/js/analytics.js" ></script -->
+		<!-- /////////////////////////////FIN ESTADÍSTICAS PARES/////////////////////////////// -->
+   </head>
+   <body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PTGT9SJ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P3XK6W8"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+      <div id="contenedor_pral">
+         <div id="header"><!-- cabecera.jsp -->
+            
+<!-- %@ page session="true" language="java" contentType="text/html; charset=ISO-8859-15"
+    pageEncoding="ISO-8859-15"% -->
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+	
+
+
+
+
+
+
+	<link rel="stylesheet" media="screen" type="text/css" href="/ParesBusquedas20/css/ms-cultura-ap.css" />		
+<div id="divseguimiento" style="height:0px; width:0px; overflow:scroll;"></div>
+<div id="contenedor-cab">
+<div id="cabecera">
+	<div id="navegacion">
+		
+<!-- IDIOMAS BANDERAS --
+		<div id="idiomas-img">
+			<ul>
+			
+			
+				
+					<li><img alt="Español" title="Español" src="/ParesBusquedas20/img/Castellano.gif"/></li>
+				
+				
+				
+				
+				
+				
+			
+			
+			
+				<li><a href="/ParesBusquedas20/catalogo/CambiarIdioma.do?siteLanguage=cat"><img alt="Catalán" title="Catalán" src="/ParesBusquedas20/img

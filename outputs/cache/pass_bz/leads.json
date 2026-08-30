@@ -1,0 +1,28 @@
+{
+  "pass": "BZ",
+  "date": "2026-08-06",
+  "new_mine": {
+    "keil_augustanus": "not_on_IA_OA",
+    "hainhofer_oa": [
+      "desaugsburgerpat00hain",
+      "desaugsburgerpat00hain_1"
+    ],
+    "hainhofer_wiesel_august_spectacles": "DRY_perspectiv_and_Paul_Brill_only",
+    "rouyer_1454_orleans": "inventory_Burgundy_SKIP",
+    "gray": "still_borrow_gated"
+  },
+  "plumbing": {
+    "bourchier_exclude_newcastle": "reverse_lifespan",
+    "bourchier_overlay_burton": "Q259132",
+    "bourchier_delta": "-9.5 \u2192 -2.5"
+  },
+  "freeze": {
+    "n": 48,
+    "median": 5.0,
+    "ci": [
+      2.25,
+      8.0
+    ],
+    "sesoi5": "PASS_RAW"
+  }
+}

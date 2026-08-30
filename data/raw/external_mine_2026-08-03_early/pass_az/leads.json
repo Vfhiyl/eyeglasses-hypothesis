@@ -1,0 +1,43 @@
+{
+  "pass": "AZ",
+  "direction": "batch unlock output_eligible for hard cells with OUT_YEARS already curated (AY pattern)",
+  "unlocked_to_primary": {
+    "jackson_ralph": {
+      "n_ctrl": 3,
+      "delta_span": -38.0
+    },
+    "jeake_samuel": {
+      "n_ctrl": 3,
+      "delta_span": -28.0
+    },
+    "tye_thomas": {
+      "n_ctrl": 3,
+      "delta_span": -22.0
+    },
+    "marzeliere_pierre": {
+      "n_ctrl": 1,
+      "delta_span": -13.0,
+      "note": "conf low\u2192medium; still thin n_ctrl"
+    }
+  },
+  "n_ctrl_densified_already_primary": {
+    "cederni": "2\u21924",
+    "policastro": "1\u21925",
+    "ardingelli_bese": "2\u21924",
+    "strozzi_filippo": "1\u21924"
+  },
+  "appendix_only": {
+    "peale_charles_willson": "n_ctrl 0\u21924 but exclude_bucket_artisan",
+    "lotto": "artisan; peers still no OUT years"
+  },
+  "primary_summary": {
+    "n": 46,
+    "median_delta": -2.0,
+    "boot95": [
+      -5.5,
+      1.5
+    ],
+    "sesoi5": "FAIL_OR_UNAVAILABLE",
+    "note": "median fell vs AY (\u22120.5\u2192\u22122.0) as England merchant cells enter with long-lived banker controls"
+  }
+}

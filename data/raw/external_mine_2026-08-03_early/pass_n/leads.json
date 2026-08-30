@@ -1,0 +1,40 @@
+{
+  "pass": "N",
+  "date": "2026-08-03",
+  "ingest": false,
+  "seams": [
+    {
+      "id": "testamenta_eboracensia_full",
+      "result": "Carre/Bowet duplicates; NEW William Duffield †1452-3 inventory iij parium spectaculorum arg — death path EXCLUDE; merchant stock De spectaculis"
+    },
+    {
+      "id": "rhodes_1980_ads",
+      "result": "OA archaeological note only; documentary survey deferred to Antiquaries 1982 (paywalled)"
+    },
+    {
+      "id": "manni_barbaro",
+      "result": "Still only Manni letter claim 1476 — HOLD"
+    },
+    {
+      "id": "medcat_wd_belluga_piceto_manfredo",
+      "result": "No new termini"
+    },
+    {
+      "id": "ia_corson_daxecker",
+      "result": "Corson 403; Daxecker no Unpaywall OA"
+    },
+    {
+      "id": "ilardi_living_rescan",
+      "result": "Only known Filelfo/request paths; no fresh Cleux-bar living+b–d"
+    }
+  ],
+  "new_named": [
+    {
+      "name": "Willelmus / William Duffield",
+      "evidence_year": 1452,
+      "type": "probate_inventory",
+      "note": "3 silver spectacle pairs in body ornaments; Archdeacon Cleveland; †7 Mar 1452/3 — EXCLUDE death inventari"
+    }
+  ],
+  "early_stock": "unchanged"
+}

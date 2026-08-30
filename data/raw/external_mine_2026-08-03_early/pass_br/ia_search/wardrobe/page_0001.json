@@ -1,0 +1,1605 @@
+{
+  "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785941978673",
+  "version": "1x7o",
+  "session_context": {
+    "session_key": "user__alanobrienterry918272@gmail.com",
+    "created": "2026-08-05T14:59:45Z",
+    "client_characterization": {
+      "characterized_by": "asserted_or_authenticated",
+      "preferred_client_ip": null,
+      "client_ip": "64.110.71.217:sra",
+      "preferred_client_useragent": null,
+      "client_useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36:sua",
+      "preferred_client_id": null,
+      "client_id": "alanobrienterry918272@gmail.com:sco"
+    },
+    "username": "alanobrienterry918272@gmail.com",
+    "authentication_method": "cookie",
+    "is_system": false,
+    "is_guest": false,
+    "is_user": true,
+    "is_archive_user": false,
+    "is_qualified": false,
+    "is_archivist": false,
+    "has_universal_privs": false,
+    "has_collection_priv": false,
+    "has_allowed_host_priv": false,
+    "has_vpn_host_priv": false,
+    "has_scan_center_priv": false,
+    "has_any_priv": false,
+    "has_any_priv_permissive": false,
+    "pps": {
+      "is_page_target_owner": false,
+      "contributed_review_on_page": false,
+      "full_text_search_override": false,
+      "sees_sensitive_fields": false
+    },
+    "pps_relevant_user_preferences": {
+      "display__blur_moderated_content": "on"
+    }
+  },
+  "request": {
+    "client_request_parameters": {
+      "client": "page_production_service_endpoint",
+      "user_query": "title:(wardrobe accounts) OR title:(\"book of the household\") mediatype:texts",
+      "hits_per_page": 25,
+      "page": 1,
+      "aggregations": [],
+      "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785941978673",
+      "client_url": "https://archive.org/search?query=title%3A%28wardrobe+accounts%29+OR+title%3A%28%22book+of+the+household%22%29+mediatype%3Atexts"
+    },
+    "backend_requests": {
+      "search": {
+        "root": "(self)",
+        "children": [
+          "collection_title_fetch__445cd1b59d93a6f3cf8e66a00aa1f9fb"
+        ],
+        "request_type": "search",
+        "finalized_parameters": {
+          "client": "page_production_service_endpoint",
+          "user_query": "(redacted)",
+          "hits_per_page": 25,
+          "page": 1,
+          "aggregations": [],
+          "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785941978673",
+          "client_url": "https://archive.org/search?query=title%3A%28wardrobe+accounts%29+OR+title%3A%28%22book+of+the+household%22%29+mediatype%3Atexts",
+          "page_type": "search_results",
+          "fields": [
+            "_tile_"
+          ],
+          "sort": [
+            "_relevance_:desc",
+            "identifier"
+          ],
+          "aggregations_size": 10,
+          "service_backend": "metadata",
+          "scope": "standard",
+          "feature_flags": {
+            "complex_facets": true,
+            "collection_titles": true,
+            "redact_collections": true,
+            "redact_collections_by_privs": false,
+            "redact_empty_collections": true,
+            "redact_admin_collections": true,
+            "protect_flagging_collections": true
+          },
+          "service": "service__metadata__load_balanced"
+        }
+      },
+      "collection_title_fetch__445cd1b59d93a6f3cf8e66a00aa1f9fb": {
+        "root": "search",
+        "parent": "search",
+        "request_type": "collection_title_fetch",
+        "finalized_parameters": {
+          "page_type": "document_fetch",
+          "user_query": "(redacted)",
+          "aggregations": [],
+          "caching": null,
+          "fields": [
+            "identifier",
+            "title"
+          ],
+          "search_as_system": true,
+          "page": 1,
+          "hits_per_page": 250,
+          "sort": [
+            "_efficient_"
+          ],
+          "service_backend": "metadata",
+          "scope": "ill,printdisabled_and_music,scancenter",
+          "service": "service__metadata__load_balanced"
+        }
+      }
+    }
+  },
+  "caching": {
+    "search": {
+      "name": "PPS-1x7o-J:CH-RT:s~hit-T:sr-Q:45c31aae-H:25-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+      "acceptable_names": [
+        "PPS-1x7o-J:CH-RT:s~std-T:sr-Q:45c31aae-H:25-B:mds-RS:sta~CS::P:0+CS:some+BR:1"
+      ],
+      "configuration": {
+        "requested": [],
+        "finalized": {
+          "bypass": false,
+          "recompute": false,
+          "no_compute": false,
+          "ttl_s": 300,
+          "max_age_s": 0,
+          "miss_policy": "none"
+        }
+      },
+      "utilization": {
+        "went_to_cache": true,
+        "alternates_allowed": true,
+        "hit_alternate": false,
+        "hit_canonical": false,
+        "hit": false,
+        "miss": true,
+        "recomputed": true,
+        "stored": true,
+        "acceptable_names_tried": [
+          "PPS-1x7o-J:CH-RT:s~std-T:sr-Q:45c31aae-H:25-B:mds-RS:sta~CS::P:0+CS:some+BR:1"
+        ],
+        "elapsed_s": 2.1024341583251953
+      },
+      "statsd_bucket": "search.pps.cache.metadata.search_results"
+    },
+    "collection_title_fetch__445cd1b59d93a6f3cf8e66a00aa1f9fb": {
+      "name": "PPS-1x7o-J:CH-RT:ctf-T:df-Q:3795b26e-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1",
+      "acceptable_names": [],
+      "configuration": {
+        "requested": [],
+        "finalized": {
+          "bypass": false,
+          "recompute": false,
+          "no_compute": false,
+          "ttl_s": 300,
+          "max_age_s": 0,
+          "miss_policy": "none"
+        }
+      },
+      "utilization": {
+        "went_to_cache": true,
+        "alternates_allowed": true,
+        "hit_alternate": false,
+        "hit_canonical": false,
+        "hit": false,
+        "miss": true,
+        "recomputed": true,
+        "stored": true,
+        "elapsed_s": 0.12744402885437012
+      },
+      "statsd_bucket": "search.pps.cache.metadata.search_results"
+    },
+    "summary": {
+      "fetched": [],
+      "computed": [
+        "PPS-1x7o-J:CH-RT:s~hit-T:sr-Q:45c31aae-H:25-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:CH-RT:ctf-T:df-Q:3795b26e-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "stored": [
+        "PPS-1x7o-J:CH-RT:s~hit-T:sr-Q:45c31aae-H:25-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:CH-RT:ctf-T:df-Q:3795b26e-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "missed": [
+        "PPS-1x7o-J:CH-RT:s~hit-T:sr-Q:45c31aae-H:25-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:CH-RT:ctf-T:df-Q:3795b26e-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "bypassed": []
+    }
+  },
+  "elapsed_secs": 2.2650091648101807,
+  "response": {
+    "header": {
+      "succeeded": true,
+      "query_time": 1955,
+      "forensics": {
+        "client_characterization": {
+          "client_ip": "64.110.71.217:sra",
+          "client_id": "alanobrienterry918272@gmail.com:sco",
+          "client_useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36:sua",
+          "preferred_client_ip": null,
+          "preferred_client_id": null,
+          "preferred_client_useragent": null,
+          "application_id": {
+            "session": [
+              "pageproduction"
+            ],
+            "request": []
+          },
+          "client_jurisdiction": "CH",
+          "preferred_client_jurisdiction": null,
+          "actionable_jurisdiction": "CH",
+          "characterized_by": "asserted_or_authenticated",
+          "ensured": true
+        },
+        "routing": {
+          "backend": "es-prod-metadatasearch-filtered",
+          "backend_server": "es-prod-client-n-02",
+          "routed_to_load_balanced": true,
+          "index_addressed": "prod-n-001"
+        },
+        "backend_request_elapsed_secs": {
+          "search": 2.1024341583251953,
+          "collection_title_fetch__445cd1b59d93a6f3cf8e66a00aa1f9fb": 0.12744402885437012
+        }
+      },
+      "elapsed_secs_for_backend_requests": 2.2298781871795654
+    },
+    "body": {
+      "hits": {
+        "total": 51316939,
+        "returned": 25,
+        "hits": [
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "b21529991_0004",
+              "title": "Cassell's book of the household : a work of reference on domestic economy",
+              "description": "The University of Leeds Library",
+              "subject": [
+                "Home economics"
+              ],
+              "creator": [
+                "Cassell & Company",
+                "University of Leeds. Library"
+              ],
+              "collection": [
+                "leedsuniversitylibrary",
+                "ukmhl",
+                "medicalheritagelibrary",
+                "europeanlibraries",
+                "medicallibrary"
+              ],
+              "date": "1890-01-01T00:00:00Z",
+              "year": 1890,
+              "volume": "v.4",
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 12,
+              "item_size": 783705405,
+              "files_count": 29,
+              "downloads": 1657,
+              "week": 3,
+              "month": 19,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "addeddate": "2015-08-26T09:55:39Z",
+              "publicdate": "2015-08-26T08:36:10Z"
+            },
+            "highlight": null,
+            "_score": [
+              36.5965
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "b21529991_0002",
+              "title": "Cassell's book of the household : a work of reference on domestic economy",
+              "description": "The University of Leeds Library",
+              "subject": [
+                "Home economics"
+              ],
+              "creator": [
+                "Cassell & Company",
+                "University of Leeds. Library"
+              ],
+              "collection": [
+                "leedsuniversitylibrary",
+                "ukmhl",
+                "medicalheritagelibrary",
+                "europeanlibraries",
+                "medicallibrary"
+              ],
+              "date": "1890-01-01T00:00:00Z",
+              "year": 1890,
+              "volume": "v.2",
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 9,
+              "item_size": 767522671,
+              "files_count": 27,
+              "downloads": 903,
+              "week": 2,
+              "month": 18,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2015-08-26T09:55:31Z",
+              "publicdate": "2015-08-26T08:36:08Z"
+            },
+            "highlight": null,
+            "_score": [
+              36.586292
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "b21529991_0001",
+              "title": "Cassell's book of the household : a work of reference on domestic economy",
+              "description": "The University of Leeds Library",
+              "subject": [
+                "Home economics"
+              ],
+              "creator": [
+                "Cassell & Company",
+                "University of Leeds. Library"
+              ],
+              "collection": [
+                "leedsuniversitylibrary",
+                "ukmhl",
+                "medicalheritagelibrary",
+                "europeanlibraries",
+                "medicallibrary"
+              ],
+              "date": "1890-01-01T00:00:00Z",
+              "year": 1890,
+              "volume": "v.1",
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 9,
+              "item_size": 750583770,
+              "files_count": 27,
+              "downloads": 1043,
+              "week": 4,
+              "month": 16,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "addeddate": "2015-08-26T09:55:27Z",
+              "publicdate": "2015-08-26T08:36:07Z"
+            },
+            "highlight": null,
+            "_score": [
+              36.30721
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "b21529991_0003",
+              "title": "Cassell's book of the household : a work of reference on domestic economy",
+              "description": "The University of Leeds Library",
+              "subject": [
+                "Home economics"
+              ],
+              "creator": [
+                "Cassell & Company",
+                "University of Leeds. Library"
+              ],
+              "collection": [
+                "leedsuniversitylibrary",
+                "ukmhl",
+                "medicalheritagelibrary",
+                "europeanlibraries",
+                "medicallibrary"
+              ],
+              "date": "1890-01-01T00:00:00Z",
+              "year": 1890,
+              "volume": "v.3",
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 5,
+              "item_size": 815101841,
+              "files_count": 28,
+              "downloads": 705,
+              "week": 6,
+              "month": 17,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "addeddate": "2015-08-26T09:55:35Z",
+              "publicdate": "2015-08-26T08:36:09Z"
+            },
+            "highlight": null,
+            "_score": [
+              36.26033
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "privypurseexpen00nico",
+              "title": "Privy purse expenses of Elizabeth of York : wardrobe accounts of Edward the Fourth",
+              "description": "Includes index",
+              "subject": [
+                "Elizabeth, Queen, consort of Henry VII, King of England, 1465-1503",
+                "Edward IV, King of England, 1442-1483",
+                "Prices",
+                "Royal households"
+              ],
+              "creator": [
+                "Nicolas, Nicholas Harris, Sir, 1799-1848"
+              ],
+              "collection": [
+                "pimslibrary",
+                "university_of_toronto"
+              ],
+              "date": "1830-01-01T00:00:00Z",
+              "year": 1830,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 6,
+              "item_size": 611174074,
+              "files_count": 25,
+              "downloads": 1507,
+              "week": 1,
+              "month": 5,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2011-07-19T01:09:20Z",
+              "publicdate": "2011-07-19T01:09:27Z"
+            },
+            "highlight": null,
+            "_score": [
+              34.28975
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "privypurseexpen03nicogoog",
+              "title": "Privy purse expenses of Elizabeth of York: wardrobe accounts of Edward the Fourth. With a memoir of Elizabeth of York, and notes",
+              "description": "Book digitized by Google from the library of the University of California and uploaded to the Internet Archive by user tpb.",
+              "subject": [
+                "Elizabeth, Queen, consort of Henry VII, King of England, 1465-1503",
+                "Edward IV, King of England, 1442-1483",
+                "Prices",
+                "Royal households"
+              ],
+              "creator": [
+                "Nicolas, Nicholas Harris, Sir, 1799-1848"
+              ],
+              "collection": [],
+              "date": "1830-01-01T00:00:00Z",
+              "year": 1830,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 4,
+              "item_size": 108298285,
+              "files_count": 16,
+              "downloads": 1257,
+              "week": 1,
+              "month": 6,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2009-08-07T13:17:02Z",
+              "source": "http://books.google.com/books?id=p91CAAAAIAAJ&oe=UTF-8",
+              "publicdate": "2009-08-07T13:17:02Z"
+            },
+            "highlight": null,
+            "_score": [
+              25.68599
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "bub_gb_qxBPxJgK9mgC",
+              "title": "Privy Purse Expenses of Elizabeth of York Wardrobe Accounts of Edward the Fourth with a Memoir of Elizabeth of York and Notes",
+              "subject": [
+                "bub_upload"
+              ],
+              "creator": [
+                "Nicholas Harris Nicolas"
+              ],
+              "collection": [
+                "europeanlibraries"
+              ],
+              "date": "1830-01-01T00:00:00Z",
+              "year": 1830,
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
+              "item_size": 216798942,
+              "files_count": 14,
+              "downloads": 180,
+              "week": 2,
+              "month": 5,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2016-01-07T12:50:18Z",
+              "source": "http://books.google.com/books?id=qxBPxJgK9mgC&hl=&source=gbs_api",
+              "publicdate": "2016-01-07T12:50:18Z"
+            },
+            "highlight": null,
+            "_score": [
+              25.615345
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "privypurseexpen01nicogoog",
+              "title": "Privy purse expenses of Elizabeth of York: wardrobe accounts of Edward the Fourth. With a memoir of Elizabeth of York, and notes",
+              "description": "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+              "subject": [
+                "Elizabeth, Queen, consort of Henry VII, King of England, 1465-1503",
+                "Edward IV, King of England, 1442-1483",
+                "Prices",
+                "Royal households"
+              ],
+              "creator": [
+                "Nicolas, Nicholas Harris, Sir, 1799-1848"
+              ],
+              "collection": [],
+              "date": "1830-01-01T00:00:00Z",
+              "year": 1830,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 2,
+              "item_size": 71868040,
+              "files_count": 16,
+              "downloads": 1550,
+              "week": 1,
+              "month": 8,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2008-07-12T16:37:17Z",
+              "source": "http://books.google.com/books?id=ulkLAAAAYAAJ&oe=UTF-8",
+              "publicdate": "2008-07-12T16:37:17Z"
+            },
+            "highlight": null,
+            "_score": [
+              25.474064
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "privypurseexpens00nicorich",
+              "title": "Privy purse expenses of Elizabeth of York : wardrobe accounts of Edward the Fourth : with a memoir of Elizabeth of York, and notes",
+              "description": "civ, 265, p. 22 cm",
+              "subject": [
+                "Elizabeth, Queen, consort of Henry VII, King of England, 1465-1503",
+                "Edward IV King of England, 1442-1483",
+                "Prices -- Great Britain",
+                "Royal households -- Great Britain"
+              ],
+              "creator": [
+                "Nicolas, Nicholas Harris, Sir, 1799-1848",
+                "American Institute of Wine & Food, former owner"
+              ],
+              "collection": [
+                "cdl"
+              ],
+              "date": "1830-01-01T00:00:00Z",
+              "year": 1830,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 3,
+              "item_size": 631391609,
+              "files_count": 25,
+              "downloads": 2175,
+              "week": 2,
+              "month": 22,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2007-05-25T22:23:27Z",
+              "publicdate": "2007-05-25T22:23:39Z"
+            },
+            "highlight": null,
+            "_score": [
+              25.474064
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "privypurseexpens00nicouoft",
+              "title": "Privy purse expenses of Elizabeth of York : wardrobe accounts of Edward the Fourth. With a memoir of Elizabeth of York, and notes",
+              "description": "26",
+              "subject": [
+                "Elizabeth, Queen, consort of Henry VII, King of England, 1465-1503",
+                "Edward IV, King of England, 1442-1483",
+                "Prices -- Great Britain",
+                "Royal households -- Great Britain"
+              ],
+              "creator": [
+                "Nicolas, Nicholas Harris, Sir, 1799-1848"
+              ],
+              "collection": [
+                "robarts",
+                "university_of_toronto"
+              ],
+              "date": "1830-01-01T00:00:00Z",
+              "year": 1830,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 14,
+              "item_size": 449198173,
+              "files_count": 23,
+              "downloads": 7720,
+              "week": 24,
+              "month": 131,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2007-01-15T14:29:31Z",
+              "publicdate": "2007-01-15T06:29:34Z"
+            },
+            "highlight": null,
+            "_score": [
+              25.410473
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "b21539509",
+              "title": "The handy book of the household : containing useful information about beds, bleaching, boxes, boots, carpets, curtains, disinfectants, dyes, domestic matters, fabrics, filters, firewood, furniture, glass, gloves, kitchen ware, lamps, mats, etc",
+              "description": "Publisher's advertisements on 2 p. at end",
+              "subject": [
+                "Home economics"
+              ],
+              "creator": [
+                "University of Leeds. Library"
+              ],
+              "collection": [
+                "leedsuniversitylibrary",
+                "ukmhl",
+                "medicalheritagelibrary",
+                "europeanlibraries",
+                "medicallibrary"
+              ],
+              "date": "1892-01-01T00:00:00Z",
+              "year": 1892,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 11,
+              "item_size": 207818129,
+              "files_count": 25,
+              "downloads": 578,
+              "week": 4,
+              "month": 10,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2015-10-01T10:47:42Z",
+              "publicdate": "2015-10-01T09:22:54Z"
+            },
+            "highlight": null,
+            "_score": [
+              20.67135
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "b21471848_0001",
+              "title": "The Book of the household [electronic resource] : or, Family dictionary of everything connected with housekeeping and domestic medicine : with the treatment of children, management of the sick room, the sanitary improvements of the dwelling, the duties of servants, and full information on all other subjects relating to personal and domestic comfort",
+              "description": "This material has been provided by The University of Glasgow Library. The original may be consulted at The University of Glasgow Library",
+              "subject": [
+                "Cookery",
+                "Home economics"
+              ],
+              "creator": [
+                "University of Glasgow. Library"
+              ],
+              "collection": [
+                "universityofglasgow",
+                "ukmhl",
+                "medicalheritagelibrary",
+                "europeanlibraries",
+                "medicallibrary"
+              ],
+              "date": "1862-01-01T00:00:00Z",
+              "year": 1862,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 6,
+              "item_size": 1726760497,
+              "files_count": 23,
+              "downloads": 658,
+              "week": 8,
+              "month": 27,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2015-04-30T10:30:39Z",
+              "publicdate": "2015-04-30T08:58:19Z"
+            },
+            "highlight": null,
+            "_score": [
+              15.428814
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "b21471848_0002",
+              "title": "The Book of the household [electronic resource] : or, Family dictionary of everything connected with housekeeping and domestic medicine : with the treatment of children, management of the sick room, the sanitary improvements of the dwelling, the duties of servants, and full information on all other subjects relating to personal and domestic comfort",
+              "description": "This material has been provided by The University of Glasgow Library. The original may be consulted at The University of Glasgow Library",
+              "subject": [
+                "Cookery",
+                "Home economics"
+              ],
+              "creator": [
+                "University of Glasgow. Library"
+              ],
+              "collection": [
+                "universityofglasgow",
+                "ukmhl",
+                "medicalheritagelibrary",
+                "europeanlibraries",
+                "medicallibrary"
+              ],
+              "date": "1862-01-01T00:00:00Z",
+              "year": 1862,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 3,
+              "item_size": 1664850324,
+              "files_count": 23,
+              "downloads": 849,
+              "week": 2,
+              "month": 11,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "addeddate": "2015-04-30T10:30:43Z",
+              "publicdate": "2015-04-30T08:58:20Z"
+            },
+            "highlight": null,
+            "_score": [
+              15.377886
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "gov.uspto.patents.application.06055437",
+              "title": "USPTO Patents Application 06055437",
+              "description": "Polyene Compounds",
+              "subject": [
+                "U.S. Patents"
+              ],
+              "creator": [
+                "United States Patent and Trademark Office"
+              ],
+              "collection": [
+                "uspto",
+                "USGovernmentDocuments",
+                "government-documents"
+              ],
+              "type": "Utility",
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 1,
+              "item_size": 84070359,
+              "files_count": 247,
+              "downloads": 1507,
+              "week": 5,
+              "month": 19,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2014-05-01T19:32:22Z",
+              "publicdate": "2014-05-01T19:32:22Z"
+            },
+            "highlight": null,
+            "_score": [
+              5.3090587
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "gov.uspto.patents.application.06116026",
+              "title": "USPTO Patents Application 06116026",
+              "description": "Thrust Nozzle For A Gas Turbine Engine",
+              "subject": [
+                "U.S. Patents"
+              ],
+              "creator": [
+                "United States Patent and Trademark Office"
+              ],
+              "collection": [
+                "uspto",
+                "USGovernmentDocuments",
+                "government-documents"
+              ],
+              "type": "Utility",
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 1,
+              "item_size": 30262927,
+              "files_count": 500,
+              "downloads": 4386,
+              "week": 17,
+              "month": 64,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2014-05-01T19:40:12Z",
+              "publicdate": "2014-05-01T19:40:12Z"
+            },
+            "highlight": null,
+            "_score": [
+              5.3090587
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "gov.uspto.patents.application.06125529",
+              "title": "USPTO Patents Application 06125529",
+              "description": "Process Of Making 6-chloro-alpha-methyl-carbazole-2acetic Acid",
+              "subject": [
+                "U.S. Patents"
+              ],
+              "creator": [
+                "United States Patent and Trademark Office"
+              ],
+              "collection": [
+                "uspto",
+                "USGovernmentDocuments",
+                "government-documents"
+              ],
+              "type": "Utility",
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 30720386,
+              "files_count": 197,
+              "downloads": 1193,
+              "week": 6,
+              "month": 55,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2014-05-01T19:42:57Z",
+              "publicdate": "2014-05-01T19:42:57Z"
+            },
+            "highlight": null,
+            "_score": [
+              5.3090587
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "gov.uspto.patents.application.06212911",
+              "title": "USPTO Patents Application 06212911",
+              "description": "Phosphinylalkanoyl Substituted Prolines",
+              "subject": [
+                "U.S. Patents"
+              ],
+              "creator": [
+                "United States Patent and Trademark Office"
+              ],
+              "collection": [
+                "uspto",
+                "USGovernmentDocuments",
+                "government-documents"
+              ],
+              "type": "Utility",
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 1,
+              "item_size": 81543946,
+              "files_count": 275,
+              "downloads": 1496,
+              "week": 12,
+              "month": 35,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2014-05-01T19:49:41Z",
+              "publicdate": "2014-05-01T19:49:41Z"
+            },
+            "highlight": null,
+            "_score": [
+              5.3090587
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "gov.uspto.patents.application.06304481",
+              "title": "USPTO Patents Application 06304481",
+              "description": "11-methyl-11-aza-4-0-cladinosyl-6-0-desosaminyl-15-ethyl-7,13,14- Trihydroxy-3,5,7,9,12,14-hexamethyl-oxacyclopentadecane-2-one And Derivatives Thereof",
+              "subject": [
+                "U.S. Patents"
+              ],
+              "creator": [
+                "United States Patent and Trademark Office"
+              ],
+              "collection": [
+                "uspto",
+                "USGovernmentDocuments",
+                "government-documents"
+              ],
+              "type": "Utility",
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 63560277,
+              "files_count": 450,
+              "downloads": 2931,
+              "week": 15,
+              "month": 130,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2014-05-01T19:59:09Z",
+              "publicdate": "2014-05-01T19:59:09Z"
+            },
+            "highlight": null,
+            "_score": [
+              5.3090587
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "gov.uspto.patents.application.06541489",
+              "title": "USPTO Patents Application 06541489",
+              "description": "Click the links below to access the documents in this item: 06541489-1983-10-13-00001-OATH pdf stream 06541489-1983-10-13-00002-TRNA pdf stream 06541489-1984-01-18-00001-CTMS pdf stream 06541489-1984-03-02-00001-ABN pdf stream 06541489-1984-05-23-00001-892 pdf stream 06541489-1984-05-23-00002-CTNF pdf stream 06541489-1984-07-21-00001-DRW pdf stream 06541489-1984-07-21-00002-REM pdf stream 06541489-1984-07-21-00003-CLM pdf stream 06541489-1984-07-21-00004-A... pdf stream 06541489-1984-09-25-00001-892 pdf stream 06541489-1984-09-25-00002-CTNF pdf stream 06541489-1984-12-19-00001-REM pdf stream 06541489-1984-12-19-00002-A... pdf stream 06541489-1985-02-19-00001-CTFR pdf stream 06541489-1985-05-15-00001-N-AP pdf stream 06541489-1985-05-18-00001-AP.B pdf stream 06541489-1985-07-31-00001-APEA pdf stream 06541489-1985-08-20-00001-APRB pdf stream 06541489-1987-08-28-00001-APDA pdf stream 06541489-1987-09-05-00001-N-AP pdf stream 06541489-1988-02-10-00001-PET. pdf stream...",
+              "subject": [
+                "U.S. Patents"
+              ],
+              "creator": [
+                "United States Patent and Trademark Office"
+              ],
+              "collection": [
+                "uspto"
+              ],
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 1,
+              "item_size": 23806651,
+              "files_count": 241,
+              "downloads": 1394,
+              "week": 5,
+              "month": 60,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2014-05-22T21:44:08Z",
+              "publicdate": "2014-05-22T21:45:37Z"
+            },
+            "highlight": null,
+            "_score": [
+              5.3090587
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "gov.uspto.patents.application.06711017",
+              "title": "USPTO Patents Application 06711017",
+              "description": "Carboxyalkenamidocephalosporins",
+              "subject": [
+                "U.S. Patents"
+              ],
+              "creator": [
+                "United States Patent and Trademark Office"
+              ],
+              "collection": [
+                "uspto",
+                "USGovernmentDocuments",
+                "government-documents"
+              ],
+              "type": "Utility",
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 164019199,
+              "files_count": 746,
+              "downloads": 3013,
+              "week": 23,
+              "month": 151,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2014-05-01T22:35:06Z",
+              "publicdate": "2014-05-01T22:35:06Z"
+            },
+            "highlight": null,
+            "_score": [
+              5.3090587
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "gov.uspto.patents.application.06854739",
+              "title": "USPTO Patents Application 06854739",
+              "description": "Base Addition Salts Of Omeprazole",
+              "subject": [
+                "U.S. Patents"
+              ],
+              "creator": [
+                "United States Patent and Trademark Office"
+              ],
+              "collection": [
+                "uspto",
+                "USGovernmentDocuments",
+                "government-documents"
+              ],
+              "type": "Utility",
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 260926389,
+              "files_count": 661,
+              "downloads": 2755,
+              "week": 32,
+              "month": 102,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2014-05-01T22:39:05Z",
+              "publicdate": "2014-05-01T22:39:05Z"
+            },
+            "highlight": null,
+            "_score": [
+              5.3090587
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "gov.uspto.patents.application.06937384",
+              "title": "USPTO Patents Application 06937384",
+              "description": "Genetic Engineering Of Cotton Plants And Lines",
+              "subject": [
+                "U.S. Patents"
+              ],
+              "creator": [
+                "United States Patent and Trademark Office"
+              ],
+              "collection": [
+                "uspto",
+                "USGovernmentDocuments",
+                "government-documents"
+              ],
+              "type": "Utility",
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 2,
+              "item_size": 73066116,
+              "files_count": 445,
+              "downloads": 2522,
+              "week": 29,
+              "month": 114,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2014-05-01T22:40:27Z",
+              "publicdate": "2014-05-01T22:40:27Z"
+            },
+            "highlight": null,
+            "_score": [
+              5.3090587
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "gov.uspto.patents.application.07007720",
+              "title": "USPTO Patents Application 07007720",
+              "description": "Levorotatory Isomer Of Benzhydrylsulfinyl Derivatives",
+              "subject": [
+                "U.S. Patents"
+              ],
+              "creator": [
+                "United States Patent and Trademark Office"
+              ],
+              "collection": [
+                "uspto",
+                "USGovernmentDocuments",
+                "government-documents"
+              ],
+              "type": "Utility",
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 66559394,
+              "files_count": 421,
+              "downloads": 2276,
+              "week": 11,
+              "month": 125,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2014-05-01T22:41:43Z",
+              "publicdate": "2014-05-01T22:41:43Z"
+            },
+            "highlight": null,
+            "_score": [
+              5.3090587
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "gov.uspto.patents.application.07230705",
+              "title": "USPTO Patents Application 07230705",
+              "description": "Computerized Card Shuffling Machine",
+              "subject": [
+                "U.S. Patents"
+              ],
+              "creator": [
+                "United States Patent and Trademark Office"
+              ],
+              "collection": [
+                "uspto",
+                "USGovernmentDocuments",
+                "government-documents"
+              ],
+              "type": "Utility",
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 35573820,
+              "files_count": 310,
+              "downloads": 1332,
+              "week": 6,
+              "month": 88,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2014-05-02T00:24:56Z",
+              "publicdate": "2014-05-02T00:24:56Z"
+            },
+            "highlight": null,
+            "_score": [
+              5.3090587
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "gov.uspto.patents.application.07302332",
+              "title": "USPTO Patents Application 07302332",
+              "description": "Graphic Processing Apparatus Utilizing Improved Data Transfer To Reduce Memory Size",
+              "subject": [
+                "U.S. Patents"
+              ],
+              "creator": [
+                "United States Patent and Trademark Office"
+              ],
+              "collection": [
+                "uspto",
+                "USGovernmentDocuments",
+                "government-documents"
+              ],
+              "type": "Utility",
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 79665270,
+              "files_count": 320,
+              "downloads": 1289,
+              "week": 16,
+              "month": 103,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2014-05-01T23:21:32Z",
+              "publicdate": "2014-05-01T23:21:32Z"
+            },
+            "highlight": null,
+            "_score": [
+              5.3090587
+            ]
+          }
+        ]
+      },
+      "collection_titles": {
+        "uspto": "United States Patent and Trademark Office documents",
+        "pimslibrary": "PIMS - University of Toronto",
+        "leedsuniversitylibrary": "University of Leeds Library",
+        "ukmhl": "UK Medical Heritage Library",
+        "universityofglasgow": "University of Glasgow Library",
+        "medicalheritagelibrary": "Medical Heritage Library",
+        "university_of_toronto": "University of Toronto",
+        "USGovernmentDocuments": "US Government Documents",
+        "europeanlibraries": "European Libraries",
+        "cdl": "California Digital Library",
+        "robarts": "University of Toronto - Robarts Library",
+        "government-documents": "Government Documents (Worldwide)",
+        "medicallibrary": "Medical Library"
+      }
+    },
+    "hit_schema": {
+      "item": {
+        "identifier": {
+          "multivalue": false,
+          "mapping": "string"
+        },
+        "noindex": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "optional": true
+        },
+        "title": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "description": {
+          "multivalue": false,
+          "mapping": "string",
+          "dressing": {
+            "truncate": 1000
+          },
+          "optional": true
+        },
+        "subject": {
+          "multivalue": true,
+          "mapping": "string",
+          "dressing": {
+            "truncate": 1000
+          },
+          "optional": true
+        },
+        "creator": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "collection": {
+          "multivalue": true,
+          "mapping": "string",
+          "comment": "may be a superset of metadata collection field"
+        },
+        "date": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "year": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed from date",
+          "optional": true
+        },
+        "genre": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "volume": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "type": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "language": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "mediatype": {
+          "multivalue": false,
+          "mapping": "string"
+        },
+        "licenseurl": {
+          "multivalue": false,
+          "mapping": "string__url",
+          "optional": true
+        },
+        "num_favorites": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true,
+          "comment": "computed during document construction"
+        },
+        "num_reviews": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true,
+          "comment": "computed during document construction"
+        },
+        "item_size": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "bytes; computed during document construction"
+        },
+        "files_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction"
+        },
+        "item_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction",
+          "optional": true
+        },
+        "displayed_item_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction, may be inferred from item_count",
+          "optional": true
+        },
+        "collection_files_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction, for collection items only",
+          "optional": true
+        },
+        "collection_size": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "bytes; computed during document construction, for collection items only",
+          "optional": true
+        },
+        "downloads": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "total views over item lifetime, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "week": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "views over a seven-day period, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "month": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "views over a month, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "indexflag": {
+          "multivalue": true,
+          "mapping": "string",
+          "comment": "item characterization including noindex status"
+        },
+        "lending___available_to_borrow": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___available_to_browse": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___available_to_waitlist": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___status": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "avg_rating": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true
+        },
+        "addeddate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "issue": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "format varies",
+          "optional": true
+        },
+        "source": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "format varies",
+          "optional": true
+        },
+        "reviewdate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "publicdate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "date_favorited": {
+          "multivalue": false,
+          "mapping": "date",
+          "comment": "not metadata; only present in favorites lists, sourced from Lists API",
+          "optional": true
+        },
+        "reviews_data": {
+          "multivalue": true,
+          "dressing": {
+            "truncate": false
+          },
+          "mapping": "string",
+          "comment": "untruncated JSON encoded data used for Account reviews",
+          "optional": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "pass": "AR",
+  "goal": "soft→hard densify short-window Italian softs",
+  "choice_rationale": "Started Pius II but candidate notes flag crystal magnifiers (weaker spectacle class). Pivoted to Sforza: Ilardi FROM-duke documentary chain + existing Lombardia Registro 9 missive index.",
+  "promoted_hard": [
+    "sforza_francesco"
+  ],
+  "sforza_francesco": {
+    "onset": "1462-11-20 Tranchedini use report (young-vision ochiali)",
+    "years_after": 2,
+    "last_hard_pin": "1464-07-18 reg9 missive to Trezzo castellano",
+    "death": "1466-03-08",
+    "n_dated_near_work": 6,
+    "sources": [
+      "Ilardi Renaissance Vision ch.3",
+      "LombardiaBeniCulturali Registro 9 index / b1_sforza_francesco_reg9_chrono.csv"
+    ],
+    "chrono": "outputs/tables/b1_sforza_francesco_activity_chrono.csv",
+    "hard_dated_series": true,
+    "excluded": "reg9 1469-08-31 ghost after death"
+  },
+  "pius_ii": "scouted then deferred — Müntz 1461 crystal pieces ad legendum = magnifiers; candidates already warn against hard-ingest as spectacle pairs",
+  "sixtus_iv": "deferred — only +2y window",
+  "hesselin_denis": "still library-gated",
+  "ingest_labor_n": "unchanged"
+}

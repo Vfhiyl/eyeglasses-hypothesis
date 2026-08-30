@@ -1,0 +1,25 @@
+{
+  "pass": "AU",
+  "hesselin_denis": {
+    "result": "HARD OA-CLOSED",
+    "reason": "IA/Gallica/OpenAlex/Heymann dry for day-dated FROM-him Paris comptes 1475–1506; Pattou office ceiling only",
+    "soft_years_after": 32
+  },
+  "choice_after_hesselin": "Pivot to highest-ROI remaining soft: albrecht_prussia ya=26 (outside early window but Cleux-bar densify)",
+  "promoted_hard": [
+    "albrecht_prussia"
+  ],
+  "albrecht_prussia": {
+    "onset": "1542 ocularia order Königsberg→Gdańsk",
+    "years_after": 25,
+    "last_hard_pin": "1567-01-31 letter to Braunschweig Rat (Voigt)",
+    "death": "1568-03-20",
+    "n_dated_near_work": 12,
+    "source": "Voigt Briefwechsel der berühmtesten Gelehrten… mit Herzog Albrecht (1841) IA briefwechselder00voiggoog",
+    "chrono": "outputs/tables/b1_albrecht_prussia_activity_chrono.csv",
+    "hard_dated_series": true,
+    "from_herzog_pin_pool": 19
+  },
+  "early_soft_hard_oa_status": "plateau — remaining early softs are Hesselin(library)/Arduino(closed)/Nuno(closed)/ya=0 closed",
+  "ingest_labor_n": "unchanged for early; Albrecht may already be in labor series"
+}

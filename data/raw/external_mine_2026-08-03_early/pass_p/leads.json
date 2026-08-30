@@ -1,0 +1,32 @@
+{
+  "pass": "P",
+  "date": "2026-08-03",
+  "ingest": false,
+  "seams": [
+    {
+      "id": "welch_lubkin_piceto",
+      "result": "OpenAlex CLOSED; DDG empty"
+    },
+    {
+      "id": "guasti_strozzi",
+      "result": "Only Alessandra/Filippo occhiali — duplicates"
+    },
+    {
+      "id": "cleux_brace_death",
+      "result": "Infobretagne: Jean de Cleuz m.~1433 / maître d'hôtel ~1457; Olivier de Cleux le jeune 1437/1454 — still NO death for wearer Jean"
+    },
+    {
+      "id": "medcat_10550s",
+      "result": "10556 Guillem Ferrer inventari 1435-06-13 (almoneda source for Belluga) — death path; 10561/67/68 Mallorca inventaris — EXCLUDE; only living purchase remains Belluga 10557"
+    },
+    {
+      "id": "digitarq",
+      "result": "search UI dry / 0 details"
+    },
+    {
+      "id": "laborde_false_positives",
+      "result": "1404 Evrard=mouquettes not lunettes"
+    }
+  ],
+  "early_stock": "unchanged"
+}

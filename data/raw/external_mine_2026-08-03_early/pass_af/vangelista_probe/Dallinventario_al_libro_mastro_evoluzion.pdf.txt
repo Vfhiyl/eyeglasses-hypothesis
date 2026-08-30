@@ -1,0 +1,1910 @@
+Ordine, calcolo e “ragione”
+nell’Italia tardo medievale
+
+
+
+
+  1. Economia, giustizia e formazione
+
+                 a cura di
+      Elena Maccioni e Sergio Tognetti
+
+
+
+
+                  viella
+I libri di Viella
+      541
+Ordine, calcolo e “ragione”
+nell’Italia tardo medievale
+ 1. Economia, giustizia e formazione
+
+
+
+
+    a cura di Elena Maccioni e Sergio Tognetti
+
+
+
+
+                    viella
+Copyright © 2025 - Viella s.r.l.
+Tutti i diritti riservati
+Prima edizione: giugno 2025
+ISBN 979-12-5701-002-7 (carta)
+ISBN 979-12-5701-011-9 (ebook)
+DOI 10.52056/9791257010119
+
+
+
+
+Questo volume è pubblicato nell’ambito del progetto Redde rationem. Order, cal-
+culation and reason in the urban societies of late Medieval Italy (P. I. Sergio To-
+gnetti), finanziato dall’Unione Europea – Next Generation EU – Piano nazionale
+di ripresa e resilienza (PNRR) – Missione 4, Componente 2, Investimento 1.1,
+Fondo per il Programma Nazionale di Ricerca (PNR) e Progetti di Rilevante Inte-
+resse Nazionale (PRIN) – CUP: F53D23000240006.
+
+
+
+
+  ORDINE,
+       calcolo e “ragione” nell’Italia tardo medievale. - Roma : Viella, 2025- . - volumi ; 21 cm. - (I
+  libri di Viella ; 541 ...)
+       1: Economia, giustizia e formazione / a cura di Elena Maccioni e Sergio Tognetti. - 2025. -
+  501 p. : ill., carte geografiche. - (I libri di Viella ; 541). - Testi in italiano, spagnolo o francese. In-
+  dici dei nomi e dei luoghi: p. [479]-501. - ISBN 979-12-5701-002-7. eISBN 979-12-5701-011-9
+       1. Regole - Europa - Sec. 13.-16.          I. Maccioni, Elena II. Tognetti, Sergio
+       302.12094 (DDC WebDewey) Scheda bibliografica: Bibl. della Fondazione Bruno Kessler
+Indice
+
+
+
+
+SERGIO TOGNETTI
+   Introduzione                                                     9
+
+
+I. La contabilità tardo medievale: una forma
+   di controllo e razionalizzazione della realtà
+ALBERTO LUONGO
+   Le contabilità mercantili nei medi e piccoli centri urbani
+   dell’Italia centrale (secoli XIV-inizio XV)                     21
+TOMMASO VIDAL
+   La creatività al potere. Pratiche e tecniche contabili
+   in Friuli (secoli XIII-XV)                                      45
+MATHIEU HARSCH
+   Il contratto di lavoro dipendente nell’Arte della Lana
+   di Firenze alla fine del Medioevo                                67
+MARÍA VIU FANDOS
+  Los estudios sobre contabilidad mercantil de la Corona
+  de Aragón en la Edad Media: presente y futuro                     89
+ESTHER TELLO HERNÁNDEZ
+   Verificar las cuentas en tiempos de crisis:
+   las rentas eclesiásticas y el maestre racional
+   en la Corona de Aragón del trescientos                          113
+SERGIO TOGNETTI
+   Dall’inventario al libro mastro: evoluzione della contabilità
+   negli enti religiosi fiorentini tra la metà del XIV secolo
+   e l’inizio del XVI                                              133
+6              Ordine, calcolo e “ragione” nell’Italia tardo medievale
+
+
+ANDREA PESARE
+   I conti dei chierici. Contabilità private ecclesiastiche
+   nella Toscana del XV secolo                                           177
+
+
+II. Regole, norme e giustizia per le imprese e per il mondo del lavoro
+ALESSANDRA BASSANI
+   Il contratto di discepolato: dottrina e prassi notarile
+   nel tardo Medioevo                                                    201
+ERMANNO ORLANDO
+   Governo e disciplinamento di una comunità artigiana inquieta:
+   i vetrai di Murano (secoli XIII-XIV)                                  225
+ALDO GIUSEPPE DI BARI
+   Il controllo dei mestieri urbani fra piazze e botteghe:
+   l’Ufficio del fango e delle strade a Bologna (1377-1397)              247
+JÉRÔME HAYEZ
+    Un marchand devant les tribunaux.
+    Francesco Datini comme acteur juridique                              269
+ELENA MACCIONI
+   Razionalità e giustizia nella pratica dell’Officium Mercancie
+   di Genova (secolo XV)                                                 295
+LUCIANA PETRACCA
+   Normativa, controllo e protezione dei mercanti forestieri
+   in Puglia (secoli XIV-XV)                                             315
+
+
+III. Ordinare le pratiche: manuali, regole e strumenti
+     per le professioni e i mestieri
+ANDREA BOCCHI
+   Nomina nuda. Appunti sulla storia delle pratiche di mercatura         341
+BIANCA FADDA
+   Il codice di Giovanni da Uzzano della Biblioteca Universitaria
+   di Cagliari. Note storico-paleografiche e codicologiche               363
+                                   Indice                            7
+
+
+FRANCESCO AMMANNATI
+   Insegnare i mestieri del tessile: la diffusione
+   della conoscenza tecnica nel basso Medioevo
+   tra manualistica e trasmissione orale                           383
+PAOLO ROSSO
+   Prassi di controllo e di razionalizzazione nei processi
+   di literacy tardo medievali                                     407
+TOMMASO DURANTI
+   Regole per la professione di medico: il De cautelis medicorum
+   habendis di Alberto Zancari (1343)                              435
+FRANCESO PAOLO TOCCO
+   Accogliere e regolare il disagio mentale.
+   Nascita e organizzazione dei primi manicomi
+   nel mondo iberico quattrocentesco                               457
+
+Indice dei nomi                                                    479
+Indice dei luoghi                                                  495
+SERGIO TOGNETTI
+
+Dall’inventario al libro mastro: evoluzione della contabilità
+negli enti religiosi fiorentini tra la metà del XIV secolo
+e l’inizio del XVI*
+
+
+
+
+Premessa
+
+     Il censimento dei registri contabili della Toscana fiorentina realizzato
+da Richard A. Goldthwaite e Marco Spallanzani, incrementato e rielabora-
+to in formato Excel da Francesco Bettarini per poi essere messo a disposi-
+zione degli studiosi su una piattaforma on-line dell’Università di Padova,1
+ha dato concretezza numerica a un fenomeno di conservazione archivistica
+costantemente sottolineato dai cultori della business history, sin dai tempi
+di Raymond de Roover e Federigo Melis: ovverosia, che la schiacciante
+maggioranza dei libri di conto dell’Europa tardo medievale e rinascimen-
+tale proviene da una piccola sub-regione gravitante attorno a Firenze e a un
+pugno di città ricomprese nel bacino dell’Arno. Per il periodo 1211-1499
+sono stati censiti 3081 registri, eterogenei per formato e qualità, apparte-
+nuti a imprese mercantili, bancarie e manifatturiere, ma anche a singoli
+commercianti e artigiani e a molti capifamiglia impegnati a tenere conto
+e memoria dei propri patrimoni privati. Se mettessimo insieme tutto ciò
+che si è conservato negli archivi dell’Italia settentrionale (comprendendo
+dunque i depositi relativi a città come Genova, Milano, Bologna e Vene-
+zia), molto probabilmente non arriveremo nemmeno al 10% della massa
+
+      * Quando stavo elaborando questo testo, il mio pensiero si è rivolto più volte a
+Richard Goldthwaite. Alla sua memoria, al suo insegnamento e alla sua amicizia è dedicato
+questo mio contributo.
+Abbreviazioni: ASFi = Archivio di Stato di Firenze; CRSPL = Compagnie religiose soppres-
+se da Pietro Leopoldo; CRSGF = Corporazioni religiose soppresse dal governo francese.
+      1. https://phaidra.cab.unipd.it/view/o:453620 (ultima consultazione aprile 2025).
+134                                    Sergio Tognetti
+
+
+documentaria toscana; e verosimilmente non saremmo molto lontani da
+queste proporzioni se il confronto venisse operato con tutte le realtà urba-
+ne politicamente inquadrate nella Corona d’Aragona. Fuori dall’Euro-
+pa mediterranea, infine, qualsiasi paragone sarebbe privo di significato,
+date la pochezza e l’assoluta modestia qualitativa degli sparuti esemplari
+conservati nei paesi transalpini.2
+      Se poi il nostro ragionamento si spostasse dai brutali dati numerici
+alle tecniche contabili, il che comporterebbe affiancare all’indagine socio-
+economica quella di natura socio-culturale, dovremmo concludere che le
+forme più avanzate della ragioneria, cioè quelle ricollegabili al metodo
+della partita doppia, fuori dalla Toscana fiorentina si possono riscontrare
+solo nelle maggiori città del Nord-Italia e, con qualche maggiore incertez-
+za, nei grandi empori marittimi catalano-aragonesi.3 A prescindere dall’an-
+noso dibattito sulla patria di origine di una tecnica diffusasi per gradi nel
+corso di almeno un secolo se non di più, resta il fatto che nella Firenze di
+fine Quattrocento molti artigiani e dettaglianti la usavano, probabilmente
+con poca utilità pratica vista la sproporzione tra la complessità del metodo
+e lo scarso giro di affari da gestire. Un simile habitus mentale, motivato da
+istituzioni scolastiche cittadine fortemente piegate, sin dall’età di Dante,
+alle esigenze della produzione e dell’impresa, non è rintracciabile in alcuna
+altra realtà italiana ed europea.4
+
+      2. Per una migliore contestualizzazione (con tutti i riferimenti bibliografici del caso)
+mi permetto di rimandare a Sergio Tognetti, Una civiltà di ragionieri. Archivi aziendali e
+distinzione sociale nella Firenze basso medievale e rinascimentale, in «Reti Medievali.
+Rivista», 21, 2 (2020), pp. 221-250.
+      3. Tra gli studi più recenti su queste tematiche si segnalano: María Viu Fandos, Una
+gran empresa en el Mediterráneo medieval. La compañía mercantil de Joan Torralba y
+Juan de Manariello (Barcelona-Zaragoza, 1430-1437), Madrid, CSIC, 2021; Ead., La
+contabilidad privada del mercader barcelonés Joan de Torralba. El «Llibre de comtans»
+(1430-1460) y el cuadernillo de deudas con Pere de Sitges (1432-1448), Barcelona,
+Edicions de la Universitat de Barcelona, 2021; Ead., Los libros secretos de la compañía
+comercial Torralba-Manariello. Corona de Aragón, 1430-1437, Barcelona, Edicions de
+la Universitat de Barcelona, 2022; Tommaso Vidal, Commerci di frontiera. Contabilità e
+gestione societaria nel Friuli tardomedievale, Udine, Forum, 2021.
+      4. Richard A. Goldthwaite, The Practice and Culture of Accounting in Renais-
+sance Florence, in «Enterprise & Society», 16, 3 (2015), pp. 1-37 (available on CJO
+2015 doi:10.1017/eso.2015.17): p. 30: «Accounting was a social practice widely diffused
+throughout the population, much beyond business circles, and often carried out with the
+same high level of technical skill found in company ledgers. It was an essential element in
+the education of Florentines, conditioning their way of thinking about economic activity».
+                               Dall’inventario al libro mastro                             135
+
+
+     Questi dati di fatto incontrovertibili, vagliati e interpretati da studiosi
+di formazione non uniforme, rappresentano solo una parte di una realtà
+storica e archivistica più vasta. Il censimento, così come la grande maggio-
+ranza degli studi incentrati tanto sugli archivi ospitanti i libri di conto
+quanto sulla storia della ragioneria, ha in buona misura ignorato la faccia
+nascosta della luna, cioè i depositi documentari attinenti al funzionamento
+e all’ordinaria amministrazione di istituzioni operanti all’interno di una
+cornice giuridica all’epoca tutelata e disciplinata dal diritto canonico. Stia-
+mo parlando non solo di enti ecclesiastici e religiosi, ma anche di confra-
+ternite, ospedali e istituzioni caritatevoli di vario tipo. Il primato archivisti-
+co-documentario della Toscana fiorentina quanto a libri di conto dovrebbe
+estendersi anche ai registri prodotti e conservati per secoli da monasteri,
+conventi e istituti assistenziali. Anche se un censimento di questo materiale
+non è stato realizzato, basterebbe consultare gli inventari di alcuni macro-
+fondi degli Archivi di Stato di Firenze (ad esempio: Corporazioni religiose
+soppresse dal governo francese; Compagnie religiose soppresse da Pietro
+Leopoldo; Ospedale di Santa Maria Nuova) e di Siena (Ospedale di Santa
+Maria della Scala) o quelli relativi agli archivi dell’Ospedale degli Inno-
+centi di Firenze o della Fraternita dei laici di Arezzo, per rendersi conto
+dell’ampiezza del fenomeno.5
+     Per la verità, negli ultimi anni il mondo dell’assistenza ha ricevuto una
+notevole attenzione, con progetti di ricerca mirati anche a valutare il ruolo
+economico degli ospedali e la diffusione al loro interno di pratiche ammi-
+nistrative largamente desunte dal mondo dell’impresa privata.6 Questo
+
+      5. Questi due ultimi possono essere consultati a distanza. Il primo direttamente on-line:
+https://www.archivio.istitutodeglinnocenti.it/ardes-web_innocenti/cgi-bin/pagina.pl?Prp
+SecId=7 (ultima consultazione aprile 2025). Il secondo indirettamente, perché dal sito della
+Fraternita aretina (https://www.fraternitadeilaici.it/archiviostorico/ [ultima consultazione
+aprile 2025]) è scaricabile in formato pdf il volume L’archivio della Fraternita dei laici di
+Arezzo, introduzione storica e inventario di Augusto Antoniella, Firenze, La Nuova Italia,
+1985.
+      6. Tra i volumi collettanei più recenti vedi L’ospedale, il denaro e altre ricchezze.
+Scritture e pratiche economiche dell’assistenza in Italia nel tardo medioevo, a cura di Mari-
+na Gazzini e Antonio Olivieri, numero monografico di «Reti Medievali. Rivista», 17, 1
+(2016); Memorie dell’assistenza. Istituzioni e fonti ospedaliere in Italia e in Europa (secc.
+XIII-XVI), a cura di Salvatore Marino e Gemma Teresa Colesanti, Pisa, Pacini, 2019; Alle
+origini del welfare. Radici medievali e moderne della cultura e dell’assistenza, a cura di
+Gabriella Piccinni, Roma, Viella, 2020. Molto utile è anche il più recente Francesco Bian-
+chi, La carità come impresa nell’Italia tardo medievale, in Los hospitales y las pandemias
+136                                   Sergio Tognetti
+
+
+ha permesso di cominciare a valorizzare, anche nell’ottica di storia della
+ragioneria, l’immenso patrimonio documentario toscano (e più in generale
+italiano). Nel caso fiorentino è risultata chiara la ricaduta pratica di un
+legame istituzionale forte tra grandi ospedali urbani e maggiori corpora-
+zioni di mestiere: un aspetto di manifesta evidenza nella genesi e nello
+sviluppo dell’Ospedale degli Innocenti, fondato per espressa volontà dei
+setaioli e degli orefici. Nel corso del Quattrocento il patronato esercitato
+sugli enti assistenziali da mercanti-banchieri, imprenditori tessili e mondo
+delle libere professioni, pur tra alterne vicende e con elementi di casualità
+non del tutto marginali, orientò gli amministratori ospedalieri verso l’ado-
+zione della partita doppia, che si può dire virtualmente acquisita alla fine
+del XV secolo.7
+      Largamente meno indagata è, viceversa, la realtà monastica e conven-
+tuale. Salvo sporadici studi o piccoli capitoli all’interno di monografie
+dedicate a fenomeni di natura spiccatamente ecclesiastica e spirituale
+oppure di storia dell’arte e della cultura, la contabilità degli enti religio-
+si attende ancora un vaglio mirato e soprattutto sistematico.8 Chi scrive
+ha provato a effettuare un piccolo affondo a partire dalla documentazione
+quattrocentesca di un antico e prestigioso cenobio cittadino: il monastero
+di S. Maria di Firenze, meglio noto come Badia fiorentina.9 Sulla scorta
+
+en España e Italia desde una perspectiva histórica, a cura di Margarita Vilar Rodríguez,
+Jerònia Pons Pons, Carlos Barciela e Giovanni L. Fontana, Alicante, Universitat d’Alacant,
+2022, pp. 57-90.
+      7. Sergio Tognetti, «E terassi per bilancio». Pratiche amministrative e gestioni
+contabili negli ospedali fiorentini del Quattrocento, in «Ricerche Storiche», 50, 1 (2020),
+pp. 149-176; Id., Le finanze dell’ospedale degli Innocenti di Firenze: dalla fondazione alla
+bancarotta del 1579, in «Archivio Storico Italiano», 180 (2022), pp. 53-127.
+      8. Un interessante, originale e proficuo utilizzo della contabilità di monasteri e
+conventi femminili si trova in Sharon T. Strocchia, Nuns and Nunneries in Renaissance
+Florence, Baltimore (MD), The Johns Hopkins University Press, 2009, in particolare nei
+capitoli III e IV. Per casi di studio su altre realtà ecclesiastiche non toscane (e anche non
+italiane) vedi “Redde rationem”. Contabilità parrocchiali tra medioevo e prima età moder-
+na, a cura di Andrea Tilatti e Roberto Alloro, numero monografico dei «Quaderni di storia
+religiosa», 21 (2016); L’institution de pratiques comptables normalisées et stables dans
+les milieux ecclésiastiques européens à la fin du Moyen Âge (XIIIe-XVIe siècles): une assi-
+milation des cultures de l’écrit au service d’enjeux administratifs, numero monografico di
+«Comptabilités. Revue d’histoire des comptabilités», 10 (2019): https://journals.openedi-
+tion.org/comptabilites/2477 (ultima consultazione aprile 2025).
+      9. Sergio Tognetti, Osservanza e partita doppia. La contabilità della Badia fiorentina
+nel primo Rinascimento, Firenze, Edifir, 2023.
+                             Dall’inventario al libro mastro                         137
+
+
+di questa esperienza, in seguito alla consultazione (ovviamente non con
+lo stesso grado di approfondimento) dei registri amministrativi apparte-
+nuti a numerosi altri enti monastici e conventuali (tanto della città quanto
+del contado), in questa sede si vuole proporre una sorta di vademecum
+per interpretare l’evoluzione delle scritture contabili negli enti religiosi
+fiorentini dalla seconda metà del Trecento sino all’inizio del Cinquecento.
+Il processo, come si vedrà, ha molti punti di contatto con la realtà ospeda-
+liera, dalla quale parzialmente si distacca per i tempi e per le forme con cui
+si giunge all’adozione delle tecniche contabili più evolute. In riferimento a
+quest’ultimo punto sono infatti da tenere presenti i seguenti aspetti.
+      In primo luogo, le fondazioni degli enti assistenziali erano general-
+mente più recenti di quelle monastiche e spesso anche di quelle conventua-
+li.10 Dei cinque maggiori ospedali in piena attività nella seconda metà del
+Quattrocento (in ordine di antichità: S. Paolo, S. Maria Nuova, Bonifazio,
+San Matteo, Innocenti) solo due vantavano una fondazione duecentesca,
+essendo gli altri tre stati creati tra gli ultimi decenni del Trecento e l’ini-
+zio del Quattrocento. Non solo, ma anche i più antichi furono sottoposti a
+profonde modifiche e ristrutturazioni in seguito al passaggio della Peste
+Nera e alle periodiche ricorrenze del morbo, risultando di fatto degli enti
+ampiamente rinnovati negli obiettivi da perseguire e nella struttura orga-
+nizzativa. I monasteri di cui parleremo hanno origini più remote, che in
+alcuni casi risalgono addirittura all’epoca pre-comunale. Va da sé che le
+prassi gestionali sedimentatesi in un arco cronologico di più generazioni
+facessero maggiore fatica ad adattarsi ai tempi nuovi: del resto chiunque
+può rendersi conto dell’enorme distanza che separa l’economia e le società
+dell’XI secolo da quelle del tardo Medioevo. Per quanto riguarda i conven-
+ti degli ordini mendicanti, il momento fondativo è di norma il pieno e tardo
+XIII secolo, ma contrariamente ai cenobi, questi enti avevano una modesta
+proiezione extra-urbana, il che significava minori terre e immobili rurali da
+gestire: il grosso delle proprietà consisteva proprio nel complesso conven-
+tuale, spesso realizzato e incrementato grazie a cospicue donazioni di laici.
+Poi ci sarebbe tutto il complesso di problemi inerente alla questione della
+povertà: nonostante la profusione di lavori dedicati al contributo fonda-
+mentale fornito dai frati in tema di una nuova etica economica, sostan-
+
+      10. Un elenco di 68 ospedali fondati a Firenze nell’arco cronologico 1000-1550 si
+trova in John Henderson, L’ospedale rinascimentale. La cura dell’anima e del corpo, trad.
+it., Bologna, Odoya, 2016, pp. 429-445.
+138                                    Sergio Tognetti
+
+
+zialmente favorevole al mercato inteso come bene comune,11 almeno nelle
+prime generazioni il rapporto con la ricchezza fu (per usare un eufemismo)
+contrastato e ambiguo. Solo nel Trecento i frati iniziarono ad ammettere
+che avevano effettivamente delle loro proprietà da amministrare. Insom-
+ma, per ragioni in parte differenti, anche i conventi, come i monasteri,
+fecero fatica ad adattarsi alle nuove prassi gestionali.12
+     In secondo luogo, dopo la metà del Trecento gli ospedali si dovettero
+rapidamente attrezzare per affrontare, in maniera più incisiva, l’esigen-
+za di soccorrere poveri e bisognosi: il che significava assumere medici
+(prima di fatto assenti) e dotare il personale dirigente di una adeguata
+formazione tecnico-professionale, non solo per gestire le maggiori risor-
+se chieste e ottenute, ma anche per rendere l’assistenza una missione
+finanziariamente sostenibile. Per molti enti religiosi quello stesso perio-
+do corrispose all’ epoca nella quale si diffuse la prassi delle commende e
+in generale una certa rilassatezza dei costumi. Solo con il primo Quattro-
+cento comparvero i primi fenomeni delle Osservanze, tanto in ambiente
+monastico quanto in quello conventuale.13 I principi di ordine e rigore,
+
+      11. Il riferimento d’obbligo è quello di Giacomo Todeschini, Ricchezza francescana.
+Dalla povertà volontaria alla società di mercato, Bologna, il Mulino, 2004. Ma si veda
+anche Paolo Evangelisti, Il pensiero economico nel Medioevo, Roma, Carocci, 2016, in
+particolare i capitoli 4 e 5.
+      12. Oltre al seminale contributo di Attilio Bartoli Langeli, Gian Paolo Bustreo, I docu-
+menti di contenuto economico negli archivi conventuali dei Minori e dei Predicatori nel
+XIII e XIV secolo, in L’economia dei conventi dei frati minori e predicatori fino alla metà
+del Trecento, Atti del XXXI Convegno internazionale (Assisi, 9-11 ottobre 2003), Spoleto
+(PG), CISAM, 2004, pp. 119-150; seguito da alcuni dei saggi contenuti in Économie et
+religion. L’expérience des ordres mendiants (XIIIe-XVe siècle), a cura di Nicole Bériou e
+Jacques Chiffoleau, Paris, PUL, 2009 (in particolare quelli contenuti nella prima sezione
+intitolata Les archives des couvents) e dall’articolo di Clément Lenoble, Avant l’ascèse
+intramondaine. Comptabilités ecclésiastiques, gouvernement et rationalité économique
+(XIIIe-XVe siècles), in «Archives de sciences sociales des religions», 195 (2021), pp. 51-81;
+si veda ora lo specifico e acuto affondo di Emanuele Carletti, “Per lo buono istato della
+città”. I Servi di s. Maria nella società dell’Italia centro-settentrionale tra XIII e XIV seco-
+lo, Firenze, Firenze University Press, 2023, in particolare il quarto capitolo (La gestione dei
+beni materiali tra economia e religione, pp. 185-223).
+      13. Si veda da ultimo Les observances régulières: historiographies, a cura di Sylvie
+Duval, Haude Morvan e Ludovic Viallet, numero monografico della rivista «Mélanges de
+l’École française de Rome. Moyen Âge», 130, 2 (2018) https://journals.openedition.org/
+mefrm/4068 (ultima consultazione aprile 2025); Dalla riforma di S. Giustina alla Congre-
+gazione Cassinese. Genesi, evoluzione e irradiazione di un modello monastico europeo
+(sec. XV-XVI), Atti del Convegno internazionale di studi per il VI centenario di fondazione
+                            Dall’inventario al libro mastro                        139
+
+
+applicati in sede pratica alla gestione del patrimonio ecclesiastico, ebbero
+un effetto simile (ma ritardato) a quello riscontrabile negli ospedali messi
+sotto pressione da una accresciuta e variegata domanda di assistenza.
+     In terzo e ultimo luogo, ma certamente non ultimo per importan-
+za, negli ospedali il travaso di cultura tecnica fu promosso soprattutto
+dal mondo laico, per il tramite delle arti e (data l’indiscutibile funzione
+sociale degli enti assistenziali) anche delle pubbliche autorità. Entram-
+be, per altro, provvedevano a sovvenzionare i diretti interessati, sia con
+contribuzioni regolari sia con eccezionali provvedimenti volti a ripiana-
+re eventuali “buchi di bilancio”. Negli enti religiosi le “riforme” furo-
+no avviate generalmente da abati e priori illuminati oltre che ambiziosi,
+come nel caso di don Gomes Eanes, alla guida della Badia fiorentina tra
+1419 e 1439.14 Tuttavia, qualsiasi innovazione gestionale sarebbe stata
+impensabile senza il ricorso, almeno iniziale, a personale laico tecnica-
+mente formato in altri ambiti e quindi ingaggiati dagli enti ecclesiastici.
+Solo in un secondo momento, monaci e frati si sarebbero impossessati
+della necessaria cultura tecnica, adeguandosi con una certa facilità alle
+nuove esigenze.
+     In realtà, ciò che noi teniamo rigidamente separato, il mondo dei
+religiosi e quello dei grandi uomini d’affari, aveva elementi di contiguità
+molto pronunciati. Quando si ha modo di leggere i cognomi di monaci,
+monache, frati e suore, emerge un elemento di lapalissiana banalità: una
+volta pronunciati i voti ed entrati nel chiostro, i figli (quasi sempre volon-
+tariamente) e le figlie (molto meno spontaneamente) di facoltosi titolari di
+imprese, si portavano inevitabilmente dietro la cultura di famiglia (e nel
+caso delle ragazze anche una non piccola dote). Si può certamente imma-
+ginare che questi giovani uomini e queste giovani donne fossero molto
+precocemente avviati verso un percorso di formazione che non contem-
+plava la lettura dei trattati di abbaco e la compilazione dei libri mastri. Ma
+questo non corrisponde al vero nei casi, non del tutto infrequenti, riguar-
+danti affermati uomini d’affari che “entravano in religione”. Uno fra i più
+noti, e infatti riportato nelle cronache del tempo, è quello di Calvano di
+Jacopo Salviati. Nato nel 1399, durante tutti gli anni Venti e primi Trenta
+
+della Congregazione “De Unitate” (Padova, Abbazia di Santa Giustina, 18-21 settembre
+2019), a cura di Elisa Furlan, Francesco G.B. Trolese, Cesena, Badia di Santa Maria del
+Monte, Centro Storico Benedettino Italiano, 2022.
+      14. Tognetti, Osservanza e partita doppia, cap. II.
+140                                   Sergio Tognetti
+
+
+del Quattrocento risiedette a Barcellona, dove diresse (assieme al conna-
+zionale Giovanni Ventura) una società d’affari legata da un contratto di
+accomandita con il banco di Antonio di Salvestro Serristori e compagni
+di Firenze nel ruolo di accomandante. A Barcellona lavoravano anche i
+suoi fratelli Alamanno e Bernardo.15 In seguito a una conversione, Calva-
+no decise di farsi monaco, probabilmente su sollecitazione di don Gomes
+Eanes, abate della Badia fiorentina. Vespasiano da Bisticci, nella biografia
+del papa Eugenio IV, racconta che Calvano «era stato grandissimo merca-
+tante, et tornò a Firenze molto rico, et avendo veduto pruova delle falla-
+cie del mondo, restituì quello gli parve avere sopra conscientia et resto di
+giusto et onesto guadagno dette per l’amore di Dio, et fatto questo, se n’an-
+dò al tutissimo nido della religione».16 Professo nell’abbazia di Santa Fiora
+e Lucilla presso Arezzo, dal 1435 l’ex banchiere d’affari divenne monaco
+vallombrosano a San Salvi (nel suburbio orientale fiorentino, a circa un
+chilometro e mezzo dalla porta alla Croce), dove avrebbe pure ricoperto il
+ruolo di abate dal 1449 al 1452, per poi passare gli ultimi anni della sua vita
+sul Pratomagno presso la casa madre di Vallombrosa.17
+
+
+1. L’evoluzione dei registri
+
+     Nella seconda metà del XIV secolo, la strumentazione contabile
+impiegata dagli enti religiosi fiorentini era ancora abbastanza semplice.
+L’ambito nel quale si cercava di esercitare un controllo sulle finanze mona-
+stiche e conventuali era essenzialmente quello relativo agli affari correnti.18
+Ne consegue che i registri più diffusi per quest’epoca fossero quelli dedi-
+
+      15. Sergio Tognetti, Da Figline a Firenze. Ascesa economica e politica della famiglia
+Serristori (secoli XIV-XVI), Firenze, Opus libri, 2003, pp. 80, 82; Maria Elisa Soldani,
+Uomini d’affari e mercanti toscani nella Barcellona del Quattrocento, Barcelona, CSIC,
+2010, pp. 476-478.
+      16. Vespasiano da Bisticci, Le vite, a cura di Aulo Greco, 2 voll. Firenze, Istituto
+Nazionale di studi sul Rinascimento, 1970 e 1976, vol. I, pp. 11-12.
+      17. Francesco Salvestrini, Il carisma della magnificenza. L’abate vallombrosano
+Biagio Milanesi e la tradizione benedettina nell’Italia del Rinascimento, Roma, Viella,
+2017, ad indicem.
+      18. In altri contesti italiani questo approccio era ancora quasi l’unico ancora nella
+prima età moderna: cfr. molti dei saggi contenuti in L’uso del denaro. Patrimoni e ammi-
+nistrazione nei luoghi pii e negli enti ecclesiastici in Italia (secoli XV-XVIII), a cura di
+Alessandro Pastore e Marina Garbellotti, Bologna, il Mulino, 2001.
+                                                                      Dall’inventario al libro mastro
+
+
+
+
+Fig. 1. Monasteri, conventi e ospedali fiorentini citati nel testo.   141
+                                                                     142
+
+
+
+
+                                                                     Sergio Tognetti
+
+
+
+
+Fig. 2. Monasteri dell’area suburbana fiorentina citati nel testo.
+                                                                          Dall’inventario al libro mastro
+
+
+
+
+Fig. 3. Monasteri della montagna fiorentina e aretina citati nel testo.   143
+144                                      Sergio Tognetti
+
+
+cati alle entrate e alle uscite di contanti.19 Tra i monasteri ad aver lascia-
+to il maggior numero di libri e quaderni di cassa nel secondo Trecento
+abbiamo, per l’ambito urbano, la Badia fiorentina e il cenobio femmini-
+le di S. Pier Maggiore; per il contado, invece, la realtà più consistente è
+quella del prestigioso monastero cistercense di S. Salvatore e S. Loren-
+zo a Settimo. Le vicende dei due cenobi cittadini sono state analizzate in
+maniera assai diversa. Il rilevante ruolo giocato dalla Badia nelle vicen-
+de politiche, religiose, culturali e artistiche della Firenze tardo medievale
+ha fatto sì che il cenobio maschile fosse indagato con un notevole grado
+di approfondimento;20 mentre per S. Piero Maggiore, la demolizione del
+complesso monastico a fine Settecento e il danneggiamento del suo archi-
+vio in seguito all’alluvione del 1966 (con molti libri contabili parzialmente
+rovinati)21 hanno comportato un interesse più contenuto e recente,22 con
+
+      19. Tra i più antichi in assoluto, assai rilevanti anche per gli storici della lingua
+essendo redatti in volgare, sono quelli prodotti dai serviti di S. Maria di Cafaggio (cioè la
+SS. Annunziata di Firenze), a partire da un libro di entrate e uscite di fine Duecento. Nel
+1932 il registro venne trasferito dal convento fiorentino nell’Archivio Generale dei Servi di
+Maria a Roma: cfr. Registro di Entrata e Uscita di Santa Maria di Cafaggio (REU), 1286-
+1290. Trascrizione, commento, note e glossario a cura di Eugenio M. Casalini, Firenze,
+Convento della SS. Annunziata, 1998 (ringrazio frate Emanuele Cattarossi, economo della
+SS. Annunziata, per avermi fornito tutta una serie di pubblicazioni relative a edizioni di
+registri contabili del convento servita). Su questo e su altri libri di cassa del convento servi-
+ta vedi Raffaella Citeroni, Les comptes des couvents des Servites de Marie à Vérone et à
+Florence (XIIIe-XIVe siècle), in Économie et religion, pp. 63-99.
+      20. Tra le pubblicazioni antecedenti al mio lavoro segnalo soprattutto Ernesto Sestan,
+Maurilio Adriani, Alessandro Guidotti, La Badia fiorentina, Firenze, CRF, 1982; Anne
+Leader, The Badia of Florence: Art and Observance in a Renaissance Monastery, Blooming-
+ton (IN), Indiana University Press, 2012; La Badia fiorentina. Dalla fondazione alla fine
+del Trecento, cura di Fulvia Zeuli, testi di Francesca Carrara e Fiorella Facchinetti, Firenze,
+Polistampa, 2018; La Badia fiorentina. Vicende storiche e architettoniche dal Quattrocento
+all’Ottocento e i moderni cantieri di restauro, 2 voll., a cura di Fulvia Zeuli, testi di France-
+sca Carrara, Fiorella Facchinetti e Fulvia Zeuli, Firenze, Polistampa, 2021; Badia fiorentina.
+La chiesa e il monastero, a cura di Riccardo Spinelli, Firenze, Mandragora, 2021.
+      21. Il monastero femminile, in virtù della sua antica e ricca fondazione (XI secolo)
+nonché dell’interesse a esso rivolto da alcune grandi casate patrizie (tra cui gli Albizzi),
+conserva una nutrita serie di libri di entrata e uscita a partire dal 1315. Purtroppo, quasi tutti i
+registri recano i segni nefasti dell’alluvione. Per limitarsi al solo XIV secolo cfr. Archivio di
+Stato di Firenze (d’ora in poi ASFi), San Pier Maggiore, 65-70 (anni 1315-1334, 1370-1394).
+      22. Maureen C. Miller, Kathryn L. Jasper, The Foundation of the Monastery of San Pier
+Maggiore in Florence, in «Rivista di Storia della Chiesa in Italia», 64, 2 (2010), pp. 381-396;
+Monica Bietti, Dal Savonarola al pontificato di Leone X: artisti e patroni in San Pier Maggio-
+                               Dall’inventario al libro mastro                            145
+
+
+la notevole eccezione del fascino irresistibile esercitato sugli studiosi dal
+singolare rituale concernente la presa di possesso della sede episcopale da
+parte dei neo vescovi fiorentini: cerimonia che prevedeva il soggiorno del
+presule presso il cenobio femminile e il suo simbolico “sposalizio” con la
+badessa di S. Pier Maggiore.23
+     La storia patrimoniale e amministrativa della badia di Settimo, dopo
+un seminale saggio di Philip Jones, incentrato però soprattutto sul periodo
+precedente la Peste Nera,24 attende ancora studi di un certo respiro, capaci
+di valorizzare una documentazione abbondante e ricca di informazioni.25
+
+re a Firenze, in Nello splendore mediceo, Papa Leone X e Firenze, catalogo della mostra
+tenuta presso il Museo delle Cappelle Medicee e Casa Buonarroti (Firenze, 26 marzo-6
+ottobre 2013), a cura di Nicoletta Baldini e Monica Bietti, Livorno, Sillabe, 2013, 127-137;
+Donal Cooper, Jennifer Sliwka, San Pier Maggiore Was One of Florence’s Most Important
+Churches Until It Was Demolished in the 18th Century. What Can Digital Reconstruction Tell
+Us About the Original Structure and the Artworks It Once Contained?, in «Apollo», 182
+(2015), pp. 76-81; Donal Cooper, Firenze scomparsa: le chiese di Santa Chiara e San Pier
+Maggiore e la loro ricostruzione digitale presso i musei di Londra, in «Archeologia e Calco-
+latori», supplemento 10 (2018), pp. 67-80; Alessandro Grassi, La cappella Albizi da San Pier
+Maggiore a San Paolino di Firenze, Bibbiena, Mazzaffirra, 2021.
+       23. La bibliografia sul tema è quanto mai ampia e risalente nel tempo. Si veda da ulti-
+mo Maureen C. Miller, Why the Bishop of Florence Had to Get Married, in «Speculum», 81
+(2006), pp. 1055-1091; Sharon T. Strocchia, When the Bishop Married the Abbess: Mascu-
+linity and Power in Florentine Episcopal Entry Rites, 1300-1600, in «Gender & History»,
+19 (2007), pp. 346-368; Lorenzo Fabbri, La sella e il freno. Privilegi familiari e saccheggio
+rituale nell’ingresso episcopale a Firenze fra XIII e XVI secolo, in Uomini paesaggi storie.
+Studi di storia medievale per Giovanni Cherubini, 2 voll., a cura di Duccio Balestracci et
+al., Siena, Salvietti & Barabuffi, 2012, vol. II, pp. 895-909.
+       24. Philip J. Jones, Le finanze della badia cistercense di Settimo nel secolo XIV, in
+Id., Economia e società nell’Italia medievale, trad. it., Torino, Einaudi, 1980, pp. 317-344.
+       25. Qualche spunto interessante si trova in Storia e arte della abbazia cistercense di
+San Salvatore di Settimo a Scandicci, Atti della giornata di studio (Badia a Settimo, 25 otto-
+bre 1986), a cura di Goffredo Viti, Firenze, Certosa di Firenze, 1995, mentre è lontano dalle
+tematiche qui affrontate Dalle abbazie l’Europa. I nuovi germogli del seme benedettino nel
+passaggio tra primo e secondo millennio (secc. X-XII), Atti del Convegno (Badia a Setti-
+mo 22-24 aprile 1999), a cura di Alessandro Guidotti e Graziella Cirri, Firenze, Maschiet-
+to Editore, 2006. Viceversa, recentemente Andrea Barlucchi, San Salvatore di Settimo e i
+suoi contadini nel primo Trecento, in Contadini e proprietari nelle grandi aziende agrarie
+toscane (tardo Medioevo – prima Età moderna), a cura di Francesco Borghero e Sergio
+Tognetti, Firenze, L.S. Olschki editore, 2024, pp. 15-39, ha annunciato un suo ampio lavoro
+sul cenobio cistercense per il periodo antecedente la Peste Nera, mentre Simone Picchianti
+ha in corso uno studio incentrato esattamente sulle prassi amministrative e sulle gestioni
+contabili del monastero nell’arco cronologico 1350-1500. A un periodo precedente, e a un
+146                                    Sergio Tognetti
+
+
+     Solo per accennare ad alcuni aspetti, nel fondo di Settimo, relativamen-
+te al secondo Trecento, abbiamo un accuratissimo libro di entrata e uscita
+per gli anni 1376-1379, tenuto da don Bernardo Lemmi, priore facente
+funzioni di “borsiere” e “cellerario maggiore”, durante il tempestoso perio-
+do contrassegnato dalla guerra degli Otto Santi, quando tutti gli enti reli-
+giosi del dominio fiorentino furono sottoposti a prelievi fiscali straordinari
+e anche a confische di beni.26 Il registro non è ordinato cronologicamente,
+ma per materia. Si tratta dunque di entrate e uscite sintetiche, impostate per
+voci, tra le quali troviamo quelle dedicate ai livelli; ai mulini e al porto di
+Signa sull’Arno; agli affitti e alle pigioni; alle vendite di vino; alla gestione
+di una fornace; ai rapporti con il comune di Firenze; alla riscossione dei
+crediti e all’accensione di debiti; ai raccolti di vino e di olio; alle entrate
+derivanti da possedimenti dell’Alpe (cioè dell’Appennino mugellano); alla
+vendita e all’acquisto di immobili; alle spese di infermeria, portineria e
+sartoria; ai costi per piati, giudici e notai; ai salari di fanti e operai; alle
+decime, ai legati e alle “visitazioni’; alle elemosine date e ricevute; alle
+rendite e ai censi passivi corrisposti a terzi; ai costi di manutenzione di
+
+contesto economico-sociale e documentario molto diverso, rimandano i lavori di Loren-
+zo Tabarrini, Monastère, tenanciers et «travail forcé» dans les campagnes de Florence
+au Moyen Âge central (ca 1000-1250): le cas de la Badia a Settimo, in Labeur, produc-
+tion et économie monastique dans l’Occident médiéval. De la Règle de saint Benoît aux
+Cisterciens, a cura di Michael Lauwers, Turnhout, Brepols, 2021, pp. 329-374; Id., Estate
+Management around Florence and Lucca, 1000-1250, Oxford, OUP, 2023, pp. 63-76.
+      26. ASFi, CRSPL, 510 (filza interna 381). Nel fondo di Settimo i faldoni, realizzati
+nei primi decenni dell’Ottocento, contengono più di un “pezzo”, a sua volta privato della
+coperta originale. Questo comporta, nel nostro caso specifico, che più registri contabili di
+carattere eterogeneo e di epoche differenti siano stati assemblati assieme secondo criteri
+tutt’altro che evidenti. Il necessario riferimento in numeri arabi alla filza interna costitui-
+sce anche un rimando alla primigenia catalogazione delle “compagnie” religiose soppresse
+dal governo lorenese, impostata per famiglie religiose e per singoli enti: nel nostro caso
+C [Cistercensi], XVIII (Badia di Settimo). Sulle complesse vicende archivistiche di tutte
+le “compagnie” religiose soppresse in età leopoldina – dalla prima catalogazione avviata
+dall’archivista del Patrimonio ecclesiastico di Firenze Reginaldo Tanzini alla fine del Sette-
+cento, sino agli accorpamenti di più registri in faldoni promossi dall’abate Carlo Miche-
+lagnoli a partire dal 1825, per poi arrivare agli interventi finali voluti dal direttore del R.
+Archivio di Stato Cesare Guasti nel 1876, cfr. il fondamentale il saggio di Diana Toccafon-
+di, L’archivio delle Compagnie religiose soppresse: una concentrazione o una costruzione
+archivistica?, in Dagli archivi all’Archivio. Appunti di storia degli archivi fiorentini, a cura
+di Carlo Vivoli, Firenze, Edifir, 1991, pp. 107-127. Al di là di tutto, però, lo strumento di
+consultazione offerto dalla sala studio dell’ASFi è oggi quanto mai pasticciato, confuso e
+dunque inadeguato.
+                                Dall’inventario al libro mastro                             147
+
+
+terre e fabbricati, alle spese di rappresentanza e tanto altro ancora, tra cui
+un “saldamento generale”, che sarebbe una specie di bilancio di cassa. Il
+cenobio, pertanto, aveva più registri per contabilizzare la parte corrente,
+altrimenti don Bernardo Lemmi non avrebbe potuto impostare le scritture
+del suo libro. La riprova materiale viene da alcuni “quadernucci” di cassa
+sopravvissuti per gli anni 1359, 1365, 1375-1376.27 Si tratta di piccoli regi-
+stri in formato di vacchetta, il cui scopo è ben esplicitato dall’intestazione
+del più antico tra questi esemplari: «Al nome del nostro Salvatore. Questo
+quadernuccio è di don Giovanni borsiere, nel quale scriverròe certi danari
+ch’io riceverò e ch’io pagherò, i quali danari non si possono subitamente
+acconciare al libro [sottinteso di entrata e uscita]».
+      Tra i conventi cittadini, le serie di libri di entrata e uscita più signifi-
+cative e corpose sono quelle che riguardano i frati serviti della Santissima
+Annunziata e i carmelitani di S. Maria del Carmine.28 Sulla scorta di questa
+ricca e poco discontinua documentazione Giuliano Pinto ha avuto modo di
+delineare i prezzi e i salari a Firenze nei decenni posteriori al Tumulto dei
+Ciompi, proseguendo così le ricerche impostate per il periodo precedente
+da Charles de La Roncière, che aveva invece lavorato in larga misura sui
+libri di cassa dell’ospedale di S. Maria Nuova.29
+      Le eventuali variazioni del patrimonio (compra-vendite, permute,
+donazioni, lasciti testamentari ecc.) e la rilevazione delle rendite (censi,
+canoni fondiari, affitti di immobili, decime, elemosine ecc.) erano affi-
+date anche a strumenti dal carattere un po’ fluido: memorie dell’abate
+o del priore spesso caratterizzate da un’alternanza irregolare tra sezioni
+narrative e sezioni contabili;30 registri in cui si provvedevano a copia-
+
+       27. ASFi, CRSPL, 509 (filze interne 375, 376 e 380).
+       28. La superstite serie dei libri di entrata e uscita del camarlingo della SS. Annunziata
+conserva alcuni esemplari del periodo precedente la Peste Nera (giugno 1317-giugno 1323,
+giugno 1324-giugno 1333, agosto 1335-ottobre 1342): ASFi, CRSGF, n. 119, 606, 608-611,
+681, 682. Essa diventa quasi continua dal 1379 in avanti: ivi, 683 e sgg. Per il Carmine, di
+fatto non abbiamo soluzione di continuità dal 1382 in poi: ASFi, CRSGF, n. 113, 82 e sgg.
+       29. Charles-Marie de La Roncière, Prix et salaires à Florence au XIVe siècle (1280-
+1380), Rome, École Française de Rome, 1982; Giuliano Pinto, I livelli di vita dei salaria-
+ti cittadini nel periodo successivo al Tumulto dei Ciompi (1380-1430), in Il Tumulto dei
+Ciompi. Un momento di storia fiorentina ed europea, Atti del convegno internazionale di
+studi (Firenze, 16-19 settembre 1979), Firenze, L.S. Olschki editore, 1981, pp. 160-198.
+       30. Tra gli esemplari più remoti vi sono ancora una volta quelli prodotti dai frati servi-
+ti: cfr. Eugenio M. Casalini osm, Iginia Dina, Paola Ircani Menichini, Testi dei “servi della
+donna del Cafaggio”. Ricordanze di S. Maria di Cafaggio, Firenze (1295-1332). Ricordan-
+148                                    Sergio Tognetti
+
+
+re o regestare contratti notarili;31 veri e propri inventari.32 Questa ultima
+forma documentaria merita una speciale attenzione perché, come vedre-
+mo, è soprattutto riflettendo sul complesso dei beni mobili e immobili
+di pertinenza dei loro enti che i religiosi iniziarono a convincersi della
+necessità di compiere un salto di qualità sul piano amministrativo. D’altra
+parte, come avveniva anche nel caso degli istituti assistenziali, monasteri
+e conventi potevano essere spinti a realizzare censimenti del loro patrimo-
+nio sotto l’impulso di normative esplicite volte a impegnare abati e priori
+(al pari degli spedalinghi) a fornire dettagliati elenchi patrimoniali, even-
+tualmente utilizzabili per riscontri da parte dei successori nelle rispettive
+cariche. Per esempio, secondo le Costituzioni Nuove dei Servi di Maria
+del 1353 ogni priore, «antequam ad capitulum provinciale veniat», era
+tenuto a realizzare inventari dei beni mobili e immobili. Ma la normati-
+va per trasformarsi in prassi ci mise evidentemente parecchio, perché le
+Costituzioni del 1548 tornarono sull’argomento sottolineando l’obbligo
+per priori e procuratori appena eletti di procedere a inventari completi e
+ancora le Costituzioni del 1553 prevedevano la decadenza per i negligenti
+entro un mese dal loro insediamento.33
+     L’inventario risultava particolarmente importante in funzione del fatto
+che – conformemente alla realtà degli enti assistenziali e contrariamente
+a quella delle imprese private – monasteri e conventi avevano gran parte
+
+ze di S. Maria del Poggio, Pistoia (1296-1353). Inventario ex-voto d’argento all’Annun-
+ziata di Firenze (1447-1511), Firenze, Convento della SS. Annunziata, 1995. Per l’ambito
+monastico un documento esemplare è il memoriale di Simone Bencini (1373-1392), abate
+generale di Vallombrosa: CRSGF, n. 260, 214 (ringrazio Francesco Borghero per avermi
+segnalato questa fonte).
+       31. Esemplari in questo senso sono i due “cartulari” di Settimo che collazionano (in
+copia autenticata) rogiti degli anni 1318-1346, tutti relativi a locazioni e acquisti patrimo-
+niali: cfr. Barlucchi, San Salvatore di Settimo, pp. 16-17.
+       32. Il saggio di Jones, Le finanze della badia cistercense di Settimo, si basa in buona
+misura su un ricco inventario del 1338 che censiva lo stato patrimoniale del cenobio cister-
+cense (ivi, pp. 337-344).
+       33. Eugenio M. Casalini, La SS. Annunziata di Firenze. Studi e documenti sulla chiesa
+e il convento, Firenze, Convento della SS. Annunziata, 1971, pp. 72-73. Circa l’obbligo per
+i frati serviti di tenere una ordinata documentazione amministrativa (comprensiva di libri
+di entrata e uscita) cfr. Citeroni, Les comptes des couvents des Servites, pp. 63-99: 66. Per
+i francescani vedi Clément Lenoble, Les archives des frères mineurs d’Avignon à la fin du
+Moyen Âge, in Économie et religion, pp. 167-208: 202-203; Damien Ruiz, La législation
+provinciale de l’ordre des frères mineurs et la vie économique des couvents en France et en
+Italie (fin XIIIe-milieu XIVe siècle), in ivi, pp. 357-386: 378-380.
+                              Dall’inventario al libro mastro                            149
+
+
+della propria ricchezza immobilizzata innanzitutto in terre e fabbricati e poi
+anche in paramenti e vesti liturgiche, argenteria e suppellettili di ogni tipo,
+attrezzi da lavoro (per esempio per gli orti) e masserizie per cantine, cuci-
+ne, canove, dormitori e, ovviamente, libri.34 L’indebitamento quasi cronico
+in cui si venivano a trovare dipendeva proprio dal pronunciato e sistemati-
+co sbilanciamento di un patrimonio nel quale la liquidità e i crediti faceva-
+no una figura modesta. Chiedere prestiti (spesso a uomini d’affari residenti
+in città) era una prassi inevitabile qualora fossero state necessarie spese
+straordinarie di manutenzione della chiesa, degli ambienti attigui o anche
+delle abitazioni in cui vivevano fittavoli, mezzadri e pigionali cittadini. In
+più, nella seconda metà del Trecento la crisi demografica e le repentine
+trasformazioni del mercato e dei consumi mettevano in ulteriore difficoltà
+gli istituti ecclesiastici, molto meno preparati ad accettare l’idea di operare
+improcrastinabili riconversioni produttive in funzione della congiuntura di
+quanto non fossero i grandi proprietari laici legati al mondo dei commerci
+e delle professioni. Non potendo e non volendo alienare porzioni importan-
+ti del proprio patrimonio, abati e priori accettavano dunque di indebitarsi,
+oppure di allocare terre e fabbricati con contratti di livello a lunga, se non
+lunghissima, durata: quella della vita del locatario, quando non di quella
+dei suoi figli e talora anche dei nipoti. In questo modo l’ente ecclesiastico
+perdeva il possesso ma non i diritti di proprietà sul bene, che avrebbe potu-
+to teoricamente riscattare.
+      La realtà che abbiamo molto sommariamente descritta a livello gene-
+rale trova conferma in un pugno di registri appartenuti all’abbazia bene-
+dettina di San Godenzo, fondata dal vescovo di Fiesole all’inizio dell’XI
+secolo in una località mugellana situata a 400 metri di quota, attraversata
+da una tra le principali strade che valicavano l’Appennino tosco-romagno-
+lo (l’odierno passo del Muraglione, già Colla dei Pratiglioni).35 A lungo
+
+      34. Sugli inventari degli enti ecclesiastici una recente riconsiderazione generale,
+anche se sollecitata dall’analisi di un caso specifico, è quella di Étienne Hubert, Anatomia
+di un documento. Scrivere le case di S. Pietro in Vaticano a metà Trecento, Roma, Viella,
+2024.
+      35. Si tratta della attuale Strada Statale 67 Tosco-Romagnola. Sulla storia della Badia
+e del castello in età basso medievale cfr. Luciana Mosiici, Le più antiche carte dell’abbazia
+di San Godenzo a piè d’Alpi, in Studi di storia medievale e moderna per Ernesto Sestan,
+Firenze, L.S. Olschki editore, 1980, pp. 159-202; Statuti di San Godenzo (1413-1613), a
+cura di Franca Zerboni Zoli, con un saggio introduttivo di Giovanni Cherubini, Firenze,
+All’Insegna del Giglio, 1985; Cristina Sperandio, Jacopo de’ Rossi da Firenze e il suo
+150                                  Sergio Tognetti
+
+
+l’abbazia si era trovata inserita nei vasti domini signorili dei conti Guidi
+(da ultimo del ramo detto di Modigliana), i quali si ridussero a cedere San
+Godenzo e i “popoli” vicini al comune di Firenze nell’anno 1344. Giusto
+all’indomani dell’ingresso dell’abbazia nel contado fiorentino, il monaste-
+ro iniziò a tenere due particolari registri.
+     Il primo è relativo al triennio 1345-1347 e si configura come un
+quaderno di una cinquantina di carte, purtroppo privo di intestazione e
+ancora oggi erroneamente catalogato come “Libro di entrate e uscite del
+1345”.36 In realtà esso raccoglie, in forma molto sinteticamente regestata,
+una serie di rogiti effettuati da quattro notai della zona, aventi per lo più
+come oggetto compravendite e locazioni di immobili, ma anche doti, mutui
+e lodi arbitrali. Per ogni contratto troviamo riportato, sbalzato a destra per
+essere maggiormente visibile, il valore del negozio giuridico contratto
+(espresso alternativamente in lire di piccoli, in fiorini d’oro, in staia di
+grano ecc.). Gli atti non riguardavano direttamente l’abbazia. Tuttavia, di
+tanto in tanto all’anonimo redattore capitava di inserire una nota relativa
+al pagamento di piccole somme. Poiché queste si aggiravano invariabil-
+mente intorno a 1 soldo per ogni lira (ossia, al 5% delle singole somme
+contabilizzate), sembra probabile che il registro avesse lo scopo di censire
+diritti fiscali, probabilmente di pertinenza del (o comunque riscossi dal)
+monastero di San Godenzo.
+     Il secondo codice, definito “registro vecchio”, è privo di intestazio-
+ne, in parte rovinato, frutto della rilegatura di fascicoli differenti.37 Risulta
+molto difficile comprendere con precisione quando sia stato iniziato, ma
+verosimilmente il terminus post quem è costituito dal passaggio della Peste
+Nera. Il documento è costituito da molteplici liste (non omogenee e di
+anni diversi, nel corso del secondo Trecento) di fittavoli, mezzadri (rari) e
+pigionali dell’abbazia tenuti a pagare i relativi censi in natura e/o moneta
+per terre e case, e a versare le onoranze (galline, polli, uova, panni, denari
+
+memoriale: un esempio di impegno religioso nella Toscana del Quattrocento, in «Ricerche
+Storiche», 20, 1 (1990), pp. 3-18; Dante Ghibellino, Atti dei Convegni di San Godenzo
+(1991-2007), a cura di Michele Feo e Lorenzo Pieri, Firenze, Pagnini, 2021, in particolare
+i saggi di Mario Mantovani, Appunti sulla montagna di San Godenzo nei secc. XIV-XV:
+economia e società, pp. 177-187 e di Giuseppina C. Romby, La Badia di San Godenzo:
+architettura e ambiente, pp. 255-259. Di carattere divulgativo è la monografia di Alfredo
+Altieri, San Godenzo. Un popolo, un’abbazia in Alta Val di Sieve, Firenze, Pagnini, 1985.
+      36. ASFi, CRSGF, n. 119, 317.
+      37. Ivi, 344.
+                               Dall’inventario al libro mastro                            151
+
+
+piccoli e singole prestazioni di lavoro a scopo ricognitivo). Inoltre figurano
+elenchi di donazioni e legati, atti di compra-vendita e di permuta, cerea-
+li seminati, vino e olio prodotto, masserizie di cucina ecc. Nelle ultime
+carte troviamo copia di antichissimi documenti abbaziali, tra cui la carta
+di fondazione del monastero. La lingua usata è di norma il latino, ma ogni
+tanto viene impiegato anche il volgare, soprattutto negli elenchi più tardi.
+Questo inventario dal carattere molto ibrido dovette costituire un prece-
+dente importante perché nel 1388, al tempo dell’abate Zanobi Adviati e
+del suo procuratore Matteo Coppi da Cesena, si avviò un “registro nuovo”
+in continuazione con quello appena concluso, ma prestando una maggiore
+cura formale e favorendo una certa omogeneità di contenuto.38 Di questo
+codice, compilato sino ai primi anni del Quattrocento (quando l’abate era
+messer Piero di Pagnino da Montepulciano), stavolta si conserva l’inte-
+stazione, che recita come segue: «Al nome de Dio amen, Miiiclxxxviii.
+In questo libro se scriverà ogne persona che ànno a dare fitti a la Badia
+de messer Santo Godenzo piè d’Alpe, contato di Firenze e diocesia del
+vescovato di Fiexole». Alla fine del XIV secolo, quando peraltro il mona-
+stero mugellano andò incontro a gravi difficoltà, in larga misura collegate
+allo spopolamento delle campagne, l’idea di tenere sotto controllo il patri-
+monio abbaziale stava trovando forme più nitide e coerenti.39 L’espressio-
+ne «ànno a dare» rappresenta una chiave di volta dal punto di vista della
+contabilità, perché si trattava, concettualmente parlando, del primo passo
+per considerare tutti i fittavoli, i mezzadri, i livellari, i pigionali e chiunque
+a qualunque titolo avesse in concessione beni monastici, come debitori
+strutturali dell’ente religioso.
+     Più o meno nello stesso lasso di tempo in cui si colloca la documen-
+tazione dell’abbazia di San Godenzo disponiamo di due piccoli quaderni
+
+      38. Ivi, 345.
+      39. Il consolidamento di pratiche documentarie tradizionali e lo sviluppo di nuove tipo-
+logie, interpretabili come forme di riposta monastica alla cattiva congiuntura tardo trecente-
+sca e primo quattrocentesca, sono al centro dei contributi “gemelli” di Francesco Borghero,
+Il monachesimo vallombrosano nel secolo della grande crisi e Cécile Caby, Narrare la
+crisi negli ordini monastici: qualche osservazione a proposito dell’ordine camaldolese nel
+Trecento, in Narrare la crisi. Economia e vita religiosa nelle trasformazioni dell’Italia del
+Trecento, a cura di Lorenzo Tanzini, Roma, Viella, 2023, pp. 141-165 e 167-198. Per un
+caso specifico importante, oggetto di recente attenzione, cfr. Jacopo Paganelli, Passignano
+dopo la crisi di metà Trecento, in Passignano e la Val di Pesa. Un monastero e la sua storia,
+III: Crisi e trasformazioni (secoli XIV-XIX), a cura di Paolo Pirillo, Firenze, L.S. Olschki
+editore, 2024, 41-60.
+152                                   Sergio Tognetti
+
+
+appartenuti alle monache benedettine di Sant’Ambrogio, un’antica fonda-
+zione monastica peri-urbana, inglobata dall’ultima cerchia muraria a sua
+volta eretta tra fine Duecento e primo Trecento.40 Datati rispettivamente
+1375 e 1377-1381, i quaderni sono composti da ricordi di pigioni, affitti,
+patti mezzadrili e livelli.41
+     Nel medesimo contesto si situa un singolare registro compilato per il
+convento cittadino di S. Maria del Carmine.42 Privo di intestazione e con
+una coperta pergamenacea rovinata, il codice è iniziato nell’agosto del
+1370 per uno scopo molto preciso: le prime sei carte furono infatti impie-
+gate per registrare le quantità di grano (con relative indicazioni di prove-
+nienza) ricevute da frate Pietro di Giovacchino del Maestro in qualità
+di camerario dell’ufficiali dell’Abbondanza e consegnate, sempre dal
+medesimo frate e camerario, a mugnai, fornai, e vari ufficiali del comu-
+ne sino al febbraio dell’anno successivo. L’attività di tesoreria svolta da
+monaci e frati per gli uffici comunali fiorentini (toscani e in generale di
+gran parte dell’Italia centro settentrionale) è cosa nota,43 anche se forse
+non si è riflettuto più di tanto su come questa pratica (dettata dalla suppo-
+sta imparzialità dei religiosi rispetto agli schieramenti e agli interessi
+delle famiglie cittadine) potesse incidere sulla formazione contabile di
+questi “camerari”.44 Esaurita questa funzione dopo un semestre, il codice
+
+      40. Luciano Artusi, Antonio Patruno, con Enrica Pellegrini e Laura Raspigni, Ora et
+labora. L’antico complesso religioso e l’Opera Pia di Sant’Ambrogio in Firenze. Storia,
+fede, arte, socialità e pubblica beneficienza accertate con documenti inediti, Firenze,
+Semper, 1996 (si tratta di una pubblicazione più divulgativa che scientifica). Notizie spar-
+se, ma assai interessanti, si trovano nel bel lavoro di Strocchia, Nuns and Nunneries, ad
+indicem.
+      41. ASFi, CRSGF, n. 79, 114 e 115.
+      42. ASFi, CRSGF, n. 113, 33. Sulla chiesa e il convento vedi Prisca Giovannini, Sergio
+Vitolo, Il Convento del Carmine di Firenze: caratteri e documenti, Catalogo della mostra
+(Firenze, Salone Vanni, Convento del Carmine, 23 settembre-10 ottobre 1981), Firenze,
+Tipografia Nazionale, 1981; La Chiesa di Santa Maria del Carmine a Firenze, a cura di
+Luciano Berti, Firenze, Giunti, 1992.
+      43. Si vedano molti dei saggi contenuti nel volume Churchmen and Urban Govern-
+ment in Late Medieval Italy, c. 1200-c. 1450, a cura di Frances Andrews, con Maria Agata
+Pincelli, Cambridge, CUP, 2013.
+      44. Nel volume Clero, economia e contabilità in Europa. Tra Medioevo ed età contem-
+poranea, a cura di Roberto Di Pietra e Fiorenzo Landi, Roma, Carocci, 2007, i contributi
+degli storici della ragioneria danno per scontato che siano stati i religiosi a insegnare ai
+laici come tenere i conti: cioè l’esatto contrario della realtà, almeno per l’area toscana.
+Viceversa, interessanti spunti (da approfondire) sono quelli che emergono dal lavoro di
+                               Dall’inventario al libro mastro                             153
+
+
+fu riutilizzato venti anni dopo per scopi tutti interni al convento. Nel
+1391, infatti, venne in esso riportato un lungo elenco dei beni e ogget-
+ti presenti nella sagrestia, nella cucina, nell’infermeria, nelle celle dei
+frati, nei dormitori, nella dispensa e nella ricca biblioteca; un inventario
+del patrimonio immobiliare in città e in campagna; un memoriale delle
+pietanze e dei censi perpetui dovuti al convento. Nel 1394 venne redatto
+un ricordo di natura patrimoniale. Infine, nel 1414 fu realizzato un nuovo
+inventario della biblioteca.45
+     Il nesso tra inventario e libri di conto si può intravedere nel primo
+registro della serie “debitori e creditori” della Certosa di S. Lorenzo al
+Galluzzo,46 l’imponente monastero certosino fondato a metà del Trecento
+dal gran siniscalco del Regno di Napoli messer Niccolò degli Acciaiuoli
+sopra una piccola altura posta a circa 4 km dalla meridionale porta di
+S. Pier Gattolino (poi porta Romana).47 Privo di intestazione,48 questo
+grosso codice, utilizzato per oltre mezzo secolo (dal 1401 al 1454), risul-
+ta vergato da più mani, la maggior parte delle quali in grafia mercantesca.
+Per circa metà delle sue carte, i conti furono tenuti in partita sempli-
+ce e a sezione sovrapposte, cioè con il vecchio sistema due-trecentesco
+che prevedeva di aprire un conto con una scrittura in dare o in avere a
+seconda dei casi e poi lasciare sotto uno spazio bianco sufficiente per
+registrare i successivi movimenti dello stesso segno o di quello oppo-
+sto. Poi, progressivamente (ma anche con qualche ripensamento, dovuto
+probabilmente all’alternanza di contabili di differente formazione) prese-
+ro forma le scritture contrapposte, cioè con il dare sulla sinistra e l’avere
+sulla destra: la forma standard per i ragionieri di età moderna, che nella
+Toscana del Quattrocento era definita “alla veneziana”. Il passaggio da
+
+William R. Day Jr, The Cistercian Monk and the Casting Counter, in Churchmen and urban
+government, pp. 251-267.
+      45. Cfr. Alessandro Guidotti, Fatti, arredi e corredi carmelitani a Firenze, in La Chie-
+sa di Santa Maria del Carmine, pp. 21-53; RICABIM. Repertorio di Inventari e Cataloghi
+di Biblioteche Medievali. Italia. Toscana, a cura di Giovanni Fiesoli ed Elena Somigli,
+Firenze, Sismel – Edizioni del Galluzzo, 2009, pp. 131-132.
+      46. ASFi, CRSGF, n. 51, 72.
+      47. Cfr. Niccolò Acciaiuoli, Boccaccio e la Certosa del Galluzzo. Politica, religione
+ed economia nell’Italia del Trecento, a cura di Alessandro Andreini, Susanna Barsella, Elsa
+Filosa, Jason Houston e Sergio Tognetti, Roma Viella, 2020. Sulla gestione delle terre vedi
+Giovanni Leoncini, Le grange della Certosa di Firenze, Firenze, Salimbeni, 1991.
+      48. Un’etichetta esterna di carta definisce il registro «Libro rosso di debitori e credi-
+tori segnato A».
+154                                     Sergio Tognetti
+
+
+un formato a un altro, comprensibile alla luce del lunghissimo utiliz-
+zo del registro, poneva problemi di consultazione non banali perché nel
+sistema delle partite sovrapposte la cartulazione era recto/verso, mentre
+in quella delle partite contrapposte era sinistra/destra. Quanto al conte-
+nuto di questo singolare mastro, esso si limitava a tenere nota del dare e
+dell’avere di pigionali, fittavoli e mezzadri. Troviamo quindi tanti conti
+intestati a contadini legati alla Certosa da contratti di locazione, ma
+anche ad affittuari urbani, tra i quali non pochi erano costituiti da aziende
+mercantili e di imprenditori tessili: come Goro di Stagio Dati e compagni
+setaioli, Giovanni di Bicci dei Medici e compagni per la sede fiorentina
+del banco, Luca di Giovanni da Cortona e Antonio di Salvestro di ser
+Ristoro e compagni banchieri. Da un certo punto di vista è come se il
+registro avesse preso vita a partire da un inventario.
+     L’esempio fornito dalla Certosa è tutt’altro che isolato. Anzi, a dirla
+tutta, pare di essere di fronte a un modello che si andava imponendo in
+maniera quasi sistematica. Alcuni esempi illustreranno in maniera palese
+quanto andiamo dicendo.
+     Il monastero femminile vallombrosano di Santa Verdiana, di fondazio-
+ne tardo trecentesca,49 tra 1407 e 1419 tenne aperto un registro miscella-
+neo recante la seguente intestazione: «Questo libro è de’ munistero di Santa
+Verdiana nel quale scriveremo tutte le posisoni e beni e chi dovrà dare e chi
+doverà avere da detto munistero e pigionali e fece i voti».50 Il codice risulta
+così impostato: a carta 2 iniziava l’inventario immobiliare, a carta 8 comin-
+ciavano i conti intestati a fittavoli e pigionali, a carta 25 quelli dedicati alle
+spese straordinarie, a carta 30 quelli dei debitori generici, a carta 80 era la
+volta dei creditori, mentre alla carta 145 ci sarebbero dovute essere le ricor-
+danze dei fatti e dei negozi notevoli (questa sezione non risulta presente nel
+codice, ma non è chiaro se sia mai stata compilata e se sia andata perduta).
+
+      49. Francesco Salvestrini, “Furti” di identità e ambigue risemantizzazioni agiografi-
+che: Verdiana da Castelfiorentino santa vallombrosana, in Hagiologica. Studi per Réginald
+Grégoire, a cura di Alessandra Bartolomei Romagnoli, Ugo Paoli e Pierantonio Piatti, 2 voll.,
+Fabriano, Monastero di San Silvestro abate, 2012, vol. II, pp. 1143-1185; Fauzia Farneti, Il
+monastero di Santa Verdiana a Firenze. Da luogo di silenzio e di culto a sede di pena carce-
+raria, in Santa Verdiana a Firenze. Da monastero a sede universitaria: sette secoli di storia, a
+cura di Fauzia Farneti e Silvio Van Riel, Firenze, Dipartimento di Architettura Università degli
+Studi di Firenze, 2017, pp. 19-67; Lucia Roselli, Le carte del monastero di Santa Verdiana.
+Aspetti di vita monastica, in «Rivista di Storia della Chiesa in Italia», 74 (2020), pp. 381-400.
+      50. ASFi, CRSGF, n. 80, 39.
+                              Dall’inventario al libro mastro                            155
+
+
+A giudicare dai rimandi, questo registro si configura come il secondo di una
+serie destinata a essere portata avanti per parte del XV secolo. I contabili che
+si avvicendarono sul libro furono almeno sei: un notaio e cinque laici con
+una più che probabile esperienza nel mondo degli affari.51 Del resto la bades-
+sa, madonna Maddalena di Jacopo dei Pecori, era a sua volta espressione di
+quell’ambiente,52 come dimostra il fatto che lei stessa sottoscriveva ordini di
+pagamento scritti su pezzi di carta (“polizze”).53
+     Le scritture furono impostate a sezioni sovrapposte e senza l’utiliz-
+zo della partita doppia. Il cenobio femminile doveva godere all’epoca di
+una certa salute, perché gli amministratori decisero di investire la liquidi-
+tà presente in cassa, generata soprattutto dalle doti delle novizie, apren-
+do depositi vincolati a interesse presso cospicue società d’affari intestate
+ad Agnolo di Giovanni da Uzzano,54 a Bartolomeo di Verano Peruzzi e
+Giovanni Giugni,55 a Giovanni e Niccolò Barbadori,56 a Tommaso di Giaco-
+mino di Goccio.57 Le somme investite (complessivamente qualche miglia-
+io di fiorini) garantivano una remunerazione che mediamente si collocava
+intorno al 7% annuo (con punte eccezionali dell’8%). Naturalmente, dato
+il contesto religioso, le causali riportate nella registrazione degli interessi
+attivi non potevano essere del tutto esplicite: “provvigioni”, “discrezioni”
+e soprattutto “doni” erano immancabilmente (quanto regolarmente) versati
+per libera e spontanea volontà del liquidatore.
+
+      51. I contabili rintracciati sono i seguenti: ser Antonio di messer Montino, Filippoz-
+zo di Giovenco dei Bastari, Niccolò di ser Bettino Covoni (dotato di accuratissima mano
+mercantesca), Giovanni di Niccolò Riccialbani, Giovanni di Donato, Giovanni Villani.
+      52. Sulle compagnie dei Pecori di questi stessi anni cfr. Sergio Tognetti, L’attività
+assicurativa di un fiorentino del Quattrocento: dal libro di conti personale di Gherardo di
+Bartolomeo Gherardi, in «Storia Economica», 20, 1 (2017), pp. 5-48.
+      53. ASFi, CRSGF, n. 80, 39, cc. 35r, 49v, 53v (conto aperto dal monastero presso
+Agnolo di Giovanni da Uzzano & co.).
+      54. Ibidem.
+      55. Ivi, cc. 37r, 38v, 43v, 45v, 47v, 51r.
+      56. Ivi, c. 39r.
+      57. Ivi, c. 49v. Questa banca d’affari è al centro del saggio di Lorenzo Tanzini,
+La morte del re, le ragioni del diritto e l’etica dei mercanti in una causa fiorentina del
+Quattrocento, in «Fiere vicende dell’età di mezzo». Studi per Gian Maria Varanini, a
+cura di Paola Guglielmotti e Isabella Lazzarini, Firenze, Firenze University Press, 2021,
+pp. 301-315. Molte notizie anche in Sergio Tognetti, Gli affari di messer Palla Strozzi (e di
+suo padre Nofri). Imprenditoria e mecenatismo nella Firenze del primo Rinascimento, in
+«Annali di Storia di Firenze», 4 (2009), pp. 7-88; https://oajournals.fupress.net/index.php/
+asf/article/view/7986 (ultima consultazione aprile 2025).
+156                                     Sergio Tognetti
+
+
+     Il monastero urbano camaldolese di S. Maria degli Angeli (dagli
+anni Sessanta del secolo scorso sede della Facoltà di Lettere e Filosofia,
+più di recente divenuta plesso della Scuola di Studi Umanistici e della
+Formazione)58 conserva una copiosa documentazione contabile per il XV
+secolo, tra cui sei libri grandi di debitori e creditori, la cui sequenza però
+non è sempre evidente (anni 1443-1478, 1480-1487, 1490-1502).59 Di
+questi, tre recano, nelle sezioni iniziali composte da alcune decine di carte,
+inventari di immobili urbani e rurali; di titoli del debito pubblico (i così detti
+“denari di Monte”); di lasciti, legati e censi perpetui dovuti al cenobio; di
+“incarichi’ del monastero nei confronti di terzi (uffici, anniversari, feste).60
+Ne consegue che, nelle carte successive, i primi tra i debitori e i creditori di
+S. Maria degli Angeli ad avere un conto intestato fossero pigionali, fittavoli,
+mezzadri, il comune di Firenze, e altri soggetti già inquadrati dall’inventa-
+rio. Come vedremo a breve, i camaldolesi fiorentini si mostrarono tra i più
+solerti nell’adottare tecniche contabili all’avanguardia e, anche se l’evolu-
+zione non fu sempre progressiva (in linea dunque con l’accennata incer-
+tezza che accompagna la sequenza dei registri), la conoscenza (ma forse
+non la perfetta applicazione) della partita doppia pare evidente già dagli
+anni Quaranta del Quattrocento, con conti specifici intestati a persone non
+fisiche, come quello dedicato a «ubbie e interessi» (a volte anche a «ubbie
+e discrezioni») presente nel primo mastro e deputato alla registrazione sia
+degli interessi passivi corrisposti ai titolari di depositi effettuati presso il
+cenobio, sia alle “pensioni” pagate, in questo secondo caso con non pochi
+versamenti (spesso di piccola entità) effettuati a favore di donne. Inoltre,
+appare un conto intitolato «convento nostro», che aveva l’obiettivo di rias-
+sumere le principali voci dei costi e dei ricavi del monastero.61
+
+      58. Le vicende di questo cenobio urbano, divenuto nel Quattrocento sede principale
+dei camaldolesi italiani e punto di riferimento fondamentale per il primo umanesimo fioren-
+tino, sono al centro della monumentale ricerca di Cécile Caby, De l’érémitisme rural au
+monachisme urbain. Les camaldules en Italie à la fin du moyen âge, Rome, École Françai-
+se de Rome, 1999. Ma si vedano anche i più recenti contributi di storia dell’architettura,
+dell’arte e della cultura contenuti in Santa Maria degli Angeli a Firenze. Da monastero
+camaldolese a biblioteca umanistica, a cura di Cristina De Benedictis, Carla Milloschi e
+Guido Tigler, Firenze, Nardini, 2022.
+      59. ASFi, CRSGF, n. 86, 44, 45, 47, 48, 49, 50. I libri sono rispettivamente segnati BB,
+CC, DD, H, B, C. La sequenza alfabetica risulta quindi un po’ problematica.
+      60. Ivi, 45, 47, 49.
+      61. Ivi, 45, cc. 24, 48, 78, 115, 137, 155, 164, 181 (c/ubbie e interessi); cc. 41, 60, 71,
+91, 106, 128, 142, 149, 167, 177, 187, 201 (c/convento nostro). Utilizzo il termine “pensio-
+                               Dall’inventario al libro mastro                              157
+
+
+      Il monastero urbano femminile di Sant’Ambrogio ha conservato senza
+soluzione di continuità tutti i suoi libri di debitori e creditori a partire dal
+primo, segnato ovviamente con la lettera A e avviato nel novembre del
+1452.62 Quando, dopo le soppressioni attuate dal governo napoleonico nel
+1808,63 vennero approntati gli inventari destinati successivamente a confluire
+(tra una revisione e l’altra) nel fondo Corporazioni religiose soppresse dal
+governo francese,64 i primi quattro registri della serie (relativi agli anni 1452-
+1482) furono però catalogati sotto la voce «Pigionali, case e possessioni»,
+perché agli archivisti del tempo i codici non sembravano propriamente dei
+libri mastri, come invece quelli successivi, ossia a partire dal libro E iniziato
+nel febbraio del 1482. Il fatto è che, effettivamente, tanto il contenuto quanto
+il formato e la tecnica contabile avevano conosciuto una evoluzione a partire
+dal primo esemplare, di cui si riporta qua sotto l’intestazione:
+     In questo libro segnato A, ordinato per me Piero di Bartholomeo de’ Mande-
+     stri da Pistoia syndicho del monisterio di sancto Ambruogio di Firenze, si
+     scriveranno tucte le possessioni, case e altri beni immobili d’esso monisterio
+     e similmente le case per ragioni d’avillari obligate a decto monisterio e chi
+     tiene decte case e quello se ne rende. Il quale libro Idio voglia s’abbi a finire e
+     usare per decto monisterio senza alcuno detrimento di libertà facto e ordinato
+     per me Piero soprascritto, sotto gli anni della incarnazione del nostro sygnore
+     Yeshu Christo 1452 e a dì 14 del mese di novembre.
+    I conti, preceduti dal censimento immobiliare, erano tenuti in partita
+semplice ma nel formato “alla veneziana” e riguardavano principalmente
+(ma non unicamente) i locatari dei beni del monastero. Dal gennaio del
+
+ne” per indicare le rendite (di solito vitalizie) generate dalla cessione al monastero di una
+somma o di un bene immobile. Soprattutto per le vedove questa pratica aveva lo scopo di
+mettersi finanziariamente (ma non solo) sotto la protezione di un ente religioso.
+      62. ASFi, CRSGF, n. 79, 116 (A: 1452-1456), 124 (B: 1457-1468), 125 (C: 1468-
+1473), 126 (D: 1473-1482), 57 (E: 1482-1487), 58 (F: 1487-1492), 59 (G: 1492-1501).
+      63. Ivo Biagianti, La soppressione dei conventi in età napoleonica, in La Tosca-
+na nell’età rivoluzionaria e napoleonica, a cura di Ivan Tognarini, Napoli, ESI, 1985,
+pp. 443-466: 453 e sgg.; Edgardo Donati, La Toscana nell’impero napoleonico: l’impo-
+sizione del modello e il processo di integrazione (1807-1809), Firenze, Polistampa, 2008,
+pp. 466-476; Christian Satto, La soppressione degli enti ecclesiastici nella Toscana napole-
+onica 1808-1814, in Le soppressioni degli Enti ecclesiastici in Toscana. Secoli XVIII-XIX.
+Nodi politici e aspetti storiografici, a cura di Zeffiro Ciuffoletti, Firenze, Edizioni dell’As-
+semblea Regionale, 2008, pp. 111-162.
+      64. Cfr. Orsola Campanile, Stefano Vitali, Gli Archivi delle corporazioni religiose
+soppresse e del monte comune e demani, in Dagli archivi all’Archivio, pp. 141-175.
+158                                 Sergio Tognetti
+
+
+1457 il prete Domenico di Jacopo Maringhi, sindaco e procuratore del
+cenobio, si occupò personalmente del libro di debitori e creditori segnato
+B (1457-1468), mentre affidò a un tecnico laico (Salvestro di Giovanni
+Schiattesi) la tenuta del libro C (1468-1473); quest’ultimo mostra una
+struttura decisamente più evoluta, per tecnica e per formato delle scrit-
+ture. Scomparso messer Maringhi nel 1470, con il lungo abbaziato di
+madonna Maria Barbadori, il sindaco e procuratore divenne il canonico
+Salvino di Berto Salvini, il quale nel febbraio del 1473 affidò alle cure
+del fratello (Bartolo di Berto Salvini) la contabilità di quello che ormai
+si avviava a diventare un vero e proprio libro mastro (segnato D, 1473-
+1482). Con il febbraio del 1482 iniziava il libro segnato E, il primo a
+essere considerato un registro di debitori e creditori dagli archivisti otto-
+centeschi. Basta leggere la sua intestazione per capire perché (il corsivo
+è ovviamente mio).
+      Questo libro è de l’onorevole munistero, chapitolo e chonvento di sancto
+      Anbruogio di Firenze, in sul quale si scriverà per ordine tutte chase, avillari e
+      possisione e altri beni immobili di detto munistero, el quale libro è di quader-
+      ni quatro e in tutto charte 191 ed è segnato E, e ordinato e choposto al tenpo
+      della venerabile madonna Maria de’ Barbadori, al presente abadessa di detto
+      munistero, e di messer Salvino Salvini canonico fiorentino, priore, sindacho e
+      ghovernatore di detto, e principiato a scrivere di mano di me, Bartolo Salvini,
+      oggi questo dì primo di febraio 1481, el quale libro è titolato e scritto di fuori
+      Debitori e creditori.
+      A dì 30 di giugnio 1487 arogiemo a detto libro carte trentadua, che fa la
+      somma in tutto charte 223.
+     Con il libro rosso segnato F (1487-1492), sempre tenuto da Bartolo
+Salvini, venne fatta propria una prassi tipica del mondo dell’impresa: dare
+un colore alla coperta di cuoio del registro. Colore ovviamente collegato a
+un determinato esercizio finanziario. Contestualmente fu per la prima volta
+introdotto il “conto monastero” che, come vedremo a breve, si configurava
+come un primo vero conto economico per gran parte dei cenobi.
+     I successori di messer Salvino e di suo fratello Bartolo avrebbero infi-
+ne completato la trasformazione dei registri di Sant’Ambrogio, portando
+nel cenobio il metodo della partita doppia. L’ultimo dei registri da noi presi
+in considerazione (il libro giallo segnato G, 1492-1501) contiene diversi
+conti intestati non a persone fisiche ma a particolari voci dell’attivo e del
+passivo (livelli, pigioni, salari, fitti, spese di mangiare e di vestire, spese
+straordinarie ecc.) e un lunghissimo conto di cassa.
+                                Dall’inventario al libro mastro                              159
+
+
+     L’evoluzione osservabile chiaramente per il monastero di Sant’Ambro-
+gio è ravvisabile anche per l’abbazia di Settimo. In questo caso la tempistica
+è relativamente in anticipo. Il primo mastro conservato è infatti il libro gran-
+de giallo segnato B (1458-1470).65 Già a metà del XV secolo il monastero
+cistercense extra-urbano aveva dunque fatto proprio il formato tipico dei
+registri di sintesi delle imprese private. I conti presenti in questo gigantesco
+libro mastro in formato reale erano così organizzati: cc. 1-60 pigionali urba-
+ni, cc. 61-85 livellari, cc. 86-100 rimaste bianche, cc. 101-250 possessioni
+(cioè, fittavoli, pigionali rurali e soprattutto mezzadri), cc. 250-299 governo
+del bestiame, cc. 300-652 debitori e creditori vari.
+     Nei registri successivi, conservatisi con qualche soluzione di conti-
+nuità, l’imprinting originario dell’inventario tendeva quasi a dissolversi.66
+Questa sorta di separazione tra il censimento del patrimonio e la gestione
+contabile era tuttavia accompagnata da una presenza intermedia costituita
+da grossi registri dedicati esclusivamente a pigionali, livellari, fittavoli e
+mezzadri.67 Le lettere dell’alfabeto e gli archi cronologici di questi registri
+indicano, al di là di ogni dubbio, che i libri grandi e questa specie di “sotto-
+mastri” svolgevano funzioni integrate e complementari.
+     Concludiamo questa carrellata con uno sguardo alla realtà più precoce,
+meglio documentata e per ora più studiata, quella della Badia fiorentina.
+     Al di là della questione riguardante il primato nell’adozione della parti-
+ta doppia (su cui ci soffermeremo nel prossimo paragrafo), per il grande e
+prestigioso cenobio fondato alla fine del X secolo, sono sopravvissuti due
+lunghi e molto dettagliati inventari di beni immobili e mobili: il primo del
+1441 e il secondo del 1450. La prima rilevazione venne redatta in un apposi-
+to fascicolo e solo in età moderna fu incorporata, assieme ad altri importanti
+documenti di epoca basso medievale, in un libro di fondamentali “memorie”
+del monastero:68 una classica operazione archivistica di patchwork, larga-
+mente diffusa presso gli enti ecclesiastici e religiosi, non di rado anche pres-
+so le grandi famiglie. Nonostante l’inventario fosse stato compilato su un
+supporto scrittorio a sé stante, certamente la sua redazione era stata pensata
+
+      65. ASFi, CRSPL, 499 (filza 353).
+      66. Ivi, 500 (filza 354, C: 1470-1479), 501 (filze 355, E: 1489-1497 e 356, F: 1497-
+1505).
+      67. Ivi, 502 (filza 357).
+      68. ASFi, CRSGF, n. 78, 386, fascicolo 24. L’inventario è stato analizzato e trascritto
+(per la sola porzione relativa alla “masserizie”, agli arredi, alle case e alle botteghe cittadine
+del cenobio) da Guidotti, Vicende storico-artistiche, pp. 69-73, 110-112, 121-122, 165-185.
+160                                 Sergio Tognetti
+
+
+in funzione dell’avvio del coevo libro grande bianco segnato C (1441-1450):
+un voluminoso mastro in partita doppia, la cui struttura era tuttavia influen-
+zata proprio dall’inventario.69 I conti, infatti, iniziano con la serie dei pigio-
+nali urbani (tra cui tantissimi cartolai e librai, le cui botteghe circondavano
+il complesso monastico), seguita da quella dei fittavoli, dei mezzadri e dei
+livellari. Solo dopo diverse decine di carte compaiono i debitori e creditori
+di natura eterogenea. Il secondo inventario, invece, fu trascritto direttamen-
+te nella sezione iniziale del libro grande giallo segnato D (1450-1460).70 Il
+ragioniere di turno appose addirittura rimandi interni tra le unità immobilia-
+ri censite (nonché appositamente numerate) e le poste contabili relative ai
+locatari delle stesse, in un dialogo continuo e persino aggiornato nel caso di
+subentri di nuovi pigionali, fittavoli e mezzadri. Nei successivi mastri non
+troviamo inventari incorporati, ma la struttura dei libri grandi fa pensare che
+i censimenti patrimoniali avvenissero con la stessa cadenza con la quale si
+rinnovavano i registri contabili di sintesi, cioè in media ogni decennio. La
+redazione su fascicoli separati e la mancata inserzione in successivi registri
+(come avvenne invece per l’esemplare del 1441) ha probabilmente provoca-
+to la dispersione di un vasto apparato documentario.
+
+
+2. La diffusione della partita doppia
+
+      Aver delineato la genesi dei libri mastri a partire dagli inventari ripro-
+pone direttamente una questione che avevamo sollevato in apertura: la
+natura eminentemente immobiliare della ricchezza presente negli enti reli-
+giosi. Questo aspetto, che accomuna le vicende economiche e amministra-
+tive di monasteri e conventi a quelle degli enti assistenziali, impone una
+riflessione più generale tanto sulla diffusione della contabilità a partire dal
+suo contesto originario (che è quello dell’imprenditoria mercantile-banca-
+ria), quanto sulla comprensione di come una strumentazione tecnica nata
+per funzionare in determinati ambiti sia poi stata utilizzata altrove, una
+volta “piegata” agli obiettivi di realtà differenti.
+      La tenuta ordinata dei conti, e a maggior ragione la ragioneria in parti-
+ta doppia, ha come luogo di elezione il mondo delle compagnie d’affari,
+soprattutto di quelle con una marcata vocazione internazionale. Le formule
+
+      69. ASFi, CRSGF, n. 78, 77.
+      70. Ivi, 78, cc. 2-35.
+                              Dall’inventario al libro mastro                            161
+
+
+di “dare” e “avere” comparvero nel primo Duecento, perché in quel secolo
+presero corpo le compagnie, cioè le odierne società in nome collettivo con
+responsabilità illimitata e in solido dei soci. Più il ventaglio degli affari si
+dilatava, nello spazio come nel tempo, più risultava difficile tenere memoria
+di (ed esercitare un controllo su) tanti debitori e creditori, alcuni dei quali
+“fuori piazza”. Le più antiche scritture contabili sono infatti dei banali conti
+intestati a persone fisiche con le quali un’azienda aveva debiti e crediti in
+sospeso. Fra XIII e XIV secolo i due verbi assunsero progressivamente la
+valenza di segni (positivi o negativi) e dunque furono utilizzati per misurare
+la variazione di conti merci, conti di spese, conti di cassa… sino ad arrivare
+ai conti di reddito (“avanzi e disavanzi”), una volta impostata chiaramente la
+duplice registrazione di ogni singola transazione: una in dare e l’altra in avere,
+perché ogni negozio si riteneva potesse essere valutato dal lato prettamente
+economico (es. compravendita di un bene o di un servizio) e dal lato pura-
+mente finanziario (es. liquidazione per pronta cassa, promessa di pagamento
+futuro, impegno in solido da parte di soggetti terzi ecc.). Così come si andò
+sviluppando nella Toscana di Dante e Boccaccio, la ragioneria delle grandi
+imprese risultava uno strumento a uso e consumo delle attività commerciali
+e bancarie. In questo ambito di attività le immobilizzazioni di capitale erano
+modestissime, perché la sede legale e operativa delle compagnie di norma
+era presa in affitto (a Firenze, in non pochi casi, proprio da enti ecclesiastici
+e religiosi), le masserizie di bottega consistevano in una grossa tavola, una
+cassaforte, sedie, mensole, cassoni, penne d’oca, inchiostro, abachi e poco
+altro. Di macchinari ovviamente nemmeno l’ombra. Inoltre, le compagnie
+non investivano nel mercato immobiliare. Il loro capitale fisso era dunque
+contabilmente irrilevante. Con un vano di rappresentanza, un magazzino sul
+retro, un capocontabile, un paio di fattori esperti e altrettanti garzoni, i soci
+della compagnia potevano gestire affari su scala internazionale. Quello che
+contava veramente erano la formazione tecnico-professionale dei soci e del
+personale dipendente da una parte, e la rete dei rapporti con filiali estere e
+altre ditte operanti fuori sede dall’altra. Si trattava di un capitalismo dalla
+struttura molto leggera, nel quale la formazione di una rete “globale” si
+accompagnava a una logica gestionale tipicamente “bottegaia”.71
+
+     71. Federigo Melis, Storia della ragioneria: contributo alla conoscenza e interpreta-
+zione delle fonti più significative della storia economica, Bologna, Zuffi, 1950; Tommaso
+Zerbi, Le origini della partita doppia: gestioni aziendali e situazioni di mercato nei secoli
+XIV e XV, Milano, Marzorati, 1952; Raymond de Roover, The Development of Accounting
+162                                    Sergio Tognetti
+
+
+      Poiché, però, le famiglie impegnate nella mercatura già dal primo
+Trecento riversavano i loro investimenti e le loro partecipazione anche nella
+manifattura (soprattutto tessile), la contabilità fece breccia anche nel settore
+secondario. Questo avvenne, non a caso, in concomitanza con una trasfor-
+mazione importante nell’organizzazione dei processi produttivi: l’avvento
+della figura del lanaiolo.72 Si trattava di un mercante-imprenditore più che di
+un industriale, cioè di un organizzatore del lavoro altrui, che dalla sua botte-
+ga (non una fabbrica ma un centro direzionale) coordinava le attività di una
+pletora di operai pagati a tempo e di artigiani ingaggiati a cottimo, inquadrati
+nel modello della manifattura decentrata. A parte alcune operazioni iniziali di
+preparazione della lana svolte nella bottega, il grosso delle fasi di trasforma-
+zione della materia prima avveniva in luoghi terzi (case private, monasteri e
+conventi femminili, opifici), con macchinari e strumenti di lavoro di proprietà
+di (o presi in affitto da) filatrici, orditori, tessitori, purgatori, cimatori, tintori,
+gualchierai, tiratori ecc. L’immobilizzazione di capitale per il lanaiolo non
+interessava i beni durevoli, se non molto marginalmente; più consistentemen-
+te, invece, riguardava le materie prime, il cui acquisto all’ingrosso dava luogo
+a un forte indebitamento del mercante-imprenditore nei confronti delle grandi
+compagnie mercantili-bancarie, e con i manufatti stoccati in magazzino in
+attesa di essere venduti su mercati spesso lontani centinaia di chilometri dalla
+propria città. Anche se il lanaiolo, a differenza del mercante-banchiere, aveva
+a che fare con decine e decine di individui tra operai e artigiani di differente
+qualifica professionale che dovevano essere pagati rapidamente (e talvolta
+anche sotto forma di anticipi), non trovava troppi problemi nel fare propria la
+contabilità originatasi nell’ambiente degli uomini d’affari.
+      Senza raggiungere l’importanza del comparto laniero, anche la lavo-
+razione della seta, del cotone e la concia del cuoio e delle pelli conobbero
+
+
+prior to Luca Pacioli According to the Account Books of Medieval Merchants, in Id., Busi-
+ness, Banking, and Economic Thought in Late Medieval and Early Modern Europe, a cura
+di Julius Kirshner, Chicago (IL)-London, University of Chicago Press, 1974, pp. 119-180;
+Richard A. Goldthwaite, L’economia della Firenze rinascimentale, trad. it., Bologna, il
+Mulino, 2013, pp. 121-126, 482-486 e passim.
+      72. Franco Franceschi, Manifattura e Corporazioni nei secoli XIII-XV. Il caso italiano
+in prospettiva europea, in Id., «… e seremo tutti ricchi». Lavoro, mobilità sociale e conflitti
+nelle città dell’Italia medievale, Pisa, Pacini, 2012, pp. 31-52; Id., Il mondo della produ-
+zione urbana: artigiani, salariati, Corporazioni, in Storia del lavoro in Italia. Il Medioe-
+vo: dalla dipendenza personale al lavoro contrattato, a cura di Franco Franceschi, Roma,
+Castelvecchi, 2017, pp. 374-420: 390 e sgg.
+                               Dall’inventario al libro mastro                            163
+
+
+nel tardo Medioevo la diffusione di mercanti-imprenditori operanti con il
+sistema della fabbrica disseminata.73
+      Gli enti religiosi e assistenziali si configuravano come realtà il cui
+obiettivo fondamentale non era quello di produrre profitto, e tuttavia dispo-
+nevano potenzialmente di grandi ricchezze. Esse erano quasi tutte immo-
+bilizzate in terre e fabbricati, molto spesso date in locazione a sogget-
+ti terzi, la maggioranza dei quali (in particolare quelli delle campagne)
+appartenente agli strati sociali più bassi della popolazione. Una contabilità
+nata per gestire attività del terziario (e del terziario “avanzato” in certi
+casi, come quello relativo al negozio delle lettere di cambio) non si poteva
+applicare con semplicità e automatismo presso enti le cui risorse erano
+ricollegabili in larga misura al mercato delle terre, delle case e degli affitti.
+Le compra-vendite di poderi, case coloniche, abitazioni urbane e botteghe
+artigiane venivano effettuate ricorrendo alla moneta forte (quella d’oro)
+e pertanto la registrazione contabile avveniva in fiorini (di conto). Per
+le locazioni, viceversa, a parte gli sporadici casi di fondaci e magazzini
+affittati a compagnie di mercanti-banchieri e imprenditori del tessile, gran
+parte delle pigioni urbane e soprattutto degli affitti legati a fondi rurali
+prevedevano canoni espressi in lire di piccoli. I fitti stabiliti in derrate e
+i contratti mezzadrili obbligavano i ragionieri degli ospedali e degli enti
+religiosi a contabilizzare in dare e in avere le staia di grano, i barili di
+vino, gli orci di olio, le cataste di legna da ardere, le libbre di carne, e
+tanto altro ancora, sino a riportare le onoranze fissate in paia di capponi
+e serque (dozzina) di uova. Per sopramercato, i fittavoli e ancora di più
+i mezzadri, essendo cronicamente indebitati con i proprietari dei fondi
+ricevuti in locazione, avevano di solito due conti separati: uno deputato
+alla gestione degli obblighi contrattuali (in dare si registrava la rendita da
+liquidare e in avere le effettive corresponsioni), l’altro funzionante come
+una sorta di conto corrente con, in dare, i debiti accumulati per anticipo di
+sementi, valore dei buoi, fornitura di strumenti di lavoro, piccole somme
+in contanti necessarie per superare una cattiva annata; e, in avere, le lente
+e faticose restituzioni delle somme.74
+
+
+      73. Per un aggiornamento di ambito toscano cfr. Sergio Tognetti, Attività produttive,
+costo del lavoro e livelli delle retribuzioni nelle città toscane al tempo di Dante e Boccac-
+cio, in «Memorie Valdarnesi», 188 (2022), pp. 11-42.
+      74. Per una analisi più minuta di questi aspetti cfr. Sergio Tognetti, Terre e contadini
+della Badia fiorentina a metà del Quattrocento, in Contadini e proprietari, pp. 99-122.
+164                              Sergio Tognetti
+
+
+      I lasciti e le elemosine ricevute da ricchi privati e da enti pubblici o
+corporativi erano contabilizzati in fiorini, la carità rivolta alla povera gente
+era registrata in moneta piccola. Le tasse (pagate sotto forma di presti-
+ti forzosi) venivano registrate in fiorini, i salari corrisposti a cappellani,
+barbieri, cuochi, ortolani, vetturali e lavandaie erano contabilizzati in lire.
+La difformità nel nesso contabile utilizzato era quasi la norma perché il
+ventaglio socio-economico con cui si confrontavano istituti religiosi e assi-
+stenziali era amplissimo. Solo tra la fine del Quattrocento e l’inizio del
+Cinquecento si cominciò a praticare la reductio ad unum, utilizzando una
+sola moneta di conto (di solito la lira di piccoli). Ma questa operazione
+abbisognava di esperienza e accortezza, dato che il valore delle monete
+sonanti e di conto oscillava in base a quotazioni di mercato che cambiava-
+no di settimana in settimana. Non diversamente un debito o un credito in
+grano, se liquidato dopo mesi poteva cambiare di valore, e anche di molto
+in caso di alternanza tra un cattivo e un buon raccolto. Per tutti questi
+motivi, i tempi di applicazione e adattamento della contabilità mercantile
+furono necessariamente non brevi.
+      Come abbiamo accennato in apertura, alcuni grandi ospedali fiorentini
+fecero da apripista: le esigenze di tenere sotto controllo una spesa in assi-
+stenza che di solito superava l’afflusso di risorse per sostenerla (si pensi
+alla crescita esponenziale della spesa per balie presso l’ospedale degli
+Innocenti) e il patronato esercitato dalle maggiori corporazioni di mestie-
+re, misero in moto già nel primo Quattrocento un fenomeno di trasforma-
+zione delle pratiche amministrative. Nella seconda metà del XV secolo
+comparvero, con una certa periodicità, resoconti finanziari relativamen-
+te accurati. Anche se molto dipendeva dalle singole figure dei ragionieri,
+pare accertato che da metà Quattrocento in poi fosse presente una picco-
+la schiera di tecnici pronti a fornire la propria esperienza professionale
+al servizio dei maggiori ospedali. Certamente il travaso di conoscenze fu
+operazione faticosa, anche per l’emergere di elementi del tutto specifici:
+la rendita agricola consumata dall’ente proprietario doveva o non dove-
+va essere contabilmente rendicontata? I crediti con pigionali loro malgra-
+do insolventi, con poveri bisognosi e artigiani in difficoltà congiunturali
+come dovevano essere valutati una volta passati alcuni anni? Il rinnovo dei
+letti e di altre masserizie indispensabili al funzionamento dell’ospedale,
+così come tutta una serie di opere di manutenzione edilizia, si potevano
+registrare nelle spese straordinarie, oppure facevano parte della normale
+vita economica dell’istituto e quindi, a stretto rigore, bisognava prevede-
+                            Dall’inventario al libro mastro                        165
+
+
+re progressivi meccanismi di ammortamento nel primo caso e forme di
+risconti (così come di altre scritture di assestamento) nel secondo?
+      Come che fosse, quello che presso gli enti assistenziali era per lo più
+motivato da questioni di ordine pratico, nei conventi e nei monasteri era
+viceversa demandato alla dimensione spirituale e morale, anche perché la
+spesa corrente di un ente religioso era mediamente più contenuta rispetto a
+quella degli ospedali, soprattutto nei non infrequenti anni di carestia e infla-
+zione dei prezzi. Un ospedale, durante una congiuntura negativa, una volta
+consumate le sue scorte alimentari doveva rivolgersi al mercato per soddi-
+sfare una crescente domanda di assistenza da parte di poveri e bisognosi; un
+monastero o un convento, di norma, non solo evitava di effettuare acquisti in
+grano, in vino e in altre derrate, ma poteva addirittura presentarsi sul merca-
+to in qualità di venditore. Certo, non avere contezza piena dell’ammontare
+della propria ricchezza poteva costituire un problema anche per monaci e
+frati, e infatti il tardo Medioevo è pieno di esempi relativi a enti religiosi in
+dissesto economico a causa di una gestione non oculata delle proprie risorse.
+Ma la spinta alla riforma amministrativa, per quanto motivata dal contesto
+generale, in questo caso doveva provenire in larga misura dal chiostro e non
+dalla società, come invece accadeva nel caso degli ospedali.
+      Una vicenda esemplare da questo punto di vista è quella che riguar-
+da la Badia fiorentina.75 Il fatto che la sua contabilità risulti aver adot-
+tato la partita doppia già negli anni Quaranta (ma probabilmente anche
+nel decennio precedente) dipese dalle scelte effettuate da un illustre abate
+portoghese, don Gomes Eanes. Giunto in Italia per studiare diritto a Pado-
+va, si fece presto monaco, aderendo alla neonata Osservanza, dispiega-
+tasi negli ambienti veneti e poi coagulatasi attorno al grande cenobio
+patavino di Santa Giustina. «Messer Gomezio» fu promosso abate della
+Badia nel 1419 e rimase alla guida del cenobio fiorentino sino al 1439.76
+Dopo essersi fattivamente impegnato per l’adesione dell’antico monaste-
+ro urbano all’Osservanza “giustiniana”, violò per un ventennio uno dei
+cardini fondamentali della congregazione: la turnazione annuale dell’aba-
+te. Per questo motivo entrò più volte in contrasto con le guide spirituali
+
+
+     75. Tognetti, Osservanza e partita doppia.
+     76. Sull’abate portoghese si veda da ultimo Sofia Orsino - Francesco Salvestrini,
+Per uno studio della biografia monastica benedettina in età umanistica. La Vita inedita
+di Gomes Eanes, abate portoghese della Badia Fiorentina (prima metà del XV secolo), in
+«Bullettino dell’Istituto Storico Italiano per il Medio Evo», 123 (2021), pp. 241-298.
+166                             Sergio Tognetti
+
+
+dei monaci veneti. Questa sorta di rivendicata “autocrazia” dette tuttavia
+modo a don Gomes di progettare opere a lunga gittata. La più celebre e
+nota, anche per le numerose ricerche di storici dell’architettura e dell’arte,
+riguardò la costruzione e la decorazione di un nuovo chiostro, con nuovi
+vasti ambienti ricavati ai piani superiori, tra cui il dormitorio per i monaci:
+una innovativa soluzione “verticale” che faceva di necessità virtù, vista la
+mancanza di spazi edificabili fuori dal perimetro del complesso monasti-
+co. Negli stessi anni nei quali si dispiegavano i lavori edili e poi quelli di
+una schiera di pittori forse ricollegabili alla bottega del Beato Angelico,
+don Gomes promosse una rivoluzione amministrativa tramite l’assunzione
+di figure specializzate nella tenuta della contabilità. L’esigenza di rigore,
+ordine e razionalizzazione, tutti principi fatti propri dall’Osservanza, erano
+sentiti necessari dall’abate portoghese, visto che nei decenni precedenti
+una approssimativa (quando non scorretta) gestione del ricco patrimonio
+monastico aveva messo a serio rischio la sopravvivenza del cenobio. La
+riforma dell’amministrazione e il “reclutamento” di novizi che occupasse-
+ro le celle rimaste vuote procedettero di pari passo.
+     La figura chiave in questa vicenda fu Ridolfo di ser Gabriello da Linari,
+personaggio dotato di una duplice formazione: giuridica e ragionieristica.
+Quando l’abate portoghese lasciò la Badia per diventare (per pochissimo
+tempo) generale dei Camaldolesi e poi tornare in Portogallo con l’incarico
+di guidare i canonici regolari della S. Croce di Coimbra, Ridolfo di ser
+Gabriello si congedò dalla Badia fiorentina dove aveva lavorato per 16
+anni, ricevendo una sorta di buonuscita: una rendita annua vitalizia di 20
+fiorini. Quindi si trasferì a Pisa per lavorare come agente commissiona-
+rio del banco Cambini, una società d’affari con vasti interessi mercantili
+e finanziari che spaziavano dalla curia pontificia a Barcellona, da Napoli
+a Valencia, da Venezia a Costantinopoli, sino alla Lisbona degli Avis. Il
+trasferimento pisano non fu per nulla casuale, visto che don Gomes aveva
+avuto per anni un rapporto finanziario privilegiato con il banco Cambini.77
+     Ridolfo di ser Gabriello portò la partita doppia nella Badia e insegnò
+ai monaci come tenere le scritture del libro mastro. E non solo di quello.
+Il cenobio, infatti, ha conservato serie continue di altri libri contabili,
+tra cui i giornali, anch’essi tenuti, dalla metà del secolo in poi, secon-
+do il metodo partiduplistico. Il cenobio cittadino probabilmente divenne
+un modello da prendere a esempio. Divenuto generale dei camaldolesi,
+
+      77. Ivi, cap. II.
+                             Dall’inventario al libro mastro                         167
+
+
+nell’ottobre del 1439 don Gomes fece avviare un libro mastro, la cui
+intestazione è la seguente:
+     Questo libro è di messer Ghometio priore del sacro heremo di Camaldoli
+     e generale universale di tutto l’ordine di Camaldoli in sul quale scrivere-
+     mo generalmente di tutti i debitori e creditori di qualunque cosa aranno a
+     ffare coll’heremo e colla badia di Camaldoli magiore e cominceremo a c. 2 e
+     seghuiremo insino alla fine del libro e sarà scripto e tenuto per me don Lucha
+     camarlingo.78
+     Appena il religioso lusitano cessò dal suo breve incarico, il mastro,
+già impostato in partita doppia, con le scritture contrapposte e persino con
+un conto “avanzi e disavanzi”, venne interrotto. Il registro venne quindi
+re-impostato alla “vecchia maniera”, segnando con la carta numero 1 quel-
+la che avrebbe dovuto essere la numero 12: come dire che si tirava una
+riga sopra la gestione di don Gomes. Le scritture tornavano a essere nella
+forma contrapposta, la cartulazione recto-verso e ovviamente non c’era più
+traccia della partita doppia. Per diversi anni si continuò dunque con questo
+andazzo approssimativo, sino a che un nuovo generale di origine venezia-
+na (Pietro Dolfin) non impose un “ritorno” ai metodi più avanzati. Il libro
+rosso di debitori e creditori avviato nel 1480 contiene questa ouverture
+tutta “lagunare’:
+     In questo libro noterò mi, don Piero Dolfin, al presente electo prior del sacro
+     heremo di Camaldoli e general del dito ordene, tuta la intrada e usida, debiti
+     e crediti, dar e haver, del dito heremo di Camaldoli, comenzando dal dì de la
+     election nostra che fo a dì x decembrio mcccclxxx fin che a Dio piaserà, el
+     qual priego me presti gratia che faci la soa voluntà.79
+     Negli stessi decenni il monastero camaldolese fiorentino di S. Maria
+degli Angeli, all’epoca sede dei generali dell’ordine, teneva i suoi libri
+mastri in maniera molto più accurata, pur senza raggiungere il grado di
+perfezione della Badia. Pertanto, un altro centro monastico, già ispirato
+dalla figura del grande monaco umanista di tendenza osservante Ambro-
+gio Traversari (1386-1439), adottava criteri gestionali ispirati dai princi-
+pi di ordine e rigore.80 Principi, per altro, destinati a propagarsi ben oltre
+
+      78. ASFi, Camaldoli, Appendice, 567.
+      79. Ivi, 569.
+      80. Sul personaggio vedi Caby, De l’érémitisme rural, ad indicem (ma soprattutto
+il Livre III); Luca Boschetto, Società e cultura a Firenze al tempo del Concilio. Eugenio
+168                                   Sergio Tognetti
+
+
+la Toscana fiorentina se è vero che i più antichi libri mastri e i giornali
+dell’abbazia perugina di San Pietro (unita da Eugenio IV alla congrega-
+zione di Santa Giustina nel 1436) testimoniano già dagli anni Sessanta
+del Quattrocento una notevole dimestichezza con le più evolute forme di
+contabilità.81
+      Le vicende dell’abbazia di Settimo ci confortano nell’idea che la Badia
+fiorentina potesse costituire al tempo una fonte di ispirazione. Il prestigioso
+monastero rurale ha conservato una pletora di documentazione ammini-
+strativa. Dopo lo studio pionieristico (ma forse troppo sintetico) di Philip
+Jones, incentrato prevalentemente sul periodo anteriore alla Peste Nera,
+tutte queste fonti sono state trascurate dagli studiosi, anche per la mancanza
+di un adeguato inventario d’archivio. Le numerose e corpose filze constano
+a volte di più registri rilegati assieme in maniera spesso confusa e irrazio-
+nale, senza tener conto dei formati e delle epoche. Ma anche da uno spoglio
+sommario si capisce che giusto a metà del XV secolo qualcosa dovette
+cambiare quanto a modalità di gestione e amministrazione del patrimonio.
+Jones, in conclusione del suo saggio, aveva osservato che all’inizio del XV
+secolo «nelle condizioni finanziarie non meno che nel sistema economico
+Settimo rimase fedele alla tradizione, e precisamente a una tradizione di
+debiti».82 Costretto ad alienare parte delle proprietà e in piena disgregazio-
+ne materiale e morale, il cenobio venne “commissariato” da Eugenio IV
+che vi insediò nel 1436 Domenico Capranica, cardinale di S. Maria in via
+Lata, come abate commendatario incaricato di operare riforme strutturali.
+Costui, confutando l’idea che la commenda di per sé producesse effetti
+deleteri sulle finanze monastiche, riuscì viceversa a invertire l’inerzia della
+decadenza e l’abbazia di Settimo divenne nel giro di pochi anni un punto
+di riferimento per tutti i cenobi dell’ordine. Ma l’aspetto più interessante di
+questa vicenda è che, per risanare la situazione finanziariamente rovinosa,
+
+IV tra curiali, mercanti e umanisti (1434-1443), Roma, Edizioni di Storia e Letteratura,
+2012, ad indicem; Riccardo Saccenti, Traversari, Ambrogio, in Dizionario Biografico degli
+Italiani, vol. 96, Roma, Istituto della Enciclopedia italiana, 2019; Claudio Ubaldo Cortoni,
+Con le lettere, con la santità della vita e inviolabile osservanza della Regola e delle sante
+costituzioni antiche: Ambrogio Traversari e la riforma del mondo camaldolese, in Dalla
+riforma di S. Giustina alla Congregazione Cassinese, pp. 131-156.
+      81. Alessandro Motrone, Cecilia Chirieleison, I prodromi della partita doppia in una
+corporazione monastica: la contabilità dell’Abbazia di San Pietro in Perugia dal 1461 al
+1464, in «De Computis», 6, 10 (2009), pp. 239-263.
+      82. Jones, Le finanze della badia cistercense di Settimo, p. 333.
+                              Dall’inventario al libro mastro                           169
+
+
+il nuovo abate ricorse alla consulenza di monaci fatti venire appositamente
+dalla Badia.83 Il degrado e poi la rinascita di Settimo si coglie anche dalla
+documentazione amministrativa del monastero. In una memoria presentata
+in occasione di un lodo arbitrale pronunciato per dirimere una controversia
+tra l’abate di Settimo (messer Giuliano di Miniato Lapini) e suo fratello
+orafo (Bartolomeo), per questioni relative agli anni 1426 e seguenti, risulta
+che le scritture contabili erano tenute da Bartolomeo, perché l’abate non
+capiva molto di ragioneria:
+     […] detto messer l’abate non è molto dotto né sperto in tenere scritture e
+     dalla sua giovinezza per insino a questo tempo non tenne né scrisse mai libro
+     nessuno dove si contenessi e potessino vedere le sua faccende, né entrata né
+     uscita, e massime dall’anno 1426 in qua che il detto messer l’abate fu pronun-
+     ziato abate di Settimo, e tutte le sua faccende e vendite e entrate e così uscite
+     n’ha lasciato tenere conto al detto Bartolommeo suo fratello, come persona
+     che liberamente ogni faccenda e vendita di possessione n’ha lasciato tenere
+     diligentemente conto a lui.84
+      Il “commissariamento” produsse indubbiamente i suoi effetti. Il primo
+libro mastro in partita doppia sopravvissuto è quello segnato B e relativo
+agli anni 1458-1470. Poiché i successivi registri della serie durano tutti,
+grosso modo, una decina di anni,85 si può ragionevolmente ipotizzare che il
+libro A sia stato avviato nel 1450 o forse poco prima. I monaci cistercensi
+erano diventati anche amministratori, come dimostra il caso di don Mauro
+di Filippo della Fioraia che teneva il conto del grano e riscuoteva gli affit-
+ti.86 L’interesse del cenobio per una corretta amministrazione delle finanze
+coinvolse anche le parrocchie che ricadevano sotto il suo controllo: nel
+1467 il “popolo” di San Martino alla Palma (oggi nel comune di Scandicci)
+ingaggiò un maestro aretino perché insegnasse a leggere, a scrivere e anche
+a far di conto (“abbaco”).87
+      Un altro esempio rispetto al quale confrontare l’amministrazione
+contabile della Badia è fornito dall’abbazia di S. Maria di Vallombrosa.
+
+      83. Ivi, 333-337; Alfred A. Strnad, Capranica, Domenico, in Dizionario Biografico
+degli Italiani, vol. 19, Roma, Istituto della Enciclopedia italiana, 1976.
+      84. ASFi, CRSPL, 397 (filza 19), p. 518. La memoria è riportata in un registro dell’a-
+vanzato Seicento, contenente copie e regesti di documenti di varia natura compilati tra il
+1130 e il 1668. Il codice ha un sistema di numerazione per pagine.
+      85. Vedi nota 66.
+      86. ASFi, CRSPL, 499 (filza 353), cc. 397, 398, 401, 402, 438, 439.
+      87. ASFi, CRSPL, 397 (filza 19), pp. 710-711.
+170                                   Sergio Tognetti
+
+
+Il cenobio è ovviamente lontano decine di chilometri dalla città, essendo
+per altro situato in un contesto montano, quello del Pratomagno, a circa
+mille metri di quota. Ma gli abati di Vallombrosa avevano anche un loro
+palazzo a Firenze, nel popolo di S. Ambrogio, a due passi dalla porta
+alla Croce. E d’altra parte la città e il suburbio pullulavano di monasteri
+dell’ordine: S. Trinita e S. Pancrazio (situati nel quartiere occidentale
+di S. Maria Novella), S. Salvi e S. Bartolomeo a Ripoli (posti fuori le
+mura, in direzione est e sud-est). Senza considerare il palazzo abbazia-
+le del Guarlone eretto in una località prossima a S. Salvi, che già dal
+Duecento fungeva sia da centro direzionale di una grossa grangia sia
+da luogo di stoccaggio e smistamento delle derrate prodotte nelle terre
+monastiche, ma destinate al mercato fiorentino.88 Dunque l’organizzazio-
+ne contabile di Vallombrosa rimandava all’ambiente cittadino. I tre libri
+mastri che si susseguono dal 1465 al 1495 (libri H, I e R) testimoniano
+di un utilizzo della partita doppia, anche se in maniera incompleta.89 Non
+c’è traccia di un “conto Monastero”, pur in presenza, talora, di sezioni
+dedicate alle spese di casa, alle rendite fondiarie, alle vendite di prodotti
+agricoli, alla corresponsione di interessi a terzi ecc. I ragionieri incaricati
+di sovraintendere ai libri mastri conoscevano bene il metodo generale,
+anche se non lo applicavano sino in fondo, ed erano avvezzi ad alcune
+tecniche finanziarie sofisticate.90 Per esempio si trovano conti intestati
+a depositanti anonimi («un amico del monastero»), che forse non vole-
+vano rendere di dominio pubblico (i libri contabili avevano valore di
+prova in tribunale) il fatto di star prestando somme a interesse a un ceno-
+bio, percependo annualmente stacchi cedole del 10%.91 Per non parlare
+del conto corrente bancario aperto nel gennaio del 1481 con il banco di
+Piero di Francesco Mellini e compagni: per diversi anni le transazioni più
+
+
+      88. Francesco Salvestrini, Santa Maria di Vallombrosa. Patrimonio e vita economi-
+ca di un grande monastero medievale, Firenze, L.S. Olschki editore, 1998, pp. 35, 67,
+113-114, 243; Francesco Borghero, Ser Lando di Fortino dalla Cicogna. Notariato e ascesa
+sociale a Firenze nel tardo Medioevo, Firenze, L.S. Olschki editore, 2024, pp. 102-109.
+      89. ASFi, CRSGF, n. 260, 181 (libro verde segnato H, 1465-1481), 186 (libro rosso
+segnato R, 1489-1495), 188 (libro bigio segnato I, 1481-1489). Questi registri sono stati
+studiati da Salvestrini, Santa Maria di Vallombrosa, pp. 17-18, 235-252 e passim.
+      90. Dall’intestazione di ASFi, CRSGF, n. 260, 186 e poi da un conto specifico a c. 98,
+emerge la figura del contabile Compagno di Daniello Arrighi, in servizio con un salario di
+30 lire all’anno.
+      91. ASFi, CRSGF, n. 260, 181, c. 219; 186, c. 4; 188, cc. 9, 192.
+                              Dall’inventario al libro mastro                            171
+
+
+importanti del monastero passarono da questa azienda, comprese alcune
+lettere di cambio scambiate con la corte di Roma e con le fiere di Lione.92
+
+
+Conclusioni
+
+     Tra la fine del XV secolo e l’inizio del Cinquecento, l’evoluzione
+parrebbe essere giunta a uno stadio abbastanza avanzato di compimento. In
+quel torno di anni, i libri di debitori e creditori dei monasteri e dei conventi
+urbani (come anche dei maggiori cenobi rurali) avevano assunto caratteri-
+stiche materiali e formali prossime a quelle dei mastri aziendali: formato
+reale; coperta costituita da spesso cuoio; utilizzo generalizzato del colore
+e dell’alfabeto per indicare un determinato esercizio finanziario; rubrica
+separata con tutti i conti e le relative carte; scritture impostate alla vene-
+ziana e in partita doppia (più o meno rigorosa); utilizzo di un conto depu-
+tato alla variazione della ricchezza chiamato “conto monastero”, “conto
+convento”, “conto monastero e convento”; rimandi a una vasta congerie
+di contabilità analitica e sussidiaria ripartita tra vari quaderni e registri.
+E tutto questo gestito spesso in autonomia da religiosi dotati di cultura
+contabile.
+     Questa realtà è documentata, ad esempio, per le monache benedettine
+di S. Felicita tra 1492 e 1502.93 In questo prestigioso cenobio femminile
+la gestione era curata da messer Francesco di Simone, priore e sindaco del
+monastero, il quale ebbe pure l’accortezza di ridurre tutti i conti a un unico
+nesso: la lira di piccoli.94 Non molto diversamente andavano le cose presso
+il convento femminile francescano di S. Maria a Monticelli, posto subito
+fuori la porta di S. Frediano:95 qui si vede molto bene l’evoluzione della
+
+      92. ASFi, CRSGF, n. 260, 181, c. 214; 188, cc. 31, 40, 74, 89, 122, 167, 188, 225, 237,
+247, 261, 269, 277 (dal 1486 la ragione sociale dell’azienda diventa Eredi di Piero Mellini
+e co. banchieri). Il titolare di questa banca d’affari nel 1474 commissionò la realizzazione
+di un suo busto allo scultore e architetto Benedetto da Maiano: l’opera è oggi conservata
+nel Museo Nazionale del Bargello.
+      93. Francesca Fiorelli Malesci, La chiesa di Santa Felicita a Firenze, Prefazione di
+Ugo Procacci e Mina Gregori, Introduzione di Guglielmo Maetzke, Firenze, Giunti, 1986.
+Cfr. anche Strocchia, Nuns and Nunneries, ad indicem.
+      94. ASFi, CRSGF, n. 83, 71 (B: 1492-1495) e 72 (C: 1495-1502).
+      95. Isabella Aurora, Il monastero di Santa Maria di Monticelli di Firenze e i pontefici
+nel XIII secolo: dai documenti del bollario superstite, in «Rivista di Storia della Chiesa in
+Italia», 74, 1 (2020), pp. 3-74. Cfr. anche Strocchia, Nuns and Nunneries, ad indicem.
+172                                    Sergio Tognetti
+
+
+tecnica e del formato del registro perché si è conservata tutta la sequenza a
+partire da un quaderno di debitori e creditori segnato A (1466-1476), tenuto
+in partita semplice da mani diverse molte delle quali non “mercantesche”.96
+Fa seguito il libro grande rosso segnato B (1476-1494), nel quale inizia a
+essere introdotto l’uso delle contropartite da mani differenti ma con preva-
+lenza delle “mercantesche”.97 Quindi si passa al libro (il formato in realtà è
+quello de un quaderno) azzurro segnato C (1494-1497), tenuto da un’unica
+mano non “mercantesca” ma decisamente accorta nell’uso delle contropar-
+tite.98 Infine si arriva al libro grande giallo segnato D (1497-1508), dove
+troviamo il formato reale, la tecnica della partita doppia, l’adozione di un
+conto economico e l’utilizzo di un unico nesso monetario (la lira di piccoli)
+per tutte le scritture.99
+      Va da sé che non tutti gli enti ecclesiastici e religiosi stavano al passo
+con i tempi. Negli anni a cavaliere del 1500 la Badia fiorentina, i camaldo-
+lesi di S. Maria degli Angeli, la Certosa del Galluzzo, l’abbazia di Settimo,
+il monastero femminile di Sant’Ambrogio vantavano libri mastri decisa-
+mente più evoluti e ordinati rispetto a quelli tenuti presso i conventi della
+SS. Annunziata e di S. Maria del Carmine, agli olivetani di S. Miniato al
+Monte o alle benedettine di S. Apollonia.
+      Resta il fatto che la diffusione di una cultura tecnico-ragionieristica
+nella Toscana fiorentina conobbe una forte accelerazione quasi in conco-
+mitanza con la fioritura degli studi umanistici. Da questo fenomeno furono
+toccate anche monache e suore.
+      Abbiamo già visto la badessa di S. Verdiana, Maddalena dei Peco-
+ri, emettere ordini di pagamento nel primo Quattrocento. Per gli stessi
+anni si è conservato un libro di entrate e uscite tenuto direttamente dalle
+camarlinghe che annualmente si avvicendavano in questo incarico per
+conto del monastero vallombrosano.100 Dal 1471 al 1474 monna Agnola
+di Bertoldo Corsini, monaca di San Pier Maggiore, tenne libri di entrata e
+
+      96. ASFi, CRSGF, n. 98, 52.
+      97. Ivi, 53.
+      98. Ivi, 54.
+      99. Ivi, 55.
+      100. ASFi, CRSGF, n. 90, 1 (1412-1444). Su questo registro vedi Sylvie Duval, Scri-
+vere, contare, gestire. I libri di amministrazione dei monasteri femminili fiorentini (1320-
+1460), in Scritture, carismi, istituzioni. Percorsi di vita religiosa in età moderna. Studi per
+Gabriella Zarri, a cura di Concetta Bianca e Anna Scattigno, Roma, Edizioni di Storia e
+Letteratura, 2018, pp. 85-103: 88, 97, 102.
+                            Dall’inventario al libro mastro                        173
+
+
+uscita per le somme gestite direttamente dalla badessa Antonia di messer
+Donato Acciaiuoli.101 A metà del secolo, un’altra badessa di S. Verdiana,
+Piera di Bivigliano dei Medici, avrebbe vergato di sua mano un “memo-
+riale” del cenobio segnato con la lettera P.102 Nell’ultimo trentennio del
+Quattrocento suor Mattea di Simone di Salvadore, badessa di S. Maria di
+Casignano al Bigallo (monastero rurale situato a circa 10 km dalla città,
+in direzione sud-est, lungo la via principale per raggiungere il Valdar-
+no Superiore e dunque Arezzo),103 avrebbe tenuto un libro di conti alla
+veneziana e di ricordi segnato A,104 a sua volta evoluzione di ricordi e
+conti miscellanei a sezioni sovrapposte compilati alternativamente da più
+religiose.105
+     Ora è vero che a occuparsi delle scritture dei registri più importanti
+erano degli uomini: religiosi in qualità di sindaci e procuratori, direttamen-
+te o assumendo tecnici laici. Tuttavia, l’impressione che si ricava dall’in-
+testazione di alcuni libri contabili è che le badesse non ignorassero affatto
+i principi fondamentali dell’aritmetica commerciale e dunque non fosse-
+ro estranee all’adozione di determinati criteri gestionali. Nell’ottobre del
+1376 la badessa di San Pier Maggiore invitò ben tre ragionieri laici a rive-
+dere la contabilità tenuta sin dal novembre 1348 da ser Taddeo di Andrea,
+cappellano del monastero incaricato di redigere i libri di entrata e uscita.
+Tommaso di Guccio Martini, Arrigo di Zanobi Lottieri e Giovanni di Tura
+Dini (questi i loro nomi), confrontarono le cifre estrapolate da più registri,
+le sommarono algebricamente (dopo averle uniformate a un solo standard
+valutario) e arrivarono alla conclusione che il cenobio aveva accumulato
+in tre decenni un disavanzo di cassa pari a lire 1371 soldi 5 e denari 12
+di piccoli. Al termine dell’operazione, probabilmente sempre su richiesta
+della badessa, sottoscrissero di proprio pugno quella che oggi chiameremo
+una certificazione di bilancio.106
+     Tra 1432 e 1435 il monastero suburbano di Santa Caterina in San
+Gaggio (situato ad appena un chilometro dalle mura trecentesche in dire-
+
+     101. ASFi, San Pier Maggiore, 75 e 76.
+     102. Sharon T. Strocchia, Abbess Piera de’ Medici and Her Kin: Gender, and Patron-
+age in Renaissance Florence, in «Renaissance Studies», 28 (2014), pp. 695-713.
+     103. Renato Stopani, Lo Spedale di Santa Maria a Fonteviva del Bigallo, Firenze,
+Aida, 2008.
+     104. ASFi, CRSGF, n. 31, 5.
+     105. Ivi, 4.
+     106. ASFi, San Pier Maggiore, 68, cc. 31v-32v.
+174                                   Sergio Tognetti
+
+
+zione sud, lungo una strada che corrisponde all’attuale via Senese)107 dette
+l’avvio ad almeno due registri, di differente formato e struttura (nessuno
+dei quali in partita doppia), entrambi contrassegnati dalla lettera A, il che
+stava a indicare una nuova stagione amministrativa per il patrimonio delle
+monache agostiniane.108 Dei registri più importanti si occupò il cappellano
+Filippo di Francesco, sindaco e procuratore del monastero. Un ulteriore
+quaderno sussidiario venne invece affidato a un tecnico laico.109 Qui di
+seguito si riporta la lunga e parlante intestazione (il corsivo nel paragrafo
+finale è ovviamente mio):
+      Questo libro è della venerabile badessa, monache e chonvento di sancta
+      Chaterina a monte, detto munistero di san Ghaggio, e chiamasi libro di debi-
+      tori e creditori per chomessi e chomposti e altri segnato A e à charte 192
+      e choregie bianche, nel quale si scriverrà alquanti debitori e creditori per
+      dare e per avere al modo viniziano, cioè nella prima faccia chi deba dare e
+      nella sechonda, a dirimpetto di quella, chi deba avere e quasi tutti si farano
+      dipendenti dalle offerte o chomposizioni facte di denari apartenenti al detto
+      chonvento o a’ suoi sottoposti e achomandati o chommessi per dentro o per
+      di fuori e chomincerassi a scrivere nell’altra faccia di questa prima charta e
+      seghuirassi chome è usanza per insino al fine.
+      E quasi tutti saranno debitori e creditori del chapitale e non delle rendite
+      perché saranno ad altro libro.
+      E non sia amirazione ad alchuna persona se scritto fia in detto libro di variate
+      lettere e da varie persone, però che essendo el libro del munistero e non di
+      propria persona, el quale solo di sua mano avessi a scrivere, ma qualunche
+      persona fia chomandato o chomesso da qualunche badessa fia di detto muni-
+      stero, quello s’intenda essere e sia lecito o vero scrittore, non si partendo dalla
+      verità in alchuna parte. Amen. Deo gratias.
+      E io, Antonio di Rinieri Squarcialupi da Firenze, per ubidire a’ chomanda-
+      menti della detta venerabile badessa, suora Francescha di Piero degli Albizi,
+      ordinerò e chomincerò le partite e ragioni in detto libro, sperando di farne
+      piacere a dDio e chonsolazione e utile a tutta la chongreghazione di detto
+      munistero, a’ quali tutti di grazia domando che per me e per miei passati e
+      futuri preghare dobiate l’altissimo Iddio, che vera luce ci presti in etterno,
+      per modo tale che ogni tenebra spenta rivegian voi nel suo beato regno.
+
+      107. Osanna Fantozzi Micali, Franco Lombardi, Piero Roselli, Il monastero di San
+Gaggio a Firenze. La storia – Il piano di recupero, Firenze, Alinea, 1996. Cfr. anche Stroc-
+chia, Nuns and Nunneries, ad indicem.
+      108. ASFi, CRSGF, n. 234, 77 e 78.
+      109. Ivi, 79.
+                              Dall’inventario al libro mastro                            175
+
+
+     Ai già citati cognomi di alcune madri superiori (Albizzi, Barbado-
+ri, Medici, Pecori, Acciaiuoli) potrebbero aggiungersi quelli delle Bardi,
+Deti, Donati, Guasconi, Pigli e di tante altre badesse. Queste monache e
+suore erano figlie di mercanti-banchieri e imprenditori tessili. Anche se
+la frequentazione delle scuole di abbaco era per le fanciulle fuori discus-
+sione, difficilmente si poteva rimanere impermeabili alla cultura domi-
+nante.110 Monasteri e conventi femminili interagivano abitualmente con il
+mercato della terra, degli immobili urbani e (lo abbiamo accennato nel
+caso di S. Verdiana) degli investimenti finanziari. Queste religiose spes-
+so lavoravano, svolgendo mansioni artigianali non del tutto banali. Nella
+seconda metà del XV secolo e nei primi anni del successivo, quando l’in-
+dustria serica fiorentina conobbe una forte accelerazione, promuovendo la
+diffusione del mestiere del battiloro funzionale alla realizzazione di tessuti
+broccati, troviamo non di rado monache e suore impegnate nella produzio-
+ne di oro filato: le agostiniane di S. Gaggio,111 le cistercensi di S. Donato
+a Torri (al tempo in campagna a circa 2 chilometri dalla porta al Prato di
+Ognissanti, oggi parrocchia di S. Donato in Polverosa nel popoloso quar-
+tiere nord-occidentale di Novoli)112 e molte altre – tanto presenti in città
+(come le Murate) quanto nel suburbio (come le “brigidine” del Paradiso
+presenti nel borgo del Bandino, attuale periferia sud-orientale del comu-
+ne fiorentino) –, la cui attività lavorativa risulta ampiamente comprovata,
+oltre che dalla documentazione interna, anche dalle contabilità aziendali
+del settore serico.113
+
+      110. Strocchia, Nuns and Nunneries, p. 99, a proposito di una serie di transazioni
+concernenti il mercato dei denari di Monte (ossia i titoli del debito pubblico) da parte del
+monastero femminile di Sant’Apollonia negli anni Quaranta del Quattrocento, osserva
+giustamente come «the nuns – many of them daughters and sisters of mercant-bankers –
+displayed a high degree of understanding about how local credit marked worked».
+      111. ASFi, CRSGF, n. 234, 81 (Libro rosso segnato D: 1466-1486), 83 (Libro giallo
+segnato F: 1499-1523).
+      112. ASFi, CRSGF, n. 233, 3 (Libro rosso segnato C: 1496-1515). Cfr. San Donato
+in Polverosa (già alla Torre): una presenza nei secoli, Firenze, E. Ariani e L’Arte della
+Stampa, 1990.
+      113. Bruno Dini, Una manifattura di battiloro nel Quattrocento, in Id., Saggi su un’e-
+conomia-mondo. Firenze e l’Italia fra Mediterraneo ed Europa (secc. XIII-XVI), Pisa, Paci-
+ni, 1995, pp. 87-113: 108-109; Florence Edler de Roover, L’arte della seta a Firenze nei
+secoli XIV e XV, a cura di Sergio Tognetti, Firenze, L.S. Olschki editore, 1999, pp. 89-90;
+Strocchia, Nuns and Nunneries, pp. 116-144. Le monache di san Gaggio vantavano una
+sorta di specializzazione nella fornitura di oro filato alle botteghe seriche e di battiloro,
+176                                   Sergio Tognetti
+
+
+      Tenere i libri di conto secondo una determinata forma e un determinato
+metodo può rispondere a scopi diversi. Per le grandi imprese, gli obiettivi
+principali consistevano nella possibilità di accertare utili o perdite, compren-
+dere quali erano gli affari più lucrosi ed eventualmente orientare le strategie
+aziendali in funzione dell’analisi dei costi e dei ricavi di settore. Per gli enti
+assistenziali, i libri mastri servivano a comprendere se lo sforzo finanziario
+era realmente sostenibile e fino a quale punto di rottura. Per gli enti religiosi,
+accanto a esigenze di trasparenza e chiarezza nell’uso dei propri patrimo-
+ni, si avvertiva anche un rigoroso desiderio di ordine. In generale siamo di
+fronte a una sorta di habitus mentale relativamente diffuso, che spingeva
+anche piccoli commercianti e artigiani dal modesto profilo imprenditoria-
+le a redigere superflui e sovradimensionati libri contabili in partita doppia,
+quando sarebbe bastato un semplice quaderno di ricordi. Per non parlare del
+fatto che, col primo Cinquecento, anche figlie, mogli e vedove dei mercan-
+ti si attardavano nell’utilizzo di contabilità complesse:114 alla metà del XVI
+secolo Elisabetta Altoviti, moglie di Giovanbattista Nerli e figlia di Bindo
+Altoviti (famoso banchiere fiorentino residente a Roma), era solita redigere
+di sua mano voluminosi libri mastri tenuti in partita doppia.115 Una volta
+rimasta vedova, monna Elisabetta si sarebbe occupata della riorganizzazione
+archivistica dei documenti commerciali appartenuti al defunto marito, scri-
+vendo lettere ai consoli della nazione fiorentina di Anversa per far rientrare a
+Firenze i libri mastri della società Nerli & Rondinelli.116
+      Tutti noi siamo abituati a pensare agli strati elevati della società fioren-
+tina, tra i quali sono indubbiamente da includere le gerarchie religiose,
+come indissolubilmente associati alla nascita di una nuova e rivoluzionaria
+cultura umanistica. Pochissimi tra noi, invece, sono disposti ad ammettere
+che una tra le formazioni scolastiche più diffuse fra Quattro e Cinquecento
+fosse quella tecnico-contabile. L’analisi della documentazione degli enti
+ecclesiastici e religiosi ci conferma che quella fiorentina del Rinascimento
+è stata anche e soprattutto una “civiltà di ragionieri”.
+
+
+
+mentre quelle del Paradiso risultavano impiegate anche in altre attività artigianali come la
+produzione di occhiali, libri e lavori di ricamo.
+     114. Serena Galasso, Le droit de compter. Les livres de gestion et de mémoires des
+femmes (Florence, XVe-XVIe siècles), Rome, École Française de Rome, 2024, capitolo 5.
+     115. Ivi, pp. 211 e 525.
+     116. Ivi, pp. 365-366.
+

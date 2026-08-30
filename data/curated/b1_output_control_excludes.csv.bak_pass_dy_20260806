@@ -1,0 +1,101 @@
+person_id,control_qid,control_name,reason
+ammannati,Q3850247,Martino Filetico,Pass CJ: post-death densify (endpoint 1490 after Ammannati death 1479; age@death 60 vs 57).
+ammannati,Q3876500,Nicoletto Vernia,Pass BN: reverse lifespan (d.@79 vs Ammannati d.@57)
+ammannati,Q5659931,Agostino Dati,Pass CK: span densify outlier (span45≈13 vs Ammannati T=12) relative to short letter peers Nogarola/Acciaioli already in cell.
+ammannati,Q711964,Cristoforo Landino,Pass BN: reverse lifespan (d.@74 vs Ammannati d.@57)
+ardingelli_bese,Q3768494,Giovanni di Paolo Rucellai,Pass CP: reverse lifespan densify (d.@78 span45≈33 vs Ardingelli d.@68 T=14); keep Piero/Barbarigo.
+ardingelli_bese,Q659093,Benedetto Dei,Pass CP: reverse lifespan densify (d.@74 span45≈29 vs Ardingelli d.@68 T=14); keep Piero/Barbarigo.
+august_brunswick_wolfenbuettel,Q333098,"Sir Robert Cotton, 1st Baronet, of Connington",Pass BY: drop england birth_only matches from hre ruler cell (keep Andreae/Buchner overlays).
+august_brunswick_wolfenbuettel,Q6555592,"Lionel Cranfield, 1st Earl of Middlesex",Pass BY: drop england birth_only matches from hre ruler cell (keep Andreae/Buchner overlays).
+azevedo_joao_porto,Q18745304,Vasco de Lucena,Pass DE: reverse lifespan densify (d.@77 / work45=30 vs Azevedo tip age~63).
+azevedo_joao_porto,Q342392,Francisco Jiménez de Cisneros,Pass DE: reverse lifespan densify (d.@81 / work45=36 vs Azevedo labor tip age~63 resign1495; death-tip inflation). Keep Centelles.
+azevedo_joao_porto,Q5672208,Ambrosio Montesino,Pass DE: reverse lifespan densify (d.@74 / work45=27 vs Azevedo tip age~63).
+barbara_brandenburg,Q1531207,"Nicolò Malermi,Pass CI: endpoint-only densify (chrono fallback 1471;1481", no hand output pins; span45≈14 vs Barbara T=12).
+barbara_brandenburg,Q3850247,Martino Filetico,Pass CH: post-death densify (endpoint 1490 after Barbara death 1481; age@death 60 vs 59).
+barbara_brandenburg,Q3876500,Nicoletto Vernia,Pass BN: reverse lifespan (d.@79 vs Barbara d.@59)
+barbara_brandenburg,Q55228138,Gherardo del Ciriagio,Pass CK: reverse densify (d.@60 span45≈13 vs Barbara d.@59 T=12); keep Mombrizio/Marcanova/Facio + Piero.
+barbara_brandenburg,Q5659931,Agostino Dati,Pass CK: span densify (span45≈13 vs Barbara T=12); keep Mombrizio/Marcanova/Facio + Piero overlay.
+barbara_brandenburg,Q711964,Cristoforo Landino,Pass BN: reverse lifespan (d.@74 vs Barbara d.@59)
+bourchier_henry_bath,Q1101373,"William Cavendish, 1st Duke of Newcastle",Pass BZ: reverse lifespan (d.@84 vs Bourchier d.@67); keep Selden textual peer. BN-style midneg rebalance.
+bourchier_henry_bath,Q735697,John Selden,Pass CE: reverse densify (span45≈21 / d.@70 vs Bourchier T=16 / d.@67); keep Burton + Cotton overlay.
+datini,Q508702,Filippo Villani,Pass CJ: reverse lifespan densify (d.@82 span45≈35 vs Datini d.@75 T=30); keep Salutati/Dondi.
+domenichi_ludovico,Q104099062,Francesco Visdomini,Pass CO: reverse lifespan densify (d.@57 span45≈12 vs Domenichi d.@49 T=4); keep Lando overlay.
+domenichi_ludovico,Q1257744,"Ortensio Lando (Landi),1515,1512,italy,Pass CF lifespan-matched italy satirist/humanist (age@death≈48),high",Pass CF overlay for domenichi after Grataroli exclude.\n
+domenichi_ludovico,Q1751281,Francesco Robortello,Pass CH: post-death densify (death pin 1567 after Domenichi death 1564; age@death 51 vs 49); keep Lando.
+domenichi_ludovico,Q18945465,Girolamo Borro,Pass CO: reverse lifespan densify (d.@80 span45≈33 vs Domenichi d.@49 T=4); keep Lando overlay.
+domenichi_ludovico,Q21545214,Giovanni Battista Rasario,Pass CO: reverse lifespan densify (d.@61 span45≈16 vs Domenichi d.@49 T=4); keep Lando overlay.
+domenichi_ludovico,Q3638733,Bernardino Tomitano,Pass CO: reverse lifespan densify (d.@59 span45≈14 vs Domenichi d.@49 T=4); keep Lando overlay.
+domenichi_ludovico,Q3742149,Felice Figliucci,Pass CO: reverse lifespan densify (d.@77 span45≈27 vs Domenichi d.@49 T=4); keep Lando overlay.
+domenichi_ludovico,Q3778928,Guglielmo Grataroli,Pass CD: post-death densify (death pin 1568 after Domenichi death 1564; age@death 52 vs 49); keep Robortello.
+domenichi_ludovico,Q523931,Girolamo Zoppio,Pass CO: reverse lifespan densify (d.@75 span45≈29 vs Domenichi d.@49 T=4); keep Lando overlay.
+egidio_piacenza,Q1525570,Giorgio Valla,Pass CP: reverse lifespan densify (d.@69 span45≈24 vs Egidio T=10).
+egidio_piacenza,Q3766135,Giovan Marco Cinico,Pass CP: reverse lifespan densify (d.@73 span45≈25 vs Egidio T=10).
+egidio_piacenza,Q4394728,Alamanno Rinuccini,Pass CP: reverse lifespan densify (d.@78 span45≈29 vs Egidio T=10; wearer death unknown — drop longest italy humanist densify).
+jackson_ralph,Q3809383,John Julius Angerstein,Pass CO: reverse lifespan densify (d.@88 span45≈43 vs Jackson d.@54 T=9); keep Hanbury/Champion/Oliver.
+jackson_ralph,Q5565890,Francis Baring,Pass CO: reverse lifespan densify (d.@70 span45≈25 vs Jackson d.@54 T=9); keep Hanbury/Champion/Oliver.
+jackson_ralph,Q7788650,Thomas Coutts,Pass CO: reverse lifespan densify (d.@87 span45≈42 vs Jackson d.@54 T=9); keep Hanbury/Champion/Oliver overlays (Pass BC labor parity).
+jeake_samuel,Q2277355,Thomas Pitt,Pass CO: reverse lifespan densify (d.@73 span45≈28 vs Jeake d.@47 T=2); keep Haistwell/Heathcote (Pass BC labor parity).
+jeake_samuel,Q3525181,Thomas Guy,Pass CO: reverse lifespan densify (d.@80 span45≈35 vs Jeake d.@47 T=2); keep Haistwell/Heathcote.
+jeake_samuel,Q514846,Elihu Yale,Pass CO: reverse lifespan densify (d.@72 span45≈27 vs Jeake d.@47 T=2); keep Haistwell/Heathcote.
+jeake_samuel,Q7787846,Thomas Brattle,Pass CC: reverse lifespan densify (d.@56 span45≈11 vs Jeake d.@47 T=2); keep Haistwell/Heathcote.
+jeffreys_joyce,Q3852414,Maurice Abbot,Pass CK: reverse densify (span45≈32 / d.@77 vs Jeffreys T=27 / d.@75); keep Cranfield. Plumbing only — not Spicksley labor reopen.
+leo_x,Q113031057,Giovanni Battista Memmo,Pass CO: reverse lifespan densify (d.@69 span45≈24 vs Leo d.@46 T=1); keep Clement VII + Inghirami/Beroaldo.
+leo_x,Q133001,Pope Paul III,Pass CO: reverse lifespan densify (d.@81 span45≈36 vs Leo d.@46 T=1); keep Clement VII + Inghirami/Beroaldo.
+leo_x,Q211133,Baldassarre Castiglione,Pass CD: post-death densify (Courtier pub 1528 + d.1529 after Leo death 1521; age@death 51 vs 46).
+leo_x,Q2258968,Christopher Bainbridge,Pass CD: england-born cardinal convenience peer in italy Leo cell (keep for Wolsey); replace with Inghirami curial match.
+leo_x,Q334188,Pietro Bembo,Pass CO: reverse lifespan densify (d.@77 span45≈32 vs Leo d.@46 T=1); keep Clement VII + Inghirami/Beroaldo.
+leo_x,Q380652,Giles of Viterbo,Pass CO: reverse lifespan densify (d.@63 span45≈18 vs Leo d.@46 T=1); keep Clement VII + Inghirami/Beroaldo.
+leo_x,Q435853,Thomas Cajetan,Pass CO: reverse lifespan densify (d.@65 span45≈20 vs Leo d.@46 T=1); keep Clement VII + Inghirami/Beroaldo.
+leo_x,Q682478,Jacopo Sadoleto,Pass CO: reverse lifespan densify (d.@70 span45≈25 vs Leo d.@46 T=1); keep Clement VII + Inghirami/Beroaldo.
+leo_x,Q728931,Gasparo Contarini,Pass CO: reverse lifespan densify (d.@59 span45≈14 vs Leo d.@46 T=1); keep Clement VII + Inghirami/Beroaldo.
+leo_x,Q823002,Bernardo Dovizi (Bibbiena),Pass CF: reverse lifespan densify (d.@50 span45≈5 vs Leo d.@46 T=1); keep Inghirami exact age match.
+marzeliere_pierre,Q716427,Jean Juvénal des Ursins,Pass CP: reverse lifespan densify (d.@85 span45≈40 vs Marzelière d.@72 T=22); keep Cœur/Fribois/le Daim/Fumée/Grossa.
+nicolas_de_baye,Q1237886,Jean de Montreuil,Pass CC: reverse lifespan (d.@64 vs Nicolas d.@55; span45≈19 vs T=9); keep Premierfait (age-matched translator peer).
+nicolas_de_baye,Q1685601,Jean Jouvenel des Ursins,Pass CO: reverse lifespan densify (d.@71 span45≈26 vs Nicolas d.@55 T=9); keep Premierfait (+ Col).
+nicolas_de_baye,Q3110583,Gontier Col,Pass CP: reverse lifespan densify (d.@63 span45≈18 vs Nicolas d.@55 T=9); keep Premierfait age-matched translator peer.
+nicolas_de_baye,Q3172160,Jean Fusoris,Pass CO: reverse lifespan densify (d.@71 span45≈26 vs Nicolas d.@55 T=9); keep Premierfait (+ Col).
+pepys_samuel,Q267683,Thomas Sprat,Pass CP: reverse lifespan densify (d.@78 span45≈30 vs Pepys d.@70 T=12).
+pepys_samuel,Q170373,Christopher Wren,Pass CP: reverse lifespan densify (d.@91 span45≈34 vs Pepys d.@70 T=12); keep Savile/Hooke/Dryden/Bunyan/Boyle/Sydenham cluster.
+pepys_samuel,Q316949,John Ray,Pass CP: reverse lifespan densify (d.@78 span45≈32 vs Pepys d.@70 T=12).
+philippe_le_hardi,Q1237886,Jean de Montreuil,Pass CG: all post-45 pins (1408/1418) after Philippe death 1404 (span45 entirely post-death densify); replace with Bonet/Deschamps.
+philippe_le_hardi,Q281179,Jean Gerson,Pass CC: post-death densify (all pins 1408/1418/1429 after Philippe death 1404; age@death 66 vs 62); keep Montreuil.
+philippe_le_hardi,Q457915,"Eustache Deschamps,1342,1340,france,Pass CG France court-poet peer (death 1406≈Philippe 1404) after Montreuil exclude,high",Pass CG overlay for philippe_le_hardi.
+philippe_le_hardi,Q570021,"Honoré Bonet (Bouvet),1342,1350,france,Pass CG lifespan-near France chivalric/legal author after Montreuil post-death exclude,high",Pass CG overlay for philippe_le_hardi.
+philippe_le_hardi,Q744014,Nicholas of Clamanges,Pass CA: reverse densify — ctrl years to 1437 vs Philippe death 1404 (age@death 74 vs 62); keep Montreuil/Gerson.
+pirckheimer,Q28004827,Nikolaus Apel,Pass CP: reverse lifespan densify (d.@67 span45≈22 vs Pirckheimer d.@60 T=14).
+pirckheimer,Q43499,Desiderius Erasmus,Pass CP: reverse lifespan densify (d.@70 span45≈25 vs Pirckheimer d.@60 T=14); keep Qualle/Mutian/Trutfetter.
+pirckheimer,Q44668811,Lorenz Heidenreich,Pass CP: reverse lifespan densify (d.@77 span45≈30 vs Pirckheimer d.@60 T=14).
+pius_ii,Q1531207,Nicolò Malermi,Pass CH: post-death densify (pins 1471/1481 after Pius death 1464).
+pius_ii,Q299446,Bessarion,Pass BN: reverse lifespan (d.@69 vs Pius d.@59); keep for Sforza
+pius_ii,Q3850247,Martino Filetico,Pass CH: post-death densify (endpoint 1490 after Pius death 1464; age@death 60 vs 59).
+pius_ii,Q5392534,Ermolao Barbaro the Elder,Pass CH: post-death densify (pin 1471 after Pius death 1464; age@death 61 vs 59).
+policastro,Q41568767,Raffaele de' Cerchi,Pass CG: reverse densify (d.@74 span45≈29 vs Policastro d.@68 T=23); keep Ciriagio/Boncambio.
+rene_ii_lorraine,Q1313351,Louis II de la Trémoille,Pass CP: reverse lifespan densify (d.@65 span45≈20 vs René II d.@57 T=12); keep Commynes/Montpensier.
+rene_ii_lorraine,Q2466849,Jean Molinet,Pass CP: reverse lifespan densify (d.@72 span45≈20 vs René II d.@57 T=12); keep Commynes/Montpensier.
+sforza_francesco,Q182046,Leon Battista Alberti,Pass CJ: post-death densify (pin 1472 after Sforza death 1466; age@death 68 vs 65).
+sforza_francesco,Q299446,Bessarion,Pass CJ: post-death densify (pin 1472 after Sforza death 1466; age@death 69 vs 65).
+sforza_francesco,Q3768494,Giovanni di Paolo Rucellai,Pass CJ: post-death densify (pins 1473/1481 after Sforza death 1466; age@death 78 vs 65).
+spinelli_benedetto,Q55228599,Iacopo Guicciardini,Pass CQ: reverse lifespan densify (d.@72 span45≈27 / n_pins=1 death-tip vs Spinelli d.@64 T≈6); keep Gritti/Strozzi Younger. Merchant CI still soft-ya gated (Yale densify).
+strozzi_filippo,Q1236780,Francesco Sassetti,Pass CO: reverse lifespan densify (d.@69 span45≈24 vs Strozzi d.@63 T=16); keep Pigello + Piero overlay.
+strozzi_filippo,Q1646308,Tommaso Portinari,Pass CO: reverse lifespan densify (d.@74 span45≈25 vs Strozzi d.@63 T=16); keep Pigello + Piero overlay.
+strozzi_filippo,Q659093,Benedetto Dei,Pass CO: reverse lifespan densify (d.@74 span45≈29 vs Strozzi d.@63 T=16); keep Pigello + Piero overlay.
+tye_thomas,Q3471265,Samuel Whitbread,Pass CA: reverse lifespan densify (d.@76 span45≈22 vs Tye d.@70 T=9); keep Davison/Beckford.
+tye_thomas,Q6900893,Monkhouse Davison,Pass CB: reverse lifespan (d.@80 vs Tye d.@70); keep Beckford + Hanbury overlay.
+voiture_vincent,Q334978,Jean Chapelain,Pass CO: reverse lifespan densify (d.@79 span45≈34 vs Voiture d.@51 T=6); keep Balzac/Tristan.
+wolsey,Q1788686,Edward Lee,Pass CB: post-death densify (years to 1544 vs Wolsey death 1530; age 62 vs 57).
+wolsey,Q6259279,John Stokesley,Pass CB: post-death densify (years to 1539 vs Wolsey death 1530; age 64 vs 57).
+wood_anthony,Q267683,Thomas Sprat,Pass CP: reverse lifespan densify (d.@78 span45≈30 vs Wood d.@63 T=15).
+wood_anthony,Q170373,Christopher Wren,Pass CP: reverse lifespan densify (d.@91 span45≈34 vs Wood d.@63 T=15); keep Savile/Bunyan/Boyle/Sydenham cluster.
+wood_anthony,Q316949,John Ray,Pass CP: reverse lifespan densify (d.@78 span45≈32 vs Wood d.@63 T=15).
+jacopo_magnia_friar,Q27909297,Nikolaus Straub,Pass DV: reverse lifespan densify (tipAge≈84 / ya45=39 / d.@≈84 vs Jacopo tipAge=65 YA0; wearer death unknown — drop longest HRE densify). Keep Eyb/Lake/Knebel/Lubeck.
+wolsey,Q725592,Cuthbert Tunstall,Pass DW: reverse lifespan densify (tipAge≈84 / ya45=39 / d.@≈85 vs Wolsey tipAge=57 / d.@57). Keep Fisher/Blythe/Colet/Bainbridge.
+cederni,Q3619484,Antonio D'Alessandro,Pass DW: reverse lifespan densify (tipAge≈75 / ya45=30 / d.@≈78 vs Cederni tipAge=62 / d.@66). Keep Ciriagio/Simonetta/Refrigerio/Marcanova/Dati.
+policastro,Q3619484,Antonio D'Alessandro,Pass DW: reverse lifespan densify (tipAge≈75 / ya45=30 / d.@≈78 vs Policastro tipAge=67 / d.@68). Keep Ciriagio/Simonetta/Boncambio.
+wyatt_henry,Q744845,William Warham,Pass DW: reverse lifespan densify (tipAge≈82 / ya45=37 / d.@≈82 vs Wyatt tipAge=70 / d.@77). Keep Docwra/Boece/Stokesley/Blythe cluster.
+wyatt_henry,Q579194,John Mair (Major),Pass DW: reverse lifespan densify (tipAge≈82 / ya45=37 / d.@≈83 vs Wyatt tipAge=70 / d.@77). Keep Docwra/Boece/Stokesley/Blythe cluster.
+leo_x,Q83159,Pope Clement VII,Pass DX: reverse lifespan densify (tipAge≈56 / ya45=11 / d.@56 vs Leo tipAge=46 / d.@46). Keep Inghirami+Beroaldo lifespan matches (restore Inghirami after bogus exclude-row leak).
+philippe_le_hardi,Q346761,John Duke of Berry,Pass DX: reverse lifespan densify (tipAge≈76 / ya45=31 / d.@76 vs Philippe tipAge=61 / d.@62). Keep Marie/Amadeus/Navarre/Col.
+philippe_le_hardi,Q1685601,Jean Jouvenel des Ursins,Pass DX: reverse lifespan densify (tipAge≈71 / ya45=26 / d.@71 vs Philippe tipAge=61 / d.@62). Keep Marie/Amadeus/Navarre/Col.
+egidio_piacenza,Q604460,Georgius Merula,Pass DX: reverse lifespan densify (tipAge≈64 / ya45=19 / d.@64 vs Egidio tipAge=55; wearer death unknown — drop longest italy humanist densify). Keep Carbone/Filetico/Perotti/Mombrizio/Summaripa.
+arduino_baiso,Q208125,Lorenzo Ghiberti,Pass DX: reverse lifespan densify (tipAge≈77 / ya45=32 / d.@77 vs Arduino tipAge=69 / d.@69). Keep Donatello/Masolino/Pisanello.
+wolsey,Q317149,John Fisher,Pass DX: reverse lifespan densify (tipAge≈66 / ya45=21 / d.@66 vs Wolsey tipAge=57 / d.@57). Keep Blythe/Colet/Bainbridge.

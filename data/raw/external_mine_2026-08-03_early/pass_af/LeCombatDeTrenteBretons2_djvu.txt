@@ -1,0 +1,4316 @@
+
+This is a digital copy of a book that was preserved for generations on library shelves before it was carefully scanned by Google as part of a project 
+to make the world's books discoverable online. 
+
+It has survived long enough for the copyright to expire and the book to enter the public domain. A public domain book is one that was never subject 
+to copyright or whose legal copyright term has expired. Whether a book is in the public domain may vary country to country. Public domain books 
+are our gateways to the past, representing a wealth of history, culture and knowledge that's often difficult to discover. 
+
+Marks, notations and other marginalia present in the original volume will appear in this file - a reminder of this book's long journey from the 
+publisher to a library and finally to you. 
+
+Usage guidelines 
+
+Google is proud to partner with libraries to digitize public domain materials and make them widely accessible. Public domain books belong to the 
+public and we are merely their custodians. Nevertheless, this work is expensive, so in order to keep providing this resource, we have taken steps to 
+prevent abuse by commercial parties, including placing technical restrictions on automated querying. 
+
+We also ask that you: 
+
++ Make non- commercial use of the files We designed Google Book Search for use by individuals, and we request that you use these files for 
+personal, non-commercial purposes. 
+
++ Refrain from automated querying Do not send automated queries of any sort to Google's system: If you are conducting research on machine 
+translation, optical character recognition or other areas where access to a large amount of text is helpful, please contact us. We encourage the 
+use of public domain materials for these purposes and may be able to help. 
+
++ Maintain attribution The Google "watermark" you see on each file is essential for informing people about this project and helping them find 
+additional materials through Google Book Search. Please do not remove it. 
+
++ Keep it legal Whatever your use, remember that you are responsible for ensuring that what you are doing is legal. Do not assume that just 
+because we believe a book is in the public domain for users in the United States, that the work is also in the public domain for users in other 
+countries. Whether a book is still in copyright varies from country to country, and we can't offer guidance on whether any specific use of 
+any specific book is allowed. Please do not assume that a book's appearance in Google Book Search means it can be used in any manner 
+anywhere in the world. Copyright infringement liability can be quite severe. 
+
+About Google Book Search 
+
+Google's mission is to organize the world's information and to make it universally accessible and useful. Google Book Search helps readers 
+discover the world's books while helping authors and publishers reach new audiences. You can search through the full text of this book on the web 
+
+
+
+at jhttp : //books . qooqle . com/ 
+
+
+
+
+A propos de ce livre 
+
+Ceci est une copie numerique d'un ouvrage conserve depuis des generations dans les rayonnages d'une bibliotheque avant d'etre numerise avec 
+precaution par Google dans le cadre d'un projet visant a permettre aux internautes de decouvrir 1' ensemble du patrimoine litteraire mondial en 
+ligne. 
+
+Ce livre etant relativement ancien, il n'est plus protege par la loi sur les droits d'auteur et appartient a present au domaine public. L' expression 
+"appartenir au domaine public" signifie que le livre en question n' a jamais ete soumis aux droits d'auteur ou que ses droits legaux sont arrives a 
+expiration. Les conditions requises pour qu'un livre tombe dans le domaine public peuvent varier d'un pays a 1' autre. Les livres libres de droit sont 
+autant de liens avec le passe. lis sont les temoins de la richesse de notre histoire, de notre patrimoine culturel et de la connaissance humaine et sont 
+trop souvent difficilement accessibles au public. 
+
+Les notes de bas de page et autres annotations en marge du texte presentes dans le volume original sont reprises dans ce fichier, comme un souvenir 
+du long chemin parcouru par l'ouvrage depuis la maison d'edition en passant par la bibliotheque pour finalement se retrouver entre vos mains. 
+
+Consignes d 'utilisation 
+
+Google est fier de travailler en partenariat avec des bibliotheques a la numerisation des ouvrages appartenant au domaine public et de les rendre 
+ainsi accessibles a tous. Ces livres sont en effet la propriete de tous et de toutes et nous sommes tout simplement les gardiens de ce patrimoine. 
+II s'agit toutefois d'un projet couteux. Par consequent et en vue de poursuivre la diffusion de ces ressources inepuisables, nous avons pris les 
+dispositions necessaires afin de prevenir les eventuels abus auxquels pourraient se livrer des sites marchands tiers, notamment en instaurant des 
+contraintes techniques relatives aux requetes automatisees. 
+
+Nous vous demandons egalement de: 
+
++ Ne pas utiliser les fichier s a des fins commerciales Nous avons concu le programme Google Recherche de Livres a l'usage des particuliers. 
+Nous vous demandons done d' utiliser uniquement ces fichiers a des fins personnelles. lis ne sauraient en effet etre employes dans un 
+quelconque but commercial. 
+
++ Ne pas proceder a des requetes automatisees N' envoy ez aucune requete automatisee quelle qu'elle soit au systeme Google. Si vous effectuez 
+des recherches concernant les logiciels de traduction, la reconnaissance optique de caracteres ou tout autre domaine necessitant de disposer 
+d'importantes quantites de texte, n'hesitez pas a nous contacter. Nous encourageons pour la realisation de ce type de travaux l'utilisation des 
+ouvrages et documents appartenant au domaine public et serions heureux de vous etre utile. 
+
++ Nepas supprimer V attribution Le filigrane Google contenu dans chaque fichier est indispensable pour informer les internautes de notre projet 
+et leur permettre d'acceder a davantage de documents par 1' intermediate du Programme Google Recherche de Livres. Ne le supprimez en 
+aucun cas. 
+
++ Rester dans la legalite Quelle que soit l'utilisation que vous comptez faire des fichiers, n'oubliez pas qu'il est de votre responsabilite de 
+veiller a respecter la loi. Si un ouvrage appartient au domaine public americain, n'en deduisez pas pour autant qu'il en va de meme dans 
+les autres pays. La duree legale des droits d'auteur d'un livre varie d'un pays a l'autre. Nous ne sommes done pas en mesure de repertorier 
+les ouvrages dont l'utilisation est autorisee et ceux dont elle ne Test pas. Ne croyez pas que le simple fait d'afficher un livre sur Google 
+Recherche de Livres signifie que celui-ci peut etre utilise de quelque facon que ce soit dans le monde entier. La condamnation a laquelle vous 
+vous exposeriez en cas de violation des droits d'auteur peut etre severe. 
+
+A propos du service Google Recherche de Livres 
+
+En favorisant la recherche et l'acces a un nombre croissant de livres disponibles dans de nombreuses langues, dont le franoais, Google souhaite 
+contribuer a promouvoir la diversite culturelle grace a Google Recherche de Livres. En effet, le Programme Google Recherche de Livres permet 
+aux internautes de decouvrir le patrimoine litteraire mondial, tout en aidant les auteurs et les editeurs a elargir leur public. Vous pouvez effectuer 
+
+
+
+des recherches en ligne dans le texte integral de cet ouvrage a l'adresse |http : //books .qooqle . com 
+
+
+
+I 
+
+
+
+I 
+
+
+
+
+
+
+■ 
+
+
+
+I 
+
+
+
+A*.\ . I 
+
+
+
+v^v,\ 
+
+
+
+■ 
+
+
+
+w 
+
+
+
+" r * : ■ 
+
+
+
+■ 
+
+
+
+
+
+
+I . 
+
+
+
+^H 
+
+
+
+<!f : 
+
+
+
+H 
+
+
+
+■ 
+
+
+
+■IB*! 
+
+
+
+■ i 
+
+
+
+VJ 'u",M ( , 
+
+
+
+■i 
+
+
+
+I 
+
+
+
+m 
+
+
+
+WKm 
+
+■ 
+
+
+
+1MB ■ ■ 
+
+1 H 
+
+eat a ■ i^H 
+
+
+
+
+
+
+yx>:£ 
+
+■. yfl!lLiflc:v ji: 
+
+. . WW ■ 
+
+* Hil ■ 
+
+
+
+w 
+
+
+
+^^^H 
+
+
+
+Th/Ufh $.223. 
+
+
+
+
+\ t 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+Combat bt* %xtvXt. 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+SA1NT-BRIEUC, IMPRIMERIE-MTHOGRAPHIE DE L. PRUD HOMME. 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+ss>. 
+
+
+
+
+\ 
+
+
+
+n't 
+
+
+
+
+
+
+
+f**H*Wi 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+|> Combat 
+
+k 1 rmte Jkt\ms 
+
+
+
+$®M?&2 
+
+
+
+d'apres les documents origin aux DES XIV e ET xv c siecles; 
+
+SUIVI DE LA BIOGRAPHIE ET DES ARME9 DES COMBATTANTS , 
+
+
+
+Par 
+
+
+
+M. POL DE COURCY, 
+
+
+
+CORRESPONDANT DU MINISTERE *I>E L INSTRUCTION PUBLIQUE POUR LES 
+TRAVAUX HISTORIQUES. 
+
+
+
+Hun in aciem ct majores vesltos 
+et postpros cogitate. 
+Tacite. 
+
+
+
+
+A SA1NT-P0L-DE-LE0N 
+
+CHE/ |/aUTRUR , RUK DES MINIMES 
+ET CHEZ LES I'lUNCIPAUX L1BRAIRES DE BRETAGNF.. 
+
+
+
+M.D.CCCLV II. 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+ft 
+
+
+
+Combat bis €venU. 
+
+
+
+Ituri in aciera , et majores vestros 
+et posteros cogitate. 
+
+Tacite. 
+
+
+
+§. It 
+
+
+
+lL est au centre de la Bretagne un petit pays 
+nomme le pays de Porhoet , apanage , au dixieme 
+siecle, des puines des comtes de Rennes. Si les sei- 
+gneurs de Porhoet ne se qualifierent pas rois comme 
+ceux d'Yvetot , et s'ils se contenterent du titre de 
+comte y ils n'en exe^aient pas moins des droits sou- 
+verains dans leur comte. Ils donnerent meme de 
+vrais rois a des contrees plus celebres ; en effet , 
+
+1 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+_ 2 — 
+Porhoet passa , au treizieme siecle , de la maison de 
+Fougeres dans celle de Lusignan , dont plusieurs 
+membres occuperent , comme l'on sait , les trdnes 
+d'Armenie, de Chypre et de Jerusalem. Au qua- 
+torzieme siecle , Philippe-le-Bel confisqua le comte 
+de Porhoet sur Guy de Lusignan , comte de la Mar- 
+che et d'Angouleme , et , en \ 370, Pierre de Valois, 
+comte d'Alen9on , le vendit au connetable de Clis- 
+son , dont la fille l'apporta en mariage aux Rohan , 
+qui en jouissent encore en partie. 
+
+D faut reconnaitre au moins que si le coin de 
+terre qui nous occupe ne fut pas tres-celebre par 
+lui-m£me , il le fut par ses possesseurs, qui tiennent 
+plus de place dans Fhistoire que le pays de Porhoet 
+sur la carte de France. 
+
+Je venais de visiter Josselin , capitale de Porhoet 
+et Pun des chateaux du fameux connetable , et je me 
+rendais a Ploermel pour y dessiner les tombeaux de 
+deux de nos dues , lorsque la silhouette d'un de ces 
+nombreux menhirs qui couvrent les landes du Mor- 
+bihan m'apparut sur le bord de la route. Je crus 
+d'abord reconnaitre dans cette pierre un de ces 
+blocs granitiques elev^s par les Celtes pour cele- 
+brer une gloire ou un nom a nous inconnus ; et , en 
+effet , e'etait bien a la fois et un memorial dlionneur 
+et un monument funebre que j'avais devant moi ; 
+seulement , les Wros dont il recouvre la depouille 
+ne sont point oublies ; les siecles ont bien passe sur 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 3 — 
+
+eux , mais , plus heureux que les heros d'Ossian , 
+il ne s'ecrieront point en vain : 
+
+pierres , de concert avec les chants des bardes , 
+Pr6serverez-vous mon nom de Toubli ? (1). 
+
+Je ne tardai pas , en approchant , a lire sur l'une 
+des faces de Fob&isque Finscription suivante : 
+
+<c Vive le roi longtemps , 
+
+» Les Bourbons toujours ! 
+» Ici , le 27 mars 1351, trente Bretons combattirent pour la defense 
+» du pauvre, du laboureur, de Tartisan, et vainquirent des strangers 
+» que de funestes divisions avaient amends sur le sol de la pat he. » 
+
+Je saluai le monument destind a transmettre aux 
+ages futurs les noms et la m^moire de ces trente 
+preux, et parcourant avec emotion la terre jadis 
+rougie de leur sang (2) , je me promis de raconter 
+quelque jour le combat des Trente , Fun des plus 
+brillants exploits chevaleresques de notre histoire, 
+dont la renommee remplit bientdt FEurope , dont le 
+grandiose rappelle les combats de Flliade , dont les 
+couleurs poetiques frappent encore Fimagination et 
+oil la victoire fut disputee avec un tel acharnement 
+que Froissart , pour decrire un combat opiniatre , 
+ne manque pas d'ajouter : On s*y battit comme an 
+combat des Trente. 
+
+
+
+(1) Oman , poeme de Temora. 
+
+(2) De sueur et de sang , la terre rosoya (rougit). 
+
+(Poeme du Combat des Trente.) 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+J. II. 
+
+
+
+Seigneurs, or faites paix, chevaliers et barons, 
+Bannerets, bacheliers et trestous nobles horns, 
+Evesques et abb^s, gens de religion, 
+H6raulx et m6nestrels et tous bons compagnons , 
+Gentilshoms et bourgeois de toutes nacions , 
+Escoutez cet roman que dire nous voulons. 
+LTiistoire en est vraie , et les ditz en sont bons 
+Comment trente Engloiz hardix comme lions 
+
+Combattirent un jour contre trente Bretons 
+
+Sy prie & celuy Dieu qui sa chair laissa vendre 
+Qu'il ayt mercy des ames , car le plus sont en cendre 
+(Poeme de la Bataille des Trente.) 
+
+
+
+La guerre civile qui s'etait elevee en Bretagne , 
+en 1341 , a la mort du due Jean III, entre les deux 
+competiteurs au duche , Charles de Blois , appuye 
+par les Fran^ais , et Jean de Montfort , soutenu par 
+les Anglais , n'avait rien perdu de sa force dix ans 
+apres , e'est-a-dire en 1 351 . La mort de l'un des pre- 
+tendants avait depuis longtemps oblige la comtesse 
+de Montfort y sa veuve , a se charger seule des soins 
+de la guerre ; la captivite de Charles de Blois , 
+qu'Edouard III retenait en Angleterre, mit dans la 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+-5- 
+meme necessite Jeanne la Boiteuse , comtesse de 
+Penthievre, sa femme. Ces deux princesses soutin- 
+rent leurs pretentions respectives avec le meme cou- 
+rage. Cependant, les rois de France et d'Angleterre 
+etant convenus d'une treve en \ 348 , il ne se livrait 
+pas depuis lors de batailles rangees , mais chaque 
+jour etait temoin de quelque engagement particu- 
+lier. Seulement, il avait ete stipule entre les deux 
+partis que les gens qui ne portaient point les amies, 
+c'est-a-dire les marchands et les cultivateurs inof- 
+fensifs , seraient respectes de tous. Au mepris de 
+cette convention , Richard Bembro , capitaine an- 
+glais , qui tenait la place de Ploermel pour la veuve 
+et le fils de Jean de Montfort , se mit a ravager le 
+pays , qu'il remplit de deuil et de misere. Non con- 
+tent de piller les metairies , il en enlevait les habi- 
+tants, que ses soudards chassaient enchaines devant 
+eux dans les prisons de Ploermel , d'ou ils ne sor- 
+taient qu'apres avoir ete ran9onnes sans pitie. 
+
+Indigne de ces exces , Jean de Beaumanoir , capi- 
+taine du chateau de Josselin pour la comtesse de 
+Penthievre , se rendit a Ploermel , et s'adressant a 
+Bembro en presence de ses homines d'armes : « Che- 
+valier d'Angleterre, dit-il, tu te rends bien coupable 
+de tourmenter les pauvres habitants , ceux qui se- 
+ment le ble et qui nous procurent en abondance le 
+pain , le vin et les bestiaux. S'il n'y avait pas de 
+laboureurs , ce serait aux nobles a defricher et a 
+cultiver la terre en leur place , a battre le ble et a 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 6 — 
+^ndurer la pauvrete , et ce serait grand dommage 
+pour ceux qui n'y sont point accoutumes. Le brave 
+n'attaque pas l'homme sans defense. Laisse en repos 
+le laboureur , car il a trop souffert , et remets au 
+sort des combats une vengeance plus digne de ton 
+courage. Que tes plus vaillants chevaliers acceptent 
+comme toi le d^fi que je vous porte au nom de mes 
+compagnons. Je serai a leur tgte ; mais pour epar- 
+gner le sang de nos guerriers, vidons notre querelle 
+dans un combat de trente contre trente, c'est assez 
+pour couvrir d'une gloire imperissable la banniere 
+qui triomphera. » (1). 
+
+
+
+(1) Void comment le poeme contemporain rapporte la provocation de Beaumanoir : 
+Messire Jehan le sage , le preux et le se*ne* (sense), 
+Vers les Engloiz alia pour parler a seurete* 
+Sy vit poiner chtftife , dont il oust grant pitie*. 
+Ly un estoit en ceps (fers aux pieds) et ly aultre ferre* , 
+Ly aultre en gre*sillons et ly aultre enchaisne* 
+Deux a deux, trois a trois, chascun sy fat lie* 
+Comme boeufc et mules que Ton m£ne au marchie*. 
+Quand Beaumanoir les veist, du cceur a soupire* 
+Sy a dist a Bembro par moult tres grant fierte* : 
+« Chevalier d'Engleterre, vous foictes grand p&hie* 
+» De travailler les pauvres , ceulx qui sement le Me* 
+» Et la chair et le vin de quoy avons plants (en abandonee). 
+» Se laboureurs n'estoient, je vous dis mon pensee , 
+» Les nobles conviendroict travailler en l'aire*e (aux champs), 
+» Au flaiel (fleau), a la houe et souffrir pauvrete* , 
+» Et ce seroit grant poine , quant n'est accoustume*. 
+» Paix aient d'ores en avant, car trop ont endure*. 
+» Le testament Dagorne est bientost oublie*. » 
+Et Bembro sy respond par moult trts grant fierte* : 
+« Beaumanoir taisez-vous ; de ce n'est plus parte* 
+• Montfort sy sera Due de la noble Duchie* 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 7 — 
+Bembro ne reeula pas devant le cartel, et les deux 
+chefs se separerent en corivenant de choisir dans 
+chaque garnison trente hommes , qui mesureraient 
+leurs armes au ch£ne de Mi-Voie , situe dans une 
+vaste prairie, entre les villes de Josselin et de Ploer- 
+mel (1), En apprenant V emprise projetee , tous les 
+chevaliers ou ecuyers de Josselin briguerent l'hon- 
+neur de faire partie des trente champions de Beau- 
+manoir, qui n'eut ainsi que l'embarras du choix. 
+Les historiens , en nous transmettant les noms de 
+ces preux , varient a Pegard de trois ou quatre seu- 
+lement ; mais nous croyons avoir trouve , dans le 
+vieux poeme deja cite , les veritables noms de tous , 
+et nous constaterons que le combat des Trente 
+eftt ete mieux appele des Trente et un , puisque 
+les deux chefs , independamment de leur personne , 
+qu'ils n'epargnerent pas , avaient a leur suite trente 
+tenans chacun. 
+
+
+
+» De Pontorson a Nantes jusques a Sainct Mahe" (1) 
+
+» Edouart sera Roy de France couronne* , 
+
+» Engloiz auront mestrie (pouvoir) partout auront poste* (puissance) 
+
+» Maulgre* tous les Francois et ceulx de leur coste\» 
+
+Et Beaumanoir respont : « Sachiez certainement 
+
+• Que ceulx qui le plus dient , en la fin leur mesprent 
+
+» Sougiez un aultre songe, cestuy est mal songie* 
+
+» Car jamais par telle voie n'en auriez demy pied. » 
+
+(1) Dedans un moult beau pre* slant sur un civet (tertre) 
+Le long d'ung genestay qui estoit vert et bel. 
+
+(Poeme du Combat des Trente.) 
+
+(1) Stinl-Mtthieu , ft rextrtmitt ouert da Finiittre. 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 8 — 
+
+Bembro eprouva , pour former son contingent , 
+un embarras tout different. II ne put rencontrer 
+dans la garnison de Ploermel assez d' Anglais pour 
+completer le chiffre trente, et il fut oblige, pour y 
+atteindre , de prendre des routiers Flamands ou 
+Braban^ons , et meme des Bretons du parti de 
+Jeanne de Flandres, comtesse de Monfort. 
+
+Au jour fixe pour la rencontre (27 mars 1351), 
+les soixante-deux champions , portant pour armes 
+offensives : epees, dagues, haches, maillets, lances 
+et fauchards a leur choix j et pour armes defensives : 
+un bassinet sur la t£te et une cotte de maUles recou- 
+verte de lames de fer sur la poitrine , franchirent a 
+cheval la distance qui les separait du rendez-vous. 
+Les Anglais , arrives les premiers , avaient mis pied 
+a terre, et Bembro , en attendant les Bretons , dit a 
+ses gens , pour les encourager, qu'une proph&ie de 
+Merlin , qxxHl s'faaitfait lire, leur promettait pour 
+ce jour-la victoire. Pendant ce temps , Beauma- 
+noir , apres avoir assiste a une tnesse et communie 
+avec tous ses compagnons (1), apparaissait du cdte 
+de Josselin ? et sa vue ebranla tout-a-coup la con- 
+fiance d£ Brembro , qui lui proposa de rompre la 
+
+
+
+(1) Mais ly preux et ly sage feist ses deWocions 
+Et faisoit dire messes par grands oblacions : 
+Ses compagnons appelle , et chascun absolu , 
+Prinrent leur sacrement en nom du roi Je'su. 
+
+(Poeme de la Bataillt des Trente.) 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 9 — 
+partie , sous pretexte qu'ils s'y etaient engages san» 
+le consentement de leurs souvejains et qu'ils fe- 
+raient perir beaucoup de braves sans utilite. Beau- 
+manoir repondit que « c'estoit trop tard pense , el 
+» que puisqu'il avoit pris la poine de venir , il np 
+» s'en retourneroit sans mener les mains et s9avoir 
+» qui avoit plus belle amie.v (1). 
+
+Aussitot, les juges du camp firent sortir de la lice 
+tous les gentilshommes des environs , venus , sous 
+sauf-conduit , pour 6tre temoins du combat ; les ad- 
+versaires se rangerent a chaque bout , sur utie seule 
+ligne de fjymt ? et au signal des heraults « tantdt se 
+» coururent si!is et se combattirent forment tout 
+» en un tas et rescouroient bellement Pun l'autre 
+» quand ils veoient leurs compagnons a meschef . . . 
+» et se donnoient merveilleusement grands horions , 
+)) et les aucuns se prenoient aux bras a la lutte et se 
+» frappoient sans eux epargner. Vous pouvez bien 
+» croire # ( ajoute Froissart ) qu'ils firent entre eux 
+» mainte belle appertise d'armes, gens pour gens, 
+» corps a corps et mains a mains. » 
+
+Le premier choc fut funeste aux Bretons; en effet, 
+Even Charuel est fait prisonnier ; Geoffro^ Mellon 
+et Geoffroy Poulard sont frappes a mort ; Tristan 
+de Pestivien re$oit un violent coup de maillet , ainsi 
+que Caro de Bodegat, et Jean Rausselot est grieve- 
+ment blesse. 
+
+(1) Bertrand d'Argentr^, Histoire de Bretagne. 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 10 ~~ 
+
+Beaumanoir, ou est-tu? s'ecrie le vaillant Tristan, 
+voila les Anglais qui m'entrainent blesse et meurtri ! 
+Je n'ai jamais connu la crainte quand je me suis 
+trouve avec toi , mais si le vrai Dieu ne me secourt 
+par sa puissance , vous m'aurez perdu pour jamais. 
+Beaumanoir jure par Jesus -Christ qu'auparavant 
+mainte lance sera rompue , niaint ecu traverse , et 
+plus d'un Anglais aura mordu la poussiere ; en 
+m^me temps, il leve son bran d'acier, et chacun 
+de ceux qu'il atteint est mort ou renverse (1). La ba- 
+taille continue avec un acharnement sans exemple , 
+jusqult ce qu'enfin les combattants , epuises de fati- 
+gue, conviennent d'une suspension d'armes pour se 
+desalterer et reprendre haleine. «Tels y eut qui bu- 
+» rent du vin qu'on leur apporta et restreignirent 
+» leurs arraures qui deroustees estoient, etfourbi- 
+» rent leurs plaies. » (Froissart). # 
+
+
+
+(1) « Beaumanoir ou es-tu? 
+
+» Les Engloiz s'y m'eramcncnt bl&hie* et de'rompu. 
+» Je n'eus onques paour le jour que je t'ay veu ; 
+» Se le vray Dieu n'en pense par sa saincte vertu , 
+» Engloiz sy m'emmeneront et vous m'aurez perdu. 
+» Beaumanoir jure Dieu qui en croix fut pendu, 
+» Avant y aura-t-il maint rude coup Urn, 
+» Et rompu mainte lance et perce* maint escu; 
+» A ces paroles tient le biau bran esmoulu, 
+» Gil qu'il attaint a coup est mort ou abattu. » 
+
+(Poeme du Combat det Trente.) 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 14 — 
+
+
+
+§. HI. 
+
+
+
+Pendant cette courte treve oh les spectateurs se 
+rapprochent, ou les ennemis se confondent et tour- 
+a-tour se felicitent , se raillent , s'encouragent , se 
+menacent et se versent gaiement dans des hanaps 
+le vin d'Anjou, qui les ranime, et leur donne des 
+forces nouvelles pour se porter ensuite de plus rudes 
+coups , Geoffiroy de La Roche , Fun des ecuyers de 
+Beaumanoir, lui demande la chevalerie, et Beauma- 
+noir lui donne sur-le-champ l'accolade , afin que le 
+titre de chevalier , confere dans une circonstance 
+aussi solennelle , anime son ardeur et celle de ses 
+freres d'armes reduits a vingt-cinq. 
+
+Le nouveau chevalier se relevant aussitdt appelle 
+ses compagnons et provoque les Anglais. On se re- 
+met en ligne et le combat recommence plus terrible 
+que jamais. Bembro recherche Beaumanoir pour se 
+mesurer corps a corps avec lui , et le somme de se 
+rendre , en le raillant de la sorte : 
+
+Rends toy tost Beaumanoir, je ne t'occirai mie , 
+Ains je feray de toy un present & ma mie, 
+Car je luy ay promis, ne luy mentiray mie, 
+Qu'aujourd'huy te mettray en sa chambre jolie. 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+• - 12 — 
+Mais , au meme instant , Alain de Keranrais lui 
+porte droit au visage un coup de lance , et saisit sa 
+dague pour Fachever. Bembro se releve et s'avance 
+sur Keranrais , lorsque Geffroy du Bois , qui a re- 
+connu Bembro , le frappe a son tour , et le renverse 
+mort a ses pieds. 
+
+La vue de leiir chef prive de vie jette Pepouvante 
+par mi les Anglais ; mais un aventurier allemand , 
+Croquart, prend sur-le-champ le commandement et 
+harangue sa troupe en ces termes : cc Ecoutez , com- 
+» pagnons , ne vous attendez pas aux propheties de 
+» Merlin , car a grand-poine le peut-on croire pour 
+» cette fois ; le remede est de se serrer etroitement 
+» et tenir ferme, et que quiconque vous approchera 
+» tombe mort ou blesse ! » (D'Argentre). 
+
+La mort de Bembro rendait libre , d'apres les 
+usages d'alors, les trois prisonniers qu'il avait faits. 
+Even Charuel , Tristan de Pestivien et Caro de Bo- 
+degat , quoique blesses , reprennent done leur rang 
+parmi leurs compagnons. La m^l^e devient de plus 
+en plus epaisse : deux autres Anglais , un Allemand 
+et un Breton nomme d'Ardaine , qui combattait de 
+leur cdte , sont tues ; mais Beaumanoir est a son 
+tour blesse. La perte de son sang, le jeftne, car le 
+baron breton a jeftne , rend sa soif ardente. Geffroy 
+du Bois lui crie ces mots sublimes : 
+
+Bois ton sang, Beaumanoir, la soif te passera ! 
+
+Beaumanoir oublie sa soif et se jette de nouveau 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 13 — 
+
+dans la mSlee.Du c6te des Anglais, Hue de Caverley 
+et Thomelin Henefort combattent avec rage ; tous 
+se tiennent serres et resistent comme un faisceau au 
+choc des Bretons. Alors, Guillaume de Montauban, 
+Tun d'eux , s'avisa d'un stratageme qui eut un plein 
+succes. Se tirant a l'ecart, il chausse vite ses epe- 
+rons , monte a cheval, et feint de fuir. Beaumanoir 
+l'invective sur sa lachete qu'on reprochera a lui et 
+a sa race ; mais Montauban reprend : 
+
+Besoignez , Beaumanoir, car bien besoigneray. 
+
+II prend en m£me temps du champ, fait volte-face 
+et se precipite sur les Anglais avec une telle force , 
+qu'il les rompt et en r en verse sept par terre. Une 
+fois entames, leur defaite est bientdt achevee, et 
+chaque chevalier ou ecuyer breton fait son prison- 
+nier. Robert Knolles et Hue de Caverley, qui firent 
+depuisde belles armes ailleurs; Thomelin Henefort, 
+Croquart, Jean Flaisanton, Raoul et Helcoq, son 
+frere ; Repefort et Richard de La Lande , sont con- 
+duits , les uns au chateau de Josselin , les autres re- 
+laches sur parole. 
+
+Ainsi finit la bataille des Trente , qui eut lieu 
+dans le comte de Porhoet , le samedi avant Lcetare 
+Jerusalem (\ ). Le trouvere contemporain dont nous 
+
+
+
+(1) C'est-4-dire la veille du quatrteme dimanche de Cartme, ou YInttoit de la metst 
+tommeoce par ces mots. 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 14 — 
+avons suivi le poeme , ne manque pas de reclamer 
+des prieres pour tous les combattants , soit Anglais, 
+soit Bretons, qui ont trouve la mort dans cette jour- 
+nee ; puis il annonce en terminant qu'on en connai- 
+tra tous les details , soit par recit , soit par ecrit , 
+soit par representation en tapisserie, dans tons les 
+royaumes que borne la mer. Maint gentil chevalier 
+s'en voudra recreer, et aussi mainte noble dame 
+renommee par sa beaute , comme ils 1'ont fait des 
+gestes d' Arthur et de Charlemagne , de Guillaume 
+au court nez , de Holland et d'Olivier, et dans trois 
+cents ans on racontera encore I'histoire de la ba- 
+taille des Trente. 
+
+
+
+§. IV. 
+
+
+
+Les previsions du poete se sont trouvees depas- 
+sees. Plus de cinq siecles nous separent de ce fait 
+memorable , qui n'eut , il est vrai , aueun resultat 
+politique et ne fut , en definitive, qu'un duel comme 
+il s'en livrait frequemment au Moy en-Age (I); ce- 
+
+
+
+(1) Une rencontre du mdme genre eut lieu a Rome , en 1377 , enlre dix Bretons des 
+grandes compagnies que Sylvestre Budes , gonfalonier de TEglise romaine , avait conduites 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 15 — 
+pendant , le souvenir de ce duel patriotique n'a rien 
+perdu de sa force , et Ton montre encore , non loin 
+de l'arene , une piece de terre appelee le Champ 
+aux Anglais , ou la tradition rapporte que furent 
+enterres les morts du parti de Bembro. Le chSne de 
+Mi-Voie > tombe de vetuste au commencement du 
+dix-septieme siecle, fut remplace par une croix nom- 
+inee Croix de la Bataille des Trente, et celle-<ci , 
+tombee a son tour, fut relevee aux frais des Etats de 
+Bretagne en 1776. Cette derniere croix eut encore 
+moins de duree , et la Revolution , qui for^ait les 
+descendants des trente preux k aller demander un 
+asile a leurs anciens ennemis y ne pouvait laisser 
+debout un monument erige a la gloire de ces nobles 
+proscrits. Get acte de vandalisme sauvage a ete re- 
+pare en 1819 (1), et Pobelisque dont nous avons 
+parle en commen?ant fait revivre la memoire d'un 
+fait vraiment epique. 
+
+Froissart et un trouvere inconnu ont celebrd les 
+
+
+
+au secours de Gr^goire XI , et un pareil nombrc d'Allemands. De ces derniers, cinq furent 
+tue*s et les cinq autrcs grtevement blesses. Les noms des vainqueurs nous ont e*te* conserve's 
+par un trouvere de Quiraper, Guillaume de PeVenno , chevalier, dans un poeme qu'il com. 
+posa a Avignon , en 1 390 , sur les Gestes des Bretons en Italie : Yvon de Tre*migon , Hamon 
+de Treflily, Bourdat, Cavaleric, le sire de Lochrist, Le Carias , Jacques Le Noir, le sire de 
+Talvern , Cbiquet , Bene' de Kerouartz. 
+
+(1) Cet obelisquc fut dresse' grace aux soins du ge'ne'ral corate Coutard , du comte de 
+Gnazelles , preset du dtfparteraent , au vote du conseil ge'ne'ral , et aux dons volontaires du 
+clerge" , de Tannee et des populations. La premiere pierre de la pyramide comme'morative 
+fut benie par Mgr de Beausset , e'vlque de Vannes , nomme' a l'archevSche* d'Aix le 11 Juillet 
+1819. Cette ceremonie a laissd en Bretagne un long souvenir. 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 16 — 
+
+premiers le triomphe des chevaliers bretons. Cette 
+derniere oeuvre , traduite en prose en 1 470 , par un 
+chroniqueur nomm^ Jean de Saint-Paul (1 ) , a ete la 
+source ou Pierre Le Baud (2) d'abord, et d'Argentre 
+ensuite , copies par les historiens modernes , ont 
+puise pour donner la relation de cette journee. Ce- 
+pendant , il s'est trouve , au siecle dernier, des ecri- 
+yains de l'ecole de Voltaire , dont les raisonnements, 
+aussi sees que leur ame, se sont efforces de ternir la 
+splendeur dont notre vieille France a brille , et ils 
+n'ont pas manque de revoquer en doute l'authenti- 
+cite de ce glorieux Episode, sous pretexte que les 
+historiens anglais n'en font pas mention , et que les 
+historiens bretons ne l'ont connu que par le manus- 
+crit de 1 470 , compose plus de cent ans apres l'eve- 
+nement. 
+
+Le silence des historiens anglais sur un fait parti- 
+culier des guerres du quatorzieme siecle , ou leurs 
+compatriotes furent humilies , s'explique par l'or- 
+gueil national et la partialite bien connue des An- 
+glais , et n'infirme done en rien la verite de ce fait. 
+
+II faut d'ailleurs que les sceptiques du dix-hui- 
+
+
+
+(1) Ce raanuscrit est conserve* a la Bibliotheque de 1'Arsenal , sous le n<> 263 , Histoire. 
+Nous en publions un extrait ineMit. 
+
+(2) Le premier travail de Pierre Le Baud est un manuscrit sur velin, compose* en 1480 
+et conserve* a la Bibliotheque Impe*riale. Parnii les miniatures dont il est enrichi , on en 
+remarque une , repre*sentant le combat des Trente , reproduite en gravure dans Y Histoire de 
+Bretagne de dom Morice. Nous la donnons plus exactement avec ses enluminures. 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— \7 — 
+
+tieme siecle n'aient consulte ni Froissart ni le vieux 
+poeme que Ton voyait alors , comme aujourd'hui , a 
+la Bibliotheque Imperiale, Les paleographes retrou- 
+vent dans ce poeme tous les caracteres du quator- 
+zieme siecle (1 ) et Phistorien d'Argentre en avait eu 
+connaissance (2), 
+
+Dans leur besoin de denigrement des temps qu'ils 
+appellent barbares , ils ont aussi voulu faire peser 
+sur Montauban un reproehe de deloyaute pour s'etre 
+servi d'un cheval ? alors que les autres combattants 
+etaient a pied. Nous croyons^ce dernier reproehe plus 
+specieux que solide; car puisque les Anglais ne crie- 
+rent point a la trahison , nous sommes en droit de 
+conclure que , de m6me qu'il fut permis a chaque 
+combattant de choisir ses armes , il fut aussi loisible 
+de se battre a pied ou a cheval , et qu'ainsi Montau- 
+ban ne fit qu'user d'un droit commun a tous. 
+
+Aux auteurs deja cites qui mentionnent le combat 
+des Trente comme un evenement contemporain (3), 
+
+
+
+(1) II est indique* dans la Bibliotheque Historique du P. Le Long sous le u° 35,413 , 
+et conserve* a la Bibliotheque Impenale sous le n° R. 7,595. 2. Une grande analogie de stylo 
+l'a fait attribuer a Jeao Cuvelier, auteur du roman de Du Guesclin, contenant 22,790 vers 
+et imprime* en 1839 , chez Firmin Didot. Le Poeme du Combat des Trente a e*te* public 
+en 1835, par Grapelet, avec un fac-simile de la premiere page. 
+
+(2) J'ai veu un trte ancien livre trartant de ce combat, faict en mauvaise rithme, des le 
+mfime temps, comme il est a croire. (Hist, de Bretagne, eU de 1588, liv. 5, chap. 29.) 
+
+(3) Et depuis je vis seoir a la table du roi Charles de France un chevalier brcton qui este* y 
+avoit , messire Even Charuel ; mais il avoit le viaire si d^taille* et de*coupe* , qu'il montroit 
+bieri que la besoigne fut bien combattue. (Chronique de sire Jean Froissart.) 
+
+3 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 48 — 
+nous pouvons ajouter le temoignage de Christine de 
+Pisan, qui ecrivit Phistoire de Charles V en 4 403 (4 ), 
+et celui de Jean d'Orronville , qui composa la vie de 
+Louis II , due de Bourbon , en 4429 (2). Le texte de 
+ces deux historiens, qui n'a point ete cite avant nous 
+a Poccasion du combat des Trente , doit convaincre 
+les critiques les plus meticuleux et justifier ce que 
+dit Froissart de ace moult hautfait d'armes que 
+on ne doibt mie outlier , ains le doibt-on mettre 
+en avant pour tons bacheliers encourager et 
+exemplier. » 
+
+
+
+(l)Item en eel an dessus dit (1372) arriva en France Yvain de Galles.. et avec luy un 
+Sien parent et compaignon moult vaillant ecuyer, qui jadis avoit este* de la bataille des Trente , 
+du cdte* des Anglois , appele" iehan de Vuin , dit le poursuivant d'amours, avecques autres 
+Gallois, etc. (Le lAvre des Fails et bonnes Mmurs du sage roi Charles V, compose* en 
+1403, pax Christine de Pisan. Ed. de l'abbe* Le Boeuf, pubiie*e en 1743 , liv. 2 , ch. 26.) 
+
+(2) Et chevauchetent les seigneurs (le due de Bourbon et le constable) devant Dinan , 
+qui est Tentree de Bretagne Bretonnant , ou dedans estoit Maurice de Tr&iguidy, le plus 
+vaillant cheralier de Bretaigne , car il rat Tun des chefe de la bataille des Trente. (L'His- 
+toire de la vie, faits heroiques du tres valeureux prince Louis II, due de Bourbon, 
+composed en 1429 , par Jean d'Orronville , surnomme" Cabaret. Edit, de Jean Papire Masson , 
+pubbee en 1612 , chap. 15.) 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 49 — 
+
+
+
+EXTRAIT 
+
+
+
+DE LA CHRON10VE Dl JEAN DE S. PAIL (1). 
+
+
+
+£a fflataillt to fcrrntf atormu incontinent aprie la fflatailU 
+&t la Rori)e-JDfrini. 
+
+
+
+En celuy temps qui feut Tan m. m c L. (1350) le 
+Samedy avant le Dimanche que on dist en saincte 
+eglise Lcetare, feut la bataille des Trente , qui entre- 
+prinse feut par le sire de Beaumanoir et M rc Richai t 
+fiembro , englois , tenant la ville de Pioermel. 
+
+
+
+(1) Chronique de Jan S* de S. Paul, Esculer, faicte et rAligee en l'au 1473. hiss uni- 
+que ineVlit , provenant de la Bibliotheque de la Princesse de Rohan , et aujourd'hui consenre* 
+dans celle de 1* Arsenal, n° 263 , Hist. Fr. 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 20 — 
+En icelle ville estoict alle a seurete (1) le diet 
+Beaumanoir qui la ville de Jocelin tenoit , pour deb- 
+voir delivrer plusieurs poures gens laboureulz qui 
+estoient prisonniers ; et remonstroict Beaumanoir a 
+Bembro que le peuple labouroit la terre dont les 
+nobles vivoient, et vouloit appoincter que la guerre 
+feust entre les gens de guerre seullement, ce que 
+refuza Bembro , et s'en courrou9a tres fort le diet 
+Beaumanoir. Sur ce debat et differant , plusieurs 
+grosses parolles chaleureuses s'entredisent , en vou- 
+lant soutenir chacun la vaillance et ancienne renom- 
+mee de sa nation. Sur quoy, dist et offrit iceluy Beau- 
+manoir a M re Richart Bembro, s'il vouloit et aflin que 
+par ce , on peust cognoistre le droict et la vaillance 
+d'ung chacun , que cent a cent ou a tel nombre que 
+voudroict, luy donneroit la bataille ; le quel Bembro 
+accorda a Beaumanoir la bataille de chacun par xxx, 
+pourveu qu'il n'y eust ne fraude ne baratz (2). 
+
+Cette entreprinse faicte , s'en retourna Beauma- 
+noir a Jocelin et remonstra l'entreprinse dessus dicte 
+a plusieurs grands , Seigneurs , Barons et Escuiers 
+qui en la place estoient , et le grand houneur et re- 
+nommee que par ce, pouvoient acquerir a leurs per- 
+sonnes et a leurs subcesseurs et dont il sera parle 
+par tous les Reaumes et histoires apres nos mortz. 
+<( Ains , dist en oultre Beaumanoir , pour ce que 
+
+(1) Avec ud sauf-conduit. 
+
+(1) Tromperies , Vid. glo$s. de D. Morice. 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 21 — 
+ceste bataille peult venir a si grand effect , est ne- 
+cessity par meure deliberation , trier et eslire gens 
+les plus convenables pour ce hault oepvre (1) par- 
+fair e. » . 
+
+Quand les Seigneurs eurent oui Beaumanoir, ils 
+furent tous tres joieulx de son entreprinse, en de- 
+sirant ung chacun avoir Fhonneur d'estre ung de 
+ceulx chaies en la choaisye (2). 
+
+Lors Beaumanoir de leur gre et consentement fist 
+la choaisye , et print premier : Tinteniac , Guy de 
+Rochefort et Charuel ; Guillaume de La Marche , 
+Robin Raguenel et Huon de S. Yvon ; Caro de Bo~ 
+degat et Olivier Arel ; Monsieur Geffroy du Boys et 
+Monsieur Jehan Rousselot. 
+
+Apres choaisit des escuiers, et premiefr : Guillaume 
+de Montauban , Alain de Tinteniac , Tristan Pesti- 
+vien, Alain Keranrais et Olivier son oncle; Louys 
+Goueon et Le Fontenoyz ; Hugo Catus et Geffroy 
+de La Roche qui feust fait chevalier, en lui disant se 
+bien remembrer Eudes , son bon pere , qui en Cons- 
+tentinople feut a la guerre , pour honneur acquerir ; 
+et Geffroy Poulart et Maurice Tresiguidy ; Geslin 
+de Lanloup et Guyon de Pontblanc ; Geffroy de 
+Beaucors et Maurice du Pare ; Geffroy de Mellon et 
+Jehannot de Serent ; Guillaume de La Lande , Oli- 
+vier Monteville et Symon Richart. 
+
+(1) Ouvrage. 
+
+(2) IMsignfe au choix. 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 22 — 
+Messire Richart Bembro de sa part feict sa choai- 
+sye et premier print : Knolles, Caverley et Croquart ; 
+Monsieur Jehan Plesanton , Ridart et Hugo son 
+frere ; Jeannequin Taillart , Repefort et Richart de 
+LaLande; Thomelin Henefort quel combattoit d'ung 
+mail qui pesoit vingt et cinq livres ; et Hucheton 
+Glamaban quel combattoit d'ung fauchart crochu , 
+qui tailloit d'une et d'aultre part ; et Jeannequin de 
+Guenehoup , Hennequin Herouart , et Jeannequin 
+Le Mareschal quel finit a ce jour sa vie ; Thomelin 
+Hualton et Robinet Mauliepart ; Ysanay , Valentin 
+et Jehan Troussel ; Robin Ades , Andele et le nep- 
+vou Dagorne. Et quatre bretons dont les noms en- 
+suivent : Perrin de Comenan, Guillemin Le Gaillart, 
+Raoulet d'Apremont et d'Ardaine , les quels feurent 
+armez de plates (1 ) bacinetz (2) haubergeons (3) et 
+eurent haches et espees , et plusieurs, lances et fau- 
+chons (4). 
+
+Beaumanoir ses compagnons avecq luy assembla, 
+en leur remonstrant que nulle querelle ne peust 
+estre conduite si non de Dieu; et luy et eulx en- 
+semble , feirent dire plusieurs messes , se confesses 
+rent, requirent Dieu a leur ayde et le re?eurent 
+moult devotement ; les priant le diet Beaumanoir 
+
+
+
+(1) Cuirasse forraee de lames de fer. 
+
+(2) Casque Wger sans cimier ni crele. 
+
+(3) Petite cotte de mailles. 
+
+(4) Petite fculx a long raanche. 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 23 — 
+qu'ilz eussent vraie fiance en Dieu, et qu*a ce jour, 
+ils se voulsissent combattre et se monstrer a i'hon- 
+neur d'eulx et de leur lignage et a la perpetuelle 
+grande renommee de leur nation. 
+
+Puis Bembro de sa part assembla ses trente com- 
+paignons et les mena en ung pre , ou la bataille 
+avoict et^ entreprinse et ordonnee a estre livree , 
+qui est my-vaye entre Ploermel et Jocelin , jouxte et 
+pres d'ung chesne nomme le chesne de my-waye , 
+entre les deux dictes places ; et leur dist a tous , 
+avoir faict lire les livres et profeties de Merlin , 
+qui lui declaroienct qu'ilz auroient victoire sur le?» 
+Bretons. 
+
+Beaumanoir vint apres au pre ou eulx estoient 
+viz a viz en bataille , et Bembro dist a Beaumanoir : 
+a Beaux amis remuons (1) ceste bataille et soict 
+minse en adviz , et vous en allez devers le Roy de 
+France ; et sy la bataille lui plaist , nous prendrons 
+le jour qui sera mins. » 
+
+Lors Beaumanoir remonstra Fouverture de Bem- 
+bro a ses compaignons , et leur demanda leurs opi- 
+nions. Et premier respondit Charuel : a Nous som- 
+mes icy assemblez trente pour ceste bataille et est 
+affaire a mener a fin. Qu'il ait male adventure , qui 
+consentira s'en aller sans les combattre. » 
+
+Beaumanoir respondit a Bembro que Charuel et 
+
+(1) Ajournoos. 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 24 — 
+les aultres compaignons vouloient que feust donnee 
+la bataille. Lors Bembro dist a Beaumanoir : « C'est 
+grant folie , ear quand seront trespassez la fleur de 
+la Duche , onques n'en trouvera-t-on mye de sem- 
+blable. » 
+
+a Sire , dist Beaumanoir , combien que Laval , ne 
+Montfort , ne Loheac , ne Rohan, ne Quintin , ne de 
+Bretaigne la grande baronnye ne soict cy presente , 
+si ai-je noble chevallerie , et de grande vaillance , 
+leaute et ensessoance (1). » A done, dist Bembro a 
+Beaumanoir : a Puis qu'il faut bataille vous livrer, 
+en icelle ne t'occizeraye mye , mais je te lairay la 
+vye , et ainsin que je Pay promiz, feray de toy ung 
+present a ma mye.» Et Beaumanoir respond moult 
+bien a Bembro : a Je te forsclorrai. » (2). 
+
+Lors se joignirent les batailles ensemble , et a la 
+premiere emprinse , feut Charuel prins , Geffroy 
+Mellon feut mort ; Tristan feut blesse d'ung martel, 
+et Monsieur Jan Rousselot ; et eurent les bretons 
+du pire , et Caro de Bodegat d'ung coup de mail ab- 
+battu. Lors Beaumanoir, qui ses gens voit partye 
+mortz et prins , mist grand diligence en cuidant les 
+recouvrer, et en celuy endroict feut dure la bataille , 
+
+
+
+(1) Race. 
+
+(2) Je t'en emp&herai. Ce mot, compose' des deux mots latins ford* claudere, est em- 
+ploye' d&s le xn e siecle : 
+
+Nul ne leur peut aller aider 
+Trois mille heaumes les foncloent. 
+
+(Le Roman da Dues de Normandie, par Benoit , trouvere 
+aoglo-normaud ; vers 5,442.) 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 25 — 
+
+et de toutes parts se trouverent moult travaillez (1 ) 
+tellement qu'ils appoincterent de chacune part, se 
+restroire (2) sans trahison , pour eulx refraischir et 
+boire. Cependant Beaumanoir, voiant que deux de 
+ses compaignons estoient mortz *>t trois prins, con- 
+fortoit les demourantz en si belles et honorables 
+parolles, que Geffroy de La Roche lui requist che- 
+valerye , qui la luy donna et lui dist : « Geffroy, 
+remembre toi de la vaillance de ton encien prede- 
+cesseur et ce qu'il feist en Constentinople.)) 
+
+Lors rassemblerent les bat ail les et Bembro sur 
+Beaumanoir s'escrie : a Rends-toy , je te lairay la 
+vye. » Alain de Keranrais ouict icelle parolle , vint 
+a Bembro et le ferit de la poincte de sa lance au vi- 
+sage et le rua par terre , et Messire Geffroy du Bois 
+luy couppa la teste et l'occisit. Lors que les Englois 
+veirent que Bembro le chef estoict mort , Croquart 
+ung des allemans leur dist que les profecies Merlin 
+que tant il avoict aimees , ne luy avoict guerres va- 
+leu ; qu'il n'estoit que de se tenir serrez et de se def- 
+fendre a leur pouvoir. 
+
+Les Bretons qui prisonniers estoient et blessez , 
+sgavoir est : Charuel , le vaillant Tristan et Caro de 
+Bode gat, prindrent leurs armes, que peurent recou- 
+vrer , et se mistrent en la bataille qui feut moulte 
+dure. Car Croquart Palleman^ et Thomas Henefort 
+
+
+
+(1) Fatigues. 
+
+(2) Se retirer. 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 26 — 
+
+quel feut grant et fort comme un geant , qui comba- 
+toit d'un mail pesant , Hue de Caverley et Monsieur 
+Robin Knolles se entretenoient le jour entier durant. 
+La moururent ung englois et ung alleman, et d'Ar- 
+daine le derain. Dedans le champ, Beaumanoir feut 
+blesse et a boire demanda. Monsieur Geffroy du 
+Boys luy dist : « Boys ton sang, ta soiffte passera.)) 
+Beaumanoir , quand il advisa de ce dire , sa soiff lui 
+passa et se referit en la bataille ; mais les Englois se 
+tenoient sy clos et serrez , que nulz n'y pouvoient 
+en eulx faire entree. Lors Guillaume de Montauban 
+monta sur son cheval et print sa lance, et feist sem- 
+blant de s'enfouir : et Beaumanoir sur luy s'escria 
+en luy disant : « Faulx et mauvais guairiez ! com- 
+ment vous en allez ? il sera a vous et a vos hairs a 
+tousjours reprochi^.)) Lors Guillaume luy jetta un 
+riz et luy cria : a Beaumanoir , besoigne bien de ta 
+part, car je pense bien besoigner de la mienne.» 
+Lors brocha son cheval de ses esperons et donna a 
+travers la bataille des Englois, et en ma sept par 
+terre, et au retour en rua trois. Adonc s'escria Mon- 
+tauban : « Beaumanoir franc chevallier , Guillaume 
+de La Marche , Charuel et toutz mes compaignons , 
+vengiez vous des Englois a vos volontez.» Tinteniac 
+le preux estoict le premier, et le doibt-on remem- 
+brer sur toutz les autres. A ce coup feurent les En- 
+glois desconfitz, et qui voulsit en print, choaisit et 
+amena au chastel Jocelin. 
+
+Cy finist la Bataille des Trente- 
+
+
+
+Digiti 
+
+
+
+zed by G00gle 
+
+
+
+— 27 — 
+
+
+
+BIOGRAPfflE 
+
+
+
+DE BEAUMANOIR ET DE SES TRENTE COMPAGNONS. 
+
+
+
+Cljnmlurs. 
+
+
+
+1° BEAUMANOIR : (Tazur a onze billettes d'argent 4.3.4. 
+(Sceau de 1298). 
+
+
+
+Jean de Beaumanoir, chevalier, seig r du dit lieu, Par. d'Evran, de 
+Merdrignac, de La Hardouinaye, Par. de S.-Launeuc et de Montcon- 
+tour, cap e de Josselin et marshal de Bretagne pour Charles de Blois, 
+6tait fils d'autre Jean de Beaumanoir et de Marie de Dinan-Mouta- 
+filant. 
+
+Chef des combattants k la bataille des Trente, oil il fut blesse et 
+ou il remporta la victoire, en 1351 ; il se trouva & la bataille de Mau- 
+ron en 1352, fut Tun des ambassadeurs envois la m£me ann£e en 
+Angleterre pour traiter de la ran^on de Charles de Blois , et 6tait 
+gouverneur de Bretagne, lorsque le due de Lancastre lui remit par 
+convention les clefs de la ville de Rennes, Tan 1357. 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 28 — 
+
+L'undes otages du traite dTSvran en 1363, etprisonnier & la bataille 
+d'Auray, ou Charles de Blois fut me, en 1364, il representa Jeanne 
+de Penthtevre, veuve de ce prince, au traite de Guerande en 1365. 
+
+II eut de Thiphaine de Chemille , sa premiere femrae , originaire 
+d'Anjou, deux fils, morts sans posterity, en qui finit la branche ainee 
+de sa raaison, dont les possessions furent portees dans la raaison de 
+Dinan par le manage de Jeanne de Beaumanoir, soeur consanguine 
+des precedents, et fille de Marguerite de Rohan, avec Charles de 
+Dinan, seig r de Montafilant et de Chateaubriant. De la maison de 
+Dinan, la seig ie de Beaumanoir a passe par alliance ft celle de Laval, 
+& laquelle elle appartenait encore en 1513, et elle a ete poss^dee suc- 
+cessivement depuis, par les families Peschart , Le Meneust et de 
+Langle-Kermorvan . 
+
+La branche de Beaumanoir-Lavardin au Maine , qui a produit un 
+marshal de France, mort en 1614, s'est eteinte en la personne d'Em- 
+manuel-Henry , M u de Lavardin, tue en 1703, & la bataille de Spire. 
+Trois de ses soeurs etaient marines dans les maisons de La Chastre, 
+d' Albert de Luynes et de Beringhen. Celte branche sortait de celle 
+des seig" du Besso , Par. de S.-Andre-des-Eaux , Ev. de Dol, eteinte 
+en 1636 , en la personne d'Helene de Beaumanoir , vicomtesse du 
+Besso, morte sans enfants de ses deux manages 1° avec le baron de La 
+Hunaudaye, 2° avec le marechal de Brissac, et ces deux branches 
+avaient pour auteur commun Robert de Beaumanoir, seig r du Besso, 
+fr£re juveigneur dulieros des 30. (P. Anselme. T. VII. P. 380, 381, 
+387.) 
+
+
+
+2° TINTENIAC : (Targent a i jumelles (Tazur. 
+
+
+
+Jean de TintEniac, chev?, seig r du dit lieu, de Becherel et de Ro- 
+mille en Normandie, tils d'Olivier et d'Etaisse de Chateaubriant, suivit 
+le partit de Charles de Blois et «fut estime le meilleur combattant k la 
+bataille des 30 , et qui mieux merita le nom de preux et de vaillant 
+en cette melee. » (Du Paz, P. 578.) Mais , Tann^e suivante (1352), il 
+fut tue a la bataille de Mauron, que gagnfcrent Tanguy du Chastel, 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 29 — 
+
+Gamier de Cadoudal et Yves de Tr^ziguidy, vaillants capitaines 
+partisants de la comtesse de Montfort. II avait Spouse Jeanne de Dol, 
+dame de Combourg, dont il n'eut qu'une fille, Isabeau, dame de Tin- 
+teniac, marine k Jean de Laval, seig r de Chatillon en Vendelais, pfcre 
+*et m6re de Jeanne de Laval, epouse 1° du connetable du Guesclin , 
+mort sans posterity, 2° de Guy, sire de Laval et de Vitr6, son cousin. 
+
+Anne, fille et unique h^riti&re des precedents, fut marine, en 1404, 
+k Jean de Montfort, seig r du dit lieu et de Kergorlay, P. de Motreff , 
+qui prit les nom et armes de Laval ; et les terres de Tinteniac et de 
+B^cherel furent pprttes, en 1547, dans la maison de Coligny, par le 
+manage de Charlotte de Laval avec Gaspard de Coligny , amiral de 
+France, tu6 b la S.-Barth(Hemy, en 1572. {Aug. du Paz. P. 578, 581.) 
+
+Ces terres furent acquises, au xvn° sifcele, par la famille de Lopriac, 
+qui les transmit, par alliance, en 1743, aux Kerc'hoent , marquis de 
+Montoir. 
+
+Jean de Tinteniac avait deux fr&res juveigneurs : 1° Alain, aussi 
+combattant & labataille des 30, dontTarticle suivra; 2° Olivier, auteur 
+des seig r8 de QuimercTi, qui existent encore aujourd'hui. Nous parle- 
+rons de ceux-ci & Tarlicle d'Alain. 
+
+
+
+3° ROCHEFORT : vaire (Tor et d'azur (Sc. 11176). 
+
+
+
+Guy de Rochefort, chev r , seig r du Henleix, P. d'Escoublac, ne 
+doit pas Streconfondu avec autre Guy de Rochefort, seig r d'Asserac, 
+son neveu & la mode de Bretagne. Celui qui fait Tobjet de cet article, 
+etait fils de Bonabes et de Marie d'Ancenis ; le dit Bonabes fils puln£ 
+de Thibaut, sire de Rochefort et vicomte de Donges et d'Anne de 
+Neufville. On retrouve le s r du Henleix en Equipage d'homme d'ar- 
+mes, ainsi que deux de ses 30 compagnons, Caro de Bodegat et 
+Hugues Catus, dans une montre recue & Dinan par Thibaut de Ro- 
+chefort, son cousin germain, quelques mois plus tard, c'est-&-dire au 
+mois de Juillet 1351. L'an 1354, il reprend le chateau de Nantes sur 
+les Anglais (Pierre Le Baud, p. 312 ; D'Argentrt, p. 303) ; re^oit une 
+montre & Vitre en 1356, et £chappe ensuite h Thistoire. 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 50 — 
+
+On saitseulement qinl laissa un fils : Guillauinc, epouxde Jeanne 
+de Bruc, dont la fille unique , Guyonne , employee dans la Refor- 
+mation de 1453, Par. d'Escoublac, epousa Jean de Rohan, $eig r du 
+Gue-de-Llsle. (Le Labour eur , g&nial. des Budes, p. 47.) Enfin , Cy- 
+prienne de Rohan, petite fdle des pr6c6dents, morte en 1554, porta 
+par mariage la terre du Henleix dans la maison de La Feill6e, dont 
+la branche ain6e s'est £teinte dans les Rieux. 
+
+Quant k la branche ain6e des Rochefort, elle s'est fondue beaucoup 
+plus t6t dans la m6me maison de Rieux , par le mariage, en 1374, de 
+Jeanne, dame de Rochefort avec Jean sire de Rieux, marechal de 
+France ; et leur dernier descendant a p6ri k Quiberon. 
+
+
+
+4° CHARUEL : de gueules a la fasce cPargent (Sc. i338). 
+
+
+
+Even Charuel , chev r , seig r du Guerand et de Kergoallon , P. de 
+Plouegat, du M6nez, P. du Guerlesquin , de Kerahel, P. de Botsor- 
+hel, de Lesenor, P. de Ploulec'h, Ev. de Tr^guier, paralt avoir £te 
+fils de Henry, Tun des chevaliers de la baillie de Tr£guier , qui devait 
+le service k Tostdu Due en 1294. On retrouve le m6me Henry, temoin 
+en 1320, du contrat de mariage d'Alain de Rohan avec Jeanne de 
+Rostrenen. Even scella, en 1338, Tacte de partage donn6 par Herve 
+de Leon k Amice sa soeur (D. Morice, T. I.,pr. col. 1394); contribua, 
+en 1342, k la defense de Rennes; fut bless£ et fait prisonnier k la 
+bataille des 30 (1), et envoys, Fannie suivante , en Angleterre, pour 
+traiter de la rangon de Charles de Blois. Choisi, en 1357, pour n£go- 
+cier la prolongation de la trfcve conclue k Bordeaux, il se distingua 
+en Normandie a la bataille de Cocherel, gagnee, en 1364, par du 
+Guesclin, sur les armies d'Angleterre et de Navarre , commandees 
+
+
+
+(1) Et depuis (dil Ftoissart) jc vis seoir a la table du Roi Charles de France, un cheva- 
+lier breton qui este* y avoit , messire Even Charuel ; mais il avoit le viaire si de'taille' et 
+de'eoupe' , qu'il montroit bien que la besoigne fut bien combattue. 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 31 - 
+
+par Archambault de Grailly, captal de Buch en Gascogne, et releva 
+au plus fort de la ni616e , la bannifcre de du Guesclin , plusieurs fois 
+abattue. (D'Argentrt, Liv. 5. Chap. 44.) II est encore cite , en 1369, 
+en quality de commissaire, pour recevoir & Vitr6 des montres de gens 
+d'arnies, et son nom disparait ensuite de Thistoire. Onretrouve seu- 
+lement un Guillaume Charuel, 6cuyer, en 1415, et un Alain Charuel, 
+en 1420, parmi les hommes d'armes du sire de Rieux. L'un de ceux- 
+ci pourrait 6tre p&re ou frfcre de Marguerite Charuel, fenime de Jean 
+sire de Penhoet, vicomte de Fronsac et amiral de Bretagne en 1404. 
+Beatrix de Penhoet, fille des precedents, porta par mariage les 
+seigneuries des Charuel dans la maison deBois^on, qui les a trans- 
+mises aussi par mariage aux du Parc-Locmaria, d'oti elles ont passe, 
+aux Queraper de Lanascol. 
+
+
+
+5° LA MARCHE : ecartele aux l et 4 : une croix alesee, aux 
+2 et 3 : une croix pattee. (Sceau de i352). 
+
+
+
+Guillaume de la Marche, seig r duditlieu, P. de Bed£e et de la 
+Boessifcre, Par. deCarentoir, pourrait avoir &1& fils d'autre Guillaume 
+de la Marche qui donne, en 1306, aux executeurs testamentaires du 
+Due Jean II, quittance sceltee de ses armes: d'azurau dextroehfcre 
+vgtu d'un fanon d 'argent, tenant une fleur de lys de m£me(D. Morice, 
+T. /., Preuves, Sceaux n° 210.) Du moins , la difference d'armes 
+n'empScherait pas de supposer que Guillaume l* r ait ete pere de 
+Guillaume II, Tun des chevaliers du combat des 30, car les change- 
+ments d'armes etaient frequents au xiv c si&cle. Quant aux armes que 
+nous attribuons k celui-ci , nous les prenons sur deux quittances scel- 
+lees de son sceau et donnees ix Malestroit, tant pour lui que pour Jean 
+sire de Kergorlay, en Tabsence du sceau de ce dernier, present M. 
+Even Charuel, du pavement de leurs gages et de ceux des bacheliers, 
+ecuycrs et archers de leur compagnie. (D. Morice, T. /., Preuv. col. 
+1482 , 1483.) Ces quittances Sont datces du 11 Aotit 1352. 
+
+Guillaume de la Marche futtue trois jours apres, avec le sire de 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 32 — 
+
+Tinteniac, au combat de Mauron, livre le 14 Aotit, ainsi que le rap- 
+pelle le poeme de Guillaume de S. -Andre : 
+
+De Tinteniac le droict seignour 
+Avec la Marche mourut eel jour; 
+Adonc vint le dit en appert : 
+Qui trop convoite , le tout perd. 
+
+Le P. Aug. du Paz nous apprend (Ge'n. des Seig. de La Chesnaye , 
+P. 486) que Guillaume de la Marche avait une sotur, Olive, & la- 
+quelle il promit, mariage faisant, 50 livresde rente, et qui futmariee, 
+vers 1336, & Jean Le Bouteiller, s r de la Chesnaye; et un fils Jean, 
+seig r dela Marche et de la Boessifcre, qui par acte passe Tan 1372, par 
+la cour de Ploermel, bailie et fait assiette k Guillaume Le Bouteiller, 
+son cousin, de 27 livres de rente, du reste des 50, promises pour le 
+mariage de sa tante Olive de la Marche , mere du dit Guillaume Le 
+Bouteiller. Jean de la Marche , employe avec laqualite de chevalier 
+dans les montres d'Olivier-de Glisson de 1375 & 1388, ratifia le 
+traits de Guerande en 1380, et mourut sans posterity. 
+
+Sa succession fut recueillie par Jeanne de la Marche , sasoeur, 
+mariee ix Raymond, vicomte de Fronsac, en Guyenne. (DuPaz, P. 
+178 a U 645.) De ce mariage naquit Jeanne de Fronsac, dame de 
+la Marche et de la Boessifcre, femme de Guillaume de Penhoet, dit 
+le Boiteux, capitaine de Rennes en 1356. 
+
+Jean de Penhoet, fils des precedents, amiral de Bretagne, s r de la 
+Marche et de la Boessi&re, est employ e avec cette quality & la refor- 
+mation des fouages des paroisses de Bedee et de Carentoir, faite aux 
+annees 1427 etl440, et Frangoise de Penhoet, sa petite fille, fit 
+entrer ces possessions dans la maison de Rohan , par son mariage , 
+en 1475, avec Pierre de Rohan, seig r de Gye, marechal de France, 
+mort en 1513. 
+
+II a exists en Bretagne deux autres families de la Marche ; la pre- 
+miere , originaire de Cornouailles , a produit le dernier Evfique de 
+L^on et portait de gueides au chef d 'argent ; la seconde, possession- 
+nee dans lT5v£che de Dol, s'armait A'azur a 6 besants d'or, au filet 
+de gueules brochant ; mais nous n'avons rien trouve dans leur filia- 
+tion , qui ptit les rattacher k la famille du combattant des 30. 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 53 
+
+
+
+6° RAGUENEL : ecartele d'argent et de sable, au lambel de 
+4 pendants, de Pun en Tautre. (Sceau de i*83 a i352). 
+
+
+
+Robin Rago£nel , chev r , seig r de Chateloger, Par. de St-Erblon, 
+Ev. de Rennes , 6tait fils de Robin dit le jeune et petit-fils d'autre 
+Robin , ce dernier conseiller et chambellan des Dues Jean II, Arthur 
+II et Jean III. Robin III suivit le parti de Charles de Blois et fut Tun 
+des chevaliers qui combattirent « en cette tant c£16br£e et rechantee 
+bataille des Trente.» (Du Paz.) En 1352, il donne quittance scellee de 
+ses annes , des gages de 4 Gcuyers et 10 archers de sa compagnie. 
+(D. Mor., T.I. 9 Pr.,col. 1479.) De son mariage avec Jeanne de Dinan, 
+vicomtesse de la Bellifcre, Par. de Pleudihen, il eut entre autres en- 
+fants Guillaume, tue & la bataille d'Auray, en 1364, et Tiphaine, pre- 
+miere femme de Bertrand du Guesclin. Jean Ragu6nel, petit-fils 
+de Robin, futtu6 k la bataille d'Azincourt, en 1415, et autre Jean, 
+eig r de Chateloger et vicomtede la Bellifcre, son arrifcre-petit-fils, 
+en Gpousant Jeanne , dame de Malestroit , prit les nom et armes de 
+Malestroit. De cette maison, les seigneuries de Chateloger et de la 
+Bellifcre ont appartenu successivement , par alliance, aux Rieux , 
+Laval, Montejean , Acign6, du Chastel, Rieux et, en 1587, Bois6on. 
+{Du Paz, P. 150 et suivantes.) La dernifcre h^ritifcre de ce nom, 
+Ren6e-Th£rfcze du Bois6on, dame de Chateloger, 6pousa, vers 1730, 
+Louis-Charles-Marie de la Bourdonnaye, seig r de Montluc, president 
+aux enquStes au Parlement de Bretagne, et leurs descendants possfc- 
+dent toujours Chateloger. 
+
+
+
+7° S.-HUGEON alias S.-Y von : d'argent a la croix de sable, 
+chargee dWe cotice de gueules. 
+
+Huon, chev r , seig* de S.-Hugeon, Par. de Br£16v6nez , Ev. de Tre- 
+guier, n'est plus cite dansPhistoire aprfcs le combat des 30. D.Morice 
+{T.H., Preuves, col. 648) mentionne seulement un ^change entre Guil- 
+
+5 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 54 — 
+
+laume Loz et Guillaume, s r dc S.-Hugeon, en 1395, et ce Guillaume 
+parait avoir ete le filsd'Huon. La lerre de S.-Hugeon passa, vers cette 
+epoque, aux du Plessix, et fut possedee, jusqu'en 1600, par la maison 
+de Quelen , de la succession d'Alix du Plessix, dame de S.-Hugeon, 
+epouse, eu 1400, de Jean de Quelen, s r deLocquenvel. (fi6n4al. mss. 
+dela Maison de Qudlen, en Basse-Bretagne, dresste, en 1690, par D. 
+Gallois, religieux bMdictin du Couvent de Redon.) 
+
+Enfin, la R£f. de 1669 nous apprend qu'au xvn c si&cle , S.-Hugeon 
+appartenait & la famille de Rerverder, mais nous ignorons si cette 
+possession provenait d'acquSt ou dTieritage. 
+
+
+
+8° BODEGAT : de gueules a3tourteaux cThermines. 
+(Sc. 1307). 
+
+Caro, chev r ,seig r de Bodegat, Par. de Mohon, Ev. de S.-Malo, pa- 
+rait avoir £t£ fils d'autre Caro (abr6ge de Carolus) et d'Altenor, mor- 
+te en 1320; petit-fils de Caro, marie, en 1257, & Isabeau de Craon, 
+veuve de Raoul, baron de Fougfcres {Hist. mss. des Barom de Fou- 
+giires, par Aug. du Paz^, et arrifcre-petit-fils d'Eudes de Bodegat, 
+qui se croisa, en 1248, avec Hamon Le Denais, Geoffroi de TEpine 
+et Philippe de Juignd' (Char te de 1249 pour rtgler leur passage de 
+Chypre a Damiette.) 
+
+Caro de Bodegat, blesse et fait prisonilier au commencement du 
+combat des 30, fut delivre par la mort de Bembro, et on le retrouve 
+avec plusieurs de ses compagnons, Guy de Rochefort et Hugues 
+Catus, dans une Montre regue & Dinan le l cr Juillet 1351 ; mais rien 
+n'indique s'il laissa posterite, ni I'^poque de sa mort. 
+
+Guillaume de Bodegat ratifia le traits de Guerande en 1380, et la 
+branche ain6e de cette famille se fondit bientGt apr£s dans la maison 
+de Tr6al, k laquelle appartenait Bodegat, lors de la Reformation des 
+fouages de la Paroisse de Mohon, faite aux annees 1427 et 1440. 
+
+Gillette de Tr^al, dame de Bodegat, 6pousa, vers 1500, Guy de 
+S6vign£ , et leurs descendants possedaient encore & la fin du xvn« 
+sifccle la seigneurie de Bodegat, qui appartenait, au si&cle suivant, 
+aux du Plessix de Grea^dan . 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 55 — 
+
+Une branche cadette de la famille de Bodegat a subsistejusquau 
+xvi c siecle, dans la Paroisse de Meneac, limitrophe de Mohon , et y 
+possedaitle fief de la Riaye. Elle etait representee k la Ref. de 1427 
+par Alain, pfcrede Garo, marie, en 1450, & Marie de Rohan, de la 
+maison du Gue-de-llsle. (P. Anselme, T. IV. p. 75.) Caro fit Montre 
+en 1479, avec les nobles de I'Archidiacone de Porhoet, en Equipage 
+d'homme d'armes, a deux archers, un coustilleur et page ; mais son 
+destrier ne fut point approuve par les commissaires de la Montre , et 
+il regut injonction de fournir un cheval de prix. II laissa un tils nom- 
+ine comme lui, Caro ; mention ne dans la Declaration faite en 1513, 
+des personnes, manoirs etmetairies nobles , de la Par. de Meneac, 
+comme tenant la maison de la Ri^ye, que souloit tenir feu Caro de 
+Bodegat son pfcre, et il parait avoir etc le dernier male de sa famille. 
+
+
+
+9° DU BOIS , alias DU BOIS-OURHAINT ou COATGOUR- 
+HANT: (Tor au lion de sable, brise June fasce de gueules. 
+
+
+
+Geffroy du Bois , chevalier au combat des 30 , se retrouve , le 22 
+Juin 1351 , au nombre des quatre chevaliers de la Montre de Jean de 
+Beaumanoir, oti figurent plusieurs autres combattants du ch£ne de 
+Mi-Voie, savoir : Alain de Keranrais, Louis Goueon, Olivier de Fon- 
+tenay et Tristan de Pestivien , et comparalt, avec les m^mes compa- 
+gnons d'armes, dans une autre Montre regue le 10 Octobre de la 
+meme annee. Ce fut lui qui tua d'un coup de lance- Bembro, qu'Alain 
+de Keranrais avaitdejfc atteintau visage ; il est surtout ceiebre par 
+son mot & Beaumanoir, si bien rendu par le trouvfcre contemporain : 
+
+« Beaumanoir, bois ton sang ! la soif te passera.» 
+
+II echappe entierement k Fhistoire , apr£s cette annee 1351 ; aussi 
+est-il impossible de determiner d'une mani&rc absolue k laquelle 
+des douze families du Bois, du Bouais ou le Coat , employees en 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 36 — 
+
+Bretagne dans Ies Reformations du xv e sifccle, il pouvait appartenir, 
+aucune d'elles n'ayant remonte sa filiation jusqu'en 1380. Entre cent 
+autres families tfancienne extraction, dont le nom compose com- 
+mence par le Coat ou du Bois, comme Boisbilly ou Coatbilly, Bois- 
+de-la-Salle ou Coatsal, Bois6on ou Coateon, Boisriou ou Goatriou , 
+Bois-de-la-Roche ou Coatarroc'h, etc., la recherche est encore plus 
+difficile, attendu qu'au xi^sifecle les noms composes ne s'6non$aient 
+pas toujours en entier, dans les chartes bre tonnes. Ainsi , le B 00 du 
+Pont-PAbb6 est g£n6ralement appe!6 B on du Pont seulement, et les 
+seigneurs de la Roche s'entendent k la fois des possesseurs de la 
+Roche-Bernard, de la Roche-Derrien , de Rochefort, etc., cequia 
+plus d'une fois induit en erreur les historiens modernes. 
+
+Les plus anciens documents relatifs k une famille du Bois en Bre- 
+tagne, nous apprennent qu'en 1270 Olivier du Bois (Oliverius de 
+Boscho), chevalier, et Agnfcs, sa compagne, donnenta leur fils Geof- 
+froi (Gaufridus de Boscho-Gorhant) , les dimes qu'ils possedaient 
+dans la paroisse de S.-Quay. (D. Morics, T.J . Pr. 9 col. 1021.) II n'est 
+pas difficile de reconnaitre dans Boscho-Gorhant la traduction de 
+Coat gourhant , nom d'une famille originaire de la Par. de Louannec, 
+limitrophe de S.-Quay, et la similitude dans les pr^noms peut la faire 
+pr^sumer dans les families. 
+
+Nous savons bien que les families du Bois de la Ferronntere et du 
+Bouais de Couesbouc , quoiqu'ayant Tune et Pautre une origine et 
+des armes differentes, revendiquent, le Geoffroi du combat des 30; 
+maisnousne voyons pas plus de probabilit&spour Tune de ces famil- 
+ies que pour ses nombreux homonymes, et nous croyons qu'il en 
+existe davantage, en faveur des Bois-Ourhant ou Coatgourhant, de la 
+paroisse de Louannec. 
+
+Huon de Coatgourhant, seig r du dit lieu, employ^, ainsi qu'Olivier 
+de Coatgourhant, dans la R6f. de 1427 , Par. de Louannec, pr6te ser- 
+ment de fidelity au Due , entre les nobles de Tr6guier , Tan J 437. Sa 
+posterity porta, peu d'ann6es aprfcs , par mariage , la terre de Coat- 
+gourhant dans la maison de Loz, qui existe encore aujourd'hui; mais 
+une branche cadette des Coatgourhant existait encore au xvi e stecle, 
+et Stait representee £. la R£f. de 1843, Par. de Camlez, par Yvon , 
+6poux de Marguerite Conen , s r et dame de Pratanscoul. Cette 
+branche, commo toutes les autres, est depuis longtemps £teinte. 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+37 — 
+
+
+
+10° AREL : ecartele cTargent et cTazur. 
+
+
+
+Olivier Arel, chev r ,seig r de Kermarquer, P. de Plomeur-Gauthier, 
+trfeve de Lezardrieux, accompagnait Charles de Blois au si&ge de 
+la Roche-Derrien, en 1347, et se distingua au combat des 30, en 
+1351. II paralt avoir 6t6 fils d'autre Olivier Arel, priseur noble dans 
+un ^change entre le Due Jean HI et Brient de Chateaugiron , en 
+1316, et de Jeanne de Penhoet. Olivier II Epousa Olive du Chastel, de 
+laquelle il eut Olivier III, marte, vers 1371, k Catherine de Kerimel, 
+d'oil sortit Olivier IV, mari de Jeanne de Kergorlay , prisonnier en 
+Angleterre avec Tanguy du Chastel, en 1404, et pere d'Olivier V, 
+qui epousa C16mence du Guermeur, est employ^ R6f. de 1427, Par. 
+de Plomeur-Gauthier, et signait, en 1422, le traits conclu avec le Due 
+de Bourgogne, et, en 1427, la ratification du traits de Troyes. Jean 
+Arel, fils des precedents, epousa Jeanne de Ploeuc, et fut pfcre de 
+Pierre, commissaire de la Montre de Tr^guier en 1462, homme d'ar- 
+raes dans la Montre g6n6rale de l'Ev6ch6 de Trtfguier en 1484, et 
+6poux, en 1476, de Jeanne de la FeillSe, dont Marguerite Arel, 
+dame de Kermarquer, employee Ref. de 1513, Par. de Plomeur, et 
+alltee b Jean L'Evesque, seig r de S.-Jean, Par. de S.-Mallon, Ev. de 
+S.-Malo, fils de Pierre et de Fran$oise Chauvin. 
+
+Francois L'Evesque, fils de Jean et de Marguerite Arel, voyant s^- 
+teindre, en la personne de sa mfcre, la trfcs-illustre maison des Arel, 
+prit lettres du Roi Francois I er pour en porter le nom (JLc Laboureur 
+Gtntal. des Budes, P. 104), et Anne Arel, son arrifcre-petite-fille, 
+epousa, au commencement du xvu e sifcele, Julien Budes , seig r de 
+Blanche-Lande , dont la fille, Saincte Budes, dame de Kermarquer, 
+prit en mariage, en 1640, Charles Anser6 , seig r de Courvaudon, 
+conseiller au Parlement de Rouen. Depuis cette 6poque, Kermarquer 
+a et6 poss6d6 par les Coatrieux. 
+
+Une branche cadette, issue comme la pr6c6dente de Francois TE- 
+vesque, et qui possgdait Kermerc'hou , en Gar Ian, s'est fondue, au 
+xvn e stecle, dans les Bigot de Kerjegu , puis Fleuriot de Langle , et 
+• cette dernifcre famille existe encore. 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+38 
+
+
+
+1 1° ROUXELOT : (Targent a 3 haches d'armes de sable. 2. i . 
+
+Jean Rouxelot, Rousselot ou Rousselet, chev r s r de Limoelan, 
+Par. de S^vignac, bless6 au combat des Trente, 
+
+« Messire Jean Rousselot fut feru jusqiA mort. » 
+
+paraSt avoir et6 tils de Guillaume, Tun des ex£cuteurs testamenlaires 
+de Rolland de Dinan, en 1304, et neveu de Raoul, EvSque de S.- 
+Malo en 1310 , Pair de France et EvSque de Laon en 1318 , mort en 
+1323. 
+
+Jean Rouxelot ne laissa qu'une fille unique, Jeanne , dame de Li- 
+moelan, marine b Louis de Dinan, juveigneur de Rolland, seig r de 
+Montafilant. (Du Paz, Gen6al. deMontafilant,p. 139.) 
+
+On voit par la Reformation des fouages de la paroisse de Sevignac, 
+qu'aux xv e et xvi e sifccles, Limoelan appartenait b la famille de Ker- 
+saliou, et cette terre a £t£ poss6d6e successivement depuis par les fa- 
+milies de la Chapelle de Syon, Gu&nadeuc, Reaumanoir, la Roue et 
+Picot. 
+
+
+
+(Cntger*. 
+
+
+
+12° MOUTAUBAN : de gueules a 7 macles d'or , au lambel 
+de 4 pendants d^argent. (Sceaux de i3i4 a *4o7). 
+
+
+
+Guillaume de Montauban, fils de Renaud et d'Ainice du Breil , 
+sieur et dame du Bois-de-la-Roche , Par. de N£ant, d6cida, par son 
+stratagGme, de la victoire en faveur des Bretons. 
+
+Guillaume de Montauban le preux et l'alos6 (renommt) 
+De Testour (combat) est issu et les a regardez 
+Grant courage lui print , le coeur lui est enfle 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 39 — 
+
+Et jure Jes.us-Cbrist qui en croix fut poine 
+
+S'il fust sur un cheval bien monte & son gr6 
+
+Tretoux les d^partist (disperserait) o honte et o vilete (bassesse). 
+
+Bons esperons tranchantz lors caucba en ses piedz 
+
+Monta sur un cheval qui fut de grant fierte 
+
+Et lors print une lance dont le fer fut carr6 
+
+Serablant fist de fuir, ly escuier membr6. 
+
+Beaumanoir le regarde, puis Fa araisonne (lui adresse la parole ) 
+
+Et dist : « Amy Guillaume qu'est-ce que vous pensez ? 
+
+» Corame faux et raauvais comment vous en allez ! 
+
+» A vous et & vos hoirs vous sera reprochte....» 
+
+Quant Guillaume Tentend un riz en a jecte , 
+
+A haulte voix parla, que bien fust escoute : 
+
+« Besoingnez, Beaumanoir, franc chevalier membre, 
+
+» Car bien besoingneray, ce sont tous mes pensees.» 
+
+Lors broche ly cheval par flancs et par costez 
+
+Que le sang tout vermeil en chait (jaittit) sur le prez , 
+
+Par les Englois se boute , sept en a tr^buchies , 
+
+Au retour en a trois sous luy agraventes (renverste). 
+
+A ce coup les Englois furent esparpilles , 
+
+Tous perdirent les coeurs, c'est fine v6rit6. 
+
+Qui veult en a choisi , prins et sermentez j fait ZZrle"^^^ 
+
+Montauban hault parla quant les a regards : 
+
+« Montjoie s'escria ; barons or y ferez.... 
+
+» Vengiez vous des Englois tous k vos volentez.» 
+
+(Poeme du Combat des Trenle.) 
+
+11 prit part, le 14 AoiH 1352, an combat de Mauron, avec Jean de 
+Beaumanoir, Even Charuel et les sires de Tinteniac et de la Marche. 
+Ces deux derniers y furent tu6s, ainsi que Guy de Neelle, sire dT)f- 
+femont, marshal de France, et Guillaume de Montauban, qui mou- 
+rut sans alliance, n'est pas cite dans la suite. 
+
+La posterite d' Alain , sire de Montauban , son oncle , a fini ft Ca- 
+therine, dame du Bois-de-la-Roche, Spouse, au xvi e siecle, de Rene 
+de Volvire , baron de Ruffec. De cette famille, le Bois-de-la-Roche 
+a passe, par alliance, auxL'Olivier de Saint-Maur, etces derniers, 
+Tont transmis, il y a un siecle, aux Saint-Pern de Couellan. (P. An- 
+selme, T IV., P.78, Ogee, verbo Nfant.) 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 40 
+
+
+
+13° TINTENIAC : (Targent a 2 jumelles d'azur, bris£esd\ine 
+cotice de gueules. 
+
+
+
+Alain de TiNTfiNrAC accompagnait Charles de Blois ail sifcge de 
+Quimper, en 1344 (Enquite four la canonisation de Charles de Blois 
+en 1371. D. Morice, T. II. Pr., col 28); il 6pousa Adelice de Ros- 
+trenen, fut Tun des 6cuyers du combat des 30, en 1351 , et vivait en- 
+core en 1356, comme le prouve la quittance qu'il donne k Jean Chau- 
+vel, tr^sorier des guerres du Roi Jean , de ses gages et de ceux des 
+buyers et archers de sa compagnie. (D. Morice, T. I.,Pr.,col. 1506.) 
+
+Sa posterity n'est pas connue ; on sait seulement qu'il 6tait frfcre 
+du sire de Tinteniac tu6 b Mauron, et d'Olivier de Tinteniac qui suit, 
+tous trois enfants de Olivier et d'Etaisse de Ghateaubriant. Olivier 
+II, rappete comme son frfcre dans l'enqu£te pour la canonisation de 
+Charles de Blois, qu'il suivit au sifcge de Quimper en 1344, 6pousa , 
+en 1343, Amice de L6on, fille d'Herv6, s r de Noyon sur Andelle, et 
+de Jeanne de Montmorency, et mourut vers 1371. II fut pfcre de 
+Geoffroi de Tint^niac, s r du Plessix-Mesl£, de S^nones et d'Entrehais, 
+marte, vers 1368, & Beatrix du Matz, dame du Bourg, Par. de Mar- 
+cill^-Robert, Ev. de Rennes, morte en 1405, ( Aug. duPaz, p. 339.) 
+
+Pierre, fils des pr6c6dents, s r du Bourg, de la Marre et des Freux, 
+Par. de Marcill6 , de Millac et de la Villescoz , Par. de Bais , com- 
+missaire pour la Montre du pays de Marcill6-Robert , en 1424 (D. 
+Mor., T. II. , Pr., col. 1166), et employ^ dans les R6f. de 1427 et 
+1440, Par. de Marcilte et de Bais, s'etablit en Anjou, oti il fut sei- 
+gneur du Porcher et de la Coqueraye. 
+
+Pierre II, son amfcre-petit-fils, 6pousa, en 1520, FranQoise , dame 
+de Quimerch,Par. de Bannalec,Ev. de Cornouailles,et prit les armes 
+de sa femme, d'hermines au croissant de gueules, que sa posterity, qui 
+existe encore, a conserves. 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 44 
+
+
+
+14° PESTIVIEN : vaire d'argent et de sable. (Sceau 1397). 
+
+
+
+Tristan de Pestivien, fils juveigneur de Jean, baron de Pestivien, 
+et de Constance de Rostrenen, dame de Glomel, bless6 et prisonnier 
+au combat des 30, recouvra sa liberty par la mort de Bembro et sur- 
+v6cut k sa blessure, puisqu'on le voit, plusieurs mois aprfcs, corapa- 
+raitre & des Montres, des22Juinet 11 Octobre 1381, avec Jean de 
+Beaumanoir , Louis Gou^on, Olivier de Fontenay , Geoffroi du Bois 
+et Alain de Keranrais, ses compagnons au combat des 30. On le croit 
+pfcre d^ Guillaume de Pestivien qui jure fid&ite au Due pour la capi- 
+tainerie de Brest, donn^e & Jean P6riou en 1397 (I). Morice, T. //., 
+Pr., col. 709) : Guillaume fat pfcre de Jean, seig r du Vern , Par. de 
+Guiscritf , et de Rermabguennou, Par. de Ploerdut, qui accompagne 
+le Due en France en 1418, et est employ^ dans les R6f. de 1426 a 
+1448 , Par. de Guiscriff et de Ploerdut. Jean de Pestivien laissa trois 
+fils : 1° Guillaume , s r du Vern , archer en brigandine dans la Montre 
+g£n6rale de Cornouailles de 1481 , Par. de Guiscriff; 2° Alain, s r 
+de Rermabguennou, R6f. de 1513, Par. de Ploerdut, et3° Charles 
+s r de Goasvennou,Par. de Ploun6v6zel, pfcrc d'autre Charles, employ £ 
+dans les Reformations et Montres de Ploun6v6zel, Tr^brivant et 
+Treffrin, Ev. de Cornouailles, en 1536 et 1562, trisayeul de Francois, 
+s r de Goazvennou, marte en 1670 & Louise-FranQoise du Coetlosquet, 
+dont les descendants se sont eteints en 1776. 
+
+Le chateau de Pestivien, dont s^tait empare, en 1363, Roger 
+David, epoux de Jeanne de Rostrenen , capitaine anglais du parti de 
+Montfort, fut repris la mSme ann£e par du Guesclin, ruin6 de fond 
+en comble et restituS enfin & son legitime possesseur, Bizien de 
+Pestivien, frfcre aln6 de Tristan, et capitaine de Quimperte , qui ra- 
+tifia le traits de Gu6rande en 1381. Bizien ne laissa qu'une fille uni- 
+que, Jeanne, dame de Pestivien, marine k Guy V, sire de Molac (Le 
+Laboureur, p. 74), dont le fils, Guy VI , sire de Molac, £poux de 
+Marguerite deMalestroit (Du Pas, p. 171), etseig'de Pestivien, du 
+
+6 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+_ 42 — 
+
+chef de sa mfcre, fut appete au Parlement general de Bretagne, tenu 
+kVannes en 1462. 
+
+Lors de la Reformation de 1836, la baronnie de Pestivien appar- 
+tenait & Jean de KermSno, de la Par. de Plougonver , et elle a £te 
+possed^e depuis par les Kergorlay du Cleuzdon, qui Font trans- 
+mise, en 1668, k la famille du Cleuz du Gage, fondue, en 1785, dans 
+celle de Kerouartz. 
+
+
+
+15°, 16° KERANRAIS : voire d'argent et de gueules. 
+
+
+
+Alain de Keranrais, choisi avec son oncle, Olivier de Keranrais, 
+pour tenir la gageure de Beaumanoir centre Bembro , prit une part 
+fort honorable & la bataille, en renversant mortellement le capitaine 
+anglais, que Geoffroi du Bois acheva. II n'est point parte de son 
+oncle Olivier dans la suite, mais nous retrouvons Alain de Keran- 
+rais dans des Montres des 22 Juin et 30 Aoftt 1351 , regues par 
+Jean de Beaumanoir, oil Ton voit figurer ses compagnons Geoffroi 
+du Bois, Louis Gou6on , Olivier de Fontenay et Tristan de Pestivien, 
+et, parmi les archers, Jean de Keranrais. 
+
+Alain et Olivier, son oncle , appartenaient & une branche cadette 
+de la maison de Keranrais, Par. de Plouaret, Ev. de Tr6guier. La 
+branche aln^e 6tait representee, & la m6me 6poque , par Bizien, sire 
+de Keranrais, mentionn^ avec son porte-targe dans une Montre de 
+Hue de Kenautret, re^ue en 1356. Pierre, sire de Keranrais et de 
+Runfao, P. de Ploubezre, qui paralt fils de Bizien, 6pousa, vers 
+1369, Tiphaine Le Vayer, dame de la Rigaudifcre, dont sortit Evon, 
+sire de Keranrais, qui signe Tassociation de 1379 pour empGcher 
+Tinvasion 6trangfcre, ratifie le traits de Gu^rande en 1381 et est em- 
+ploy6 R6f. de 1427, P. de Plouaret. II ne laissa qu'une fille, Anne, 
+dame de Keranrais etde la Rigaudifcre, marine 1° & Olivier, vicomte 
+de Coetmen, dont elle n'eut pas d'enfants, 2° k Jean deMontauban, 
+seig r du dit lieu. Elle mourut en*1499. (Aug. du Paz, p. 462, 463.) 
+
+Marie de Montauban, leur fille et seule h^ritifcre, porta, par ma- 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 43 — 
+
+riage, les possessions de ses pfcre et mfcre dans la maison de Rohan- 
+Gu6m6n6, & qui Keranrais appartenait encore lors de la R6f. de 
+1536, et qui a passS depuis k la famille Hay de Bonteville, par al- 
+liance, au dernier Steele, avec lesBoisgon. 
+
+D'autres branches de la maison de Keranrais on t^te possession- 
+nees, aux xv # et xvi e sifccle, dans TEv6ch6 de L6on, Par. de Tre- 
+flaouenan, Lanarvily, Kernilis, Plouvien et Plourin ; elles sont 
+gteintes depuis 1550. 
+
+
+
+1 7° GOYON ou GOUEON : d'or a i fasces nouees de gueules 
+acc* es de 9 merlettes de meme 4- 2 « 3, a bande d'azur 
+brochant. (Sc. l35i). 
+
+« Loys Goion y viendra ferir d'un branc d'acier. » 
+
+Louis Goyon ou GouSon, s r de Launay, Par. de Ploubalay, Ev. de 
+S.-Malo, fils juveigneur d'Etienne* sire de Matignon, et de Jeanne de 
+Launay, dame du dit lieu, Par. de Ploubalay, sa premiere femme,fut 
+Tun des 6cuyers du combat des 30, et portait tant6t les arraes de Ma- 
+tignon bristes (Tune bande d'azur, tant6t les armes de sa mere, Jeanne 
+de Launay, (deux UoparcU), que ses descendants ont conserves en 
+en renversant les 6maux. 
+
+II comparaSt & des montres regues par Jean de Beaumanoir, les 22 
+Juin et 30 Aoflt 1351, avec Geoffroi du Bois, Tristan de Pestivien, 
+Alain de Keranrais* Olivier de Fontenay et Guyon de Monteville, 
+archer, et servait avec sept autres archers sous le comte de Tancar- 
+ville , suivant sa quittance sceltee de ses armes, le 9 Juillet de la 
+mGme ann6e. 
+
+II Spousa Jeanne Bouetard, damedelaBouetardaye, Par* de Bour- 
+seul, dont il eut Louis, s r de la Bouetardaye, marie k Ctemence Huf- 
+fier. Charles, fils des pr6c6dents, 6poux de Olive de Beaumanoir 
+employ^ Ref. de 1439, Par. de Bourseul fut p&re de Rolland employ^ 
+R6f. de 1448 et 1467, et Montre del479, 6poux de Fran^oise Bernier et 
+p&re 1° de Rolland, conseiller aux grands jours de Bretagne en 1495, 
+2° de Francois, qui a continue la filiation jusqu'fc Pierre GouGon, s r 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+de la Bouetardaye, marie k Marguerite Le Bigot, dont Gillette, dame 
+de la Bouetardaye, alliee en 1647, k Pierre de Bedee, s r de la Met- 
+trie , faraille qui existe encore et k laquelle appartenait la mere de 
+Chateaubriand. (P. Anselme, T. V,page 420 et arret de noblesse du 
+31 Janvier 1669, en faveur de Rene Goueon, s r de la Bouetardaye, 
+mort sans posterity et de Gillette sa soeur). 
+
+
+
+18° FONTENAY : d'or a Tecu en abyme de gueules, a Torle 
+de 8 merlettes de meme. 
+
+
+
+Olivier de Fontenay , qui seconda son illustre chef Beaumanoir 
+au combat de Mi-Voie , se retrouve k la Montre faite par ce dernier, 
+le 30 Aotit 1351 , avec quatre autres compagnons dont il paralt inse- 
+parable , savoir : Geoffroy du Bois , Tristan de Pestivien , Alain de 
+Keranrais et Louis Goueon. On a dit qu'Olivier de Fontenay prenait 
+son nom d'un manoir situe dans la Par. de Chartres, Ev. de Rennes. 
+Ce manoir possede, au xiv c stecle, par Amaury, sire de Fontenay, 
+marechal de Bretagne , fut porte par sa petite-fille, dans la maison 
+d'Acigne, en 1408, d'oil il est passe, k la fin du xvi e sifccle, aux 
+Cosse-Brissac , et , de ceux-ci , aux Neuville de Villeroy, qui Font 
+vendu aux du Pont des Loges. Mais les documents manquent entie- 
+rement pour adopter sans reserve cette origine ; attendu qu'il a existe 
+une autre famille de Fontenay dans TEv6ch6 de Saint-Brieuc qui 
+peut revendiquer , aussi bien que ses homonymes de FEveche de 
+Rennes, Fecuyer Olivier de Fontenay. Si la repetition du meme pre- 
+nom pouvait etre une presomption en faveur de Tune de ces families, 
+cest m^me & celle de Saint-Brieuc qu'appartiendrait le personnage 
+en question. Dumoins, on trouve un Olivier de Fontenay employe 
+Ref. de 1441 , Par. de Maroue , et autre Olivier et Guillaume de Fon- 
+tenay , Ref. de 1476 , meme paroisse ; ce dernier , homme d'armes 
+dans une Montfe regue k Malestroit en 1488. Cest la dernifcre fois 
+que le nom de Fontenay est cite dans les preuves de Thistoire de 
+Bretagne , si ce n'est qu'un siecle aprfcs , on voit un sieur de Fonte- 
+nay, du parti de la Ligue, s'echapper, en 1689, de la tour aux Fou- 
+lons, k Rennes. (D. Morioe, T. III., Preuves, col. 1703.) 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 45 — 
+
+
+
+19° CATUS : un chat ou leopard , accompagne (Tetoiles 
+sans nombre. 
+
+
+
+« Huguet Catus , le sage , ne doit-on oublier. » 
+
+Hugues Catus , seig r du Breuil , en Bas-Poitou „ parait avoir et£ 
+frfcre cadet de Jean, ecuyer, paroissien de Machecoul en 1347, et 
+avoir eu pour premier auteur connu Maurice Catus , s6n6chal de la 
+Garnache de 1185 & 1200, et pour pfcre Maurice Catus, chevalier, 
+temoin , en 1359, d'un traits entre Jean Gastineau, s r de Vieillevigne, 
+et S^vestre du Chaffault. Hugues Catus se retrouve dans une Montre 
+regue par Thibaut de Rochefort, le l er Juillet 1351, avec deux de ses 
+compagnons , Guy de Rochefort et Caro de Bod6gat , et le c&fcbre 
+Andr6 du Chesne nous a conserve un fragment de la g6n£alogie de 
+sa famille. (Histoire de la Maison de Chasteigner, 1634.) 
+
+Jean Catus , frfcrc ain6 de Hugues , qui fait Tobjet de cet article , 
+laissa un tils, nomm6 aussi Hugues, maris 1° k Henriette de Chastei- 
+gner, 2° & Jeanne Jousseaume. II vivait encore en 1433 , ce qui em- 
+p6che de le confondre avec le personnage choisi parBeaumanoir, un 
+siecle avant. 
+
+Jean , s r des Granges, prfes Fontenay-le-Comte, et capitaine de Tal- 
+mont, accompagna Francois I er k sa campagne du Milanais, en 1524, 
+et reconstruisit b son retour son ch&teau des Granges , Tun des plus 
+jolis specimens de la Renaissance, sur lequel nous avons fait relever 
+ses armes parlantes. Marie Catus, sa petite-fille , dame des Granges, 
+fille de Hardy Catus et de Jeanne du Fouilloux , soeur du ctflfcbre au- 
+teur de la vSnerie , epousa Jean de la Haye , s r de Jarz£ , lieutenant-* 
+general de la s£nechauss6e de Poitou , tuS pendant la Ligue. De ce 
+mariage naquit une fille unique, Urbane, h^ritifcre des Granges-Catus, 
+du Fouilloux et de Jarz6, marine, vers 1600, a Pierre de Launay, 
+s r d'Ongtee, chev r de Tordre du Roi , auteur des Launay de Pontgi- 
+rault, etablis en Bretagne. 
+
+La branche des Catus , possessionn^e & Machecoul , existait encore 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 46 — 
+
+au commencement du xvi e sifecle , en la personne de Pierre , dcuycr, 
+habitant de ce bourg, et de Jean, son frfcre, £poux de Frangoise Ber- 
+thelot , 6tabli vers Vieillevigne. 
+
+
+
+20° LA ROCHE : un chien passant , accompagne de 2, mo- 
+lettes , une en chef, une en pointe. (Sceau de i3oa). 
+
+
+
+II est impossible d'attribuer k aucune famille de la Roche , en par- 
+ticulier , T6cayer Geoffroy de la Roche qui fut fait chevalier par Beau- 
+manoir, au milieu de Taction : 
+
+Mais Geffroy de la Roche requiertchevalerie, 
+Un escuier moult noble , de grant accessorie, 
+Et Beaumanoir lui donne au nom Sainte Marie 
+Et lui dit : Beau doulx fils , ores ne t'espargne mie ; 
+Membre-toi de celuy qui par chevalerie 
+Fut en Constantinople belle compaignie. 
+
+Et ailleurs , en d^signant les 3o combattants, le pofcme ajoute encore : 
+
+Et Geffroy de la Roche sera fait chevalier 
+Comme Eudes, son bon pfcre, qui alia guerroier 
+Jusqu'a. Constantinople pour grant honneur gaigner. 
+
+Nous croyons reconnaitre dans Eudes , nomme ailleurs Budea et 
+Brice, et qualifte par le poete, bon p&re, c'est-&-dire aieul de Geoffroi 
+de la Roche ,uncrois6 qui aurait accompagn^ Baudouin, comte de 
+Flandres , au sifcge de Constantinople et en Gr&ce en 1204. Mais 
+nous n'oserions croire avec d'Argentre , qu'il fut la tige des Dues 
+d'Athfcnes de la maison de la Roche, dont les monnaies au xm e Ste- 
+ele portent pour armoiries cinq points dquipollds. Eudes fut-il p6re de 
+Geoffroi de la Roche, allouG de Rohan, assesseur dans un prisage 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 47 — 
+
+des biens de Henry d'Avaugour, en 1288, et dont un sceau de 1302 
+nous a 6te conserve par D. Morice. (T. I ., Pr. 9 col. 1180.) 
+
+La similitude dans lesprgnoms pourrait alors faire supposer que le 
+chevalier du combat des 30 6tait fils de Tallou6 Geoffroi. Nous igno- 
+rons cequll devint ensuite et s'il appartenait&l'une des maisons de 
+la Roche-Tr6bry , fondue dans Freslon ; de la Roche-Helgomarc'h, 
+Par. de S.-Thoys , fondue dans Rostrenen , ou de la Roche-H6ron , 
+Par. de Pleyberchrist , qui existe encore de nos jours. 
+
+Nous pouvons seulement affirmerqu'iln'avaitrien de commun avec 
+la famille de la Roche-St-Andrt , originaire du Poitou, et 6tablie en 
+Bretagne deux sifccles aprfcs le combat des 30, ni avec la famille 
+Budes de Gutbriant , attendu qu'en admettant que Budes soit la bonne 
+version du pr£nom de Taieul de Geoffroi de la Roche, et non Eudes 
+ou Brice , qui dSsigne le m6me personnage, Budes n'en resterait pas 
+moins un pr^nom et nullement un nom patronymique. En outre , la 
+maison des Budes n'a jamais possed^ de seigneurie de la Roche, et 
+son historiographe Le Labowreur , aurait eu soin de lui attribuer le 
+chevalier Geoffroi de la Roche , s'il avait existe la plus 16gfcre vrai- 
+semblance & cet 6gard. 
+
+
+
+21° POULART : ecartele aux i et 4 de gueules a une rose 
+d^argent aux 2, et 3 de sinople plein. (Sceau i365). 
+
+
+
+Aussy GefFroy Poulart gisant trestout dormant 
+Feut mort et abatu en un pr6 verdoiant. 
+
+Geoffroy Poulart tu6 & la fin de Taction , paralt avoir 6te fils de 
+Pierre, chevalier, s r de Kergolleau, Par. de Plou^zec, et de Kerber- 
+zault,Par. de P16h6del, tr^sorier de Jeanne de Penthifcvre, femme 
+de Charles de Blois, au comte de Goello en 1339, et de Constance 
+de Kerraoul. 
+
+Pierre passa sous sauf-conduit en Angleterre, en 1356, pour traiter 
+de la ran^on de Charles de Blois ; fit une fondation k Tabbaye de 
+Beauport en 1364 , et fut inhume , avec sa femme , dans la chapelle 
+Saint-Jean de Beauport , oil se voit encore leur tombeau. 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 48 — 
+
+Parmi les autres enfants de Pierre, on remarque 1° Olivier, ecuyer 
+dans la Montre du 22 Juin 1351 , regue par Jean de Beaumanoir, k 
+laquelle comparaissent Monsieur Geoffroi du Bois , Alain de Keran- 
+* rais , Louis Gou6on , Olivier de Fontenay et Tristan de Pestivien ; 
+2° Guillaume , Ev6que de StrMalo , qui assista au concile provincial 
+d'Angers en 1365 et mourut en 1384 , 3° et Rolland , pfcre de Jean , 
+qui a continue la filiation de cette famille. Ce dernier figure dans les 
+Montres d'Olivier de Clisson depuis 1375, et dans son testament, en 
+1406, pour un legs de 600 livres. II est en outre compris, ainsi que 
+Philippe, son fils, au rang des nobles des paroisses de PlouSzec et 
+de P16h6del, k la R6f. de 1423. Philippe prSte serment au Due, entre 
+les nobles de Goello, en 1437, et est employe, ainsi que Jean, son 
+fils, k la R£f. de 1441. On trouve encore Laurent, homme d'armes, 
+dans une Montre de 1464; Guillaume, fils de Jean, s r de Rerberzault, 
+k la R6f. de 1513 ; Jean, fils de Guillaume , k celle de 1535, repre- 
+sents k la Montre g6n6rale de Goello, en 1543, par Francois Poulart 
+et Jean TArtur , archers k cheval , « et excuse de sa personne aprfcs 
+avoir inform^ de sa maladie.» 
+
+A cette Montre de 1543, Par. de P16h6del , comparaissent aussi, 
+eii archers , Gilles Poulart , s r de Kermenguy , Amaury, s r de Les- 
+clecli, et Guillaume, s r du Traon , enfants de feu Sylvestre , homme 
+d'armes de la garde du chateau de Br6hat, dans la guerre soutenue 
+par la Duchesse Anne contre la France , en 1489. Puis le nom de 
+Poulart disparait de l'histoire. 
+
+Depuis longtemps d6j& , le fief et la juridiction de Kergolleau 
+etaient tomb^s dans la famille de Trogoff , et , au dernier sifcele , ils 
+Staient poss6d6s par les M6h6renc de Saint-Pierre. 
+
+
+
+f 
+
+22° TREZIGUDDY : <Tor a 3 pommes de pin de gueules les 
+pointes en haut. (Sceau 1357). 
+
+
+
+La famille de Tr^ziguidy Stant eteinte depuis prfcs de quatre sife 
+cles, il est absolument impossible aujourd'hui, d'en 6lablir la filiation. 
+Voici les degrSs 6pars que nous avons pu recueillir sur elle. 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 49 — 
+
+Maurice, sire de Trdziguidy, Par. de Pleyben, Ev. de Comouailles, 
+se croisa en 1248 , et de concert avec Guillaume Richer , Yvon du 
+Cosquer et Geoffroy L'AbbS, il donna procuration , en 1249 , pour 
+trailer de leur passage et de celui de leur suite de Chypre k Damiette. 
+II parait avoir 6t6 pfcre de Maurice , EvSque de Rennes de 1260 k 
+1282 , et aieul de Yves , sire de Tr6ziguidy , et de Maurice , Tun des 
+£cuyers du combat des 30 , qui fit dans la suite une belle fortune en 
+France , et dont le nom a 6t6 confondu , dans quelques relations , 
+avec celui de la famille de Troguindy. 
+
+Les deux fibres suivirent un parti oppose ; en effet, Yves , d'abord 
+capitaine d'Auray pour Charles de Blois , rendit la place k Jean de 
+Montfort et d^fendit Hennebont contre son compStiteur, en 1341. 
+L'ann6e suivante, il contribua k la d^faite de Louis d'Espagne, k Quim- 
+perte et & la prise de Vannes , et , en 1352 , au gain do la bataille 
+de Mauron. Devenu dans la suite capitaine de Quimper , il rendit 
+homraage, en 1382, k la Dame de Retz, pour ses terres de Cor- 
+nouailles. 
+
+Nous ignorons si c'est de lui ou de Maurice , son frfcre , £poux de 
+Jeanne de PloSsquellec , que sont descendus les autres sires de Tre- 
+ziguidy mentionngs dans lTiistoire. La presence de Maurice au combat 
+des 30 est attestee par le pofcme contemporain et par THistoire de 
+Louis II, Due de Bourbon, composite en 1429. Les Preuves de Dom 
+Morice nous apprennent, en outre, qu'il donnait , en 1337 k Vitr6, 
+et en 1363 k Ch&teaugontier, quittances sceltees de ses armes , du 
+payement de ses gages et de ceux des archers de sa compagnie. II 
+se trouvait, en 1364, k Ouffay, en Gatinais ; en 1373, au siege de 
+Dinan avec le conn&able du Guesclin et le Due de Bourbon (1) ; en 
+1377 , k Texp^dition de Guyenne ; et envoys en ambassade en Ara- 
+gon, en 1379, il lui etaitallou^, par le Roi Charles V, 365 francs d'or 
+pour ses frais de voyage. Capitaine de la ville de Paris, en 1380, aux 
+gages de 1200 livres parisis, il portait la bannifcre du conn^table aux 
+obsfcques qui lui furent faites k Saint-Denis, en 1389 , et vivait encore 
+en 1395 , suivant les pieces d'un proc&s qu'il soutenait , cette mSme 
+
+
+
+(1) Et chevaucherent les seigneurs devant Dinan , qui est r entree de Bretagne Dreton- 
+nant , ou dedans estoit Maurice de Treaguidy , le plus vaillant chevalier de Bretagne , car 
+il fut Tun des chefs de la bataille des Trente. (Histoirede Louis II, Due de Bourbon./ 
+
+7 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 50 — 
+
+ann6e, contre Olivier du Guesclin, fr&re du feu conn&able, pour 
+terre d'Anneville , en Normandie. 
+
+Guy de Tr6ziguidy ratifia le traite de GuGrande , en 1381 , et £tait 
+garde de roriflamme dans l'exp^dition de Flandres contre Philippe 
+d'Artevelle^niaSS. 
+
+Jean , sire de Tr^ziguidy , Par. de Pleyben, et des Salles, Par. de 
+Plouisy , que nous croyons fils ain6 dTvon et neveu de Maurice qui 
+pr^cfcdent, ratifia le traits de GuSrande k Guingamp , en 1381 , et est 
+employ^ dans la R6f. de 1426, Par. de Pleyben et de LanSdem. 
+
+Jean , fils du prudent, ratifie, en 1470 , les trails de Caen et 
+d'Ancenis; assiste, en 1480, k TentrSe solennelle de Guy du Bouchet, 
+EvSque de CornouaiUes, et comparalt avec Gilles, son fils, en Equi- 
+page dTiommes d'armes , aux Montres g6n6rales de CornouaiUes et 
+de TrGguier, en 1481. 
+
+Gilles suivit le parti du Due contre Louis XI , et dans une rencon- 
+tre, en 1487, il fit prisonnier et mit k rangon Olivier du Pont-FAbbE, 
+s r de PloSsquellec. 
+
+Gilles ne laissa qu'une fille unique , mariee k Olivier, seig r de La 
+Palue, qui n'eut k son tour qu'une fille, Fran^oise, femme deTroilus 
+de Montdragon , s r du Hallot, mort vers 1536, d'oil la terre de Tr6zi- 
+guidy a pass£ successivement, par alliance, aux Montmorency, Ros- 
+madec , Kerlec'h , Kergrist , Kergariou et Barbier de Lescoat ; tandis 
+que les Salles ont £t£ poss£d£es], aprfcs les Montmorency, par les mai- 
+sons de Kergorlay, du Cleuz du Gage et Kerouartz. 
+
+
+
+23° PONTBLANC : d'or h io billettes de sable 4. 3. 2. i . 
+
+Et Guyon du Pontblanc ne mettray en oubly. 
+
+Guyon , seig r du Pontblanc , P. de Plouaret , peut fitre fils de Pierre, 
+compris pour un legs de 30 livres dans le testament de Jean II , en 
+1304, ou de Geoffroi, maltre-d'hdtel de Charles de Blois, tu6 au sac 
+de Lannion , en 1346. 
+
+Nous retrouvons un Jean du Pontblanc dans des Montres et quit- 
+tances de gendarmes du commencement du xv° sifccle. Sa posterity a 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 54 — 
+
+porte la terre du Pontblanc dans la maison de Trogoff , et elle a 6te 
+successivement poss6d6e depuis par les Ploesquellec, Pont-UAbbe , 
+du Chastellier, Villeblanche (Aug. du Paz , p. 98, 93) et La Rivifcre- 
+Saint-Quiou6t. 
+
+En 1754, dame Marie-Louise- Julie de La Rivifere, dame du Pont- 
+blanc , 6pousa le marquis de La Fayette , pfere du c616bre g6n6ral , 
+auquel le Pontblanc appartenait h la fin du dernier sifccle. 
+
+
+
+24° DU PARC : cTazur au leopard d 7 or, au lambel de gueules. 
+
+Et Morice du Pare , un escuier hardy. 
+
+Maurice du Parc , seig r du dit lieu, Par. de Rosnogn , Ev6ch6 de 
+Cornouailles , ainsi qu'il le dit lui-m&ne dans Tenqu6te pour la cano- 
+nisation de Charles de Blois, en 1371 (D. Morice, T. II. , Pr., col. 9), 
+ne doit point 6tre confondu, comnte on Pa fait, avec une autre famille 
+du Parc , s r du dit lieu , Par. du Gouray , et de Locmaria, Par. de 
+Ploumagoer, qui s'armait d'argent a trois jumelles de gueules. 
+
+Les du Parc de Rosnogn , issue en ramage des vicomtes du Faou , 
+portaient les armes de ceux-ci , brisies d'un lambel. 
+
+Maurice , Tun des champions du combat des 30, puis capitaine de 
+Quimper pour Charles de Blois , contribua , en 1359, pour la somme 
+de 5000 £cus , & la ran<jon de son maftre prisonnier en Angleterre , 
+et, k sa mort, passa au service de France. Suivant TenquSte susdite, 
+il 6tait&g6, en 1371, d'environSO ans,ce qui lui donne l^ge de 20 ans 
+lorsqo'il fit ses premieres armes au ch£ne de Mi-Voie. En 1372 ,il 
+conduisait, avec Alain de Beaumont, 1'aile gauche de Tarm^e du con- 
+notable 4 la d&route des Anglais devant Chisey, en Poitou , et 6tait 
+gouverneur de La Rochelle, en Aunk , en 1373. (LeLaboureur,p. 54.) 
+
+Les anciennes R6f. et Montres de Cornouailles mentionnent plu- 
+sieurs membres de la m6me famille , savoir : 
+
+Henry, s r du Parc, employ^ dans la R6f. de 1426, Par. de Rosnoen ; 
+Jean , archer en brigandine dans la Montre g£n6rale de 1481 ; autre 
+Jean, s r du Parc,R6f. de 1536, p&re del Jean, raineur en 1562 et re- 
+pr^sente &une Montre de cette ann^e, par Jacques du Parc, son oncle 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 52 — 
+
+paternel , en Equipage d'arquebusier k cheval ; 2° Jeanne , Dame du 
+Pare, aprfcs son frfcre mort sans hoirs, marine, vers 1860, k Jean 
+Troussier, s r de la Gabetifcre. De ce mariage naquit une fille, Jeanne 
+Troussier, Dame du Pare, marine , en 1581, k Charles de Penmarc'h , 
+s r de Coetenez, Par. de PlouzanS, dont la petite-fille, Marie-Fran^oise 
+de PenmarcTi , Dame de CoetSnez et du Pare , £pousa, vers 1675 , 
+Frangois Le Veyer, s r de Kerandantec, Par. de Plouzan6, et du Ster, 
+Par. de C16den-Poher. 
+
+Gabriel Le Veyer, fils des pr6c6dents, seig r du Pare, de Coetenez 
+et du Ster, mourut au Pare et fut enterr6, en 1724, k Rosnoen , lais- 
+sant de son mariage avec Marie-Perronnelle de Kertean : 
+
+Roberte-Ang^lique Le Veyer, Dame du Pare, de Coetenez et du 
+Ster, Spouse de Claude-Ren6 de Guer , jnarquis de Pontcallec , frfcre 
+de Clement d6capit6, en 1720, pour sa participation & la conspira- 
+tion de Cellamare. 
+
+
+
+25° BEAUCORS : d'azur a deux fasces (Tor. 
+
+
+
+Geoffroy de Beaucors , Beaucours ou Beaucorps , s r du dit lieu , 
+Par. de St-Cast , Ev£ch6 de St-Brieuc , qui combattit au combat des 
+30 , n'eut qu'une fille , Jeanne , Dame de Beaucors , marine k Jean 
+Goyon, que dHozier, dans ses Tables g6n6alogiques, dit fils de Ber- 
+trand II Goyon , seig r de Matignon , et de Jeanne de Dinan. Ce Jean 
+Goyon estl'auteur des branches de Beaucors et du Vaurouault.(P. A n_ 
+selme, T. V., p. 400.) 
+
+Mais Geoffroi de Beaucors parait avoir eu un frfcre juveigneur, 
+nomm6 Jean , cite parmi les seigneurs Bretons qui accompagnfcrent 
+Charles de Blois en Angleterre , en 1356. Dans les comptes des 
+tr£soriers de Bretagfle , de 1464 k 1498 , on trouve Prigent , Yvon e t 
+Olivier de Beaucours dans les hommes d'armes du Due et les gentils. 
+hommes de la maison de la Reine ; mais nous ignorons si Ces per- 
+sonnages appartenaient k la famille de Beaucours de TEv6ch6 de St- 
+Brieuc, representee k la R6f. de 1513 par Alain de Beaucours, s r des 
+Landes , Par. de BrShant-Moncontour. 
+
+lis pourraient appartenir, avec les mfimes probability, k la famille 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 53 — 
+
+de Beaucours, originaire de la Par. de Bothoa, Ev. de Cornouailles, 
+representee & la Montre generate de Cornouailles de 1481 par Jean 
+de Beaucours, s r de Lopuen et de RocTicleuz, Par. de Duault, frfcre 
+aine de Guillaume, homme d'armes de Tortionnancc du Due, en 1490. 
+Guillaume obtint de Louis XII, en 1505, lettres de remission pour 
+avoir tue Nicolas Garic , epoux de Jeanne de Beaucours , sa niece 
+citee k la Ref. de 1536 , Par. de Duault. (Registre de la Chancellerie de, 
+Bretagne, F n 16, annee 1505-1506.) 
+
+Nous ne connaissons ni les amies des Beaucours de St-Brieuc, ni 
+celles des Beaucours de Cornouailles, et celles que nous donnons ici 
+appartiennent & une famille de Beaucorps sortie de Bretagne, etablie 
+depuis plusieurs sifccles dans le Dunois, et maintenue b Tintendance 
+de La Rochelle , en 1699, sur preuves remontant & 1548. 
+
+
+
+26° LANLOUP : d'azur a 6 annelets d'argent 3. 2. l. 
+
+Geslin de Lanloup a ete improprement appele Geslin d'Entraguy 
+par dArgentre , et Geslin de Troguindy par D. Morice. Le nom dTvn- 
+traguy est absolument inconnu dans les Chartes, Reformations, Mon- 
+tres et Nobiliaires de la province. Celui de Troguindy, confondu une 
+premiere fois avec Treziguidy , a ete porte , il est vrai , par une an- 
+cienne famille de la Par. de Penvenan , Ev. de Treguier, mais qui 
+n'avait aucun representant au combat des 30 , puisque le manuscrit 
+original ne rapporte pas ce nom, et cite , au contraire, ceux de Tre- 
+ziguidy et de Lanloup. 
+
+Geslin de Lanloup, sieur du dit lieu, Par. de ce nom, Eveche de 
+S.-Brieuc, devait etre descendu de Rolland de Lanloup et de Guil- 
+laume, son fils, qui firent accord avec les religieux de Beauport, 
+en 1266. 
+
+Jean, sieur de Lanloup , prete serment de fideiite au Due , entre 
+les nobles de Goello, en 1437, et est employe, ainsi que Rolland, 
+son fiis,epoux de Mahaut Botherel,& la Ref. de 1441, Par. de Lanloup. 
+
+La derniere heritiere de ce nom epousa , vers 1500 , Geoffroy Le 
+Picart, s r de la Demiville , Par. de Plelo, et leurs descendants, qui 
+prirent les noms et armes de Lanloup , ont ete maintenus & la Ref. 
+de 1668, et se sont fondus, de nos jours, dans les Bellingant. 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— S4 — 
+
+
+
+21° MELLON : (Tazur a 3 croix pattees d'argent. 
+(Sc. de i4i5). 
+
+Geoffroy de Mellon, s r du dit lieu, Par. de Pace, Ev. de Rennes, 
+tue des le premier choc aii combat des 30 : 
+
+A la premiere , fut grand le deconfort , 
+Charmel s*y fut pris , Geffroy Mellon fut mort ; 
+
+ne doit point 6tre confondu avec une famille Meslou , originaire de 
+Cornouailles, qui possedait, dans la Par. de Briec, les terres de Tre- 
+gatn et de S.-Eloy , et qui , dans Tarrfit de maintenue rendu en sa 
+faveur par le Parlement de Bretagne, en 1734, a prouve six genera- 
+tions seulement. Les preuves de la famille de Mellon, de rEvGche de 
+Rennes , faites k la Ref. de 1669 , etablissaient son gouvernement 
+noble sur tous les degres, b partir de Jean de Mellon, epoux de Guil- 
+lemette Baudouin, dont lTidtel est exempts defouages k la Ref. des 
+feux de la paroisse de Pace , en 1447. 
+
+Ce Jean paratt fils d'autre Jean de Mellon , Tun des signataires de 
+Tassociation de la noblesse de Rennes pour empficher Tinvasion 
+etrangfcre en 1379 , et c'est fc Tun d'eux qu'appartenait le sceau de 
+1415, tire d'roe quittance de gendarmes et reproduit par D. Morice. 
+(T. Jf., Scaatts,n* 112.) 
+
+Raoul , petit-fils de Jean et epoux dUeifene Havart, exempte, b la 
+Ref. de 1513 , sa metairie « size prfes le pastiz et village de Mellon , 
+pour ce qu'il a servi le temps passe aux armes.a Raoul fut le 5 C aieul 
+de Jacques , s r de Mellon et de la Guinardais , maintenu , ainsi que 
+nous l'avons dit , h la Reformation de 1669 , et dont les descendants 
+existent encore. 
+
+
+
+aS'SERENT-.d'or k 3 quintefeuilles de sable. (Sc.de i356). 
+
+Guillaume, sire de Serent, croise en 1248, laissa deux fils: l'aine, 
+Guillaume, n'eut qu'une fille, Isabeau, mariee, vers 1314, a Olivier 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 55 — 
+
+de la Chapelle , martchal de Bretagne , auquel elle porta la chatel- 
+lenie de S6rent, successivement poss6d6e depuis par les Rosmadec 
+et les S6n6chal de Garcado. 
+
+Son second fils , Alain , s r du Tromeur , paroisse de S6rent, 6pou- 
+sa Gillette de Malestroit, dontileut: Jehan ou Jehannot de S6rent,qui 
+combattait k la bataille des 30, et donnait, en 1356, une quittance 
+scell6e de ses armes de 1* somme de 80 6cus d'or, « b moy baillez 
+» par mandement de Monsieur le Due Charles pour acheter che- 
+» vaulx et moy mettre en arroy pour servir ez prtsentes guerres. » 
+Son nom et celui de Jean , son fils alng , sont frSquemment cit6s dans 
+les Montres cTOlivier de Glisson de 1375 et ann6es suivantes. II avait 
+6pous6 Jeanne de S.-Gilles, dont il eut, outre Jean, s r du Tromeur, 
+qui suit , Perrot de S6rent , s r de la Riviere , dont Tarticle viendra 
+aprfcs celui de son frfcre. 
+
+Jean, s r du Tromeur, capitaine du ch&tel et forteresse de Batz, en 
+1400, 6pousa Jeanne de Comenan, dont il n'eut qu'une fille unique : 
+Orfroise , Dame du Tromeur, Spouse 1° de Simon Delhoye , 8° de 
+Henry Hingant, 3° de Guillaume de Montauban. De ce dernier ma- 
+nage issut Esprit de Montauban, s r du Tromeur, dont le fils, Louis, 
+est cit£ dans la R6f. de 1513 , Par. de S6rent. A la R6f. de 1536, le 
+Tromeur appartenait aux d'Avaugour-Saint-Laurent ; en '1630, aux 
+Francheville , et lors de la redaction du rflle de Tarri^re-ban de Van- 
+nes, en 1666, aux Jocet de Kervillart. 
+
+Perrot , fils juveigneur de Jehannot de S6rent , eut en partage la 
+terre de la Rivifcre, en S&rent. II 6pousa, vers 1308, Jeanne Goyon, 
+de la maison de Goipel , et fut le quatrifcme aieul de Francois de Se- 
+rent, s r de la Rivifcre, pfcre de Pierre, dont la posterity existait encore 
+au dernier Steele, et de Julien, s r de Rerfily, quatri&me aieul de Ar- 
+mand-Louis, due de S4rent, dernier repr^sentant male de la maison 
+de S6rent, 6poux de Bonne-Marie-F61icit6 de Montmorency-Luxem- 
+bourg, pair de France, grand dTSspagne, Iieutenant-g6n6ral des ar- 
+mies du Roi, mort en 1822, ne laissant que deux filles , duchesses 
+de Narbonne-Pelet et de Damas-Crux. 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 56 — 
+
+29° LA LANDE": porte 3 ecussons, a la cotice brochant. 
+(Sceaude i365). 
+
+Guillaume de la Lande , juveigneur de la maison de la Lande , 
+Par. de Guichen , Ev. de S.-Malo, Tun des buyers du combat des 30 , 
+en 1351 , signe et scelle le traits de GuSrande en 1365. (D. Morice , 
+T. /., Pr., col. 1598 et Sceaux, n° 249). On peut croire que c'est du 
+m6me personnage que parle Aug. du Paz en son Histoire g6n6alo- 
+gique des Seigneurs de Guignen. On y rencontre du moins , k cette 
+£poque , un Guillaume de la Lande , 6poux de Jeanne , Dame de 
+Guignen , pfcre et mfcre de Tristan de la Lande, gouverneur des ville 
+et comte de Nantes, puis grand-maitre de Bretagne, mort en 1431. 
+Cette branche s'est fondue dans la maison d'Elbiest , qui a transmis 
+aux Saint-Amadour la chatellenie de Guignen, poss^dee ensuite par 
+les comtes de Vertus , b£tards de Bretagne , eteints au dernier sifccle. 
+
+Quant k la branche atn6e des la Lande , elle s^tait fondue , d&s 
+le xiv e sifccle , dans la maison d'AcignS , par le mariage de Jeanne , 
+Dame de la Lande, avec Jean I , sire d'AcignS , mort en 1421 , et leur 
+posterity s'est 6teinte k son tour dans les Coss6-Brissac, en 1573. 
+
+D'autres families de la Lande pourraient toutefois s'attribuer, quoi- 
+qu'avec moins de probability , le combattant des 30 , & Texception 
+toutefois des la Lande du Lou , auxquels on Fa particulterement 
+applique. En effet , cette famille, originaire du Maine, n'a fait preuve, 
+k la dernifere R£f., que depuis Mac6 de la Lande, gouverneur de la 
+Gravelle en 1450, p&re d'Artur, homme d'armes de Tordonnance 
+de la Duchesse en 1489, qui se fixa en Bretagne par son mariage avec 
+Jeanne de Meel , Dame du Lou , Par. le Lou-du-Lac , Ev6ch£ de Dol. 
+
+30° MONTE VILLE : (Targent a trois feuilles de houx de 
+sinople , a la bordure de sable. 
+
+Olivier de Monteville, s r de Launay, Par. de Plouec, Ev. de 
+Tr^guier, Tun des 6cuyers du combat des 30 , pouvait descendre de 
+Pierre de Monteville, s6n6chal de TrGguier en 1270. On trouve d'au- 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 57 — 
+
+(Tautres Monteville dans rhistoire,et parmi eux Guyon de Monteville, 
+archer dans une Montre de 1351, re^ue par Jean de Beaumanoir, oii 
+comparaissent 6galement Geoffroi du Bois , Tristan de Pestivien , 
+Alain de Keranrais, Louis Gou^on et Olivier de Fontenay, c'est-&- 
+dire six des combattants de Mi-Voie. En 1356, Simon de Monteville 
+comparalt , avec Simon Richard , autre combattant des 30 , k une 
+Montre dTSven Charuel. Bizien pr6te serment de fidelity au Due en 
+1371 ; Raoul , chevalier, rend hommage k la Dame de Retz comme 
+Dame de Ch£teaulin sur Trieuc, en 1382, et faisait la guerre eii Flan- 
+dres en 1383. On rencontre encore dans les Preuves de Doin Morice, 
+Charles de Monteville , ecuyer du corps et de la chambre du Due en 
+1420, et dans la Montre g6n6rale de TrGguier , en 1481 , Guillaume , 
+archer de la paroisse de Plouguiel. 
+
+Guy Le Borgne donne & cette famille les armes des Quden de Cor- 
+nouailles , bristes (Tune bordure de sable, ce qui indiquerait qu'elle en 
+serait issue en ramage ; mais nous la croirions plut6t issue des Qu^len 
+de Porhoet , attendu que les deux terres de Qu6len et du Plessix-t 
+Monteville sont voisines et situ^es , Tune et Tautre , dans la paroisse 
+de Guegon , Ev6ch6 de Vannes. 
+
+La seigneurie du Plessix-Monteville passa , d&s le xiv e sifcele , k 
+Pierre dTSstuer , qui laissa deux fils , Alain et Thomas. De Alain , s r 
+d'Estuer et du Plessix-Monteville, R6f.de 1426, Par. de Guegon, des- 
+cendait directement Louise, Dame des dits lieux, R6f. de 1536, Par. 
+de Gu6gon , raariee k Messire Dondel , chev r , seig r de la Roque. 
+
+Suivant le rflle de Farri^re-ban de Valines, en 1666, le Plessix- 
+Monteville appartenait alors k Jean de Faverolles , conseiller , no- 
+taire et secretaire du Roi , maison et couronne de France, et, en 1775, 
+aux Talhouet de Kerav^on et de Brignac. 
+
+Thomas, second fils de Pierre susdit, se fixa en Saintonge et a fait 
+la branche des seig" de Saint-M6grin , princes de Carencey et comtes 
+de la Vauguyon , fondus, en 1667, dans Qu^len-Porhoet. 
+
+D'aprfcs ce qui precede , nous croyons que la bordure de sable doit 
+£tre continue aux Monteville, comme marque de juveigneurie, mais 
+avec les armes de Qu^len de Porhoet , e'est-a-dire d'argent a trois 
+feuilles de houx de sinople. 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 58 
+
+
+
+31° RICHARD : 7 annelets 3. 3. 1 et une bordure. 
+(Sc. de i38i). 
+
+Et Symonet Richart pas n'y fera faillance. 
+
+Simon Richard, s r de Kerjean , Par. de Plestin, et de CoetlGguer, 
+Par. de Tr^grom , Ev£ch6 de Tr£guier, capitaine de Lesneven et Tun 
+des 30, comparait k une Montre regue par Even Charuel en 1356 et 
+dans une Montre de du Guesclin en 1370 ; jure Tassociation pour 
+emp£cher l'invasion 6trang6re en 1379, et ratifie, le 2 Mai 1381 , k la 
+Roche-Derrien , le c&fcbre traits de Gu6rande (Charte originate, J. 
+242 , n° 57 ; 2. Trisor des Chartes aux archives de FEmpire), oik son 
+sceau est encore appendu. L'ann^e suivante , il rend hommage k la 
+Dame de Retz comme Dame de Ch£teaulin sur Trieuc , et son nom 
+disparait, sans qu'on puisse savoir si les personnages suivants 6taient 
+ses petits-fils ou ses petits-neveux. 
+
+Geoffroy et M6rien comparaissent k la Reformation de 1427 , Par. 
+de Plestin ; Guillaume et Mah6 patent serment au Due , entre les 
+nobles de TrSguier et de Goello , en 1437 ; Jean accompagne le Due 
+en France en 1418 ; Nicolas, s r de Kerjean, comparait, entre les no- 
+bles de Plestin , k la Montre g6n6rale de Tr^guier de 1481 , en equi- 
+page d'archer k deux chevaux et page ; mais & la R6f. de 1543 , le 
+manoir de Kerjean 6tait sorti de sa famille et appartenait k Lazare 
+du Dresnay , qui le transmit k ses descendants. La branche de Coet- 
+16guer, en Tr^grom, existait seule et 6tait representee par Yvon Ri- 
+chard, k la Ref. de 1535 ; elle s'est eteinte, comme la prec6dente,avant 
+la Recherche de 1669. 
+
+Guy Le Borgne a confondu cette famille avec une autre du m£me 
+nom , originaire de Gu^rande et possessionn^e , au xvi e sifcele , dans 
+l*Ev6che de Leon. Celle-ci ne remontait qxx'k Pierre Richard, valet de 
+chambre du Due, anobli en 1439, pfcre de Pierre , bouteiller du Due, 
+confirm^ dens sa noblesse en 1443, et Tun des pr£d£cesseurs d'Oli- 
+vier, chanoine de Nantes, Rennes et L6on , mort en 1555, et dont 
+on voit la tombedans la chapelle de Tariec, paroisse de Plouvien. 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 59 — 
+
+
+
+BIOGRAPHIE 
+
+
+
+DE BEMBRO ET DE SES TRENTE COMPAGNONS. 
+
+
+
+L'exposition que nous nous sommes propose de faire des 
+
+glorieux episodes du combat des Trente , serait incomplete , 
+
+si , bornant notre relation aux particularites qui se rattachent 
+
+a Torigine , aux gestes et a la descendance des 3o Bretons , 
+
+nous passions sous silence ce que nous avons pu recueillir 
+
+sur leurs adversaires.Les Anglais combattirentassezvaillam- 
+
+ment pour que chacun eut le droit , en rendant son epee , 
+
+de repeter, comme plus tard le Roi chevalier a la bataille 
+
+de Pavie : 
+
+Tout est perdu , fors Chonneur ! 
+
+Bien loin done de souscrire au Vce victim de Tite-Live , 
+nous inscririons plutdt sur le monument de Mi-Voie , a la 
+suite des noms des vainqueurs : Honneur au courage mal- 
+heureux ! 
+
+Aussi nous sommes-nous efforce d'ecrire la biographie 
+des compagnons de Bembro , dont aucun auteur ne s'est en- 
+core preoccupy ; mais leur identite etait difficile a etablir. 
+Choisis , en effet , parmi les routiers Anglais ou Flamands 
+engages par Edouard III pour servir d^auxiliaires a la com- 
+tesse de Montfort , si quelques-uns , comme Knolles et Ca- 
+verley, se sont fait un nom dans PHisloire, la plupart ne 
+nous sont connus que par le poeme original , ou les noms 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 60 — 
+
+sont souvent alteres. Les epithetes qualificatives dont ces 
+noms sont suivis,ne paraissent meme avoir d 1 autre cause que 
+les besoins de la rime et ajoutent encore a la confusion. On 
+doit cependant remarquer que les epithetes donnees aux 
+Bretons sont generalement plus honorables que celles appli- 
+quees a leurs adversaires, sans doute par suite de Tesprit de 
+nationality qui anime le trduvere. Ainsi, Charuel est sur- 
+nomme le bon ; Tinteniac , \ejier; Rouxelot , cceur de lion / 
+Catus , le sage ; Pestivien , le vaillant ; tandis que , du cole 
+des Anglais , Bembro est dit \efebn , et d'autres sont qua- 
+lifies le renard* le vilart , le gaillard* le tail/art, le musart, 
+le coiiart. 
+
+Froissart , la Chronique du Religieux de Saint-Denis , 
+THistoire de Jean IV, dit le Conquerant , par Guillaume de 
+Saint-Andr^ , et le Roman de du Guesclin , par Cuvelier , 
+citent quelques-uns de ces personnages avec des variantes 
+dans Porthographe de leurs noms ; nous avons du quelque- 
+fois donner ces variantes , dans Timpossibilite ou nous 
+etions de choisir la meilleure version. 
+
+1° BEMBRO. 
+
+Richard Bembro, capitaine de Ploermel pour Edouard III, irrito 
+de la mort de fun de ses compagnons , Thomas d 'Agewortk , tue prfcs 
+dAuray, en 1350, et ne pouvant venger cette mort sur ses auteurs , 
+attaqaait et rangonnait , malgr6 la trfcve , les gens inoffensifs qu'il 
+pouvait surprendre , et par des exc&s de ce genre , d^terraina Beau- 
+manoir k lui jeter son gage de bataille. La pr^somption de Bembro 
+ne lui servit pas plus que son courage ; il fut tue , comme on Ta vu , 
+par Alain de Keranrais et Geoffroy du Bois, au plus fort de la m<Mee ; 
+mais son nom ne s'eteignit point avec lui en Bretagne. II paralt, au 
+contraire , que sa posterity , comme celle des Harpedane , Bentelee , 
+Melbourne, David, Thomelin, Ferrers, Delbiest, et autres partisans 
+Anglais ou Flamands, se fixa en Bretagne aprfcs la paixde Guerande. 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 61 — 
+
+On trouve Robert Bembro, capitaine du ch&teau de Fougeray , tue k 
+la prise de cette place par du Guesclin , en 1353, et Guillaume Bern 
+bro , tue en combat singulier, par du Guesclin en personne , au sifcge 
+de Rennes, en 1357. Mais nous ignorons duquel de ces trois person- 
+riages pouvait descendre Henry Bembro , qui rendait hommage , en 
+1396, au vicomte de Rohan , pour le fief du Rest, situ6 dans la pa- 
+roisse dlnsinzac, Ev6ch6 de Vannes. 
+
+Ce fief du Rest appartenait , lors de la Reformation des fouages 
+dlnsinzac, en 1448, k Jean Bembro ; k la Montre g^n^rale de 1481, 
+a autre Jean Bembro, archer en brigandine, et k la Reformation de 
+1536 , k Henry Bembro , dont la famille s'eteignit bient6t aprfcs. 
+
+La declaration de 1666 des terres nobles de Vannes sujettes au ban 
+et arriere-ban, d6signe comme possesseur du Rest, Frangoise de S.- 
+Giron, veuve d'un sieur Le Moine, et Guillaume Le Moine, s r du Rest,' 
+son fils ; c'est tout ce qui est parvenu & notre connaissance sur les 
+Bembro et les seigneurs du Rest , en Insinzac. 
+
+2° KNOLLES : un chevron charge de 3 trefles (Sc. de i363); 
+alias : dW a la fasce de gueules chargee de 3 fleurs de 1 ys 
+d'or. (Portef. des Blancs-Manteaux..) 
+
+Robert Knolles, n6 vers 1317, dans le comte de Chester, appar- 
+tenait k une famille de basse extraction et ne dut sa fortune qn'k lui- 
+m6me. (1). Prisonnier au combat des 30, il d^fit, Tann6e suivante* 
+au pont d'Evran , du Guesclin , que Robin Adfcs (yoy. cenom) prit et 
+mit k rangon , et accompagnait le Due de Lancastre et Chandos aux 
+sifcges de Rennes en 1357 et de Dinan en 1359. Vers cette epoque , la 
+guerre s^tant ralentie en Bretagne , et les aventuriers de chaque parti 
+s'y trouvant sans occupation , Knolles s'eloigna de cette province et 
+ravagea successivement la Normandie, le Berry et TAuvergne. De re- 
+tour en Bretagne, il prit, en 1363, une part active au si&ge de Be- 
+cherel , oil Tusage du canon fut introduit pour la premiere fois dans 
+notre province , et Sl la bataille d'Auray , en 1364 , oti il coramandait 
+un des corps d'arm<te, il fit prisonnier le comte d'Auxerre. Recom- 
+pense par le don des seigneuries de Rouge et de Derval , des services 
+qu'il avait rendus au comte de Montfort, mais ne pouvant plus exer- 
+
+(1) Rapin Thoiras, Hiitoire d'Angleterrc; la Haye, 1724. 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 62 — 
+
+cer son ancien metier en Bretagne , oti le traits de Gu^rande avail 
+apporte momentan^ment la paix, il s'adjoignit Hue de Caverley pour 
+porter le fer et la flamme dans les provinces de Picardie et de Cham- 
+pagne. Caverley s^tant ensuite uni & du Guesclin pour faire la guerre 
+en Aragon , Knolles resta en Guyenne , dont le prince Noir Tavait 
+nomm6 sen^chal , et £touffa , de concert avec Chandos , la rebellion 
+de cette province contre TAngleterre. 
+
+De retour d'Espagne, du Guesclin retrouva de nouveau Knolles 
+pour adversaire , et le battit & Pontvalain , en Normandie , en 1370. 
+
+Knolles put cependant gagner son chateau de Derval , 06 il faisait 
+transporter son riche butin depuis plusieurs ann^es, et ayant fait char- 
+ger sur des b6tes de somme ce qu'il avait de plus pr^cieux , il sortit 
+furtivement de Derval, avec le projet d'aller mettre ses richesses en 
+stlrete, en s'embarquant pour TAngleterre ; mais atteint dans sa mar- 
+che par Olivier de Clisson , il fut enti&rement d6fait et perdit en un 
+jour le fruit de ses longues rapines. II parvint toutefois h entrer dans 
+Brest, et for$a le constable & lever le stege de cette place , en 1373. 
+
+Du Guesclin tourna alors ses forces contre Derval, mais il ne fut pas 
+plus heureux dans cette nouvelle entreprise. Knolles trouva le moyen 
+de se jeter dans Derval, oil par repr^sailles de la mort violente de ses 
+otages , ordonn^e par le due d'Anjou , il fit d^capiter , k la vue des 
+asstegeants , quatre prisonniers , dont il fit jeter la t6te et le corps dans 
+le foss6; contraignit une fois de plus du Guesclin k sVttoigner, et 
+rentra dans Brest , dont le Roi Richard lui avait donn6 le gouverne- 
+ment. Nous le retrouvons, en 1380, au stege de Nantes , avec Caver- 
+ley, dans Tarm^e du comte de Buckingam ; il retourna avec ce prince 
+en Angleterre , en 1381 , et y terminates jours , vers 1406 , dans ses 
+terres du comte de Kent, & l'dge de 90 ans. 
+
+Nous avons nomm6 le constable d'Aquitaine Jean Chandos , seig r 
+du Gavre en Bretagne, vicomte de SaintrSauveur en Normandie , et 
+le rival de gloire du conn^table du Guesclin ; nous ne pensons pas 
+nous 6carter de notre sujet en ajoutant quelques mots sur ce person- 
+nage , m616 aux principaux 6v6nements du xiv" sifccle. 
+
+II figure successivement aux batailles de Cr6cy et de Poitiers et 
+aux sifcges de Rennes et de Dinan , signe le traite de Brequigny, si 
+funeste & la France, et contribue au gain de la bataille d'Auray, oii il 
+fait prisonnier Bertrand du Guesclin. Celui-ci 6tant parvenu & se ra- 
+cheter, profita de sa liberty pour d^livrer le royaume des grandes 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 63 — 
+
+bandes , composes d'avcnturiers de toutes nations qui vivaient de 
+pillage et meUaient leur courage mercenaire au service du plus of- 
+frant. II conduisit les grandes compagnies en Espagne, et se retrouva 
+en face de Jean Chandos k la bataille de Navarette , oti le sort fut 
+encore contraire au futur conn^table de France. 
+
+Deux ans aprfcs, Chandos fut tue, en 1369, dans une escarmouche, 
+k Lussac , en Poitou , par un seigneur breton , Guillaume Bouestel , 
+homme d'armes de la comp^gnie de Jean de Kerlouet , capitaine de 
+la Roche-Pozay. II laissait un neveu, nomine Jean , comme lui, dont 
+la posterity , suivant Guy Le Borgne , se serait 6tablie dans le L6on ; 
+mais nous n'avons pas rencontre le nom de Chandos post6rieurement 
+aux Chartes du xiv e stecle , ou son sceau porte un pal aiguist. 
+
+
+
+3° CAVERLEY : une fasce frettee , accompagnee de 3 boucs 
+passants. (Sceau de i363). 
+
+Hue de Caverley, le hardy jovencel , prisonnier au combat des 30, 
+ne tarda pas k 6tre £chang£ ou rachet& ; mais il ne jouit pas longtemps 
+de sa liberte, car au combat de Montmuran, en 1354, il fut pris par 
+Engu^rand de H6din , gentilhomme picard , que Froissart noramc k 
+tort parmi les corabattants de Mi-Voie. Caverley prit k son tour du 
+Guescliu k JuignS, dans le Maine, ou Bertrand s'etait porte au secours 
+de Pierre de Craon , et sa rangon pour lui et les siens lui collta 30,000 
+ecus ; mais il eut sa revanche en 1364 , en r^duisant , prfcs de Valo- 
+gnes , une place gard^e par Caverley, et ce dernier fut oblige , pour 
+se librirer, de restituer k du Guesclin la somme qu'il en ayait exig^e 
+lui-m6me k Juign£. II reprit sur-le-champ les armes ,* et k la bataille 
+dAuray, oil Chandos avait le commandement en chef et Knolles celui 
+du premier corps d'armSe , Caverley , & la tfite de Tarrifcre-garde , 
+decida du sort de la bataille. Protitant aussit6t de la d^route de Tar- 
+m6e de Charles- de Blois , il s'empara de la ville et de Tabbaye de 
+Redon , dont il rait k rangon Tabb6 Jean de Tr6al , et aprfcs avoir 
+etendu ses ravages dans plusieurs parties de la France , k la t£te de 
+ses routiers, il s'unil k du Guesclin, son ancien ennemi, pour porter 
+la guerre en Espagne, dans les Etats de Pierre-le-Cruel. 
+
+Les grandes compagnies commenc&rent par ran^onner le Pape 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 64 — 
+
+dans Avignon , et apres avoir franchi les Pyr6n6es , elles se disttn- 
+gufcreut particulifcrement au sifcge de Tolede ; mais le prince de Galles, 
+dit le prince Noir, auquel s^tait joint Chandos, eut la gloire de 
+vaincre et de faire prisonnier du Guesclin, & la bataille de Navarelte. 
+Bertrand fixa lui-meme sa rangon k 100,000 florins, sur lesquels Ca- 
+verley lui en offrit 30,000 ; et du Guesclin, cre6 conn&able de France* 
+en 1370 , se retrouva bientdt aux prises avec les rouliers de Knolles' 
+et de Caverley, qui avaient pris de nouveaux engagements avec les 
+Anglais, et que le connetable vainquit k Pontvalain , en Norniandie. 
+
+Caverley, capitaine de Calais en 1378, passa en Angleterre avec le 
+Due de Brelagne, et reprit la mer, Fannie suivante, pour revenir en 
+Bretagne. Assailli dans la travers£e par une violente temp£te qui brisa 
+son navire k la c6te dlrlande , il parvint k se sauver k la faveur d'une 
+epave, et on le retrouve, en 1379 , ratifiant le lrait6 conclu entre le 
+Roi Richard et le Due Jean IV, et, en 1380, au sifcge de Nantes, avec 
+son compagnon Robert Knolles, dans Farm^e du comte de Buc- 
+kingam. 
+
+En 1383, sous pretexte que les Flaraands avaient reconnu le Pape 
+Clement VII au lieu dTJrbain VI , reconnu par F Angleterre, Caverley 
+alia ravager la Flandre et se fortilia dans la villa de Bergues. Mais 
+menace par les troupes niunies du Roi de France, du Due de Bretagne 
+et du comte de Flandres, il fut contraint dabandonner cette place et 
+de se retirer avec les siens dans Gravelines. II ne tarda pas k y Stre 
+investi et fut oblige de capituler ; mais il ne rendit la ville qu'aprfcs 
+en avoir ras6 les fortifications , et en sortit vies et bagues sauves. 
+La trfcve d'un an sign6e , k la mSrae 6poque , entre les couronnes de 
+France et d'Angleterre , nous empSche de le suivre davantage ; il 
+est probable qu'il retourna definitivement en Angleterre avec ses 
+compagnons d'armes , lorsque le Due de Bretagne cong^dia ses 
+auxiliaires. 
+
+4° CROQUART, 
+
+Croquart, aventurier allemand , prit le commandement des An- 
+glais aptes la mort de Bembro, au combat des 30, et s'efforQa de rani- 
+mer le courage de ses compagnons, affaibli par la perte de leur chef. 
+
+Seigneurs, sachiez de vray en fine veritez, 
+Failly nous a Bembro , qui cy nous a menez , 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 65 — 
+
+Tous les livres Merlin que il a tant aimes 
+
+Ne luy ont pas valu deulx deniers monnoies : 
+
+II gist gueule bee (btante) et mort et renverse. 
+
+Je vous prye, beaulx seigneurs, faciez comme gens membrez : 
+
+Cil qui viendra sur vous , soict mort ou affole (Jblessd). 
+
+Ce fut , dit d'Argentre , un vaillant voleur , qui de varlet ou page 
+d'un seigneur hollandais , etait devenu sergent d'un homme d'armes 
+dans les guerres de Bretagne. Ce second maitre ayant ete tue, ses gens 
+elurentCroquart,qu'ils savaient homme de coeur et de main, pour les 
+commander k sa place. II fit des profits considerables dans ses ex- 
+peditions, prenant et surprenant maisons , bourgs et chateaux , qu'il 
+revendait ensuite k d'autres partisans ou aux anciens possesseurs , 
+et il amassa de la sorte plus de 40,000 ecus, sans compter un grand 
+nonibre de chevaux de prix. Sa reputation s'etendit jusqu'fc la cour de 
+France , et le Roi Jean voulut Tattirer k son service , lui promettant, 
+pour le gagner , de le faire chevalier, de le marier avantageusement 
+et de lui donner 2,000 livres de rente. Mais Croquart refusa toutes 
+ces offres et prefera le metier de brigand k tout etablissement. Enfin, 
+aprfcs bien des concussions et des exploits militaires , il se rompit le 
+cou, en voulant franchir un fosse sur un cheval qui s'abattit sous lui. 
+(Voy. Froissart, Chap. 149.) 
+
+5° PLESANTO'N, 6° RIDELE, 7°HELECOQ,8*REPEFORT. 
+
+Messire Jehan Pu&SANTON,RiDfcLK, alias Ridart, alias RAOUL,dit le 
+Gaillard ou le Guerrier, suivant les besoins de la rime; Helecoq, alias 
+Hur.o, frfcre du precedent; Repefori, dit le Vaillant, ne nous som 
+connus que par le pofeme, qui dit qu'ils furent faits prisonniers a la 
+fin de Taction. 
+
+9° TAILLARD. 
+
+Jeannequin Toigne, dit le Taillard, prisonnier d'Olivier de Mauny 
+dans une rencontre avec du Guesclin aux environs du Guildo , en 
+1352, s'etant taxe pour sa ran^on k 600 ecus, dit k du Guesclin qu'il 
+esperait les lui faire rendre, ce qu'il executa bientCt apres, ayant pris 
+du Guesclin entre Dinan et Becherel, etlui ayant fait payer deux fois 
+autant. (D'Argmtrt, Chap. 28 Liv. V.) 
+
+9 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+66 — 
+
+
+
+10° LA LANDE. 
+
+Richard de la Lande, dit le Fier, prisonnier au combat des 30, se 
+retrouve dans des Montres d'Olivier de Clisson , revues k Vannes en 
+4375 et annSes suivantes. 
+
+11° HENEFORT. 
+
+Cil combattoit d'un mail qui pesoit bien le quart 
+De cent livres d'acier , si Dieu ait en moy part 
+
+Cil qu'il attaint a coup dessus son hasterel (la nuque) 
+Jamais ne mangera de miche ne de gastel. 
+
+Thomelin Henefort conduit prisonnier au chateau de Josselin, se 
+retrouve, en 1381 , au sifcge de Nantes, avec Knolles et Caverley ; el 
+il fut Tun des cinq Anglais qui accepterent le d6fi port6 par quinze 
+gentilshoinmes fran^ais de Th6tel de Louis, due de Bourbon , jaloux 
+de la gloire acquise par les Bretons au combat des 30. Jean d'Orron- 
+ville , auteur, en 1429, de la Vie du Due de Bourbon, rapporte que ces 
+quinze gentilshommes demandferent k Buckingam, k se battre contre 
+un pareil nombre d' Anglais , dans un&tle de la Loire, sans autres 
+juges que deux heraults, Tun Anglais , Tautre Frangais. Buckingam 
+leur donna rendez-vous k Vannes , mais cinq Anglais seulement se 
+presentment, et il fut convenu qu'on se battrait k armes nomrrUes , 
+savoir : 5 coups de lance, 5 coups d'6p6e, 8 de hache et 3 de dague, 
+le tout & pied. Thomelin Henefort fournit ses coups de lance contre 
+Jean LeBarrois, mais au premier coup d'6p6e, il eut l^paule traver- 
+see, ce qui le mithors de combat, et les quatre autres Fran^ais eurent 
+aussi Pavantage. 
+
+12° CLAMABAN. 
+
+Hucheton Clamaban ne nous est connu que par ces vers du pofcme : 
+
+Hucheton Clamaban combattoit d'un fauchart 
+Qui tailloit d'un coste , crochu fut d'aultre part , 
+Devant fut amour6 (affdt) trop plus que n'est un dart : 
+Cil qu'il attaint k coup , Ykme du corps lui part. 
+
+
+
+Digiti 
+
+
+
+zed by G00gle 
+
+
+
+— 67 — 
+
+13'BETONCHAMP, 14°HER0UART, 15°GAULE, 
+16°HYBINET, 17° HENNEQUIN. 
+
+Jeannequin BfiTONCHAMP, alias Guenehoup ; Hennequin H£rouart, 
+du m6me nom qu'OuviER H£rouart, ecuyer dans une Montre d'Eus- 
+tachede Mauny, regue en 1371; Gaule ou Gaultier dit YAUemand; 
+Hybinet , al\ds Hulbit£e , dit le Villart , c'est-&-dire le vilain : ce 
+n'gtait , suivant d'Argentr6 , qtfun soldat de basse condition , mais 
+homme de grande taille , puissant et fort ; Hennequin le Mareschal , 
+sy mourut cellepart. 
+
+18° HU ALTON, 19°ROBINET, 20* HELICHON, 
+2l°LEXUALEN. 
+
+Nous n'avons rien d^couvert sur Thomelin Hualton ; Robinet, dit 
+MauUopart; H^lichon, dit le Mtisart, et messire Herv£ de Lexuat 
+len , dont le nom n'est donne que par D'Argentrt seulement. 
+
+22° ISANNAY. 
+
+Guillaume Isannay, dit le Hardi, faisait partie, en 1363, des 300 
+Anglais conduits par Je^n Felleton au secours de B^cherel asstege 
+p&r Charles de Blois , qui furent battus et disperses par du Guesclin 
+dans les landesdeCombourg,auprfcs de Meillac. (D'Arg.ch.39Jiv.V.) 
+
+23° VUIN. 
+
+Jean de Vuin, improprementappel£ Valentin, par d'Argentr^, nous 
+est connu, en outre , par Christine de Pisan, en sa Vie de Charles V. 
+C^tait un ecuyer gallois, surnomm^ le Poursuivant d'amours , parent 
+et compagnon dTvain de Galles , avec lequel il revint en France en 
+1372. 
+
+24° TROUSSEL. 
+
+Jean alias Robin Troussel appartenait k la famille de Guillaume 
+Troussel , chevalier anglais , Fun des procureurs d'Edouard III pour 
+traiter en cour de Rome d'un traits de paix avec Philippe de Valois, 
+en 1342. Jean Troussel ayant 6t6 fait prisonnier par du Guesclin, en 
+1356,Guillaume Troussel 6crivit & ce dernier pour le prier de mettre 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 68 — - 
+
+son parent en liberty, et lui envoya une obligation pour sflrete de sa 
+ran^on. Bertrand ne jugea pas Apropos de lui accorder cette grace, et 
+Troussel , piqu6 de ce refus , Tenvoya d^fier & Pontorson , et lui de- 
+manda trois coups de lance et deux coups d'ep6e. Bertrand accepta 
+le combat, k condition que celui qui serait vaincu donnerait cent 6cus 
+pour regaler les tdmoins du combat. Les deux champions se rendirent 
+k Pontorson au jour marqu^ et entrfctent en lice avec leurs ecuyers. 
+Troussel, da premier coup de lance, fit vider les arsons & Bertrand ; 
+mais ce dernier se remit bientdt en selle et porta un coup si violent 
+k Troussel , qu'il lui perga Tdpaule de part en part. Troussel tomba 
+par terrc, se rendit etpayales cent 6cus. (D'Argentrt, Ch. 35, Liv.V.) 
+
+25° ADES. 
+
+Robin Ad£s , sous la conduite de Robert Knolles, prit et ran^onna 
+du Guesclin au pont d*Evran , en 1382. (D'Argentrd, Ch. 28 , Liv. V.) 
+
+26° ANDELEE. 
+
+James d'Andel£e , dit le Couart , que la Chronique de Jean de S.- 
+Paul nomme AdelS , se retrouve, avec Robert Knolles, dans Tarm^e 
+du due de Lancastre, au stege de Rennes, en l386.(Lobineau. p. 318.) 
+
+27° AGEWORTH ou EDGEWORTH. 
+
+Le dernier Anglais , nomm6 dans le pofcme Dagorne , fut Edge- 
+worth , neveu de Thomas , dont la famille , originaire du comte de 
+Middlesex, s'etablit en Irlande sous le rfcgne d'Elisabeth. (1) 
+
+« Et le neveu Dagorne , fier comme un leopard. » 
+
+Thomas dAgeworth , capitaine-g£n6ral enBretagne pour Edouard 
+HI, qui l'y avait envoys au secours de la comtesse de Montfort avec 
+100 hommes d'armes et 200 archers , r6duisit , en 1344 , la ville de 
+Dinan et y mil le feu ; vainquit , Fannie suivante , les troupes de 
+Charles de Blois dans la lande de Cadoret , paroisse de Gu6gon ; ac- 
+compagna ensuite le comte de Montfort au si&ge de Quimper , que les 
+partisans de Charles de Blois robligfcrent k lever, et, en 1346, vain- 
+quit Charles de Blois lui-m6me k la bataille de la Roche -Derrien, ou 
+ce prince fut fait prisonnier. Thomas dAgeworth , qui avait 6pous6 
+
+(1) Ce nom s'est immortalise par les sublimes paroles de Fabbe* Edgeworth au rui 
+Louis XVI montant a Fechafaud : « Fits de saint Louis , monte* au Ciel ! » 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 69 — 
+
+Alienor, coratesse d'Ormond , fut tu6 , en 1350, prfcs d'Auray, par 
+un avenlurier anglais nomra6 Raoul Cahours, qui , quoique comblS 
+des bienfaits dTSdouard, se laissa gagner par Philippe de Valois, sui 
+la promesse d'une somrae de 24,000 livres. (D.Lobin., Hist., p. 342.) 
+Cette mort , comme nous l'avons vu , fut la cause principale du 
+combat des 30. Mais Bembro n'ayant pu rencontrer dans la garnison 
+de Ploermel assez d'Anglais pour completer le chiffre de 30 combat- 
+tants, (1) fut oblige d y joindre des auxiliaires Allemands et Braban- 
+Qons et m6me quatre Bretons du parti de Montfort. Nous avons pu 
+recueillir sur ces derniers des renseignements plus complets que sur 
+plusieurs des routiers auxquels ils s^taient assoctes. 
+
+28° COMENAN : de sable a 3 chevrons (Targent. 
+
+Perrot de Comenan, sieurde Bovel, Par. de S£rent, Ev6ch6 de 
+Vannes, Tun des champions du combat des 30, du c6t6 des Anglais, 
+parait avoir laiss6 posterity. 
+
+On trouve Guillemet de Comenan , et trois combattants des 30 , 
+savoir : Guy de Rochefort , Caro de Bod6gat et Hugues Catus , dans 
+une Montre re$ue par Thibaut de Rochefort en 1351 ; mais ce Guille- 
+met nesuivait pas, comme Ton voit, la mdrae banntere que Perrot. 
+Perrot de Comenan, parait avoir 6t6 fr&re juveigneur de Robert, che- 
+valier, seig r de Comenan et de la Gras, Par.de Rieux. Perrot est cite 
+ainsi que Robert et Raoulet do Comenan dans des Montres d'Oli- 
+vier de Clisson en 1375 ; autre Robert, s r de Comenan et de la Gras, 
+est employ^ dans les Reformations de 1426 & 1447 , Par. de Rieux ; 
+Pierre , Tune des 40 lances de la garnison de Brest sous le sire de 
+Malestroit, en 1454, est nomm6 dans plusieurs comptes d'Olivier 
+Bault, tr^sorier des guerres, ainsi que Francois et Renaud de Co- 
+menan, de 1450 & 1466; enfin, Robert, abb6 de G6neston , Ev£ch6 
+de Nantes, mourut.en 1509. Cette branche s'est fondue, vers cette 
+epoque , dans la maison du Cleuz de R^dillac , qui a transmis , par 
+alliance, Comenan aux Huchet de la B^doyfcre , en 1536, et les Huchet 
+de Cintr6 poss^daient encore cette terre au dernier sifccle. 
+
+(1) Parmi les anglais, Robert Knolles et Hue de Caverley sont les seuls dont nous 
+commissions les sceaux. On a cooserve* la plupart de ceux des partisans de Charles de 
+Blois et nous doonons au frontispice de notre ouvrage, une monnaie de ce prince , imiie> 
+d'un gros du Roi Jean. 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 70 - 
+
+A la branche de Bovel appartenait Morice de Comenan , Tun des 
+signataires de la ligue des seigneurs contre lcs Penthifcvre en 1420, 
+employe dans la Reformation de 1426, paroisse de Serent: Geffrione 
+Hamon , veuve de Morice de Comenan , comparait comme tutrice de 
+Jean, son fils, k la Montre generale de 1481, paroisse de Serent, et ce 
+dernier a sa maison de Bovel exemptee de fouages & la Reformation 
+de 151 3 4 \ faite dans la mSnae paroisse de Serent. Cette branche se 
+fondit, vers cette epoque, dans les Quistinit, puis Rosmadec du 
+Plessix-Josso. En 1669 , Anne-Cecile de Rosmadec , Dame de Bovel , 
+epousa Pierre L'Olivier, s r de Saint-Maur et de Lochrist, et leurs des- 
+cendants apporterent en mariage la seigneurie de Bovel aux S.-Pern- 
+Ligouyer, qui la possedaient encore en 1790. 
+
+29° LE GAILLARD. 
+
+Guillemin ou en breton Guillou le Gailurd , qui possedait, en 
+1320, des heritages dans les paroisses de Pommeret et Hillion, Ev£- 
+che de Saint-Brieuc (D. Morice, T. /., Pr. 9 col. 101S), pourrait etre le 
+pfcre du combattant de 1351 ou ce combattant lui-meme. 
+
+On trouve aussi Jean et Guillaume le Gaillard , le premier comme 
+homme d'armes et le second , arbaletrier dans la Montre de Jean de 
+Penhoet pour le recouvrement de la personne du Due , en 1420 ; Jean 
+Gaillard, employe dans la Reformation de 1459, paroisse d'Hillion, et 
+Catherine Gaillard, Dame d'atours de la Reine Anne en 1498. 
+
+30° APREMONT : (Targent a 3 croissants de gueules. 
+
+Guy d'Apremont, chevalier dans une Montre du sire de Derval, en 
+1351 , et Raoulet d'Apremont , sieur de Renac , paroisse de ce nom , 
+EvSche de Vannes , paraissent descendus Tun et Tautre de Gausbert, 
+sire d'Apremont, croise en 1248. 
+
+Raoulet , qui suivit le parti de Jean de Montfort et combattit dans 
+les rangs anglais en 1351, epousa Julienne Soual ; et ayant acquis le 
+droit de sepulture dans Tabbaye de Redon , il y fonda , de concert 
+avec sa compagne , la chapellenie de la Perche , en 1364. {Monaster 
+Hum Benedictinum , vol. 38, mss. Biblioth&que Imptriale.) 
+
+lis laissfcrent une fille , Jeanne d'Apremont , Dame de Renac , 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 71 — 
+
+Spouse , en 1390 , de Jean Harpedane (Ogee , verbo Rtnac) , veuf de 
+Jeanne de Clisson , Dame dc Belleville, soeur du connetable. 
+
+La baronnie de Renac a appartenu ensuite & la comtesse d'Etampes, 
+mere du Due Francois II ; puis k Tanguy du Chastel , grand-maitre 
+de Bretagne, tue en 1477. Jeanne du Chastel , sa fille , Tapporta en 
+manage k Louis de Montejean, pere : 1° de Rene, marechal de France, 
+tue en Piemont en 1538 ; 2° de Anne de Montejean , baronne de R6- 
+nac, epouse de Jean d'Acigne, raort en 1539. 
+
+A la fin du xvi° siecle , cette terre dut entrer dans la maison de 
+Cosse , avec tous les biens de la branche ainec d'Acigne , par le ma" 
+riage de Judith d'Acigne, Dame du dit lieu et de Renac, avec Charles 
+de Cosse , due de Brissac , marechal de France , mort en 1621. Mais 
+en 1666 , suivant la Declaration des terres nobles de Vannes sujettes 
+aubaneXarvibrt-ban , la baronnie de Renac etait possedee par Da- 
+mien Martel , conseiller du Roi en ses conseils d'Etat et prive et lieu- 
+tenant-general des armies navales , et , au dernier stecle , par la fa- 
+mille du Fresne de Virel. 
+
+31° ARDAINE : seme cTancolies, a la bande chargee de 
+feuilles de houx. (Sceau de i382). 
+
+Et d'Ardaine le derain del convei (compagnie) soudoiant 
+Fat mort et abattu en un pre verdoiant. 
+
+C'est, en effet, le dernier combattant designe dans le poenie. II fut 
+tue k la fin de Taction ; mais son nom, connu avant lui dans Thistoire, 
+ne perit pas non plus avec lui. Ainsi , on trouve Juhel , sire d'Ardaine, 
+Paroisse de S. Georges de Reintembault, Ev£ch6 de Rennes, temoin 
+d'une donation faite k l'abbaye de Savigne en 1150 ; Olivier, son fils, 
+temoin d'une donation faite k l'abbaye de Rille en H63, et Guillaurae 
+d'Ardaine , ecuyer dans une Montre du sire de Leon , rogue k The- 
+rouanne, en Artois , en 1383. 
+
+Les seigneurs d'Ardaine , sergents feodes hereditaires de la baron- 
+nie de Fougercs , se fondirent, au commencement du xv e siecle, dans 
+la maison de Romilley, en faveur de laquelle Ardaine fut erige en 
+marquisat,enl684. Cettc raaisoi* a fini k Marguerite de Romilley, 
+marquise de la Chesnelaye et d'Ardaine, mariee, en 1728, k Michel de 
+Roncherolles , marquis du Pont-Saint-Pierre , en Normandie. 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+— 72 — 
+
+On peut remarquer , en terminant , que sur les 62 cham- 
+pions du combat de Mi-Vdie , choisis dans trois nations 
+differentes, 35 appartenaient a la Bretagne , ata FAngle- 
+terre et 6 a FAllemagne ou au Brabant. 
+
+Apres cinq siecles ecoules, combien de families pourraient 
+avec certitude, prouver leur descendance directe de ces rudes 
+jouteurs , qui font encore Fhonneur de la pa trie bretonne ? 
+
+Des calculs , bases sur des verifications plusieurs fois re- 
+nouvelees dans les Chartes de notre histoire , depuis le Xll e 
+siecle , font connaitre que les families qui y sont mention- 
+nees , ont disparu a raison de deux cinquiemes par siecle. 
+Si Ton appliquait ce calcul a PAngleterre , le chiflre des ex- 
+tinctions serait encore plus rapide. Mais , en nous en tenant 
+a la Bretagne , si nos appreciations £taient rigoureuses , il 
+n*existerait plus que deux ou trois des families bretonnes du 
+combat des Trente. Aussi les families patriciennes seraient 
+bien clairsemees de nos jours , si la noblesse ne s^etait pas 
+recrutee , au moyen des anoblissements , dans une propor- 
+tion egale au moins, aux extinctions qu'independamment de 
+toutes autres causes, les guerres et les revolutions ont ame- 
+nees. Par la se verifient ces paroles de Bossuet : » Cest Dieu 
+seul, qui donne et qui ote la puissance ; qui la transporte 
+d'un homme a un autre , d\ine maison a une autre , d'un 
+peuple a un autre, pom* montrer qu'ils ne Pont tous que par 
+emprunt, et quHl est le seul en qui elle reside naturelle- 
+ment. » 
+
+
+
+Imprimcri* de L. P«v»'a<mai. 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+ARMOIRIES DES BRETONS. 
+
+I 2 3 
+
+
+
+PL.l 
+
+
+
+
+
+
+
+
+s 
+
+
+
+
+o 
+
+
+n 
+
+
+
+
+
+
+
+
+
+
+
+
+P. de Courcy del, 
+
+
+
+
+Lilhod : L . PRUD'HOMME , S* Bieuc '. 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+ARMOIRIES DES BRETONS. 
+
+19 20 21 
+
+
+
+
+
+
+PL.H. 
+
+
+
+
+□ □□□I 
+
+a □ a 
+
+LIU 
+
+
+
+
+
+
+
+
+31 
+
+
+
+
+
+ANGLAIS. 
+
+
+
+
+
+
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+« * 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+
+Digitized by 
+
+
+
+Google 
+
+
+
+01 
+
+
+
+» 
+
+
+
+Www 
+
+
+
+wmm 
+
+
+
+■ ■ 
+
+
+
+ME 
+
+
+
+••* j* ■ 
+
+
+
+/i.^;i. 
+
+
+
+:**>> 
+
+
+
+■ ■ 
+
+
+
+^H 
+
+
+
+>J"tt 
+
+
+
+ft 
+
+■ 
+
+Hi 
+
+
+
+'.■{■wi 
+
+
+
+m 
+
+
+
+nm 
+
+
+
+
+
+
+
+H 
+
+
+
+
+
+
+
+
+
+
+■■•■•-'•■'■■.■■ 
+
+
+
+III 
+
+
+
+hi 
+
+mm 
+
+
+
+:i»,;f 
+
+
+
+:>"■%'. 
+
+
+
+
+
+
+-h'j'VT* 
+
+
+
+'■.;V : .': 
+
+
+
+■r 
+
+
+
+■ 
+
+
+
+■ 
+
+
+

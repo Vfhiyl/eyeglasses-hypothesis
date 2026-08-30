@@ -1,0 +1,1414 @@
+{
+  "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785941963632",
+  "version": "1x7o",
+  "session_context": {
+    "session_key": "user__alanobrienterry918272@gmail.com",
+    "created": "2026-08-05T14:59:27Z",
+    "client_characterization": {
+      "characterized_by": "asserted_or_authenticated",
+      "preferred_client_ip": null,
+      "client_ip": "182.10.99.211:sra",
+      "preferred_client_useragent": null,
+      "client_useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36:sua",
+      "preferred_client_id": null,
+      "client_id": "alanobrienterry918272@gmail.com:sco"
+    },
+    "username": "alanobrienterry918272@gmail.com",
+    "authentication_method": "cookie",
+    "is_system": false,
+    "is_guest": false,
+    "is_user": true,
+    "is_archive_user": false,
+    "is_qualified": false,
+    "is_archivist": false,
+    "has_universal_privs": false,
+    "has_collection_priv": false,
+    "has_allowed_host_priv": false,
+    "has_vpn_host_priv": false,
+    "has_scan_center_priv": false,
+    "has_any_priv": false,
+    "has_any_priv_permissive": false,
+    "pps": {
+      "is_page_target_owner": false,
+      "contributed_review_on_page": false,
+      "full_text_search_override": false,
+      "sees_sensitive_fields": false
+    },
+    "pps_relevant_user_preferences": {
+      "display__blur_moderated_content": "on"
+    }
+  },
+  "request": {
+    "client_request_parameters": {
+      "client": "page_production_service_endpoint",
+      "user_query": "title:(Stanley papers) mediatype:texts",
+      "hits_per_page": 20,
+      "page": 1,
+      "aggregations": [],
+      "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785941963632",
+      "client_url": "https://archive.org/search?query=title%3A%28Stanley+papers%29+mediatype%3Atexts"
+    },
+    "backend_requests": {
+      "search": {
+        "root": "(self)",
+        "children": [
+          "collection_title_fetch__db0f9fd8264dacc4ce424f18a7f79813"
+        ],
+        "request_type": "search",
+        "finalized_parameters": {
+          "client": "page_production_service_endpoint",
+          "user_query": "(redacted)",
+          "hits_per_page": 20,
+          "page": 1,
+          "aggregations": [],
+          "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785941963632",
+          "client_url": "https://archive.org/search?query=title%3A%28Stanley+papers%29+mediatype%3Atexts",
+          "page_type": "search_results",
+          "fields": [
+            "_tile_"
+          ],
+          "sort": [
+            "_relevance_:desc",
+            "identifier"
+          ],
+          "aggregations_size": 10,
+          "service_backend": "metadata",
+          "scope": "standard",
+          "feature_flags": {
+            "complex_facets": true,
+            "collection_titles": true,
+            "redact_collections": true,
+            "redact_collections_by_privs": false,
+            "redact_empty_collections": true,
+            "redact_admin_collections": true,
+            "protect_flagging_collections": true
+          },
+          "service": "service__metadata__load_balanced"
+        }
+      },
+      "collection_title_fetch__db0f9fd8264dacc4ce424f18a7f79813": {
+        "root": "search",
+        "parent": "search",
+        "request_type": "collection_title_fetch",
+        "finalized_parameters": {
+          "page_type": "document_fetch",
+          "user_query": "(redacted)",
+          "aggregations": [],
+          "caching": null,
+          "fields": [
+            "identifier",
+            "title"
+          ],
+          "search_as_system": true,
+          "page": 1,
+          "hits_per_page": 250,
+          "sort": [
+            "_efficient_"
+          ],
+          "service_backend": "metadata",
+          "scope": "ill,printdisabled_and_music,scancenter",
+          "service": "service__metadata__load_balanced"
+        }
+      }
+    }
+  },
+  "caching": {
+    "search": {
+      "name": "PPS-1x7o-J:ID-RT:s~hit-T:sr-Q:3d7d4e73-H:20-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+      "acceptable_names": [
+        "PPS-1x7o-J:ID-RT:s~std-T:sr-Q:3d7d4e73-H:20-B:mds-RS:sta~CS::P:0+CS:some+BR:1"
+      ],
+      "configuration": {
+        "requested": [],
+        "finalized": {
+          "bypass": false,
+          "recompute": false,
+          "no_compute": false,
+          "ttl_s": 300,
+          "max_age_s": 0,
+          "miss_policy": "none"
+        }
+      },
+      "utilization": {
+        "went_to_cache": true,
+        "alternates_allowed": true,
+        "hit_alternate": false,
+        "hit_canonical": false,
+        "hit": false,
+        "miss": true,
+        "recomputed": true,
+        "stored": true,
+        "acceptable_names_tried": [
+          "PPS-1x7o-J:ID-RT:s~std-T:sr-Q:3d7d4e73-H:20-B:mds-RS:sta~CS::P:0+CS:some+BR:1"
+        ],
+        "elapsed_s": 0.7688648700714111
+      },
+      "statsd_bucket": "search.pps.cache.metadata.search_results"
+    },
+    "collection_title_fetch__db0f9fd8264dacc4ce424f18a7f79813": {
+      "name": "PPS-1x7o-J:ID-RT:ctf-T:df-Q:e28c6d39-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1",
+      "acceptable_names": [],
+      "configuration": {
+        "requested": [],
+        "finalized": {
+          "bypass": false,
+          "recompute": false,
+          "no_compute": false,
+          "ttl_s": 300,
+          "max_age_s": 0,
+          "miss_policy": "none"
+        }
+      },
+      "utilization": {
+        "went_to_cache": true,
+        "alternates_allowed": true,
+        "hit_alternate": false,
+        "hit_canonical": false,
+        "hit": false,
+        "miss": true,
+        "recomputed": true,
+        "stored": true,
+        "elapsed_s": 2.646251916885376
+      },
+      "statsd_bucket": "search.pps.cache.metadata.search_results"
+    },
+    "summary": {
+      "fetched": [],
+      "computed": [
+        "PPS-1x7o-J:ID-RT:s~hit-T:sr-Q:3d7d4e73-H:20-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:ID-RT:ctf-T:df-Q:e28c6d39-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "stored": [
+        "PPS-1x7o-J:ID-RT:s~hit-T:sr-Q:3d7d4e73-H:20-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:ID-RT:ctf-T:df-Q:e28c6d39-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "missed": [
+        "PPS-1x7o-J:ID-RT:s~hit-T:sr-Q:3d7d4e73-H:20-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:ID-RT:ctf-T:df-Q:e28c6d39-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "bypassed": []
+    }
+  },
+  "elapsed_secs": 3.4313838481903076,
+  "response": {
+    "header": {
+      "succeeded": true,
+      "query_time": 102,
+      "forensics": {
+        "client_characterization": {
+          "client_ip": "182.10.99.211:sra",
+          "client_id": "alanobrienterry918272@gmail.com:sco",
+          "client_useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36:sua",
+          "preferred_client_ip": null,
+          "preferred_client_id": null,
+          "preferred_client_useragent": null,
+          "application_id": {
+            "session": [
+              "pageproduction"
+            ],
+            "request": []
+          },
+          "client_jurisdiction": "ID",
+          "preferred_client_jurisdiction": null,
+          "actionable_jurisdiction": "ID",
+          "characterized_by": "asserted_or_authenticated",
+          "ensured": true
+        },
+        "routing": {
+          "backend": "es-prod-metadatasearch-filtered",
+          "backend_server": "es-prod-client-n-02",
+          "routed_to_load_balanced": true,
+          "index_addressed": "prod-n-001"
+        },
+        "backend_request_elapsed_secs": {
+          "search": 0.7688648700714111,
+          "collection_title_fetch__db0f9fd8264dacc4ce424f18a7f79813": 2.646251916885376
+        }
+      },
+      "elapsed_secs_for_backend_requests": 3.415116786956787
+    },
+    "body": {
+      "hits": {
+        "total": 34,
+        "returned": 20,
+        "hits": [
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "stanleypapers703manc",
+              "title": "Stanley papers.",
+              "description": "v. 1. Earls of Derby, by Thomas Heywood.--v. 2. Derby household books, by William Ffarington.--v. 3. Private devotions & miscellanies of James, seventh earl of Derby",
+              "subject": [
+                "Derby, J. S"
+              ],
+              "creator": [
+                "Manchester,Chetham soc.,",
+                "Heywood, Thomas, 1797-1866"
+              ],
+              "collection": [
+                "uffamilysearch",
+                "univ_florida_smathers"
+              ],
+              "date": "1853-01-01T00:00:00Z",
+              "year": 1853,
+              "volume": "v.70:pt.3",
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 427929101,
+              "files_count": 22,
+              "downloads": 375,
+              "week": 5,
+              "month": 14,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "addeddate": "2016-10-19T15:27:39Z",
+              "publicdate": "2016-10-19T14:24:01Z"
+            },
+            "highlight": null,
+            "_score": [
+              51.627
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "stanleypapers663manc",
+              "title": "Stanley papers.",
+              "description": "v. 1. Earls of Derby, by Thomas Heywood.--v. 2. Derby household books, by William Ffarington.--v. 3. Private devotions & miscellanies of James, seventh earl of Derby",
+              "subject": [
+                "Derby, J. S"
+              ],
+              "creator": [
+                "Manchester,Chetham soc.,",
+                "Heywood, Thomas, 1797-1866"
+              ],
+              "collection": [
+                "uffamilysearch",
+                "univ_florida_smathers"
+              ],
+              "date": "1853-01-01T00:00:00Z",
+              "year": 1853,
+              "volume": "v.66:pt.3",
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 556796578,
+              "files_count": 23,
+              "downloads": 990,
+              "week": 21,
+              "month": 69,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "addeddate": "2016-10-19T15:27:49Z",
+              "publicdate": "2016-10-19T14:24:03Z"
+            },
+            "highlight": null,
+            "_score": [
+              51.31285
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "stanleypapers312manc",
+              "title": "Stanley papers.",
+              "description": "v. 1. Earls of Derby, by Thomas Heywood.--v. 2. Derby household books, by William Ffarington.--v. 3. Private devotions & miscellanies of James, seventh earl of Derby",
+              "subject": [
+                "Derby, J. S"
+              ],
+              "creator": [
+                "Manchester,Chetham soc.,",
+                "Heywood, Thomas, 1797-1866"
+              ],
+              "collection": [
+                "uffamilysearch",
+                "univ_florida_smathers"
+              ],
+              "date": "1853-01-01T00:00:00Z",
+              "year": 1853,
+              "volume": "v.31:pt.2",
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 4,
+              "item_size": 689712786,
+              "files_count": 22,
+              "downloads": 2455,
+              "week": 33,
+              "month": 130,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "addeddate": "2016-10-19T15:27:53Z",
+              "publicdate": "2016-10-19T14:24:04Z"
+            },
+            "highlight": null,
+            "_score": [
+              51.28922
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "stanleypapers291manc",
+              "title": "Stanley papers.",
+              "description": "v. 1. Earls of Derby, by Thomas Heywood.--v. 2. Derby household books, by William Ffarington.--v. 3. Private devotions & miscellanies of James, seventh earl of Derby",
+              "subject": [
+                "Derby, J. S"
+              ],
+              "creator": [
+                "Manchester,Chetham soc.,",
+                "Heywood, Thomas, 1797-1866"
+              ],
+              "collection": [
+                "uffamilysearch",
+                "univ_florida_smathers"
+              ],
+              "date": "1853-01-01T00:00:00Z",
+              "year": 1853,
+              "volume": "v.29:pt.1",
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 1,
+              "item_size": 164549084,
+              "files_count": 22,
+              "downloads": 461,
+              "week": 5,
+              "month": 14,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2016-10-19T15:27:57Z",
+              "publicdate": "2016-10-19T14:24:05Z"
+            },
+            "highlight": null,
+            "_score": [
+              51.160217
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "stanleypapers673manc",
+              "title": "Stanley papers.",
+              "description": "v. 1. Earls of Derby, by Thomas Heywood.--v. 2. Derby household books, by William Ffarington.--v. 3. Private devotions & miscellanies of James, seventh earl of Derby",
+              "subject": [
+                "Derby, J. S"
+              ],
+              "creator": [
+                "Manchester,Chetham soc.,",
+                "Heywood, Thomas, 1797-1866"
+              ],
+              "collection": [
+                "uffamilysearch",
+                "univ_florida_smathers"
+              ],
+              "date": "1853-01-01T00:00:00Z",
+              "year": 1853,
+              "volume": "v.67:pt.3",
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 444257296,
+              "files_count": 22,
+              "downloads": 232,
+              "week": 3,
+              "month": 8,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "addeddate": "2016-10-19T15:27:44Z",
+              "publicdate": "2016-10-19T14:24:02Z"
+            },
+            "highlight": null,
+            "_score": [
+              51.00414
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "paperscorrespond0007jevo",
+              "title": "Papers and correspondence of William Stanley Jevons",
+              "description": "volumes 24 cm",
+              "subject": [
+                "Jevons, William Stanley, 1835-1882",
+                "Economists -- Correspondence",
+                "Economics",
+                "Economists -- Biography",
+                "Économistes -- Biographies",
+                "Économie politique",
+                "Économistes -- Correspondance",
+                "economics",
+                "Economists",
+                "Economische stelsels"
+              ],
+              "creator": [
+                "Jevons, William Stanley, 1835-1882"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "universityofarizonalib"
+              ],
+              "date": "1972-01-01T00:00:00Z",
+              "year": 1972,
+              "volume": "7",
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 1102724494,
+              "files_count": 34,
+              "downloads": 30,
+              "week": 1,
+              "month": 2,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_printdisabled",
+              "addeddate": "2022-11-25T19:01:49Z",
+              "source": "removed",
+              "publicdate": "2022-11-24T04:32:18Z"
+            },
+            "highlight": null,
+            "_score": [
+              37.93755
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "paperscorrespond0004jevo",
+              "title": "Papers and correspondence of William Stanley Jevons",
+              "description": "volumes 24 cm",
+              "subject": [
+                "Jevons, William Stanley, 1835-1882",
+                "Economists -- Correspondence",
+                "Economics",
+                "Economists -- Biography",
+                "Économistes -- Biographies",
+                "Économie politique",
+                "Économistes -- Correspondance",
+                "economics",
+                "Economists",
+                "Economische stelsels"
+              ],
+              "creator": [
+                "Jevons, William Stanley, 1835-1882"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "universityofarizonalib"
+              ],
+              "date": "1972-01-01T00:00:00Z",
+              "year": 1972,
+              "volume": "4",
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 975944458,
+              "files_count": 34,
+              "downloads": 30,
+              "week": 0,
+              "month": 4,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_printdisabled",
+              "addeddate": "2022-11-25T22:16:31Z",
+              "source": "removed",
+              "publicdate": "2022-11-24T04:07:21Z"
+            },
+            "highlight": null,
+            "_score": [
+              37.592957
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "paperscorrespond0005jevo",
+              "title": "Papers and correspondence of William Stanley Jevons",
+              "description": "volumes 24 cm",
+              "subject": [
+                "Jevons, William Stanley, 1835-1882",
+                "Economists -- Correspondence",
+                "Economics",
+                "Economists -- Biography",
+                "Économistes -- Biographies",
+                "Économie politique",
+                "Économistes -- Correspondance",
+                "economics",
+                "Economists",
+                "Economische stelsels"
+              ],
+              "creator": [
+                "Jevons, William Stanley, 1835-1882"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "universityofarizonalib"
+              ],
+              "date": "1972-01-01T00:00:00Z",
+              "year": 1972,
+              "volume": "5",
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 679242247,
+              "files_count": 34,
+              "downloads": 42,
+              "week": 0,
+              "month": 3,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_printdisabled",
+              "addeddate": "2022-11-25T19:01:20Z",
+              "source": "removed",
+              "publicdate": "2022-11-24T04:18:19Z"
+            },
+            "highlight": null,
+            "_score": [
+              37.592957
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "paperscorrespond00jevo",
+              "title": "Papers and correspondence of William Stanley Jevons",
+              "description": "v. 25 cm",
+              "subject": [
+                "Jevons, William Stanley, 1835-1882",
+                "Economists",
+                "Economics"
+              ],
+              "creator": [
+                "Jevons, William Stanley, 1835-1882"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "1972-01-01T00:00:00Z",
+              "year": 1972,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 924771862,
+              "files_count": 28,
+              "downloads": 91,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_browse",
+              "addeddate": "2012-04-13T18:42:50Z",
+              "publicdate": "2012-04-13T18:43:30Z"
+            },
+            "highlight": null,
+            "_score": [
+              37.53919
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "szymanskistanley00furt",
+              "title": "Szymanski, Stanley, immigration sponsorship papers, dated 1948 (England)",
+              "description": "Held at the Chicopee Polish Center, in its Felix Furtek Papers collection, these immigration sponsorship papers, dated 1948, for Victor Myzia of England. Other named person is Stanley Szymanski.",
+              "subject": [
+                "England",
+                "Immigrants",
+                "Massachusetts"
+              ],
+              "creator": [
+                "Furtek, Felix"
+              ],
+              "collection": [
+                "polishcenter",
+                "regionaldigitizationmass"
+              ],
+              "date": "1948-01-01T00:00:00Z",
+              "year": 1948,
+              "language": [
+                "ENG"
+              ],
+              "mediatype": "texts",
+              "item_size": 32134369,
+              "files_count": 23,
+              "downloads": 96,
+              "week": 1,
+              "month": 3,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "addeddate": "2018-11-06T14:51:18Z",
+              "publicdate": "2018-11-06T13:19:35Z"
+            },
+            "highlight": null,
+            "_score": [
+              35.760254
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "wirkusstanleydis00furt",
+              "title": "Wirkus, Stanley, displaced person resettlement papers (Germany) dated 1949",
+              "description": "Held at the Chicopee Polish Center, in its Felix Furtek Papers collection, these papers, dated 1949, are concerned with a displaced person resettlement for Michal Wroblewski of Germany. Other named person is Stanley Wirkus.",
+              "subject": [
+                "Germany",
+                "Immigrants",
+                "Massachusetts"
+              ],
+              "creator": [
+                "Furtek, Felix"
+              ],
+              "collection": [
+                "polishcenter",
+                "regionaldigitizationmass"
+              ],
+              "date": "1949-01-01T00:00:00Z",
+              "year": 1949,
+              "language": [
+                "ENG"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 1,
+              "item_size": 32981757,
+              "files_count": 22,
+              "downloads": 111,
+              "week": 1,
+              "month": 5,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "addeddate": "2018-11-06T14:54:28Z",
+              "publicdate": "2018-11-06T13:20:20Z"
+            },
+            "highlight": null,
+            "_score": [
+              33.676865
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "sieronstanleypap00furt",
+              "title": "Sieron, Stanley, papers dated 1946,1947 and 1949 for immigration sponsorship",
+              "description": "Held at the Chicopee Polish Center, in its Felix Furtek Papers collection, these papers dated 1946,1947 and 1949 for immigration sponsorship. Other named persons are Leon Sieron and Stanley Sieron.",
+              "subject": [
+                "Massachusetts",
+                "France"
+              ],
+              "creator": [
+                "Furtek, Felix"
+              ],
+              "collection": [
+                "polishcenter",
+                "regionaldigitizationmass"
+              ],
+              "language": [
+                "ENG"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 1,
+              "item_size": 54031768,
+              "files_count": 23,
+              "downloads": 144,
+              "week": 1,
+              "month": 5,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "addeddate": "2018-11-06T14:47:59Z",
+              "source": "special",
+              "publicdate": "2018-11-06T13:18:48Z"
+            },
+            "highlight": null,
+            "_score": [
+              32.870136
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "juchastanleypape00furt",
+              "title": "Jucha, Stanley, papers dated 1959 for a refunded boat ticket",
+              "description": "Held at the Chicopee Polish Center, in its Felix Furtek Papers collection, these papers dated 1959 for a refunded boat ticket. Other named persons are Genowefa Juszczyk and Stanley Jucha.",
+              "subject": [
+                "Immigrants",
+                "Massachusetts",
+                "England"
+              ],
+              "creator": [
+                "Furtek, Felix"
+              ],
+              "collection": [
+                "polishcenter",
+                "regionaldigitizationmass"
+              ],
+              "date": "1959-01-01T00:00:00Z",
+              "year": 1959,
+              "language": [
+                "ENG"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 2,
+              "item_size": 42940780,
+              "files_count": 23,
+              "downloads": 121,
+              "week": 0,
+              "month": 5,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "addeddate": "2018-11-06T14:36:30Z",
+              "publicdate": "2018-11-06T13:16:04Z"
+            },
+            "highlight": null,
+            "_score": [
+              32.802944
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "barlogstanleypap00furt",
+              "title": "Barlog, Stanley, papers, dated 1951-1952, that include immigration sponsorship information",
+              "description": "Held at the Chicopee Polish Center, in its Felix Furteck Papers collection, these papers, dated 1951-1952, include immigration sponsorship for Wladyslaw,Bronislawa, Jozefa, and Stefania Kaminski. Other named person is Stanley Barlog.",
+              "subject": [
+                "Immigrants",
+                "Massachusetts",
+                "Poland",
+                "New Zealand"
+              ],
+              "creator": [
+                "Furtek, Felix"
+              ],
+              "collection": [
+                "polishcenter",
+                "regionaldigitizationmass"
+              ],
+              "language": [
+                "ENG"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 1,
+              "item_size": 115278916,
+              "files_count": 23,
+              "downloads": 121,
+              "week": 1,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "addeddate": "2018-11-06T14:26:01Z",
+              "publicdate": "2018-11-06T13:13:35Z"
+            },
+            "highlight": null,
+            "_score": [
+              31.455227
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "palmastanleypape00furt",
+              "title": "Palma, Stanley, Papers, dated 1953-1955 and 1957, detailling immigration sponsorship",
+              "description": "Held at the Chicopee Polish Center, in its Felix Furtek Papers collection, these papers, dated 1953-1955 and 1957, detail immigration sponsorship for Anna Palma and children. Other named person is Stanley Palma.",
+              "subject": [
+                "Canada",
+                "Immigrants",
+                "Massachusetts",
+                "Poland"
+              ],
+              "creator": [
+                "Furtek, Felix"
+              ],
+              "collection": [
+                "polishcenter",
+                "regionaldigitizationmass"
+              ],
+              "language": [
+                "Eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 1,
+              "item_size": 86286758,
+              "files_count": 23,
+              "downloads": 110,
+              "week": 0,
+              "month": 2,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "addeddate": "2019-01-02T18:09:09Z",
+              "source": "special",
+              "publicdate": "2019-01-02T17:10:01Z"
+            },
+            "highlight": null,
+            "_score": [
+              31.118261
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "gruszkastanleypa00furt",
+              "title": "Gruszka, Stanley, papers dated 1947 for immigration sponsorship and cancelled boat tickets",
+              "description": "Held at the Chicopee Polish Center, in its Felix Furtek Papers collection, these papers dated 1947 for immigration sponsorhip and cancelled boat tickets. Other named persons are Ludwik Henryk Gawron, Louis Henry Gawron and Stanley Gruszka.",
+              "subject": [
+                "Immigrants",
+                "Massachusetts",
+                "Poland"
+              ],
+              "creator": [
+                "Furtek, Felix"
+              ],
+              "collection": [
+                "polishcenter",
+                "regionaldigitizationmass"
+              ],
+              "date": "1947-01-01T00:00:00Z",
+              "year": 1947,
+              "language": [
+                "ENG"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 1,
+              "item_size": 56634201,
+              "files_count": 23,
+              "downloads": 118,
+              "week": 1,
+              "month": 5,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "addeddate": "2018-11-06T14:34:35Z",
+              "publicdate": "2018-11-06T13:15:37Z"
+            },
+            "highlight": null,
+            "_score": [
+              30.108315
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "mendrekstanleypa00furt",
+              "title": "Mendrek, Stanley, papers, dated 1949-1950, related to displaced person resettlement in Germany",
+              "description": "Held at the Chicopee Polish Center, in its Felix Furtek Papers collection, these papers, dated 1949-1950, are related to displaced person resettlement in Germany for Piotr, Olga, and Maria Sawiki. Other named person is Stanley Mendrek.",
+              "subject": [
+                "Germany",
+                "Immigrants",
+                "Massachusetts"
+              ],
+              "creator": [
+                "Furtek, Felix"
+              ],
+              "collection": [
+                "polishcenter",
+                "regionaldigitizationmass"
+              ],
+              "language": [
+                "ENG"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 1,
+              "item_size": 23378070,
+              "files_count": 23,
+              "downloads": 145,
+              "week": 1,
+              "month": 3,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "addeddate": "2018-11-06T14:44:29Z",
+              "publicdate": "2018-11-06T13:17:58Z"
+            },
+            "highlight": null,
+            "_score": [
+              29.107391
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "studiesinenglish0000unse_n4a4",
+              "title": "Studies in English language & literature : \"doubt wisely\" : papers in honour of E.G. Stanley",
+              "description": "xiii, 545 pages ; 24 cm",
+              "subject": [
+                "Stanley, Eric Gerald",
+                "English philology -- Old English, ca. 450-1100",
+                "English philology -- Middle English, 1100-1500",
+                "English philology -- Middle English",
+                "English philology -- Old English",
+                "Oudengels",
+                "Filologie",
+                "Philologie anglaise -- ca. 450-1100 (vieil anglais)",
+                "Philologie anglaise -- 1100-1500 (moyen anglais)",
+                "Anglais (langue)",
+                "Littérature anglaise -- 450-1100 (vieil anglais) -- Histoire et critique",
+                "Littérature anglaise -- 1100-1500 (moyen anglais) -- Histoire et critique"
+              ],
+              "collection": [
+                "internetarchivebooks"
+              ],
+              "date": "1996-01-01T00:00:00Z",
+              "year": 1996,
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 4,
+              "item_size": 1179170441,
+              "files_count": 32,
+              "downloads": 134,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_printdisabled",
+              "addeddate": "2020-06-18T10:05:51Z",
+              "source": "removed",
+              "publicdate": "2020-06-11T12:10:49Z"
+            },
+            "highlight": null,
+            "_score": [
+              29.01186
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "majdanikstanleyj00furt",
+              "title": "Majdanik, Stanley J., immigration sponsorship papers dated 1946-1947 for immigration from Poland.",
+              "description": "Held at the Chicopee Polish Center, in its Felix Furtek Papers collection, these papers, dated 1946-1947, detail immigration sponsorship for Paula Kruk. Other named person is Stanley J. Majdanik.",
+              "subject": [
+                "Immigrants",
+                "Massachusetts",
+                "Poland"
+              ],
+              "creator": [
+                "Furtek, Felix"
+              ],
+              "collection": [
+                "polishcenter",
+                "regionaldigitizationmass"
+              ],
+              "language": [
+                "ENG"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 1,
+              "item_size": 13168263,
+              "files_count": 23,
+              "downloads": 168,
+              "week": 0,
+              "month": 12,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "addeddate": "2018-11-06T14:43:14Z",
+              "publicdate": "2018-11-06T13:17:40Z"
+            },
+            "highlight": null,
+            "_score": [
+              28.84962
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "rozmanemilstanle00furt",
+              "title": "Rozman, Emil Stanley, Immigration sponsorship papers and a cancelled boat ticket (dated 1947, France)",
+              "description": "Held at the Chicopee Polish Center, in its Felix Furtek Papers collection, these papers, dated 1947, are concerned with immigration sponsorship and include a cancelled boat ticket for Wladyslaw Mikos of France. Other named person is Emil Stanley Rozman.",
+              "subject": [
+                "France",
+                "Immigrants",
+                "Massachusetts",
+                "Poland"
+              ],
+              "creator": [
+                "Furtek, Felix"
+              ],
+              "collection": [
+                "polishcenter",
+                "regionaldigitizationmass"
+              ],
+              "date": "1947-01-01T00:00:00Z",
+              "year": 1947,
+              "language": [
+                "Eng"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 1,
+              "item_size": 19050054,
+              "files_count": 23,
+              "downloads": 135,
+              "week": 3,
+              "month": 4,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "addeddate": "2019-01-02T18:12:50Z",
+              "publicdate": "2019-01-02T17:10:53Z"
+            },
+            "highlight": null,
+            "_score": [
+              27.692379
+            ]
+          }
+        ]
+      },
+      "collection_titles": {
+        "univ_florida_smathers": "University of Florida George A. Smathers Libraries",
+        "universityofarizonalib": "The University of Arizona Library",
+        "polishcenter": "The Polish Center of Discovery and Learning",
+        "uffamilysearch": "UF Family Search",
+        "regionaldigitizationmass": "Regional Digitization in Massachusetts, administered by the Boston Public Library",
+        "internetarchivebooks": "Internet Archive Books"
+      }
+    },
+    "hit_schema": {
+      "item": {
+        "identifier": {
+          "multivalue": false,
+          "mapping": "string"
+        },
+        "noindex": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "optional": true
+        },
+        "title": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "description": {
+          "multivalue": false,
+          "mapping": "string",
+          "dressing": {
+            "truncate": 1000
+          },
+          "optional": true
+        },
+        "subject": {
+          "multivalue": true,
+          "mapping": "string",
+          "dressing": {
+            "truncate": 1000
+          },
+          "optional": true
+        },
+        "creator": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "collection": {
+          "multivalue": true,
+          "mapping": "string",
+          "comment": "may be a superset of metadata collection field"
+        },
+        "date": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "year": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed from date",
+          "optional": true
+        },
+        "genre": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "volume": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "type": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "language": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "mediatype": {
+          "multivalue": false,
+          "mapping": "string"
+        },
+        "licenseurl": {
+          "multivalue": false,
+          "mapping": "string__url",
+          "optional": true
+        },
+        "num_favorites": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true,
+          "comment": "computed during document construction"
+        },
+        "num_reviews": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true,
+          "comment": "computed during document construction"
+        },
+        "item_size": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "bytes; computed during document construction"
+        },
+        "files_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction"
+        },
+        "item_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction",
+          "optional": true
+        },
+        "displayed_item_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction, may be inferred from item_count",
+          "optional": true
+        },
+        "collection_files_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction, for collection items only",
+          "optional": true
+        },
+        "collection_size": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "bytes; computed during document construction, for collection items only",
+          "optional": true
+        },
+        "downloads": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "total views over item lifetime, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "week": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "views over a seven-day period, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "month": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "views over a month, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "indexflag": {
+          "multivalue": true,
+          "mapping": "string",
+          "comment": "item characterization including noindex status"
+        },
+        "lending___available_to_borrow": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___available_to_browse": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___available_to_waitlist": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___status": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "avg_rating": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true
+        },
+        "addeddate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "issue": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "format varies",
+          "optional": true
+        },
+        "source": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "format varies",
+          "optional": true
+        },
+        "reviewdate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "publicdate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "date_favorited": {
+          "multivalue": false,
+          "mapping": "date",
+          "comment": "not metadata; only present in favorites lists, sourced from Lists API",
+          "optional": true
+        },
+        "reviews_data": {
+          "multivalue": true,
+          "dressing": {
+            "truncate": false
+          },
+          "mapping": "string",
+          "comment": "untruncated JSON encoded data used for Account reviews",
+          "optional": true
+        }
+      }
+    }
+  }
+}

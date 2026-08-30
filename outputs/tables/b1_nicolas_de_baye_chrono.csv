@@ -1,6 +1,13 @@
-person_id,date,event,source,note
-nicolas_de_baye,1400-11,greffier_parlement_begins,tuetey_journal_span,Journal/office span Nov 1400–Nov 1416 (Tuetey ed.).
-nicolas_de_baye,1416-11,spectacle_self_report_lunettes,tuetey_journal_petition,Petition: débilité de ma veue; cannot enregistrer without lunettes. Evidence onset.
-nicolas_de_baye,1417-01,conseiller_clerc_enquetes,tuetey_notice_biographique,Relieved as greffier; provided as conseiller clerc (Chambre des Enquêtes / Grand Chambre). Near-work continues.
-nicolas_de_baye,1418,burgundian_proscription,tuetey_notice_biographique,Proscribed after Burgundian takeover of Paris; active office ends. Soft activity terminus.
-nicolas_de_baye,1419-05-09,death_terminus,wikidata_Q3340895,"Death 9 May 1419. years_after soft=2 (1416→1418), not survival to death."
+person_id,date,event,source,role,note
+nicolas_de_baye,1416-11,spectacle_self_report_lunettes,Tuetey_Journal_notice_biographique,wear_onset,"Petition: reduced by weakness of sight to use lunettes; asks relief as greffier and provision as conseiller clerc (Nov 1416)."
+nicolas_de_baye,1416-11-12,greffe_journal_session,Tuetey_Journal_vol2_IA,near_work_documentary,"Jeudi xij jour de novembre 1416 — still recording Parlement (Chancellor Henry de Marie session)."
+nicolas_de_baye,1416-11-17,greffe_journal_session,Tuetey_Journal_vol2_IA,near_work_documentary,"Mardi xvij jour de novembre 1416 — greffe near-work continues after spectacle petition month."
+nicolas_de_baye,1416-12-07,greffe_journal_session,Tuetey_Journal_vol2_IA,near_work_documentary,"Lundi vij jour de décembre — cure vacancy plea recorded."
+nicolas_de_baye,1416-12-19,greffe_journal_session,Tuetey_Journal_vol2_IA,near_work_documentary,"Samedi xix jour de décembre — Court detention orders recorded."
+nicolas_de_baye,1417-01-17,conseiller_clerc_oath,Tuetey_notice_biographique,near_work_documentary,"Prestation de serment as conseiller; greffier until this day; successor Clément de Fauquembergue."
+nicolas_de_baye,1417-01-27,successor_greffier_elected,Tuetey_Journal_vol2_IA,near_work_documentary,"Mercredi xxvij janvier: Chancellor elects new graphier/greffier in assembled chambers (Baye transition)."
+nicolas_de_baye,1417-05-10,chapitre_plaidoiries_matinées,Tuetey_notice_Matinées_X_4791,near_work_documentary,"Plaidoiries 10 May 1417 (Matinées) — Baye still active in Paris clerical/legal near-work orbit."
+nicolas_de_baye,1417-12,chapitre_visite_eglise,Tuetey_notice_biographique,near_work_documentary,"Late Dec 1417: with Jean des Landes visits upper church for chapitre administration."
+nicolas_de_baye,1418-03-28,last_conseiller_present_list,Tuetey_notice_biographique,near_work_documentary,"Last hard pin: regularly on conseiller present lists until 28 Mar 1418 (eve of Burgundian entry to Paris). years_after=2 from 1416."
+nicolas_de_baye,1418-06,burgundian_terror_paris,Tuetey_notice_biographique,context,"June 1418 massacres; Parlement suspended from 10 June — office ends. Soft activity terminus."
+nicolas_de_baye,1419-05-09,death_terminus,wikidata_Q3340895,death,Death 9 May 1419.

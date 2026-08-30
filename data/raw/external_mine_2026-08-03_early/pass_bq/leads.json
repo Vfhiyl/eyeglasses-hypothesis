@@ -1,0 +1,24 @@
+{
+  "pass": "BQ",
+  "date": "2026-08-05",
+  "direction": "Ornsby Surtees 68 IA OCR densify Howard; tip onset 1617; retract fake 1625",
+  "ia_ids": [
+    "selectionsfromh00ornsgoog",
+    "selectionsfromh01ornsgoog"
+  ],
+  "howard": {
+    "evidence_year": 1617,
+    "years_after": 23,
+    "t_span45": 26.0,
+    "delta_span": 7.0,
+    "retracted_1625_costume_historian": true
+  },
+  "spicksley": "still access-restricted",
+  "new_cleux_bar_promote": null,
+  "primary": {
+    "n": 44,
+    "median": 6.0,
+    "boot95": [3.0, 8.0],
+    "sesoi5": "PASS_RAW"
+  }
+}

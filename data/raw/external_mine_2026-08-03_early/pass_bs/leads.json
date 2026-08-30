@@ -1,0 +1,26 @@
+{
+  "pass": "BS",
+  "date": "2026-08-05",
+  "identifier": "businesshousehol0000unse",
+  "unlock": "IA loan + BookReaderGetTextWrapper + fulltext/inside.php",
+  "new_promote": false,
+  "densify": "jeffreys_joyce",
+  "pins": [
+    {
+      "date": "1639-10",
+      "leaf": 220,
+      "printed": 175,
+      "text": "For a paier of spectacles for my self",
+      "role": "onset"
+    },
+    {
+      "date": "1647-01-18",
+      "leaf": 320,
+      "printed": 275,
+      "text": "Paid Maior Smith for a burning glass he bought me at London: 4s",
+      "role": "last_living_output"
+    }
+  ],
+  "hold": ["1646_tip_Hubbard_secondary"],
+  "primary": {"n": 44, "median": 6.0, "ci": [3.0, 8.0], "sesoi5": "PASS_RAW"}
+}

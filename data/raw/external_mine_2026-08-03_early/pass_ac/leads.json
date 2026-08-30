@@ -1,0 +1,18 @@
+{
+  "pass": "AC",
+  "date": "2026-08-03",
+  "decision": "no_ingest",
+  "direction": "Guasti/Spinelli/Arduino densify + Piceto prep",
+  "early_stock_unchanged": {
+    "onsetish_n": 34,
+    "labor_delta_n": 28,
+    "labor_delta_median": -0.5
+  },
+  "seams": {
+    "arduino_baiso": "Already rostered (b≈1385 d.1454 ev.1451) — SKIP",
+    "mattea_benedetto_spinelli": "1534 OOW — already soft candidate spinelli_benedetto",
+    "piceto": "Still Welch JWCI; checking OA this pass",
+    "guasti_ia": "identifier API empty"
+  },
+  "new_cleux_bar_promote": null
+}

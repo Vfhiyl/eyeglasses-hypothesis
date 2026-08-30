@@ -1,0 +1,25 @@
+{
+  "pass": "BO",
+  "date": "2026-08-05",
+  "direction": "new-mine scout for Cleux-bar wearers (not control densify)",
+  "promote": null,
+  "new_soft_hold": {
+    "mrs_herle": {
+      "evidence_year": 1651,
+      "evidence": "Gray Devon Household Accounts pt.2 p.159 via Costume Historian 2022: case + 2 pair spectacles for Mrs Herle 3s 6d",
+      "gate": "library_Gray_same_as_bourchier",
+      "bio": "birth/death unknown — cannot onsetish ingest"
+    }
+  },
+  "inventory_closes": [
+    "lucy_gobert_1635",
+    "anne_lloyd_stratford_1617",
+    "john_smith_hampshire_clothier_1638"
+  ],
+  "reconfirmed_locked": {
+    "spicksley_jeffreys_ia": "businesshousehol0000unse access-restricted",
+    "digitarq_early_oculos": "only Contos bulk 1539 + Jaques makers"
+  },
+  "proxy_status": "IA search OK early; CONNECT timeout later (Ornsby/Costume full post)",
+  "primary_unchanged": true
+}

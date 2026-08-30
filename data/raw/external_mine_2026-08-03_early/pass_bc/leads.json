@@ -1,0 +1,55 @@
+{
+  "pass": "BC",
+  "direction": "England merchant output cells: replace long-lived banker/EIC controls with lifespan-matched merchants; strip Tye control death termini",
+  "retired_elig_false": [
+    "Q7788650",
+    "Q3809383",
+    "Q5565890",
+    "Q2277355",
+    "Q514846",
+    "Q3525181"
+  ],
+  "added": {
+    "jackson_ralph": [
+      "Q18917181 Osgood Hanbury",
+      "Q18530776 Richard Champion",
+      "Q18576880 Richard Oliver"
+    ],
+    "jeake_samuel": [
+      "Q18810672 Edward Haistwell",
+      "Q41784687 Samuel Heathcote",
+      "Q7787846 Thomas Brattle"
+    ]
+  },
+  "tye_death_terminus_strip": [
+    "Q6900893",
+    "Q3471265",
+    "Q333240"
+  ],
+  "deltas": {
+    "jackson_ralph": {
+      "before": -33.0,
+      "after": 5.0
+    },
+    "jeake_samuel": {
+      "before": -26.0,
+      "after": -5.0
+    },
+    "tye_thomas": {
+      "before": -22.0,
+      "after": -2.0
+    }
+  },
+  "primary_summary": {
+    "n": 46,
+    "median_delta": 0.0,
+    "boot95": [
+      -2.5,
+      5.0
+    ],
+    "n_ge_5": 18,
+    "share_gt_0": 0.478,
+    "sesoi5": "FAIL_OR_UNAVAILABLE",
+    "note": "CI tightened \u22123.75\u2192\u22122.5; England merchant structural bias largely repaired"
+  }
+}

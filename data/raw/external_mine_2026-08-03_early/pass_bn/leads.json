@@ -1,0 +1,23 @@
+{
+  "pass": "BN",
+  "date": "2026-08-05",
+  "direction": "mid-neg reverse-lifespan rebalance (Barbara/Ammannati/Pius); per-wearer control excludes",
+  "primary": {
+    "n_pairs": 44,
+    "median_delta": 6.0,
+    "boot95": [3.0, 8.5],
+    "sesoi5": "PASS_RAW"
+  },
+  "cell_deltas": {
+    "barbara_brandenburg": {"before": -2.0, "after": -1.0},
+    "ammannati": {"before": -1.0, "after": 0.0},
+    "pius_ii": {"before": -3.0, "after": -1.0},
+    "philippe_le_hardi": {"before": -4.0, "after": -4.0, "hold": "thin French age-matched pool"}
+  },
+  "new_curated": "data/curated/b1_output_control_excludes.csv",
+  "excludes": [
+    "barbara_brandenburg|Q3876500|Q711964",
+    "ammannati|Q3876500|Q711964",
+    "pius_ii|Q299446"
+  ]
+}

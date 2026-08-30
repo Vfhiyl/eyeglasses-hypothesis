@@ -1,0 +1,25 @@
+---
+description: Never start/stop/restart the Wikidata proxy gateway — user owns process lifecycle
+alwaysApply: true
+---
+
+# Proxy gateway: do not operate
+
+The local Wikidata CONNECT gateway (`scripts/wikidata_proxy_gateway.py`, typically `127.0.0.1:12309`) is **owned and operated only by the user**.
+
+## Hard prohibitions
+
+- Do **not** start, restart, stop, kill, or `nohup` the gateway.
+- Do **not** `kill` whatever is listening on port `12309`.
+- Do **not** treat “proxy failing” as a reason to relaunch it.
+
+## Allowed
+
+- Read gateway logs (e.g. `outputs/logs/wikidata_proxy_gateway.log`).
+- Edit gateway **code** when asked or clearly needed.
+- Use `https_proxy=http://127.0.0.1:12309` for fetches **if the user already has it running**.
+- If the gateway is down or broken: say so, suggest the user restart it, and continue with direct fetch / offline cache / other work.
+
+## Reminder
+
+Forgetting this and restarting the gateway has already annoyed the user. Prefer asking over operating the process.

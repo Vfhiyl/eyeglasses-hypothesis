@@ -1,0 +1,4 @@
+estimand,n_pairs_with_delta,n_treat_with_works,median_delta,boot95_lo,boot95_hi,n_ge_5,n_ge_15,share_delta_gt_0,sesoi5,sesoi15,note
+output_span_after_45,44,62,3.75,-2.0,8.0,21,9,0.545,FAIL_OR_UNAVAILABLE,FAIL_OR_UNAVAILABLE,primary=textual brain-work; artisan/painter appendix; elig_false ctrls dropped
+n_works_after_45,44,62,2.0,1.5,3.0,,,0.841,N/A_count,N/A_count,exploratory count delta on primary subset
+output_span_after_45_appendix_all_deltas,50,62,2.25,-2.0,8.0,22,9,0.52,APPENDIX_NOT_SESOI,APPENDIX_NOT_SESOI,includes excluded visual cells n_excl=6; not for SESOI

@@ -1,0 +1,58 @@
+person_id,n_pins,first_year,last_year,years,source_files,confidence,notes
+alessandra_strozzi,18,1446,1470,1446;1447;1448;1449;1450;1452;1453;1458;1459;1460;1461;1462;1463;1464;1465;1466;1469;1470,b1_alessandra_letter_chrono.csv:67,medium,chrono harvest: letter_chrono=authored pins; activity=publication/letter/admin-doc; spectacle rows dropped
+ammannati,22,1448,1479,1448;1450;1460;1461;1462;1463;1464;1465;1466;1467;1468;1469;1470;1471;1472;1473;1474;1475;1476;1477;1478;1479,b1_ammannati_tomo3_letter_chrono.csv:288;b1_ammannati_cherubini_letter_chrono.csv:741,medium,chrono harvest: letter_chrono=authored pins; activity=publication/letter/admin-doc; spectacle rows dropped
+ardingelli_bese,8,1455,1476,1455;1458;1459;1460;1465;1467;1470;1476,b1_ardingelli_bese_lanza_speranzi_chrono.csv,medium,Pass BB harvest: post-wear signed MSS 1455; Catasto scrivano 1459–60; copy jobs 1465/67; upper bound 1470; death ~1476. Exclude birth/pre-wear MSS and spectacle purchase year.
+arduino_baiso,2,1451,1454,1451;1454,order_1451;death_1454,low,COVERAGE: woodcarver; death ceiling only after Medici order
+azevedo_joao_porto,3,1485,1493,1485;1492;1493,expand_harvest_2026-08-02,medium,chrono+expand harvest
+barbara_brandenburg,9,1466,1479,1466;1468;1471;1472;1473;1474;1475;1478;1479,b1_barbara_oa_letter_chrono.csv:10;b1_barbara_hofmann_letter_chrono.csv:6;b1_barbara_nicoud1468_chrono.csv:4,medium,chrono harvest: letter_chrono=authored pins; activity=publication/letter/admin-doc; spectacle rows dropped
+bianca_maria,1,1468,1468,1468,b1_bianca_maria_letter_chrono.csv:38;b1_bianca_maria_nicoud1468_chrono.csv:0,medium,chrono harvest: letter_chrono=authored pins; activity=publication/letter/admin-doc; spectacle rows dropped
+cederni,3,1461,1478,1461;1473;1478,b1_cederni_activity_chrono.csv;pass_bg_drop_burial,medium,Pass BG stress: drop burial 1482 death-terminus from output years (civic last pin Buonuomo 1478). SESOI sensitivity.
+charles_orleans,3,1440,1461,1440;1450;1461,lyric_corpus_post_1440; death_1465,medium,Duke-poet; lyric activity after English captivity; WD thin.
+domenichi_ludovico,9,1556,1564,1556;1557;1558;1559;1560;1561;1562;1563;1564,b1_domenichi_ludovico_chrono.csv:9,medium,chrono harvest: letter_chrono=authored pins; activity=publication/letter/admin-doc; spectacle rows dropped
+egidio_piacenza,1,1488,1488,1488,ilardi_age_band_order_1488,low,COVERAGE: single age-band order; no post series
+gonzaga_ludovico,3,1460,1473,1460;1466;1473,b1_gonzaga_ludovico_spectacle_reading_chrono.csv:2,medium,chrono harvest: letter_chrono=authored pins; activity=publication/letter/admin-doc; spectacle rows dropped
+hesselin_denis,2,1500,1506,1500;1506,expand_harvest_2026-08-02,medium,chrono+expand harvest
+jacopo_magnia_friar,1,1488,1488,1488,ilardi_age_band_order_1488,low,COVERAGE: single age-band order; no post series
+joris_van_der_paele,2,1434,1436,1434;1436,bruges_canon_docs;van_eyck_context,low,COVERAGE: canon documentary; portrait spectacles circumstantial
+leo_x,3,1513,1521,1513;1518;1521,papal_briefs_patronage_docs; death_1521,medium,Pope humanist patron; briefs/docs to death 1521. Thin textual pins.
+lorenzo_medici,6,1479,1490,1479;1482;1484;1485;1488;1490,b1_lorenzo_medici_ross_letter_chrono.csv:8,medium,chrono harvest: letter_chrono=authored pins; activity=publication/letter/admin-doc; spectacle rows dropped
+lynnet_william,6,1677,1700,1677;1683;1686;1687;1691;1700,b1_lynnet_william_activity_chrono.csv;pass_bg_office_terminus,medium,"Pass BG: 1700 coded as Vice-Master office terminus (Trinity Admissions 1691–1700), not death-only pin. Death coincides with office end."
+maurolico_francesco,7,1557,1575,1557;1565;1567;1569;1572;1574;1575,b1_maurolico_francesco_chrono.csv:8,medium,chrono harvest: letter_chrono=authored pins; activity=publication/letter/admin-doc; spectacle rows dropped
+neri_mici,1,1329,1329,1329,theft_complaint_1329,low,COVERAGE: ownership complaint only; pre-presbyopia age risk
+nicolas_de_baye,3,1400,1418,1400;1416;1418,b1_nicolas_de_baye_chrono.csv:2,medium,chrono harvest: letter_chrono=authored pins; activity=publication/letter/admin-doc; spectacle rows dropped
+philippe_le_hardi,4,1389,1404,1389;1390;1403;1404,b1_philippe_le_hardi_chrono.csv,medium,Pass BB harvest: Prost/Laborde mandement cluster 1389–90; 1403 Dijon plate; death 1404.
+pirckheimer,13,1508,1528,1508;1510;1511;1512;1513;1514;1515;1520;1522;1523;1524;1527;1528,b1_pirckheimer_bd2_letter_chrono.csv;b1_pirckheimer_allen_erasmus_chrono.csv,medium,FROM-him / An only (Allen+BD2); Von/to_pirckheimer excluded
+pius_ii,4,1444,1464,1444;1458;1461;1464,Commentarii_Pii_II; papal_briefs_to_1464,medium,Humanist pope; Commentaries + briefs; death 1464. Medium pins.
+policastro,13,1451,1478,1451;1452;1455;1456;1459;1460;1461;1462;1463;1464;1467;1468;1478,expand_harvest_2026-08-02,medium,chrono+expand harvest
+rene_ii_lorraine,1,1504,1504,1504,laborde_1504_lunettes,medium,Pass BW: drop death tip 1508; single living Lorraine comptes lunettes pin 1504 (Laborde). soft labor ya=4 unchanged.
+richardson_richard_jr,2,1776,1777,1776;1777,b1_richardson_richard_jr_activity_chrono.csv:3,medium,chrono harvest: letter_chrono=authored pins; activity=publication/letter/admin-doc; spectacle rows dropped
+sforza_francesco,14,1450,1469,1450;1452;1453;1454;1455;1456;1457;1458;1459;1460;1461;1462;1464;1469,expand_harvest_2026-08-02,medium,chrono+expand harvest
+spataro_giovanni,3,1532,1541,1532;1533;1541,b1_spataro_giovanni_chrono.csv,medium,Pass BB: add death 1541; letter corpus still 1532–33 (year-collisions).
+spinelli_benedetto,2,1534,1547,1534;1547,mattea_letter_1534;death_1547,low,COVERAGE: wear letter + death ceiling; Marradi soft
+strozzi_filippo,10,1469,1491,1469;1473;1475;1478;1484;1485;1488;1489;1491;1490,b1_strozzi_filippo_sepoltuario_chrono.csv;vita_1851_dated_acts,medium,Pass BB harvest: Naples accord 1469; property 1473; Lecceto 1475–78; Calimala 1484/88; Prior 1485; Palazzo fabbrica 1489; death 1491. Exclude birth/spectacle-only pins.
+tranchedini,8,1466,1479,1466;1468;1470;1471;1472;1475;1476;1479,b1_tranchedini_ferrari_memorial_chrono.csv:11,medium,chrono harvest: letter_chrono=authored pins; activity=publication/letter/admin-doc; spectacle rows dropped
+wolsey,4,1515,1529,1515;1520;1527;1529,LP_state_papers; chancellor_acts_to_fall_1529,medium,Cardinal-statesman documentary/near-work to fall 1529; spectacles 1527.
+wood_anthony,10,1674,1695,1674;1685;1686;1687;1688;1689;1690;1691;1692;1695,b1_wood_anthony_activity_chrono.csv:17,medium,chrono harvest: letter_chrono=authored pins; activity=publication/letter/admin-doc; spectacle rows dropped
+wyatt_henry,5,1527,1531,1527;1528;1529;1530;1531,b1_wyatt_henry_lp_chrono.csv;pass_bi_lp_harvest,medium,Pass BI: LP chrono harvest 1527 gift + treasurer/bill pins through 1531 licence (no death 1537).
+stonley_richard,4,1593,1598,1593;1594;1597;1598,b1_stonley_richard_activity_chrono.csv:4,medium,chrono harvest: diary book-activity years after onset; spectacle rows dropped
+albrecht_prussia,11,1542,1568,1542;1544;1546;1549;1551;1559;1561;1563;1565;1567;1568,b1_albrecht_prussia_activity_chrono.csv:12,medium,Pass AY: harvest Voigt FROM-Herzog letter years + Albertina/death. Prior COVERAGE low upgraded after Pass AU hard densify.
+pepys_samuel,8,1666,1700,1666;1668;1669;1684;1690;1698;1699;1700,b1_pepys_samuel_activity_chrono.csv;pass_bg_christ_hospital_library,medium,Pass BG harden: replace death 1703 with Christ's Hospital letters 1698/1699 (Wing/RMG) + library catalogue Michaelmas 1700 (Magdalene). Keep RS 1684 + Memoires 1690.
+howard_william_naworth,5,1617,1634,1617;1626;1629;1633;1634,b1_howard_william_naworth_activity_chrono.csv;pass_bq_ornsby_ocr,medium,Pass BQ: Ornsby OCR densify; onset tip 1617 Lord's own Parcells; drop death 1640 terminus (last living pin 1634 green/multiplying).
+bourchier_henry_bath,3,1646,1648,1646;1647;1648,b1_bourchier_henry_bath_activity_chrono.csv;costume_historian_2022_gray_quotes,medium,"Pass BV: drop death tip 1654; living Gray pins via Costume Historian (onset 1646, frame 1647, silver glasses changed 1648)."
+cowper_william,3,1786,1798,1786;1791;1798,b1_cowper_william_activity_chrono.csv;pass_bg_hesketh_1798,medium,Pass BG harden: replace death 1800 with Hesketh letter 1798-12-08 (EE cowpwiOU0040464a1c). Keep onset 1786 + Homer 1791.
+jeffreys_joyce,4,1639,1647,1639;1645;1646;1647,b1_jeffreys_joyce_activity_chrono.csv;pass_bt_spicksley_ocr,high,Pass BT: 1639 purchase + 1645/1646 plate-find tips + 1647 burning glass; drop death 1650.
+franklin_benjamin,3,1784,1787,1784;1785;1787,b1_franklin_benjamin_activity_chrono.csv:3,medium,chrono harvest: Whatley letters + 1787 convention pin; spectacle rows dropped for span
+peale_charles_willson,2,1788,1801,1788;1801,b1_peale_charles_willson_activity_chrono.csv:2,medium,chrono harvest: diary + museum pin; spectacle rows dropped
+jefferson_thomas,3,1806,1807,1806;1807,b1_jefferson_thomas_activity_chrono.csv:3,medium,chrono harvest: McAllister letters + Peale 1807; death soft
+voiture_vincent,2,1647,1648,1647;1648,b1_voiture_vincent_activity_chrono.csv:2,low,COVERAGE: letter + death; short span
+dexter_samuel,7,1785,1809,1785;1788;1791;1792;1797;1802;1809,b1_dexter_samuel_activity_chrono.csv:8,medium,Pass AY: McCaffrey Commonplace/pamphlet/obit pins after Pass AW HARD. Onset year soft ca.1785; confidence medium not high.
+tye_thomas,3,1761,1767,1761;1764;1767,b1_tye_thomas_activity_chrono.csv:3,medium,chrono harvest: self-purchase + marriage + 1767 account pin; death 1783 soft
+jackson_ralph,4,1760,1789,1760;1769;1785;1789,b1_jackson_ralph_activity_chrono.csv;pass_bg_diary_1789,medium,Pass BG harden: replace death 1790 with diary continuum through 1789 (CTLHS diary 1749–1790; d.16 Feb 1790). Cash Book end 1785 kept.
+unwin_mary,2,1786,1788,1786;1788,b1_unwin_mary_activity_chrono.csv:2,low,COVERAGE: soft living-wear pins; death 1796 soft
+blundell_nicholas,2,1722,1728,1722;1728,b1_blundell_nicholas_activity_chrono.csv:2,medium,chrono harvest: diary onset + continuum pin; death soft
+jeake_samuel,2,1676,1681,1676;1681,b1_jeake_samuel_activity_chrono.csv,medium,Pass BB: add death 1699 to convex purchase + mid pin. Pass CM: drop death tip 1699 (only post-45 pin; symmetric with Haistwell/Heathcote death-tip drop).
+marzeliere_pierre,8,1433,1457,1433;1434;1435;1437;1438;1440;1449;1457,b1_marzeliere_pierre_activity_chrono.csv;pass_bg_drop_death,medium,Pass BG harden: drop death 1462; last hard dated admin = Capitaine de Hedé institution 1457-10-03 (Morice).
+rene_anjou,4,1441,1480,1441;1455;1470;1480,control_output_years_curated_Q170353_flipped,high,Literary duke: Mortifiement de vaine plaisance c.1455 etc.; pins reused from prior control textual series after flip to treatment
+sixtus_iv,3,1482,1484,1482;1483;1484,b1_sixtus_iv_activity_chrono.csv,medium,Pass BB: Pastor briefs/decrees/cardinal creation 1482–84 from activity chrono (was missing curated row / thin).
+datini,2,1400,1410,1400;1410,b1_datini_event_timeline.csv,medium,Pass BB: personal Venice order 1400 + death 1410. Exclude metaphor 1384 / ambiguous inventory / gift-out.
+august_brunswick_wolfenbuettel,4,1630,1650,1630;1643;1644;1650,b1_august_brunswick_wolfenbuettel_activity_chrono.csv;herzog_august_library_rule,medium,Pass BY: 1630 Wiesel onset; 1643 cataracts densify; 1644 Wolfenbüttel residence/Bibliotheca Augusta; 1650 continued scholarly rule. Drop death 1666.

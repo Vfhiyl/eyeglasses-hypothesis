@@ -1,0 +1,1345 @@
+I libri di Viella
+       586
+La ricchezza della Chiesa
+ Amministrazione, fiscalità e diritto
+   nell’Italia basso medievale
+
+
+                  a cura di
+      Simone Picchianti e Sergio Tognetti
+
+
+
+
+                    viella
+Copyright © 2026 - Viella s.r.l.
+Tutti i diritti riservati
+Prima edizione: marzo 2026
+ISBN 979-12-5701-186-4
+
+
+
+
+La presente pubblicazione è stata realizzata nell’ambito del progetto di ricerca “The Wealth
+of the Church and ‘luoghi pii’ in Italy from the Late Middle Ages to the Contemporary Age.
+Economic, Legal and Political Aspects” P.I. Prof. Sergio Tognetti, CUP: F73C23001750007,
+finanziato dalla Fondazione di Sardegna (2022) e svolto presso il Dipartimento di Lettere,
+Lingue e Beni Culturali dell’Università degli Studi di Cagliari.
+
+
+
+
+  LA RICCHEZZA
+           della Chiesa : amministrazione, fiscalità e diritto nell’Italia basso medievale / a cura di
+  Simone Picchianti e Sergio Tognetti. - Roma : Viella, 2026. - 370 p. : ill., carte geografiche ; 21
+  cm. - (I libri di Viella ; 586)
+          Indici dei nomi e dei luoghi: p. [355]-370.
+          Relazioni presentate a dei convegni tenuti a Udine nel 2024 e a Cagliari nel 2025.
+      ISBN 979-12-5701-186-4
+      1. Beni ecclesiastici - Amministrazione - Italia - Medioevo I. Picchianti, Simone II. To-
+  gnetti, Sergio
+      262 (DDC WebDewey)           Scheda bibliografica: Biblioteca della Fondazione Bruno Kessler
+
+
+
+
+         viella
+         libreria editrice
+         via delle Alpi, 32
+         I-00198 ROMA
+         tel. 06 84 17 758
+         fax 06 85 35 39 60
+         www.viella.it
+Indice
+
+
+
+
+SERGIO TOGNETTI
+  Premessa                                                                7
+ERIKA AMATI
+  Proprietà ecclesiastica e spazi di commercio.
+  Prime riflessioni sulle chiese cattedrali lombarde (secoli XIII-XIV) 11
+PAOLO EVANGELISTI
+  I diritti fiscali della Chiesa e delle chiese.
+  Il quadro di legittimità proposto dai Minori (secoli XIII-XV)         35
+LORENZO TANZINI
+  La gestione della ricchezza e del patrimonio negli statuti sinodali
+  dei vescovadi italiani del tardo medioevo                             61
+BIANCA FADDA, MARIANGELA RAPETTI
+  I documenti giudicali nei Libri Diversorum dell’Archivio
+  Diocesano di Cagliari. Tradizione e conservazione                     85
+NICOLA GADALETA
+  Fiscalità e contabilità delle istituzioni ecclesiastiche
+  nella Terra di Bari fra Tre e Quattrocento                            119
+ISABELLA AURORA, GEMMA TERESA COLESANTI
+   Fonti contabili e amministrazione del patrimonio a Napoli
+   tra XIV e XV secolo. La canonica di San Pietro ad Aram
+   e l’ospedale di Sant’Angelo a Nilo                                   135
+SIMONE PICCHIANTI
+  Amministrazione contabile e gestione patrimoniale nel contado
+  fiorentino. L’abbazia di San Salvatore a Settimo
+  fra XIV e XV secolo                                                   171
+6                           La ricchezza della Chiesa
+
+
+JACOPO PAGANELLI
+  Conti di preti, conti fra preti. Alcune note su un quaderno contabile
+  del clero della Val di Strove (diocesi di Volterra, fine del XIV secolo) 203
+RENATO CAMELI
+  Contabilità in divenire: l’affinamento dei registri di conto
+  in un ospedale quattrocentesco di Fabriano                              217
+SYLVIE DUVAL
+  «La gratia di regere et governare la vita nostra».
+  Les comptabilités des moniales florentines à la fin du Moyen Âge        239
+SERGIO TOGNETTI
+  Le monache, i ragionieri e le banche nella Firenze
+  del tardo medioevo                                                      263
+FRANCESCO BORGHERO
+  Una “azienda” monastica. I libri mastri dell’abbazia di Santa Maria
+  di Vallombrosa nell’età dell’Osservanza (1465-1495)                     295
+EMANUELE CURZEL
+  Economia sacra nelle valli e sulle montagne trentine
+  alla fine del medioevo                                                  317
+FABRIZIO PAGNONI
+  Conclusioni                                                             343
+
+Indice dei nomi                                                           355
+Indice dei luoghi                                                         365
+SERGIO TOGNETTI
+
+Le monache, i ragionieri e le banche nella Firenze
+del tardo medioevo*
+
+
+
+
+1. Introduzione
+
+      La ricchezza delle fonti contabili prodotte nella Toscana fiorentina in età
+basso-medievale e rinascimentale è universalmente nota.1 Accanto ai mas-
+sicci depositi archivistici di matrice privata, cioè aziendale e familiare (i più
+studiati in assoluto, a partire dai primi decenni del secolo scorso), si pongono
+le altrettanto nutrite serie di registri deputati alla gestione di vescovadi, capi-
+toli, opere delle cattedrali, monasteri, conventi, confraternite e ospedali, fini-
+te al centro dell’attenzione degli studiosi solo in tempi relativamente recenti.2
+In altre occasioni mi è capitato di soffermarmi sul patrimonio documentario
+
+      * Tutti i documenti inediti citati sono conservati presso l’Archivio di Stato di Firenze.
+Abbreviazioni: Santa Verdiana = Corporazioni religiose soppresse dal governo francese,
+n. 90; San Gaggio = Corporazioni religiose soppresse dal governo francese, n. 234.
+      1. Con l’espressione “Toscana fiorentina” intendo quella parte della regione che
+finì sotto il controllo della città del giglio a partire dalla metà del XIV secolo. Questo
+riferimento geo-politico è stato seguito anche nel censimento dei registri contabili realizzato
+da Richard Goldthwaite e Marco Spallanzani, incrementato e rielaborato in formato Excel
+da Francesco Bettarini per poi essere messo a disposizione degli studiosi su una piattaforma
+on-line dell’Università di Padova: <https://phaidra.cab.unipd.it/view/o:453620>.
+      2. Questa osservazione merita una precisazione. Le contabilità degli enti ecclesiastici,
+religiosi e assistenziali sono state oggetto di studio da molto tempo ormai, solo che l’oggetto
+di indagine sino a un periodo recente non era costituito dall’amministrazione e dalla prassi
+gestionale dell’ente in quanto tale. Ai ricercatori interessavano piuttosto le notizie che da quelle
+fonti si potevano trarre per indagare tematiche “terze”: prezzi e salari, committenza artistica,
+organizzazione dei cantieri edili, struttura della proprietà fondiaria cittadina, ecc. Tutte queste
+ricerche partivano da un assunto di base e cioè che la realtà economica di un monastero, di un
+convento o di un luogo pio potesse riflettere i caratteri generali di una intera società.
+264                                   Sergio Tognetti
+
+
+di natura amministrativa e contabile appartenuto agli enti assistenziali e a
+quelli religiosi, sia tramite affondi sistematici su singole realtà (come lo Spe-
+dale degli Innocenti o la Badia fiorentina), sia attraverso ricognizioni dedi-
+cate all’evoluzione tanto delle tecniche ragionieristiche quanto dei formati
+impiegati nei registri di ospedali, monasteri e conventi della città e del suo
+contado tra la metà del Trecento e il primo Cinquecento.3
+     Il presente contributo vuole invece fornire un focus puntuale, ma non-
+dimeno significativo, su ciò che emerge dall’analisi dei libri di ammini-
+strazione tenuti per alcuni importanti monasteri femminili della Firenze tre-
+quattrocentesca. In particolare, ci si soffermerà sull’utilizzo di sistemi
+gestionali, strumenti finanziari e mezzi di pagamento che di norma non sia-
+mo abituati a pensare come parte integrante della prassi amministrativa mo-
+nastica (e meno che mai dei cenobi femminili), quali le revisioni di bilancio,
+i depositi vincolati presso compagnie mercantili-bancarie e remunerati con
+interessi o gli assegni accettati ed emessi abitualmente (dagli amministra-
+tori maschi, ma talora anche dalle badesse) per regolare esborsi di ogni
+sorta. L’obiettivo ultimo è quello di mettere in rilievo la diffusione su ampio
+spettro di una cultura amministrativa e contabile che, nella Firenze rinasci-
+mentale, finiva per raggiungere anche le monache di clausura.4
+     Queste ultime, per altro, come hanno evidenziato alcune più aggiorna-
+te ricerche, riuscirono a ritagliarsi un ruolo economico non del tutto mar-
+ginale in alcuni settori produttivi, quali la produzione di oro filato e quella
+dei libri, la fabbricazione di occhiali, la lavorazione del lino e il ricamo. Es-
+sere poste fuori dall’ordinamento corporativo, se da una parte comportava
+evidenti penalizzazioni sul piano delle remunerazioni, dall’altra permette-
+      3. S. Tognetti, «E terassi per bilancio». Pratiche amministrative e gestioni contabili
+negli ospedali fiorentini del Quattrocento, in «Ricerche Storiche», 50/1 (2020), pp. 149-176;
+Id., Le finanze dell’ospedale degli Innocenti di Firenze: dalla fondazione alla bancarotta
+del 1579, in «Archivio Storico Italiano», 180 (2022), pp. 53-127; Id., Osservanza e partita
+doppia. La contabilità della Badia fiorentina nel primo Rinascimento, Firenze, Edifir, 2023;
+Id., Dall’inventario al libro mastro: l’evoluzione della contabilità negli enti religiosi
+fiorentini tra la metà del XIV secolo e l’inizio del XVI, in Ordine, calcolo e “ragione”
+nell’Italia tardo medievale, 1, Economia, giustizia e formazione, a cura di E. Maccioni e
+S. Tognetti, Roma, Viella, 2025, pp. 133-176.
+      4. Per una contestualizzazione più generale sulla diffusione delle tecniche contabili
+cfr. R.A. Goldthwaite, The Practice and Culture of Accounting in Renaissance Florence, in
+«Enterprise & Society», 16 (2015), pp. 611-647 (disponibile online); S. Tognetti, Una
+civiltà di ragionieri. Archivi aziendali e distinzione sociale nella Firenze basso medievale e
+rinascimentale, in «Reti Medievali. Rivista», 21/2 (2020), pp. 221-250.
+          Le monache, i ragionieri e le banche nella Firenze del tardo medioevo         265
+
+
+
+
+Fig. 1. Localizzazione dei monasteri femminili di San Pier Maggiore, Santa Verdiana e San
+Gaggio.
+
+
+va alle monache di sfuggire agli stringenti regolamenti delle arti e di offrire
+manodopera a basso costo ma non per questo poco qualificata.5 Questo
+garantiva ad alcuni cenobi femminili una certa autosufficienza sul piano
+finanziario, al di là della rendita immobiliare e fondiaria che costituiva la
+spina dorsale di qualsiasi patrimonio monastico.6 Ma naturalmente essere
+
+
+     5. Si trattava di un fenomeno che toccava l’intera la categoria delle donne lavoratrici
+nei contesti urbani italiani: cfr. M.P. Zanoboni, Mobilità sociale e lavoro femminile nelle
+grandi città italiane, in La mobilità sociale nel Medioevo italiano. Competenze, conoscenze
+e saperi tra professioni e ruoli sociali (secc. XII-XV), a cura di L. Tanzini e S. Tognetti,
+Roma, Viella, 2016, pp. 51-76: 62-68.
+     6. S. Strocchia, Nuns and Nunneries in Renaissance Florence, Baltimore, The Johns
+Hopkins University Press, 2009, in particolare nei capitoli III e IV.
+266                                    Sergio Tognetti
+
+
+inseriti in un determinato contesto economico rendeva quasi obbligatorio
+dotarsi di un minimo di cultura tecnica.7
+
+
+2. “Vedere” la ragione a San Pier Maggiore nel 1376
+
+     Cominciamo la nostra piccola rassegna concentrandoci sulla docu-
+mentazione appartenuta allo scomparso cenobio di San Pier Maggiore.
+Questo ente monastico femminile era stato fondato dalla «potens ac no-
+bilis matrona» Gisla, al tempo del “famigerato” vescovo simoniaco Pietro
+Mezzabarba (1062-1068), cacciato a furor di popolo da Firenze dopo la
+perduta prova del fuoco contro il vallombrosano Pietro “igneo” nella cele-
+bre ordalia tenutasi presso l’abbazia di Settimo.8
+     Al tempo della sua fondazione l’edificio si trovava fuori dall’antico
+perimetro murario romano, rimasto sostanzialmente in funzione per tutto
+l’alto Medioevo. L’erezione della seconda cerchia negli anni Settanta del
+XII secolo ricomprese dentro la superficie urbana il ricco ed elitario cenobio
+femminile. Il legame particolare instaurato tra San Pier Maggiore e i vertici
+della chiesa fiorentina era simboleggiato dal singolare rituale organizzato per
+celebrare la presa di possesso della sede episcopale da parte dei neovescovi
+fiorentini. Si trattava, infatti, di una complessa cerimonia che prevedeva il
+soggiorno del presule presso il cenobio femminile e il suo simbolico “sposa-
+lizio” con la badessa di San Pier Maggiore. La riconosciuta importanza nel
+contesto della vita cittadina risulta evidente anche dal fatto che uno dei sesti
+in cui venne ripartita la Firenze della piena età comunale portava per l’ap-
+punto il nome di San Pier Maggiore. Ma il cenobio, oggetto di significative
+donazioni patrimoniali e di cospicui investimenti nella realizzazione di cap-
+pelle private da parte di importanti famiglie fiorentine, fu sciaguratamente
+demolito nel tardo Settecento per ordine del granduca Pietro Leopoldo, por-
+tando a pretesto problemi di statica non adeguatamente verificati. La scom-
+
+      7. S. Strocchia, Abbess Piera de’ Medici and her kin: gender, and patronage in Re-
+naissance Florence, in «Renaissance Studies», 28 (2014), pp. 695-713; S. Duval, Scrivere,
+contare, gestire. I libri di amministrazione dei monasteri femminili fiorentini (1320-1460), in
+Scritture, carismi, istituzioni. Percorsi di vita religiosa in età moderna. Studi per Gabriella
+Zarri, a cura di C. Bianca e A. Scattigno, Roma, Edizioni di storia e letteratura, 2018, pp. 85-
+103; della medesima autrice si veda il contributo presente in questo volume.
+      8. M.C. Miller, K.L. Jasper, The foundation of the monastery of San Pier Maggiore in
+Florence, in «Rivista di Storia della Chiesa in Italia», 64/2 (2010), pp. 381-396.
+          Le monache, i ragionieri e le banche nella Firenze del tardo medioevo           267
+
+
+parsa quasi totale dell’edificio e il danneggiamento subito dal suo patrimonio
+documentario conservato presso l’Archivio di Stato durante l’alluvione del
+1966, hanno condizionato gli interessi degli studiosi. Solo negli ultimi anni
+questi sono stati ravvivati da una equipe di ricerca composta prevalentemen-
+te da storici dell’arte legati alla National Gallery di Londra e all’Università
+di Cambridge, la quale si è proposta di realizzare una ricostruzione virtuale
+molto dettagliata dell’intero complesso monastico scomparso.9
+     Nonostante l’alluvione del secolo scorso abbia reso difficilmente leg-
+gibili numerosi registri di amministrazione, resta il fatto che il cenobio ci
+ha lasciato una grande quantità di libri contabili, alcuni dei quali davvero
+precoci. Per esempio, la serie delle entrate e delle uscite ha inizio con il
+1315. La lingua adoperata fu sin da subito il volgare. L’estensore dei primi
+registri per un arco cronologico di circa un ventennio (cioè sino al 1334) fu
+un certo ser Bindo, con molta probabilità un chierico.10 Dopo una lacuna di
+alcuni decenni, per il periodo 1370-1394 disponiamo dei registri tenuti da
+Taddeo di Andrea cappellano del monastero, che in realtà aveva iniziato a
+tenere la contabilità di cassa di San Pier Maggiore sin dal 1348 (ma i codici
+relativi agli anni 1348-1369 non sono sopravvissuti).11 Poi nel corso del
+Quattrocento a occuparsi dell’entrata e dell’uscita furono generalmente i
+sindaci e procuratori del cenobio (tutti religiosi),12 anche se non mancarono
+libri contabili tenuti direttamente da alcune monache, soprattutto a partire
+dalla seconda metà del XV secolo.13 In quell’epoca, del resto, troviamo re-
+ligiose che sovrintendevano a lavori edili o vidimavano di propria mano le
+
+
+       9. M. Bietti, Dal Savonarola al pontificato di Leone X: artisti e patroni in San Pier
+Maggiore a Firenze, in Nello splendore mediceo, Papa Leone X e Firenze, catalogo della
+mostra tenuta presso il Museo delle Cappelle Medicee e Casa Buonarroti (Firenze, 26 mar-
+zo-6 ottobre 2013), a cura di N. Baldini e M. Bietti, Livorno, Sillabe, 2013, pp. 127-137;
+D. Cooper, J. Sliwka, San Pier Maggiore was one of Florence’s most important churches
+until it was demolished in the 18th century. What can digital reconstruction tell us about the
+original structure and the artworks it once contained?, in «Apollo», 182 (2015), pp. 76-81;
+D. Cooper, Firenze scomparsa: le chiese di Santa Chiara e San Pier Maggiore e la loro
+ricostruzione digitale presso i musei di Londra, in «Archeologia e Calcolatori», 10 (2018),
+pp. 67-80; A. Grassi, La cappella Albizi da San Pier Maggiore a San Paolino di Firenze,
+Bibbiena, Mazzaffirra, 2021.
+       10. San Pier Maggiore, 65-67.
+       11. San Pier Maggiore, 68-70.
+       12. San Pier Maggiore, 72-74, 77.
+       13. San Pier Maggiore, 75, 76, 78.
+268                                   Sergio Tognetti
+
+
+scritture di alcuni registri vergate da cassieri laici stipendiati dal cenobio.14
+Quanto ai libri di sintesi, cioè i mastri, essi si sono conservati solo dallo
+scorcio del Quattrocento,15 ma siccome il più antico tra quelli conservati è
+il libro grande bianco segnato con la lettera L (1489-1498), possiamo de-
+durre che la tenuta dei mastri sia incominciata grosso modo a metà del XV
+secolo, secondo un modello che trova forti corrispondenze presso impor-
+tanti monasteri maschili della città e del contado.16 Infine, essendo San Pier
+Maggiore proprietario di una cospicua ricchezza immobiliare e fondiaria,
+non stupisce trovare nel suo fondo archivistico libri deputati alla registra-
+zione di pigionali (per case e botteghe in città), fittavoli e mezzadri.17
+      In sostanza, il cenobio femminile metteva a profitto una prassi gestio-
+nale del tutto in linea con quella dei maggiori enti religiosi della città. Tut-
+tavia, l’aspetto sul quale intendo attirare l’attenzione è il grado di cultura
+amministrativa e contabile di cui potevano disporre la badessa e alcune
+monache. A questo proposito non sarà inutile osservare che, essendo San
+Pier Maggiore un cenobio per monache appartenenti alla fascia più elevata
+della società fiorentina, è alquanto probabile un certo qual trasferimento di
+competenze tecniche dal mondo dei banchi e dei fondaci agli ambienti nelle
+quali vivevano e operavano le religiose.
+      Un esempio a suo modo parlante è documentato da una relazione fi-
+nanziaria posta all’interno del libro di entrate e spese redatto dal già citato
+Taddeo di Andrea per gli anni 1370-1376.18 Al momento di chiudere i con-
+ti, la badessa chiamò i «ragionieri» Tommaso di Guccio Martini, Arrigo di
+Zanobi Lottieri e Giovanni di Tura Dini «a vedere le ragioni di messer
+Taddeo», tenute dal 15 di ottobre 1348 al 28 di ottobre del 1376 (vedi Ap-
+pendice I). Le motivazioni legate a questo intervento non sono esplicitate.
+In ogni caso la procedura di revisione contabile affidata a terzi non mise in
+discussione l’onorabilità di ser Taddeo, che infatti avrebbe continuato a
+tenere i registri di cassa del cenobio almeno sino al 1394 (per complessivi
+46 anni di attività!). L’iniziativa di rivedere le ragioni, tuttavia, pare essere
+stata avviata dalla badessa che, forse preoccupata per la situazione finan-
+
+     14. San Pier Maggiore, 161, cc. 284, 287, 302, 309, 359 (c/suora Maria dei Vettori per
+conto della muraglia); cc. 154d, 274d (placet apposti da suor Brigida dei Covoni, che agisce
+per conto della badessa Costanza degli Alessandri).
+     15. San Pier Maggiore, 161 e ss.
+     16. Tognetti, Dall’inventario al libro mastro, pp. 140-160.
+     17. San Pier Maggiore, 199 e ss.
+     18. San Pier Maggiore, 70, cc. 31v-32v.
+          Le monache, i ragionieri e le banche nella Firenze del tardo medioevo          269
+
+
+ziaria di San Pier Maggiore, o comunque desiderosa di comprendere in
+quali acque navigasse il cenobio, fece in modo che i tre «ragionieri» aves-
+sero a disposizione tutti i registri (molti dei quali oggi perduti) compilati
+dal cappellano Taddeo sin dai mesi immediatamente successivi al letale
+passaggio della Peste Nera.
+      Essendo le scritture compilate parte in fiorini di conto e parte in lire di
+piccoli, i tre periti dovettero darsi un bel da fare per arrivare a un risultato
+finale unitario.19 Questo venne espresso in lire di piccoli (dopo aver con-
+vertito i fiorini in base alla quotazione di 68 soldi di piccoli per fiorino),
+certificando per il periodo 1348-1376 un’entrata di ₤ 27.651 s. 5 d. 9 e
+un’uscita di ₤ 29.022 s. 18 d. 2, con un saldo finale negativo di ₤ 1.371
+s. 12 e d. 5. Queste cifre ci dicono che, nel periodo interessato, il mona-
+stero aveva speso una media annua di circa 1.000 lire per le sue necessità,
+incassandone appena meno dalle sue fonti di entrata (terre, case, botteghe).
+Per dare un senso a questi numeri forniamo qualche dato di contesto. Negli
+anni precedenti la Peste Nera 1.000 lire di piccoli corrispondevano grosso
+modo allo stipendio annuo di Cino del Migliore, direttore generale della
+compagnia Bardi. Siccome questa era la società d’affari più importante
+d’Europa, difficilmente a Firenze si sarebbe trovata un’altra persona be-
+neficiata da simili emolumenti. Alla fine del Trecento, i funzionari meglio
+pagati dalle aziende Datini (che non avevano certo le funzioni dirigenziali
+a suo tempo esercitate da Cino del Migliore) percepivano stipendi di gran
+lunga inferiori: tra le 350 e le 380 lire annue. Nella scala più bassa dei sa-
+lari, durante la seconda metà del XIV secolo, la paga annua di operai non
+qualificati come i manovali dell’edilizia, i braccianti impiegati negli orti e
+nelle vigne suburbane, gli addetti alla prima fase di lavorazione della lana
+(i così detti “ciompi”), si aggirava sulle 35-40 lire. Un muratore ne incassa-
+va generalmente il doppio e intorno a questo livello si dovevano collocare
+le remunerazioni a cottimo percepite da tanti artigiani che lavoravano per
+il comparto tessile.20
+
+      19. Sul complesso sistema monetario del tempo cfr. R.A. Goldthwaite, G. Mandich,
+Studi sulla moneta fiorentina (secoli XIII-XVI), Firenze, Olschki, 1994.
+      20. Sui prezzi, i salari e gli stipendi nella Firenze del tempo esiste una vasta
+bibliografia, con al centro i lavori di Charles de La Roncière, Richard Goldthwaite, Giuliano
+Pinto, Franco Franceschi, Mathieu Harsch e del sottoscritto. Per un sintetico aggiornamento
+relativo al XIV secolo cfr. S. Tognetti, Attività produttive, costo del lavoro e livelli delle
+retribuzioni nelle città toscane al tempo di Dante e Boccaccio, in «Memorie Valdarnesi»,
+188 (2022), pp. 11-42.
+270                                  Sergio Tognetti
+
+
+      Al catasto del 1427 tutte le rendite immobiliari vennero capitalizzate al
+7%: se noi adoperassimo questo parametro per valutare la ricchezza com-
+plessiva di San Pier Maggiore, arriveremmo a circa 14.000 lire di patrimo-
+nio. Questa somma, equivalendo a poco più di 4mila fiorini, superava am-
+piamente la dotazione di capitale delle maggiori imprese laniere del tempo,
+come ad esempio quella gestita dai Del Bene negli anni Cinquanta e Sessanta
+del Trecento.21 La revisione prodotta dai tre «ragionieri» si applicava però
+solo ai movimenti di contanti e dunque la loro sarebbe una specie di certifi-
+cazione di un bilancio di cassa: il che lasciava fuori da ogni considerazione la
+massa dei debiti e dei crediti del monastero. Di questo, tuttavia, è probabile
+che il cenobio conservasse traccia in maniera non proprio sistematica, perché
+l’impiego dei libri mastri era ancora di là da venire.
+      Dopo aver elencato tutte le somme, parziali e totali, i tre «ragionieri»
+stilarono una sorta di breve relazione collegiale e di seguito, ognuno di pro-
+pria mano, sottoscrissero l’intero documento. Nei decenni successivi opera-
+zioni del generale furono replicate, segno che la revisione contabile affidata
+a periti era divenuta una procedura più o meno consolidata. Ed è difficile
+ipotizzare che la badessa, e le più “esperte” tra le monache, non controllasse-
+ro i processi decisionali che portavano a questi resoconti finanziari. Inoltre,
+prima di passare all’esempio successivo, vorrei introdurre un elemento sul
+quale ritornerò in sede di conclusioni. Per quanto il rivedimento della ragio-
+ne di San Pier Maggiore del 1376 costituisca indubbiamente un bel passo
+in avanti nelle prassi gestionali e amministrative dei monasteri urbani, esso
+deve stupire sino a un certo punto. Abbiamo già richiamato la “porosità”
+tra ambienti mercantili e cenobi cittadini. Dobbiamo altresì ricordare che
+San Pier Maggiore aveva un rilievo (religioso, economico e simbolico) che
+superava quello di qualsiasi altro cenobio femminile e persino di molti mo-
+nasteri e conventi maschili. L’accurata gestione della sua ricchezza non era
+questione che potesse essere tenuta in secondo piano. Mentre i frati mendi-
+canti continuavano a coltivare dubbi intorno all’effettiva proprietà dei beni
+a loro affidati e dunque maturarono inevitabilmente più tardi l’esigenza di
+acquisire le tecnicalità necessarie per gestirle,22 a San Pier Maggiore la real-
+
+      21. H. Hoshino, L’Arte della lana in Firenze nel basso Medioevo. Il commercio della
+lana e il mercato dei panni fiorentini nei secoli XIII-XV, Firenze, Olschki, 1980, cap. IV.
+      22. A. Bartoli Langeli, G.P. Bustreo, I documenti di contenuto economico negli
+archivi conventuali dei Minori e dei Predicatori nel XIII e XIV secolo, in L’economia dei
+conventi dei frati minori e predicatori fino alla metà del Trecento, Atti del XXXI Convegno
+internazionale (Assisi, 9-11 ottobre 2003), Spoleto, CISAM, 2004, pp. 119-150; Économie
+          Le monache, i ragionieri e le banche nella Firenze del tardo medioevo           271
+
+
+tà era, da tempo, molto più chiara: i beni appartenevano indubitabilmente
+al monastero, il quale si faceva vanto della sua ricchezza in funzione del
+ruolo che esercitava nella società del tempo. La badessa e le monache più
+esperte dovevano di conseguenza familiarizzarsi con le prassi amministra-
+tive più evolute.
+
+
+3. I depositi vincolati di Santa Verdiana (1407-1416)
+
+     Il secondo caso di studio è rappresentato dalle attività creditizie eser-
+citate dal monastero femminile vallombrosano di Santa Verdiana.23 Il ce-
+nobio di fondazione tardo trecentesca, oggi sede del Dipartimento di Ar-
+chitettura dell’Ateneo fiorentino, ha conservato per il Quattrocento un bel
+gruzzolo di libri contabili di varia tipologia e formato. Nei primi decenni
+del secolo esso era governato dalla badessa Maddalena di Jacopo di Dino
+del Pecora (o Pecori nella forma cognomizzata), una donna ancora una
+volta appartenente a una famiglia del milieu mercantile cittadino.24 Monna
+Maddalena doveva avere una discreta dimestichezza con alcuni strumenti
+finanziari, perché la documentazione amministrativa del cenobio la indica
+talvolta come stenditrice di “polizze” che assomigliano moltissimo a de-
+
+et religion. L’expérience des ordres mendiants (XIIIe-XVe siècle), sous la direction de
+N. Bériou et J. Chiffoleau, Paris, PUL, 2009 (in particolare i saggi contenuti nella prima
+sezione intitolata Les archives des couvents); E. Carletti, “Per lo buono istato della città”.
+I Servi di s. Maria nella società dell’Italia centro-settentrionale tra XIII e XIV secolo,
+Firenze, FUP, 2023, in particolare il quarto capitolo (La gestione dei beni materiali tra
+economia e religione, pp. 185-223); C. Carbonetti Vendittelli, I conti in convento. Il registro
+di entrate e uscite del convento domenicano di San Sisto di Roma (aa. 1369-1381), Città del
+Vaticano, Scuola Vaticana di Paleografia, Diplomatica e Archivistica, 2024.
+      23. F. Salvestrini, ‘Furti’ di identità e ambigue risemantizzazioni agiografiche:
+Verdiana da Castelfiorentino santa vallombrosana, in Hagiologica. Studi per Réginald
+Grégoire, a cura di A. Bartolomei Romagnoli, U. Paoli e P. Piatti, 2 voll., Fabriano,
+Monastero di San Silvestro abate, 2012, II, pp. 1143-1185; F. Farneti, Il monastero di Santa
+Verdiana a Firenze. Da luogo di silenzio e di culto a sede di pena carceraria, in Santa
+Verdiana a Firenze. Da monastero a sede universitaria: sette secoli di storia, a cura di
+F. Farneti e S. Van Riel, Firenze, Dipartimento di Architettura Università degli Studi di
+Firenze, 2017, pp. 19-67; L. Roselli, Le carte del monastero di Santa Verdiana. Aspetti di
+vita monastica, in «Rivista di Storia della Chiesa in Italia», LXXIV (2020), pp. 381-400.
+      24. Sulle compagnie dei Pecori di questi stessi anni cfr. S. Tognetti, L’attività
+assicurativa di un fiorentino del Quattrocento: dal libro di conti personale di Gherardo di
+Bartolomeo Gherardi, in «Storia Economica», 20/1 (2017), pp. 5-48.
+272                                  Sergio Tognetti
+
+
+gli ordini di pagamento scritti. Questa prossimità tra ambienti affaristi e
+cenobio di Santa Verdiana è testimoniata anche dal personale laico che fu
+ingaggiato dalla badessa per tenere la contabilità del monastero. Per altro
+le stesse monache si avvicendavano annualmente nella tenuta di alcuni libri
+di entrata e uscita in qualità di “camarlinghe”.25
+     Il codice che ci interessa maggiormente copre gli anni 1407-1419 (ma
+i conti più importanti si esauriscono con il 1416). Esso si presenta come il
+secondo di una serie iniziata probabilmente sullo scorcio del Trecento, con
+una incertezza determinata dalla mancata conservazione del primo registro.
+Il suo incipit riportato nella carta iniziale è il seguente: «Questo libro è de’
+munistero di Santa Verdiana nel quale scriveremo tutte le posisoni e beni e
+chi dovrà dare e chi doverà avere da detto munistero e pigionali e fece i
+voti».26 Il codice, le cui scritture erano tenute a sezioni sovrapposte, risulta
+così impostato: a carta 2 iniziava l’inventario immobiliare, a carta 8 comin-
+ciavano i conti intestati a fittavoli e pigionali, a carta 25 quelli dedicati alle
+spese straordinarie, a carta 30 quelli dei debitori generici, a carta 80 era la
+volta dei creditori, mentre alla carta 145 ci sarebbero dovute essere le ricor-
+danze dei fatti e dei negozi notevoli (questa sezione non risulta presente nel
+codice, ma non è chiaro se sia mai stata compilata o se sia andata perduta).
+     Nella sezione dedicata ai debitori generici compaiono alcune sorpren-
+denti scritture deputate alla registrazione di depositi vincolati effettuati pres-
+so banche d’affari e remunerati con interessi che si collocavano tra un mini-
+mo del 6 e un massimo dell’8% su base annua. I depositi di questo tipo, noti
+come “depositi a discrezione”, sono di fatto gli antenati delle nostre obbliga-
+zioni bancarie. Le compagnie d’affari (ma anche alcune importanti imprese
+del tessile), fornendo al creditore la garanzia della responsabilità solidale e
+illimitata di tutti i soci dell’azienda (come previsto da tutti i contratti di so-
+cietà), si prefiggevano di aumentare la loro disponibilità liquida attirando il
+risparmio dei privati: il così detto “corpo della compagnia” (che corrisponde
+al nostro capitale sociale) veniva quindi riccamente rimpinguato dal “sovra
+corpo di compagnia” e il patrimonio d’impresa risultava moltiplicato per
+enne volte, aumentando in maniera assai rilevante il giro d’affari (oggi par-
+leremmo di fatturato). I depositi naturalmente erano remunerati con interessi
+accreditati su base semestrale e annuale, ma il depositante aveva l’obbligo di
+
+      25. Santa Verdiana, 1 (1412-1444). Su questo registro vedi Duval, Scrivere, contare,
+gestire, pp. 88, 97, 102.
+      26. Santa Verdiana, 39.
+           Le monache, i ragionieri e le banche nella Firenze del tardo medioevo            273
+
+
+tenere le somme impegnate per un certo periodo e non poteva ritirarle se non
+con un largo preavviso. L’espressione “a discrezione”, almeno inizialmente,
+era la foglia di fico che nascondeva l’usura, perché si dava a intendere che
+la corresponsione degli interessi fosse a discrezione del soggetto debitore e
+quindi non determinata a priori da una clausola contrattuale. In ogni modo,
+operare su questo livello del mercato creditizio, presupponeva cospicue di-
+sponibilità e tempi di attesa non brevi.27
+     Il cenobio, pertanto, doveva avere all’epoca della liquidità in eccesso.
+Si trattava di un fenomeno assai raro per gli enti religiosi, in questo caso
+probabilmente determinato dall’afflusso di giovani monache riccamente
+dotate dalle loro famiglie. Essendo il cenobio di recente fondazione e do-
+vendo operare in un mercato immobiliare e fondiario in buona misura già
+saturo (almeno nelle aree suburbane o comunque non lontane dalla città),
+è verosimile pensare che la badessa e gli amministratori laici abbiano pen-
+sato di far fruttare i capitali circolanti nell’attesa di farli diventare fissi.
+L’ipotesi che questa forma di investimento fosse solo transitoria sarebbe
+confermata dal fatto che dopo l’anno 1416 questi strumenti si esaurirono,
+mentre nel terzo libro contabile della serie, relativo agli anni 1416-1441, i
+depositi fruttiferi non risultano più documentati. Diamo dunque uno sguar-
+do ad alcuni di questi investimenti davvero poco ortodossi per il mondo
+monastico e conventuale del tempo, non senza evidenziare come i termini
+impiegati dai contabili per indicare i frutti del capitale fossero quelli di
+«providigione», «provisione», «dono» e «discrezione», mai “interesse”.28
+     Nel 1407, all’avvio del registro, risultata già attivo un deposito di 1.257
+fiorini riportato dallo scomparso primo codice. La somma era stata versata
+presso la società di Antonio di Giovanni da Uzzano & compagni.29 Per diver-
+
+      27. R. de Roover, Il banco Medici dalle origini al declino (1397-1494), trad. it.,
+Firenze, La Nuova Italia, 1970, pp. 145-155. I depositi a discrezione si trovano in quasi tutti
+i libri mastri (e talvolta anche nei libri segreti e nei quaderni di cassa) delle società
+mercantili-bancarie fiorentine dal Trecento in poi: cfr. R.A. Goldthwaite, L’economia della
+Firenze rinascimentale, Bologna, il Mulino, 2013, pp. 286-288, 592-596 e passim. Per un
+esempio dettagliato cfr. S. Tognetti, Il Banco Cambini. Affari e mercati di una compagnia
+mercantile-bancaria nella Firenze del XV secolo, Firenze, Olschki, 1999, pp. 355-359.
+      28. Sull’introduzione e la diffusione del termine “interesse” nei testi di diritto canonico
+dei secoli XII e XIII, e sulla sua recezione nella normativa sinodale e nella legislazione
+urbana due-trecentesca, cfr. L. Righi, Amministrare l’usura. La diffusione dell’“interesse”
+nella canonistica e nella legislazione locale (XII-XIV secolo), in «Cristianesimo nella
+storia», 44 (2023), pp. 31-57.
+      29. Santa Verdiana, 39, c. 35r.
+274                                  Sergio Tognetti
+
+
+si anni il cenobio ricevette interessi oscillanti tra il 7% (valore più ricorrente)
+e l’8% su base annua. Tuttavia, solo in minima parte gli “stacchi cedole”
+furono impiegati per aumentare il capitale investito, venendo invece utiliz-
+zati per effettuare pagamenti a soggetti terzi tramite bonifico. Dal gennaio
+del 1413 al settembre del 1415, il deposito rimase invariabilmente stabile a
+1.358 fiorini. Proprio a partire dal 2 di settembre 1415 esso si trasformò in
+un conto corrente privo di remunerazione.30 Il cenobio impiegò la sua dispo-
+nibilità presso la compagnia da Uzzano per effettuare prelievi e pagamenti di
+vario tipo. Uno di questi si sposa perfettamente con quanto dicevamo prima
+a proposito del passaggio dal capitale circolante a quello fisso: 394 fiorini fu-
+rono infatti liquidati a monna Telda vedova di Aliso di Alberto degli Alberti.
+Il bonifico sul conto della ricca vedova doveva contribuire a saldare un debi-
+to di 1.200 fiorini, contratto con lei dal cenobio per l’acquisto di un enorme
+podere mezzadrile con numerosi edifici e pezzi di terra annessi.31
+     Nel dicembre del 1408 gli esecutori delle volontà testamentarie di un
+non meglio identificato ser Niccolò versarono, a nome di Santa Verdia-
+na, la somma di 1.000 fiorini a Giovacchino di Niccolò Macinghi. Per un
+biennio furono corrisposti al cenobio interessi calcolati al tasso del 6,75%
+annuo, poi il deposito venne chiuso trasferendo 500 fiorini su un nuovo
+conto deposito aperto presso Giovanni e Niccolò Barbadori (gennaio 1411)
+e 635 fiorini su quello aperto presso Bartolomeo di Verano Peruzzi e Gio-
+vanni Giugni & co. (febbraio 1411).32 Pertanto, contrariamente al caso pre-
+cedente, i capitali circolanti non vennero investiti in terre e immobili, ma
+trasferiti da un deposito vincolato ad altri due.
+     Il secondo degli ultimi depositi menzionati, quello con la compagnia
+Peruzzi & Giugni, vantava già 400 fiorini all’apertura del registro e rimase
+operativo sino all’ottobre del 1416.33 Nel novembre del 1412 toccò il suo
+massimo con 1.887 fiorini, poi iniziò lentamente a calare. Nell’ottobre del
+1416, però, ammontava ancora a 1.571 fiorini. L’intera somma venne quindi
+
+      30. Santa Verdiana, 39, cc. 35r, 49v, 53v.
+      31. Santa Verdiana, 39, c. 52r.
+      32. Santa Verdiana, 39, c. 35v. Su Niccolò Barbadori come membro della fazione
+politica “albizzesca” vedi W. Ingeborg, Barbadori, Nicolò, in Dizionario Biografico degli
+Italiani, vol. 6, Roma, Treccani, 1964, pp. 22-24.
+      33. Santa Verdiana, 39, cc. 37r, 38v, 43v, 45v, 47v, 51r. Su Bartolomeo di Verano
+Peruzzi in quanto esponente di punta della celebre casata vedi D. V. Kent, F. W. Kent, A
+self disciplining pact made by the Peruzzi family of Florence (june 1433), in «Renaissance
+Quarterly», 34/III (1981), pp. 337-355.
+           Le monache, i ragionieri e le banche nella Firenze del tardo medioevo             275
+
+
+trasferita tramite bonifico sul conto corrente che Santa Verdiana aveva presso
+la medesima società d’affari: l’operazione doveva infatti servire a ripianare
+il debito là accumulatosi. Pertanto, per diversi anni il cenobio femminile si
+avvalse della medesima compagnia, tanto per fare investimenti di natura
+finanziaria (conto deposito), quanto per beneficiare di servizi bancari e di
+tesoreria (conto corrente).34 L’alimentazione del deposito avveniva tramite
+versamenti diretti (o più spesso per tramite di terzi) legati all’incasso degli
+interessi sui titoli di stato, degli affitti e di tante altre voci, e naturalmente
+al trasferimento di somme da altri depositi come abbiamo appena visto. La
+remunerazione del deposito era generalmente fissata al tasso del 7% annuo.
+Una lunga causale datata 31 maggio 1413, e relativa a un accredito di 133
+fiorini, merita di essere riportata e spiegata nel dettaglio:
+     i quali danari ci assegnarono spontanamente e di loro libera volontà de’ so-
+     pradetti danari ch’ànno tenuti da detto dì adietro, abbattutone di quelli che
+     ànno dato al monistero in fra ’l detto tempo, e tanto dissono a me Nicolò
+     Covoni ch’io ponessi a lloro conto e così scrissono al libro loro. 35
+     Come già accennato, Santa Verdiana non poteva permettersi di figu-
+rare esplicitamente come percettore di interessi attivi: di qui il riferimen-to
+all’assegnazione spontanea e di libera volontà da parte dei debitori. Al
+contempo, però, se il monastero risultava in credito per gli interessi sul
+deposito, era anche in debito per lo scoperto di conto corrente che generava
+interessi passivi. La compagnia d’affari e il fattore del cenobio (Niccolò di
+ser Bettino Covoni) si misero dunque d’accordo su come regolare le pen-
+denze e poi arrivarono ad attribuire 133 fiorini netti al monastero.
+     Il deposito aperto presso Giovanni e Niccolò Barbadori nel gennaio
+del 1411, tramite trasferimento di 500 fiorini dalla compagnia Macinghi
+(vedi sopra), venne curiosamente intestato non al cenobio ma a due suoi
+fattori salariati, che dunque figurarono come prestanome: Bartolomeo di
+Niccolò Valori e Giovanni di Niccolò Riccialbani.36 Per due anni furono
+percepiti interessi dell’8% su base annua, mentre nel terzo anno il saggio di
+remunerazione scese al 7%. Nel maggio del 1414 anche questo conto de-
+posito venne chiuso con un bonifico a favore del conto corrente che Santa
+Verdiana aveva presso la società Peruzzi e Giugni.
+
+     34. Il conto corrente si trova in Santa Verdiana, 39, cc. 82v, 87r, 88r, 91r, 92r, 92v, 93r,
+93v, 94r, 95r, 95v, 97r.
+     35. Santa Verdiana, 39, c. 43v.
+     36. Santa Verdiana, 39, c. 39r.
+276                                     Sergio Tognetti
+
+
+      L’ultimo deposito documentato dal registro venne acceso nel gennaio
+del 1415 presso la società mercantile-bancaria di Tommaso di Giacomino
+di Goccio & co.37 L’occasione venne dalla dote di Camilla del fu Baldassar-
+re Ubriachi (poi detta suor Domitilla), versata da suo cognato e procuratore
+Niccolò di Piacenza. La somma iniziale, 450 fiorini, venne poi aumentata
+con più modesti versamenti. Nell’agosto dello stesso anno furono accredi-
+tati interessi a un tasso non specificato e contestualmente furono trasferiti
+300 fiorini sul solito conto corrente presso la compagnia Peruzzi & Giugni.
+La somma residua, 294 fiorini, venne impiegata per pagare la già ricordata
+monna Telda, vedova di Aliso degli Alberti, a parziale compensazione del
+grosso podere da lei venduto a Santa Verdiana.
+      La girandola di depositi (e di conti correnti) appena analizzati, per al-
+tro in buona misura riconducibili a società d’affari ricollegabili alla fazione
+albizzesca, fa ovviamente pensare che dietro la badessa fossero al lavoro
+persone formatesi nell’ambiente mercantile. Monna Maddalena, però, do-
+veva aver avuto una sua parte in questo traffico di capitali. A parte il rife-
+rimento alle “polizze” da lei sottoscritte,38 c’è anche il fatto che nel nostro
+registro compare un lungo conto corrente a lei intestato.39 Le scritture lì
+riportate risultano esattamente speculari rispetto a quelle presenti nel conto
+corrente bancario tenuto presso la compagnia Peruzzi & Giugni: ciò che è
+in dare nel c/monna Maddalena si trova in avere nel c/Peruzzi & Giugni (e
+viceversa). Esse, dunque, si configurano come una sorta di sintesi dei ricavi
+e dei costi dell’ente religioso, trovandosi tra le spese anche alcuni
+pagamenti per committenze artistiche. Curioso (e significativo) che questa
+embrionale forma di conto economico non fosse intestata al cenobio, ma
+direttamente alla badessa che lo dirigeva.
+
+
+
+      37. Santa Verdiana, 39, c. 49v. Questa banca d’affari è al centro del saggio di L. Tanzini,
+La morte del re, le ragioni del diritto e l’etica dei mercanti in una causa fiorentina del
+Quattrocento, in «Fiere vicende dell’età di mezzo», studi per Gian Maria Varanini, a cura
+di P. Guglielmotti e I. Lazzarini, Firenze, FUP, 2021, pp. 301-315. Molte notizie anche
+in S. Tognetti, Gli affari di messer Palla Strozzi (e di suo padre Nofri). Imprenditoria e
+mecenatismo nella Firenze del primo Rinascimento, in «Annali di Storia di Firenze», 4
+(2009), pp. 7-88 (disponibile online).
+      38. Santa Verdiana, 39, c. 49v: bonifici «per polizza di madonna Maddalena badessa
+di questo monistero».
+      39. Santa Verdiana, 39, cc. 37v, 38r, 44r, 44v, 45r, 46r, 46v, 48r, 48v, 49r, 50v, 51v,
+52r, 53r, 89r, 94v.
+          Le monache, i ragionieri e le banche nella Firenze del tardo medioevo          277
+
+
+4. Gli assegni e le quietanze di San Gaggio (anni Quaranta del XV secolo)
+
+       Il nostro terzo caso di studio è fornito dalla documentazione di Santa
+ Caterina di San Gaggio: cenobio suburbano di monache agostiniane, situato
+ in cima a un poggio ad appena un chilometro di distanza dalle mura trecen-
+ tesche in direzione sud, lungo una strada che fuoriusciva dalla porta a San
+ Pier Gattolino (oggi porta Romana) e che corrisponde all’attuale via Senese.
+      La fondazione primo trecentesca portava il nome di Santa Caterina in
+Monte (cioè in cima al poggio). Essa venne unita nel 1353 a un altro
+monastero che recava il nome di San Caio papa (fiorentinizzato in San
+Gaggio) e dunque modificò la sua intitolazione. Anche in questa realtà su-
+burbana le monache provenivano generalmente dagli strati elevati della
+società fiorentina, come dimostrano i cognomi di alcune badesse (Albizzi,
+Guasconi, Pigli, Deti) e gli ingressi “dotati” di ragazze appartenenti a fa-
+miglie come i Medici e gli Altoviti. Al pari di altri monasteri e conventi
+femminili, dalla seconda metà del Quattrocento il cenobio si sarebbe spe-
+cializzato nella lavorazione della foglia d’oro e nella produzione di oro
+filato. Si trattava di una attività collegata all’indotto dell’industria serica
+fiorentina, allora in forte sviluppo. All’origine di tante stoffe broccate o
+impreziosite da ricami d’oro c’era l’umile lavoro delle monache, che in
+questo modo si guadagnavano una certa autonomia economica rompendo
+parzialmente la dipendenza dai consueti (passivi) canali di finanziamento
+degli enti religiosi femminili.40
+      Il primo dei libri contabili sopravvissuti è un quaderno di debitori e
+creditori segnato A (1432-1439) che reca in seguente incipit:
+     Questo libro è delle donne del munistero di Sancta Katherina a monte decto
+     San Gaggio, in sul quale intendo ordinare io, ser Filippo di Francescho, sin-
+     daco e procuratore di decto munistero, tutti debitori e creditori di decto mu-
+     nistero incominciando questo dì primo di marzo 1431 [s.f.] e così seguitare le
+     partite di ciascuno debitore e creditore mescholatamente, traendo le partite
+     innanzi dopo e’ saldi fatti co’ lloro, segnando el nome di ciaschuno dinanzi in
+     su l’alfabeto overo stratto.41
+
+
+     40. O. Fantozzi Micali, F. Lombardi, P. Roselli, Il monastero di San Gaggio a Firenze.
+La storia – Il piano di recupero, Firenze, Alinea, 1996. Cfr. anche Strocchia, Nuns and
+Nunneries, ad indicem. I registri dai quali emerge più chiaramente la lavorazione della foglia
+d’oro sono i mastri tardo quattrocenteschi e primo cinquecenteschi: San Gaggio, 81-83.
+     41. San Gaggio, 77.
+278                                  Sergio Tognetti
+
+
+      Questo registro era tenuto da un religioso, il cappellano Filippo facente
+funzioni di sindaco e procuratore del cenobio. Il codice intonso era stato
+acquistato da una compagnia di cartolai (quella dei Tucci) che aveva la sua
+sede operativa in una bottega situata in via del Palagio (oggi via del Procon-
+solo) di proprietà della Badia fiorentina.42 Ser Filippo impostò le scritture
+a sezioni sovrapposte (cioè alla maniera trecentesca), ma adottò il formato
+“alla veneziana” (scritture contrapposte, con dare sulla sinistra e avere sul-
+la destra) per il conto intestato alle «donne di San Gaggio»: una specie di
+conto economico del cenobio. Come si evince dall’incipit, ser Filippo si
+dotò anche di una rubrica alfabetica (non arrivata sino a giorni nostri) dove
+segnava i titolari di tutti i conti con l’indicazione delle relative carte.
+      Contestualmente al quaderno A, il cappellano avviò anche un libro
+bianco segnato A (1435-1439) che possiamo equiparare a una sorta di ma-
+stro: pur non adottando il metodo della partita doppia, in questo registro
+tutti i conti erano tenuti “alla veneziana”.43 Più o meno nel medesimo pe-
+riodo, un ragioniere laico (Antonio Squarcialupi) si prendeva cura del libro
+corregge bianche segnato A (1435-1453), anch’esso impostato a sezione
+contrapposte e dedicato alla registrazione di posizioni debitorie e creditorie
+relative a eredità, lasciti, commissioni e composizioni (attive e passive),
+sussidi e doti per le monacande e monacate.44 Il lungo incipit di questo
+quaderno con coperta in pergamena (rafforzato da corregge, cioè strisce di
+cuoio) reca una indicazione per noi preziosa:
+      E io, Antonio di Rinieri Squarcialupi da Firenze, per ubidire a’ chomanda-
+      menti della detta venerabile badessa, suora Francescha di Piero degli Albizi,
+      ordinerò e chomincerò le partite e ragioni in detto libro, sperando di farne
+      piacere a dDio e chonsolazione e utile a tutta la chongreghazione di detto
+      munistero, a’ quali tutti di grazia domando che per me e per miei passati e
+      futuri preghare dobiate l’altissimo Iddio, che vera luce ci presti in etterno, per
+      modo tale che ogni tenebra spenta rivegian voi nel suo beato regno.
+    La badessa, dunque, non solo era al corrente di cosa avveniva a livello
+amministrativo, ma dava ordini ai suoi fattori su come tenere la contabilità.
+     Il nostro interesse specifico, tuttavia, è rivolto soprattutto a quanto è
+contenuto in un quarto registro: il quaderno di debitori e creditori segnato
+B (1440-1458), tenuto sempre dal cappellano, sindaco e procuratore, ser
+
+      42. Tognetti, Osservanza e partita doppia, ad indicem.
+      43. San Gaggio, 78.
+      44. San Gaggio, 79.
+          Le monache, i ragionieri e le banche nella Firenze del tardo medioevo        279
+
+
+Filippo di Francesco.45 Il formato è identico al primo codice da noi somma-
+riamente già descritto, anche perché ne rappresenta l’esatta prosecuzione.
+Sparsi tra le carte del quaderno troviamo alcuni pezzetti di carta. Quasi tutti
+i libri contabili contengono di norma foglietti volanti, sui quali di so-lito
+erano stati eseguiti dei calcoli. In questo caso, però, le strisce di carta
+consistono in veri e propri strumenti di pagamento. Nello specifico si tratta
+di 3 assegni e 3 mandati all’incasso. A questi “effetti bancari” si aggiungo-
+no 5 quietanze per avvenuta liquidazione di un debito e 3 brevissime lettere
+in cui si dà conto di questioni economiche.
+      Descriviamo brevemente ognuno di questi strumenti, partendo dagli
+assegni (vedi Appendice II).46
+      Il 29 maggio 1444 Dante di Francesco, fornaciaio di Brozzi (borgata
+rurale posta a circa 6 km dalla città in direzione nord-ovest), fece avere al
+cenobio di San Gaggio 1.200 mezzane per rifare il pavimento della «sala»
+(da intendersi presumibilmente come sala del capitolo). Il costo comples-
+sivo fu di ₤ 16 e s. 18 di piccoli. Dovendo però retribuire i 3 carrettieri che
+avevano effettuato il trasporto da Brozzi a San Gaggio, spiccò un assegno
+su ser Filippo di Francesco, qui definito unicamente come «da San Gha-
+gio». Il giorno dopo i tre «carradori» presentarono la «polizza» e incassa-
+rono la somma di ₤ 4 e s. 10 di piccoli, che venne registrata nel dare del
+conto corrente del fornaciaio.47
+      L’8 novembre 1445 Michele di messer Andrea Buondelmonti, pro-
+prietario di alcune terre in val di Pesa, decise di usare un piccolo credito
+con il cenobio (₤ 2 s. 10 di piccoli) – si trattava di un residuo legato a
+una precedente fornitura di legne grosse di cerro avvenuta a gennaio dello
+stesso anno – per pagare un suo creditore: tale Matteo Castrucci. Il Buon-
+delmonti emise quindi un assegno su ser Filippo di Francesco, qui definito
+«fattore delle monache di Sancto Ghaggio», perché pagasse il Castrucci o,
+in alternativa, uno dei suoi figli. La liquidazione avvenne due giorni dopo,
+quando l’effetto fu incassato da Marco di Matteo Castrucci che prelevò la
+somma sotto forma di quattrini (la moneta di mistura più piccola in circo-
+lazione). Il conto del Buondelmonti venne quindi saldato e chiuso.48
+
+      45. San Gaggio, 80.
+      46. Ove possibile, faccio riferimento alla carta del registro dove si trova la posta
+contabile di riferimento (là dove per altro sono state conservate per secoli queste piccole
+strisce di carta).
+      47. San Gaggio, 80, c. 42v.
+      48. San Gaggio, 80, c. 49r.
+280                                 Sergio Tognetti
+
+
+     Il 26 maggio 1446 Nanni di Pippo, identificato come lavoratore del
+cenobio in una non meglio precisata località le Masse, ebbe necessità di
+pagare un fornitore di calcina. Non abbiamo indicazioni in merito, ma può
+darsi che il materiale servisse a compiere lavori di manutenzione sui fab-
+bricati colonici e che dunque l’onere finanziario della fornitura ricadesse
+sul locatore, cioè il monastero. Nanni spiccò dunque un assegno su ser Fi-
+lippo, indicato come «cappellano in Sa’ Ghagio», perché desse a tale Chele
+di Nencio «Franacia» la somma di ₤ 5 s. 5 d. 5 di piccoli. Il mezzadro (o
+fittavolo) non aveva un conto corrente, per cui il pagamento della somma
+non fu contabilizzato nel quaderno in questione.
+     Passiamo ai mandati all’incasso.
+     Il 6 ottobre 1446 Matteo di Piero di Banco degli Albizzi doveva ancora
+ricevere il saldo finale di un vecchio credito con il monastero. La piccola
+pendenza, costituita da 4 lire di piccoli, era il residuo di un’operazione av-
+venuta due anni prima, quando l’Albizzi aveva venduto a San Gaggio un
+pezzo di bosco contenente 750 alberi di castagno per un valore di 17 fiorini.
+Per avere il saldo fornì al figlio, «il priore don Bartolomeo», un mandato a
+incassare da ser Filippo, qui definito «cappellano delle donne di San Ghag-
+gio et cetera». Forse Matteo degli Albizzi doveva provare un po’ di vergogna
+nell’usare il figlio (oltretutto un religioso) per reclamare dal cenobio una
+somma davvero modesta (almeno per un uomo con quel cognome), e infatti
+nel mandato venne specificato: «Se none avessi bisognio dovete pensare io
+nollo manderei costassù per essi, ma il bisognio mi fa così fare».49
+     Il 4 novembre 1446 ser Filippo di Giovanni, cappellano del pievano di
+San Lazzaro a Lucardo (chiesa situata nel territorio comunale di Certaldo
+in val d’Elsa), già in credito con San Gaggio per aver affidato un’asina, una
+puledra da domare e un puledro «piccolino» a un soccidario certaldese del
+cenobio, al fine di ottenere il saldo finale di quanto dovutogli, emise un
+mandato all’incasso per riscuotere da ser Filippo di Francesco, qui definito
+«cappellano in San Gaggio». Quest’ultimo aveva l’obbligo di versare 12
+lire di piccoli a tale Michele di Bano di San Godenzo, inviato a Firenze dal
+chierico di San Lazzaro per pagare delle imposte (non è chiaro di quale
+natura) e quindi bisognoso della liquidità necessaria.50
+     Il 16 novembre 1447 fu il cappellano Filippo di Francesco a redigere
+un mandato all’incasso un po’ particolare. Scrisse infatti al fabbricante di
+
+      49. San Gaggio, 80, c. 49v.
+      50. San Gaggio, 80, c. 68r.
+        Le monache, i ragionieri e le banche nella Firenze del tardo medioevo   281
+
+
+funi Francesco di Martino, che aveva bottega sul ponte Vecchio, perché
+consegnasse due capestri da muli a un vetturale del cenobio di nome San-
+dro. Costui il giorno stesso ritirò dalla bottega del funaiolo 2 libbre e ½ di
+«fune rovescia» (la quantità necessaria per realizzare due capestri) e il con-
+to corrente di Francesco di Martino venne accreditato per s. 9 di piccoli. 51
+Quanto alle quietanze, Giovanni di Piero Cavalcanti ne emise una
+doppia, con riferimento a due pagamenti, avvenuti nel giugno del 1442
+a distanza di pochi giorni l’uno dall’altro, per complessivi 18 fiorini e ₤ 2
+e s. 1 di piccoli. La somma corrispondeva al valore di un paio di buoi ce-
+duti a un contadino di San Casciano. Dalla quietanza non risulta evidente
+il legame del Cavalcanti con il cenobio e non c’è traccia di un suo conto
+corrente nel quaderno segnato B.
+      Il 31 ottobre 1445 a rilasciare quietanza fu Antonio, priore di Santa
+Maria Maggiore, nonché commissario e collettore apostolico. Aveva ap-
+pena incassato 7 fiorini e 2/3 di camera (la moneta di conto papale), che
+erano parte di una decima pontificia di 20.000 fiorini camerali. Ser Filippo
+di Francesco, nell’addebitare il conto della decima nel quaderno B, scrisse
+che la «polizza … starà qui in questo libro per mia memoria e ricordanza».
+E non solo per la sua, visto che è arrivata sino ai giorni nostri.52
+      Una quietanza fu rilasciata il 2 giugno 1449 da tale Giuliano di An-
+tonio del Gogo, il quale dichiarò al cappellano di San Gaggio che il suo
+debito con il cenobio di ₤ 5 e s. 10 (originato da quattro piccoli acquisti di
+vino) sarebbe stato preso in carico da un soggetto terzo, Domenico di
+Antonio detto Marrino. In cambio consegnava a Marrino una tovaglia.53
+      Infine, due ricevute di pagamento vennero consegnate da Tommaso di
+Sandro del Pace che da ser Filippo di Francesco incassò ₤ 20 il 30 agosto
+del 1449 e ₤ 9 e s. 17 il 12 settembre dello stesso anno. In entrambi i casi
+Tommaso agì per conto del galigaio Antonio di Lenzone, di cui era proba-
+bilmente un dipendente.54
+      Tutti questi documenti originali presenti in un solo registro contabile
+costituiscono a loro modo una rarità. È vero che Federigo Melis ne aveva
+rintracciati diversi, all’interno di un libro di conto di due banchieri pisani
+del secondo Trecento (il registro è nel fondo dell’Opera del Duomo all’in-
+
+    51. San Gaggio, 80, c. 93v.
+    52. San Gaggio, 80, c. 57v.
+    53. San Gaggio, 80, c. 101r.
+    54. San Gaggio, 80, c. 105r.
+282                                 Sergio Tognetti
+
+
+terno dell’ASPi) e poi nell’archivio Datini di Prato, soprattutto in relazione
+all’attività del banco datiniano di Firenze aperto alla fine del XIV secolo.55
+Ma in entrambi i casi, per quanto si trattasse di originali assai precoci,
+bisogna rimarcare come questi strumenti si ricollegassero direttamente a
+una attività finanziaria gestita da e per conto di imprenditori (alcuni dei
+quali di livello elevato) e di artigiani. Quindi se è vero che non mancano
+gualchierai, tessitori e garzoni tra i beneficiari di assegni e mandati all’in-
+casso, resta il fatto che l’iniziativa di emettere gli effetti stava tutta dalla
+parte di aziende mercantili-bancarie e tessili. Nel caso di San Gaggio, se si
+esclude la figura eccezionale del collettore apostolico, tra i personaggi
+coinvolti nelle operazioni figurano tre esponenti dell’alta società fiorentina
+(Albizzi, Altoviti e Cavalcanti) ma in veste di privati cittadini non come ti-
+tolari di imprese; gli altri invece sono bottegai, chierici di modesto livello,
+trasportatori locali, contadini. Le somme in questione erano generalmente
+modeste e anche questo è un particolare rilevante.
+     La realtà fiorentina più vicina a quella testimoniata dai documenti di
+San Gaggio è forse quella di un fornaciaio, studiato a suo tempo da Richard
+Goldthwaite, che nel 1475 spiccò sui propri clienti dei mandati all’incasso
+a favore dei suoi trasportatori di mattoni e altro materiale edile. 56 Oppure
+quella dell’ospedale di Santa Maria Nuova, il cui direttore nel 1474 onorò
+un assegno al portatore emesso da un fornitore abituale di carne di pollo:
+uno degli ingredienti principali per la preparazione della zuppa destinata a
+poveri e bisognosi.57 Ancora più aderente alla documentazione di San
+Gaggio è l’attività del responsabile dei fondi per i lavori di costruzione
+dell’abside “albertiana” nella chiesa di San Martino a Gangalandi (oggi nel
+comune di Lastra a Signa): nei primi anni Settanta del Quattrocento, il
+canonico fiorentino Niccolò Corbizzi era solito pagare muratori, scalpellini
+e manovali con “polizze” emesse sulla banca Rucellai di Firenze.58 Nelle
+
+     55. F. Melis, La banca pisana e le origini della banca moderna, a cura di M.
+Spallanzani, Firenze, Le Monnier, 1987, pp. 110-174, 343-356. Vedi anche M. Spallanzani,
+A note on Florentine banking in the Renaissance: orders of payment and cheques, in «The
+Journal of European Economic History», 7 (1978), pp. 145-168.
+     56. R.A. Goldthwaite, La costruzione della Firenze rinascimentale. Una storia
+economica e sociale, Bologna, il Mulino, 1984, pp. 440-442.
+     57. Tognetti, «E terassi per bilancio», p. 161.
+     58. M. Spallanzani, L’abside dell’Alberti a San Martino a Gangalandi. Nota di storia
+economica, in «Mitteilungen des Kunsthistorischen Institutes in Florenz», 19 (1975),
+pp. 241-250: 245.
+          Le monache, i ragionieri e le banche nella Firenze del tardo medioevo         283
+
+
+ricerche dell’ultimo mezzo secolo erano effettivamente emersi, tra i benefi-
+ciari di assegni, individui dal profilo socio-economico decisamente basso:
+come ad esempio vuotatori di pozzi neri o mezzadri.59 Si trattava, tuttavia,
+di casi isolati, per quanto assai significativi e suggestivi. La relativa con-
+centrazione di effetti bancari reperibili nel registro di San Gaggio rappre-
+senta pertanto la conferma definitiva che questi pezzetti di carta, tutti inva-
+riabilmente definiti “polizze”, erano maneggiati praticamente da chiunque.
+
+
+5. Conclusioni
+
+     I tre casi esemplari da noi esaminati aprono prospettive inedite sulla
+storia degli enti religiosi e non solo di quelli femminili di Firenze. Il grado
+di tecnicalità presente nella documentazione analizzata è abbastanza pros-
+simo a quella ravvisabile nei libri contabili degli uomini d’affari. Del resto,
+alcuni dei registri studiati, penso soprattutto a quelli di Santa Verdiana e in
+parte a quelli di San Gaggio, furono redatti in scrittura mercantesca da
+ragionieri del settore. L’aspetto più interessante, tuttavia, è rappresentato
+dalla capacità dimostrata da alcuni amministratori religiosi, come il cap-
+pellano di San Gaggio, di adeguarsi rapidamente al modello mercantile,
+accettando e rilasciando con grande facilità veri e propri effetti bancari.
+Persino alcune badesse, come quella di Santa Verdiana, emettevano “poliz-
+ze”, cioè ordini di pagamento scritti che purtroppo non sono sopravvissuti.
+Tra la fine del XV secolo e l’inizio del successivo, quasi tutti i libri mastri
+dei monasteri urbani e suburbani erano tenuti da religiosi, mentre le mona-
+che si affaccendavano generalmente sui più semplici libri di cassa.
+     Quando una cultura tecnica esce dal suo luogo socio-economico di ele-
+zione e si diffonde in contesti terzi significa che essa sta “informando” una
+civiltà. Applicarsi nella ragioneria e nell’amministrazione patrimoniale di-
+venta un habitus mentale a cui non si può rinunciare. Questo vale in primo
+luogo là dove esistono necessità pratiche molto forti, per esempio nei grandi
+enti assistenziali, come nel caso davvero clamoroso dello Spedale degli In-
+nocenti che avvia sin dall’inizio i suoi libri mastri con il metodo della partita
+doppia. Poi però il travaso di cultura tecnica tocca anche i maggiori enti re-
+
+      59. Spallanzani, A note on Florentine banking, pp. 156-157; S. Tognetti, L’attività di
+banca locale di una grande compagnia fiorentina del XV secolo, in «Archivio Storico
+Italiano», 155 (1997), pp. 595-647: 640-641.
+284                                  Sergio Tognetti
+
+
+ligiosi maschili e femminili, che devono rendere conto ai fedeli della buona
+gestione di patrimoni derivanti in larga misura da donazioni e il cui scopo ul-
+timo è la salvezza ultraterrena della comunità. In questo ambito i monasteri,
+come ad esempio la Badia fiorentina, anticipano i conventi mendicanti per le
+ragioni richiamate in precedenza: sino al momento in cui non risulta del tutto
+chiaro che un bene si possiede in piena e legittima proprietà (tanto dal punto
+di vista giuridico quanto da quello morale), la spinta alla razionalizzazione
+gestionale risulta in qualche modo frenata.
+      A questo fenomeno di portata generale non è affatto estraneo il mo-
+nachesimo femminile, anzi. Ulteriori e più approfondite ricerche potranno
+certamente meglio chiarire il quadro. A questo proposito vorrei chiudere
+proponendo un questionario minimo di indagine per il futuro.
+       Innanzitutto, viene da chiedersi come sia immaginabile effettuare in-
+ dagini simili per altri contesti urbani italiani: l’assenza quasi totale di libri
+ contabili è effettivamente un ostacolo, ma forse non del tutto insormonta-
+ bile. Magari sarà possibile, attraverso i fondi notarili e quelli giudiziari, re-
+ perire informazioni insperate. D’altra parte sappiamo bene che il risultato
+  di uno scavo archivistico dipende moltissimo dal programma di indagine
+ organizzato dallo studioso: non si può trovare quello che non si cerca. E se
+  è vero che per tante città è difficile individuare dinamiche simili a quelle
+ fiorentine, riesce altrettanto inverosimile pensare che le realtà di Venezia,
+ Milano, Bologna, Roma e Napoli fossero così distanti da quella di Firenze.
+      Il secondo quesito riguarda l’evoluzione secolare del fenomeno di cui
+ abbiamo indicato alcune tappe precoci. In sostanza, le religiose della prima
+ e tarda età moderna hanno continuato ad applicarsi nella gestione ammini-
+ strativa dei loro enti, oppure la Controriforma ha cambiato il rapporto tra le
+  monache e la gestione quotidiana delle loro finanze e dei loro patrimoni?
+ Questa domanda ne presuppone un’altra di portata ancora più vasta (proba-
+ bilmente ingenua) e quindi di difficilissima risposta: la diffusione di cultura
+ tecnica presente nella Firenze tardo medievale e rinascimentale rappresen-
+ ta forse un apice dopo il quale si individua una relativa caduta? Non parlo
+ dell’evoluzione della tecnica ragionieristica e bancaria in sé e per sé. Quello
+è un fatto scontato e infatti con il tardo Cinquecento compaiono anche i primi
+ trattati dedicati alla buona amministrazione contabile degli enti religiosi.60
+
+     60. S. Paternostro, L’applicazione della partita doppia in Italia e in Spagna nel XVI
+secolo documentata dalle opere di due autori: Angelo Pietra e Salvador Bartolomé de
+Solorzano, in «Contabilità e cultura aziendale», 9/2 (2009), pp. 57-81.
+        Le monache, i ragionieri e le banche nella Firenze del tardo medioevo   285
+
+
+Mi riferisco invece alla persistenza o meno di una forma di istruzione tec-
+nica che mette in una sorta di comunicazione “intellettuale” un banchiere,
+un commerciante di cereali, uno speziale, un tintore, un conciatore di pelli,
+un fabbro, un pittore, un spedalingo, una badessa, ecc. La cultura tecnica
+diffusa in una determinata comunità, infatti, è indissociabile da un deter-
+minato contesto socio-economico e se questo cambia (in positivo o in ne-
+gativo) allora anche la prima non può che esserne condizionata. Il declino
+economico Firenze, e di tutta l’Italia, nel corso dell’età moderna non può
+non aver influito sulle dinamiche appena descritte. L’affermazione di un
+sapere umanistico, quasi esclusivamente letterario e filosofico, che informa
+tutta la cultura italiana dal XVI secolo sino praticamente al Novecento, non
+ha contribuito da sola a relegare in secondo piano qualsiasi attività e cultura
+di tipo tecnico.
+     Quello che appare ai nostri occhi evidente, è che nella Firenze tardo
+medievale, molto più che in quella dei secoli successivi, la cultura ragio-
+nieristica fosse trasversale e interclassista. Tenersene fuori era difficile se
+non controproducente, anche per delle monache.
+286                                   Sergio Tognetti
+
+
+                                       APPENDICE I
+
+  Revisione contabile delle ragioni del cappellano Taddeo di Andrea,
+amministratore del monastero di San Pier Maggiore, ordinata dalla badessa
+                    del cenobio (28 ottobre 1376).a
+
+[c. 31v]
+
+                           MCCCLXXVI a dì XXVIII d’ottobre
+Al nome di Dio ame[m]. Memoria che noi Tommaso di Ghucio Martini e Arigho
+ di Zanobi Lottieri e Giovanni di Tura Dini, ragionieri chiamati per madonna di
+ San Piero Magiore a vedere le ragioni di messer Tadeo d’Andrea, suo capelano,
+ di ciò che gli è pervenuto a le mani di quello del munistero da dì XV di novembre
+ anno MCCCXLVIII insino a dì XXVIII d’ottobre anno MCCCLXXVI, e troviamo che gli è
+ pervenuto a le mani in questo tempo, cioè dal detto dì XV di novembre MCCCXLVIII
+ insino a dì II di gennaio anno MCCCLI, come apare per un quaderno di fogli picho-
+ lino sengnato I da la prima carta insino alle XV carte:
+ fiorini mille quatro d’oro e ₤ mille ventidue s. sedici d. 9 picioli.
+
+Anchora troviamo ch’àe riceuto per lo detto munistero da dì III di gennaio anno
+ MCCCLI insino a dì XXII di novembre anno MCCCLXX, come apare per un quaderno
+ di fogli mezani sengnato II da la prima carta insino alle XLVIII carte:
+ fiorini mille ottocento quarantauno d’oro e ₤ novemila trecento quarantuno s.
+ diece d. due picioli.
+
+Anchora troviamo ch’àuto, come apare per questo libro da carta I insino a qui, da
+ dì XIIII di dicembre anno MCCCLXX insino a dì XXVIII d’ottobre anno MCCCLXXVI:
+ fiorini novecento sesantadue e ₤ quattromila trecento quarantatre s. due d. diece
+ picioli.
+
+Somma che troviamo ch’el detto messer Tadeo àe riceuto nel detto tempo, come
+ apare qui di sopra:
+ fiorini MMMDCCCVII d’oro e ₤ XIIIIMDCCVII s. VIIII d. VIIII picioli.
+
+Posta qui dirinpetto.
+
+
+
+
+      a. San Pier Maggiore, 68 (Libro di entrata e uscita 1370-1376), cc. 31v-32v.
+           Le monache, i ragionieri e le banche nella Firenze del tardo medioevo          287
+
+
+[c. 32r]
+
+Monta la ritratta del detto messer Tadeo come
+ apare qui da latto.                                       f. MMMDCCCVII
+                                                           ₤ XIIIIMDCCVII s. 9 d. 9
+De’ quali asengnia spessi nel detto tempo, chome
+ apare a un quaderno picholo segnato I da carte
+ XVI insino a carte XXXII, da dì XV di novembre
+ MCCCXLVIII insino a dì I di gennaio anno MCCCLI,
+ fiorini mille quarantaquatro d’oro e ₤ mille sedici
+ s. quattordici d. diece picioli.                          fior. MXLIIII d’oro
+                                                           ₤ MXVI s. XIIII d. x picioli
+Anche asegna spessi da dì I di gennaio anno MCC-
+ CLI insino a dì XXII di novembre MCCCLXX, come
+ apare per un quaderno di fogli mezani da carte L
+ insino a carte 135, fiorini mille cento novanta-
+ nove d’oro e ₤ dodicimila ventidue s. quindici e
+ d. quatro picioli.                                        f. MCLXXXXVIIII d’oro
+                                                           ₤ XIIMXXII s. XV d. 4 picioli
+Anche asengna spessi da dì XXII di novembre MCC-
+ CLXX insino a dì XXIIII d’ottobre MCCCLXXVI, come
+ apare per questo libro da carte L insino a carte
+ LXXXVIII, in tutto fiorini mille diece d’oro e ₤ quat-
+ tromila novecento ventidue s. quatro picioli.             fior. MX d’oro
+                                                           ₤ IIIIMDCCCCXXIII s. IIII picioli
+Sì che n’asegna il detto messer Tadeo, come è scri-
+  to di sopra, fiorini MMMCCLIII e ₤ XVIIMDCCCCLXII
+  s. XIIII d. II picioli.
+
+Resta che asengnia meno fiorini DLIIII d’oro, che vagliono, a s. LXVIII il fiorino,
+ ₤ MDCCCLXXXIII s. XII, e asegna più d’uscita ₤ MMMCCLV s. IIII d. V. Resta ch’ase-
+ gna più spese che ricevute a picioli ₤ MCCCLXXI s. XII d. V.
+
+Posta qui di sotto.
+288                                 Sergio Tognetti
+
+
+[c. 32v]
+
+Veduta per noi, Tommaso di Ghucio Martini e Arigho di Zanobi Lotieri e Giovanni
+  di Tura Dini ragionieri detti. Come scritto qui di sotto, abiamo veduta e meta in
+  saldo questa ragione tenuta per lo detto messer Tadeo d’Andrea da dì XV no-
+  vembre anno mille trecento quarantotto insino a dì ventotto d’ottobre anno mille
+  trecento setantasei, che troviamo ch’el detto messer Tadeo à più spesso che non à
+  riceutto, come scritto in questa carta di sotto per saldo di questa ragione a picioli
+  ₤ mille trecento setantauno e s. dodici d. cinque picioli.
+Io, Giovanni di Tura, ò scritta e mesa in saldo questa ragione con volontà de’ detti
+  Tomaso di Guccio e Arigho di Zanobi a dì XXVIII d’ottobre anno MCCCLXXVI. E a
+  chiareza di ciò mi sono scritto qui di mia propia mano dì detto e detti Tomaso e
+  Arigho si soscriverano qui a piè di loro manno.
+Io Tomaso Ghucco Martini fu’ presente a fare la detta ragione e metere in saldo
+  chol detto [grafia molto pasticciata] di Giovanni di Tura con volontà d’Arigho
+  di Zanobi questo dì ed ano, scritto per mano di Giovanni. Ed a chiarezza di ciò ò
+  scritto questo chapitolo di mia propia mano.
+Io Arigho di Zanobi Lottieri fui chol detto Tomaso di Ghuccio Martini e Giovanni
+  di Tura Dini a fare questa ragione scritta di mano del detto Giovanni. E per chia-
+  reza di ciò mi sono soscritto qui di mia propia mano questo dì XXVIII d’ottobre
+  anno MCCCLXXVI.
+             Le monache, i ragionieri e le banche nella Firenze del tardo medioevo                        289
+
+
+                                                 APPENDICE II
+
+ Effetti bancari maneggiati da Filippo di Francesco, cappellano e ammini-
+             stratore del monastero femminile di San Gaggio.a
+
+
+
+1) Assegno emesso il 29 maggio 1444 da Dante di Francesco (fornaciaio di
+ Brozzi) su Filippo di Francesco perché quest’ultimo paghi ai carrettieri il
+ trasporto di materiale edile venduto al cenobio. Con relative scritture
+ contabili (la posta di addebito è da me riportata in corsivo).
+                                      [fronte]
+Datte a’ charadori per vettura di ttre charatte lire una e soldi decie, in tutto ₤ 4
+s. 10, a dì 29 di magio 1444.
+                               Dantte di Francesco
+                               fornaciaio a Brozi
+
+                                                     [retro]
+                                                   ser Filipo
+                                                 da San Ghagio
+
+c. 42v
+Dante di Francesco fornaciaio a Brozzi dee avere a
+  dì 30 di maggio 1444 per 1200 mezzane per
+  mattonare la sala, per ₤ XIIII il migliaio, montano
+  poste qui in San Gaggio ......................................              f. –    ₤ 16   s. 18 d. –
+
+Anne avuti a dì 30 di maggio 1444 ₤ IIII s. X contanti,
+ per lui a tre carradori che recorono sopradecte
+ mezzane in tre carrate, e così mi scrisse e avisò
+ per sua poliza dessi e’ danari a detti carradori....                         f. –    ₤ 4    s. 10 d. –
+Anne avuti a dì 30 di maggio f. uno largo, diedi in
+ sua mano qui a San Gaggio, per ₤ IIII s. XVI d’acor-
+ do co’ llui...............................................................    f. –   ₤ 4 s. 16 d. –
+
+
+
+
+       a. San Gaggio, 80 (Quaderno di debitori e creditori segnato B, 1440-1458).
+290                                      Sergio Tognetti
+
+
+Anne avuti a dì 6 di giugno 1444 ₤ IIII contanti,
+ diedi qui a San Gaggio in sua mano in sette gros-
+ si d’ariento e il resto quattrini .............................. f. –   ₤ 3    s. –   d. –
+Anne avuti a dì 10 di giugno 1444 ₤ IIII s. XII con-
+ tanti a San Gaggio, per resto di questa ragione
+ d’acordo con Dante sopradecto...........................         f. –   ₤ 4    s. 12 d. –
+
+
+
+2) Assegno emesso l’8 novembre 1445 da Michele di messer Andrea Buon-
+ delmonti su Filippo di Francesco perché quest’ultimo paghi a Matteo Ca-
+ strucci (o a un suo figlio) il residuo di una somma legata a legna da ardere
+ venduta al cenobio. Con relative scritture contabili (la posta di addebito
+ è da me riportata in corsivo).
+                                    [fronte]
+Date a Matteho di Chastruccio hel resto di quelle legne chonprasti da me ho a’ fi-
+ gluoli però che ànno avere da me. Christo vi guardi a dì 8 di novembre 1445 amen.
+                                             Michele Buondelmonti in val di Pesa
+
+                                           [retro]
+                  ser Filippo fattore delle monache di Sancto Ghaggio
+
+c. 49r
+Michele di messer Andrea Buondelmonti dee ave-
+  re a dì …b di gennaio 1444, per otto cataste di
+  legne grosse di cerro, le quali aviamo recato dal-
+  le fornaci a Ripoli colle nostre bestie per insino a
+  dì 14 di gennaio decto anno, per s. 50 la catasta,
+  e per quelle leveremo doviamo pagarlo a questo
+  medesimo pregio che vene più ............................ f. –         ₤ 20   s. –   d. –
+E a dì 21 di gennaio fornì di levare una altra catasta
+  Sandro nostro vetturale delle sopradecte di Mi-
+  chele per s. 50, aviamone ora nove cataste ......... f. –              ₤ 2    s. –   d. –
+
+Anne avuti a dì 14 di gennaio 1444 ₤ XX contanti,
+ portò Tonio di Matteo Castrucci in IIII f. larghi e
+ il resto quattrini e in grossi diedi a San Gaggio ..            f. –    ₤ 20   s. –   d. –
+
+
+      b. Spazio lasciato in bianco.
+           Le monache, i ragionieri e le banche nella Firenze del tardo medioevo       291
+
+
+Anne avuti a dì 10 di novembre 1445 s. cinquanta
+ contanti in quattrini, per lui a Matteo Castrucci,
+ portò Marco suo figliuolo....................................   f. –   ₤ 2   s. 10 d. –
+
+
+
+3) Assegno emesso il 26 maggio 1446 da Nanni di Pippo, lavoratore di San
+ Gaggio nel luogo detto Le Masse, perché Filippo di Francesco paghi un
+ fornitore di calcina.
+                                       [fronte]
+                      Al nome di Dio a dì 26 di magio 14[4]6
+Date all’aportatore di chuesta i danari di mogio due e staia 7 di charcina chomperai
+ da lui, el quale àve nome Chele di Nencio Franaciac per s. chuaranzei il mogio
+ fatto patto chon lui. Altro per chuesta non ci s’à dire. Siano chosti per resto per
+ lo vosto.
+Nanni di Pippo vostro lavoratore alle Mase.
+
+                                           [retro]
+                            ser Filippo chapellano in Sa’ Ghagio
+
+
+
+4) Mandato all’incasso emesso il 6 ottobre 1445 da Matteo di Piero degli
+ Albizzi a favore del figlio (don Bartolomeo) perché riscuota da Filippo
+ di Francesco il saldo di un vecchio debito. Con relative scritture contabili
+ (la posta di addebito è da me riportata in corsivo).
+                                      [fronte]
+L’aportatore di questa sarà il priore don Bartolomeo mio figliuolo. Priegovi gli
+ diate quelle ₤ quatro me restate a dare de’ chastagni. Se none avessi bisognio
+ dovete pensare io nollo manderei costassù per essi, ma il bisognio mi fa così fare,
+ vostro
+               Matteo degli Albizi in Firenze a dì 6 d’ottobre 1445
+
+                                        [retro]
+             ser Filippo chapellano delle donne di San Ghaggio et cetera
+
+
+
+      c. Grafia incerta.
+292                                              Sergio Tognetti
+
+
+c. 49v
+Matteo di Piero di Banco degli Albizzi insino a dì
+  9 d’ottobre 1444, comperai da lui uno pezzo di
+  bosco di castagniuoli, e’ quali furono circa di 750
+  tutti castagniuoli, de’ quali dice decto Matteo vo-
+  lerne f. 17 et che da altri ne trovò diciotto. Rima-
+  si d’acordo co’ llui per decto pregio rimettendo a
+  llui il mercato e il pregio. In tutto, come huomo
+  discreto e da bene, non mi domandò più di f. IIII
+  per fiorino ............................................................   f. 17   ₤ –    s. –   d. –
+
+Anne avuti a dì 19 di febbraio 1444 f. dieci larghi
+ a s. 96 l’uno, diedi in Firenze in casa sua in mano
+ di Matteo propia, fanno a ₤ .................................               f. –    ₤ 48   s. –   d. –
+Anne avuti a dì 10 di giugno 1445 ₤ sedici contanti
+ in tre f. larghi e due grossi in ariento e il resto
+ quattrini, diedi in mano di monna Checca sua
+ donna in Firenze ..................................................         f. –    ₤ 16   s. –   d. –
+Anne avuti a dì 7 di ottobre 1445 ₤ IIII contanti in
+ quattrini, diedi a San Gaggio in mano di Barto-
+ lomeo figliuolo di detto Matteo, il quale mi recò
+ lettera di sua mano che a llui gli dessi e così feci
+ per resto di questa ragione e però la cancello....                          f. –    ₤ 4    s. –   d. –
+
+
+
+5) Mandato all’incasso emesso il 4 agosto 1446 da Filippo di Giovanni
+ cappellano del pievano di San Lazzaro a Certaldo a favore di Michele di
+ Bano da San Godenzo, perché costui prelevi da Filippo di Francesco la
+ somma necessaria per pagare un’imposta. Con relative scritture contabili
+ (la posta di addebito è da me riportata in corsivo).
+                                      [fronte]
+Ser Filippo priegovi diate quelle dodici lire del resto delgl’asini vi vende’ a Certal-
+ do a Michele di Bano da San Guidenzo aportatore di questa, chome mi promete-
+ ste di fare, però che mando a ppagare la ‘mposta ed òlgli dato il resto e messo a
+ conto cotesti a’ vostri comandi aparecchiato a dì 4 d’agosto 1446 vostro
+                          servidore ser Filippo di Giovanni cappellano del piovano
+                                                            di Sa’ Lazzero a Certaldo
+
+                                        [retro]
+        Honesto religioso ser Filippo di Francescho cappellano in San Gaggio
+           Le monache, i ragionieri e le banche nella Firenze del tardo medioevo           293
+
+
+c. 68r
+Ser Filippo di Giovanni cappellano del piovano di
+Sa’ Llazero dee avere a dì primo d’agosto 1446 per
+una asina e una puledra da domare e uno puledruc-
+cio piccolino stimati in tutto f. XII e tre quarti in sul
+mercato a Certaldo, diedigli a tenere a mezzo pro
+e danno ad Antonio di Grancollino lavoratore del
+munistero al poggio presso a Certaldo........................ f. 12       ₤ 3    s. 1 d. 6
+Rimase contento dicto ser Filippo a ₤ LII s. IIII.
+
+Anne avuti a dì primo di agosto 1446 ₤ quaranta
+ s. IIII diedi in sua mano a Certaldo al mercato in
+ fiorini otto larghi a s. 97 l’uno e il resto quattrini
+ e rimasi d’acordo co’ llui restargli a dare ₤ XII e
+ che gli voleva a Firenze ......................................   f. –   ₤ 40   s. 4 d. –
+Anne avuti a dì 5 d’agosto 1446 ₤ XII contanti, portò
+ Michele di Bano, diedi a San Gaggio decto dì .....                f. –   ₤ 12   s. –   d. –
+
+
+
+6) Mandato all’incasso emesso il 16 novembre 1447 da Filippo di Fran-
+ cesco a favore di Sandro vetturale del monastero, perché costui si faccia
+ consegnare da Francesco di Martino funaiolo due capestri da muli del
+ valore di 9 soldi. Con relative scritture contabili (la posta di addebito è da
+ me riportata in corsivo).
+                                      [fronte]
+Da’ a Sandro nostro vetturale due capresti che ti chiedea pe’ nostri muli e scrivimi
+    il costo.
+                             ser Filippo in San Gaggio a dì 16 di novembre 1447.
+[di mano del funaiolo] Mandovi lb. 2 ½ di fune rovescia per chaprestti monta s. 9.
+
+                                         [retro]
+                     Francesco di Martino funaiolo al Ponte Vecchio
+
+c. 93v
+Francescho di Martino funaiolo dee avere per resto d’una
+  sua ragione in questo c. 73 ₤ V s. XVII d. XI....................             ₤ 5 s. 17 d. 11
+ E dee avere a dì 16 di novembre 1447 s. nove per libbre II
+   ½ di fune rovescia per tre capresti pe’ nostri muli, tolse
+  Sandro vetturale ............................................................ ₤ – s. 9 d. –
+[seguono altre scritture in avere e in dare sino a chiusura del conto il 3 giugno 1448]
+

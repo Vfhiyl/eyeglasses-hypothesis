@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en" class="apde">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Adams Papers Digital Edition - Massachusetts Historical Society</title>
+<link rel="shortcut icon" href="/favicon.ico" />
+<link href='//fonts.googleapis.com/css?family=Libre+Baskerville:400italic,400,700' rel='stylesheet' type='text/css' />
+<link rel="stylesheet" href="/publications/lib/css/basic-2017.css" media="all"/>
+<link rel="stylesheet" href="/publications/adams-papers/css/apde.css" media="all"/>
+<script src="/incl/js/jquery-2.1.1.min.js"></script>
+<script src="/publications/adams-papers/js/apde.js"></script>
+	<link rel="stylesheet" href="/publications/lib/css/tei-display/tei-fragment.css" />
+	<link rel="stylesheet" href="/publications/lib/css/tei-display/tei-display.css" />
+
+	<script src="/lib/ui-library/mhssticky-v3-jq.js"></script>
+	<script src="/publications/lib/js/display2018.js"></script>
+	<script>
+		var page = "0";
+
+		window.addEventListener('DOMContentLoaded', function(){
+			var el;
+			var display = new displayTools();
+
+			//page view only
+			if(page) {
+				display.initPageBasedDisplay(page);
+				display.stickyBar();
+			} else {
+				//still use BTT
+				display.backToTop();
+				display.BTTinit();
+			}
+
+			//to customize, set a global var textSizingSelector;
+			if (typeof textSizingEl == "undefined") {
+				//look for nav
+				el = document.getElementsByTagName("nav");
+				if (el.length > 0) {
+					//look for inner wrapper
+					var tempel = el[0].getElementsByTagName('div');
+					if (tempel.length > 0) el = tempel[0];
+				} else el = el[0];
+			}
+			el = document.querySelector(textSizingSelector);
+
+			if(el != null) {
+				display.initTextSizers(el, "top");
+			}
+
+			display.setupShortTitles();
+			display.setupNotesLinks();
+		});
+
+	</script>
+
+	<script>
+		var linkPrefix = "/publications/adams-papers/index.php/view/";
+		var textSizingSelector = "article .gutter";
+	</script>
+
+
+</head>
+<body class="apde innerPage ADMS-06  document">
+
+		<div style="background: black; margin: 0; padding: 10px 14px 4px 14px; text-align: center;">
+	<a href="/"><img src="/images/banners/mhs_final_horizontal_blk.svg" style="height: 24px; max-width: 100%"/></a>
+</div>
+ 	<header class="siteHeader">
+		<div class="gutter">
+			<h1>Adams Papers <span class='subtitle'>Digital Edition</span></h1>
+		</div>
+
+		<nav>
+			<svg class="hamburger" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 60.000001 60.000001" height="60" width="60"><g transform="translate(0,-992.36216)"><path d="M 5,1000.3622 55,1000.3622 55,1008.3622 5,1008.3622 Z" style="fill-opacity:1;stroke:none" /><path style="fill-opacity:1;stroke:none;" d="M 5,1018.3622 55,1018.3622 55,1026.3622 5,1026.3622 Z" /><path d="M 5,1036.3622 55,1036.3622 55,1044.3622 5,1044.3622 Z" style="fill-opacity:1;stroke:none" /></g></svg>
+			<div class="gutter">
+				<a href="/publications/adams-papers">Home</a>
+				<a href="/publications/adams-papers/index.php/browse">Browse</a>
+				<a href="/publications/adams-papers/index.php/index">Index</a>
+				<a href="/publications/adams-papers/index.php/search">Search</a>
+				<a id="codeNames" href="/publications/adams-papers/views/adams-inits.php"><span class="hideTablet">Adams Family </span>Name Codes</a>
+			</div>
+		</nav>
+	</header>
+
+
+	<div class="navToolsWrapper">
+		<script>
+			var PUB_PREFIX = "APDE-";
+			var linkPrefix = "/publications/adams-papers/index.php/view/";
+			var solrIndexPrefix = "apde-"; //after which rest is the ID
+			var ajaxPrevNextUrl = "/publications/adams-papers/index.php/search-ajax-prevnext";
+
+		</script>
+		<script src="/publications/lib/js/nav-tools.js"></script>
+	</div>
+
+	<article>
+		<div class="gutter">
+			<h1 class="contextualTitle"><a href="/publications/adams-papers/index.php/volume/ADMS-06-15">Papers of John Adams, volume 15</a></h1>
+
+		
+	<div class="prevNextNav">
+		<div>
+					<label>Previous document in volume</label>
+			<a href="/publications/adams-papers/index.php/view/ADMS-06-15-02-0053-4-translation">
+				<h3>
+                  Translation
+               </h3>
+	<!--			<span class="who">						-->			</span>
+
+				<span class="date"></span>
+			</a>
+				</div>
+
+		<div>
+					<label>Next document in volume</label>
+			<a href="/publications/adams-papers/index.php/view/ADMS-06-15-02-0055">
+				<h3>To Robert R. Livingston</h3>
+	<!--			<span class="who">						-->			</span>
+
+				<span class="date"></span>
+			</a>
+				</div>
+	</div>
+
+	<section class="teiFragment">
+		<div id='document'>
+<span class="pb" id="pageBreak104">104</span><doc id="ADMS-06-15-02-0054" type="doc">
+            <mapData id="ADMS-06-15-02-0054">
+               <Title>To Henry Laurens, 12 July 1783</Title>
+               <Author>Adams, John</Author>
+               <Recipient>Laurens, Henry</Recipient>
+               <mapDates>
+                  <searchRange from="1783-07-12" to="1783-07-12"> </searchRange>
+                  <dayRange from="1783-07-12" to="1783-07-12"> </dayRange>
+               </mapDates>
+               <pageRange from="ADMS-06-15-02-pb-0104" to="ADMS-06-15-02-pb-0104"> </pageRange>
+            </mapData>
+            <header>To Henry Laurens</header>
+            <div2 type="docbody">
+               <opener>
+                  <salute>Dear Sir</salute>
+                  <dateline>Paris July 12. 1783</dateline>
+               </opener>
+               <p>Last Night I received your Favour of 25. Ult. The Box I had received a few days before, and had delivered to M<hi rendition="#super">r</hi> Jay and the Comte de Moustier, the Articles addressed to them. The Spectacles fit my Eye very well, and I thank you Sir for your Care in procuring them. As soon as I shall have the Pleasure to See you, I will pay you the Cost of them according to the Receipt which came with them.</p>
+               <p>I am sorry to hear of your Fever, occasioned I Suppose like mine, which is but just passed, by the uncommon heats of the Weather.— I hope Sir, you will return here as soon as possible. The Journey will re-establish your health.— I cannot ascertain any time for the Signature of the definitive Treaty: But We are given to Understand, that France, Spain and England are agreed and it cannot be long before We shall be called upon. Barney is arrived, and brings Advices some days in June. The Preliminary Treaty of 30 Nov. is ratified, and a certain Company are not hanged, nor censured.—<a xmlns="http://www.tei-c.org/ns/1.0" href="#ADMS-06-15-02-0054-fn-0001" class="note" id="ADMS-06-15-02-0054-fn-0001a">1</a> Congress are forming establishments for paying their Debts, and all will go tolerably well.— a little Impatience for the Evacuation of New York. Every Thing between M<hi rendition="#super">r</hi> Hartley and Us is as loose and indeterminate as when you left Us.</p>
+               <p>D<hi rendition="#super">r</hi> Franklin has rec<hi rendition="#super">d</hi> and communicated your Letters to the American Ministers.<a xmlns="http://www.tei-c.org/ns/1.0" href="#ADMS-06-15-02-0054-fn-0002" class="note" id="ADMS-06-15-02-0054-fn-0002a">2</a>
+               </p>
+               <p>I hope a few Weeks will put an End to the Uncertainties and Anxieties of the idle Life I have led for Six or 8 months. I would not pass such another Space for any Thing.</p>
+               <p>With great Esteem and Regard, I am / dear sir, your most humble &amp; obedient / servant</p>
+               <closer>
+                  <signed>John Adams</signed>
+               </closer>
+            </div2>
+            <div2 type="docback">
+               <note type="source" id="ADMS-06-15-02-0054-sn">
+                  <p>
+                     <abbr>RC</abbr> (<a href="/publications/adams-papers/index.php/lists/APXrep87/repository" class="completion" data-type="repository">ScL</a> [<a href="/publications/adams-papers/index.php/lists/APXrep87a/repository" class="completion" data-type="repository">ScU</a>]:Kendall Coll.); internal address: “His Excellency Henry Laurens Esq / Bath.” <abbr>LbC</abbr> (<a href="/publications/adams-papers/index.php/lists/ADMS-06-16-st-001/terms" class="completion" data-type="short-title">Adams Papers</a>); <a href="/publications/adams-papers/index.php/lists/APXterms100/terms" class="completion" data-type="terms">APM</a> Reel 108.</p>
+               </note>
+               <note type="fn" n="1" id="ADMS-06-15-02-0054-fn-0001"><span class="label">1.
+				</span>
+                  <p>In his letter to <abbr>JA</abbr> of 6 March, Laurens had suggested hanging, presumably facetiously, as Congress’ possible penalty for the commissioners’ violating its instructions to consult with and follow the advice of France in their peace negotiations with Britain (vol. <a href="/publications/adams-papers/index.php/view/ADMS-06-14-02-pb-0317" class="docLink" data-type="pageNo">14:317</a>).</p>
+               </note>
+               <note type="fn" n="2" id="ADMS-06-15-02-0054-fn-0002"><span class="label">2.
+				</span>
+                  <p>Benjamin Franklin wrote to Laurens on 6 July that “we have been honoured with several of your Letters, and we have talk’d of writing you, but it has been delayed” (<a href="/publications/adams-papers/index.php/lists/ADMS-06-15-st-039/short-title" class="completion" data-type="short-title">Laurens, <hi rendition="#italic">Papers</hi>
+                     </a>, 16:231). Laurens had written to the commissioners on 10 June (<abbr>LbC-Tr</abbr>, <a href="/publications/adams-papers/index.php/lists/APXterms100/terms" class="completion" data-type="terms">APM</a> Reel 103) and <a href="/publications/adams-papers/index.php/view/ADMS-06-15-02-0018" class="docLink" data-type="document">17</a> and <a href="/publications/adams-papers/index.php/view/ADMS-06-15-02-0022" class="docLink" data-type="document">20 June</a>, both above.</p>
+               </note>
+            </div2>
+         </doc>
+
+</div>
+	</section>
+
+		</div>
+	</article>
+
+	<footer>
+	<p><img src="/adams-resources/adams-insignia-blue.png" /></p>
+	<p>Adams Papers Digital Edition</p>
+	<p>&copy; 2026 Massachusetts Historical Society</p>
+</footer>
+<script>
+ 
+ function mhsASSetup(){
+	mhsASobj = new AntiSocial();
+	mhsASobj.findButtons("sharing-icons");
+ }
+ 
+</script>
+<script src="/lib/ui-library/antisocial-v3.js" async="true" onload="mhsASSetup();"></script>
+
+
+<script>
+	var cc_localStorageKey = "TRACKINGCONSENT";
+	var cc_siteUsesGA = true; // to load GA
+	var cc_gaAccountID ='G-1174Q9G3RC';
+</script>
+<script src="/lib/cookie-consent.js?v=2f" async="true"></script>
+<script data-goatcounter="https://www.masshist.org/analytics"
+        async src="/lib/count.js"></script>
+</body>
+</html>

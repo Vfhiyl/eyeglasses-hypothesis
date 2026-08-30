@@ -1,0 +1,175 @@
+{
+  "wd_probe_error": "Remote end closed connection without response",
+  "piceto_unpaywall": {
+    "is_oa": false,
+    "pdf": null,
+    "url": null,
+    "version": null
+  },
+  "ia": {
+    "\"Bartholomeus\" Padua oculariis": {
+      "n": 0,
+      "ids": []
+    },
+    "Zecchin \"vetro e vetrai\" occhiali": {
+      "n": 0,
+      "ids": []
+    },
+    "\"Magister Bartholomeus\" Padova": {
+      "n": 0,
+      "ids": []
+    },
+    "Sloradis occhiali OR occhial": {
+      "n": 1,
+      "ids": [
+        "il-galateo-in-bosco-andrea-zanzotto-z-lib.org"
+      ]
+    }
+  },
+  "gallica": {
+    "Jean de Cleuz": {
+      "n": "880",
+      "titles": [
+        "55 n° pour 91 pièces. Bretagne. Accord entre Jean-Claude de Cleuz, marquis du gage, et Jean Alba, fermier général du duché de Rohan, sur les droits de rachat montant à 6000 l. à percevoir pour la seigneurie de Rimaison.",
+        "Un droit féodal dans l'évêché de Dol au XVIIIe siècle. [Signé : A. Anne Duportal.]",
+        "Annonces, affiches et avis divers (Paris. 1751)",
+        "Annonces, affiches et avis divers",
+        "La Maison de Laval, 1020-1605 : étude historique, accompagnée du cartulaire de Laval et de Vitré. Tome 5 / par Bertrand de Broussillon ; illustrée de nombreux sceaux et monuments funéraires par Paul de Farcy"
+      ],
+      "arks": [
+        "ark:/12148/btv1b525158760",
+        "ark:/12148/cc1011182",
+        "ark:/12148/btv1b525158760",
+        "ark:/12148/btv1b525158760",
+        "ark:/12148/btv1b525158760"
+      ]
+    },
+    "Jehan de Cleux": {
+      "n": "1212",
+      "titles": [
+        "Paris sous Philippe-le-Bel : d'après des documents originaux et notamment d'après un manuscrit contenant le rôle de la taille imposée sur les habitants de Paris en 1292 / publ. par H. Géraud,...",
+        "Le Pays Boulonnais. II. Antiquitez de Boulogne sur Mer / par Gme Lesueur, 1596 / [Ernest Deseille, Gme Lesueur]",
+        "Notice sur \"la Petite-Trésorière\", navire de guerre acheté par l'échevinage d'Abbeville en 1479, par M. Alcius Ledieu",
+        "Documents relatifs au Clos des galées de Rouen et aux armées de mer du roi de France de 1293 à 1418. Série 8,Tome 1,Volume 11 / recueillis et analysés par Anne Chazelas,...",
+        "Actes normands de la Chambre des comptes sous Philippe de Valois : 1328-1350 / publiés pour la première fois par Léopold Delisle"
+      ],
+      "arks": [
+        "ark:/12148/bpt6k6534899c",
+        "ark:/12148/cb375629054",
+        "ark:/12148/cb375629054",
+        "ark:/12148/bpt6k6534899c",
+        "ark:/12148/bpt6k6534899c"
+      ]
+    },
+    "seigneur de Cleuz": {
+      "n": "541",
+      "titles": [
+        "Un droit féodal dans l'évêché de Dol au XVIIIe siècle. [Signé : A. Anne Duportal.]",
+        "Dictionnaire de la noblesse : contenant les généalogies, l'histoire et la chronologie des familles nobles de France. Tome 3 / par de La Chenaye-Desbois et Badier",
+        "Généalogie de la Maison de Bréhant en Bretagne / [par le marquis N.-C.-B. de Bréhant]",
+        "La Maison de Laval, 1020-1605 : étude historique, accompagnée du cartulaire de Laval et de Vitré. Tome 5 / par Bertrand de Broussillon ; illustrée de nombreux sceaux et monuments funéraires par Paul de Farcy",
+        "Supplément à la généalogie de la maison de Bréhant en Bretagne, imprimée en 1867 : suivi d'un index alphabétique général des noms propres / [par le marquis N.-C.-B. de Bréhant]"
+      ],
+      "arks": [
+        "ark:/12148/bpt6k6129587f",
+        "ark:/12148/cb303820392",
+        "ark:/12148/bpt6k6129587f",
+        "ark:/12148/bpt6k6129587f",
+        "ark:/12148/bpt6k6129587f"
+      ]
+    },
+    "\"de Cleuz\"": {
+      "n": "905",
+      "titles": [
+        "55 n° pour 91 pièces. Bretagne. Dénombrement fait par Jacques-Claude de Cleuz, marquis du gage à Louis-Marie, duc de Rohan, pour la seigneurie de Rimaison, tombée en rachat par le décès de Jacques-Charles de Cleuz, marquis du gage.",
+        "55 n° pour 91 pièces. Bretagne. Accord entre Jean-Claude de Cleuz, marquis du gage, et Jean Alba, fermier général du duché de Rohan, sur les droits de rachat montant à 6000 l. à percevoir pour la seigneurie de Rimaison.",
+        "Un droit féodal dans l'évêché de Dol au XVIIIe siècle. [Signé : A. Anne Duportal.]",
+        "Bulletin archéologique de l'Association bretonne",
+        "Journal des dames et des modes"
+      ],
+      "arks": [
+        "ark:/12148/btv1b52515875j",
+        "ark:/12148/cc1011182",
+        "ark:/12148/btv1b52515875j",
+        "ark:/12148/btv1b52515875j",
+        "ark:/12148/btv1b52515875j"
+      ]
+    },
+    "Dictionnaire de la noblesse Cleuz": {
+      "n": "214",
+      "titles": [
+        "Dictionnaire de la noblesse : contenant les généalogies, l'histoire et la chronologie des familles nobles de France. Tome 3 / par de La Chenaye-Desbois et Badier",
+        "Dictionnaire des familles françaises anciennes ou notables à la fin du XIXe siècle. VIII. Bus-Cas. - 1909 / par C. d'E.-A. [Chaix d'Est-Ange]",
+        "Dictionnaire biographique comprenant la liste et les biographies des notabilités... du département de la Seine-Inférieure",
+        "Bulletin archéologique de l'Association bretonne",
+        "Nobiliaire universel de France, ou Recueil général des généalogies historiques des maisons nobles de ce royaume. T. 5 / par M. de Saint-Allais,... ; avec le concours de MM. de Courcelles, l'abbé de l'Espines, de Saint-Pons,...[et al.]"
+      ],
+      "arks": [
+        "ark:/12148/bpt6k318669c",
+        "ark:/12148/cb34209079q",
+        "ark:/12148/cb34209079q",
+        "ark:/12148/bpt6k318669c",
+        "ark:/12148/bpt6k318669c"
+      ]
+    }
+  },
+  "ia2": {
+    "title:(Dictionnaire de la noblesse) AND creator:(La Chenaye)": {
+      "n": 12,
+      "docs": [
+        {
+          "identifier": "bub_gb_6UETAAAAQAAJ",
+          "title": "Dictionnaire de la noblesse ... de France",
+          "year": 1775
+        },
+        {
+          "identifier": "bub_gb_4T8TAAAAQAAJ",
+          "title": "Dictionnaire de la noblesse ... de France",
+          "year": 1774
+        },
+        {
+          "identifier": "bub_gb_HOwUAAAAQAAJ",
+          "title": "Dictionnaire De La Noblesse",
+          "year": 1863
+        },
+        {
+          "identifier": "bub_gb_3UITAAAAQAAJ",
+          "title": "Dictionnaire de la noblesse ... de France",
+          "year": 1786
+        },
+        {
+          "identifier": "bub_gb_LeEUAAAAQAAJ",
+          "title": "DICTIONNAIRE DE LA NOBLESSE",
+          "year": 1864
+        },
+        {
+          "identifier": "bub_gb_sz4TAAAAQAAJ",
+          "title": "Dictionnaire de la noblesse ... de France",
+          "year": 1771
+        },
+        {
+          "identifier": "bub_gb_Mu4UAAAAQAAJ",
+          "title": "Dictionnaire de la noblesse ... de France",
+          "year": 1863
+        },
+        {
+          "identifier": "bub_gb_GEITAAAAQAAJ",
+          "title": "Dictionnaire de la noblesse ... de France",
+          "year": 1775
+        }
+      ]
+    },
+    "title:(\"Dictionnaire de la noblesse\") Cleuz": {
+      "n": 0,
+      "docs": []
+    },
+    "mediatype:texts \"Jean de Cleuz\" Bretagne": {
+      "n": 0,
+      "docs": []
+    },
+    "mediatype:texts \"maître d'hôtel\" Cleuz Isabeau": {
+      "n": 0,
+      "docs": []
+    }
+  }
+}

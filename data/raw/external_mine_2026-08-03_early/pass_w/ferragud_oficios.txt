@@ -1,0 +1,1626 @@
+                                                  ANUARIO DE ESTUDIOS MEDIEVALES (AEM)
+                                                                 37/1, enero-junio de 2007
+                                                                               pp. 107-137
+                                                                          ISSN 0066-5061
+
+
+          LOS OFICIOS RELACIONADOS CON LA MEDICINA
+               DURANTE LA BAJA EDAD MEDIA EN
+        LA CORONA DE ARAGÓN Y SU PROYECCIÓN SOCIAL1
+                    THE OCCUPATIONS RELATED TO MEDICINE
+                      DURING THE LATER MIDDLE AGES IN
+              THE CROWN OF ARAGON AND THEIR SOCIAL PROJECTION
+
+
+                                                   CARMEL FERRAGUD DOMINGO
+                                      C.C. Maria Auxiliadora (Algemesí, València)
+
+Resumen: En el presente artículo se intenta           Abstract: In this article we try to characte-
+caracterizar el grupo de individuos que               rize the group of people who made of
+hicieron de la medicina la ocupación más              medicine the most important occupation of
+importante de sus vidas y de la cual vi-              their lives and their way of living, from
+vían, desde los más famosos y acaudalados             the richest and the most affluent physics
+físicos que trabajaban en la ciudad, hasta            who worked in the city, to the rural bar-
+los humildes barberos rurales, pasando por            bers, going by women and quacks and also
+las mujeres y los curanderos, también                 from the practice of the members of the
+desde la práctica de los miembros de las              three great religions that crossed the
+tres grandes religiones que se cruzaron en            Crown of Aragon: Christians, Jewish and
+la Corona de Aragón: cristianos, judíos y             Muslims. It is analysed the medical acti-
+musulmanes. Se analiza en qué consistía               vity, what it consists of, where and how it
+su actividad médica y dónde y cómo se                 was developed. Second, we try to go
+desarrollaba. En segundo lugar, se da un              beyond medicine to deal with an aspect
+paso más allá de la medicina para tratar un           that medicine historians (chroniclers) are
+aspecto que los historiadores de la medici-           not used to raise, except in particular
+na no suelen plantearse respecto a los                situations, related with healers: their eco-
+sanadores excepto en ocasiones puntuales:             nomical, political and social activity.
+su actividad económica, política y social.
+                                                      Keywords: Social promotion; Prestige;
+Palabras clave: Promoción social; Presti-             Religiousness; Medical culture; Professio-
+gio; Religiosidad; Cultura médica; Profe-             nalization; Religious minorities; Wages;
+sionalización; Minorías religiosas; Salario;          Medical practice.
+Práctica médica.
+
+
+
+
+    1
+      El presente artículo es una versión de la conferencia presentada bajo el título “Los oficios
+relacionados con la medicina en la Edad Media y el Renacimiento” en el curso La asistencia
+sanitaria en la Edad Media y el Renacimiento, dirigido por el Dr. Ángel Luis Molina y la Dra.
+Paloma Moral de Calatrava, que formaba parte del programa de la Universidad Internacional del
+Mar, de la Universidad de Murcia [San Pedro del Pinatar; del 19 al 23 de septiembre de 2005].
+Quisiera agradecer al Dr. Jon Arrizabalaga sus comentarios.
+     Las siglas utilizadas han sido las siguientes: ACA= Arxiu de la Corona d’Aragó; C=
+Cancelleria; MR= Mestre Racional; ACP= Arxiu Comarcal de Puigcerdà; AHPM= Arxiu
+Històric de Protocols de Manresa; AHG= Arxiu Històric de Girona; AMS= Arxiu Municipal
+de Sueca; JHM=Journal of the history of medicine; BSCC= Boletín de la Sociedad Castellonense
+de Cultura; ATCA= Arxiu de Textos Catalans Antics; BAH= Boletín de la Academia de la
+Historia; BRABL= Boletín de la Real Academia de Buenas Letras de Barcelona.
+108                              CARMEL FERRAGUD DOMINGO
+
+                                                SUMARIO
+
+Introducción.- I. Las ocupaciones relacionadas con la salud.- II. El triunfo del galenismo y sus
+practicantes.- III. Desniveles de riqueza y promoción social.- IV Los sanadores dentro del
+poder político.- V. Las inversiones económicas y la ostentación de la riqueza.- Apéndices.
+
+                                            INTRODUCCIÓN
+         Durante la Baja Edad Media, la Corona de Aragón se había converti-
+do en un estado con una gran pujanza comercial e industrial, con un
+extraordinario desarrollo del mercado, gracias sobretodo a una dinámica clase
+burguesa. Era un estado con clara vocación marinera de apertura al Mediterrá-
+neo, en expansión. Aunque no se puede olvidar que todo esto se dio en el
+marco de una sociedad feudal y con unas relaciones peculiares que la
+caracterizaron, el rígido sistema de los tres órdenes se estaba resquebrajando,
+y continuaba una dependencia estructural sobre el medio ambiente. Debemos
+recordar que aquellos fueron tiempos donde se experimentaron numerosas
+crisis de subsistencia, epidemias, y que se vivieron grandes deficiencias en la
+higiene de carácter estructural. Finalmente, resulta un espacio sumamente
+interesante y complejo porque en él convergen durante todo el periodo
+bajomedieval tres religiones –la cristiana, la musulmana y la judía– con un
+peso demográfico variable según la región, y que nos permiten indagar en un
+rico y complejo mundo de relaciones sociales. Aquí se desarrolló una nueva
+imagen de la salud y una nueva valoración de la ciencia y de la técnica, y esta
+situación multirracial y multicultural produjo el encuentro de muy distintas
+personas dentro de un mismo territorio, hecho que tuvo su reflejo en una
+enorme complejidad en las relaciones científicas y médicas, llenas de luces y
+sombras, basadas en el entendimiento y en el conflicto, nunca de forma
+permanente, ni en uno ni en otro sentido.
+         Es en este marco espacial y temporal donde desde hace décadas un
+grupo de historiadores, con Luis García Ballester a la cabeza, hemos realizado
+un vaciado exhaustivo de fuentes relacionadas con la salud, la enfermedad y
+los practicantes de la medicina en el sentido más amplio, durante los siglos
+XIII, XIV y los inicios del XV, en archivos de todo tipo (notariales,
+municipales, reales, eclesiásticos). Efectivamente, el corpus documental que
+se ha reunido durante todo este tiempo por distintos investigadores, así como
+las tesis de licenciatura, tesis doctorales y una gran cantidad de artículos y
+diversas monografías que se han ido elaborando, permiten un acercamiento
+sumamente amplio y profundo al tema, a pesar de que todavía son muchos los
+puntos que quedan por aclarar. He de señalar que habitualmente esta
+documentación nos ha aportado más información sobre asuntos relacionados
+con la familia, las inversiones económicas, la participación en los gobiernos
+municipales, etc., de los sanadores, que no sobre sus actuaciones propiamente
+médicas. Sin embargo, esta documentación resulta fundamental para entender
+en toda su magnitud quiénes fueron estos practicantes de la medicina, qué rol
+jugaron dentro de la sociedad, y si sirvió su oficio para mejorar su condición
+económica, su poder y su prestigio.
+
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 37/1, enero-junio 2007, pp. 107-137. ISSN 0066-5061
+                     LOS OFICIOS RELACIONADOS CON LA MEDICINA                                109
+
+         Durante la segunda mitad del siglo XIV, la institucionalización de un
+sistema médico muy concreto y con él la medicalización de la sociedad,
+ocupaba ya un lugar muy relevante dentro la Corona de Aragón. La visión
+positiva que se tenía desde las instituciones públicas y las instancias privadas
+es un hecho bien visible. Los dedicados a sanar, en sus variadas vertientes,
+eran considerados piezas imprescindibles para el buen funcionamiento de la
+sociedad. Por eso el conocimiento médico y su difusión se debe poner en
+estrecha relación con las necesidades del cada vez más complejo mundo
+urbano medieval. Desde las ciudades estos sanadores se dirigirán muchas
+veces hacia los contornos rurales donde ejercerán su tarea. Así, una red
+asistencial, no diseñada ni centralizada desde el Estado, se había establecido
+por todo el territorio de la Corona y, de esta manera, los diferentes tipos de
+sanadores consiguieron una importancia inusitada en muchos ámbitos
+sociopolíticos conforme avanzaba el siglo XIII y sobretodo el XIV, ya que la
+sanidad y la asistencia a los ciudadanos fue cada vez más un objetivo de las
+autoridades civiles y eclesiásticas (nobleza, monarquía o consejos municipa-
+les). Más allá del ámbito propio de la ciudad, la medicina se convertiría en un
+asunto de gobierno, de la res publica.
+         Podemos recordar la gran influencia que algunos físicos y cirujanos
+mantuvieron sobre el régimen de vida y el tratamiento de las enfermedades de
+los miembros de la familia real, desde el nacimiento a la muerte, aunque
+también estuvieran rodeados de barberos y boticarios que les aseaban y
+abastecían de medicamentos. Su intervención en importantes decisiones de los
+monarcas, y quién sabe si en muchas otras que nunca llegaremos a conocer,
+es una muestra de la gran confianza en la medicina escolástica y sus
+practicantes2.
+         En este sentido, la presencia del personal médico en los ejércitos (en
+tierra o mar) se hace cada vez más clara, y ya desde los inicios del siglo XIV
+no se puede entender una campaña militar sin el reclutamiento de físicos y
+boticarios, pero muy especialmente del personal más experimentado en las
+necesidades de la vida de campaña, los cirujanos, los barberos y también los
+menescals, como se conocía en territorio catalanoaragonés a los que trataban
+y curaban equinos. Hay que recordar el clima bélico en el que se vio inmersa
+toda Europa, sobre todo durante el reinado de Pedro el Ceremonioso (1336-
+1387), para entender la relevancia cada vez mayor de este personal médico3.
+La guerra devino, en definitiva, un auténtico laboratorio de aprendizaje para
+los barberos y los cirujanos. De esta manera, la demanda de estos sanadores
+fue mayor cuanto más avanzaba el tiempo, también, por supuesto en las
+galeras4. La conducta de la monarquía fue igualmente imitada por la nobleza
+
+   2
+     Sobre la relación entre los médicos y los reyes véase más adelante la nota 43.
+   3
+     R. D’ABADAL, Pere el Cerimoniós i els inicis de la decadència política de Catalunya,
+Barcelona, 1986.
+   4
+     Ll. CIFUENTES, Medicina i guerra a l’Europa baix-medieval: La sanitat i la participació dels
+seus professionals en les expedicions militars de la Corona d’Aragó, 1309-1355, tesis doctoral
+de la Universitat Autònoma de Barcelona, 1993 [ed. en microfichas: Bellaterra, Universitat
+Autónoma de Barcelona 1995]. Publicada parcialmente en M. R. MCVAUGH i Ll. CIFUENTES,
+
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 37/1, enero-junio 2007, pp. 107-137. ISSN 0066-5061
+110                              CARMEL FERRAGUD DOMINGO
+
+civil y eclesiástica que introdujo el personal sanitario entre los personajes que
+conformaban su corte particular5.
+         Numerosas circunstancias en los núcleos poblados, de los más
+pequeños a las grandes urbes, requerían los servicios de los entendidos en
+medicina. Así por ejemplo, fueron contratados (cirujanos primordialmente) en
+las instituciones judiciales para peritar la gravedad de las heridas sufridas
+durante los numerosos enfrentamientos vecinales, o bien para detectar la
+presencia de enfermedades contagiosas y de enfermos juzgados peligrosos,
+como los leprosos; intervenían en los mercados de esclavos para tasar su valor
+en la compraventa, en la atención de los enfermos en los hospitales, en los
+baños públicos o en las prisiones; la valía de su consejo, a menudo buscado
+por los gobiernos municipales a la hora de considerar la puesta marcha de
+ciertos cultivos (arroz) u otros problemas de salubridad urbana (contaminación
+de aguas, suciedad en las calles, etc.), eran todos síntomas, en definitiva, de
+un proceso de gradual medicalización de la sociedad, que les convirtió en una
+pieza clave de la organización política6.
+
+
+Regimen Almarie (Regimen castra sequentium), en L. GARCIA BALLESTER, J. A. PANIAGUA i M.
+R. MCVAUGH (eds.), Arnaldi de Vilanova Opera Medica Omnia, X.2, Barcelona, 1998; también
+Ll. CIFUENTES y L. GARCÍA BALLESTER, Els professionals sanitaris de la Corona d'Aragó en
+l'expedició militar a Sardenya de 1354-1355, “ATCA”, 9 (1990), pp. 183-214; y Ll. CIFUENTES,
+La medicina en las galeras de la Corona de Aragón a finales de la Edad Media: la caja del
+barbero y sus libros, “Medicina & Historia”, 4 (2000), pp. 1-16.
+    5
+      Un ejemplo claro del mimetismo de este comportamiento nobiliario con respecto a la realeza
+nos lo proporciona la contabilidad de Alfonso el Viejo, duque de Gandia, marqués de Villena y
+conde de Dénia. Gracias a la contabilidad de diversos años de esta casa nobiliaria sabemos que
+de ella formaban parte los siguientes sanadores: el físico Bernat de Flores, el barbero Antoni Roca
+y los boticarios Berenguer Cantosa y Bernat de Guda. En principio todos ellos percibían una
+quitació trimestral, que en el caso del primero únicamente aparece como una aportación salarial,
+y en los otros se hace alusión a las bestias, una normalmente en cada caso, y un ayudante
+conocido del boticario Guda. ARV, MR, núm. 9601 (1369); núm. 9592 (1394-95); núm. 9586
+(1398).
+      6
+        El trabajo más completo sobre el rol social jugado por los médicos y la relevancia de la
+medicina hasta la Peste Negra en la Corona de Aragón y que en buena medida puede hacerse
+extensible al resto de la Edad Media y el Renacimiento, es hasta la fecha el de M. R. MCVAUGH,
+Medicine before the plague. Practitioners and their patients in the Crown of Aragon. 1285-1345,
+Cambridge, 1993, pp. 190-241. Un completo estudio sobre el modelo local valenciano en L.
+GARCÍA BALLESTER, La medicina a la Valencia medieval. Medicina i societat en un país medieval
+mediterrani, València, 1988. Estudios recientes sobre localidades valencianas en C. FERRAGUD,
+Medicina i societat a Alzira durant la Baixa Edat Mitjana, en “Actes de la X Assemblea
+d’Història de la Ribera. Riuades i innundacions a la Ribera del Xúquer en la perspectiva
+histórica” [Antella; novembre 2004],Antella, 2006, pp. 89-102; ID. La medicina en la Xàtiva
+medieval, en J. M. CRUSELLES y V. PONS (eds.), Història de Xàtiva (Història Medieval),
+València/Xàtiva, 2006, en prensa. Para el caso castellano y en general para el Occidente europeo
+resulta fundamental L. GARCÍA BALLESTER, La búsqueda de la salud. Sanadores y enfermos en
+la España medieval, Barcelona, 2001, pp. 205-212, y, en particular, el capítulo segundo. El caso
+italiano resulta un referente básico para entender dónde y cuándo nacieron las principales
+competencias médicas en la ciudad. Véase V. NUTTON, Continuity or rediscovery? The city
+physician in classical antiquity and medieval Italy, en A.W. RUSSELL (ed.), The town and the
+state physician in Europe from the Middle Ages to the Enlightment (Wölfenbüttel Forschungen,
+17), Wölfenbüttel, 1981, pp. 9-46, especialmente pp. 24-34. Sobre aspectos asistenciales
+concretos los estudios son muy diversos, sirvan como ejemplo: (medicalización de los baños) Ll.
+CIFUENTES, Els banys de Caldes de Montbui, de l’època medieval a la IlAlustració, en Història
+termal de Caldes de Montbui, Caldes de Montbui, 2002, pp. 47-96, especialmente p. 66);
+(hospitales) A. RUBIO VELA, Pobreza, enfermedad y asistencia hospitalaria en la Valencia del
+siglo XIV, València, 1984; (dessospitació) M. GALLENT, Precedentes medievales de la medicina
+legal: la dessospitació en el Reino de Valencia, “Saitabi”, 50 (2000), pp. 11-28; (salubridad) F.
+ROCA TRAVER, El tono de vida en la Valencia Medieval, “BSCC”, LVIII (1982), pp. 2389-308,
+y continuación en “BSCC”, LIX (1983), pp. 1-81 (tiene una tirada aparte).
+
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 37/1, enero-junio 2007, pp. 107-137. ISSN 0066-5061
+                     LOS OFICIOS RELACIONADOS CON LA MEDICINA                                111
+
+
+
+                 I. LAS OCUPACIONES RELACIONADAS CON LA SALUD
+         No resulta sencillo describir y delimitar con precisión el conjunto de
+oficios y profesiones destinados a realizar todas las actividades médicas
+citadas anteriormente durante la Baja Edad Media, ya que las nomenclaturas
+son diversas y los perfiles de actuación poco precisos. Cabe señalar que hubo
+un programa ideal que marcó una tendencia a la circunscripción de la práctica
+médica a tres niveles: física, cirugía y boticaria. Se basaba en una vieja
+concepción escolástica que separaba el trabajo intelectual del manual. Pero la
+dignificación de este último a partir de los inicios del siglo XIII, permitió
+incorporar la medicina al campo de la scientia, integrándose en el conjunto de
+las artes liberales y superando el estrecho esquema del Trivium y el Quadri-
+vium. Fue el galenismo renovado, y plenamente nutrido de aristotelismo
+durante el siglo XIII, el que permitió diagnosticar enfermedades, conocer sus
+causas y ofrecer un tratamiento, básicamente porque como paso previo se
+comprendían los elementos constitutivos del cuerpo. En realidad, esta
+jerarquía en el mundo de la medicina vino unida al creciente proceso de
+división del trabajo, junto con la voluntad de los físicos de proteger su lugar
+privilegiado en el mercado de la práctica médica, y quedó consagrado por el
+filtro de los exámenes y la expedición de licencias obligatorias por parte de
+las autoridades7. A pesar de todo, esta delimitación de tareas no fue real, ni
+tampoco se cumplieron las normativas legales a propósito del control de la
+práctica, y la ambigüedad presidió la actitud de las autoridades, que lo mismo
+condenaban a los sanadores no examinados, que entregaban licencias sin
+ningún tipo de reservas, incluso a mujeres que tenían por ley prohibido el
+ejercicio de la medicina; pero sobre todo judíos y musulmanes practicaron la
+medicina sin ningún tipo de licencias, porque de hecho fue la competencia del
+sanador el factor que dictó su aceptación social.8
+         Es bien conocido el proceso de vinculación a la actividad médica de
+los barberos desde las primeras décadas del siglo XIV, unos años antes de la
+Peste Negra. Tradicionalmente, los barberos, como su nombre indica,
+trabajaban únicamente la vertiente higiénica, con lavado, corte y peinado de
+cabellos o rasurado de barbas. Sin embargo, con el tiempo incorporaron a su
+oficio el ejercicio de pequeñas operaciones de cirugía (muy frecuente la sutura
+de heridas) y, sobretodo, la flebotomía o sangría terapéutica, acción muy
+habitual desde el siglo IX, que comenzarían a poner en práctica para
+
+
+
+
+     7
+       Reflexiones puestas de relieve en L. GARCÍA BALLESTER, Ciencia y técnica en la Corona
+de Castilla bajomedieval: problemas y perspectivas, en L. GARCÍA BALLESTER (dir.), Historia
+de la ciencia y de la técnica en la Corona de Castilla. Edad Media, vol. I, Valladolid, 2002, pp.
+13-55.
+    8
+      L. GARCÍA BALLESTER, M.R. MCVAUGH y A. RUBIO VELA, Medical licensing and learning
+in fourteenth-century Valencia, en Transactions of the American Philosophical Society, 79, part
+6 (1989).
+
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 37/1, enero-junio 2007, pp. 107-137. ISSN 0066-5061
+112                              CARMEL FERRAGUD DOMINGO
+
+completar lo que debían ser unos pobres ingresos9. Con el paso del tiempo
+resultará imposible definir por cuál de las dos ocupaciones ingresaban
+mayores ganancias, porque muy probablemente sus clientes coincidirían y,
+aprovechando la misma visita, harían uso de los distintos servicios que se
+ofrecían en la barbería. En realidad, y tal y como era entendida la medicina
+en la época medieval, el barbero ejercía una ocupación que contribuía a
+mantener la salud en cuanto que hacía más higiénicos los cabellos, siempre
+plagados de piojos, lavándolos y recortándolos, y rasurando también las
+barbas de los hombres. Junto a esto, la limpieza y la extracción de piezas
+dentales también estuvo en manos de los barberos-cirujanos, pero fundamen-
+talmente de los llamados queixalers (de queixal=muela)10. Así lo ponen de
+manifiesto determinadas herramientas inventariadas en las casas de estos
+sanadores.
+         No fue extraño que los barberos formaran sociedades en las que se
+contemplaban ambas vertientes, la médica y la higiénica, hecho que confirma
+su doble ocupación11. En definitiva, como se ha dicho ya en numerosas
+ocasiones, los barberos fueron el auténtico paraguas sanitario de atención al
+grueso de la población catalanoaragonesa, si bien su predominio parece
+mayor, y en consecuencia su peso social, político y económico en el Reino de
+Valencia.
+         De cómo se materializaba la actividad cotidiana del barbero y la
+combinación con el resto de los servicios que se ofrecían en su obrador poco
+se ha escrito. Los ciudadanos podían saber rápidamente cuando se encontraban
+ante una barbería, ya que estos negocios tenían un elemento distintivo que los
+identificaba claramente: la cortina. De hecho a la facultad o al derecho de
+abrir una tienda de estas características se conocía como el derecho de “tener
+
+
+
+
+    9
+      Véase M. R. MCVAUGH, Medicine before the plague, cit., p. 40. Junto a las actividades
+nombradas, el autor cita otras como las de traginer, vendedor de hierro o, incluso, tintorero.
+Sobre las actividades médicas de los barberos, y en especial sobre la práctica de la flebotomía
+véase, L. GARCÍA BALLESTER y M. R. MCVAUGH, Nota sobre el control de la actividad médica
+y quirúrgica de los barberos (barbers, barbitonsorcs) en los Furs de Valencia de 1329, en
+Homenatge al doctor Sebastià Garcia Martínez, València, 1988, pp. 73-88, especialmente pp.
+78 y 79. E. A. Hammond ha destacado especialmente la actividad a tiempo parcial de los
+barberos en el caso inglés, pero sin aportar datos concretos que corroboren esta opinión. Véase
+E. A. HAMMOND, Incomes of medieval english doctors, “JHM”, XV (1960), pp. 154-169,
+especialmente p. 167.
+   10
+      Sobre los queixalers reales, sus competencias y otros datos sobre el tema véase J. RAHOLA
+SASTRE, Los ‘caxales’ o ‘mestres caxales’ del siglo XIV en Barcelona y en la corte real
+aragonesa, “Revista Española de Estomatología”, 10 (1962), pp. 228-246; Id., Els odontòlegs
+dels segles XIV i XV a Barcelona, en Actes del I Congrés Internacional d’Història de la Medicina
+Catalana (Barcelona, 1970), vol. I, Barcelona-Montpeller, 1970, pp. 293-300. Es necesario
+llamar la atención sobre el fondo de esta literatura contaminada por el deseo de encontrar
+“precedentes” medievales en la actividad actual. En la Edad Media no se dio un proceso de
+especialización en los términos en que actualmente entendemos el significado de esta palabra.
+    11
+       Los barberos de Manresa Pere de Comalba y su hijo Tomàs, formaron una sociedad con
+Ferrer de Comalba, substituido después de su muerte por su hijo homónimo, super officio
+barberie et arte cirurgie. Las ganancias se repartirían a partes iguales tanto por raure o adobar
+com per segnar com per offici de cirurgia (AHPM, “Llibre particular de la família Comalba”,
+1373-1434; 9-10-1389).
+
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 37/1, enero-junio 2007, pp. 107-137. ISSN 0066-5061
+                     LOS OFICIOS RELACIONADOS CON LA MEDICINA                                    113
+
+cortina”12. Este privilegio era concedido por la autoridad municipal a cambio
+del pago de unos cánones. Pero aparte de este elemento, los barberos
+utilizaban otros sistemas publicitarios más agresivos, como dejar botellas
+llenas de sangre en las ventanas de sus obradores fuera de la cortina, lo que
+llevó a más de una prohibición por parte de los consejos municipales13. Un
+estudio de los inventarios de bienes de los barberos pone de manifiesto que,
+junto a los instrumentos para la práctica de la cirugía, y en algunos casos de
+los libros de cirugía y medicina, había todo un elenco de elementos adscritos
+a la limpieza (sillas especiales, bacines sostenidos en alto por trípodes, toallas)
+y al afeitado (“raer”) de barbas y corte (“aderezar”) de cabellos (peines,
+tijeras, “raors”, espejos, etc.), y la indumentaria propia del oficio como el
+“mandil” de barbero. A todos estos acompañaban siempre utensilios para el
+afilado del instrumental.
+         Finalmente, detallaré una situación más obviada en la historiografía,
+si bien puede intuirse. El obrador de barbería se constituyó en un espacio
+propio de sociabilidad masculina donde seguramente se desarrolló una
+vertiente lúdica que debe tenerse muy presente, porque complementa el perfil
+socioprofesional que se ha considerado tradicional de los barberos-cirujanos
+hasta bien entrado el siglo XX. Creo que en este sentido, las propuestas
+hechas para el caso inglés por Margaret Pelling resultan muy sugerentes14. Es
+posible que, sobretodo en las grandes ciudades, el obrador de barbería se
+convirtiera en un lugar donde se ofrecía, aparte de los servicios habituales,
+bebida, juego, música y conversación, hecho que dio pie a esta autora a
+explicar el porqué se insistía tanto en las prohibiciones de no abrir las
+barberías los domingos. Esta misma prohibición puede encontrarse habitual-
+mente en Barcelona desde principio del siglo XIV. Estos rasgos analizados por
+Pelling parecen insinuarse en el caso del barbero-cirujano barcelonés Lleonís
+Mestre. Éste debía pertenecer al sector más acaudalado de entre los barberos,
+a tenor de lo que indica su inventario de bienes. Sabemos que en su obrador
+trabajaban él, su esclavo Jordi, así como Joan y Salvador Garriga, con los que
+
+      12
+         Excepcionalmente, el infante Juan, futuro Juan I, concedió a Ramon Vives, barbero de
+Vilafranca del Penedès, “quod, non obstantibus inibicione quacumque, possitis tenere cortinam
+et pelves ab opus vestri officii cum sine ipsa non posset comode exercere, quatenus protenditur
+in latum tabula quam habetis in hospicio vestro, in vico dels Pellicers versus et satis prope
+hospitium Marchi Laurador et Petri Dezcortey, et licenciam plenariam impartimur, cum dominus
+Rex et nos de hiis et similibus veluti in regalia nostra sistentibus ad libitum disponere debeamus”.
+Sin embargo, Vives mantuvo un pleito con un vecino que le acusaba de los perjuicios que le
+ocasionaba esta cortina y por el hecho de haber ido contra la costumbre de la ciudad cuando el
+lloctinent del batle general le concedió la cortina por un censo anual de 6 dineros (ACA, C, reg.
+1685, ff. 183v-184; 5-10-1385 i reg. 826, ff. 83r-v; 6-6-1382).
+   13
+      Las prohibiciones comienzan a inicios del siglo XIV en Barcelona y continúan encontrándose
+posteriormente. Véase M.R. MCVAUGH, Medicine before the plague, cit., p. 126. Prohibiciones
+semejantes fueron establecidas en la misma época en la ciudad de Londres. Véase al respecto C.
+RAWCLIFFE, Medicine and society in later medieval England, Sutton, 1995, p. 137.
+      14
+         M. PELLING, Occupational diversity: barber-surgeons and the trades of Norwich, 1550-
+1640, “BHM”, 56 (1982), pp. 484-511, especialmente p. 506. Pelling explica que durante la
+época moderna en Norwich —una ciudad muy dinámica— los barberos-cirujanos optaron por
+utilizar diferentes elementos para atraer clientela hacia sus obradores. No nos es posible justificar
+este ambiente directamente para la Corona de Aragón. Los inventarios de bienes de barberos y
+cirujanos que se conservan son escasos y además pertenecen normalmente a miembros humildes
+del oficio, hecho que no permite indagar en este aspecto.
+
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 37/1, enero-junio 2007, pp. 107-137. ISSN 0066-5061
+114                              CARMEL FERRAGUD DOMINGO
+
+compartía los beneficios. En el obrador había seis sillas para la práctica del
+oficio y también dos bancos, lo que muestra que allí podían atenderse varios
+clientes a la vez, aunque parece que algunos debieran esperar. Además de las
+conversaciones que debían sostener los que esperaban el turno, podemos intuir
+que otros mataban el tiempo con juegos de mesa. Así lo manifiestan los
+elementos necesarios para la práctica de determinados juegos que aparecían
+(concretamente el ajedrez y “taules”)15. La idea es aún más sugerente si
+tenemos en cuenta que estos obradores solían ubicarse en muchos casos en las
+plazas de las villas, lugares de contacto y sociabilidad por excelencia. Más
+complicado resulta averiguar detalles sobre la posible audición musical dentro
+las barberías. No obstante, tenemos constancia de la afición entre los barberos
+a practicar el canto y tocar instrumentos.
+         La existencia de barberías, con diferencias notables en la concurrencia
+de clientes entre unas y otros, nos conduce a pensar en la importancia de la
+moda y el prestigio obtenido por un barbero dentro del mundo burgués cada
+vez más frívolo e interesado por la imagen personal.
+         Los médicos, en sus dos vertientes, físicos y cirujanos, fueron los más
+prestigiosos de entre los practicantes de la medicina. Al primero (fisicus/físic)
+correspondía, como experto teórico en el conocimiento del arte de la
+medicina, diagnosticar y poner remedio a una enfermedad, mientras que el
+segundo (cirurgicus/cirurgià) trataba las fracturas, heridas, abscesos y
+enfermedades de carácter externo. Era muy frecuente, sin embargo, que los
+dos elaboraran los medicamentos, ya que contaban muchas veces con los
+conocimientos e instrumental necesario para ello. Incluso llegó a darse la
+circunstancia, no excepcional, que un notario se convirtiera en médico. Por
+otro lado, algunos físicos se dedicaron a cultivar la vertiente más intelectual
+del oficio a través de la escritura y traducción de tratados y la difusión del
+conocimiento médico mediante la enseñanza en un Estudio General u otros
+estudios de medicina no generales pero sí reglados. Aunque, tal y como
+muestran las cantidades que alcanzaban sus salarios como docentes, bien
+pensado lo más provechoso para ellos era dedicarse a trabajar para miembros
+notables de la sociedad o bien al servicio del municipio, que podían pagar
+bastante más16. ¿Cómo se justifica pues, esta opción por el estudio y la
+enseñanza? Para algunos escribir y enseñar se convirtió en la clave a través
+de la cual lograr una gran reputación y una nutrida y acaudalada clientela,
+sobretodo, cuando dejaban la docencia. El objetivo, por lo que respecta a la
+
+
+    15
+       J.Mª ROCA, Un cirurgià barcelonès de la XVa. centuria, “BRABLB”, 81 (1923), pp. 145-
+161, especialmente pp. 146-147.
+   16
+      El salario que pagaban los paers de Lleida a los profesores de medicina era bastante inferior
+al de los docentes en derecho, así como la remuneración que recibían los profesores de los
+alumnos de medicina. Pere Colom por leer en el arte de medicina en el Estudio leridano recibía
+600 sueldos de Jaca el año 1324, mientras que el 1330 Guillem d’Avinyó cobraba 400 sueldos por
+leer en arte de cirugía. Véase M. R. MCVAUGH y L. GARCÍA BALLESTER, Medical faculty at
+early fourteenth-century Lérida, “History of the Universities”, 8 (1989), pp. 1-25, especialmente
+los documentos 2 y 4 del apéndice. En la misma época el servicio a algún noble o a algún consejo
+municipal les hubiera reportado semejantes o superiores beneficios. No tenemos apenas noticias
+sobre las cantidades que podía reportar la redacción por encargo de un tratado médico.
+
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 37/1, enero-junio 2007, pp. 107-137. ISSN 0066-5061
+                     LOS OFICIOS RELACIONADOS CON LA MEDICINA                                 115
+
+tarea intelectual, no estaba puesto en las repercusiones directas de la ganancia,
+sino en el prestigio y la atracción ulterior de una importante clientela. Ahora
+bien, no todo es dinero y fama, ni antes ni ahora, y hay que también contar
+con factores como la propia exigencia intelectual y los gustos del autor.
+Algunos, incluso fueron muy conocidos por su literatura extramédica17.
+         Otros físicos, en no pocas ocasiones, aceptaron ser contratados por las
+autoridades municipales como maestros de escuela18. Y es que la nueva
+valoración de la cultura letrada por parte de la sociedad y el escaso número
+de bachilleres y licenciados en artes en el mercado para cubrir la demanda
+social, se constituyó en un camino abierto para los médicos y una vía más con
+la cual lograr ingresos. En numerosas ciudades y villas catalanas y valencia-
+nas, pequeñas y grandes, los graduados en artes y medicina consiguieron un
+protagonismo directo o indirecto en la difusión de las letras, y algunos
+municipios optaron por ofrecerles contratos para asistir a su población, con
+la condición de que también se dedicaran a la educación de los jóvenes (Véase
+el cuadro 1). Pero no siempre fue el deseo de lucro el que movió a estos
+hombres hacia la docencia. Quizá fue su convencimiento de la importancia
+que tenía la enseñanza, la valoración de su papel social como difusor de
+cultura entre una gente que no tenía en su mayoría la capacidad económica ni
+la necesidad de aprender letras, la que condujo a algunos a ofrecerse para
+enseñar gramática y lógica a los escolares, sin cobrar salario alguno.
+Seguramente ya se consideraban satisfechos con el salario que le entregaba el
+consejo municipal por su contrato anual.
+         Los boticarios (especier; apotecari) fueron, tal vez, los más dispersos
+en su actividad. No solamente confeccionaban los medicamentos simples y
+compuestos, a veces a partir de herborizaciones realizadas por ellos mismos,
+sino que también actuaban por su cuenta recomendando o suministrando
+directamente los medicamentos a los enfermos, y tampoco fue infrecuente que
+ante la ausencia de médicos las autoridades los tomaran para ejercer el papel
+del físico19. Sin embargo, las actividades médicas desplegadas por un boticario
+
+    17
+       Estos serían casos como el de l’Espill, de Jaume Roig, o de algunos poetas hebraicos de
+profesión médicos. Véase Jaume ROIG, Espill o Llibre de les dones, a cura de Marina Gustà,
+Barcelona, 1998; E. FELIU y J. RIERA, Poemes hebraics de jueus catalans, Barcelona, 1976.
+    18
+       Así lo ha expresado J. Mª. CRUSELLES, Escuela y sociedad en la Valencia bajomedieval,
+València, 1997, pp. 87-88. Pero el fenómeno no es exclusivo en absoluto de la Corona de
+Aragón. El ilustre cirujano francés Henri de Mondeville utilizó la escuela como fuente de ingresos
+temporales ante los problemas económicos que atravesaba: oportet me scolas intrare et propter
+lucrum et victum omni die discurrere hinc et inde, quoniam sub sola Dei gratia parum crassa cum
+proprio labore manuum mearum michi et toti familiae necessaria omnia subministro. Citado en
+Ll. CIFUENTES, Medicina i guerra, cit., p. 521. La dirección de escuelas de gramática por parte
+de médicos es recogida también en el territorio francés. Véase D. JACQUART, Le milieu medical
+en France du XIIe au XVe siècle, París, 1981, p. 191.
+      19
+         Sobre la práctica de la boticaría véase C. VELA I AULESA, L’obrador d’un apotecari
+medieval. Segons el llibre de comptes de Francesc ses Canes (Barcelona, 1378-1381), Barcelona,
+2003. Era muy frecuente que el mismo físico o cirujano elaborara los medicamentos o que el
+boticario actuara como médico. Esto era también evidente en el mundo anglosajón, sobretodo en
+el caso de los cirujanos, que contaban con todo lo necesario para preparar medicamentos (L.G.
+MATTHEWS, The royal apothecaries, Londres, 1967, p. 2). He podido localizar algunas licencias
+concedidas a boticarios para ejercer la medicina. Concretamente, Guillem Canet recibía licencia
+para ejercer el 23 de enero de 1356 (ACA, C, reg. 683, ff. 99v-100). La transcripción de este
+documento se encuentra publicada en A. LÓPEZ DE MENESES, Documentos culturales de Pedro
+
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 37/1, enero-junio 2007, pp. 107-137. ISSN 0066-5061
+116                              CARMEL FERRAGUD DOMINGO
+
+son muchas veces difíciles de ver y se tiene la impresión de que la vertiente
+comercial y de intercambio (especias, alimentos, papel, paños, materias
+primas…) se impone a la sanitaria. De aquí su mención como especiero, de
+manipulador y vendedor de especias, como también muchos otros productos.
+A esto hay que sumar una labor artesanal con la producción de cera para la
+iluminación y para los exvotos, confitería, etc. Su trabajo es tan extenso y
+variado que resulta extraño que aquellos obradores más dinámicos no cuenten
+con dos o más aprendices y esclavos.
+          ¿Cómo se integraron las minorías religiosas en este sistema médico?
+¿Ejercieron igual que los cristianos estas ocupaciones? ¿Qué papel jugaron las
+mujeres? En primer lugar aclararé que no se ha descubierto documentación
+que permita hacerse una idea de los sanadores que practicaban dentro las
+comunidades mudéjares, ni de ninguna licencia de ejercicio de la medicina en
+su favor o contrato con municipio. Este hecho está relacionado con la fuga de
+las elites durante la conquista cristiana del territorio catalanoaragonés y la
+posterior pérdida del carácter científico de la medicina practicada, que pasó
+a basarse en el empirismo y la folk-medicina, y se decantó preferentemente
+por la medicina de los animales (menescalia)20.
+         Respecto a los practicantes judíos, se debe poner de manifiesto la gran
+capacidad de integración en el modelo asistencial cristiano, hasta el punto que
+colaboraron en su pervivencia. A pesar de haber quedado excluidos, hay que
+considerar el buen concepto que los judíos tuvieron del sistema de enseñanza
+cristiana21. No hay un solo lugar en toda la Corona donde exista una
+comunidad judía, por pequeña que fuera, que no encontremos algún físico o
+cirujano hebraico ejerciendo entre sus correligionarios, pero también
+atendiendo a la población cristiana e incluso la sarracena. La fama conseguida
+por algunos de éstos, y transmitida en forma de grandes beneficios a sus
+familias, se hace evidente en el caso de los que sirvieron a la corte real y a
+algunas casas nobiliarias. Debemos distinguir, a pesar de todo, entre los
+médicos judíos pertenecientes a la minoría racionalista, fuertemente intelectua-
+lizados, que fundamentaban su práctica médica en la filosofía natural
+aristotélica, tal y como lo hacían los médicos cristianos formados en la
+Universidad, y los que practicaban la medicina casi empíricamente. Tan sólo
+los primeros pasaban los exámenes de licencia, que estaban basados en el ritos
+y los contenidos de la medicina universitaria. La realidad era compleja.
+
+
+
+el Ceremonioso, “Estudios de Edad Media de la Corona de Aragón (Zaragoza)”, 5 (1952), pp.
+660-737, especialmente pp. 695-696. Bartolí Morai, boticario de Cervera, recibió licencia para
+ejercer el arte de física y de cirugía el 9 de junio de 1369 (ACA, C, reg. 1678, ff. 13r-v); Antoni
+Punyet, boticario de Morella, recibía licencia para ejercer la cirugía el 11 de noviembre de 1374
+(ACA, C, reg. 1654, f. 22); El consell de Castelló de la Plana encargó al boticario Pere Morades
+que tractara a los pobres y a los enfermos del hospital, ante la falta de personal asistencial (L.
+GARCÍA BALLESTER, M.R. MCVAUGH i A. RUBIO VELA, Medical licensing, cit., p. 21).
+     20
+        L. GARCÍA BALLESTER, Historia social de la medicina en la España de los siglos XIII al
+XVI, vol. 1 [=La medicina musulmana y morisca], Madrid, 1976, pp. 29-57.
+   21
+      L. GARCÍA BALLESTER, L. FERRÉ, L. y E. FELIU, Jewish appreciation of fourteenth-century
+scholastic medicine, “Osiris” 6 (1990), pp. 85-117.
+
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 37/1, enero-junio 2007, pp. 107-137. ISSN 0066-5061
+                     LOS OFICIOS RELACIONADOS CON LA MEDICINA                                 117
+
+Cuando la polémica maimoneidiana se agudizó los miembros de la minoría
+racionalista fueron atacados por el establishment de la aljama.
+          Algunas investigaciones han ido resituando la gran importancia que
+tuvieron las mujeres dentro de la práctica médica. Las referencias que se han
+ido encontrando, aunque dispersas, son clarificadoras, y detalles como la
+concesión de licencias para ejercer la medicina, cada vez más abundantes en
+las postrimerías del siglo XIV y los inicios del XV, ponen de manifiesto que,
+a pesar de la prohibición oficial, la actuación de metgesses era habitual y se
+les reconocía un alto grado de competencia, también en la corte. Las mujeres
+con conocimientos y reputación de sanar, incluso famosas por la aplicación de
+remedios muy concretos —como en la curación de hernias o de enfermedades
+oculares—, están presentes en la documentación real y notarial, y también en
+las ilustraciones de los manuscritos, y en estos documentos, como en muchos
+otros casos, queda claro que la componente empírica era fundamental en su
+actuación, aunque no se pueda descartar el acceso de algunas a los textos. Hay
+que poner atención en el hecho de que el escenario que rodea el parto les
+estaba absolutamente reservado; las matronas (madrines o llevadores), las que
+toman del suelo al recién nacido, harán aquella delicada y especial tarea de
+ayudar a parir, hasta que los hombres les irán usurpando progresivamente este
+lugar a medida que avanza la época moderna22. Aunque, hoy por hoy, la
+documentación no nos proporciona datos suficientes como para acercarnos con
+garantías al conocimiento de la práctica médica de las mujeres al lado de sus
+maridos o bien de manera independiente, sobre todo en cirugía y boticaria, se
+ha puesto de manifiesto que algunas mujeres practicaron la medicina y
+obtuvieron buenos beneficios y reputación en su tarea. No se debe olvidar
+que, de entrada, serían las mujeres las primeras en detectar e intervenir en las
+necesidades de los enfermos de la casa. La transmisión de las experiencias de
+madres a hijas y la acumulación de sabiduría producto de la cotidianidad,
+convierten a la mujer en la primera dispensadora de atención médica mientras
+la enfermedad no se agrave23. Una oración y un remedio casero, un buen
+caldo de gallina o bien una purga o unas píldoras de aquellas que se venden
+en los mercados o en las boticas, serán el primer paso, con toda seguridad,
+para solucionar los primeros indicios de enfermedad.
+          El exceso de los emolumentos cobrados por los físicos y los cirujanos,
+que forman parte de las críticas populares que han permanecido en el lenguaje
+de la calle, y la imposibilidad de hacerles frente, o bien la desconfianza,
+obligarán a buscar vías de atención alternativas. El curanderismo es una de las
+
+
+   22
+      Debemos las reflexiones más profundas sobre la práctica médica de las mujeres así como su
+atención a Monica Green. Véase M. GREEN, Women's medical practice and health care in
+medieval Europe, “Signs”, 14 (1989), pp. 434-473. ID., Documenting medieval women’s medical
+practice, en L. GARCÍA BALLESTER, R. FRENCH, J. ARRIZABALAGA, y A. CUNNINGHAM (eds.),
+Practical medicine from Salerno to the Black Death, Cambridge, 1994, pp. 322-352.
+    23
+       C. FERRAGUD, La asistencia médica doméstica femenina en la ciudad de Valencia durante
+la Baja Edad Media, “Dynamis” (2007), en prensa. M. CABRÉ, ‘Como una madre, como una
+hija’: las mujeres y los cuidados de la salud en la baja edad media, en I. MORANT (dir.), Historia
+de las mujeres en España y América latina. De la Prehistoria a la Edad Media, Madrid, 2005,
+pp. 637-658.
+
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 37/1, enero-junio 2007, pp. 107-137. ISSN 0066-5061
+118                              CARMEL FERRAGUD DOMINGO
+
+vías más frecuentes, tanto en el mundo urbano como en el rural, pero
+especialmente en el último. Fórmulas entre religiosas y mágicas, juntamente
+con el empirismo, se combinarán para crear esta figura tan popular. De
+hecho, esta fue una época en la que, a pesar del triunfo de la medicina
+universitaria, todo valía con tal de recuperar el bien más preciado del ser
+humano, que es la salud, como ocurre hoy en día cuando los medios de
+comunicación de masas han lanzado a la fama un buen número de medicinas
+alternativas. Y los mismos monarcas lo demostraron continuamente recorrien-
+do a aquellos de quienes habían oído que eran especialmente significados por
+los remedios para determinadas enfermedades.
+         El hombre y la mujer medievales viven en un mundo que no se puede
+entender sin el concurso de la religión. La confianza en la espiritualidad
+cristiana como un camino hacia la curación es muy significativa. El tapiz que
+hay en la pared del comedor de un cirujano catalán del Cuatrocientos así nos
+lo recuerda; Jesucristo, considerado el más grande de entre los médicos,
+aparece curando un enfermo24. De hecho, la eucaristía, y concretamente el
+cuerpo de Cristo, recibirán unas atribuciones curativas que nos recuerdan que
+a menudo el pecado es considerado como la última de las causas que explican
+una enfermedad o una epidemia, entendida como castigo divino25. Por ello,
+en este mundo se debe estudiar todo un conjunto de factores y variables para
+entender realmente qué hay detrás de la enfermedad y su curación. Incluso el
+propio monarca era considerado como el canalizador del poder de la divina
+gracia a través de sus manos. El uso de rogativas sanadoras, encantamientos
+y conjuros fue una realidad habitual. Si como se pensaba en esta época la
+enfermedad procedía del pecado, la vida recta era una medicina preventiva
+ideal y las procesiones y las peregrinaciones podían considerarse como
+medicinas y antídotos.
+
+
+                II. EL TRIUNFO DEL GALENISMO Y SUS PRACTICANTES
+         Muy pocas fueron las voces contrarias a los médicos y a su práctica,
+si bien la cáustica burla popular y las advertencias de los moralistas contra los
+abusos y el afán de lucro y poder de los médicos, han quedado reflejados en
+la literatura de la época. En cambio, los médicos habían gozado de una
+antigua imagen ideal de hombre honrado, enamorado de su profesión y de la
+naturaleza humana y que ofrecía bienestar y salud de forma desinteresada a
+quien lo solicitara. Esta fue una imagen ética que a lo largo de la Edad Media
+
+
+
+    24
+       Ll. CIFUENTES, La promoció intelAlectual i social dels barbers-cirurgians a la Barcelona
+medieval: l’obrador, la biblioteca i els béns de Joan Vicenç (fl. 1431-1464), “ATCA”, 19 (2000),
+pp. 427-479. Sobre la vinculación entre la teología y la medicina J. ZIEGLER, Arnau de Vilanova:
+a case-study of a thelogizing physician, “ATCA”, 14 (1995) [=Actes de la I Trobada
+Internacional d’Estudis sobre Arnau de Vilanova, vol. II], pp. 248-307.
+    25
+       P. LAÍN ENTRALGO, Enfermedad y pecado, Barcelona, 1961.
+
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 37/1, enero-junio 2007, pp. 107-137. ISSN 0066-5061
+                     LOS OFICIOS RELACIONADOS CON LA MEDICINA                                   119
+
+se buscó perpetuar26. Esto era fundamental en un momento que el médico no
+cesaba de ganar protagonismo social de manera ininterrumpida. No parece que
+las miradas recriminatorias con las que habían sido criticados los practicantes
+de ciertos oficios manuales en algunos lugares de Europa hasta bien entrada
+la Baja Edad Media, como los relacionados con el contacto con la sangre, tal
+y como indicaron Jacques Le Goff y Bronislaw Geremek, afectaron a la
+Corona catalanoaragonesa. El oficio de la barbería era citado como uno de los
+más indignos en ciertas partes del Occidente europeo, sobretodo por las
+flebotomías frecuentes que solían practicar. Sin embargo, esta infamia estaba
+relacionada con la falta de derechos urbanos y corporativos y desaparecería
+con la consecución y plenitud de éstos. Quizá la celeridad con la que esto se
+dio en el ámbito catalanoaragonés, y especialmente en Valencia, hizo olvidar
+rápidamente los tabúes antiguos, y ya desde el siglo XIII el bien común
+rehabilitaba y legitimaba cualquier profesión. De esta manera, los consejos
+hipocráticos y del propio Galeno continuarían vigentes en la época bajomedie-
+val y perpetuarían esta imagen tradicional de honestidad, sabiduría y carácter
+grato del médico con el enfermo.
+         Hay que considerar, en este sentido, la estrecha conexión entre el
+campo doctrinal basado en el sistema médico vigente en la época, el
+galenismo, y la puesta en práctica de sus principios. El concepto de utilitas
+estuvo ligado a la justificación de la presencia del médico en la sociedad, al
+demostrar la eficacia de su conocimiento a través de la práctica. El médico se
+convirtió, según la expresión de Tomás de Aquino —puesta de relieve e
+interpretada por García Ballester— en el artifex factivus sanitatis (hacedor de
+salud). Así, gracias a la filosofía natural aristotélica se superaba la mera
+especulación, y esto permitió encumbrar la medicina al grado de scientia, al
+justificar la actuación médica en proporcionarle como objetivo fundamental
+la salud del cuerpo humano27.
+         Con esto se puede comprender perfectamente que después del duro
+flagelo causado por la peste de mitad del siglo XIV —y también las sucesivas
+oleadas posteriores—, el prestigio de los médicos, de los practicantes de la
+medicina en general y de la medicina universitaria en particular, no se hundió
+bajo la pesada losa de la mortalidad derivada de la plaga, sino más bien al
+contrario. Los médicos pudieron acreditarse gracias a su implicación,
+preocupación y coraje ante una atmósfera de terror generalizada. La devoción
+popular a un determinado practicante se expresó en términos de estima y de
+honor con rasgos paternalistas y el recurso al médico significó una nueva
+
+
+    26
+       L. E. MacKINNEY, Medical ethics and etiquette in the early middle ages: the persistence of
+hippocratic ideals, “Bulletin of the History of Medicine”, XXVI (1952), pp. 1-31. R. FRENCH,
+The ethics of Gabriele de Zerbi, en A. WEAR, J. GEYER-KARDESCH i R. FRENCH (eds.), Doctors
+and ethics: the earlier historical setting of professional ethics, Amsterdam/ Atlanta, 1993, pp. 79-
+97. L. GARCÍA BALLESTER, Medical ethics in transition in the latin medicine of the thirteenth and
+fourteenth centuries:new perspectives on the physician-patient relationship and the doctors's fee,
+en A. WEAR, J. GEYER-KARDESCH i R. FRENCH (eds.), Doctors and ethics, cit., pp. 38-71.
+   27
+      L. GARCÍA BALLESTER, ‘Artifex factivus sanitatis’: health and medical care in medieval latin
+galenism, en D. BATES (ed.) Knowledge and the Scholarly Medical Traditions, Cambridge, 1995,
+pp. 127-150.
+
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 37/1, enero-junio 2007, pp. 107-137. ISSN 0066-5061
+120                              CARMEL FERRAGUD DOMINGO
+
+relación de los hombres con la propia muerte, que se añadía también a la
+interpretación de como se debían conducir las personas en vida. Tan
+importante y profunda llegaba a ser la relación del médico con su paciente que
+posteriormente podía devenir amistad e influjo determinante en las reacciones
+cotidianas. Esta relación se estrechó debido a que los clientes pedían a los
+médicos medievales consejos para mantener su salud, petición que era bien
+acogida, como queda patente en los numerosos tratados escritos en aquellos
+tiempo —hasta 280, según Darrel Amundsen— dedicados a la prevención y
+explicación de la enfermedad. Quizá esta defensa desaforada de la implicación
+del médico sea exagerada, pero no deja de parecer oportuna28.
+         Buena parte de la diferencia entre unos y otros practicantes derivaba
+de la forma en la que habían conseguido su formación médica. A lo largo de
+toda la Edad Media, la tarea de proporcionar el conocimiento médico fue
+ofrecida en función de los distintos contextos sociales y estuvo constituida por
+una extremadamente variable gama de niveles y formas de organización,
+sofisticación e intelectualización. En toda la Europa occidental la manera de
+adquirir esta formación se hizo, en esencia, a través de dos canales: por una
+parte existía el canal institucional, integrado por los que habían estudiado en
+una facultad de medicina y estaban en posesión de un grado universitario
+(bachiller, licenciado, maestro), y por otra estaban quienes se habían formado
+de acuerdo con un modelo abierto (artesanal) o de libertad de enseñanza29.
+Bien pocos fueron los individuos que pudieron permitirse conseguir un grado
+a través de las universidades de la Corona de Aragón (Montpellier, Lleida,
+Barcelona o Valencia) y menos aún de alguna de las prestigiosas instituciones
+francesas o italianas. La tasa de médicos universitarios para la ciudad de
+Valencia el año 1363 podemos situarla entre el 1'3-1'5 por diez mil habitan-
+tes, tasa que se elevaría al 4-5 a los inicios del siglo XV30. En definitiva, son
+cifras que se corresponden con países actuales en vías de desarrollo. Estas
+cifras son válidas también para el resto de la Corona de Aragón en general,
+pero también para buena parte del continente europeo. La mayor parte de los
+oficios relacionados con la salud, fundamentalmente aquellos en los que el
+trabajo manual era la base de su quehacer (barberos, cirujanos, y boticarios)
+utilizaron este mismo método de transmisión de conocimientos, configurando
+lo que García Ballester definió como “sistema abierto” de aprendizaje de la
+medicina, para diferenciarlo de la vía institucional universitaria. Este fue
+también el método que utilizaron los sanadores pertenecientes a las minorías
+religiosas musulmana y judía. Hay que indicar que en el caso de los mudéjares
+
+     28
+        D. W. AMUNDSEN, Medical deontology and pestilential disease in the late Middle Ages,
+“Journal of the History of Medicine”, XXXII (1977), pp. 403-421. Sobre la reputación y la visión
+social de los médicos, véase N. SIRAISI, The physician’s task: medical reputations in humanist
+collective biographies, en A. C. CROMBIE y N. SIRAISI (eds.), The rational arts of living
+[=Smiths College studies in history, vol. L], Northampton/Massachussets, 1987, pp. 105-133.
+   29
+      N. SIRAISI, Medieval and early Renaissance medicine. An introduction to knowledge and
+practice, Chicago/Londres, 1990, pp. 48-77.
+  30
+     L. GARCÍA BALLESTER, La medicina, en ColAloqui Internacional “Civitas Europa”: L’Europa
+de les Ciutats i dels camins. Art, Cultura i Societat al segle XV (València 4-9 novembre 1996) [V:
+Ciència i Tecnologia], inédito.
+
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 37/1, enero-junio 2007, pp. 107-137. ISSN 0066-5061
+                     LOS OFICIOS RELACIONADOS CON LA MEDICINA                               121
+
+la documentación conservada ha sido mínima, y esto porque quedaron
+marginados en buena medida del modelo asistencial dominante a la Corona de
+Aragón y a muchos otros niveles.
+         Conviene remarcar que en el mundo urbano existían determinadas
+ocupaciones que podían convertirse más fácilmente que otras en una vía de
+promoción social, ya que las posibilidades de enriquecimiento eran mucho
+mayores. Se trataba de aquellas que eran ajenas al sector productivo y que hay
+que vincular al sector de los servicios y la distribución. De esta forma, las
+leyes y la medicina formarían el binomio clave en el sentido del beneficio
+económico —como demostró hace tiempo Claudio Cipolla—, juntamente con
+mercaderes, pañeros, boticarios y tenderos31. Poco a poco, la formación
+intelectual en todos estos campos se fue cimentando en el paso por las escuelas
+municipales y posteriormente pasó por conseguir grados en el derecho y la
+medicina en los centros universitarios, no sin haber cursado primero el estudio
+en artes, de carácter propedéutico. Ahora bien, dentro de este mundo hay que
+hacer la excepción de los notarios y la mayor parte de los practicantes de la
+medicina. Si bien los barberos y otros prácticos no tuvieron formación
+universitaria, eso no excluye que hubieran pasado por la escuela de primeras
+letras en una proporción tan grande o más que los integrantes de otros oficios
+gremiales, y que usaran tratados útiles para su práctica que pueden encontrar-
+se entre sus bienes. Posteriormente, a través de la contratación con un
+profesional durante un tiempo determinado, el joven aprendiz podía adquirir
+los rudimentos propios del oficio y ponerse en disposición de independizarse
+e instalarse por su cuenta32.
+          ¿Podemos afirmar con todo lo dicho que se configuró ya durante la
+Edad Media la profesión médica, tal y como se entiende hoy? Los estudios
+dedicados a identificar en qué momento la medicina consiguió esta considera-
+ción han sido abundantes desde que en 1966 Vern Bullough pusiera el siglo
+XVI como el momento en el que se constituía el arte de sanar como una
+profesión. Resulta obvio que este autor se centró excesivamente en el
+desarrollo de las universidades para justificar esta realidad, y aún hoy
+podemos encontrar quien continúa reafirmándose en esta idea33. Sin duda, la
+universidad desarrolló un papel de primer orden en esta consolidación de la
+medicina. Una de las cuestiones fundamentales es que los conocimientos
+difundidos por esta institución penetraron la sociedad e impregnaron de su
+conocimiento y de sus virtudes a las elites gobernantes. Aquellos sanadores
+
+
+     31
+        C. CIPOLLA, The professions. The long view, “Journal of european economic history”, 2
+(1973), pp. 37-52.
+    32
+       Sobre las distintas formas de acceso a la profesión médica, véase C. FERRAGUD, Medicina
+i promoció social a la Baixa Edat Mitjana (Corona d’Aragó, 1350-1410), Madrid, 2005.
+      33
+         V. L. BULLOUGH, The development of medicine as a profession: the contribution of the
+medieval university to modern medicine, Basle/New York, 1966. Thomas Broman, en su estudio
+sobre la Alemania de finales de los tiempos modernos, ha insistido en el papel desarrollado por
+las universidades como constitutivas de la identitad profesional (Th. BROMAN, The transformation
+of German academic medicine, 1750-1820, Cambridge, 1996, pp. 1-12; Introducción). En las
+notas de esta introducción se puede encontrar una amplia bibliografía sobre el debate entorno a
+las profesiones en general y a la profesión médica en particular.
+
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 37/1, enero-junio 2007, pp. 107-137. ISSN 0066-5061
+122                              CARMEL FERRAGUD DOMINGO
+
+que no pasaron nunca por la Universidad, la inmensa mayoría, se beneficiaron
+de las traducciones a las lenguas romance de las principales obras médicas, y
+no solamente en la ciudad sino también en al ámbito rural. Podemos afirmar,
+pues, que los sanadores habían sido influidos en su preparación de manera
+definitiva por la institución universitaria, aunque el empirismo continuaba
+siendo fundamental34
+         Las características utilizadas por la sociología funcionalista americana
+para definir una profesión, y que en una medida u otra han adoptado muchos
+autores, son: la posesión de un corpus doctrinal propio que proporcione a un
+grupo social una competencia técnica; la institucionalización de éste (creación
+de la universidad); la organización profesional para monopolizar la práctica
+(colegios, gremios); los mecanismos de diferenciación del colectivo (lenguaje
+técnico, vestido, código ético, etc.); el apoyo en los órganos de poder para
+afirmar e incrementar el prestigio, el poder y los ingresos, y garantizar el
+control de los otros profesionales (examinación y expedición de licencias); el
+autocontrol profesional, con una considerable autonomía en la conducción de
+los asuntos profesionales, hecho que no reemplaza el sometimiento a los
+poderes real, municipal y eclesiástico35. A menudo, los autores se han
+decantado por una u otra variable para tildar una ocupación como profesión,
+pero en buena medida todos estos puntos se dieron durante la Baja Edad
+Media.
+         Por nuestra parte, concluiremos que ningún grupo de los que
+ejercieron la medicina se acopla exactamente a las condiciones necesarias para
+considerar la aparición de la profesión. Para que eso se cumpliera debería
+darse la circunstancia de que el grupo con formación universitaria hubiera
+excluido a todo el resto de los practicantes empíricos y cualquier otro tipo de
+sanador, hecho que no fue en absoluto posible ni, seguramente, deseado.
+Además, el éxito de este grupo debería haber llegado inevitablemente después
+de haber luchado ostensiblemente contra las quejas públicas. Sin embargo, en
+la Corona de Aragón el aprendizaje y la práctica parece que se institucionaliza-
+ron desde las instancias públicas y no por iniciativa de los médicos, aunque
+seguramente también tuvo mucho que ver su opinión. Los médicos del siglo
+XIV estaban lejos de concebirse a ellos mismos como una comunidad con
+intereses y éxitos compartidos. Ellos fueron una parte más de una comunidad
+más amplia de practicantes en la que no había una clara distinción ocupacio-
+nal. Aquellos que llegaron a constituirse como médicos lo hicieron a través de
+diversas rutas, y ni tan solo la aparición de los primeros colegios médicos
+puede considerarse como un desarrollo de la profesionalización, ya que estos
+afloran después de que se haya establecido un monopolio en la formación y la
+práctica médica. Con todo, no debemos olvidar que la medicina era la única
+
+     34
+        Ll. CIFIENTES, Translatar sciència en romans catalanesch. La difusió de la medicina en
+català a la baixa edat mitjana i el renaixement, “Llengua & Literatura”, 8 (1997), pp. 7-42. ID.,
+La ciència en català a l’Edat Mitjana i el Renaixement, Barcelona, 2002.
+   35
+      L. GARCÍA BALLESTER, Los orígenes de la profesión médica en Cataluña: el ‘collegium’ de
+médicos de Barcelona (1342), en Estudios dedicados a Juan Peset Aleixandre, València, 1982,
+pp. 129-149, especialmente pp. 129-130.
+
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 37/1, enero-junio 2007, pp. 107-137. ISSN 0066-5061
+                     LOS OFICIOS RELACIONADOS CON LA MEDICINA                               123
+
+disciplina científica los practicantes de la cual habían adquirido un cierto
+estatus más “profesional” frente a los astrólogos —muchos de ellos médicos
+por la relación entre ambas disciplinas— matemáticos, alquimistas, etc.36
+
+                  III. DESNIVELES DE RIQUEZA Y PROMOCIÓN SOCIAL
+         Las diferencias internas y la casuística dentro del colectivo que nos
+ocupa resultan variadísimas, lo que nos obliga a poner mucha cautela a la hora
+de englobar bajo parámetros comunes aquellos individuos que se dedicaron a
+la medicina. Entre el rico y prestigioso físico formado en el Estudio General,
+que suele habitar las grandes y populosas ciudades, o en todo caso los núcleos
+medios donde ha sido contratado y desde donde se puede desplazar para
+atender también a otros clientes, como la familia real o algunos miembros de
+el estamento nobiliario, o bien el rico boticario que cuenta con diversos
+empleados en su taller (obrador), implicado en numerosos negocios incluso de
+ámbito internacional, y el barbero que opera en las pequeñas aldeas, se abre
+un abismo en medio del cual transita un colectivo muy heterogéneo. Los
+primeros, imbricados en las tramas del poder patricio, forman parte del sector
+acomodado que domina la vida política local, y los segundos integran a
+menudo los bandos armados que los secundan. Pero estas diferencias empiezan
+dentro de una misma comunidad. Así nos lo ofrece el caso de Manresa con
+unos 690 fuegos en 1370 (3.500 habitantes).
+         La jerarquía que podemos establecer en Manresa a nivel patrimonial
+nos marca el patrón que fue habitual en cualquier municipio de la Corona que
+podamos estudiar. El físico Bernat de Figuerola fue un personaje muy
+influyente en Manresa. El suyo era el cuarto patrimonio de la villa a inicios
+del siglo XV, y estaba muy por encima de cualquiera de los practicantes de la
+medicina, más aún si lo comparamos con el patrimonio menos valorado, el de
+Joan Bassa. Participó en la vida política ejerciendo cargos y también está
+relacionado con la monarquía, para la que trabaja eventualmente. Sus bienes
+son diversos y van desde explotaciones agrarias de importantes dimensiones
+dispersas en un radio territorial amplio, que alcanza varios kilómetros, y unas
+rentas elevadas que entran en forma de censos cobrados por las tierras y por
+censales crediticios. En segundo lugar, aparecen los patrimonios de los
+boticarios y, finalmente, los de los barberos. Curiosamente, con mucha menor
+diferencia aparece un cirujano, que por la documentación sabemos que la
+mayoría de las veces era considerado barbero. En condiciones normales los
+cirujanos pueden fluctuar entre los niveles alcanzados por la mayoría de los
+físicos y los boticarios. También llama la atención que los más endeudados
+
+
+
+  36
+     Estas reflexiones pertenecen a las conclusiones de Michael R. McVaugh en su libro Medicine
+before the plague, cit., pp. 241-245, donde el autor se declara abiertamente en contra de la
+consideración de la profesionalización médica en la primera mitad del siglo XIV, a pesar de que
+pueden apreciarse claros síntomas de los intereses hacia la profesionalización.
+
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 37/1, enero-junio 2007, pp. 107-137. ISSN 0066-5061
+124                              CARMEL FERRAGUD DOMINGO
+
+suelen ser los más ricos, porque son los que más invierten en negocios de todo
+tipo y su capital líquido disponible no suele ser elevado.
+         Hay que tener en cuenta que a la sombra de la vela de una barbería no
+es posible cosechar las fortunas que proporcionaba la intimidad del estudio de
+un médico, físico o cirujano, (la habitación destinada a biblioteca personal,
+cobijo del instrumental y lugar donde se reflexionaba sobre la materia médica),
+y la visita a domicilio con un contrato ante notario. Situarlos a todos ellos
+dentro de un mismo grupo social, como ha sido la tónica entre los investigado-
+res, resulta confuso y reduccionista. Para un profesional de la medicina tan
+posible era alcanzar elevadas cotas de poder, prestigio y riqueza, como caer
+en la pobreza vergonzante, al menos temporalmente37. Sin embargo,
+observando los datos a nuestra disposición, se puede llegar a la conclusión de
+que un grupo tan escaso en número dentro de las comunidades, tenía un peso
+político, económico y social que iba mucho más allá de su peso demográfico.
+Esto se ha podido constatar en núcleos de población de tamaño mediano, como
+Manresa y Santa Coloma de Queralt en Catalunya o Morella y Alzira en el
+País Valenciano, y alguno tan importante como Girona38.
+         Las circunstancias que conducen al éxito profesional y social o bien
+a la pobreza son complejas. La tradición familiar dentro del oficio es un punto
+clave a tener en cuenta. Se ha podido observar que la medicina suele generar
+un utillaje material y cultural muy particular en el seno de las familias, que se
+transmite de generación en generación y solamente circunstancias inesperadas
+pueden fragmentar, y que las estrategias familiares juegan un papel clave para
+mantener el estatus o mejorarlo. Para aquellos linajes que tan sólo condujeron
+a uno de sus miembros hacia estas ocupaciones, la permanencia dentro del
+grupo médico fue muy difícil. Las alianzas entre miembros del mismo oficio
+o de semejante categoría, con individuos afines que practicaban el comercio,
+la judicatura o incluso pertenecían al estamento nobiliario, fue bien común. La
+conciencia de que los oficios de curar podían resultar muy provechosos se hace
+evidente en el gran interés de los padres por conseguir la formación adecuada
+para sus hijos en el oficio que ellos desarrollaban, sobretodo si era posible que
+éstos accedieran a los estudios universitarios, lo que sin duda marcaba de
+forma substancial la posibilidad definitiva de ascenso social39.
+         Luis García Ballester, insistiendo en un punto minusvalorado por la
+historiografía tradicional, la relación teoría-praxis durante la Edad Media,
+
+
+     37
+        C. BATLLE, Els Granollachs metges de Barcelona (segle XIV). De la cort del rei a la
+beneficència parroquial, en M. RIU (dir.), La pobreza y la asistencia a los pobres en la Cataluña
+medieval, vol 2, Barcelona, 1981-82, pp. 383-414.
+    38
+       Véase como ejemplo el caso de Girona en Ch. GUILLERÉ, Milieu médical géronais au XIVe
+siècle, en Historie médiévale, vol. I [= 110 Congrés national des Sociétés savantes, Montpellier,
+1985], pp. 263-281.ID., Girona al segle XIV, vol. II, Girona, 1994, vol. II, pp. 361-370.
+      39
+         He podido reconstruir diversos árboles genealógicos de familias de físicos, cirujanos,
+barberos y boticarios cristianos, y también de físicos judíos, que ponen de manifiesto que durante
+varias generaciones la profesión médica se mantiene como el centro de gravedad de estas familias,
+que permite alcanzar un alto grado de prestigio, riqueza y poder en un momento determinado.
+Véase C. FERRAGUD, Medicina i promoció social, cit., especialmente los cuadros familiares
+representados y los comentarios del capítulo 1.
+
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 37/1, enero-junio 2007, pp. 107-137. ISSN 0066-5061
+                     LOS OFICIOS RELACIONADOS CON LA MEDICINA                                125
+
+vinculada a la creciente importancia de las artes mecánicas asimilables a las
+tradicionales artes liberales del quadrivium, remarca la necesidad de encontrar
+las pautas de explicación del ascenso social de aquellos que utilizaron sus
+manos para el trabajo y la expansión de la cultura letrada gracias a la
+Universidad40. Esto en el mundo médico se tradujo en el ascenso social de los
+barberos-cirujanos y de los boticarios, y la progresiva aparición de bibliotecas
+especializadas, junto a los utensilios propios de su ocupación. Y es que desde
+que la medicina se institucionalizó, se tendió a establecer una gran barrera
+entre el practicante especulativo, el físico, y el manual, el cirujano. Durante
+toda la Edad Media se desencadenó una lucha entre físicos y barberos-
+cirujanos y boticarios, en la que los primeros trataron de someter bajo su
+control a los practicantes de oficios médicos de carácter manual (mecánicos)
+sin fundamento teórico, y los segundos trataron de adoptar unos conocimientos
+teóricos basados también en el galenismo y la filosofía natural aristotélica, que
+dignificaran cada vez más su posición, objetivo que sin duda consiguieron
+progresivamente en todo el Occidente europeo41.
+         Ahora bien, el volumen de ingresos estaba relacionado estrechamente
+con la posibilidad de lograr un patrón, o más frecuentemente varios patrones,
+poderosos y acaudalados (municipios, nobleza o realeza), lo que dependía a
+la vez de una formación académica. Obtener algún grado en medicina en el
+Estudio General era garantía de lograr los puestos de trabajo más apreciados,
+los mejor remunerados; a quienes aprendían la profesión con el contrato de
+aprendizaje (afermament), y también, no lo olvidemos, adquirían y estudiaban
+libros teóricos de su arte, y que por lo tanto no aprendían únicamente con el
+empirismo, les quedaba el prestigio que podía darles su progresión en el
+dominio del oficio y la movilidad ocasional hacia los lugares más necesitados
+de entendidos en medicina. La religión era otro condicionante. Vedado el
+acceso al Estudio General, a los hebreos y a los musulmanes los quedaba la
+segunda vía, cosa que recortaba, de entrada, sus posibilidades de progreso
+social. La fama que obtuvieron los judíos en el buen uso del arte de la
+medicina y la cirugía, les llevó a conseguir unos beneficios extraordinarios al
+cobijo de las más altas instancias sociales: la monarquía y la nobleza. A los
+musulmanes les quedó la práctica de la menescalia (albeitería) donde también
+obtuvieron un prestigio notable. Citaré, en este sentido, que la familia mudéjar
+más importante del siglo XIV en la Corona de Aragón fueron los Bellvís, que
+
+
+
+
+       40
+          L. GARCÍA BALLESTER, Ciencia y técnica bajomedieval: problemas y perspectivas, en
+Historia de la ciencia y de la técnica en la Corona de Castilla [Edad Media 1], Salamanca, 2002,
+pp. 31-38.
+      41
+         Este fenómeno ha sido muy bien estudiado por Michael R. McVaugh a través de una
+notable familia de cirujanos de Girona, los Sarriera; tres generaciones de cirujanos (siete
+personajes en total) trabajaron para la monarquía y el municipio, alcanzando altas tasas de poder
+y riqueza. Véase M.R. MCVAUGH, Royal surgeons and the value of medical learning: the Crown
+of Aragon, 1300-1350, en L. GARCÍA-BALLESTER, R. FRENCH, J. ARRIZABALAGA y A.
+CUNNINGHAM (eds.), Practical medicine from Salerno to the Black Death, Cambridge, 1994, pp.
+30-59.
+
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 37/1, enero-junio 2007, pp. 107-137. ISSN 0066-5061
+126                              CARMEL FERRAGUD DOMINGO
+
+durante tres generaciones fueron albéitares de distintos monarcas, las reinas
+y sus hijos42.
+         La mayor parte de los practicantes de la medicina, sin embargo, se
+deben incluir dentro del mundo del artesanado. En las ciudades medievales la
+célula básica de producción, trabajo y de vida social, todo a la vez, fue el
+taller familiar. En el seno de esta pequeña explotación se confundían las
+funciones: el obrador donde se trabajaba constituía una pieza de la casa o
+habitación, el patrón era el cabeza de familia y el director de la estrategia
+familiar, algunos hijos aprendían el oficio del padre, como también otros
+aprendices contratados y la madre echaba una mano en el trabajo, que después
+le podía servir para conseguir la dirección de la empresa al enviudar. Después,
+estaban los criados y los esclavos, que ayudaban en las tareas domésticas y en
+las propias del oficio. En el seno de esta sociedad las relaciones no tenían por
+qué ser idílicas, pero todo se apoyaba sobre los vínculos del parentesco. Todos
+vivían bajo el mismo ritmo y formando parte del mismo oficio y cofradía,
+participando de las mismas fiestas y momentos de alegría y de tristeza.
+
+                  IV. LOS SANADORES DENTRO DEL PODER POLÍTICO
+
+         Una presencia tan activa dentro de la sociedad tuvo pronto una
+traducción en la participación en la vida política, en aquellos ámbitos que eran
+más próximos a los sanadores, generalmente los municipios, cuando fue
+posible el asentamiento y la estabilidad en un lugar concreto. Algunos llegaron
+a convertirse en miembros de la nómina de los prohombres, con influencia a
+nivel comarcal, y aprovecharon su posición para orientar decisiones públicas
+en beneficio propio. Una muestra, aparentemente no excepcional, de la
+influencia que pudieron llegar a tener algunos individuos nos lo muestra el
+caso de Bernat de Figuerola, físico de Manresa. Por su hogar pasaban
+parientes y amigos solicitando la gracia de su intercesión ante la autoridad real
+o eclesiástica para garantizarse un futuro, lo que constituye una clara muestra
+de la influencia como hombres puente entre las elites y los sectores de la
+población más humildes. Su influencia fue definitiva a la hora de construir un
+importante canal que derivaría agua del río Llobregat a un sitio tan árido como
+las inmediaciones de Manresa43.
+         Tres caminos fueron los seguidos por los practicantes de la medicina
+para integrarse en el mundo de la política: el servicio a la corona y la
+participación en asuntos internos de los monarcas y otros asuntos de estado;
+
+    42
+       El estudio más completo sobre esta familia en C. FERRAGUD, La cura d’animals a l’Edat
+Mitjana. Els menescals i la pràctica de la menescalia a la València baixmedieval, Catarroja,
+2007, en proceso de publicación.
+     43
+        Los casos de Bernat de Figuerola (ca. 1330-1394) y su hijo homónimo (ca. 1363-1411)
+resultan extraordinariamente fascinantes y ricos en matizes. Se trata de dos personajes que, junto
+con el resto de sus familiares, criados y esclavos, han sobrevivido con gran nitidez gracias a la
+conservación de los dos protocolos notariales que fueron destinados exclusivamente a la familia
+y de los que me ocupé en profundidad en diversos apartados en C. FERRAGUD, Medicina i
+promoció social, cit.
+
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 37/1, enero-junio 2007, pp. 107-137. ISSN 0066-5061
+                     LOS OFICIOS RELACIONADOS CON LA MEDICINA                               127
+
+los gobiernos municipales; y la adquisición de señorías con vasallos y la
+transformación en señores feudales.
+         Efectivamente, la monarquía siempre se sintió muy unida a sus
+médicos, los cuales regían sus vidas con su atención y consejos para mantener
+la salud. La profundidad de su relación les hizo acreedores de una confianza
+plena para tratar incluso sobre los asuntos más delicados de la política de
+estado. Muchas relaciones entre la corona y los municipios y las aljamas se
+articularon gracias a la presencia de un físico o un cirujano de prestigio, en
+uno y otro lugar. Otros sanadores lograron oficialías con prestigio y
+remuneración, para ellos o para sus familiares. Difícil resulta saber hasta qué
+punto estos personajes pudieron influir en decisiones trascendentes para la vida
+de los reinos44.
+         En las postrimerías del siglo XIV se notó un cambio en la procedencia
+de los integrantes de los cuadros dirigentes de los gobiernos municipales,
+donde cada vez aparecían más individuos dedicados a las profesiones liberales
+formados en el Estudio General, sustituyendo en parte a los mercaderes y a los
+cambistas. En este sentido, los practicantes de la medicina desarrollaron un
+papel político de primer orden en la organización y el control de los gobiernos
+municipales, producto de las tareas encomendadas a ellos específicamente y
+de la entrada directa en el poder a través de los sistemas electivos tradicionales
+en cada lugar (Cuadro 3).
+         Se trataba normalmente de los individuos más preeminentes, los
+mayores contribuyentes del grupo, pero también con un tiempo de permanen-
+cia en los lugares más dilatado. Conseguir un cargo público para quien
+fluctuaba continuamente entre un y otro municipios no era propicio, si bien no
+se puede descartar. Lo que resulta muy claro es la presencia de practicantes
+de la medicina cristianos, judíos y musulmanes ejerciendo cargos en los
+gobiernos locales en cualquier punto de la geografía de la Corona catalanoara-
+gonesa. Ahora bien, los cometidos desarrollados no eran de carácter ejecutivo
+en las grandes ciudades, reservados estos puestos a un patriciado mucho más
+selecto, por contra en los núcleos medios se hace notar mucho más la
+presencia y el poder de médicos y boticarios, pero también a veces de los
+barberos, a menudo con la presencia de sucesivas generaciones de la misma
+familia. Con este ejercicio obtuvieron un poder que canalizaron en bien del
+municipio y el propio; un progreso en la política que en ocasiones les llevó a
+acceder a la casa real, y por tanto a mejorar su prestigio y consideración
+social; y una remuneración sustanciosa.
+         Pero en aquella sociedad el modelo sobre el que todos colocaban el
+punto de mira era la nobleza. El mimetismo de los comportamientos
+nobiliarios se hace evidente en muchos aspectos, pero alcanza su culminación
+con la obtención de una señoría, un castillo con términos propios, con unos
+
+      44
+         Diversos trabajos permiten captar la relación íntima establecida entre los monarcas
+catalanoaragoneses y sus médicos: M. R. MCVAUGH, Medicine before the plague, cit. (Jaime II
+el Justo); C. FERRAGUD, Medicina i promoció social, cit., (Pedro IV el Ceremonioso); J. M.
+ROCA, Johan I d’Aragó, Barcelona, 1929 (Joan I); J.M. ROCA, La Medicina Catalana en temps
+del Rey Martí, Barcelona, 1919. (Martín I el Humano).
+
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 37/1, enero-junio 2007, pp. 107-137. ISSN 0066-5061
+128                              CARMEL FERRAGUD DOMINGO
+
+vecinos a los cuales cobrar imposiciones y sobre los cuales ejercer la autoridad
+judicial. Era un privilegio reservado a unos pocos, los más próximos al rey,
+los que contaban con formación universitaria y también con mayores riquezas
+y dignidad social. Tan solo faltaba coronarlo todo con estas donaciones y, si
+podía ser, con el ennoblecimiento45.
+
+
+                              V. LAS INVERSIONES ECONÓMICAS
+                              Y LA OSTENTACIÓN DE LA RIQUEZA
+
+        Con la obtención de unos ingresos más o menos substanciales y con
+la herencia patrimonial con que ya podían contar, los sanadores se lanzaron a
+un proceso de inversión en los más diversos y variados campos de la
+economía. Las posibilidades de hacer negocios fueron durante la Baja Edad
+Media enormemente amplias. Puede ser que en este punto debiéramos tener
+en cuenta la mirada atenta y sabia que los diferentes practicantes de la
+medicina, como buenos observadores de la sociedad que les rodeaba, dirigían
+a su entorno. Los cambios fundamentales que experimentara el mundo de los
+negocios, y del mercado en definitiva, no les pasaron desapercibidos, de tal
+forma que se integraron con las garantías de quien con su mirada escrutadora
+tiene ventaja sobre una parte de sus competidores, si excluimos, por supuesto,
+los profesionales del mundo mercantil.
+        Los más adinerados, ya fuera por compra o por donación, habían
+logrado explotaciones integradas vinculadas a una masía (Catalunya)46, una
+
+     45
+        Los físicos reales Joan Amell (propietario de Novalles i Xeresa), Pere Ros d’Ursins (de
+ascendencia nobiliaria) y Bernat Minguet obtuvieron el ennoblecimiento de manos de Jaime II,
+el primero, y Pedro IV los otros dos. Ramon Querol compró el castillo de Sobreporta (Girona)
+J. M. MARQUÈS I PLANAGUMÀ, Ensenyament al bisbat de Girona fins a la IlAlustració, “ATCA”,
+12 (1993), pp. 273-301. Pero sin duda el caso mejor conocido es el de Guillem Colteller, médico
+de Pedro el Ceremonioso y su hijo el rey Juan I. El 6 de octubre de 1380 el infante Juan,
+endeudado en 1.000 florines con Colteller, decidió entregarle a cambio de la renuncia a esta
+cantidad y con el depósito añadido de 500 florines más, el mero et mixto imperio et alia
+iurisdictione, domus, forcie, loci et parrochie de Spondiliano (Esponellà) (ACA, C, reg. 1766,
+f. 174v (6-10-1380; reg. 1727, ff. 91v-92; 7-11-1381). Sobre la venta, además nos hablan otros
+documentos: Ibid., reg. 1699, ff. 10-14 (8-10-1380); la advertencia de la donación al sotsveguer
+y el baile de Besalú (Ibid., reg. 1660; 1380, nov. 25) y otra confirmación (Ibid., reg. 1686, ff.
+90v-92; 26-7-1381). Pueden encontrarse breves noticias sobre el tema en Els Castells Catalans,
+Barcelona, 1992, v. III. pp. 207-211 y un breve resumen sobre la donación i los problemas
+suscitados posteriormente en J.M. ROCA, “Mestre Guillem Colteller”, p. XXXIV. En realidad
+los intereses del médico en aquel lugar eran anteriores a la venta, pues sabemos que era
+propietario alodial del mas de Puig de Vallòria, por compra que había hecho al doncel Bernat
+Sord, y que por esta razón exigía a los habitantes del mas facere recognicionem, iuramento et
+homagio roboratum, es decir, pretendía su reconocimiento como señor a través del signo más
+elemental y simbólico del mundo feudal: el homenaje (ACA, C, reg. 1452, ff. 50v-52; 7-12-1378
+y reg. 804, ff. 35r-v; 21-1-1379). El rey y su hijo intervinieron obligando a los habitantes del mas
+a rendirle homenaje y pagar los gastos del juicio. También Colteller era propietario de un molino
+en aquel sitio (Ibid., reg. 1684, ff. 173v-174; 14-1-1379).
+    46
+       En el territori de Barcelona el boticario Ramon de Camp tenia el mas dels Eremites en la
+parroquia de Santa Maria de Sants, propiedad del monasterio de Santes Creus (AHPB, Joan
+Eiximenis, “(Liber) primum”, 22-I-1362/9-IV-1367, f. 165; 27-1-1366) y el físico Arnau Germà
+compró el mas de n’Albanella en el pla de Barcelona, apud locum dictum Lacuna, a Francesc
+Carreres (ACB, Jaume Ferrer, 27-VI-1354/3-VII-1355, f. 47v [28-10-1354]; signatura antigua).
+En Girona son conocidos los casos de diversas familias de boticarios y médicos propietarios de
+masos serviles, según Ch. GUILLERÉ, Girona al segle XV, Girona, 1994, vol. II, p. 372. El
+boticario de Vic Pere de Bertrallans pasó a ser propietario alodial del mas Oller, cuando le fue
+
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 37/1, enero-junio 2007, pp. 107-137. ISSN 0066-5061
+                     LOS OFICIOS RELACIONADOS CON LA MEDICINA                                129
+
+alquería (Valencia)47, una torre o un castillo, y con eso algunos incluso se
+habían convertido en señores de vasallos. En la sociedad medieval, a pesar de
+la importancia cada vez mayor de los centros urbanos y de las actividades que
+le eran propios (artesanado y comercio), la mayoría de sus componentes
+continuaban viviendo de los frutos de la tierra —también muchos habitantes
+de la ciudad— y predominaba una mentalidad en la que consolidar una
+propiedad agraria era indispensable. De hecho, los ideales imperantes eran los
+de la nobleza que fundamentaba su riqueza y su prestigio en la posesión de la
+tierra. De ahí que cada vez más los burgueses (y por supuesto los médicos)
+pusieron sus miras en obtener unas tierras y una producción suficientemente
+diversificada que les garantizase el abastecimiento de sus hogares y también
+unas rentas producto del acaparamiento de censos enfitéuticos.
+         En sus lugares de trabajo o estudios los médicos no solamente se
+esforzaban en la lectura y el estudio de los tratados médicos y elaboraban sus
+registros de atención a clientes, sino que también diseñaban estrategias para
+canalizar los beneficios de su actividad profesional. Así, pocas inversiones
+quedaron al margen de éstos, que muy a menudo optaron por la variedad de
+intereses para asegurar así unas mínimas ganancias, diversificando los riesgos.
+Crédito, manufactura, comercio, especulación y rentismo son distintas caras
+del mismo objetivo, rentabilizar las ganancias con inversiones lucrativas y
+conseguir, al mismo tiempo, una posición relevante dentro la sociedad. Los
+sanadores, muchos de ellos hombres que sabían de letra y de cuentas,
+herramientas muy necesarias en sus oficios —lectura de tratados, elaboración
+de recetas, control de pacientes endeudados, etc.—, se encontraban en una
+disposición óptima para canalizar estos ingresos. Con sumo cuidado controla-
+ron su participación en el mercado elaborando inventarios y contabilidades
+privadas con los nombres de sus enfiteutas y el pago de los censos anuales y
+de los intereses de los morosos a los que habían prestado dinero, o bien
+anotando los resultados de las grandes y pequeñas empresas mercantiles, sin
+
+
+
+
+vendido por el monarca el 12 de marzo del 1343 por 2.500 sueldos de Barcelona (ACA, C, reg.
+990, f. 40v-41v; 12-3-1342). También era propietario de otro mas conocido como de Espolner,
+en los términos de Vic, por el cual cobraba unos censos (AHPB, Felip Gombau, "Llibre comú",
+20-9-1370/4-III-1371, ff. 27r-v; 29-10-1370). El boticario Joan Ivanyes, alias Gosalbo, y su
+esposa Dolça, compraron por 3.700 sueldos quandam alquaream cum orto et terris eidem
+contiguis sitam in termino Campanar, juntamente con el calderero Jaume Peralada y su esposa
+Francesca. La alquería satistacía un censo anual de 150 sueldos a la catedral de València (ARV,
+Protocolos, núm. 2605; 8-4-1404).
+    47
+       Jaume d’Avinyó fue un profesional de gran reputación en Valencia, examinador de médicos
+entre otros cometidos municipales, poseyó al menos desde 1368 la alquería de Vilella, ubicada
+en el término de Sueca (la Ribera Baixa), y perteneciente al señorío de Montesa. Es precisamente
+gracias a un pleito mantenido entre el municipio de Sueca y Jaume d’Avinyó, por el pago de la
+peita, imposición que se negaba a abonar el cirujano por el carácter franco de su posesión
+—únicamente debía satisfacer una parte de las cosechas—, que sabemos alguna cosa de este
+dominio (AMS, Pergamins, n. XXII [doc. n. 48 del catálogo]; 17-12-1370). Pero a parte de esta
+alquería se documentan las siguientes tierras pertenecientes a su patrimonio y ubicadas en la
+huerta valenciana: una tierra plantada de melocotones en la partida de Algirós (ARV, Protocols,
+núm. 2759; 18-8-1372); una viña en Andarella (Ibid., n. 1008; 1383, gen. 9); dos trozos de tierra
+vendidos a un agricultor de Burjassot (Ibid., núm. 1009; 9-12-1389); una viña en término de
+Coscollana (Ibid., núm. 2664; 13-3-1399).
+
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 37/1, enero-junio 2007, pp. 107-137. ISSN 0066-5061
+130                              CARMEL FERRAGUD DOMINGO
+
+descuidar el establecimiento de un pequeño “archivo”, casi siempre un arcón
+o cajón de madera, que cobijaba todos los documentos de interés48.
+         Después de observar con detalle la participación en este mundo,
+llegamos a la conclusión de que las opciones elegidas eran tantas como
+posibilidades mostraba el mercado, y que esta elección debía estar en función
+de las estrategias propias de cada familia, y de los individuos concretos, así
+como de un complejo entramado de circunstancias difíciles de averiguar. Eso
+afectó especialmente al sector de los boticarios o especieros. Las tareas
+específicas que estos individuos desarrollaron fueron muy diversas. Sin duda
+se trata del grupo más dinámico en lo concerniente a la variedad de actividades
+y de negocios diversos en los que invertían o participaban directamente, dentro
+del colectivo de los practicantes de la medicina. Pero la implicación en el
+mundo del comercio no fue exclusiva de boticarios. Los médicos invirtieron
+también capitales en negocios, ya fuera individualmente o bien formando
+sociedades de carácter mercantil, muy especialmente relacionadas con la
+pañería, actividad de gran expansión durante la época. También se dio la
+explotación de recursos naturales, como la participación en sociedades para la
+explotación de la madera de los bosques, una actividad muy lucrativa a tenor
+de la abundante materia prima que se necesitaba. Pero también las riberas del
+Mediterráneo vieron articularse cada vez más un sustancioso mercado de
+esclavos, que tenía en los practicantes de la medicina unos clientes habituales,
+pero también algún especialista en la compraventa. Frecuente fue también la
+comercialización de productos agropecuarios, ya fuera de los excedentes o de
+productos directamente cultivados pensando en su salida en el mercado
+(cereales, productos de huerta, azafrán, etc.), a lo que se añadía la dedicación
+a la venta de animales —equinos básicamente—, pero también ganado.
+Añadiré, finalmente, que estas actividades no serán exclusivas de los cristianos
+y ocuparán también la atención de sarracenos y, sobretodo, judíos49.
+Todos estos intercambios en los que participaban, tenían un radio de alcance
+local o comarcal. Hay que recordar que los centros urbanos de orden medio,
+los predominantes en la Corona de Aragón, se convirtieron en directores y
+organizadores del territorio, en lugares desde donde se irradiaban los capitales
+y los bienes manufacturados hacia el campo, mientras que desde éste llegaban
+los productos tan necesarios para abastecer el creciente mercado urbano. Solo
+unos cuantos arriesgaron sus bienes en negocios que cada vez se vislumbraban
+más lucrativos y más seguros con las nuevas técnicas comerciales, a saber
+aquellos que implicaban la entrada en las redes marítimas internacionales que
+intercambiaban productos por todo el Mediterráneo occidental.
+         Finalmente, el aumento de los beneficios económicos se acompañaron
+del deseo de poner públicamente de manifiesto esta progresión. La mejora de
+
+   48
+      En el inventario de bienes del cirujano de Manresa Berenguer de Franquedina se pueden
+encontrar archivadas diversas cartas de contratos y propiedades (AHPM, “Inventariorum IIII”,
+1394-1397; 26-8-1396). El boticario de Peralada Francesc Cervera tenía un libro de acreedores
+y morosos (AHG, Protocolos [Peralada], n. 1053; 27-8-1344).
+   49
+      Toda esta amplia casuística ha sido estudiada de forma pormenorizada en C. FERRAGUD,
+Medicina i promoció social, cit.
+
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 37/1, enero-junio 2007, pp. 107-137. ISSN 0066-5061
+                     LOS OFICIOS RELACIONADOS CON LA MEDICINA                                 131
+
+las condiciones materiales es obvia en grupos como los barberos y llega a
+extremos de lujo en los más acaudalados físicos y cirujanos. A la luz de los
+inventarios, bien podría considerarse que algunos de los miembros del
+estamento médico podían sentirse aludidos con las críticas de los frailes
+predicadores de aquel tiempo a propósito de los excesos de la moda. La
+obsesión de los potentados por diferenciarse de los humildes se hace evidente
+y la “moda” nacerá para disgusto de predicadores como Francesc Eiximenis,
+que encontraron abominable aquel camino de dispendio durante los frecuentes
+cambios que experimentaban las tendencias y que eran imposibles de seguir
+por los más humildes. Se trataba, en definitiva, del mimetismo de la burguesía
+dispuesta a hacer suyas las costumbres de la nobleza, y de hecho la imitación
+de los signos y los símbolos nobiliarios será cada vez mayor50.
+         La casa, a menudo también lugar de trabajo donde se ejerce la
+medicina, se ubica estratégicamente en el entramado urbano; las plazas, los
+mercados y las entradas a las ciudades son los lugares escogidos. De esta
+manera, los ciudadanos saben perfectamente en qué espacio concreto de la
+ciudad pueden encontrar fácilmente asistencia médica. Esto puede observarse
+en el caso de la ciudad de Barcelona, de la cual disponemos de los datos de los
+censos militares conocidos del 1378 y 1389, así como diversos fogajes
+realizados los años 1363, 1378, 1390 y 1399; completado con las noticias que
+nos aportan los protocolos notariales (1360 y 1386). Con ellos podemos hacer
+una aproximación de cuáles eran básicamente los lugares donde residían los
+practicantes de la medicina y dónde practicaban su tarea. Para realizar los
+fogatges, indispensables para el cobro de impuestos, la ciudad se dividió en
+cuatro cuarteles, de una forma artificial y con una finalidad puramente
+administrativa, a partir de una piedra situada en la plaza del Blat. Una primera
+ojeada manifiesta que hay una difusión de practicantes de la medicina por todo
+el perímetro urbano, desde el centro del burgus romano, hasta las periferias
+y especialmente el Arrabal. Eso demuestra que todos los habitantes de la
+ciudad podían tener a su alcance una asistencia médica porque existía una
+distribución geográfica amplia de los sanadores dentro el espacio urbano
+barcelonés. Se da una concentración importante en el cuartel del Pi donde en
+realidad en una buena parte, el 86 % de sus habitantes, se dedicaban a la
+agricultura. Eso se explica porque en la parte norte de la ciudad se encontraba
+una ancha superficie no urbanizada de terrenos hortícolas que servían para
+abastecer la ciudad y que habían estado protegidos por la muralla durante este
+siglo. Por el contrario, en el centro de este cuartel se configuró una área de
+
+
+   50
+      Para un planteamiento general F. BRAUDEL, Civilización material, economía y capitalismo.
+Siglos XV-XVIII. 1. Las estructuras de lo cotidiano, Madrid, 1984, pp. 265 y 284-285. Esta
+actitud de asimilación del modelo de vida noble a través de este y otros aspectos de la vida
+cotidiana, como es la comida, ha sido abordado para el caso catalán y valenciano en J. AURELL,
+Els mercaders catalans al quatre-cents. Mutació de valors i procés d’aristocratització a Barcelona
+(1370-1470), Lleida, 1996, pp. 74-76 y J.V. GARCÍA MARSILLA, “El buen orden. Imagen pública
+y refinamiento de las costumbres”, en A. FURIÓ (dir.), Historia de Valencia, Valencia, 2000, pp.
+174-176,ID., La jerarquía de la mesa. Los sistemas alimentarios en la Valencia bajomedieval,
+Valencia, 1993.
+
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 37/1, enero-junio 2007, pp. 107-137. ISSN 0066-5061
+132                              CARMEL FERRAGUD DOMINGO
+
+servicios destinada a cubrir las necesidades del poder civil y religioso —la
+abundancia de presbíteros, por ejemplo, es muy elevada. Allí residían una
+amplia nómina de escribanos, juristas y procuradores, y con ellos, también los
+practicantes de la medicina. En definitiva, la calle de la Portaferrissa hasta la
+Plaça Nova, por una parte, y la Boqueria, los alrededores de la judería o call,
+la calle de los Especiers hasta la Plaça del Blat, por otra, eran los dos ejes en
+torno a los cuales vivían y ejercían mayoritariamente los sanadores. Allí, en
+el centro de la ciudad, se encontraban las instituciones políticas y eclesiásticas
+más importantes, y los clientes potenciales más acaudalados, y de paso los
+lugares más concurridos por estar cerca de las plazas donde los intercambios
+eran muy frecuentes y el tránsito de viandantes muy importante.
+         En los núcleos urbanos medievales se desarrolló un activo mercado
+inmobiliario, donde la especulación jugaba un papel importante. Casas,
+obradores y sus mesas, huertos, corrales y patios, entraban en el juego de los
+intercambios intramuros. Los que practicaban la medicina necesitaban de
+amplios espacios donde residir, realizar su tarea cotidiana y donde almacenar
+productos agrarios, sobretodo el vino, la leña y otros objetos diversos. Eso les
+obligaba a participar de este mercado más aún cuando su negocio y sus
+pertenencias iban en aumento, hecho que se hacía especialmente relevante en
+el caso de los boticarios.
+         Algunos de estos hogares se fueron llenando de objetos de todo tipo,
+cada vez más diversos y más lujosos, mientras otros se debían conformar con
+el rigor más extremo51. Con todo, uno tiene la impresión de que los consejos
+de los autores preocupados por definir la vertiente ética de la profesión médica
+no eran escuchados por los integrantes del grupo más elitista, muy atentos a
+los imperativos de la moda y del consumo urbano, y orgullosos de su
+reputación, la cual se debía manifestar en la ostentación externa, bien
+ilustrada por las iluminaciones de los manuscritos. De hecho, tomar el pulso,
+revisar los frascos de orina de los pacientes, diagnosticar y ordenar un
+tratamiento, es una tarea muy limpia que se puede realizar ataviado con seda
+y tafetán, frente a la necesidad del delantal para afeitar y sangrar un paciente.
+A pesar de la valoración cada vez mayor del trabajo manual y la importancia
+de la técnica, hay que salvar ciertas distancias. Tal vez por eso el uso
+frecuente de mozos aprendices o esclavos indica, aparte de querer cubrir una
+mayor cantidad de clientela, el deseo de aislarse del trabajo más “sucio”.
+Médicos o cirujanos importantes, formados en la universidad, había bien
+pocos; un núcleo de población medio podía disponer como mucho de uno o
+dos, generalmente resultas de su solicitud y contratación por el consejo
+
+
+      51
+         Las deficiencias de conservación de inventarios de bienes dificultan un alto grado de
+profundización en el análisis de los interiores domésticos. Apenas podemos ofrecer datos fiables
+de media docena de ciudades. Tampoco solemos tener noticia de los inventarios de los grandes
+físicos reales. Eso sí, los contrastes son espectaculares entre cirujanos valencianos como Francesc
+Moliner (1399) y Miró de Corçà (1366), o bien un barbero casi indigente como Joan Noguera.
+Por otro lado existen barberos con gran progresión y hogares muy equipados como los de Vic
+Domènec Alfons (1380) o Guillem Pons (1352). Podemos añadir a estos la situación fuertemente
+contrastada del caso de Manresa. Véase C. FERRAGUD, Medicina i promoció social, cit., capítulo
+VIII.
+
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 37/1, enero-junio 2007, pp. 107-137. ISSN 0066-5061
+                     LOS OFICIOS RELACIONADOS CON LA MEDICINA                               133
+
+municipal. Algunos arraigaban, otros marchaban buscando mejores salarios
+en comunidades más pobladas y ricas, pero el tiempo que permanecían no cabe
+duda que su presencia debía hacerse notar en el municipio.
+         Por otro lado, las inquietudes intelectuales —lectura y música—,
+apreciables en los instrumentos musicales que poseían y la amplitud de sus
+bibliotecas, cada vez mayores y con títulos propios de la teología y la
+espiritualidad, la ciencia y la literatura en general, y las aficiones lúdicas
+realizadas en la intimidad del hogar, cada vez se fueron sofisticando más con
+la llegada del humanismo. Se trata de intereses que gozaban y compartían con
+el resto del patriciado urbano. De hecho, los practicantes de la medicina
+medieval manifestaban en sus actitudes el lugar social que les otorgó la
+sociedad atendiendo a la gran valoración que se hizo de su actividad.
+
+Fecha de recepción del artículo: enero 2006
+Fecha de aceptación y versión final: enero 2007
+
+
+
+
+ANUARIO DE ESTUDIOS MEDIEVALES (AEM), 37/1, enero-junio 2007, pp. 107-137. ISSN 0066-5061
+                             CUADRO 1
+              MÉDICOS RELACIONADOS CON LA ENSEÑANZA
+Médico                 Escuela regentada                   Lugar         Años            Remuneración
+Domingo Rodrigo        Enseñanza de la gramática y         Castelló de la 1379           200 sueldos
+                       práctica de la medicina (anual)     Plana
+Domingo Rodrigo        Enseñanza de la gramática y         Castelló de la 1389           50 florines
+                       práctica de la medicina (anual)     Plana
+Joan Ferrandis,        Enseñanza de la gramática y         Castelló de la 1382           15 florines
+bachiller en artes y   práctica de la medicina (anual)     Plana
+en medicina
+Berenguer              Enseñanza de la gramática y la      Castelló de la 1404           Sin ninguna
+Banyeres, metge e      lógica                              Plana                         remuneración
+mestre en arts
+Guillem Miravet,       Enseñanza de la gramática y la      Elx           1401
+bachiller en artes y   lógica
+en medicina
+Felip de Sant          Comisionados para examinar a        Morvedre
+Naçari y Bartomeu      los maestros de gramática que       (Sagunt)
+de Montsó, medicis     enseñaban en el municipio
+Pere de Figuerola,     Regenta la escuela del Cabildo      València      1359-1364
+bachiller en artes y
+en medicina
+Ramon Querol,          Regía la escuela de gramática       Girona        1361-1369
+maestro en artes y     de la colegiata de Sant Feliu
+en medicina
+Ramon Querol,          Funda una escuela                   Girona        1393
+maestro en artes y
+en medicina
+Joan de                Enseñanza de la gramática y la      La Bisbal     1381
+Bonaventura, físico    lógica
+Arnau [...],                                               Puigcerdà     1361
+cirurgicus et
+magister gramatica
+Pere d’Isòvol,         Usant de son ofici de física e té   Cervera       1355            500 sueldos
+físico                 escola
+                       (usando de su oficio de física y
+                       tiene escuela)
+Bartomeu de            Usant de son ofici de física e té   Cervera       1371
+Tresbéns               escola
+Berenguer Sabater,     Usant de son ofici de física e té   Cervera       1372, 1377
+médico                 escola
+Bernat Valentí,        Físich e mestre de les escoles      Cervera       1398,1399,1405, 22 libras
+físico                 de la dita vila                                   1410,1411, 1417 (1399)
+                       (físico y maestro de las                                          40 florines
+                       escuelas de la villa)                                             (1405)
+Pere Pau, magister     Magister scolarium et               Vilafranca    1394            800 sueldos
+in medicina            medicinis                           del Penedès
+
+Fuentes: L. REVEST CORZO, La enseñanza en Castellón de 1374 a 1400, Castellón, 1930, pp. 42-44 y los
+documentos del Apéndice (Domingo Rodrigo y Joan Ferrandis); F. ROCA TRAVER, El tono de vida, cit.§
+40 (Berenguer Banyeres); J. HINOJOSA MONTALVO, Textos para la historia de Alicante. Historia
+Medieval, Alacant, 1990, p. 456 (Guillem Miravet); A. DURAN i SANPERE y F. GÓMEZ GABERNET, Las
+escuelas de gramática en Cervera, “BRABL”, XVII (1944), pp. 7-17; J. M. MARQUÉS i PLANAGUMÁ,
+Ensenyament al bisbat de Girona fins a la il·lustració, “ATCA”, 12 (1993), pp. 277-279 (Ramon Querol
+y Jordi de Bonaventura); J. SANCHIS SIVERA, La enseñanza en Valencia en la época foral, “BAH”, CIX
+(1937), pp. 7-80, especialmente la p. 20 (Felip de Sant Naçari y Bartomeu de Montsó); ACP, Joan
+Torrelles, "Liber extraneorum", 1361 (1361, gen. 14) (Arnau [...]).
+
+
+
+
+                              CUADRO 2
+             PATRIMONIO DEL PERSONAL MÉDICO DE MANRESA
+                                                                            Rentas
+                     Edificio-                                              de tierras
+                     patio-    Edificio                    Muebles /        y crédito
+                     obrador agrario           Tierras     alimentos Dinero censalista Deudas1 Total
+Pere de Barriac- 2/4.240                       3/580       3.600/78s. 2.900                 1.400     11.398
+Bo                                                         6d.
+Joan Satorre-Bo 2/1.944          66            6/1.030     1.265      300                   580       4.655
+                                 (pallissa)
+Jaume de             1/ 2000                   4/1.020     894          220                 125       4.134
+Tresseres-Bo
+Francesc             1/3.000                   7/5.240     2.760/236    5.538               1.326     16.774
+Satorre-Bo
+Francesc             2/5.510     700 (trull) 11/150        5.878s.6d.           980                   13.218
+Despuig-Bo
+Pere de              1/1.320                   2/1.420     1.000                3.000       500       6.740
+Santacreu-B
+Ferrer de            3/1.800                   10/680      653s.4d.     2.000   2.400                 7.533/
+Comalba-B                                                                                             4d.
+Tomàs de             4/2.500     260           9/3.337     2.828                545         1.420     9.470
+Comalba-B                        (palomar)
+Bernat de            2/5.220     1.600         16/6.080 4.260                   8.805       200       25.965
+Figuerola-F                      (8 masos)
+Joan Bassa-BC        1/300                     1/600       967                              664*      1.867
+1
+    Las deudas no se han contabilizado en la suma final.
+* Le deben 540 sueldos., por el ajuar.
+Bo=boticario; B=barbero; C=cirujano F=físico.
+Fuente: Arxiu Històric de la Ciutat de Manresa, Liber Manifesti, 1408-1411.
+
+
+
+                           CUADRO 3
+        CARGOS Y ACTIVITADES POLÍTICAS DESARROLLADAS EN
+                     MANRESA POR MÉDICOS
+                                       Años de
+Nombre                       Profesión ejercicio         Actividad pública desarrollada
+Bernat de Figuerola          F          1360             Procurador de la ciudad
+                                        1361             Mensajero enviado por el Consell de Manresa para
+                                                         negociar un impuesto en la Corte
+                                        1362             Prohombre/ procurador por el barrio de Sobrerroca
+                                                         para cerrar la ciudad con muralla
+                                        1363             Viaja a las Cortes de Monzón
+                                        1364             Miembro de una comisión real para investigar el
+                                                         comportamiento de oficiales reales
+                                        1364             Jurat (=miembro del Consell)
+                                        1369             Jurat
+                                  Años de
+Nombre                  Profesión ejercicio        Actividad pública desarrollada
+                                     1369          Comisionado para exponer problemas al rey
+                                     1371          Jurat
+                                     1371          Comisionado para negociar con el duque la reducción
+                                                   de la participación en el ejército de Manresa
+                                     1374          Mensajero enviado por el consell ante el rey
+                                     1386          Obrero de la ciudad
+Bernat de Figuerola jr. F            1395          Jurat
+                                     1396          Miembro del Consell General (CG)
+                                     1397          CG
+                                     1398          Misión de paz entre bandos
+                                     1398          CG
+                                     1400          Obrero de la ciutat
+Galceran de Gostemps F               1362          Investigación del comportamiento de los oficiales
+                                                   reales en Manresa
+                                     1383          Ídem.
+Antoni d’Alsamora       BO           1360          CG
+                                     1364          Jurat
+                                     1369          Prohombre
+                                     1372          Síndic
+                                     1374          Prohombre
+Pere de Barriac         BO           1374          Prohombre
+                                     1388          Prohombre
+                                     1389          Clavari
+                                     1390          Prohombre
+                                     1393          Prohombre
+                                     1394          Jurat y conseller
+                                     1395          Jurat CG
+                                     1400          Prohombre
+Francesc Despuig        BO           1394          Jurat
+                                     1400          Prohombre
+Bernat de Salesnoves    BO           1364          Jurat
+                                     1365          Recaudador de impuestos
+                                     1366          Idem.
+                                     1367          Sotsbatlle
+                                     1369          Prohombre
+Francesc Satorre        BO           1362          Prohombre
+                                     1364          Jurat
+                                     1393          Prohombre
+                                     1400          Prohombre
+Jaume de Tresserres     BO           1383          Prohombre
+Ferrer de Comalba       B            1374          Prohombre
+Pere Domènec de         B            1364          Jurat
+Comalba
+                                     1369,1390,    Prohombre
+                                     1391
+Francesc Clavell        C            1360          Prohombre
+Fuente: elaboración propia a partir de los registros del Archivo Histórico Municipal de Manresa.
+F=físico; BO=boticario; B=barbero; C=cirujano
+UBICACIÓN DE LOS SANADORES EN LA CIUDAD DE
+               BARCELONA
+

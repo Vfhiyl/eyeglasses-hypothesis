@@ -1,0 +1,22 @@
+{
+  "pass": "AD",
+  "date": "2026-08-04",
+  "decision": "no_ingest",
+  "direction": "Davidsohn Forschungen III primary — Neri nr.955 extract + volume Brille scan",
+  "source_pdf": "data/raw/external_mine_2026-08-03_early/pass_ad/davidsohn_forschungen_III_1901.pdf",
+  "neri_mici": {
+    "entry": "955",
+    "date": "1329-08-14",
+    "place": "Florence Mercanzia",
+    "cote": "StAF Mercanzia 1047 f.110",
+    "pin": "unum par ochialium in stolen goods list",
+    "cleux_bar": "HOLD — living ownership confirmed; no b–d in regest"
+  },
+  "volume_other_spectacle_named_living": null,
+  "early_stock_unchanged": {
+    "onsetish_n": 34,
+    "labor_delta_n": 28,
+    "labor_delta_median": -0.5
+  },
+  "new_cleux_bar_promote": null
+}

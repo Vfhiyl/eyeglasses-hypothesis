@@ -1,0 +1,42 @@
+{
+  "pass": "L",
+  "date": "2026-08-03",
+  "decision": "no_ingest",
+  "seams": {
+    "welch_lubkin_piceto": {
+      "result": "IA empty; JSTOR/DOI paywall/403; Persée Dollfus abstract only",
+      "decision": "HOLD termini still OA-closed"
+    },
+    "berry_guiffrey_inventaires": {
+      "source": "IA inventairesdejea01/02berruoft",
+      "result": "bericle=beryl crystal objects; lunette=mirror discs; Jean de Berry †1416 death inventaire path",
+      "decision": "EXCLUDE"
+    },
+    "bourgeois_1923": {
+      "source": "IA lesbesiclesdenos01bouruoft",
+      "result": "Art-history catalogue + Spina/invention; no new Cleux-bar living named pair",
+      "decision": "dry"
+    },
+    "english_wills_rescan": {
+      "result": "Only Baret 1463 silver-gilt pair (already rostered will path); no new 1300–1499 living named",
+      "decision": "dry"
+    },
+    "laborde_monteil_1498": {
+      "pin": "Compte Hesselin receveur: huit lunettes baillées à mes dicts seigneurs (Noyon civic); mayor clothing allowance includes lunettes",
+      "decision": "EXCLUDE — anonymous officeholders; Hesselin already rostered as paymaster not self-wear here"
+    },
+    "gallica_ocr": {
+      "result": "altcha blocks .texteBrut; used IA mirrors instead",
+      "decision": "workaround OK"
+    },
+    "medcat": {
+      "result": "ulleres search empty via proxy this pass",
+      "decision": "no new"
+    },
+    "emlo": {
+      "result": "all spectacle hits post-1500 / metaphorical",
+      "decision": "OOW"
+    }
+  },
+  "new_cleux_bar_promote": null
+}

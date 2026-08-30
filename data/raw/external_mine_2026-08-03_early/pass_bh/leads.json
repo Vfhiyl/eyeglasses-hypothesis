@@ -1,0 +1,54 @@
+{
+  "pass": "BH",
+  "direction": "rebuild SESOI +5 without death-only termini: retire long densify/fallbacks; mid hand pins; France/England overlays",
+  "moves": {
+    "marzeliere_pierre": {
+      "before": 0.0,
+      "after": 8.5,
+      "note": "retire Grossa/Juv\u00e9nal; +le Daim/Fumee"
+    },
+    "pepys_samuel": {
+      "before": 3.0,
+      "after": 8.0,
+      "note": "retire Dryden; Stillingfleet mid pins; Sydenham hand"
+    },
+    "wyatt_henry": {
+      "before": 0.0,
+      "after": 19.0,
+      "note": "retire Mair; Boece trim; +Bainbridge"
+    },
+    "pirckheimer": {
+      "before": -5.0,
+      "after": 5.0,
+      "note": "hand-pin Erasmus/Mutian/Trutfetter/Qualle; retire Apel/Heidenreich"
+    },
+    "charles_orleans": {
+      "before": -4.5,
+      "after": 2.0,
+      "note": "retire Fillastre/Sale/Chastellain; +Montreuil/Gerson/Clamanges"
+    }
+  },
+  "primary_summary": {
+    "n": 44,
+    "median_delta": 6.0,
+    "boot95": [
+      3.0,
+      9.5
+    ],
+    "n_ge_5": 24,
+    "share_gt_0": 0.705,
+    "sesoi5": "PASS_RAW",
+    "sesoi15": "FAIL_OR_UNAVAILABLE"
+  },
+  "death_terminus_sensitivity": {
+    "strip_death_keep_office": {
+      "median": 5.0,
+      "boot95": [
+        1.5,
+        8.0
+      ],
+      "sesoi5": "PASS_RAW"
+    },
+    "note": "Unlike BF, BH PASS survives death-strip stress (BG harden kept)."
+  }
+}

@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en" class="apde">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Adams Papers Digital Edition - Massachusetts Historical Society</title>
+<link rel="shortcut icon" href="/favicon.ico" />
+<link href='//fonts.googleapis.com/css?family=Libre+Baskerville:400italic,400,700' rel='stylesheet' type='text/css' />
+<link rel="stylesheet" href="/publications/lib/css/basic-2017.css" media="all"/>
+<link rel="stylesheet" href="/publications/adams-papers/css/apde.css" media="all"/>
+<script src="/incl/js/jquery-2.1.1.min.js"></script>
+<script src="/publications/adams-papers/js/apde.js"></script>
+	<link rel="stylesheet" href="/publications/lib/css/tei-display/tei-fragment.css" />
+	<link rel="stylesheet" href="/publications/lib/css/tei-display/tei-display.css" />
+
+	<script src="/lib/ui-library/mhssticky-v3-jq.js"></script>
+	<script src="/publications/lib/js/display2018.js"></script>
+	<script>
+		var page = "0";
+
+		window.addEventListener('DOMContentLoaded', function(){
+			var el;
+			var display = new displayTools();
+
+			//page view only
+			if(page) {
+				display.initPageBasedDisplay(page);
+				display.stickyBar();
+			} else {
+				//still use BTT
+				display.backToTop();
+				display.BTTinit();
+			}
+
+			//to customize, set a global var textSizingSelector;
+			if (typeof textSizingEl == "undefined") {
+				//look for nav
+				el = document.getElementsByTagName("nav");
+				if (el.length > 0) {
+					//look for inner wrapper
+					var tempel = el[0].getElementsByTagName('div');
+					if (tempel.length > 0) el = tempel[0];
+				} else el = el[0];
+			}
+			el = document.querySelector(textSizingSelector);
+
+			if(el != null) {
+				display.initTextSizers(el, "top");
+			}
+
+			display.setupShortTitles();
+			display.setupNotesLinks();
+		});
+
+	</script>
+
+	<script>
+		var linkPrefix = "/publications/adams-papers/index.php/view/";
+		var textSizingSelector = "article .gutter";
+	</script>
+
+
+</head>
+<body class="apde innerPage  document">
+
+		<div style="background: black; margin: 0; padding: 10px 14px 4px 14px; text-align: center;">
+	<a href="/"><img src="/images/banners/mhs_final_horizontal_blk.svg" style="height: 24px; max-width: 100%"/></a>
+</div>
+ 	<header class="siteHeader">
+		<div class="gutter">
+			<h1>Adams Papers <span class='subtitle'>Digital Edition</span></h1>
+		</div>
+
+		<nav>
+			<svg class="hamburger" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 60.000001 60.000001" height="60" width="60"><g transform="translate(0,-992.36216)"><path d="M 5,1000.3622 55,1000.3622 55,1008.3622 5,1008.3622 Z" style="fill-opacity:1;stroke:none" /><path style="fill-opacity:1;stroke:none;" d="M 5,1018.3622 55,1018.3622 55,1026.3622 5,1026.3622 Z" /><path d="M 5,1036.3622 55,1036.3622 55,1044.3622 5,1044.3622 Z" style="fill-opacity:1;stroke:none" /></g></svg>
+			<div class="gutter">
+				<a href="/publications/adams-papers">Home</a>
+				<a href="/publications/adams-papers/index.php/browse">Browse</a>
+				<a href="/publications/adams-papers/index.php/index">Index</a>
+				<a href="/publications/adams-papers/index.php/search">Search</a>
+				<a id="codeNames" href="/publications/adams-papers/views/adams-inits.php"><span class="hideTablet">Adams Family </span>Name Codes</a>
+			</div>
+		</nav>
+	</header>
+
+
+	<div class="navToolsWrapper">
+		<script>
+			var PUB_PREFIX = "APDE-";
+			var linkPrefix = "/publications/adams-papers/index.php/view/";
+			var solrIndexPrefix = "apde-"; //after which rest is the ID
+			var ajaxPrevNextUrl = "/publications/adams-papers/index.php/search-ajax-prevnext";
+
+		</script>
+		<script src="/publications/lib/js/nav-tools.js"></script>
+	</div>
+
+	<article>
+		<div class="gutter">
+			<h1 class="contextualTitle"><a href="/publications/adams-papers/index.php/volume/ADMS-04-02">Adams Family Correspondence, volume 2</a></h1>
+
+		
+	<div class="prevNextNav">
+		<div>
+					<label>Previous document in volume</label>
+			<a href="/publications/adams-papers/index.php/view/ADMS-04-02-02-0118">
+				<h3>John Adams to Abigail Adams</h3>
+	<!--			<span class="who">						-->			</span>
+
+				<span class="date"></span>
+			</a>
+				</div>
+
+		<div>
+					<label>Next document in volume</label>
+			<a href="/publications/adams-papers/index.php/view/ADMS-04-02-02-0120">
+				<h3>John Adams to Abigail Adams</h3>
+	<!--			<span class="who">						-->			</span>
+
+				<span class="date"></span>
+			</a>
+				</div>
+	</div>
+
+	<section class="teiFragment">
+		<div id='document'>
+<doc old-id="AFC02d120" id="ADMS-04-02-02-0119" type="doc">
+            <mapData id="ADMS-04-02-02-0119">
+               <bibl default="false" status="draft">
+                  <title>John Adams to Abigail Adams, 18 February 1777</title>
+                  <author>JA</author>
+                  <name type="recip" full="yes" instant="false">AA</name>
+                  <h3 xmlns="http://www.tei-c.org/ns/1.0">1777-02-18</h3>
+               </bibl>
+               <Title>John Adams to Abigail Adams, 18 February 1777</Title>
+               <mapDates>
+                  <searchRange from="1777-02-18" to="1777-02-18"> </searchRange>
+                  <dayRange from="1777-02-18" to="1777-02-18"> </dayRange>
+               </mapDates>
+               <Author>Adams, John</Author>
+               <Recipient>Adams, Abigail</Recipient>
+               <pageRange from="ADMS-04-02-02-pb-0163" to="ADMS-04-02-02-pb-0164"> </pageRange>
+            </mapData>
+            <header>John Adams to Abigail Adams</header>
+            <div2 type="docbody" part="N" org="uniform" sample="complete">
+               <opener>
+                  <dateline>Baltimore <date when="1777-02-18" instant="false">Feb. 18. 1777</date>
+                  </dateline>
+               </opener>
+               <p part="N">I shall inclose with this a Newspaper or two.</p>
+               <p part="N">I am as yet in tollerable Health. My Eyes are somewhat troublesome. I believe I must assume the Appearance of Wisdom, Age and Gravity and put on Spectacles to walk in, about the Streets.</p>
+               <p part="N">I hear nothing from you, nor from any Part of New England, but <span class="pb" id="pageBreak164">164</span>I am endeavouring to devise some better Regulations of the Post Office, so that I hope that Channell of Communication will be opened.<a xmlns="http://www.tei-c.org/ns/1.0" href="#AFC02d120n1" class="note" id="AFC02d120n1a">1</a>
+               </p>
+               <p part="N">We are told that the Air of Baltimore is unhealthy, and I confess I should dread it, if I were to stay here long. But We shall soon remove.</p>
+               <p part="N">You may write now by the Post. I am very anxious to hear from you, and to know the State of public Affairs, in your Part of the World.</p>
+               <p part="N">I have written by Mr. Hall a Resignation of an Office. I suppose it will make a Noise. But I hope not much. I cant help it. But should be glad to hear from you, how it is received. I hope they will fill it up soon, that the Talk may be soon over.</p>
+               <p part="N">I could not be, at the same Time in Maryland and Massachusetts Bay, which was Reason enough for the Measure, if I had no other, but I have many more, and much stronger.</p>
+               <p part="N">I have not Health enough, and never shall have to discharge such a Trust. I can but just keep myself alive, and in tollerable Spirits when I am master of my own Time and Course of Life. But this is not all.</p>
+               <p part="N">I am not formal and ceremonious enough for such a stiff Situation.—But you know I have many Reasons more.</p>
+            </div2>
+            <div2 type="docback" part="N" org="uniform" sample="complete">
+               <note type="source" id="AFC02d120sn1" anchored="true">
+                  <p part="N">
+                     <bibl type="docSource" default="false" status="draft">
+                        <rs type="dType">
+                           <abbr>RC</abbr>
+                        </rs> (<a href="/publications/adams-papers/index.php/lists/APXterms1/terms" class="completion" data-type="terms">Adams Papers</a>); docketed in pencil by <abbr>AA</abbr>. Enclosed newspapers not found or identified.</bibl>
+                  </p>
+               </note>
+               <note n="1" type="fn" id="AFC02d120n1" anchored="true"><span class="label">1.
+				</span>
+                  <p part="N">On 17 Feb. <abbr>JA</abbr> was named one of five members of a committee “to revise the regulations of the post office, and report a plan of carrying it on, so as to render the conveyance of intelligence more expeditious and certain” (<a href="/publications/adams-papers/index.php/lists/ADMSst344/short-title" class="completion" data-type="short-title">
+                        <hi rendition="#italic">JCC</hi>
+                     </a>, 7:127). The committee brought in a report on the 25th, which was read and tabled; the <abbr>MS</abbr> is in the hand of the chairman, Thomas Heyward; text printed in same, p. 153–154. For subsequent efforts toward the same end in April and October, see same, p. 258, and vol. 9:816–817.</p>
+               </note>
+            </div2>
+         </doc>
+
+</div>
+	</section>
+
+		</div>
+	</article>
+
+	<footer>
+	<p><img src="/adams-resources/adams-insignia-blue.png" /></p>
+	<p>Adams Papers Digital Edition</p>
+	<p>&copy; 2026 Massachusetts Historical Society</p>
+</footer>
+<script>
+ 
+ function mhsASSetup(){
+	mhsASobj = new AntiSocial();
+	mhsASobj.findButtons("sharing-icons");
+ }
+ 
+</script>
+<script src="/lib/ui-library/antisocial-v3.js" async="true" onload="mhsASSetup();"></script>
+
+
+<script>
+	var cc_localStorageKey = "TRACKINGCONSENT";
+	var cc_siteUsesGA = true; // to load GA
+	var cc_gaAccountID ='G-1174Q9G3RC';
+</script>
+<script src="/lib/cookie-consent.js?v=2f" async="true"></script>
+<script data-goatcounter="https://www.masshist.org/analytics"
+        async src="/lib/count.js"></script>
+</body>
+</html>

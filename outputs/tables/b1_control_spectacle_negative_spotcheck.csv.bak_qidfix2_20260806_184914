@@ -1,0 +1,110 @@
+qid,name,birth,death,distinctive_tokens,glass_name_cooccur,evidence_snip
+Q105287,Hermann of Fritzlar,1300,1400,fritzlar;hermann,False,
+Q1904858,Martin Römer,1430,1483,,False,
+Q1648849,Rudolf Losse,1310,1364,rudolf,False,
+Q5907962,Hoshang Shah,1406,1435,hoshang,False,
+Q1696825,Johann von Melem,1433,1484,,False,
+Q12612112,Lee Ye,1419,1480,,False,
+Q4394728,Alamanno Rinuccini,1426,1504,rinuccini,False,
+Q136487101,Johann von Lübeck,1430,1502,lübeck,False,
+Q2863419,Rinaldo Boteram,1417,1484,boteram,False,
+Q55126883,Nicolaus Tinctor,1450,1498,nicolaus;tinctor,False,
+Q1042297,Carlo Marsuppini,1398,1453,marsuppini,False,P2R5: Ilardi OCR no personal wear; IA name+occhiali n=0 for Alberti/Montefeltro/Simonetta; Montefeltro EN wiki wikitext no spectacle terms. Simonetta is letter conduit only.
+Q957293,Mircea II of Wallachia,1422,1446,wallachia;mircea,False,
+Q3120020,Guillaume Le Doyen,1460,1540,guillaume,True," of clerics attached to cardinals would generally run from 40 to 70, but some cardinals had more: guillaume d'estouteville (91), rodrigo borgia (later alexander"
+Q54053,Władysław III of Poland,1424,1444,poland,False,
+Q1664528,Chökhor Lotsawa Jampal Yeshe,1404,1477,lotsawa;chökhor,False,
+Q719440,Jean V de Bueil,1406,1478,,False,
+Q1399161,Fazio of Uberti,1305,1400,uberti,False,"Pass CX: CLEAR false friend — Ilardi OCR ""maestro ubertini"" ≠ Fazio degli Uberti (Q1399161)."
+Q1242157,Marcus Musurus,1470,1517,musurus;marcus,False,
+Q2266954,Francesco Accolti,1416,1488,accolti,False,
+Q983352,Il Pordenone,1484,1539,pordenone,False,
+Q17301786,Cosme Damià Hortolà,1493,1568,hortolà,False,
+Q3766135,Giovan Marco Cinico,1430,1503,cinico;giovan,False,"Pass CX: CLEAR false friend — OCR cooccur on Orvieto bishop Giovanni inventory, not Cinico wearer evidence."
+Q11727701,Johann Ferber,1430,1501,ferber,False,
+Q59628954,Angelo Bartolomeo Cospi,1430,1516,bartolomeo,True,"orza dukes. in 1456 he requested an unspecified number of spectacles from his friends in florence, bartolomeo scala and andrea alamanni. in his letter to the la"
+Q1418815,Konrad von Hainburg,1300,1360,hainburg,False,
+Q18530143,John Blacman,1408,1485,blacman,False,
+Q356513,Jacques Lefèvre d'Étaples,1450,1536,étaples;jacques,False,
+Q18280725,Sebastian Murrho,1450,1494,murrho,False,
+Q131394,Murad II,1404,1451,,False,
+Q930159,Taddeo Taddei,1470,1529,taddei,True,"g spectacles in two monasteries, but excluding two unnamed in the catasto of 1457 [1458] listed by taddei (not found in the source he cited), and another unname"
+Q55228138,Gherardo del Ciriagio,1412,1472,ciriagio,False,P2R5: Ilardi OCR no personal wear; IA name+occhiali n=0 for Alberti/Montefeltro/Simonetta; Montefeltro EN wiki wikitext no spectacle terms. Simonetta is letter conduit only.
+Q63677269,Cord Fribusch,1400,1476,fribusch,False,
+Q1775944,Muhammad al-Jazuli,1404,1465,muhammad;jazuli,False,
+Q70053,Konrad Mutian,1470,1526,mutian,False,
+Q16239897,Henry Lovelich,1425,1450,lovelich,False,
+Q12613908,Im Won-jun,1423,1500,,False,
+Q3565998,Matteo Tafuri,1492,1582,tafuri,False,
+Q113399956,Vācaspatimiśra,1420,1490,caspatimi,False,
+Q497108,Lim Sa-hong,1449,1506,,False,
+Q18987241,Paṇchen Bumdrak Sumpa,1432,1504,bumdrak,False,
+Q182046,Leon Battista Alberti,1404,1472,,False,P2R5: Ilardi OCR no personal wear; IA name+occhiali n=0 for Alberti/Montefeltro/Simonetta; Montefeltro EN wiki wikitext no spectacle terms. Simonetta is letter conduit only.
+Q651013,Roberto Valturio,1405,1475,,False,P2R5: Ilardi OCR no personal wear; IA name+occhiali n=0 for Alberti/Montefeltro/Simonetta; Montefeltro EN wiki wikitext no spectacle terms. Simonetta is letter conduit only.
+Q506640,Sigismondo Pandolfo Malatesta,1417,1468,,False,P2R5: Ilardi OCR no personal wear; IA name+occhiali n=0 for Alberti/Montefeltro/Simonetta; Montefeltro EN wiki wikitext no spectacle terms. Simonetta is letter conduit only.
+Q1125744,William VIII Montferrat,1420,1483,,False,P2R5: Ilardi OCR no personal wear; IA name+occhiali n=0 for Alberti/Montefeltro/Simonetta; Montefeltro EN wiki wikitext no spectacle terms. Simonetta is letter conduit only.
+Q435501,Federico da Montefeltro,1422,1482,,False,P2R5: Ilardi OCR no personal wear; IA name+occhiali n=0 for Alberti/Montefeltro/Simonetta; Montefeltro EN wiki wikitext no spectacle terms. Simonetta is letter conduit only.
+Q455252,Catherine of Bologna,1413,1463,,False,P2R5: Ilardi OCR no personal wear; IA name+occhiali n=0 for Alberti/Montefeltro/Simonetta; Montefeltro EN wiki wikitext no spectacle terms. Simonetta is letter conduit only.
+Q659093,Benedetto Dei,1418,1492,,False,P2R5: Ilardi OCR no personal wear; IA name+occhiali n=0 for Alberti/Montefeltro/Simonetta; Montefeltro EN wiki wikitext no spectacle terms. Simonetta is letter conduit only.
+Q3619484,Antonio D'Alessandro,1420,1498,,False,P2R5: Ilardi OCR no personal wear; IA name+occhiali n=0 for Alberti/Montefeltro/Simonetta; Montefeltro EN wiki wikitext no spectacle terms. Simonetta is letter conduit only.
+Q1217669,Cicco Simonetta,1410,1480,,False,P2R5: Ilardi OCR no personal wear; IA name+occhiali n=0 for Alberti/Montefeltro/Simonetta; Montefeltro EN wiki wikitext no spectacle terms. Simonetta is letter conduit only.
+Q809500,Bartolomeo Facio,1400,1457,,False,P2R5: Ilardi OCR no personal wear; IA name+occhiali n=0 for Alberti/Montefeltro/Simonetta; Montefeltro EN wiki wikitext no spectacle terms. Simonetta is letter conduit only.
+Q9353,John Locke,1632,1704,locke,True,EE Churchill→Locke ~1701 green spectacles leather frames; DEMOTED use_in_primary
+Q103514,Robert Boyle,1627,1691,boyle,False,ophthalmology tract on patients/cataract spectacles; not personal wear documented in audit
+Q180353,Robert Hooke,1635,1703,hooke,False,no personal-wear hit in EMLO spectacles / local OCR audit
+Q310780,John Ray,1627,1705,ray,False,EMLO surname false-friend (Mapletoft letter); no personal wear
+Q213355,John Dryden,1631,1700,dryden,False,clear
+Q1386883,Thomas Sprat,1635,1713,sprat,False,clear
+Q332513,William Temple,1628,1699,temple,False,clear
+Q194570,John Bunyan,1628,1688,bunyan,False,clear
+Q380262,Thomas Sydenham,1624,1689,sydenham,False,clear
+Q332481,George Savile Halifax,1633,1695,halifax;savile,False,clear
+Q170373,Christopher Wren,1632,1723,wren,False,clear
+Q1277543,Edward Stillingfleet,1635,1699,stillingfleet,False,EMLO name mention only (Smith–Hearne); no personal wear
+Q1235788,John Tillotson,1630,1694,tillotson,False,clear
+Q1384321,Henry Compton,1632,1713,compton,False,clear
+Q2287594,Simon Patrick,1626,1707,patrick,False,clear
+Q1347618,William Sancroft,1617,1693,sancroft,False,clear
+Q8014632,William Lloyd,1627,1717,lloyd,False,clear
+Q333922,John Pearson,1613,1686,pearson,False,clear
+Q21545248,Giovanni Marcanova,1410,1467,marcanova,False,Pass CR 2026-08-06: CLEAR — Ilardi OCR no personal wear; not on wearer roster.
+Q159636,Joseph Priestley,1733,1804,priestley,True,Pass CR 2026-08-06: POSITIVE — Royal Society MOB/035 tortoiseshell spectacles worn by Priestley (engraved; gift 1957). DEMOTED.
+Q561567,Georges Chastellain,1405,1475,chastellain;chastelain,False,Pass CR 2026-08-06: CLEAR. Ilardi OCR no personal-wear co-occurrence; not on wearer roster
+Q299663,Piero di Cosimo de' Medici,1416,1469,piero di cosimo;piero de' medici,False,"Pass CR 2026-08-06: CLEAR — Ilardi cooc was false friend (Arduino da Baiso / generic Medici eye anatomy), not Piero di Cosimo de' Medici personal wear."
+Q4942038,Bonino Mombrizio,1424,1478,mombrizio;mombritius,False,Pass CR 2026-08-06: CLEAR. Ilardi OCR no personal-wear co-occurrence; not on wearer roster
+Q236236,Oliver Goldsmith,1728,1774,goldsmith,False,"Pass CR 2026-08-06: CLEAR — Ilardi ""goldsmith"" = craft/cristalleri guild, not Oliver Goldsmith the writer."
+Q165792,Edmund Burke,1729,1797,edmund burke;burke,True,Pass CR 2026-08-06: POSITIVE — contemporary portraits wearing spectacles (Brown miniature / Ridley 1796; NLI/Morgan). DEMOTED.
+Q9381,Adam Smith,1723,1790,adam smith,False,Pass CR 2026-08-06: CLEAR — no personal-wear hit; EMLO smith hits are other Smiths; portraits without spectacles.
+Q679093,Laurent de Premierfait,1370,1418,premierfait;premier fait,False,Pass CR 2026-08-06: CLEAR. Ilardi OCR no personal-wear co-occurrence; not on wearer roster
+Q1257744,Ortensio Lando,1512,1560,ortensio lando;hortensius landus;ortensio landi,False,Pass CR 2026-08-06: CLEAR. Ilardi OCR no personal-wear co-occurrence; not on wearer roster
+Q6555592,Lionel Cranfield,1575,1645,cranfield;earl of middlesex,False,Pass CR 2026-08-06: CLEAR. Ilardi OCR no personal-wear co-occurrence; not on wearer roster
+Q60854,Johannes Valentinus Andreae,1586,1654,andreae;valentin andreae;johann valentin,False,Pass CR 2026-08-06: CLEAR. Ilardi OCR no personal-wear co-occurrence; not on wearer roster
+Q761023,August Buchner,1591,1661,buchner;august buchner,False,Pass CR 2026-08-06: CLEAR. Ilardi OCR no personal-wear co-occurrence; not on wearer roster
+Q333098,Robert Cotton,1571,1631,robert cotton;cotton library;sir robert cotton,False,Pass CR 2026-08-06: CLEAR. Ilardi OCR no personal-wear co-occurrence; not on wearer roster
+Q18810672,Edward Haistwell,1658,1709,haistwell,False,Pass CR 2026-08-06: CLEAR. Ilardi OCR no personal-wear co-occurrence; not on wearer roster
+Q41784687,Samuel Heathcote,1656,1708,heathcote,False,Pass CR 2026-08-06: CLEAR. Ilardi OCR no personal-wear co-occurrence; not on wearer roster
+Q18917181,Osgood Hanbury,1731,1784,hanbury;osgood hanbury,False,Pass CR 2026-08-06: CLEAR. Ilardi OCR no personal-wear co-occurrence; not on wearer roster
+Q3531264,Tommaso Inghirami,1470,1516,inghirami;fedra,False,Pass CR 2026-08-06: CLEAR. Ilardi OCR no personal-wear co-occurrence; not on wearer roster
+Q1413816,Filippo Beroaldo the Younger,1472,1518,beroaldo,False,Pass CR 2026-08-06: CLEAR. Ilardi OCR no personal-wear co-occurrence; not on wearer roster
+Q570021,Honoré Bonet,1350,1410,honoré bonet;honore bonet;bouvet,False,Pass CR 2026-08-06: CLEAR. Ilardi OCR no personal-wear co-occurrence; not on wearer roster
+Q457915,Eustache Deschamps,1340,1406,deschamps;eustache,False,Pass CR 2026-08-06: CLEAR. Ilardi OCR no personal-wear co-occurrence; not on wearer roster
+Q161841,Edward Gibbon,1737,1794,gibbon,False,Pass CS 2026-08-06: CLEAR — Ilardi/EMLO/roster negative; no documentary personal wear.
+Q335060,James Boswell,1740,1795,boswell,False,Pass CS 2026-08-06: CLEAR — Ilardi/EMLO negative; Reynolds portraits without spectacles.
+Q183266,Samuel Johnson,1709,1784,johnson,False,"Pass CS 2026-08-06: CLEAR — contemporaries report he did NOT use eyeglasses (wiki Health of SJ); BOA museum attributed pair is posthumous fit-to-death-mask, not lifetime documentary wear → do not demote."
+Q37160,David Hume,1711,1776,hume,False,Pass CS 2026-08-06: CLEAR — Ilardi/EMLO negative; Ramsay 1766 portrait without spectacles.
+Q34190,Henry Fielding,1707,1754,fielding,False,Pass CS 2026-08-06: CLEAR — Ilardi/EMLO/roster negative.
+Q313498,Benjamin West,1738,1820,west,False,Pass CS 2026-08-06: CLEAR — Ilardi/EMLO/roster negative.
+Q123098,Angelica Kauffmann,1741,1807,kauffmann,False,Pass CS 2026-08-06: CLEAR — Ilardi/EMLO/roster negative.
+Q316016,John Singleton Copley,1738,1815,copley,False,Pass CS 2026-08-06: CLEAR — Ilardi/EMLO/roster negative.
+Q371280,George Romney,1734,1802,romney,False,Pass CS 2026-08-06: CLEAR — Ilardi/EMLO/roster negative.
+Q1232397,John Fothergill,1712,1780,fothergill,False,"Pass CS 2026-08-06: CLEAR — EMLO surname hit is Marmaduke Fothergill, not John Fothergill MD."
+Q1291915,Richard Pococke,1704,1765,pococke,False,"Pass CS 2026-08-06: CLEAR — EMLO surname hit is John Pococke / other, not Richard Pococke travel writer."
+Q208452,Thomas Bayes,1702,1761,bayes,False,Pass CS 2026-08-06: CLEAR — Ilardi/EMLO/roster negative.
+Q330036,William Heberden,1710,1801,heberden,False,Pass CS 2026-08-06: CLEAR — Ilardi/EMLO/roster negative.
+Q379902,David Hartley,1705,1757,hartley,False,Pass CS 2026-08-06: CLEAR — Ilardi/EMLO/roster negative.
+Q556043,Thomas Birch,1705,1766,birch,False,Pass CS 2026-08-06: CLEAR — Ilardi/EMLO/roster negative.
+Q713821,John Armstrong,1709,1779,armstrong,False,Pass CS 2026-08-06: CLEAR — Ilardi/EMLO/roster negative.
+Q903246,William Lewis,1708,1781,lewis,False,Pass CS 2026-08-06: CLEAR — Ilardi/EMLO/roster negative.
+Q154751,Nicholas of Cusa,1401,1464,cusa;nicholas of cusa;cusanus,True,Pass CX 2026-08-06: POSITIVE — Mantese 1962 MFCG 2 n.122 death inventory capseta cum ocularis. DEMOTED from controls (was densify peer for pius_ii/sforza).
+Q214115,Lorenzo Valla,1407,1457,valla;lorenzo,False,Pass CX 2026-08-06: CLEAR — no OA wear evidence; posthumous portraits (de Bry 1597 etc.) show no spectacles.
+Q275044,Isotta Nogarola,1418,1466,nogarola;isotta,False,Pass CX 2026-08-06: CLEAR — no OA wear/portrait spectacle evidence in Treccani/King-Robin dossier.

@@ -1,0 +1,1 @@
+{"responseHeader":{"status":0,"QTime":16,"params":{"query":"identifier:(b2486092x OR lunettesetlorgnettesdejadis OR heymann)","qin":"identifier:(b2486092x OR lunettesetlorgnettesdejadis OR heymann)","fields":"identifier,title","wt":"json","rows":10,"start":0}},"response":{"numFound":1,"start":0,"docs":[{"identifier":"b2486092x","title":"Lunettes et lorgnettes de jadis"}]}}

@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<srw:searchRetrieveResponse xmlns:ns6="http://gallica.bnf.fr/namespaces/gallica/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <srw:version>1.2</srw:version>
+    <srw:echoedSearchRetrieveRequest>
+        <srw:query>(gallica all "occhiali" and gallica all "1316")</srw:query>
+        <srw:version>1.2</srw:version>
+    </srw:echoedSearchRetrieveRequest>
+    <srw:numberOfRecords>137</srw:numberOfRecords>
+    <srw:extraResponseData>&lt;numberOfRecordsDecollapser&gt;175&lt;/numberOfRecordsDecollapser&gt;</srw:extraResponseData>
+    <srw:records>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Favaro, Antonio (1847-1922). Éditeur scientifique</dc:contributor>
+                    <dc:contributor>Del Lungo, Isidoro (1841-1927). Éditeur scientifique</dc:contributor>
+                    <dc:contributor>Govi, Gilberto (1826-1889). Éditeur scientifique</dc:contributor>
+                    <dc:contributor>Schiaparelli, Giovanni Virginio (1835-1910). Éditeur scientifique</dc:contributor>
+                    <dc:creator>Galilei, Galileo (1564-1642). Auteur du texte</dc:creator>
+                    <dc:date>1890-1909</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : BibPoly</dc:description>
+                    <dc:format>20 tomes en 21 vol. ; in-4</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k94911x</dc:identifier>
+                    <dc:identifier>NUMM-94911</dc:identifier>
+                    <dc:language>ita</dc:language>
+                    <dc:publisher>G. Barbera (Firenze)</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb304760526</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb304760526</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Université Paris Sud, B2-14 (12)</dc:source>
+                    <dc:title>Le opere di Galileo Galilei : edizione nazionale sotto gli auspicii di sua maesta il re d'Italia. Vol. 12 / [pubblicata da Antonio Favaro, Isidoro del Lungo, V. Cerruti, G. Govi, G. V. Schiaparelli, Umberto Marchesini]</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>0</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k94911x.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k94911x</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k94911x.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k94911x.medres</medres>
+                <nqamoyen>85.65</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k94911x.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k94911x</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1868-1944</dc:date>
+                    <dc:description>Périodicité : Quotidien</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG00</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BIPFPIG13</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb32836813n/date</dc:identifier>
+                    <dc:identifier>NUMP-16409</dc:identifier>
+                    <dc:identifier>ISSN 12560472</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>[s.n.] (Marseille)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb32836813n</dc:relation>
+                    <dc:relation>A pour reproduction : Le Petit Marseillais (1868. Reproduction numérique) = ISSN 2546-7085 (http://gallicaintramuros.bnf.fr/ark:/12148/cb32836813n)</dc:relation>
+                    <dc:relation>A pour reproduction : Le Petit Marseillais (1868. Reproduction numérique) = ISSN 2546-7085 (https://archives.var.fr/arkotheque/consult_fonds/index.php?ref_fonds=12)</dc:relation>
+                    <dc:relation>A pour reproduction : Le Petit Marseillais (1868. Reproduction numérique) = ISSN 2546-7085 (https://recherches.archives-lyon.fr/ark:/18811/s3zv9jnbw1kh/6fd3ddc1-879d-47fd-98ed-a9058d23650a) (4 janv. 1873 ; 3 août 1881)</dc:relation>
+                    <dc:relation>A pour reproduction : Le Petit Marseillais (1868. Reproduction numérique) = ISSN 2546-7085 (https://www.retronews.fr/ark:/12148/cb32836813n/notice)</dc:relation>
+                    <dc:relation>Première de couverture : 243213</dc:relation>
+                    <dc:source>Bibliothèque nationale de France, département Droit, économie, politique, JOB-19</dc:source>
+                    <dc:title>Le Petit Marseillais (1868)</dc:title>
+                    <dc:title>Le Petit Marseillais : journal quotidien ["puis" journal politique quotidien "puis" le plus important des journaux de province]</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>1</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k48971229.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb32836813n/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k48971229.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k48971229.medres</medres>
+                <nqamoyen>98.51</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k48971229.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k48971229</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Académie de Vaucluse. Auteur du texte</dc:creator>
+                    <dc:date>1882-1949</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : PACA1</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>Nombre total de vues : 14407</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb344275870/date</dc:identifier>
+                    <dc:identifier>ISSN 11497130</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Séguin (Avignon)</dc:publisher>
+                    <dc:publisher>Macabet frèresMacabet frères (Vaison)</dc:publisher>
+                    <dc:publisher>Impr. RullièreImpr. Rullière (Avignon)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb344275870</dc:relation>
+                    <dc:relation>A pour reproduction : Mémoires de l'Académie de Vaucluse (1882. Reproduction numérique) = ISSN 2420-1812 (https://gallica.bnf.fr/ark:/12148/cb344275870/date)</dc:relation>
+                    <dc:source>Bibliothèque nationale de France, département Collections numérisées, 2008-277986</dc:source>
+                    <dc:title>Mémoires de l'Académie de Vaucluse (1882)</dc:title>
+                    <dc:title>Mémoires de l'Académie de Vaucluse</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>2</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k5529893z.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb344275870/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k5529893z.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k5529893z.medres</medres>
+                <nqamoyen>99.98</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k5529893z.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k5529893z</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1948</dc:date>
+                    <dc:description>[Vente. Livres. 1948-06-25 - 1948-06-26. Genève]</dc:description>
+                    <dc:description>[Collection. Livres. Landau, Horace de. 1948]</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>57 p. : pl. ; In-4 °</dc:format>
+                    <dc:format>Nombre total de vues : 128</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bd6t54194571j</dc:identifier>
+                    <dc:identifier>NUMS-104194571</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Hoepli et Kundig (Milan)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb38789569v</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Manuscrits, CV-955</dc:source>
+                    <dc:title>Choix de livres anciens et modernes, manuscrits et imprimés... Bibliothèque de feu M. le Baron Horace de Landau de Florence (1902) : [vente], Genève, salle Kundig, 25 juin et 26 juin 1948</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>3</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bd6t54194571j.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bd6t54194571j</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bd6t54194571j.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bd6t54194571j.medres</medres>
+                <nqamoyen>86.58</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t54194571j.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bd6t54194571j</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1927</dc:date>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb32856818s/date</dc:identifier>
+                    <dc:identifier>NUMP-21493</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>[s.n.?] (Le Caire)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb32856818s</dc:relation>
+                    <dc:source>Bibliothèque nationale de France, département Droit, économie, politique, 4-JO-2946</dc:source>
+                    <dc:title>Revue d'Egypte économique et financière. Organe hebdomadaire d'information sur la vie économique de l'Egypte et de l'étranger</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>4</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k9586416b.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb32856818s/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k9586416b.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k9586416b.medres</medres>
+                <nqamoyen>89.48</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k9586416b.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k9586416b</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Galleria degli Uffizi (Florence, Italie). Éditeur scientifique</dc:contributor>
+                    <dc:date>1886</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : BibINHA</dc:description>
+                    <dc:description>Contient une table des matières</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>238 p. ; In-16</dc:format>
+                    <dc:format>Nombre total de vues : 257</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k63243171</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>impr. Coopérative (Florence)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb426223862</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque de l'INHA / coll. J. Doucet, 2012-60287</dc:source>
+                    <dc:title>Catalogue de la galerie royale des Uffizi à Florence</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>5</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k63243171.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k63243171</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k63243171.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k63243171.medres</medres>
+                <nqamoyen>99.96</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k63243171.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k63243171</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1882</dc:date>
+                    <dc:description>Contient une table des matières</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>2 part. en 1 vol., 248 p. ; in-16</dc:format>
+                    <dc:format>Nombre total de vues : 268</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k62930804</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:language>français</dc:language>
+                    <dc:publisher>impr. coopérative (Florence)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb426156763</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque de l'INHA / coll. J. Doucet, 2012-53299</dc:source>
+                    <dc:title>Catalogue de la R. Galerie de Florence...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>6</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k62930804.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k62930804</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k62930804.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k62930804.medres</medres>
+                <nqamoyen>99.96</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k62930804.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k62930804</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Guer, Jean-Antoine (1713-1764). Auteur du texte</dc:creator>
+                    <dc:date>1746-1747</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>2 vol. ([4]-XXIV-453-[19] p., [10] f. de pl. ; [2]-VIII-537-[2] p., 18 f. de pl.(dont dépl.) : ill. ; in-4</dc:format>
+                    <dc:format>Nombre total de vues : 538</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b86042578</dc:identifier>
+                    <dc:identifier>IFN-8604257</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>A Paris, chez Coustelier, libraire, quai des Augustins, au coin de la ruë Gist-le-Coeur. M. DCC. XLVI. Avec approbation &amp; privilege du roi</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb305505119</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb305505119</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Réserve des livres rares, J-3387</dc:source>
+                    <dc:title>Moeurs et usages des Turcs, leur religion, leur gouvernement civil, militaire et politique. Tome 1 / , avec un abrégé de l'histoire ottomane, par M. Guer,... Tome premier [-second]</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>7</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b86042578.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b86042578</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b86042578.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b86042578.medres</medres>
+                <nqamoyen>100.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b86042578.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>btv1b86042578</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1900-1936</dc:date>
+                    <dc:description>Variante(s) de titre : Il Risveglio italiano : periodico settimanale : organo delle colonie italiane in Francia</dc:description>
+                    <dc:description>Etat de collection : Jusqu'à : août 1901 (n° 65), 1907-1908, 1910-1932, 1934, inc.</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb32862077b/date</dc:identifier>
+                    <dc:identifier>ISSN 2650636X</dc:identifier>
+                    <dc:language>ita</dc:language>
+                    <dc:publisher> (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb32862077b</dc:relation>
+                    <dc:source>Bibliothèque nationale de France, département Droit, économie, politique, JO-15043</dc:source>
+                    <dc:title>Il Risveglio italiano (Paris)</dc:title>
+                    <dc:title>Il Risveglio italiano : periodico settimanale : politico, artistico, letterario, commerciale</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>8</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k2356266s.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb32862077b/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k2356266s.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k2356266s.medres</medres>
+                <nqamoyen>86.73</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k2356266s.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k2356266s</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Deville, Étienne (1873-1944). Auteur du texte</dc:creator>
+                    <dc:date>1910</dc:date>
+                    <dc:description>Collection : Publications pour faciliter les études d'art en France</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:description>Index</dc:description>
+                    <dc:format>1 vol. (XL-268 p.) ; in-4</dc:format>
+                    <dc:format>Nombre total de vues : 334</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k4227428f</dc:identifier>
+                    <dc:identifier>NUMM-4227428</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>J. Schemit (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb32026671p</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Estampes et photographie, RESERVE 4-YH-621</dc:source>
+                    <dc:subject>Le Mercure de France (périodique ; France ; 1672-1832)</dc:subject>
+                    <dc:title>Index du "Mercure de France", 1672-1832 : donnant l'indication, par ordre alphabétique, de toutes les notices, mentions, annonces, planches, etc., concernant les beaux-arts et l'archéologie / par Étienne Deville</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>9</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k4227428f.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k4227428f</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k4227428f.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k4227428f.medres</medres>
+                <nqamoyen>87.74</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k4227428f.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k4227428f</uri>
+            </srw:extraRecordData>
+        </srw:record>
+    </srw:records>
+    <srw:nextRecordPosition>11</srw:nextRecordPosition>
+</srw:searchRetrieveResponse>

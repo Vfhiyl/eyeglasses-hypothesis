@@ -1,0 +1,2 @@
+panel,n_pairs,median_delta,boot95_lo,boot95_hi,n_ge_5,n_ge_15,share_pos,n_overlap_strict_primary,note
+expanded_coverage_n40,41,-3.0,-6.0,3.0,13,3,0.439,24,COVERAGE panel not SESOI freeze; ctrls include admin/visual nearwork

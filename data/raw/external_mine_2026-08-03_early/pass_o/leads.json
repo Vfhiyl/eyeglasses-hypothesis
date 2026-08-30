@@ -1,0 +1,36 @@
+{
+  "pass": "O",
+  "date": "2026-08-03",
+  "ingest": false,
+  "seams": [
+    {
+      "id": "rhodes_1982",
+      "result": "OpenAlex/S2 CLOSED; Unpaywall 422; IA 0 — 1416/1423 wills still unresolved"
+    },
+    {
+      "id": "morton_nrs016",
+      "result": "Only Walmysford spectaculis debt — permanent appendix-close; no new named monk"
+    },
+    {
+      "id": "horn_1885",
+      "result": "Antoninus ocularia praestabat (HOLD duplicate); Francis of Paola hagiographic ocularia — not Cleux-bar onset"
+    },
+    {
+      "id": "francesca_romana",
+      "result": "Still ya≈0 canonization testimony; Lugano OA 0"
+    },
+    {
+      "id": "greeff_german",
+      "result": "IA identifier miss / 503; no named living German pin this pass"
+    },
+    {
+      "id": "gallica_lunettes",
+      "result": "Modern optical tracts + Pansier duplicate; no new living pair"
+    },
+    {
+      "id": "ilardi_cederni_datini",
+      "result": "Already rostered/onsetish — not new"
+    }
+  ],
+  "early_stock": "unchanged"
+}

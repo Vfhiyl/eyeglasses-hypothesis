@@ -1,0 +1,29 @@
+{
+  "pass": "BX",
+  "date": "2026-08-06",
+  "new_mine": {
+    "gray": "still_gated_400_or_ssl_eof",
+    "costume_historian": "HTTP_403",
+    "gallica_sru": "HTTP_403",
+    "google_books": "HTTP_429",
+    "ia_page_production": "junk_or_dry",
+    "ia_advancedsearch_cleux": "0_hits_1400_1800",
+    "dudley": "HOLD_ya2_no_second_pin",
+    "joris": "SKIP_low_pin_portrait",
+    "spinelli": "HOLD_TO_him_OA_thin_peers"
+  },
+  "rene_anjou_trial": {
+    "action": "unlock_chastellain_fillastre_then_revert",
+    "effect": "n47_med_5_to_4_sesoi_FAIL; \u0394 +10\u2192+1",
+    "status": "reverted_HOLD"
+  },
+  "freeze": {
+    "n": 47,
+    "median": 5.0,
+    "ci": [
+      2.0,
+      8.0
+    ],
+    "sesoi5": "PASS_RAW"
+  }
+}

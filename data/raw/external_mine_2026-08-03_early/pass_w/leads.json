@@ -1,0 +1,50 @@
+{
+  "pass": "W",
+  "date": "2026-08-03",
+  "decision": "no_ingest",
+  "direction": "Spanish Isabel anteojos OA; Rohr/Ferragud densify; Croatian Vitko Zuimoviae 1450 termini hunt",
+  "early_stock_unchanged": {
+    "onsetish_n": 34,
+    "labor_delta_n": 28,
+    "labor_delta_median": -0.5
+  },
+  "seams": {
+    "isabel_patrimonio_ruiz_2004": {
+      "decision": "DRY/SKIP — anteojos mentioned only as generic inventory class; no named living + hard b–d"
+    },
+    "usal_anteojos": {
+      "decision": "UNREACHABLE — proxy 502"
+    },
+    "ferragud_valencia_oa": {
+      "decision": "DRY — oficios/barbers/alimentación OA PDFs; no ulleres/Belluga"
+    },
+    "rohr_1925": {
+      "decision": "CLOSED — IA 0 / OA miss for Additions to Old Spectacles"
+    },
+    "stapeldon_1326": {
+      "decision": "EXCLUDE — probate inventory already known"
+    },
+    "vitko_zuimoviae_1450": {
+      "pin": "Living theft claim: silver spectacle case + pair (Dubrovnik archives via Dorn 1994; Ilardi ch.4)",
+      "termini": "WD empty; Dorn OA closed; no birth/death recovered",
+      "decision": "HOLD — named living ownership like Neri Mici; not Cleux-bar labor without hard b–d"
+    },
+    "dubrovnik_1482_herbalist": {
+      "decision": "EXCLUDE — death auction / reseller stock (38 pairs)"
+    }
+  },
+  "new_cleux_bar_promote": null,
+  "dorn_pdf_user": {
+    "path": "/Users/admin/Desktop/proj/other/scribd_download/pdf3_v2.pdf",
+    "confirmed": "History of Ophthalmology 6 = Dorn Croatia chapter",
+    "vitko": {
+      "name": "Vitko Zuimović",
+      "date": "1450-07-01",
+      "pin": "living theft claim: silver case + pair (5 perpers 7 groschen)",
+      "archive": "HAD Lamenta de intus vol.12 fol.194",
+      "decision": "HOLD — still no birth/death in Dorn"
+    },
+    "sloradis_1388": "already known probate EXCLUDE",
+    "bozidarevic_1482": "widow Stanula auction — death/reseller EXCLUDE"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "pass": "X",
+  "date": "2026-08-03",
+  "decision": "no_ingest",
+  "direction": "Vitko termini densify via Han/notai/Ragusa OA; Provost death local; French hotel dry",
+  "early_stock_unchanged": {
+    "onsetish_n": 34,
+    "labor_delta_n": 28,
+    "labor_delta_median": -0.5
+  },
+  "seams": {
+    "vitko_termini": {
+      "decision": "HOLD — Dorn cote confirmed; Han 1971 OA-miss; WD empty; ≠ Vitko Šipan 1423"
+    },
+    "han_1971": {
+      "decision": "CLOSED this pass — IA/OA unreachable"
+    },
+    "notai_dubrovnik_oa": {
+      "decision": "SKIP — Vitko from Šipan 1423 is chancery priest, not Zuimović"
+    },
+    "provost_death": {
+      "decision": "HOLD — Morice only 1433 gift row"
+    },
+    "candidate_added": "vitko_zuimovic in b1_named_wearers_candidates_new.csv (ownership HOLD only)"
+  },
+  "new_cleux_bar_promote": null
+}

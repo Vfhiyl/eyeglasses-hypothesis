@@ -1,0 +1,682 @@
+{
+  "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785940155729",
+  "version": "1x7o",
+  "session_context": {
+    "session_key": "user__alanobrienterry918272@gmail.com",
+    "created": "2026-08-05T14:29:21Z",
+    "client_characterization": {
+      "characterized_by": "asserted_or_authenticated",
+      "preferred_client_ip": null,
+      "client_ip": "23.229.125.197:sra",
+      "preferred_client_useragent": null,
+      "client_useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36:sua",
+      "preferred_client_id": null,
+      "client_id": "alanobrienterry918272@gmail.com:sco"
+    },
+    "username": "alanobrienterry918272@gmail.com",
+    "authentication_method": "cookie",
+    "is_system": false,
+    "is_guest": false,
+    "is_user": true,
+    "is_archive_user": false,
+    "is_qualified": false,
+    "is_archivist": false,
+    "has_universal_privs": false,
+    "has_collection_priv": false,
+    "has_allowed_host_priv": false,
+    "has_vpn_host_priv": false,
+    "has_scan_center_priv": false,
+    "has_any_priv": false,
+    "has_any_priv_permissive": false,
+    "pps": {
+      "is_page_target_owner": false,
+      "contributed_review_on_page": false,
+      "full_text_search_override": false,
+      "sees_sensitive_fields": false
+    },
+    "pps_relevant_user_preferences": {
+      "display__blur_moderated_content": "on"
+    }
+  },
+  "request": {
+    "client_request_parameters": {
+      "client": "page_production_service_endpoint",
+      "user_query": "\"lost my spectacles\" OR \"lost spectacles\" OR \"tip for spectacles\"",
+      "hits_per_page": 25,
+      "page": 1,
+      "aggregations": [],
+      "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785940155729",
+      "client_url": "https://archive.org/search?query=%22lost+my+spectacles%22+OR+%22lost+spectacles%22+OR+%22tip+for+spectacles%22"
+    },
+    "backend_requests": {
+      "search": {
+        "root": "(self)",
+        "children": [
+          "collection_title_fetch__2b90daf9ccf373bec666962132aa70e1"
+        ],
+        "request_type": "search",
+        "finalized_parameters": {
+          "client": "page_production_service_endpoint",
+          "user_query": "(redacted)",
+          "hits_per_page": 25,
+          "page": 1,
+          "aggregations": [],
+          "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785940155729",
+          "client_url": "https://archive.org/search?query=%22lost+my+spectacles%22+OR+%22lost+spectacles%22+OR+%22tip+for+spectacles%22",
+          "page_type": "search_results",
+          "fields": [
+            "_tile_"
+          ],
+          "sort": [
+            "_relevance_:desc",
+            "identifier"
+          ],
+          "aggregations_size": 10,
+          "service_backend": "metadata",
+          "scope": "standard",
+          "feature_flags": {
+            "complex_facets": true,
+            "collection_titles": true,
+            "redact_collections": true,
+            "redact_collections_by_privs": false,
+            "redact_empty_collections": true,
+            "redact_admin_collections": true,
+            "protect_flagging_collections": true
+          },
+          "service": "service__metadata__load_balanced"
+        }
+      },
+      "collection_title_fetch__2b90daf9ccf373bec666962132aa70e1": {
+        "root": "search",
+        "parent": "search",
+        "request_type": "collection_title_fetch",
+        "finalized_parameters": {
+          "page_type": "document_fetch",
+          "user_query": "(redacted)",
+          "aggregations": [],
+          "caching": null,
+          "fields": [
+            "identifier",
+            "title"
+          ],
+          "search_as_system": true,
+          "page": 1,
+          "hits_per_page": 250,
+          "sort": [
+            "_efficient_"
+          ],
+          "service_backend": "metadata",
+          "scope": "ill,printdisabled_and_music,scancenter",
+          "service": "service__metadata__load_balanced"
+        }
+      }
+    }
+  },
+  "caching": {
+    "search": {
+      "name": "PPS-1x7o-J:US-RT:s~hit-T:sr-Q:b203c709-H:25-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+      "acceptable_names": [
+        "PPS-1x7o-J:US-RT:s~std-T:sr-Q:b203c709-H:25-B:mds-RS:sta~CS::P:0+CS:some+BR:1"
+      ],
+      "configuration": {
+        "requested": [],
+        "finalized": {
+          "bypass": false,
+          "recompute": false,
+          "no_compute": false,
+          "ttl_s": 300,
+          "max_age_s": 0,
+          "miss_policy": "none"
+        }
+      },
+      "utilization": {
+        "went_to_cache": true,
+        "alternates_allowed": true,
+        "hit_alternate": false,
+        "hit_canonical": false,
+        "hit": false,
+        "miss": true,
+        "recomputed": true,
+        "stored": true,
+        "acceptable_names_tried": [
+          "PPS-1x7o-J:US-RT:s~std-T:sr-Q:b203c709-H:25-B:mds-RS:sta~CS::P:0+CS:some+BR:1"
+        ],
+        "elapsed_s": 0.8760120868682861
+      },
+      "statsd_bucket": "search.pps.cache.metadata.search_results"
+    },
+    "collection_title_fetch__2b90daf9ccf373bec666962132aa70e1": {
+      "name": "PPS-1x7o-J:US-RT:ctf-T:df-Q:215130e6-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1",
+      "acceptable_names": [],
+      "configuration": {
+        "requested": [],
+        "finalized": {
+          "bypass": false,
+          "recompute": false,
+          "no_compute": false,
+          "ttl_s": 300,
+          "max_age_s": 0,
+          "miss_policy": "none"
+        }
+      },
+      "utilization": {
+        "went_to_cache": true,
+        "alternates_allowed": true,
+        "hit_alternate": false,
+        "hit_canonical": false,
+        "hit": false,
+        "miss": true,
+        "recomputed": true,
+        "stored": true,
+        "elapsed_s": 0.09984087944030762
+      },
+      "statsd_bucket": "search.pps.cache.metadata.search_results"
+    },
+    "summary": {
+      "fetched": [],
+      "computed": [
+        "PPS-1x7o-J:US-RT:s~hit-T:sr-Q:b203c709-H:25-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:US-RT:ctf-T:df-Q:215130e6-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "stored": [
+        "PPS-1x7o-J:US-RT:s~hit-T:sr-Q:b203c709-H:25-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:US-RT:ctf-T:df-Q:215130e6-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "missed": [
+        "PPS-1x7o-J:US-RT:s~hit-T:sr-Q:b203c709-H:25-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:US-RT:ctf-T:df-Q:215130e6-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "bypassed": []
+    }
+  },
+  "elapsed_secs": 0.9966559410095215,
+  "response": {
+    "header": {
+      "succeeded": true,
+      "query_time": 643,
+      "forensics": {
+        "client_characterization": {
+          "client_ip": "23.229.125.197:sra",
+          "client_id": "alanobrienterry918272@gmail.com:sco",
+          "client_useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36:sua",
+          "preferred_client_ip": null,
+          "preferred_client_id": null,
+          "preferred_client_useragent": null,
+          "application_id": {
+            "session": [
+              "pageproduction"
+            ],
+            "request": []
+          },
+          "client_jurisdiction": "US",
+          "preferred_client_jurisdiction": null,
+          "actionable_jurisdiction": "US",
+          "characterized_by": "asserted_or_authenticated",
+          "ensured": true
+        },
+        "routing": {
+          "backend": "es-prod-metadatasearch-filtered",
+          "backend_server": "es-prod-client-o-01",
+          "routed_to_load_balanced": true,
+          "index_addressed": "prod-o-001"
+        },
+        "backend_request_elapsed_secs": {
+          "search": 0.8760120868682861,
+          "collection_title_fetch__2b90daf9ccf373bec666962132aa70e1": 0.09984087944030762
+        }
+      },
+      "elapsed_secs_for_backend_requests": 0.9758529663085938
+    },
+    "body": {
+      "hits": {
+        "total": 5,
+        "returned": 5,
+        "hits": [
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "lostspectaclesa00unkngoog",
+              "title": "The Lost Spectacles: And Other Stories",
+              "description": "Book digitized by Google from the library of the New York Public Library and uploaded to the Internet Archive by user tpb.",
+              "creator": [
+                "M. A. H."
+              ],
+              "collection": [],
+              "date": "1866-01-01T00:00:00Z",
+              "year": 1866,
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "item_size": 15598278,
+              "files_count": 13,
+              "downloads": 329,
+              "week": 0,
+              "month": 5,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": false,
+              "lending___available_to_waitlist": false,
+              "lending___status": "is_readable",
+              "addeddate": "2008-07-07T03:03:57Z",
+              "source": "http://books.google.com/books?id=xUwDAAAAYAAJ&oe=UTF-8",
+              "publicdate": "2008-07-07T03:03:57Z"
+            },
+            "highlight": null,
+            "_score": [
+              4198.625
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "NPCM19211126",
+              "title": "China Mail 1921-11-26",
+              "description": "CHINA'S FINANCIAL POSITION SOUND. CAPABLE OF SOLVING HER OWN TROUBLES. FRANCE'S DISARMAMENT FEARS. LORD CURZON'S SPEECH. NEW IRISH CRISIS. CRAIG'S CONFERENCE WITH PREMIER. BELFAST DEATH ROLL. JAPANS THRONE. PRINCE APPOINTED REGENT. EXTRA-TERRITORIAL RIGHTS IN CHINA. WASHINGTON COMMITTEE AGREES IN PRINCIPLEL TO ABOLITION. OLD AUSTRO-HUNGARIAN STATES. COTION SPINNING INDUSTRY. MILLS REGULATE THEIR OWN HOURS. MOPLAHS' DEATH MYSTERY. ASPHYXIATION QUERIED. BRITISH PHARMACOPOEIA. TRANSLATION INTO CHINESE. AMERICANS WANT TREATY. AMERICAN EXPORTS TO CHINA. $125,000,000 INCREAS SINCE 1914. HONGKONG THEATRE. CHILDREN'S CORNER. RESULTS OF THE GUESSING COMPETITION. ANSWERS TO CORRESPONDENTS. THE FLAME FAIRIES. WORLD TRADE. LORD INCHCAPE URGES REMOVAL OF ALL OBSTACLES. PRETTY WOMEN. ADVERSARIA. CAPTURED B.A.T. MAN. NOT A EUROPEAN. HONGKONG BANK. IMPORTANT BUILDING OPERATIONS AT SINGAPORE. PHONOGRAPH NEEDLES. MANY USERS FOR THOSE THAT ARE WORN OUT. OVERSEAS CLUB. SUCCESSFUL RALLY AT SIR PAUL...",
+              "subject": [
+                "德臣西報",
+                "德臣西报",
+                "China Mail"
+              ],
+              "collection": [
+                "china-mail",
+                "newspapers"
+              ],
+              "date": "1921-11-26T00:00:00Z",
+              "year": 1921,
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "item_size": 77337475,
+              "files_count": 16,
+              "downloads": 44,
+              "week": 0,
+              "month": 2,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2023-12-02T06:06:21Z",
+              "publicdate": "2023-12-02T06:06:21Z"
+            },
+            "highlight": null,
+            "_score": [
+              245.90225
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "CHR_1912111401",
+              "title": "Claresholm review (1912-11-14)",
+              "description": "Page 1: - A Spooks' Marrymaking - Give Them Credit - Gone Around the Corner - Noted Educationist Will Speak - O'Brien-Gaudin Nuptials - Board of Trade Convene - With a Good Reputation - A Western Favorite - Claresholm and District - The Forum - I. O. O. F. Know a Good Thing Page 2: - Frequently the Case - The Artful Porter - Local News - Always So Business-Like - Local News - Local News - Local News - Local News - Appropriate - Behind His Back - Counteracting the American Flag - The Fraser Valley - His Wife Saw to That - Explained - A Duke's Bargain - Flattering - Local News - Local News - Ast the Lecture - Pedagogue and Pupil Page 3: - Democrats Sweep U. S - American Immigration to Canada - Claims Cure for Tuberculosis - Berlin - On Long Voyage - Turks Losing Hope - Lord Roberts Explains - Local News - The Market Report - Home Rule Bill - Expert for Fisheries - Local News - Facts Demonstrating Growth - Local News - Stag Killed by Motorcar - Grain from Peace River - The Sunday School...",
+              "subject": [
+                "Claresholm review"
+              ],
+              "collection": [
+                "peel_newspapers",
+                "peel",
+                "university_of_alberta_libraries"
+              ],
+              "date": "1912-11-14T00:00:00Z",
+              "year": 1912,
+              "genre": [
+                "Newspaper"
+              ],
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "item_size": 63793822,
+              "files_count": 19,
+              "downloads": 67,
+              "week": 0,
+              "month": 1,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2022-09-10T07:44:22Z",
+              "publicdate": "2022-09-10T07:44:22Z"
+            },
+            "highlight": null,
+            "_score": [
+              168.03886
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "pubmed-PMC3555005",
+              "title": "Spectacle compliance amongst rural secondary school children in Pune district, India.",
+              "description": "This article is from Indian Journal of Ophthalmology , volume 61 . Abstract Background:: Refractive errors (RE) are the most common cause of avoidable visual impairment in children. But benefits of visual aids, which are means for correcting RE, depend on the compliance of visual aids by end users. Aim:: To study the compliance of spectacle wear among rural school children in Pune district as part of the sarva siksha abhiyan (education for all scheme) after 6 - 12 months of providing free spectacles. Settings and Design:: Cross-sectional follow-up study of rural secondary school children in western India. Materials and Methods:: The students were examined by a team of optometrists who collected the demographic details, observed if the child was wearing the spectacles, and performed an ocular examination. The students were asked to give reasons for non-wear in a closed-ended questionnaire. Statistical Analysis:: Chi-square test and multiple logistic regression used for data analysis....",
+              "creator": [
+                "Gogate, Parikshit",
+                "Mukhopadhyaya, Debapriya",
+                "Mahadik, Ashok",
+                "Naduvilath, Thomas J",
+                "Sane, Shrivallabh",
+                "Shinde, Amit",
+                "Holden, Brien"
+              ],
+              "collection": [
+                "pubmed",
+                "journals"
+              ],
+              "date": "2012-04-13T00:00:00Z",
+              "year": 2012,
+              "volume": "61",
+              "language": [
+                "eng"
+              ],
+              "mediatype": "texts",
+              "item_size": 1210278,
+              "files_count": 6,
+              "downloads": 27,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2014-10-27T06:33:30Z",
+              "source": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3555005",
+              "publicdate": "2014-10-27T06:33:30Z"
+            },
+            "highlight": null,
+            "_score": [
+              154.98727
+            ]
+          },
+          {
+            "index": "prod-o-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "CHR_1912031401",
+              "title": "Claresholm review (1912-03-14)",
+              "description": "Page 1: - Body of Murdered Man Found in Straw Stack near This Town - A Destructive Fire - Creamery Association Meet - Liberal-Conservative Campaign - Local News - Claresholm Poultry Association - Two Footlight Dramatic Society Page 2: - Acme Has Big Fire - An Artist's Death - Bald-Beaded Woman - Sires and Sons - Caught a Tartar - The Lost Spectacles - Wanted an Exchange - Morocco City - An Easy Medica Degree - Queen Ants - Not Just What He Said - Odd Signs - Seizing His Opportunity - Dodging the Dun - Born Lucky - Just to Cheer - Local News - Answered to Doctor Page 3: - Two Different Species - On the Trall - All Fairy Tales - Local News - No Wonder She - Weirdest Thing in Clubs - A Desirable Pew - Local News - Local News - Our Neighbors - Value of Ashes in the Garden - A Prize Puzzle - Relief for Suffering Everywhere - Propriety - Local News - Not Too Fast - Found in a Crocodile's Head - Decided Objections - Local News - Local News - Local News - Local News - Local News - That's...",
+              "subject": [
+                "Claresholm review"
+              ],
+              "collection": [
+                "peel_newspapers",
+                "peel",
+                "university_of_alberta_libraries"
+              ],
+              "date": "1912-03-14T00:00:00Z",
+              "year": 1912,
+              "genre": [
+                "Newspaper"
+              ],
+              "language": [
+                "English"
+              ],
+              "mediatype": "texts",
+              "item_size": 64940837,
+              "files_count": 19,
+              "downloads": 66,
+              "week": 0,
+              "month": 3,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2022-09-10T07:22:43Z",
+              "publicdate": "2022-09-10T07:22:43Z"
+            },
+            "highlight": null,
+            "_score": [
+              124.06557
+            ]
+          }
+        ]
+      },
+      "collection_titles": {
+        "peel": "Peel's Prairie Provinces",
+        "journals": "Journals",
+        "university_of_alberta_libraries": "University of Alberta Library",
+        "pubmed": "PubMed Central",
+        "china-mail": "The China Mail",
+        "newspapers": "Newspapers",
+        "peel_newspapers": "Peel's Prairie Provinces - Newspapers"
+      }
+    },
+    "hit_schema": {
+      "item": {
+        "identifier": {
+          "multivalue": false,
+          "mapping": "string"
+        },
+        "noindex": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "optional": true
+        },
+        "title": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "description": {
+          "multivalue": false,
+          "mapping": "string",
+          "dressing": {
+            "truncate": 1000
+          },
+          "optional": true
+        },
+        "subject": {
+          "multivalue": true,
+          "mapping": "string",
+          "dressing": {
+            "truncate": 1000
+          },
+          "optional": true
+        },
+        "creator": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "collection": {
+          "multivalue": true,
+          "mapping": "string",
+          "comment": "may be a superset of metadata collection field"
+        },
+        "date": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "year": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed from date",
+          "optional": true
+        },
+        "genre": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "volume": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "type": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "language": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "mediatype": {
+          "multivalue": false,
+          "mapping": "string"
+        },
+        "licenseurl": {
+          "multivalue": false,
+          "mapping": "string__url",
+          "optional": true
+        },
+        "num_favorites": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true,
+          "comment": "computed during document construction"
+        },
+        "num_reviews": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true,
+          "comment": "computed during document construction"
+        },
+        "item_size": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "bytes; computed during document construction"
+        },
+        "files_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction"
+        },
+        "item_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction",
+          "optional": true
+        },
+        "displayed_item_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction, may be inferred from item_count",
+          "optional": true
+        },
+        "collection_files_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction, for collection items only",
+          "optional": true
+        },
+        "collection_size": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "bytes; computed during document construction, for collection items only",
+          "optional": true
+        },
+        "downloads": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "total views over item lifetime, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "week": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "views over a seven-day period, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "month": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "views over a month, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "indexflag": {
+          "multivalue": true,
+          "mapping": "string",
+          "comment": "item characterization including noindex status"
+        },
+        "lending___available_to_borrow": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___available_to_browse": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___available_to_waitlist": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___status": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "avg_rating": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true
+        },
+        "addeddate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "issue": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "format varies",
+          "optional": true
+        },
+        "source": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "format varies",
+          "optional": true
+        },
+        "reviewdate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "publicdate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "date_favorited": {
+          "multivalue": false,
+          "mapping": "date",
+          "comment": "not metadata; only present in favorites lists, sourced from Lists API",
+          "optional": true
+        },
+        "reviews_data": {
+          "multivalue": true,
+          "dressing": {
+            "truncate": false
+          },
+          "mapping": "string",
+          "comment": "untruncated JSON encoded data used for Account reviews",
+          "optional": true
+        }
+      }
+    }
+  }
+}

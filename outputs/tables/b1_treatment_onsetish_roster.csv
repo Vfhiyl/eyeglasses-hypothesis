@@ -4,12 +4,23 @@ neri_mici,Ser Neri Mici da Bibbiena,notary,1300.0,,1329,theft_complaint_ownershi
 petrarch,Francesco Petrarca,humanist_scholar,1304.0,1374.0,1364,self_report_literary,high
 philippe_le_hardi,Philippe II le Hardi Duke of Burgundy,duke_ruler,1342,1404,1389,purchase_personal_use,high
 datini,Francesco di Marco Datini,merchant,1335.0,1410.0,1400,order_request_letter,high
+piero_frate_fiesole,Frate Piero (Santa Maria del Fiore / donne di Lapo near Fiesole),friar,,,1402,account_book_purchase,medium
 vangelista,Suora Vangelista,nun,,,1402,repair_purchase_convent,medium
+knut_bosson,"Knut Bosson (Natt och Dag), Bishop of Linköping",bishop_ruler_cleric,1360,1436,1415,third_party_letter_broken_spectacles_personal_use,high
 nicolas_de_baye,Nicolas de Baye (greffier du Parlement de Paris),parlement_greffier_clerk,1364,1419,1416,self_report_office_petition,high
+cleux_jean,Jean de Cleux (Cleuz) seigneur de Cleuz,ducal_maitre_hotel_courtier,,,1433,gift_receipt_luxury,medium
+cusac_thomas,Thomas Cusac (Cufâc) chevalier Angloys,english_knight_ducal_guard,,,1433,gift_receipt_luxury,medium
+marzeliere_pierre,Pierre de la Marzelière (seigneur du Fretay),ducal_chamberlain_courtier,1390,1462,1433,gift_receipt_luxury,medium
+provost_alain,Alain Provost,ducal_court_recipient,,,1433,gift_receipt_luxury,medium
+joris_van_der_paele,Joris (Canon) van der Paele,canon_cleric,1370,1443,1436,portrait_spectacles_only,medium
+francesca_romana,Francesca Romana (Francesca Bussa dei Ponziani),preacher_saint,1384,1440,1440,canonization_witness_wear,high
+rene_anjou,René of Anjou (René I),duke_ruler,1409,1480,1449,purchase_personal_use,high
+vitko_zuimovic,Vitko Zuimović (Zuimoviae),unknown_ragusan,,,1450,theft_complaint_ownership,medium
 ardingelli_bese,Bese di Giovanni Ardingelli,merchant,1408.0,1476.0,1451,account_book_ownership,high
 arduino_baiso,Arduino da Baiso,woodcarver_artisan,1385.0,1454.0,1451,order_request_letter,high
 cederni,Bartolomeo Cederni,bank_employee_clerk,1416.0,1482.0,1454,order_request_letter_personal_use,high
 charles_orleans,Charles I Duke of Orléans,duke_ruler,1394,1465,1454,purchase_personal_use,high
+savonarola_michele,Michele Savonarola,physician,1385,1468,1455,portrait_spectacles_only,medium
 filelfo,Francesco Filelfo,humanist_scholar,1398.0,1481.0,1456,order_request_letter,high
 nuno_fernandes,Nuno Fernandes,portuguese_client,,,1459,export_order_named_recipient,medium
 gonzaga_ludovico,Ludovico III Gonzaga,marquis_ruler,1412.0,1478.0,1460,self_report_letter,high
@@ -19,23 +30,85 @@ bianca_maria,Bianca Maria Visconti,duchess_ruler,1425.0,1468.0,1462,third_party_
 sforza_francesco,Francesco I Sforza,duke_ruler,1401.0,1466.0,1462,third_party_report_of_use,high
 tranchedini,Nicodemo Tranchedini,diplomat_ambassador_humanist,1411.0,1481.0,1462,inventory_and_self_report_letter,high
 walmysford_william,Frater Willelmus Walmysford (Peterborough),benedictine_monk,,,1463,debt_for_spectacles_purchase,medium
+appiani_madre,Mother of Iacopo III Appiani (Lord of Piombino),noblewoman,,,1464,order_recipient_named,medium
 strozzi_filippo,Filippo Strozzi the Elder,merchant_banker,1428.0,1491.0,1464,order_request_via_mother,high
 alessandra_strozzi,Alessandra Macinghi Strozzi,gentlewoman_letter_writer,1406.0,1471.0,1465,self_report_letter,high
+alfonso_iannis,Messere Alfonso Iannis,portuguese_client,,,1466,export_order_named_recipient,medium
 barbara_brandenburg,Barbara of Brandenburg,marchesa_ruler,1422.0,1481.0,1466,order_request_letter,medium
+gil_de_siloe,Gil de Siloé,woodcarver_artisan,,1500,1468,portrait_spectacles_only,medium
 ammannati,Iacopo Ammannati Piccolomini,cardinal_humanist,1422.0,1479.0,1473,order_receipt_letter,high
+hesselin_denis,Denis Hesselin (Hasselin) Prevot des Marchands de Paris,city_receveur_clerk,1425,1506,1474,purchase_personal_use,high
 azevedo_joao_porto,João de Azevedo Bishop of Porto,bishop_prelate,1430.0,1517.0,1476,order_recipient_named,high
+filippa_infante_portugal,Madonna Filippa of the Infante of Portugal,noblewoman,,,1476,order_recipient_named,medium
+rinaldo_de_lo_duca,Messer Rinaldo de lo Duca,courtier,,,1476,order_recipient_named,medium
 lorenzo_medici,Lorenzo de' Medici (il Magnifico),ruler_patron,1449.0,1492.0,1479,self_report_letter,high
+rikard_bozidarevic,"Rikard Božidarević (aromatarius, Dubrovnik)",herbalist_aromatarius,,1482,1482,death_inventory_trade_stock,medium
 sixtus_iv,Pope Sixtus IV (Francesco della Rovere),pope_ruler,1414.0,1484.0,1482,third_party_report_of_use,high
+hannus_gallo,Hannus Gallo (Cracow),merchant,,,1485,purchase_personal_use,medium
 egidio_piacenza,Fra Egidio da Piacenza,friar,1433,,1488,order_by_age_band,medium
+gabriel_friar_jerusalem,Fra Gabriel (Holy Sepulcher friar),friar,,,1488,order_by_age_band,medium
 jacopo_magnia_friar,Fra Iacopo della Magnia,friar,1423,,1488,order_by_age_band,medium
 rene_ii_lorraine,Rene II Duke of Lorraine,duke_ruler,1451,1508,1504,purchase_personal_use,high
 leo_x,Pope Leo X (Giovanni de Medici),pope_humanist_patron,1475.0,1521.0,1513,expense_accounts_and_reports,high
 pirckheimer,Willibald Pirckheimer,humanist_patrician,1470.0,1530.0,1520,physical_find_in_study,medium
+nigris_toma,"Toma Niger (Tommaso Niger), Bishop",bishop_prelate,1450,1531,1527,portrait_spectacles_only,medium
 wolsey,Thomas Wolsey,cardinal_statesman,1473.0,1530.0,1527,gift_receipt_luxury,high
 wyatt_henry,Henry Wyatt,treasurer_courtier,1460.0,1537.0,1527,gift_receipt_luxury,high
+guevara_felipe,Felipe de Guevara,humanist_scholar,1500,1563,1531,portrait_spectacles_only,medium
 spataro_giovanni,Giovanni Spataro,music_theorist_composer_choirmaster,1458,1541,1532,self_report_letter_return_unfit,high
 spinelli_benedetto,Benedetto di Guaspare Spinelli,merchant,1483,1547,1534,third_party_report_of_need,medium
 lotto,Lorenzo Lotto,painter,1480.0,1556.0,1540,account_book_wear,medium
+pedro_toledo,"Pedro Álvarez de Toledo y Zúñiga (Marqués de Villafranca), Viceroy of Naples",viceroy_ruler,1484,1553,1541,third_party_report_of_use,high
+albrecht_prussia,Albert Duke of Prussia (Albrecht von Brandenburg-Ansbach),duke_ruler,1490,1568,1542,order_request_letter_personal_use,high
 henry_viii,Henry VIII,king_ruler,1491.0,1547.0,1545,purchase_personal_use,high
+albertis_gaspare,Gaspare de Albertis,humanist_scholar,1480,1560,1547,portrait_spectacles_only,medium
+sansovino_jacopo,Jacopo Sansovino,woodcarver_artisan,1486,1570,1550,portrait_spectacles_only,medium
 maurolico_francesco,Francesco Maurolico,mathematician_abbot_humanist,1494.0,1575.0,1554,self_report_treatise,high
+andrea_da_pienza,Don Andrea da Pienza,friar,1490,,1555,theft_complaint_ownership,medium
 domenichi_ludovico,Lodovico (Ludovico) Domenichi,humanist_translator_editor_polygraph,1515,1564,1555,gift_receipt_for_study_writing,medium
+bening_simon,Simon Bening,painter_illuminator,1483,1561,1558,portrait_spectacles_only,medium
+augustus_saxony,"Augustus, Elector of Saxony",duke_ruler,1526,1586,1560,purchase_personal_use,medium
+jacques_moser,Jacques Moser (Mouser / Jaques Moses?),spectacle_maker_artisan,1522,,1562,inquisition_self_statement_maker,medium
+borghini_vincenzo,Vincenzo Borghini,humanist_scholar,1515,1580,1570,portrait_spectacles_only,medium
+dudley_robert_leicester,"Robert Dudley, Earl of Leicester",earl_ruler,1532,1588,1586,household_account_purchase_personal,high
+morales_ambrosio,Ambrosio de Morales,humanist_scholar,1513,1591,1590,portrait_spectacles_only,medium
+stonley_richard,Richard Stonley,exchequer_teller_diarist,1519,1600,1593,diary_purchase_self,high
+morigia_paolo,Paolo Morigia,humanist_scholar,1525,1604,1596,portrait_spectacles_only,medium
+nino_de_guevara,Fernando Niño de Guevara,cardinal_prelate,1541,1609,1600,portrait_spectacles_only,medium
+vinta_belisario,"Belisario Vinta (di Francesco), Medici secretary of state",secretary_statesman,1542,1613,1610,gift_receipt_personal_use,medium
+howard_william_naworth,Lord William Howard of Naworth,antiquary_noble,1563,1640,1617,household_account_purchase_personal,high
+august_brunswick_wolfenbuettel,"Augustus the Younger, Duke of Brunswick-Lüneburg (August der Jüngere)",duke_ruler,1579,1666,1630,order_request_letter_personal_use,high
+capivaccio_girolamo,Girolamo Capivaccio (Capodivacca),physician,1523,1589,1630,portrait_spectacles_only,medium
+quevedo_francisco,Francisco de Quevedo,humanist_scholar,1580,1645,1632,portrait_spectacles_only,medium
+jeffreys_joyce,Joyce Jeffreys,moneylender_spinster,1575,1650,1639,household_account_personal_spectacles,high
+bourchier_henry_bath,"Henry Bourchier, 5th Earl of Bath",earl_ruler,1587,1654,1647,household_account_purchase_personal,high
+voiture_vincent,Vincent Voiture,humanist_scholar,1597,1648,1647,self_report_letter_spectacles,high
+herle_mrs,Mrs Herle (Bath household / Devon accounts),gentlewoman_letter_writer,,,1651,household_account_purchase_personal,medium
+steen_jan,Jan Steen,painter,1626,1679,1660,portrait_spectacles_only,medium
+caetani_francesco,"Francesco Caetani, Duke of Sermoneta",duke_ruler,1594,1683,1661,portrait_spectacles_only,medium
+pepys_samuel,Samuel Pepys,naval_administrator_diarist,1633,1703,1666,diary_purchase_and_use_self,high
+lynnet_william,William Lynnet,cleric_trinity_fellow,1623,1700,1672,self_report_letter_purchase,high
+dolci_carlo,Carlo Dolci,painter,1616,1686,1674,portrait_spectacles_only,medium
+wood_anthony,Anthony Wood,humanist_scholar,1632,1695,1675,diary_receipt_and_self_draft_letter,high
+jeake_samuel,Samuel Jeake the Younger,merchant,1652,1699,1676,household_account_purchase_personal,high
+giordano_luca,Luca Giordano,painter,1634,1705,1688,portrait_spectacles_only,medium
+folkes_martin,Martin Folkes,humanist_scholar,1690,1754,1720,portrait_spectacles_only,medium
+blundell_nicholas,Nicholas Blundell,antiquary_noble,1669,1737,1722,self_report_diary_spectacles,high
+akin_frances,Frances Akin,widow,,,1756,parish_relief_purchase,medium
+jackson_ralph,Ralph Jackson,merchant,1736,1790,1760,household_account_purchase_personal,high
+tye_thomas,Thomas Tye,merchant,1713,1783,1761,household_account_purchase_personal,high
+richardson_richard_jr,Richard Richardson the younger (Bierley),humanist_scholar,1708,1781,1774,self_report_letter_spectacle_commission,high
+chardin_jean_simeon,Jean-Baptiste-Siméon Chardin,painter,1699,1779,1775,portrait_spectacles_only,medium
+adams_john,John Adams,humanist_scholar,1735,1826,1783,self_report_letter_spectacles,high
+washington_george,George Washington,humanist_scholar,1732,1799,1783,self_report_letter_spectacles,high
+franklin_benjamin,Benjamin Franklin,humanist_scholar,1706,1790,1784,self_report_letter_spectacles,high
+dexter_samuel,Samuel Dexter,humanist_scholar,1726,1810,1785,surviving_spectacles_living_use_soft,high
+cowper_william,William Cowper,humanist_scholar,1731,1800,1786,self_report_letter_spectacles,high
+unwin_mary,Mary Unwin,gentlewoman_letter_writer,1724,1796,1786,third_party_report_of_use,medium
+peale_charles_willson,Charles Willson Peale,painter,1741,1827,1788,diary_purchase_and_bifocal_self_make,high
+reynolds_joshua,Sir Joshua Reynolds,humanist_scholar,1723,1792,1788,portrait_spectacles_only,medium
+burke_edmund,Edmund Burke,statesman_writer,1729,1797,1796,portrait_wearing_spectacles,medium
+tinsley_mrs,Mrs Tinsley (Westminster),widow,,,1796,parish_relief_purchase,medium
+priestley_joseph,Joseph Priestley,philosopher_scientist,1733,1804,1800,surviving_personal_spectacles_artefact,high
+jefferson_thomas,Thomas Jefferson,humanist_scholar,1743,1826,1806,self_report_letter_spectacles_order,high
+lowe_john_warwick,John Lowe (Wiggenock Park / Warwickshire),merchant,,,1831,theft_complaint_ownership,medium

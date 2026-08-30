@@ -1,8 +1,8 @@
 subset,n,n_with_outcome,outcome,min,p25,median,mean,p75,max,n_ge_5,n_ge_15,share_ge_5,share_ge_15,note
-all_documentary_roster,60,39,years_after_evidence,0.0,2.0,6.0,8.53,15.0,25.0,22,10,0.564,0.256,
-onsetish_treatment,40,39,years_after_evidence,0.0,2.0,6.0,8.53,15.0,25.0,22,10,0.564,0.256,
-onsetish_with_any_years_after,39,39,years_after_evidence,0.0,2.0,6.0,8.53,15.0,25.0,22,10,0.564,0.256,
-onsetish_activity_proxy_only,39,39,years_after_evidence,0.0,2.0,6.0,8.53,15.0,25.0,22,10,0.564,0.256,
-onsetish_hard_appendix_only,20,20,years_after_evidence,5.0,9.0,13.0,13.9,17.0,25.0,20,9,1.0,0.45,
-onsetish_years_alive_after_45,40,33,years_alive_after_45,0.0,12.0,20.0,19.97,25.0,42.0,29,22,0.879,0.667,
-NOTE_hard_gate_bias_check,39,39,years_after_evidence,0.0,2.0,6.0,8.53,15.0,25.0,22,10,0.564,0.256,Compare onsetish_activity_proxy_only vs onsetish_hard_appendix_only: hard median is conditioned on length≥~5 and must not be the estimand.
+all_documentary_roster,203,77,years_after_evidence,0.0,3.0,10.0,12.3,20.0,39.0,51,30,0.662,0.39,
+onsetish_treatment,113,76,years_after_evidence,0.0,3.0,10.0,12.42,21.0,39.0,51,30,0.671,0.395,
+onsetish_with_any_years_after,76,76,years_after_evidence,0.0,3.0,10.0,12.42,21.0,39.0,51,30,0.671,0.395,
+onsetish_activity_proxy_only,76,76,years_after_evidence,0.0,3.0,10.0,12.42,21.0,39.0,51,30,0.671,0.395,
+onsetish_hard_appendix_only,49,49,years_after_evidence,1.0,8.0,15.0,15.59,24.0,39.0,42,25,0.857,0.51,
+onsetish_years_alive_after_45,113,87,years_alive_after_45,0.0,18.0,25.0,24.29,33.0,46.0,82,70,0.943,0.805,
+NOTE_hard_gate_bias_check,76,76,years_after_evidence,0.0,3.0,10.0,12.42,21.0,39.0,51,30,0.671,0.395,Compare onsetish_activity_proxy_only vs onsetish_hard_appendix_only: hard median is conditioned on length≥~5 and must not be the estimand.

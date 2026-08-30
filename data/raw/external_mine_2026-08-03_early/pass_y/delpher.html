@@ -1,0 +1,628 @@
+<!doctype html>
+<html lang="nl">
+	<head>
+     <!-- R   -->
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="google-site-verification" content="BNTuZ5bpZTP2Em5WCCt5N8sAfmovsfp5KMBQTHQhw0s" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+
+	<title>Resultaten | Delpher</title>
+    <meta name="description" content="">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+<link rel="sitemap" href="/sitemap.xml">
+
+        
+		    <link rel="stylesheet" href="/css/printobject.css?version=" type="text/css" media="print" />
+
+<link href="/css/responsive.css?version=" rel="stylesheet" media="screen"/>
+<link href="/css/icons.css?version=" type="text/css" rel="stylesheet" media="screen"/>
+
+
+
+		<script type="application/ld+json">
+	{
+		"@context":"//schema.org",
+		"@type":"WebSite",
+		"url":"//www.delpher.nl/",
+		"potentialAction": {
+			"@type":"SearchAction",
+			"target":"//www.delpher.nl/nl/platform/results?query={search_term_string}",
+			"query-input":"required name=search_term_string"
+		}
+	}
+</script>
+<script type='text/javascript'>
+	window.IS_TOUCH_DEVICE = false;
+	window.IS_TABLET = false;
+	window.IS_PHONE = false;
+	window.IS_DESKTOP = true;
+	window.DEVICE_TYPE = "desktop";
+	window.DELPHER_CONFIG_PROFILE = "none";
+	window.DELPHER_ENV = "prod";
+</script>
+
+<script src='https://cdnjs.cloudflare.com/ajax/libs/svg4everybody/2.1.9/svg4everybody.min.js'></script>
+
+<script src="https://cdn.jsdelivr.net/npm/focus-visible@5.2.0/dist/focus-visible.min.js"></script>
+
+
+
+	<script type='text/javascript' src='/js/build/delpher-vendor.min.js?version='></script>
+	<script type="text/javascript" src="/js/build/delpher.min.js?version="></script>
+
+	<script type="text/javascript">
+		console = {
+			log: function() { },
+			debug: function() { },
+			info: function() { },
+			warn: function() { },
+			error: function() { }
+		};
+	</script>
+
+	<!-- Matomo Tag Manager -->
+	<script>
+		var _mtm = window._mtm = window._mtm || [];
+		_mtm.push({'mtm.startTime': (new Date().getTime()), 'event': 'mtm.Start'});
+		(function() {
+				var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+				g.async=true;
+				g.src='https://webstatistieken.kb.nl/js/container_fNTo3zGy.js';
+				s.parentNode.insertBefore(g,s);
+			}
+		)();
+	</script>
+	<!-- End Matomo Tag Manager -->
+
+<script type="text/javascript">
+	bkt.mvc.callbacks.progressiveSnippetRendering = true;
+			$(document).ready(function () {
+			bkt.mvc.renderView(["paginate","resultsCount","breadcrumbs","sortlinks","results","facets","facettoggle"], {}, {checkForStored: true});
+		});
+		bkt.mvc.recordHistory = 1;
+</script>
+
+
+        <script>
+            $(document).ready(function(){
+                var inputfieldNode = document.getElementById("js-simple-search-inputfield");
+                var jXhr;
+                var timerId;
+                var direction;
+                var inProgress = false;
+                if(inputfieldNode){
+                    inputfieldNode.addEventListener('keydown', function(e) {
+                        if((e.key === 'r' && e.altKey) || (e.key === 'Home' && e.shiftKey)){
+                            //== reset
+                            if (inProgress){
+                                jXhr.abort();
+                                clearInterval(timerId);
+                            }
+                            inProgress = true;
+                            direction = 1;
+
+                            //== animate dots in the inputfield as a "spinner" alternative while fetching data
+                            inputfieldNode.value = ".";
+                            timerId = setInterval(function(){
+                                if(direction === 1){
+                                    inputfieldNode.value += ".";
+                                }else{
+                                    inputfieldNode.value = inputfieldNode.value.slice(0,-1);
+                                }
+                                if(inputfieldNode.value.length === 1 || inputfieldNode.value.length === 5 ){
+                                    direction = direction * -1;
+                                }
+                            }, 120);
+
+                            //== API call
+                            jXhr = $.ajax({
+                                url: "/nl/api/random-word",
+                                dataType: "html",
+                                cache: false
+                            })
+                            .done(function ($randomWord) {
+                                inputfieldNode.value = $randomWord;
+                            })
+                            .fail(function (e) {
+                                inputfieldNode.value = "";
+                                console.log("Oops, er ging iets mis met het ophalen van een random woord.", e);
+                            })
+                            .always(function () {
+                                clearInterval(timerId);
+                                inProgress = false;
+                            });
+                        }else{
+                            //== reset
+                            if (inProgress){
+                                jXhr.abort();
+                                clearInterval(timerId);
+                                inputfieldNode.value = "";
+                                inProgress = false;
+                            }
+                        }
+                    });
+                }
+            });
+        </script>
+	</head>
+
+	<body id="default-wrapper"
+		  class="default-wrapper device-type--desktop">
+				<!-- overlays -->
+<div class="overlay__backdrop"></div>
+<div class="overlay__backdrop-invisible"></div>
+
+<div role="alertdialog" id="infobox" class="infobox overlay-box overlay-box--info"
+	 aria-modal="true"
+	 aria-labelledby="dialog_label_infobox"
+	 aria-describedby="dialog_desc_infobox"
+	 >
+	<div class="overlay-box__wrapper">
+		<div class="overlay-box__header">
+			<h2 class="overlay-box__title title" id="dialog_label_infobox"></h2>
+			<button class="js-overlay-box-close-link overlay-box__close close-link" aria-label="Sluiten">
+				<svg class="overlay-box__svg" focusable="false">
+					<use xlink:href="/images/svg/out/symbol/svg/sprite.symbol.svg#close"></use>
+				</svg>
+			</button>
+		</div>
+		<p class="text overlay-box__text" id="dialog_desc_infobox"></p>
+	</div>
+</div>
+
+<div role="dialog" id="confirm" class="overlay-box overlay-box--confirm"
+	 aria-modal="true"
+	 aria-labelledby="dialog_label_confirm"
+	 >
+	<div class="overlay-box__wrapper">
+		<button class="js-overlay-box-close-link overlay-box__close close-link" aria-label="Sluiten">
+			<svg class="overlay-box__svg" focusable="false">
+				<use xlink:href="/images/svg/out/symbol/svg/sprite.symbol.svg#close"></use>
+			</svg>
+		</button>
+		<p class="message overlay-box__text" id="dialog_label_confirm"></p>
+		<div class="buttons overlay-box__buttons-wrapper">
+			<button id="confirmed" class="confirm button button--overlay"></button>
+			<button id="canceled" class="cancel button button--overlay"></button>
+		</div>
+	</div>
+</div>
+
+                <nav id="js-accessibility-skip-link-wrapper" class="js-accessibility-skip-link-wrapper accessibility-skip-link-wrapper" tabindex="0" aria-label="Skip links">
+            <ul>
+                            <li class="accessibility-skip-link-wrapper__list__item">
+                    <a href="" id="skip_link_results_01" class="js-accessibility-skip-link accessibility-skip-link" tabindex="-1">Ga naar resultaten</a>
+                </li>
+                            <li class="accessibility-skip-link-wrapper__list__item">
+                    <a href="" id="skip_link_results_02" class="js-accessibility-skip-link accessibility-skip-link" tabindex="-1">Ga naar filters</a>
+                </li>
+                        </ul>
+        </nav>
+                    <!-- inner -->
+
+<div
+	id="content"
+	class="
+		boeken		content
+		content--generic
+		content--results				default	"
+>
+	<header
+		class="
+			js-header-container
+			header-container
+			layout-top-block
+			header
+			header--results			header--generic
+			header--default								"
+	>
+		<div class="menu__backdrop"></div>
+		<div class="header__logo-wrapper">
+			<a href="/" class="header__logo-link header__logo-link--results" aria-label="Delpher logo, terug naar homepage">
+				<svg class="header__logo" focusable="false">
+					<use xlink:href="/images/svg/out/symbol/svg/sprite.symbol.svg#logo-delpher"></use>
+				</svg>
+			</a>
+		</div>
+		<div class="js-header-inner-wrapper--generic header-inner-wrapper header-inner-wrapper--generic">
+			<!-- tabs -->
+<div class="collection-selector-wrapper collection-selector-wrapper--generic">
+	<h2 class="collection-selector__heading">
+		<span class="label__collection-selector">Collectie</span>
+	</h2>
+	<div class="listbox-area collection-selector collection-selector--generic">
+		<button
+			aria-haspopup="listbox"
+			id="exp_button"
+			class="
+				button
+				button--listbox-toggle
+				listbox__button listbox__button--collection-selector
+				collection-selector__button
+				collection-selector__button--generic"
+			data-descendant-id="link_boeken"
+			aria-label="Selecteer materiaalsoort"
+		>
+			<span class="js-exp-button-innertext listbox__button-content">Boeken Basis</span>
+			<span class="js-button__svg-wrapper">
+			<svg aria-hidden="true" class="button__svg button__svg--listbox-toggle button__svg--listbox-toggle--collection-selector" focusable="false">
+				<use xlink:href="/images/svg/out/symbol/svg/sprite.symbol.svg#chevron-down-3px"></use>
+			</svg>
+			</span>
+		</button>
+		<div id="exp_elem_list"
+			tabindex="-1"
+			role="listbox"
+			class="js-listbox listbox__list collection-selector-inner-wrapper">
+																				<a id="link_platform" href="/nl/platform/results?query=bril+OR+brillen+testament&coll=platform" role="option" class="collection-selector__item listbox__item ">
+							Doorzoek alles						</a>
+															<a id="link_boeken" href="/nl/boeken/results?query=bril+OR+brillen+testament&coll=boeken" role="option" class="collection-selector__item listbox__item ">
+							Boeken Basis						</a>
+															<a id="link_boeken1" href="/nl/boeken1/results?query=bril+OR+brillen+testament&coll=boeken1" role="option" class="collection-selector__item listbox__item ">
+							Boeken Google						</a>
+															<a id="link_dts" href="/nl/tijdschriften/results?query=bril+OR+brillen+testament&coll=dts" role="option" class="collection-selector__item listbox__item ">
+							Tijdschriften						</a>
+															<a id="link_ddd" href="/nl/kranten/results?query=bril+OR+brillen+testament&coll=ddd" role="option" class="collection-selector__item listbox__item ">
+							Kranten						</a>
+															<a id="link_regio" href="/nl/regio/results?query=bril+OR+brillen+testament&coll=regio" role="option" class="collection-selector__item listbox__item ">
+							Externe kranten						</a>
+															<a id="link_anp" href="/nl/radiobulletins/results?query=bril+OR+brillen+testament&coll=anp" role="option" class="collection-selector__item listbox__item ">
+							Radiobulletins						</a>
+						</div>
+	</div>
+</div>
+
+							<div class="simple-search search__form-wrapper search__form-wrapper--generic">
+	<form action="/nl/boeken/results" class="search__form search__form--generic">
+		<!-- START Search field -->
+		<div
+			class="
+				search__input-text-search-wrapper
+				search__input-text-search-wrapper--generic			"
+		>
+						<input id="js-simple-search-inputfield" class="basic-query search__input-text-search" type="text" name="query"
+				autocomplete="off"
+				placeholder="Zoeken in boeken uit de 15e t/m de 21e eeuw"
+				data-placeholder-short="Zoeken"
+				data-placeholder-medium="Zoeken in boeken"
+				data-placeholder-long="Zoeken in boeken uit de 15e t/m de 21e eeuw"
+				aria-label="Zoeken in boeken uit de 15e t/m de 21e eeuw"
+									value="bril OR brillen testament"
+							/>
+			<div class="basic-query-spinner indicator-load">
+				<div class="indicator-load__element indicator-load__element--first"></div>
+				<div class="indicator-load__element"></div>
+				<div class="indicator-load__element indicator-load__element--last"></div>
+			</div>
+		</div>
+		<!-- END Search field -->
+
+		<!-- START Input button -->
+		<input type="hidden" name="coll" value="boeken" />
+
+		
+				<button type="submit" value="" title="Zoeken" id="js--submit" class="button search__button" aria-label="Zoeken">
+			<span class="search__button-text">
+				Zoeken			</span>
+			<svg aria-hidden="true" class="button__svg button__svg--search" focusable="false">
+				<use xlink:href="/images/svg/out/symbol/svg/sprite.symbol.svg#search"></use>
+			</svg>
+		</button>
+	<!-- END Input button -->
+	</form>
+	<!-- MVO header__form__sub-nav only shows up on the homepage -->
+	
+</div>
+<!-- MVO TO DO close must be available on "sub"home pages (landing pages for collections) -->
+			<!--MVO show this advanced search toggle on pages other then home ( for this purpose, on home a separate text link is displayed in a sub nav element)-->
+		<div class="search__button-toggle-wrapper">
+			<button id="js-open-advanced-search" class="button search__button-toggle toggle--header-inner-wrapper--advanced-search" type="button"
+					data-href="/nl/boeken/advancedsearch?query=bril+OR+brillen+testament"
+				>
+				<span class="">Uitgebreid zoeken</span>
+				<svg aria-hidden="true" class="button__svg button__svg--icon-align-right button__svg--search-button-toggle" focusable="false">
+					<use xlink:href="/images/svg/out/symbol/svg/sprite.symbol.svg#chevron-down"></use>
+				</svg>
+			</button>
+		</div>
+	
+
+			
+			<!-- START Advanced Search -->
+			<div class="bkt-mvc-advancedsearchAction search__advanced-search-wrapper"></div>
+			<!-- END Advanced Search -->
+		</div>
+					<button id="js-simple-search-toggle" class="button button--icon search-toggle" aria-expanded="false" aria-label="Open eenvoudig zoeken">
+				<svg aria-hidden="true" class="button__svg" focusable="false">
+					<use xlink:href="/images/svg/out/symbol/svg/sprite.symbol.svg#search"></use>
+				</svg>
+			</button>
+				<!-- MVO start header icons -->
+		<div class="menu-main__wrapper">
+	<button id="js-toggle--header__nav" class="button button--icon menu-toggle " aria-label="Hoofdmenu">
+		<svg class="button__svg menu-toggle__svg" focusable="false">
+			<use class="menu-toggle--open" xlink:href="/images/svg/out/symbol/svg/sprite.symbol.svg#menu"></use>
+		</svg>
+	</button>
+
+	<nav id="js-header__nav" class="menu-main ">
+
+		<ul class="menu-main__list">
+			<li class="menu-main__item js-focusable">
+				<a href="/"
+					class="menu-main__link menu-main__logo-link "
+					id="main-menu-home">
+					<svg class="menu-main__logo" aria-label="Delpher logo, terug naar homepage" focusable="false">
+						<use xlink:href="/images/svg/out/symbol/svg/sprite.symbol.svg#logo-delpher"></use>
+					</svg>
+				</a>
+			</li>
+			<li class="menu-main__item js-focusable">
+				<a href="/thema"
+				   title="Themapagina's"
+				   class="menu-main__link"
+				   tabindex="0"
+				   id="main-menu-themes"
+				>Thema's</a>
+			</li>
+			<li class="menu-main__item js-focusable">
+				<a class="favourites menu-main__link "
+					title="Favorieten"
+					href="/nl/boeken/favourites"
+					tabindex="0"
+					id="main-menu-favourites"
+				>
+					Favorieten				</a>
+			</li>
+			<li class="storables-context-menu menu-main__item menu-main__item--hidden js-focusable">
+				<a class="js-menu-main__link--visited menu-main__link  menu-main__link--disabled"
+					title="Bekeken objecten"
+					data-href="/nl/boeken/visited"
+					aria-expanded="false"
+					aria-controls="visited-alert"
+					aria-disabled="true"
+					tabindex="0"
+					id="main-menu-visited"
+				>
+					Bekeken objecten				</a>
+				<div id="visited-alert" class="menu-main__visited-alert">
+					<p class="menu-main__visited-alert__content">
+						Het is mogelijk om je bekeken objecten te bewaren. Ga naar instellingen om deze optie in te schakelen.
+					</p>
+				</div>
+			</li>
+			<li class="menu-main__item js-focusable">
+				<a title="Instellingen"
+					class="menu-main__link "
+					href="/nl/boeken/settings"
+					tabindex="0"
+					id="main-menu-settings"
+				>Instellingen</a>
+			</li>
+			<li class="menu-main__item js-focusable">
+				<a title="Zoekhulp"
+					class="menu-main__link "
+					href="/thema/zoekhulp"
+					tabindex="0"
+					id="main-menu-faq"
+				>Zoekhulp</a>
+			</li>
+			<li class="menu-main__item js-focusable">
+				<a href="/over-delpher/wat-is-delpher"
+					title="Over Delpher"
+					class="menu-main__link "
+					tabindex="0"
+					id="main-menu-about"
+				>Over Delpher</a>
+			</li>
+			<li class="menu-main__item menu-main__item--hidden js-focusable">
+				<a href="/over-delpher/gebruiksvoorwaarden"
+					title="Gebruiksvoorwaarden"
+					class="menu-main__link "
+					tabindex="0"
+					id="main-menu-terms"
+				>Gebruiksvoorwaarden</a>
+			</li>
+			<li class="menu-main__item menu-main__item--hidden js-focusable">
+				<a href="/over-delpher/privacyverklaring"
+					title="Privacyverklaring"
+					class="menu-main__link "
+					tabindex="0"
+					id="main-menu-privacy"
+				>Privacyverklaring</a>
+			</li>
+            <li class="menu-main__item menu-main__item--hidden js-focusable">
+                <a href="https://m2.mailplus.nl/wp7a9XCHY7pL-1072-50681"
+                   title="Privacyverklaring"
+                   class="menu-main__link"
+                   tabindex="0"
+                   id="main-menu-privacy"
+                >Nieuwsbrief</a>
+            </li>
+			<li class="menu-main__item menu-main__item--hidden js-focusable">
+				<a href="/over-delpher/contact"
+					title="Contact"
+					class="menu-main__link "
+					tabindex="0"
+					id="main-menu-contact"
+				>Contact</a>
+			</li>
+		</ul>
+	</nav>
+</div>
+		<!-- MVO end header icons -->
+	</header>
+	<!-- end search bar -->
+
+	<div class="search-results">
+	<section id="facets-section" class="sidebar">
+		<div class="sidebar__link-wrapper">
+			<a href="/nl/boeken" class="link link--icon-text link--icon-text--small sidebar__link" title="boeken startpagina">
+				<svg aria-hidden="true" class="link__svg link__svg--small" focusable="false">
+					<use xlink:href="/images/svg/out/symbol/svg/sprite.symbol.svg#chevron-left"></use>
+				</svg>
+				<span class="link__text">Terug naar boeken basis				</span>
+			</a>
+		</div>
+		
+		
+		<nav id="facets-wrapper" aria-label="filters">
+			<ul class="bkt-mvc-facetsAction">
+							</ul>
+		</nav>
+
+				
+				
+	</section>
+
+	<section class="main-wrapper main-wrapper--search-results">
+		<header class="search-results__header">
+			<h1 class="search-results__heading" role="alert">
+				<span class="bkt-mvc-resultsCountAction search-results__heading-content">
+									</span>
+			</h1>
+			<div class="bkt-mvc-breadcrumbsAction search-results__breadcrumbs-removable">
+							</div>
+
+							<div class="sortlinks search-results__pagination-panel">
+					<div class="sortwrap search-results__sort-wrap">
+						<p class="search-results__pagination-label">Sorteer op</p>
+						<span class="bkt-mvc-sortlinksAction search-results__listbox-wrapper">
+													</span>
+													<button type="button" class="info-link search-results__info-link button button--icon" onclick="bkt.showRelevanceSortInfo(this)" aria-haspopup="dialog" aria-expanded="false" aria-label="Toon informatie over relevantiesortering">
+								<svg aria-hidden="true" class="button__svg" focusable="false">
+									<use xlink:href="/images/svg/out/symbol/svg/sprite.symbol.svg#info-circle"></use>
+								</svg>
+							</button>
+											</div>
+
+					<div class="bkt-mvc-paginateonlyAction search-results__pagination-wrapper"></div>
+
+					<div class="presentation-level search-results__view-mode">
+						<p class="search-results__pagination-label">Weergave</p>
+
+												<button type="button"
+							class="js-button-presentation-level minimal button button--icon search-results__view-mode-button "
+							title="Compacte weergave"
+							accesskey=""
+							aria-label="Compacte weergave"
+							onclick="bkt.mvc.setPresentationLevel('minimal');"
+						>
+							<svg aria-hidden="true" class="button__svg" focusable="false">
+								<use xlink:href="/images/svg/out/symbol/svg/sprite.symbol.svg#view-minimal"></use>
+							</svg>
+						</button>
+						<button type="button"
+							class="js-button-presentation-level normal button button--icon search-results__view-mode-button "
+							title="Uitgebreide weergave"
+							aria-label="Uitgebreide weergave"
+							onclick="bkt.mvc.setPresentationLevel('normal');"
+						>
+							<svg aria-hidden="true" class="button__svg" focusable="false">
+									<use xlink:href="/images/svg/out/symbol/svg/sprite.symbol.svg#view-normal"></use>
+								</svg>
+						</button>
+					</div>
+				</div>
+					</header>
+		<div class="results progress progress--search-results" role="alert" aria-busy="true">
+			Bezig met laden		</div>
+		<div class="js-search-results-wrapper bkt-mvc-resultsAction search-results-wrapper">
+					</div>
+				<div class="bkt-mvc-paginateAction search-results__pagination-panel search-results__pagination-panel--bottom"></div>
+	</section>
+	<div role="dialog" id="filter-lightbox" class="filter-lightbox" aria-modal="true" aria-labelledby="dialog_label_filter">
+		<div class="overlay-box__header">
+			<h2 class="overlay-box__title title" id="dialog_label_filter">Filteren</h2>
+			<button class="js-overlay-box-close-link overlay-box__close close-link" aria-label="Sluiten">
+				<svg class="overlay-box__svg" focusable="false">
+					<use xlink:href="/images/svg/out/symbol/svg/sprite.symbol.svg#close"></use>
+				</svg>
+			</button>
+		</div>
+		<div class="bkt-mvc-filterAction overlay-box__filter__wrapper">
+		</div>
+		<div class="pending" style="height: 200px; padding-top: 50px; text-align: center; line-height: 1.5em">
+			<div class="filter progress progress--filter">
+				Bezig met ophalen lijst			</div>
+		</div>
+	</div>
+</div>
+
+
+
+</div>
+
+<footer class="footer generic-footer">
+	<div class="footer-wrapper">
+	<div class="footer__logo-wrapper">
+		<a href="/" class="footer__logo__link" aria-label="Delpher logo, terug naar homepage" id="footer-link-logo-link">
+			<svg class="footer__logo" focusable="false">
+				<use xlink:href="/images/svg/out/symbol/svg/sprite.symbol.svg#logo-delpher"></use>
+			</svg>
+		</a>
+	</div>
+	<div class="footer__block">
+		<ul class="footer__list">
+			<li class="footer__item"><a href="/over-delpher/wat-is-delpher" class="footer__link" id="footer-link-over-delpher">Over Delpher</a></li>
+			<li class="footer__item"><a href="/thema" class="footer__link" id="footer-link-themas">Thema's</a></li>
+			<li class="footer__item"><a href="/nl/platform/favourites" class="footer__link" id="footer-link-favorieten">Favorieten</a></li>
+			<li class="footer__item">
+				<a data-href="/nl/platform/visited"
+				   class="footer__link footer__visited footer__visited--disabled"
+				   aria-expanded="false"
+				   aria-haspopup="dialog"
+				   aria-disabled="true"
+				   tabindex="0"
+				   id="footer-link-bekeken-objecten"
+				>Bekeken objecten</a>
+			</li>
+			<li class="footer__item"><a href="/nl/platform/settings" class="footer__link" id="footer-link-instellingen">Instellingen</a></li>
+		</ul>
+	</div>
+	<div class="footer__block">
+		<ul class="footer__list">
+			<li class="footer__item"><a href="/thema/zoekhulp" class="footer__link" id="footer-link-handleiding">Zoekhulp</a></li>
+			<li class="footer__item"><a href="/over-delpher/gebruiksvoorwaarden" class="footer__link" id="footer-link-gebruiksvoorwaarden">Gebruiksvoorwaarden</a></li>
+			<li class="footer__item"><a href="/over-delpher/privacyverklaring" class="footer__link" id="footer-link-privacyverklaring">Privacyverklaring</a></li>
+			<li class="footer__item"><a href="/over-delpher/toegankelijkheid" class="footer__link" id="footer-link-toegankelijkheidsverklaring">Toegankelijkheidsverklaring</a></li>
+			<li class="footer__item"><a href="/over-delpher/disclaimer" class="footer__link" id="footer-link-disclaimer">Disclaimer</a></li>
+		</ul>
+	</div>
+	<div class="footer__block footer__block--right">
+		<ul class="footer__list">
+            <li class="footer__item"><a href="https://m2.mailplus.nl/wp7a9XCHY7pL-1072-50681" class="footer__link" id="footer-link-contact">Nieuwsbrief</a></li>
+			<li class="footer__item"><a href="/over-delpher/contact" class="footer__link" id="footer-link-contact">Contact</a></li>
+			<li class="footer__item">
+				<a
+						href="https://www.facebook.com/groups/Delpher"
+						class="footer__link footer__link--social"
+						aria-label="Facebook logo, ga naar het facebookforum van Delpher"
+						id="footer-link-facebook"
+				>
+					<svg class="footer__social__logo footer__facebook__logo" focusable="false">
+						<use xlink:href="/images/svg/out/symbol/svg/sprite.symbol.svg#social-facebook"></use>
+					</svg>
+				</a>
+			</li>
+		</ul>
+	</div>
+	<div class="footer__developer">
+		<span class="footer__developer__text">Ontwikkeld door de</span>
+		<a
+				href="https://www.kb.nl"
+				class="footer__link footer__link--kb"
+				aria-label="KB Nationale Bibliotheek logo, ga naar de site www.kb.nl"
+				id="footer-link-kb"
+		>
+			<svg class="footer__developer__logo" focusable="false">
+				<use class="footer__developer__logo--small" xlink:href="/images/svg/out/symbol/svg/sprite.symbol.svg#logo-kb-small"></use>
+			</svg>
+		</a>
+	</div>
+</div></footer>
+	</body>
+</html>

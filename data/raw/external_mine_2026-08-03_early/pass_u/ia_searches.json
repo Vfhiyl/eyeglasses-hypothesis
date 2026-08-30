@@ -1,0 +1,114 @@
+{
+  "queries": [
+    "anteojos (cuentas OR casa OR inventario OR testamento) (castilla OR aragon OR sevilla OR toledo)",
+    "anteojos \"siglo XV\" OR \"siglo XIV\"",
+    "occhiali (ricordanze OR catasto OR cambini OR medici) Firenze",
+    "\"pro spectaculis\" OR \"pro ocularibus\" OR \"pro bericulis\"",
+    "Muntz \"Les arts a la cour\" OR \"arts a la cour des papes\"",
+    "comptes (Provence OR Anjou OR Berry OR Dauphine) (lunettes OR bericles OR besicles)",
+    "Albertotti \"Manfredo\" OR \"occulis de vitro\"",
+    "Guidi Collectoriae inquisitoribus",
+    "\"Fra Manfredo\" (Parma OR Bologna OR inquisitor)",
+    "Brillen (Stadtrechnung OR Klosterrechnung OR Rechnungsbuch) (14 OR 15)"
+  ],
+  "sample": [
+    {
+      "identifier": "clnicaegregiaap00comegoog",
+      "title": "Cli\u0301nica egregia; apuntes histo\u0301ricos",
+      "year": 1895
+    },
+    {
+      "identifier": "clnicaegregiaap00ferrgoog",
+      "title": "Cli\u0301nica egregia; apuntes histo\u0301ricos",
+      "year": 1895
+    },
+    {
+      "identifier": "multilingual_short_works_020_poetry_prose_1810_librivox",
+      "title": "Multilingual Short Works Collection 020 - Poetry & Prose",
+      "year": 2018
+    },
+    {
+      "identifier": "KFSF_20120124_020000_Sera_Anunciado",
+      "title": "Sera Anunciado : KFSF : January 23, 2012 6:00pm-7:00pm PST",
+      "year": 2012
+    },
+    {
+      "identifier": "a-lvarez-m.-pedagogi-a-del-cuidado.-la-construccio-n-de-la-cultura-del-cuidado-en-la-escuela-actual",
+      "title": "A\u0301 LVAREZ, M. PEDAGOGI\u0301 A DEL CUIDADO. LA CONSTRUCCIO\u0301 N DE LA CULTURA DEL CUIDADO EN LA ESCUELA ACTUAL",
+      "year": 2025
+    },
+    {
+      "identifier": "WMDO_20120123_230000_Sera_Anunciado",
+      "title": "Sera Anunciado : WMDO : January 23, 2012 6:00pm-7:00pm EST",
+      "year": 2012
+    },
+    {
+      "identifier": "LaVozDeLaConsejaT.2SelecrtinFelipeTrigoEmilioCarrere",
+      "title": "La voz de la conseja, Tomo segundo - Selecci\u00f3n de Emilio Carrere",
+      "year": 1918
+    },
+    {
+      "identifier": "clnicaegregiaap00comegoog",
+      "title": "Cli\u0301nica egregia; apuntes histo\u0301ricos",
+      "year": 1895
+    },
+    {
+      "identifier": "SherlockHolmesWithBasilRathbone",
+      "title": "Sherlock Holmes with Basil Rathbone"
+    },
+    {
+      "identifier": "KSTS_20150720_013000_Up",
+      "title": "Up : KSTS : July 19, 2015 6:30pm-8:31pm PDT",
+      "year": 2015
+    },
+    {
+      "identifier": "KSTS_20120930_030000_Up",
+      "title": "Up : KSTS : September 29, 2012 8:00pm-10:00pm PDT",
+      "year": 2012
+    },
+    {
+      "identifier": "bart-and-lisa-simpson-of-the-simpsons",
+      "title": "Bart And Lisa Simpson Of The Simpsons"
+    },
+    {
+      "identifier": "KSTS_20130324_040000_Up",
+      "title": "Up : KSTS : March 23, 2013 9:00pm-11:00pm PDT",
+      "year": 2013
+    },
+    {
+      "identifier": "KSTS_20141201_050000_Up",
+      "title": "Up : KSTS : November 30, 2014 9:00pm-11:01pm PST",
+      "year": 2014
+    },
+    {
+      "identifier": "loperaoftalmoja00grapgoog",
+      "title": "L'opera oftalmojatrica di Benvenuto nei codici, negli incunabuli e nelle edizioni moderne",
+      "year": 1897
+    },
+    {
+      "identifier": "illibrodelleaff00sinzgoog",
+      "title": "Il Libro delle affezioni oculari di Jacopo Palmerio da Cingoli ed altri ...",
+      "year": 1904
+    },
+    {
+      "identifier": "b2164049x_0",
+      "title": "Beitr\u00e4ge zur Augenheilkunde [electronic resource] : Festschrift Julius Hirschberg von Sch\u00fclern und Freunden aus anlass seiner F\u00fcnfundzwanzigj\u00e4hrigen Wirksamkeit als Professor an Der Universit\u00e4t Berlin",
+      "year": 1905
+    },
+    {
+      "identifier": "b2163841x",
+      "title": "Note riguardanti l'effetto di optotypi costanti o variabili sopra fondo variabile o costante / Giuseppe Albertotti.",
+      "year": 1895
+    },
+    {
+      "identifier": "b21643726",
+      "title": "Osservazioni di plastica oculare [electronic resource] : raccolte nella clinica del professore C. Reymond",
+      "year": 1874
+    },
+    {
+      "identifier": "b21646363",
+      "title": "Contribuzione allo studio del distacco retinico per cisticero [electronic resource]",
+      "year": 1889
+    }
+  ]
+}

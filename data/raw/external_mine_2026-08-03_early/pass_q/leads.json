@@ -1,0 +1,53 @@
+{
+  "pass": "Q",
+  "date": "2026-08-03",
+  "decision": "no_ingest",
+  "early_stock_unchanged": {
+    "onsetish_n": 34,
+    "labor_delta_n": 28,
+    "labor_delta_median": -0.5
+  },
+  "seams": {
+    "catalan_barcelo_um_raco": {
+      "result": "Dry / SPA; no new living ulleres buyer",
+      "decision": "dry"
+    },
+    "medcat_batch_10540_10590": {
+      "result": "Only known ulleres docs; Belluga living still HOLD (no birth); inventaris EXCLUDE",
+      "decision": "no_new"
+    },
+    "carrere_1967_barcelona": {
+      "ia_id": "barcelonecentree0000unse",
+      "result": "401/borrow-locked; OpenAlex/S2 CLOSED; makers Berenguer/Del Maig ≠ wearers",
+      "decision": "CLOSED"
+    },
+    "ilardi_gap_reaudit": {
+      "ammannati_filelfo_cederni": "already onsetish+panel — SKIP",
+      "vangelista_1402": "living repair real; no b–d — HOLD",
+      "ruspi_bonifazio": "gift recipient SKIP (Pass I)",
+      "joris_van_der_paele": "portrait-only closed"
+    },
+    "cleux_brace_death": {
+      "result": "Still no OA death for Cleux/Cusac/Provost",
+      "decision": "HOLD"
+    },
+    "pares_anteojos": {
+      "result": "20c military binoculars only",
+      "decision": "dry"
+    },
+    "rhodes_1982": {
+      "doi": "10.1017/s000358150000398x",
+      "result": "Still CLOSED; blocks naming of Ilardi 1416/1423 wills",
+      "decision": "CLOSED"
+    },
+    "john_carre_york_1487": {
+      "pin": "Testamenta Ebor. will 1487-11-06: payr of spectacles of sylver and gylted to abbot St Mary",
+      "decision": "EXCLUDE death-will"
+    },
+    "laborde_rouyer_rescan": {
+      "result": "Orléans 1454 duplicate; 1498 Paris bulk unnamed; Dijon 1403 case not new wearer",
+      "decision": "no_new"
+    }
+  },
+  "new_cleux_bar_promote": null
+}

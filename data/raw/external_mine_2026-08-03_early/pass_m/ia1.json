@@ -1,0 +1,1 @@
+{"responseHeader":{"status":0,"QTime":23,"params":{"query":"title:(Nouveau recueil) AND (text:argenterie OR text:argenterie OR text__reviews:argenterie)","qin":"title:(Nouveau recueil) AND argenterie","fields":"identifier,title,year","wt":"json","rows":15,"start":0}},"response":{"numFound":0,"start":0,"docs":[]}}

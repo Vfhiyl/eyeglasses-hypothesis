@@ -1,0 +1,19 @@
+{
+  "pass": "AB",
+  "date": "2026-08-03",
+  "decision": "no_ingest",
+  "direction": "Davidsohn III miss → Pansier Gallica IIIF OCR + Manfredo Albertotti densify + Cleux death dry",
+  "early_stock_unchanged": {
+    "onsetish_n": 34,
+    "labor_delta_n": 28,
+    "labor_delta_median": -0.5
+  },
+  "seams": {
+    "davidsohn_III": "Still OA-miss (Teil4 only)",
+    "pansier_iiif_ocr": "OCR sample+dense 35–55: Petrarch/Charles Orléans/Bullet 1282 already known/OOW; no new Cleux-bar named living",
+    "manfredo_albertotti": "Attribution WEAKENED — common inquisitor expenses; candidate logged low HOLD",
+    "digitarq": "404",
+    "cleux_death": "Infobretagne/IA dry"
+  },
+  "new_cleux_bar_promote": null
+}

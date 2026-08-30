@@ -1,0 +1,1193 @@
+                                                                                 eprints@whiterose.ac.uk
+                                                                            https://eprints.whiterose.ac.uk
+                                                      Universities of Leeds, Sheffield and York
+
+
+Deposited via The University of York.
+
+White Rose Research Online URL for this paper:
+https://eprints.whiterose.ac.uk/id/eprint/163354/
+
+Version: Accepted Version
+
+Article:
+Eggleston, Adam, Flavell, Jonathan Charles, Tipper, Steven Paul et al. (2020) Culturally
+learned first impressions occur rapidly and automatically and emerge early in
+development. Developmental Science. e13021. ISSN: 1363-755X
+
+https://doi.org/10.1111/desc.13021
+
+
+
+
+Reuse
+Items deposited in White Rose Research Online are protected by copyright, with all rights reserved unless
+indicated otherwise. They may be downloaded and/or printed for private study, or other acts as permitted by
+national copyright laws. The publisher or other rights holders may allow further reproduction and re-use of
+the full text version. This is indicated by the licence information on the White Rose Research Online record
+for the item.
+
+Takedown
+If you consider content in White Rose Research Online to be in breach of UK law, please notify us by
+emailing eprints@whiterose.ac.uk including the URL of the record and the reason for the withdrawal request.
+                                            Running head: FIRST IMPRESSIONS FROM GLASSES       1
+
+
+
+
+ Culturally learned first impressions occur rapidly and automatically
+                        and emerge early in development.
+
+
+Adam Eggleston1, Jonathan C. Flavell1, Steven P. Tipper1, Richard Cook1,2 and Harriet Over1
+
+                                      1
+                                          University of York
+
+                              2
+                                  Birkbeck, University of London
+
+
+
+Acknowledgements
+
+This research was supported by the European Research Council under the European Union's
+Horizon 2020 Programme, grant number ERC‐STG‐755719. We would like to thank Debbie
+S. Ma, Joshua Correll, and Bernd Wittenbrink for sharing their stimuli with us, the
+International Centre for Life in Newcastle, the families who participated and Bethany Fisher
+for second coding the data.
+
+
+The data that support the findings of this study are openly available at Open Science
+Framework (https://osf.io/hkpsa/?view_only=a017f3c67ce845fda31836bc375b78ee).
+
+
+
+Address for correspondence:
+Adam Eggleston
+Department of Psychology
+University of York
+YO10 5DD
+adam.eggleston@york.ac.uk
+FIRST IMPRESSIONS FROM GLASSES                                                                 2
+
+
+Research highlights
+
+   •   Adults estimate that individuals who wear glasses are more intelligent.
+
+   •   These first impressions from glasses occur rapidly and automatically.
+
+   •   By the age of 6, but not 4, children also infer that individuals who wear glasses are more
+
+       intelligent.
+
+   •   Thus, automaticity, rapid access, and early emergence are not evidence that first
+
+       impressions have an innate origin.
+
+
+
+
+                                                                                               2
+FIRST IMPRESSIONS FROM GLASSES                                                                 3
+
+
+                                           Abstract
+
+Previous research indicates that first impressions from faces are the products of automatic and
+
+rapid processing and emerge early in development. These features have been taken as evidence
+
+that first impressions have a phylogenetic origin. We examine whether first impressions
+
+acquired through learning can also possess these features. First, we confirm that adults rate a
+
+person as more intelligent when they are wearing glasses (Study 1). Next, we show this
+
+inference persists when participants are instructed to ignore the glasses (Study 2) and when
+
+viewing time is restricted to 100 milliseconds (Study 3). Finally, we show that six-year-old,
+
+but not 4-year-old, children perceive individuals wearing glasses to be more intelligent,
+
+indicating that the effect is seen relatively early in development (Study 4). These data indicate
+
+that automaticity, rapid access, and early emergence are not evidence that first impressions
+
+have an innate origin. Rather, these features are equally compatible with a learning model.
+
+
+
+Keywords:
+
+First Impressions; Faces; Cultural Learning; Intelligence; Trait Inference Mapping
+
+
+
+
+                                                                                               3
+FIRST IMPRESSIONS FROM GLASSES                                                                 4
+
+
+Introduction
+
+Adults spontaneously attribute a wide range of traits to strangers based solely on their facial
+
+features. These ‘first impressions’ include judgements about trustworthiness, honesty,
+
+competence, intelligence, aggression, and likeability (Oosterhof & Todorov, 2008; Sutherland
+
+et al., 2013; Todorov, Olivola, Dotsch, & Mende-Siedlecki, 2015). These first impressions
+
+appear to exert a powerful influence over behaviour. For example, individuals who look
+
+competent are more likely to be elected to public office (Ballew & Todorov, 2007; Todorov et
+
+al., 2015). Individuals who appear untrustworthy are less likely to be offered positions in
+
+interview settings (Olivola, Eubanks, & Lovelace, 2014) and are more likely to face harsh
+
+sentences in criminal justice situations (Wilson & Rule, 2015). Interestingly, while some of
+
+these first impressions may contain a ‘kernel of truth’ (Bonnefon, Hopfensitz, & De Neys,
+
+2017), others bear little resemblance to the actual personalities of the individuals being judged
+
+(Rule, Krendl, Ivcevic, & Ambady, 2013).
+
+       Despite their pervasive influence, it is unclear where these first impressions come from.
+
+One possibility is that spontaneous trait inferences from faces are the product of an innately
+
+specified mechanism. Natural selection may have favoured such a mechanism because it
+
+enabled our ancestors to quickly detect potential cooperative partners and potential leaders
+
+(Schaller, 2008; Van Vugt & Grabo, 2015; Zebrowitz & Zhang, 2009).
+
+       Alternatively, first impressions may arise chiefly through learning. According to the
+
+Trait Inference Mapping (TIM) framework (Over & Cook, 2018; Over, Eggleston, & Cook,
+
+2020), first impressions are the result of mappings between points in face-space and trait-space,
+
+acquired ontogenetically as a product of correlated face-trait experience. Once acquired, these
+
+mappings allow excitation to spread automatically from face representations to trait
+
+representations. While some face-trait mappings may be acquired through direct experience
+
+with individuals, TIM proposes a central role for cultural learning. Cultural devices such as
+
+
+                                                                                               4
+FIRST IMPRESSIONS FROM GLASSES                                                                   5
+
+
+storybooks, films, television, literature, propaganda, art and iconography, pair particular facial
+
+features (e.g., big nose, crooked teeth, pallid complexion) with particular character traits (e.g.,
+
+evil disposition). By providing a common source of correlated face-trait experience, these
+
+devices allow face-trait stereotypes to spread throughout a community.
+
+       It has been argued that evidence from three sources broadly favours a nativist view of
+
+first impressions, over the learning account. Firstly, spontaneous trait inferences show high-
+
+levels of consistency within Western observers, and similar first impressions have been
+
+documented in other cultures including China (Sutherland et al., 2018; Zebrowitz et al., 2012).
+
+Secondly, traits are inferred quickly and automatically, seemingly with minimal cognitive
+
+effort. Adults form consistent first impressions from faces even when those faces are presented
+
+for as little as 100 milliseconds (Bar, Neta, & Linz, 2006; Todorov, Pakrashi, & Oosterhof,
+
+2009; Willis & Todorov, 2006). This is the profile one might expect of a mechanism favoured
+
+by natural selection; for example, if someone has aggressive or nefarious intentions, it serves
+
+an organism to detect those intentions quickly (Schaller, 2008). Finally, proponents of the
+
+nativist view point to the fact that first impressions emerge early in development (Cogsdill,
+
+Todorov, Spelke, & Banaji, 2014; Ewing, Sutherland, & Willis, 2019; Jessen & Grossmann,
+
+2017). For example, developmental research has demonstrated adult-like levels of consensus
+
+in    first    impressions      of     trustworthiness/niceness,     dominance/strength        and
+
+competence/intelligence in Western children by at least 5 years of age (Charlesworth, Tiarra,
+
+Hudson, & Banaji, 2019). This has led authors to the conclusion that “extended cultural
+
+learning is not necessary for adult-like appearance biases to emerge” and that findings are
+
+“more consistent with evolutionary-based accounts.” (Ewing, Sutherland & Willis, 2019)
+
+       We contend that the foregoing findings, while often cited as evidence in favour of the
+
+nativist view, are in fact equally compatible with the cultural learning account (TIM; Over &
+
+Cook, 2018; Over, Eggleston, & Cook, in press). For example, exposure to correlated face-trait
+
+
+                                                                                                 5
+FIRST IMPRESSIONS FROM GLASSES                                                                6
+
+
+experience through cultural devices (e.g., story books, films, TV) may cause face-trait
+
+inferences to manifest consistently both within and between cultures. Similarly, it is known
+
+that learned behaviours can become rapid and automatic (e.g., Stroop, 1935), and can appear
+
+even in infancy (Kinzler, Dupoux, & Spelke, 2007; Moon, Cooper, & Fifer, 1993).
+
+       In the present paper, we describe a series of experiments that sought to test directly
+
+whether first impressions that are acquired through experience: 1) can manifest consistently
+
+within adults; 2) can occur automatically, i.e., involuntarily; 3) can be seen following brief
+
+stimulus exposure; and 4) can be observed early in development. To test these hypotheses, we
+
+took advantage of the fact that participants’ first impressions of a stranger’s intelligence are
+
+sometimes influenced by whether or not the stranger is wearing glasses. The earliest known
+
+glasses date from 1286 (Ilardi, 2007). Because glasses are a product of recent human history,
+
+it is indisputable that, where observed, the inference of intelligence from glasses must be
+
+acquired through experience (Over & Cook, 2018). The data for all studies are available at the
+
+OSF (https://osf.io/hkpsa/?view_only=a017f3c67ce845fda31836bc375b78ee)
+
+Study 1
+
+In Study 1, we sought to replicate previous findings from cultures such as the US (Fleischmann,
+
+Lammers, Stoker, & Garretsen, 2019) and Scandinavia (Hellström & Tekle, 1994) that
+
+individuals wearing glasses are judged more intelligent.
+
+Methods
+
+Participants
+
+Forty participants were recruited via the online platform Prolific (www.prolific.ac.uk). Sample
+
+size was decided in advance, and pre-registered, based on previous research in this area. All
+
+participants reported English as their first language. No-one was excluded from analyses. One
+
+participant was excluded because they selected the same rating on 100% of trials (per the
+
+exclusion criteria pre-registered via ASPredicted) leaving 39 for analyses (Mage = 32.51, SDage
+
+
+                                                                                              6
+FIRST IMPRESSIONS FROM GLASSES                                                                7
+
+
+= 13.59; 16 female, 22 male, 1 non-binary). Of the 39 participants included in the analyses, 37
+
+identified as White and 2 as Multiracial. All participants received a monetary compensation of
+
+£1.30 for approximately 10 minutes participation.
+
+Materials and procedure
+
+Twenty four images of Caucasian faces (12 Female) were taken from the Chicago Face
+
+Database (Ma, Correll, & Wittenbrink, 2015). This particular database was selected as it is able
+
+to provide full colour face images of neutral expression under standardised photographic
+
+conditions, including consistent lighting, clothing and position. Glasses were added to these
+
+stimuli using Adobe Photoshop. This resulted in 48 (24 altered, 24 unaltered) images that were
+
+combined to create two counterbalancing conditions (Figure 1). Participants were assigned to
+
+one of these two conditions so that the faces wearing glass in condition A were not wearing
+
+glasses in condition B and vice versa. The order in which the faces were presented was
+
+randomised for each participant.
+
+
+
+
+Figure 1. Example stimulus from studies 1-3, shown with (a) and without (b) glasses.
+
+       Ratings of intelligence were gathered using an online survey designed in Qualtrics
+
+(http://qualtrics.com). Participants were informed that they would complete a study
+
+investigating how people form first impressions of others. They were the told that their task
+
+was to view photographs of people and rate how intelligent they appeared. On each trial,
+
+participants were shown a face and asked “How intelligent do you think this person is?” The
+
+task was self-paced: participants gave their responses on a 9-point Likert Scale with each face
+
+
+                                                                                              7
+FIRST IMPRESSIONS FROM GLASSES                                                              8
+
+
+remaining on the screen until participants clicked a continuation arrow to proceed to the next
+
+trial. At the end of the procedure, participants were asked to complete a short demographic
+
+questionnaire recording gender, ethnicity, age and whether or not they had a prescription for
+
+glasses. After participants had completed all parts of the questionnaire they were thanked and
+
+debriefed.
+
+Results
+
+Following our pre-registered analysis plan (https://aspredicted.org/nu6fg.pdf), ratings of
+
+intelligence (Figure 2a) were analysed using a Mixed ANOVA with Face Type (glass, no
+
+glasses) as a within-subjects factor, and Counterbalancing Condition (set A, set B) as a
+
+between-subjects factor. The analysis revealed a significant main effect of face type [F(1,37)
+
+= 93.08, p < .001, ηp2 = .72], whereby glasses wearers (M = 6.31, SD = 0.74) were rated as
+
+more intelligent than those without glasses (M = 5.12, SD = 0.82). There was no main effect of
+
+Counterbalancing Condition [F(1,37) = .05, p = .819, ηp2 = .001], nor did we observe an
+
+interaction between Counterbalancing Conditions and Face Type [F(1,37) = .07, p = .793, ηp2=
+
+.002]. All p-values described throughout are two-tailed.
+
+
+
+
+Figure 2. Mean (±SEM) intelligence ratings Studies 1-3.
+
+                                                                                            8
+FIRST IMPRESSIONS FROM GLASSES                                                                  9
+
+
+Study 2
+
+In Study 2, we tested whether first impressions of intelligence are inferred automatically from
+
+the presence of glasses. If the inference of intelligence is automatic, the glasses effect should
+
+still be seen when participants are explicitly instructed to ignore the glasses and base their
+
+judgements only on physical facial cues (Alguacil, Tudela, & Ruz, 2015; De Gelder &
+
+Vroomen, 2000; Mileva, Tompkinson, Watt, & Burton, 2017).
+
+Methods
+
+Participants
+
+A further forty participants were recruited via www.prolific.co.uk following our pre-registered
+
+plan (Mage = 34.93, SDage = 9.97; 27 female, 12 male, 1 non-binary). Thirty-seven identified as
+
+White, 1 as Asian, 1 as Black, and 1 as “Other”. No participants were excluded from analysis.
+
+Materials and procedureParticipants were given the following instructions before starting the
+
+trials; “You are going to see a series of photographs of different people. Some of the individuals
+
+depicted will be wearing glasses and some will not. Glasses can make people look more
+
+intelligent. We want you to focus only on the structure of the face. Please ignore the glasses.”
+
+Where trials presented a target face wearing glasses, participants also received the following
+
+reminder: “Remember: Ignore the glasses.” As a check to see if participants had been paying
+
+attention throughout a final question was added asking “What feature were you asked to
+
+ignore?” Participants could respond by typing their answer (all but one participant correctly
+
+identified glasses as the cue they were supposed to ignore). With the exception of the
+
+instruction to ignore the glasses, the procedure was identical to that of Study 1.
+
+
+
+
+                                                                                                9
+FIRST IMPRESSIONS FROM GLASSES                                                                    10
+
+
+
+
+Figure 3. Trial structure in Study 3. (a) Schematic representation of a trial, (b) the rating screen.
+
+Results
+
+Following our pre-registered analysis plan (https://aspredicted.org/3ty5e.pdf), ratings of
+
+intelligence (Figure 2b) were analysed using ANOVA with Face Type (glass, no glasses) as a
+
+within-subjects factor, and Counterbalancing Condition (set A, set B) as a between-subjects
+
+factor. The analysis revealed a significant main effect of Face Type [F(1,38) = 61.73, p < .001,
+
+ηp2 = .62], whereby glasses wearers (M = 5.91, SD = 0.57) were rated as more intelligent than
+
+those without glasses (M = 5.17, SD = 0.69). There was no main effect of Counterbalancing
+
+Condition [F(1,38) = .02, p = .892, ηp2 = < .001], nor did we observe an interaction between
+
+Counterbalancing Conditions and Face Type [F(1,38) = .95, p = .336, ηp2 = .02].
+
+Study 3
+
+In our first two studies, we replicated the glasses effect (Study 1), and found that the effect is
+
+seen despite explicit instructions to ignore the glasses (Study 2). In both studies, the task
+
+                                                                                                  10
+FIRST IMPRESSIONS FROM GLASSES                                                                 11
+
+
+completed by participants was self-paced; i.e., participants were free to inspect target faces for
+
+as long as they wished. In Study 3, we sought to determine whether the glasses effect would be
+
+seen when stimulus presentation was limited to 100ms. Whereas the first two studies were
+
+conducted online, Study 3 was conducted in the lab.
+
+Methods
+
+Participants
+
+Forty participants were recruited from the University of York, Department of Psychology
+
+subject pool (Mage = 20.39, SDage = 4.72; 34 female, 6 male). Sample size was decided in
+
+advance, based on the results of the first two studies. One participant declined to specify their
+
+age. Thirty-two participants identified as White, 2 as Multiracial, 1 as Indian, 4 as British (not
+
+otherwise specified) and 1 preferred not to say. Participants received course credit or a small
+
+honorarium for taking part.
+
+Materials and procedure
+
+At the start of each trial, a fixation cross appeared in the centre of the screen for 500 ms
+
+followed by 500 ms of blank screen. A target face then appeared for 100 ms before being
+
+masked for 500ms (Figure 3a). The rating screen appeared after 1000 ms of blank screen.
+
+Participants then rated the face for intelligence on a 9-point Likert scale (Figure 3b) using the
+
+mouse. The stimuli used in Study 3 were the same as those used in Studies 1 and 2. Faces were
+
+presented on a white background with 28mm distance between pupils. The square mask had
+
+sides of ~147mm.
+
+       Before completing the main experiment, participants first completed 4 practise trials.
+
+Participants then completed 24 experimental trials in a single block. Before the practice block
+
+participants were given on-screen instructions stating that they would see people presented for
+
+a very short period of time and that they would then rate how intelligent they thought the
+
+presented people were. Additionally, they were told that they should make their decisions as
+
+
+                                                                                               11
+FIRST IMPRESSIONS FROM GLASSES                                                                 12
+
+
+quickly as possible. At the end of the experiment participants completed a short questionnaire
+
+(age, gender, ethnicity, first language and glasses prescription).
+
+       The task was completed in a dimly-lit room on a Dell (Round Rock, USA) XPS PC
+
+(Intel Core 133 i5-4430, 3 GHz CPU, 12 GB RAM, 64 bit Windows 10 Enterprise), with a 23"
+
+LCD monitor (Iiyama (Tokyo, Japan) ProLite T2735MSC-B2, 1920×1080 pixels). Viewing
+
+distance was approximately 50 cm distance. Stimulus presentation (60Hz) and response
+
+recording were achieved using custom scripts and Psychtoolbox 3.0.11 (Brainard, 1997;
+
+Kleiner, Brainard, & Pelli, 2007; Pelli, 1997) operating within Matlab R2018a (The
+
+MathWorks Inc., Natick, USA).
+
+Results
+
+Following our pre-registered analysis plan (https://aspredicted.org/zg4wd.pdf), ratings of
+
+intelligence (Figure 2c) were analysed using ANOVA with Face Type (glass, no glasses) as a
+
+within-subjects factor, and Counterbalancing Condition (set A, set B) as a between-subjects
+
+factor. The analysis revealed a significant main effect of Face Type [F(1,38) = 88.81, p < .001,
+
+ηp2 = .70], whereby glasses wearers (M = 6.30, SD = 0.64) were rated as more intelligent than
+
+those without glasses (M = 5.25, SD = 0.73). There was no main effect of Counterbalancing
+
+Condition [F(1,38) = .69, p = .412, ηp2= .02], nor did we observe an interaction between
+
+Counterbalancing Conditions and Face Type [F(1,38) = .18, p = .670, ηp2 = .01].
+
+Study 4
+
+Previous research has demonstrated adult-like levels of consensus in first impressions of
+
+trustworthiness (niceness), dominance (strength), and competence (intelligence) in Western
+
+children of ~5 years of age (Charlesworth et al., 2019; Cogsdill et al., 2014; Ewing et al., 2019)
+
+In Study 4, we sought to determine whether inferences of intelligence from glasses emerges at
+
+a similar point in development. We chose to test 4- and 6-year-olds because these age groups
+
+have been studied in previous research (Cogsdill et al., 2014) and research suggests that
+
+
+                                                                                               12
+FIRST IMPRESSIONS FROM GLASSES                                                                13
+
+
+children’s understanding of specific traits such as a person’s intelligence or knowledge
+
+develops significantly across this age range (Brosseau-Liard & Birch, 2010; Lane, Wellman,
+
+& Gelman, 2013).
+
+Method
+
+Participants
+
+Thirty-two 4-year-olds (16 boys, Mage = 53 months; age range = 48 to 59 months) and 32 6-
+
+year-olds (16 boys, Mage: 78 months; age range = 73 to 83 months) participated in this study.
+
+Sample size was decided in advance and is typical for research in this area (Caulfield, Ewing,
+
+Bank, & Rhodes, 2016; Ewing, Caulfield, Read, & Rhodes, 2015; Mondloch, Gerada, Proietti,
+
+& Nelson, 2019; Palmquist, Cheries, & DeAngelis, 2019). All 64 families who participated
+
+identified as White British in ethnicity. All children were recruited from a science museum in
+
+an urban centre and were tested on site the same day.
+
+Materials and procedure
+
+The stimuli in this study were again taken from the Chicago Face Database (Ma et al., 2015).
+
+Having selected 50 faces from the database (25 white female, 25 white male), we ran a pre-test
+
+in which we asked 20 undergraduate participants (from the Department of Psychology at the
+
+University of York) to rate the perceived intelligence of each. Ratings were taken on a scale
+
+that ranged between “0 (Not at all clever)” to “100 (Very clever)”. Participants received course
+
+credit in return for their participation.
+
+        The pre-test ratings were used to create 24 pairs of faces. The ratings for each pair can
+
+be found at the OSF. Twelve pairs of faces (6 male pairs, 6 female pairs) were chosen because
+
+adults judged them be closely matched in terms of their perceived intelligence (Figure 4a).
+
+These pairs were used to assess whether children infer intelligence from glasses. Differences
+
+in adults’ ratings of the perceived intelligence of the chosen face pairs without glasses ranged
+
+from .10 and 3.15 (M=1.55, SD = 1.01). Glasses were superimposed on the faces using Adobe
+
+
+                                                                                              13
+FIRST IMPRESSIONS FROM GLASSES                                                                14
+
+
+Photoshop. We counterbalanced which face was shown wearing glasses. The remaining 12
+
+pairs (6 male pairs, 6 female pairs) were chosen because adults consistently judged one of them
+
+be more intelligence than the other (Figure 4b). These pairs were used to assess whether
+
+children infer intelligence from the physical cues present in faces alone. Difference in adults'
+
+ratings of intelligence between individuals within each pair of faces used on the physical trials
+
+ranged between 4.55 and 26.30 (M=13.67, SD = 5.60) . A book was created featuring the 24
+
+to-be-judged pairs. The pairs were presented in a fixed order chosen at random before testing.
+
+High-intelligent and glasses wearing faces represented the target faces and were presented
+
+equally often on the left and right side.
+
+
+
+
+Figure 4. Stimuli and results from Study 4. (a) Example pair from the glasses task. (b) Example
+
+pair from the physical cues task. (c) Mean (±SEM) rate of correctly identifying the target face
+
+for the 4 and 6 year old children in the glasses and physical cues tasks. Dashed line indicates
+
+chance performance. Asterisks represent a result significantly different from chance. **
+
+denotes p < .01; *** denotes p < .001.
+
+
+
+
+                                                                                              14
+FIRST IMPRESSIONS FROM GLASSES                                                                  15
+
+
+       Each participant was invited into the testing area and asked to sit at a small table. After
+
+a brief warm up, the experimenter tested the child’s understanding of the term ‘clever’ by
+
+saying: “Now I am going to tell you about two different children and I would like you to tell
+
+me which child you think is the more clever, okay? This child got all their answers right on
+
+their homework and the teacher said it was really good work. This child got only a few answers
+
+right on their homework and the teacher said it wasn’t good work at all. Who do you think is
+
+more clever, this child who did all their homework or this child who did half the homework?”
+
+All 64 children correctly identified the child who “got all their answers right on their
+
+homework” as the more clever. Children in both age groups therefore appear to understand the
+
+concept of relative intelligence as operationalized in the present task.
+
+       Children were then introduced to the first of the 24 face pairings by the experimenter
+
+as follows: “Now we are going to look at some pictures of different people. I would like you
+
+to tell me which person you think is more clever, okay? Take a look at these two people, which
+
+person do you think is more clever - this person or this person?” [Pointing to each picture in
+
+turn, left to right]. All remaining trials were identical except that the experimenter only pointed
+
+to the two faces in turn as a prompt if children showed hesitancy.
+
+Coding
+
+Children’s responses were coded from the video. On the rare occasions when a child changed
+
+their response, their last response was coded. For each trial type (physical cues, glasses cues),
+
+participants were given a score out of 12 for the number of times they chose the individual in
+
+glasses or the individual previously rated by adults as more intelligent.
+
+       All videos were coded desperately by the experimenter and a rater naïve to the
+
+hypotheses of the study. There was perfect agreement between the two coder's judgements, κ
+
+= 1, p < .001.
+
+
+
+
+                                                                                                15
+FIRST IMPRESSIONS FROM GLASSES                                                                 16
+
+
+Results
+
+First, we sought to determine whether the children’s identification of the target face exceeded
+
+chance levels when inferring intelligence from glasses and physical cues (Figure 4c). To this
+
+end, we conducted one-sample t-tests evaluating the number of times children correctly chose
+
+the target face, against a chance level of 50% (i.e., a score of 6 out of 12). In the glasses
+
+condition, the rate of target identification exhibited by the six-year-olds (M = 7.41, SD = 2.33)
+
+was significantly greater than chance [t(31) = 3.42, p = .002, Cohen’s d = .61]. However, the
+
+rate of target identification exhibited by the four-year-olds (M = 6.13, SD = 2.50) did not exceed
+
+chance [t(31) = .283, p = .779, Cohen’s d = .05]. A very similar pattern emerged with children’s
+
+judgements of physical cues to intelligence. Once again, the rate of target identification
+
+exhibited by the six-year-olds (M = 7.38, SD = 1.48) exceeded chance [t(31) = 5.27, p = <.001,
+
+Cohen’s d = .93], whereas the rate of target of identification exhibited by the four-year-olds
+
+did not (M = 6.41, SD = 1.76) [t(31) = 1.31, p = .201, Cohen’s d = .23].
+
+       Next, we analysed the number of times the target faces were chosen using ANOVA
+
+with Cue Type (glasses cues, physical cues) as a within-subjects factor, and Age (4-year-olds,
+
+6-year-olds) as a between-subjects factor. The analysis revealed a main effect of Age, with 6-
+
+year-olds choosing the target faces more often than did 4-year-olds [F(1,62) = 8.73, p = .004,
+
+partial η2 =.12]. However, there was no main effect of Cue Type [F(1,62) = 0.13, p = .719,
+
+partial η2 =.002] and no interaction between Age and Cue Type [F(1,62) = 0.21, p = .653,
+
+partial η2 =.003]. These results indicate that older children were more likely to identify the
+
+target faces than younger children, but that the developmental pattern was broadly similar for
+
+physical and cultural cues to intelligence.
+
+       The finding that four-year-olds do not show significant sensitivity to either cultural or
+
+physical cues to intelligence seems inconsistent with previous findings which report adult-like
+
+consistency in trait judgements of competence by this age (Charlesworth, Hudson, Cogsdill,
+
+
+                                                                                               16
+FIRST IMPRESSIONS FROM GLASSES                                                                17
+
+
+Spelke, & Banaji, 2019; Cogsdill et al., 2014). This may be because previous developmental
+
+work has used computer generated stimuli whereas we used photographs of real people perhaps
+
+making the task more challenging.
+
+General Discussion
+
+We began our investigation by confirming that adults attribute intelligence to individuals who
+
+wear glasses (Study 1). We went on to extend the basic glasses effect by demonstrating that
+
+the inference of intelligence is seen despite explicit instructions to ignore the glasses cue,
+
+suggestive of automaticity (Study 2), and is evident following even very brief (100 ms)
+
+stimulus presentation (Study 3). Finally, we tested young children’s propensity to infer
+
+intelligence from the presence of glasses and physical facial cues and found that, whereas six-
+
+year-olds use both glasses and physical cues, four-year-olds do not use either type of cue (Study
+
+4).
+
+       Consistent impressions of trustworthiness and dominance appear to be automatic and
+
+rapid (Bar et al., 2006; Todorov et al., 2009; Willis & Todorov, 2006), and emerge early in
+
+development (Charlesworth, Tiarra, Hudson, & Banaji, 2019; Cogdill, 2014; Ewing, 2019).
+
+These findings have been cited as evidence that spontaneous trait inferences have an innate
+
+origin (Zebrowitz & Zhang, 2009). However, the present results demonstrate that the logic of
+
+this argument is flawed. Critically, the inference of intelligence from glasses – an effect that
+
+must emerge from learning – is automatic and rapid, and also emerges relatively early in
+
+development. Our results demonstrate that findings previously thought to support nativist
+
+accounts of the origins of first impressions are equally compatible with a learning-based
+
+account (Over & Cook, 2018).
+
+       The results described here accord with findings in other areas of cognition showing that
+
+learned skills, such as reading can become fast and automatic with sufficient experience
+
+(Heyes, 2018; Stroop, 1935). They are also compatible with research from developmental
+
+
+                                                                                              17
+FIRST IMPRESSIONS FROM GLASSES                                                               18
+
+
+psychology demonstrating that learned preferences can appear early in development. For
+
+example, even infants prefer speakers of their native language to speakers of a foreign language
+
+(Kinzler et al., 2007).
+
+        What evidence remains for nativist accounts of first impressions? One possible source
+
+of evidence is data suggesting that even 6-to-8-month-old infants prefer to look at faces
+
+previously rated by adults as trustworthy (Jessen & Grossmann, 2016; Sakuta, Kanazawa, &
+
+Yamaguchi, 2018). Convincing evidence that infants under the age of one-year-old form
+
+spontaneous first impressions would support a poverty of the stimulus argument for at least
+
+first impressions of trustworthiness. However, these infant studies systematically confound the
+
+to-be-inferred trait with facial emotion; the faces described as “trustworthy” appear to be
+
+smiling whereas the faces deemed “untrustworthy” do not (Over & Cook, 2018). In the absence
+
+of evidence to the contrary, it is more likely that the orienting behaviours observed in infants
+
+in these studies are a response to the perceived emotional states of the actors shown, and have
+
+little to do with their perceived character traits.
+
+        Other evidence supports the claim that first impressions are culturally learned. For
+
+example, recent work has demonstrated the ability for individuals to update implicit and
+
+explicit judgements of trustworthiness by learning new behavioural information about a target
+
+(Shen, Mann, & Ferguson, 2020). Cross-cultural work has further supported a large role of
+
+learning, demonstrating that first impressions of trustworthiness, dominance, and other
+
+character traits are highly culturally variable (Over et al., 2020). Furthermore, there is
+
+considerable variation within cultures depending on individuals’ learning experiences. For
+
+example, on encountering faces that vary in ethnicity, some individuals form strong first
+
+impressions of differing trustworthiness, while others do not (Devine, 1989). This extensive
+
+variability is difficult to reconcile with nativist accounts (Over et al., 2020).
+
+
+
+
+                                                                                             18
+FIRST IMPRESSIONS FROM GLASSES                                                                 19
+
+
+       Overall, findings that may initially appear to favour a nativist account of first
+
+impressions are, in reality, equally compatible with a learning account. On balance, we argue
+
+that the available evidence favours the view that first impressions from faces are acquired
+
+through experience. If correct, this conclusion has important applied implications. If first
+
+impressions are shaped by cultural learning, then changes to cultural products can alter the
+
+types of first impressions individuals form. In other words, it may be possible to mitigate
+
+widely held but deleterious societal beliefs through modifying the available cultural input.
+
+
+
+
+                                                                                               19
+FIRST IMPRESSIONS FROM GLASSES                                                               20
+
+
+References
+
+Alguacil, S., Tudela, P., & Ruz, M. (2015). Ignoring facial emotion expressions does not
+
+     eliminate their influence on cooperation decisions. Psicologica, 36(2), 309–335.
+
+Ballew, C. C., & Todorov, A. (2007). Predicting political elections from rapid and unreflective
+
+     face judgments. Proceedings of the National Academy of Sciences of the United States of
+
+     America, 104(46), 17948–17953. https://doi.org/10.1073/pnas.0705435104
+
+Bar, M., Neta, M., & Linz, H. (2006). Very first impressions. Emotion, 6(2), 269–278.
+
+     https://doi.org/10.1037/1528-3542.6.2.269
+
+Bonnefon, J.-F., Hopfensitz, A., & De Neys, W. (2017). Can We Detect Cooperators by
+
+     Looking at Their Face? Current Directions in Psychological Science, 26(3), 276–281.
+
+     https://doi.org/10.1177/0963721417693352
+
+Brainard, D. H. (1997). The Psychophysics Toolbox. Spatial Vision, 10, 433–436.
+
+Brosseau-Liard, P. E., & Birch, S. A. J. (2010). “I bet you know more and are nicer too!”: What
+
+     children       infer   from       others’       accuracy.     Developmental        Science.
+
+     https://doi.org/10.1111/j.1467-7687.2009.00932.x
+
+Caulfield, F., Ewing, L., Bank, S., & Rhodes, G. (2016). Judging trustworthiness from faces:
+
+     Emotion cues modulate trustworthiness judgments in young children. British Journal of
+
+     Psychology, 107(3), 503–518. https://doi.org/10.1111/bjop.12156
+
+Charlesworth, T., Tiarra, S.-K., Hudson, J., & Banaji, M. (2019). Children Use Targets’ Facial
+
+     Appearance to Guide and Predict Social Behavior. https://doi.org/10.1037/dev0000734
+
+Cogsdill, E. J., Todorov, A. T., Spelke, E. S., & Banaji, M. R. (2014). Inferring Character From
+
+     Faces:     A   Developmental    Study.      Psychological   Science,   25(5),   1132–1139.
+
+     https://doi.org/10.1177/0956797614523297
+
+De Gelder, B., & Vroomen, J. (2000). The perception of emotions by ear and by eye. Cognition
+
+     and Emotion, 14(3), 289–311. https://doi.org/10.1080/026999300378824
+
+
+                                                                                             20
+FIRST IMPRESSIONS FROM GLASSES                                                             21
+
+
+Devine, P. G. (1989). Stereotypes and prejudice: Their automatic and controlled components.
+
+    Journal of Personality and Social Psychology, 56(1), 5.
+
+Ewing, L., Caulfield, F., Read, A., & Rhodes, G. (2015). Perceived trustworthiness of faces
+
+    drives trust behaviour in children. Developmental Science, 18(2), 327–334.
+
+Ewing, L., Sutherland, C. A. M., & Willis, M. L. (2019). Children show adult-like facial
+
+    appearance biases when trusting others. Developmental Psychology, 55(8), 1694–1701.
+
+    https://doi.org/10.1037/dev0000747
+
+Fleischmann, A., Lammers, J., Stoker, J. I., & Garretsen, H. (2019). You Can Leave Your
+
+    Glasses on: Glasses Can Increase Electoral Success. Social Psychology, 50(1), 38–52.
+
+    https://doi.org/10.1027/1864-9335/a000359
+
+Hellström, Å., & Tekle, J. (1994). Person perception through facial photographs: Effects of
+
+    glasses, hair, and beard on judgments of occupation and personal qualities. European
+
+    Journal of Social Psychology, 24(6), 693–705.
+
+Heyes, C. (2018). Cognitive gadgets: The cultural evolution of thinking. In Harvard University
+
+    Press. https://doi.org/10.4159/9780674985155
+
+Ilardi, V. (2007). Renaissance Vision from Spectacles to Telescopes. American Philosophical
+
+    Society, 259.
+
+Jessen, S., & Grossmann, T. (2016). Neural and Behavioral Evidence for Infants’ Sensitivity
+
+    to the Trustworthiness of Faces. Journal of Cognitive Neuroscience, 28(11), 1728–1736.
+
+    https://doi.org/10.1162/jocn_a_00999
+
+Jessen, S., & Grossmann, T. (2017). Neural evidence for the subliminal processing of facial
+
+    trustworthiness           in          infancy.          Neuropsychologia,            1–8.
+
+    https://doi.org/10.1016/j.neuropsychologia.2017.04.025
+
+Kinzler, K. D., Dupoux, E., & Spelke, E. S. (2007). The native language of social cognition.
+
+    Proceedings of the National Academy of Sciences of the United States of America,
+
+
+                                                                                           21
+FIRST IMPRESSIONS FROM GLASSES                                                                22
+
+
+     104(30), 12577–12580. https://doi.org/10.1073/pnas.0705345104
+
+Kleiner, M., Brainard, D. H., & Pelli, D. (2007). What’s new in Psychtoolbox-3? Perception,
+
+     36(ECVP Abstract Supplement).
+
+Lane, J. D., Wellman, H. M., & Gelman, S. A. (2013). Informants’ traits weigh heavily in
+
+     young children’s trust in testimony and in their epistemic inferences. Child Development.
+
+     https://doi.org/10.1111/cdev.12029
+
+Ma, D. S., Correll, J., & Wittenbrink, B. (2015). The Chicago face database: A free stimulus
+
+     set of faces and norming data. Behavior Research Methods, 47(4), 1122–1135.
+
+     https://doi.org/10.3758/s13428-014-0532-5
+
+Mileva, M., Tompkinson, J., Watt, D., & Burton, A. M. (2017). Audiovisual Integration in
+
+     Social Evaluation. Journal of Experimental Psychology: Human Perception and
+
+     Performance. https://doi.org/10.1037/xhp0000439
+
+Mondloch, C. J., Gerada, A., Proietti, V., & Nelson, N. L. (2019). The influence of subtle facial
+
+     expressions on children’s first impressions of trustworthiness and dominance is not adult-
+
+     like.    Journal      of     Experimental      Child      Psychology,      180,     19–38.
+
+     https://doi.org/10.1016/J.JECP.2018.12.002
+
+Moon, C., Cooper, R. P., & Fifer, W. P. (1993). Two-day-olds prefer their native language.
+
+     Infant Behavior and Development, 16(4), 495–500. https://doi.org/10.1016/0163-
+
+     6383(93)80007-U
+
+Olivola, C. Y., Eubanks, D. L., & Lovelace, J. B. (2014). The many (distinctive) faces of
+
+     leadership: Inferring leadership domain from facial appearance. Leadership Quarterly.
+
+     https://doi.org/10.1016/j.leaqua.2014.06.002
+
+Oosterhof, N. N., & Todorov, A. (2008). The functional basis of face evaluation. Proceedings
+
+     of the National Academy of Sciences, 105(32), 11087–11092.
+
+Over, H., & Cook, R. (2018). Where do spontaneous first impressions of faces come from?
+
+
+                                                                                              22
+FIRST IMPRESSIONS FROM GLASSES                                                                23
+
+
+     Cognition. https://doi.org/10.1016/j.cognition.2017.10.002
+
+Over, H., Eggleston, A., & Cook, R. (2020). Ritual and the origins of first impressions.
+
+     Philosophical Transactions of the Royal Society B: Biological Sciences, 375(1805),
+
+     20190435. https://doi.org/10.1098/rstb.2019.0435
+
+Palmquist, C. M., Cheries, E. W., & DeAngelis, E. R. (2019). Looking smart: Preschoolers’
+
+     judgements about knowledge based on facial appearance. British Journal of
+
+     Developmental Psychology. https://doi.org/10.1111/bjdp.12303
+
+Pelli, D. G. (1997). The VideoToolbox software for visual psychophysics: transforming
+
+     numbers      into    movies.      Spatial     Vision,     Vol.    10,     pp.     437–442.
+
+     https://doi.org/10.1163/156856897X00366
+
+Rule, N. O., Krendl, A. C., Ivcevic, Z., & Ambady, N. (2013). Accuracy and consensus in
+
+     judgments of trustworthiness from faces: Behavioral and neural correlates. Journal of
+
+     Personality and Social Psychology, 104(3), 409–426. https://doi.org/10.1037/a0031050
+
+Sakuta, Y., Kanazawa, S., & Yamaguchi, M. K. (2018). Infants prefer a trustworthy person:
+
+     An early sign of social cognition in infants. PLOS ONE, 13(9), e0203541.
+
+     https://doi.org/10.1371/journal.pone.0203541
+
+Schaller, M. (2008). Evolutionary bases of first impressions. In First Impressions (pp. 15–34).
+
+Shen, X., Mann, T. C., & Ferguson, M. J. (2020). Beware a dishonest face?: Updating face-
+
+     based implicit impressions using diagnostic behavioral information. Journal of
+
+     Experimental Social Psychology, 86. https://doi.org/10.1016/j.jesp.2019.103888
+
+Stroop, J. R. (1935). Studies of interference in serial verbal reactions. Journal of Experimental
+
+     Psychology, 18(6), 643–662. https://doi.org/10.1037/h0054651
+
+Sutherland, C. A. M., Liu, X., Zhang, L., Chu, Y., Oldmeadow, J. A., & Young, A. W. (2018).
+
+     Facial First Impressions Across Culture: Data-Driven Modeling of Chinese and British
+
+     Perceivers’ Unconstrained Facial Impressions. Personality and Social Psychology
+
+
+                                                                                              23
+FIRST IMPRESSIONS FROM GLASSES                                                                  24
+
+
+    Bulletin, 44(4), 521–537. https://doi.org/10.1177/0146167217744194
+
+Sutherland, C. A. M., Oldmeadow, J. A., Santos, I. M., Towler, J., Michael Burton, D., &
+
+    Young, A. W. (2013). Social inferences from faces: Ambient images generate a three-
+
+    dimensional               model.             Cognition,              127(1),          105–118.
+
+    https://doi.org/10.1016/j.cognition.2012.12.001
+
+Todorov, A., Olivola, C. Y., Dotsch, R., & Mende-Siedlecki, P. (2015). Social attributions
+
+    from faces: Determinants, consequences, accuracy, and functional significance. Annual
+
+    Review of Psychology, 66.
+
+Todorov, A., Pakrashi, M., & Oosterhof, N. N. (2009). Evaluating faces on trustworthiness
+
+    after         minimal              time         exposure.             Social         Cognition.
+
+    https://doi.org/10.1521/soco.2009.27.6.813
+
+Van Vugt, M., & Grabo, A. E. (2015). The Many Faces of Leadership: An Evolutionary-
+
+    Psychology Approach. Current Directions in Psychological Science, 24(6), 484–489.
+
+    https://doi.org/10.1177/0963721415601971
+
+Willis, J., & Todorov, A. (2006). First Impressions: Making Up Your Mind After a 100-Ms
+
+    Exposure      to      a      Face.        Psychological      Science,      17(7),     592–598.
+
+    https://doi.org/10.1111/j.1467-9280.2006.01750.x
+
+Wilson, J. P., & Rule, N. O. (2015). Facial Trustworthiness Predicts Extreme Criminal-
+
+    Sentencing         Outcomes.         Psychological        Science,      26(8),      1325–1331.
+
+    https://doi.org/10.1177/0956797615590992
+
+Zebrowitz, L. A., Wang, R., Bronstad, P. M., Eisenberg, D., Undurraga, E., Reyes-García, V.,
+
+    & Godoy, R. (2012). First impressions from faces among US and culturally isolated
+
+    Tsimane’people in the Bolivian rainforest. Journal of Cross-Cultural Psychology, 43(1),
+
+    119–134.
+
+Zebrowitz, L. A., & Zhang, Y. (2009). The Origins of First Impressions in Animal and Infant
+
+
+                                                                                                24
+FIRST IMPRESSIONS FROM GLASSES                                           25
+
+
+    Face        Perception.       In        New         York   (Vol.   389).
+
+    https://doi.org/10.1093/oxfordhb/9780195342161.013.0029
+
+
+
+
+                                                                         25
+

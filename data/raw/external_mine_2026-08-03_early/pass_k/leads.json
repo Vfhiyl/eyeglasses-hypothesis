@@ -1,0 +1,89 @@
+{
+  "pass": "K",
+  "date": "2026-08-03",
+  "source": {
+    "title": "Histoire des lunettes",
+    "author": "Pierre Pansier",
+    "year": 1901,
+    "gallica_ark": "ark:/12148/bpt6k97739437",
+    "local_pdf": "pansier_1901_bpt6k97739437.pdf",
+    "local_txt": "pansier_1901.txt",
+    "pages": 178,
+    "ocr": "embedded text layer via pdftotext (~347k chars)"
+  },
+  "decision": "no_ingest",
+  "pins": {
+    "petrarch_1364": {
+      "pin": "Self-report ocularia after age ~60",
+      "evidence_year": 1364,
+      "decision": "SKIP duplicate — already ilardi_named_wearers petrarch Q1401"
+    },
+    "jeanne_evreux_1372": {
+      "decision": "EXCLUDE — death/testament path"
+    },
+    "charles_v_1379": {
+      "decision": "SKIP duplicate — charles_v_france"
+    },
+    "bourgogne_1400_bezicle": {
+      "decision": "EXCLUDE/SKIP — inventory / Philippe orbit"
+    },
+    "dijon_1403_bookplate": {
+      "decision": "SKIP — philippe_le_hardi"
+    },
+    "bourgogne_1420_dust": {
+      "decision": "EXCLUDE — protective/dust-ride ≠ near-work"
+    },
+    "charles_orleans_1454_estuy": {
+      "decision": "SKIP duplicate — charles_orleans"
+    },
+    "nantes_1433_lunectes": {
+      "decision": "SKIP — Nantes étrennes cluster"
+    },
+    "lorraine_1502": {
+      "decision": "OOW 1502"
+    },
+    "antoninus_ocularia_lend": {
+      "pin": "Vita s. Antoine †1459: sua ocularia praestabat",
+      "id_guess": "Antoninus of Florence ~1389–1459",
+      "decision": "HOLD — hagiographic habitual ownership; no dated onset"
+    },
+    "angelus_miracle": {
+      "decision": "EXCLUDE — miracle hagiography"
+    },
+    "villon_1461": {
+      "decision": "EXCLUDE — literary irony"
+    },
+    "pathelin_c1480": {
+      "decision": "EXCLUDE — fictional"
+    },
+    "meschinot_1493": {
+      "decision": "EXCLUDE — allegory"
+    },
+    "charles_orleans_ballad": {
+      "decision": "SKIP — already charles_orleans"
+    },
+    "leon_x_myopia": {
+      "decision": "OOW/weak — hunting concave; secondary"
+    },
+    "nicolas_bullet_1282": {
+      "decision": "OOW 1282; contested; no b–d"
+    },
+    "anonymous_1299_okiali": {
+      "decision": "EXCLUDE — anonymous"
+    },
+    "giordano_spina_salvino": {
+      "decision": "EXCLUDE — invention historiography"
+    },
+    "chauliac_1363": {
+      "decision": "SKIP — medical attest already known"
+    },
+    "manfredo_1316": {
+      "pin": "Fra Manfredo de Parma inquisitor: occulis de vitro cum capsula (Collectoriae)",
+      "decision": "HOLD — living expense pair; no OA birth/death"
+    },
+    "pierre_lemercier": {
+      "decision": "EXCLUDE — lunetier's son not wearer"
+    }
+  },
+  "new_cleux_bar_promote": null
+}

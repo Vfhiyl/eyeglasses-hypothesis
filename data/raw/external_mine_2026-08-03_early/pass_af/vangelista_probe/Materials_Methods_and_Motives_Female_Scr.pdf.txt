@@ -1,0 +1,1330 @@
+Melissa Moreton
+Materials, Methods, and Motives:
+Female Scribal Agency in Late Medieval and
+Early Modern Italian Religious Houses
+Abstract: Book production flourished in Italian female religious houses in the late
+Middle Ages and Early Modern Period. Nun-scribes copied thousands of texts in ur-
+ban production centres throughout the Italian peninsula. Though each convent
+needed books to fulfil devotional, liturgical, and administrative needs, the produc-
+tion of texts served a broader range of goals. Books were powerful tools, used to
+improve their communities’ standing within commercial, religious, and socio-polit-
+ical networks. Creating manuscripts gave women agency over the texts they made,
+read, and used. Within the gendered confines of the place and period, life within a
+religious house offered women an opportunity to pursue an artistic and intellectual
+life rarely afforded to their secular sisters who were typically obliged to give up
+writing, painting, and similar pursuits after marriage. This essay explores how
+heads of religious houses and nuns used their scribal skills to further their religious,
+economic, social, and political agendas. In particular, it highlights how their inti-
+mate knowledge of the materials and techniques of book production allowed them
+to create products tailored to specific audiences inside and outside the convent
+walls.
+
+
+
+1 Introduction: Overview of nuns’ book production
+Female scribes produced an astounding number of books in late medieval and early
+modern Italian convents1, as scribes and painters involved in manuscript produc-
+tion. This labour, traditionally associated with men, was a part of female monastic
+life across Europe from the early centuries of the Middle Ages through the Early
+
+
+
+
+1 I will use the term ‘convent’ to describe a nun’s house. This is unlike the modern Italian usage,
+where the term ‘convento’ is not gendered, but can refer to a male or female house connected to a
+mendicant order, such as Dominican, Franciscan, Augustinian, etc. (in contrast to non-mendicant
+orders, such as Benedictines, whose houses are called ‘monasteri’). In the medieval usage, nuns
+referred to their own houses variously as ‘convento’, ‘monastero’ or ‘monasterio’, regardless of their
+religious order.
+
+
+  Open Access. © 2024 the author, published by De Gruyter.             This work is licensed under the Creative
+Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+https://doi.org/10.1515/9783111382715-006
+172  Melissa Moreton
+
+
+Modern Period, well past the advent of the printing press.2 Though early medieval
+book production often took place in rural monastic centres on the Italian peninsula,
+this production shifted to urban centres as religious women found refuge within
+the walls of cities and on urban peripheries beginning in the 1200s.3 As copyists,
+nuns across all religious orders created high-end liturgical manuscripts for royal
+patrons, copied personal and communal devotional texts for in-house use, and pro-
+duced books for a variety of secular and religious audiences.4 These are women
+who – because of the circumstances of their birth, the moral and religious strictures
+of the period, or because of a true spiritual vocation – were nuns. Their scribal pro-
+duction provided essential texts for their houses, and produced manuscripts used
+in high-stakes gift exchanges that strengthened socio-political alliances. Convent
+scribes often worked in close-knit teams within the convent and collaborated with
+secular male illuminators and manuscript painters to complete a commissioned
+book’s border decoration and paintings. These collaborations broadened the range
+of books they were able to produce and, in turn, put these women in contact with a
+broad book-buying clientele including aristocratic and ecclesiastical patrons. In the
+premodern and Early Modern Period, female scribes had a tremendous knowledge
+of the materials they used and made conscious choices in selecting materials ap-
+propriate to the genre of text they were copying, the audience, and use. These
+choices were essential to their success and the success of their convents since book
+production, in many cases, was a lucrative industry that brought in much-needed
+funds to support their communities. This essay offers an overview of book produc-
+tion by Italian religious women living in the fifteenth and sixteenth centuries, dis-
+cusses their motives for copying texts, the scribal methods they used to make books
+– both in the scriptorium and in solitary labour – and explores how nuns chose
+
+
+
+
+
+2 For a broad survey of nuns’ book production, see the three volumes devoted to Nuns’ Literacies
+in Medieval Europe, Blanton, O’Mara and Stoop (eds) 2013; 2015; 2017. Two important monographs
+on female monastic book production in the Germanic lands include Beach 2004 and Cyrus 2009. On
+Portuguese nun-scribes, see Cardoso 2017.
+3 By the thirteenth and fourteenth centuries the traditional Benedictine houses in urban centres
+across the peninsula were joined by the new mendicant orders (Dominican, Franciscan, Augustin-
+ian, etc.) and these orders – often ‘reformed’ – would have a strong role in the production and
+dissemination of texts by female scribes.
+4 On Italian nun-scribes, see Richardson 2020, 96–126; see also the bibliography by Miglio and
+Palma 2012, and their database Donne e cultura scritta nel Medioevo (<http://www.tramedivita.it/
+donne/index.html>, accessed on 21 November 2023) which identifies hundreds of female scribes in
+medieval Europe from the eighth through fifteenth centuries. For an overview of nun-scribes in
+Italy, see Moreton 2013.
+                                                        Materials, Methods, and Motives  173
+
+
+
+materials and production practices that allowed them to further their communal
+and personal goals.
+     The current evidence of nuns’ book production centres on northern Italy (es-
+pecially Florence) in the late fifteenth and early sixteenth centuries and includes
+over two hundred and fifty manuscripts (devotional, theological, liturgical, admin-
+istrative) from over one hundred nuns and miniaturists from approximately fifty
+convents across all orders: Franciscan, Dominican, and Augustinian, as well as Ben-
+edictine, Carmelite, and Bridgettine.5 Though only a small percentage (probably less
+than 1%) of nun-scribed texts survive, the estimate of texts produced in the four-
+teenth and fifteenth century alone is in the tens of thousands, if one accounts for
+the average production of an established scriptorium based on evidence of writing
+desks and the need for a basic set of administrative, liturgical, paraliturgical, devo-
+tional, and theological texts, documentary evidence of personal and commercial
+book production, and the skills of female scribes attested in their surviving texts.
+Seeing even one single well-copied convent book can tell us that the same hand
+produced over a hundred manuscripts to achieve such a high level of mastery and
+skill.
+     The copying of texts demonstrates nuns’ literacies in Italian, Latin, and even
+Greek, and allowed them to be involved in intellectual and artistic work as part of
+their labora or conventual work. Though it varied from house to house, the basic
+skill set for producing texts (literacy and penmanship) existed in most convents.
+The demand for books came out of the conventual need for texts, which increased
+as convent populations increased (imagine the number of devotional/theological
+texts needed by a house of one hundred nuns) and reform movements necessitated
+the production of new liturgical manuscripts. Aside from fulfilling an in-house need
+for texts, nuns also saw bookwork as a means to increase their financial base –
+whether books were sold to an increasingly literate clientele or gifted to build alli-
+ances with wealthy family members, ecclesiastical or secular patrons. The produc-
+tion of books provided a creative outlet for learned women who entered convent
+life – either voluntarily or by force.
+
+
+
+
+
+5 This is not meant to paint a picture of production only in northern Italy – it may be that there
+was book production in central and southern Italian convents in the fifteenth and sixteenth centu-
+ries – such as in Rome, Naples and Sicily – but so far this evidence has not been demonstrated. In
+general, the evidence from Rome dates to a later period, especially the seventeenth century, which
+aligns with a shift in the centres of learning, flourishing of aristocratic court life, and changing
+convent demographics in Rome at that time which likely had the kind of impact on book production
+as it did in Florence and northern Italy in the fifteenth century. See Moreton 2013.
+174  Melissa Moreton
+
+
+     So, who were these women? Nun-scribes primarily came from merchant
+class families or were girls or women born into aristocratic families. Not neces-
+sarily wealthy, many of the most prolific scribes were from branches of mer-
+chant (new wealth) or aristocratic families (old family names, old wealth) who
+had fallen on hard times and given their daughters to the convent.6 The concen-
+tration of female scribal activity during the fifteenth and sixteenth centuries
+comes from the rise in convent population and the increase in literacy, educa-
+tion in writing, and the arts and many future scribes entered the convent as
+highly educated girls and women, who brought these skills to their houses.7 The
+number of women and girls entering the convent increased dramatically in the
+fifteenth and sixteenth centuries. In Venice, three of five patrician girls were
+nuns by 1581.8 In Florence, as many as one in nineteen residents of the city was
+a nun by the mid fifteenth century.9 Those given to the convent as toddlers could
+be fully educated within the house – tutored in languages and taught manuscript
+production and scribal work by the scriptorium’s senior scribe. This is the case
+with 1-year-old Angela di Lionardo Rucellai, who entered the Dominican convent
+of San Jacopo in Ripoli in Florence in 1444, learned Latin and Italian writing from
+her older convent sisters, and became a prolific senior scribe and a powerful
+and influential prioress of the house.10 Leadership within the convent and ad-
+vanced work in the scriptorium were often aligned.
+     Whether tutored privately in the home by male and female tutors, in a Latin
+grammar school setting by female magistrae and/or in the convent schools by
+
+
+
+6 Besides what can be gleaned from the manuscripts themselves, there are also a great range of
+documents produced within convents, including administrative documents and convent chroni-
+cles. Genealogies, diaries, family histories, and tax records provide vital information about nuns’
+families. For example, catasto records for cities like Florence (tax records that also provide census
+information) provide data on the size of a nuns’ family of origin and household, their economic
+status, and where they lived within the city before entering the convent.
+7 On Italian girls’ and nuns’ education in the period, see Richardson 2020, 97–99; Moreton 2017,
+385–390; Strocchia 1999.
+8 Brian Richardson also notes that convent populations in Milan increased fourfold and in Bologna
+eightfold over the course of the sixteenth century. Richardson 2020, 96–97.
+9 Sharon Strocchia notes that before the Black Death in 1348, one in two hundred and fifty resi-
+dents of Florence was a nun and by 1552, one in nineteen was. Strocchia 2009, xii. The rise in mar-
+riage dowry rates drove many families to place their younger daughters in religious houses. Nuns
+did come to the convent with dowries, but these cost much less than marriage dowries. On convent
+dowries, see Molho 1994; and Zarri 2000.
+10 Florence, Archivio di Stato, San Jacopo di Ripoli, 23: Croniche, segnato A, 1508–1778, fols 121r–122v.
+This source, the necrology of San Jacopo di Ripoli, and Rucellai’s biography have been examined
+by Strocchia 2007.
+                                                        Materials, Methods, and Motives  175
+
+
+
+learned nuns, upper- and middle-class girls and young women received varying
+levels of education from vernacular reading, craftwork, and learning the vir-
+tues, to a broader humanist education in Latin grammar, studying vernacular
+and Latin texts (moral philosophy, grammar, rhetoric, history, poetry), writing
+in Latin and Italian, penmanship, and basic accounting. An ever-increasing num-
+ber of these educated girls entered the convent from the mid fifteenth century
+onward. Choir nuns (those who took full vows, could vote within the convent,
+were obliged to attend all choir Offices, were generally from elite or wealthy
+families, and could read and write) were the most educated members of the con-
+vent, and by and large, were the scribes, secretaries, authors, composers, poets,
+playwrights, singers, artists, and savvy financial and political administrators of
+urban convent communities. Within the convent, literacy was necessary to work
+in the scriptorium, assume administrative positions, and rise through the ranks.
+‘Impara, impara a leggere: così diventerai badessa’ (‘Learn, learn to read: this is
+how you will become abbess’) said Margherita da Faenza, thirteenth-century
+foundress of the Florentine convent of San Giovanni Evangelista.11 Certainly by
+the late fourteenth-century, literacy and the convent were firmly linked in the
+minds of the secular public as the Florentine merchant Paolo da Certaldo demon-
+strated when he wrote that one should certainly educate one’s sons, but there is
+no point in educating your daughter in reading unless she is destined for the
+convent.12
+     Work was regulated within the scriptorium, which could be defined as a formal
+space set aside for writing with numerous writing desks, but likely also included
+more informal spaces at houses where book production was not a primary activity.
+Fig. 1 illustrates a writing desk situated outdoors, under the arch of a loggia – plac-
+ing the scribe, Saint Bridget of Sweden, in an imaginary space in keeping with the
+medieval practice of writing in the cloister, which was spacious, provided shelter,
+and excellent light.
+
+
+
+
+
+11 Miglio 2008, 30.
+12 ‘Lo fanciullo […] ne’ sei o ne’ sette anni, porlo a leggere […] e s’ell’è fanciulla femina, polla
+a cuscire e none a leggere, ché non istà troppo bene a una femina sapere leggere, se già no la
+volessi fare monaca’ (‘The child […] at six or seven years of age, teach him to read […] and if
+the child is a girl, teach her to sew and not to read, for it is not good for a woman to know how
+to read, unless you want her to become a nun’), Schiaffini (ed.) 1945, 126–127.
+176  Melissa Moreton
+
+
+
+
+Fig. 1: This portrait of Saint Bridget at her writing desk may provide some information about the appear-
+ance and location of writing desks at the convent. Detail of a drawing by an anonymous nun of Santa Brigi-
+da al Paradiso, Florence (c. 1500); Florence, BNC, II.II.393, fol. 1r; © Florence, BNC.
+                                                            Materials, Methods, and Motives  177
+
+
+
+Most evidence of female monastic scriptoria, however, show that the nuns
+worked in a designated space set aside for writing.13 At the Benedictine house of
+Santissima Annunziata delle Murate (Le Murate), the construction of writing
+desks was well documented in the convent’s chronicle. The chronicle notes the
+establishment of the scriptorium in the early 1470s, and its reconstruction and
+enlargement after a fire, supported by the patronage of a powerful local family,
+the Medici, who funded the building of ten new writing desks. The convent even-
+tually had an astounding twenty-six desks.14 A scriptorium, as a physical space,
+could be quite simple – writing desks or scrittoi – equipped with the basic tools
+necessary for the production of texts: parchment or paper, straight edge and tools
+for ruling, awl, quill, ink, and a knife for trimming parchment, quill-cutting, and
+scraping away parchment if a mistake needed correcting. The tools and space
+(unlike those needed for printing) were quite low tech and basic. The greatest
+expense was in sheet materials (parchment and paper) and the investment of
+time needed to turn a nun into a proficient scribe. So, for a convent in need of
+books – which they all were – this was a wise venture that could pay off in sup-
+plying the communal library with texts, and if the scribes were talented enough,
+in supplying the convent with beautiful books that could be sold (supplementing
+the community’s coffers) or given away as gifts, in exchange for the promise of
+patronage from wealthy donors. The choices they made in creating each book
+demonstrate that these women were savvy book producers, knowledgeable about
+how materials and methods impacted the products they were creating for audi-
+ences both inside and outside the convent walls.
+
+
+
+
+
+13 Some conventual plans note a scriptorium space, generally situated facing the cloister or other
+open-air courtyard, to take advantage of the abundant natural light. In the case of Le Murate, there
+is evidence of a large number of writing desks being used within a prescribed space that faced east;
+the scriptorium at San Jacopo di Ripoli may have faced south-east; the Paradiso scriptorium may
+have had light from both the west and east. It is interesting to note that the planned scriptorium at
+the Venetian convent of Santa Croce della Giudecca places the scriptorium opening to the west. See
+Moreton 2013, 104–106.
+14 The Murate convent chronicle states ‘li scrittoi, che vi sono oggi di numero xxvi, divisi con li
+assiti’ (‘the writing desks, which today number twenty-six, divided by partitions’). Florence, BNC,
+II.II.509, fol. 88v. For other references to scriptorium augmentation, see fols 42r, 45r, 67v–68r, 74v, and
+88v. The chronicle has been transcribed and translated into English by Weddle (tr. and ed.) 2011.
+See also Weddle 1997.
+178  Melissa Moreton
+
+
+
+2 Scribal training, production, and choice
+Scribes used specific styles of scripts in their book production, which were suited
+to particular genres of texts (liturgical, devotional, theological, administrative).
+Each script was chosen for its speed (slow, fast), appearance (formal, informal), and
+the audience (personal, communal, for use inside the convent or for the public) and
+often said something about a nun’s level of education and her motives for writing.
+Systems of partnership, mentorship, and training are visible within the manu-
+scripts and noted within colophons. Divisions of labour in the scriptorium provided
+specialization in certain areas of work, giving them focused expertise in either
+scribal work or notation for choir books and other liturgical manuscripts. These
+partnerships allowed them to streamline their scriptorium practice and excel in
+liturgical manuscript production, raising the quality of these books for in-house use
+and increasing their value for sale to other religious communities, both male and
+female. The development and use of decorative penwork also had economic ad-
+vantages (no need to outsource decoration to secular manuscript painters) and
+gave nuns more control over the decoration of their books.
+
+
+
+2.1 The choice of script
+Nuns’ choice of script depended on the genre of text and the audience. A littera
+textualis (Gothic book hand) was the most common script used for liturgical, parali-
+turgical, devotional, and theological texts. Its long use for this conservative genre
+of manuscripts dictated that scribes continued to support the traditional use of this
+script with little variation. A central factor in nuns’ loyalty to littera textualis was
+the scribal logistics of making a copy from an exemplar. If the source manuscript
+was written in littera textualis, then the copy was most often written out in the same
+script. To deviate from this and keep the same letters per line and lines per page
+would be extremely challenging and this contributed to the longevity of this script
+in the monastic context. In its varied forms, littera textualis was the visual lingua
+franca, the common scribal currency, of the monastic world in Europe used by their
+priest confessors, conventual overseers, and the Church as a whole. The script also
+provided a formal authenticity to the texts they copied, recalling the handwriting
+of early medieval patron saints, theologians, and spiritual exemplars dear to the
+convent community. This adherence to tradition and textual ‘authenticity’ was slow
+to change.
+     There are a wide number of variations within the littera textualis family. For
+large communal liturgical manuscripts, a southern textualis (Gothic rotunda) was
+                                                           Materials, Methods, and Motives  179
+
+
+
+commonly used. Choir books were necessarily large (requiring several people to
+move them) and demanded a large, highly legible, script that could be seen from
+far away, important for reading communal liturgical books on a lectern from the
+distance by singers in the choir. By the sixteenth century, a bold and rounded
+Gothic script had fully developed on the Italian peninsula and the nuns adapted the
+elegant and modernized letterforms for use in their large communal music manu-
+scripts.
+     Formal book hands, upright and regular, required more strokes to form each
+letter than a cursive script did. Though speed was not necessarily an issue for the
+early medieval monk, whose work in the scriptorium was part of his monastic
+labora, this was not necessarily true for nuns. Their book production varied widely
+across orders and within individual communities. Many houses produced books for
+sale, the proceeds of which were essential for maintaining the community finan-
+cially. Others produced luxury manuscripts for gift exchange, important for build-
+ing critical patronage bonds between the convent and wealthy supporters.
+     All houses with active scribes produced devotional texts for use within the
+house, for sale, and for exchange with other convents. For devotional books not
+requiring the full formality of a formal Gothic book hand, an abbreviated form of
+littera textualis was often used. As a formal script, requiring several penstrokes for
+each letter, littera textualis was a slow script to write and Italian nuns who were
+copying devotional books for use within the convent or for personal use were often
+less concerned about orthographic formality than about getting a manuscript cop-
+ied out as quickly as possible. In these cases, the scribe may choose a littera textualis
+semplificata, the name Italian palaeographers use to describe a Gothic book hand
+with an abbreviated number of strokes. For example, a miniscule or lower case ‘s’
+in a formal littera textualis may require four strokes, but in its simplified form,
+could be accomplished in as little as one, thus saving time. Though speed was often
+a consideration when choosing a script, nuns also used this abbreviated script even
+when they were not in a hurry to finish a text. It was a relaxed book hand that was
+easy to write in and involved less concentration and rigid adherence to visual rules
+than a formal textualis. Comfort and familiarity with a style often outweighed the
+need for speed.
+     In one case, a nun tells us that she is copying out her devotional book ‘by the
+light of an oil lamp’, suggesting this was solo labour carried out in the dark and
+quiet hours in her monastic cell, between early morning prayers.15 The colophon
+
+
+
+
+15 Florence, BNC, Conv. Soppr. G.II.1441, fol. 204r. The 204-folio manuscript, containing Books III–IV of
+Simone da Cascia’s Esposizione dui Vangeli, measures 291 × 212 mm and has an average of 29 lines per
+180  Melissa Moreton
+
+
+tells us the book took almost two years to copy out, which translates as roughly 1.2
+folios (a little over one page) per day, if she was working seven days a week – slow,
+by scribal workshop standards.16 Even though this is a personal book which the nun
+is copying out as an act of meditation and devotion (not a race), the nun still uses a
+more efficient littera textualis semplificata. It is the script she is most comfortable
+with and the book is for her – no one else – so she makes that choice. This issue of
+‘scribal speed’ is an underdeveloped area of study within female monastic produc-
+tion. Women had varied motives when deciding on a choice of script – decisions
+that were not always dictated by the economic demands that drove secular scribal
+workshops.
+     By the sixteenth century, a formalized and elegant chancery cursive (cancel-
+laresca corsiva) had been adopted from the chancery scribes and was in use by an
+increasingly literate public – something the nuns would have been introduced to
+through the letter-writing and correspondence they engaged in with family mem-
+bers outside the convent walls. Cancellaresca went from a chancery script to a book
+hand, which was more formal and used by a wide public (and formed the basis of
+the new Italic type developed in Italy in the early sixteenth century). The script was
+used in the period by nuns for their devotional manuscripts, as well as a more formal-
+ized version used for presentation copies of convent chronicles, a popular genre of
+nun-authored writing by the mid sixteenth century. There are many examples of this
+script in use by Italian convent scribes in the sixteenth century (see details in Fig. 2).
+
+
+
+
+page. Bridgettine scribe Cleofe (Ginevra di Lorenzo Lenzi) of Santa Brigida al Paradiso notes in her col-
+ophon that she began the book 12 November 1502 and finished it 28 October 1504, stating that it was
+‘written with extreme effort and great discomfort, the major part by the light of an oil lamp’ (‘Iscricti
+con grandissima faticha (et) disagio, la maggior parte a llume di lucerne’). Cleofe uses variations on this
+colophon phrase in several other devotional compilations she copied in the late 1400s, which contain
+Books I–II of Bridget of Sweden’s Rivelazioni (Florence, BNC, MS II_130, fol. 154v) and Books VII–VIII
+(Florence, BNC, MS II.III.270, fol. 137v). Cleofe may have drawn part of the phrase (‘faticha et disagio’)
+from her scriptorium mentor, Raffaella di Arnolfo Bardi, who uses it in several devotional texts, includ-
+ing one written over the course of seven and a half years (Florence, BML, Acq. e doni 85, fol. 72r). This
+practice of solo devotional writing is not unusual; it is simply rarely documented. Colophons provide
+unusual insight into scribal production practices, which are otherwise invisible or difficult to recover.
+On the Paradiso manuscripts, see Miriello 2007; on colophons, see Moreton 2014 and 2023.
+16 In Johan Peter Gumbert’s classic study on scribal speed (Gumbert 1995), he calculated the speed
+of a scribe working on a manuscript of similar size and number of lines would on average complete
+3.2 folios per day. This is almost three times the speed of Cleofe, however, this is calculated on the
+work of secular scribes whose work sessions were not constrained by the demands of the monastic
+calendar and daily hours. Also, the style of script is not indicated in Gumbert’s example. The speed
+of cursive scripts, of course, was very fast; formal book hands could be quite slow to write. Varia-
+tions in between, such as a littera textualis semplificata would be a medium-paced script.
+                                                                Materials, Methods, and Motives  181
+
+
+
+
+a: Littera textualis (Gothic book hand)                   b: Littera textualis semplificata
+
+
+
+
+c: Southern textualis (Gothic rotunda)                    d: Humanist
+
+        b
+
+
+
+
+e: Cancellaresca corsiva (chancery cursive)               f: Cancellaresca corsiva
+
+Figs 2a–f: The variety of scripts used by nuns in late medieval and early modern Italy. These were paired
+with specific genres of texts – and chosen for their speed, appearance, and the book’s intended audience
+and use. (a) Florence, BML, Conv. Soppr. 459, fol. 7r; (b) Florence, BML, Conv. Soppr. 469, fol. 1r; (c) Florence,
+Museo di San Marco, 630 (unfoliated); (d) Verona, Biblioteca Civica, 1196, fol. 30v; (e) Florence, Biblioteca
+Riccardiana, 1794, fol. 98v; (f) Florence, BNC, II.II.509, fol. 1r, © Florence, BNC, BML, Biblioteca Riccardiana,
+Museo di San Marco; Verona, Biblioteca Civica.
+
+
+One example of a nun’s choice of cursive for speed is a copy of the Regula del sanc-
+tissimo Benedetto (‘Rule of Saint Benedict’), a vernacular reissue made specifically
+for reformed Benedictine nuns in the period. We know the exemplar is from a new
+1532 print edition of the text because the nun copied it out, including the printed
+colophon, in her personal manuscript copy (Figs 3a–b). She is moving here between
+reading the Roman typeface with abbreviations, set in thirty lines per page, to mak-
+ing her own copy with approximately twenty-two lines per page. The printed book,
+with eighty folios, becomes a 139-folio manuscript. She chose a fast script for the
+task – cancellaresca – and her version bounces between upright ascenders (‘l’ and
+‘d’) and slanting capitals and descenders (‘g’). She adds her own abbreviations, de-
+viating regularly from those of the exemplar (she sometimes spells out the printed
+abbreviations and sometimes abbreviates words that are printed out in full),
+demonstrating her advanced reading and writing skills, literacy in the vernacular,
+and familiarity with Latin (Italian abbreviations are drawn from those used in
+Latin manuscripts). She is clearly in a rush to finish this job, judging by ink spills in
+the manuscript and her hurried cursive script – perhaps eager to return the popu-
+lar and new print edition to whomever she borrowed it from.
+182  Melissa Moreton
+
+
+
+
+Fig. 3a: The 1532 print edition of the new Regula del sanctissimo Benedetto composed in Italian for re-
+formed Benedictine nuns in Venice and printed in a Roman typeface by Francesco Bindoni and Maffeo
+Pasini; Pistoia, Biblioteca capitolare Fabroniana, p. 2; © Pistoia, Biblioteca capitolare Fabroniana.
+                                                         Materials, Methods, and Motives  183
+
+
+
+
+Fig. 3b: Venetian nun-scribe’s copy of the printed book copied out in a hurried cancellaresca-related
+script, showing her command of abbreviations which do not follow those of the print edition; Toronto,
+Thomas Fisher Rare Book Library, MMS 01207, fol. 2r; © Toronto, Thomas Fisher Rare Book Library.
+
+
+
+The most surprising choice of handwriting style might be the humanist script found
+in a late fifteenth-century theological text produced by northern Italian nun
+184  Melissa Moreton
+
+
+Domitilla Bernabuzi (Fig. 2d). The text is a theological treatise translated into Italian
+by the nuns and Bernabuzi’s use of a humanist miniscule in this manuscript is
+unique within the over two hundred and fifty nun-scribes’ manuscripts consulted.
+The overwhelming majority of devotional and theological works copied by nuns in
+the fifteenth century were written out in a littera textualis and Bernabuzi is differ-
+entiating herself and her work through this choice of script, signalling to the reader
+that she was educated – possibly by a humanist scribe – within a secular aristo-
+cratic household before entering the convent. This messaging through the choice of
+script.17
+      Hands – the writing of an individual scribe within a given script – also vary
+widely. Some are quite practised, others more ‘rough and ready’ in style. But from
+this variety, we gain a lot of information about the motives for writing the text. Did
+the nun write in a hurried hand – to get the book copied out? Or did she take more
+time? The hand, if extremely well practised, can provide valuable information
+about where that scribe was in her career when she made the book. Even if we only
+have one known book from a scribe, but it is extremely accomplished, we know she
+is likely to have made at least one hundred manuscripts before she made this one.
+This is the case with a manuscript penned by Benedictine nun Battista Carducci
+from Le Murate (Fig. 4). The manuscript was expertly scribed in an elegant littera
+textualis in the early 1500s and exquisitely decorated by famed secular manuscript
+painter Attavante de Attavanti, becoming a gift for Pope Leo X, member of the illus-
+trious Medici family of Florence. An important gift exchange was certainly not left
+to a new scribe! Carducci does not name herself in a colophon (not uncommon for
+liturgical manuscripts, especially high-end commissions). We learn her name only
+from the convent chronicle – as well as the story of the gift exchange. The nuns
+presented the manuscript to a powerful member of this important local patron fam-
+ily, and he gave them a bag of gold coins in return.18
+
+
+
+
+17 The manuscript is Verona, Biblioteca Civica, 1196, a copy of Gregory Correr’s epistle, De com-
+modis vitae regularis seu de contempt mundi, which she copied out in 1474. On Domatilla Bernabuzi,
+her humanist education, and self-identification as a humanist-trained scribe, see Moreton 2014,
+55–57, and Moreton 2023.
+18 On Le Murate missal gifted to Pope Leo X, see Le Murate chronicle (Florence, BNC, II.II.509, fol.
+76r), and Lowe 1996. Other examples of high-end production from female scribes include a mid-
+fifteenth-century breviary by Augustinian nun Maria di Ormanno degli Albizzi of the Florentine
+convent of San Gaggio, and a missal of 1447 by scribe and abbess, Piera de’ Medici, of the Vallom-
+brosan monastery of Santa Verdiana in Florence. For more on Maria di Ormanno degli Albizzi’s
+breviary (Vienna, Österreichische Nationalbibliothek, Cod. 1923), see Arthur 2017 and Moreton 2023.
+Piera’s missal is Florence, BML, Conv. Soppr., Vallombrosa codex 235. For more on Piera’s manu-
+script and the creative leveraging of her Medici status, see Strocchia 2014.
+                                                          Materials, Methods, and Motives  185
+
+
+
+
+Fig. 4: A 385-folio missal completed by Murate nun Battista Carducci in 1509 and illuminated by Atta-
+vante de Attavanti between 1509 and 1515 in Florence. The coat of arms of Pope Leo X was added at
+the bottom, once it was decided that the important Medici patron was to be the recipient. Paris, BnF,
+lat. 17323, fol. 13r; © Paris, BnF.
+186  Melissa Moreton
+
+
+It is critical to analyse the hands within a manuscript as well as the choice of script.
+Both provide information about scribal agency, the motives for copying, the manu-
+script’s audience, how the book was used, and allow us to construct a wider view
+of scriptorium training, partnerships, and practice.
+
+
+
+2.2 Scribal practice, training, and teamwork in the scriptorium
+Once a girl entered the convent and showed a vocation for scribal work, she was
+educated in copying within an informal system within the house where novices
+were mentored by senior scribes, worked in teams through many decades. We
+know this from the manuscript evidence where the ‘hand’ of a senior scribe was
+dominant in a manuscript; her apprentice taking on very little of the production
+and often left to scribe the middle section or a section of the manuscript that is not
+highly visible. Over time that relationship shifted and it was the novice that was the
+senior scribe, working on the majority of a text, and the elder scribe is only com-
+pleting a small section of the manuscript. There are a number of documented ex-
+amples of this mentoring from the Florentine scriptorium of the Bridgettine double
+monastery of Santa Brigida al Paradiso, occupied by friars and nuns from the early
+fifteenth through the mid sixteenth century.19
+      Raffaella di Arnolfo Bardi, a senior scribe at the Paradiso mentored a generation
+of nun-apprentices in the scriptorium, including Cleofe (Ginevra di Lorenzo Lenzi)
+who went on to mentor Cecilia (di Francesco Cattani da Diacceto) and several less pro-
+lific, but well-trained scribes. There are several known examples of Raffaella scribing
+the majority of a manuscript, and junior scribe Cleofe completing a smaller section.
+This pattern of mentorship continued once Rafaella retired from the scriptorium and
+Cleofe took over as senior scribe, mentoring younger scribes Cecilia, Margherita (Nic-
+colini), and Maria (Matilde Chiavacci). One example of Cleofe and Cecilia’s shared work
+at the Paradiso is a late fifteenth- / early sixteenth-century copy of Giovanni da Calvoli’s
+Meditazioni sulla vita di Gesù Cristo (Florence, Biblioteca Riccardiana, 1413) (Fig. 5).
+
+
+
+19 The friars were the first to produce books (for a Franciscan book market) and by the early
+fifteenth century had begun teaching the nuns book production. By the mid fifteenth century the
+nuns had taken over scribal production, copying twice as many books with half as many scribes in
+the period they were active – and producing hundreds of books for their community. Under the
+guidelines of the Bridgettine order, the community was run under the leadership of the abbess with
+friars taking on the quotidian demands of maintaining the monastic complex, thus freeing the nuns
+to focus on spiritual perfection, prayer (meditation, chanting, solitary, and communal reading),
+sewing, embroidery, and for a select group, work in the scriptorium. On the nun-scribes of Santa
+Brigida al Paradiso, see Miriello 2007.
+                                                         Materials, Methods, and Motives  187
+
+
+
+Senior scribe Cleofe is the main scribe (of Section 2 of the manuscript), completing
+fols 267r–296v. Cleofe allows Cecilia to complete a small text at the end of the manu-
+script, excerpts from the Articoli della dottrina Cristiana (fols 295r–396r).20 Later, as a
+senior scribe, Cecilia would continue mentoring new novices in the same way. The
+surviving manuscripts from the Paradiso scriptorium allow scholars to study changes
+in a nun’s hand over time, from uncertain apprentice and novice (completing small
+sections of manuscripts), to accomplished senior scribe with a strong hand (completing
+the majority of a text), to elder scribe whose hand is shaky (again completing small
+sections).
+     Nuns also often worked in teams on large communal liturgical manuscripts
+with one scribe completing the scribal work or lettering and the other copying out
+the musical notation. They tell us about this division of labour in their colophons.
+These teams included Angela di Leonardo Rucellai (lettering work) and Lucrezia
+Panciatichi (musical notation) of the Florentine Dominican convent of San Jacopo
+di Ripoli and Gostanza Cocchi (Nannina di Niccolo di Messer Donato Cocchi) who
+completed the lettering with Angela di Antonio da Rabatta (as miniaturist) at the
+convent of Sant’Ambrogio, Florence.21
+     The level of scribal production varied depending on the skill level of the scribe
+and her expertise in the scriptorium. Advanced scribes became proficient at many
+scripts. Mentorship over many hours, days, and years was essential to master a di-
+verse range of scripts including the formal book hand (littera textualis) and its var-
+iants, used for most copying within the scriptorium. Not all scribes mastered this
+diversity of scripts. The most accomplished scribes, like Angela Rucellai, who were
+able to gracefully execute the large Gothic lettering needed for the massive commu-
+nal choir books, could easily copy out devotional and other texts in an elegant lit-
+tera textualis – whether those books were destined for sale or gifting to external
+patrons or for use by the sisters. However, even scribes with basic proficiency
+learned how to write in a decent littera textualis – a script needed for smaller litur-
+gical and paraliturgical texts (communal processionals, rituals, etc.) and personal
+devotional manuscripts.
+
+
+
+20 Florence, BML, Conv. Soppr. 459. The first section of the manuscript (fols 1–266) was completed
+by an unidentified scribe and contain various commedia and laudes; Section 2 was scribed by Cleofe
+and Cecilia. The book was used by a friar (Peter) of the house, who left his possession note in the
+manuscript’s margins in the early sixteenth century (on fols 277r, 332v, 355r, 396v). On the Paradiso
+scribes, see Miriello 2007, 156–161.
+21 On these scribe-notator teams, see Moreton 2023 and 2014. Rucellai and Panciatichi’s teamwork
+survives in several manuscripts in the Museo di San Marco, Florence, including manuscripts Grad-
+uale 630 and 634 Corale P. The Sant’Ambrogio example is Florence, BML, Conv. Soppr. 90. On Rucel-
+lai, see Strocchia 2007; on the Sant’Ambrogio example, see Strocchia 2002.
+188  Melissa Moreton
+
+
+
+
+                                a                                    b                                    c
+
+Figs 5a–c: Italian Bridgettine nuns’ late fifteenth- / early sixteenth-century work copying a brev-
+iary/prayer book, Florence, BML, Conv. Soppr. 459: (a) fol. 7r, senior scribe Raffaella’s formal littera tex-
+tualis; (b) fol. 364r, one of only a few folios at the end of the text by Cecilia (who worked in the scripto-
+rium in the early 1500s); (c) fol. 375r, another nun’s scribal work on paper, dating to the early sixteenth
+century (perhaps Cecilia at a later date, or her student); © Florence, BML.
+
+
+
+2.3 Decorative penwork as a mark of communal and
+    self-identification
+Penwork decoration – that is, decoration made entirely with the quill – could in-
+clude simple or ornate ribbon initials, Roman capitals, borders, and drawings and
+show a tremendous range throughout the late medieval and Early Modern Period.
+Nuns did not always leave their names in their colophons, but instead found other
+ways of marking their presence within the manuscripts they produced. Within
+work traditionally bound by the expectation of pious anonymity, penwork pro-
+vided an outlet for self-expression and self-identification (‘I made this book!’).
+Scribes developed their own decorative flourishes, including elongated descenders
+and ascenders, stylized penwork initials, and distinctive and repeated patterns of
+marks surrounding their catchwords. These are ubiquitous (once you know to look
+for them) and include a range of personalized penwork that allowed nuns to create
+the hierarchy of script needed for reading and gave them artistic license over the
+decoration of their books.
+                                                              Materials, Methods, and Motives  189
+
+
+
+
+Fig. 6: Devotional manuscript by Cleofe of Santa Brigida al Paradiso written in a simplified littera textualis
+with a penwork initial in red and with the guide letter ‘t’ in margin indicating which initial to draw.
+Above the ‘T’ is the rubricated chapter heading. Small ribbon initials begin each line, which are toccata
+di giallo (‘touched with yellow’ paint) in imitation of gilded letters. Late 1400s–early 1500s. Florence,
+Biblioteca Riccardiana, 1413, fol. 296v; © Florence, Biblioteca Riccardiana.
+190  Melissa Moreton
+
+
+Examples include Paradiso scribe Cleofe’s devotional manuscript with small ribbon
+initials highlighted in yellow, her distinctive long ascenders and descenders, and
+catchwords surrounded by her characteristic four dot style, visible in the lower
+margin of this verso folio (Fig. 6) and Ripoli scribe Angela Rucellai’s signature catch-
+word decoration used in both small devotional and large liturgical manuscripts
+(Fig. 7). These flourishes are distinctive to each scribe and used across many dec-
+ades. Decorative penwork is an underdeveloped method for identifying an un-
+named scribe, identifying, and dating a known scribe’s manuscripts. Once a num-
+ber of examples are gathered, they may be used to create a chronology of a given
+scribe’s work (something difficult to do if manuscripts are undated). Decorative
+penwork, such elongated and/or dashed descenders and catchwords with distinc-
+tive decorative motifs were one way in which scribes could leave self-identifying
+marks in their manuscripts. Without signing with her name, she is leaving her call-
+ing card within the books and connecting herself to her work in perpetuity.
+
+
+
+
+                                  a                                   b                           c
+
+Figs 7a–c: (a) Detail of Angela Rucellai’s simple four-leafed flower design surrounding her catchword
+on the verso folio of a personal devotional collectar or collection of prayers; New York, Columbia Uni-
+versity Libraries, Rare Book & Manuscript Library, MS Western 112. (b) A more decorative variation of
+Rucellai’s catchword on the verso folio of another collectar, Florence, BNC, Conv. Soppr. D.7.344. (c)
+Detail of Rucellai’s distinctive catchword with an extra flourish for a large communal choir book.
+Lower verso margin of a gradual, c. 1500; Florence, Museo di San Marco, Graduale 630. © New York,
+Columbia University Libraries; Florence, BNC, Museo di San Marco.
+
+
+
+Penwork borders and decorative ‘ribbon initials’ – initials built entirely from pen-
+strokes instead of painted with a brush and pigments – flourished throughout the six-
+teenth century in Italian convents. These built-up calligraphic initials provided nuns
+with another form of lettering within their expanding toolbox of decorative penwork
+and moved the production of large initials out of the miniaturist’s workshop and into
+the hands of nun-scribes. It was economical to do this work in the monastic scripto-
+rium, rather than outsource it to secular illuminators. Ribbon initials became popular
+for building a hierarchy of script, especially in communal liturgical manuscripts which
+required large initials visible to the singers at a distance.
+                                                              Materials, Methods, and Motives  191
+
+
+
+
+Fig. 8: ‘Lettera Cancellaresca più facile per le Monache’ / ‘cancellaresca script made easy for nuns’. A folio
+from an Italian handwriting sample book for nuns, demonstrating how to write an easy, simplified cancel-
+laresca script. Late 1600s / early 1700s. Chicago, Newberry Library, Vault Wing MS ZW 735.C697 (unfoliated);
+© Chicago, Newberry Library.
+
+
+
+Convent chronicles – authored and written out by the nuns – were also decorated
+with drawings and border designs in ink and constituted a type of communal self-
+identification. The source of this flourishing may be twofold. One, convents were
+filled with women who increasingly had graphic skills in writing and the calli-
+graphic arts, influenced by the boom in the popularity of penmanship ‘how to’ sam-
+ple books, which demonstrated how to write in the new stylized cancellaresca cor-
+siva, build ribbon initials, and add decorative flourishes onto one’s scribal work
+(see Fig. 8).22 Two, the popularity of printed books and the development of the title
+page influenced the convent chronicle genre (see Fig. 9).
+
+
+
+
+
+22 These books were common in the sixteenth century. A newly literate population was not only
+buying printed books, but also eager to learn how to write in the new handwriting style, to partic-
+ipate in letter writing and self-publishing manuscript copies of their own work. The Newberry Li-
+brary, Chicago, has a large collection of Italian writing sample books from the period in their calli-
+graphic collections.
+192  Melissa Moreton
+
+
+
+
+                                                                      a
+
+
+
+
+                                                                          b
+
+
+Figs 9a–b: (a) A ribbon initial with elaborate flourishes in the 1598 convent chronicle of Le Murate,
+Florence, scribed by Suor Maria Benigna di Stiatta Cavalcanti. Florence, BNC, II.II.509, fol. 1r. (b) The
+chronicle title page, with penwork drawings of animals and flora, decorative borders, and calligraphic
+flourishes filling the page. Florence, BNC, II.II.509, fol. IIIr; © Florence, BNC.
+                                                Materials, Methods, and Motives  193
+
+
+
+As a self-made product, the chronicles were produced for the nuns themselves and
+not for sale to an external audience – and this was the type of decoration they could
+complete in-house. High-end books made within the convent scriptorium and des-
+tined for sale or gift exchanges were most often painted and gilded by male secular
+decorators – a cost that was factored into the final cost–profit equation. However,
+most devotional and communal history books made for the convent could be deco-
+rated by the nuns themselves, with penwork initials and border designs or painted
+with simple initials. This reduced external production costs and provided an oppor-
+tunity for artistic expression in books that were shared with the convent commu-
+nity for generations. These skills became increasingly important beginning in the
+seventeenth century, as secular illuminators and painters became less common in
+Italian cities. The nuns, who were active in book production well into the Early
+Modern Period, could no longer outsource decorative work and necessarily had to
+become more self-reliant, engaging artists within their own houses to embellish
+their manuscripts.
+
+
+
+3 Knowledge of materials
+Books were valuable commodities, and nuns carefully weighed the economics of
+material costs, a book’s intended audience, and its use when deciding on sheet ma-
+terial, clasps, and covers. A knowledge of materials was critical, and analysing a
+book’s materials – such as parchment, paper, and leather, can provide valuable in-
+formation on the costs of production, who owned the book, and how it was used.
+
+
+
+3.1 Sheet material: Paper vs parchment
+Though it is difficult to analyse comparative prices – they change across time and
+place – it is safe to say that parchment was more expensive than paper and eco-
+nomics increasingly determined which sheet material was used for writing from
+the fifteenth century onward. Parchment prices varied depending on the time of
+year, type of animal skin, availability of hides and processing operations, and the
+quality of the finished sheet material which varied widely from maker to maker,
+region to region. With the advent of printing and the proliferation of mills meeting
+the demand for paper, costs of paper dropped substantially, and the choice of using
+parchment became much more deliberate. It is instructive to think of the pairing of
+certain materials with genre and several types of manuscripts written on parch-
+ment emerge from the sea of works on paper. The first are liturgical works large
+194  Melissa Moreton
+
+
+and small for worship of the Mass and Office, which had to be durable and worthy
+of God. Next are paraliturgical texts, such as monastic rules, constitutions, etc.,
+made on parchment because of their important spiritual, administrative, and legal
+role in communal life. Parchment was used well beyond the seventeenth century
+for these types of manuscripts, despite the costs.
+     The preference for parchment comes from two notions – one, that fine parch-
+ment was a godly material suitable for the word of God and two, that it was a supe-
+rior sheet material able to withstand the type of use and abuse that functional li-
+turgical manuscripts were subjected to. The latter reason was articulated in the
+treatise De laude scriptorium manualium (‘In Praise of Scribes’) written in 1492 by
+German abbot Johannes Trithemius. He states that books written on parchment are
+more durable, accurate, reliable, better edited and distributed than those printed
+on paper (he had issues with both paper and printing).23 He also makes a point –
+that the scribe, unlike the printer, can reproduce whatever text he likes, without
+the constraints of censorship. Ideas about the durability and godliness of parch-
+ment persisted for centuries, but by the sixteenth century, parchment was increas-
+ingly selected only for works of high practical (instructional/liturgical), legal (ad-
+ministrative/archival), spiritual (patristic/hagiographic) or economic value (luxury
+manuscripts for sale or gift exchanges).
+     Monastic rules were commonly written on parchment, like the Monteluce copy
+made by Clarissan nun Maria di Bartolomeo da Perugia at Santa Maria di Monteluce
+in Sant’Erminio. This was a sacred text and one that – if all else was destroyed –
+would be a foundational document the nuns would need. Maria copied out this Re-
+gola di Santa Chiara in the vernacular, on carta pecorina (parchment).24 They knew
+that parchment was more durable and used it judiciously for specific texts that war-
+ranted the extra cost because of their central importance to the life of the commu-
+
+
+
+
+
+23 Chapter VII, ‘Quod propter impressionem a scribendis voluminibus non sit desistendum’ is
+cited in Petrucci 1995, 509–510.
+24 The death record for Maria di Bartolomeo, memorializes her as a woman ‘molto suffitiente
+[sic], docta de lectere et de scrivere’ (‘very learned in reading and writing’) and notes that she wrote
+out ‘doi Regule vulgare, cioé la Regula nostra: una in carta bambagina, la quale se usa in leggere ad
+la mensa; l’altra scripse in carta pecorina, la quale ne vulghariçò el sancto padre beato Bernardino
+da Feltro per nostra consolatione’ (‘two rules in the vernacular, that is, our rule: one on carta bam-
+bagina, which is used for reading during mealtimes: the other written on parchment, which was
+vulgarized by holy Father Beato Bernardino da Feltro for our consolation’). They are distinguishing
+between two different vernacular versions of the Rule of Saint Claire, and choosing parchment for
+one and paper for the everyday copy. Perugia, Monastero di Santa Maria di Monteluce in Sant’Er-
+minio, Memoriale, fol. 51r (cited in Umiker 2012, 115).
+                                                           Materials, Methods, and Motives  195
+
+
+
+nity. However, we also learn that Maria made another copy of the Regola for read-
+ing at mealtimes. They note that she wrote this copy on ‘carta bambagina’ (paper),
+a term that referred to a handmade paper made from high quality fibre. The nuns
+are making it clear that though it was not on parchment, this everyday copy was a
+quality item as well.25
+     The prestige of the scribe may have been another decision-making factor when
+choosing parchment. The well-born and aforementioned nun Domatilla Bernabuzi
+copied out a work on parchment in her humanist script in 1474 – a personal theo-
+logical manuscript, Gregory Correr’s De commodis vitae regularis seu de contemptu
+mundi (Verona, Biblioteca Civica, 1196). She was from an aristocratic family and
+likely came to the convent with scribal and language skills. She or her family may
+have bought the material for the book, a practice that was not uncommon. Writing
+materials, such as quills and parchment, were sometimes supplied in this way. It is
+clear from the Paradiso manuscripts on parchment, that only the most accom-
+plished scribe, Suor Raffaella Bardi, had access to this expensive sheet material.
+Judging from the manuscripts she completed on parchment, she allowed the junior
+scribes in the scriptorium to pen only a few folios in the centre of the book. Mistakes
+were too costly, but she clearly wanted them to have the experience of writing on
+parchment.26
+     Parchment was produced in varying levels of quality and sold by grade. The
+most high-end Italian parchment sheets had no blemishes, were a uniform creamy
+white colour, and had no holes or uneven edges. When this level of quality is pre-
+sent in a manuscript, one can be sure the scribe or patron paid a high price from
+the cartolaio (‘stationer’) for such a material and the work was of great value to its
+owner. Information on the economic choices of scribes can also be gleaned from a
+manuscript produced on poor quality parchment, which may be discoloured, have
+holes either on the writing surface of the sheet or along the edge, have surface dam-
+age from some injury to the animal or a parchment-maker’s tear, show parchment-
+maker’s surgical repairs, or bear the scars from disease, insect bites, or wounds.
+This information can provide a basic guideline for understanding the economics of
+
+
+
+25 Another exception to the use of parchment for monastic rule is the handwritten paper copy of
+the Rule of Saint Benedict, discussed previously (Toronto, Thomas Fisher Rare Book Library, MSS 01207).
+This vernacular copy of the rule was a personal copy – so paper was affordable and an appropriate
+choice.
+26 Florence, Biblioteca Riccardiana, 2878 from the late quattrocento, containing Bridget’s Regola
+del Salvatore and other writings by Saint Bridget completed by Suor Raffaella and Suor Cleofe. Sim-
+ilarly, Cleofe the less experienced scribe, completes only a small part (fols 57r–61v), the first ten
+folios of Pietro di Alvastra’s Additions to the Regola del Salvatore. She stops in the middle of fol. 61v
+and the text is picked up again by Raffaella who completes it.
+196  Melissa Moreton
+
+
+the production of a work, and is especially instructive when looking at a particular
+scribe’s work over time. This is the case with the work of aforementioned scribe
+Angela Rucellai, who produced a number of collectars, all generally dated to c. 1500
+based on the known dates of her lifespan. Palaeographical evidence of her writing
+– from uncertain to confident scribe – gives us one indication of where to place
+each manuscript chronologically. But the quality of materials adds another layer to
+the understanding of how to date a scribe’s work and place it within the timeline of
+her scribal career. Early in their scriptorium work, they may not have had access
+to high quality parchment. Only after they proved proficiency in writing would they
+be allowed to work on a finer grade of material and be able to purchase, or have
+provided to them, fine parchment of a higher quality.
+     In any case, scribes who learned on paper (as the evidence suggests most of
+them did in this period) would need some training in working with parchment, as
+it was now no longer the dominant sheet material used in the production of books.
+The pleasures must have been immense for these nun-scribes who finally got to
+work on parchment, especially if it was well prepared. Italian parchment was some
+of the finest and writing on it was like writing on a buttery, silky smooth surface
+that accepted the ink and made it part of its structure.
+     Timothy Barrett’s studies of late medieval Italian papers have shown that pa-
+permakers, testing and adapting their product for the new incunable presses in the
+late fifteenth century, were intentionally trying to replicate the parchment sheet in
+surface quality, crispness, durability, colour and weight.27 Part of this imitation in-
+volved sizing – dipping the handmade paper sheets into a dilute gelatine solution,
+then drying and burnishing them. This gave the paper a parchment-like surface
+suitable for writing on (something readers did in manuscripts and printed books
+alike). Parchment was too expensive and too difficult to print on (though they tried)
+and could not match the demand for the massive levels of production soon to be
+underway. Though the work of a burnisher or glazier was time- and labour-inten-
+sive, burnishing a well-made and well-sized sheet of paper succeeded in producing
+a product with characteristics similar to parchment.28 For the scribe, nothing com-
+pared to a fine piece of parchment – but a well-burnished piece of paper was a close
+second.
+
+
+
+
+
+27 Barrett 2013, 120.
+28 Barrett 2021, 40.
+                                                          Materials, Methods, and Motives  197
+
+
+
+3.2 Sheet material: Paper
+The Monteluce memoriale is a large folio-size manuscript on paper and begins with
+a note about its production, dating to 1483. Incredibly, the note states ‘Questo libro
+biancho segnato + di foglio Reale de charte 300’ (‘This white book marked with the
+symbol + [is made with] 300 sheets of Royal size paper’) – valuable information for
+understanding the economics of book production at Monteluce, known for its pro-
+lific scribes and thriving scriptorium (Fig. 10).29
+
+
+
+
+Fig. 10: Inscription from 1483 in the Monteluce memoriale, noting, ‘Questo libro biancho segnato + di
+foglio Reale de charte 300’; Perugia, Monastero di Santa Maria di Monteluce in Sant’Erminio, Memo-
+riale, fol. 1r; © Perugia, Monastero di Santa Maria di Monteluce in Sant’Erminio.
+
+
+
+Royal or Reale paper measured approximately 44 × 61 centimetres.30 This is large
+paper that would not have been readily available in Perugia, where papermakers
+produced smaller sheets for a local market. Instead, the paper came from Fabriano,
+north of Perugia, according to its watermarks – a giglio (fleur-de-lis), eagle, and
+frecce decussate (‘crossed arrows’), and the telltale quality and spacing of the laid
+lines on the sheet. There was a continuous importation of Fabriano papers into Pe-
+rugia, and Fabriano mills were known to have produced the finest papers keeping
+the quality high, even after many Italian mills began to produce thinner sheets to
+meet the demand of required by printing presses in the late fifteenth-century on-
+ward.31 Both the large Royal-sized memoriale and many of Monteluce’s smaller de-
+
+
+
+
+
+29 Perugia, Monastero di Santa Maria di Monteluce in Sant’Erminio, Memoriale, fol. 1r.
+30 Paper dimensions in medieval Italy were set to standard sizes. In cities like Bologna, the comune
+or civic government monitored production and set the dimensions of the sheet to protect both guild
+workers and consumers. The so-called ‘Bologna stone’ (a stone with carvings of the standardized
+paper sizes) indicates dimensions, including the second largest sheet size (Reale) and the largest
+(Imperiale). See Harris s.a.
+31 On Fabriano, see Albro 2016.
+198  Melissa Moreton
+
+
+votional manuscripts produced in the late fifteenth century and early sixteenth cen-
+turies are on Fabriano paper, some with the same frecce decussate watermark.32
+This suggests that large sheets were purchased for the massive memoriale and re-
+maining sheets were later used for some of the devotional books. What is curious
+here is that the paper in the memoriale is not burnished or polished but the paper
+in the smaller devotional manuscripts is. Burnished paper – at least burnished to
+the level of shine seen in Monteluce’s devotional manuscripts – is very rare (see
+Fig. 11). Were the nuns burnishing this paper by hand? Burnishing a sheet of paper
+that has been dipped in gelatine sizing produced a very parchment-like material
+and as experienced scribes, they knew that paper finished in this way was a supe-
+rior sheet material to write on. Since this is only seen on the nuns’ surviving devo-
+tional manuscripts, it may be a material that was desired for writing this genre of
+text – the mainstay of their production on paper.33 A burnished sheet would cer-
+tainly have raised the price of a book, and the nuns had a ready market for their
+devotional texts, which they sold to a wide clientele of secular noblewomen, reli-
+gious laywomen, abbesses and friars buying books for female houses under their
+care.34
+     Materials were important and the nuns were well versed in how to describe
+the types of materials they chose for their book production. Within the memoriale
+there are a number of references to paper and parchment. In a note from 1508, the
+nuns record the obituary of one of the convent’s nun-scribes, Maria di Bartolomeo
+da Perugia, who they memorialize as being ‘well versed in reading and writing’ and
+who copied a breviary, two rules in vernacular, one in ‘carta bamagina’ (paper)
+used for reading at mealtimes and the other in ‘carta pecorina’ (parchment). This is
+an incredible detail about the choice of materials. The rule of the order, which was
+often copied out in parchment because of its durability, here is also produced in (a
+high quality) paper, destined for communal use to be read in the refectory during
+
+
+
+
+32 Many of Monteluce’s surviving fifteenth- and sixteenth-century devotional manuscripts, which
+are smaller in format, are now in the Biblioteca Comunale Augusta in Perugia.
+33 Some of the paper made in the Fabriano mills was sent to the central square in the town to be cal-
+endared or burnished to give it a smoother finish and make it more desirable for writing. However, it
+is unclear whether the sheets used in the devotional manuscripts were calendared in Fabriano – or
+burnished by hand by the nuns in Perugia. Since the paper in the large folio-size memoriale is not bur-
+nished – we know they ordered unburnished paper for the larger volumes and may have burnished
+smaller sheets by hand or purchased them burnished (at a higher price). The memoriale, begun in the
+fifteenth century was written in for several centuries, so it is conceivable that the three-hundred folios
+of Fabriano carta Reale (noted in the 1483 inscription on fol. 1r) lasted until the early 1500s, when several
+of the smaller devotional manuscripts were made with the same watermarked paper.
+34 On Monteluce, see Umiker 2012; Laniati 1983; and Niccolini 1971.
+                                                          Materials, Methods, and Motives  199
+
+
+
+meals. We know the nuns had the choice between paper and parchment and those
+choices reflected their understanding of economics and the characteristics and
+quality of the material, as well as how the book would be used and by whom.
+
+
+
+
+Fig. 11: The shiny surface of sized and burnished paper in a Monteluce devotional manuscript from
+1512, containing Gabriele da Perugia’s Libro de vita; Perugia, Biblioteca Comunale Augusta, 993; © Pe-
+rugia, Biblioteca Comunale Augusta.
+200  Melissa Moreton
+
+
+3.3 Book covers: Parchment vs leather and sheep vs goat
+Returning briefly to the Venetian Regula del sanctissimo Benedetto, the book was
+bound in a utilitarian limp parchment cover, recut, refolded, and reused from the
+cover of an earlier, larger book. The Regula’s well-worn covers indicate that it was
+heavily used – and this evidence is confirmed by the numerous notes of possession
+written out in the margins of the paper manuscript.35 Limp parchment covers were
+common on books for students and preachers – and anyone whose interest in the
+text outweighed their desire (or budget) for a more ostentatious tooled leather
+cover over boards. The binding was a common choice for booksellers, who would
+have books bound into a parchment covering, with the idea that the owner could
+have them rebound in leather and boards at a later date, if desired.36 It was some-
+times meant to be temporary, sometimes meant to be permanent, and sometimes
+meant to be temporary but became the final binding out of neglect or a lack of funds
+to slip it into a finer binding. Limp parchment, particularly when recycled from
+another book, was inexpensive and durable.
+     The book was sewn on supports, which were laced into holes in the covers,
+holding it in place. This covering may have been added by the nuns themselves. A
+mark up for the binder on the inner cover turn in notes the direction of the cover
+placement (‘Supra’ – basically ‘this way up’) and is in a hand not dissimilar to those
+of the possession notes (see Figs 12a–c). Whether bound by the nuns or by someone
+outside the convent, the nuns were making a statement in their choice of materials
+– one that demonstrates their interest in studying this new version of the Regula,
+rather than showing off its binding.
+     Choices were also made about leather used for book covers. The cheapest
+leather was sheepskin (followed by goat and then calf, which was generally the
+costliest). As an ‘oily’ skin, sheep has a layer of fat between the inner and outer
+epidermis, which, when it dries out over time causes the upper skin to delaminate
+easily and tear away. The telltale sign of sheep delamination can be seen in Fig. 13.
+
+
+
+
+
+35 The possession notes, written by successive users of the manuscript, state the temporary
+owner’s name followed by a variation on the phrase: ‘Io sono padrona di questa regola’ (‘I am the
+owner of this rule’). Toronto, Thomas Fisher Rare Book Library, MMS 01207, fols 1r, 139v.
+36 See Pickwoad 2016.
+                                                             Materials, Methods, and Motives  201
+
+
+
+
+                                                                                                          b
+
+
+
+
+                                                    a                                                         c
+
+Figs 12a–c: (a) Exterior of the left-hand (upper) cover of the limp parchment binding on the Regula del
+sanctissimo Benedetto, made from recycled parchment and showing evidence of rodent damage (chew
+marks on right). (b) Inner cover showing bookbinder’s notation of ‘Supra’ (‘above’) on the turned in parch-
+ment, indicating ‘this way up’ for the placement of the cover on the book. (c) Possession notes in a hand
+similar to that of the bookbinder, bottom of fol. 1r; Toronto, Thomas Fisher Rare Book Library, MMS 01207;
+© Toronto, Thomas Fisher Rare Book Library.
+
+
+
+Though a full-scale study of nuns’ book bindings has yet to be carried out, evidence of
+selected case studies suggests that sheepskin is the most common leather seen on nuns’
+devotional manuscripts, at least on those books that remain in their early bindings.37
+The choice of sheepskin leather was an economic one. These books are all about the
+contents, not the covers, and the nuns are taking cost into consideration when paying
+for the covering material. In considering the economics of production, it is worth not-
+ing that the most high-end known surviving manuscript from the Benedictine nuns of
+Le Murate in Florence (the papal gift produced by Carducci and Attavante in Fig. 4)
+does not appear to be covered in sheepskin, but perhaps goat, a more costly skin which
+
+
+
+
+
+37 In general, medieval books that retain their early or original covers have a low survival rate,
+since many books that survive have been rebound in subsequent bindings by collectors and librar-
+ies who wanted to upgrade whole collections to give them a uniform appearance. Nuns’ books – of
+lesser interest to collectors – have often escaped this renewal process, preserving valuable infor-
+mation on the economics of book production.
+202  Melissa Moreton
+
+
+is commensurate with the level of scribal production and illumination (eZooMs pro-
+tein analysis has not been carried out on this skin to determine its animal origin but
+this would confirm the visual identification).38
+
+
+
+
+Fig. 13: Detail of the left-hand (upper) cover of a collectarium written and used by the nuns of San Jacopo
+di Ripoli, Florence, showing delamination of the sheepskin leather. The areas where the upper epidermis
+have peeled off are lightest in colour; Florence, BNC, Conv. Soppr. C.S.D.7.344; © Florence, BNC.
+
+
+
+It is generally assumed that the choice of covering or binding materials was made
+by the bookbinder at the stationer’s shop, where the nuns sent their books to be
+bound (if it was not bound in a monastic context). However, new archival evidence
+
+
+
+38 The manuscript is Paris, BnF, lat. 17323. The non-invasive method of testing proteins to deter-
+mine the animal species of a skin has been pioneered by the Beast2Craft team of biocodicologists,
+and published in Fiddyment et al. 2019.
+                                                    Materials, Methods, and Motives  203
+
+
+
+by Kathleen Arthur, on the nun-scribes of the Augustinian house of San Gaggio,
+Florence, demonstrates that the nuns did choose the leather and other materials
+for the books they made for nuns at their own house. As early as the 1430s the Flor-
+entine nuns of San Gaggio purchased parchment from cartolai for breviaries and
+missals.39 Their account book also records the purchase of red ‘pellicina cavretta’ or
+goatskin leather, and silver clasps for the book cover, for a breviary. Goat was more
+costly than sheep, the most durable skin used for leather, and created a high-quality
+covering material, with a cost that reflected this. The red goatskin was purchased
+by the convent for nun Andredea Rinuccini’s breviary and costs were reimbursed
+by Andredea’s brother when the book was finished.40 Wealthy family members of
+nun-scribes also supplied materials, such as quills and parchment, directly to the
+nuns for their book production. There were presumably materials needed for spe-
+cial projects outside of their regular scriptorium work, for the making of extra
+books for themselves, their fellow sisters, and special family members.
+
+
+
+4 Conclusions
+Bookmaking did not require a great deal of space – however, materials such as
+parchment, paper, quills, and ink did require some investment of capital, not to
+mention the labour and time required to train a literate scribe or good miniaturist.
+If the space, scribal skills, and tools were available to produce books, there was po-
+tentially an excellent return on the investment. Savvy abbesses and prioresses, in
+charge of literate and graphically-gifted communities of women, saw this as an op-
+portunity and developed scriptoria within their convents – an activity that involved
+cultivating and maintaining important connections with wealthy patrons. The
+scriptorium was at once a space requiring the support of patrons (for room con-
+struction and repairs, provision of writing supplies, etc.) and one that produced ob-
+jects of patronage (the books that were sold or given away in gift exchanges with
+important patrons). Bookwork sustained the community financially – selling Books
+of Hours and paraliturgical texts to a range of patrons brought in much-needed in-
+come and offered vital diversification of the convent’s income sources, stabilizing
+it financially.
+
+
+
+
+
+39 Their account book shows the purchase of materials from a cartolaio named Bartolomeo, in-
+cluding parchment for quires. See Arthur 2017.
+40 Arthur 2017, 273–274.
+204  Melissa Moreton
+
+
+     Aside from functioning as a source of income and patronage-building, produc-
+ing books in-house provided the nuns with the liturgical, devotional, theological
+and archival books they needed to fulfil their obligations of communal prayer, pri-
+vate devotion, and study, as well as maintaining the community’s history through
+the keeping of vital records such as chronicles, necrologies, account books, and
+books of profession. Nuns expressed scribal agency through the scripts they used
+and the manner in which they wrote. Though monastic life was in many ways gov-
+erned by the virtue of piety, nuns’ scribal work show us a different aspect of con-
+vent life, one in which cloistered women expressed self-identification in subtle (dis-
+tinctive catchwords and decorative penwork) and sometimes overt ways (like
+naming themselves in colophons). These forms of self-identification were under-
+stood within their communities and increased nun-scribes’ status within the con-
+vent, as well as providing a lasting presence within their houses after the nuns
+passed from their earthly to their heavenly home.
+     One of the most surprising aspects of nuns’ bookwork concerns the material
+choices nuns made when reproducing texts. Materials were carefully chosen for
+specific jobs – high-end calligraphic work, fine parchment, and goatskin leather co-
+vers for liturgical manuscripts for the most prestigious patrons, a suitable hand-
+made paper burnished to a smooth shine for communal devotional texts bound in
+sheepskin, and rough parchment for the beginners producing a personal theologi-
+cal or spiritual text. It is critical to assess the material aspects of these books, since
+it provides a great deal of information about the motives nuns had in creating them.
+Was this book meant for a wealthy client – for sale or gift exchange? Was it created
+for personal use (nuns kept their own books, even if those texts were technically
+owned communally)? Where did the materials come from? Was the paper (as in the
+Monteluce example) shipped in specially from a distant paper mill to provide the
+house with large-sized sheet materials, not available locally? How were these pur-
+chases made and which parties negotiated? Why did a nun choose parchment over
+paper (much more expensive, but the only choice for some texts)? Whether the
+choice was parchment or paper, what can the quality of the sheet material tell us
+about her skill level and stage of her writing career? The answers to these questions
+can tell us about the economic status of the scribe and her community, what level
+of priority she is giving to the production of each book, and her relationship to pa-
+trons, secular collaborators, and her fellow scribes within the scriptorium. Taken
+together, the evidence of scribal work and materials provide a wealth of infor-
+mation about nuns’ deep knowledge of materials, as well as how those choices im-
+pacted their artistic and intellectual lives.
+                                                             Materials, Methods, and Motives  205
+
+
+
+     The copying of books did not spring spontaneously from nothing – ex nihilo –
+but was instead grounded in a wide-reaching culture of literacy and textual pro-
+duction in female religious communities across the Italian peninsula. Understand-
+ing the materials, methods, and motives employed by these religious women en-
+larges the framework for understanding the broader production of texts (both
+secular and religious) produced in the period. Women are part of this larger picture
+– as artists, makers, sellers, readers, and book users – and their bookwork tells a
+broader story about how they leveraged their scribal skill and knowledge of mate-
+rials to support their communities and their own spiritual and intellectual ambitions.
+
+
+
+Abbreviations
+BML = Biblioteca Medicea Laurenziana (Florence)
+BNC = Biblioteca Nazionale Centrale (Florence)
+BnF = Bibliothèque nationale de France (Paris)
+Conv. Soppr. = Conventi Soppressi
+
+
+
+
+References
+Albro, Sylvia Rodgers (2016), Fabriano: City of Medieval and Renaissance Papermaking, New Castle: Oak Knoll.
+Arthur, Kathleen G. (2017), ‘New Evidence for a Scribal-Nun’s Art: Maria di Ormanno degli Albizzi at
+     San Gaggio’, Mitteilungen des Kunsthistorischen Institutes in Florenz, 59/2: 271–280.
+Barrett, Timothy (2013), ‘Parchment, Paper, and Artisanal Research Techniques’, in Jonathan Wilcox (ed.),
+     Scraped, Stroked, and Bound: Materially Engaged Readings of Medieval Manuscripts, Turnhout: Brepols,
+     115–127.
+Barrett, Timothy (2021), European Hand Papermaking: Traditions, Tools, and Techniques, Ann Arbor, MI:
+     Legacy Press.
+Beach, Alison (2004), Women as Scribes: Book Production and Monastic Reform in Twelfth-Century Bavaria,
+     New York, NY: Cambridge University Press.
+Blanton, Virginia, Veronica M. O’Mara and Patricia Stoop (eds) (2013), Nuns’ Literacies in Medieval Eu-
+     rope: The Hull Dialogue (Medieval Women: Texts and Contexts, 26), Turnhout: Brepols.
+Blanton, Virginia, Veronica M. O’Mara and Patricia Stoop (eds) (2015), Nuns’ Literacies in Medieval Eu-
+     rope: The Kansas City Dialogue (Medieval Women: Texts and Contexts, 27), Turnhout: Brepols.
+Blanton, Virginia, Veronica M. O’Mara and Patricia Stoop (eds) (2017), Nuns’ Literacies in Medieval Eu-
+     rope: The Antwerp Dialogue (Medieval Women: Texts and Contexts, 28), Turnhout: Brepols.
+Cardoso, Paula (2017), ‘Beyond the Colophon: Assessing Role in Manuscript Production and Acquisi-
+     tion in the Observant Dominican Nunneries of Early-Modern Portugal’, Pecia, 19: 59–86.
+Condello, Emma and Giuseppe De Gregorio (eds) 1995, Scribi e colofoni: Le sottoscrizioni di copisti dalle
+     origini all’avvento della stampa, Atti del Seminario di Erice (23–28 October 1993) X Colloquio del Co-
+     mité International de Paléographie Latine, Spoleto: Centro Italiano di Studi sull’Alto Medioevo.
+206  Melissa Moreton
+
+
+Cyrus, Cynthia (2009), The Scribes for Women’s Convents in Late Medieval Germany, Toronto: University of
+     Toronto Press.
+Fiddyment, Sarah, Matthew D. Teasdale, Jiří Vnouček, Élodie Lévêque, Annelise Binois and Matthew J.
+     Collins (2019), ‘So You Want to Do Biocodicology? A Field Guide to the Biological Analysis of
+     Parchment’, Heritage Science, 7/35, <https://doi.org/10.1186/s40494-019-0278-6>.
+Gumbert, Johan Peter (1995), ‘The Speed of Scribes’, in Condello and De Gregorio (eds) 1995, 57–69.
+Harris, Neil (s.a.) ‘The Shape of Paper’, Institut d’Histoire du Livre, http://ihl.enssib.fr/paper-and-water-
+     marks-as-bibliographical-evidence/the-shape-of-paper (accessed on 1 September 2023).
+Laniati, Chaira Augusta (1983), Memoriale di Monteluce: Cronaca del monastero delle Clarisse di Perugia
+     dal 1448 al 1838, Assisi: Santa Maria degli Angeli.
+Lowe, Kate (1996), ‘Women’s Work at the Benedictine Convent of Le Murate in Florence: Suora Battista
+     Carducci’s Roman Missal of 1509’, in Jane H. M. Taylor and Lesley Smith (eds), Women and the
+     Book: Assessing the Visual Evidence, Toronto: University of Toronto Press, 133–146.
+Miglio, Luisa (2008), Governare l’alfabeto: Donne, scrittura e libri nel medioevo, Rome: Viella.
+Miglio, Luisa and Marco Palma (2012), ‘Presenze dimenticate (VI)’, Aevum, 86/2: 771–782.
+Miriello, Rosanna (2007), I manoscritti del Monastero del Paradiso di Firenze, Florence: Sismel.
+Molho, Anthony (1994), Marriage Alliance in Late Medieval Florence, Cambridge, MA: Harvard University
+     Press.
+Moreton, Melissa (2013), ‘Scritto di bellissima lettera’: Nuns’ Book Production in Fifteenth and Sixteenth-
+     Century Italy, PhD thesis, University of Iowa.
+Moreton, Melissa (2014), ‘Pious Voices: Nun-scribes and the Language of Colophons in Late Medieval
+     Italy’, Essays in Medieval Studies, 29: 43–73.
+Moreton, Melissa (2017), ‘Exchange and Alliance: Sharing and Gifting Books in Women’s Houses in
+     Late Medieval Italy’, in Blanton, O’Mara and Stoop (eds) 2017, 383–410.
+Moreton, Melissa (2023), ‘Nun-scribes and Their Colophons: Female Self-Identification and Remem-
+     brance in Early Modern Italy’, in George Kiraz and Sabine Schmidtke (eds), Literary Snippets: The
+     Colophon Across Space and Time, Piscataway, NJ: Gorgias Press, 201–226.
+Niccolini, Ugo (1971), ‘I minori osservanti di Monteripido e lo ‘scriptorium’ della Clarisse di Monteluce
+     in Perugia nei secoli XV e XVI’, Picenum Seraphicum, 8: 108–111.
+Petrucci, Armando (1995), ‘Copisti e libri manoscritti dopo l’avvento della stampa’, in Condello and De
+     Gregorio (eds) 1995, 507–525.
+Pickwoad, Nicholas (2016), ‘Books Bound After What Manner You Please’, in Mario Infelise (ed.), Aldo
+     Manuzio: La costruzione del mito, Venice: Marsilio, 226–258.
+Richardson, Brian (2020), Women and the Circulation of Texts in Renaissance Italy, Cambridge: Cam-
+     bridge University Press.
+Schiaffini, Alfredo (ed.) (1945), Paolo da Certaldo, Libro di buoni costumi, Florence: Le Monnier.
+Strocchia, Sharon (1999), ‘Learning the Virtues: Convent Schools and Female Culture in Renaissance
+     Florence’, in Barbara Whitehead (ed.), Women’s Education in Early Modern Europe: A History, 1500–1800,
+     New York, NY: Garland, 3–46.
+Strocchia, Sharon (2002), ‘Sisters in Spirit: The Nuns of Sant’Ambrogio and Their Consorority in Early
+     Sixteenth-Century Florence’, Sixteenth Century Journal, 33/3: 735–767.
+Strocchia, Sharon (2007), ‘Savonarolan Witnesses: The Nuns of San Jacopo and the Piagnone Move-
+     ment in Sixteenth-Century Florence’, Sixteenth Century Journal, 38/2: 393–418.
+Strocchia, Sharon (2009), Nuns and Nunneries in Renaissance Florence, Baltimore, MD: Johns Hopkins
+     University Press.
+Strocchia, Sharon (2014), ‘Abbess Piera de’ Medici and Her Kin: Gender, Gifts, and Patronage in Re-
+     naissance Florence’, Renaissance Studies, 28/5: 695–713.
+                                                              Materials, Methods, and Motives  207
+
+
+
+Umiker, Monica Benedetta (2012), ‘La Regola di S. Chiara in volgare nel ms. A/60 dell’Archivio Gene-
+      rale dell’Ordine dei Frati Minori di Roma’, Studi francescani, 109: 115–152.
+Weddle, Saundra (1997), Enclosing Le Murate: The Ideology of Enclosure and the Architecture of a Floren-
+      tine Convent, 1390–1597, PhD thesis, Cornell University.
+Weddle, Saundra (tr. and ed.) (2011), Suor Giustina Niccolini: The Chronicle of Le Murate, Toronto: Iter
+      Inc. Centre for Reformation and Renaissance Studies.
+Zarri, Gabriella (2000), Recinti: Donne, clausura e matrimonio nella prima età moderna, Bologna: Il Mulino.
+

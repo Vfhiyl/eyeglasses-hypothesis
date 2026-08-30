@@ -1,0 +1,21 @@
+{
+  "pass": "AV",
+  "scouted_then_skipped": {
+    "dexter_samuel": "IA papers thin / wrong Dexter noise",
+    "unwin_mary": "third-party onset; FROM-her densify not pursued this pass",
+    "bourchier_henry_bath": "Gray Devon accounts IA borrow-restricted (401)",
+    "rene_ii_lorraine": "short +4y; Laborde onset only this pass"
+  },
+  "promoted_hard": [
+    "spataro_giovanni"
+  ],
+  "choice_rationale": "Existing Cleux-bar FROM-him series (Vat.lat.5318/CMBM) already verified but left soft for short-window caution; upgrade consistent with Baye/Sixtus hard policy.",
+  "spataro_giovanni": {
+    "onset": "1532-04-05 unfit ochiali return",
+    "years_after": 2,
+    "last_hard_pin": "1533-10-30 Spataro→Aaron (Vat.lat.5318 129v)",
+    "n_dated_post_wear": 8,
+    "hard_dated_series": true,
+    "chrono": "outputs/tables/b1_spataro_giovanni_chrono.csv"
+  }
+}

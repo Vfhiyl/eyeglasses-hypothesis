@@ -1,0 +1,22 @@
+{
+  "pass": "AS",
+  "goal": "soft→hard: sixtus_iv via Pastor briefs",
+  "choice_rationale": "Best remaining short soft with OA papal chronology. Nuno permanently closed; Arduino needs workshop densify 1451–54; Hesselin library-gated; Pius magnifier-class.",
+  "promoted_hard": [
+    "sixtus_iv"
+  ],
+  "sixtus_iv": {
+    "onset": "1482-03-12 Arcamone: ochiali while dictating",
+    "years_after": 2,
+    "last_hard_pin": "1484-07-14 Sixtus Brief (Pastor)",
+    "death": "1484-08-12",
+    "n_dated_near_work": 9,
+    "source": "Pastor History of the Popes vol.4 IA historyofthepope04pastuoft + Ilardi n.119",
+    "chrono": "outputs/tables/b1_sixtus_iv_activity_chrono.csv",
+    "hard_dated_series": true
+  },
+  "arduino_baiso": "deferred — still need post-1451 workshop day-pins",
+  "nuno_fernandes": "PERMANENT close (no hard b–d)",
+  "hesselin_denis": "library-gated",
+  "ingest_labor_n": "unchanged"
+}

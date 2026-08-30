@@ -1,0 +1,18 @@
+{
+  "pass": "AK",
+  "question": "Can agent OA-locate Rulon 1959 + Kerhervé Catalogue?",
+  "answer": "No free fulltext found. Difference vs user Google: agent exhausts OpenAlex/IA/Persée/Gallica/BnF; still CLOSED.",
+  "rulon_1959": {
+    "identity": "Charles Rulon, Famille de la Marzelière…, Association bretonne / Comptes rendus… Tome 68 (1959), pp. 98–142",
+    "catalog": "Nantes diocesan library notice confirmed",
+    "OA": false,
+    "gallica_association_bretonne": "series ark cb391081151 exists 1948–2004 but digitized years near 1959 are 1956/1963/1965/1969 — NOT 1959",
+    "openalex_ia_persee": "noise / empty for this article"
+  },
+  "kerherve_catalogue": {
+    "identity": "Jean Kerhervé thesis appendix: Les gens de finances… Catalogue prosopographique (Paris IV 1986); published WITHOUT Catalogue as L'État breton (1987)",
+    "OA": "L'État breton Tome 1 on Gallica ark bpt6k3325367m — NOT the Catalogue; Jones footnotes cite unpublished Catalogue",
+    "newer": "Le Page et al. Dictionnaire des magistrats… 2025 (PUR) — library/purchase, not OA PDF"
+  },
+  "cleux_bar": "No new death witness obtainable online this pass; Brittany brace OA-close stands"
+}

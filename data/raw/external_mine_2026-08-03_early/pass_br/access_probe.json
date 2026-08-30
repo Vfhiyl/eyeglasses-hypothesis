@@ -1,0 +1,315 @@
+[
+  {
+    "identifier": "devonhouseholdac0000unse",
+    "title": "Devon household accounts, 1627-59. Part 2, Henry, fifth Earl of Bath, and Rachel, Countess of Bath, of Tawstock and London, 1637-1655",
+    "year": "1996",
+    "access_restricted": "true",
+    "collection": [
+      "internetarchivebooks",
+      "printdisabled"
+    ],
+    "txt": [
+      "devonhouseholdac0000unse_djvu.txt"
+    ],
+    "download_status": null,
+    "download_bytes": 0
+  },
+  {
+    "identifier": "businesshousehol0000unse",
+    "title": "The business and household accounts of Joyce Jeffreys, spinster of Hereford, 1638-1648",
+    "year": "2012",
+    "access_restricted": "true",
+    "collection": [
+      "internetarchivebooks",
+      "printdisabled",
+      "inlibrary"
+    ],
+    "txt": [
+      "businesshousehol0000unse_djvu.txt"
+    ],
+    "download_status": null,
+    "download_bytes": 0
+  },
+  {
+    "identifier": "durhamhousehold00cathgoog",
+    "title": "The Durham household book, or, The accounts of the bursar of the monastery of Durham: or, The ...",
+    "year": "1844",
+    "access_restricted": null,
+    "collection": "americana",
+    "txt": [
+      "durhamhousehold00cathgoog_djvu.txt"
+    ],
+    "download_status": 200,
+    "download_bytes": 808735
+  },
+  {
+    "identifier": "durhamhousehold01raingoog",
+    "title": "The Durham household book; or, The accounts of the bursar of the monastery of Durham. From Pentecost 1530 to Pentecost 1534",
+    "year": "1844",
+    "access_restricted": null,
+    "collection": "americana",
+    "txt": [
+      "durhamhousehold01raingoog_djvu.txt"
+    ],
+    "download_status": 200,
+    "download_bytes": 1048410
+  },
+  {
+    "identifier": "ab409",
+    "title": "MS10 Account Books Collection, AB 409 Walter Folger Jr. account book",
+    "year": "1838",
+    "access_restricted": null,
+    "collection": "opensource",
+    "txt": [],
+    "download_status": null,
+    "download_bytes": 0
+  },
+  {
+    "identifier": "CAT87202624",
+    "title": "Farm household accounts",
+    "year": "1918",
+    "access_restricted": null,
+    "collection": [
+      "usda-farmersbulletin",
+      "usdanationalagriculturallibrary",
+      "fedlink"
+    ],
+    "txt": [
+      "farmbul0964_djvu.txt"
+    ],
+    "download_status": 200,
+    "download_bytes": 14212
+  },
+  {
+    "identifier": "CAT31292934",
+    "title": "Farm household accounts",
+    "year": "1925",
+    "access_restricted": null,
+    "collection": [
+      "usda-farmersbulletin",
+      "usdanationalagriculturallibrary",
+      "fedlink"
+    ],
+    "txt": [
+      "farmbul0964rev1925_djvu.txt"
+    ],
+    "download_status": 200,
+    "download_bytes": 10909
+  },
+  {
+    "identifier": "howtokeephouseh00haskgoog",
+    "title": "How to Keep Household Accounts: A Manual of Family Finance",
+    "year": "1903",
+    "access_restricted": null,
+    "collection": "americana",
+    "txt": [
+      "howtokeephouseh00haskgoog_djvu.txt"
+    ],
+    "download_status": 200,
+    "download_bytes": 98408
+  },
+  {
+    "identifier": "howtokeephouseho00hask_0",
+    "title": "How to keep household accounts : a manual of family finance",
+    "year": "1903",
+    "access_restricted": null,
+    "collection": [
+      "cookbooks",
+      "bostonpubliclibrary",
+      "americana"
+    ],
+    "txt": [
+      "howtokeephouseho00hask_0_djvu.txt"
+    ],
+    "download_status": 200,
+    "download_bytes": 114254
+  },
+  {
+    "identifier": "howtokeephouseho00hask",
+    "title": "How to keep household accounts [microform]; a manual of family finance",
+    "year": "1903",
+    "access_restricted": null,
+    "collection": [
+      "transcluding",
+      "ColumbiaUniversityLibraries",
+      "microfilm",
+      "americana"
+    ],
+    "txt": [
+      "howtokeephouseho00hask_djvu.txt"
+    ],
+    "download_status": 200,
+    "download_bytes": 122757
+  },
+  {
+    "identifier": "householdaccount00bens",
+    "title": "Household accounts : working-class family economie in the interwar United States",
+    "year": "2007",
+    "access_restricted": "true",
+    "collection": [
+      "cornelluniversitypress",
+      "americana",
+      "printdisabled"
+    ],
+    "txt": [
+      "householdaccount00bens_djvu.txt"
+    ],
+    "download_status": null,
+    "download_bytes": 0
+  },
+  {
+    "identifier": "durhamhousehold00raingoog",
+    "title": "The Durham household book: or, The accounts of the bursar of the monastery ...",
+    "year": "1844",
+    "access_restricted": null,
+    "collection": "americana",
+    "txt": [
+      "durhamhousehold00raingoog_djvu.txt"
+    ],
+    "download_status": 200,
+    "download_bytes": 871664
+  },
+  {
+    "identifier": "durhamhousehold00unkngoog",
+    "title": "The Durham household book: or, The accounts of the bursar of the monastery ...",
+    "year": "1844",
+    "access_restricted": null,
+    "collection": "americana",
+    "txt": [
+      "durhamhousehold00unkngoog_djvu.txt"
+    ],
+    "download_status": 200,
+    "download_bytes": 829705
+  },
+  {
+    "identifier": "mccl_10.1016_j.jclepro.2019.04.160",
+    "title": "A detailed household carbon footprint analysis using expenditure accounts \u2013 Case of Flanders (Belgium)",
+    "year": "2019",
+    "access_restricted": null,
+    "collection": [
+      "mendeley_climate_change_library",
+      "folkscanomy_academic",
+      "folkscanomy"
+    ],
+    "txt": [
+      "10.1016_j.jclepro.2019.04.160_djvu.txt"
+    ],
+    "download_status": 200,
+    "download_bytes": 56582
+  },
+  {
+    "identifier": "householdaccount00spaurich",
+    "title": "Household accounts; a simple manner of recording and computing your family living expenses",
+    "year": "[c1896]",
+    "access_restricted": null,
+    "collection": [
+      "cdl",
+      "americana"
+    ],
+    "txt": [
+      "householdaccount00spaurich_djvu.txt"
+    ],
+    "download_status": 200,
+    "download_bytes": 5881
+  },
+  {
+    "identifier": "householdaccount17roka",
+    "title": "Household accounts and budgets : excerpts from 1930 annual reports of state and county extension agents",
+    "year": "1931",
+    "access_restricted": null,
+    "collection": [
+      "usda-extensionservicecircular",
+      "usdanationalagriculturallibrary",
+      "fedlink",
+      "americana"
+    ],
+    "txt": [
+      "householdaccount17roka_djvu.txt"
+    ],
+    "download_status": 200,
+    "download_bytes": 31220
+  },
+  {
+    "identifier": "householdaccount0000unse",
+    "title": "Household accounts and disbursement books of Robert Dudley, Earl of Leicester, 1558-1561, 1584-1586 ",
+    "year": "1995",
+    "access_restricted": "true",
+    "collection": [
+      "internetarchivebooks",
+      "inlibrary",
+      "printdisabled"
+    ],
+    "txt": [
+      "householdaccount0000unse_djvu.txt"
+    ],
+    "download_status": null,
+    "download_bytes": 0
+  },
+  {
+    "identifier": "householdaccount0006unse",
+    "title": "Household accounts and disbursement books of Robert Dudley, Earl of Leicester, 1558-1561, 1584-1586 ",
+    "year": "1995",
+    "access_restricted": "true",
+    "collection": [
+      "internetarchivebooks",
+      "inlibrary",
+      "printdisabled"
+    ],
+    "txt": [
+      "householdaccount0006unse_djvu.txt"
+    ],
+    "download_status": null,
+    "download_bytes": 0
+  },
+  {
+    "identifier": "housewifesexpens00gallrich",
+    "title": "Housewife's expense book, \"Housewife's red book\", rev. and improved. A simple system of keeping household accounts ..",
+    "year": "c1912",
+    "access_restricted": null,
+    "collection": [
+      "cdl",
+      "americana"
+    ],
+    "txt": [
+      "housewifesexpens00gallrich_djvu.txt"
+    ],
+    "download_status": 200,
+    "download_bytes": 43841
+  },
+  {
+    "identifier": "householdexpense00chap",
+    "title": "Household expenses accounts journal, presumably recorded by Helen Collings Chapman and Ella B. Wright, 1935-1946 [ANS Chapman brothers collection]",
+    "year": "1869",
+    "access_restricted": null,
+    "collection": [
+      "americannumismaticsociety",
+      "newmannumismatic",
+      "wustl",
+      "americana",
+      "globallibraries"
+    ],
+    "txt": [
+      "householdexpense00chap_djvu.txt"
+    ],
+    "download_status": 200,
+    "download_bytes": 7907
+  },
+  {
+    "identifier": "63360780R.nlm.nih.gov",
+    "title": "The American cyclopaedia of domestic medicine and household surgery : a reliable guide for every family, containing, in the plainest language, full descriptions of the various parts of the human body, accounts of the numerous diseases to which man is subject, their causes, symptoms, treatment, and prevention, with plain directions how to act in case of accidents and emergencies of every kind : also, full descriptions of the different articles used in medicine and explanations of medical and scientific terms",
+    "year": "1879",
+    "access_restricted": null,
+    "collection": [
+      "usnationallibraryofmedicine",
+      "medicineintheamericas",
+      "medicalheritagelibrary",
+      "americana",
+      "medicallibrary"
+    ],
+    "txt": [
+      "63360780R_djvu.txt"
+    ],
+    "download_status": 200,
+    "download_bytes": 3416131
+  }
+]

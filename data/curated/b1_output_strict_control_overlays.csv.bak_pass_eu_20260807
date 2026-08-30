@@ -1,0 +1,110 @@
+person_id,extra_control_qid,control_name,wearer_birth,control_birth,macro_region,reason,confidence,note
+hesselin_denis,Q592641,Jean Jouffroy,1425,1412,france,strict_expand_allowlist_same_region_birth±22,medium,
+hesselin_denis,Q957427,Georges Chastellain,1425,1405,france,strict_expand_allowlist_same_region_birth±22,medium,
+wyatt_henry,Q652097,Hector Boece,1460,1465,england,strict_expand_allowlist_same_region_birth±22,medium,
+wyatt_henry,Q579194,John Mair,1460,1467,england,strict_expand_allowlist_same_region_birth±22,medium,
+barbara_brandenburg,Q1531207,Nicolò Malermi,1422,1422,italy,strict_expand_allowlist_same_region_birth±22,medium,
+barbara_brandenburg,Q4942038,Bonino Mombrizio,1422,1424,italy,strict_expand_allowlist_same_region_birth±22,medium,
+barbara_brandenburg,Q5659931,Agostino Dati,1422,1420,italy,strict_expand_allowlist_same_region_birth±22,medium,
+barbara_brandenburg,Q21545248,Giovanni Marcanova,1422,1410,italy,Pass BN lifespan-matched Italy humanist (age@death≈57) replacing Vernia/Landino,medium,
+barbara_brandenburg,Q809500,Bartolomeo Facio,1422,1400,italy,Pass BN lifespan-matched Italy humanist (age@death≈57) replacing Vernia/Landino,medium,
+barbara_brandenburg,Q3850247,Martino Filetico,1422,1430,italy,Pass BN lifespan-matched Italy humanist (age@death≈60),medium,
+barbara_brandenburg,Q55228138,Gherardo del Ciriagio,1422,1412,italy,Pass BN lifespan-matched Florence clerk/scribe peer (age@death≈60),medium,
+bianca_maria,Q4942038,Bonino Mombrizio,1425,1424,italy,strict_expand_allowlist_same_region_birth±22,medium,
+bianca_maria,Q711964,Cristoforo Landino,1425,1424,italy,strict_expand_allowlist_same_region_birth±22,medium,
+bianca_maria,Q4394728,Alamanno Rinuccini,1425,1426,italy,strict_expand_allowlist_same_region_birth±22,medium,
+bianca_maria,Q18945418,Giovanni Battista Refrigerio,1425,1424,italy,strict_expand_allowlist_same_region_birth±22,medium,
+bianca_maria,Q1531207,Nicolò Malermi,1425,1422,italy,strict_expand_allowlist_same_region_birth±22,medium,
+charles_orleans,Q1388943,Guillaume Fillastre the Younger,1394,1400,france,strict_expand_allowlist_same_region_birth±22,medium,
+charles_orleans,Q587247,Antoine de la Sale,1394,1385,france,strict_expand_allowlist_same_region_birth±22,medium,
+charles_orleans,Q982038,Alain Chartier,1394,1385,france,strict_expand_allowlist_same_region_birth±22,medium,
+charles_orleans,Q957427,Georges Chastellain,1394,1405,france,strict_expand_allowlist_same_region_birth±22,medium,
+gonzaga_ludovico,Q55228138,Gherardo del Ciriagio,1412,1412,italy,strict_expand_allowlist_same_region_birth±22,medium,
+gonzaga_ludovico,Q455252,Catherine of Bologna,1412,1413,italy,strict_expand_allowlist_same_region_birth±22,medium,
+gonzaga_ludovico,Q21545248,Giovanni Marcanova,1412,1410,italy,strict_expand_allowlist_same_region_birth±22,medium,
+gonzaga_ludovico,Q5392534,Ermolao Barbaro the Elder,1412,1410,italy,strict_expand_allowlist_same_region_birth±22,medium,
+gonzaga_ludovico,Q659093,Benedetto Dei,1412,1418,italy,strict_expand_allowlist_same_region_birth±22,medium,
+sforza_francesco,Q154751,Nicholas of Cusa,1401,1401,italy,strict_expand_allowlist_same_region_birth±22,medium,Pass CX: control DEMOTED (Mantese ocularis); overlay inert while use_in_primary=False / output_eligible=False.
+sforza_francesco,Q809500,Bartolomeo Facio,1401,1400,italy,strict_expand_allowlist_same_region_birth±22,medium,
+sforza_francesco,Q3768494,Giovanni di Paolo Rucellai,1401,1403,italy,strict_expand_allowlist_same_region_birth±22,medium,
+sforza_francesco,Q299446,Bessarion,1401,1403,italy,strict_expand_allowlist_same_region_birth±22,medium,
+sforza_francesco,Q182046,Leon Battista Alberti,1401,1404,italy,strict_expand_allowlist_same_region_birth±22,medium,
+philippe_le_hardi,Q1237886,Jean de Montreuil,1342,1354,france,strict_expand_allowlist_same_region_birth±22,medium,
+philippe_le_hardi,Q3110583,Gontier Col,1342,1355,france,strict_expand_allowlist_same_region_birth±22,medium,
+philippe_le_hardi,Q1685601,Jean Jouvenel des Ursins,1342,1360,france,strict_expand_allowlist_same_region_birth±22,medium,
+philippe_le_hardi,Q744014,Nicholas of Clamanges,1342,1363,france,strict_expand_allowlist_same_region_birth±22,medium,
+philippe_le_hardi,Q281179,Jean Gerson,1342,1363,france,strict_expand_allowlist_same_region_birth±22,medium,
+rene_anjou,Q957427,Georges Chastellain,1409,1405,france,strict_expand_allowlist_same_region_birth±22,medium,
+rene_anjou,Q592641,Jean Jouffroy,1409,1412,france,strict_expand_allowlist_same_region_birth±22,medium,
+rene_anjou,Q1388943,Guillaume Fillastre the Younger,1409,1400,france,strict_expand_allowlist_same_region_birth±22,medium,
+jackson_ralph,Q18917181,Osgood Hanbury,1736,1731,england,Pass BC lifespan-matched merchant (age@death≈53) vs Coutts/Angerstein/Baring,medium,
+jackson_ralph,Q18530776,Richard Champion,1736,1743,england,Pass BC lifespan-matched merchant (age@death≈48),medium,
+jackson_ralph,Q18576880,Richard Oliver,1736,1735,england,Pass BC lifespan-matched merchant (age@death≈49),medium,
+jeake_samuel,Q18810672,Edward Haistwell,1652,1658,england,Pass BC lifespan-matched merchant (age@death≈51) vs Pitt/Yale/Guy,medium,
+jeake_samuel,Q41784687,Samuel Heathcote,1652,1656,england,Pass BC lifespan-matched merchant (age@death≈52),medium,
+jeake_samuel,Q7787846,Thomas Brattle,1652,1657,england,Pass BC Anglo-Atlantic merchant peer (age@death≈56),medium,
+leo_x,Q823002,Bernardo Dovizi (Bibbiena),1475,1470,italy,Pass BD lifespan-matched cardinal/playwright (age@death≈50),medium,
+leo_x,Q211133,Baldassarre Castiglione,1475,1478,italy,Pass BD lifespan-matched courtier-author (age@death≈50),medium,
+leo_x,Q2258968,Christopher Bainbridge,1475,1464,italy,Pass BD lifespan-matched cardinal peer (age@death≈50; already elig years),medium,
+domenichi_ludovico,Q1751281,Francesco Robortello,1515,1516,italy,Pass BD lifespan-matched humanist (age@death≈50),medium,
+lynnet_william,Q4216692,Edward Stillingfleet,1623,1635,england,Pass BE hand-pinned divine peer after Patrick/Lloyd retire,medium,
+lynnet_william,Q43393,Robert Boyle,1623,1627,england,Pass BE textual publishing peer (natural philosophy) for Lynnet cell,medium,
+cederni,Q21545248,Giovanni Marcanova,1416,1410,italy,Pass BE lifespan-similar Italy humanist/clerk peer,medium,
+cederni,Q5659931,Agostino Dati,1416,1420,italy,Pass BE epistolae/rhetoric peer for Cederni,medium,
+strozzi_filippo,Q299663,Piero di Cosimo de' Medici,1428,1416,italy,Pass BF lifespan-similar Florence bank/governance peer (age@death≈53),medium,
+marzeliere_pierre,Q288378,Olivier le Daim,1390,1428,france,Pass BH France clerk/peer after Grossa/Juvénal retire,medium,
+marzeliere_pierre,Q2823945,Adam Fumee,1390,1430,france,Pass BH France clerk peer for Marzelière,medium,
+charles_orleans,Q1237886,Jean de Montreuil,1394,1354,france,Pass BH France literary/secretary peer after long densify retire,medium,
+charles_orleans,Q281179,Jean Gerson,1394,1363,france,Pass BH France theologian-author peer for Charles,medium,
+charles_orleans,Q744014,Nicholas of Clamanges,1394,1360,france,Pass BH France humanist peer for Charles,medium,
+wyatt_henry,Q744845,William Warham,1460,1450,england,Pass BI lifespan-matched archbishop peer (age@death≈82) replacing Bainbridge/Colet shorts,medium,
+wyatt_henry,Q6259279,John Stokesley,1460,1475,england,Pass BI England cleric peer for Wyatt balanced pool,medium,
+wyatt_henry,Q5534459,Geoffrey Blythe,1460,1470,england,Pass BI England cleric peer for Wyatt balanced pool,medium,
+domenichi_ludovico,Q3778928,Guglielmo Grataroli,1515,1516,italy,Pass BI keep short humanist after Visdomini/Tomitano retire,medium,
+ammannati,Q21545248,Giovanni Marcanova,1422,1410,italy,Pass BN lifespan-matched Italy humanist after Vernia/Landino exclude,medium,
+ammannati,Q809500,Bartolomeo Facio,1422,1400,italy,Pass BN lifespan-matched Italy humanist after Vernia/Landino exclude,medium,
+ammannati,Q3850247,Martino Filetico,1422,1430,italy,Pass BN lifespan-matched Italy humanist (age@death≈60),medium,
+pius_ii,Q3850247,Martino Filetico,1405,1430,italy,Pass BN lifespan-near cardinal/humanist peer after Bessarion exclude,medium,
+pius_ii,Q1531207,Nicolò Malermi,1405,1422,italy,Pass BN lifespan-matched Italy textual peer (age@death≈59),medium,
+bourchier_henry_bath,Q735697,John Selden,1587,1584,england,Pass BV: textual jurist peer for england ruler cell (matched peers all elig=False admin).,high,Pass BV: textual jurist peer (birth 1584) for england ruler cell; matched peers were all elig=False admin.
+rene_ii_lorraine,Q437423,Philippe de Commynes,1451,1447,france,Pass BW overlay textual peer for rene_ii_lorraine (france ruler).,high,Pass BW overlay textual peer for rene_ii_lorraine (france ruler).
+rene_ii_lorraine,Q2466849,Jean Molinet,1451,1435,france,Pass BW overlay textual peer for rene_ii_lorraine (france ruler).,high,Pass BW overlay textual peer for rene_ii_lorraine (france ruler).
+august_brunswick_wolfenbuettel,Q60854,Johannes Valentinus Andreae,1579,1586,hre,Pass BY: textual HRE peer for hre ruler cell (matched peers england birth_only).,high,Pass BY overlay for august_brunswick_wolfenbuettel.
+august_brunswick_wolfenbuettel,Q761023,August Buchner,1579,1591,hre,Pass BY: textual HRE peer for hre ruler cell (matched peers england birth_only).,high,Pass BY overlay for august_brunswick_wolfenbuettel.
+august_brunswick_wolfenbuettel,Q99371,Christopher Besoldus,1579,1577,hre,Pass BY: textual HRE peer for hre ruler cell.,high,Pass BY overlay.
+bourchier_henry_bath,Q259132,Robert Burton,1587,1577,england,Pass BZ: age-matched textual peer after Newcastle reverse-lifespan exclude.,high,Pass BZ overlay.
+tye_thomas,Q18917181,Osgood Hanbury,1713,1731,england,Pass CB: age-matched merchant peer after Davison reverse-lifespan exclude.,high,Pass CB overlay.
+leo_x,Q3531264,Tommaso Inghirami (Fedra),1475,1470,italy,Pass CD lifespan-matched curial humanist/orator (age@death≈46),high,Pass CD overlay for leo_x after Castiglione/Bainbridge exclude.
+bourchier_henry_bath,Q333098,"Sir Robert Cotton, 1st Baronet, of Connington",1587,1571,england,Pass CE: england antiquary peer after Selden reverse-densify exclude (span45≈15).,high,Pass CE overlay for bourchier_henry_bath.
+domenichi_ludovico,Q1257744,Ortensio Lando (Landi),1515,1512,italy,Pass CF lifespan-matched italy satirist/humanist (age@death≈48),high,Pass CF overlay for domenichi after Grataroli exclude.
+philippe_le_hardi,Q570021,Honoré Bonet (Bouvet),1342,1350,france,Pass CG lifespan-near France chivalric/legal author after Montreuil post-death exclude,high,Pass CG overlay for philippe_le_hardi.
+philippe_le_hardi,Q457915,Eustache Deschamps,1342,1340,france,Pass CG France court-poet peer (death 1406≈Philippe 1404) after Montreuil exclude,high,Pass CG overlay for philippe_le_hardi.
+barbara_brandenburg,Q299663,Piero di Cosimo de' Medici,1422,1416,italy,Pass CK: shorter italy ruler peer after Dati/Ciriagio span densify excludes (span45≈8).,high,Pass CK overlay for barbara_brandenburg.
+leo_x,Q1413816,Filippo Beroaldo the Younger,1475,1472,italy,Pass CL lifespan-matched curial humanist/editor (age@death≈46; Vatican librarian under Leo),high,Pass CL overlay for leo_x with Inghirami.
+jeffreys_joyce,Q333098,"Sir Robert Cotton, 1st Baronet, of Connington",1575,1571,england,Pass CT: lifespan/documentary England peer after Abbot reverse exclude (Cotton d.@60 span45≈15 vs Jeffreys d.@75 T=30); Cranfield alone left n=1.,high,Pass CT overlay for jeffreys_joyce n=2 hygiene.
+azevedo_joao_porto,Q1996629,Pedro Martínez de Osma,1430,1427,iberia,Pass DE lifespan-matched Iberia cleric/theologian (age@death≈53) replacing Cisneros/Lucena/Montesino,medium,Salamanca Prima theology 1463–78; Disputatio de anno ~1468; De confessione 1475–79; d.1480-04-16
+azevedo_joao_porto,Q11940951,Pere Daguí,1430,1435,iberia,Pass DE lifespan-matched Iberia Lullist theologian (age@death≈65),medium,Janua artis printings 1482–1497; last pin Valladolid 1497
+knut_bosson,Q104914,Johannes Marienwerder,1360,1343,hre,Pass DJ lifespan/geo peer for Nordic bishop (HRE/Baltic cleric densify),medium,Pass DJ densify knut_bosson HRE/Baltic cleric peer (age@death≈74). ya45=29.
+knut_bosson,Q95506,Nikolaus von Dinkelsbühl,1360,1366,hre,Pass DJ lifespan/geo peer for Nordic bishop (HRE/Baltic cleric densify),medium,Pass DJ densify knut_bosson HRE theologian peer (age@death≈67). ya45=22.
+knut_bosson,Q55133937,Ulrich Grünleder,1360,1350,hre,Pass DJ lifespan/geo peer for Nordic bishop (HRE/Baltic cleric densify),medium,Pass DJ wire matched control into primary chrono. ya45=26.
+knut_bosson,Q522346,Jöns Gerekesson (Johannes Gerechini),1360,1378,hre,Pass DJ lifespan/geo peer for Nordic bishop (HRE/Baltic cleric densify),medium,Pass DJ densify knut_bosson Nordic bishop peer (age@death≈55; shorter — keep as geographic peer). ya45=10.
+voiture_vincent,Q551725,Paul Scarron,1597,1610,france,Pass DY lifespan-matched France dramatist/poet (age@death≈50 vs Voiture 51),high,Virgile travesti 1659 IA tip; Roman comique 1651–57
+policastro,Q5392534,Ermolao Barbaro the Elder,1410,1410,italy,Pass DZ lifespan-matched Italy bishop-humanist/admin (birth same year; tipAge≈61 / d.@61 vs Policastro tipAge=67 / d.@68),high,ya45=16; papal/diplomatic service to death 1471
+policastro,Q435501,Federico da Montefeltro,1410,1422,italy,Pass DZ lifespan-matched Italy ducal administrative densify (tipAge≈60 / ya45=15 / d.@60 vs Policastro tipAge=67 / d.@68),high,Urbino admin/patronage docs to death 1482; birth±12 overlay
+policastro,Q983263,Masuccio Salernitano,1410,1410,italy,Pass DZ lifespan-matched Italy documentary humanist (birth same year; tipAge≈65 / d.@65 vs Policastro tipAge=67 / d.@68),medium,ya45=20; Naples orbit documentary trail
+wood_anthony,Q381039,John Wilkins,1632,1614,england,Pass EA lifespan-matched England natural philosopher (d.@58 vs Wood d.@63),high,Essay Real Character 1668 IA tip
+wood_anthony,Q700422,Henry Oldenburg,1632,1619,england,Pass EA lifespan-matched England natural philosopher (d.@58 vs Wood d.@63),high,Phil Trans editor to 1677
+egidio_piacenza,Q1240697,Donato Acciaioli,1433,1429,italy,Pass ED: Italy humanist peer birth±22; short C=4 after Summaripa/Filetico OA-thin drop,high,Plutarch translations / gonfalonier; d.1478
+egidio_piacenza,Q275044,Isotta Nogarola,1433,1418,italy,Pass ED: Italy literary peer birth±22; short C=3 (same chrono peer class as Ammannati overlays),medium,Letter corpus to d.1466
+egidio_piacenza,Q3388274,Pigello Portinari,1433,1421,italy,Pass ED: Italy documentary peer birth±22; short C=2,high,Medici bank Milan; d.1468
+spataro_giovanni,Q3071870,Filippo Beroaldo the Elder,1458,1453,italy,Pass EE: Italy humanist/teacher birth±10; short C=7 vs Padua death-tip long densify cluster,high,Matched unused region QID; Bologna rhetoric continuous 1472–1505
+spataro_giovanni,Q19985001,Giovanni Nesi,1458,1456,italy,Pass EE: Italy philosopher birth±10; short C=0 (tip 1499); matched unused region QID,medium,Florentine orations/Oraculum; last dated poema 1499
+spataro_giovanni,Q182128,Giovanni Pico della Mirandola,1458,1463,italy,Pass EF: Italy philosopher birth±10; dies age 31 → C=0; unused region-match QID,high,Conclusiones 1486–Disputationes ~1494; short life not death-tip manufacturing
+voiture_vincent,Q561715,Jean de Rotrou,1597,1609,france,Pass EH: France dramatist birth±22; tip 1648 ≤ Voiture death; C=0; replaces post-death Tristan/Scarron,high,Venceslas/Saint Genest 1648; d.@40 vs Voiture d.@51
+barbara_brandenburg,Q275044,Isotta Nogarola,1422,1418,italy,Pass EI: Italy literary birth±22 short C=3 after dropping Borso outlier; letters/Dialogue to 1466,medium,Already chrono-validated for Ammannati/Egidio cells
+pepys_samuel,Q381039,John Wilkins,1633,1614,england,Pass EJ: England natural-philosophy birth±22; short C=9 (Essay 1668 tip); already Wood peer,high,IA Real Character 1668; Bishop Chester
+pepys_samuel,Q329896,Abraham Cowley,1633,1618,england,Pass EJ: England poet/essayist birth±22; short C=4 (RS ode 1667); d.@49,high,Advancement 1661; RS ode Mar 1667
+wood_anthony,Q329896,Abraham Cowley,1632,1618,england,Pass EJ: England poet/essayist birth±22; short C=4 after Temple reverse exclude,high,Same chrono as Pepys overlay
+henry_viii,Q1788795,"Thomas Wriothesley, 1st Earl of Southampton",1491,1505,england,Pass EK: England secretary/chancellor birth±22; tip 1547 ≤ Henry death; C=0,high,Principal Secretary 1540; Lord Chancellor 1544; Henry will executor 1547
+henry_viii,Q294435,Thomas Cromwell,1491,1485,england,Pass EK: England chief minister birth±22; C=10; already chrono for Henry/Wyatt densify,high,Admin docs to execution 1540
+wolsey,Q548613,Edmund Dudley,1473,1462,england,Pass ER: England council/finance peer birth±22; tip 1509≠death 1510; short C=2 replacing Colet/Bainbridge tip=death,high,Tree of Commonwealth / council finance docs to 1509

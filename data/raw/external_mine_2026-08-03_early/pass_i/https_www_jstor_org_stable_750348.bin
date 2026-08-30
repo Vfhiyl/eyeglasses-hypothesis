@@ -1,0 +1,182 @@
+<!doctype html>
+<html lang="en">
+	<head>
+<meta name="sentry-trace" content="139f095d52ac4b1890bf1a4fc6025dcd-a285707dd6e7f778-0"/><meta name="baggage" content="sentry-environment=prod,sentry-release=fd9d44d9c4b76e69ee52202a7be552b7686f653d,sentry-public_key=be2fb0b8bc7d6f6717c67de2320b0957,sentry-trace_id=139f095d52ac4b1890bf1a4fc6025dcd,sentry-org_id=95936,sentry-sampled=false,sentry-sample_rand=0.9904020210852466,sentry-sample_rate=0.001"/>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+		<link
+			rel="preload"
+			href="/assets/long-lived_20201006/js/scoped-custom-element-registry@0.0.3.min.js"
+			as="script"
+		/>
+		<link rel="preconnect" href="https://static.ithaka.org" />
+		<link rel="preconnect" href="https://cdn.cookielaw.org" />
+		<link rel="preconnect" href="https://geolocation.onetrust.com" />
+		<link rel="preconnect" href="https://www.googletagmanager.com" />
+
+		<link rel="dns-prefetch" href="https://www.google-analytics.com" />
+		<link rel="dns-prefetch" href="https://status-app.jstor.org" />
+
+		<link
+			rel="icon"
+			sizes="192x192"
+			type="image/png"
+			href="/assets/global_20251201T215504/build/images/favicons/android-chrome-192x192.png"
+		/>
+		<link
+			rel="icon"
+			sizes="512x512"
+			type="image/png"
+			href="/assets/global_20251201T215504/build/images/favicons/android-chrome-512x512.png"
+		/>
+		<link
+			rel="apple-touch-icon"
+			href="/assets/global_20251201T215504/build/images/favicons/apple-touch-icon.png"
+		/>
+
+		<link
+			rel="icon"
+			sizes="16x16"
+			type="image/png"
+			href="/assets/global_20251201T215504/build/images/favicons/favicon-16x16.png"
+		/>
+		<link
+			rel="icon"
+			sizes="48x48"
+			type="image/png"
+			href="/assets/global_20251201T215504/build/images/favicons/favicon-48x48.png"
+		/>
+		<link
+			rel="icon"
+			sizes="32x32"
+			type="image/png"
+			href="/assets/global_20251201T215504/build/images/favicons/favicon-32x32.png"
+		/>
+		<link
+			rel="preload"
+			href="https://www.jstor.org/assets/global_20250731T212448/build/global/css/global.css"
+			as="style"
+		/>
+		<link
+			rel="preload"
+			href="https://static.ithaka.org/pharos/assets/fonts/GT-America-Standard-Regular.woff2"
+			as="font"
+			type="font/woff2"
+			crossorigin="anonymous"
+		/>
+		<link
+			rel="preload"
+			href="https://static.ithaka.org/pharos/assets/fonts/GT-America-Standard-Medium.woff2"
+			as="font"
+			type="font/woff2"
+			crossorigin="anonymous"
+		/>
+		<link
+			rel="preload"
+			href="https://static.ithaka.org/pharos/assets/fonts/IvarHeadline-Medium.woff2"
+			as="font"
+			type="font/woff2"
+			crossorigin="anonymous"
+		/>
+
+		<link
+			rel="preload"
+			href="/mfe-registry-service/public/mfe/header/remoteEntry/path/"
+			as="fetch"
+			crossorigin
+		/>
+		<link
+			rel="preload"
+			href="/mfe-registry-service/public/mfe/footer/remoteEntry/path/"
+			as="fetch"
+			crossorigin
+		/>
+		<link
+			rel="preload"
+			href="/mfe-registry-service/public/mfe/query-builder/remoteEntry/path/"
+			as="fetch"
+			crossorigin
+		/>
+		<link
+			rel="preload"
+			href="/mfe-registry-service/public/mfe/unsupported-browser-message/remoteEntry/path/"
+			as="fetch"
+			crossorigin
+		/>
+		<link
+			rel="preload"
+			href="/mfe-registry-service/public/mfe/access-workflow/remoteEntry/path/"
+			as="fetch"
+			crossorigin
+		/>
+		<link
+			rel="preload"
+			href="/mfe-registry-service/public/mfe/status-banner/remoteEntry/path/"
+			as="fetch"
+			crossorigin
+		/>
+		<link
+			rel="preload"
+			href="/mfe-registry-service/public/mfe/prompt/remoteEntry/path/"
+			as="fetch"
+			crossorigin
+		/>
+
+		<link
+			rel="stylesheet"
+			href="//www.jstor.org/assets/global_20250731T212448/build/global/css/global.css"
+		/>
+		<script src="/assets/long-lived_20201006/js/scoped-custom-element-registry@0.0.3.min.js"></script>
+		<!--1g3tag1--><meta name="description" content="Charles Mitchell, The Lateran Fresco of Boniface VIII, Journal of the Warburg and Courtauld Institutes, Vol. 14, No. 1/2, 1951"/> <meta name="robots" content="noarchive,noindex,nofollow"/> <link rel="canonical" href="https://www.jstor.org/stable/750348"/> <meta property="og:title" content="The Lateran Fresco of Boniface VIII | JSTOR"/> <meta property="og:description" content="Charles Mitchell, The Lateran Fresco of Boniface VIII, Journal of the Warburg and Courtauld Institutes, Vol. 14, No. 1/2, 1951"/> <meta property="og:type" content="website"/> <meta property="og:site_name" content="JSTOR"/> <meta property="og:url" content="https://www.jstor.org/stable/750348"/> <!--[-1--><!--]--> <meta name="twitter:site" content="@JSTOR"/> <meta name="twitter:card" content="summary_large_image"/> <meta name="twitter:title" content="The Lateran Fresco of Boniface VIII | JSTOR"/> <meta name="twitter:description" content="Charles Mitchell, The Lateran Fresco of Boniface VIII, Journal of the Warburg and Courtauld Institutes, Vol. 14, No. 1/2, 1951"/> <!--[0--><!----><script type="application/ld+json">{"@context":"https://schema.org","@type":"ScholarlyArticle","creativeWorkStatus":"Published","isAccessibleForFree":false,"provider":{"@type":"Organization","name":"JSTOR"},"sdPublisher":{"@type":"Organization","name":"JSTOR","parentOrganization":{"@type":"Organization","name":"ITHAKA Harbors Inc."}},"mainEntityOfPage":"https://www.jstor.org/stable/10.2307/750348","identifier":[{"@type":"PropertyValue","propertyID":"doi","value":"10.2307/750348"},{"@type":"PropertyValue","propertyID":"issn","value":"0075-4390"}],"url":"https://www.jstor.org/stable/10.2307/750348","datePublished":"1951-01-01T00:00:00Z","headline":"The Lateran Fresco of Boniface VIII","name":"The Lateran Fresco of Boniface VIII","license":"https://about.jstor.org/terms/","pageEnd":"6","pageStart":"1","copyrightYear":1951,"publisher":{"@type":"Organization","name":"The University of Chicago Press"},"copyrightHolder":{"@type":"Organization","name":"The University of Chicago Press"},"author":[{"@type":"Person","name":"Charles Mitchell"}],"abstract":"The document discusses The Lateran Fresco of Boniface VIII, focusing on Boniface VIII’s restoration and decoration of the Lateran, including the loggia of benediction. It analyzes the Jubilee fresco’s subjects (Boniface blessing, Constantine’s baptism, the Lateran’s founding), its dating, stylistic attributions, and the possible imperial and Constantinian symbolism. It also examines the relationship between the fresco and a relief of Constantine and Constantine’s Donation, the loggia’s architectural depiction, later restorations, and broader art-historical context linking late antique prototypes to medieval Roman imagery.","keywords":"[\"Boniface VIII\", \"Lateran loggia\", \"Jubilee fresco\", \"Constantine Donation\", \"Constantinian imagery\", \"Roman imperial iconography\", \"medieval art restoration\", \"Ambrosiana drawing\", \"Giotto attribution debates\", \"Theodosius obelisk relief\"]","about":[{"@type":"Thing","name":"Philosophy"},{"@type":"Thing","name":"Humanities"},{"@type":"Thing","name":"Art \u0026 Art History"},{"@type":"Thing","name":"Arts"},{"@type":"Thing","name":"History"},{"@type":"Thing","name":"History"}],"isPartOf":{"@type":"PublicationIssue","issueNumber":"1/2","isPartOf":{"@type":"PublicationVolume","volumeNumber":"14","isPartOf":{"@type":"Periodical","name":"Journal of the Warburg and Courtauld Institutes","publisher":{"@type":"Organization","name":"The University of Chicago Press"},"identifier":[{"@type":"PropertyValue","propertyID":"issn","value":"0075-4390"}]}}}}</script><!----><!--]--><!----><!--1h0n4nl--><script type="text/javascript" data-analytics-provider="ga">
+		window.dataLayer = window.dataLayer || [];
+	</script> <script>
+		(function (w, d, s, l, i) {
+			w[l] = w[l] || [];
+			w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+			var f = d.getElementsByTagName(s)[0],
+				j = d.createElement(s),
+				dl = l != 'dataLayer' ? '&l=' + l : '';
+			j.async = true;
+			j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+			f.parentNode.insertBefore(j, f);
+		})(window, document, 'script', 'dataLayer', 'GTM-N6GDC22');
+	</script><!----><title>The Lateran Fresco of Boniface VIII | JSTOR</title>
+		<link href="https://www.jstor.org/assets/jstor-discovery-platform/prod/fd9d44d9/immutable/assets/0.BSbMLE77.css" rel="stylesheet">
+		<link href="https://www.jstor.org/assets/jstor-discovery-platform/prod/fd9d44d9/immutable/assets/MfeBulkCite.DL7paWU4.css" rel="stylesheet">
+		<link href="https://www.jstor.org/assets/jstor-discovery-platform/prod/fd9d44d9/immutable/assets/Stable.JrKKwLJU.css" rel="stylesheet">
+	</head>
+	<body data-sveltekit-preload-data="off">
+		<div style="display: contents"><!--[--><!--[0--><!--[--><jdp-pharos-toaster></jdp-pharos-toaster> <!----> <!--[0--><script>
+		// OneTrust looks for this global callback.
+		// When it fires, we dispatch your custom event.
+		window.OptanonWrapper = function OptanonWrapper() {
+			window.dispatchEvent(new CustomEvent('onetrust-ready'));
+		};
+	</script> <script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="94945f03-5e19-4775-ab08-18086adc0f18"></script><!--]--><!----> <div class="navigation-progress svelte-1i465u6" style="transform: scaleX(0);" aria-hidden="true"></div><!----> <noscript><iframe title="Google Tag Manager" src="https://www.googletagmanager.com/ns.html?id=GTM-N6GDC22" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><!----> <div data-global-mfe=""></div><!----> <div data-global-mfe=""></div><!----> <div data-global-mfe=""></div><!----> <!--[0--><div data-global-mfe=""></div><!--]--> <div data-structured-context="{&quot;referring_requestid&quot;:&quot;fastly-default:dfd286fa675b0611bbf08ac15d607d37&quot;,&quot;user&quot;:{&quot;is_logged_in&quot;:false}}"><div data-global-mfe=""></div><!----> <!--[0--><!--[--><main id="content"><!--[0--><!--[--><!--[--><div class="content"><div><!--[-1--><div id="cdt" data-jimg-host="pt.j-img.org" data-content-id="c7a11104-f578-3e9b-8226-9d55a5267a5b" data-uuid="529d7bb4-472b-4d37-9d7b-b4472b8d3788" data-urp="true"></div> <div data-sveltekit-reload=""></div><!----><!--]--></div></div><!--]--><!----><!--]--><!--]--><!----></main> <div data-global-mfe=""></div><!----><!--]--><!--]--><!----></div> <!--[0--><div data-global-mfe=""></div><!--]--> <!--[0--><!--[0--><script id="px-js" type="text/javascript"></script> <noscript><div><img id="px-pixel-nojs" aria-hidden="true" src="/u4K0s8nX/xhr/api/v1/collector/noScript.gif?appId=PXu4K0s8nX" alt=""/></div></noscript><!--]--><!--]--><!--]--><!--]--> <!--[-1--><!--]--><!--]-->
+			
+			<script>
+				{
+					__sveltekit_1ivci1g = {
+						base: new URL("..", location).pathname.slice(0, -1),
+						assets: "https://www.jstor.org/assets/jstor-discovery-platform/prod"
+					};
+
+					const element = document.currentScript.parentElement;
+
+					Promise.all([
+						import("https://www.jstor.org/assets/jstor-discovery-platform/prod/fd9d44d9/immutable/entry/start.D_r2CxSF.js"),
+						import("https://www.jstor.org/assets/jstor-discovery-platform/prod/fd9d44d9/immutable/entry/app.D0EhzSBU.js")
+					]).then(([kit, app]) => {
+						kit.start(app, element, {
+							node_ids: [0, 4, 6, 14],
+							data: [{type:"data",data:{session:{isUserLoggedIntoAccount:false,userDisplayName:""},flags:{genAIBetaWelcome:true,genAIWaitlistPrompt:true,rolePrompt:true,asQa:false,showHud:true},structuredContext:"{\"referring_requestid\":\"fastly-default:dfd286fa675b0611bbf08ac15d607d37\",\"user\":{\"is_logged_in\":false}}",perimeterX:{appId:"u4K0s8nX",siteId:null,contentType:null}},uses:{url:1}},null,{type:"data",data:{},uses:{params:["identifier"],url:1}},(function(a){a["@type"]="Organization";a.name="The University of Chicago Press";return {type:"data",data:{variant:"preview",contentData:{contentIdentifier:"c7a11104-f578-3e9b-8226-9d55a5267a5b",itemType:"article",portalId:void 0},userData:{uuid:"529d7bb4-472b-4d37-9d7b-b4472b8d3788"},analytics:{page:{pageName:"turnaway",siteSection:"content",pageProduct:"jstor",pagePlatform:"seq",pageType:"urp"},user:{userAuthentication:"Unauthenticated",userInstitution:[],institutionID:[],myJstorUserID:"",loggedIn:false},content:{contentName:"The Lateran Fresco of Boniface VIII",objectDOI:"10.2307/750348",contentType:"journal",itemType:"article",openAccess:false,userAuthorization:"",itemTitle:"The Lateran Fresco of Boniface VIII",pageCount:9,contentIssue:"Vol. 14, No. 1/2, 1951",contentPublisher:"The University of Chicago Press",contentDiscipline:["Philosophy","Humanities","Art & Art History","Arts","History","History"]}},seo:{title:"The Lateran Fresco of Boniface VIII",robots:"noarchive,noindex,nofollow",description:"Charles Mitchell, The Lateran Fresco of Boniface VIII, Journal of the Warburg and Courtauld Institutes, Vol. 14, No. 1/2, 1951",jsonLd:{"@context":"https://schema.org","@type":"ScholarlyArticle",creativeWorkStatus:"Published",isAccessibleForFree:false,provider:{"@type":"Organization",name:"JSTOR"},sdPublisher:{"@type":"Organization",name:"JSTOR",parentOrganization:{"@type":"Organization",name:"ITHAKA Harbors Inc."}},mainEntityOfPage:"https://www.jstor.org/stable/10.2307/750348",identifier:[{"@type":"PropertyValue",propertyID:"doi",value:"10.2307/750348"},{"@type":"PropertyValue",propertyID:"issn",value:"0075-4390"}],url:"https://www.jstor.org/stable/10.2307/750348",datePublished:"1951-01-01T00:00:00Z",headline:"The Lateran Fresco of Boniface VIII",name:"The Lateran Fresco of Boniface VIII",license:"https://about.jstor.org/terms/",pageEnd:"6",pageStart:"1",copyrightYear:1951,publisher:a,copyrightHolder:a,author:[{"@type":"Person",name:"Charles Mitchell"}],abstract:"The document discusses The Lateran Fresco of Boniface VIII, focusing on Boniface VIII’s restoration and decoration of the Lateran, including the loggia of benediction. It analyzes the Jubilee fresco’s subjects (Boniface blessing, Constantine’s baptism, the Lateran’s founding), its dating, stylistic attributions, and the possible imperial and Constantinian symbolism. It also examines the relationship between the fresco and a relief of Constantine and Constantine’s Donation, the loggia’s architectural depiction, later restorations, and broader art-historical context linking late antique prototypes to medieval Roman imagery.",keywords:"[\"Boniface VIII\", \"Lateran loggia\", \"Jubilee fresco\", \"Constantine Donation\", \"Constantinian imagery\", \"Roman imperial iconography\", \"medieval art restoration\", \"Ambrosiana drawing\", \"Giotto attribution debates\", \"Theodosius obelisk relief\"]",about:[{"@type":"Thing",name:"Philosophy"},{"@type":"Thing",name:"Humanities"},{"@type":"Thing",name:"Art & Art History"},{"@type":"Thing",name:"Arts"},{"@type":"Thing",name:"History"},{"@type":"Thing",name:"History"}],isPartOf:{"@type":"PublicationIssue",issueNumber:"1/2",isPartOf:{"@type":"PublicationVolume",volumeNumber:"14",isPartOf:{"@type":"Periodical",name:"Journal of the Warburg and Courtauld Institutes",publisher:a,identifier:[{"@type":"PropertyValue",propertyID:"issn",value:"0075-4390"}]}}}}}},uses:{params:["identifier"],parent:1}}}({}))],
+							form: null,
+							error: null
+						});
+					});
+				}
+			</script>
+		</div>
+	</body>
+</html>

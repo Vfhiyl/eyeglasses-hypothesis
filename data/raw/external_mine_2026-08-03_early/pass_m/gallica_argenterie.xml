@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<srw:searchRetrieveResponse xmlns:ns6="http://gallica.bnf.fr/namespaces/gallica/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <srw:version>1.2</srw:version>
+    <srw:echoedSearchRetrieveRequest>
+        <srw:query>gallica all "Nouveau recueil de comptes de l'argenterie"</srw:query>
+        <srw:version>1.2</srw:version>
+    </srw:echoedSearchRetrieveRequest>
+    <srw:numberOfRecords>21911</srw:numberOfRecords>
+    <srw:extraResponseData>&lt;numberOfRecordsDecollapser&gt;159058&lt;/numberOfRecordsDecollapser&gt;</srw:extraResponseData>
+    <srw:records>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Louis XIII (1601-1643 ; roi de France). Auteur du texte</dc:creator>
+                    <dc:creator>France. Auteur du texte</dc:creator>
+                    <dc:date>1722-1750</dc:date>
+                    <dc:description>[Acte royal. 1629-12-22. Paris]</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>4 p. ; in-4</dc:format>
+                    <dc:format>Nombre total de vues : 4</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bd6t54192578t</dc:identifier>
+                    <dc:identifier>NUMS-104192578</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>[P.-J. Mariette] (Paris)</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb473632819</dc:relation>
+                    <dc:relation>Notice de recueil : http://catalogue.bnf.fr/ark:/12148/cb473618119</dc:relation>
+                    <dc:relation>Appartient à : [Recueil d'actes royaux concernant les finances] ; 2,29</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb33816769q</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Droit, économie, politique, F-20944 (29)</dc:source>
+                    <dc:subject>Maison du Roi -- Maison civile, privilèges (Actes royaux)</dc:subject>
+                    <dc:title>Déclaration, portant confirmation de l'attribution de 900 livres par an, à chacun des controlleurs et argentiers de l'argenterie du Roy, pour habillement d'esté et d'hyver</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>0</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bd6t54192578t.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bd6t54192578t</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bd6t54192578t.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bd6t54192578t.medres</medres>
+                <nqamoyen>85.53</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t54192578t.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bd6t54192578t</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Bataille, Jules. Expert</dc:contributor>
+                    <dc:date>1911</dc:date>
+                    <dc:description>[Vente. Art. 1911-01-26 - 1911-01-28. Paris]</dc:description>
+                    <dc:description>[Collection. Art. Valtesse de La Bigne, Madame. 1911]</dc:description>
+                    <dc:description>Référence bibliographique : Lugt, 69358</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : VenteEST2</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>Non paginé [4] p. ; 20 cm</dc:format>
+                    <dc:format>Nombre total de vues : 6</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k1250839n</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>[s.n.]</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb41536916d</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Estampes et photographie, YD-1 (1911-01-26)-8</dc:source>
+                    <dc:title>Notice sommaire du beau mobilier, porcelaines..., céramiques chinoises et autres, tableaux..., objets de vitrine, argenterie..., vins fins, dépendant de la succession de Madame Valtesse de La Bigne... : seconde vente... / [expert] Jules Bataille</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>1</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k1250839n.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k1250839n</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k1250839n.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k1250839n.medres</medres>
+                <nqamoyen>97.22</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k1250839n.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k1250839n</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1878</dc:date>
+                    <dc:description>[Vente. Livres. 1878-12-12 - 1878-12-13. Paris]</dc:description>
+                    <dc:description>[Collection. Livres. Brunet, Charles (homme de lettres). 1878]</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : VenteEST2</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>43 p. ; 23 cm</dc:format>
+                    <dc:format>Nombre total de vues : 48</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k1173362d</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>A. Labitte (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb36532124f</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, SMITH LESOUEF R-4258</dc:source>
+                    <dc:title>Catalogue des livres, principalement sur le théâtre, composant la bibliothèque de feu M. Charles Brunet,... : [dont la vente aura lieu Rue des Bons-Enfants, 28, salle n° 1, 12-13 décembre 1878, Me Maurice Delestre, commissaire-priseur]</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>2</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k1173362d.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k1173362d</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k1173362d.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k1173362d.medres</medres>
+                <nqamoyen>83.61</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k1173362d.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k1173362d</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Laboulaye, Édouard (1811-1883). Directeur de publication</dc:contributor>
+                    <dc:contributor>Rozière, Eugène de (1820-1896). Directeur de publication</dc:contributor>
+                    <dc:contributor>Gide, Paul (1832-1880). Directeur de publication</dc:contributor>
+                    <dc:contributor>Dareste de La Chavanne, Rodolphe (1824-1911). Directeur de publication</dc:contributor>
+                    <dc:contributor>Boissonade, Gustave (1825-1910). Directeur de publication</dc:contributor>
+                    <dc:contributor>Flach, Jacques (1846-1919). Directeur de publication</dc:contributor>
+                    <dc:date>1877-1921</dc:date>
+                    <dc:description>Etat de collection : 1877 (A1)-1921 (A45)</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : GTextes1</dc:description>
+                    <dc:format>Nombre total de vues : 36616</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb34416607b/date</dc:identifier>
+                    <dc:identifier>NUMP-381</dc:identifier>
+                    <dc:identifier>ISSN 09958924</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>L. Larose (Paris)</dc:publisher>
+                    <dc:publisher>Librairie de la Société du Recueil SyreyLibrairie de la Société du Recueil Syrey (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb34416607b</dc:relation>
+                    <dc:relation>A pour reproduction : Nouvelle revue historique de droit français et étranger (Reproduction numérique) = ISSN 2420-0263 (https://gallica.bnf.fr/ark:/12148/cb34416607b/date)</dc:relation>
+                    <dc:source>Bibliothèque nationale de France</dc:source>
+                    <dc:title>Nouvelle revue historique de droit français et étranger / publiée sous la direction de MM. Édouard Laboulaye,... Eugène de Rozière,... Paul Gide,... Rodolphe Dareste,... Gustave Boissonade,... Jacques Flach,...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>3</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k15839m.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb34416607b/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k15839m.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k15839m.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k15839m.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k15839m</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>France. Chambre des comptes de Paris. Éditeur scientifique</dc:contributor>
+                    <dc:creator>Coustant d'Yanville, H. (Cte). Auteur du texte</dc:creator>
+                    <dc:date>1866-1875</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>1 vol. (VIII-1023 p.) : ill. ; in-fol.</dc:format>
+                    <dc:format>Nombre total de vues : 1054</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k57243060</dc:identifier>
+                    <dc:identifier>NUMM-5724306</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>J. B. Dumoulin (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31976769v</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Collections numérisées, 2009-69408</dc:source>
+                    <dc:title>Essais historiques et chronologiques, privilèges et attributions nobiliaires et armorial / par le cte H. Coustant d'Yanville ; Chambre des comptes de Paris</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>4</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k57243060.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k57243060</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k57243060.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k57243060.medres</medres>
+                <nqamoyen>99.98</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k57243060.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k57243060</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Hérault. Auteur du texte</dc:creator>
+                    <dc:date>1977-2006</dc:date>
+                    <dc:description>Variante(s) de titre : Préfecture de l'Hérault</dc:description>
+                    <dc:description>Variante(s) de titre : Recueil des actes administratifs du département de l'Hérault</dc:description>
+                    <dc:description>Variante(s) de titre : Recueil des actes administratifs (Hérault)</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb344064276/date</dc:identifier>
+                    <dc:identifier>NUMP-24246</dc:identifier>
+                    <dc:identifier>ISSN 09891943</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Préfecture de l'Hérault (Montpellier)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb344064276</dc:relation>
+                    <dc:relation>A pour reproduction : Recueil des actes administratifs et bulletin de liaison des maires (Hérault, Préfecture. Reproduction numérique) = ISSN 2801-8885 (https://gallica.bnf.fr/ark:/12148/cb344064276/date)</dc:relation>
+                    <dc:source>Bibliothèque nationale de France, département Droit, économie, politique, F-26993</dc:source>
+                    <dc:title>Recueil des actes administratifs et bulletin de liaison des maires (Hérault, Préfecture)</dc:title>
+                    <dc:title>Recueil des actes administratifs et bulletin de liaison des maires / Préfecture de l'Hérault</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>5</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k11969760.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/cb344064276/date</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k11969760.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k11969760.medres</medres>
+                <nqamoyen>87.81</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k11969760.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+                <uri>bpt6k11969760</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>France. Conseil d'État (13..-1791). Auteur du texte</dc:creator>
+                    <dc:date>1702</dc:date>
+                    <dc:description>[Acte. 1702-02-04]</dc:description>
+                    <dc:description>Contient une table des matières</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>78-XII p. ; in-4</dc:format>
+                    <dc:format>Nombre total de vues : 98</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k96618215</dc:identifier>
+                    <dc:identifier>NUMM-9661821</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>J. Ballard (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb33653913d</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Droit, économie, politique, F-21600</dc:source>
+                    <dc:subject>Chambre des comptes (Actes Administratifs)</dc:subject>
+                    <dc:title>Recueil de plusieurs arrests du Conseil d'Etat du Roy ; et autres pièces qui prouvent la possession immémoriale de la Chambre des comptes d'apposer le scellé pour la sûreté des intérests du Roy, chez les officiers comptables, en cas de déceds ou d'absence ; et de faire inventaire de leurs effets et vente de leurs meubles, à l'exclusion de tous autres juges . Avec le règlement du 4 février 1702 intervenu en conséquence</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>6</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k96618215.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k96618215</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k96618215.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k96618215.medres</medres>
+                <nqamoyen>97.96</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k96618215.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k96618215</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Bouchot, Henri (1849-1906). Auteur du texte</dc:creator>
+                    <dc:creator>Herviant, Mme. Auteur du texte</dc:creator>
+                    <dc:creator>Morand, Louis. Auteur du texte</dc:creator>
+                    <dc:date>1895</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : GTextes1</dc:description>
+                    <dc:description>Contient une table des matières</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:description>Catalogues</dc:description>
+                    <dc:description>Guides touristiques et de visite</dc:description>
+                    <dc:format>1 vol. (XXIV-392 p.) ; 23 cm</dc:format>
+                    <dc:format>Nombre total de vues : 434</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k5440074c</dc:identifier>
+                    <dc:identifier>NUMM-5440074</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>E. Dentu (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb37071218n</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Littérature et art, 8-Q-2211</dc:source>
+                    <dc:subject>Bibliothèque nationale de France. Département des estampes et de la photographie</dc:subject>
+                    <dc:title>Le Cabinet des estampes de la Bibliothèque nationale : guide du lecteur et du visiteur, catalogue général et raisonné des collections qui y sont conservées / par Henri Bouchot,... ; table générale par Louis Morand et Mme Hervian</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>7</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k5440074c.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k5440074c</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k5440074c.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k5440074c.medres</medres>
+                <nqamoyen>96.55</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k5440074c.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k5440074c</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Dhios, J.-M. (18..-18.. ; marchand d'art). Expert</dc:contributor>
+                    <dc:contributor>Aubry, Auguste. Expert</dc:contributor>
+                    <dc:date>1873</dc:date>
+                    <dc:description>[Vente. Art. 1873-07-08 - 1873-07-09. Paris]</dc:description>
+                    <dc:description>[Collection. Art. Cherrier, De. 1873]</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : VenteEST2</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>9 p. ; 24 cm</dc:format>
+                    <dc:format>Nombre total de vues : 21</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k12414451</dc:identifier>
+                    <dc:identifier>NUMM-1241445</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>[s.n.] (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb41528925n</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Estampes et photographie, YD-1 (1873-07-08)-8</dc:source>
+                    <dc:title>Vente de mobilier, livres, argenterie, tableaux, etc. : succession de M. de Cherrier,... 8-9 juillet 1873... / [expert] Dhios, Auguste Aubry</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>8</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k12414451.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k12414451</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k12414451.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k12414451.medres</medres>
+                <nqamoyen>94.2</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k12414451.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k12414451</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1885</dc:date>
+                    <dc:description>[Vente (Livres). 1885-02-26 - 1885-02-28. Paris]</dc:description>
+                    <dc:description>[Collection (Livres). M. H. D.. 1885]</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>1 vol. (56 p.) ; in-8</dc:format>
+                    <dc:format>Nombre total de vues : 68</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k57136429</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:language>français</dc:language>
+                    <dc:publisher>C. Porquet (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb36554408x</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Littérature et art, DELTA-52004</dc:source>
+                    <dc:title>Catalogue de livres anciens et d'ouvrages sur la gravure, l'architecture et l'ornement, provenant de la bibliothèque de M. H. D.</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>9</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k57136429.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k57136429</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k57136429.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k57136429.medres</medres>
+                <nqamoyen>85.13</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k57136429.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k57136429</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Le Long, Jacques (1665-1721). Auteur du texte</dc:creator>
+                    <dc:date>1719</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : BnPlCo00</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BnPlCo03</dc:description>
+                    <dc:description>Bibliographie</dc:description>
+                    <dc:description>Catalogues</dc:description>
+                    <dc:format>1100 p., pièces limin., table ; in-fol.</dc:format>
+                    <dc:format>Nombre total de vues : 1126</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k1086957</dc:identifier>
+                    <dc:identifier>NUMM-108695</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>G. Martin (Paris)</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb392288773</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb392288773</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Littérature et art, Q-62</dc:source>
+                    <dc:subject>France -- Histoire</dc:subject>
+                    <dc:subject>France -- Histoire -- Sources</dc:subject>
+                    <dc:title>Bibliothèque historique de la France , contenant le catalogue de tous les ouvrages tant imprimez que manuscrits qui traitent de l'histoire de ce roïaume ou qui y ont rapport, avec des notes critiques et historiques, par Jacques Lelong,...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>10</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k1086957.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k1086957</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k1086957.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k1086957.medres</medres>
+                <nqamoyen>65.13</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k1086957.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k1086957</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Rapilly, Georges (1863-1943). Expert</dc:contributor>
+                    <dc:date>1891</dc:date>
+                    <dc:description>[Vente. Art. 1891-02-16 - 1891-02-20. Paris]</dc:description>
+                    <dc:description>[Collection. Art. Bérard, Eug.. 1891]</dc:description>
+                    <dc:description>[Collection. Estampes. Bérard, Eug.. 1891]</dc:description>
+                    <dc:description>[Vente. Estampes. 1891-02-16 - 1891-02-20. Paris]</dc:description>
+                    <dc:description>Référence bibliographique : Lugt, 49648</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : VenteEST2</dc:description>
+                    <dc:description>Contient une table des matières</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>124 p. ; 27 cm</dc:format>
+                    <dc:format>Nombre total de vues : 137</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k1243048h</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>[s.n.]</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb415323441</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Estampes et photographie, YD-1 (1891-02-16)-8</dc:source>
+                    <dc:title>Catalogue d'estampes et de livres relatifs à l'architecture et à l'ornementation aux XVIe, XVIIe et XVIIIe siècles composant la collection de feu M. Eug. Bérard,... vente... du... 16 au... 20 Fevrier 1891 / [expert] Rapilly</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>11</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k1243048h.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k1243048h</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k1243048h.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k1243048h.medres</medres>
+                <nqamoyen>97.98</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k1243048h.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k1243048h</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Champion, Pierre (1880-1942). Auteur du texte</dc:creator>
+                    <dc:creator>Ricci, Seymour de (1881-1942). Auteur du texte</dc:creator>
+                    <dc:date>1930</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>16 p. ; 25 cm</dc:format>
+                    <dc:format>Nombre total de vues : 32</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bd6t53796523</dc:identifier>
+                    <dc:identifier>NUMS-100379652</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Honoré Champion (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31209366s</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Manuscrits, 8-PIECE-6610 (Ex. 3)</dc:source>
+                    <dc:title>Inventaire sommaire des manuscrits anciens de la Bibliothèque Smith-Lesouëf à Nogent-sur-Marne / [par Pierre Champion et Seymour de Ricci]</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>12</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bd6t53796523.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bd6t53796523</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bd6t53796523.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bd6t53796523.medres</medres>
+                <nqamoyen>87.05</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t53796523.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bd6t53796523</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Foulard, Charles (1870?-19..). Expert</dc:contributor>
+                    <dc:date>1907</dc:date>
+                    <dc:description>[Vente. Livres. 1907-05-29. Paris]</dc:description>
+                    <dc:description>[Collection. Livres. M***. 1907]</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : VenteEST2</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>15 p. ; 23 cm</dc:format>
+                    <dc:format>Nombre total de vues : 25</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k1245852s</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>C. Foulard (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb41536019z</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Estampes et photographie, YD-1 (1907-05-29)-8</dc:source>
+                    <dc:title>Catalogue de livres anciens et modernes relatifs à la décoration et l'ameublement provenant de la bibliothèque de M. M***... / [expert] Charles Foulard</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>13</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k1245852s.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k1245852s</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k1245852s.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k1245852s.medres</medres>
+                <nqamoyen>94.99</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k1245852s.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k1245852s</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>La Gibonais, Jean-Arthur de (1648-1728). Auteur du texte</dc:creator>
+                    <dc:creator>France. Auteur du texte</dc:creator>
+                    <dc:date>1721-1722</dc:date>
+                    <dc:description>[Acte royal. 1492-1724]</dc:description>
+                    <dc:description>Contient une table des matières</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>4 vol. ; in-fol.</dc:format>
+                    <dc:format>Nombre total de vues : 356</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k96777817</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Impr. de Vve A. Querro (Nantes)</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb338512407</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb338512407</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Droit, économie, politique, F-4828</dc:source>
+                    <dc:subject>Chambre des comptes de Bretagne (Actes royaux)</dc:subject>
+                    <dc:title>Recueil des édits, ordonnances et règlemens concernant les fonctions ordinaires de la Chambre des comptes de Bretagne, tiré des titres originaux estant au dépost de ladite Chambre. Partie 2 / . Divisé en quatre parties, &amp; mis en ordre suivant la nature des matières</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>14</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k96777817.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k96777817</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k96777817.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k96777817.medres</medres>
+                <nqamoyen>89.62</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k96777817.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k96777817</uri>
+            </srw:extraRecordData>
+        </srw:record>
+    </srw:records>
+    <srw:nextRecordPosition>16</srw:nextRecordPosition>
+</srw:searchRetrieveResponse>

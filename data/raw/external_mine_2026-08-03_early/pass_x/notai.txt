@@ -1,0 +1,1383 @@
+     NOTARIES-CHANCELLORS IN LATE MEDIEVAL DUBROVNIK
+      NOTAI-CANCELLIERI NELLA DUBROVNIK TARDO MEDIEVALE
+
+                                   Francesco Bettarini
+                              Università Ca' Foscari Venezia
+
+Abstract English: The relationship between public writings and the legal status of notaries
+in medieval Ragusa (today Dubrovnik) is the topic of this paper. As communal city
+located outside the borders of the Roma-Germanic Empire, the evolution of the notary
+followed there different and ever-changing paths, although the model drawn up by the
+Bolognese school exercised an increasingly irresistible charm with the beginning of Early
+Modern era. The most relevant result of this peculiar experience, was the assimilation
+between notaries and chancellors in an unique profession, fully inserted within the
+state bureaucracy. Thanks to their law-studies graduation at Italian universities, the
+government decided at the end of 13th century to reserve the notary profession for
+jurists from peninsula.
+
+Keywords: Notaries; Chancellors; Ragusa-Dubrovnik; Dalmatia; Venice; Law history
+
+Abstract Italiano: La connessione tra la scrittura pubblica e la figura del notaio nella cit-
+tà di Ragusa (Dubrovnik) è l’argomento principale di questo contributo. Centro urbano
+posto all’esterno della giurisdizione del Sacro Romano Impero, l’evoluzione della pratica
+notarile conobbe qui percorso divergenti dal modello ideato dalla scuola giuridica bolo-
+gnese, sebbene il peso della sua influenza raggiungesse anche le città della costa dalma-
+ta. Il risultato più evidente di questa tradizione peculiare fu l’assimilazione del notariato
+e del cancellierato all’interno di una sola figura professionale, assorbita all’interno della
+burocrazia dello stato. In ragione della loro esperienza e formazione maturata presso
+gli studi universitari, il governo raguseo decise alla fine del XIII secolo di affidare l’ufficio
+notarile ai soli notai italiani.
+
+Parole chiave: Notai; Cancelleria; Ragusa-Dubrovnik; Dalmazia; Venezia; Storia del Diritto
+
+Table of contents: 1. Notaries-chancellors. – 2. The statute of 1272 and the reform of
+chancellery. – 3. The «Ordo cancelleriae» of 1428. – 4. Wages and contractual conditions.
+– 5. The rectruitment of notaries and their contribution to culture. – 6. Conclusions.
+
+
+
+
+   Italian Review of Legal History, 7 (2021), n. 21, pagg. 691-718
+   https://riviste.unimi.it/index.php/irlh/index
+   ISSN 2464-8914 – DOI 10.54103/2464-8914/16906. Articolo pubblicato sotto Licenza CC-BY.
+692       Francesco Bettarini
+
+
+
+1. Notaries-chancellors
+The legal order of medieval Europe, as it was written, is the result of the encoun-
+ter between Roman and Germanic cultures, a meeting point mediated by civil
+and ecclesiastical institutions at local level that produced divergent experienc-
+es, although sharing the same matrix1. The differentiation of juridical uses finds
+one of its most evident manifestations in the figure of the notary, as a mediator
+between individual and society in their daylife agreements. The responsibility
+of the notary in the production of legal writings guaranteed by the publica fides
+because of their phisical and internal features has its origin in the tabellio, the
+scribe employed at the municipal offices of the Roman state. During the Early
+Middle Ages, the figure of the notary went differentiating, distinguishing itself
+among notarii, scribae and cancellarii, terms that began to define respectively:
+a formal legitimacy in the signature of the contracts, a writing professional at
+ecclesiastical and public institutions, and finally the person responsible for the
+documentary production of the legal subjects.
+   In north-central Italy, within the jurisdiction of the Holy Roman Empire, the
+evolution of the notary appears well outlined in the wake of the re-elaboration
+of Roman law promoted by the Bolognese school and the affirmation of new po-
+litical institutions connected to the rebirth of the city2​​. In this context, the notary,
+legitimized by the imperial investiture, stands as a professional figure extraneous
+to the state bureaucracy, an extraneousness partially compensated by the wish-
+es, both formal and informal, of the local communities. A freelancer, therefore,
+increasingly disciplined by municipal and guild statutes, but able to decline and
+interpret within a rigorous form the legal systems of human interactions.
+   Outside the borders of the Empire, the evolution of the notary followed dif-
+ferent and ever-changing paths, although the model drawn up by the Bolognese
+school exercised an increasingly irresistible charm with the beginning of Early
+Modern era. Venice is certainly the most relevant case of this diversity, a frontier
+town proudly posed outside the Roman-Germanic law area. The main peculiarity
+of the Venetian notary lies in the source of its legitimization, unrelated to the two
+ones recognized by the Bolognese jurists, namely the imperial one and the apos-
+
+
+1
+  I would like to thank Paolo Cammarosano and Marialuisa Bottazzi for inspiring this pa-
+per. About the juridical origin of European culture: Caravale, 1994; Lupoi, 1994; Grossi,
+1995.
+2
+   The development of Italia notary in the Middle Ages was the subject of a huge number
+of studies in the past century. Among the best monographs on thisn topic: Fasoli, 1968;
+Pratesi, 1979; Cammarosano, 1991, pp. 268-276; Piergiovanni (ed.), 1994. An essential
+contribution to the historiography is coming today from Notariorum Itinera, a collection
+of essays and editions of sources dedicated to notaries. Focused essentially on notaries
+from Genoa, the catalogue is published on website https://notariorumitinera.eu/Colla-
+naItinera.aspx .
+                                    Notaries-chancellors in late medieval Dubrovnik     693
+
+
+
+tolic of papal matrix3. The veneta auctoritate was commonly granted in Venice to
+all the religious incardinated in the city parishes and those lay notaries called by
+the institutions to integrate the active staff in the state chancelleries, in a context
+where private practice of the profession leads to absence of professional colleg-
+es comparable to the Italian guilds.
+  The towns of the Dalmatian coast face the second millennium of the Christian
+era with a conception of the notary profession that diverges from the two we
+have mentioned. The persistence of the Roman law in this region, borrowed from
+Byzantine Empire, had not eliminated the municipal conception of the tabellio as
+part of the state bureaucracy. In my opinion, the main feature of Dalmatian nota-
+ries lies precisely in the absence of a professional distinction between private and
+chancery practice4. The notary, citizen or foreigner, is here an officer of the town
+administration, legitimized by local institutions at the time of his recruitment. If
+the Italian colleague is free to practice the profession having been granted by the
+imperial authority, the Dalmatian notary lives instead of a temporary mandate,
+subject to the renewal of trust by the community, without which his documents
+cannot be distinguished from private and informal agreements, It follows that
+the administrative framework of the notary writing is the element that guaran-
+tees the trust necessary for the validation of the legal deeds. This temporary
+mandate also concerns those notaries who are authorized from institutions oth-
+er than communal one. It’s the case of «cancellarii comitis», who serve after the
+representative of Venetian officers, and the capitolar or episcopal notaries who
+may coincide with communal ones.
+  This peculiar feature, which we will try to investigate in the case of Ragusa
+(Dubrovnik), is beautifully expressed with the «notarius et cancellarius» formula,
+a definition that accompanies the autograph signatures of Ragusa notaries in the
+last centuries of the Middle Ages5. This municipal matrix allowed the notarial
+practice to give juridical continuity in a context that changed continuously the
+holders of the authority de iure between XIth and XVth century6.
+
+3
+  About the origin and the typical features of Venetian notary: Bartoli Langeli, 2006;
+Gasparini, 2012.
+4
+  An overall Dalmatian notary history is still missing. Neverthless, historiography has pro-
+duced strong and accurate analysis in the introductions to notary source editions. About
+Ragusa chancellery, Konstantin Jireček’s opus stands stills as a primary reference in this
+topic: Jireček, 1904-1905. See also: Čremošnik, 1927; Tadić, 1935; Čremošnik, 1952; Ma-
+rinović, 1984; Voje, 1990. On Dalmatian notary: Zabbia, 2009. Last but not least, Lučić’s
+introductions to the editions of Ragusa protocols: Lućić (ed.), 1988.
+5
+  The notarius et chancellarius formula is yet expressed in the priest Pasquale’s oath from
+1228, to be the first document about the assignment of notary office in Ragusa. The doc-
+ument is published in Jireček, 1904-1905, pp.185-186.
+6
+  The history of Late-Medieval Dalmatia is characterized by the frequency of handing over
+the urban communities to authorities related to divergent juridical systems: Byzantine,
+Venetian, Croatian and Hungarian empires. For a short description of these dynamics,
+694        Francesco Bettarini
+
+
+
+  Until the second half of the 13th century, Ragusa used to recruite its notaries
+among the members of the secular clergy, according to a well-established cus-
+tom existing in Venice and in other areas of the Italian peninsula7. The legal policy
+managed by the Italian communes in the discipline of the notarial profession led
+to a progressive exclusion of religious from public writing, with different timing
+from region to region.
+  In the Dalmatian context, a partial decline of the ecclesiastical notary coincided
+with some important legal innovations, such as the drafting of the communal
+statutes and the introduction of the Podestà’s regime, two elements that marked
+the inclusion of Dalmatian towns in the circuits of the institutional models devel-
+oped by the Italian communes. The secularization of the notary profession has
+followed by an increasingly frequent recruitment of foreign jurists with major
+professional preparation and granted of the imperiali auctoritate8. The phenom-
+enon occurred with a north-south irradiation movement that started from Spala-
+to (Split) in 1244 and reached Cattaro (Kotor) in 1287, causing a rapid decline of
+ecclesiastical and indigenous notaries throughout the area, with the significant
+exception of Zara (Zadar)9. The Saint Anastasia town was in fact able to recruit
+an indigenous citizen as the first lay notary: «Raynerius», attested between 1229
+and 1233, and the coexistence of lay and ecclesiastical jurists authorized by the
+town institutions continued until the beginning of the following century, follow-
+ing the same model that we had found in Venice10.
+  The advantage of recruiting Italian notaries in Dalmatian chancelleries meant
+an increase in professional efficiency and in the legal value of their documents. In
+the first place, the presence of professionals licensed at Italian universities would
+have ensured that notary mediation would provide a legal deed that resulted
+adequate to the complexity of the deeds. In addition, the imperiali auctoritate
+granted to the notaries would have allowed their deeds to have legal value both
+in Ragusa and outside its state, thus satisfying the international projection of for-
+eign merchants; the recourse to the Counts Palatine to acquire the imperiali auc-
+toritate for indigenous notaries should be instead read as rare and exceptional11.
+
+
+
+Praga, 1981, pp. 86-155.
+7
+  Bartoli Langeli, 2006, pp. 61-62; Zabbia, 2009, pp. 31-32.
+8
+   About Dalmatian instititutions and their belonging to an “European-Mediterranean”
+koinè: Raukar, 1980-1981.
+9
+   The irradiation of lay notaries in Dalmatian area is discussed in: Bettarini, 2013.
+10
+   Jireček,1904-1905, pp. 510-511. As Brunelli has guessed at his time, the aim of Zara’s
+policy was to reserve notary practice to its citizens, lay or ecclesiastic. Neverthless, chan-
+cellery offices started to be delegated to foreign jurists; Brunelli, 1934, pp. 379-383.
+11
+    A very rare example of notarial investiture in Dalmatia with imperiali auctoritate was
+granted to «Matheo Salassich», a canon of Zara’s chapter, on August 22th, 1390 from
+Atanasio, bishop of Drivasto; Ančić, 2005, pp. 71-73.
+                                    Notaries-chancellors in late medieval Dubrovnik      695
+
+
+
+2. The statute of 1272 and the reform of chancellery
+The secularization and professionalization of Ragusa notaries took place at a very
+precise moment, a direct consequence of the approval of the communal stat-
+ute in 1272. Within this fundamental text for the construction of the institution-
+al architecture of the commune, the relevance of the charta notarii has been
+repeatedly mentioned in the articles governing family law; nevertheless, a few
+additions to the original text approved between 1275 and 1309 confirmed the
+centrality of the notarial instrument. The law of June 8th, 1275 imposed that all
+credit obligations, valued more than 10 perperi, had to be registered by the chan-
+cellors, thus directing the business practice into a bureaucratic path where the
+relevance of private writing remained marginal for a long time12. A second law of
+June 24th, 1278 also added the same obligation for all those who had traded in
+association with one or more partners, in order to guarantee an equitable shar-
+ing of responsibility on debts and outstanding credits13.
+  The entry into force of the statute and the imposition of the notarial deeds
+on credit prompted the Ragusa community to follow the cities of Northern Dal-
+matia in their choice to entrust the practice to the Italian jurists. The first Italian
+notary, Tommaso Savere from Reggio, took up service in 1277 with the duty of
+reorganizing the chancellery in compliance with the institutional structure envis-
+aged by the statute; this moment launched a reform process that quickly led to
+the definitive handover of the notary office from local priests-notaries to Italian
+notaries-chancellors14.
+  The use of ecclesiastical writers, however, was not subject to a gender abolition
+such as we find in the statutes of Italian towns. Religious writers survived in the
+peripheral chancelleries. In Stagno (Ston), the second town in the Ragusa district,
+the chancellery was attributed to lay writers only starting from 1447, resorting
+
+
+12
+   «De credencia ut debeant fieri per cartam et de pena contrafacientum. […] statuimus et
+ordinamus quod de omnibus et singulis mercatis que fient in credencia ad certum termi-
+num in civitate et districtu Ragusii, de quibuscumque mercacionibus a decem yperperis
+supra, teneatur ille qui recipiet credenciam facere illi qui vendet cartam notarii infra octo
+dies postquam factum fuerit mercatum predictum. Et ille qui vendiderit mercaciones in
+credencia, teneatur facere sibi fieri dictam cartam notarii infra dictum terminum. Et qui
+contrafecerit, tam emptor quam venditor, solvat pro quolibet et qualibet vice pro banno
+yperpera decem, cuius medietas sit Comunis, et alia medietas accusatoris»; Liber Statu-
+torum Civitatis Ragusii, 2002, p. 426.
+13
+   Liber Statutorum Civitatis Ragusii, 2002, p. 429. As a consequence of these laws, a new
+deliberation from 1377 confirmed the unicity of notarial deeds in the court debatment
+about credit obligations; Liber Statutorum Civitatis Ragusii, 2002, pp. 236-238.
+14
+   The last notary coming from local prieshood was canon Andrea Benessa, who went
+on signing notarial deeds until 1324. In 1326, the government forced him to deposit his
+deeds, still preserved in his house; Liber reformationum 1301-1336, p. 224.
+696        Francesco Bettarini
+
+
+
+to no-notary citizens15. As regards the episcopal and chapter chancelleries, the
+recent editions of the Zara protocols highlighted the participation of communal
+notaries to their activity; the same practice can also be extended to Ragusa, al-
+though this aspect is still missing a specific investigation16; however, the presence
+in 1359 of a «notarius archiepiscopi», is attested, charged by the government to
+accompany the ambassadors sent t the king of Hungary17.
+  The reorganization of the chancellery after the arrival of foreign notaries in-
+volved among the towns of Northern Dalmatia the adoption of an archivistic or-
+der based on Italian models, namely the production and conservation of proto-
+cols produced and preserved by one single notary. Although the notary’s office
+was fully part of the communal bureaucracy, the registration of deeds had placed
+within shorthand books associated with the person of the notary who put his
+sign on. The choice made by Tommaso Savere and his successors instead went
+into the direction of maintaining the municipal nature, we would say tabellio na-
+ture, of his office, even during the operations of registration and preservation of
+deed’s memory18. The basic approach of this procedure was in fact to ensure that
+the chancellery should works as the only office authorized for the registration of
+all legal agreements stipulated, prohibiting notaries from keeping the protocols,
+even temporarily, away from the chancellery. The notarial records have also char-
+acterized by the typology of deed and not by the name of the writer, resulting in
+the construction of continuous series of protocols that settle over time accord-
+ing to the typology of agreement treated. Approaching in detail the procedure
+carried on by Tommaso Savere and subsequent notaries, we will exclude here a
+focus on chancellery activity as secretaries for political and judicial institutions19.
+  The first protocol of shorthand records was inaugurated by Savere in 1280,
+featuring all deeds signed under people request20. Two years later, he therefore
+
+15
+   Jireček, 1904-1905, pp. 518-519; Liber Viridis, pp. 341-342. The assignment of Stagno
+chancellery to priests can be traced in the council deliberations: Nicola Carosio (1415),
+Elia from Šipan (1416), Vitko from Šipan (1423), Nicola from Korčula (1426); Državni arhiv
+u Dubrovniku (DAD), Acta Consilii Rogatorum, 1, cc. 4r, 78r; Acta Consilii Minoris, 3, c.
+85v; 4, c. 84v. Even Slano chancellery was then assigned to lay writers. That happened in
+1449 with the nomination of Giacomo Primo (Iaxa Primoević); DAD, Acta Consilii Maioris,
+9, c. 32r.
+16
+   See the Zara chapter records signed by Pietro Annoboni and Articuccio da Rivignano:
+Ančić, 2007; Ančić, 2009.
+17
+   Liber reformationum 1347-1360, p. 212.
+18
+   Jireček, 1904-1905; Voje, 1990.
+19
+   This disposition should be confirmed by Minor Council in 1418; DAD, Acta Consilii Mi-
+noris, 1, c. 178v.
+20
+   This first protocol is today signed as the first volume of the Debita Notariae serie: «In
+hoc libro abreviate sunt charte notarie facte tempore nobilis et egregii viri domini Nicolai
+Mauroceni honorabilis comitis Ragusini Scriptum per me Thomasinum de Savere, saxri
+palatii et comunis Ragusii notarium iuratum. 1280 usque 1282. In hoc libro sunt alique
+                                    Notaries-chancellors in late medieval Dubrovnik     697
+
+
+
+decided to carry out a first distinction, inaugurating a second protocol strictly
+dedicated to wills, and thus determining a first branching from the miscellaneous
+series called «Diversa Cancelleriae»; in 1283, in compliance with the aforemen-
+tioned laws, he launched a third serie specifically dedicated to credit obligations
+and partnership shares21. A new and significant distinction was made by his suc-
+cessors in 1310 between contracts signed in front of the chancellery judges and
+the other ones drawn up in the presence of notaries alone; the latter found their
+place in a new series called «Diversa Notariae». Although the choice of one of the
+two forms remained at the discretion of the contractors, the presence of at least
+one communal judge remained essential for the registration of certain types of
+deeds, such as arbitration or the sale of real estates; both continued to be record-
+ed even later in the miscellany of the «Diversa Cancelleriae». I believe that the
+birth of the «Diversa Notariae» has a significance that goes far beyond its archival
+aspect, as it constitutes the first stage for the emancipation of the Ragusa notary
+from the constraint of the presence of locale judges, named in Venetian Dalma-
+tia «iudex examinator». This officer marks the traditional weakness of the Dal-
+matian notary towards the colleagues of communal Italy; the dual qualification
+of «notarius et iudex ordinarius» granted to imperial notaries accelerated this
+process of emancipation from judges, which was only completed at the end of
+the century. Then, we will have to wait for a Major Council resolution on January
+24th, 1392 to reach a shared recognition of all the notarial deeds drawn up by
+the notaries-chancellors, even in the absence of the judges; from this point on,
+no «examinator» will be required to give strenght to notaries action22.
+  Among the originalities of the Ragusa procedure, there is also the local habit
+of shortening the sentences issued in the first instance by the chancellery judges
+within the protocols of the «Diversa Cancelleriae», considered from a juridical
+point of view as the outcome of a private arbitration by institutional authori-
+ties; these «Sententiae Cancelleriae» subsequently found their own place in an
+autonomous series, while retaining the form of ordinary notarial deeds23. A set-
+tlement by contractual types remained the typical procedure of notarial practice
+in Ragusa throughout the modern age, indelibly characterizing the documentary
+
+testamenta de 1280 ad 1282». About Dubrovnik archive, see also: Lume, 1977.
+21
+   The first volume of the Diversa Cancelleriae serie features the following incipit at head
+of the second and third sheets: «Liber in quo abreviiate sunt omnes charte notariae,
+exceptis testamentis et sententiis tempore nobilis viri D. Johannis Georgii comitis Ra-
+gusii, scriptus per me Thomasinum de Savere, sacri palatii et comunis Ragusii notarium.
+1282 ad 1283»; «1283. Liber in quo abreviiate sunt omnes charte notariae factus per me
+Thomacsinum not. com. Ragusii, exceptis cartis debitorum, testamentorum et senten-
+tiarum. Tempore dom Johannis Georgii Comitis Raguusii. 1283 ad 1284».
+22
+   DAD, Reformationes, 29, c. 142r.
+23
+   The inclusion of judge sentences in Diversa Cancelleriae is always mentioned in the
+incipit of protocols until 1334, except for years 1282-1284. About the role of Sententiae
+Cancelleriae in Commercial Law dynamics, see: Bettarini, 2016.
+698        Francesco Bettarini
+
+
+
+history of the Dalmatian town and guaranteeing its archive that illusory image of
+completeness it shows today.
+   The attribution of deeds writing to Italian notaries never reached a legislative
+recognition, but it always remained a custom freely adopted by the government
+in full respect of its authority in the granting of the public fides. On two occasions,
+the institutions made use of this faculty to authorize extraordinary scribes in
+emergency situations, such as in the case of the pandemic events that occurred
+in the summer of 1348; there, the Major Council approved the establishment
+of a commission of noble citizens authorized to sign the wills delivered by the
+population, in order to make up for the inability of the notaries present to carry
+out the entire workload required24. In 1391, because of the temporary absence
+of the chancellor Andrea di Domenico da Bologna, the institutions instead au-
+thorized the public school teacher to supply in his office, guaranteeing him the
+same fides enjoyed by the other notaries25. Beyond these exceptional events, the
+appointment of local scribes found a new reason to overcome the problems of
+linguistic mediation with that part of the Slavic-speaking population that did not
+feel protected by the signing of documents in Latin. With the hiring of «Stoianus
+de Çepre» in 1312, the government thus also equipped itself with a «scribanus
+sclavicus» responsible for writing the documents in the Slavic language and pres-
+ent continuously in the chancellery; the deeds signed by these scribes were writ-
+ten within the same protocols used by the Latin notaries-chancellors, being an
+integral part of notarial practice. The «scribanus sclavicus» became a permanent
+officer of commune, being selected from Major Council among non-nobles citi-
+zens26.
+
+3. The «Ordo cancelleriae» of 1428
+Responsible for the drafting of the legal transactions and the city councils and
+courts records, the chancellery stabilized its staff at 3-4 units during the four-
+teenth century, in line with what was happening at the same time in Spalato
+and Zara27. The number found a definitive stabilization in the first quarter of the
+
+24
+   Liber reformatioum 1347-1360, p. 29: «Die XXI Iunii. […]. Infrascripti officiales fuerunt
+electi ad faciendum registrari omnia testamenta civitatis et districtus in uno quaterno ad
+hoc ut ipsa testamenta propter pestilentiam mortalitatis […]».
+25
+   DAD, Reformationes, 29, c. 135v.
+26
+   Jirećek, 1904-1905, pp. 201-209. Scribes shilled in slavic documents were chosen
+among the Ragusa families or foreigners used to trade. A deliberation from 1460 reminds
+few limitations in the use of Slavic language by prohibiting writing in notarial deeds ex-
+ceeding 10 perperi of value; Liber viridis, p. 439.
+27
+   Bettarini, 2013, pp. 118-120. However, it should be remembered that under the rule
+Venice’s signory (1204-1358) the presence of a Venetian rector/count not meant the si-
+multaneous arrival of a chancellor in partnership. This happened instead in the rest of
+Dalmatia when Ventian regained control of the region (1409-1420).
+                                     Notaries-chancellors in late medieval Dubrovnik         699
+
+
+
+fifteenth century, with two pairs of notaries plus the «cancellarius sclavicus»,
+coadjutor in all respects in the signing of notarial deeds. However, it was not
+the logistical reasons that suggested the approval of a codified system for the
+discipline of notaries-chancellors, but rather the caution of the noble families ad-
+mitted to the government of the city regarding the sharing of state secrets with
+jurists daily in contact with merchants and foreign operators. The opening line of
+the «Ordo chancelleriae» approved on March 23th, 1428 clearly says:
+     Con zo sia che le republiche e le signorie nelle cose secrete et di grande impor-
+     tantia sempre se debia restringer in menor numero di persone, che da hora inanzi
+     debia esser alli consigli pizolo e de pregato et alla notaria di Ragusa duo secretari
+     che siano notari et cancelleri degli consigli dil comun di Ragusa.
+
+   In short, the delicacy and secrecy of the debates conducted in the two main
+state councils had required a stable presence of the notary responsible for draft-
+ing the resolutions, avoiding as much as possible any attempt at rotation be-
+tween the four chancellors in service, in order to prevent any private interests.
+Explicit indications about a limitation of the access of notaries to councils can be
+traced as early as 1348, when Soffredo from Pistoia was indicated as the only
+chancellor authorized to attend as secretary during council meetings28. The most
+serious incident had instead occurred in 1360 with the notary Francesco Sordi
+from Piacenza, removed in perpetuity from his office as chancellor for having
+secretly communicated to one of his «compare» in Spalato the intentions of the
+government regarding a proceeding judicial in progress; a story that deeply shock
+the government, so much so that his colleague Teodoro Scolmafogia had to beg
+the institutions of the state to be able to have a private correspondence29.
+   The risk of a conflict of interest among notaries-chancellors because of their
+role had recently led to the decision to bind the hiring of new notaries to a ver-
+ification of the existence of previous relationships with the accountants respon-
+sible for the administration of the state treasury30; subsequently, between De-
+cember 1422 and March 1423, the reform of the notarial office was discussed on
+four Major Council’s sessions, without however allowing the assembly of nobles
+to find adequate convergence on the project31. The initiative was thus shelved for
+another five years, before returning to the agenda on March 17th, 1428 and tak-
+
+28
+   Liber reformationum 1347-1360, p. 9. If Soffredo was unable to attend, his duties would
+fall on Simone Forteguerri from Pistoia, Soffred’s socius.
+29
+   Liber reformationum 1359-1364, pp. 20-21: «[…] quod Franciscus de Placencia, qui erat
+cancellarius, sit privatus officio cancellarie et notarie comunis Ragusii perpetualiter». On
+March 18th, 1361, Major Council granted to Teodoro Scolmafogia the authorization to
+mantain a private correspondence, providing that it should not go againt the safety of the
+state; p. 67. DAD, Reformationes, 34, c. 129v.
+30
+   DAD, Reformationes, 34, c. 129v.
+31
+   DAD, Acta Consilii Maioris, 2, cc. 105r, 105v, 115v, 118r.
+700        Francesco Bettarini
+
+
+
+ing shape in the order at the end of a vote with a far from plebiscitary outcome32.
+  According to the provisions of the new system, the four notaries on duty would
+be distinghuised between «secretarii» and «chancellarii», assigning to the first
+ones the council sessions and the writing of the notarial deeds signed out of
+chancellery; the latter two notaries should operate within the chancellery «de
+fuora», presided over by the judges of the civil court and destined, among its
+functions, to host the complaints and testimonies in the trial and validate the
+sentences of arbitration33. The two notaries of the courts could, in any case, have
+intervened during the sessions of the Major Council, considered less exposed to
+the risks of a leak of information on the political activity, but the transition from
+one office to the other remained bound to council decisions; this is demonstrat-
+ed from a Major Council’s resolution which in 1449 moved the notary Giovanni
+Uguzzoni from the chancellery to the councils, following the death of Egidio Iugo
+da Cremona34.
+  The need to cut at the root the onset of any conflicts of interest between the
+foreign notaries employed within the chancellery and the commercial networks
+gravitating to the city found its most significant form of application in the final
+provision of the order. Since the law was established, the notaries-chancellors
+would no longer be able to deal personally with everything related to trade and
+credit operations, under the penalty of paying a fine of 50 perperi. The prohibi-
+tion was combined with a previous law of October 21th, 1382, when notaries had
+already been prohibited from taking on proxies or representation mandates35. A
+deontological norm that further specified the secretarial connotation of his inter-
+vention to the detriment of any form of formal mediation between institutions
+and individuals, in order to safeguard the high position of municipal officials; tes-
+tamentary commissioners and protection of minors remained as unique form of
+legal representations allowed to notaries36.
+
+32
+   L’Ordo cancelleriae (approved on March 23th, 1428) received 69 positive votes and 49
+against; DAD, Acta Consilii Maioris, 3, cc. 204-205r.
+33
+   The impact of the judge named «Consul Curiae Civilis» was reformed and defined in
+1416, when this office became the head of civil justice. His senteces needed the presence
+of not less than three other judges; Liber Viridis, pp. 116-121.
+34
+   DAD, Acta Consilii Maioris, 9, c. 7r.
+35
+   Despite of this late reform, we can see how on July 25th, 1367, the heirs of a goldsmith
+named Giovannino had to appeal to Minor Council to nominate the chancellor Francesco
+di Bartolomeo da Arco to be their loro abitrator on a debatment; Liber reformationum
+1364-1396, p. 99.
+36
+   «Quod cancelarius vel notarius communis Ragusii non sit procurator, sed tutor et epi-
+tropus esse potest. Eodem anno, die XXI octubris, in consilio magno congregato sono
+campane ut moris est, in quo interfuerunt consiliarii LIII, captum et firmatum fuit per
+L ipsorum consiliariorum quod aliquis noster cancelarius vel notarius nostri communis
+amodo in antea aliquo modo vel ingenio, non valeat nec possit esse procurator in civitate
+Ragusii et suo districtu alicuius civis, districtualis seu forensis. Sed epitropus et tutor bene
+                                   Notaries-chancellors in late medieval Dubrovnik     701
+
+
+
+  The exclusion of notaries from trading came at a stage of increasing participa-
+tion of the latter in both the productive and commercial sectors of the economy.
+Benedetto Schieri from Prato, notary-chancellor between 1414 and 1430, had
+established in 1420 a partnership with his nephew Agostino of Biagio for the pro-
+duction and export of woolen cloths, benefiting from the privileges granted by
+the state in support of textile manufacturing; his company operated uninterrupt-
+edly until 1428, when he was forced to sell shares to his relatives and partners37.
+In 1427, instead, Battista Cimastelli from Fermo was repeatedly authorized by
+the government to export wine and silver to his native land, notwithstanding the
+statute and the privileges reserved to citizens alone. Forced to choose between
+economic interests and the opportunity of his public office, Battista finally chose
+to break his agreement and coming back to Fermo to collaborate with his family
+in the management of profitable trade with Ragusa. However, there was no lack
+of attempts to circumvent the rule by resorting to temporary forms of invest-
+ments without any form of direct involvement38. In the constitutive document of
+a limited partnership between Benedetto Schieri himself and two Ragusa mer-
+chants for the sale of Apulian oil, drawn up on April 22th, 1428, just a month
+after the promulgation of the new order, we read that he renounced to the re-
+sponsibility of personally following the affairs since «non si diè, né può impaçare
+in niente, salvo a darne la sua parte de’denari»39. The elimination of conflicts of
+interest would have been achieved by making the most of the policy of recruiting
+notaries, finally excluding jurists close to merchant communities, such as those
+of Tuscany and Marche.
+
+4. Wages and contractual conditions
+The assignment of the notarial office and the salary treatment are regulated by
+Major Council, at the end of a majority vote which unilaterally confirms or mod-
+ifies the contract of employment of the chancellors40.
+
+possit esse»; Liber viridis, p. 24.
+37
+   On Benedetto Schieri and his contribution on the development of Pratese community
+in Ragusa: Bettarini, 2012a, pp.47-93.
+38
+   Cimastelli was granted of citizenship, for what may concern the export of silver to Fer-
+mo; DAD, Acta Consilii Minoris, 4, c. 73v, Again, on December 1427, the Minor Council
+granted him of exporting 50 barrels of wine and 100 pounds of candles; cc. 123r, 128v.
+Cimastelli family traded late as sales agents in Fermo, as we note through the Caboga
+accounting books; Kovačević-Kojić, 1999, pp- 135-141. Battista came back to Ragusa in
+1435 to sign up an agreement with the Major Council for the import of grain load coming
+from Marche; DAD, Acta Consilii Maioris, 5, c. 15v.
+39
+   DAD, Diversa Notariae, 15, c. 206r.
+40
+   First notary confirmation we can find in Ragusa archive is dated June 29th, 1302: «Die
+veneris penultima mensis [Iunii], in die Sancti Petri. In maiori conseilio ad sonum cam-
+pane, more solito congregato, Marquardus firmatus fuit ad salarium comunis per unum
+702        Francesco Bettarini
+
+
+
+  In a first phase (1277-1320), the contractual relationship between the insti-
+tutions and the notaries never exceeded ten years in duration, while the salary
+paid in 1312 reached 6 lire di grossi, a value that stood fixed for over three dec-
+ades41, With the assumption of Pone Stamberti from Pistoia (1318) and Giovanni
+Fini from Ancona (1322), a second phase (1320-1360) began, characterized by
+a longer stay of the chancellors. This novelty never led to the transmission of
+the notarial office between relatives, confirming the local oppoition against the
+consolidation of a social class linked to the state bureaucracy. The main result of
+this second phase was the adoption of innovative solutions in order to support
+the work of the two main chancellors at times when the workload would have
+become too heavy to be carried out on their own. Accepting an application re-
+ceived from Pone Stamberti, the Major Council authorized him in 1331 to acquire
+a qualified partner («coaiutorem») of his preference, as long as his remuneration
+did not weigh on the state treasury42. The caution of the institutions in adopting
+this solution can be found in the resolution approving the hiring of the sharehold-
+er chosen by Stamberti, his fellow Soffredo di Parino. Unlike what was found in
+previous reconfirmations, Soffredo is in fact recruited following a detailed work
+program; his primary assignment would be primarly based on the urgency to
+record all damage suffered by the inahabitants of state against their propertis
+by land and sea; then, his duties are also indicated namely: writing and signing
+deeds, recording protocols, verbalization of civil and criminal trials. Finally, Sof-
+fredo promised to exercise his profession within the chancellery.
+  The decision to adopt a notary coadjutor proved to be particularly effective
+in guaranteeing the functionality of the notary practice in a very delicate phase
+of Ragusa’s history, characterized by the increase in the commercial importance
+of his port and by the terrible passage of the 1348’s plague. However, once the
+health emergency ended, the experiment was never resumed. Among the pos-
+sible causes of the return to the traditional procedure, there was probably the
+risk of a national filiation of office, as demonstrated by the triple succession of
+Pistoian chancellors: Pone Stamberti, Soffredo di Parino and Simone di Chello
+Forteguerri43. The last «notarius socius» to be hired was precisely in 1359 the
+same Francesco Sordi from Piacenza who was dismissed for an attack on state
+secrecy44.
+
+
+annum pro cancellario, cum salario consueto, scilicet libr. IIII. grossor. et foller. V»; Liber
+reformationum 1301-1336, p. 30.
+41
+   A salary rate valued six lire per annum is commonly attested between 1312 and 1348;
+Liber reformationum 1301-1336, pp. 90, 118, 143, 254, 300; Liber reformationum 1306-
+1347, p. 150.
+42
+   Jirecek, 1904-1905, p. 189; Liber reformationum 1301-1336, pp. 336-338.
+43
+   Simone di Chello Forteguerri from Pistoia, Soffredo’s socius, was recruited in 1348 qith
+a salary valued 4 lire di grossi; Liber reformationum 1306-1347, p. 150.
+44
+   Lber reformationum 1347-1360, p. 273. Francesco Sordi has been recruited as socius of
+                                      Notaries-chancellors in late medieval Dubrovnik          703
+
+
+
+  The end of the Venetian lordship in 1358 and the conquest of a de facto inde-
+pendence under the distant protection of the Hungarian crown convinced the
+ruling class of the opportunity to invest important revenue resources for the re-
+cruitment of renowned jurists who were also able to raise the diplomatic strength
+of the state. The recruitment of Teodoro Scolmafogia in 1360 inaugurated a new
+phase, traceable also on the salary level. Despite in the previous decades the sal-
+ary of the two main chancellors, Soffredo and Francesco from Arco, was respec-
+tively 90 and 60 ducats per year, the Apulian notary was put on the payroll with
+a salary of 150 ducats, a figure so exorbitant that two years later the government
+had to proceed with the sale of the horses of the municipal stable to guarantee
+payment45. The economic treatment accorded him in an exceptional way was the
+consequence of a diplomatic missionthe need to empower a renowned jurist on
+the occasion of the diplomatic mission required to extend the protection of the
+Hungarian sovereign to the Ragusa merchants engaged in Rassia.
+  The stabilization of the chancellery in the first quarter of the fifteenth century
+eventually led to an interruption in wage growth and a substantial equalization of
+wages between notaries on 140 ducats plus a surcharge of 30 perperi to provide
+for the rent for their home46. Any adjustments to public documentation or the
+compilation of memorials for institutional use guaranteed a specific remunera-
+tion due to the extraordinary nature of the intervention47.
+  We mentioned the participation of notaries in diplomatic missions, and how
+these entailed an opportunity for prestige and economic remuneration. I have
+noticed how, with the exception of the aforementioned embassy in Buda in 1360,
+notaries took part in diplomatic missions only when directed towards the Italian
+peninsula; this probably, due to the greater familiarity of the Ragusa nobility in
+dialoguing with the sovereigns of the hinterland. The first mention of this type
+of assignment dates back to 1336, when Pone Stamberti was sent to Naples to
+solemnly present the Ragusa’s apologies to King Robert of Anjou about the case
+occurred to the merchant Ugolino Captoris from Bari, who was damaged in his
+trade with the Dalmatian city48. Worthy of note are the diplomatic missions car-
+ried out in Ancona in 1421 and 1426 by Battista Cimastelli and Benedetto Schieri,
+as part of the resolution of complex commercial issues concerning the two cities
+
+Francesco from Arco with a one/two-months position.
+45
+   «In minori consilio captum fuit quod denari equorum comunis debeant esse Teodori
+cancellarii pro parte solucionis eius salarii»; Liber reformationum 1359-1364, p. 220.
+46
+   DAD, Acta Consilii Maioris, 1, cc. 36v, 118r; 2, cc. 35r, 48r, 94r, 133v; 3, cc. 27v, 76v, 121v,
+174r, 218v; 4, c. 41v. Rental benefits were accounted as an extra to the ordinary salary
+of notaries-chancellors, as it was provided from a deliberation taken on May 6th, 1393;
+Liber Viridis, p. 50.
+47
+   On March 22th, 1390, the chancellor Andrea from Bologna received an extra valued 10
+perperi as a grant for his translation of wills in a peculiar protocol; DAD, Reformationes,
+28 c. 39r.
+48
+   Lber reformationum 1347-1360, pp. 366-368.
+704           Francesco Bettarini
+
+
+
+in a context of mutual distrust49. Alongside the salary paid de officio, the nota-
+ry-chancellor received a further salary supplement on the basis of the number of
+contracts and public deeds signed, following a precise tariff governed by a law of
+1313 on the basis of a practice also attested in other cities Dalmatian50:
+
+                            pro qualibet sententia                             1 grosso
+                              pro qualibet littera                             1 grosso
+                              pro scriptura debiti                              6 folleri
+                          pro quolibet scribano ligni                          1 grosso
+                                     pro aptagi                                 6 folleri
+                            pro scripturis pactorum                             6 folleri
+                      pro lamentationibus dampnorum                             6 folleri
+                               pro quolibet teste                               4 folleri
+                                     pro iudicio                                2 folleri
+                                    pro citacione                               2 folleri
+                         pro quolibet iudice refutato                          1 follero
+        pro aliis comunalibus scripturis quas faciunt homines inter se          6 folleri
+                        pro cancellatione scripturarum                           Nihil
+                ad querendum scripturas in libris communis                       Nihil
+     ad querendum scripturas in catastis notariorum usque ad XX annos            Nihil
+      ad querendum scripturas in catastis notariorum a XX annis supra          1 grosso
+
+  The tariff essentially concerns the primary moments of notary intervention
+in private agreements, such as summons, the deposition of a testimony or the
+drafting of a sentence; neverthless, credit obligations, participations in sea freight
+(«scribano ligni») are featured in the list. Interestingly, the specification that the
+extraction or elimination of signed deeds from protocols not involve any addi-
+tional cost, unless the deed in question is older than twenty years, and therefore
+requires a more demanding technical expertise. Finally, it is essential to keep in
+mind that the work cared out by the notaries-chancellors did not involve any kind
+of expense for the supply of writing tools and media, the costs of which belongs
+
+49
+  Bettarini, 2012a, pp. 102-104.
+50
+  Liber reformationum 1306-1347, p. 25. Equal pricing are also mentioned in Curzola (Ko-
+rčula) and Dulcigno (Ulcinj) statutes; Statuta et leges civitatis insulae Curzulae, pp. 56-59;
+Pertusi, 1973. Even in Spalato, the statute of 1312 prescribes that each notary receives
+an annual salary plus a part of the profit resulting from the failure to observe the obliga-
+tions; Statuta et leges civitatis Spalati, 1878, pp. 51-54.
+                                     Notaries-chancellors in late medieval Dubrovnik       705
+
+
+
+to the state treasury responsability51.
+  The contract associated with the salary paid to the notaries-chancellors links
+the salary to the fulfillment of the bureaucracy offices and the notarial practice
+at the service of the population; any permits for temporary exemption from work
+are granted by the councils in a totally exceptional way, especially on the occasion
+of diplomatic missions or very limited personal emergencies52. If we think that
+the number of notaries never exceeded four units, it is clear that any absence,
+even if temporary, could come to block both the institutional machinery and the
+mercantile practice. In 1422, the Major Council was forced to order Francesco
+Bosco to return to his place of work, after he had obtained permission to go to
+Venice for two months; during his absence, the councils to deny two other chan-
+cellors the right to be absent temporarily. Following this unfortunate incident,
+the government extraordinarily resolved to delegate the Rector and the Minor
+Council to assume the task of supervising the functioning and renewal of the
+powers of its chancellors, free to interrupt their salary if deemed appropriate53.
+
+5. The rectruitment of notaries and their contribution to culture
+We have seen how the choice of relying on Italian jurists for notary and chancel-
+lery practice was dictated by their professional competence and by their extra-
+neousness to the political events experienced by citizens. The selection of per-
+sonnel deemed suitable for this position followed a practice consolidated over
+the years and conditioned by commercial relations with other major centers of
+
+51
+   Examples of appropriations for stationery. On October 13th, 1418, the Minor Council
+established an investment valued 20 perperi to support chancellery costs: DAD, Acta Con-
+silii Minoris, 2, c. 18r. Then, still in 1418, the Major Council bought parcment books; DAD,
+Acta Consilii Maioris, 1, c. 101v. Finally, a new financing granted in 1422 for the restora-
+tion of the chancellery workbench; DAD, Acta Consilii Minoris, 3, c. 161v.
+52
+   Three month long vacations are usually featured as a premium for continuity of ser-
+vice. On April 29th, 1413, Iacopo Ugodonici was granted of a three month stay in his
+homeland; DAD, Reformationes, 43, c. 260v. Pietro Sfondrati received the same grant on
+1420, but depriving him of salary during his absence; DAD, Acta consilii maioris 2 c. 41r.
+Battista Cimastelli received a first refusal in 1422, being finally licensed one year later for
+a three month vacation; ibidem, cc. 91r, 122r, 126r. Again in 1427, Battista was granted
+to visit his homeland for a three month vacation; DAD, Acta Consilii Maioris, 3, c. 166v.
+A shorter license was granted to Mellino Schizzi to allow him in moving his family to
+Ragusa in 1427, while in the following year he was free to come back to Cremona for a
+four month vacation; DAD, Acta Consilii Minoris, 4, c. 67v; Acta Consilii Maioris, 3, c. 215r.
+Three month vacations were then granted to Lorenzo Zuchelli in 1428 and to Egidio Iugo
+in 1430 (later because of his father death); c. 227v; DAD, Acta Consilii Minoris, 5, c. 62r;
+Diversa Notariae, 18, c. 169r. Finally, Giovanni Sfondrati took avantage of a special grant
+to go Venice and manage the acquirment of a house bought by a Ragusean nobleman;
+DAD, Acta Consilii Maioris, 7, c. 91r.
+53
+   DAD, Acta Consilii Maioris, 2, cc. 90v-95v.
+706        Francesco Bettarini
+
+
+
+the Mediterranean economy54. During the fourteenth and fifteenth centuries,
+the recruitment of a new chancellor provided for a favorable vote by the Major
+Council, which subsequently entrusted the Rector and the Minor Council with
+the appointment of a commission of noble citizens responsible for identification
+and recruitment of the suitable candidate. The geographic criteria relating to the
+origin of notaries are already indicated in 1345, and they explicitly refer to cen-
+tral-northern Italy, that is, the context where the notary had matured its best
+synthesis with the Bolognese school55. However, whatever the city of origin of
+the notary, the examination of the commissions shows how the procedure took
+place mainly in Venice, the preferred location for the recruitment of jurists, doc-
+tors, grammar masters, musicians and specialized craftsmen. In the fourteenth
+century, the geographical filiation and the recommendation provided by the no-
+taries already enrolled exercised a significant weight in the selection of the new
+chancellors; This can be seen above all thanks to the repetition of a few prov-
+eniences, such as Pistoia and Brindisi, when the city experimented with the as-
+sociation of subordinate notaries to facilitate the functioning of the chancellery.
+Two commission letters, later than the phase described above, show an explicit
+reference to the official recommendationth. In the first, dated June 5, 1411, it is
+reported that Giovanni Adami from Muggia suggested the name of his co-citizen
+Nicola Alberti as the candidate selected to fill one of the vacant posts of the chan-
+cellery56. Even more explicit is the recommendation given a few decades later by
+the physician Giovanni Mattia Regini of Feltre in support of his son’s candidature
+for the chancellery.
+  Despite the events and the policy against any conflicts of interest, the rela-
+tionship between the choice of the notary and the opportunity for a solid link
+with the most influential merchant networks suddenly emerges. On March 10th,
+1408, the cities of Florence and Ragusa in fact signed an important trade agree-
+ment, according to which the customs duty imposed on goods exported to Ragu-
+sa would be adjusted to the flat rate of 5% on the total value of the goods traded;
+well, exactly two months later the Minor Council of Ragusa commissioned two
+
+54
+   The recruitment procedure of notaries-chancellorsw has been yet object of a larger
+investigation, published in: Bettarini, 2012b.
+55
+   «Captum fuit et firmatum per omnes nullo breviter discrepante, de eligendo unum syn-
+dicum, qui vadat Venetias, et ibi scire et inquirere si potest salariatum ad salarium com-
+munis magistrum nicolinum fisicum de Venetiis pro duo bus annis, […] et si ipsum habere
+non posset, possit et debeat inquirere Venetiis, Padue, et Bononie et ubique locorum
+usque Florentiam, ubi crediderit reperire unum bonum et expertum medicum fisicum et
+possit expendere usque libr. Liber reformationum 1306-1347, p. 170.
+56
+   DAD, Litterae et commissiones Levantis, 7, June 5th, 1411: «Anchora per haver uno
+canceler, cometemo a voy che dobiate cerchar de haver quella persona che ve nominarà
+Zuvane nostro cancelier per anni doy, dandoli de salario ducati cxx al’ano a grossi xxx per
+ducato et perperi xxx al’ano per affito di casa». On Nicola Alberti, see: Jireček, 1904-1905,
+p. 192.
+                                    Notaries-chancellors in late medieval Dubrovnik     707
+
+
+
+patricians to proceed with the hiring of Ludovico Da Colle, a Florentine notary;
+in 1414, it will be the turn of Benedetto Schieri from Prato, as a consequence of
+an intensification of the import trade of textile products produced in the Tuscan
+town57. When commissionarii reached an agreement with the chosen candidate,
+they proceeded with a formal commitment,in front of a Venetian notary, reading
+in public the Rector’s letter and making him undertake to comply the employ-
+ment contract, including the travel arrangements to Ragusa58.
+  The selective practice of notaries-chancellors goes through a new phase of de-
+velopment in the second quarter of the fifteenth century, simultaneously with
+the economic development and demographic growth of the city. In fact, the let-
+ters of commission begin to define more strictly the origin and the professional
+qualifications required to access the notary’s office. Since 1422, commissioners
+domiciled in Venice have thus been prescribed to contact exclusively profession-
+als from Lombardy, Veneto, Tuscany, Marche or Romagna, recognizing these
+areas a cultural primacy justified both by the professional preparation and by
+the customs of their inhabitants59. In 1430, the criteria relating to the origin of
+the candidates will undergo a further selection, limiting the opportunity to the
+Lombard notaries and noother; the choice will inaugurate a special partnership
+with the city of Cremona, home to eight chancellors recruited along the fifteenth
+
+57
+   Bettarini, 2012a, pp. 44-46, pp. 95-97. Ludovico Da Colle, later employed as school
+teacher, was finally arrested and deprived of his property on December 28th, 1417; DAD,
+Acta Consilii Minoris, 1 c.173r.
+58
+   I had found in the notarial archive of Venece the deed signed at Rialto when Lorenzo
+Zuchelli da Cremona was recruited as new notary-chancellor in 1428; Archivio di Stato di
+Venezia, Cancelleria inferiore Notai, 57, Ambrogio Vito, prete di San Vitale, cc. 19v-20v.
+59
+   DAD, Litterae et Commissiones Levantis, 3, 14/10/1422: «[…] Perché nuy avemo bisog-
+no de un cancellier e però confidadone dela vostra prudentia et fede comettemo avin
+che vuy tuti o veramente a do de vuy non siando l’altro in la terra ne dobiate trovare uno
+bono sufficiente et experto canzellaro che sia o tuscano o lumbardo o marchisano o dela
+marcha d’Anchona o forlani, el quale habia pocho usado o praticato con veneciani et non
+lo tollate de legi de veneciani. E praticando con quelli ve vegniran per le mane delle dette
+nationi, tollete information del lor esser con chi serà usadi et di che vita e fama sono. Et
+habiando presa information di tutto allora, con lo nome de Dio tollete e fermate quello
+che alla vostra prudentia parerù esser più sufficiente a questo officio e più utile per la
+nostra terra, tollendo homo non troppo zovane, zoè non di men età di trenta anni et
+che non sia vecchio, promettendoli sin alla summa de ducati centoventi a grossi xxx per
+ducato al’anno, dandoli la ferma per do anni, e da lì in zuso quanto potrete per utilità del
+nostro Comune, tollendo persona sufficiente, come è detto, et per affitto di casa perperi
+xxx al’anno, dandoli la ferma de duy anni dal dì che intrarrà in barca per vegnir qua segon-
+do la forma del sindicato, el quale ve mandemo, afforzandovi con tutti li vostri sentimenti
+e industrie di tor persona de la qual a vuy siegua honor e a nuy e tutti dela terra nostra,
+piazeri e utile e decoro commo in vuy speremo. E perché di là vien Luca de Branco, nos-
+tro cittadino, al qual havemo comesso vi diga certe cose però al ditto darete piena fede.
+Datum Ragusii, die xiiij octubris 1422».
+708       Francesco Bettarini
+
+
+
+century60.
+   The contribution of Italian notaries to the prosperity of Renaissance Ragusa
+was not limited to trade or their ability to administer the chancellery. In fact, it
+has been written that the Italians who landed in Ragusa in the humanistic age
+boasted a first-rate cultural baggage, giving a strong contribution to literature
+and classic culture. Giovanni Lorenzo Regini composed poems much appreciat-
+ed by the patricians of Ragusa, in particular by Nicola Resti, who seems to have
+entertained a real literary association with the chancellor; both Regini and Egid-
+io Iugo had trained in their literary skills among that group of intellectuals that
+revolved around the Paduan humanist Antonio Baratella, with whom they main-
+tained a correspondence even after their arrival in Ragusa61. In that particular
+time, two other humanist chancellors then lived in Ragusa, Xenophon Filelfo and
+Bartolomeo Sfondrati, both praised by the erudite Appendini for their culture
+and knowledge of law62.
+   Despite a minimum education among the citizenship was quite common, for
+trade reasons, it is also true that an important component of that emigration was
+made up of educated individuals with a fair amount of intellectual depth; among
+these, doctors, school teachers, and precisely notaries63. With their experience
+and specific expertise, they also brought with them their intellectual tastes, the
+habits and customs of their homeland, coming to interact with a city that was
+always open to Latin culture, of which it was an integral part. By virtue of the
+cultural stature gained at the major Italian universities, Padua and Bologna in the
+first place, the chancellors of Ragusa played a decisive role in the development
+of a local literature. It is therefore no coincidence that the first known author of
+a chronicle of Ragusa history was a notary, the chancellor Giovanni Conversini,
+a well-known humanist of his time and a disciple of Petrarch64. The importance
+of the contribution provided by notaries to the cultural enrichment of the city is
+also confirmed by the fact that at the time they were the major buyers and deal-
+ers of manuscript codes. From the will of Egidio Iugo, for example, we know how
+he used to write down the volumes he owned, all diligently inventoried, in a book
+of memoirs; among the bequests, Egidio left a book of soliloquies of Saint Isidoro
+and Saint Agostino to the friars of the Franciscan friary of Daxa, while leaving to
+a relative the custody of a «Retoricha Nova» by Cicero65. In 1429, the aforemen-
+
+60
+   DAD, Litterae et Commissiones Levantis, 10, 12/02/1430: «[…] perché Lombardi più
+che altre nation si conforma ali nostri costumi et anche asai bene se contentamo di queli
+abiamo al presente».
+61
+   About Regini: Segarizzi, 1904; Segarizzi, 1916, p. 101; Graciotti, 2005, pp. 73-75.
+62
+   Appendini, 1803, pp. 310-312.
+63
+   Krekić, 1972, pp. 128-131; Krekić, 1997, pp. 321-332.
+64
+   Jireček, p. 191; Krekić, 1972, p. 132. Giovanni Conversini procued in 1387 an Historia
+Ragusii; Sferovic, 2017, pp. 131-170.
+65
+   Krekić, 1997, pp. 193-194.
+                                    Notaries-chancellors in late medieval Dubrovnik   709
+
+
+
+tioned Benedetto Schieri delivered a parchment volume containing an annotated
+collection of 32 works by Seneca to Cresolo di Cristoforo from Traù (Trogir); the
+code would have been transported by the latter to Fiume (Rjieka) in the house
+of its buyer, Guido from Splimbergo66. Another notarial document dated 1418
+informs us that Schieri himself had bought from two merchants one hundred
+parchment papers «pulcras et bene laboratas» of the same size as a sheet of pa-
+pyrus; it is therefore not to be excluded that it was Benedetto Schieri himself who
+wrote and packaged the code, and that he used his writing skills for commercial
+purposes67. Iacopo Ugodonici, on the other hand, made an agreement in 1412
+with the Ragusa priest Marin Kovačić for the transcription in copy of the solemn
+missal preserved in the well rounded and illuminated in two colors, the mercury
+red of cinnabarite and sea blue68.
+
+6. Conclusions
+The evolution of notarial practice in the city of Ragusa was characterized by a
+development model that was distant from both Communal Italy and Venice mod-
+els. The classic legacy of a municipal notary inserted in the public offices of the
+city-state led to a convergence of the practice at the service of private shops with
+that of supporting the institutional activity of the councils.
+  When the drafting of the first municipal statute required a reorganization of
+the bureaucracy, the city chose to completely entrust the notary office to for-
+eign jurists from Italian cities and trained in university studies in the peninsula.
+This decision relegated the contribution of ecclesiastical scribes to the peripheral
+chancelleries of the state only, while a new figure, that of «cancellarius sclavi-
+cus», supplied the growing needs of linguistic and legal mediation with the Slavic
+element of the population. The mutual identification between notary and chan-
+cellery offered notaries a fixed salary, established on the basis of the number of
+colleagues employed, with the consequent absence of any form of competition;
+an additional contribution for the rent of their home and the absence of profes-
+sion costs were also recognised. Unlike the other Dalmatian cities, the Ragusa
+chancellery also adopted an original system of production and conservation of
+notarial deeds, constituting typological series unrelated to the name of the sign-
+ing notary.
+  The growing weight of the notary in the political and economic dynamics of
+the city prompted the authorities to pay close attention to the recruitment of
+new chancellors and their presence in the institutional and judicial halls. Nota-
+ries-chancellors were totally inserted in the administrative structure of the state
+and rewarded by an economic compensation that has grown over time in parallel
+
+66
+   DAD, Diversa Notariae, 16, c. 81r.
+67
+   DAD, Diversa Cancelleriae, 41, c. 237r.
+68
+   Krekić, 1972, p. 122.
+710       Francesco Bettarini
+
+
+
+with the search for increasingly qualified professionals able to assume a funda-
+mental role in the local development of literary humanism.
+
+Appendix
+  Recruitment of notary Soffredi di ser Parino da Pistoia – December 14th
+  (see Liber reformationum 1301-1336, p. 338)
+  Anno Domini millesimo trecentesimo trigesimo primo. Indictione XIIII.
+  Die XIIII mensis Novembris. In minori consilio sono campanecongregato, ex
+auctoritate et balia eis attributa a maiori consilio die xx Novembris, Goffredus ser
+Parini de Pistorio çerer cancellarii nostri Ragusii, nullo discordante, electus fuit ad
+salarium eomunis Bagusii pro uno anno proximo cum salario L yperperorum; qui
+annus incipit currere die XIII huius mensis; Qui Goffredus teneatur scribere omnia
+dampna que fient in vineis, terris, arboribus, fructibus, lignamine, domibus,
+capannis per totum districtum Ragusii, tarn in Astarea, quam in ysulis, et omnes
+derubationes, expoliationes, arestationes et violentias flendas hominibus Ragusii
+et eius districtus per quemcumque seu quoscu que, tarn in mare, quam in terra
+extra civitatem et districtum Ragusii.
+  Item teneatur scruptare in libris et catasticis existentibus in eancellaria, de
+omnibus scripturis que petebuntur scruptari ab eo, prout tenebatur cancellarius,
+non dando ipse vel cancellarius ali quern librum vel catasticum in manibus alicuius
+persone ad scruptandum.
+  Item teneatur exemplare omnes scripturas et literas quas cancellarius dederit
+ad exemplandum.
+  Item teneatur scribere in uno libro per se, omnia iudicia tarn de malefieiis
+quam de causis civilibus.
+  Item teneatur exemplare in uno libro per se omnes condempnationes que
+fient a modo in antea; qui liber debeat semper stare in eancellaria et concordare
+se cum illo camerarii seu camarlingarorum; et predicta omnia teneatur semper
+exercere de consilio et conscientia cancellarii, et esse in omnibus consiliis civitatis,
+et stare continue in eancellaria eomunis cum caneellario.
+  Qui Goffredus acceptavit dictum officium et iuravit ad sancta Dei Evangelia,
+corporaliter tactis scrituris, esse fidelem domini ducis et comunis Veneciarum et
+domini comitis Ragusii, et comunis Ragusii, et bene et legaliter exereere dictum
+suum offitium, bona fide, sine fraude.
+
+  Ordo cancelleriae – 1428, March 23th
+  (see Liber Viridis, pp. 176-177).
+
+  Anno nativitatis Domini MCCCCXXVIII, die XX marcii, indictione VI, in maiori et
+generali consilio civitatis Ragusii, loco et more solito congregato, in quo quidem
+consilio interfuerunt consiliarii CXVIIII, captum et firmatum fuit per LXVIIII ex ipsis
+consiliariis ut infra, videlicet:
+                                  Notaries-chancellors in late medieval Dubrovnik   711
+
+
+
+  Con zo sia che le republiche e le signorie nelle cose secrete et di grande
+importantia sempre se debia restringer in menor numero di persone, che da hora
+inanzi debia esser alli consigli pizolo e de pregato et alla notaria di Ragusa duo
+secretari che siano notari et cancelleri degli consigli dil comun di Ragusa. Et allo
+cancello di fuora non se debia né possa impazar, salvo per tirare in publica forma
+vendite, sententie e tuto altro zo che bisognasse. Et lo officio loro sia la notaria
+et li consigli, pizolo e pregado del comun di Ragusa. Nelli quali consigli e notaria li
+altri duy cancellieri delle corte non si possa, ne debia impazar per nessun modo,
+salvo nel consiglio grande et quando fusse qualche caso de gran bisogno per
+suplire in quelle cose che non fusse secrete. Ma libri delli consigli et registri di
+carte et di lettere et commission et per simele la notaria debia stare in man et
+sotto chiave deli secretari. Ma lo libro de polize debia star in man di cancilleri
+della corte et tuti li altri libri che son usati de stare al ditto cancello di fuora.
+  Appreso ch’el debia esser duy altri cancilleri della corte civile et criminale al
+cancellero di fuora; li quali sia tegnudi de attendere a tutto quello che bisogna
+di civile et di criminale e far le polize che li seran date per li cancelleri secretari
+da poy che serano formade in pizolo consiglio et a tuto quello aspetta ali libri del
+cancello di fuora. Veramente perché la corte del civile segondo le usanze, mai
+può esser senza libri de notaria, volemo che sempre alle corte ordinarie et anche
+alli altri tempi et corti quando e quante volte sera di bisogna di libri di notaria,
+sia tenuto de andare uno delli notari com quelli suoy libri che bisognerà et altro
+niente fare, salvo monstrare et lezere li detti suoy libri quando e quante volte
+bisognera.
+  Tutte le lettere che si fara per parte del rector et consiglio pizolo o pregado,
+debia far li canzilleri secretari. Ma quelle che lo rector con li suoy zudexi fara
+et quelle che fara lo rector solo possa commettere a chi li piacera e zaschun sia
+tenuto di farle.
+  Lo vadagno della notaria e quello che si fa nelli consigli parta li duy secretari
+tra di loro. E per lo simele quelli duo delle corte parta el suo vadagno del suo
+cancello di fuora tra di loro.
+  Declarando che per fina sera complido el numero di tuti quatro, li detti cancilleri
+che quelli che sera notari et secretari debia attendere a supplir tuti li officii
+  Ancora che nessun delli predetti notari et cancilleri non possa far mercantia in
+pena de yperpery cinquanta per ceschuno de loro et zeschuna volta.
+  E perché non si può cusì in uno tratto provedere a complimento a ogni cosa,
+che sempre questa ordination si possa coregiere et zontare et cassare in parte
+over tuto per la più parte di consigli.
+712         Francesco Bettarini
+
+
+
+ List of Notaries-chancellors in Ragusa
+ (See Bettarini, 2014)
+
+
+        Petrus, diacono             1023                           Notarius
+
+       Vitalis, suddiacono          1044                      Notarius Communis
+
+        Marcus, diacono             1168                      Notarius Communis
+ Marino Camas (de Camas
+                                  1190-1199                   Notarius Communis
+  o Camasii), diacomo
+       Gataldus, chierico           1199                      Notarius Communis
+
+        Blasius, chierico         1206-1216                   Notarius Communis
+
+        Gataldus, prete           1220-1222                   Notarius Communis
+      Pasquale di Pietro de
+                                  1228-1257                   Notarius Communis
+         Capalu, prete
+          Petrus, prete           1265-1275                   Notarius Communis
+
+            Pascalis              1276-1281                   Notarius Communis
+ Tommaso Savere da Reg-                        Imperialis
+                                  1277-1286                 Notarius et Cancellarius
+     gio, magister                            auctoritate
+                                               Imperialis
+  Azzo di Iacopo de Titulo        1285-1296                 Notarius et Cancellarius
+                                              auctoritate
+        Iohannes, prete           1285-1292                   Notarius Communis
+        Andrea Benessa,
+                                  1293-1324                   Notarius Communis
+          canonicus
+                                               Imperialis
+          Marcovaldus             1296-1303                 Notarius et Cancellarius
+                                              auctoritate
+                                               Imperialis
+      Riciardus, magister         1301-1306                 Notarius et Cancellarius
+                                              auctoritate
+                                               Imperialis
+      Francesco da Ferrara          1303                    Notarius et Cancellarius
+                                              auctoritate
+                                               Imperialis
+        Ubertino Fiochi           1311-1312                 Notarius et Cancellarius
+                                              auctoritate
+  Albertino da Cremona,                        Imperialis
+                                  1312-1315                 Notarius et Cancellarius
+         magister                             auctoritate
+        Stoiano de Zepre          1312-1319     Scriba       Cancellarius Sclavicus
+                               Notaries-chancellors in late medieval Dubrovnik     713
+
+
+
+
+     Stefano Binzola         1319-1322         Scriba         Cancellarius Sclavicus
+                                             Imperialis
+Pone Stamberti da Pistoia    1318-1341                       Notarius et Cancellarius
+                                            auctoritate
+                                             Imperialis
+Giovanni Fini da Ancona      1322-1348                       Notarius et Cancellarius
+                                            auctoritate
+  Soffredo di Parino da                      Imperialis
+                             1331-1365                       Notarius et Cancellarius
+         Pistoia                            auctoritate
+ Iacopo di Nicola Crose      1340-1347         Scriba         Cancellarius Sclavicus
+Francesco di Bartolomeo                      Imperialis
+                             1342-1373                       Notarius et Cancellarius
+        da Arco                             auctoritate
+ Simone di Chello Forte-                     Imperialis
+                             1342-1347                       Notarius et Cancellarius
+         guerri                             auctoritate
+                                             Imperialis
+  Giovanni da Bergamo        1348-1349                       Notarius et Cancellarius
+                                            auctoritate
+  Giovanni Parmessano        1348-1363         Scriba         Cancellarius Sclavicus
+ Francesco di Manfredi                       Imperialis
+                               1359                          Notarius et Cancellarius
+   Sordi da Piacenza                        auctoritate
+Teodoro Scolmafogia da                       Imperialis
+                             1360-1379                       Notarius et Cancellarius
+        Brindisi                            auctoritate
+Nico di Dragano de Biele     1363-1367        Screiba         Cancellarius Sclavicus
+Niccolò di Giullo Stefi da                   Imperialis
+                               1366                          Notarius et Cancellarius
+        Brindisi                            auctoritate
+  Utiseno Tichoslavich       1370-1372         Scriba         Cancellarius Sclavicus
+
+   Vidosio da Curzola        1372.1376         Scriba         Cancellarius Sclavicus
+   Giovanni Fosco da                         Imperialis
+                             1371-1383                       Notarius et Cancellarius
+  Cividale (Forum Iulii)                    auctoritate
+     Maroe Nichlich          1379-1387         Scriba         Cancellarius Sclavicus
+
+ Articuccio di Domenico
+                                             Imperialis
+ da Rivignano, diocesi di    1382-1384                       Notarius et Cancellarius
+                                            auctoritate
+         Aquileia
+ Andrea di Domenico da
+                                             Imperialis
+    Bologna, cittadino       1382-1400                       Notarius et Cancellarius
+                                            auctoritate
+       anconetano
+  Iacopo di Ambrosino                        Imperialis
+                             1383-1388                       Notarius et Cancellarius
+     Milani da Parma                        auctoritate
+714          Francesco Bettarini
+
+
+
+
+   Giovanni del maestro
+                                                Imperialis
+  Conversino da Frignano,          1385-1387                 Notarius et Cancellarius
+                                               auctoritate
+       da Ravenna
+ Alberto di Tommaso Bono                        Imperialis
+                                   1386-1407                 Notarius et Cancellarius
+        da Belluno                             auctoritate
+       Rusco di Cristoforo         1392-1430     Scriba       Cancellarius Sclavicus
+  Antonio Lamaldura da                          Imperialis
+                                   1392-1401                 Notarius et Cancellarius
+        Bergamo                                auctoritate
+   Iacopo di Giovanni                           Imperialis
+                                   1401-1416                 Notarius et Cancellarius
+  Ugodonici da Bologna                         auctoritate
+  Giovanni di Adamo da                          Imperialis
+                                   1407-1414                 Notarius et Cancellarius
+     Muggia, messer                            auctoritate
+                                                Imperialis
+ Niccolò Alberti da Muggia         1412-1416                 Notarius et Cancellarius
+                                               auctoritate
+                                                Imperialis
+       Ludovico da Colle           1414-1417                 Notarius et Cancellarius
+                                               auctoritate
+   Benedetto di Matteo                          Imperialis
+                                   1414-1430                 Notarius et Cancellarius
+      Schieri da Prato                         auctoritate
+  Battista di Vanni Cima-                       Imperialis
+                                   1416-1427                 Notarius et Cancellarius
+      stelli da Fermo                          auctoritate
+  Francesco di Giovanni                         Imperialis
+                                   1418-1423                 Notarius et Cancellarius
+    Bosco da Mantova                           auctoritate
+    Pietro di Marchino                          Imperialis
+                                   1418-1420                 Notarius et Cancellarius
+  Sfondrati da Cremona                         auctoritate
+ Tommaso di Bartolomeo                          Imperialis
+                                   1421-1426                 Notarius et Cancellarius
+   Ringhiadori da Prato                        auctoritate
+ Mellino di Vandino Schizzi                     Imperialis
+                                   1423-1437                 Notarius et Cancellarius
+        da Cremona                             auctoritate
+    Lorenzo Zuchelli da                         Imperialis
+                                   1427-1437                 Notarius et Cancellarius
+         Cremona                               auctoritate
+                                                Imperialis
+  Egidio Jugo da Cremona           1429-1449                 Notarius et Cancellarius
+                                               auctoritate
+  Pasquale della Bruna da                       Imperialis
+                                   1429-1437                 Notarius et Cancellarius
+        Cremona                                auctoritate
+         Niccolò Stella            1430-1455     Scriba          Canc. Sclavicus
+                                                Imperialis
+        Vittorio da Feltre           1430                    Notarius et Cancellarius
+                                               auctoritate
+                                                Imperialis
+       Iacopo da Messina             1437                    Notarius et Cancellarius
+                                               auctoritate
+      Niccolò della Ciria da                    Imperialis
+                                   1437-1440                 Notarius et Cancellarius
+            Cremona                            auctoritate
+                               Notaries-chancellors in late medieval Dubrovnik      715
+
+
+
+
+  Dalfino di Paolo Taglia-                   Imperialis
+                             1437-1449                       Notarius et Cancellarius
+     buoi da Cremona                        auctoritate
+   Girolamo di Giovanni                      Imperialis
+                             1438-1440                       Notarius et Cancellarius
+    Franchini da Prato                      auctoritate
+ Giovanni Uguzzoni da Ri-                    Imperialis
+                             1440-1454                       Notarius et Cancellarius
+ mini, cittadino padovano                   auctoritate
+  Stefano Fieschi da Son-                    Imperialis
+                             1441-1444                       Notarius et Cancellarius
+            cino                            auctoritate
+ Giovanni Lorenzo Regini                     Imperialis
+                             1448-1471                       Notarius et Cancellarius
+          da Feltre                         auctoritate
+   Giovanni Sfondrati da                     Imperialis
+                             1448-1454                       Notarius et Cancellarius
+          Cremona                           auctoritate
+ Bartolomeo Sfondrati da                     Imperialis
+                             1449-1504                       Notarius et Cancellarius
+          Cremona                           auctoritate
+                                             Imperialis
+     Cristoforo Lovati       1454-1455                       Notarius et Cancellarius
+                                            auctoritate
+  Iacopo Merlato da Ma-                      Imperialis
+                             1454-1471                       Notarius et Cancellarius
+           rano                             auctoritate
+  Davide Boccacci da Pia-                    Imperialis
+                             1454-1479                       Notarius et Cancellarius
+          cenza                             auctoritate
+  Marincho Cvietochovich     1455-1474         Scriba             Canc. Sclavicus
+    Senofonte Filelfo da                     Imperialis
+                             1460-1470                       Notarius et Cancellarius
+        Tolentino                           auctoritate
+
+
+
+Sources
+Liber reformationum 1306-1347, Monumenta Ragusina (I), Monumenta
+  Spectantia Historiam Salvorum Meridionalium (10), Zagreb, 1879
+Liber reformationum 1347-1360 (a. 1301-1336), Monumenta Ragusina (II),
+  Monumenta Spectantia Historiam Salvorum Meridionalium (13), Zagreb, 1882
+Liber reformationum 1359-1364, Monumenta Ragusina (III), Monumenta
+  Spectantia Historiam Salvorum Meridionalium (27), Zagreb, 1895
+Liber reformationum 1364-1396, Monumenta Ragusina (IV), Monumenta
+  Spectantia Historiam Salvorum Meridionalium (28), Zagreb, 1896
+Liber reformationum 1301-1336, Monumenta Ragusina (V), Monumenta
+  Spectantia Historiam Salvorum Meridionalium (34), Zagreb, 1897
+Liber Statutorum Civitatis Ragusii compositus anno MCCLXXII / Statut grada
+  Dubrovnika sastavljen godine 1272, (priredili i na hrvatski jezik preveli Ante
+  Šoljić, Zdravko Šundrica i Ivo Veselić; uvodnu studiju napisala Nella Lonza).
+  Dubrovnik, Državni arhiv u Dubrovniku, 2002
+716       Francesco Bettarini
+
+
+
+Liber Viridis, B. Nedeljković (ed.), Beograd, Srpska Akaemija Nauka i Umetnosti,
+  1984
+Statuta et leges civitatis insulae Curzulae, Monumenta Historico-Juridica
+  Slavorum Meridionalium (I), Zagreb, 1877
+Statuta et leges civitatis insulae Spalati, Monumenta Historico-Juridica Slavorum
+  Meridionalium (II), Zagreb, 1878
+Zapisi notara Tomazina de Savere 1284-1286; Zapisi notara Aça de Titullo 1295-
+  1297, ed. Josip Lućić, Monumenta Historica Ragusina, vol. 3. Zagreb, JAZU, 1988
+
+Bibliography
+Ančić M., 2005: Splitski i zadarski kaptol kao “vjerodostojna mjesta”, in “Fontes”,
+  11, pp. 71-73
+Ančić M. (ed.), 2007: Registar Artkucija iz Rivignana, Srednjovjekovni Registri
+  Zadarskoga i Splitskoga Kaptola, Zagreb, Hrvatski Državni Arhiv
+Ančić M. (ed.), 2009: Registar Petra de Serçane, Srednjovjekovni Registri
+  Zadarskoga i Splitskoga Kaptola, Zagreb, Hrvatski Državni Arhiv
+Appendini F.M., 1803: Notizie istorico-critiche sulle antichità, storia e letteratura
+  de’ ragusei, Edizione del 1971, Bologna, Arnaldo Forni Editore
+Bartoli Langeli A., 2005: Una differenza. Notai veneziani, notai genovesi, in A.
+  Bartoli Langeli, Notai, scrivere documenti nell’Italia medievale, Roma, Viella
+Bettarini F. 2012a: La comunità pratese di Ragusa (1414-1434). Crisi economica e
+  migrazioni collettive nel Tardo Medioevo, Firenze, Olschki
+Bettarini F., 2012b: Venezia, emporio della cultura umanistica, in “Studi Veneziani”,
+  N.S. LXVI, pp. 37-60
+Bettarini F., 2013: Il notariato dalmata e la “Santa Intrada”, in U. Israel, O.J.
+  Schmitt (edd.), Venezia e Dalmazia, Roma, Viella, pp. 111-149
+Bettarini F., 2014: Per un censimento dei notai dalmati, in “la Rivista Dalmatica”,
+  CXI, pp. 13-26
+Bettarini F., 2016: La giustizia mercantile nella Ragusa (Dubrovnik) basso-
+  medievale, in E. Maccioni, S. Tognetti (edd.), Tribunali di mercanti e giustizia
+  mercantile nel tardo Medioevo, Firenze, Olschki, pp. 29-50
+Brunelli V., 1934: Storia di Zara, il comune in sul finire dei tempi di mezzo, in
+  “Archivio storico per la Dalmazia”, XVIII, pp. 379-383
+Cammarosano P., 1995: Italia medievale. Struttura e geografia delle fonti scritte,
+  Roma, Carocci
+Caravale M., 1994: Ordinamenti giuridici dell’Europa medievale, Bologna, Il
+  Mulino
+Čremosnik G., 1927: Dubrovačka kancelarija do god. 1300 i najstarije knjige
+                                 Notaries-chancellors in late medieval Dubrovnik   717
+
+
+
+   dubrovačke arhive, “Glasnik Zemaljskog muzeja”, 39, pp. 231-253
+Čremosnik G., 1952: Postanak i razvoj srpske ili hrvatske kancelarije u Dubrovniku,
+   in “Anali Historijskog instituta JAZU u Dubrovniku”, 1, pp. 73-84
+Fasoli G., 1968: Giuristi, giudici e notai nell’ordinamento comunale e nella vita
+   cittadina, Milano, Consiglio internazionale di studi accursiani
+Gasparini S., 2012: Introduzione, in F. Parcianello, Documentazione e Notariato in
+   età ducale, Padova, Imprimitur, pp. 7-22
+Graciotti S., 2005: Il petrarchista Paolo Paladini e il suo canzoniere (1496), Roma,
+   Società Dalmata di Storia Patria
+Grossi P., 1995: L ‘ ordine giuridico medievale, Roma-Bari, Laterza
+Jireček K., 1904-1905: Die mittelalterliche Kanzlei der Ragusaner, “Archiv fur
+   slavische Philologie”, 25-26, pp. 501-521-pp. 161-214
+Kovačević-Kojić D., 1999: Trgovačke knjige braće Kabužić (Caboga) 1426-1433,
+   Beograd, Serbian Academy of Sciences and Arts
+Krekić B., 1972: Dubrovnik in the 14th and 15th centuries, Oklahoma city,
+   University of Oklahoma Press
+Krekić B., 1997: On the Latino-Slavic cultural symbiosis in late medieval and
+   Renaissance Dalmatia and Dubrovnik, in B. Krekić. Dubrovnik: a Mediterranean
+   Urban Society 1300-1600, Ashgate, Aldershot
+Lume L., 1977: L’Archivio Storico di Dubrovnik. Con repertorio di documenti sulle
+   relazioni della repubblica di Ragusa con le città marchigiane, Roma, Istituto
+   Poligrafico e Zecca dello Stato
+Lupoi M., 1994: Alle radici del mondo ​giuridico europeo, Roma, Istituto Poligrafico
+   dello Stato
+Marinović A., 1984: Les origines et les premiers actes des chancelleries urbaines
+   en Dalmatie, en particulier a Dubrovnik et Kotor, in “Landesherrliche Kanzleien
+   im Spätmittelalter”, 1, pp. 361-380
+Pertusi A., 1973: Per la storia di Dulcigno nei secoli XIV-XV e dei suoi statuti
+   cittadini, Firenze, Olschki
+Piergiovanni V. (ed.), 1994: «Tra Siviglia e Genova: notaio, documento e commercio
+   nell’età colombiana», Atti del Convegno Internazionale, Genova, 12-14 marzo
+   1992, Milano, Giuffré
+Praga G., 1981: Storia di Dalmazia, Milano, Dall’Oglio
+Pratesi A., 1979: Genesi e forme del documento medievale, Roma, Jouvence
+Raukar T., 1980-1981: Komunalna društva u Dalmacji u XIV stoljeću, in “Historijski
+   Zbornik”, XXXIII-XXXIV, pp. 138-209
+Seferovic R., 2017: Razočarani notar: iz kasnog dubrovačkog prijepisa djela
+   “Historia Ragusii” Giovannija Conversinijam, in “Anali Dubrovnik”, pp. 131-170
+718       Francesco Bettarini
+
+
+
+Segarizzi A., 1904: Un poeta feltrino del secolo XV (Giovanni Lorenzo Regini),
+  Padova, Atti dell’Accademia veneziana-istriana
+Segarizzi A., 1916: Antonio Baratella e i suoi corrispondenti, Venezia, Regia
+  Deputazione
+Tadić J., 1935: Pisma i uputstva Dubrovacke Republike, Beograd, Srpska kraljevska
+  akademija
+Voje I., 1990: Il credito nella Ragusa medievale, in A. Di Vittorio (ed.), Ragusa e
+  il Mediterraneo: ruolo e funzioni di una repubblica marinara tra Medioevo e
+  Rinascimento, Bari, Cacucci, pp.45-60
+Zabbia M., 2009: Circolazione di persone e diffusione di modelli in ambito
+  notarile (secoli XIII e XIV), in A.L. Trombetti Budriesi (ed.), Cultura cittadina e
+  documentazione. Formazione e circolazione di modelli, Bologna, CLUEB, pp. 33-
+  39
+

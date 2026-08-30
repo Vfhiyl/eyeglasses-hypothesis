@@ -1,0 +1,28 @@
+{
+  "pass": "BP",
+  "date": "2026-08-05",
+  "direction": "offline new-mine scout (proxy down); Howard 1625 onset densify",
+  "proxy": "CONNECT timeout — no IA/OA this pass",
+  "promote": null,
+  "densify": {
+    "howard_william_naworth": {
+      "evidence_year_before": 1626,
+      "evidence_year_after": 1625,
+      "years_after_before": 14,
+      "years_after_after": 15,
+      "source": "Costume Historian 2022 citing Ornsby Surtees 68 p.231 six-pair"
+    }
+  },
+  "closes": {
+    "tymms_silver_gilt_spectacles": "index-only; no living named onset recovered",
+    "frances_akin_1756_parish_spectacles": "poor-relief supply — wrong Cleux-bar class",
+    "heath_will_two_pair": "death bequest",
+    "fra_daniello_1440": "seller not wearer",
+    "lotto_distance_ochiali": "already HARD artisan; distance lenses"
+  },
+  "primary_unchanged": {
+    "median": 6.0,
+    "boot95": [3.0, 8.5],
+    "sesoi5": "PASS_RAW"
+  }
+}

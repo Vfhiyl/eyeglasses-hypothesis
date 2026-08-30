@@ -1,0 +1,4 @@
+person_id,date,kind,note,source
+nino_de_guevara,1600-01-01,portrait_wear_pin,"El Greco Portrait of a Cardinal (Met) ca.1600, probably Niño de Guevara, wears spectacles with strings. Soft onset of the portrait pin.",Ilardi 2007 Appendix III Fig. 37
+nino_de_guevara,1601-01-01,office_archbishop,Roman Catholic Archbishop of Seville (WD Q1392508 P39 / Q50215320 P580 1601). Dated post-portrait office start. LABOR TIP years_after=1.,Wikidata Q1392508 P39
+nino_de_guevara,1609-01-09,death_terminus_not_ya,Died 1609. Survival bound only — do not use as labor tip.,Wikidata Q1392508 P570

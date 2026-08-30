@@ -1,0 +1,39 @@
+{
+  "pass": "R",
+  "date": "2026-08-03",
+  "decision": "no_ingest",
+  "early_stock_unchanged": {
+    "onsetish_n": 34,
+    "labor_delta_n": 28,
+    "labor_delta_median": -0.5
+  },
+  "seams": {
+    "openalex_citing_rhodes_1982": {
+      "n_citers": 7,
+      "oa_useful": "none for 1300–1499 living named (Syon 2024 closed+OOW; Ireland TARA 403)",
+      "decision": "dry"
+    },
+    "ads_trig_lane": {
+      "result": "404",
+      "decision": "dry"
+    },
+    "ia_worshipful_company_1979": {
+      "id": "worshipfulcompan0000fran",
+      "result": "access-restricted",
+      "decision": "CLOSED"
+    },
+    "bourgeois_ia_repull": {
+      "result": "Pass L duplicate — no Cleux-bar living named",
+      "decision": "dry"
+    },
+    "local_unused_name_scan": {
+      "result": "no new personal living beyond known roster/HOLDs",
+      "decision": "dry"
+    },
+    "morice_lunettes": {
+      "result": "only Nantes 1433 brace",
+      "decision": "duplicate"
+    }
+  },
+  "new_cleux_bar_promote": null
+}

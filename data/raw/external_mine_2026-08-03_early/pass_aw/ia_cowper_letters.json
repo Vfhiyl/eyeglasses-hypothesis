@@ -1,0 +1,120 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 41,
+    "params": {
+      "query": "(title:&quot;letters of william cowper&quot; OR title:&quot;correspondence of william cowper&quot; OR creator:Wright (((text:Cowper OR text:Cowper OR text__reviews:Cowper)(text:letters OR text:letters OR text__reviews:letters)) OR (text:&quot;Cowper letters&quot; OR text:&quot;Cowper letters&quot; OR text__reviews:&quot;Cowper letters&quot;))) mediatype:texts",
+      "qin": "(title:(&quot;letters of william cowper&quot;) OR title:(&quot;correspondence of william cowper&quot;) OR creator:Wright Cowper letters) mediatype:texts",
+      "fields": "identifier,title,year",
+      "wt": "json",
+      "rows": 20,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 371,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "studiesinsomefam00bailrich",
+        "title": "Studies in some famous letters ..",
+        "year": 1899
+      },
+      {
+        "identifier": "womenletters01mayegoog",
+        "title": "Women of letters",
+        "year": 1894
+      },
+      {
+        "identifier": "workswilliamcow00grimgoog",
+        "title": "The Works of William Cowper: His Life and Letters",
+        "year": 1835
+      },
+      {
+        "identifier": "workswithhislife02cowpuoft",
+        "title": "Works; [with] his Life and letters",
+        "year": 1835
+      },
+      {
+        "identifier": "worksofwilliamco12cowp",
+        "title": "The works of William Cowper, esq., comprising his poems, correspondence, and translations",
+        "year": 1835
+      },
+      {
+        "identifier": "traditionsrecoll01polw",
+        "title": "Traditions and recollections; domestic, clerical, and literary; in which are included letters of Charles II, Cromwell, Fairfax, Edgecumbe, Macaulay, Wolcot, Opie, Whitaker, Gibbon, Buller, Courtenay, Moore, Downman, Drewe, Seward, Darwin, Cowper, Hayley, Hardinge, Sir Walter, Scott, and other distinguished characters",
+        "year": 1826
+      },
+      {
+        "identifier": "internationalli13tickgoog",
+        "title": "The International library of famous literature : selections from the world's great writers, ancient, mediaeval, and modern, with biographical and explanatory notes and with introductions",
+        "year": 1898
+      },
+      {
+        "identifier": "workswilliamcow06cowpgoog",
+        "title": "The works of William Cowper, esq., comprising his poems, correspondence and translations. With a life of the author by the editor, Robert Southey ..",
+        "year": 1836
+      },
+      {
+        "identifier": "workswilliamcow07cowpgoog",
+        "title": "The works of William Cowper, esq., comprising his poems, correspondence and translations. With a life of the author by the editor, Robert Southey ..",
+        "year": 1836
+      },
+      {
+        "identifier": "worksofwilliamco0003will",
+        "title": "The Works of William Cowper his Life and Letters",
+        "year": 1835
+      },
+      {
+        "identifier": "worksofwilliamco00cowp",
+        "title": "The works of William Cowper : his life, letters, and poems ; now first completed by the introduction of Cowper's private correspondence",
+        "year": 1857
+      },
+      {
+        "identifier": "worksofwilliamco06cowp",
+        "title": "The works of William Cowper, esq., comprising his poems, correspondence, and translations",
+        "year": 1835
+      },
+      {
+        "identifier": "worksofwilliamco08cowp",
+        "title": "The works of William Cowper, esq., comprising his poems, correspondence, and translations",
+        "year": 1835
+      },
+      {
+        "identifier": "workscowperandt00thomgoog",
+        "title": "The works of Cowper and Thomson : including many letters and poems never before published in this country : with a new and interesting memoir of the life of Thomson",
+        "year": 1854
+      },
+      {
+        "identifier": "worksofwilliamco03cowp",
+        "title": "The works of William Cowper; his life, letters, and poems",
+        "year": 1864
+      },
+      {
+        "identifier": "workshislifelett00cowpuoft",
+        "title": "Works; his life, letters, and poems. Now first completed by the introduction of Cowper's private correspondence. Edited by T.S. Grimshawe",
+        "year": 1849
+      },
+      {
+        "identifier": "workswilliamcow11cowpgoog",
+        "title": "The works of William Cowper, esq., comprising his poems, correspondence and translations. With a life of the author by the editor, Robert Southey ..",
+        "year": 1836
+      },
+      {
+        "identifier": "workswilliamcow02grimgoog",
+        "title": "The Works of William Cowper: His Life and Letters",
+        "year": 1835
+      },
+      {
+        "identifier": "workswithhislif04cowpuoft",
+        "title": "Works; [with] his Life and letters",
+        "year": 1835
+      },
+      {
+        "identifier": "treasuresarting00gravgoog",
+        "title": "Treasures of art in Great Britain: being an account of the chief collections of paintings, drawings, sculptures, illuminated mss., &c. &c.",
+        "year": 1854
+      }
+    ]
+  }
+}

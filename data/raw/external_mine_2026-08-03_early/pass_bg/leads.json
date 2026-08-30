@@ -1,0 +1,38 @@
+{
+  "pass": "BG",
+  "direction": "SESOI +5 stress-test: death-terminus sensitivity + curated-authoritative cache fix + harden pivotal pins",
+  "findings": {
+    "bf_pass_raw_fragile": true,
+    "cause": "death==last pins + OUT_WEARER_YEARS cache re-injected dropped years into union",
+    "code_fix": "scripts/27_b1_output_estimand.py: curated years authoritative for person_id; no cache re-inject",
+    "harden": {
+      "pepys_samuel": "Christ Hospital 1698/99 + library cat 1700 (drop death 1703)",
+      "cowper_william": "Hesketh letter 1798 (drop death 1800)",
+      "jackson_ralph": "diary continuum 1789 (drop death 1790)",
+      "marzeliere_pierre": "last hard admin 1457 (drop death 1462)",
+      "cederni": "civic last 1478 (drop burial 1482)",
+      "lynnet_william": "1700 kept as Vice-Master office terminus"
+    }
+  },
+  "primary_after_harden": {
+    "n": 44,
+    "median_delta": 3.25,
+    "boot95": [
+      0.0,
+      8.0
+    ],
+    "sesoi5": "FAIL_OR_UNAVAILABLE",
+    "sesoi15": "FAIL_OR_UNAVAILABLE",
+    "note": "BF PASS_RAW not reproducible under death-terminus stress + cache fix"
+  },
+  "sensitivity": {
+    "strip_all_death_eq_last": {
+      "median": 3.25,
+      "sesoi5": false
+    },
+    "strip_death_keep_office": {
+      "median": 3.25,
+      "sesoi5": false
+    }
+  }
+}

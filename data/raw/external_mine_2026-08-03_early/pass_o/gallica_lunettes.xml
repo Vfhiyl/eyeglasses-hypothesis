@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<srw:searchRetrieveResponse xmlns:ns6="http://gallica.bnf.fr/namespaces/gallica/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <srw:version>1.2</srw:version>
+    <srw:echoedSearchRetrieveRequest>
+        <srw:query>gallica all "paire de lunettes" and gallica all "pour"</srw:query>
+        <srw:version>1.2</srw:version>
+    </srw:echoedSearchRetrieveRequest>
+    <srw:numberOfRecords>80226</srw:numberOfRecords>
+    <srw:extraResponseData>&lt;numberOfRecordsDecollapser&gt;838520&lt;/numberOfRecordsDecollapser&gt;</srw:extraResponseData>
+    <srw:records>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Defer, Jean-Baptiste-Étienne (1812-1873). Auteur du texte</dc:creator>
+                    <dc:date>1853</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>In-8° , 24 p.</dc:format>
+                    <dc:format>Nombre total de vues : 26</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k56246877</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:language>français</dc:language>
+                    <dc:publisher> (Metz)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30309524f</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Sciences et techniques, 8-TE69-90</dc:source>
+                    <dc:subject>Oeil -- Maladies -- Thérapeutique</dc:subject>
+                    <dc:title>Optique oculaire : myopie, presbytie, amblyopie, lunettes, par le Dr Defer,...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>0</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k56246877.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k56246877</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k56246877.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k56246877.medres</medres>
+                <nqamoyen>97.02</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k56246877.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k56246877</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Exposition nationale de l industrie de 1839. Éditeur scientifique</dc:contributor>
+                    <dc:creator>Charrière, Frédéric (1803-1876). Auteur du texte</dc:creator>
+                    <dc:date>1844</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>In-8° , 24 p., fig.</dc:format>
+                    <dc:format>Nombre total de vues : 30</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k5809367x</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:language>français</dc:language>
+                    <dc:publisher> (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30225403g</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Sciences et techniques, 8-TE129-124</dc:source>
+                    <dc:subject>Médecine -- Appareils et matériel</dc:subject>
+                    <dc:title>Exposition nationale de l'industrie de 1839.... Charrière,... Trousses-Agenda, trousses en général, lunettes,... nouvelles modifications de la plupart des instruments qu'on place dans les trousses, etc.</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>1</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k5809367x.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k5809367x</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k5809367x.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k5809367x.medres</medres>
+                <nqamoyen>85.3</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k5809367x.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k5809367x</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Chauvelier, Dominique (1956-....). Ancien possesseur</dc:contributor>
+                    <dc:date>1990-1999</dc:date>
+                    <dc:description>Numérisation effectuée à partir d'un document original : 2006.16.7.</dc:description>
+                    <dc:description>Appartient à l'ensemble documentaire : MnS000</dc:description>
+                    <dc:description>Appartient à l'ensemble documentaire : MnS006</dc:description>
+                    <dc:description>Chauvelier, Dominique (1956-....). </dc:description>
+                    <dc:format>Lunettes (paire). - Matière plastique;caoutchouc. - 40 x 150 x 170 mm (dépliées)</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b10559807v</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:relation>Notice du catalogue : http://archivesetmanuscrits.bnf.fr/ark:/12148/cc1253018/cN112907</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Musée national du sport. 2006.16.7</dc:source>
+                    <dc:subject>Athlétisme</dc:subject>
+                    <dc:subject>Marathon</dc:subject>
+                    <dc:subject>Course à pied</dc:subject>
+                    <dc:title>Collections Musée National du Sport. Collections Tenues et accessoires. Lunettes (paire)-Chauvelier, Dominique</dc:title>
+                    <dc:type>physical object</dc:type>
+                    <dc:type>objet</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>2</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b10559807v.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b10559807v</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b10559807v.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b10559807v.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b10559807v.thumbnail</thumbnail>
+                <typedoc>objets</typedoc>
+                <uri>btv1b10559807v</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Caron, Stephan (1966- .). Ancien possesseur</dc:contributor>
+                    <dc:coverage>Sofia (Bulgarie)</dc:coverage>
+                    <dc:date>1985</dc:date>
+                    <dc:description>Numérisation effectuée à partir d'un document original : D.86.58.2.</dc:description>
+                    <dc:description>Appartient à l'ensemble documentaire : MnS000</dc:description>
+                    <dc:description>Appartient à l'ensemble documentaire : MnS001</dc:description>
+                    <dc:description>Contexte : Ces lunettes ont été portées par Stephan Caron (1966-) lors de la finale du 100 mètres nage libre des Championnats d’Europe à Sofia (Bulgarie) en 1985, qu’il a remportée en 50’’20. Caron a par ailleurs été médaillé d’argent européen en 1987 et mondial en 1986, et double médaillé de bronze olympique en 1988 et 1992, toujours sur la même distance. Cette paire de lunettes est de marque Arena , créée par Horst Dassler, fils du fondateur d’Adidas, qui en voyant les exploits de Mark Spitz en 1972, a l’idée de créer au sein d’Adidas France une marque spécialisée dans les sports d’eau. Elle commence par produire des maillots de bain pour hommes, avant de s’étendre à la clientèle féminine, puis aux bonnets de bain et aux lunettes de compétition. En se positionnant constamment à la pointe de l’innovation, cela permet à la marque d’être un des équipementiers les plus importants de la natation.</dc:description>
+                    <dc:description>Caron, Stephan (1966- .). </dc:description>
+                    <dc:description>Arena. </dc:description>
+                    <dc:format>Lunettes (paire). - Matière plastique;caoutchouc;mousse synthétique. - 180 x 120 mm</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b10950237t</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:relation>Notice du catalogue : http://archivesetmanuscrits.bnf.fr/ark:/12148/cc1253018/cN78032</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Musée national du sport. D.86.58.2</dc:source>
+                    <dc:subject>Natation</dc:subject>
+                    <dc:subject>Natation -- Championnat d'Europe</dc:subject>
+                    <dc:title>Collections Musée National du Sport. Collections Instruments et matériels. Lunettes (paire)-Caron, Stephan-Championnat d'Europe 1985</dc:title>
+                    <dc:type>physical object</dc:type>
+                    <dc:type>objet</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>3</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b10950237t.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b10950237t</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b10950237t.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b10950237t.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b10950237t.thumbnail</thumbnail>
+                <typedoc>objets</typedoc>
+                <uri>btv1b10950237t</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Bourgey, Émile (1914-1993). Éditeur scientifique</dc:contributor>
+                    <dc:date>1955</dc:date>
+                    <dc:description>[Vente. Numismatique. 1955-03-03. Paris]</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : VenteMMA</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>Nombre total de vues : 18</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k97785598</dc:identifier>
+                    <dc:identifier>NUMM-9778559</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Emile Bourgey (Paris?)</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb40901040h</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb40901040h</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Monnaies, médailles et antiques, VENTE BOU-1955 (1955-MAR-3)</dc:source>
+                    <dc:title>[Trésor de Saint-Wandrille Monnaies d'or de Louis XV]</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>4</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k97785598.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k97785598</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k97785598.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k97785598.medres</medres>
+                <nqamoyen>98.65</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k97785598.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k97785598</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1876-1900</dc:date>
+                    <dc:description>Numérisation effectuée à partir d'un document original : 87.53.2.</dc:description>
+                    <dc:description>Appartient à l'ensemble documentaire : MnS000</dc:description>
+                    <dc:description>Appartient à l'ensemble documentaire : MnS006</dc:description>
+                    <dc:description>Contexte : Dès les premières courses automobiles de la fin du XIXe siècle, les coureurs sont confrontés à des difficultés, en partie dues à l’état des routes poussiéreuses qui provoquent plusieurs accidents mortels. L’un des moyens pour réduire ces accidents est l’usage de lunettes (pratiquement semblables à celles des aviateurs) qui permettent une meilleure visibilité. Celles présentées ici datent des années 1890; elles sont teintées et doublées de soie. Elles constituent un accessoire protecteur indispensable sur les routes non goudronnées et dans des voitures non fermées.</dc:description>
+                    <dc:format>Lunettes (paire). - Verre;coton;soie. - 240 x 120 x 45 mm</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b10950084s</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:relation>Notice du catalogue : http://archivesetmanuscrits.bnf.fr/ark:/12148/cc1253018/cN101942</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Musée national du sport. 87.53.2</dc:source>
+                    <dc:subject>Sport automobile</dc:subject>
+                    <dc:subject>Courses automobiles</dc:subject>
+                    <dc:title>Collections Musée National du Sport. Collections Tenues et accessoires. Lunettes (paire)</dc:title>
+                    <dc:type>physical object</dc:type>
+                    <dc:type>objet</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>5</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b10950084s.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b10950084s</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b10950084s.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b10950084s.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b10950084s.thumbnail</thumbnail>
+                <typedoc>objets</typedoc>
+                <uri>btv1b10950084s</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Weylandt d Hettanges, Nicolas (Dr). Auteur du texte</dc:creator>
+                    <dc:date>1847</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : PACA1</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>In-8° , 31 p.</dc:format>
+                    <dc:format>Nombre total de vues : 34</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k5624527m</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:language>français</dc:language>
+                    <dc:publisher> (Avignon)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31642694p</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Sciences et techniques, 8-TE69-79</dc:source>
+                    <dc:subject>Oeil -- Maladies -- Thérapeutique</dc:subject>
+                    <dc:title>De l'Utilité et du danger de l'usage des lunettes et des circonstances dans lesquelles il faut s'en servir, opuscule destiné principalement à MM. les curés des campagnes qui sont journellement appelés à donner leur avis aux pauvres campagnards sur le choix des lunettes que viennent incessamment leur offrir le juif Philippe et les autres brocanteurs de ce genre... Par N. Weylandt d'Hettanges,...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>6</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k5624527m.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k5624527m</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k5624527m.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k5624527m.medres</medres>
+                <nqamoyen>96.54</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k5624527m.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k5624527m</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Léonard, René (1889-?). Ancien possesseur</dc:contributor>
+                    <dc:date>1920-1929</dc:date>
+                    <dc:description>Numérisation effectuée à partir d'un document original : 2007.113.5.</dc:description>
+                    <dc:description>Appartient à l'ensemble documentaire : MnS000</dc:description>
+                    <dc:description>Appartient à l'ensemble documentaire : MnS006</dc:description>
+                    <dc:description>Contexte : En mai 1923, associé à André Lagache (1885-1938), René Léonard remporte la première édition des 24 Heures du Mans. Ils parcourent 128 tours du circuit de la Sarthe, soit 2 209 km en 24 h à la moyenne de 92,064 km/h. Le casque, la paire de lunettes et le protège tympan furent utilisés lors de cette victoire historique. Les lunettes permettaient de voir sans que le sable et les poussières soulevées par la voiture précédente n’aveuglent le pilote. Ce type de lunettes était utilisé par les canonniers de char en 1914 afin de se protéger de la poussière du tir d'obus. Le protège tympan ou bouchon anti bruit, est un accessoire important pour les pilotes. Il permet de se protéger du bruit assourdissant des moteurs de voitures et ainsi éviter tout risque de surdité.</dc:description>
+                    <dc:description>Léonard, René (1889-?). </dc:description>
+                    <dc:format>Casque. - Résine synthétique;bois;cuir. - 140 x 195 x 250 mm</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b105599596</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:relation>Notice du catalogue : http://archivesetmanuscrits.bnf.fr/ark:/12148/cc1253018/cN134031</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Musée national du sport. 2007.113.5</dc:source>
+                    <dc:subject>Sport automobile</dc:subject>
+                    <dc:subject>Course automobile</dc:subject>
+                    <dc:subject>Vingt-Quatre Heures du Mans (course automobile)</dc:subject>
+                    <dc:title>Collections Musée National du Sport. Collections Tenues et accessoires. Casque d'automobile-Léonard, René-24h du Mans</dc:title>
+                    <dc:type>physical object</dc:type>
+                    <dc:type>objet</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>7</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b105599596.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b105599596</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b105599596.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b105599596.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b105599596.thumbnail</thumbnail>
+                <typedoc>objets</typedoc>
+                <uri>btv1b105599596</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Chevalier, Arthur (1830-1874). Auteur du texte</dc:creator>
+                    <dc:date>1867</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>16 p. ; in-16</dc:format>
+                    <dc:format>Nombre total de vues : 28</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k64623029</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:language>français</dc:language>
+                    <dc:publisher> (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30235057h</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Sciences et techniques, 8-TC14-137</dc:source>
+                    <dc:subject>Hygiène</dc:subject>
+                    <dc:title>Des maladies des yeux causées par les mauvaises lunettes : conseils indispensables à tout le monde / par Arthur Chevalier,...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>8</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k64623029.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k64623029</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k64623029.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k64623029.medres</medres>
+                <nqamoyen>99.45</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k64623029.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k64623029</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Pansier, Pierre (1864-1934). Auteur du texte</dc:creator>
+                    <dc:date>1901</dc:date>
+                    <dc:description>Contient une table des matières</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:description>Miscellanées</dc:description>
+                    <dc:format>1 vol. (137 p.) : fig. et pl. ; in-8</dc:format>
+                    <dc:format>Nombre total de vues : 176</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k97739437</dc:identifier>
+                    <dc:identifier>NUMM-9773943</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>A. Maloine (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31055219q</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Sciences et techniques, 8-T21-697</dc:source>
+                    <dc:subject>Médecine</dc:subject>
+                    <dc:title>Histoire des lunettes / par le Dr P. Pansier,...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>9</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k97739437.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k97739437</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k97739437.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k97739437.medres</medres>
+                <nqamoyen>98.75</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k97739437.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k97739437</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Bonlieu, François (1937-1973). Ancien possesseur</dc:contributor>
+                    <dc:coverage>Innsbruck (Tyrol, Autriche)</dc:coverage>
+                    <dc:date>1964</dc:date>
+                    <dc:description>Numérisation effectuée à partir d'un document original : MS 1999.</dc:description>
+                    <dc:description>Appartient à l'ensemble documentaire : MnS000</dc:description>
+                    <dc:description>Appartient à l'ensemble documentaire : MnS006</dc:description>
+                    <dc:description>Contexte : Deuxième en 1954 à l’âge de 17 ans du slalom géant des championnats du monde d’Âre (Suède). François Bonlieu devient le deuxième français après le légendaire James Couttet à se voir décerner le « K » de diamant (titre du non moins mythique challenge Arlberg/Kandahar). Il décrocha son plus beau titre aux Jeux Olympiques d’hiver d’Innsbruck en 1964. De petit gabarit, ce fin technicien utilisait ces lunettes dans le slalom géant qui le vit triompher. Chevalier de la Légion d’honneur il tenta ensuite l’aventure dans les rangs professionnels. Il connait une fin de vie tragique. En 1973, il devait perdre la vie à la suite d’une rixe sur la Croisette à Cannes.</dc:description>
+                    <dc:description>Bonlieu, François (1937-1973). </dc:description>
+                    <dc:description>Rod. </dc:description>
+                    <dc:format>Lunettes (paire). - Matière plastique;Caoutchouc;Cuir. - 100 x 220 x 40 mm</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b10950326b</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:relation>Notice du catalogue : http://archivesetmanuscrits.bnf.fr/ark:/12148/cc1253018/cN98741</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Musée national du sport. MS 1999</dc:source>
+                    <dc:subject>Ski alpin</dc:subject>
+                    <dc:subject>Slalom (course de ski)</dc:subject>
+                    <dc:subject>Jeux olympiques d'hiver (09 ; 1964 ; Innsbruck, Autriche)</dc:subject>
+                    <dc:title>Collections Musée National du Sport. Collections Tenues et accessoires. Lunettes (paire)-Bonlieu, François-Jeux Olympiques d'hiver 1964</dc:title>
+                    <dc:type>physical object</dc:type>
+                    <dc:type>objet</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>10</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b10950326b.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b10950326b</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b10950326b.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b10950326b.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b10950326b.thumbnail</thumbnail>
+                <typedoc>objets</typedoc>
+                <uri>btv1b10950326b</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Chevalier, Arthur (1830-1874). Auteur du texte</dc:creator>
+                    <dc:date>1876</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>12 p. ; in-8</dc:format>
+                    <dc:format>Nombre total de vues : 28</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k6462303q</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:language>français</dc:language>
+                    <dc:publisher> (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30235058v</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Sciences et techniques, 8-TC14-137 (A)</dc:source>
+                    <dc:subject>Hygiène</dc:subject>
+                    <dc:title>Des maladies des yeux causées par les mauvaises lunettes : conseils indispensables à tout le monde / par Arthur Chevalier,...</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>11</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k6462303q.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k6462303q</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k6462303q.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k6462303q.medres</medres>
+                <nqamoyen>99.83</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k6462303q.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k6462303q</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:contributor>Léonard, René. Ancien possesseur</dc:contributor>
+                    <dc:date>1924</dc:date>
+                    <dc:description>Numérisation effectuée à partir d'un document original : 2007.113.8.</dc:description>
+                    <dc:description>Appartient à l'ensemble documentaire : MnS000</dc:description>
+                    <dc:description>Appartient à l'ensemble documentaire : MnS001</dc:description>
+                    <dc:description>Contexte : En mai 1923, associé à André Lagache (1885-1938), René Léonard remporte la première édition des 24 Heures du Mans. Ils parcourent 128 tours du circuit de la Sarthe, soit 2 209 km en 24 h à la moyenne de 92,064 km/h. Le casque, la paire de lunettes et le protège tympan furent utilisés lors de cette victoire historique. Les lunettes permettaient de voir sans que le sable et les poussières soulevées par la voiture précédente n’aveuglent le pilote. Ce type de lunettes était utilisé par les canonniers de char en 1914 afin de se protéger de la poussière du tir d'obus. Le protège tympan ou bouchon anti bruit, est un accessoire important pour les pilotes. Il permet de se protéger du bruit assourdissant des moteurs de voitures et ainsi éviter tout risque de surdité. Protège-tympan utilisé par René Léonard durant les 24 Heures du Mans. René Léonard est un pilote de course automobile français et patron des essayeurs de l'ancienne firme automobile française Chenard et Walcker. Il a remporté, en tant qu'équipier (second pilote), les premières 24 Heures du Mans en 1923.</dc:description>
+                    <dc:description>Léonard, René. </dc:description>
+                    <dc:description>Etablissements Aera. </dc:description>
+                    <dc:format>Protège-tympan. - Métal; Bois;Caoutchouc. - 15 x 52 x 35 mm</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b10559960k</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:relation>Notice du catalogue : http://archivesetmanuscrits.bnf.fr/ark:/12148/cc1253018/cN80150</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Musée national du sport. 2007.113.8</dc:source>
+                    <dc:subject>Sports automobiles</dc:subject>
+                    <dc:subject>Articles de sport</dc:subject>
+                    <dc:title>Collections Musée National du Sport. Collections Instruments et matériels. Protège-tympan - Léonard, René - 24 Heures du Mans ; Le Mans, Circuit Bugatti</dc:title>
+                    <dc:type>physical object</dc:type>
+                    <dc:type>objet</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>12</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b10559960k.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b10559960k</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b10559960k.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b10559960k.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b10559960k.thumbnail</thumbnail>
+                <typedoc>objets</typedoc>
+                <uri>btv1b10559960k</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>France. Ministère de l'emploi et de la solidarité. Direction de la recherche, des études, de l'évaluation et des statistiques. Auteur du texte</dc:creator>
+                    <dc:date>2018</dc:date>
+                    <dc:description>Comprend : Autres auteurs : Jacquier, Kristel</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BnSP000</dc:description>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:format>Nombre total de vues : 1</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bc6p0701722</dc:identifier>
+                    <dc:identifier>LNUM-24816</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Drees (Paris)</dc:publisher>
+                    <dc:relation>Périodique lié : Études et résultats - Ministère de l'emploi et de la solidarité, DREES (En ligne)(ISSN 1146-9129) (Notice : http://catalogue.bnf.fr/ark:/12148/cb37584823p)</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb46777895c</dc:relation>
+                    <dc:relation>Première de couverture : 558430</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>BNSP-Drees</dc:source>
+                    <dc:subject>Soins médicaux -- Utilisation</dc:subject>
+                    <dc:subject>Prix</dc:subject>
+                    <dc:subject>Législation</dc:subject>
+                    <dc:title>Réforme des contrats responsables en optique : moins de lunettes vendues et des prix moyens stables</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                    <dc:type>Document électronique</dc:type>
+                    <dc:type>Digital document</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>13</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bc6p0701722.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link></link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bc6p0701722.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bc6p0701722.medres</medres>
+                <nqamoyen>100.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bc6p0701722.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bc6p0701722</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>E. &amp; G. Stenger (Firme). Auteur du texte</dc:creator>
+                    <dc:date>1936</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>1 vol. (non paginé [18] p.) : Ill. ; 29 cm</dc:format>
+                    <dc:format>Nombre total de vues : 20</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k327944p</dc:identifier>
+                    <dc:identifier>NUMM-327944</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Stenger (Goetzenbruck)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb371231556</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 4-WZ-14151</dc:source>
+                    <dc:subject>Optique-lunetterie -- France -- 1900-1945</dc:subject>
+                    <dc:subject>Optique -- Instruments -- France -- 1900-1945</dc:subject>
+                    <dc:title>Verres de lunettes, lunetterie, instruments d'optique (loupes, jumelles, thermomètres, baromètres, boussoles, etc.) / E.&amp; G.Stenger</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprimée</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>14</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/bpt6k327944p.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k327944p</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/bpt6k327944p.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/bpt6k327944p.medres</medres>
+                <nqamoyen>89.28</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k327944p.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k327944p</uri>
+            </srw:extraRecordData>
+        </srw:record>
+    </srw:records>
+    <srw:nextRecordPosition>16</srw:nextRecordPosition>
+</srw:searchRetrieveResponse>

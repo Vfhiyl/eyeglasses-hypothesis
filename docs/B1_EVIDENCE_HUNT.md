@@ -1,8 +1,14 @@
 # B1 证据狩猎清单
 
-**命题：** 实际佩戴眼镜的年长读写者，是否比未佩戴者多完成若干年近距知识劳动？  
-**状态（2026-07-31 深夜）：** region 表 SPARQL 重建完成；René 法国统治者对照加密；primary **n=36**，中位 Δ **−0.75**，CI **[−3.0, 3.3]**（仍排除 +5/+15）。见 `b1_free_roam_2026-07-31_rene_orleans_densify.md`。  
-**Macfarlane 原句：** 已核（Glass p.145）= 专业脑力劳动者可用近距工作年限 +15 或更多 — **书中有句 ≠ 史实已证**。
+**命题（劳动年）：** 实际佩戴眼镜的年长读写者，是否比未佩戴者多完成若干年近距知识劳动？  
+**状态（2026-08-12 审计纠正）：** 劳动年 primary **n=60**，Δ **+3.0**，CI **[−2.0, 9.0]** → +5/+15 **FAIL**；冻结 36 人子集 Δ **+1.0**，CI **[−3.0, 5.6]**。pass BC–FI 曾报 Δ=+11.5 PASS_RAW，经审计确认为 outcome-aware 策展制造，**已撤回**（见 `docs/B1_CURATION_AUDIT_2026-08-12.md`）。  
+**命题（出成果 / B1-Output）：** 45+ 有日期成果跨度是否多 +5/+15？→ n=44，中位 Δ **+3.75**，CI **[−2.0, 8.0]** → +5/+15 **FAIL**（同批撤回后的纠正值）。  
+**Macfarlane 原句：** 已核（Glass p.145）= 专业脑力劳动者可用近距工作年限 +15 或更多 — **书中有句 ≠ 史实已证**；+15 在所有臂、所有时期 FAIL。  
+**对称敏感性（2026-08-12）：** `b1_symmetry_sensitivity.csv` — 双侧去"到死"端点 Δ=+0.5；主张领域内（≤1600）Δ=+2.0；最严格领域内子集 Δ=−6.75；方向对口径高度敏感。人内初版见 `b1_within_person_rates.csv`（exploratory）。
+
+### R1 组合抬分（2026-08-22；Wave 3 2026-08-28）
+
+不只追 ≥5 严格锐利（破镜/退货）。全 roster 用 `outputs/tables/b1_wearer_lift_scoreboard.csv` 打 0–100 分档；脚本 `38_b1_wearer_lift_scoreboard.py`。中档 soft episode（订单/自报 + 已有编年）写入 `b1_episode_registry.csv` 的 `SOFT_*` 行，**不**计入严格锐利解冻条；薄档 YA0/soft-stock 写 CLOSED/PIN 地板（`b1_lift_thin_tier_2026-08-22.md`）。**Wave 3：** 再抬 8 人 55–69→70–84（Ammannati / René / Bianca Maria / Azevedo / Ardingelli / Charles d'Orléans / Nicolas de Baye / Tranchedini）；见 `b1_lift_wave3_2026-08-28.md`。**Wave 4：** 再抬 16 人（`b1_wave4_soft_episodes.csv` / `b1_lift_wave4_2026-08-28.md`）。**Wave 5：** +9 soft +9 薄档地板 = 18（`b1_lift_wave5_2026-08-28.md`）。**Wave 6：** +3 soft +17 薄档；0–19 已清空（`b1_lift_wave6_2026-08-28.md`）。**Wave 7：** +15 新具名入册、0 升档（`b1_lift_wave7_2026-08-28.md`）；roster 107→122。**Wave 8：** 再 +15 新具名、0 升档（`b1_lift_wave8_2026-08-29.md`）；roster 122→137。**Wave 9：** +14 CLOSED 地板升档 + Dudley 1 新（`b1_lift_wave9_2026-08-29.md`）；roster 137→138。**Wave 10：** +1 CLOSED（Dudley）+ 14 新具名（`b1_lift_wave10_2026-08-29.md`）；roster 138→152。**Wave 11：** +12 CLOSED（Wave 10 薄档）+ 5 新具名（`b1_lift_wave11_2026-08-29.md`）；roster 152→157。**Wave 12：** +5 CLOSED（Wave 11 薄档）+ 10 新具名（`b1_lift_wave12_2026-08-29.md`）；roster 157→167。**Wave 13：** 出生<1700 筛选集上 +15 新具名、0 升档（`b1_lift_wave13_2026-08-29.md`）；筛选 127→142；全库 167→182。**Wave 14：** 出生<1700 筛选集上 +13 CLOSED 升档 + 2 新具名（`b1_lift_wave14_2026-08-29.md`）；筛选 142→144；全库 182→184。**Wave 15：** 出生<1700 筛选集上 +2 CLOSED 升档 + 13 新具名（`b1_lift_wave15_2026-08-29.md`）；筛选 144→157；全库 184→197。**Wave 16：** 出生<1700 筛选集上 +10 CLOSED 升档 + 5 新具名（`b1_lift_wave16_2026-08-29.md`）；筛选 157→162；全库 197→202。**Wave 17：** 出生<1700 筛选集 40–100 档 +14 升档 + 1 新具名落地≥40（`b1_lift_wave17_2026-08-30.md`）；筛选 40–100：43→58。
 
 ### Roster 普查主表（用这些，不用 hard 均值）
 
@@ -120,12 +126,14 @@ Rosmini《Vita》显示 **1456 订镜后至 1481** 仍有持续著述/书信活�
 | lorenzo_medici | 11 | Ross 1910 Medici correspondence OA (strict n=8) |
 | cederni | 24 | Ilardi 1454 orders + Sepoltuario civic posts |
 
-## Pirckheimer（2026-07-24 续）
+## Pirckheimer（2026-07-24 续；2026-08-22 HARD_TO_FIND）
 
+- **整套 *Willibald Pirckheimers Briefwechsel*（Beck/Reicke–Scheible）很难找：** 订购锚点所需 **Bd.4–6** 无开放全文；远程检索已关（IA 0；Heidelberg 早期卷；Beck 店页无公开 Inhalt PDF；GB Bd.5 预览仅卷首/目录碎片且无 Brille；Persée 全是脚注引用）。**勿再做网页挖矿** — 仅图书馆纸书或 Ilardi 引文可解锁。Hunt 表：`outputs/tables/pirckheimer_bd67_digital_hunt.csv`
 - Bd.2（用户提供）：~1507–1515，**证据前**
-- **Bd.6/7：** 网上无开放全文（Beck 2004/2009 版权）；Heidelberg 仅 Bd.2；IA/GB 无 Full View — hunt：`outputs/tables/pirckheimer_bd67_digital_hunt.csv`
+- **Bd.6/7：** 网上无开放全文（Beck 2004/2009 版权）
 - **开放替代（已抓）：** Allen *Opus epistolarum* vols 4–8 OCR → 与 Pirckheimer 往来至 **1529**（+9y）；表：`b1_pirckheimer_allen_erasmus_chrono.csv`
 - Bd.1（1940）MGH PDF 已下：`data/raw/pirckheimer/pirckheimer_bd1.*`（早期信）
+- Bd.5 GB 预览已留：`data/raw/pirckheimer/bd5_google_preview/`（仅卷范围 1522–1525，无眼镜）
 - Goldast 1665 Opera OCR 已下（后期年份命中稀疏）
 
 ## Ammannati（CLOSED 2026-07-24）
@@ -169,12 +177,14 @@ Rosmini《Vita》显示 **1456 订镜后至 1481** 仍有持续著述/书信活�
 | magnavia | 1365 库存 *occhiale de cristallo*×2 | Fumi 1894 IA：`data/raw/magnavia/`；表 `b1_magnavia_fumi_occhiale_inventory.csv` |
 | orsi | 1322 库存镀金银框 | Davidsohn *Geschichte* v4.2 OCR：`data/raw/orsi/` |
 
-## Cederni（2026-07-24 升 hard）
+## Cederni（2026-07-24 升 hard；2026-08-22 R1 episode）
 
 - Ilardi 引 Caccini→Cederni **1454-06/07** 信：6 副近/远用镜，**确认自用**（非转售）
-- OA 戴后活动（非本人书信全集）：Sepoltuario IATH — 墓 ~1456；Neri 祭坛画 **1461-08-17**；**Prior 1473**；**Buonuomo 1478**；卒 ~**1482-12**
-- 编年：`b1_cederni_activity_chrono.csv` → **hard +24y**（末公务 1478）
-- Corti–Kent 1991 仍版权；本人去信多佚 — 公务岗位作近距代理
+- **锐利弧：** 1454-06-20 寄出 → **07-05 退回 3 副不合格** → 07-12 换新合格（Ilardi n.78–79）
+- R1：`cederni_1454_return` ANALYZABLE_NOW（`b1_cederni_1454_episode_method.md`）
+- OA 戴后活动：Sepoltuario — 墓 ~1456；Neri **1461-08-17**；**Prior 1473**；**Buonuomo 1478**；卒 ~**1482-12**
+- 编年：`b1_cederni_activity_chrono.csv` → **hard +24y**；本人去信多佚 — 公务岗位作近距代理
+- Corti–Kent 1991 仍版权；Ilardi 引文够钉 episode
 
 ## Lorenzo de' Medici（2026-07-24 新入 hard）
 
@@ -194,12 +204,12 @@ Rosmini《Vita》显示 **1456 订镜后至 1481** 仍有持续著述/书信活�
 - Covini *Reti Medievali* 2009 OA PDF 已下并 OCR：`data/raw/bianca_maria/covini_2009*`（引 1465/1467 书信；附录未全抽）
 - → **hard +6y**（证据年 1462 → 末封 1468）
 
-## Barbara Brandenburg（薄，未升 hard）
+## Barbara Brandenburg（2026-07-24 薄；2026-08-22 soft R1）
 
 - 1466-09-18 → Federico 订 *ochiali assai*（Ilardi n.56）
-- Nicoud 1468：**3** 封 Barbara → Bianca（末封 1468-10-03）→ OA 活动仅 **+2y**
-- Fantoni *Libri e documenti* 7 (1981) 129 regesti（1452–1468）存在但本机未拿到全文 — 记 blocked 可选
-- 存活至 1481 = +15，但缺 1469–1481 OA 密编年 → **hard=False**
+- R1：`barbara_1466_order` **SOFT_ORDER**（`b1_barbara_1466_episode_method.md`；OA letter chrono → 1479）
+- Nicoud 1468：**3** 封 Barbara → Bianca（末封 1468-10-03）；Fantoni regesti 仍可选 blocked
+- 存活至 1481 = +15；soft episode 已入组合抬分，非严格锐利
 
 ## 本轮试过仍无 hard 增量
 
@@ -317,3 +327,179 @@ hard 现 **n=13** ≪ 20；中位约 +10；≥15 现 **4/13**。继续扫冷门 
 - **René II**: injected Gilbert Montpensier / Louis II Trémoille / Charles Berry (Berry `use_in_primary=False`); match → occ+birth+region; primary Δ **−25.5 → −2.0**.
 - Removed Philip the Good + Jeanne d’Évreux from candidates (logged only) so Philip returns as Orléans control; Orléans Δ **+13**.
 - Primary n=**36**; median Δ **−0.75**; CI **[−3.0, 3.3]**; SESOI still FAIL. Note: `b1_free_roam_2026-07-31_rene_orleans_densify.md`.
+
+### Free roam Heymann → Denis Hesselin (2026-07-31)
+
+- Heymann IA `b2486092x`: Paris city comptes **1473–74** *lunettes clouants* for Prévôt **Denis Hasselin/Hesselin** (already owned non-riveted pair). Soft +32y to Receveur des Aides terminus 1506 (Pattou; death after 1506).
+- France clerk densify: Bourré / le Daim / Robertet / Fumée / Briçonnet. Hesselin Δ **+17**.
+- `egidio_piacenza` region override → italy (Δ −26 → +1).
+- John Baret 1463 silver-gilt spectacles bequest logged only (gift to monk Ixnyng).
+- Primary n=**37**; median Δ **0.0**; CI **[−2.5, 2.1]**; SESOI still FAIL. Note: `b1_free_roam_2026-07-31_hesselin.md`.
+
+### England + Magnia HRE densify (2026-07-31)
+
+- Heymann named-onset exhausted → densify thin England cells + fix `jacopo_magnia` unknown→**hre**.
+- Henry/Wyatt/Wolsey → occ+birth+region; Wyatt Δ **+17** (Dudley+Empson); Wolsey n_ctrl **3** (Fisher/Colet/Tunstall); Magnia Δ **+8.5→−3**.
+- Primary n=**37**; median Δ **−0.5**; CI **[−3.0, 4.5]**; SESOI still FAIL. Note: `b1_free_roam_2026-07-31_england_hre_densify.md`.
+
+### Baye France clerk densify (2026-08-01)
+
+- OA named-onset dry → densify `nicolas_de_baye`: Fusoris→clerk; +Montreuil +Jouvenel → **occ+birth+region**; Baye Δ **−17**.
+- van der Paele (van Eyck 1436) logged portrait-only; not promoted.
+- Curated file briefly wiped by bad rewrite; restored (124 rows) + snapshot `b1_control_nearwork_chrono_curated.snapshot_2026-08-01.csv`.
+- Primary unchanged: n=**37**; median Δ **−0.5**; CI **[−3.0, 4.5]**. Note: `b1_free_roam_2026-08-01_baye_densify.md`.
+
+### Domenichi + Henry densify (2026-08-01)
+
+- OA roam dry → densify extreme/thin cells.
+- Domenichi: +5 primary curated peers (Grataroli/Visdomini/Rasario/Figliucci/Borro); Δ **−17.5→−12**, n_ctrl **7**.
+- Henry VIII: +Manners/Hastings/Neville (Courtenay excluded &lt;45); n_ctrl **1→4**, Δ **−5→+2**.
+- Primary median **−0.5→0.0**; CI still **[−3.0, 4.5]**; SESOI FAIL. Note: `b1_free_roam_2026-08-01_domenichi_henry_densify.md`.
+
+### Egidio / Azevedo / Wyatt densify (2026-08-01)
+
+- IA roam SSL-fail → densify three thin/extreme cells.
+- Egidio n_ctrl **1→9**, Δ **+1→−7**; Azevedo **−13.5→−10.5**; Wyatt **+17→+2** (Warham/Docwra).
+- Primary median **0→−0.5**; CI **[−3.0, 2.1]** (upper &lt;5). Note: `b1_free_roam_2026-08-01_egidio_azevedo_wyatt.md`.
+
+### Lotto densify after IA roam (2026-08-01)
+
+- Direct IA tight personal-use queries: no birth-dated named onset.
+- `lotto` n_ctrl **2→6**, Δ **+16.5→+12.5**; panel median/CI unchanged (−0.5; [−3, 2.1]). Note: `b1_free_roam_2026-08-01_lotto_densify.md`.
+
+### Pirckheimer + Spinelli densify (2026-08-01)
+
+- No new IA named onset; densify unmatched peers.
+- Pirckheimer n_ctrl **2→6** (Δ still −4); Spinelli **−9.5→−2** (n_ctrl 5); merchant median **−0.98**.
+- Panel unchanged: n=37; median −0.5; CI [−3.0, 2.1]. Note: `b1_free_roam_2026-08-01_pirck_spinelli_densify.md`.
+
+### Batch densify (2026-08-01 cont.)
+
+- Multi-cell curated fill; Pius II excluded as control; ya45=0 forced off primary.
+- Primary: n=37; median Δ **−1.0**; CI **[−4.0, 2.0]**. Note: `b1_free_roam_2026-08-01_batch_densify.md`.
+
+### R1–R8 多轮自治（2026-08-01）
+
+- 命名 onset 猎捕 A–D（IA/Gallica/Heymann/Bourgeois/Manni）：**无新硬生卒个人佩戴者**。
+- 薄格加密 + 极端格清洗 + 商人 OA-thin 降权；primary n=**37**，中位 Δ **0.0**，CI **[−3.0, 2.0]**。
+- 冻结：`b1_round8_freeze.md` + curated snapshot `...snapshot_2026-08-01_r8.csv`。
+
+### Phase2 二期多轮自治（2026-08-01）
+
+- 新语料/账本面猎捕 + Guidotti：**无新硬生卒个人佩戴**；商人薄格高质量加固（Rucellai/Sassetti/Portinari）。
+- 极端 Δ 标 structural；高频对照 spectacle-negative 抽检无污染；Latone/Nuno/Walmysford **永久附录关闭**。
+- Primary n=**37**；中位 Δ **−2.97**；CI **[−4.0, 2.0]**；敏感性表仍 FAIL。
+- 冻结：`b1_phase2_freeze.md` + `...snapshot_2026-08-01_phase2.csv`；轮次笔记 `b1_phase2_rN_*.md`。
+
+### Digitarq óculos free roam (2026-08-01)
+
+- Gateway + refreshed JWT; catalogued óculos-family hits → `data/raw/digitarq_free_roam/oculos_catalog.csv`.
+- Best soft: Jacques Moser / Jaques maker (1552–62, b.≈1522) + nickname *O dos Óculos* (1603). **No hard wearer ingest.** Note: `b1_free_roam_2026-08-01_digitarq_oculos.md`.
+
+### Digitarq layer-2 (2026-08-01)
+
+- AdvancedSearch date filters not working via guessed POST body; Ilardi-orbit names dry for óculos.
+- New soft: 1539 Contos office bulk buy of óculos (`PT/TT/CC/2/227/00107`) — unnamed officials, no ingest.
+- Moser OCR sample failed; 1412 *lunetas* = Castelo da Luneta false friend.
+- Note: `b1_free_roam_2026-08-01_digitarq_layer2.md`.
+### Moser vision bio (2026-08-01 evening)
+
+- Digitarq proc.5620 **m0012** vision: Jacques Moser, ~40 in 1562, Isabel Bernardez, *fazer oculos*, literate. Maker only — no promote.
+- Notes: `data/raw/digitarq_free_roam/moser_1562_sample/VISION_READ_*.md`.
+
+### FamilySearch Full-Text (2026-08-01 night)
+
+- Gateway + `config/familysearch_session.local`; script `scripts/familysearch_fulltext_search.py`.
+- UK∩1600 `spectacles` ≈102 (mostly wills); UK∩1500 **0**; 1300/1400 hits look like OCR false positives.
+- Best soft bequests: Chester **1619** “my spectacles” (son John Cooke); Lancs **1631** Gilber spectacles+case; Cheshire **1616** spectacles+herball.
+- **No hard-birth ingest** (will-path). Note: `b1_free_roam_2026-08-01_familysearch.md`; shortlist `familysearch_b1_shortlist.jsonl`.
+
+### FamilySearch film browse + vision (2026-08-02)
+
+- Film API + stitch: `scripts/familysearch_film_browse.py`; dgs `008470424` cached.
+- Vision (not OCR) on Allerton neighborhood i=54–56: **Thomas Allerton**, Chester vintner, will **1615-04-25**; bequeaths **spectacles with brass case** to **Randall Holme**; wife Alice. i=56 = Appleton wrapper (unrelated).
+- Still will-path only. Note: `data/raw/familysearch_fulltext/priority_images/VISION_READ_allerton_1615.md`.
+
+### FamilySearch vision densify cont. (2026-08-02 evening)
+
+- Stitch+vision: **Margaret Nugent** (Manchester widow, will 1620) silver spectacles; **George French** (inv. 1633 St Keverne) one pair; **Philip Oldfield** (inv. 1616) spectacles + herbal + Bibles; Herts 1642 inv. two pairs (testator TBD).
+- Also **Elizabeth Martindale** (Bishopton Durham inv. 1670): spectacles + Latin books. PARES `anteojos` mostly modern military optics.
+- Herts inv. `i=642` soft-named via neighbor will `i=639`: **James Cassell/Castell** (~1681/1691); film `008306986` cached.
+- Named densify: **Thomas Smith** (Chester inv. 1682); **John Harrison** (Golborne/Winwick inv. 1681); **Bryan Travis** (Warrington inv. 1694, books + two pair). UK@1550 Full-Text still empty.
+- No hard ingest. Note: `b1_free_roam_2026-08-02_familysearch_vision.md`.
+
+### Letter-path pivot (2026-08-02 late)
+
+- Left will densify; mined EMLO spectacles dump.
+- Soft living wearers: **Anthony Wood** (fitted spectacles 1676 via Sheldon); **William Lynnet** bought pair London 1672; **Arthur Charlett** wear-duration ask 1707.
+- PARES date filter still useless for 15–16c. Note: `b1_free_roam_2026-08-02_letter_mines.md`.
+
+### Anthony Wood dig + promote (2026-08-02)
+
+- Confirmed diary **9 Mar 1675**: “double pair of spectacles” from Ralph Sheldon (Clark *Life* II p.310); EMLO **27 Dec 1676** new-set + Wood self-draft on fit/lifelong use.
+- Chrono: `b1_wood_anthony_activity_chrono.csv` → `years_after=17` (Athenae vol. II **1692-07-18**); panel hard-ingest; England 1630s humanist densify (12 peers).
+- **PROMOTED:** onsetish + `occ+birth+region`; T=15; Δ=**−6.0**; primary **n=37→38**. Notes: `b1_free_roam_2026-08-02_anthony_wood.md`, `b1_free_roam_2026-08-02_wood_promote.md`.
+
+### William Lynnet promote (2026-08-02)
+
+- EMLO **7 Aug 1672**: self-report London spectacle purchase (Trinity fellow).
+- Post-wear: Trinity Senior Dean 1677–84 / 1686–91; letter 1687; Vice-Master **1691–1700** → `years_after=28`; England cleric densify (n_ctrl=6).
+- **PROMOTED:** T=32; Δ=**+1.5**; primary **n=38→39**; median **−2.97**; CI **[−4.0, 2.0]**; SESOI still FAIL. Note: `b1_free_roam_2026-08-02_lynnet_promote.md`.
+
+### EMLO vocab free roam → letter-path close (2026-08-02)
+
+- Expanded Solr: `lunettes` / phrase `"pair of spectacles"` / `spectacle maker` / etc. (cache `data/raw/emlo_free_roam_2026-08-02/`).
+- **No new living named wearer.** Phrase hits collapse to Lynnet; `lunettes` = telescopes; Cole/Aubrey/Charlett-1716 closed as maker / historiography / third-party anecdote.
+- **EMLO English letter seam closed** for practical B1 onset hunting. Note: `b1_free_roam_2026-08-02_emlo_vocab_close.md`.
+
+### England densify neg audit (2026-08-02)
+
+- Soft-neg on Wood/Lynnet densify (18 peers): **Locke demoted** (EE ~1701 green spectacles receipt); other 17 clear in this audit.
+- Wood Δ **−6→−5** (n_ctrl 12→11); primary n/median/CI unchanged (39; −2.97; [−4, 2]). Note: `b1_free_roam_2026-08-02_england_densify_neg.md`.
+
+### Dutch mine open — Huygens soft (2026-08-02)
+
+- Non-EMLO roam: Italian local OCR / Gallica dry for new living onset; LetterSampo still closed.
+- **Constantijn Huygens** (*Mijn jeugd* «De bril, 1612»): began concave youth spectacles at 16; continuous use. Soft-hold — **myopia/distance**, not B1 near-work class; not promoted. Note: `b1_free_roam_2026-08-02_dutch_huygens.md`.
+
+### Dutch midlife *bril* dig → practical close (2026-08-02)
+
+- Targeted near-work hunt: EMLO `bril*` dry/false-friend; IA diary search 0; DBNL search **403**; no new named midlife reading-wearer.
+- Dutch near-work letter/diary onset lane **practically closed** pending better DBNL access. Note: `b1_free_roam_2026-08-02_dutch_bril_dig.md`.
+
+### German *Brille* mine → practical close (2026-08-02)
+
+- EMLO German spectacle vocab dry/false-friend; IA early-modern German personal-wear phrases **0**; DDB API unauthorized.
+- Lichtenberg 1776 Ramsden lorgnette letter verified OA — owns one for **looking at girls**, plus proxy order for a student lord → **wrong B1 class** (not near-work).
+- German letter/diary near-work onset lane **practically closed**. Note: `b1_free_roam_2026-08-02_german_brille.md`.
+
+### Spanish *anteojos* free roam (2026-08-02)
+
+- EMLO Spanish spectacle terms **0** / false-friend; IA early Spanish **0**.
+- PARES 1710 Gandía letters: *anteojos para la vista del tío Coloma* — third-party vision order; wearer identity still thin (no CSV ingest).
+- Note: `b1_free_roam_2026-08-02_spanish_anteojos.md`.
+
+### Wolsey + Ardingelli densify (2026-08-02)
+
+- Letter mines dry → deep densify thin/extreme cells.
+- Wolsey: +Blythe / Stokesley / Bainbridge / Lee → n_ctrl **7**, Δ **−5**.
+- Ardingelli: +Piero de' Medici (short ya45=8) → n_ctrl **4**, Δ **−4.5**.
+- Primary median still **−2.97** [−4.0, 2.0]; merchant median **−3.74**. Note: `b1_free_roam_2026-08-02_wolsey_ardingelli_densify.md`.
+
+### Coloma soft-hold + Baye densify (2026-08-02)
+
+- PARES OSUNA CT.235 D.154–175: *anteojos para la vista del tío Coloma* (1710) — no images; wearer identity not letter-pinned → **no ingest**.
+- Baye: Premierfait → clerk + Gontier Col (birth est. 1355) → n_ctrl **5**, Δ **−17→−10**. Note: `b1_free_roam_2026-08-02_coloma_baye.md`.
+
+### EMLO leftovers free roam — Richardson / Rawlins soft (2026-08-02)
+
+- Spectacles dump otherwise exhausted (promotes/closes already logged).
+- **Richardson jr** (1708–1781): 1774 self-commission for **magnifying** spectacles; post-wear chrono thin → soft-hold medium, not promoted.
+- **Rawlins** (1689–1752): 1748 third-party “take to spectacles”; ~+4y ceiling → soft-hold low.
+- Note: `b1_free_roam_2026-08-02_richardson_rawlins.md`.
+
+### Richardson jr promote (2026-08-02)
+
+- Deep-dig unlocked Bartlet collecting trail **1774-02 → 1777-05** (coins/books/medals) after magnifying-spectacle onset.
+- **PROMOTED:** ya=**3.3**; T=**24.3**; n_ctrl=**8**; Δ=**+8.3**; primary **n=39→40**; median Δ **−2.97→−1.49**; CI still **[−4.0, 2.0]**; SESOI FAIL.
+- Note: `b1_free_roam_2026-08-02_richardson_promote.md`.

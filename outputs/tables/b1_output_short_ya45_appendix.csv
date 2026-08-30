@@ -1,0 +1,4 @@
+person_id,name,age_at_death,post45_life_ceiling,t_output_span_after_45,med_c_output_span_after_45,delta_span,t_saturates_ceiling,ctrl_qids_used,note
+leo_x,Pope Leo X (Giovanni de Medici),46.0,1.0,1.0,5.0,-4.0,True,Q823002;Q211133;Q2258968,structural short post-45 life; harvest cannot raise T above death-(birth+45)
+jeake_samuel,Samuel Jeake the Younger,47.0,2.0,2.0,7.0,-5.0,True,Q18810672;Q41784687;Q7787846,structural short post-45 life; harvest cannot raise T above death-(birth+45)
+domenichi_ludovico,Lodovico (Ludovico) Domenichi,49.0,4.0,4.0,6.5,-2.5,True,Q3778928;Q1751281,structural short post-45 life; harvest cannot raise T above death-(birth+45)

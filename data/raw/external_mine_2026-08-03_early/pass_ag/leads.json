@@ -1,0 +1,35 @@
+{
+  "pass": "AG",
+  "direction": "Autonomous: Rosen 1956 PDF + Morice Cusac/Provost + Ilardi/Dorn Dalmatian + Magnavia WD",
+  "rosen1956": {
+    "source": "Downloads/rosen1956.pdf (Part II)",
+    "result": "Confirms known 1316/1322/1329 pins; no new Cleux-bar named living",
+    "decision": "densify only"
+  },
+  "provost_alain": {
+    "morice": "single 1433 lunettes line only",
+    "decision": "HOLD"
+  },
+  "cusac_thomas": {
+    "morice": "1433 gift + gaiges ~1454 living; no obit",
+    "decision": "HOLD"
+  },
+  "rikard_bozidarevic": {
+    "pin": "1482-11-13 auction by widow Stanula; 38 pairs fine spectacles",
+    "decision": "EXCLUDE trade stock — candidate row added for documentation"
+  },
+  "magnavia": {
+    "wikidata_qid": "Q108479663",
+    "death": "1364-10-29",
+    "birth": null,
+    "decision": "probate EXCLUDE; QID hardened"
+  },
+  "blocked_oa": [
+    "Jones Guinot JDS 2010 / Rulon 1959 full Cleux-brace bios",
+    "Albertotti Atti Padova 1923-24 (Manfredo attribution)",
+    "HAD Lamenta Vitko imaging",
+    "ARV Alegret Belluga birth",
+    "ASF Mercanzia 1047 Neri b-d"
+  ],
+  "new_cleux_bar_promote": null
+}

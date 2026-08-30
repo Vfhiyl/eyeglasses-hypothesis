@@ -1,0 +1,651 @@
+{
+  "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785953652894",
+  "version": "1x7o",
+  "session_context": {
+    "session_key": "user__alanobrienterry918272@gmail.com",
+    "created": "2026-08-05T18:14:16Z",
+    "client_characterization": {
+      "characterized_by": "asserted_or_authenticated",
+      "preferred_client_ip": null,
+      "client_ip": "192.102.111.200:sra",
+      "preferred_client_useragent": null,
+      "client_useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36:sua",
+      "preferred_client_id": null,
+      "client_id": "alanobrienterry918272@gmail.com:sco"
+    },
+    "username": "alanobrienterry918272@gmail.com",
+    "authentication_method": "cookie",
+    "is_system": false,
+    "is_guest": false,
+    "is_user": true,
+    "is_archive_user": false,
+    "is_qualified": false,
+    "is_archivist": false,
+    "has_universal_privs": false,
+    "has_collection_priv": false,
+    "has_allowed_host_priv": false,
+    "has_vpn_host_priv": false,
+    "has_scan_center_priv": false,
+    "has_any_priv": false,
+    "has_any_priv_permissive": false,
+    "pps": {
+      "is_page_target_owner": false,
+      "contributed_review_on_page": false,
+      "full_text_search_override": false,
+      "sees_sensitive_fields": false
+    },
+    "pps_relevant_user_preferences": {
+      "display__blur_moderated_content": "on"
+    }
+  },
+  "request": {
+    "client_request_parameters": {
+      "client": "page_production_service_endpoint",
+      "user_query": "occhiali AND (ricordi OR spese OR conti OR libro)",
+      "hits_per_page": 30,
+      "page": 1,
+      "aggregations": [],
+      "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785953652894",
+      "client_url": "https://archive.org/search?query=occhiali+AND+%28ricordi+OR+spese+OR+conti+OR+libro%29"
+    },
+    "backend_requests": {
+      "search": {
+        "root": "(self)",
+        "children": [
+          "collection_title_fetch__9a79e3b1d4329cbd187118e5fed9f0d8"
+        ],
+        "request_type": "search",
+        "finalized_parameters": {
+          "client": "page_production_service_endpoint",
+          "user_query": "(redacted)",
+          "hits_per_page": 30,
+          "page": 1,
+          "aggregations": [],
+          "uid": "R:eyeglasses-hypothesis-S:local-P:1-K:h-T:1785953652894",
+          "client_url": "https://archive.org/search?query=occhiali+AND+%28ricordi+OR+spese+OR+conti+OR+libro%29",
+          "page_type": "search_results",
+          "fields": [
+            "_tile_"
+          ],
+          "sort": [
+            "_relevance_:desc",
+            "identifier"
+          ],
+          "aggregations_size": 10,
+          "service_backend": "metadata",
+          "scope": "standard",
+          "feature_flags": {
+            "complex_facets": true,
+            "collection_titles": true,
+            "redact_collections": true,
+            "redact_collections_by_privs": false,
+            "redact_empty_collections": true,
+            "redact_admin_collections": true,
+            "protect_flagging_collections": true
+          },
+          "service": "service__metadata__load_balanced"
+        }
+      },
+      "collection_title_fetch__9a79e3b1d4329cbd187118e5fed9f0d8": {
+        "root": "search",
+        "parent": "search",
+        "request_type": "collection_title_fetch",
+        "finalized_parameters": {
+          "page_type": "document_fetch",
+          "user_query": "(redacted)",
+          "aggregations": [],
+          "caching": null,
+          "fields": [
+            "identifier",
+            "title"
+          ],
+          "search_as_system": true,
+          "page": 1,
+          "hits_per_page": 250,
+          "sort": [
+            "_efficient_"
+          ],
+          "service_backend": "metadata",
+          "scope": "ill,printdisabled_and_music,scancenter",
+          "service": "service__metadata__load_balanced"
+        }
+      }
+    }
+  },
+  "caching": {
+    "search": {
+      "name": "PPS-1x7o-J:US-RT:s~hit-T:sr-Q:0920cb70-H:30-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+      "acceptable_names": [
+        "PPS-1x7o-J:US-RT:s~std-T:sr-Q:0920cb70-H:30-B:mds-RS:sta~CS::P:0+CS:some+BR:1"
+      ],
+      "configuration": {
+        "requested": [],
+        "finalized": {
+          "bypass": false,
+          "recompute": false,
+          "no_compute": false,
+          "ttl_s": 300,
+          "max_age_s": 0,
+          "miss_policy": "none"
+        }
+      },
+      "utilization": {
+        "went_to_cache": true,
+        "alternates_allowed": true,
+        "hit_alternate": false,
+        "hit_canonical": false,
+        "hit": false,
+        "miss": true,
+        "recomputed": true,
+        "stored": true,
+        "acceptable_names_tried": [
+          "PPS-1x7o-J:US-RT:s~std-T:sr-Q:0920cb70-H:30-B:mds-RS:sta~CS::P:0+CS:some+BR:1"
+        ],
+        "elapsed_s": 0.5987060070037842
+      },
+      "statsd_bucket": "search.pps.cache.metadata.search_results"
+    },
+    "collection_title_fetch__9a79e3b1d4329cbd187118e5fed9f0d8": {
+      "name": "PPS-1x7o-J:US-RT:ctf-T:df-Q:8a4d85f5-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1",
+      "acceptable_names": [],
+      "configuration": {
+        "requested": [],
+        "finalized": {
+          "bypass": false,
+          "recompute": false,
+          "no_compute": false,
+          "ttl_s": 300,
+          "max_age_s": 0,
+          "miss_policy": "none"
+        }
+      },
+      "utilization": {
+        "went_to_cache": true,
+        "alternates_allowed": true,
+        "hit_alternate": false,
+        "hit_canonical": false,
+        "hit": false,
+        "miss": true,
+        "recomputed": true,
+        "stored": true,
+        "elapsed_s": 0.15158700942993164
+      },
+      "statsd_bucket": "search.pps.cache.metadata.search_results"
+    },
+    "summary": {
+      "fetched": [],
+      "computed": [
+        "PPS-1x7o-J:US-RT:s~hit-T:sr-Q:0920cb70-H:30-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:US-RT:ctf-T:df-Q:8a4d85f5-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "stored": [
+        "PPS-1x7o-J:US-RT:s~hit-T:sr-Q:0920cb70-H:30-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:US-RT:ctf-T:df-Q:8a4d85f5-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "missed": [
+        "PPS-1x7o-J:US-RT:s~hit-T:sr-Q:0920cb70-H:30-B:mds-RS:sta~CS::P:0+CS:some+BR:1",
+        "PPS-1x7o-J:US-RT:ctf-T:df-Q:8a4d85f5-F:a8092e92-B:mds-RS:ill+pam+sca~CS::P:0+CS:some+BR:1"
+      ],
+      "bypassed": []
+    }
+  },
+  "elapsed_secs": 0.795339822769165,
+  "response": {
+    "header": {
+      "succeeded": true,
+      "query_time": 182,
+      "forensics": {
+        "client_characterization": {
+          "client_ip": "192.102.111.200:sra",
+          "client_id": "alanobrienterry918272@gmail.com:sco",
+          "client_useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36:sua",
+          "preferred_client_ip": null,
+          "preferred_client_id": null,
+          "preferred_client_useragent": null,
+          "application_id": {
+            "session": [
+              "pageproduction"
+            ],
+            "request": []
+          },
+          "client_jurisdiction": "US",
+          "preferred_client_jurisdiction": null,
+          "actionable_jurisdiction": "US",
+          "characterized_by": "asserted_or_authenticated",
+          "ensured": true
+        },
+        "routing": {
+          "backend": "es-prod-metadatasearch-filtered",
+          "backend_server": "es-prod-client-n-04",
+          "routed_to_load_balanced": true,
+          "index_addressed": "prod-n-001"
+        },
+        "backend_request_elapsed_secs": {
+          "search": 0.5987060070037842,
+          "collection_title_fetch__9a79e3b1d4329cbd187118e5fed9f0d8": 0.15158700942993164
+        }
+      },
+      "elapsed_secs_for_backend_requests": 0.7502930164337158
+    },
+    "body": {
+      "hits": {
+        "total": 4,
+        "returned": 4,
+        "hits": [
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "OCCHIALI",
+              "title": "OCCHIALI",
+              "description": "OCCHIALI è un viaggio affascinante attraverso la storia, la cultura e la tecnologia di uno degli accessori più antichi e versatili dell’umanità. Questo libro racconta l’evoluzione degli occhiali, da semplici strumenti per migliorare la vista fino a oggetti di moda, simboli culturali e innovativi dispositivi tecnologici. Attraverso dieci capitoli approfonditi, il lettore scoprirà le origini medievali degli occhiali, la loro diffusione nel Rinascimento e il ruolo fondamentale che hanno avuto nell’illuminismo e nella scienza. Si esploreranno i materiali e le tecniche artigianali che hanno plasmato montature e lenti, così come le rivoluzioni industriali che hanno reso gli occhiali accessibili a milioni di persone nel mondo. Il libro non si limita a raccontare il passato, ma si spinge fino ai giorni nostri, analizzando le trasformazioni imposte dall’era digitale, la nascita degli occhiali intelligenti, la realtà aumentata e le nuove frontiere della personalizzazione e della sostenibilità...",
+              "subject": [
+                "storia",
+                "tecnologia",
+                "occhiali"
+              ],
+              "creator": [
+                "Marc Vittorini"
+              ],
+              "collection": [
+                "booksbylanguage_italian",
+                "booksbylanguage"
+              ],
+              "language": [
+                "ita"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 1,
+              "item_size": 28087303,
+              "files_count": 15,
+              "downloads": 104,
+              "week": 0,
+              "month": 3,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2025-06-08T21:11:03Z",
+              "publicdate": "2025-06-08T21:11:03Z"
+            },
+            "highlight": null,
+            "_score": [
+              6078.8555
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "ilromanzodiferra0000bass_a6e5",
+              "title": "Il romanzo di Ferrara. Libro secondo, Gli occhiali d'oro",
+              "description": "115 p. ; 18 cm",
+              "subject": [
+                "Italian fiction -- 20th century"
+              ],
+              "creator": [
+                "Bassani, Giorgio"
+              ],
+              "collection": [
+                "internetarchivebooks",
+                "inlibrary"
+              ],
+              "date": "1980-01-01T00:00:00Z",
+              "year": 1980,
+              "language": [
+                "ita"
+              ],
+              "mediatype": "texts",
+              "num_favorites": 6,
+              "item_size": 366326819,
+              "files_count": 30,
+              "downloads": 190,
+              "week": 0,
+              "month": 2,
+              "indexflag": [
+                "index",
+                "nonoindex",
+                "scanned_by_ia"
+              ],
+              "lending___available_to_borrow": false,
+              "lending___available_to_browse": true,
+              "lending___available_to_waitlist": false,
+              "lending___status": "available_to_browse",
+              "addeddate": "2022-01-22T07:18:25Z",
+              "publicdate": "2022-01-19T05:32:47Z"
+            },
+            "highlight": null,
+            "_score": [
+              4378.0312
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "youtube-rFlNTwQS2VU",
+              "title": "La Zanzara 17.11.2014: Biancofiore e l'\"uvetite\" (webcam)",
+              "description": "Alla presentazione del libro di Michaela Biancofiore ha partecipato Silvio Berlusconi in persona, con tanto di occhiali neri per un acuirsi dell'uveite. Dalla diretta video de La Zanzara (Radio24) del 17 novembre 2014. Dal 5 ottobre 2015, i contenuti multimediali de La Zanzara sono disponibili sul sito ufficiale lazanzara.radio24.it Source: https://www.youtube.com/watch?v=rFlNTwQS2VU Uploader: La Zanzara (unofficial YT channel) Upload date: 2014-11-18",
+              "subject": [
+                "Youtube",
+                "video",
+                "News & Politics",
+                "Webcam (Computer Peripheral Class)",
+                "La Zanzara",
+                "Giuseppe Cruciani",
+                "David Parenzo",
+                "Radio 24",
+                "diretta video",
+                "Michaela Biancofiore",
+                "Silvio Berlusconi (Politician)",
+                "Forza Italia (Political Party)",
+                "uveite"
+              ],
+              "creator": [
+                "La Zanzara (unofficial YT channel)"
+              ],
+              "collection": [
+                "lazanzara",
+                "newsandpublicaffairs"
+              ],
+              "date": "2014-11-18T00:00:00Z",
+              "year": 2014,
+              "mediatype": "movies",
+              "item_size": 162686517,
+              "files_count": 31,
+              "downloads": 24,
+              "week": 0,
+              "month": 0,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2017-06-06T23:47:45Z",
+              "publicdate": "2017-06-06T23:47:45Z"
+            },
+            "highlight": null,
+            "_score": [
+              582.60986
+            ]
+          },
+          {
+            "index": "prod-n-001",
+            "service_backend": "metadata",
+            "hit_type": "item",
+            "fields": {
+              "identifier": "nichilismo2023",
+              "title": "Colonnello Simonetti Walter “ Kurtz” Le Brigate Rozze amano il sangue del Nichilismo",
+              "description": "Storie di Plagio ” Il sorriso del fratello numero 2 Simonett i” “La Storia si ripete sem pre due volte: la prima come tragedia, la seconda come farsa “ Karl Marx Questa opera nasce dalla fantasia di un Borderline in caduta libera, queste poesie evocano quella che è stata chiamata ucronia una narrazione secondo cui la storia è andat a diversamente. L’ ucronia è un modo per dire che siamo noi e non gli altri i responsabili della storia, per rivendicare il nostro protagonismo ed anche le nostre responsabilità e i nostri errori. E' un grido anarchico di libertà che si batte dentro e contr o l’Impero neo liberale post moderno, che oggi si impone con il plagio tardo mediatico tecnico democratico nazi(onal) populista. E la rete virtuale? È a volte viola di vergogna … Ogni riferimento a persone, cose e fatti è puramente casuale. Le opinioni e i giudizi espressi su persone, corpi militari, movimenti politici, istituzioni nazionali e religiose appartengono al protagonista e non allo scrittore,...",
+              "subject": [
+                "ucronia",
+                "segreto di stato",
+                "lobby frankista",
+                "brigate rozze",
+                "distopia"
+              ],
+              "collection": [
+                "booksbylanguage_italian",
+                "booksbylanguage"
+              ],
+              "language": [
+                "ita"
+              ],
+              "mediatype": "texts",
+              "licenseurl": "https://creativecommons.org/licenses/by-nd/4.0/",
+              "num_favorites": 3,
+              "item_size": 26670748,
+              "files_count": 15,
+              "downloads": 183,
+              "week": 1,
+              "month": 3,
+              "indexflag": [
+                "index",
+                "nonoindex"
+              ],
+              "addeddate": "2023-07-15T17:07:45Z",
+              "publicdate": "2023-07-15T17:07:45Z"
+            },
+            "highlight": null,
+            "_score": [
+              70.69495
+            ]
+          }
+        ]
+      },
+      "collection_titles": {
+        "newsandpublicaffairs": "News & Public Affairs",
+        "lazanzara": "La Zanzara",
+        "booksbylanguage": "Books by Language",
+        "booksbylanguage_italian": "Italian : Books by Language",
+        "internetarchivebooks": "Internet Archive Books"
+      }
+    },
+    "hit_schema": {
+      "item": {
+        "identifier": {
+          "multivalue": false,
+          "mapping": "string"
+        },
+        "noindex": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "optional": true
+        },
+        "title": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "description": {
+          "multivalue": false,
+          "mapping": "string",
+          "dressing": {
+            "truncate": 1000
+          },
+          "optional": true
+        },
+        "subject": {
+          "multivalue": true,
+          "mapping": "string",
+          "dressing": {
+            "truncate": 1000
+          },
+          "optional": true
+        },
+        "creator": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "collection": {
+          "multivalue": true,
+          "mapping": "string",
+          "comment": "may be a superset of metadata collection field"
+        },
+        "date": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "year": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed from date",
+          "optional": true
+        },
+        "genre": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "volume": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "type": {
+          "multivalue": false,
+          "mapping": "string",
+          "optional": true
+        },
+        "language": {
+          "multivalue": true,
+          "mapping": "string",
+          "optional": true
+        },
+        "mediatype": {
+          "multivalue": false,
+          "mapping": "string"
+        },
+        "licenseurl": {
+          "multivalue": false,
+          "mapping": "string__url",
+          "optional": true
+        },
+        "num_favorites": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true,
+          "comment": "computed during document construction"
+        },
+        "num_reviews": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true,
+          "comment": "computed during document construction"
+        },
+        "item_size": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "bytes; computed during document construction"
+        },
+        "files_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction"
+        },
+        "item_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction",
+          "optional": true
+        },
+        "displayed_item_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction, may be inferred from item_count",
+          "optional": true
+        },
+        "collection_files_count": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "computed during document construction, for collection items only",
+          "optional": true
+        },
+        "collection_size": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "bytes; computed during document construction, for collection items only",
+          "optional": true
+        },
+        "downloads": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "total views over item lifetime, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "week": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "views over a seven-day period, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "month": {
+          "multivalue": false,
+          "mapping": "integer",
+          "comment": "views over a month, updated by audit consultation with Views API",
+          "optional": true
+        },
+        "indexflag": {
+          "multivalue": true,
+          "mapping": "string",
+          "comment": "item characterization including noindex status"
+        },
+        "lending___available_to_borrow": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___available_to_browse": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___available_to_waitlist": {
+          "multivalue": false,
+          "mapping": "boolean",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "lending___status": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "may be stale",
+          "optional": true
+        },
+        "avg_rating": {
+          "multivalue": false,
+          "mapping": "integer",
+          "optional": true
+        },
+        "addeddate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "issue": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "format varies",
+          "optional": true
+        },
+        "source": {
+          "multivalue": false,
+          "mapping": "string",
+          "comment": "format varies",
+          "optional": true
+        },
+        "reviewdate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "publicdate": {
+          "multivalue": false,
+          "mapping": "date",
+          "optional": true
+        },
+        "date_favorited": {
+          "multivalue": false,
+          "mapping": "date",
+          "comment": "not metadata; only present in favorites lists, sourced from Lists API",
+          "optional": true
+        },
+        "reviews_data": {
+          "multivalue": true,
+          "dressing": {
+            "truncate": false
+          },
+          "mapping": "string",
+          "comment": "untruncated JSON encoded data used for Account reviews",
+          "optional": true
+        }
+      }
+    }
+  }
+}

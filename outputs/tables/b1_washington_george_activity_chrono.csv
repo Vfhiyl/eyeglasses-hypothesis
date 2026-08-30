@@ -1,0 +1,7 @@
+person_id,date,kind,note,source
+washington_george,1783-01-10,spectacle_commission_letter,"GW→Tilghman: sent sample lenses to Rittenhouse — 'Glass of such Spectacles as Suit my Eyes' for grinding crystals. Pre-onset commission (prior try-on of others' spectacles).",ARI masterpieces / Hektoen quoting GW Papers
+washington_george,1783-02-16,spectacle_self_report_letter,"GW→Rittenhouse Newburgh: thanks for Glasses; 'The Spectacles suit my Eyes extremely well'; Reading Glasses focus still learning but magnify distinctly. ONSET evidence_year=1783.",Founders Washington/99-01-02-10654; ARI Cincinnati MS
+washington_george,1783-03-15,spectacle_wear_eyewitness_newburgh,"Newburgh Address: GW puts on spectacles to read Jones letter; 'grown gray… growing blind' (Shaw→Eliot eyewitness). Living wear reaffirm ~1 month after onset.",Mount Vernon quote page; Shaw letter via ARI
+washington_george,1787-09-17,constitutional_convention_output,US Constitutional Convention signing / late political-textual activity post-wear.,standard chronology
+washington_george,1796-09-19,farewell_address_output,Farewell Address published 19 Sep 1796. Living major textual pin; years_after terminus (not death 1799).,standard chronology / GW Papers
+washington_george,1799-12-14,death_terminus_not_ya,Death 14 Dec 1799. Survival upper bound only — years_after uses 1796 Farewell (ya=13).,WD Q23

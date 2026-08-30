@@ -1,0 +1,4 @@
+person_id,year,event_type,source_ref,notes
+hesselin_denis,1474,purchase_lunettes_clouants,heymann1911_IA_b2486092x_comptes_paris_1473_74,"Paire de lunettes clouants for Prevot Denis Hasselin; already had non-riveted pair. Compte Jean Luillier."
+hesselin_denis,1500,city_receveur_office_end,pattou_lgn_hesselin,"Clerc & Receveur de la Ville de Paris 1474-1500 (Pattou)."
+hesselin_denis,1506,last_documented_office_receveur_aides,pattou_lgn_hesselin,"Receveur des Aides 1474-1506; death after 1506 — soft terminus. Soft years_after=32."

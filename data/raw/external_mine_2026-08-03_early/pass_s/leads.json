@@ -1,0 +1,48 @@
+{
+  "pass": "S",
+  "date": "2026-08-03",
+  "decision": "no_ingest",
+  "direction": "Burgundy primary densify + English household/Durham OA + Cleux death + Egidio/Magnia post-wear",
+  "early_stock_unchanged": {
+    "onsetish_n": 34,
+    "labor_delta_n": 28,
+    "labor_delta_median": -0.5
+  },
+  "seams": {
+    "prost_3240_besicles": {
+      "result": "Philippe le Hardi 1389-08-14 estuy — already rostered",
+      "decision": "SKIP duplicate"
+    },
+    "petit_dehaisnes": {
+      "result": "no lunettes; bericle=crystal/loupe inventory",
+      "decision": "dry"
+    },
+    "dijon_1403_platine_secondary": {
+      "result": "Heymann/Rouyer/Laborde only; no OA primary",
+      "decision": "HOLD"
+    },
+    "durham_account_rolls": {
+      "ids": ["extractsaccountr01surtuoft", "extractsaccountr02surtuoft", "extractsfromacco00durh"],
+      "result": "no living spectacle purchases",
+      "decision": "dry"
+    },
+    "norfolk_household_manners": {
+      "ids": ["cu31924027939861", "cu31924027939820"],
+      "result": "dry",
+      "decision": "dry"
+    },
+    "egidio_magnia_postwear": {
+      "result": "no OA identity/death/post-1488 pins",
+      "decision": "HOLD"
+    },
+    "cleux_infobretagne": {
+      "result": "Jean m.~1433 / maître d'hôtel ~1457; still NO death witness",
+      "decision": "HOLD"
+    },
+    "portugal_latone_filippa": {
+      "result": "reseller / loupe — EXCLUDE",
+      "decision": "EXCLUDE"
+    }
+  },
+  "new_cleux_bar_promote": null
+}

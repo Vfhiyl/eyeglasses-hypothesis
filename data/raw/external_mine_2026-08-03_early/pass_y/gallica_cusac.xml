@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<srw:searchRetrieveResponse xmlns="http://gallica.bnf.fr/namespaces/gallica/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <srw:version>1.2</srw:version>
+    <srw:echoedSearchRetrieveRequest>
+        <srw:query>dc.anywhere all "Thomas Cusac" or dc.anywhere all "Thomas Cufac"</srw:query>
+        <srw:version>1.2</srw:version>
+    </srw:echoedSearchRetrieveRequest>
+    <srw:diagnostics>
+        <diag:diagnostic>
+            <diag:details>There are no translation for the following key :dc.anywhere</diag:details>
+            <diag:message>There are no translation for the following key :dc.anywhere</diag:message>
+            <diag:uri>info:srw/diagnostic/1/8</diag:uri>
+        </diag:diagnostic>
+    </srw:diagnostics>
+</srw:searchRetrieveResponse>
