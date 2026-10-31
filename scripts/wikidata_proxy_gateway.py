@@ -9,8 +9,9 @@ CONNECT and SOCKS4/5), hunts when quality is low, and fails over within a
 per-request time budget. Clients always speak HTTP CONNECT to this gateway;
 SOCKS upstreams are wrapped transparently.
 
-Paid Evomi sessions are hardcoded in HARDCODED_PREMIUM_PROXIES (preferred by default).
-Extra URLs can still be passed with --premium.
+Paid Evomi sessions are read from the gitignored config/wikidata_premium.local.env
+(one PREMIUM_PROXY=<url> per line; env WIKIDATA_PREMIUM_PROXIES overrides) and
+preferred by default. Extra URLs can still be passed with --premium.
 
 Stability v4 (anti-MITM gate + CONNECT tunnel):
   - Hunter: active probe on query.wikidata.org (YE1 + SPARQL) → pool admission
@@ -38,6 +39,7 @@ from __future__ import annotations
 
 import argparse
 import hashlib
+import os
 import random
 import select
 import socket
@@ -50,7 +52,7 @@ from dataclasses import dataclass
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from _paths import OUTPUT_LOGS  # noqa: E402
+from _paths import CONFIG, OUTPUT_LOGS  # noqa: E402
 from _upstream_tunnel import open_upstream_tunnel, parse_upstream_spec  # noqa: E402
 from _wikidata_http import (  # noqa: E402
     peer_is_os_trusted_leaf,
@@ -66,11 +68,29 @@ from check_https_proxy_cert import (  # noqa: E402
 
 DEFAULT_LOG_FILE = OUTPUT_LOGS / "wikidata_proxy_gateway.log"
 
-# Evomi sticky sessions (host:port shared; password suffix = sticky exit).
-# Same host:port must stay distinct in the pool via session id in the key.
-HARDCODED_PREMIUM_PROXIES: tuple[str, ...] = (
-    # credentials removed from history; see config/wikidata_premium.local.env
-)
+# Paid upstreams (e.g. Evomi sticky sessions: host:port shared; password suffix =
+# sticky exit) live in the gitignored config/wikidata_premium.local.env, one
+# `PREMIUM_PROXY=<url>` per line. Env WIKIDATA_PREMIUM_PROXIES (whitespace- or
+# comma-separated) overrides the file. Never hardcode credentials here.
+PREMIUM_ENV_VAR = "WIKIDATA_PREMIUM_PROXIES"
+PREMIUM_LOCAL_FILE = CONFIG / "wikidata_premium.local.env"
+
+
+def load_local_premium_proxies(path: Path = PREMIUM_LOCAL_FILE) -> tuple[str, ...]:
+    env = os.environ.get(PREMIUM_ENV_VAR, "").strip()
+    if env:
+        return tuple(u for u in env.replace(",", " ").split() if u)
+    if not path.is_file():
+        return ()
+    urls: list[str] = []
+    for raw in path.read_text(encoding="utf-8").splitlines():
+        line = raw.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        key, val = line.split("=", 1)
+        if key.strip().upper() == "PREMIUM_PROXY" and val.strip():
+            urls.append(val.strip())
+    return tuple(urls)
 
 
 def _upstream_key(
@@ -1356,14 +1376,14 @@ def main() -> int:
         action="append",
         default=[],
         help=(
-            "extra paid upstream URL (repeatable), in addition to HARDCODED_PREMIUM_PROXIES. "
+            "extra paid upstream URL (repeatable), in addition to config/wikidata_premium.local.env. "
             "Formats: socks5://user:pass@host:port OR socks5://host:port:user:pass"
         ),
     )
     ap.add_argument(
         "--no-hardcoded-premium",
         action="store_true",
-        help="skip HARDCODED_PREMIUM_PROXIES (only --premium extras, if any)",
+        help="skip config/wikidata_premium.local.env (only --premium extras, if any)",
     )
     ap.add_argument(
         "--prefer-premium",
@@ -1409,7 +1429,15 @@ def main() -> int:
 
     premium_urls: list[str] = []
     if not args.no_hardcoded_premium:
-        premium_urls.extend(HARDCODED_PREMIUM_PROXIES)
+        local_premium = load_local_premium_proxies()
+        if not local_premium:
+            log(
+                "cfg",
+                f"no premium upstreams: {PREMIUM_LOCAL_FILE} missing/empty and "
+                f"{PREMIUM_ENV_VAR} unset (free pool only)",
+                force=True,
+            )
+        premium_urls.extend(local_premium)
     premium_urls.extend(args.premium)
     seen_prem: set[str] = set()
     n_seeded = 0
