@@ -1,0 +1,4 @@
+person_id,date,kind,note,source
+clerk_john_penicuik,1676-11-08,birth,Born 8 Nov 1676 (enwiki / SHS memoirs span 1676–1755). WD Q7527670 year-precision 1676.,Wikidata Q7527670 P569; enwiki Sir John Clerk 2nd Baronet
+clerk_john_penicuik,1735-01-01,self_report_wear,"Memoirs 1735 health paragraph: My Eyes began to fail at 48 years of Age. and then I scrupled not to make use of spectacles… I can read as well without them as with them. ONSET living pin 1735 (first use ~1724).",Gray ed. Memoirs of the life of Sir John Clerk of Penicuik (SHS 1892); IA memoirslifesirj01clergoog
+clerk_john_penicuik,1755-10-04,death_terminus_not_ya,Died 4 Oct 1755. Survival bound only — do not use as labor tip.,Wikidata Q7527670 P570

@@ -1,0 +1,4 @@
+person_id,date,kind,note,source
+shang_chongnian,1663,birth,Born 癸卯年三月二十九日亥时 / 1663. 尚氏宗谱 卷之四: 崇年字繩其號介軒夫人李氏所出，生于癸卯年三月二十九日亥時. Same page 康熙四十四年西巡 gift and 卒于己丑年 (1709) lock the 干支 cycle (brother 之盛 甲申/1644 副都统). No OA WD QID — do not invent one.,https://www.shidianguji.com/book/NGJ892411999002905109241/chapter/1lnjb3fvda81r
+shang_chongnian,1705,living_order_letter,尚氏宗谱 卷之四 (Shidianguji NGJ892411999002905109241 ch.1lnjb3fvda81r): 官陝西延安府葭州知州康熙四十四年聖駕西廵恩賜御製詩一卷眼鏡一個人參二兩. ONSET living one-pair imperial gift to the named 葭州知州. Pin 康熙四十四年 / 1705 as written on the OA page (not an invented 四十二年 correction). Do not count Kangxi. Do not count 之盛 or unnamed sisters.,https://www.shidianguji.com/book/NGJ892411999002905109241/chapter/1lnjb3fvda81r
+shang_chongnian,1709,death_terminus_not_ya,Died 己丑年七月初六日亥时 / 1709. 尚氏宗谱: 卒于已丑年七月初六日亥時. Survival bound only — do not use as labor tip.,https://www.shidianguji.com/book/NGJ892411999002905109241/chapter/1lnjb3fvda81r

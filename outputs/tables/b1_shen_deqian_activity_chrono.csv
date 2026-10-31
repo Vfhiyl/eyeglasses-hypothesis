@@ -1,0 +1,4 @@
+person_id,date,kind,note,source
+shen_deqian,1673,birth,Born 1673 (year precision). WD Q11138272. Do not invent a day from later biographies.,https://www.wikidata.org/wiki/Q11138272
+shen_deqian,1764,self_report_wear,"归愚诗钞余集 10 咏眼镜 (Shidianguji CADAL02102517 ch.1lco236ujs17t): 双瞳老去觉蒙屯聊借晶光引本真. Same juan 臣德潜蹉跌受伤…甲申冬蹉跌足几. Pin 乾隆甲申 / 1764 from that same-juan 甲申 winter, not death 1769. First-person living crystal wear for age-dimmed pupils.",https://www.shidianguji.com/book/CADAL02102517/chapter/1lco236ujs17t
+shen_deqian,1769,death_terminus_not_ya,Died 1769 (year precision). Survival bound only — do not use as labor tip.,WD Q11138272

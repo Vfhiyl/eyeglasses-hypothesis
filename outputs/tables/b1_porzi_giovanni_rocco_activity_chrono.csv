@@ -1,0 +1,4 @@
+person_id,date,kind,note,source
+porzi_giovanni_rocco,1448-01-01,portrait_desk_pin,"Bergamo MA 493 Sermones autograph 1447–48 fol. 9r: Lombard miniature of the author/copyist; round-bridge spectacles hang on the desk board. Soft onset 1448.",Ilardi App. III; Treccani DBI Porzi; UNIBG Sant'Agostino
+porzi_giovanni_rocco,1455-01-01,office_spiritual_father,"Tortona chapter 1455: appointed spiritual father of the Benedictine nuns of Monastero Maggiore Milan; continued to 1461. LABOR TIP years_after=7 from 1448.",Calvi 1669 / cassiciaco; Treccani DBI
+porzi_giovanni_rocco,1461-07-13,death_terminus_not_ya,Died Mantua 13 Jul 1461. Survival bound only — do not use as labor tip.,Treccani DBI; Calvi 1669

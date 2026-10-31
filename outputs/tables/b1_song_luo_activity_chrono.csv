@@ -1,0 +1,5 @@
+person_id,date,kind,note,source
+song_luo,1634-02-23,birth,Born 23 Feb 1634 Shangqiu. WD Q10947777 P569.,Wikidata Q10947777
+song_luo,1699,self_report_wear,"Kangxi 38 southern tour (Yingluan riji 1): 齒好麽？眼好麽？奏云：俱好。登下看文書，要用眼鏡. ONSET first-person need of spectacles for reading documents.",Song Luo Yingluan riji (Shidianguji CADAL02084818)
+song_luo,1703-02,gift_receipt_continuity,"Kangxi 42 Yingluan erji: 昨曾求眼鏡…即以所現佩者賜爾. Continuity living gift of Kangxi's own worn glass pair — not a new onset.",Song Luo Yingluan riji vol.2 (Shidianguji)
+song_luo,1713-09-16,death_terminus_not_ya,Died 16 Sept 1713. Survival bound only — do not use as labor tip.,Wikidata Q10947777 P570

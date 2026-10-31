@@ -1,0 +1,4 @@
+person_id,date,kind,note,source
+alessandro_bentivoglio,1493-01-01,portrait_wear_pin,"Costa 1493 Thyssen group portrait: Ilardi says lower-right member wears spectacles; museum IDs lower right as Alessandro holding the score. Soft onset 1493.",Ilardi App. III; Thyssen-Bornemisza; WD Q3609838
+alessandro_bentivoglio,1531-03-01,office_milan,"WD P39 office from 1 Mar 1531 (to 1532). LABOR TIP years_after=38 from 1493. Wikipedia also notes 1525 Milan governor — 1531 is the dated WD pin used.",Wikidata Q3609838 P39
+alessandro_bentivoglio,1532-01-01,death_terminus_not_ya,Died 1532. Survival bound only — do not use as labor tip.,Wikidata Q3609838 P570

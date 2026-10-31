@@ -1,0 +1,4 @@
+person_id,date,kind,note,source
+jo_jeongman,1656,birth,Born 1656. AKS people record. WD Q16183885 birth 1654 unused.,AKS PPL_6JOb_A1656_1_0012915
+jo_jeongman,1720,self_report_wear,"病眼能看細字文。賴玆雙鏡度朝曛…獨策衰年第一勳. ONSET first-person fine-character wear. 衰年 pin, not death 1739.",https://db.itkc.or.kr/m/dir/view?dataId=ITKC_MO_0947A_0020_010_1800&gubun=book&itemId=MO
+jo_jeongman,1739,death_terminus_not_ya,Died 1739. Survival bound only — do not use as labor tip.,AKS people record

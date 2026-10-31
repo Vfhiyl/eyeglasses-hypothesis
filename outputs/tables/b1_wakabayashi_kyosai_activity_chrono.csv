@@ -1,0 +1,4 @@
+person_id,date,kind,note,source
+wakabayashi_kyosai,1679,birth,"Born 1679. 先哲叢談續編 6: 寳永元年甲申…是時寛齋嵗二十六 → 1704 age 26 sui = 1679. Same as 延宝七年七月八日.",https://www.shidianguji.com/book/NDL778299/chapter/1mcrh9qvmbhny
+wakabayashi_kyosai,1718,eyewitness_wear,"先哲叢談續編 6: 有事詣綱齋，途中之人視以爲恠，寬齋却甚自得。又每行著眼鏡，戴圎笠，帶一長劔。寬齋嵗向四十，再移京師. ONSET third-party eyewitness of named living wear on the face. Pin 1718 from 嵗向四十. Do not count 淺見絅齋.",https://www.shidianguji.com/book/NDL778299/chapter/1mcrh9qvmbhny
+wakabayashi_kyosai,1723,death_terminus_not_ya,"Died 享保八年癸卯五月三日 / 1723, 嵗四十五. Survival bound only — do not use as labor tip. Do not override OA 享保八年 with Wikipedia/NDL 1732.",https://www.shidianguji.com/book/NDL778299/chapter/1mcrh9qvmbhny

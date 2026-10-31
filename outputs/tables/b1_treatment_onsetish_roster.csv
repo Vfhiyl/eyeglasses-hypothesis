@@ -8,12 +8,15 @@ piero_frate_fiesole,Frate Piero (Santa Maria del Fiore / donne di Lapo near Fies
 vangelista,Suora Vangelista,nun,,,1402,repair_purchase_convent,medium
 knut_bosson,"Knut Bosson (Natt och Dag), Bishop of Linköping",bishop_ruler_cleric,1360,1436,1415,third_party_letter_broken_spectacles_personal_use,high
 nicolas_de_baye,Nicolas de Baye (greffier du Parlement de Paris),parlement_greffier_clerk,1364,1419,1416,self_report_office_petition,high
+hu_ying,Hu Ying (胡濙),ming_minister,1375,1463,1430,living_order_letter,high
 cleux_jean,Jean de Cleux (Cleuz) seigneur de Cleuz,ducal_maitre_hotel_courtier,,,1433,gift_receipt_luxury,medium
 cusac_thomas,Thomas Cusac (Cufâc) chevalier Angloys,english_knight_ducal_guard,,,1433,gift_receipt_luxury,medium
 marzeliere_pierre,Pierre de la Marzelière (seigneur du Fretay),ducal_chamberlain_courtier,1390,1462,1433,gift_receipt_luxury,medium
 provost_alain,Alain Provost,ducal_court_recipient,,,1433,gift_receipt_luxury,medium
 joris_van_der_paele,Joris (Canon) van der Paele,canon_cleric,1370,1443,1436,portrait_spectacles_only,medium
 francesca_romana,Francesca Romana (Francesca Bussa dei Ponziani),preacher_saint,1384,1440,1440,canonization_witness_wear,high
+bokenham_osbern,Osbern Bokenham (Bokenam),friar_poet,1393,1464,1443,self_report_literary,high
+porzi_giovanni_rocco,Giovanni Rocco de' Porzi (Johannes Rocchus de Portis),augustinian_friar,1391,1461,1448,portrait_spectacles_only,medium
 rene_anjou,René of Anjou (René I),duke_ruler,1409,1480,1449,purchase_personal_use,high
 vitko_zuimovic,Vitko Zuimović (Zuimoviae),unknown_ragusan,,,1450,theft_complaint_ownership,medium
 ardingelli_bese,Bese di Giovanni Ardingelli,merchant,1408.0,1476.0,1451,account_book_ownership,high
@@ -22,6 +25,7 @@ cederni,Bartolomeo Cederni,bank_employee_clerk,1416.0,1482.0,1454,order_request_
 charles_orleans,Charles I Duke of Orléans,duke_ruler,1394,1465,1454,purchase_personal_use,high
 savonarola_michele,Michele Savonarola,physician,1385,1468,1455,portrait_spectacles_only,medium
 filelfo,Francesco Filelfo,humanist_scholar,1398.0,1481.0,1456,order_request_letter,high
+mielot_jean,Jean Miélot,scribe_translator,1420,1472,1456,portrait_spectacles_only,medium
 nuno_fernandes,Nuno Fernandes,portuguese_client,,,1459,export_order_named_recipient,medium
 gonzaga_ludovico,Ludovico III Gonzaga,marquis_ruler,1412.0,1478.0,1460,self_report_letter,high
 policastro,Iacobo de Policastro,castellan_military_administrator,1410.0,1478.0,1460,order_request_letter,high
@@ -48,9 +52,15 @@ hannus_gallo,Hannus Gallo (Cracow),merchant,,,1485,purchase_personal_use,medium
 egidio_piacenza,Fra Egidio da Piacenza,friar,1433,,1488,order_by_age_band,medium
 gabriel_friar_jerusalem,Fra Gabriel (Holy Sepulcher friar),friar,,,1488,order_by_age_band,medium
 jacopo_magnia_friar,Fra Iacopo della Magnia,friar,1423,,1488,order_by_age_band,medium
+alessandro_bentivoglio,Alessandro Bentivoglio,nobleman_courtier,1474,1532,1493,portrait_spectacles_only,medium
+wu_kuan,Wu Kuan (吴宽),ming_hanlin,1435,1504,1496,self_report_letter,high
+driebergen_jacob,Jacob van Driebergen (vice-dean of Sint Jan Utrecht),prelate_cleric,1436,1509,1502,portrait_spectacles_only,high
 rene_ii_lorraine,Rene II Duke of Lorraine,duke_ruler,1451,1508,1504,purchase_personal_use,high
+leontorius_conrad,Conrad Leontorius (Konrad Toeritz / Conrad of Leonberg),monk_scholar,1460,1511,1507,self_report_letter,high
 leo_x,Pope Leo X (Giovanni de Medici),pope_humanist_patron,1475.0,1521.0,1513,expense_accounts_and_reports,high
 pirckheimer,Willibald Pirckheimer,humanist_patrician,1470.0,1530.0,1520,physical_find_in_study,medium
+adelmann_bernhard,Bernhard Adelmann von Adelmannsfelden,humanist_scholar,1459,1523,1521,living_order_letter,high
+oecolampadius_johannes,Johannes Oecolampadius,humanist_scholar,1482,1531,1521,living_order_letter,high
 nigris_toma,"Toma Niger (Tommaso Niger), Bishop",bishop_prelate,1450,1531,1527,portrait_spectacles_only,medium
 wolsey,Thomas Wolsey,cardinal_statesman,1473.0,1530.0,1527,gift_receipt_luxury,high
 wyatt_henry,Henry Wyatt,treasurer_courtier,1460.0,1537.0,1527,gift_receipt_luxury,high
@@ -60,43 +70,210 @@ spinelli_benedetto,Benedetto di Guaspare Spinelli,merchant,1483,1547,1534,third_
 lotto,Lorenzo Lotto,painter,1480.0,1556.0,1540,account_book_wear,medium
 pedro_toledo,"Pedro Álvarez de Toledo y Zúñiga (Marqués de Villafranca), Viceroy of Naples",viceroy_ruler,1484,1553,1541,third_party_report_of_use,high
 albrecht_prussia,Albert Duke of Prussia (Albrecht von Brandenburg-Ansbach),duke_ruler,1490,1568,1542,order_request_letter_personal_use,high
+bembo_pietro,Pietro Bembo,cardinal_humanist,1470,1547,1545,self_report_letter,high
+granvelle_nicolas,Nicolas Perrenot de Granvelle,chancellor_statesman,1485,1550,1545,third_party_eyewitness_wear,high
 henry_viii,Henry VIII,king_ruler,1491.0,1547.0,1545,purchase_personal_use,high
 albertis_gaspare,Gaspare de Albertis,humanist_scholar,1480,1560,1547,portrait_spectacles_only,medium
 sansovino_jacopo,Jacopo Sansovino,woodcarver_artisan,1486,1570,1550,portrait_spectacles_only,medium
+ouchi_yoshitaka,Ouchi Yoshitaka (大内義隆),daimyo_ruler,1507,1551,1551,living_order_letter,medium
 maurolico_francesco,Francesco Maurolico,mathematician_abbot_humanist,1494.0,1575.0,1554,self_report_treatise,high
 andrea_da_pienza,Don Andrea da Pienza,friar,1490,,1555,theft_complaint_ownership,medium
 domenichi_ludovico,Lodovico (Ludovico) Domenichi,humanist_translator_editor_polygraph,1515,1564,1555,gift_receipt_for_study_writing,medium
 bening_simon,Simon Bening,painter_illuminator,1483,1561,1558,portrait_spectacles_only,medium
+granvelle_antoine,Antoine Perrenot de Granvelle,cardinal_statesman,1517,1586,1558,living_order_letter,high
 augustus_saxony,"Augustus, Elector of Saxony",duke_ruler,1526,1586,1560,purchase_personal_use,medium
 jacques_moser,Jacques Moser (Mouser / Jaques Moses?),spectacle_maker_artisan,1522,,1562,inquisition_self_statement_maker,medium
 borghini_vincenzo,Vincenzo Borghini,humanist_scholar,1515,1580,1570,portrait_spectacles_only,medium
+lin_dachun,Lin Dachun (林大春),ming_xuezheng,1523,1588,1573,third_party_eyewitness_wear,high
 dudley_robert_leicester,"Robert Dudley, Earl of Leicester",earl_ruler,1532,1588,1586,household_account_purchase_personal,high
 morales_ambrosio,Ambrosio de Morales,humanist_scholar,1513,1591,1590,portrait_spectacles_only,medium
+velasco_luis_hijo,"Luis de Velasco y Castilla, 1st Marquess of Salinas (the Younger)",viceroy_ruler,1534,1617,1590,portrait_spectacles_only,medium
 stonley_richard,Richard Stonley,exchequer_teller_diarist,1519,1600,1593,diary_purchase_self,high
+yamashina_tokitsune,Yamashina Tokitsune (山科言経),court_noble_physician,1543,1611,1593,living_order_letter,high
 morigia_paolo,Paolo Morigia,humanist_scholar,1525,1604,1596,portrait_spectacles_only,medium
 nino_de_guevara,Fernando Niño de Guevara,cardinal_prelate,1541,1609,1600,portrait_spectacles_only,medium
+lipsius_justus,Justus Lipsius,humanist_scholar,1547,1606,1602,living_order_letter,high
+rodrigues_jeronimo,Jeronimo Rodrigues of Cucanha (Lamego),jesuit_missionary,1551,1631,1605,self_report_letter,high
 vinta_belisario,"Belisario Vinta (di Francesco), Medici secretary of state",secretary_statesman,1542,1613,1610,gift_receipt_personal_use,medium
+cervantes_miguel,Miguel de Cervantes Saavedra,citizen_writer,1547,1616,1612,third_party_eyewitness_wear,high
+lope_de_vega,Lope de Vega Carpio,citizen_writer,1562,1635,1612,self_report_letter,high
+deng_zhimo,Deng Zhimo (邓志谟 / 景南 / 百拙生),ming_literary,,,1614,self_report_letter,high
 howard_william_naworth,Lord William Howard of Naworth,antiquary_noble,1563,1640,1617,household_account_purchase_personal,high
+tadeo_juan_eliseo,Juan Tadeo de San Eliseo (Juan Boldames Ibanez),carmelite_missionary,1574,1633,1620,third_party_eyewitness_wear,high
+gelves_diego,"Diego Carrillo de Mendoza y Pimentel, 1st Marquess of Gelves",duke_ruler,1560,1636,1621,portrait_spectacles_only,high
+zhang_yaofang,Zhang Yaofang (张耀芳 / 张燿芳),ming_literary,1574,1632,1627,third_party_eyewitness_wear,high
+chen_maoren,Chen Maoren (陈懋仁),ming_literary,,,1628,self_report_letter,high
+lou_jian,Lou Jian (娄坚),ming_literary,1567,1631,1628,living_order_letter,high
 august_brunswick_wolfenbuettel,"Augustus the Younger, Duke of Brunswick-Lüneburg (August der Jüngere)",duke_ruler,1579,1666,1630,order_request_letter_personal_use,high
 capivaccio_girolamo,Girolamo Capivaccio (Capodivacca),physician,1523,1589,1630,portrait_spectacles_only,medium
+qian_qianyi,Qian Qianyi (钱谦益),ming_literary,1582,1664,1630,self_report_letter,high
+xu_bo,Xu Bo (徐㶿 / Xu Xinggong),ming_literary,1563,1639,1630,self_report_letter,high
+wu_zongda,Wu Zongda (吴宗达 / 上于 / 青门 / 涣亭),ming_hanlin,1576,1636,1631,self_report_letter,high
 quevedo_francisco,Francisco de Quevedo,humanist_scholar,1580,1645,1632,portrait_spectacles_only,medium
+inigo_jones,Inigo Jones,architect_surveyor,1573,1652,1636,third_party_eyewitness_wear,high
 jeffreys_joyce,Joyce Jeffreys,moneylender_spinster,1575,1650,1639,household_account_personal_spectacles,high
+maximilian_bavaria,Maximilian I Elector of Bavaria,duke_ruler,1573,1651,1639,purchase_personal_use,high
+anethan_johann,Johann von Anethan (chancellor of Trier),chancellor_statesman,1594,1668,1642,living_order_letter,high
 bourchier_henry_bath,"Henry Bourchier, 5th Earl of Bath",earl_ruler,1587,1654,1647,household_account_purchase_personal,high
 voiture_vincent,Vincent Voiture,humanist_scholar,1597,1648,1647,self_report_letter_spectacles,high
+yi_haechang,Yi Haechang (李海昌 / 松坡 / 季夏),humanist_scholar,1599,1655,1650,self_report_letter,high
 herle_mrs,Mrs Herle (Bath household / Devon accounts),gentlewoman_letter_writer,,,1651,household_account_purchase_personal,medium
+hayashi_dokkosai,Hayashi Dokkōsai (林読耕斎 / 林靖 / 春徳),edo_confucian,1624,1661,1653,self_report_letter,high
+hu_shian,Hu Shi'an (胡世安 / 菊潭),qing_hanlin,1593,1663,1653,self_report_letter,high
+strauch_rudolf,Rudolf Strauch (Hofmeister to Earl Banier),tutor_hofmeister,,1681,1653,living_order_letter,high
+johann_friedrich_brunswick,Johann Friedrich Duke of Brunswick-Lüneburg (Calenberg),duke_ruler,1625,1679,1657,living_order_letter,high
+wolf_oberamtmann,Oberamtmann Wolf of Wolfenbüttel,court_steward,,,1657,living_order_letter,high
+davila_osorio_velada,"Antonio Pedro Sancho Dávila y Osorio, 4th Marquess of Velada",viceroy_ruler,1615,1689,1658,portrait_spectacles_only,high
+ishikawa_jozan,Ishikawa Jōzan (石川丈山 / 凹 / 嘉右衛門),edo_confucian,1583,1672,1659,self_report_letter,high
+chen_que,Chen Que (陈确),ming_literary,1604,1677,1660,self_report_letter,high
+song_jungil,Song Jun-gil (宋浚吉),humanist_scholar,1606,1672,1660,self_report_letter,
 steen_jan,Jan Steen,painter,1626,1679,1660,portrait_spectacles_only,medium
+zhou_rong,Zhou Rong (周容),qing_literary,1619,1679,1660,self_report_letter,high
 caetani_francesco,"Francesco Caetani, Duke of Sermoneta",duke_ruler,1594,1683,1661,portrait_spectacles_only,medium
+poppe_proviantverwalter,Poppe (Proviantverwalter at Wolfenbüttel),court_steward,,,1661,living_order_letter,high
+qian_chengzhi,Qian Chengzhi (钱澄之),ming_literary,1612,1693,1662,self_report_letter,high
+tongxian,Tongxian (释通贤 / 浮石),monk_scholar,1593,1667,1662,self_report_letter,high
+monconys_balthasar,Balthasar de Monconys,magistrate_traveller,1608,1665,1664,purchase_personal_use,high
+zhou_lianggong,Zhou Lianggong (周亮工 / 元亮 / 栎园),qing_literary,1612,1672,1664,self_report_letter,high
 pepys_samuel,Samuel Pepys,naval_administrator_diarist,1633,1703,1666,diary_purchase_and_use_self,high
+hayashi_gaho,Hayashi Gahō (林鵞峰 / 林春胜 / 林恕 / 向阳轩),edo_confucian,1618,1680,1667,self_report_letter,high
+weng_yi,Weng Yi (翁逸 / 祖石 / 月倩 / 元美),ming_literary,,,1669,third_party_eyewitness_wear,high
+solis_antonio,Antonio de Solís y Rivadeneyra,humanist_scholar,1610,1686,1670,portrait_spectacles_only,high
+xu_jie,Xu Jie (徐介 / 狷庵),qing_literary,1627,1698,1670,self_report_letter,high
+desmares_toussaint,Toussaint-Joseph-Guy Desmares (Père Desmares Oratorian),oratorian_preacher,1603,1687,1671,third_party_eyewitness_wear,high
 lynnet_william,William Lynnet,cleric_trinity_fellow,1623,1700,1672,self_report_letter_purchase,high
 dolci_carlo,Carlo Dolci,painter,1616,1686,1674,portrait_spectacles_only,medium
+fu_shan,Fu Shan (傅山),ming_literary,1607,1684,1675,self_report_letter,high
+willmann_michael,Michael Lukas Leopold Willmann,painter,1630,1706,1675,portrait_spectacles_only,medium
 wood_anthony,Anthony Wood,humanist_scholar,1632,1695,1675,diary_receipt_and_self_draft_letter,high
 jeake_samuel,Samuel Jeake the Younger,merchant,1652,1699,1676,household_account_purchase_personal,high
+cao_rong,Cao Rong (曹溶 / 秋岳 / 倦圃),qing_literary,1613,1685,1678,living_order_letter,high
+ding_zhuo,Ding Zhuo (丁倬),qing_literary,,,1678,self_report_letter,high
+dong_deqi,Dong Deqi (董德其 / 屺瞻),qing_literary,,,1678,self_report_letter,high
+yan_ermei,Yan Ermei (阎尔梅),ming_literary,1603,1679,1678,self_report_letter,high
+sim_yu,Sim Yu (沈攸 / 梧灘 / 仲美),humanist_scholar,1620,1688,1680,self_report_letter,high
+wen_kangyi,Wen Kangyi (文康裔 / 绳武 / 天台),qing_literary,,,1680,self_report_letter,high
+hooke_richard_halifax,Richard Hooke D.D. vicar of Halifax,vicar_cleric,1623,1688,1682,third_party_eyewitness_wear,high
+hanxiu_ruqian,Hanxiu Ruqian (憨休 / 如乾),qing_monk,,,1683,self_report_letter,high
+wu_nongxiang,Wu Nongxiang (吴农祥 / 庆百 / 星叟),qing_literary,1632,1708,1683,self_report_letter,high
+yu_sangun,Yu Sang-un (柳尙運),humanist_scholar,1636,1707,1683,self_report_letter,high
+tao_ji,Tao Ji (陶季 / 陶澂),qing_literary,1626,1699,1685,self_report_letter,high
+chao_kui,Chao Kui (超揆 / 同揆 / 轮庵 / 文果),qing_literary,,,1686,self_report_letter,high
+leeuwenhoek_antoni,Antoni van Leeuwenhoek,microscopist_naturalist,1632,1723,1687,self_report_letter,high
 giordano_luca,Luca Giordano,painter,1634,1705,1688,portrait_spectacles_only,medium
+foulis_john_ravelston,Sir John Foulis of Ravelston 1st Bt,baronet_landowner,1638,1707,1689,account_book_own_pair,high
+wu_sugong,Wu Sugong (吴肃公 / 雨若 / 晴岩 / 街南),qing_literary,1626,1699,1689,self_report_letter,high
+yi_hyeonil,Yi Hyeon-il (李玄逸),humanist_scholar,1627,1704,1689,self_report_letter,
+chen_shiyang,Chen Shiyang (陈世昹),qing_literary,,,1690,self_report_letter,high
+chu_renhuo,Chu Renhuo (褚人穫),qing_literary,1635,1704,1690,self_report_letter,high
+maintenon_francoise,Françoise d'Aubigné marquise de Maintenon,gentlewoman_letter_writer,1635,1719,1690,third_party_eyewitness_wear,high
+fan_fang,"Fan Fang (范芳 / 范方, 字令则, 如皋)",qing_literary,,,1691,self_report_letter,high
+jin_zhang,Jin Zhang (金张),qing_literary,1645,,1691,self_report_letter,high
+kong_shangren,Kong Shangren (孔尚任),qing_literary,1648,1718,1691,self_report_letter,high
+siguenza_carlos,Carlos de Sigüenza y Góngora,humanist_scholar,1645,1700,1692,third_party_eyewitness_wear,high
+lenclos_ninon,Anne Ninon de Lenclos,gentlewoman_letter_writer,1620,1705,1694,self_report_letter,high
+wu_chanshi,Wu Chanshi (吴阐思 / 道贤 / 澹斋),painter,1648,1709,1694,self_report_letter,high
+chen_gongyin,Chen Gongyin (陈恭尹),qing_literary,1631,1700,1695,self_report_letter,high
+wei_kun,Wei Kun (魏坤 / 禹平 / 水村),qing_poet,1646,1705,1695,self_report_letter,high
+yi_yujang,Yi Yu-jang (李惟樟),humanist_scholar,1625,1701,1695,self_report_letter,high
+cao_yin,Cao Yin (曹寅),qing_literary,1658,1712,1698,self_report_letter,high
+xian_zhu,Xian Zhu (先著),qing_literary,1651,,1698,self_report_letter,high
+song_luo,Song Luo,provincial_governor,1634,1713,1699,self_report_letter,high
+wang_tingcan,Wang Tingcan (王廷灿 / 似斋),qing_literary,1652,1720,1699,self_report_letter,high
+gao_shiqi,Gao Shiqi (高士奇 / 澹人 / 江村),qing_hanlin,1645,1703,1700,living_order_letter,high
+shen_andeng,Shen Andeng (沈岸登),qing_literary,1650,1702,1700,self_report_letter,high
+yi_seou,Yi Sŏu (李瑞雨),humanist_scholar,1633,1709,1700,self_report_letter,high
+ito_jinsai,Itō Jinsai (伊藤仁斎 / 維楨 / 源佐),edo_confucian,1627,1705,1702,self_report_letter,high
+tang_sunhua,Tang Sunhua (唐孙华 / 东江),qing_literary,1634,1723,1702,self_report_letter,high
+xu_yuzhen,Xu Yuzhen (徐豫贞),qing_literary,1642,,1702,self_report_letter,high
+he_zhuo,He Zhuo (何焯 / 屺瞻 / 茶仙 / 义门),qing_hanlin,1661,1722,1703,living_order_letter,high
+jiang_cao_shi,Jiang mother nee Cao (蒋文肃母曹氏),widow,1644,1726,1703,living_order_letter,high
+kangxi_xuanye,Kangxi Emperor (Aisin Gioro Xuanye),emperor_ruler,1654,1722,1703,third_party_eyewitness_wear,high
+liu_dexin,Liu Dexin (刘德新 / 裕公 / 开原),qing_local_official,1647,,1703,living_order_letter,high
+sun_yueban,Sun Yueban (孙岳颁),qing_hanlin,1639,1708,1703,living_order_letter,high
+yang_xuan,Yang Xuan (杨瑄),qing_hanlin,1658,1726,1703,self_report_letter,high
+zha_shenxing,Zha Shenxing (查慎行),qing_hanlin,1650,1727,1703,self_report_letter,high
+flamsteed_john,John Flamsteed,astronomer_royal,1646,1719,1705,self_report_letter,high
+shang_chongnian,Shang Chongnian (尚崇年 / 绳其 / 介轩),qing_local_official,1663,1709,1705,living_order_letter,high
+song_he,Song He (宋和 / 歙州),qing_literary,1657,,1706,self_report_letter,high
+liu_fang,Liu Fang (刘坊 / 刘琅 / 鳌石),qing_literary,1658,1713,1707,living_order_letter,high
+zhang_boxing,Zhang Boxing (张伯行 / 孝先 / 清恪),provincial_governor,1651,1725,1707,living_order_letter,high
+zhao_shenqiao,Zhao Shenqiao (赵申乔 / 慎旃 / 恭毅),provincial_governor,1644,1720,1707,living_order_letter,high
+yi_cheon,Yi Cheon (李梴 / 伯脩),humanist_scholar,1646,1710,1709,third_party_eyewitness_wear,high
+smith_william_melsonby,William Smith of Melsonby,humanist_scholar,1653,1735,1710,self_report_letter,high
+wei_litong,Wei Litong (魏荔彤),qing_literary,1670,,1710,self_report_letter,high
+bian_ruyuan,Bian Ruyuan (边汝元),qing_literary,1653,1715,1713,self_report_letter,high
+hua_huanfang,Hua Huanfang (华浣芳),qing_literary,1695,1717,1713,self_report_letter,high
+li_guangdi,Li Guangdi (李光地),humanist_scholar,1642,1718,1713,third_party_eyewitness_wear,high
+fenelon_francois,François de Salignac de La Mothe-Fénelon,bishop_prelate,1651,1715,1714,self_report_letter,high
+yu_myeongung,Yu Myeong-ung (俞命雄),humanist_scholar,1653,1721,1715,third_party_eyewitness_wear,high
+baillie_grisell,Lady Grizel Baillie (née Hume),gentlewoman_letter_writer,1665,1746,1716,account_book_own_pair,high
+villeroy_francois,François de Neufville duc de Villeroy,duke_ruler,1644,1730,1716,third_party_eyewitness_wear,high
+yi_sun_sukjong,Sukjong of Joseon (Yi Sun / 李焞),king_ruler,1661,1720,1716,self_report_letter,
+huang_zhaochang,Huang Zhaochang (黄兆长 / 体仁 / 心竺 / 德修),qing_literary,1647,1718,1717,third_party_eyewitness_wear,high
+wakabayashi_kyosai,Wakabayashi Kyōsai (若林強斎 / 若林寬齋 / 進居 / 新七),edo_confucian,1679,1723,1718,third_party_eyewitness_wear,high
+lin_ji,Lin Ji (林佶 / 吉人 / 鹿原),qing_literary,1660,,1719,self_report_letter,high
+wang_zunyi,Wang Zunyi (王遵扆 / 箴六 / 秋涯),qing_hanlin,1668,1734,1719,self_report_letter,high
 folkes_martin,Martin Folkes,humanist_scholar,1690,1754,1720,portrait_spectacles_only,medium
+jo_jeongman,Jo Jeong-man (趙正萬),humanist_scholar,1656,1739,1720,self_report_letter,high
+li_fu,Li Fu (李绂 / 巨来 / 穆堂),qing_literary,1675,1750,1721,self_report_letter,high
+tian_mai,Tian Mai (田霡 / 子益 / 香城居士),qing_literary,1653,1730,1721,self_report_letter,high
+yi_imyeong,Yi Imyeong (李頤命 / 智仁 / 養叔 / 疎齋),humanist_scholar,1658,1722,1721,self_report_letter,high
+yi_jeongsin,Yi Jeongsin (李正臣 / 櫟翁 / 邦彦),humanist_scholar,1660,1727,1721,self_report_letter,high
 blundell_nicholas,Nicholas Blundell,antiquary_noble,1669,1737,1722,self_report_diary_spectacles,high
+wenzhao,Aisin Gioro Wenzhao (文昭),qing_literary,1680,1732,1722,self_report_letter,high
+huang_shulin,Huang Shulin (黄叔琳),provincial_governor,1672,1756,1723,living_order_letter,high
+huang_zhijun,Huang Zhijun (黄之隽 / 石牧 / 𢈪堂),qing_literary,1668,1748,1723,self_report_letter,high
+gao_qizhuo,Gao Qizhuo (高其倬 / 章之 / 芙沼),provincial_governor,1676,1738,1724,living_order_letter,high
+kong_yuxun,Kong Yuxun,provincial_governor,1665,1730,1724,self_report_letter,high
+tian_wenjing,Tian Wenjing,provincial_governor,1662,1732,1724,self_report_letter,high
+yi_jae,Yi Jae (李栽),humanist_scholar,1657,1730,1724,self_report_letter,
+wang_shu,Wang Shu (王澍 / 若林 / 虚舟),qing_hanlin,1668,1743,1726,self_report_letter,high
+yuan_dong,Yuan Dong (袁栋),qing_literary,1697,1761,1726,self_report_letter,high
+gao_qipei,Gao Qipei (高其佩 / 韋之 / 且園),qing_painter,1660,1734,1728,third_party_eyewitness_wear,high
+qin_shichang,Qin Shichang (秦時昌 / 枚諤 / 雪二),qing_literary,1679,1746,1728,self_report_letter,high
+yinzhen_yongzheng,Yongzheng Emperor (Aisin Gioro Yinzhen),emperor_ruler,1678,1735,1729,self_report_letter,high
+yi_ik,Yi Ik (李瀷 / 星湖),humanist_scholar,1681,1763,1731,self_report_letter,high
+bak_gyumun,Bak Gyumun (朴奎文 / 文瑞 / 窮窩),humanist_scholar,1670,1741,1732,self_report_letter,high
+bao_zhen,Bao Zhen (鲍鉁 / 冠亭 / 西冈 / 辛浦),qing_literary,1690,,1732,self_report_letter,high
+ji_zengyun,Ji Zengyun,river_governor_official,1670,1739,1733,self_report_letter,high
+chae_jihong,Chae Ji-hong (蔡之洪),humanist_scholar,1683,1741,1735,self_report_letter,high
+clerk_john_penicuik,Sir John Clerk of Penicuik 2nd Bt,antiquary_noble,1676,1755,1735,self_report_memoir,high
+gwon_man,Gwon Man (權萬),humanist_scholar,1688,1749,1735,self_report_letter,high
+kang_bak,Kang Bak (姜樸),humanist_scholar,1690,1742,1735,self_report_letter,high
+yunli,Yunli (允礼 / 胤礼 / 果亲王 / 春和堂),qing_prince,1697,1738,1735,self_report_letter,high
+zhang_tingyu,Zhang Tingyu (张廷玉),qing_hanlin,1672,1755,1735,living_order_letter,high
+luo_tianchi,Luo Tianchi (罗天尺 / 履先 / 石湖),qing_literary,1686,,1736,self_report_letter,high
+wang_cairen,Wang Cairen (王材任 / 澹人 / 西涧),qing_literary,1653,1739,1738,self_report_letter,high
+graffigny,Françoise de Graffigny,gentlewoman_letter_writer,1695,1758,1739,self_report_letter,high
+kim_seongtak,Kim Seong-tak (金聖鐸),humanist_scholar,1684,1747,1739,self_report_letter,high
+wu_zhuang,Wu Zhuang (吴庄 / 吴定璋 / 友篁 / 半园),qing_literary,1680,,1739,self_report_letter,high
+zhao_yu,Zhao Yu (赵昱 / 殿昂 / 功千 / 谷林),qing_literary,1689,1747,1739,self_report_letter,high
+watts_isaac,Isaac Watts,vicar_cleric,1674,1748,1740,self_report_letter,high
+yao_peiqian,Yao Peiqian (姚培谦 / 平山 / 鲈香),qing_literary,1693,1766,1740,living_order_letter,high
+chen_zi,Chen Zi (陈梓),qing_literary,1683,1759,1742,self_report_letter,high
+han_wonjin,Han Wonjin (韩元震 / 南塘),humanist_scholar,1682,1751,1742,self_report_letter,high
+seo_jonggeup,Seo Jong-geup (徐宗伋),humanist_scholar,1688,1762,1744,self_report_letter,high
+feijoo_benito,Benito Jeronimo Feijoo y Montenegro,benedictine_scholar,1676,1764,1745,self_report_letter,high
+jo_myeongri,Jo Myeong-ri (趙明履),humanist_scholar,1697,1756,1746,self_report_letter,high
+qiao_yujiong,Qiao Yujiong (乔於泂 / 乔于泂 / 休斋),qing_literary,1678,,1746,self_report_letter,high
+won_gyeongha,Won Gyeong-ha (元景夏),humanist_scholar,1698,1761,1746,self_report_letter,
+liang_wenlian,Liang Wenlian (梁文濂 / 谿父 / 次周),qing_literary,1672,1758,1747,living_order_letter,high
+ji_maiyi,Ji Maiyi (纪迈宜 / 偲亭),qing_literary,1678,,1748,self_report_letter,high
+jo_yeongseok,Jo Yeong-seok (趙榮祏),painter,1686,1761,1748,self_report_letter,
+fu_zeng,Fu Zeng (符曾 / 幼鲁 / 药林 / 春凫),qing_literary,1688,1764,1749,self_report_letter,high
+sim_jo,Sim Jo (沈潮),humanist_scholar,1694,1756,1750,self_report_letter,high
+yeongjo_yi_geum,Yeongjo of Joseon (Yi Geum / 李昑),king_ruler,1694,1776,1752,self_report_letter,
+yi_cheonbo,Yi Cheon-bo (李天輔),humanist_scholar,1698,1761,1752,self_report_letter,
+jeong_seon,Jeong Seon (鄭敾),painter,1676,1759,1754,third_party_eyewitness_wear,
 akin_frances,Frances Akin,widow,,,1756,parish_relief_purchase,medium
+bian_lianbao,Bian Lianbao (边连宝 / 肇畛 / 赵珍 / 随园),qing_literary,1699,1772,1758,living_order_letter,high
 jackson_ralph,Ralph Jackson,merchant,1736,1790,1760,household_account_purchase_personal,high
 tye_thomas,Thomas Tye,merchant,1713,1783,1761,household_account_purchase_personal,high
+yi_bohyeok,Yi Bohyeok (李普赫 / 聲遠 / 仁平君),humanist_scholar,1684,1762,1761,third_party_eyewitness_wear,high
+stukeley_william,William Stukeley,antiquary_cleric,1687,1765,1763,self_report_memoir,high
+shen_deqian,Shen Deqian (沈德潜 / 确士 / 归愚),qing_literary,1673,1769,1764,self_report_letter,high
+yi_cheolbo,Yi Cheolbo (李喆輔 / 保叔 / 止庵),humanist_scholar,1691,,1765,third_party_eyewitness_wear,high
 richardson_richard_jr,Richard Richardson the younger (Bierley),humanist_scholar,1708,1781,1774,self_report_letter_spectacle_commission,high
 chardin_jean_simeon,Jean-Baptiste-Siméon Chardin,painter,1699,1779,1775,portrait_spectacles_only,medium
 adams_john,John Adams,humanist_scholar,1735,1826,1783,self_report_letter_spectacles,high

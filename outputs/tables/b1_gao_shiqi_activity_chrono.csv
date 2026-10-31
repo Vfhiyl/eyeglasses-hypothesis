@@ -1,0 +1,4 @@
+person_id,date,kind,note,source
+gao_shiqi,1645,birth,Born 顺治二年九月初八 / 1645. 高澹人行述: 府君生於順治二年九月初八日卯時. WD Q15942627.,https://www.wikidata.org/wiki/Q15942627
+gao_shiqi,1700,living_order_letter,高澹人行述 (Shidianguji NCL02787A ch.1lyn6evce74fm): 庚辰四月賜鹿肉條…八月賜人參眼鏡烏喇魚等物. ONSET living imperial pair in a Kangxi gift-list to 府君. Pin 康熙庚辰八月 / 1700 (己卯→庚辰→辛巳→壬午 sequence). Do not use 御製眼鏡腿鉤分製硯說長卷 (a calligraphy scroll, not a pair). Do not count Kangxi or compilers 高輿/張茂滋/張宗仁.,https://www.shidianguji.com/book/NCL02787A/chapter/1lyn6evce74fm
+gao_shiqi,1703,death_terminus_not_ya,Died 康熙四十二年六月三十 / 1703. 高澹人行述: 卒於康熙四十二年六月三十日午時享年五十有九. Survival bound only — do not use as labor tip.,https://www.shidianguji.com/book/NCL02787A/chapter/1lyn6evce74fm

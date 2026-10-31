@@ -1,0 +1,4 @@
+person_id,date,kind,note,source
+gwon_man,1688,birth,Born 1688. 江左集 / Korean literary biography. No OA WD QID.,江左集 author headnote
+gwon_man,1735,self_report_wear,"獨卧: 老去看書須眼鏡。年來涉世剪心燈. ONSET first-person old-age reading wear. 老去 pin, not death 1749.",https://db.itkc.or.kr/m/dir/view?dataId=ITKC_MO_0501A_0030_010_0540&gubun=book&itemId=MO
+gwon_man,1749,death_terminus_not_ya,Died 1749. Survival bound only — do not use as labor tip.,江左集 / Korean literary biography

@@ -1,15 +1,17 @@
-# Policastro 1460 soft order — R1 method
+# Policastro 1460 order — R1 method
 
-**Verdict:** `SOFT_ORDER` (portfolio mid-tier; not strict-sharp)
+**Verdict:** `ANALYZABLE_NOW` (Wave 27 lift; Datini-class order + FROM-him admin letters)
 
 ## Anchor
-- **1460** order_request letter (Ilardi); Sforza castellan milieu.
+- **1460-12-12** FROM-him order: *uno paro ne voglio per mi* (Ilardi 2007 ch.3 n.34; ASM Pavia cart.757 / Covini).
+- Repeat request **1461-02-03**.
 
 ## Work stream
-- `b1_policastro_activity_chrono.csv` (n=33 pre+post; tip 1478, ya≈17).
+- `b1_policastro_activity_chrono.csv` FROM-him / ochiali letters.
+- Yearly rates: `b1_policastro_fromhim_letter_rates.csv`.
 
 ## First pass
-Dense regest activity; continuity after order. Rates N/A (office proxies).
+FROM-him letters: pre-1460 n=2; 1460 n=2 (Oct admin + Dec 12 ochiali order); post n=17 through 1468 (dense 1461–64). Continuity after the order.
 
 ## Limitations
-Order letter not local fulltext; Santoro still blocked; regest ≠ autograph near-work.
+Belloni 1997 regesti (many not OA fulltext). Stream is castellan admin missives, not scholar letter-hours. Order letter fulltext still Ilardi/Covini.

@@ -1,0 +1,4 @@
+person_id,date,kind,note,source
+dingley_rebecca,1666-01-01,birth,Born c.1666 (Williams 2013 Journal to Stella: approximately 1666–1743; LBT 1665 c.). Year-precision only.,Williams ed. 2013; LBT ReDingl1743; DNB s.v. Esther Johnson
+dingley_rebecca,1710-11-13,gift_receipt,"Swift at Ludgate bespoke spectacles for Dingley (Journal 14 Nov: yesterday; 15 Nov: Dingley's glasses; 22 Nov: paid 9s — spectacles 2s + reading glass 4s + Bishop's case 3s). ONSET living pin 1710.",Journal to Stella 14–15 and 22 Nov 1710 (Gutenberg / Williams 2013)
+dingley_rebecca,1743-01-01,death_terminus_not_ya,Died 1743. Survival bound only — do not use as labor tip.,Williams 2013; LBT ReDingl1743

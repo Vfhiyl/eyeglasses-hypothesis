@@ -1,0 +1,4 @@
+person_id,date,kind,note,source
+fu_zeng,1688,birth,Born 1688 (year precision). WD Q45575340. Do not invent a day from later biographies.,https://www.wikidata.org/wiki/Q45575340
+fu_zeng,1749,self_report_wear,"春凫小稿 8 咏眼镜 (Shidianguji NGJ892411999032311230249 ch.1lqfrrqjbsufe): 双瞳复见光华从此昏翳磨净…老去花看非雾. Juan 8 header 巳巳 after juan 7 戊辰. Pin 乾隆己巳 / 1749 from that juan header, not death 1764. First-person living wear restoring age-dimmed pupils.",https://www.shidianguji.com/book/NGJ892411999032311230249/chapter/1lqfrrqjbsufe
+fu_zeng,1764,death_terminus_not_ya,Died 1764 (year precision). Survival bound only — do not use as labor tip.,WD Q45575340

@@ -1,0 +1,4 @@
+person_id,date,kind,note,source
+savonarola_michele,1455-01-01,portrait_wear_pin,Anonymous Portrait of Michele Savonarola 1455 Archiginnasio Bologna: wears glasses while reading. Soft onset. Correct QID Q3310841.,Ilardi 2007 Appendix III Fig. 38
+savonarola_michele,1460-01-01,dated_treatise,"Ad mulieres ferrarienses de regimine pregnantium (Mother's Manual for the Women of Ferrara). Scholarly consensus composition around 1460 / shortly before 1460. LABOR TIP years_after=5 from 1455.",Zuccolin / Marafioti ed.; Simonetti ~1460
+savonarola_michele,1468-01-01,death_terminus_not_ya,Died Ferrara 1468 (sometimes given after 1461). Survival bound only — do not use as labor tip. Do not use 1485–87 posthumous prints.,Wikidata Q3310841 P570

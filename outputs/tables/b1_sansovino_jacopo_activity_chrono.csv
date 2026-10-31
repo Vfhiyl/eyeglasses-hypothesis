@@ -1,0 +1,5 @@
+person_id,date,kind,note,source
+sansovino_jacopo,1550-01-01,self_portrait_sculpture_pin,"Heymann: marble Presentation at the Temple, SS Giovanni e Paolo Venice — Sansovino represented himself in the figure wearing besicles. Soft onset of the relief pin.",Heymann 1911; local OCR heymann_b2486092x_djvu.txt ~3930 and ~5156
+sansovino_jacopo,1554-01-01,dated_building,Fabbriche Nuove di Rialto begun 1554 while proto of San Marco.,en.wikipedia Jacopo Sansovino / Fabbriche Nuove
+sansovino_jacopo,1558-01-01,dated_building,Scala d'Oro in the Doge's Palace completed 1555–58. LABOR TIP years_after=8 from 1550.,en.wikipedia Scala d'Oro
+sansovino_jacopo,1570-11-27,death_terminus_not_ya,Died 27 Nov 1570. Survival bound only — do not use as labor tip.,Wikidata Q202267 P570

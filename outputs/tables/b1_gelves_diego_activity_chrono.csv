@@ -1,0 +1,5 @@
+person_id,date,kind,note,source
+gelves_diego,1560-01-01,birth,Born c.1560 Valladolid (WD also has a 1590 year-claim; both <1700).,Wikidata Q2346004 P569; es.wiki
+gelves_diego,1621-01-01,portrait_wear_pin,"Official viceregal portrait: wears round spectacles and holds a folded paper. Soft onset 1621 (in office from Sept 1621).",MNH Salón de Virreyes; Commons File:DiegoCarrillodeMendoza.jpg; Uniandes/Rodríguez Moya 2003 dates the anonymous oil 1621 and lists Gafas
+gelves_diego,1624-01-15,dated_office_act,Still acting viceroy at the Mexico City tumult / Pérez de la Serna interdict. LABOR TIP years_after=3 from 1621.,Standard 1624 tumult narrative; 1627 royal pardon names the viceroy
+gelves_diego,1636-01-01,death_terminus_not_ya,Died 1636 Madrid (WD also has a 1631 year-claim). Survival bound only — do not use as labor tip.,Wikidata Q2346004 P570; es.wiki

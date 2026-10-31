@@ -1,0 +1,4 @@
+person_id,date,kind,note,source
+borghini_vincenzo,1570-01-01,portrait_desk_pin,"Poppi portrait at age 55 (Karlsruhe): spectacles on the table in front of him. Soft onset. Correct QID Q1459953.",Ilardi 2007 Appendix III
+borghini_vincenzo,1575-01-01,studiolo_programme,"Devised the iconography for Francesco I de' Medici's Studiolo (1570–75). LABOR TIP years_after=5 from 1570.",Ilardi 2007 Appendix III; en.wikipedia Studiolo of Francesco I
+borghini_vincenzo,1580-01-01,death_terminus_not_ya,Died 1580. Survival bound only — do not use as labor tip.,Wikidata Q1459953 P570

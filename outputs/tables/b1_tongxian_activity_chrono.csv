@@ -1,0 +1,4 @@
+person_id,date,kind,note,source
+tongxian,1593,birth,Born 明万历二十一年 / 1593 from 五灯全书 67: 康熙丁未七月二十五阅世七十五. DILA A012052. Do not invent a Wikidata QID.,五灯全书 67; https://authority.dila.edu.tw/person/?aid=A012052
+tongxian,1662,self_report_wear,浮石禅师语录 10 题眼镜 (Shidianguji JS1867 ch.1m6mn7swtg65y; 康熙元年壬寅刊本): 老眼昏花无可商幸逢一物出西洋…拈针不假求穿线运笔何忧写隔行助我临轩翻细字好将钿匣自珍藏. ONSET first-person Western pair for 细字 and 运笔. Pin from the 康熙元年 print terminus. Do not count editor 行浚.,https://www.shidianguji.com/book/JS1867/chapter/1m6mn7swtg65y
+tongxian,1667,death_terminus_not_ya,Died 康熙六年七月二十五 / 1667. Survival bound only — do not use as labor tip.,五灯全书 67

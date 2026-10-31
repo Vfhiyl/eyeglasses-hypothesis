@@ -1,0 +1,4 @@
+person_id,date,kind,note,source
+pitti_miniato,1544-01-01,portrait_desk_pin,Ilardi App. III: Vasari fresco in Olivetan Naples sacristy corridor — Miniato Pitti holds eyeglasses in left hand. Soft onset of the portrait pin.,Ilardi 2007 Appendix III
+pitti_miniato,1558-01-01,dated_instrument,"Signed altitude sundial / horary quadrant, Florence 1558, Oxford MHS inv. 44865. LABOR TIP years_after=14 from 1544.",Museum of the History of Science Oxford; Epact MakerID=90
+pitti_miniato,1566-01-01,death_terminus_not_ya,Died 1566. Survival bound only — do not use as labor tip. Danti bought his instruments after death (Rosen 2003).,it.wikipedia Miniato Pitti; Rosen Nuncius 2003

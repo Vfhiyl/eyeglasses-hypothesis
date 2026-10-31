@@ -1,0 +1,3 @@
+person_id,date,kind,note,source
+qiao_yujiong,1678,birth,"Born 1678 (year precision). Locked from 思居堂集 庚午初度自寿二首: 不意吾年七十三 (Shidianguji CADAL02036605 ch.1l35r045cx0df). 庚午=乾隆十五年/1750 age 73 sui → 1678. WD Q45660558 P569=1678. Do not invent a day.",https://www.wikidata.org/wiki/Q45660558
+qiao_yujiong,1746,self_report_wear,"思居堂集 春日漫成二首 (Shidianguji CADAL02036605 ch.1l35r0atxl4pv): 茅椽土壁堪容膝一案横窗朗照书老眼近来须叆叇壮年容易失居诸垂帘架上翻今古积卷窗前辨鲁鱼除却批吟更无事. Same 七言律 sequence: 倏然五十九中秋 (1736 from birth 1678) then 哭马次吕 note 乙丑冬 (1745) then this 春日. Pin 1746 from that spring after 乙丑, not an unlocked death. ONSET first-person living wear for 照书 / 翻今古 / 辨鲁鱼 / 批吟.",https://www.shidianguji.com/book/CADAL02036605/chapter/1l35r0atxl4pv

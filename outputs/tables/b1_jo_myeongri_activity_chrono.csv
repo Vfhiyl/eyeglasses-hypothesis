@@ -1,0 +1,4 @@
+person_id,date,kind,note,source
+jo_myeongri,1697,birth,Born 1697. WD Q81226630 P569 year. Death 1756 from AKS/Wikipedia — original WAVE27 lock.,https://www.wikidata.org/wiki/Q81226630
+jo_myeongri,1746,self_report_wear,SJW Yeongjo 22.6.5: 承旨亦用之耶? 明履曰，臣亦用之，而雖終日看曆，眼不昏矣. ONSET first-person calendar reading wear.,https://sjw.history.go.kr/id/SJW-F22060050
+jo_myeongri,1756,death_terminus_not_ya,Died 1756. Survival bound only — do not use as labor tip.,AKS EXM_MN_6JOc_1731_008663

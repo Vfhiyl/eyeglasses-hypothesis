@@ -1,0 +1,3 @@
+person_id,date,kind,note,source
+henry_viii,1545-01-01,spectacle_purchase,Fryer 1994 / Ilardi: personal-use spectacle purchase 1545 (onset; not the death-inventory path).,Starkey Inventory of Henry VIII 1998; Ilardi 2007 ch.4; Fryer 1994
+henry_viii,1547-01-28,death_terminus_not_ya,Died 28 Jan 1547. Soft-stock SHORT_WINDOW already noted; death is not a labor tip. SOFT_ORDER uses the 1545 purchase.,Wikidata Q38370 P570

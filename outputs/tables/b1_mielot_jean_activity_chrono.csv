@@ -1,0 +1,4 @@
+person_id,date,kind,note,source
+mielot_jean,1456-04-10,portrait_desk_pin,"BNF Fr. 9198 fol. 19 (colophon 10 Apr 1456): Jean Le Tavernier grisaille of Miélot writing; Biblissima descriptors include lunettes at the writing desk (drawer/work-tool class). Soft onset of the portrait pin.",Biblissima Fr. 9198 f.19; BnF Essentiels
+mielot_jean,1463-01-01,dated_translation,"Romuléon French translation dated 1463 (BL Royal 19 E V colophon; JONAS 1463–65). LABOR TIP years_after=7 from 1456.",BL Royal 19 E V; JONAS oeuvre 5867
+mielot_jean,1472-01-01,death_terminus_not_ya,Died Lille 1472. Survival bound only — do not use as labor tip.,Wikidata Q1862265; Wikipedia Jean Miélot

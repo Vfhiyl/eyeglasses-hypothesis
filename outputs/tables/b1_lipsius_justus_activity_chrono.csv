@@ -1,0 +1,27 @@
+person_id,date,kind,note,source
+lipsius_justus,1547-10-18,birth,Born 18 Oct 1547.,Wikidata Q315871 P569
+lipsius_justus,1599-12-01,from_him_letter,Leuven → Erycius Puteanus (ile 99 12 01 pu).,Verweij 2004 DBNL; KBR ms. 19109 f.295
+lipsius_justus,1600-03-26,from_him_letter,Leuven → Puteanus (KBR autograph *).,Verweij 2004 DBNL; KBR ms. 19109 f.284
+lipsius_justus,1601-03-25,from_him_letter,Leuven → Puteanus (KBR autograph *).,Verweij 2004 DBNL; KBR ms. 19109 f.285
+lipsius_justus,1601-05-08,from_him_letter,Leuven → Puteanus (KBR autograph *).,Verweij 2004 DBNL; KBR ms. 19109 f.286
+lipsius_justus,1601-09-15,from_him_letter,Leuven → Johannes Richardot (ile 01 09 15 r).,Verweij 2004 DBNL; KBR ms. II 5155 f.2-3
+lipsius_justus,1601-10-13,from_him_letter,Leuven → Lucas Wijngaerde (ile 01 10 13 w).,Verweij 2004 DBNL; KBR ms. II 3012 f.22
+lipsius_justus,1601-10-31,from_him_letter,Leuven → Puteanus (KBR autograph *).,Verweij 2004 DBNL; KBR ms. 19109 f.287
+lipsius_justus,1601-11-02,from_him_letter,Leuven → Puteanus (ile 01 11 02 p 1).,Verweij 2004 DBNL; KBR ms. 19109 f.288
+lipsius_justus,1601-11-14,from_him_letter,Leuven → Ernest of Bavaria (KBR autograph).,Verweij 2004 DBNL; KBR ms. 19109 f.296r
+lipsius_justus,1602-03-31,from_him_letter,Leuven → Richardot on Centuriae (ile 02 03 31 r).,Verweij 2004 DBNL; KBR ms. II 5155 f.4-5
+lipsius_justus,1602-04-01,from_him_letter,Leuven → Puteanus (KBR autograph *).,Verweij 2004 DBNL; KBR ms. 19109 f.289
+lipsius_justus,1602-04-02,from_him_letter,Leuven → Johannes Moretus French (ile 02 04 02 m).,Verweij 2004 DBNL; KBR ms. III 1483 nr 1a
+lipsius_justus,1602-06-25,from_him_letter,Leuven → Moretus GV 131: De Bibliothecis for print.,HAB edoc_ed000001 appendix; Gerlo–Vervliet Inventaire 131
+lipsius_justus,1602-08-21,from_him_letter,Leuven → Puteanus (ile 02 08 21 p).,Verweij 2004 DBNL; KBR ms. 19109 f.290
+lipsius_justus,1602-09-30,living_order,"Lipsius to Moretus: received the lunettes but one broken by the messenger; sends it back as useless; wants larger from the Brilmaecker. ONSET living pin 1602.",Gerlo et al. 1967 no.141; Arch. Plantin-Moretus 86 f.577; Margolin 1975 n.76
+lipsius_justus,1603-01-17,from_him_letter,Leuven → Puteanus (ile 03 01 17 p).,Verweij 2004 DBNL; KBR ms. 19109 f.291
+lipsius_justus,1603-07-29,from_him_letter,Leuven → Richardot (ile 03 07 29).,Verweij 2004 DBNL; KBR ms. II 5155 f.6-7
+lipsius_justus,1604-05-29,from_him_letter,Leuven → Puteanus on Diva Virgo Hallensis (ile 04 05 29 p).,Verweij 2004 DBNL; KBR ms. II 1859 nr.65
+lipsius_justus,1604-08-31,from_him_letter,Leuven → Moretus French (ile 04 08 31).,Verweij 2004 DBNL; KBR ms. III 1483 nr 1b
+lipsius_justus,1604-09-18,from_him_letter,Leuven → Moretus French (ile 04 09 18).,Verweij 2004 DBNL; KBR ms. III 1483 nr 1c
+lipsius_justus,1605-04-07,from_him_letter,Leuven → Puteanus (ile 05 04 07).,Verweij 2004 DBNL; KBR ms. 19109 f.292
+lipsius_justus,1605-09-25,from_him_letter,Leuven → Puteanus (KBR autograph *).,Verweij 2004 DBNL; KBR ms. 19109 f.293
+lipsius_justus,1605-12-17,from_him_letter,Leuven → Puteanus (ile 05 12 17).,Verweij 2004 DBNL; KBR ms. 19109 f.294
+lipsius_justus,1606-02-15,from_him_letter,Leuven → Johannes Bertels (ile 06 02 15 b). LAST living FROM-him pin. Death 1606-03-23 ≠ tip.,Verweij 2004 DBNL; KBR ms. II 5155 f.8-9
+lipsius_justus,1606-03-23,death_terminus_not_ya,Died 23 Mar 1606. Survival bound only — do not use as labor tip.,Wikidata Q315871 P570

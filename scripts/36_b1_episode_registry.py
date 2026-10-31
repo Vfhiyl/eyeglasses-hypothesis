@@ -223,14 +223,13 @@ EPISODES = [
         "episode_id": "barbara_1466_order",
         "person": "Barbara of Brandenburg, Marchesa of Mantua (b.1422, d.1481; age ~44)",
         "anchor": "1466-09-18 to Federico: order ochiali assai (Ilardi / ASMA)",
-        "type": "soft_order (dated order, not broken/return)",
+        "type": "order",
         "work_stream": "OA FROM-her letter chrono post-order (Nicoud/Hofmann harvest)",
         "local_material": "outputs/tables/b1_barbara_oa_letter_chrono.csv; "
-        "b1_barbara_1466_episode_method.md",
-        "verdict": "SOFT_ORDER",
-        "first_pass": "chrono n=10 pins 1466-09-18 → 1479-11-11; continuity after "
-        "order (ya≈13). Rates: continuity pins only, formal letter rates N/A "
-        "(mixed OA samples)",
+        "b1_barbara_fromher_letter_rates.csv; b1_barbara_1466_episode_method.md",
+        "verdict": "ANALYZABLE_NOW",
+        "first_pass": "FROM-her OA letters: episode 1466 n=1; post n=8 through 1479 "
+        "(excludes 1472 envoy). Continuity after the order (ya≈13).",
         "limitations": "order≠deprivation; letter sample is OA subset not complete "
         "chancery; Fantoni regesti still blocked",
     },
@@ -283,29 +282,36 @@ EPISODES = [
         "person": "Albrecht of Prussia (b.1490, d.1568; age ~52)",
         "anchor": "1542 Königsberg→Gdańsk: broken ocularia; order replacement + "
         "identical pairs (Bieganowski / Ostpreussische Folianten)",
-        "type": "soft_order (broken-replacement request — not full deprivation DiD)",
-        "work_stream": "ducal activity chrono post-1542",
+        "type": "broken",
+        "work_stream": "Voigt 1841 FROM-Herzog letter citations yearly 1534–1567",
         "local_material": "outputs/tables/b1_albrecht_prussia_activity_chrono.csv; "
+        "b1_albrecht_voigt_letter_pins.csv; b1_albrecht_voigt_letter_rates.csv; "
         "b1_albrecht_1542_episode_method.md",
-        "verdict": "SOFT_ORDER",
-        "first_pass": "chrono n=13 from 1542 order → 1568 (+25y). Broken note is "
-        "real but stream is activity densify not letter rates around the break",
-        "limitations": "broken request documented, but no week-level work-stoppage "
-        "series; coded soft_order (not Spataro-class unfit return)",
+        "verdict": "ANALYZABLE_NOW",
+        "first_pass": "Voigt FROM-Herzog citations: pre-1542 n=7 (1534–41); "
+        "1542 n=3; post n=45 through 1567. Continuity through the "
+        "broken-replacement year — not a stoppage trough.",
+        "limitations": "Voigt 1841 is a published selection of FROM-Herzog letters "
+        "(editorial survival), not a complete chancery dump; Folianten "
+        "broken-replacement anchor and Briefwechsel stream are different "
+        "corpora; annual citation rates, not week-level stoppage DiD",
     },
     {
         "episode_id": "policastro_1460_order",
         "person": "Iacobo de Policastro (fl.1450s–1470s; order 1460)",
         "anchor": "1460 order_request letter (Ilardi); Sforza castellan milieu",
-        "type": "soft_order",
-        "work_stream": "ASM / Belloni activity regesti (castellan + post-wear pins)",
+        "type": "order",
+        "work_stream": "Belloni FROM-him castellan letters (local chrono + yearly rates)",
         "local_material": "outputs/tables/b1_policastro_activity_chrono.csv; "
+        "b1_policastro_fromhim_letter_rates.csv; "
         "b1_policastro_1460_episode_method.md",
-        "verdict": "SOFT_ORDER",
-        "first_pass": "chrono n=33 (pre+post); post-wear densify to 1478 (ya≈17). "
-        "Continuity pins; rates N/A (regest activity not letter closings)",
-        "limitations": "order letter not local fulltext; many pins are office/"
-        "regest proxies; Santoro quote still blocked",
+        "verdict": "ANALYZABLE_NOW",
+        "first_pass": "FROM-him letters: pre-1460 n=2; 1460 n=2 (Oct admin + "
+        "Dec 12 ochiali order); post n=17 through 1468 (dense 1461–64). "
+        "Continuity after the order.",
+        "limitations": "Belloni 1997 regesti (many not OA fulltext); stream is "
+        "castellan admin missives not scholar letter-hours; order letter "
+        "fulltext still Ilardi/Covini",
     },
     {
         "episode_id": "maurolico_1554_selfreport",
@@ -341,11 +347,11 @@ EPISODES = [
         "person": "Iacopo Ammannati Piccolomini (b.1422, d.1479; age ~51)",
         "anchor": "1473 order/receipt of good near-and-distant spectacles "
         "(Ilardi; letter to Lorenzo de' Medici)",
-        "type": "soft_order (receipt, not broken/return)",
+        "type": "order",
         "work_stream": "Cherubini epistolario dated FROM-him letters (n=741)",
         "local_material": "outputs/tables/b1_ammannati_cherubini_letter_chrono.csv; "
         "b1_within_person_rates.csv; b1_ammannati_1473_episode_method.md",
-        "verdict": "SOFT_ORDER",
+        "verdict": "ANALYZABLE_NOW",
         "first_pass": "already in b1_within_person_rates: 1463-72 n=386 (38.6/yr) "
         "→ 1473-79 n=315 (45.0/yr) ratio 1.17; last letter 1479 (+6y). Continuity.",
         "limitations": "receipt≠deprivation; editorial survival of cardinal "

@@ -26,6 +26,16 @@ WAVE4_CSV = OUTPUT_TABLES / "b1_wave4_soft_episodes.csv"
 WAVE5_CSV = OUTPUT_TABLES / "b1_wave5_soft_episodes.csv"
 WAVE6_CSV = OUTPUT_TABLES / "b1_wave6_soft_episodes.csv"
 WAVE17_CSV = OUTPUT_TABLES / "b1_wave17_soft_episodes.csv"
+WAVE18_CSV = OUTPUT_TABLES / "b1_wave18_soft_episodes.csv"
+WAVE19_CSV = OUTPUT_TABLES / "b1_wave19_soft_episodes.csv"
+WAVE20_CSV = OUTPUT_TABLES / "b1_wave20_soft_episodes.csv"
+WAVE21_CSV = OUTPUT_TABLES / "b1_wave21_soft_episodes.csv"
+WAVE22_CSV = OUTPUT_TABLES / "b1_wave22_soft_episodes.csv"
+WAVE23_CSV = OUTPUT_TABLES / "b1_wave23_soft_episodes.csv"
+WAVE24_CSV = OUTPUT_TABLES / "b1_wave24_soft_episodes.csv"
+WAVE25_CSV = OUTPUT_TABLES / "b1_wave25_soft_episodes.csv"
+WAVE26_CSV = OUTPUT_TABLES / "b1_wave26_soft_episodes.csv"
+WAVE27_CSV = OUTPUT_TABLES / "b1_wave27_soft_episodes.csv"
 THIN_NOTE = OUTPUT_TABLES / "b1_lift_thin_tier_2026-08-22.md"
 OUT_CSV = OUTPUT_TABLES / "b1_wearer_lift_scoreboard.csv"
 OUT_MD = OUTPUT_TABLES / "b1_wearer_lift_scoreboard_method.md"
@@ -63,7 +73,7 @@ EPISODE_TO_PERSON: dict[str, str] = {
 
 def _wave_maps() -> dict[str, str]:
     out: dict[str, str] = {}
-    for path in (WAVE4_CSV, WAVE5_CSV, WAVE6_CSV, WAVE17_CSV):
+    for path in (WAVE4_CSV, WAVE5_CSV, WAVE6_CSV, WAVE17_CSV, WAVE18_CSV, WAVE19_CSV, WAVE20_CSV, WAVE21_CSV, WAVE22_CSV, WAVE23_CSV, WAVE24_CSV, WAVE25_CSV, WAVE26_CSV, WAVE27_CSV):
         if not path.exists():
             continue
         for r in csv.DictReader(path.open(encoding="utf-8")):

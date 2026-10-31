@@ -1,0 +1,4 @@
+person_id,date,kind,note,source
+flamsteed_john,1646-08-19,birth,Born 19 Aug 1646 Denby. WD Q242388 P569.,Wikidata Q242388
+flamsteed_john,1705-05-21,self_report_wear,"Flamsteed to Abraham Sharp from the Observatory: You must lay the faults in my copy of it to my haste and spectacles. ONSET first-person wear while copying a refraction table.",Cudworth Life of Abraham Sharp p.85; Baily Account of Flamsteed App.93 p.241
+flamsteed_john,1719-12-31,death_terminus_not_ya,Died 31 Dec 1719. Survival bound only — do not use as labor tip.,Wikidata Q242388 P570

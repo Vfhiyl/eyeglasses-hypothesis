@@ -1,0 +1,5 @@
+person_id,date,kind,note,source
+solis_antonio,1610-07-18,birth,Born 18 July 1610 Alcalá de Henares.,Wikidata Q952846 P569
+solis_antonio,1670-01-01,portrait_wear_pin,"Museo Lázaro Galdiano oil: wears round quevedos. Clerical dress ⇒ after ordination 1667; if Tomás de Aguiar (d.~1679) or Alfaro (d.1680) then lifetime. Soft onset 1670.",Commons File:Antoniosolis.jpg; Ceán / Lázaro Galdiano quevedos note
+solis_antonio,1684-01-01,dated_publication,Historia de la conquista de México published 1684. LABOR TIP years_after=14 from 1670. Do not use the 1692 Marcos Orozco engraving (posthumous).,Standard bibliography; do not tip to death 1686
+solis_antonio,1686-04-19,death_terminus_not_ya,Died 19 April 1686 Madrid. Survival bound only — do not use as labor tip.,Wikidata Q952846 P570

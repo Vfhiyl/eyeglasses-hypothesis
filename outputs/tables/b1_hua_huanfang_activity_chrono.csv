@@ -1,0 +1,4 @@
+person_id,date,kind,note,source
+hua_huanfang,1695,birth,己丑=康熙四十八年1709 浣芳年一十有五 (张荣 挹靑軒小序) → birth 1695. No WD QID.,https://www.shidianguji.com/book/CADAL02067655/chapter/1lae7lx1m80tq
+hua_huanfang,1713,self_report_wear,挹靑軒自怡錄: 予目力不濟，年未二十，卽用眼鏡。先生戲曰：何爲學驢？磨坊中用着眼罩？予曰：誠然。所以先生之詩文雖好，我看去還隔一層. ONSET first-person living wear for reading 诗文. Pin 1713 from 年未二十 (age 19 sui; age 20 sui=1714).,https://www.shidianguji.com/book/CD0005/chapter/1lj18dyycbnl6
+hua_huanfang,1717,death_terminus_not_ya,丁酉=康熙五十六年1717 张荣小序: 今五十九丁酉歲又奪我能詩之妾即浣芳; 因産病亡. Survival bound only — do not use as labor tip.,https://www.shidianguji.com/book/CADAL02067655/chapter/1lae7lx1m80tq

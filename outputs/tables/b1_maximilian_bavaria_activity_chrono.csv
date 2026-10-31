@@ -1,0 +1,4 @@
+person_id,date,kind,note,source
+maximilian_bavaria,1573-04-17,birth,Born 17 Apr 1573 Munich.,Wikidata Q57206 P569
+maximilian_bavaria,1639-01-01,own_order,"Keil: Vor allem aber diente Wiesel dem Kurfürsten, mit Brillen. 1639 wurden ihm für 9 Augengläßer à 1 Ducaten (zu 3/7) 27 Gulden bezahlt. ONSET living multi-pair pin 1639.",Keil Augustanus Opticus §2.7 n.37; Hofzahlamtsrechnungen 1639
+maximilian_bavaria,1651-09-27,death_terminus_not_ya,Died 27 Sep 1651 Ingolstadt. Survival bound only — do not use as labor tip.,Wikidata Q57206 P570

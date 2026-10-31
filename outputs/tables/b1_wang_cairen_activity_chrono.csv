@@ -1,0 +1,4 @@
+person_id,date,kind,note,source
+wang_cairen,1653,birth,Born 1653 (year precision). Locked from 尊道堂诗钞 5 癸丑生日: 幸为八十一年人 (Shidianguji AMNL0280 ch.1ma43qvgh0vg4). 癸丑=雍正十一年/1733 age 81 sui → 1653. WD Q30948443 P569=1653. Do not invent a day from 进士履历 乙未五月十四.,https://www.wikidata.org/wiki/Q30948443
+wang_cairen,1738,self_report_wear,"尊道堂诗钞 6 南沙集四 闲居 (Shidianguji AMNL0280 ch.1ma43qx28zn78): 但凭眼镜且雠书. Same juan 丁巳除夕 / 戊午元日 / 明年八十七. 丁巳=乾隆二年/1737; 戊午=1738. Pin 1738 from that 戊午 cluster, not death 1739. ONSET first-person living wear for 雠书.",https://www.shidianguji.com/book/AMNL0280/chapter/1ma43qx28zn78
+wang_cairen,1739,death_terminus_not_ya,"Died 1739 (year precision). 尊道堂诗钞目录: 乾隆四年十二月朔日不肖男盛勲识於苫次. WD Q30948443 P570=1739. Survival bound only — do not use as labor tip.",https://www.shidianguji.com/book/AMNL0280/chapter/1ma43qnoi7w2w

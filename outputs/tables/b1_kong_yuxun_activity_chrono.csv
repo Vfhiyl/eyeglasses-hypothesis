@@ -1,0 +1,4 @@
+person_id,date,kind,note,source
+kong_yuxun,1665,birth_estimated,"Birth ESTIMATED 1665 from first-person 年將六旬 in the 1724-09-26 memorial. No OA WD birth. On birth<1700 filter via the age statement.",EnamelFC TR_yongzheng3286 (年將六旬)
+kong_yuxun,1724-09-26,self_report_wear,"Memorial 雍正二年九月初八: 眼目已花，閱看文卷細字甚苦模糊，今蒙皇上賜出內造眼鏡試驗，字跡明顯不殊少年時. ONSET living first-person reading wear.",EnamelFC TR_yongzheng3286 (Yongzheng zhupi 3:578)
+kong_yuxun,1730,death_terminus_not_ya,Died in office 1730 as Jiangnan river director. Survival bound only — do not use as labor tip.,Qing shigao / zh.wiki 孔毓珣

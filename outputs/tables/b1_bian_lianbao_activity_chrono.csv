@@ -1,0 +1,4 @@
+person_id,date,kind,note,source
+bian_lianbao,1699,birth,Born 1699 (year precision). WD Q45618485. Do not invent birth from 蒋士铨 寿七十四.,https://www.wikidata.org/wiki/Q45618485
+bian_lianbao,1758,gift_receipt_wear,随园诗草5 李立轩宰阳春寄端溪砚水晶眼镜: 老眼得镜扫空花…龙尾凤咮供挥洒蝇头虿尾无讹差. 后跋 四库提要: 第四卷以下题曰病余草者乃皆戊寅以后诗. Pin 戊寅 / 1758 as 病余草 start (juan 5), not death 1772 and not 蒋士铨 乙未遗编序. Do not count 李立轩.,https://www.shidianguji.com/book/CADAL02068075/chapter/1lajh2itrs6r7
+bian_lianbao,1772,death_terminus_not_ya,Died 1772 (year precision). Survival bound only — do not use as labor tip.,WD Q45618485

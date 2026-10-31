@@ -1,0 +1,4 @@
+person_id,date,kind,note,source
+stukeley_william,1763-10-30,self_report_wear,"Memoirs vol. xx: first preached in spectacles at age 75. ONSET 1763-10-30.",Lukis ed. Family Memoirs of William Stukeley (Surtees Soc.) preface; DNB s.v. Stukeley
+stukeley_william,1764-04-01,dated_publication,Whitehall Evening Post paragraph recommending postpone morning service for the 1 Apr 1764 solar eclipse. LABOR TIP years_after=1 from 1763.,Lukis preface; DNB s.v. Stukeley
+stukeley_william,1765-03-03,death_terminus_not_ya,Died 3 Mar 1765 Queen Square. Survival bound only — do not use as labor tip.,Wikidata Q1381018 P570; DNB

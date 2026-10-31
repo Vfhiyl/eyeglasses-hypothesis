@@ -1,0 +1,5 @@
+person_id,date,kind,note,source
+caetani_francesco,1661-01-01,portrait_wear_pin,"Palazzo Caetani portrait 1660–62: wears large concave-lens spectacles (Golden Fleece). Soft onset midpoint 1661. Correct QID Q3749697.",Ilardi 2007 Appendix III Fig. 34
+caetani_francesco,1660-03-01,office_milan,Governor of the Duchy of Milan Mar 1660–Sep 1662 (WD P39 Q60400104). Overlaps the portrait window.,Wikidata Q3749697 P39; en.wikipedia Francesco Caetani 8th Duke
+caetani_francesco,1663-03-08,office_sicily,"Took possession as Viceroy of Sicily at Palermo 8 Mar 1663 (appointed Madrid 24 Sep 1662). LABOR TIP years_after=2 from 1661.",Treccani DBI Francesco Caetani; en.wikipedia
+caetani_francesco,1683-10-09,death_terminus_not_ya,Died 9 Oct 1683. Survival bound only — do not use as labor tip.,Wikidata Q3749697 P570

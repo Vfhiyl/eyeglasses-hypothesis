@@ -1,0 +1,5 @@
+person_id,date,kind,note,source
+cervantes_miguel,1547-09-29,birth,Born 29 Sept 1547 Alcalá de Henares.,Wikidata Q5682 P569
+cervantes_miguel,1612-03-02,living_pair_attested,"Lope to Sessa: yo leí unos versos con unos antojos de Cervantes. Named living owner of the pair used that night to read. Soft onset March 1612.",González de Amezúa 1935:3 p.95
+cervantes_miguel,1615-01-01,dated_publication,Don Quijote Parte II published 1615. LABOR TIP years_after=3 from 1612. Also Novelas ejemplares 1613 / Viaje del Parnaso 1614.,Standard bibliography
+cervantes_miguel,1616-04-22,death_terminus_not_ya,Died 22 April 1616 Madrid. Survival bound only — do not use as labor tip.,Wikidata Q5682 P570

@@ -1,0 +1,4 @@
+person_id,date,kind,note,source
+folkes_martin,1720-01-01,portrait_wear_pin,"Hogarth-attributed BM sketch c.1720 (Button's): Folkes looking through eyeglasses at a watch. Soft onset of the print pin. Born 1690 (filter birth<1700).",Voltaire Foundation 2021-04-22 citing BM; Ireland 1786; WD Q325849
+folkes_martin,1741-11-30,office_royal_society,President of the Royal Society (WD Q325849 P39 / Q55713110 P580 1741 P582 1752). Dated post-portrait public office.,Wikidata Q325849 P39
+folkes_martin,1754-06-28,death_terminus_not_ya,Died 28 Jun 1754. Survival bound only — years_after=21 to 1741.,Wikidata Q325849 P570

@@ -1,0 +1,4 @@
+person_id,date,kind,note,source
+joris_van_der_paele,1436-01-01,portrait_removed_glasses,"Van Eyck Madonna with Canon van der Paele: donor has removed his reading glasses after reading (Ilardi App. III). Soft onset of the portrait pin. Correct QID Q23619030.",Ilardi 2007 Appendix III; WD Q23619030
+joris_van_der_paele,1442-01-01,chapel_foundation,Founded a second chapel at St Donatian's Bruges. LABOR TIP years_after=6 from 1436.,en.wikipedia Joris van der Paele
+joris_van_der_paele,1443-08-25,death_terminus_not_ya,Died 25 Aug 1443. Survival bound only — do not use as labor tip.,Wikidata Q23619030 P570

@@ -5,16 +5,20 @@ philippe_le_hardi,Philippe II le Hardi Duke of Burgundy,1342,1404,ruler,17.0,14.
 datini,Francesco di Marco Datini,1335,1410.0,merchant,30.0,10.0,137,15.0,15.0,Q18945675;Q2041165;Q213330;Q316462;Q319403;Q333218;Q3571055;Q378483,matched,0
 knut_bosson,"Knut Bosson (Natt och Dag), Bishop of Linköping",1360,1436,other,31.0,20.0,178,18.0,13.0,Q10290629;Q11912447;Q124743554;Q125308;Q12595003;Q12596179;Q12624411;Q1605614,matched,0
 nicolas_de_baye,Nicolas de Baye (greffier du Parlement de Paris),1364,1419,clerk,10.0,2.0,133,21.0,-11.0,Q115677552;Q1386256;Q234816;Q2829234;Q293604;Q302096;Q3876450;Q77875,matched,0
+hu_ying,Hu Ying (胡濙),1375,1463,admin,43.0,0.0,139,19.0,24.0,Q12842607;Q20706345;Q2113216;Q3960051;Q435994;Q6537956;Q65643560;Q685774,matched,0
 marzeliere_pierre,Pierre de la Marzelière (seigneur du Fretay),1390,1462,admin,27.0,24.0,196,22.0,5.0,Q102272;Q104028749;Q1343011;Q1433395;Q1489714;Q15431520;Q15814778;Q1697670,matched,0
-joris_van_der_paele,Joris (Canon) van der Paele,1370,1443,other,28.0,,146,19.0,9.0,Q106832878;Q11719589;Q119313;Q1519411;Q15914570;Q1697559;Q18528476;Q2564714,matched,0
+joris_van_der_paele,Joris (Canon) van der Paele,1370,1443,other,28.0,6.0,146,19.0,9.0,Q106832878;Q11719589;Q119313;Q1519411;Q15914570;Q1697559;Q18528476;Q2564714,matched,0
 francesca_romana,Francesca Romana (Francesca Bussa dei Ponziani),1384,1440,cleric,11.0,,135,22.0,-11.0,Q112408181;Q1195391;Q1367188;Q2623376;Q281456;Q781656;Q113801227;Q11814541,matched,0
+bokenham_osbern,Osbern Bokenham (Bokenam),1393,1464,cleric,26.0,4.0,187,24.0,2.0,Q11686143;Q1357237;Q454053;Q12022935;Q121371;Q289285;Q310146;Q321881,matched,1
+porzi_giovanni_rocco,Giovanni Rocco de' Porzi (Johannes Rocchus de Portis),1391,1461,cleric,25.0,7.0,188,24.0,1.0,Q109302282;Q25260;Q480717;Q558074;Q7155659;Q7839899;Q94132375;Q9621698,matched,0
 rene_anjou,René of Anjou (René I),1409,1480,ruler,26.0,30.0,178,22.5,3.5,Q586326;Q926552;Q1040397;Q1217669;Q1464654;Q1580272;Q18530143;Q1990490,matched,0
 ardingelli_bese,Bese di Giovanni Ardingelli,1408,1476.0,merchant,23.0,16.0,180,23.0,0.0,Q18530143;Q12608235;Q1372875;Q214115;Q55906043;Q586326;Q754764;Q926552,matched,1
 arduino_baiso,Arduino da Baiso,1385,1454.0,artisan,24.0,3.0,141,20.0,4.0,Q113801227;Q1745417;Q982038;Q3848183;Q480262;Q587247;Q5860586;Q704519,matched,0
 cederni,Bartolomeo Cederni,1416,1482.0,clerk,21.0,24.0,152,16.5,4.5,Q1376928;Q2266954;Q299663;Q483026;Q554825;Q58056;Q6408542;Q11287139,matched,0
 charles_orleans,Charles I Duke of Orléans,1394,1465,ruler,26.0,10.0,188,24.0,2.0,Q121371;Q310146;Q321881;Q486251;Q568395;Q599858;Q11686143;Q1357237,matched,1
-savonarola_michele,Michele Savonarola,1385,1468,other,38.0,,141,20.0,18.0,Q113801227;Q1745417;Q982038;Q3848183;Q480262;Q587247;Q5860586;Q704519,matched,0
+savonarola_michele,Michele Savonarola,1385,1468,other,38.0,5.0,141,20.0,18.0,Q113801227;Q1745417;Q982038;Q3848183;Q480262;Q587247;Q5860586;Q704519,matched,0
 filelfo,Francesco Filelfo,1398,1481.0,humanist,38.0,25.0,188,24.0,14.0,Q1042297;Q1393409;Q287485;Q28779;Q312328;Q312551;Q706876;Q92357,matched,0
+mielot_jean,Jean Miélot,1420,1472,humanist,7.0,7.0,183,18.0,-11.0,Q1125744;Q113399956;Q1226846;Q1233727;Q1362779;Q1650332;Q2245140;Q2528283,matched,0
 gonzaga_ludovico,Ludovico III Gonzaga,1412,1478.0,ruler,21.0,13.0,150,19.5,1.5,Q108124;Q592641;Q2462319;Q29284;Q322296;Q332651;Q55228138;Q7919473,matched,2
 policastro,Iacobo de Policastro,1410,1478.0,admin,23.0,17.0,200,22.5,0.5,Q1040397;Q1217669;Q1464654;Q1580272;Q1990490;Q20000130;Q2024702;Q21545248,matched,0
 pius_ii,Pope Pius II,1405,1464.0,ruler_cleric,14.0,3.0,186,23.0,-9.0,Q101437;Q1780792;Q297278;Q309907;Q55122541;Q55126869;Q957427;Q651013,matched,1
@@ -31,53 +35,213 @@ lorenzo_medici,Lorenzo de' Medici (il Magnifico),1449,1492.0,other,0.0,11.0,220,
 sixtus_iv,Pope Sixtus IV (Francesco della Rovere),1414,1484.0,ruler_cleric,25.0,2.0,152,19.0,6.0,Q3118498;Q312458;Q453771;Q11287139;Q1259240;Q12606285;Q1473819;Q150966,matched,0
 egidio_piacenza,Fra Egidio da Piacenza,1433,,cleric,,0.0,173,18.0,,Q12615502;Q1498465;Q151120;Q1696825;Q192374;Q3129976;Q5585;Q982860,matched,0
 jacopo_magnia_friar,Fra Iacopo della Magnia,1423,,cleric,,0.0,177,18.0,,Q12613908;Q1340905;Q111515;Q1531207;Q18945082;Q18945418;Q2795465;Q3170939,matched,0
+alessandro_bentivoglio,Alessandro Bentivoglio,1474,1532,ruler,13.0,38.0,215,19.0,-6.0,Q114245657;Q1151101;Q12596689;Q1522152;Q15429193;Q354177;Q5479589;Q6752664,matched,0
+wu_kuan,Wu Kuan (吴宽),1435,1504,humanist,24.0,0.0,189,18.0,6.0,Q106851;Q108904024;Q11940951;Q12611051;Q18745304;Q18945373;Q2715131;Q3089836,matched,0
+driebergen_jacob,Jacob van Driebergen (vice-dean of Sint Jan Utrecht),1436,1509,cleric,28.0,6.0,185,18.0,10.0,Q16586697;Q17144141;Q328250;Q342392;Q89484095;Q10299689;Q1040762;Q106851,matched,0
 rene_ii_lorraine,Rene II Duke of Lorraine,1451,1508,ruler,12.0,4.0,238,16.0,-4.0,Q106832905;Q1169109;Q16209128;Q3160832;Q441416;Q45859;Q704920;Q105015363,matched,0
+leontorius_conrad,Conrad Leontorius (Konrad Toeritz / Conrad of Leonberg),1460,1511,cleric,6.0,0.0,266,18.0,-12.0,Q1111214;Q1168956;Q124156972;Q130351;Q1313351;Q1395822;Q1482425;Q1525753,matched,0
 leo_x,Pope Leo X (Giovanni de Medici),1475,1521.0,ruler_cleric,1.0,8.0,221,18.0,-17.0,Q106830011;Q1081256;Q110215027;Q111149269;Q137856789;Q138302;Q139013731;Q325339,matched,0
 pirckheimer,Willibald Pirckheimer,1470,1530.0,humanist,15.0,9.0,239,19.0,-4.0,Q104412303;Q11814534;Q1195977;Q1242157;Q1291928;Q1365396;Q1374251;Q1579632,matched,0
-nigris_toma,"Toma Niger (Tommaso Niger), Bishop",1450,1531,cleric,36.0,,251,16.0,20.0,Q105015363;Q105044982;Q1053873;Q109518021;Q11929280;Q120599193;Q13138038;Q1372399,matched,0
+adelmann_bernhard,Bernhard Adelmann von Adelmannsfelden,1459,1523,humanist,19.0,0.0,238,18.0,1.0,Q1396459;Q150726;Q20494923;Q24265739;Q312763;Q44838;Q485278;Q65103,matched,0
+oecolampadius_johannes,Johannes Oecolampadius,1482,1531,humanist,4.0,0.0,214,17.0,-13.0,Q15138232;Q1788686;Q1973226;Q34486127;Q4357321;Q486283;Q869981;Q94795075,matched,0
+nigris_toma,"Toma Niger (Tommaso Niger), Bishop",1450,1531,cleric,36.0,5.0,251,16.0,20.0,Q105015363;Q105044982;Q1053873;Q109518021;Q11929280;Q120599193;Q13138038;Q1372399,matched,0
 wolsey,Thomas Wolsey,1473,1530.0,ruler_cleric,12.0,3.0,211,18.0,-6.0,Q12611812;Q12901205;Q1363744;Q137906;Q15453063;Q503816;Q55436531;Q619,matched,0
 wyatt_henry,Henry Wyatt,1460,1537.0,clerk,32.0,3.0,266,18.0,14.0,Q1111214;Q1168956;Q124156972;Q130351;Q1313351;Q1395822;Q1482425;Q1525753,matched,0
-guevara_felipe,Felipe de Guevara,1500,1563,humanist,18.0,,270,20.0,-2.0,Q108280;Q112363766;Q1132083;Q11957689;Q1224005;Q1233622;Q1282718;Q1378725,matched,0
+guevara_felipe,Felipe de Guevara,1500,1563,humanist,18.0,29.0,270,20.0,-2.0,Q108280;Q112363766;Q1132083;Q11957689;Q1224005;Q1233622;Q1282718;Q1378725,matched,0
 spataro_giovanni,Giovanni Spataro,1458,1541,humanist,38.0,1.6,231,18.0,20.0,Q1084593;Q463405;Q594900;Q88948162;Q1396459;Q150726;Q20494923;Q24265739,matched,0
 spinelli_benedetto,Benedetto di Guaspare Spinelli,1483,1547,merchant,19.0,0.03,215,18.0,1.0,Q1054349;Q1873074;Q1927814;Q1976418;Q7288239;Q728931;Q104224682;Q114323929,matched,0
 lotto,Lorenzo Lotto,1480,1556.0,artisan,31.0,16.0,241,17.0,14.0,Q104183238;Q106463333;Q1085207;Q116984084;Q1226841;Q12606440;Q12610132;Q1358762,matched,0
 pedro_toledo,"Pedro Álvarez de Toledo y Zúñiga (Marqués de Villafranca), Viceroy of Naples",1484,1553,ruler,24.0,0.0,214,17.5,6.5,Q104224682;Q114323929;Q1567207;Q1597118;Q337635;Q389140;Q441066;Q50383700,matched,0
 albrecht_prussia,Albert Duke of Prussia (Albrecht von Brandenburg-Ansbach),1490,1568,ruler,33.0,25.0,284,18.0,15.0,Q104182;Q1048018;Q1243014;Q12610184;Q1601234;Q1617229;Q16621758;Q18224490,matched,0
+bembo_pietro,Pietro Bembo,1470,1547,humanist,32.0,0.0,239,19.0,13.0,Q104412303;Q11814534;Q1195977;Q1242157;Q1291928;Q1365396;Q1374251;Q1579632,matched,0
+granvelle_nicolas,Nicolas Perrenot de Granvelle,1485,1550,clerk,20.0,0.0,218,17.0,3.0,Q125867220;Q12609951;Q136644661;Q137338;Q1768609;Q2080427;Q294435;Q3764651,matched,0
 henry_viii,Henry VIII,1491,1547.0,ruler,11.0,2.0,273,19.0,-8.0,Q1340260;Q15724123;Q16146649;Q16904486;Q3594808;Q3845887;Q55226104;Q624894,matched,0
 albertis_gaspare,Gaspare de Albertis,1480,1560,humanist,35.0,,241,17.0,18.0,Q104183238;Q106463333;Q1085207;Q116984084;Q1226841;Q12606440;Q12610132;Q1358762,matched,0
-sansovino_jacopo,Jacopo Sansovino,1486,1570,artisan,39.0,,215,17.0,22.0,Q110421536;Q12615746;Q12624343;Q131177033;Q1369930;Q15633646;Q1612959;Q1645646,matched,0
+sansovino_jacopo,Jacopo Sansovino,1486,1570,artisan,39.0,8.0,215,17.0,22.0,Q110421536;Q12615746;Q12624343;Q131177033;Q1369930;Q15633646;Q1612959;Q1645646,matched,0
+ouchi_yoshitaka,Ouchi Yoshitaka (大内義隆),1507,1551,ruler,0.0,0.0,262,20.0,-20.0,Q1086019;Q122943211;Q1252974;Q1486383;Q16185898;Q28669609;Q6506833;Q12612773,matched,0
 maurolico_francesco,Francesco Maurolico,1494,1575.0,humanist,36.0,21.0,274,19.5,16.5,Q123732;Q1237514;Q12604841;Q1579134;Q20172498;Q349814;Q5744621;Q644849,matched,0
 andrea_da_pienza,Don Andrea da Pienza,1490,,cleric,,,284,18.0,,Q104182;Q1048018;Q1243014;Q12610184;Q1601234;Q1617229;Q16621758;Q18224490,matched,0
 domenichi_ludovico,Lodovico (Ludovico) Domenichi,1515,1564,humanist,4.0,9.0,217,19.0,-15.0,Q12595385;Q13648753;Q137886771;Q139363668;Q170339;Q174880;Q20172441;Q21416123,matched,0
 bening_simon,Simon Bening,1483,1561,other,33.0,,215,18.0,15.0,Q1054349;Q1873074;Q1927814;Q1976418;Q7288239;Q728931;Q104224682;Q114323929,matched,0
+granvelle_antoine,Antoine Perrenot de Granvelle,1517,1586,ruler_cleric,24.0,0.0,214,19.0,5.0,Q110047;Q12596825;Q1658269;Q1768402;Q1987990;Q21545214;Q2187661;Q265181,matched,0
 augustus_saxony,"Augustus, Elector of Saxony",1526,1586,ruler,15.0,,231,20.0,-5.0,Q11061683;Q1345657;Q16854161;Q1690644;Q2651051;Q3295620;Q435016;Q448203,matched,0
 jacques_moser,Jacques Moser (Mouser / Jaques Moses?),1522,,other,,,229,19.0,,Q121850;Q1681791;Q16855222;Q64569;Q1368501;Q136891128;Q16200743;Q18223078,matched,0
-borghini_vincenzo,Vincenzo Borghini,1515,1580,humanist,20.0,,217,19.0,1.0,Q12595385;Q13648753;Q137886771;Q139363668;Q170339;Q174880;Q20172441;Q21416123,matched,0
-dudley_robert_leicester,"Robert Dudley, Earl of Leicester",1532,1588,ruler,11.0,,229,21.0,-10.0,Q106832765;Q113660997;Q136634326;Q1379453;Q1390868;Q1577075;Q1684296;Q1994650,matched,0
+borghini_vincenzo,Vincenzo Borghini,1515,1580,humanist,20.0,5.0,217,19.0,1.0,Q12595385;Q13648753;Q137886771;Q139363668;Q170339;Q174880;Q20172441;Q21416123,matched,0
+lin_dachun,Lin Dachun (林大春),1523,1588,admin,20.0,0.0,236,19.5,0.5,Q1368501;Q136891128;Q16200743;Q18223078;Q21209115;Q94757327;Q1177367;Q121850,matched,0
+dudley_robert_leicester,"Robert Dudley, Earl of Leicester",1532,1588,ruler,11.0,1.0,229,21.0,-10.0,Q106832765;Q113660997;Q136634326;Q1379453;Q1390868;Q1577075;Q1684296;Q1994650,matched,0
 morales_ambrosio,Ambrosio de Morales,1513,1591,humanist,33.0,,201,18.0,15.0,Q104099203;Q1340902;Q1919158;Q3766696;Q3525572;Q1047954;Q112779;Q15512307,matched,0
+velasco_luis_hijo,"Luis de Velasco y Castilla, 1st Marquess of Salinas (the Younger)",1534,1617,ruler,38.0,17.0,242,21.0,17.0,Q1396063;Q1606112;Q307552;Q3262462;Q460248;Q4786468;Q585052;Q1033822,matched,0
 stonley_richard,Richard Stonley,1519,1600,clerk,36.0,5.0,217,19.0,17.0,Q110137006;Q112999011;Q2581324;Q318673;Q4494540;Q4887317;Q497595;Q887232,matched,0
+yamashina_tokitsune,Yamashina Tokitsune (山科言経),1543,1611,humanist,23.0,0.0,263,19.0,4.0,Q120819422;Q12610189;Q139935494;Q1697683;Q18945651;Q21544013;Q27999310;Q328024,matched,0
 morigia_paolo,Paolo Morigia,1525,1604,humanist,34.0,8.0,242,20.0,14.0,Q104183543;Q105083430;Q111514778;Q11963613;Q121696;Q1690531;Q18530664;Q197234,matched,0
 nino_de_guevara,Fernando Niño de Guevara,1541,1609,other,23.0,1.0,284,19.5,3.5,Q1042090;Q113557303;Q12604541;Q139125109;Q1714518;Q1986900;Q299675;Q335118,matched,0
+lipsius_justus,Justus Lipsius,1547,1606,humanist,14.0,3.4,222,19.0,-5.0,Q10920770;Q12614023;Q12614320;Q15454557;Q2384352;Q2658411;Q3026163;Q315871,matched,0
+rodrigues_jeronimo,Jeronimo Rodrigues of Cucanha (Lamego),1551,1631,cleric,35.0,0.0,174,19.0,16.0,Q101989;Q105707677;Q105919599;Q106222214;Q106787298;Q106833119;Q106833837;Q112413865,matched,0
 vinta_belisario,"Belisario Vinta (di Francesco), Medici secretary of state",1542,1613,clerk,26.0,0.0,278,19.0,7.0,Q1191140;Q1645992;Q1679122;Q21545871;Q23616170;Q3642126;Q41559657;Q8597,matched,0
+cervantes_miguel,Miguel de Cervantes Saavedra,1547,1616,clerk,24.0,3.0,222,19.0,5.0,Q10920770;Q12614023;Q12614320;Q15454557;Q2384352;Q2658411;Q3026163;Q315871,matched,0
+lope_de_vega,Lope de Vega Carpio,1562,1635,clerk,28.0,0.0,5,20.0,8.0,Q37388;Q1289573;Q1035378;Q3852414;Q333098,matched,0
 howard_william_naworth,Lord William Howard of Naworth,1563,1640,humanist,32.0,23.0,5,20.0,12.0,Q1035378;Q37388;Q3852414;Q1289573;Q333098,matched,0
+tadeo_juan_eliseo,Juan Tadeo de San Eliseo (Juan Boldames Ibanez),1574,1633,cleric,14.0,0.0,6,25.0,-11.0,Q6555592;Q333098;Q99371;Q3852414;Q1035378;Q735697,matched,0
+gelves_diego,"Diego Carrillo de Mendoza y Pimentel, 1st Marquess of Gelves",1560,1636,ruler,31.0,3.0,83,20.0,11.0,Q37388;Q1289573;Q1035378;Q3852414;Q101989;Q105707677;Q105919599;Q106222214,matched,0
+zhang_yaofang,Zhang Yaofang (张耀芳 / 张燿芳),1574,1632,humanist,13.0,0.0,6,25.0,-12.0,Q6555592;Q333098;Q99371;Q3852414;Q1035378;Q735697,matched,0
+lou_jian,Lou Jian (娄坚),1567,1631,humanist,19.0,0.0,7,20.0,-1.0,Q3852414;Q1035378;Q333098;Q37388;Q1289573;Q6555592;Q99371,matched,0
 august_brunswick_wolfenbuettel,"Augustus the Younger, Duke of Brunswick-Lüneburg (August der Jüngere)",1579,1666,ruler,42.0,30.0,5,23.0,19.0,Q99371;Q6555592;Q735697;Q60854;Q333098,matched,0
 capivaccio_girolamo,Girolamo Capivaccio (Capodivacca),1523,1589,other,21.0,,236,19.5,1.5,Q1368501;Q136891128;Q16200743;Q18223078;Q21209115;Q94757327;Q1177367;Q121850,matched,0
+qian_qianyi,Qian Qianyi (钱谦益),1582,1664,humanist,37.0,0.0,7,25.0,12.0,Q735697;Q60854;Q99371;Q6555592;Q2701696;Q761023;Q1101373,matched,0
+xu_bo,Xu Bo (徐㶿 / Xu Xinggong),1563,1639,humanist,31.0,0.0,5,20.0,11.0,Q1035378;Q37388;Q3852414;Q1289573;Q333098,matched,0
+wu_zongda,Wu Zongda (吴宗达 / 上于 / 青门 / 涣亭),1576,1636,humanist,15.0,0.0,5,23.0,-8.0,Q6555592;Q99371;Q333098;Q735697;Q60854,matched,0
 quevedo_francisco,Francisco de Quevedo,1580,1645,humanist,20.0,2.0,5,23.0,-3.0,Q99371;Q735697;Q6555592;Q60854;Q333098,matched,0
+inigo_jones,Inigo Jones,1573,1652,artisan,34.0,0.0,5,25.0,9.0,Q333098;Q6555592;Q99371;Q3852414;Q1035378,matched,0
 jeffreys_joyce,Joyce Jeffreys,1575,1650,merchant,30.0,11.0,5,25.0,5.0,Q6555592;Q99371;Q333098;Q735697;Q3852414,matched,0
+maximilian_bavaria,Maximilian I Elector of Bavaria,1573,1651,ruler,33.0,0.0,5,25.0,8.0,Q333098;Q6555592;Q99371;Q3852414;Q1035378,matched,0
+anethan_johann,Johann von Anethan (chancellor of Trier),1594,1668,clerk,29.0,0.0,9,23.0,6.0,Q336091;Q334978;Q1101373;Q2701696;Q1248124;Q761023;Q1451213;Q60854,matched,0
 bourchier_henry_bath,"Henry Bourchier, 5th Earl of Bath",1587,1654,ruler,22.0,1.0,9,23.0,-1.0,Q60854;Q735697;Q2701696;Q761023;Q1101373;Q336091;Q334978;Q1248124,matched,0
 voiture_vincent,Vincent Voiture,1597,1648,humanist,6.0,1.0,7,12.0,-6.0,Q1248124;Q334978;Q336091;Q1451213;Q1101373;Q2701696;Q761023,matched,0
+yi_haechang,Yi Haechang (李海昌 / 松坡 / 季夏),1599,1655,humanist,11.0,0.0,7,12.0,-1.0,Q1248124;Q1451213;Q334978;Q336091;Q1101373;Q2701696;Q761023,matched,0
+hayashi_dokkosai,Hayashi Dokkōsai (林読耕斎 / 林靖 / 春徳),1624,1661,other,0.0,0.0,13,26.0,-26.0,Q559213;Q7519488;Q43393;Q316949;Q8014632;Q108206;Q2248538;Q676049,matched,0
+hu_shian,Hu Shi'an (胡世安 / 菊潭),1593,1663,humanist,25.0,0.0,9,23.0,2.0,Q336091;Q1101373;Q2701696;Q334978;Q761023;Q1248124;Q60854;Q1451213,matched,0
+johann_friedrich_brunswick,Johann Friedrich Duke of Brunswick-Lüneburg (Calenberg),1625,1679,ruler,9.0,0.0,16,25.0,-16.0,Q7519488;Q559213;Q43393;Q316949;Q8014632;Q108206;Q2248538;Q676049,matched,0
+davila_osorio_velada,"Antonio Pedro Sancho Dávila y Osorio, 4th Marquess of Velada",1615,1689,ruler,29.0,6.0,3,28.0,1.0,Q767960;Q676560;Q559213,matched,0
+ishikawa_jozan,Ishikawa Jōzan (石川丈山 / 凹 / 嘉右衛門),1583,1672,other,44.0,0.0,8,24.0,20.0,Q735697;Q60854;Q99371;Q2701696;Q6555592;Q761023;Q1101373;Q336091,matched,0
+chen_que,Chen Que (陈确),1604,1677,humanist,28.0,0.0,4,20.0,8.0,Q1451213;Q1248124;Q676560;Q334978,matched,0
+song_jungil,Song Jun-gil (宋浚吉),1606,1672,humanist,21.0,0.0,3,12.0,9.0,Q1451213;Q676560;Q1248124,matched,0
 steen_jan,Jan Steen,1626,1679,artisan,8.0,19.0,16,25.0,-17.0,Q7519488;Q43393;Q316949;Q8014632;Q108206;Q2248538;Q559213;Q676049,matched,0
-caetani_francesco,"Francesco Caetani, Duke of Sermoneta",1594,1683,ruler,44.0,,9,23.0,21.0,Q336091;Q334978;Q1101373;Q2701696;Q1248124;Q761023;Q1451213;Q60854,matched,0
+zhou_rong,Zhou Rong (周容),1619,1679,humanist,15.0,0.0,9,28.0,-13.0,Q767960;Q559213;Q676560;Q7519488;Q43393;Q316949;Q8014632;Q108206,matched,0
+caetani_francesco,"Francesco Caetani, Duke of Sermoneta",1594,1683,ruler,44.0,2.0,9,23.0,21.0,Q336091;Q334978;Q1101373;Q2701696;Q1248124;Q761023;Q1451213;Q60854,matched,0
+qian_chengzhi,Qian Chengzhi (钱澄之),1612,1693,humanist,36.0,0.0,2,29.5,6.5,Q676560;Q767960,matched,0
+tongxian,Tongxian (释通贤 / 浮石),1593,1667,cleric,29.0,0.0,9,23.0,6.0,Q336091;Q1101373;Q2701696;Q334978;Q761023;Q1248124;Q60854;Q1451213,matched,0
+monconys_balthasar,Balthasar de Monconys,1608,1665,clerk,12.0,0.0,3,28.0,-16.0,Q676560;Q1451213;Q767960,matched,0
+zhou_lianggong,Zhou Lianggong (周亮工 / 元亮 / 栎园),1612,1672,humanist,15.0,0.0,2,29.5,-14.5,Q676560;Q767960,matched,0
 pepys_samuel,Samuel Pepys,1633,1703,clerk,25.0,34.0,15,24.0,1.0,Q335280;Q2347142;Q170373;Q4216692;Q267683;Q46830;Q213355;Q676049,matched,0
+hayashi_gaho,Hayashi Gahō (林鵞峰 / 林春胜 / 林恕 / 向阳轩),1618,1680,other,17.0,0.0,9,28.0,-11.0,Q767960;Q676560;Q559213;Q7519488;Q43393;Q316949;Q8014632;Q108206,matched,0
+solis_antonio,Antonio de Solís y Rivadeneyra,1610,1686,humanist,31.0,14.0,3,28.0,3.0,Q676560;Q767960;Q1451213,matched,0
+xu_jie,Xu Jie (徐介 / 狷庵),1627,1698,humanist,26.0,0.0,16,25.0,1.0,Q43393;Q316949;Q8014632;Q108206;Q7519488;Q2248538;Q676049;Q559213,matched,0
+desmares_toussaint,Toussaint-Joseph-Guy Desmares (Père Desmares Oratorian),1603,1687,cleric,39.0,0.0,5,12.0,27.0,Q1451213;Q1248124;Q334978;Q676560;Q336091,matched,0
 lynnet_william,William Lynnet,1623,1700,cleric,32.0,28.0,14,27.0,5.0,Q559213;Q7519488;Q43393;Q316949;Q8014632;Q108206;Q2248538;Q767960,matched,0
 dolci_carlo,Carlo Dolci,1616,1686,artisan,25.0,9.0,4,29.5,-4.5,Q767960;Q676560;Q559213;Q7519488,matched,0
+fu_shan,Fu Shan (傅山),1607,1684,humanist,32.0,0.0,4,20.0,12.0,Q676560;Q1451213;Q767960;Q1248124,matched,0
+willmann_michael,Michael Lukas Leopold Willmann,1630,1706,artisan,31.0,3.0,15,24.0,7.0,Q676049;Q213355;Q2347142;Q170373;Q108206;Q2248538;Q43393;Q316949,matched,0
 wood_anthony,Anthony Wood,1632,1695,humanist,18.0,19.0,15,24.0,-6.0,Q2347142;Q170373;Q213355;Q335280;Q676049;Q4216692;Q267683;Q46830,matched,0
 jeake_samuel,Samuel Jeake the Younger,1652,1699,merchant,2.0,23.0,3,28.0,-26.0,Q2277355;Q514846;Q3525181,matched,0
+cao_rong,Cao Rong (曹溶 / 秋岳 / 倦圃),1613,1685,humanist,27.0,0.0,2,29.5,-2.5,Q676560;Q767960,matched,0
+yan_ermei,Yan Ermei (阎尔梅),1603,1679,humanist,31.0,0.0,5,12.0,19.0,Q1451213;Q1248124;Q334978;Q676560;Q336091,matched,0
+sim_yu,Sim Yu (沈攸 / 梧灘 / 仲美),1620,1688,humanist,23.0,0.0,10,27.0,-4.0,Q767960;Q559213;Q7519488;Q43393;Q316949;Q676560;Q8014632;Q108206,matched,0
+hooke_richard_halifax,Richard Hooke D.D. vicar of Halifax,1623,1688,cleric,20.0,0.0,14,27.0,-7.0,Q559213;Q7519488;Q43393;Q316949;Q8014632;Q108206;Q2248538;Q767960,matched,0
+wu_nongxiang,Wu Nongxiang (吴农祥 / 庆百 / 星叟),1632,1708,humanist,31.0,0.0,15,24.0,7.0,Q2347142;Q170373;Q213355;Q335280;Q676049;Q4216692;Q267683;Q46830,matched,0
+yu_sangun,Yu Sang-un (柳尙運),1636,1707,humanist,26.0,0.0,15,26.0,0.0,Q4216692;Q267683;Q46830;Q335280;Q2347142;Q170373;Q213355;Q676049,matched,0
+tao_ji,Tao Ji (陶季 / 陶澂),1626,1699,humanist,28.0,0.0,16,25.0,3.0,Q7519488;Q43393;Q316949;Q8014632;Q108206;Q2248538;Q559213;Q676049,matched,0
+leeuwenhoek_antoni,Antoni van Leeuwenhoek,1632,1723,humanist,46.0,0.0,15,24.0,22.0,Q2347142;Q170373;Q213355;Q335280;Q676049;Q4216692;Q267683;Q46830,matched,0
 giordano_luca,Luca Giordano,1634,1705,artisan,26.0,16.0,16,25.0,1.0,Q4216692;Q267683;Q46830;Q335280;Q2347142;Q170373;Q213355;Q676049,matched,0
-folkes_martin,Martin Folkes,1690,1754,humanist,19.0,,0,,,,unmatched_birth_window,
+foulis_john_ravelston,Sir John Foulis of Ravelston 1st Bt,1638,1707,ruler,24.0,0.0,11,24.0,0.0,Q4216692;Q267683;Q46830;Q335280;Q2347142;Q170373;Q3525181;Q213355,matched,0
+wu_sugong,Wu Sugong (吴肃公 / 雨若 / 晴岩 / 街南),1626,1699,humanist,28.0,0.0,16,25.0,3.0,Q7519488;Q43393;Q316949;Q8014632;Q108206;Q2248538;Q559213;Q676049,matched,0
+yi_hyeonil,Yi Hyeon-il (李玄逸),1627,1704,humanist,32.0,0.0,16,25.0,7.0,Q43393;Q316949;Q8014632;Q108206;Q7519488;Q2248538;Q676049;Q559213,matched,0
+chu_renhuo,Chu Renhuo (褚人穫),1635,1704,humanist,24.0,0.0,15,26.0,-2.0,Q4216692;Q267683;Q46830;Q335280;Q2347142;Q170373;Q213355;Q676049,matched,0
+maintenon_francoise,Françoise d'Aubigné marquise de Maintenon,1635,1719,letter_writer,39.0,0.0,15,26.0,13.0,Q4216692;Q267683;Q46830;Q335280;Q2347142;Q170373;Q213355;Q676049,matched,0
+jin_zhang,Jin Zhang (金张),1645,,humanist,,0.0,6,27.5,,Q3525181;Q514846;Q2277355;Q4216692;Q267683;Q46830,matched,0
+kong_shangren,Kong Shangren (孔尚任),1648,1718,humanist,25.0,0.0,3,28.0,-3.0,Q514846;Q3525181;Q2277355,matched,0
+siguenza_carlos,Carlos de Sigüenza y Góngora,1645,1700,humanist,10.0,0.0,6,27.5,-17.5,Q3525181;Q514846;Q2277355;Q4216692;Q267683;Q46830,matched,0
+lenclos_ninon,Anne Ninon de Lenclos,1620,1705,letter_writer,40.0,0.0,10,27.0,13.0,Q767960;Q559213;Q7519488;Q43393;Q316949;Q676560;Q8014632;Q108206,matched,0
+wu_chanshi,Wu Chanshi (吴阐思 / 道贤 / 澹斋),1648,1709,artisan,16.0,0.0,3,28.0,-12.0,Q514846;Q3525181;Q2277355,matched,0
+chen_gongyin,Chen Gongyin (陈恭尹),1631,1700,humanist,24.0,0.0,15,24.0,0.0,Q213355;Q676049;Q2347142;Q170373;Q335280;Q108206;Q2248538;Q43393,matched,0
+wei_kun,Wei Kun (魏坤 / 禹平 / 水村),1646,1705,other,14.0,0.0,3,28.0,-14.0,Q3525181;Q514846;Q2277355,matched,0
+yi_yujang,Yi Yu-jang (李惟樟),1625,1701,humanist,31.0,0.0,16,25.0,6.0,Q7519488;Q559213;Q43393;Q316949;Q8014632;Q108206;Q2248538;Q676049,matched,0
+cao_yin,Cao Yin (曹寅),1658,1712,humanist,9.0,0.0,4,27.5,-18.5,Q2277355;Q1256302;Q41166;Q514846,matched,0
+xian_zhu,Xian Zhu (先著),1651,,humanist,,0.0,3,28.0,,Q2277355;Q514846;Q3525181,matched,0
+song_luo,Song Luo,1634,1713,admin,34.0,0.0,16,25.0,9.0,Q4216692;Q267683;Q46830;Q335280;Q2347142;Q170373;Q213355;Q676049,matched,0
+wang_tingcan,Wang Tingcan (王廷灿 / 似斋),1652,1720,humanist,23.0,0.0,3,28.0,-5.0,Q2277355;Q514846;Q3525181,matched,0
+gao_shiqi,Gao Shiqi (高士奇 / 澹人 / 江村),1645,1703,humanist,13.0,0.0,6,27.5,-14.5,Q3525181;Q514846;Q2277355;Q4216692;Q267683;Q46830,matched,0
+shen_andeng,Shen Andeng (沈岸登),1650,1702,humanist,7.0,0.0,3,28.0,-21.0,Q514846;Q2277355;Q3525181,matched,0
+yi_seou,Yi Sŏu (李瑞雨),1633,1709,humanist,31.0,0.0,15,24.0,7.0,Q335280;Q2347142;Q170373;Q4216692;Q267683;Q46830;Q213355;Q676049,matched,0
+ito_jinsai,Itō Jinsai (伊藤仁斎 / 維楨 / 源佐),1627,1705,other,33.0,0.0,16,25.0,8.0,Q43393;Q316949;Q8014632;Q108206;Q7519488;Q2248538;Q676049;Q559213,matched,0
+tang_sunhua,Tang Sunhua (唐孙华 / 东江),1634,1723,humanist,44.0,0.0,16,25.0,19.0,Q4216692;Q267683;Q46830;Q335280;Q2347142;Q170373;Q213355;Q676049,matched,0
+xu_yuzhen,Xu Yuzhen (徐豫贞),1642,,humanist,,0.0,8,30.0,,Q3525181;Q4216692;Q267683;Q46830;Q514846;Q335280;Q2347142;Q170373,matched,0
+he_zhuo,He Zhuo (何焯 / 屺瞻 / 茶仙 / 义门),1661,1722,humanist,16.0,0.0,4,20.5,-4.5,Q1256302;Q41166;Q2277355;Q333148,matched,0
+jiang_cao_shi,Jiang mother nee Cao (蒋文肃母曹氏),1644,1726,other,37.0,0.0,6,27.5,9.5,Q3525181;Q514846;Q4216692;Q267683;Q46830;Q2277355,matched,0
+kangxi_xuanye,Kangxi Emperor (Aisin Gioro Xuanye),1654,1722,ruler,23.0,0.0,4,27.5,-4.5,Q2277355;Q514846;Q1256302;Q3525181,matched,0
+liu_dexin,Liu Dexin (刘德新 / 裕公 / 开原),1647,,other,,0.0,3,28.0,,Q514846;Q3525181;Q2277355,matched,0
+sun_yueban,Sun Yueban (孙岳颁),1639,1708,humanist,24.0,0.0,10,25.5,-1.5,Q4216692;Q267683;Q46830;Q3525181;Q335280;Q2347142;Q170373;Q213355,matched,0
+yang_xuan,Yang Xuan (杨瑄),1658,1726,humanist,23.0,0.0,4,27.5,-4.5,Q2277355;Q1256302;Q41166;Q514846,matched,0
+zha_shenxing,Zha Shenxing (查慎行),1650,1727,humanist,32.0,0.0,3,28.0,4.0,Q514846;Q2277355;Q3525181,matched,0
+flamsteed_john,John Flamsteed,1646,1719,humanist,28.0,0.0,3,28.0,0.0,Q3525181;Q514846;Q2277355,matched,0
+shang_chongnian,Shang Chongnian (尚崇年 / 绳其 / 介轩),1663,1709,other,1.0,0.0,5,13.0,-12.0,Q1256302;Q41166;Q333148;Q206384;Q2277355,matched,0
+song_he,Song He (宋和 / 歙州),1657,,humanist,,0.0,4,27.5,,Q2277355;Q1256302;Q514846;Q41166,matched,0
+liu_fang,Liu Fang (刘坊 / 刘琅 / 鳌石),1658,1713,humanist,10.0,0.0,4,27.5,-17.5,Q2277355;Q1256302;Q41166;Q514846,matched,0
+zhang_boxing,Zhang Boxing (张伯行 / 孝先 / 清恪),1651,1725,admin,29.0,0.0,3,28.0,1.0,Q2277355;Q514846;Q3525181,matched,0
+zhao_shenqiao,Zhao Shenqiao (赵申乔 / 慎旃 / 恭毅),1644,1720,admin,31.0,0.0,6,27.5,3.5,Q3525181;Q514846;Q4216692;Q267683;Q46830;Q2277355,matched,0
+yi_cheon,Yi Cheon (李梴 / 伯脩),1646,1710,humanist,19.0,0.0,3,28.0,-9.0,Q3525181;Q514846;Q2277355,matched,0
+smith_william_melsonby,William Smith of Melsonby,1653,1735,humanist,37.0,0.0,3,28.0,9.0,Q2277355;Q514846;Q3525181,matched,0
+wei_litong,Wei Litong (魏荔彤),1670,,humanist,,0.0,4,12.5,,Q333148;Q206384;Q41166;Q1256302,matched,0
+bian_ruyuan,Bian Ruyuan (边汝元),1653,1715,humanist,17.0,0.0,3,28.0,-11.0,Q2277355;Q514846;Q3525181,matched,0
+hua_huanfang,Hua Huanfang (华浣芳),1695,1717,humanist,0.0,0.0,4,15.0,-15.0,Q208452;Q1291915;Q379902;Q556043,matched,0
+li_guangdi,Li Guangdi (李光地),1642,1718,humanist,31.0,0.0,8,30.0,1.0,Q3525181;Q4216692;Q267683;Q46830;Q514846;Q335280;Q2347142;Q170373,matched,0
+fenelon_francois,François de Salignac de La Mothe-Fénelon,1651,1715,cleric,19.0,0.0,3,28.0,-9.0,Q2277355;Q514846;Q3525181,matched,0
+yu_myeongung,Yu Myeong-ung (俞命雄),1653,1721,humanist,23.0,0.0,3,28.0,-5.0,Q2277355;Q514846;Q3525181,matched,0
+baillie_grisell,Lady Grizel Baillie (née Hume),1665,1746,letter_writer,36.0,0.0,4,12.5,23.5,Q1256302;Q41166;Q333148;Q206384,matched,0
+villeroy_francois,François de Neufville duc de Villeroy,1644,1730,ruler,41.0,0.0,6,27.5,13.5,Q3525181;Q514846;Q4216692;Q267683;Q46830;Q2277355,matched,0
+yi_sun_sukjong,Sukjong of Joseon (Yi Sun / 李焞),1661,1720,ruler,14.0,0.0,4,20.5,-6.5,Q1256302;Q41166;Q2277355;Q333148,matched,0
+huang_zhaochang,Huang Zhaochang (黄兆长 / 体仁 / 心竺 / 德修),1647,1718,humanist,26.0,0.0,3,28.0,-2.0,Q514846;Q3525181;Q2277355,matched,0
+wakabayashi_kyosai,Wakabayashi Kyōsai (若林強斎 / 若林寬齋 / 進居 / 新七),1679,1723,other,0.0,0.0,2,7.5,-7.5,Q206384;Q333148,matched,0
+lin_ji,Lin Ji (林佶 / 吉人 / 鹿原),1660,,humanist,,0.0,3,28.0,,Q1256302;Q41166;Q2277355,matched,0
+wang_zunyi,Wang Zunyi (王遵扆 / 箴六 / 秋涯),1668,1734,humanist,21.0,0.0,4,12.5,8.5,Q41166;Q333148;Q206384;Q1256302,matched,0
+folkes_martin,Martin Folkes,1690,1754,humanist,19.0,21.0,0,,,,unmatched_birth_window,
+jo_jeongman,Jo Jeong-man (趙正萬),1656,1739,humanist,38.0,0.0,3,27.0,11.0,Q2277355;Q514846;Q1256302,matched,0
+li_fu,Li Fu (李绂 / 巨来 / 穆堂),1675,1750,humanist,30.0,0.0,3,13.0,17.0,Q206384;Q333148;Q41166,matched,0
+tian_mai,Tian Mai (田霡 / 子益 / 香城居士),1653,1730,humanist,32.0,0.0,3,28.0,4.0,Q2277355;Q514846;Q3525181,matched,0
+yi_imyeong,Yi Imyeong (李頤命 / 智仁 / 養叔 / 疎齋),1658,1722,humanist,19.0,0.0,4,27.5,-8.5,Q2277355;Q1256302;Q41166;Q514846,matched,0
+yi_jeongsin,Yi Jeongsin (李正臣 / 櫟翁 / 邦彦),1660,1727,humanist,22.0,0.0,3,28.0,-6.0,Q1256302;Q41166;Q2277355,matched,0
 blundell_nicholas,Nicholas Blundell,1669,1737,humanist,23.0,15.0,4,12.5,10.5,Q333148;Q41166;Q206384;Q1256302,matched,0
+wenzhao,Aisin Gioro Wenzhao (文昭),1680,1732,humanist,7.0,0.0,2,7.5,-0.5,Q206384;Q333148,matched,0
+huang_shulin,Huang Shulin (黄叔琳),1672,1756,admin,39.0,0.0,4,12.5,26.5,Q206384;Q333148;Q41166;Q1256302,matched,0
+huang_zhijun,Huang Zhijun (黄之隽 / 石牧 / 𢈪堂),1668,1748,humanist,35.0,0.0,4,12.5,22.5,Q41166;Q333148;Q206384;Q1256302,matched,0
+gao_qizhuo,Gao Qizhuo (高其倬 / 章之 / 芙沼),1676,1738,admin,17.0,0.0,3,13.0,4.0,Q206384;Q333148;Q41166,matched,0
+kong_yuxun,Kong Yuxun,1665,1730,admin,20.0,0.0,4,12.5,7.5,Q1256302;Q41166;Q333148;Q206384,matched,0
+tian_wenjing,Tian Wenjing,1662,1732,admin,25.0,0.0,5,13.0,12.0,Q1256302;Q41166;Q333148;Q2277355;Q206384,matched,0
+yi_jae,Yi Jae (李栽),1657,1730,humanist,28.0,0.0,4,27.5,0.5,Q2277355;Q1256302;Q514846;Q41166,matched,0
+wang_shu,Wang Shu (王澍 / 若林 / 虚舟),1668,1743,humanist,30.0,0.0,4,12.5,17.5,Q41166;Q333148;Q206384;Q1256302,matched,0
+yuan_dong,Yuan Dong (袁栋),1697,1761,humanist,19.0,0.0,5,14.0,5.0,Q208452;Q1291915;Q379902;Q556043;Q34190,matched,0
+gao_qipei,Gao Qipei (高其佩 / 韋之 / 且園),1660,1734,other,29.0,0.0,3,28.0,1.0,Q1256302;Q41166;Q2277355,matched,0
+qin_shichang,Qin Shichang (秦時昌 / 枚諤 / 雪二),1679,1746,humanist,22.0,0.0,2,7.5,14.5,Q206384;Q333148,matched,0
+yinzhen_yongzheng,Yongzheng Emperor (Aisin Gioro Yinzhen),1678,1735,ruler,12.0,0.0,2,7.5,4.5,Q206384;Q333148,matched,0
+yi_ik,Yi Ik (李瀷 / 星湖),1681,1763,humanist,37.0,0.0,2,7.5,29.5,Q206384;Q333148,matched,0
+bak_gyumun,Bak Gyumun (朴奎文 / 文瑞 / 窮窩),1670,1741,humanist,26.0,0.0,4,12.5,13.5,Q333148;Q206384;Q41166;Q1256302,matched,0
+bao_zhen,Bao Zhen (鲍鉁 / 冠亭 / 西冈 / 辛浦),1690,,humanist,,0.0,0,,,,unmatched_birth_window,
+ji_zengyun,Ji Zengyun,1670,1739,admin,24.0,0.0,4,12.5,11.5,Q333148;Q206384;Q41166;Q1256302,matched,0
+chae_jihong,Chae Ji-hong (蔡之洪),1683,1741,humanist,13.0,0.0,0,,,,unmatched_birth_window,
+clerk_john_penicuik,Sir John Clerk of Penicuik 2nd Bt,1676,1755,humanist,34.0,0.0,3,13.0,21.0,Q206384;Q333148;Q41166,matched,0
+gwon_man,Gwon Man (權萬),1688,1749,humanist,16.0,0.0,0,,,,unmatched_birth_window,
+kang_bak,Kang Bak (姜樸),1690,1742,humanist,7.0,0.0,0,,,,unmatched_birth_window,
+yunli,Yunli (允礼 / 胤礼 / 果亲王 / 春和堂),1697,1738,other,0.0,0.0,5,14.0,-14.0,Q208452;Q1291915;Q379902;Q556043;Q34190,matched,0
+zhang_tingyu,Zhang Tingyu (张廷玉),1672,1755,humanist,38.0,0.0,4,12.5,25.5,Q206384;Q333148;Q41166;Q1256302,matched,0
+luo_tianchi,Luo Tianchi (罗天尺 / 履先 / 石湖),1686,,humanist,,0.0,0,,,,unmatched_birth_window,
+wang_cairen,Wang Cairen (王材任 / 澹人 / 西涧),1653,1739,humanist,41.0,0.0,3,28.0,13.0,Q2277355;Q514846;Q3525181,matched,0
+graffigny,Françoise de Graffigny,1695,1758,letter_writer,18.0,0.0,4,15.0,3.0,Q208452;Q1291915;Q379902;Q556043,matched,0
+kim_seongtak,Kim Seong-tak (金聖鐸),1684,1747,humanist,18.0,0.0,0,,,,unmatched_birth_window,
+wu_zhuang,Wu Zhuang (吴庄 / 吴定璋 / 友篁 / 半园),1680,,humanist,,0.0,2,7.5,,Q206384;Q333148,matched,0
+zhao_yu,Zhao Yu (赵昱 / 殿昂 / 功千 / 谷林),1689,1747,humanist,13.0,0.0,0,,,,unmatched_birth_window,
+watts_isaac,Isaac Watts,1674,1748,cleric,29.0,0.0,4,12.5,16.5,Q206384;Q333148;Q41166;Q1256302,matched,0
+yao_peiqian,Yao Peiqian (姚培谦 / 平山 / 鲈香),1693,1766,humanist,28.0,0.0,1,14.0,14.0,Q208452,matched,0
+chen_zi,Chen Zi (陈梓),1683,1759,humanist,31.0,0.0,0,,,,unmatched_birth_window,
+han_wonjin,Han Wonjin (韩元震 / 南塘),1682,1751,humanist,24.0,0.0,1,2.0,22.0,Q206384,matched,0
+seo_jonggeup,Seo Jong-geup (徐宗伋),1688,1762,humanist,29.0,0.0,0,,,,unmatched_birth_window,
+feijoo_benito,Benito Jeronimo Feijoo y Montenegro,1676,1764,humanist,43.0,0.0,3,13.0,30.0,Q206384;Q333148;Q41166,matched,0
+jo_myeongri,Jo Myeong-ri (趙明履),1697,1756,humanist,14.0,0.0,5,14.0,0.0,Q208452;Q1291915;Q379902;Q556043;Q34190,matched,0
+qiao_yujiong,Qiao Yujiong (乔於泂 / 乔于泂 / 休斋),1678,,humanist,,,2,7.5,,Q206384;Q333148,matched,0
+won_gyeongha,Won Gyeong-ha (元景夏),1698,1761,humanist,18.0,0.0,6,15.0,3.0,Q208452;Q1291915;Q379902;Q556043;Q34190;Q903246,matched,0
+liang_wenlian,Liang Wenlian (梁文濂 / 谿父 / 次周),1672,1758,humanist,41.0,0.0,4,12.5,28.5,Q206384;Q333148;Q41166;Q1256302,matched,0
+ji_maiyi,Ji Maiyi (纪迈宜 / 偲亭),1678,,humanist,,0.0,2,7.5,,Q206384;Q333148,matched,0
+jo_yeongseok,Jo Yeong-seok (趙榮祏),1686,1761,artisan,30.0,0.0,0,,,,unmatched_birth_window,
+fu_zeng,Fu Zeng (符曾 / 幼鲁 / 药林 / 春凫),1688,1764,humanist,31.0,0.0,0,,,,unmatched_birth_window,
+sim_jo,Sim Jo (沈潮),1694,1756,humanist,17.0,0.0,2,15.0,2.0,Q208452;Q1291915,matched,0
+yeongjo_yi_geum,Yeongjo of Joseon (Yi Geum / 李昑),1694,1776,ruler,37.0,0.0,2,15.0,22.0,Q208452;Q1291915,matched,0
+yi_cheonbo,Yi Cheon-bo (李天輔),1698,1761,humanist,18.0,0.0,6,15.0,3.0,Q208452;Q1291915;Q379902;Q556043;Q34190;Q903246,matched,0
+jeong_seon,Jeong Seon (鄭敾),1676,1759,artisan,38.0,0.0,3,13.0,25.0,Q206384;Q333148;Q41166,matched,0
+bian_lianbao,Bian Lianbao (边连宝 / 肇畛 / 赵珍 / 随园),1699,1772,humanist,28.0,0.0,9,16.0,12.0,Q208452;Q1291915;Q379902;Q556043;Q34190;Q903246;Q713821;Q183266,matched,0
 jackson_ralph,Ralph Jackson,1736,1790,merchant,9.0,30.0,10,24.0,-15.0,Q161841;Q7788650;Q3809383;Q313498;Q316016;Q371280;Q335060;Q5565890,matched,0
 tye_thomas,Thomas Tye,1713,1783,merchant,25.0,22.0,14,22.5,2.5,Q6900893;Q1232397;Q37160;Q330036;Q713821;Q183266;Q333240;Q903246,matched,0
+yi_bohyeok,Yi Bohyeok (李普赫 / 聲遠 / 仁平君),1684,1762,humanist,33.0,0.0,0,,,,unmatched_birth_window,
+stukeley_william,William Stukeley,1687,1765,humanist,33.0,1.0,0,,,,unmatched_birth_window,
+shen_deqian,Shen Deqian (沈德潜 / 确士 / 归愚),1673,1769,humanist,51.0,0.0,4,12.5,38.5,Q206384;Q333148;Q41166;Q1256302,matched,0
+yi_cheolbo,Yi Cheolbo (李喆輔 / 保叔 / 止庵),1691,,humanist,,0.0,0,,,,unmatched_birth_window,
 richardson_richard_jr,Richard Richardson the younger (Bierley),1708,1781,humanist,28.0,3.3,13,20.0,8.0,Q903246;Q713821;Q183266;Q34190;Q333240;Q330036;Q379902;Q556043,matched,0
 chardin_jean_simeon,Jean-Baptiste-Siméon Chardin,1699,1779,artisan,35.0,2.0,9,16.0,19.0,Q208452;Q1291915;Q379902;Q556043;Q34190;Q903246;Q713821;Q183266,matched,0
 adams_john,John Adams,1735,1826,humanist,46.0,24.0,10,24.0,22.0,Q7788650;Q3809383;Q371280;Q161841;Q313498;Q316016;Q335060;Q5565890,matched,0

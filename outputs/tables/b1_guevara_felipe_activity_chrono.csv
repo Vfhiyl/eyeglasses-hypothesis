@@ -1,0 +1,4 @@
+person_id,date,kind,note,source
+guevara_felipe,1531-01-01,portrait_pin,Vermeyen Portrait of Felipe de Guevara (Clark Art Institute). Ilardi App. III Fig. 39. Soft onset of the portrait pin.,Ilardi 2007 Appendix III; WD painting Q104774572
+guevara_felipe,1560-01-01,dated_treatise,Comentarios de la pintura (WD Q5778946 P577 1560). Written before death 1563; printed later. LABOR TIP years_after=29 from 1531.,Wikidata Q5778946 / Q2918172
+guevara_felipe,1563-01-01,death_terminus_not_ya,Died 1563. Survival bound only — do not use as labor tip.,Wikidata Q2918172 P570

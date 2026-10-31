@@ -1,0 +1,5 @@
+person_id,date,kind,note,source
+davila_osorio_velada,1615-11-27,birth,Born 27 Nov 1615 Madrid (WD year-precision 1615).,Wikidata Q11679880 P569; RAH / eswiki
+davila_osorio_velada,1658-01-01,portrait_wear_pin,"Alonso Cano portrait 1657–60 (priv. coll.): wears round pince-nez / quevedos with high arched bridge. Soft onset 1658 (mid of Cano's second Madrid stay).",Commons File:Antonio Álvarez Osorio by Alonso Cano (1657-60, priv. coll.).jpg; local wave24 crop
+davila_osorio_velada,1664-01-01,dated_office_act,Viceroy of Valencia 1664–66. LABOR TIP years_after=6 from 1658. Do not use overlapping Orán governorship 1652–60 as the later act.,PARES / eswiki
+davila_osorio_velada,1689-02-27,death_terminus_not_ya,Died 27 Feb 1689 Madrid. Survival bound only — do not use as labor tip.,Wikidata Q11679880 P570

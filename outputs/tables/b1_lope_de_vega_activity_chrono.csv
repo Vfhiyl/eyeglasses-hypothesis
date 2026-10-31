@@ -1,0 +1,4 @@
+person_id,date,kind,note,source
+lope_de_vega,1562-11-25,birth,Born 25 Nov 1562 Madrid.,Wikidata Q165257 P569
+lope_de_vega,1612-03-02,self_report_wear,"Carta 57 to the Duke of Sessa: yo leí unos versos con unos antojos de Cervantes. ONSET living first-person reading pin March 1612.",González de Amezúa 1935:3 p.95; Anuario Lope de Vega 32 (2026)
+lope_de_vega,1635-08-27,death_terminus_not_ya,Died 27 Aug 1635 Madrid. Survival bound only — do not use as labor tip.,Wikidata Q165257 P570

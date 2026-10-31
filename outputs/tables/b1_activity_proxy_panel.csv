@@ -76,3 +76,196 @@ nino_de_guevara,1600,medium,el_greco_portrait_plus_wd_seville_archbishop_1601,2,
 quevedo_francisco,1632,medium,velazquez_portrait_plus_wd_cuna_sepultura_1634,2,0,2,2,1,,ONSET soft ~1632 Velázquez large-lens portrait. WD Q3821987 La cuna y la sepultura 1634. years_after=2. Death 1645 ≠ tip. hard=False. WAVE17.,False
 morigia_paolo,1596,medium,galizia_portrait_plus_gesuati_history_1604,2,0,2,8,1,,"ONSET soft 1596 Galizia portrait hold. itwiki: Historia degli uomini illustri che furono Gesuati, Venice 1604. years_after=8. Death 1604 same year ≠ second tip. hard=False. WAVE17.",False
 chardin_jean_simeon,1775,medium,heymann_1775_1777_temple_spectacle_self_portraits,2,0,2,2,1,,ONSET 1775 Heymann: portraits show temple spectacles in 1775 and 1777. years_after=2 to 1777. Death 1779 ≠ tip. hard=False. WAVE17 new.,False
+guevara_felipe,1531,medium,wd_comentarios_pintura_1560_after_vermeyen_portrait,2,0,2,29,1,,ONSET soft 1531 Vermeyen portrait. WD Q5778946 Comentarios de la pintura P577 1560. years_after=29. Death 1563 ≠ tip. hard=False. WAVE18.,False
+folkes_martin,1720,medium,wd_prs_president_1741_after_hogarth_sketch,2,0,2,21,1,,ONSET soft c.1720 Hogarth eyeglasses sketch. WD Q325849 P39 PRS president 1741–52. years_after=21. Death 1754 ≠ tip. Born 1690. hard=False. WAVE18.,False
+sansovino_jacopo,1550,medium,fabbriche_nuove_scala_oro_after_heymann_self_relief,3,0,3,8,1,,ONSET soft ~1550 Heymann self-relief wear. Fabbriche Nuove 1554; Scala d'Oro 1555–58. years_after=8 to 1558. Death 1570 ≠ tip. hard=False. WAVE18.,False
+joris_van_der_paele,1436,medium,second_chapel_1442_after_van_eyck_portrait,2,0,2,6,1,,ONSET soft 1436 van Eyck portrait (removed reading glasses). Founded second chapel 1442. years_after=6. Death 1443 ≠ tip. Correct QID Q23619030. hard=False. WAVE18.,False
+borghini_vincenzo,1570,medium,studiolo_francesco_i_1575_after_poppi_portrait,2,0,2,5,1,,ONSET soft ~1570 Poppi portrait (spectacles on table). Devised Studiolo of Francesco I 1570–75. years_after=5 to 1575. Death 1580 ≠ tip. Correct QID Q1459953. hard=False. WAVE18.,False
+caetani_francesco,1661,medium,viceroy_sicily_1663_after_sermoneta_portrait,3,0,3,2,1,,ONSET soft 1660–62 Palazzo Caetani portrait (midpoint 1661). Took office as Viceroy of Sicily Palermo 8 Mar 1663. years_after=2. Death 1683 ≠ tip. Correct QID Q3749697. hard=False. WAVE18.,False
+savonarola_michele,1455,medium,ad_mulieres_ferrarienses_1460_after_archiginnasio_portrait,2,0,2,5,1,,ONSET soft 1455 Archiginnasio portrait wear. Ad mulieres ferrarienses composed ~1460. years_after=5. Death 1468 ≠ tip. Do not use 1485–87 posthumous prints. Correct QID Q3310841. hard=False. WAVE18.,False
+mielot_jean,1456,medium,romuleon_1463_after_bnf_9198_desk_portrait,2,0,2,7,1,,ONSET soft 1456 BNF Fr. 9198 writing portrait (lunettes at desk). Romuléon translation 1463. years_after=7. Death 1472 ≠ tip. hard=False. WAVE18 new.,False
+bokenham_osbern,1443,high,legendys_1447_after_margaret_selfreport,2,0,2,4,1,,ONSET 1443-09-07 Margaret vita self-report of spectacle help. Legendys compilation 1447. years_after=4. Death ~1464 ≠ tip. hard=False. WAVE18 new.,False
+dudley_robert_leicester,1586,high,governor_general_1587_after_hague_purchase,2,0,2,1,1,,ONSET 1586-01-30 Hague 3-pair personal purchase. Still Governor-General through 1587. years_after=1. Death 1588 ≠ tip. hard=False. WAVE18.,False
+pitti_miniato,1544,medium,mhs_1558_quadrant_after_vasari_fresco,2,0,2,14,1,,ONSET soft 1544 Vasari/Ilardi fresco holds eyeglasses. Dated 1558 Oxford MHS quadrant. years_after=14. Death 1566 ≠ tip. Identity now pinned (it.wiki / Rosen 2003). hard=False. WAVE19.,False
+velasco_luis_hijo,1590,medium,second_viceroyalty_1607_after_1590_portrait,3,0,3,17,1,,ONSET soft 1590 first-term viceregal portrait wearing spectacles. Second term 1607 (second portrait still wearing). years_after=17. Death 1617 ≠ tip. hard=False. WAVE19 new.,False
+nigris_toma,1527,medium,letter_1532_after_lotto_1527_desk_portrait,3,0,3,5,1,,ONSET soft 1527 Lotto portrait (spectacles on praying desk). FROM-him letter 24 Jun 1532 Venice to Clement VII. years_after=5. Sanudo 1528 Venice appearance is intermediate. Death after 1532 ≠ tip. hard=False. WAVE20.,False
+willmann_michael,1675,medium,wd_p170_1678_ancestors_after_1675_self_portrait,2,0,2,3,1,,ONSET 1675 Selbstbildnis mit Brille etching. WD P170 Q117227559 Ancestors of Jesus 1678. years_after=3. Death 1706 ≠ tip. hard=False. WAVE20 new.,False
+porzi_giovanni_rocco,1448,medium,monastero_maggiore_1455_after_ma493_desk_portrait,2,0,2,7,1,,ONSET soft 1447–48 MA 493 author/desk portrait (lunettes on desk). 1455 Tortona chapter: spiritual father Monastero Maggiore Milan. years_after=7. Death 1461 ≠ tip. hard=False. WAVE20 new.,False
+alessandro_bentivoglio,1493,medium,milan_office_1531_after_costa_1493_portrait,2,0,2,38,1,,ONSET soft 1493 Costa group portrait (lower right wears spectacles). WD Q3609838 P39 office from 1 Mar 1531. years_after=38. Death 1532 ≠ tip. hard=False. WAVE20 new.,False
+stukeley_william,1763,high,whitehall_eclipse_1764_after_1763_selfreport,2,0,2,1,1,,ONSET 1763-10-30 memoir: first preached in spectacles. 1764-04-01 Whitehall Evening Post eclipse paragraph. years_after=1. Death 1765 ≠ tip. hard=False. WAVE20 new.,False
+philip_ii_spain,1584,high,zayas_1584_living_order,1,0,1,0,1,,ONSET 1584-08-25 Zayas living wear + 6-pair order. years_after=0. Death 1598 ≠ tip. hard=False. WAVE21 old lift.,False
+granvelle_antoine,1558,high,vargas_1558_reorder,1,0,1,0,1,,ONSET 1558-05-02 minuta thank-you + sample reorder. years_after=0. Death 1586 ≠ tip. hard=False. WAVE21 new.,False
+mendoza_diego_hurtado,1558,medium,vargas_1558_diego_tomo,1,0,1,0,1,,ONSET 1558-05-02 named living possession (los tomó). years_after=0. Death 1575 ≠ tip. hard=False. WAVE21 new.,False
+granvelle_nicolas,1545,high,wotton_1545_held_up_spectacles,1,0,1,0,1,,ONSET 1545-02-12 Wotton eyewitness: held up spectacles. years_after=0. Death 1550 ≠ tip. hard=False. WAVE21 new.,False
+wedderburn_peter,1619,high,compt_buik_1619_silver_gift,1,0,1,0,1,,ONSET 1619-09-08 living gift of one silver pair. years_after=0. Death 1623 ≠ tip. hard=False. WAVE21 new.,False
+oecolampadius_johannes,1521,high,staehelin_101_1521_specula,1,0,1,0,1,,ONSET 1521-03-30 living reorder of speculum oculare nocturnum / talia specula. years_after=0. Death 1531 ≠ tip. hard=False. WAVE21 new.,False
+adelmann_bernhard,1521,high,staehelin_101_1521_specula,1,0,1,0,1,,ONSET 1521-03-30 living self-order of talia specula (utrisque nobis). years_after=0. Death 1523 ≠ tip. hard=False. WAVE21 new.,False
+bembo_pietro,1545,high,querini_1545_used_occhiali,1,0,1,0,1,,ONSET 1545-05-16 first-person: used spectacles all this time. years_after=0. Death 1547 ≠ tip. hard=False. WAVE21 new.,False
+lipsius_justus,1602,high,kbr_ile_from_him_plus_moretus_return,24,14,10,3.4,0.42,,ONSET 1602-09-30 living broken-pair return/reorder. FROM-him densify KBR/ILE 1599–1606; last living 1606-02-15 (ile 06 02 15 b). years_after=3.4. Death 1606-03-23 ≠ tip. hard=True.,True
+dingley_rebecca,1710,high,swift_1710_dingley_spectacles,1,0,1,0,1,,ONSET 1710-11-13 living named pair bespoke at Ludgate. years_after=0. Death 1743 ≠ tip. hard=False. WAVE21 new.,False
+clerk_john_penicuik,1735,high,clerk_1735_memoir_spectacles,1,0,1,0,1,,ONSET 1735 first-person: used spectacles after eyes failed at 48. years_after=0. Death 1755 ≠ tip. hard=False. WAVE21 new.,False
+siguenza_carlos,1692,high,robles_1692_broke_anteojos,1,0,1,0,1,,ONSET 1692-10-12 Robles: glasses broken on his face. years_after=0. Death 1700 ≠ tip. hard=False. WAVE21 new.,False
+villeroy_francois,1716,high,saintsimon_1716_lunettes,1,0,1,0,1,,ONSET 1716 living eyewitness: put on lunettes to read a paper at council. years_after=0. Death 1730 ≠ tip. hard=False. WAVE21 new.,False
+foulis_john_ravelston,1689,high,foulis_1689_my_spectacles,1,0,1,0,1,,ONSET 1689-03 living personal pair + silver case (tip for saver). years_after=0. Death 1707 ≠ tip. hard=False. WAVE21 new.,False
+baillie_grisell,1716,high,baillie_1716_spectickles,1,0,1,0,1,,ONSET 1716-01-07 living pair + mending (also 1715 spectickle eye; 1716-07-31 pair). years_after=0. Death 1746 ≠ tip. hard=False. WAVE21 new.,False
+anethan_johann,1642,high,anethan_1642_brillen,1,0,1,0,1,,ONSET 1642-09-15 living 2-pair Brillen order via Constante. years_after=0. Death 1668 ≠ tip. hard=False. WAVE22 new.,False
+lenclos_ninon,1694,high,lenclos_1694_lunettes,1,0,1,0,1,,ONSET 1694 first-person: read a letter avec des lunettes. years_after=0. Death 1705 ≠ tip. hard=False. WAVE22 new.,False
+poppe_proviantverwalter,1661,high,poppe_1661_brillen,1,0,1,0,1,,ONSET 1661-04-21 living one-pair Brillen order from Wiesel. years_after=0. No OA death. hard=False. WAVE22 new.,False
+bonsi_giovanni,1464,high,bonsi_1464_occhiali,1,0,1,0,1,,ONSET 1464-03-22 named finest-pair order/gift. years_after=0. Death before 1480 ≠ tip. hard=False. WAVE22 new.,False
+maximilian_bavaria,1639,high,maximilian_1639_augenglaser,1,0,1,0,1,,ONSET 1639 living 9 Augengläßer from Wiesel. years_after=0. Death 1651 ≠ tip. hard=False. WAVE22 new.,False
+walmsley_thomas,1598,high,walmsley_1598_gold_spectacles,1,0,1,0,1,,ONSET 1598-12-14 named living gold-spectacle gift. years_after=0. Death 1612 ≠ tip. hard=False. WAVE22 new.,False
+hooke_richard_halifax,1682,high,hooke_1682_spectacles,1,0,1,0,1,,ONSET 1682-06-18 eyewitness: put on spectacles to read a paper. years_after=0. Death 1688 ≠ tip. hard=False. WAVE22 new.,False
+strauch_rudolf,1653,high,strauch_1653_brille,1,0,1,0,1,,ONSET 1653 living personal fitting (Hartlib/Keil). years_after=0. Death 1681 ≠ tip. hard=False. WAVE22 new.,False
+driebergen_jacob,1502,medium,choir_cornerstone_1508_after_1502_portrait,3,0,3,6,1,,ONSET soft 1502 portrait holds rivet spectacles. Bells 1506-03-08; dean election 1506-10-31; choir cornerstone 1508-06-02. years_after=6 to 1508. Death 1509 ≠ tip. hard=False. WAVE22 Path B.,False
+desmares_toussaint,1671,high,desmares_1671_lunettes,1,0,1,0,1,,ONSET 1671-03-20 eyewitness: read a pulpit note avec ses lunettes. years_after=0. Death 1687 ≠ tip. hard=False. WAVE22 new.,False
+maintenon_francoise,1690,medium,maintenon_1690_lunettes,1,0,1,0,1,,ONSET ~1690 eyewitness: took lunettes and began tapestry in the King's coach. Year soft. years_after=0. Death 1719 ≠ tip. hard=False. WAVE22 new.,False
+monconys_balthasar,1664,high,monconys_1664_paire_lire,1,0,1,0,1,,ONSET 1664-02 living one-pair reading order at Depiere. years_after=0. Death 1665 ≠ tip. hard=False. WAVE22 new.,False
+gelves_diego,1621,medium,tumult_1624_after_1621_portrait,2,0,2,3,1,,ONSET soft 1621 portrait wears spectacles. Still viceroy 1624-01-15 tumult. years_after=3 to 1624. Death 1636 ≠ tip. hard=False. WAVE22 Path B.,False
+tadeo_juan_eliseo,1620,high,tadeo_1620_occhiali,1,0,1,0,1,,ONSET 1620-03-03 eyewitness: Shah takes his ear-loop occhiali; he has just read a letter aloud. years_after=0. Death 1633 ≠ tip. hard=False. WAVE22 new.,False
+feijoo_benito,1745,high,feijoo_1745_anteojos,1,0,1,0,1,,ONSET 1745 first-person: anteojos already on his nose in the cell. years_after=0. Death 1764 ≠ tip. hard=False. WAVE22 new.,False
+fenelon_francois,1714,high,fenelon_1714_lunettes,1,0,1,0,1,,ONSET 1714-11-22 first-person: mes lunettes sur le nez while reading. years_after=0. Death 1715 ≠ tip. hard=False. WAVE23 new.,False
+lope_de_vega,1612,high,lope_1612_antojos,1,0,1,0,1,,ONSET 1612-03-02 first-person: read verses with Cervantes's antojos. years_after=0. Death 1635 ≠ tip. hard=False. WAVE23 new.,False
+watts_isaac,1740,high,watts_1740_spectacles,1,0,1,0,1,,ONSET 1740-09-18 first-person: my Spectacles to read letters. years_after=0. Death 1748 ≠ tip. hard=False. WAVE23 new.,False
+johann_friedrich_brunswick,1657,high,johann_friedrich_1657_brille,1,0,1,0,1,,ONSET 1657 living one-pair Brille from Wiesel. years_after=0. Death 1679 ≠ tip. hard=False. WAVE23 new.,False
+wolf_oberamtmann,1657,high,wolf_1657_brille,1,0,1,0,1,,ONSET 1657 living one-pair Brille. years_after=0. No OA death. hard=False. WAVE23 new.,False
+hull_judith,1689,high,hull_1689_spectacles,1,0,1,0,1,,ONSET 1689-03-27 named living pair+case gift. years_after=0. Death 1695 ≠ tip. hard=False. WAVE23 new.,False
+davila_osorio_velada,1658,medium,valencia_1664_after_1658_portrait,2,0,2,6,1,,ONSET soft 1658 Cano portrait wears quevedos. Viceroy of Valencia 1664. years_after=6 to 1664. Death 1689 ≠ tip. hard=False. WAVE23 Path B.,False
+solis_antonio,1670,medium,historia_1684_after_1670_portrait,2,0,2,14,1,,ONSET soft 1670 Lázaro Galdiano quevedos. Historia de México 1684. years_after=14 to 1684. Death 1686 ≠ tip. hard=False. WAVE23 Path B.,False
+cervantes_miguel,1612,medium,quijote_ii_1615_after_1612_pair,2,0,2,3,1,,ONSET soft 1612 living pair (Lope reads with Cervantes's antojos). Quijote II 1615. years_after=3 to 1615. Death 1616 ≠ tip. hard=False. WAVE23 Path B.,False
+yinzhen_yongzheng,1729,high,yinzhen_1729_ziji_yanjing,1,0,1,0,1,,ONSET 1729 first-person 朕帶的眼鏡. years_after=0. Death 1735 ≠ tip. hard=False. WAVE24 new.,False
+tian_wenjing,1724,high,tian_1724_shuijing_yanjing,1,0,1,0,1,,ONSET 1724 living 60-sui crystal pair (40-sui pair earlier same year). years_after=0. Death 1732 ≠ tip. hard=False. WAVE24 new.,False
+kong_yuxun,1724,high,kong_1724_neizao_yanjing,1,0,1,0,1,,ONSET 1724 first-person reading wear of palace-made pair. years_after=0. Death 1730 ≠ tip. hard=False. WAVE24 new.,False
+ji_zengyun,1733,high,ji_1733_wenyi_yanjing,1,0,1,0,1,,ONSET 1733 first-person need/fit of living one-pair desk gift. years_after=0. Death 1739 ≠ tip. hard=False. WAVE24 new.,False
+song_luo,1699,high,song_1699_wenshu_yanjing,1,0,1,0,1,,ONSET 1699 first-person need of spectacles for reading documents. years_after=0. Death 1713 ≠ tip. hard=False. WAVE24 new.,False
+kangxi_xuanye,1703,high,kangxi_1703_xianpei,1,0,1,0,1,,ONSET 1703 eyewitness: pair Kangxi was wearing gifted to Song Luo. years_after=0. Death 1722 ≠ tip. hard=False. WAVE24 new.,False
+flamsteed_john,1705,high,flamsteed_1705_haste_spectacles,1,0,1,0,1,,ONSET 1705 first-person haste and spectacles while copying a refraction table. years_after=0. Death 1719 ≠ tip. hard=False. WAVE25 new.,False
+leontorius_conrad,1507,high,leontorius_1507_naso_meo,1,0,1,0,1,,ONSET 1507 first-person wear on the nose. years_after=0. Death 1511 ≠ tip. hard=False. WAVE25 new.,False
+rodrigues_jeronimo,1605,high,rodrigues_1605_oculos_quebrados,1,0,1,0,1,,ONSET 1605 first-person pair that broke on the descent from Santos. years_after=0. Death 1631 ≠ tip. hard=False. WAVE25 new.,False
+yamashina_tokitsune,1593,high,tokitsune_1593_megane,1,0,1,0,1,,ONSET 1593 living one-pair 目カ子 gift in his own diary. years_after=0. Death 1611 ≠ tip. hard=False. WAVE25 new.,False
+ouchi_yoshitaka,1551,medium,ouchi_1551_oculos,1,0,1,0,1,,ONSET 1551 named living diplomatic oculos. years_after=0. Death 1551 ≠ tip. hard=False. WAVE25 new.,False
+leeuwenhoek_antoni,1687,high,leeuwenhoek_1687_bril,1,0,1,0,1,,ONSET 1687 first-person sonder bril while examining worms. years_after=0. Death 1723 != tip. hard=False. WAVE25 new.,False
+wu_kuan,1496,high,wu_1496_xiyu_yanjing,1,0,1,0,1,,ONSET 1496 first-person reading of wenshu with living gifted pair. years_after=0. Death 1504 != tip. hard=False. WAVE25 new.,False
+qian_qianyi,1630,high,qian_1630_yanjing_pian,1,0,1,0,1,,ONSET 1630 first-person past wear of his own Hanlin pair. years_after=0. Death 1664 != tip. hard=False. WAVE25 new.,False
+zhang_yaofang,1627,high,zhang_yaofang_1627_guabi,1,0,1,0,1,,ONSET 1627 son eyewitness of living wear on the nose while writing. years_after=0. Death 1632 != tip. hard=False. WAVE25 new.,False
+hu_ying,1430,high,hu_1430_xuande_gift,1,0,1,0,1,,ONSET 1430 named living imperial reading pair. years_after=0. Death 1463 != tip. hard=False. WAVE25 new.,False
+xu_bo,1630,high,xu_1630_laotai,1,0,1,0,1,,ONSET 1630 first-person late-life writing wear. years_after=0. Death 1639 != tip. hard=False. WAVE25 new.,False
+lou_jian,1628,high,lou_1628_youren_zeng,1,0,1,0,1,,ONSET 1628 living gifted pair + first-person late-life reading need. years_after=0. Death 1631 != tip. hard=False. WAVE25 new.,False
+huang_shulin,1723,high,huang_1723_jinshi,1,0,1,0,1,,ONSET 1723 living two-pair myopia gift. years_after=0. Death 1756 != tip. hard=False. WAVE25 new.,False
+sun_yueban,1703,high,sun_1703_jingjing,1,0,1,0,1,,ONSET 1703 named living imperial crystal-spectacle gift. years_after=0. Death 1708 != tip. hard=False. WAVE25 new.,False
+jiang_cao_shi,1703,high,jiang_cao_1703_yanhun,1,0,1,0,1,,ONSET 1703 named living imperial gift for aged dim sight. years_after=0. Death 1726 != tip. hard=False. WAVE25 new.,False
+zha_shenxing,1703,high,zha_1703_xizi,1,0,1,0,1,,ONSET 1703 first-person fine-character wear of living palace pair. years_after=0. Death 1727 != tip. hard=False. WAVE26 new.,False
+lin_dachun,1573,high,lin_1573_kanwenzhang,1,0,1,0,1,,ONSET 1573 named living reading wear. years_after=0. Death 1588 != tip. hard=False. WAVE26 new.,False
+chen_maoren,1628,high,chen_maoren_1628_aidai,1,0,1,0,1,,ONSET 1628 first-person obtain after reading/writing failure. years_after=0. No invented death. hard=False. WAVE26 new.,False
+chen_gongyin,1695,high,chen_gongyin_1695_shuijing,1,0,1,0,1,,ONSET 1695 first-person return to wan-juan after living gift. years_after=0. Death 1700 != tip. hard=False. WAVE26 new.,False
+chu_renhuo,1690,high,chu_1690_mingyou,1,0,1,0,1,,ONSET 1690 first-person daily study-companion wear. years_after=0. hard=False. WAVE26 new.,False
+chen_que,1660,high,chen_que_1660_song,1,0,1,0,1,,ONSET 1660 first-person hymn of aged sight. years_after=0. Death 1677 != tip. hard=False. WAVE26 new.,False
+tao_ji,1685,high,tao_1685_deyou,1,0,1,0,1,,ONSET 1685 first-person late-life reading companion. years_after=0. Death 1699 != tip. hard=False. WAVE26 new.,False
+kong_shangren,1691,high,kong_1691_shiyan,1,0,1,0,1,,ONSET 1691 first-person purchase and reading wear. years_after=0. Death 1718 != tip. hard=False. WAVE26 new.,False
+fu_shan,1675,high,fu_1675_lengjia,1,0,1,0,1,,ONSET 1675 first-person late-life reading wear. years_after=0. Death 1684 != tip. hard=False. WAVE26 new.,False
+yan_ermei,1678,high,yan_1678_yingzi,1,0,1,0,1,,ONSET 1678 first-person late-life reading of classics. years_after=0. Death 1679 != tip. hard=False. WAVE26 new.,False
+qian_chengzhi,1662,high,qian_1662_siyou,1,0,1,0,1,,ONSET 1662 first-person writing-companion wear at fifty. years_after=0. Death 1693 != tip. hard=False. WAVE26 new.,False
+chen_shiyang,1690,high,chen_shiyang_1690_ge,1,0,1,0,1,,ONSET 1690 first-person daily wear after purchased Western pair. years_after=0. No invented death. hard=False. WAVE26 new.,False
+yang_xuan,1703,high,yang_1703_qiuying,1,0,1,0,1,,ONSET 1703 first-person fine-character wear of living palace pair. years_after=0. Death 1726 != tip. hard=False. WAVE26 new.,False
+inigo_jones,1636,high,inigo_1636_occhiali,1,0,1,0,1,,ONSET 1636 named living wear of spectacles for close looking. years_after=0. Death 1652 != tip. hard=False. WAVE26 new.,False
+cao_yin,1698,high,cao_1698_peishan,1,0,1,0,1,,ONSET 1698 first-person desk-writing 咏物 of spectacles. years_after=0. Death 1712 != tip. hard=False. WAVE26 new.,False
+xu_yuzhen,1702,high,xu_1702_huanjing,1,0,1,0,1,,ONSET 1702 first-person replacement of a reading pair. years_after=0. No invented death. hard=False. WAVE27 new.,False
+jin_zhang,1691,high,jin_1691_dengqian,1,0,1,0,1,,ONSET 1691 first-person lamp-lit fine-note wear of a living gifted pair. years_after=0. No invented death. hard=False. WAVE27 new.,False
+wenzhao,1722,high,wenzhao_1722_wenshu,1,0,1,0,1,,ONSET 1722 first-person document wear. years_after=0. Death 1732 != tip. hard=False. WAVE27 new.,False
+shen_andeng,1700,high,shen_1700_chaoshu,1,0,1,0,1,,ONSET 1700 first-person late-life copying wear. years_after=0. Death 1702 != tip. hard=False. WAVE27 new.,False
+chen_zi,1742,high,chen_zi_1742_shuangriyue,1,0,1,0,1,,ONSET 1742 first-person writing wear of a living gifted ink-crystal pair. years_after=0. Death 1759 != tip. hard=False. WAVE27 new.,False
+yuan_dong,1726,high,yuan_1726_keshu,1,0,1,0,1,,ONSET 1726 first-person adult myopia wear for reading/writing. years_after=0. Death 1761 != tip. hard=False. WAVE27 new.,False
+zhou_rong,1660,high,zhou_1660_dengxia,1,0,1,0,1,,ONSET 1660 first-person lamp-lit reading/writing of a living gifted pair. years_after=0. Death 1679 != tip. hard=False. WAVE27 new.,False
+wei_litong,1710,high,wei_1710_yingtou,1,0,1,0,1,,ONSET 1710 first-person fine-character reading wear of an ink-crystal pair. years_after=0. No invented death. hard=False. WAVE27 new.,False
+yi_sun_sukjong,1716,high,sukjong_1716_subae,1,0,1,0,1,,ONSET 1716 first-person fine-script reading wear. years_after=0. Death 1720 != tip. hard=False. WAVE27 new.,False
+song_jungil,1660,high,song_1660_gaiti,1,0,1,0,1,,ONSET 1660 first-person rewriting of ancestral tablets with glasses. years_after=0. Death 1672 != tip. hard=False. WAVE27 new.,False
+yi_hyeonil,1689,high,hyeonil_1689_guahun,1,0,1,0,1,,ONSET 1689 first-person hang-on-the-eyes of a living gifted pair. years_after=0. Death 1704 != tip. hard=False. WAVE27 new.,False
+yi_jae,1724,high,yijae_1724_zhanbi,1,0,1,0,1,,ONSET 1724 first-person reading/writing wear of inherited pair. years_after=0. Death 1730 != tip. hard=False. WAVE27 new.,False
+yeongjo_yi_geum,1752,high,yeongjo_1752_kanshu,1,0,1,0,1,,ONSET 1752 first-person reading wear. years_after=0. Death 1776 != tip. hard=False. WAVE27 new.,False
+jeong_seon,1754,high,jeongseon_1754_yehua,1,0,1,0,1,,ONSET 1754 eyewitness: wears glasses and can paint at night. years_after=0. Death 1759 != tip. hard=False. WAVE27 new.,False
+jo_yeongseok,1748,high,joyeong_1748_zhaobao,1,0,1,0,1,,ONSET 1748 first-person gazette/copy wear. years_after=0. Death 1761 != tip. hard=False. WAVE27 new.,False
+won_gyeongha,1746,high,won_1746_kanshu,1,0,1,0,1,,ONSET 1746 first-person reading wear. years_after=0. Death 1761 != tip. hard=False. WAVE27 new.,False
+yi_cheonbo,1752,high,cheonbo_1752_kanshu,1,0,1,0,1,,ONSET 1752 first-person long-term reading wear. years_after=0. Death 1761 != tip. hard=False. WAVE27 new.,False
+jo_myeongri,1746,high,myeongri_1746_kanli,1,0,1,0,1,,ONSET 1746 first-person calendar reading wear. years_after=0. Death 1756 != tip. hard=False. WAVE27 new.,False
+bian_ruyuan,1713,high,bian_1713_kedou,1,0,1,0,1,,ONSET 1713 first-person night reading/writing of a living gifted pair. years_after=0. Death 1715 != tip. hard=False. WAVE27 new.,False
+xian_zhu,1698,high,xian_1698_zuozi,1,0,1,0,1,,ONSET 1698 first-person writing/night-reading of a living gifted pair. years_after=0. No invented death. hard=False. WAVE27 new.,False
+ding_zhuo,1678,high,ding_1678_goudeng,1,0,1,0,1,,ONSET 1678 first-person purchase and lamp-lit reading wear. years_after=0. No invented death. hard=False. WAVE27 new.,False
+xu_jie,1670,high,xujie_1670_fendian,1,0,1,0,1,,ONSET 1670 first-person Western-pair wear for classics and stroke-level reading. years_after=0. Death 1698 != tip. hard=False. WAVE27 new.,False
+wang_tingcan,1699,high,wangtc_1699_banbi,1,0,1,0,1,,ONSET 1699 first-person lamp-lit reading/writing of a living gifted pair. years_after=0. Death 1720 != tip. hard=False. WAVE27 new.,False
+yi_yujang,1695,high,yujang_1695_duijuan,1,0,1,0,1,,ONSET 1695 first-person living gifted-pair reading wear. years_after=0. Death 1701 != tip. hard=False. WAVE27 new.,False
+chae_jihong,1735,high,chae_1735_duijuan,1,0,1,0,1,,ONSET 1735 first-person crystal-pair reading wear. years_after=0. Death 1741 != tip. hard=False. WAVE27 new.,False
+yu_sangun,1683,high,yusangun_1683_maiyan,1,0,1,0,1,,ONSET 1683 first-person purchase and reading/writing wear. years_after=0. Death 1707 != tip. hard=False. WAVE27 new.,False
+yi_seou,1700,high,seou_1700_yingtou,1,0,1,0,1,,ONSET 1700 first-person household crystal-pair fine-line reading. years_after=0. Death 1709 != tip. hard=False. WAVE27 new.,False
+jo_jeongman,1720,high,jeongman_1720_xizi,1,0,1,0,1,,ONSET 1720 first-person fine-character all-day wear. years_after=0. Death 1739 != tip. hard=False. WAVE27 new.,False
+kim_seongtak,1739,high,seongtak_1739_jieming,1,0,1,0,1,,ONSET 1739 first-person daytime reading wear. years_after=0. Death 1747 != tip. hard=False. WAVE27 new.,False
+gwon_man,1735,high,gwonman_1735_kanshu,1,0,1,0,1,,ONSET 1735 first-person old-age reading wear. years_after=0. Death 1749 != tip. hard=False. WAVE27 new.,False
+seo_jonggeup,1744,high,jonggeup_1744_xingmo,1,0,1,0,1,,ONSET 1744 first-person daytime script wear. years_after=0. Death 1762 != tip. hard=False. WAVE27 new.,False
+sim_jo,1750,high,simjo_1750_kanshu,1,0,1,0,1,,ONSET 1750 first-person late-life reading wear of a living gifted pair. years_after=0. Death 1756 != tip. hard=False. WAVE27 new.,False
+kang_bak,1735,high,kangbak_1735_ximo,1,0,1,0,1,,ONSET 1735 first-person desk-object reading wear. years_after=0. Death 1742 != tip. hard=False. WAVE27 new.,False
+li_guangdi,1713,high,guangdi_1713_kanshu,1,0,1,0,1,,ONSET 1713 two independent eyewitnesses of living document wear. years_after=0. Death 1718 != tip. hard=False. WAVE27 new.,False
+yi_ik,1731,high,yiik_1731_yingtou,1,0,1,0,1,,ONSET 1731 first-person living gifted-pair fine-character reading. years_after=0. Death 1763 != tip. hard=False. WAVE27 new.,False
+yu_myeongung,1715,high,myeongung_1715_xizi,1,0,1,0,1,,ONSET 1715 son report of living late-life 細字 wear. years_after=0. Death 1721 != tip. hard=False. WAVE27 new.,False
+tang_sunhua,1702,high,tangsh_1702_linwen,1,0,1,0,1,,ONSET 1702 first-person living gifted-pair reading/writing. years_after=0. Death 1723 != tip. hard=False. WAVE27 new.,False
+fan_fang,1691,high,fanfang_1691_yesidu,1,0,1,0,1,,ONSET 1691 first-person night reading wear. years_after=0. hard=False. WAVE27 new. Birth blank.,False
+huang_zhijun,1723,high,huangzj_1723_yanjingming,1,0,1,0,1,,ONSET 1723 first-person living pair for literary labor. years_after=0. Death 1748 != tip. hard=False. WAVE27 new.,False
+wu_chanshi,1694,high,wuchanshi_1694_xizishu,1,0,1,0,1,,ONSET 1694 first-person lamp-lit writing/reading wear. years_after=0. Death 1709 != tip. hard=False. WAVE27 new.,False
+wu_sugong,1689,high,wusugong_1689_yanjingming,1,0,1,0,1,,ONSET 1689 first-person living pair for books. years_after=0. Death 1699 != tip. hard=False. WAVE27 new.,False
+sim_yu,1680,high,simyu_1680_kanshu,1,0,1,0,1,,ONSET 1680 first-person living reading wear. years_after=0. Death 1688 != tip. hard=False. WAVE27 new.,False
+li_fu,1721,high,lifu_1721_xueyi,1,0,1,0,1,,ONSET 1721 first-person living pair for poetry/Yijing. years_after=0. Death 1750 != tip. hard=False. WAVE27 new.,False
+ji_maiyi,1748,high,jimaiyi_1748_bingye,1,0,1,0,1,,ONSET 1748 first-person living pair for night writing/阁帖. years_after=0. Death unlocked != tip. hard=False. WAVE27 new.,False
+hu_shian,1653,high,hushian_1653_yingtou,1,0,1,0,1,,ONSET 1653 first-person late-life writing pair. years_after=0. Death 1663 != tip. hard=False. WAVE27 new.,False
+cao_rong,1678,high,caorong_1678_wuche,1,0,1,0,1,,ONSET 1678 living one-pair request for books. years_after=0. Death 1685 != tip. hard=False. WAVE27 new.,False
+zhou_lianggong,1664,high,zhoulianggong_1664_zuozi,1,0,1,0,1,,ONSET 1664 first-person living pair for lamp and daylight writing. years_after=0. Death 1672 != tip. hard=False. WAVE27 new.,False
+wu_nongxiang,1683,high,wunongxiang_1683_yingtou,1,0,1,0,1,,ONSET 1683 first-person living gifted pair for lamp/desk reading-writing. years_after=0. Death 1708 != tip. hard=False. WAVE27 new.,False
+dong_deqi,1678,high,dongdeqi_1678_weizhong,1,0,1,0,1,,ONSET 1678 first-person living nephew pair for exam-hall reading/writing. years_after=0. Death unlocked != tip. hard=False. WAVE27 new.,False
+tian_mai,1721,high,tianmai_1721_baojuan,1,0,1,0,1,,ONSET 1721 first-person living pair for 把卷 and lamp-lit reading. years_after=0. Death 1730 != tip. hard=False. WAVE27 new.,False
+chao_kui,1686,high,chaokui_1686_jiazhu,1,0,1,0,1,,ONSET 1686 living imperial pair for 夹注 reading. years_after=0. Death unlocked != tip. hard=False. WAVE27 new.,False
+wang_shu,1726,high,wangshu_1726_zuozi,1,0,1,0,1,,ONSET 1726 first-person living pair for calligraphy. years_after=0. Death 1743 != tip. hard=False. WAVE27 new.,False
+wu_zhuang,1739,high,wuzhuang_1739_guanshu,1,0,1,0,1,,ONSET 1739 first-person living pair for 观书. years_after=0. Death unlocked != tip. hard=False. WAVE27 new.,False
+wu_zongda,1631,high,wuzongda_1631_xizi,1,0,1,0,1,,ONSET 1631 first-person living pair for 细字 and 章奏. years_after=0. Death 1636 != tip. hard=False. WAVE27 new.,False
+hayashi_dokkosai,1653,high,dokkosai_1653_zhaoshu,1,0,1,0,1,,ONSET 1653 first-person living pair for 照书. years_after=0. Death 1661 != tip. hard=False. WAVE27 new.,False
+zhao_yu,1739,high,zhaoyu_1739_mianshu,1,0,1,0,1,,ONSET 1739 first-person living pair for bed-reading and 细字. years_after=0. Death 1747 != tip. hard=False. WAVE27 new.,False
+yunli,1735,high,yunli_1735_cishu,1,0,1,0,1,,ONSET 1735 first-person living imperial pair for 赐书. years_after=0. Death 1738 != tip. hard=False. WAVE27 new.,False
+hayashi_gaho,1667,high,gaho_1667_xizi,1,0,1,0,1,,ONSET 1667 first-person living pair for 细字. years_after=0. Death 1680 != tip. hard=False. WAVE27 new.,False
+hua_huanfang,1713,high,huanfang_1713_yili,1,0,1,0,1,,ONSET 1713 first-person living wear for reading 诗文. years_after=0. Death 1717 != tip. hard=False. WAVE27 new.,False
+gao_qizhuo,1724,high,qizhuo_1724_dui,1,0,1,0,1,,ONSET 1724 living two-pair imperial gift. years_after=0. Death 1738 != tip. hard=False. WAVE27 new.,False
+liu_fang,1707,high,liufang_1707_ban,1,0,1,0,1,,ONSET 1707 living half-pair crystal order. years_after=0. Death 1713 != tip. hard=False. WAVE27 new.,False
+lin_ji,1719,high,linji_1719_wanzi,1,0,1,0,1,,ONSET 1719 first-person living pair for 玩字. years_after=0. No OA death. hard=False. WAVE27 new.,False
+deng_zhimo,1614,high,dengzhimo_1614_qiuhhao,1,0,1,0,1,,ONSET 1614 first-person living gifted pair for 秋毫. years_after=0. No invented birth/death. hard=False. WAVE27 new.,False
+bao_zhen,1732,high,baozhen_1732_bushi,1,0,1,0,1,,ONSET 1732 first-person living gifted pair for 簿书/文字雠. years_after=0. No invented death. hard=False. WAVE27 new.,False
+zhao_shenqiao,1707,high,shenqiao_1707_yixia,1,0,1,0,1,,ONSET 1707 living one-box imperial glass pair. years_after=0. Death 1720 != tip. hard=False. WAVE27 new.,False
+zhang_boxing,1707,high,boxing_1707_yimei,1,0,1,0,1,,ONSET 1707 living one-piece imperial pair. years_after=0. Death 1725 != tip. hard=False. WAVE27 new.,False
+tongxian,1662,high,tongxian_1662_xizi,1,0,1,0,1,,ONSET 1662 first-person Western pair for 细字/运笔. years_after=0. Death 1667 != tip. hard=False. WAVE27 new.,False
+wang_zunyi,1719,high,wangzunyi_1719_jingang,1,0,1,0,1,,ONSET 1719 first-person pair for 金刚经 copying. years_after=0. Death 1734 != tip. hard=False. WAVE27 new.,False
+gao_shiqi,1700,high,gaoshiqi_1700_yanjing,1,0,1,0,1,,ONSET 1700 living imperial pair in a Kangxi gift-list. years_after=0. Death 1703 != tip. hard=False. WAVE27 new.,False
+zhang_tingyu,1735,high,tingyu_1735_yijing,1,0,1,0,1,,ONSET 1735 living leftover imperial pair. years_after=0. Death 1755 != tip. hard=False. WAVE27 new.,False
+han_wonjin,1742,high,hanwonjin_1742_sanjian,1,0,1,0,1,,ONSET 1742 first-person comparison of three living pairs. years_after=0. Death 1751 != tip. hard=False. WAVE27 new.,False
+yao_peiqian,1740,high,yaopeiqian_1740_suoyanjing,1,0,1,0,1,,ONSET 1740 living one-pair request for 蝇头 writing. years_after=0. Death 1766 != tip. hard=False. WAVE27 new.,False
+luo_tianchi,1736,high,luotianchi_1736_shengtou,1,0,1,0,1,,ONSET 1736 living gifted myopia pair for desk 绳头 reading. years_after=0. Death unlocked != tip. hard=False. WAVE27 new.,False
+song_he,1706,high,songhe_1706_daiyanjing,1,0,1,0,1,,ONSET 1706 first-person living wear in a 细书 letter. years_after=0. Death unlocked != tip. hard=False. WAVE27 new.,False
+shang_chongnian,1705,high,shangchongnian_1705_yijing,1,0,1,0,1,,ONSET 1705 living imperial pair in a Kangxi gift-list. years_after=0. Death 1709 != tip. hard=False. WAVE27 new.,False
+ishikawa_jozan,1659,high,jozan_1659_aidai,1,0,1,0,1,,ONSET 1659 first-person living pair for 读书/蝇头. years_after=0. Death 1672 != tip. hard=False. WAVE27 new.,False
+liang_wenlian,1747,high,liangwenlian_1747_xizi,1,0,1,0,1,,ONSET 1747 living gifted pair for 细字/月下 reading. years_after=0. Death 1758 != tip. hard=False. WAVE27 new.,False
+ito_jinsai,1702,high,jinsai_1702_aidai,1,0,1,0,1,,ONSET 1702 first-person living pair for night 读书. years_after=0. Death 1705 != tip. hard=False. WAVE27 new.,False
+yi_haechang,1650,high,haechang_1650_yingtou,1,0,1,0,1,,ONSET 1650 first-person household-object 蝇头 wear. years_after=0. Death 1655 != tip. hard=False. WAVE27 new.,False
+yi_jeongsin,1721,high,jeongsin_1721_yanxing,1,0,1,0,1,,ONSET 1721 first-person living pair on official 燕行. years_after=0. Death 1727 != tip. hard=False. WAVE27 new.,False
+weng_yi,1669,high,wengyi_1669_langsong,1,0,1,0,1,,ONSET 1669 third-party eyewitness of named living reading wear. years_after=0. Unlocked death != tip. hard=False. WAVE27 new.,False
+bian_lianbao,1758,high,bianlianbao_1758_yingtou,1,0,1,0,1,,ONSET 1758 living gifted 水晶眼镜 for 蝇头 writing. years_after=0. Death 1772 != tip. hard=False. WAVE27 new.,False
+shen_deqian,1764,high,shendeqian_1764_jingguang,1,0,1,0,1,,ONSET 1764 first-person living crystal wear for age-dimmed pupils. years_after=0. Death 1769 != tip. hard=False. WAVE27 new.,False
+fu_zeng,1749,high,fuzeng_1749_hunyi,1,0,1,0,1,,ONSET 1749 first-person living wear restoring age-dimmed pupils. years_after=0. Death 1764 != tip. hard=False. WAVE27 new.,False
+wang_cairen,1738,high,wangcairen_1738_chou,1,0,1,0,1,,ONSET 1738 first-person living wear for 雠书. years_after=0. Death 1739 != tip. hard=False. WAVE27 new.,False
+smith_william_melsonby,1710,high,smith_1710_sermon,1,0,1,0,1,,ONSET 1710 first-person living wear for parish reading/sermon-writing. years_after=0. Death 1735 != tip. hard=False. WAVE27 new.,False
+liu_dexin,1703,high,liudexin_1703_zhan,1,0,1,0,1,,ONSET 1703 living imperial pair with first-person 展视. years_after=0. Unlocked death != tip. hard=False. WAVE27 new.,False
+wen_kangyi,1680,high,wenkangyi_1680_pilan,1,0,1,0,1,,ONSET 1680 first-person living wear of gifted 存目镜 for 披览诵读. years_after=0. Unlocked death != tip. hard=False. WAVE27 new.,False
+he_zhuo,1703,high,hezhuo_1703_jiusi,1,0,1,0,1,,ONSET 1703 living imperial 近视 pair with first-person 铭. years_after=0. Death 1722 != tip. hard=False. WAVE27 new.,False
+qin_shichang,1728,high,qinshichang_1728_yingtou,1,0,1,0,1,,ONSET 1728 first-person living pair for 焚膏溫舊業 / 字察蠅頭細. years_after=0. Death 1746 != tip. hard=False. WAVE27 new.,False
+huang_zhaochang,1717,high,huangzc_1717_guadai,1,0,1,0,1,,ONSET 1717 third-party eyewitness of living 目挂 copying wear. years_after=0. Death 1718 != tip. hard=False. WAVE27 new.,False
+wakabayashi_kyosai,1718,high,wakabayashi_1718_zhuyan,1,0,1,0,1,,ONSET 1718 third-party eyewitness of living 著眼鏡. years_after=0. Death 1723 != tip. hard=False. WAVE27 new.,False
+gao_qipei,1728,high,gaoqipei_1728_linmo,1,0,1,0,1,,ONSET 1728 third-party eyewitness of living 懸眼鏡 copying. years_after=0. Death 1734 != tip. hard=False. WAVE27 new.,False
+hanxiu_ruqian,1683,high,hanxiu_1683_nengshu,1,0,1,0,1,,ONSET 1683 first-person living pair for writing. years_after=0. Unlocked death != tip. hard=False. WAVE27 new.,False
+yi_cheolbo,1765,high,yicheolbo_1765_zhuoyan,1,0,1,0,1,,ONSET 1765 third-party son eyewitness of living 着眼鏡. years_after=0. Unlocked death != tip. hard=False. WAVE27 new.,False
+yi_bohyeok,1761,high,yibohyeok_1761_zhuoyan,1,0,1,0,1,,ONSET 1761 third-party son eyewitness of living 着眼鏡. years_after=0. Death 1762 != tip. hard=False. WAVE27 new.,False
+yi_cheon,1709,high,yicheon_1709_fanyue,1,0,1,0,1,,ONSET 1709 third-party eyewitness of living 繙閱 wear of inherited pair. years_after=0. Death 1710 != tip. hard=False. WAVE27 new.,False
+graffigny,1739,high,graffigny_1739_ecrire,1,0,1,0,1,,ONSET 1739 first-person living wear while writing. years_after=0. Death 1758 != tip. hard=False. WAVE27 new.,False
+wei_kun,1695,high,weikun_1695_shuxu,1,0,1,0,1,,ONSET 1695 first-person living 書許十行澄 wear of a kept glass pair. years_after=0. Death 1705 != tip. hard=False. WAVE27 new.,False
+bak_gyumun,1732,high,bakgyumun_1732_guajing,1,0,1,0,1,,ONSET 1732 first-person living 掛鏡看字 for 登對讀啓. years_after=0. Death 1741 != tip. hard=False. WAVE27 new.,False
+yi_imyeong,1721,high,yiimyeong_1721_guajing,1,0,1,0,1,,ONSET 1721 first-person living 掛鏡 while reading volumes at night. years_after=0. Death 1722 != tip. hard=False. WAVE27 new.,False

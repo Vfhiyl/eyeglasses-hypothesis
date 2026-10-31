@@ -18,19 +18,19 @@ Whole-roster 0–100 scores so mid/low tiers stay visible. Strict-sharp
 | 20–39 | YA≈0 / inventory-only / single pin |
 | 0–19 | Unmeasured / no local chrono |
 
-**Rows:** 203 (full roster). **With episode:** 60.
+**Rows:** 386 (full roster). **With episode:** 263.
 
 ## Band counts
 
 | Band | n |
 |------|--:|
-| 95-100 | 2 |
-| 85-94 | 2 |
-| 70-84 | 54 |
+| 95-100 | 4 |
+| 85-94 | 6 |
+| 70-84 | 251 |
 | 55-69 | 0 |
-| 40-54 | 11 |
-| 20-39 | 121 |
-| 0-19 | 13 |
+| 40-54 | 30 |
+| 20-39 | 84 |
+| 0-19 | 11 |
 
 ## Wave 1 soft promotions (2026-08-22)
 
@@ -67,18 +67,18 @@ See `b1_lift_thin_tier_2026-08-22.md` — documented CLOSED/PIN floors for YA0/s
 
 | score | person_id | episode | verdict |
 |------:|-----------|---------|---------|
+| 97 | albrecht_prussia | albrecht_1542_order | ANALYZABLE_NOW |
 | 97 | cederni | cederni_1454_return | ANALYZABLE_NOW |
+| 97 | lipsius_justus | lipsius_1602_order | ANALYZABLE_NOW |
 | 97 | spataro_giovanni | spataro_1532_return | ANALYZABLE_NOW |
+| 90 | ammannati | ammannati_1473_order | ANALYZABLE_NOW |
+| 90 | august_brunswick_wolfenbuettel | august_1630_order | ANALYZABLE_NOW |
+| 90 | barbara_brandenburg | barbara_1466_order | ANALYZABLE_NOW |
+| 90 | policastro | policastro_1460_order | ANALYZABLE_NOW |
 | 88 | datini | datini_1400_order | ANALYZABLE_NOW |
 | 88 | knut_bosson | bosson_1415_broken | ANALYZABLE_NOW |
 | 76 | adams_john | adams_1783_selfreport | SOFT_SELF_REPORT |
-| 76 | albrecht_prussia | albrecht_1542_order | SOFT_ORDER |
+| 76 | adelmann_bernhard | adelmann_1521_order | SOFT_ORDER |
 | 76 | alessandra_strozzi | alessandra_1465_selfreport | ANALYZABLE_NOW |
-| 76 | ammannati | ammannati_1473_order | SOFT_ORDER |
-| 76 | ardingelli_bese | ardingelli_1451_purchase | SOFT_ORDER |
-| 76 | august_brunswick_wolfenbuettel | august_1630_order | SOFT_ORDER |
-| 76 | azevedo_joao_porto | azevedo_1476_order | SOFT_ORDER |
-| 76 | barbara_brandenburg | barbara_1466_order | SOFT_ORDER |
-| 76 | bianca_maria | bianca_maria_1462_use | SOFT_SELF_REPORT |
-| 76 | blundell_nicholas | blundell_1722_selfreport | SOFT_SELF_REPORT |
-| 76 | bourchier_henry_bath | bourchier_1646_purchase | SOFT_ORDER |
+| 76 | anethan_johann | anethan_1642_order | SOFT_ORDER |
+| 76 | appiani_madre | appiani_1464_order | SOFT_ORDER |

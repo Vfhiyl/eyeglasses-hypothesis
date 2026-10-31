@@ -1,0 +1,4 @@
+person_id,date,kind,note,source
+jiang_cao_shi,1644,birth,"ESTIMATED birth ~1644: son Jiang Tingxi b.1669; 年老眼昏 in 1703 implies ~age 59. If later exact birth appears, replace.",蒋廷锡年谱 inference; 郎潜纪闻二笔
+jiang_cao_shi,1703,living_order_letter,"康熙癸未: 赐少宗伯孙岳颁晶镜，又闻臣母曹氏年老眼昏，亦赐之. ONSET named living imperial gift for aged dim sight (蒋文肃母曹氏).",陈康祺 郎潜纪闻二笔
+jiang_cao_shi,1726,death_terminus_not_ya,Died ~1726 (丁未 1727 服未除). Survival bound only — do not use as labor tip.,蒋廷锡乡试服制

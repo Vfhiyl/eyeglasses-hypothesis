@@ -1,0 +1,4 @@
+person_id,date,kind,note,source
+rodrigues_jeronimo,1551,birth_estimated,"Birth ESTIMATED 1551 from octogenarian death 1631 (Leite / Guerreiro circle). No OA WD QID. On birth<1700 filter via the age statement.",Leite Novas Cartas Jesuiticas; Guerreiro Relacao anual
+rodrigues_jeronimo,1605-03,self_report_wear,"Descending the serra after leaving Santos 27 Mar 1605: me cairam os oculos do nariz… quebrando-se ambos os vidros… estou cego sem eles. ONSET first-person broken pair (gift of Cristovao de Gouveia).",Leite Novas Cartas Jesuiticas 1940 p.200; IA novascartasjesui00leit
+rodrigues_jeronimo,1631,death_terminus_not_ya,Died 1631 Reritiba octogenarian. Survival bound only — do not use as labor tip.,Leite / Jesuit catalogs

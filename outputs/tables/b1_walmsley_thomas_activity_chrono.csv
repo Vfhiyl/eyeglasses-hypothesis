@@ -1,0 +1,4 @@
+person_id,date,kind,note,source
+walmsley_thomas,1537-01-01,birth,Born 1537.,Wikidata Q7794851; DNB / enwiki
+walmsley_thomas,1598-12-14,gift_receipt,"Will of Sir Matthew Arundell of Wardour 14 Dec 41 Eliz.: To Justice Walmeslowe [=Walmesley?] my gold spectacles. Recipient living (JCP from 1589; d.1612). ONSET living pin 1598.",TNA PROB 11/93/86 f.82v; Nina Green transcription
+walmsley_thomas,1612-11-26,death_terminus_not_ya,Died 26 Nov 1612. Survival bound only — do not use as labor tip.,Wikidata Q7794851 P570

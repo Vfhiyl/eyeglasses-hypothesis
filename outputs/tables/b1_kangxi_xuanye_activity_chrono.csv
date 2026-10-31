@@ -1,0 +1,4 @@
+person_id,date,kind,note,source
+kangxi_xuanye,1654-05-04,birth,Born 4 May 1654. WD Q17790 P569.,Wikidata Q17790
+kangxi_xuanye,1703-02,third_party_eyewitness_wear,"Song Luo Yingluan erji (Kangxi 42 / 癸未 spring): 比以備用者不佳即以所現佩者賜爾. Named eyewitness that Kangxi took off the pair he was wearing and gave it to Song. ONSET living personal wear. Do not count 千里鏡.",Song Luo Yingluan riji vol.2 (Shidianguji CADAL02084818); NPM 巧心究西法
+kangxi_xuanye,1722-12-20,death_terminus_not_ya,Died 20 Dec 1722. Survival bound only — do not use as labor tip.,Wikidata Q17790 P570

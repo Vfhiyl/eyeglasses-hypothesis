@@ -1,0 +1,4 @@
+person_id,date,kind,note,source
+he_zhuo,1661,birth,Born 1661. WD Q10886328.,https://www.wikidata.org/wiki/Q10886328
+he_zhuo,1703,living_order_letter,"义门先生集 2 御赐近视眼镜铭 (ctext library file=105569 p.98–99): 虞廷明四目。汉祖见万里。依我日月光。九思此焉始. Same juan 普济堂记: 癸未岁祗直南书房. ONSET living imperial 近视 pair; first-person 我 / 九思. Pin 康熙癸未 / 1703 from the OA 南书房 cluster in the same juan, not death 1722. Do not count Kangxi. Shidian 7620375854698201115 juan 2 is TOC-only.",https://ctext.org/library.pl?if=gb&file=105569&page=99
+he_zhuo,1722,death_terminus_not_ya,Died 1722. Survival bound only — do not use as labor tip.,https://www.wikidata.org/wiki/Q10886328

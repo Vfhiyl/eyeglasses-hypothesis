@@ -1,0 +1,5 @@
+person_id,date,kind,note,source
+senhouse_william,1487-01-01,gift_receipt,John Carre of York will bequeaths a silver-gilt pair to the abbot of St Mary's. Abbot then was William Senhouse.,Testamenta Eboracensia; john_carre_york already rostered
+senhouse_william,1495-09-04,office_carlisle,Selected Bishop of Carlisle 4 Sep 1495; consecrated 1496. LABOR TIP years_after=8 from 1487.,Handbook of British Chronology; WD Q8018276
+senhouse_william,1502-06-27,office_durham,Translated to Durham 27 Jun 1502.,Handbook of British Chronology
+senhouse_william,1505-01-01,death_terminus_not_ya,Died 1505. Survival bound only — do not use as labor tip.,Wikidata Q8018276

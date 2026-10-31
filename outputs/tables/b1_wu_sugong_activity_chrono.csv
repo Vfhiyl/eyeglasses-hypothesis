@@ -1,0 +1,4 @@
+person_id,date,kind,note,source
+wu_sugong,1626,birth,Born 1626. Ctext/WD Q45587512. 街南文集 宣城吳肅公晴嵓氏著.,https://www.wikidata.org/wiki/Q45587512
+wu_sugong,1689,self_report_wear,街南文集 20 眼鏡銘: 孰使予盲，而汝也明，孰役孰宰，而予汝相，倚爲形神。又：雖徑寸之珠，無踰乘車…胡察察者其書. ONSET first-person living pair for books. Pin 1689 from Kangxi 28 / 吳承勵貞隱堂刻本. Do not count 張兩水眼鏡銘. Do not tip to death 1699.,https://www.shidianguji.com/book/NA11659/chapter/1m2y9f33fovff
+wu_sugong,1699,death_terminus_not_ya,Died 1699. Ctext/WD Q45587512. Survival bound only — do not use as labor tip.,https://www.wikidata.org/wiki/Q45587512

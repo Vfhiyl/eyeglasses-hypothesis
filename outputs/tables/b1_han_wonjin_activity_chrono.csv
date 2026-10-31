@@ -1,0 +1,4 @@
+person_id,date,kind,note,source
+han_wonjin,1682,birth,Born 1682. 南塘集 / Korean literary biography. Do not invent a Wikidata QID.,南塘集 author dates
+han_wonjin,1742,self_report_wear,南塘集 13 再答尹瑞膺 壬戌正月 (ITKC ITKC_MO_0491A_0130_010_0130): 甞得眼鏡三面而較之。一則近視明而遠視不明。一則近視不甚明而遠視却明。一則遠近之視皆不及他鏡. ONSET first-person comparison of three living pairs for near and far. Pin 壬戌正月 / 1742 (only adult 壬戌 in 1682–1751). The 答金子静 壬戌十一月 眼鏡未照/既照 passage is a 未发 analogy — do not use it as the wear pin. Do not tip to death 1751.,https://db.itkc.or.kr/m/dir/view?dataId=ITKC_MO_0491A_0130_010_0130&gubun=book&itemId=MO
+han_wonjin,1751,death_terminus_not_ya,Died 1751. Survival bound only — do not use as labor tip.,南塘集 author dates

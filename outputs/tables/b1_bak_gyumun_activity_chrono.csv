@@ -1,0 +1,4 @@
+person_id,date,kind,note,source
+bak_gyumun,1670,birth,Born 1670. 디지털부천문화대전 GC01601217 생년 1670년 2월 26일[음] / 몰년 1741년 9월 8일. Cross-check: 숙종 22 (1696) 진사 27세 → 1670. No OA QID.,https://www.grandculture.net/bucheon/toc/GC01601217
+bak_gyumun,1732,self_report_wear,"SJW 英祖 8.5.6 掌令朴奎文疏: 且臣十數年前，重患眼病，幾乎失明，及至衰耄，阿睹昏瞀，掛鏡看字，猶不分明，則若其登對讀啓之際. ONSET first-person living 掛鏡看字 for official 登對讀啓. Pin 1732. Do not count 英祖. Do not invent QID.",https://sjw.history.go.kr/id/SJW-F08050060
+bak_gyumun,1741,death_terminus_not_ya,Died 1741-09-08 (디지털부천문화대전). Survival bound only — do not use as labor tip.,https://www.grandculture.net/bucheon/toc/GC01601217
